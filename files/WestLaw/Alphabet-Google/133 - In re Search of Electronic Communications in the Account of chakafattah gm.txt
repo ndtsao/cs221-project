@@ -1,0 +1,1027 @@
+
+
+
+
+
+In re Search of Electronic Communications in the Account of chakafattah gmail.com at Internet Service Provider Google, Inc.
+United States Court of Appeals, Third Circuit. | September 2, 2015 | 802 F.3d 516 | 2015 WL 5131568
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Follow by Securities and Exchange Commission v. Committee on Ways and Means of the U.S. House of Representatives, S.D.N.Y., November 13, 2015
+
+standard Citation:
+
+In re Search of Elec. Commc’ns in the Account of chakafattah gmail.com at Internet Serv. Provider Google, Inc., 802 F.3d 516 (3d Cir. 2015)
+
+All Citations:
+
+802 F.3d 516
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Pennsylvania
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Follow by Securities and Exchange Commission v. Committee on Ways and Means of the U.S. House of Representatives, S.D.N.Y., November 13, 2015
+802 F.3d 516
+United States Court of Appeals,
+Third Circuit.
+In the Matter of the SEARCH OF ELECTRONIC COMMUNICATIONS (Both Sent and Received) IN THE ACCOUNT OF CHAKAFATTAH@GMAIL.COM AT INTERNET SERVICE PROVIDER GOOGLE, INC.
+Chaka Fattah, Appellant.
+No. 14–3752.
+|
+Argued: Jan. 12, 2015.
+|
+Opinion Filed: Sept. 2, 2015.
+Synopsis
+Background: Federal grand jury initiated investigation that centered on whether United States Congressman violated federal criminal laws relating to fraud, extortion, and bribery. The United States District Court for the Eastern District of Pennsylvania, Paul S. Diamond, J., granted Congressman’s motion to intervene, but denied his motion to quash warrant to search his e-mail account. Congressman noticed appeal, and Court of Appeals granted Congressman’s motion for status quo order and for stay of district court’s order pending appeal.
+ 
+Holdings: The Court of Appeals, Fuentes, Circuit Judge, held that:
+ 
+[1] district court’s order conclusively determined disputed issue;
+ 
+[2] order did not resolve important question completely separate from merits;
+ 
+[3] claim by Congressman under Speech or Debate Clause was not completely separate from merits;
+ 
+[4] order was effectively reviewable on appeal;
+ 
+[5] evidentiary privilege under Speech or Debate Clause did not prohibit disclosure of evidentiary records to government during course of investigation of Congressman;
+ 
+[6] Perlman doctrine required legally cognizable privilege to be at issue;
+ 
+[7] Perlman doctrine provided jurisdiction to review merits of claims under attorney–client privilege and work–product doctrine regarding inadequate filtering procedures; and
+ 
+[8] adequate filtering procedures for attorney–client privilege and work–product doctrine with regard to search pursuant to warrant of e-mail in possession of disinterested third-party required first level of review to be conducted by independent Department of Justice attorney acceptable to district court.
+ 
+Appeal dismissed, and remanded.
+ 
+Ambro, Circuit Judge, filed opinion dissenting in part.
+ 
+
+
+West Headnotes (27)
+
+
+[1]
+
+MandamusExistence and Adequacy of Other Remedy in General
+MandamusNature and existence of rights to be protected or enforced
+
+
+250Mandamus
+250INature and Grounds in General
+250k3Existence and Adequacy of Other Remedy in General
+250k3(1)In general
+250Mandamus
+250INature and Grounds in General
+250k10Nature and existence of rights to be protected or enforced
+
+
+Mandamus is an extraordinary remedy, available only where (1) there is no other adequate means to attain the relief sought; (2) the right to issuance of the writ is clear and indisputable; and (3) the issuing court is satisfied that the writ is appropriate under the circumstances.
+Cases that cite this headnote
+
+
+
+[2]
+
+Criminal LawFinality of determination in general
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(2)Finality of determination in general
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Although final appealable decisions typically are ones that trigger the entry of judgment, they also include a small set of prejudgment orders that are collateral to the merits of an action and too important to be denied immediate review. 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[3]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Under the collateral order doctrine, a prejudgment order is immediately appealable if it: (1) conclusively determines the disputed question; (2) resolves an important issue completely separate from the merits of the case; and (3) is effectively unreviewable on appeal from a final judgment. 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[4]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Court of Appeals narrowly construes the exception created by collateral order doctrine to the rule that a prejudgment order is not immediately appealable, taking into account that a party is entitled to a single appeal, to be deferred until final judgment has been entered, in which claims of district court error at any stage of the litigation may be ventilated. 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[5]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+District court’s order denying motion by United States Congressman to quash unexecuted warrant to search his e-mail account conclusively determined disputed issue under Speech or Debate Clause of whether search warrant could be executed, as required for that prejudgment order to be immediately appealable under collateral order doctrine. U.S.C.A. Const. Art. 1, § 6, cl. 1; U.S.C.A. Const.Amend. 4; 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[6]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+District court’s prejudgment order denying motion by United States Congressman under Speech or Debate Clause to quash unexecuted warrant to search his e-mail account did not resolve important question completely separate from federal grand jury’s investigation that centered on whether Congressman had violated federal criminal laws relating to fraud, extortion, and bribery, and thus order was not immediately appealable under collateral order doctrine; although indictment had not been returned, Speech or Debate Clause did not provide privilege of non-disclosure. U.S.C.A. Const. Art. 1, § 6, cl. 1; U.S.C.A. Const.Amend. 4; 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[7]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Under the collateral order doctrine, an issue is important if the interests that would potentially go unprotected without immediate appellate review are significant relative to efficiency interests sought to be advanced by adherence to the final judgment rule. 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[8]
+
+United StatesSpeech or debate
+
+
+393United States
+393IStatus, Powers, and Functions in General
+393I(B)Legislative Branch;  Congress
+393k212Members of Congress;  Senators and Representatives
+393k220Rights, Privileges, Duties, and Liabilities of Members
+393k220(4)Speech or debate
+
+
+Prohibition under the Speech or Debate Clause against evidentiary “use” of records does not apply to disclosure of records to the government in the course of an investigation. U.S.C.A. Const. Art. 1, § 6, cl. 1.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Claim by United States Congressman under Speech or Debate Clause to quash unexecuted warrant to search his e-mail account was not completely separate from federal grand jury’s investigation that centered on whether Congressman had violated federal criminal laws relating to fraud, extortion, and bribery, and thus prejudgment order denying motion to quash was not immediately appealable under collateral order doctrine, since fruits of search warrant could become part of criminal prosecution; claim did not challenge authority of government to prosecute Congressman. U.S.C.A. Const. Art. 1, § 6, cl. 1; U.S.C.A. Const.Amend. 4; 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[10]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Requirements for collateral appeal are particularly “stringent” in the criminal context because the delays and disruptions attendant upon intermediate appeal, which the rule is designed to avoid, are especially inimical to the effective and fair administration of the criminal law. 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[11]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+District court’s prejudgment order denying motion by United States Congressman under Speech or Debate Clause to quash unexecuted warrant to search his e-mail account was effectively reviewable on appeal, and thus order was not immediately appealable under collateral order doctrine, since Clause did not provide privilege of non-disclosure; Clause provided privilege of non-use when applied to documents, but government was not prohibited from accessing documents. U.S.C.A. Const. Art. 1, § 6, cl. 1; 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[12]
+
+United StatesSpeech or debate
+
+
+393United States
+393IStatus, Powers, and Functions in General
+393I(B)Legislative Branch;  Congress
+393k212Members of Congress;  Senators and Representatives
+393k220Rights, Privileges, Duties, and Liabilities of Members
+393k220(4)Speech or debate
+
+
+Evidentiary privilege under Speech or Debate Clause did not prohibit disclosure of evidentiary records to government during course of investigation of United States Congressman. U.S.C.A. Const. Art. 1, § 6, cl. 1.
+2 Cases that cite this headnote
+
+
+
+[13]
+
+Federal CourtsPreliminary proceedings;  depositions and discovery
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)2Particular Decisions, Matters, or Questions as Reviewable
+170Bk3305Preliminary proceedings;  depositions and discovery
+
+
+Under the Perlman doctrine, a discovery order aimed at a third party may be immediately appealed on the theory that the third party will not risk contempt by refusing to comply.
+Cases that cite this headnote
+
+
+
+[14]
+
+ContemptDecisions reviewable
+Federal CourtsPreliminary proceedings;  depositions and discovery
+
+
+93Contempt
+93IIPower to Punish, and Proceedings Therefor
+93k66Appeal or Error
+93k66(2)Decisions reviewable
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)2Particular Decisions, Matters, or Questions as Reviewable
+170Bk3305Preliminary proceedings;  depositions and discovery
+
+
+Disclosure orders are not final appealable orders; rather, to obtain immediate appellate review, a privilege holder must disobey the court’s order, be held in contempt, and then appeal the contempt order, which is considered a final order. 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[15]
+
+Federal CourtsPreliminary proceedings;  depositions and discovery
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)2Particular Decisions, Matters, or Questions as Reviewable
+170Bk3305Preliminary proceedings;  depositions and discovery
+
+
+Under the Perlman doctrine, when privileged information is controlled by a disinterested third party who is likely to comply with a discovery request rather than be held in contempt for the sake of an immediate appeal, a litigant asserting a legally cognizable privilege may timely appeal an adverse disclosure order.
+Cases that cite this headnote
+
+
+
+[16]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Perlman doctrine that allowed for appeal of prejudgment orders to protect privilege holders from disclosure of privileged materials by a disinterested third-party required legally cognizable privilege to be at issue. 28 U.S.C.A. § 1291.
+Cases that cite this headnote
+
+
+
+[17]
+
+United StatesSpeech or debate
+
+
+393United States
+393IStatus, Powers, and Functions in General
+393I(B)Legislative Branch;  Congress
+393k212Members of Congress;  Senators and Representatives
+393k220Rights, Privileges, Duties, and Liabilities of Members
+393k220(4)Speech or debate
+
+
+Speech or Debate Clause encompasses three main protections, it: (1) bars civil and criminal liability for “legislative acts”; (2) guarantees that a Member, or his alter ego, may not be made to answer questions about his legislative acts; and (3) bars the use of legislative-act evidence against a Member. U.S.C.A. Const. Art. 1, § 6, cl. 1.
+1 Cases that cite this headnote
+
+
+
+[18]
+
+United StatesSpeech or debate
+
+
+393United States
+393IStatus, Powers, and Functions in General
+393I(B)Legislative Branch;  Congress
+393k212Members of Congress;  Senators and Representatives
+393k220Rights, Privileges, Duties, and Liabilities of Members
+393k220(4)Speech or debate
+
+
+To the extent that the Speech or Debate Clause creates a testimonial privilege as well as a use immunity, it does so only for the purpose of protecting the legislator and those intimately associated with him in the legislative process from the harassment of hostile questioning. U.S.C.A. Const. Art. 1, § 6, cl. 1.
+Cases that cite this headnote
+
+
+
+[19]
+
+United StatesSpeech or debate
+
+
+393United States
+393IStatus, Powers, and Functions in General
+393I(B)Legislative Branch;  Congress
+393k212Members of Congress;  Senators and Representatives
+393k220Rights, Privileges, Duties, and Liabilities of Members
+393k220(4)Speech or debate
+
+
+Purpose of the Speech or Debate Clause is to protect the individual legislator, not simply for his own sake, but to preserve the independence and thereby the integrity of the legislative process; that is, the Clause was meant to free the legislator from the executive and judicial oversight that realistically threatens to control his conduct as a legislator. U.S.C.A. Const. Art. 1, § 6, cl. 1.
+2 Cases that cite this headnote
+
+
+
+[20]
+
+United StatesSpeech or debate
+
+
+393United States
+393IStatus, Powers, and Functions in General
+393I(B)Legislative Branch;  Congress
+393k212Members of Congress;  Senators and Representatives
+393k220Rights, Privileges, Duties, and Liabilities of Members
+393k220(4)Speech or debate
+
+
+Crux of Speech or Debate Clause is to prevent intimidation by the executive and accountability for legislative acts before a possibly hostile judiciary; however, it does not shelter a Member of Congress from potential criminal responsibility. U.S.C.A. Const. Art. 1, § 6, cl. 1.
+1 Cases that cite this headnote
+
+
+
+[21]
+
+Criminal LawPreliminary or interlocutory orders in general
+United StatesSpeech or debate
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+393United States
+393IStatus, Powers, and Functions in General
+393I(B)Legislative Branch;  Congress
+393k212Members of Congress;  Senators and Representatives
+393k220Rights, Privileges, Duties, and Liabilities of Members
+393k220(4)Speech or debate
+
+
+Perlman doctrine that allows for appeal of prejudgment orders to protect privilege holders from disclosure of privileged materials by a disinterested third-party does not apply to the Speech or Debate Clause with respect to records disclosed to the government in the course of an investigation; the Speech or Debate Clause does not prohibit the disclosure of privileged documents, but instead forbids the evidentiary use of such documents. U.S.C.A. Const. Art. 1, § 6, cl. 1.
+2 Cases that cite this headnote
+
+
+
+[22]
+
+Federal CourtsPreliminary proceedings;  depositions and discovery
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)2Particular Decisions, Matters, or Questions as Reviewable
+170Bk3305Preliminary proceedings;  depositions and discovery
+
+
+Perlman doctrine that allowed for appeal of prejudgment orders to protect privilege holders from disclosure of privileged materials by a disinterested third-party provided jurisdiction to review merits of claims under attorney–client privilege and work–product doctrine regarding inadequate filtering procedures in response to warrant to search e-mail account in possession of disinterested third-party. U.S.C.A. Const.Amend. 4.
+Cases that cite this headnote
+
+
+
+[23]
+
+Criminal LawWork product
+Privileged Communications and ConfidentialityDetermination
+
+
+110Criminal Law
+110XXTrial
+110XX(A)Preliminary Proceedings
+110k627.5Discovery Prior to and Incident to Trial
+110k627.5(6)Work product
+311HPrivileged Communications and Confidentiality
+311HIIIAttorney-Client Privilege
+311Hk175Determination
+311Hk176In general
+
+
+Adequate filtering procedures for attorney–client privilege and work–product doctrine with regard to warrant to search e-mail account in possession of disinterested third-party required first level of review to be conducted by independent Department of Justice attorney acceptable to district court. U.S.C.A. Const.Amend. 4.
+Cases that cite this headnote
+
+
+
+[24]
+
+Criminal LawRemand for Determination or Reconsideration of Particular Matters
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(U)Determination and Disposition of Cause
+110k1181.5Remand in General;  Vacation
+110k1181.5(3)Remand for Determination or Reconsideration of Particular Matters
+110k1181.5(3.1)In general
+
+
+Remand was required for district court in first instance to consider target’s arguments regarding structure of process for review of attorney–client privilege and work–product doctrine with regard to warrant to search e-mail account in possession of disinterested third-party. U.S.C.A. Const.Amend. 4.
+Cases that cite this headnote
+
+
+
+[25]
+
+Criminal LawWork product
+Privileged Communications and ConfidentialityDetermination
+
+
+110Criminal Law
+110XXTrial
+110XX(A)Preliminary Proceedings
+110k627.5Discovery Prior to and Incident to Trial
+110k627.5(6)Work product
+311HPrivileged Communications and Confidentiality
+311HIIIAttorney-Client Privilege
+311Hk175Determination
+311Hk176In general
+
+
+Target’s arguments regarding the structure of the process for review of attorney–client privilege and work–product doctrine with regard to a warrant to search an e-mail account in possession of disinterested third-party are appropriately addressed by a district court in the first instance on a case-by-case basis. U.S.C.A. Const.Amend. 4.
+Cases that cite this headnote
+
+
+
+[26]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Denial of pre-indictment motion for return of property was not immediately appealable with regard to unexecuted warrant to search e-mail account, since government had yet to seize evidence sought to be returned. U.S.C.A. Const.Amend. 4; Fed.Rules Cr.Proc.Rule 41(g), 18 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[27]
+
+Criminal LawPreliminary or interlocutory orders in general
+
+
+110Criminal Law
+110XXIVReview
+110XXIV(C)Decisions Reviewable
+110k1021Decisions Reviewable
+110k1023Appealable Judgments and Orders
+110k1023(3)Preliminary or interlocutory orders in general
+
+
+Denial of a pre-indictment motion for the return of property is immediately appealable, only if the motion is: (1) solely for the return of property and (2) is in no way tied to an existing criminal prosecution against the movant. Fed.Rules Cr.Proc.Rule 41(g), 18 U.S.C.A.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*520 Luther E. Weaver III, Esq., Argued, Weaver & Associates, P.C., Philadelphia, PA, Attorneys for Appellant.
+Kerry W. Kircher, Esq., Argued, United States House of Representatives, Washington, D.C., Amicus Attorney Appellant Bipartisan Legal Advisory Group of the United States House of Representatives.
+Donald E. Wieand, Jr., Esq., Stevens & Lee, Bethlehem, PA, Amicus Attorney Appellant Google Inc.
+Zane David Memeger, Esq., Jack Smith, Esq., Robert A. Zauzmer, Esq., Argued, Eric L. Gibson, Esq., Paul L. Gray, Esq., United States Attorney’s Office for the Eastern District of Pennsylvania, Philadelphia, PA, Attorneys for Appellees.
+Before: AMBRO, FUENTES, and ROTH, Circuit Judges.
+
+
+OPINION OF THE COURT
+FUENTES, Circuit Judge.
+This case implicates the Speech or Debate Clause of the United States Constitution.1 The Government obtained a search *521 warrant to search the email account of Chaka Fattah, a United States Congressman. Fattah, along with the “Bipartisan Legal Advisory Group of the United States House of Representatives” (as amicus curiae ), challenged the unexecuted search warrant in the District Court primarily on Speech or Debate Clause grounds. Fattah now appeals the District Court’s order denying his motion to invalidate the unexecuted search warrant. Because an unexecuted search warrant is not separate from the merits of the case and is reviewable on appeal, if a defendant is convicted, it does not qualify for review under the collateral order doctrine. Therefore, we lack jurisdiction to review this unexecuted search warrant and we dismiss Fattah’s claims under the Speech or Debate Clause.
+ 
+
+I. Factual and Procedural Background
+A. The Search Warrant
+Fattah is the subject of a federal grand jury investigation pending in the Eastern District of Pennsylvania.2 The Department of Justice, the United States Attorney’s Office for the Eastern District of Pennsylvania, the Federal Bureau of Investigation, and the Internal Revenue Service are leading the investigation, which centers on whether Fattah violated federal criminal laws relating to fraud, extortion, and bribery.
+ 
+Fattah maintains an email account hosted by Google, Inc., known as “Gmail.” Google acts as a repository, collecting emails sent and received by Gmail account holders like Fattah. Fattah uses this Gmail account for personal matters, but he also uses it for official business relating to his congressional duties.3 For example, Fattah asserts that he uses his Gmail account to “communicat[e] with members of Congress regarding legislative matters”; to email “the schedule and agendas for House Committee meetings and related congressional sessions”; and to communicate “with [his] staff regarding legislative matters and discussions and documents directly relating to proposed legislative matters.”4 Likewise, Fattah claims that he uses his Gmail account to engage in privileged attorney-client communications with his legal counsel.
+ 
+In February 2014, the Government served Fattah with a grand jury subpoena seeking various documents, including electronic data from his Gmail account. In response, Fattah turned over some emails but objected to others on the bases of the Speech or Debate Clause, overbreadth, and relevance. Several months later, a magistrate judge issued a search warrant authorizing the FBI to search Fattah’s Gmail account. The warrant sought essentially the same information as the grand jury subpoena. Specifically, the search warrant requested: “For the period of January 1, 2008, through the present, concerning Google account [ChakaFattah@gmail.com], all items which constitute evidence of a criminal violation of 18 U.S.C. §§ 1343, 1344, 1951, and 201.”5
+ 
+Pursuant to Google policy, Fattah received an email from Google on June 18, 2014, stating that it had received a search warrant from the Government seeking *522 electronic data from his account. Google explained that it would withhold the documents for seven calendar days, allowing Fattah time to object to the request in a court of competent jurisdiction. Fattah filed a motion to intervene and to quash the search warrant in the Eastern District of Pennsylvania, arguing that the warrant’s execution would violate the attorney-client privilege and work-product doctrine, the Fourth Amendment, and the Speech or Debate Clause.
+ 
+
+B. The District Court Opinion
+The District Court granted Fattah’s motion to intervene but denied his motion to quash the search warrant. The Court held that the execution of the warrant would not imperil the attorney-client privilege or the protection afforded by the work-product doctrine because the Government had suggested adequate review procedures, which entailed the use of a “taint team” to review for privileged documents.
+ 
+Fattah argued that the warrant and affidavit did not make out probable cause and that the warrant was general and overbroad. The Court disagreed and additionally noted the odd procedural posture of the case, observing that Fattah “ha[d] cited no reported decision” supporting his contention that he may raise a Fourth Amendment challenge to a warrant prior to its execution.6 The Court explained that the proper remedy for an improvident search warrant is a suppression hearing.
+ 
+Likewise, the District Court rejected Fattah’s argument that the warrant would violate the Speech or Debate Clause. The Court reiterated this Circuit’s standard that the Speech or Debate Clause secures a privilege of non-use, rather than of non-disclosure. The Court explained that “even if [Fattah’s] private emails include a number of privileged documents, the mere disclosure of those documents [would] not impugn the Speech or Debate Clause.”7
+ 
+In the alternative to quashing the search warrant, the House requested that the Court modify the warrant and allow Fattah access to the requested records. Denying the House’s request, the Court opined that “creating special protections for a Congressman’s private email account would encourage corrupt legislators and their aides to make incriminating communications through private emails, knowing that they will be disclosed only with the author’s approval.”8
+ 
+Fattah also fashioned his motion as a Federal Rule of Criminal Procedure 41(g) motion, a request for return of property. Fattah argued that the Government was in “constructive possession” of his property. The District Court denied this motion as well, explaining that because the Government has neither actual nor constructive possession, Rule 41(g) affords him no legitimate basis for relief.
+ 
+Following the District Court’s rulings, Fattah filed a notice of appeal to this Court from the District Court’s order denying the motion to quash the unexecuted search warrant. On the same day, Fattah filed a motion to stay the order pending appeal. The District Court held a hearing on the motion to stay and subsequently denied the motion. Thereafter, we granted Fattah’s motion for a status quo order and for a stay of the District Court’s order pending appeal.
+ 
+
+II. Discussion
+[1] Although Fattah presents several issues on appeal, we limit our discussion solely to jurisdiction and the proposed filtering *523 procedures. Fattah proffers three bases for appellate jurisdiction: (1) the collateral order doctrine, (2) the Perlman doctrine, and (3) Federal Rule of Criminal Procedure 41(g). For the reasons that follow, we conclude that we lack jurisdiction to consider Fattah’s Speech or Debate Clause claims, but take jurisdiction with respect to his claims regarding the filtering procedures.9
+ 
+
+A. The Collateral Order Doctrine
+[2] [3] [4] Fattah first contends that under the collateral order doctrine, we have appellate jurisdiction. Under 28 U.S.C. § 1291, an immediate appeal may be taken from any final decision of the district court. “Although ‘final decisions’ typically are ones that trigger the entry of judgment, they also include a small set of prejudgment orders that are ‘collateral to’ the merits of an action and ‘too important’ to be denied immediate review.”10 Under the collateral order doctrine, however, a prejudgment order is immediately appealable if it: (1) conclusively determines the disputed question; (2) resolves an important issue completely separate from the merits of the case; and (3) is effectively unreviewable on appeal from a final judgment.11 A litigant must satisfy all three requirements to succeed under the collateral order doctrine. We narrowly construe this exception, taking into account that “a party is entitled to a single appeal, to be deferred until final judgment has been entered, in which claims of district court error at any stage of the litigation may be ventilated.”12
+ 
+Furthermore, the Supreme Court has noted that application of the collateral order doctrine involves a categorical inquiry and “[a]s long as the class of claims, taken as a whole, can be adequately vindicated by other means, the chance that the litigation at hand might be speeded, or a particular injustice averted, does not provide a basis for jurisdiction under § 1291.”13 The Court emphasized, “[t]he crucial question ... is not whether an interest is important in the abstract; it is whether deferring review until final judgment so imperils the interest as to justify the cost of allowing immediate appeal of the entire class of relevant orders.”14
+ 
+Fattah appeals from the District Court’s order denying a motion to quash an unexecuted search warrant on Speech or Debate Clause grounds. He relies on our decision *524 in United States v. McDade where we held that we had jurisdiction to entertain an appeal regarding a motion to dismiss an indictment under the Speech or Debate Clause.15 Fattah cites to our language in McDade stating, “[w]e also have jurisdiction to review any of the district court’s other rulings regarding the Speech or Debate Clause that satisfy all of the requirements of the collateral order doctrine.”16 Notably, we followed this statement with the caveat that “[o]ur jurisdiction, however, extends no further,” recognizing the limits of the collateral order doctrine.17 McDade, however, is inapplicable because Fattah’s claim under the collateral order doctrine falters. We review each requirement below.
+ 
+[5] 1. The first prong of the collateral order doctrine requires us to determine whether the District Court’s order conclusively determines the disputed issue. Fattah satisfies the first prong of the test. His motion to quash raised the issue of whether the search warrant could be executed, and the District Court conclusively answered that question in the affirmative. Thus, the order conclusively determined the disputed issue. Fattah, however, fails to satisfy either the second or third prongs, dooming his argument.
+ 
+[6] 2. The second inquiry of the collateral order doctrine asks whether the District Court’s order resolves an important question completely separate from the merits. Fattah argues that the Speech or Debate Clause issues are “extremely important issues” that are separate from the merits of the case. He contends that because no indictment has been returned, the issue is separate from the merits because there is no “underlying action.” He is incorrect.
+ 
+[7] The Supreme Court has defined an “important issue” as “one involving interests that are ‘weightier than the societal interests advanced by the ordinary operation of final judgment principles’ or one that is ‘serious and unsettled.’ ”18 Moreover, “an issue is important if the interests that would potentially go unprotected without immediate appellate review are significant relative to efficiency interests sought to be advanced by adherence to the final judgment rule.”19 Here, Fattah contends that the Speech or Debate privilege is one of non-disclosure and that “[t]he district court’s ruling is one of important constitutional dimensions broader in scope than just the interest of an individual Congressman, being ‘of great institutional interest to the House as a whole.’ ”20
+ 
+[8] Fattah’s argument, however, misconstrues the term “important.” We have held that, “[t]he type of ‘important issue[s]’ that the ‘completely separate from the merits’ requirement encompasses are those that are important in a jurisprudential sense.’ ”21 First, as we have previously *525 said, the Speech or Debate privilege, as applied to records, is one of non-use versus non-disclosure. That is, while the privilege prohibits evidentiary “use” of records, it does not prohibit disclosure of records to the Government in the course of an investigation. Thus, the issue is not unsettled—indeed, this Court has decisively settled the issue in a manner that forecloses Fattah’s argument.22
+ 
+[9] [10] Second, in addition to failing to raise an important issue, we believe Fattah’s claim is not completely separate from the merits. The requirements for collateral appeal are particularly “stringent” in the criminal context because “ ‘the delays and disruptions attendant upon intermediate appeal,’ which the rule is designed to avoid, ‘are especially inimical to the effective and fair administration of the criminal law.’ ”23 Indeed, the only orders that have been held to fall within the collateral order doctrine in a criminal action are: orders denying motions to reduce bail; orders denying motions to dismiss on double jeopardy grounds; orders denying immunity under the Speech or Debate Clause; and orders directing defendants to be medicated against their will to render them competent to stand trial.24
+ 
+Unlike these orders, which “finally resolve issues that are separate from guilt or innocence,”25 a motion to suppress an unexecuted search warrant may substantially affect the merits of the case. We have held that “a pretrial ruling on a suppression motion is not a collateral order under 28 U.S.C. § 1291 because the motion ‘presents an issue that is involved in and will be part of a criminal prosecution in process at the time the order is issued.’ ”26 The same is true of a motion to quash a warrant. The fruits of a search warrant may become part of the criminal prosecution. In most cases, the fruits become part of the evidentiary chain of proof. Therefore, an order denying a motion to quash an unexecuted search warrant stands in stark contrast to the orders previously mentioned, which, for example, challenge the very authority of the Government to prosecute a defendant.27 Accordingly, Fattah fails to satisfy this requirement of the collateral order doctrine.
+ 
+[11] 3. The third prong of the collateral order doctrine focuses on whether the District Court’s order is effectively unreviewable on appeal. Fattah asserts that the District Court’s order leaves him with no remedy since it does not limit the Government’s access to or use of Speech or Debate Clause documents. First, this argument relies on Fattah’s misconception that the Speech or Debate Clause provides *526 a privilege of non-disclosure. Instead, as we discuss further below, because we have held that it is a privilege of non-use when applied to documents, the Government is not prohibited from accessing the documents. In addition, his argument is plainly belied by our own precedent. In In re Solomon, we denied a defendant’s motion to suppress an unexecuted search warrant, holding that the defendant had other available remedies.28 We explained that the motion to suppress the search warrant was not effectively unreviewable because the defendant could move to suppress the evidence, and “[i]f that motion is denied, and if [he] is convicted, the denial of the motion to suppress may then be asserted as a ground for appeal from the final judgment.”29 The same is true here.
+ 
+Our binding precedent requires us to narrowly circumscribe the contours of the collateral order doctrine. And, as the Supreme Court has emphasized, “although the Court has been asked many times to expand the ‘small class’ of collaterally appealable orders, we have instead kept it narrow and selective in its membership.”30 As such, we decline Fattah’s invitation to expand this discerning membership to motions to quash unexecuted search warrants. Because Fattah’s claim is not completely separate from the merits and is reviewable upon appeal, the collateral order doctrine is unavailing as a basis for appellate jurisdiction. We therefore lack jurisdiction under the collateral order doctrine to entertain this appeal.
+ 
+
+B. The Perlman Doctrine
+1. The Perlman Doctrine Does Not Provide Jurisdiction for Fattah’s Speech or Debate Clause Claims.
+[12] [13] [14] [15] [16] Fattah’s claims regarding the Speech or Debate Clause fare no better under the so-called Perlman doctrine. The Perlman doctrine refers to the legal principle that a discovery order aimed at a third party may be immediately appealed on the theory that the third party will not risk contempt by refusing to comply.31 Disclosure orders are not final orders appealable under 28 U.S.C. § 1291. Rather, “[t]o obtain immediate appellate review, a privilege holder must disobey the court’s order, be held in contempt, and then appeal the contempt order,” which is considered a final order.32 The Supreme Court’s decision in Perlman v. United States established an exception when the traditional contempt route is unavailable because the privileged information is controlled by a disinterested third party who is likely to comply with the request rather than be held in contempt for the sake of an immediate appeal.33 In these circumstances, a litigant asserting a legally cognizable privilege may timely appeal an adverse disclosure order. The reasoning behind Perlman lies in the inequity of leaving a privilege-holder “powerless to avert the mischief of the order,” and forcing him to “accept its incidence and seek a remedy at some other time and in some other way.”34 Moreover, Perlman “reflected concern that where the subject of *527 the discovery order (characteristically the custodian of documents) and the holder of a privilege are different, the custodian might yield up the documents rather than face the hazards of contempt, and would thereby destroy the privilege.”35 The question we address today is whether Perlman should apply even where Fattah fails to cite a legally cognizable privilege.
+ 
+Fattah argues that the Speech or Debate Clause precludes execution of the search warrant. He contends that the privilege is one of non-disclosure and that the search warrant was served on Google, which “is a disinterested third party which is not likely to permit itself to be placed in contempt” on his behalf.36 As such, he asserts that his is the paradigmatic Perlman case, and that he is entitled to immediately appeal the District Court’s order. We disagree.
+ 
+Fattah urges that our decision in In re Grand Jury is instructive.37 There, the Government moved to compel a law firm to provide documentation regarding its representation of a corporation that was the subject of a federal criminal investigation. The corporation objected to the subpoenas served upon the law firm, but the district court granted the Government’s motions to enforce. The corporation sought an immediate appeal under the Perlman doctrine predicated on the attorney-client privilege and work-product doctrine. We held that the corporation was entitled to immediately appeal the adverse disclosure order to protect those privileges.38
+ 
+[17] In this case, there is an important distinction to be drawn: Fattah fails to cite a legally cognizable privilege. Indeed, Fattah relies heavily on our case law discussing the Perlman doctrine in the attorney-client privilege context.39 He fails to cite any precedent discussing Perlman’s applicability to the Speech or Debate Clause.40 The Speech or Debate Clause encompasses three main protections, it: (1) bars civil and criminal liability for “legislative *528 acts”;41 (2) guarantees that a Member, or his alter ego, may not be made to answer questions about his legislative acts;42 and (3) bars the use of legislative-act evidence against a Member.43 Here, we address the evidentiary privilege as applied to records.
+ 
+[18] While courts have recognized that the bounds of these protections vary, they are all rooted in the notion that, “to the extent that the Speech or Debate Clause creates a Testimonial privilege as well as a Use immunity, it does so only for the purpose of protecting the legislator and those intimately associated with him in the legislative process from the harassment of hostile questioning.”44 Courts have interpreted the term “questioning” broadly to forbid submission of legislative act evidence to a jury—whether in the form of testimony or records.45
+ 
+It cannot be, however, that the privilege prohibits disclosure of evidentiary records to the Government during the course of an investigation. In re Grand Jury (Eilberg) provides a good example. There we held that the disclosure of telephone records containing Speech or Debate Clause privileged documents was permissible.46 Moreover, we explained that the evidentiary privilege “[was] not designed to encourage confidences by maintaining secrecy, for the legislative process in a democracy has only a limited toleration for secrecy.”47
+ 
+[19] [20] This makes good sense. If it were any other way, investigations into corrupt Members could be easily avoided by mere assertion of this privilege. Members could, in effect, shield themselves fully from criminal investigations by simply citing to the Speech or Debate Clause. We do not believe the Speech or Debate Clause was meant to effectuate such deception. Rather, the “purpose of the Speech or Debate Clause is to protect the individual legislator, not simply for his own sake, but to preserve the independence and thereby the integrity of the legislative process.”48 That is, the Clause was meant to free “the legislator from the executive and judicial oversight that realistically threatens to control his conduct as a legislator.”49 The crux of the Clause is to “prevent intimidation by the executive and accountability [for legislative acts] before a possibly hostile judiciary.”50 It is clear *529 that the purpose, however, has never been to shelter a Member from potential criminal responsibility.
+ 
+Any other reading of this privilege would eradicate the integrity of the legislative process and unduly amplify the protections to the individual Member. Indeed, “financial abuses by way of bribes, perhaps even more than Executive power, would gravely undermine legislative integrity and defeat the right of the public to honest representation. Depriving the Executive of the power to investigate and prosecute and the Judiciary of the power to punish bribery of Members of Congress is unlikely to enhance legislative independence.”51 We decline to strip the legislative process, and the public, of this protection.
+ 
+Accordingly, while the Speech or Debate Clause prohibits hostile questioning regarding legislative acts in the form of testimony to a jury, it does not prohibit disclosure of Speech or Debate Clause privileged documents to the Government. Instead, as we have held before, it merely prohibits the evidentiary submission and use of those documents.
+ 
+[21] Thus, based on these distinctions, we hold that the Perlman doctrine does not apply to the Speech or Debate Clause with respect to records disclosed to the Government in the course of an investigation. The Speech or Debate Clause does not prohibit the disclosure of privileged documents. Rather, it forbids the evidentiary use of such documents. As such, there is no “mischief” for Fattah to stymy as there is no privilege in danger of destruction. Fattah is unable to challenge the disclosure regardless of to whom the request is made. This differs from a challenge to a subpoena requesting attorney-client privileged documents, where, as the saying goes, you cannot “unring the bell.” In that scenario, no remedy assuages disclosure and the privilege may very well be destroyed. Fattah’s challenge is far less serious and therefore should not receive such protections. There is no bell to unring here—the privileged documents may be disclosed without violating the privilege, and Fattah may avail himself of several remedies to any alleged illegal search or seizure.
+ 
+The impetus of the Perlman doctrine is to protect privilege holders from the disclosure of privileged materials by a disinterested third-party. Here, Fattah fails to cite a legally cognizable privilege to support his claim. Accordingly, Perlman is inapplicable, and we hold that we lack jurisdiction to entertain this appeal under this ground as well.
+ 
+
+2. The Perlman Doctrine Provides Jurisdiction to Review Fattah’s Claims Under the Attorney–Client Privilege and Work–Product Doctrine.
+[22] Fattah contends that the Perlman doctrine provides appellate jurisdiction for this Court to review the merits of his attorney-client privilege and work-product doctrine claims regarding inadequate filtering procedures. We agree. Unlike Fattah’s Speech or Debate Clause claim, this claim succeeds because it is predicated on legally cognizable privileges continuously recognized under the Perlman Doctrine.52 Because the attorney-client privilege and work-product doctrine are non-disclosure privileges that may in fact be destroyed by a disinterested third-party, Perlman applies.
+ 
+*530 [23] On the merits of this issue, Fattah argues that the District Court erred in approving the Government’s proposed filtering procedures regarding documents protected by the attorney-client privilege and work-product doctrine. These procedures involved the use of a “taint team” to review for privileged documents, a common tool employed by the Government.53 The team, however, is structured to include a non-attorney federal agent at the first level of review, followed by review by independent attorney federal agents. Moreover, Fattah contends that he does not have the opportunity to assert his privilege with respect to certain documents deemed to be “clearly not privileged” until after they are turned over to those prosecuting his case.
+ 
+[24] [25] Fattah maintains that only attorneys should be involved in this type of privilege review and that the District Court did not realize a non-attorney agent would be the first line review.54 Thus, Fattah argues that “eliminated from the initial determination of what may be privileged is the only professional qualified to make that determination.”55 Fattah also argues that he should have an opportunity to work with prosecutors to identify privileged documents and that he should be entitled to a court ruling on any documents he claims are privileged before the filter agents turn these documents over to the prosecutorial arm of the Department of Justice (DOJ). Because of the legal nature of the privilege issues involved, we agree that the first level of privilege review should be conducted by an independent DOJ attorney acceptable to the District Court. Fattah’s remaining arguments regarding the structure of the review process, we believe, are more appropriately addressed by a district court in the first instance on a case-by-case basis. On remand, the District Court may thus, in its discretion, implement those procedures it deems necessary to protect Fattah’s privileges.
+ 
+
+C. Fattah’s Federal Rule of Criminal Procedure 41(g) Motion
+[26] Fattah also styled his pre-indictment motion as a request for relief under Federal Rule of Criminal Procedure 41(g) and contends that under this rule we have appellate jurisdiction. The Rule sets out the procedures criminal defendants should employ for the return of property, providing:
+*531 (g) Motion to Return Property. A person aggrieved by an unlawful search and seizure of property or by the deprivation of property may move for the property’s return. The motion must be filed in the district where the property was seized. The court must receive evidence on any factual issue necessary to decide the motion. If it grants the motion, the court must return the property to the movant, but may impose reasonable conditions to protect access to the property and its use in later proceedings.
+ 
+[27] Denial of a pre-indictment Rule 41(g) motion is immediately appealable, only if the motion is: (1) solely for the return of property and (2) is in no way tied to an existing criminal prosecution against the movant.56 In this case, the warrant has yet to be executed, and the Government has yet to seize the evidence Fattah seeks returned. Therefore, there is no property to return. As such, we lack appellate jurisdiction under this ground as well.
+ 
+
+III. Conclusion
+We take seriously the sentiments and concerns of the Supreme Court that Members are not to be “super-citizens” immune from criminal liability or process.57 Permitting an interlocutory appeal of an order denying a motion to quash an unexecuted search warrant based on the Speech or Debate Clause would set bad precedent and insulate Members from criminal investigations and criminal process. This, of course, cannot and should not be the purpose of the Clause. Thus, for all of the reasons above, we dismiss Fattah’s appeal regarding his Speech or Debate Clause claims for lack of jurisdiction and we remand to the District Court his claim with respect to inadequate filtering procedures.
+ 
+
+AMBRO, Circuit Judge, dissenting in part:
+
+I agree with my colleagues that the Speech or Debate Clause does not confer a privilege of confidentiality. Thus, the motion to quash the search warrant on that basis must be denied. Any other conclusion is foreclosed by a long line of precedent.1 However, that Fattah’s argument lacks merit does not, in my view, deprive us of jurisdiction to review his claim under the Perlman doctrine. “Rather, the lack of merit means that the claim of [privilege] should be denied for just that reason—it lacks merit.” Powell v. Ridge, 247 F.3d 520, 527 (3d Cir.2001) (Roth, J., dissenting). I thus respectfully dissent in part.
+ 
+“When a district court orders a witness—whether a party to an underlying litigation, a subject or target of a grand jury investigation, or a complete stranger to the proceedings—to testify or produce documents, its order generally is not considered an immediately appealable ‘final decision [ ]’ under § 1291.” In re Grand Jury, 705 F.3d 133, 142 (3d Cir.2012) (alteration in original). The appellant instead only secures the right to an immediate appeal when he defies the order, is held in contempt, and appeals the contempt *532 order. This rule, “ ‘though at times a harsh one,’ ” discourages “ ‘all but the most serious’ ” appeals because “[i]t forces the objector to weigh carefully the likelihood of success of its challenge” along with “the importance it attaches to avoiding the ordered disclosure and protecting any associated privileges.” Id. at 143 (quoting In re Grand Jury Proceedings, 604 F.2d 798, 800 (3d Cir.1979)). In effect, review remains available through this route even where the likelihood of success is low so long as the importance attached is high.
+ 
+Where a disclosure order is addressed to a disinterested third party, however, the incentive structure shifts. Unlike the holder of a privilege, a mere custodian of records cannot be “expected to risk a citation for contempt in order to secure [the privilege holder] an opportunity for judicial review.” United States v. Ryan, 402 U.S. 530, 533, 91 S.Ct. 1580, 29 L.Ed.2d 85 (1971). Moreover, without a means to force the third party to protect the privilege holder’s rights, it is “left ... ‘powerless to avert the mischief of [a disclosure] order.’ ” Id. (quoting Perlman v. United States, 247 U.S. 7, 13, 38 S.Ct. 417, 62 L.Ed. 950 (1918)). Under the Perlman doctrine, we allow a party opposing a discovery order on grounds of privilege to appeal immediately where the order is directed at a third party who lacks a sufficient stake in the proceeding to risk contempt by refusing compliance. See id.
+ 
+The same principle applies here: As the party on which the warrant was served, Google could refuse to comply and seek appellate review through a separate proceeding for contempt.2 However, it presumably has little incentive to do so because the asserted privilege belongs not to Google but to Fattah. Moreover, without custody of the allegedly privileged documents, Fattah cannot himself defy the order to force an interlocutory appeal. Accordingly, Fattah’s case falls squarely within Perlman’s rationale.
+ 
+My colleagues of course suggest otherwise. They conclude that we are without jurisdiction because there is no confidentiality privilege under the Speech or Debate Clause. But “[t]he question of the existence of a privilege ... pertain [s] to the merits,” Slark v. Broom, 7 La. Ann. 337, 342 (1852), and it is well established that “jurisdiction under the Perlman doctrine does not rise or fall with the merits of the appellant’s underlying claim for relief,” Doe No. 1 v. United States, 749 F.3d 999, 1006 (11th Cir.2014). See also Ross v. City of Memphis, 423 F.3d 596, 599 (6th Cir.2005) ( “[Perlman ] jurisdiction does not depend on the validity of the appellant’s underlying claims for relief.”). Rather, “[i]t is the possibility of disclosure of information which is thought to be confidential that is central to the Perlman exception.” United States v. Calandra, 706 F.2d 225, 228 (7th Cir.1983) (emphasis added).
+ 
+Not only do my colleagues fail to cite any case law for their novel proposition that the Perlman doctrine depends on the *533 cognizability of the privilege asserted, they also overlook numerous cases to the contrary. This includes Perlman itself, where the Supreme Court reviewed the petitioner’s claims on interlocutory appeal despite concluding his arguments lacked merit. See Perlman, 247 U.S. at 13–15, 38 S.Ct. 417. Indeed, we have routinely invoked the Perlman doctrine as the basis for our jurisdiction, only to decide ultimately that the appellant lacks the privilege asserted. See, e.g., In re Grand Jury Impaneled Jan. 21, 1975, 541 F.2d 373, 381, 383 (3d Cir.1976) (rejecting “the application of a state required reports privilege as a matter of federal common law” though concluding the appellant “had standing to intervene below and challenge the subpoena on the basis of his claim of privilege”); In re Grand Jury, 103 F.3d 1140, 1144 (3d Cir.1997) (refusing to recognize a cognizable “parent-child privilege” but citing Perlman as the basis for its jurisdiction).
+ 
+We are not without company; other appellate courts have done the same. See, e.g., In re Grand Jury Proceedings, 832 F.2d 554, 560 (11th Cir.1987) (permitting an interlocutory appeal, but holding “that the privilege asserted by [the] appellants [was] without a basis in Florida law” and that they “ha[d] no privilege of nondisclosure under state law”); In re: a Witness Before the Special Grand Jury 2000–2, 288 F.3d 289, 291, 295 (7th Cir.2002) (invoking Perlman for the court’s jurisdiction though refusing to extend the attorney-client privilege to communications between government attorneys and their state clients).
+ 
+The failure to recognize our jurisdiction under Perlman is particularly puzzling given that we have previously relied on that doctrine to review—and reject—indistinguishable attempts to bar disclosure under the Speech or Debate Clause. While my colleagues distinguish one such case, In re Grand Jury Proceedings (Cianfrani ), 563 F.2d 577 (3d Cir.1977), as having involved a state, rather than federal, congressperson, I fail to see the relevance of that distinction. Neither did a panel of our Court the following year when U.S. Congressman Eilberg intervened in grand-jury proceedings and appealed. See Eilberg, 587 F.2d at 597 (concluding we had jurisdiction to review the interlocutory appeal, but holding, that, “as we ha[d] said on two other occasions, the [Speech or Debate] privilege when applied to records or third-party testimony is ... not [one] of non-disclosure” (citing United States v. Helstoski, 576 F.2d 511 (3d Cir.1978), aff’d, 442 U.S. 477, 99 S.Ct. 2432, 61 L.Ed.2d 12 (1979), aff’d sub nom. Helstoski v. Meanor, 442 U.S. 500, 99 S.Ct. 2445, 61 L.Ed.2d 30 (1979); Cianfrani, 563 F.2d 577)).
+ 
+Finally, that these prior Speech or Debate Clause cases arose in the context of a subpoena duces tecum (rather than search warrant) is also an irrelevant distinction. If the Perlman doctrine did not apply to search warrants, Fattah would similarly be unable to rely on that doctrine to appeal his attorney-client privilege and work-product claims. Yet here my colleagues correctly rely on the Perlman doctrine to conclude that “this claim succeeds.” Majority Op. 529. Similarly, other courts have applied Perlman even though a search warrant has been used. See, e.g., In re Berkley & Co., 629 F.2d 548, 551–52 (8th Cir.1980) (applying Perlman to consider the denial of a motion to prevent the Government from disclosing to the grand jury certain privileged documents it had previously seized); United States v. Griffin, 440 F.3d 1138, 1143 (9th Cir.2006) (applying the Perlman doctrine where seized documents were in the temporary possession of a special master); In re Sealed Case, 716 F.3d 603, 612 (D.C.Cir.2013) (Kavanaugh, J., concurring) (suggesting that if a search warrant is used to seize allegedly privileged documents, the *534 order would be appealable under Perlman (citing Berkley, 629 F.2d 548)).
+ 
+The Supreme Court has repeatedly admonished appellate courts not to “conflate[e] the jurisdictional question with the merits of the appeal.” Arthur Andersen LLP v. Carlisle, 556 U.S. 624, 627, 129 S.Ct. 1896, 173 L.Ed.2d 832 (2009). I believe that, by intertwining the cognizability of the privilege with that of an appellate court’s jurisdiction, the majority contravenes this mandate. I therefore respectfully dissent in part.
+ 
+All Citations
+802 F.3d 516
+Footnotes
+
+1
+
+The Speech or Debate Clause provides that, “for any Speech or Debate in either House, [Senators and Representatives] shall not be questioned in any other Place.” U.S. Const. art. I, § 6, cl. 1.
+
+2
+
+Fattah was indicted by a grand jury on July 29, 2015.
+
+3
+
+Each Member of the House of Representatives has an official email account. Presently, there is no policy in place mandating that Members solely utilize the official account to conduct business. [Tr. 28: 18–22].
+
+4
+
+Gov’t Supp.App. 15.
+
+5
+
+Gov’t Supp.App. 11.
+
+6
+
+App. 12.
+
+7
+
+App. 14.
+
+8
+
+App. 16.
+
+9
+
+The House also suggests that jurisdiction to hear Fattah’s claims may lie under the All Writs Act, as a petition for mandamus. Fattah, however, has not sought mandamus relief. Furthermore, mandamus is an extraordinary remedy, available only where (1) there is “ ‘no other adequate means to attain the relief sought;’ ” (2) the right to issuance of the writ is “ ‘clear and indisputable;’ ” and (3) the issuing court is “satisfied that ‘the writ is appropriate under the circumstances.’ ” In re Pressman–Gutman Co., Inc., 459 F.3d 383, 399 (3d Cir.2006) (quoting In re Briscoe, 448 F.3d 201, 212 (3d Cir.2006)). As previously stated, Fattah has the right to appeal the denial of a motion to suppress if he is convicted. Because Fattah has an adequate remedy in a suppression hearing following execution of the warrant, we decline to grant jurisdiction under this ground.
+
+10
+
+Mohawk Indus., Inc. v. Carpenter, 558 U.S. 100, 103, 130 S.Ct. 599, 175 L.Ed.2d 458 (2009) (citing Cohen v. Beneficial Indus. Loan Corp., 337 U.S. 541, 546, 69 S.Ct. 1221, 93 L.Ed. 1528 (1949)).
+
+11
+
+Digital Equip. Corp. v. Desktop Direct, Inc., 511 U.S. 863, 867, 114 S.Ct. 1992, 128 L.Ed.2d 842 (1994).
+
+12
+
+Id. at 868, 114 S.Ct. 1992.
+
+13
+
+Mohawk Indus., Inc., 558 U.S. at 107, 130 S.Ct. 599 (internal quotation marks and alterations omitted).
+
+14
+
+Id. at 108, 130 S.Ct. 599.
+
+15
+
+28 F.3d 283 (3d Cir.1994).
+
+16
+
+Id. at 288.
+
+17
+
+Id.
+
+18
+
+United States v. Wecht, 537 F.3d 222, 230 (3d Cir.2008) (quoting Digital Equip. Corp., 511 U.S. at 879, 114 S.Ct. 1992; Cohen, 337 U.S. at 547, 69 S.Ct. 1221).
+
+19
+
+Pierce v. Blaine, 467 F.3d 362, 370–71 (3d Cir.2006) (internal quotation marks and citation omitted).
+
+20
+
+Appellant’s Br. 25 (quoting In re Grand Jury (Eilberg), 587 F.2d 589, 593 (3d Cir.1978)).
+
+21
+
+Praxis Props., Inc. v. Colonial Sav. Bank, S.L.A., 947 F.2d 49, 54 (3d Cir.1991) (second alteration in original) (quoting Nemours Found. v. Manganaro Corp., New England, 878 F.2d 98, 100 (3d Cir.1989)) (internal quotation marks omitted).
+
+22
+
+See United States v. Helstoski, 635 F.2d 200, 203 (3d Cir.1980); In re Grand Jury Investigation (Eilberg), 587 F.2d at 597; In re Grand Jury (Cianfrani), 563 F.2d 577, 584 (3d Cir.1977).
+
+23
+
+Abney v. United States, 431 U.S. 651, 657, 97 S.Ct. 2034, 52 L.Ed.2d 651 (1977) (quoting Di Bella v. United States, 369 U.S. 121, 126, 82 S.Ct. 654, 7 L.Ed.2d 614 (1962)).
+
+24
+
+See Stack v. Boyle, 342 U.S. 1, 6, 72 S.Ct. 1, 96 L.Ed. 3 (1951); Abney, 431 U.S. at 659, 97 S.Ct. 2034; Helstoski v. Meanor, 442 U.S. 500, 506–08, 99 S.Ct. 2445, 61 L.Ed.2d 30 (1979); Sell v. United States, 539 U.S. 166, 176, 123 S.Ct. 2174, 156 L.Ed.2d 197 (2003).
+
+25
+
+Flanagan v. United States, 465 U.S. 259, 266, 104 S.Ct. 1051, 79 L.Ed.2d 288 (1984).
+
+26
+
+United States v. Williams, 413 F.3d 347, 355 (3d Cir.2005) (quoting Di Bella, 369 U.S. at 127, 82 S.Ct. 654).
+
+27
+
+See, e.g., Abney, 431 U.S. at 659, 97 S.Ct. 2034 (explaining that “the very nature of a double jeopardy claim is such that it is collateral to, and separable from the principal issue at the accused’s impending criminal trial, i.e., whether or not the accused is guilty of the offense charged” and instead the claim “contest[s] the very authority of the Government to hale him into court to face trial on the charge against him”).
+
+28
+
+465 F.3d 114, 122–23 (3d Cir.2006).
+
+29
+
+Id. at 122.
+
+30
+
+Will v. Hallock, 546 U.S. 345, 349–50, 126 S.Ct. 952, 163 L.Ed.2d 836 (2006).
+
+31
+
+As previously noted, Google, as custodian of the records at issue, is the third party in this case.
+
+32
+
+In re Grand Jury, 705 F.3d 133, 138 (3d Cir.2012).
+
+33
+
+247 U.S. 7, 12–13, 38 S.Ct. 417, 62 L.Ed. 950 (1918).
+
+34
+
+Id. at 13, 38 S.Ct. 417.
+
+35
+
+In re Flat Glass Antitrust Litig., 288 F.3d 83, 90 n. 9 (3d Cir.2002) (quoting In re Sealed Case, 141 F.3d 337, 340 (D.C.Cir.1998)).
+
+36
+
+Appellant’s Br. at 28–29.
+
+37
+
+705 F.3d at 133.
+
+38
+
+Id. at 149.
+
+39
+
+See, e.g., In re Grand Jury Subpoena, 745 F.3d 681, 686–87 (3d Cir.2014) (permitting a client and corporation to intervene and quash a subpoena directed to their attorney for testimony under the Perlman doctrine on the basis of the attorney-client privilege and work-product doctrine); In re Grand Jury Proceedings (FMC Corp.), 604 F.2d 798, 800–01 (3d Cir.1979) (permitting a corporation to intervene and immediately appeal an adverse disclosure order to protect the attorney-client privilege and work-product doctrine). The only case Fattah cites to applying the Perlman doctrine in the context of the Speech or Debate clause is In re Grand Jury (Cianfrani), 563 F.2d 577 (3d Cir.1977). That case, however, is distinguishable. First, the case involved a state senator who was charged in a federal prosecution. We ultimately held that neither the state nor federal Speech or Debate Clause privileges extended in such a case. Id. at 580–82. Second, the case involved a subpoena versus an unexecuted search warrant. A subpoena, of course, may be challenged prior to compliance. In stark contrast, a search warrant is properly challenged after it is executed. Accordingly, In re Grand Jury (Cianfrani) is of limited utility to Fattah.
+
+40
+
+For its part, the House of Representatives as amicus insists that Gravel v. United States, 408 U.S. 606, 92 S.Ct. 2614, 33 L.Ed.2d 583 (1972), is “on all fours.” House Br. 22. We disagree. In Gravel, a Senator moved to prevent the questioning of his aide in a grand jury proceeding. The Court held that the privilege established by the Speech or Debate Clause that prevents the questioning of a Member of Congress regarding legislative acts likewise bars the questioning of a Member’s aide regarding actions which would have been legislative acts, and therefore privileged, if performed by the Member personally. The Court, however, did not squarely address the Perlman issue. Id. at 608, n. 1, 92 S.Ct. 2614 (“The Court of Appeals, United States v. Doe, 455 F.2d 753, 756–757 (C.A.1 1972), held that because the subpoena was directed to third parties, who could not be counted on to risk contempt to protect intervenor’s rights, Gravel might be ‘powerless to avert the mischief of the order’ if not permitted to appeal, citing Perlman v. United States, 247 U.S. 7, 13, 38 S.Ct. 417, 62 L.Ed. 950 (1918). The United States does not here challenge the propriety of the appeal.”).
+
+41
+
+Doe v. McMillan, 412 U.S. 306, 311–12, 93 S.Ct. 2018, 36 L.Ed.2d 912 (1973).
+
+42
+
+Gravel, 408 U.S. at 616, 92 S.Ct. 2614.
+
+43
+
+United States v. Helstoski, 442 U.S. 477, 487, 99 S.Ct. 2432, 61 L.Ed.2d 12 (1979).
+
+44
+
+In re Grand Jury (Eilberg), 587 F.2d at 597.
+
+45
+
+United States v. Renzi, 769 F.3d 731, 746 (9th Cir.2014), petition for cert. filed, No. 14–1082 (Mar. 9, 2015) (“Evident from its plain language, the focus is on the improper questioning of a Congressman. As such, the Clause is violated when the government reveals legislative act information to a jury because this would subject a Member to being ‘questioned’ in a place other than the House or the Senate.” (internal quotation marks omitted)).
+
+46
+
+In re Grand Jury (Eilberg), 587 F.2d at 597.
+
+47
+
+Id. (citing U.S. Const. art. 1 § 5, cl. 3).
+
+48
+
+United States v. Renzi, 651 F.3d 1012, 1036 (9th Cir.2011) (quoting United States v. Brewster, 408 U.S. 501, 524–25, 92 S.Ct. 2531, 33 L.Ed.2d 507 (1972)).
+
+49
+
+Helstoski, 442 U.S. at 492, 99 S.Ct. 2432 (quoting Gravel, 408 U.S. at 618, 92 S.Ct. 2614).
+
+50
+
+Id. at 491, 99 S.Ct. 2432 (quoting United States v. Johnson, 383 U.S. 169, 181, 86 S.Ct. 749, 15 L.Ed.2d 681 (1966)).
+
+51
+
+Renzi, 651 F.3d at 1036 (emphasis in the original) (quoting Brewster, 408 U.S. at 524–25, 92 S.Ct. 2531).
+
+52
+
+See, e.g., In re Grand Jury Subpoena, 745 F.3d at 686.
+
+53
+
+Certain courts have limited the circumstances in which prosecutors may employ taint teams during criminal investigations. See, e.g., In re Grand Jury Subpoenas, 454 F.3d 511, 522 (6th Cir.2006). But because Fattah does not argue that the use of a taint team is inappropriate in his case, we have no occasion to consider the appropriate limits, if any, on their use. Of course, a court always retains the prerogative to require a different method of review in any particular case, such as requiring the use of a special master or reviewing the seized documents in camera itself. See, e.g., Klitzman, Klitzman & Gallagher v. Krut, 744 F.2d 955, 962 (3d Cir.1984); Black v. United States, 172 F.R.D. 511, 516 (S.D.Fla.1997); United States v. Abbell, 914 F.Supp. 519, 520–21 (S.D.Fla.1995); In re Search Warrant for Law Offices Executed on Mar. 19, 1992, 153 F.R.D. 55, 59 (S.D.N.Y.1994).
+
+54
+
+Indeed, the District Court held that the use of “taint teams” had been cited with approval in this Circuit. The cases the District Court cited to, however, all involved an attorney at the first level of review. See, e.g., Manno v. Christie, No. 08–cv–3254, 2009 WL 995455, 2009 U.S. Dist. LEXIS 31470 (D.N.J., Apr. 13, 2009). Likewise, the District Court never explicitly acknowledged that review would be conducted by a non-lawyer. Rather, the court stated review would be conducted by “FBI Special Agents not involved in the investigation.” App. 10.
+
+55
+
+Fattah Br. 61.
+
+56
+
+Di Bella, 369 U.S. at 131–32, 82 S.Ct. 654; see also In re Grand Jury, 635 F.3d 101, 103–05 (3d Cir.2011).
+
+57
+
+Brewster, 408 U.S. at 516, 92 S.Ct. 2531.
+
+1
+
+Of course, our binding precedent also provides that, while the Government has a right to review the documents and argue privilege, Fattah has an equal right to participate in that process, particularly given “the information as to [what] were legislative acts is in his possession alone.” In re Grand Jury Investigation (Eilberg), 587 F.2d 589, 597 (3d Cir.1978); see also id. (holding that a congressman asserting the Speech or Debate Clause privilege in a grand-jury proceeding “should be permitted to indicate by affidavit or testimony those calls which he contends are privileged”).
+
+2
+
+To the extent the Government argues that even contempt proceedings are unavailable for review of an unexecuted search warrant issued under 18 U.S.C. § 2703(b)(1), this position is directly inconsistent with its position in a pending Second Circuit case. See Brief of the United States of America at 8 n. 5, In re Warrant To Search Certain E–Mail Account Controlled & Maintained by Microsoft Corp., No. 14–2985 (2d Cir. Mar. 9, 2005) (noting that the District Court’s “entry of a contempt order” gave the Second Circuit jurisdiction to review an unexecuted search warrant issued under § 2703); see also In re Warrant To Search a Certain E–Mail Account Controlled & Maintained by Microsoft Corp., No. 13–mj–2814, 2014 WL 4629624 (S.D.N.Y. Aug. 29, 2014) (Preska, C.J.). (Interestingly, in that case the Government also has taken the contrary position that this type of search warrant isn’t really a search warrant at all.)
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Declined to Follow by
+1.  Securities and Exchange Commission v. Committee on Ways and Means of the U.S. House of Representatives  
+161 F.Supp.3d 199 , S.D.N.Y.
+GOVERNMENT - Privileges. Executive branch’s issuance of subpoena for documents concerning legitimate legislative activity is forbidden by Speech or Debate Clause.
+Nov. 13, 2015
+Case
+
+12
+
+
+
+
+19
+
+
+
+
+21
+
+
+
+
+F.3d
+
+

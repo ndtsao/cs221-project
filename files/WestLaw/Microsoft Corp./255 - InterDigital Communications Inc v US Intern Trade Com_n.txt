@@ -1,0 +1,373 @@
+
+
+ 
+
+
+InterDigital Communications, Inc. v. U.S. Intern. Trade Com’n
+United States Court of Appeals, Federal Circuit. | February 18, 2015 | 601 Fed.Appx. 972 | 2015 WL 669305
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+InterDigital Commc’ns, Inc. v. U.S. Int’l Trade Comm’n, 601 F. App’x 972 (Fed. Cir. 2015)
+
+All Citations:
+
+601 Fed.Appx. 972, 36 ITRD 1480, 115 U.S.P.Q.2d 1388
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+601 Fed.Appx. 972
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+INTERDIGITAL COMMUNICATIONS, INC., InterDigital Technology Corporation, IPR Licensing, Inc., Appellants
+v.
+UNITED STATES INTERNATIONAL TRADE COMMISSION, Appellee
+Nokia, Inc., Microsoft Mobile Oy, Intervenors
+ZTE Corporation, ZTE (USA) Inc., Intervenors.
+No. 2014–1176.
+|
+Feb. 18, 2015.
+Synopsis
+Background: Patentee filed suit challenging International Trade Commission’s (ITC) final determination that importers had not violated Tariff Act by importing, selling for importation, or selling after importation into United States wireless devices that allegedly infringed patents directed to cellular telephone technology, as power ramp-up patents and power control patents were not infringed, and dual mode patent was invalid as obvious.
+ 
+Holdings: The Court of Appeals, Prost, Chief Judge, held that:
+ 
+[1] power ramp-up patents were not infringed as claim term was correctly construed;
+ 
+[2] power control patents were not infringed as claim term was correctly construed; and
+ 
+[3] dual mode patent was invalid as obvious.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (6)
+
+
+[1]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+
+
+“Successively sends (or sent) transmissions” in power ramp-up patents, addressing way that subscriber unit established connection with base station to initiate communication such as voice call on cellular telephone, meant transmits to the base station, one after the other, codes that are shorter than a regular length code.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+
+
+“Power control bit” in power control patents, related to how subscriber unit and base station adjusted their transmission power level after cellular telephone connection was established, meant single-bit power control information.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)3Particular Fields of Invention
+291k758Electricity and Electronics
+291k761Radio and telecommunications equipment
+
+
+Dual mode patent relating to subscriber units that could switch between different types of networks, such as code division multiple access (CDMA) networks and local wireless networks, to transfer data was invalid, as obvious, since prior art disclosed patent claim limitation.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,799,010. Cited.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 7,502,406, US Patent 7,706,332, US Patent 7,706,830, US Patent 8,009,636. Construed and Ruled Not Infringed.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 7,616,970. Invalid.
+Cases that cite this headnote
+
+
+
+*973 Appeals from the United States International Trade Commission in Investigation No. 337–TA–800.
+Attorneys and Law Firms
+Richard P. Bress, Latham & Watkins LLP, Washington, DC, argued for appellants. Also represented by Maximilian A. Grant, Bert C. Reiser, Gabriel Bell, Ron E. Shulman; Michael Brett Levin, David S. Steuer, Wilson, Sonsini, Goodrich & Rosati, PC, Palo Alto, CA.
+Panyin Hughes, Office of the General Counsel, International Trade Commission, Washington, DC argued for appellee. Also represented by Wayne W. Herrington.
+Patrick J. Flinn, Alston & Bird LLP, Atlanta, GA, argued for intervenors Nokia Inc., Microsoft Mobile Oy. Also represented by John D. Haynes, Scott Benjamin Pleune, Ross Ritter Barton.
+Jay H. Reiziss, Brinks Gilson & Lione, Washington, DC, for intervenor ZTE Corporation, ZTE (USA) Inc. Also represented by Cynthia A. Homan, Charles M. McMahon, David Lindner, Laura A. Lydigsen.
+Before PROST, Chief Judge, MAYER and LOURIE, Circuit Judges.
+Opinion
+PROST, Chief Judge.
+
+InterDigital Communications, Inc., InterDigital Technology Corporation, and IPR Licensing, Inc. (collectively, “InterDigital”) appeal from the final determination of the United States International Trade Commission (“Commission”) finding no violation of Section 337 of the Tariff Act of 1930, as amended, 19 U.S.C. § 1337. See Certain Wireless Devices with 3G Capabilities and Components thereof, Inv. No. 337–TA–800 (Dec. 19, 2013) (“Commission Decision ”). For the reasons set forth below, we affirm.
+ 
+
+BACKGROUND
+The patents at issue are directed to cellphone technology, and in particular, code division multiple access (“CDMA”) *974 networks. For purposes of this appeal, the following simplified overview of the technology is sufficient.1
+ 
+A CDMA network allows multiple cellphones, referred to in the patents as subscriber units, to use the same radio frequencies for multiple simultaneous communications. A CDMA system is able to do this by modulating the data with unique codes. One problem with CDMA systems is that signals within the same geographical area can interfere with one another, and that problem is exacerbated as transmission power levels are increased.
+ 
+
+A. Patents at Issue
+This appeal involves U.S. Patent Nos. 7,706,830 (“′830 patent”), 8,009,636 (“′636 patent”), 7,502,406 (“′406 patent”), 7,706,332 (“′332 patent”), and 7,616,970 (“′970 patent”). Throughout this case, the patents have been grouped as follows: (1) the Power Ramp–Up Patents (the ′830 and ′ 636 patents), (2) the Power Control Patents (the ′406 and ′332 patents), and (3) the Dual Mode Patent (the ′970 patent). We address each patent group below.
+ 
+
+1. The Power Ramp–Up Patents
+The Power Ramp–Up Patents address the way a subscriber unit establishes a connection with a base station in order to initiate a communication such as a voice call. In particular, these patents describe a subscriber unit that, in order to avoid unnecessary power usage and minimize interference with other connections, gradually ramps up the power level of its transmissions before initiating a call. See ′830 patent col. 6 ll. 55–67. The subscriber unit starts transmitting at a low power level and then repeatedly sends transmissions—called “short codes”—at increasing power levels until the base station detects the transmissions and sends back an acknowledgement to the subscriber unit. Id. The transmissions are called “short codes” because they are shorter than a regular length code. Id. col. 7 ll. 40–41. Once the acknowledgement is received, a substantive communication such as a voice call can be initiated. Id. col. 6 ll. 63–67.
+ 
+InterDigital asserts independent claim 1 and dependent claims 2, 3, and 5 of the ′830 patent and independent claim 1 and dependent claims 2, 4, and 6–8 of the ′636 patent. Claim 1 of the ′830 patent, which is representative for purposes of this appeal, provides in relevant part:
+1. A wireless code division multiple access (CDMA) subscriber unit comprising:
+a transmitter configured such that, when the subscriber unit is first accessing a CDMA network and wants to establish communications with a base station associated with the network over a communication channel to be indicated by the base station, the transmitter successively sends transmissions prior to the subscriber unit receiving from the base station an indication that at least one of the successively sent transmissions has been detected by the base station;
+wherein each of the successively sent transmissions is produced using a sequence of chips, wherein the sequence of chips is not used to increase bandwidth;
+....
+*975 wherein each of the successively sent transmissions is shorter than the message;
+....
+Id. col. 10 l. 54–col. 11 l. 16 (emphases added).
+ 
+
+2. The Power Control Patents
+The Power Control Patents relate to how the subscriber unit and the base station adjust their transmission power level after a connection is established. See ′406 patent col. 5 ll. 46–66. In particular, the patents describe sending messages back and forth indicating whether the power level should be increased or decreased. Id. These messages are known as “adaptive,” id. col. 2 ll. 29–30, or “automatic power control” information (“APC information”), id. col. 5 ll. 48–50.
+ 
+For the ′406 patent, InterDigital asserts dependent claims 6, 13, 20, and 26 (which depend, respectively, from independent claims 1, 7, 15, and 21) and independent claim 29. For the ′332 patent, InterDigital asserts claims 2–4, 7–11, 14, 22–24 and 27. Claims 1 and 7 of the ′406 patent, which InterDigital asserts are representative for present purposes, provide:
+1. A method for controlling transmission power levels of a code division multiple access (CDMA) subscriber unit, the method comprising:
+receiving by the subscriber unit a power control bit on a downlink control channel, the power control bit indicating either an increase or decrease in transmission power level;
+transmitting a plurality of channels by the subscriber unit, the plurality of channels including a traffic channel and a reverse control channel;
+in response to the received power control bit, adjusting a transmission power level of both the traffic channel and the reverse control channel, wherein the transmission power level of the traffic channel and the reverse control channel are different; and
+transmitting the traffic channel and the reverse control channel at their respective adjusted transmit power levels.
+′406 patent col. 14 l. 57–col. 15 l. 9 (emphases added).
+7. A method for controlling transmission power levels of a code division multiple access (CDMA) subscriber unit, the method comprising:
+receiving by the subscriber unit a series of power control bits on a downlink channel, each power control bit indicating either an increase or decrease in transmission power level;
+transmitting a plurality of channels by the subscriber unit, the plurality of channels including a traffic channel and a reverse control channel;
+adjusting a transmission power level of both the traffic channel and the reverse control channel in response to the same bits in the received series of power control bits, wherein the transmission power level of the traffic channel and the reverse control channel are different; and
+transmitting the traffic channel and the reverse control *976 channel at their respective adjusted transmit power levels.
+Id. col. 15 ll. 28–45 (emphases added).
+ 
+
+3. The Dual Mode Patent
+The Dual Mode Patent relates generally to subscriber units that can switch between different types of networks, such as CDMA cellular networks and local wireless networks, to transfer data. ′970 patent abstract. According to InterDigital, the patented innovation describes a way for the subscriber unit itself to make the CDMA communication channels available for use rather than waiting for the base station to allocate a channel.
+ 
+For the Dual Mode Patent, InterDigital asserts independent claim 1 and dependent claims 2–9. Claim 1 states in relevant part:
+1. A subscriber unit comprising:
+a cellular transceiver configured to communicate with a cellular network via a cellular layered communication protocol;
+....
+wherein the cellular layered communication protocol includes a plurality of layers above a physical layer, and a plurality of physical layer channels are available for assignment for communication with the cellular network and a communication session above the physical layer is maintained when all assigned physical layer channels have been released.
+Id. col. 11 ll. 5–24 (emphasis added).
+ 
+
+B. Commission Proceedings
+In 2011, InterDigital filed a complaint with the Commission, alleging that several importers were violating Section 337 by importing, selling for importation, or selling after importation into the United States wireless devices that infringe InterDigital’s patents. The Commission instituted an investigation and named several respondents, including intervenors Nokia Inc., Nokia Corporation,2 ZTE Corporation, and ZTE (USA) Inc. (collectively, “Intervenors”). 76 Fed.Reg. 54,252 (Aug. 31, 2011). After a seven-day hearing, the Administrative Law Judge (“ALJ”) issued a 448–page initial determination. Certain Wireless Devices with 3G Capabilities and Components thereof, Inv. No. 337–TA–800 (June 28, 2013) (“Initial Determination ”). The ALJ found the Power Ramp–Up Patents and the Power Control Patents not infringed and held the Dual Mode Patent invalid as obvious. After making a few modifications, the Commission upheld the rulings. InterDigital appealed, challenging the construction of a single claim term in each of the patent groups at issue.
+ 
+
+DISCUSSION
+We review the Commission’s legal rulings de novo and its findings of fact for substantial evidence. Osram GmbH v. Int’l Trade Comm’n, 505 F.3d 1351, 1355 (Fed.Cir.2007). In construing claims, we rely primarily on the claim language, the specification, and the prosecution history. Phillips v. AWH Corp., 415 F.3d 1303, 1314–17 (Fed.Cir.2005) (en banc). We *977 may also seek guidance from extrinsic evidence such as expert testimony, dictionaries, and treatises. Id. at 1317–18.
+ 
+
+A. The Power Ramp–Up Patents
+[1] At issue concerning the Power Ramp–Up Patents is the construction of “successively sends [or sent] transmissions.” The ALJ construed the term to mean “transmits to the base station, one after the other, codes that are shorter than a regular length code,” and the Commission adopted that construction. Commission’s Decision at 19. The Commission also adopted the ALJ’s conclusion that the patents “disclose that the codes successively transmitted during the random access process (i.e., the short codes) are neither modulated with data, nor used to modulate data.” Id. at 26. In so holding, the Commission relied on the fact that previously, when discussing a patent with the same specification as the Power Ramp–Up Patents, the Federal Circuit determined that:
+the specification describes various codes, such as pilot codes and short codes, as “spreading codes” even though they carry no data and are not intended to do so.
+InterDigital Commc’ns, 690 F.3d at 1326 (emphases added).
+ 
+The Commission also cited the following from the specification:
+The preferred embodiment of the present invention utilizes “short codes ” and a two-stage communication link establishment procedure to achieve fast power ramp-up without large power overshoots. The spreading code transmitted by the subscriber unit 16 is much shorter than the rest of the spreading codes (hence the term short code), so that the number of phases is limited and the base station 14 can quickly search through the code. The short code used for this purpose carries no data.
+′830 patent col. 7 ll. 36–44 (emphases added).
+ 
+Finally, the Commission relied on InterDigital’s expert, who testified as follows:
+Q. All right. Now the successively sent transmissions of claim 1, those are the short codes described in the 830 patent, correct?
+A. Yes, the repeated transmissions of the short code are the successively sent transmissions.
+Q. And in the power ramp-up patents, the short code is not applied to a data signal, correct?
+A. Correct.
+Commission Decision at 28.
+ 
+The Commission then affirmed the ALJ’s finding that the accused products do modulate data and thus do not meet the “successively sends transmissions” limitation.
+ 
+InterDigital now presents several arguments as to why “the Commission erred in limiting the successively transmitted short codes to codes ‘not modulated by data.’ ” Appellants’ Br. 33. First, InterDigital argues that the Commission improperly limited the claim term by relying on statements concerning only a preferred embodiment.
+ 
+This argument is not without weight. The limitation that short codes carry no data does follow a description of the preferred embodiment. And, as InterDigital argues, the contested limitation is not found in the only other places that short codes are mentioned, the Abstract and Summary of the Invention. See ′830 patent abstract (“The short code is a sequence for detection by the base station which has a much shorter period than a conventional access code.”); id. col. 3 ll. 22–24 (“The short code is a sequence for detection by the base station which has a much shorter *978 period than a conventional spreading code.”).
+ 
+But the argument does not carry sufficient weight. Given that the entire invention is described by reference to a preferred embodiment, the argument that the limitation is raised in the context of the preferred embodiment is less persuasive. And the fact that the carries-no-data limitation is expressly tied to the purpose of the short codes, which InterDigital does not dispute is universal to the invention, also undermines this argument.
+ 
+And we do not think that the summary statements about “short codes” in the Abstract and Summary of the Invention—where full explanations of the term are not expected—are sufficient to justify a broader reading of short codes. See 37 C.F.R. § 1.72(b) (“The purpose of the abstract is to enable the Office and the public generally to determine quickly from a cursory inspection the nature and gist of the technical disclosure.”).
+ 
+In the end, InterDigital’s argument that the carries-no-data limitation applies only to a preferred embodiment, although not trivially dismissed, is insufficient to overcome this court’s prior conclusions, a proper reading of the specification, and InterDigital’s own expert testimony.
+ 
+Second, InterDigital argues that “the Commission’s construction improperly excludes an express preferred embodiment.” Appellants’ Br. 44. The Power Ramp–Up Patents’ specification expressly incorporates by reference U.S. Patent No. 5,799,010 (“′010 patent”). According to InterDigital, in the ′ 010 patent “the short codes are modulated by ‘data’ in the sense that the selection from among a known set of short codes could indicate [information].” Id. at 45 (emphasis added). InterDigital then argues that, in that sense, the accused products do the same thing, and should be found to infringe.
+ 
+As an initial matter, this argument would have been more effective at challenging the Commission’s infringement analysis and not its claim construction. Whether the accused products, in some sense, do the same thing as disclosed in the patent sheds little light on the proper construction of the claim term, the only issue before us. Further, InterDigital’s argument hinges on conclusory statements about what the ′010 patent discloses, and InterDigital fails to properly develop or support those conclusions. InterDigital’s citation to a single table in the ′010 patent is insufficient. Ultimately, InterDigital’s argument concerning the ′010 patent is unpersuasive.
+ 
+Third, InterDigital argues that “[t]he Commission’s supporting citations indicate that it also reasoned that the short codes cannot carry data because that would purportedly make the successively sent transmissions unrecognizable to the base station, rendering the system inoperable.” Id. at 40. InterDigital then goes on to describe why, in its view, this rationale cannot support the Commission’s construction and corresponding finding of no infringement. In response, Intervenors and the Commission contend that InterDigital’s argument was improperly raised for the first time on appeal. Ultimately, we need not reach these arguments and counterarguments because, at most, InterDigital’s position merely undermines unnecessary support for the Commission’s holding. The Commission’s construction can stand without this support.
+ 
+Fourth, InterDigital argues that the principles of claim differentiation support not limiting short codes to codes that do not carry data. According to InterDigital, other related patents confirm that short codes can include data. In those patents some of the independent claims provide *979 that the transmitted signals “carry no data,” while others do not. InterDigital argues that under the principles of claim differentiation, the short codes in claims that do not have a carry-no-data limitation, can carry data. But, as the Commission points out, claim differentiation arguments are strongest when distinguishing dependent claims from their independent claims. Cf. World Class Tech. Corp. v. Ormco Corp., 769 F.3d 1120, 1125 (Fed.Cir.2014) (“The doctrine of claim differentiation creates a presumption that distinct claims, particularly an independent claim and its dependent claim, have different scopes.”). Here, InterDigital is attempting to extract meaning by comparing independent claims that are distinguishable in other ways. See Andersen Corp. v. Fiber Composites, LLC, 474 F.3d 1361, 1370 (Fed.Cir.2007) (“A further reason for not applying the doctrine of claim differentiation in this case is that the [claims at issue] are not otherwise identical.... Instead, there are numerous other differences varying the scope of the claimed subject matter.”). Further, those patents, although related to the present patents, are not the patents at issue in this case. The force of claim differentiation here is diminished and insufficient to overcome the evidence supporting the Commission’s construction.
+ 
+We have considered InterDigital’s remaining arguments concerning these patents and find them unpersuasive. We affirm the Commission’s construction of “successively sends [or sent] transmissions,” and correspondingly affirm its finding of no infringement of the Power Ramp–Up Patents.
+ 
+
+B. The Power Control Patents
+[2] At issue concerning the Power Control Patents is the Commission’s construction of “power control bit.” The ALJ construed the term to mean “single-bit power control information transmitted at an APC data rate equivalent to the APC update rate.” Initial Determination at 101. The Commission modified the construction to be simply “single-bit power control information,” and struck the later part of the ALJ’s construction. Commission Decision at 30. It then affirmed the ALJ’s finding of no infringement based on the ALJ’s finding that the accused products use only multi-bit power control commands.3 Id. at 38–39.
+ 
+On appeal, InterDigital contends that the Commission erred in limiting the term to single-bit power control commands. InterDigital presents several arguments in support of its position. First, InterDigital turns to the language of the claims and argues that some of the ′406 patent claims, such as claims 6 and 20, recite “the received power control bit,” whereas other claims, such as claims 13 and 26, recite “the received series of power control bits.” InterDigital argues that if the latter claims are not construed to include multi-bit power control commands, “the express distinction in the language of these claims would be meaningless.” Appellants’ Br. 51.
+ 
+But this claim differentiation argument is unpersuasive. As noted above, principles of claim differentiation are often of limited use where, as here, one is comparing two independent claims and not dependent claims with the claims from which they depend. And ultimately, the latter *980 claims are sufficiently differentiated by requiring a series of single-bit power control commands, and therefore need not rely on the inclusion of multi-bit power control commands for differentiation. It is not the case, as Inter–Digital contends, that under the Commission’s construction “claims 13 and 26 ‘cover [ ] exactly the same subject matter’ as claims 6 and 20, respectively.” Id.
+ 
+Finally, the plain language of the claims shows that multi-bit power commands were not encompassed within the scope of those claims, even where a series of power control bits is referenced. For example, the relevant part of asserted claim 26 of the ′406 patent states:
+a despreading and demultiplexing device configured to recover a series of power control bits from a downlink channel, wherein each power control bit has a value indicating a command to either increase or decrease transmission power level.
+′406 patent col. 16 ll. 36–40 (emphases added).
+ 
+Second, InterDigital turns to the specifications and argues that the portions of the specifications relied on by the Commission relate only to the preferred embodiment. As noted by the Commission, the specifications do not use the term “power control bit,” instead discussing APC information. Commission Decision at 35–36. The Commission thus looked to the discussion of APC information to inform its construction of “power control bit.” For example, the Commission relied on the following statements, among others, to conclude that APC information is conveyed as single-bit commands:
+APC information is always conveyed as a single bit of information, and the APC Data Rate is equivalent to the APC update rate.
+′406 patent col. 9 ll. 46–48 (emphasis added). Further,
+[t ]he APC signal is transmitted as one bit signals on the APC Channel. The one-bit signal represents a command to increase (signal is logic-high) or decrease (signal is logic-low) the associated transmit power. In the described embodiment, the 64kbps APC data stream is not encoded or interleaved.
+Id. col. 6 ll. 47–52 (emphases added). Similarly, in the ′332 patent:
+The APC bits are transmitted as one bit up or down signals on the APC channel. In the described embodiment, the 64 kbs APC data stream is not encoded or interleaved.
+′332 patent col. 64 ll. 12–14 (emphasis added).
+ 
+InterDigital argues that these limiting statements are all confined to preferred embodiments. But this argument is unpersuasive. These statements do appear in sections describing preferred embodiments. That point, however, carries limited weight because in both patents the entire invention “has been described in terms of the exemplary embodiment.” ′406 patent col. 14 ll. 51–52. There is no discussion of a broader meaning for the term other than boilerplate language that “it is understood by those skilled in the art that the invention may be practiced with modifications to the embodiment that are within the scope of the invention as defined by the following claims.” Id. col. 14 ll. 52–55.
+ 
+Further, and most importantly, the language of the excerpts shows that the concept of single-bit power control commands is not limited to preferred embodiments. As to the first excerpt, the use of “always” when referring to the use of “single bit of information,” but not when referring to the APC Data Rate, indicates that the single-bit limitation is universal to the invention, *981 whereas the APC Data Rate is not. The second and third excerpts contain that same distinction, expressly limiting certain characteristics of the APC data stream to the “described embodiment,” but not so limiting the concept of single-bit power control information.
+ 
+InterDigital also argues that a skilled artisan at the time of the invention would have understood the term “power control bit” in the same way as that term was used in an industry standard with which the accused devices comply. And under that standard, a “power control bit” can be represented by multiple symbols and, in turn, multiple underlying bits.
+ 
+But InterDigital provides no intrinsic evidence to support its view that “power control bit” was defined the same way in the Power Control Patents as in the industry standard. And, to the extent that InterDigital is implying that the commission erred in its construction of “bit,” the argument is unpersuasive because the adopted construction also uses the term “bit,” without restriction as to what constitutes a bit.
+ 
+In sum, InterDigital’s arguments that the Commission erred in construing “power control bit” are unpersuasive. We affirm the Commission’s construction and its corresponding finding of no infringement.
+ 
+
+C. The Dual Mode Patent
+[3] The Commission adopted the ALJ’s holding that the claims of the Dual Mode Patent are invalid as obvious. At issue on appeal is the construction of “a plurality of physical layer channels are available for assignment for communication with the cellular network.” The ALJ adopted InterDigital’s proposed construction of the term, construing it to mean “two or more physical layer channels allocable by the subscriber unit for data communication.” Initial Determination at 303 (emphasis added).
+ 
+As part of the obviousness holding, the ALJ reasoned that (1) in the context of the ′970 patent, “allocation” means the same thing as “use,” (2) the prior art subscriber units use two or more channels to transmit data, and, thus, (3) the prior art discloses the contested limitation.
+ 
+Given that the ALJ adopted InterDigital’s proposed construction, InterDigital understandably does not challenge the express construction. Instead, it argues that the ALJ improperly modified the construction when doing its obviousness analysis, specifically by equating “allocation” with “use.” InterDigital believes that had the ALJ not equated the terms it would not have held the claims obvious.
+ 
+InterDigital’s argument is unpersuasive for several reasons, most notable of which is that it was InterDigital’s own expert that equated “allocation” and “use.” InterDigital’s expert testified as follows:
+Q. Your definition of assign, right is to allocate for use?
+....
+A. .... Yes. My definition of assign is to use the channel, actually.
+Q. So allocate is use?
+A. Allocate, use, assign, yes.
+Q. So—and in testimony you just gave, when the data is presented to the terminal, the terminal can use or assign in your way—the way you interpret assign to whatever channels it needs to send that data, correct?
+A. The terminal, when presented with data that it needs to be transmitted will use a certain number of channels that transmit that data from the mobile subscriber unit to the base station.
+Q. And that’s—using there is assigning within the claim language, correct?
+A. Yeah, use, assign, yes.
+*982 J.A. 30498–99. Thus, according to InterDigital’s own expert, in the context of this patent “assign,” “allocate,” and “use” have the same meaning. It follows that the corresponding claim limitation is satisfied when a subscriber unit can use two or more physical layer channels for communication. InterDigital has provided no compelling contrary evidence and has not shown that any other understanding of the construction it proposed is more appropriate.
+ 
+InterDigital’s evidence that allocation must occur at the subscriber unit—and not at the base station—is unhelpful because the ALJ never concluded otherwise. Indeed, when addressing infringement, the ALJ concluded that “the ′ 970 claims are directed to ‘a subscriber unit’, and that any allocation of channels must therefore be performed by the subscriber unit, not the base station.” Initial Determination at 305. At core, InterDigital simply disagrees with the breadth of the ALJ’s understanding of “allocable” as used in the construction. But the ALJ’s understanding was properly based on InterDigital’s expert testimony, and InterDigital has provided insufficient evidence that a different understanding is warranted.
+ 
+Having rejected InterDigital’s only argument on appeal, we affirm the ALJ’s conclusion that the claims are invalid as obvious.
+ 
+
+CONCLUSION
+We have considered the remaining arguments and conclude that they are without merit. For the foregoing reasons, the Commission’s decision is affirmed.
+ 
+AFFIRMED
+ 
+All Citations
+601 Fed.Appx. 972, 36 ITRD 1480, 115 U.S.P.Q.2d 1388
+Footnotes
+
+1
+
+We provided a more detailed description of this technology in InterDigital Commc’ns, LLC v. Int’l Trade Comm’n, 690 F.3d 1318, 1320–21 (Fed.Cir.2012), an appeal involving related patents and technology.
+
+2
+
+Nokia Corporation subsequently transferred its Devices & Services Business to Microsoft Mobile Oy. Microsoft Mobile Oy was correspondingly substituted as an intervenor in this appeal. InterDigital Commc’ns, LLC v. Int’l Trade Comm’n, No. 2014–1176 (Fed.Cir. July 11, 2014) (order granting motion to substitute intervenor).
+
+3
+
+Having found no infringement the Commission did not address the ALJ’s determination that the claims were not invalid as anticipated. Intervenors argue that “[o]n de novo review, the Court should reverse this finding and conclude that, under the correct priority date, all asserted claims are anticipated by the [prior art].” Intervenors’ Br. 52. Because we affirm the Commission’s finding of no infringement, we do not reach the merits of this argument or whether this issue is even properly before us.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

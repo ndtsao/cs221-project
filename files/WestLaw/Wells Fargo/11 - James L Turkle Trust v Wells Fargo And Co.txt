@@ -1,0 +1,178 @@
+
+
+ 
+
+
+James L. Turkle Trust v. Wells Fargo & Co.
+United States Court of Appeals, Ninth Circuit. | February 10, 2015 | 602 Fed.Appx. 360 | 2015 WL 528004
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+James L. Turkle Tr. v. Wells Fargo & Co., 602 F. App’x 360 (9th Cir. 2015)
+
+All Citations:
+
+602 Fed.Appx. 360
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+602 Fed.Appx. 360
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+JAMES L. TURKLE TRUST, individually and on behalf of all others similarly situated, Plaintiff–Appellant,
+v.
+WELLS FARGO & COMPANY, a Delaware Corporation, Defendant–Appellee.
+No. 12–16629.
+|
+Argued and Submitted Oct. 7, 2014.
+|
+Filed Feb. 10, 2015.
+Synopsis
+Background: Former holder of now-redeemed trust preferred securities issued by bank holding company brought putative class action against issuer’s successor, relating to successor’s redemption of the securities, and asserting claims under New York law for breach of contract and breach of implied covenant of good faith and fair dealing. The United States District Court for the Northern District of California, Claudia Wilken, Senior District Judge, 2012 WL 2568208, granted successor’s motion to dismiss for failure to state a claim. Holder appealed.
+ 
+[Holding:] The Court of Appeals held that trust indenture allowed the securities to be redeemed based on enactment of legislation that affected successor’s capital treatment of the securities after indenture’s optional redemption date.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Banks and BankingPermitted activities;  non-banking business
+
+
+52Banks and Banking
+52XIIBank Holding Companies
+52k521Federal Regulation
+52k523Permitted activities;  non-banking business
+
+
+“Capital treatment event” provision of trust indenture for trust preferred securities issued by bank holding company, which authorized redemption if issuer reasonably determined, based on an announced prospective change in federal laws or regulations, that there was more than an insubstantial risk that issuer would not be entitled to treat an amount equal to the aggregate liquidation amount of such securities as tier 1 capital, allowed issuer to redeem the securities before indenture’s optional redemption date, which date allegedly guaranteed holders five years of interest payments before any redemption, though the Dodd–Frank Wall Street Reform and Consumer Protection Act, which was enacted before optional treatment date, would not have an effect on issuer’s capital treatment of the securities until after the optional redemption date.
+Cases that cite this headnote
+
+
+
+[2]
+
+PleadingDisjunctive and alternative allegations
+
+
+302Pleading
+302IForm and Allegations in General
+302k20Disjunctive and alternative allegations
+
+
+New York law did not recognize a separate cause of action for breach of implied covenant of good faith and fair dealing, by former holder of now-redeemed trust preferred securities issued by bank holding company pursuant to a trust indenture, where holder also pled a breach of contract claim based on same facts.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*360 Robert C. Schubert, Jason Pikler, Schubert Jonckheer & Kolbe LLP, San Francisco, *361 CA, Edwin Cordell Schreiber, Eric Andrew Schreiber, Schreiber & Schreiber, Inc., Encino, CA, for Plaintiff–Appellant.
+Bruce A. Ericson, Esquire, Jeffrey Jacobi, Pillsbury Winthrop Shaw Pittman LLP, San Francisco, CA, for Defendant–Appellee.
+Appeal from the United States District Court for the Northern District of California, Claudia Wilken, Senior District Judge, Presiding. D.C. No. 4:11–cv–06494–CW.
+Before: W. FLETCHER and WATFORD, Circuit Judges, and DUFFY, District Judge.*
+
+
+MEMORANDUM**
+James L. Turkle Trust (“Turkle Trust” or “Plaintiff”) appeals the dismissal of its claims against Wells Fargo & Company (“Wells Fargo” or “Defendant”) under Rule 12(b)(6) of the Federal Rules of Civil Procedure. Turkle Trust alleges that, by redeeming certain trust preferred securities when it did, Wells Fargo breached the agreements governing those securities and the implied covenant of good faith and fair dealing. Turkle Trust seeks damages of $79.7 million on behalf of a putative class for payments that would have been made if not for the redemption. We review the dismissal for failure to state a claim de novo, and the denial of leave to amend the complaint for abuse of discretion. Cervantes v. Countrywide Home Loans, Inc., 656 F.3d 1034, 1040–41 (9th Cir.2011). A question of jurisdiction arose prior to oral argument. Both parties argued, and we agree, that jurisdiction exists under the diversity statute, 28 U.S.C. § 1332. We have jurisdiction to hear this appeal pursuant to 28 U.S.C. § 1291. Because the Indenture gave Wells Fargo the right to redeem the securities when it did, we affirm the decision of the district court.
+ 
+
+I. Background
+This appeal concerns the interpretation of contract provisions that govern the redemption of Wachovia Capital Trust X 7.85% Trust Preferred Securities (the “trust preferred securities”) issued in 2007, assumed by Wells Fargo in 2008, and held by Turkle Trust as of 2011.
+ 
+Pursuant to the Indenture, the trust preferred securities were to make quarterly payments to their holders at a 7.85% annual interest rate. The Indenture gave Wells Fargo the ability to redeem the trust preferred securities, and therefore, to stop making quarterly payments, in two relevant circumstances. First, Wells Fargo had the option to redeem the trust preferred securities “in whole or in part” “at any time on or after December 15, 2012.” (The parties have referred to that date as the “optional redemption date.”) Second, Wells Fargo could redeem the trust preferred securities “in whole but not in part” upon the occurrence of a Capital Treatment Event.
+ 
+According to the Indenture, a “Capital Treatment Event” is:
+the reasonable determination by [Wells Fargo] that, as a result of the occurrence of any amendment to, or change (including any announced prospective change) in, the laws (or any rules or regulations thereunder) of the United States ... there is more than an insubstantial risk that [Wells Fargo] will not be entitled to treat an amount equal to *362 the aggregate Liquidation Amount of such Trust Preferred Securities as “tier 1 capital” (or the then equivalent thereof) for purposes of the capital adequacy guidelines of the Federal Reserve....
+Turkle Trust acknowledges that if a Capital Treatment Event occurred, Wells Fargo was entitled to redeem the trust preferred securities.
+ 
+The passage of the Dodd–Frank Wall Street Reform and Consumer Protection Act (“Dodd–Frank”) in July 2010 changed the law relating to trust preferred securities. Under Dodd–Frank, bank holding companies would no longer be permitted to use trust preferred securities as Tier 1 capital; however, that limitation was to be phased in over a period of years, beginning in 2013. Thus, the change in law did not take effect, and had no impact on the capital treatment of the trust preferred securities, until after the December 15, 2012 optional redemption date. Wells Fargo reported in a Form 8–K filed with the Securities and Exchange Commission that, in its determination, Dodd–Frank triggered the Capital Treatment Event clause, and Wells Fargo redeemed the trust preferred securities on October 3, 2011.
+ 
+
+II. Discussion
+“To survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’ ” Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (internal citation omitted). We construe the pleadings in the light most favorable to Turkle Trust, but we need not accept allegations that are contradicted by documents referenced in the complaint. See Steckman v. Hart Brewing, Inc., 143 F.3d 1293, 1295–96 (9th Cir.1998).
+ 
+
+A. Breach of Contract
+[1] Turkle Trust contends that the district court erred because it failed to interpret the Capital Treatment Event clause in light of the overall bargain set forth in the Indenture. Turkle Trust characterizes the Indenture as guaranteeing five years of interest payments to the holders so long as Wells Fargo retained its five years of Tier 1 capital treatment. Turkle Trust argues that because the change in Tier 1 capital status would not occur until after the optional redemption date, Wells Fargo’s redemption prior to the optional redemption date violated the terms of the Indenture. The Indenture’s language does not support Turkle Trust’s interpretation.
+ 
+The Indenture, governed by New York law, must “be construed in accordance with the parties’ intent, which is generally discerned from the four corners of the document itself.” MHR Capital Partners LP v. Presstek, Inc., 12 N.Y.3d 640, 884 N.Y.S.2d 211, 912 N.E.2d 43, 47 (2009). “[A] written agreement that is complete, clear and unambiguous on its face must be enforced according to the plain meaning of its terms.” Greenfield v. Philles Records, Inc., 98 N.Y.2d 562, 750 N.Y.S.2d 565, 780 N.E.2d 166, 170 (2002).
+ 
+Turkle Trust’s understanding of the bargain cannot be reconciled with the plain language of the Indenture. The Indenture’s definition of Capital Treatment Event is not limited to the change in capital status for the securities; it is broader and includes “any announced prospective change” that creates a “more than ... insubstantial risk” of the loss of such status. Given that broad definition, it does not make sense to read the Capital Treatment Event clause as permitting redemption before December 15, 2012 only upon actual, as opposed to prospective, status change. Moreover, Turkle Trust does not *363 identify any contractual language that convinces us that the optional redemption clause serves as a limit on the Capital Treatment Event clause. The two clauses read as distinct provisions without impact on each other.
+ 
+Turkle Trust makes several alternative arguments for district court error, but each puts a different legal gloss on the same underlying premise: that the Capital Treatment Event clause is limited by the optional redemption clause such that Wells Fargo should have been precluded from redeeming when it did. The plain meaning of the Indenture does not permit the two clauses to be overlaid in that way. For that reason, Turkle Trust’s alternate arguments for breach of contract fail.
+ 
+Accordingly, we hold that the district court did not err in dismissing Turkle Trust’s breach of contract claim without leave to amend.1
+ 
+
+B. Breach of Implied Covenant
+[2] “New York law ... does not recognize a separate cause of action for breach of the implied covenant of good faith and fair dealing when a breach of contract claim, based upon the same facts, is also pled.” Harris v. Provident Life & Accident Ins. Co., 310 F.3d 73, 81 (2d Cir.2002). Thus, the district court did not err in dismissing Turkle Trust’s claim that Wells Fargo had breached the implied covenant of good faith and fair dealing.2
+ 
+AFFIRMED.
+ 
+All Citations
+602 Fed.Appx. 360
+Footnotes
+
+*
+
+The Honorable Kevin Thomas Duffy, District Judge for the U.S. District Court for the Southern District of New York, sitting by designation.
+
+**
+
+This disposition is not appropriate for publication and is not precedent except as provided by Ninth Circuit Rule 36–3.
+
+1
+
+Turkle Trust further argues that the district court erred by considering extrinsic evidence in construing the redemption clauses. We need not reach this issue, as we affirm the district court’s dismissal on the basis of the plain language of the contract alone.
+
+2
+
+Because we conclude that the district court properly dismissed the complaint on the merits, we need not reach Wells Fargo’s argument that Turkle Trust lacked standing under the governing agreements.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

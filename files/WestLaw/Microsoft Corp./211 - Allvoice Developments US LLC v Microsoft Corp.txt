@@ -1,0 +1,290 @@
+
+
+
+
+
+Allvoice Developments US, LLC v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | May 22, 2015 | 612 Fed.Appx. 1009 | 2015 WL 2445055
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Aatrix Software, Inc. v. Green Shades Software, Inc., M.D.Fla., March 30, 2016
+
+standard Citation:
+
+Allvoice Developments US, LLC v. Microsoft Corp., 612 F. App’x 1009 (Fed. Cir. 2015)
+
+All Citations:
+
+612 Fed.Appx. 1009, 115 U.S.P.Q.2d 1750
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Aatrix Software, Inc. v. Green Shades Software, Inc., M.D.Fla., March 30, 2016
+612 Fed.Appx. 1009
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+ALLVOICE DEVELOPMENTS US, LLC, Plaintiff–Appellant
+v.
+MICROSOFT CORP., Defendant–Appellee.
+No. 2014–1258.
+|
+May 22, 2015.
+Synopsis
+Background: Patentee brought infringement action against competitor, claiming competitor infringed on its patent directed to a speech recognition product that allowed users to store an audio recording in dictation, replay the recording to correct the recognized text, and directly dictate into any application. The United States District Court for the Western District of Washington, Richard A. Jones, J., 988 F.Supp.2d 1248, construed patent terms, denied patentee leave to amend, and granted summary judgment of non-infringement to competitor. Patentee appealed.
+ 
+Holdings: The Court of Appeals, O’Malley, Circuit Judge, held that:
+ 
+[1] the District Court did not abuse its discretion in finding that patentee failed to specifically reference a feature of the accused product;
+ 
+[2] the District Court did not abuse its discretion in precluding patentee from amending its infringement contentions; and
+ 
+[3] the patent’s application interface claims were invalid for not falling within any category of patent-eligible subject matter.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+PatentsPreliminary infringement contentions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)2Pleadings and Motions
+291k1772Complaint or Other Initial Pleading
+291k1780Infringement and Injury, Loss, or Damage
+291k1780(3)Preliminary infringement contentions
+
+
+District Court did not abuse its discretion in finding that patentee failed to specifically reference a feature of the accused product as meeting the “link data” limitation of patentee’s speech recognition patent and precluding patentee from relying on that feature in opposing competitor’s motion for summary judgment of non-infringement, where patentee did not explicitly reference the feature in its operative infringement conditions, even though patentee did generally refer to the feature in references to the memory of the accused product. U.S.Dist.Ct.Rules W.D.Wash., Patent Rule 124(c).
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsPreliminary infringement contentions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)2Pleadings and Motions
+291k1772Complaint or Other Initial Pleading
+291k1780Infringement and Injury, Loss, or Damage
+291k1780(3)Preliminary infringement contentions
+
+
+District Court did not abuse its discretion in deciding that patentee did not act diligently in moving to amend its infringement contentions after the Court construed patents terms different from that proposed by patentee, thus precluding grant of leave to amend its infringement contentions, where patentee waited three months after the Court’s Markman order and 19 months after the joint claim chart of disputed terms to seek amendment. U.S.Dist.Ct.Rules W.D.Wash., Patent Rule 124(a).
+1 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k459In general
+
+
+Application interface claims in a patent for a speech recognition product did not recite a process or a tangible or physical object, and thus were invalid for not falling within any category of patent-eligible subject matter, where the claimed interfaces were software instructions without any hardware limitations. 35 U.S.C.A. § 101.
+15 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,799,273. Construed and Ruled Invalid and Not Infringed.
+Cases that cite this headnote
+
+
+
+*1010 Appeal from the United States District Court for the Western District of Washington in No. 2:10–cv–02102–RAJ, Judge Richard A. Jones.
+Attorneys and Law Firms
+Daniel J. Shih, Susman Godfrey L.L.P., Seattle, WA, argued for plaintiff-appellant. Also represented by Ian B. Crosby, Rachel S. Black; Chris Paul Perque, Gardere Wynne Sewell LLP, Houston, TX.
+David Jason Lender, Weil, Gotshal & Manges LLP, New York, N.Y., argued for defendant-appellee. Also represented by Edward R. Reines, Redwood Shores, CA; Douglas Wayne McClellan, Houston, TX; David E. Killough, Microsoft Corporation, Redmond, WA.
+Before PROST, Chief Judge, DYX, and O’MALLEY, Circuit Judges.
+Opinion
+O’MALLEY, Circuit Judge.
+
+Allvoice Developments US, LLC (“Allvoice”) appeals the district court’s grant of summary judgment that Microsoft Corporation’s (“Microsoft”) accused products do not infringe the asserted claims of U.S. Patent No. 5,799,273 (the “′273 Patent”) and that claims 60–68 of the ′273 Patent *1011 are invalid under 35 U.S.C. § 101 (2012).1 The district court’s December 23, 2013 judgment of non-infringement depended upon its findings that Allvoice’s infringement contentions did not disclose Allvoice’s only infringement theory for the “link data” limitation and that Allvoice was not diligent in seeking to amend its infringement contentions. Because we find that the district court did not abuse its discretion in reaching those conclusions, we affirm the judgment of non-infringement. Because claims 60–68 are not directed to one of the four statutory categories of inventions identified in 35 U.S.C. § 101, we also affirm the judgment of invalidity as to those claims.
+ 
+
+BACKGROUND
+Allvoice is the owner of the ′273 Patent. The ′273 Patent is directed to a speech recognition product that allows users to store an audio recording of a dictation, replay the recording to correct the recognized text, and directly dictate into any application, as opposed to requiring a user to copy and paste the recognized language from a proprietary dictation application into other applications. ′273 Patent col. 1 l. 59–col. 2 l. 55. The ′273 Patent achieves this by utilizing an interface application program (“IAP”) that communicates with a speech-recognition engine and the user’s chosen text processing application. The interface forms link data that associates the positions of the recognized words with the audio data. This interface also updates the link data when changes to the text are made to ensure that the correct associations between text and audio data are maintained.
+ 
+In August 2009, Allvoice filed suit against Microsoft, alleging infringement of the ′273 Patent. The following July, Allvoice served its first amended infringement contentions (“operative infringement contentions”), asserting claims 1–3, 10–13, 15, 19, 20, 26, 28, 37–38, 40, 44–45, 47, 49–75, and 77 of the ′273 Patent against Microsoft, identifying the particular Microsoft products accused of infringement, and specifying how those products met each claim limitation of the asserted claims. Following this exchange, the parties began the claim construction process by submitting a joint claim construction chart of disputed claim terms on September 3, 2010 and filing their respective claim construction briefs. Microsoft also amended its interrogatory responses disputing Allvoice’s infringement contentions, expressly disclaiming, among other things, that its products satisfy the “link data” limitation in the claims of the ′273 Patent. During this time, Microsoft also filed a motion for partial summary judgment of invalidity, where Microsoft alleged that some of the asserted claims were invalid for failure to comply with § 101 and others were invalid under § 112.
+ 
+On May 13, 2011, the district court held a hearing on the parties’ claim construction disputes and Microsoft’s motion for summary judgment of invalidity. On December 21, 2011, the district court issued its order construing several terms and granting-in-part Microsoft’s motion. See Allvoice Devs. US, LLC v. Microsoft Corp., No. 2:10–cv–2102, slip op. at 1 (W.D.Wash. Dec. 21, 2011) (hereinafter, “Markman opinion”). Specifically, the district court *1012 concluded that claims 60–68 are invalid for failing to qualify as one of the four statutory categories of invention, because the claims did not describe a manufacture, as Allvoice asserted, but rather merely claimed software instructions, which, alone, is not a tangible object. Id. at 5–6. Additionally, the district court found that claims 1–27, 40, 44–45, 47, 52–55, 58–59, 65, 69–70, and 75–76 are invalid for indefiniteness. Id. at 6–8. With respect to the disputed claim terms, the district court construed “audio identifiers identifying audio components corresponding to each recognized word”—the “audio identifier” limitation—to mean “[i]dentifiers that indicate, for each recognized word, (1) the file containing the corresponding audio component and (2) the position of the corresponding audio component within that file.” Id. at 15. Additionally, the district court adopted Microsoft’s proposed construction for the term “said link data comprising the audio identifiers and the determined positions of corresponding recognized words”—the “link data” limitation—finding that the term means “[l]ink data, which is stored in the interface application memory, includes the character positions of recognized words [or characters] in the text processing application and the corresponding audio identifiers for those words [or characters].” Id. at 16.
+ 
+Following the district court’s claim construction order, Allvoice filed a motion to amend its infringement contentions in April 2012, contending that it was necessary to do so in order to provide clarification and also to address the court’s claim construction rulings. See Allvoice Devs. US, LLC v. Microsoft Corp., No. 2:10–cv–2102, slip op. at 1 (W.D.Wash. Dec. 27, 2012). Applying Local Patent Rule 124, which allows for such amendments after a timely showing of good cause, the district court found that Allvoice had failed to meet this burden. Id. at 5. In order to demonstrate good cause, the district court required Allvoice to show that it was diligent in requesting the amendment and that Microsoft would not be prejudiced by the amendment. Id. at 2. Because Allvoice had served its operative infringement contentions on July 23, 2010, was aware of Microsoft’s claim construction arguments in September 2010, and had the order on claim construction from the court in December 2011, but did not move to amend its contentions until April 2012, and, did not attempt to show good cause for its delay, the district court concluded that Allvoice failed to prove that it had been diligent in seeking an amendment. Id. at 3–4. While the district court recognized that Allvoice and Microsoft had agreed that Allvoice could file its motion to amend on or before April 12, 2012, the court concluded that this fact did not trump the need to demonstrate diligence, especially because Microsoft did not agree to the amendment, only the filing of a motion seeking leave to do so. Because it found that Allvoice had been dilatory in filing its motion to amend, the district court did not consider whether Microsoft would have been prejudiced, and denied Allvoice’s motion to amend. Id. at 5.
+ 
+Subsequently, Microsoft filed a motion for summary judgment of non-infringement, alleging that its accused products did not meet either the “link data” limitation or the “audio identifier” limitation as construed by the district court. Microsoft also argued that its accused products did not store an audio message as required by claims 56 and 57, that its products did not infringe under the doctrine of equivalents, and that it did not indirectly infringe the patent-in-suit. The district court agreed on all grounds and granted summary judgment in favor of Microsoft as to all remaining asserted claims, claims 28, 37–38, 49–51, 56–57, 71–74, and 77. Allvoice Devs. *1013 US, LLC v. Microsoft Corp., 988 F.Supp.2d 1248, 1263 (W.D.Wash.2013) (hereinafter, “Summary Judgment Order ”).
+ 
+Allvoice timely appealed to this court. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+On appeal, Allvoice challenges several of the district court’s rulings, including its decisions regarding the operative and proposed amended infringement contentions, the construction of the “link data” and “audio identifier” terms, the grant of summary judgment of no direct infringement for the “link data” and “audio identifier” terms, including the refusal to consider infringement of the “audio identifier” term under the doctrine of equivalents, the interpretation of claims 56 and 57 to require the storage of audio data received from the speech recognition engine, the grant of summary judgment of no indirect infringement, and the grant of summary judgment of invalidity with respect to claims 60–68.2
+ 
+
+A. Summary Judgment of Non–Infringement
+The district court granted summary judgment of non-infringement, in part, because Allvoice could not prove that Microsoft’s accused products met the “link data” limitation, which is present in all asserted claims, including claims 56 and 57. Summary Judgment Order, 988 F.Supp.2d at 1260. Allvoice concedes that only the “Text Services Framework (“TSF”) property store” in the accused products arguably satisfies this limitation. The district court, however, found that Allvoice failed to identify the TSF property store in either its original or its first amended infringement contentions. Id. at 1259. Because Allvoice failed to disclose this theory in its operative infringement contentions, the district court concluded that Allvoice could not rely upon it for purposes of opposing summary judgment. In the absence of any allegation that Microsoft’s products contained the claimed “link data,” the district court granted summary judgment in favor of Microsoft. Id. at 1260.
+ 
+Allvoice contends that the district court abused its discretion when it determined that Allvoice’s operative infringement contentions did not sufficiently identify where link data is found within the accused products. In the alternative, Allvoice argues that, even if its infringement contentions were deficient with respect to the “link data” limitation, the district court abused its discretion in denying Allvoice’s motion to amend those contentions to specifically include a reference to the TSF property store. If the district court had considered the TSF property store aspect of Microsoft’s products, Allvoice maintains that summary judgment of non-infringement would not have been granted.
+ 
+
+1. Operative Infringement Contentions
+[1] Allvoice alleges that its infringement contentions adequately identified the SAPI Server as meeting the “link data” limitation. Because it disclosed in its contentions that the link data is stored in the memory of the SAPI Server in Microsoft’s products and stated that the SAPI Server includes the TSF, Allvoice contends that it sufficiently disclosed that the link data is stored in the property storage of the TSF, because that is what the SAPI Server’s memory is.
+ 
+*1014 Allvoice, however, fails to demonstrate how the district court’s decision that Allvoice was required to explicitly reference the TSF property store in its contentions was an abuse of discretion. This court gives “broad deference” to a district court’s enforcement of local patent rules. SanDisk Corp. v. Memorex Prods., 415 F.3d 1278, 1292 (Fed.Cir.2005) (“[T]his court gives broad deference to the trial court’s application of local procedural rules in view of the trial court’s need to control the parties and flow of litigation before it.”). This discretion extends to any decision to exclude evidence for failure to comply with disclosure requirements of the local patent rules. See O2 Micro Int′l Ltd. v. Monolithic Power Sys., Inc., 467 F.3d 1355, 1369 (Fed.Cir.2006) (explaining “that the exclusion of evidence is often an appropriate sanction for the failure to comply with [the local rule] deadlines”). Accordingly, “[d]ecisions enforcing local rules in patent cases will be affirmed unless clearly unreasonable, arbitrary, or fanciful; based on erroneous conclusions of law; clearly erroneous; or unsupported by any evidence.” Id. at 1366–67 (citing Genentech Inc. v. Amgen, Inc., 289 F.3d 761, 774 (Fed.Cir.2002)).
+ 
+Here, the district court acknowledged that Allvoice, in its operative contentions, had alleged that the SAPI Server “forms” link data and stores it in its memory. Summary Judgment Order, 988 F.Supp.2d at 1256. But, it concluded, and Allvoice does not dispute, that there were no explicit references to the property store of the TSF in the operative infringement contentions. While Allvoice argued below that the documents cited within its contentions contained such a reference, the district court concluded that “a careful review” of the cited documents indicated that they referred to another program—the Speech TIP—and not the TSF property store. Id. at 1260. Allvoice does not dispute this point on appeal, arguing simply that its references to the SAPI Server were sufficient to provide adequate notice of its infringement theory. We disagree.
+ 
+Western District of Washington Local Patent Rule 124(c) requires that the party alleging patent infringement must provide infringement contentions that “identify[ ] specifically where each element of each Asserted Claim is found within each Accused Device.” W.D. Wash. Local Patent R. 124(c) (emphasis added). It is well within the discretion of a district court to require specificity in infringement contentions, especially considering that the purpose of these contentions is to require “parties to crystallize their theories of the case early in the litigation....” O2 Micro, 467 F.3d at 1364 (quotation omitted); see W.D. Wash Local Patent R. 101 (explaining that the local patent rules were “designed to streamline the pre-trial and claim construction process, and generally to reduce the cost of patent litigation”). A review of the record and documents cited in Allvoice’s infringement contentions supports the district court’s finding that neither Allvoice’s contentions nor the documents referenced therein discuss the TSF property store. Allvoice’s references to the SAPI Server were insufficient to satisfy its notice obligations. Without evidence that Allvoice did in fact specifically reference the TSF property store in its operative contentions, the district court’s decision to exclude the TSF property store theory at the summary judgment stage for Allvoice’s failure to comply with the local patent rules was not an abuse of discretion.
+ 
+
+2. Amended Infringement Contentions
+[2] In the alternative, Allvoice argues that the district court abused its discretion in finding that Allvoice was not diligent in seeking leave to amend its infringement *1015 contentions. If Allvoice was allowed to amend its infringement contentions to include a specific reference to the TSF property store, it alleges that the district court would have had no basis to grant Microsoft’s motion for summary judgment of non-infringement with respect to the “link data” limitation.
+ 
+Under Western District of Washington’s Local Patent Rule 124, a party may only amend its infringement contentions “by order of the Court upon a timely showing of good cause.” W.D. Wash. Local Patent R. 124 (emphasis added). Good cause may be demonstrated in various ways, including:
+(a) a claim construction by the Court different from that proposed by the party seeking amendment; (b) recent discovery of material prior art despite earlier diligent search; and (c) recent discovery of nonpublic information about the Accused Device which was not discovered, despite diligent efforts, before the service of the Infringement Contentions.
+Id. In order to establish good cause, the moving party first must demonstrate diligence in amending its contentions. O2 Micro, 467 F.3d at 1366–67. If the moving party is not able to meet that burden, it is unnecessary to examine the potential prejudice of the amendment to the non-moving party. Id. at 1368.
+ 
+Allvoice alleges that the district court’s decision not to allow it to amend its infringement contentions after the district court’s claim construction ruling was an abuse of discretion because the plain language of Local Patent Rule 124 allows for such an amendment if the district court adopts a claim construction “different from that proposed by the party seeking amendment.” W.D. Wash. Local Patent R. 124(a). Additionally, Allvoice contends that, because the parties stipulated that Allvoice could seek leave to amend its infringement contentions on or before April 12, 2012, it was unreasonable for the district court to fault Allvoice for its delay in filing the motion.
+ 
+Here, the district court found that Allvoice had failed to explain why it waited more than three months after the Markman order and over nineteen months after the joint claim chart of disputed terms—where Microsoft first proposed the construction that the district court ultimately adopted for the “link data” limitation—to file its motion to amend. Without any explanation for its delay, the district court determined that the mere fact that the parties had agreed that Allvoice could file a motion did not excuse Allvoice from providing a reason why it waited so long file its motion, especially considering that Allvoice was aware of the possibility that the district court could adopt Microsoft’s construction as early as September 2010. See O2 Micro, 467 F.3d at 1366 (“If the parties were not required to amend their contentions promptly after discovering new information, the contentions requirement would be virtually meaningless as a mechanism for shaping the conduct of discovery and trial preparation.”). While a different claim construction may justify an amendment, the district court did not abuse its discretion when it concluded that the local rules do not allow a party to amend its infringement contentions as a matter of right whenever the district court adopts a claim construction position at odds with that urged by the moving party. Diligence still must be shown. While, if acting as the district court, one or more of us may have granted leave to amend in these circumstances, that is not the question before us. We assess only whether the district court abused its discretion in requiring a showing of diligence and finding Allvoice’s showing inadequate; we conclude it did not.
+ 
+*1016 Although Allvoice also argues that the district court’s ruling was unjustified in light of the case schedule, which provided Microsoft sufficient time to conduct additional discovery and prepare expert reports following an amendment of Allvoice’s contentions, these considerations go to whether Microsoft would suffer prejudice if Allvoice were allowed to amend, not whether Allvoice was diligent in seeking an amendment. Because the district court did not abuse its discretion in deciding that Allvoice did not act diligently in moving to amend its infringement contentions, we need not consider the potential prejudice to Microsoft.3
+ 
+The district court granted summary judgment of non-infringement, in part, because it found an absence of evidence with respect to the “link data” limitation. We review the grant of summary judgment under the law of the regional circuit. Charles Mach. Works, Inc. v. Vermeer Mfg. Co., 723 F.3d 1376, 1378 (Fed.Cir.2013). The Ninth Circuit reviews the grant or denial of summary judgment de novo. Leever v. Carson City, 360 F.3d 1014, 1017 (9th Cir.2004).
+ 
+Summary judgment is appropriate only if there is no genuine issue of material fact and the movant is entitled to judgment as a matter of law. FED. R. CIV. P. 56(c); Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 250, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986). A movant can satisfy this burden by demonstrating that the nonmoving party “failed to make a sufficient showing on an essential element of her case with respect to which she has the burden of proof.” Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986). Allvoice’s operative infringement contentions did not reference the “TSF property store,” which Allvoice concedes is the only element that arguably satisfies the “link data” limitation in its patent, and Allvoice was not allowed to amend its infringement contentions to specifically include this reference. Without any admissible theory as to how Microsoft’s accused products satisfied the “link data” limitation, the district court did not err in granting summary judgment of non-infringement.
+ 
+Because we affirm the district court’s grant of summary judgment of non-infringement as to all remaining asserted claims, we need not reach Allvoice’s other infringement arguments. See Orion Tech., Inc. v. United States, 704 F.3d 1344, 1350 (Fed.Cir.2013) (“An appellate court can affirm a decision of the trial court upon any ground supported by the record.”) (citing Datascope Corp. v. SMEC, 879 F.2d 820, 822 n. 1 (Fed.Cir.1989)).
+ 
+
+B. Invalidity of Claims 60–68
+[3] The district court also determined that claims 60–68 were invalid for failing to comply with 35 U.S.C. § 101.4 “We review *1017 the district court’s determination of patent eligibility under 35 U.S.C. § 101 de novo.” DDR Holdings, LLC v. Hotels.com, L.P., 773 F.3d 1245, 1255 (Fed.Cir.2014).
+ 
+Section § 101 defines patentable subject matter and states:
+Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title.
+“Section 101 thus specifies four independent categories of inventions or discoveries that are eligible for protection: processes, machines, manufactures, and compositions of matter. ‘In choosing such expansive terms ... modified by the comprehensive ‘any,’ Congress plainly contemplated that the patent laws would be given wide scope.’ ” Bilski v. Kappos, 561 U.S. 593, 601, 130 S.Ct. 3218, 177 L.Ed.2d 792 (2010) (quoting Diamond v. Chakrabarty, 447 U.S. 303, 308, 100 S.Ct. 2204, 65 L.Ed.2d 144 (1980)). If a claim is drawn to subject matter that falls outside the four statutory categories of § 101, it is not patent eligible. In re Nuijten, 500 F.3d 1346, 1354 (Fed.Cir.2007). This is true without regard to whether it might otherwise be ineligible because it encompasses a law of nature, natural phenomenon, or abstract idea. See Alice Corp. Pty. Ltd. v. CLS Bank Int’l, ––– U.S. ––––, 134 S.Ct. 2347, 2354, 189 L.Ed.2d 296 (2014).
+ 
+Except for process claims, “the eligible subject matter must exist in some physical or tangible form.” Digitech Image Techs., LLC v. Elecs. for Imaging, Inc., 758 F.3d 1344, 1348 (Fed.Cir.2014). To be considered a machine under section 101, “the claimed invention must be a ‘concrete thing, consisting of parts, or of certain devices and combination of devices.’ ” Id. at 1349 (quoting Burr v. Duryee, 68 U.S. 531, 571, 1 Wall. 531, 17 L.Ed. 650 (1863)). Similarly, “[t]o qualify as a manufacture, the invention must be a tangible article that is given a new form, quality, property, or combination through man-made or artificial means. Likewise, a composition of matter requires the combination of two or more substances and includes all composite articles.” Id. (citing Diamond, 447 U.S. at 308, 100 S.Ct. 2204).
+ 
+Here, claims 60–68 of the ′273 Patent do not recite a process or tangible or physical object and, thus, do not fall within any of the categories of eligible subject matter. Independent claim 60 is directed to a speech-recognition “interface”:
+A universal speech-recognition interface that enables operative coupling of a speech-recognition engine to at least any one of a plurality of different computer-related applications, the universal speech-recognition interface comprising:
+input means for receiving speech-recognition data including recognised words;
+output means for outputting the recognised words into at least any one of the plurality of different computer-related applications to allow processing of the recognised words as input text; and
+audio playback means for playing audio data associated with the recognised words.
+′273 Patent, col. 29 ll. 22–34.
+Similarly, independent claim 64 recites:
+A speech-recognition interface that enables operative coupling of a speech-recognition engine to a computer-related application, the interface comprising:
+input means for receiving speech-recognition data including recognised words;
+*1018 output means for outputting the recognised words into a computer-related application to allow processing of the recognised words as input text, including changing positions of the recognised words; and
+means, independent of the computer-related application, for determining positions of the recognised words in the computer-related application.
+′273 Patent, col. 29 l. 65–col. 30 l. 9.
+ 
+Before the district court, Allvoice explained that the claimed interfaces are described in the ′273 Patent’s specification as “interface applications,” and, thus, that these claims are limited to software. See Pl.’s Opening Cl. Constr. Br. at 9–10, Allvoice Devs. US, LLC v. Microsoft Corp., No. 2:10–cv–2102 (W.D. Wash. Sept. 27, 2010), ECF No. 107 (“As indicated above, claims 60 and 67 [which is dependent on claim 64] according to their preamble are limited to the ‘interface’ which is described in the patent in suit as an ‘interface application.’ Hence, these claims are limited to software.”). Before this court, Allvoice clarifies that the claimed interfaces are “software instructions.”5 Software may be patent eligible, but when a claim is not directed towards a process, the subject matter must exist in tangible form. Here, the disputed claims merely claim software instructions without any hardware limitations.
+ 
+Allvoice attempts to overcome this hurdle now by arguing that the claimed software must necessarily be in a machine readable, physical state in order to exist, and that the district court therefore should have concluded that these claims are directed to a manufacture, one of the four categories of patentable inventions. But, as this Court has recognized, instructions, data, or information alone, absent a tangible medium, is not a manufacture. See Digitech Image Techs., 758 F.3d at 1349–50 (rejecting a patentee’s attempt to argue that the disputed claims were subject matter eligible because the claim language did not describe “any tangible embodiment of this information (i.e., in physical memory or other medium) or claim any tangible part of the digital processing system”); In re Nuijten, 500 F.3d at 1356 (declining to import a tangible medium element into the claims directed to only encoded signals, which were unpatentable under § 101). We decline to import or, as Allvoice argues, “imply” a tangible medium into claims that fail to recite or reference any such medium.6 Because claims 60–68 are not directed to a tangible article and are not process claims, the district court did not err when it held these claims were not patent eligible, and, thus, invalid.
+ 
+
+CONCLUSION
+Because the district court did not abuse its discretion in enforcing the local patent rules, we affirm the district court’s grant of summary judgment of non-infringement as to claims 28, 37–38, 49–51, 56–57, 71–74, and 77 with respect to the “link data” limitation. In light of this ruling, we need not reach Allvoice’s other arguments regarding infringement of these claims. Additionally, with respect to the validity of *1019 claims 60–68 of the ′ 273 Patent, Allvoice conceded that these claims were limited to software instructions without any hardware limitations. In the absence of such limitations, the claims as written fail to recite a manufacture, or any other statutorily recognized invention. Accordingly, we also affirm the district court’s grant of summary judgment of invalidity of claims 60–68 of the ′273 Patent.
+ 
+AFFIRMED.
+ 
+All Citations
+612 Fed.Appx. 1009, 115 U.S.P.Q.2d 1750
+Footnotes
+
+1
+
+As of the date of the final judgment of non-infringement, only claims 28, 37–38, 49–51, 56–57, 71–74, and 77 of the ′273 Patent remained at issue. The district court’s summary judgment of invalidity regarding claims 60–68 occurred on December 21, 2011. At that same time, the district court also found that claims 1–27, 40, 44–45, 47, 52–55, 58–59, 65, 69–70, and 75–76 of the ′273 Patent were indefinite under 35 U.S.C. § 112. Allvoice does not appeal the indefiniteness judgment.
+
+2
+
+Allvoice does not challenge the district court’s determination that claims 1–27, 40, 44–45, 47, 52–55, 58–59, 65, 69–70, and 75–76 are invalid under 35 U.S.C. § 112. Nor does it challenge the district court’s ruling regarding infringement of the “link data” limitation under the doctrine of equivalents.
+
+3
+
+Allvoice also contends that this dispute regarding the adequacy of its infringement contentions and whether it should have been allowed to amend them could be rendered moot if we agree with it that the district court’s construction of the “link data” limitation was erroneous. Specifically, if we agree that the district court erred when it concluded that link data is stored in the IAP memory, Allvoice contends that its failure to reference the TSP property store would not matter. Neither this argument nor Microsoft’s arguments that Allvoice’s challenge to the “link data” claim construction is waived, irrelevant and inconsistent with prior positions taken by Allvoice need detain us long. We conclude that the language of the claims, the written description, the prosecution history of the ′273 Patent and Allvoice’s interference with the Holt Application all confirm that link data must be stored in the IAP memory.
+
+4
+
+Because the district court invalidated these claims before entering summary judgment of non-infringement on the remaining claims, it did not apply its non-infringement judgment to them. We note, however, that, because each of these claims as construed also requires link data, even if valid, they are not infringed.
+
+5
+
+Although Allvoice did not ground its opposition to Microsoft’s motion for summary judgment on any benefits received from employing functional claiming under § 112(6), it is also significant that the means-plus-function limitations, as construed by Allvoice, do not correspond to tangible structure, as opposed to software instructions.
+
+6
+
+Given our resolution of this issue, we decline to address Microsoft’s argument that Allvoice waived this argument by not raising it in its briefing to the trial court.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

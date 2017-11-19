@@ -1,0 +1,115 @@
+
+
+ 
+
+
+B.V.I. Industries, Inc. v. Microsoft Corp.
+United States Court of Appeals, Fourth Circuit. | August 11, 1987 | 826 F.2d 1059 | 1987 WL 38488
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+B.V.I. Indus., Inc. v. Microsoft Corp., 826 F.2d 1059 (4th Cir. 1987)
+
+All Citations:
+
+826 F.2d 1059 (Table), 1987 WL 38488
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+North Carolina
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+826 F.2d 1059
+Unpublished Disposition
+NOTICE: THIS IS AN UNPUBLISHED OPINION.
+(The Court’s decision is referenced in a “Table of Decisions Without Reported Opinions” appearing in the Federal Reporter. See CTA4 Rule 32.1.
+United States Court of Appeals, Fourth Circuit.
+B.V.I. INDUSTRIES, INC., Plaintiff-Appellant,
+v.
+MICROSOFT CORPORATION, Defendant-Appellee.
+No. 87-2007
+|
+Argued July 7, 1987.
+|
+Decided Aug. 11, 1987.
+M.D.N.C.
+ 
+REVERSED AND REMANDED.
+ 
+Appeal from the United States District Court for the Middle District of North Carolina, at Winston-Salem. Richard C. Erwin, U.S., District Judge. (CA-85-1045).
+Attorneys and Law Firms
+James R. Hubbard (William D. Spry, Jr.; David C. Smith; Allman, Spry, Humphreys, Leggett & Howington, P.A., on brief), for appellant.
+Robert E. Fields, III (R. Howard Grubbs; Clayton M. Custer; Womble, Carlyle, Sandridge & Rice; William T. Pope, on brief), for appellees.
+Before CHAPMAN, and WILKINS, Circuit Judges, and HENDERSON, United States District Judge for the District of South Carolina, sitting by designation.
+Opinion
+CHAPMAN, Circuit Judge:
+
+*1 Appellant, B.V.I. Industries, Inc., appeals the district court’s grant of appellee Microsoft Corporation’s motion for summary judgment on B.V.I.’s claims for tortious interference with contract and violations of North Carolina’s Unfair Trade Practices Act, N.C.Gen.Stat. § 75-1.1 (1985). We hold that because a genuine issue of material fact exists as to whether Microsoft, by its employee Lum, interfered with and caused the termination of the contract for some reason other than a legitimate business reason, summary judgment was inappropriate.
+
+I
+B.V.I. was formed in 1983 by Olin Hawkins and Robert Smith, III in order to sell computer accessories and to manufacture an IBM compatible personal computer system. Essential to B.V.I.’s plan was the financial backing of Pace Oil Company, a North Carolina corporation, which extended to B.V.I. a $500,000 line of credit pursuant to a loan agreement.
+Necessary to B.V.I.’s production of an IBM compatible personal computer system was the acquisition of certain computer software available only through Microsoft. Microsoft’s employee, Jeff Lum, traveled to Winston-Salem, North Carolina and met with representatives of Pace and B.V.I. in the offices of Roger Page, president of Pace. Because of B.V.I.’s limited assets, Microsoft insisted, and the parties agreed, that the licensing agreements for the computer software be sold to Pace, rather than B.V.I., even though the software was to be used exclusively by B.V.I. Pace agreed to charge to B.V.I.’s existing line of credit the amount Pace paid to Microsoft in the purchase of the license for the software.
+After this meeting, but prior to the execution of the license agreements, a disagreement arose between B.V.I. and Lum regarding the cost of Microsoft’s licenses. Lum had told B.V.I. that the total minimum commitment for the licenses was $250,000. B.V.I. thereafter learned from others that Microsoft was selling the licenses to other similarly situated computer manufacturers for $175,000. The disagreement persisted until Smith of B.V.I. contacted Lum’s supervisors at Microsoft and negotiated to purchase the licenses for $190,000. On September 9, 1983 the licensing agreements were signed by Pace and Microsoft.
+On August 31, 1983, before the license agreements were signed, but following the dispute about the price of the licenses, Microsoft’s Lum sent a letter to Page, Pace Oil’s president, in which he very strongly criticized Smith of B.V.I. Smith, in arguing with Lum about the cost of the software licenses, threatened to take B.V.I.’s business elsewhere. Because Microsoft had the only available IBM compatible software in existence, Smith’s threats were totally devoid of any factual basis. Lum in his letter to Page soundly criticized Smith’s knowledge of the computer industry based on Smith’s empty threat and implied that B.V.I. was not the sort of business which Pace should support with financial backing; further, the letter stated that Smith was unprofessional and that he had little to do with the development of the Pace PC.
+*2 The letter was followed by a series of telephone calls from Lum to Page in which Lum told Page that he was ‘wasting his money’ since the employees at B.V.I. were ‘inept and incompetent’, and that, consequently, he should not continue to associate with that corporation. Lum never mentioned his communications with Page, nor his concerns about their abilities, to the officers of B.V.I. Subsequently, Pace withdrew its line of credit to B.V.I.
+When asked in deposition why he canceled B.V.I.’s line of credit, Page said he terminated the line of credit because Lum’s statements convinced him that B.V.I. would fail. Unable to continue without Page’s line of credit and unable to obtain financial backing from other sources, B.V.I. was forced to terminate its plans to create a personal computer and to liquidate its assets in order to pay off its obligations.
+B.V.I. brought suit against Microsoft in North Carolina state court alleging numerous causes of action including tortious interference with contract and unfair trade practices under N.C.Gen.Stat. § 75-1.1. Microsoft removed the action to the U.S. District Court and, subsequently, moved for summary judgment. In a very brief memorandum opinion, the district court held that there was no genuine issue of material fact and that summary judgment was proper on all issues. The district court found that Microsoft had the only IBM compatible software, so in effect the statements of Lum’s letter were true, and that Microsoft had the right to contact Pace and give its opinion as to the soundness of plaintiff’s operations. B.V.I. appeals arguing that genuine issues of material fact exist regarding its claims for tortious interference with contract and violation of the North Carolina Unfair Trade Practices Act.
+
+I
+Summary judgment is mandated only ‘against a party who fails to make a showing sufficient to establish the existence of an element essential to that party’s case, and on which that party will bear the burden of proof at trial. In such a situation, there can be ‘no genuine issue as to any material fact,’ since a complete failure of proof concerning an essential element of the non-moving party’s case necessarily renders all other facts immaterial.’ Celotex Corp. v. Catrett, 477 U.S. -- (1986).
+North Carolina recognizes that an action in tort lies against a defendant who ‘knowingly, intentionally, and unjustifiably induces one party to a contract to breach it to the damage of the other party.’ Childress v. Abeles, 240 N.C. 667, 674, 84 S.E.2d 176, 181 (1954). To state a cause of action for tortious interference with contract, a plaintiff must establish five essential elements:
+(1) that a valid contract existed between himself and the third party, conferring on the plaintiff a contractual right against the third party;
+ 
+(2) that defendant had knowledge of the plaintiff’s contract with the third party;
+ 
+(3) that the defendant intentionally induced the third party not to perform his contract with the plaintiff;
+ 
+*3 (4) that in inducing the contractual breach, the defendant acted without justification; and
+ 
+(5) that by reason of the defendant’s act, the plaintiff suffered actual damage.
+ 
+Childress, 240 N.C. at 674, 84 S.E.2d at 181-182. See also, Lexington Homes, Inc. v. W.E. Tyson Builders, Inc., 75 N.C. App. 404, 409-410, 331 S.E.2d 318, 321 (1985).
+B.V.I. can produce evidence that creates a genuine issue of material fact regarding four of the five criteria for proof of tortious interference with contract. The district court found, however, that no genuine issue of material fact exists regarding whether Microsoft acted without justification in making disparaging remarks about B.V.I. to Page. The district court held that because Microsoft was a non-outsider, its employee was entitled to discuss with Pace his opinions of B.V.I. and its owners. B.V.I. contends that Microsoft’s employee Lum was angry at Smith and B.V.I. because they went over his head to his superiors and negotiated a better price for the software licenses than Lum had offered. Plaintiff claims Lum’s letter and telephone calls to Pace were made by Lum in retaliation and with the intent to injure B.V.I.
+In North Carolina, one who is not a party to a terminated contract, yet has a legitimate business interest of his own in the subject matter of the contract is considered a ‘non-outsider’ to the contract. Non-outsiders are entitled to interfere in the contracts of others provided they do so to protect a legitimate business interest. If the non-outsider’s actions are not the result of a legitimate business interest, but rather the result of a malicious purpose or motive, then the interference with the contract is actionable. See, Smith v. Ford Motor Company, 289 N.C. 71, 87-88, 221 S.E.2d 282, 292 (1976). The question in this case is whether the actions by Microsoft’s employee Lum were motivated by the legitimate business interest of Microsoft in seeing that its software licenses were being sold to competent manufacturers or were Lum’s actions motived as retaliation against Smith and B.V.I. for going over his head during the license negotiations.
+Given the factual conflicts on this issue, summary judgment was not appropriate. The evidence would support a finding that Lum went beyond the point of business necessity to disparage Smith and B.V.I. to Mr. Page. Perhaps he had a legitimate business interest in doing so, but on the present state of the record a jury could find that the interference was motivated by spite rather than by a legitimate business concern as to B.V.I.’s ability to produce a successful PC. The vehemence of Lum’s remarks about B.V.I. as well as his repeated telephone calls to Page, some of which occurred after the license agreements had been signed, certainly give credence to the claim that something more than the legitimate business interest of Microsoft could have motivated Lum’s interference. The issue of motive or intent is usually factual and is for the jury, particularly when there is a disputed claim of justification for interference with a contract. See, Fitzgerald v. Wolf, 40 N.C. App. 197, 201, 252 S.E.2d 523, 525 (1979).
+*4 Microsoft points out that North Carolina courts have held that parties are not entitled to go to the jury simply because of allegations that an improper motive, rather than a legitimate business interest, motivated the tortious interference with a contract. See, Williams v. State Farm Mutual Automobile Insurance Company, 67 N.C. App. 271, 312 S.E.2d 905 (1984). However, the present plaintiff has produced more than mere allegations, and such summary dispositions are appropriate only when the facts clearly and unambiguously justify the action taken by the defendant. In Williams, the State Farm Insurance Company had discouraged its insureds from having their cars repaired at the plaintiff’s body shop. State Farm took this action because of problems it had experienced with plaintiff regarding his prices and his practice of charging for new parts while using rebuilt or used parts for repairs. There is no question that an insurance company has a legitimate business interest in having automobiles it insures repaired properly and at a good price, therefore, the court held that the insurance company was justified in its action, no matter how malicious its conduct may have appeared. Williams, 627 N.C. at 227, 312 S.E.2d at 909. The facts of the present case are different, because they could support a finding that Lum acted from spite, retaliation or other improper motive in disparaging B.V.I. and Smith, and that his alleged legitimate business interest is pretext.
+
+II
+The North Carolina Unfair Trade Practices Act makes unlawful any unfair or deceptive acts or practices in or affecting commerce. N.C.Gen.Stat. § 75-1.1. North Carolina courts have held that conduct designed to affirmatively prevent a party from performing a contract creates an unfair trade practice. See, Pedwell v. First Union National Bank, 51 N.C. App. 236, 275 S.E.2d 565 (1981). Although this court is not convinced that the actions by Microsoft rise to a level sufficient to constitute a violation of the North Carolina Unfair Trade Practices Act, see American Craft Hosiery Corp. v. Damascus Hosiery Mills, Inc., 575 F.Supp. 816 (W.D.N.C. 1983), summary judgment is not appropriate on this present record.
+REVERSED AND REMANDED.
+All Citations
+826 F.2d 1059 (Table), 1987 WL 38488
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

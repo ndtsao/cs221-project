@@ -1,0 +1,205 @@
+
+
+ 
+
+
+Certain Underwriters At Lloyd’s London v. Garmin Intern., Inc.
+United States Court of Appeals, Tenth Circuit. | March 27, 2015 | 781 F.3d 1226 | 2015 WL 1383117
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Certain Underwriters At Lloyd’s London v. Garmin Int’l, Inc., 781 F.3d 1226 (10th Cir. 2015)
+
+All Citations:
+
+781 F.3d 1226
+
+Search Details
+
+Search Query:
+
+adv: NAME(”berkshire hathaway”)
+
+Jurisdiction:
+
+Kansas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:36 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+781 F.3d 1226
+United States Court of Appeals,
+Tenth Circuit.
+CERTAIN UNDERWRITERS AT LLOYD’S LONDON; Global Aerospace Underwriting Managers Limited; Mitsui Sumitomo Insurance Company (Europe) Ltd; Tokio Marine Europe Insurance Limited; Berkshire Hathaway International Insurance Limited; Great Lakes Reinsurance (UK) PLC; Wurttembergische Versicherung AG; Swiss Re International SE UK Branch; Allianz Global Risks U.S. Insurance Company; National Fire & Marine Insurance Company, Plaintiffs–Appellees,
+v.
+GARMIN INTERNATIONAL, INC., Defendant,
+and
+Henry P. Bartle, Defendant–Appellant.
+No. 13–3310.
+|
+March 27, 2015.
+Synopsis
+Background: Insurer commenced action in diversity against insured’s alleged joint venturer, seeking declaratory judgment that it did not have duty to defend in underlying action or indemnify defendant under aviation liability insurance policy. The United States District Court for the District of Kansas, Eric F. Melgren, J., 2013 WL 3755782, granted summary judgment to insurer, and denied reconsideration, 2013 WL 6080273. Defendant appealed.
+ 
+Holdings: The Court of Appeals, McKay, Circuit Judge, held that:
+ 
+[1] district court did not abuse its discretion by refusing according to its local anti-ferret rule to sift through voluminous exhibits in order to match assertions in defendant’s brief to particular portions of those exhibits, and
+ 
+[2] insured did not exert any financial or management control in development or sale of bracket that was to be used with its product simply by listing purported joint venturer as its supplier.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Federal Civil ProcedureHearing and Determination
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)3Proceedings
+170Ak2547Hearing and Determination
+170Ak2547.1In general
+
+
+District court did not abuse its discretion on insurer’s motion for summary judgment by refusing according to its local anti-ferret rule to sift through voluminous exhibits in order to match assertions in defendant’s brief to particular portions of those exhibits, even if defendant’s references to supporting documentation were fairly straightforward until filing using court’s electronic filing system which made citations in defendant’s brief incorrect because he had cited to exhibits as he arranged them prior to e-filing them and without taking into account how e-filing system would change exhibit designations. Fed.Rules Civ.Proc.Rule 56(e), 28 U.S.C.A.
+5 Cases that cite this headnote
+
+
+
+[2]
+
+InsuranceScope of coverage
+
+
+217Insurance
+217XVIICoverage––Liability Insurance
+217XVII(B)Coverage for Particular Liabilities
+217k2329Airport, Aircraft and Aviation Liabilities
+217k2331Scope of coverage
+
+
+Insured did not exert any financial or management control in development or sale of bracket that was to be used with its product simply by listing purported joint venturer as its supplier, and thus existence of business partnership and financial cooperation between purported joint venturer and insured in development of bracket did not qualify purported joint venturer as “insured” under aviation liability insurance policy under Kansas law that also required insured to have ownership interest in joint venturer, have insurance obligation, or have exerted financial or managerial control over joint venturer to qualify as “insured.”
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1227 Gregory L. Anderson of Dwyer, Daly, Brotzen & Bruno, LLP, Los Angeles, CA (Christopher Carpenter and Tracy M. Hayes of Sanders Warren & Russell LLP, Overland Park, KS, with him on the brief), for Defendant–Appellant.
+Jill A. O’Donovan of Walker Wilcox Matousek LLP, Chicago, IL (John W. Cowden and Eric A. Cunningham III of Baker Sterchi Cowden & Rice, LLC, Kansas City, MO, with her on the brief), for Plaintiffs–Appellees.
+Before BACHARACH, McKAY, and McHUGH, Circuit Judges.
+Opinion
+McKAY, Circuit Judge.
+
+This case involves a dispute over insurance coverage following a private airplane crash. Garmin International, Inc., purchased an insurance policy from Appellees. In 2008, while the insurance policy was in effect, Appellant Henry Bartle, an individual who had some dealings with Garmin, crashed while piloting his malfunctioning personal aircraft, injuring himself and his passengers. Mr. Bartle then sought coverage under Garmin’s insurance policy for indemnification from claims brought against Mr. Bartle by his injured passengers. Appellees, the insurers, brought suit in the United States District Court for the District of Kansas seeking a declaration under the Declaratory Judgment Act, 28 U.S.C. § 2201, that Mr. Bartle does not *1228 qualify as an “Insured” under Garmin’s insurance policy.
+ 
+Mr. Bartle submitted evidence to the district court to demonstrate he was indeed an “Insured”, but the district court refused to consider much of the evidence because the evidence failed to conform to district court rules regarding proper citation. Without considering this evidence, the district court granted summary judgment to the insurers, finding that Mr. Bartle was not an “Insured” under the policy. Mr. Bartle appealed both the district court’s grant of summary judgment to the insurers and its refusal to consider the excluded evidence. For the reasons set forth below, we affirm the district court’s decision.
+ 
+
+BACKGROUND
+In 2006, Garmin International, Inc. sought to test a new product, the G900X, in experimental, home-built aircraft.1 The G900X replaces an aircraft cockpit’s traditional analog navigational display with a computerized display and requires extensive installation to connect the product to various aircraft systems. Garmin desired data and diagrams from the installation of the G900X system in experimental aircraft to aid in creating a G900X installation manual.
+ 
+Mr. Bartle owned a Lancair IV–P aircraft—the sort of home-built, experimental aircraft sought by Garmin for collection of this installation data. Chris Shulte, a Garmin manager and friend of Mr. Bartle, approached Mr. Bartle about installing the new system in his Lancair IV–P. Mr. Shulte agreed to provide the G900X to Mr. Bartle at a discounted price. In exchange, Mr. Bartle was to provide Mr. Shulte and other Garmin employees access to his aircraft in order to obtain installation data.
+ 
+Mr. Shulte purchased the G900X using his employee discount and resold it to Mr. Bartle at the discounted price. The two then worked on installing the G900X in Mr. Bartle’s aircraft primarily on weekends in Mr. Bartle’s private hangar in Oregon. During the course of the installation, Mr. Shulte directed one Garmin employee to install part of the wiring in Mr. Bartle’s aircraft, and another employee went to Mr. Bartle’s hangar to obtain data from the aircraft in order to create technical drawings and gather other data for the G900X manual.
+ 
+Installing the G900X into the Lancair IV–P aircraft requires an aircraft-specific bracket to hold one component of the G900X system in place. Mr. Bartle, who possessed a background in composite fabrication, designed his own bracket for that purpose. Garmin received permission to use diagrams of Mr. Bartle’s bracket in the G900X installation manual and listed Mr. Bartle’s company, the Ultimate Group as the supplier for that bracket in the manual. At the time of discovery in this case, the Ultimate Group had sold approximately ten brackets for use with the G900X as a result of the listing in Garmin’s installation manual.
+ 
+Mr. Bartle and Mr. Shulte completed installation of the G900X and in November 2007, Mr. Bartle received a certificate of registration for the aircraft listing Mr. Bartle and his wife as the registered owners. Throughout the process of installing the G900X in the Lancair IV–P aircraft, Garmin and Mr. Bartle never entered into a written agreement, signed any releases, or discussed insurance. Garmin provided no written instructions or parameters for any work on the aircraft.
+ 
+*1229 In February 2008, Mr. Bartle took his step-daughter, her friend, and her friend’s daughter sightseeing in his aircraft. The aircraft engine lost power during the flight and the plane crash-landed short of the runway. All of the passengers were injured in the crash. Mr. Bartle’s passengers and their spouses filed suit in California state court, raising claims of strict product liability, negligence, breach of express and implied warranties, and loss of consortium. The negligence claim alleged that Mr. Bartle specifically “breached his duty to Plaintiffs by negligently operating the airplane such that the airplane crashed to the ground thereby injuring Plaintiffs.” (R. at 106.) The California complaint also alleged that the defendants—among them Mr. Bartle—were negligent in the building and fabrication of the aircraft and that Mr. Bartle and Garmin were acting as “agents, servants, employees and/or joint venturers” of one another and were at all times “acting within the course, scope, and authority of said agency, employment and/or venture.” (R. at 103.)
+ 
+Mr. Bartle, facing potential liability for his part in the plane crash, asserted that the aircraft was built in a joint venture with Garmin and that Garmin’s insurance policy includes coverage for all such joint ventures. Garmin denied any business relationship existed with Mr. Bartle, and further denied that Mr. Bartle qualified as an “Insured” under Garmin’s insurance policy.
+ 
+Garmin’s insurance provider subsequently brought an action in the United States District Court for the District of Kansas2 under the Declaratory Judgment Act, 28 U.S.C. § 2201(a), which states that “[i]n a case of actual controversy within its jurisdiction, ... any court of the United States, upon the filing of an appropriate pleading, may declare the rights and other legal relations of any interested party seeking such declaration.” Specifically, the insurers sought a declaration that Mr. Bartle falls outside the definition of “Insured” under Garmin’s insurance policy.
+ 
+Mr. Bartle submitted over 700 pages of evidence and exhibits to the district court supporting his contention that he and Garmin were engaged in a joint venture or other business relationship entitling him to coverage under Garmin’s insurance policy. However, the district court found that a majority of the exhibits relied on by Mr. Bartle to demonstrate the existence of such a relationship failed to conform to District of Kansas Rule 56.1, which requires that each fact in dispute be numbered by paragraph and that a party must refer with particularity to portions of the record that support its assertions. The district court disregarded all of Mr. Bartle’s exhibits not cited to in accordance with this rule.
+ 
+Without considering Mr. Bartle’s disregarded evidence, the district court then granted summary judgment to Garmin, finding that Mr. Bartle was not covered under Garmin’s insurance policy. The district court denied Mr. Bartle’s motion for reconsideration of its decision, in which Mr. Bartle argued the court incorrectly set aside his evidence under District of Kansas Rule 56.1. This appeal followed.
+ 
+
+DISCUSSION
+We review de novo the district court’s grant of summary judgment and apply the same legal standard used by the district court under Rule 56(c) of the Federal Rules of Civil Procedure. Applied Genetics *1230 Int’l, Inc. v. First Affiliated Sec., Inc., 912 F.2d 1238, 1241 (10th Cir.1990). Summary judgment is appropriate only when “there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed.R.Civ.P. 56(a). In applying this standard, we view all facts and any reasonable inferences that might be drawn from them in the light most favorable to Mr. Bartle. See Henderson v. Inter–Chem Coal Co., 41 F.3d 567, 569 (10th Cir.1994). However, in reviewing a grant of summary judgment, we do not consider materials not before the district court. See Myers v. Okla. Cnty. Bd. of Cnty. Comm’rs, 151 F.3d 1313, 1319 (10th Cir.1998).
+ 
+[1] In this case, the district court disregarded hundreds of pages of evidence which were not referred to in accordance with the local rules—evidence we will not now consider on appeal unless we find the district court abused its discretion in applying those rules. See Roth v. Green, 466 F.3d 1179, 1190 (10th Cir.2006) (“We review a district court’s application of its local rules for abuse of discretion.”); see also Fye v. Okla. Corp. Comm’n, 516 F.3d 1217 (10th Cir.2008) (declining to consider evidence not considered by the district court).
+ 
+District of Kansas Rule 56.1 states in relevant part that:
+A memorandum in opposition to a motion for summary judgment must begin with a section containing a concise statement of material facts as to which the party contends a genuine issue exists. Each fact in dispute must be numbered by paragraph, refer with particularity to those portions of the record upon which the opposing party relies, and, if applicable, state the number of movant’s fact that is disputed. If the party opposing summary judgment relies on any facts not contained in movant’s memorandum, that party must set forth each additional fact in a separately numbered paragraph in the [same manner].
+D. Kan. Rule 56.1(b).
+ 
+The district court, in rejecting Mr. Bartle’s submission of over 700 pages of exhibits, found that Mr. Bartle failed to cite to specific page numbers or facts within these exhibits. For instance, to support his contentions regarding the alleged Bartle/Garmin business relationship, Mr. Bartle appeared to cite generally to over 400 pages of exhibits without specifically referring to any page number or fact within the massive number of submitted documents. The court, in its order granting summary judgment to the insurers, stated:
+The Court will not sift through the record in an attempt to find a genuine issue of material fact or locate arguments for Bartle. It is his responsibility to tie the facts to his legal contention. Without a specific reference, the Court will not search the record in an effort to determine whether there exists dormant evidence which might require submission of the case to a jury.
+(R. at 1767 (internal quotation marks, footnotes, and brackets omitted).)
+ 
+Mr. Bartle, in his motion for reconsideration of the district court’s decision, stated that “[w]hile the exhibits themselves are fairly straightforward, when they were filed using the Court’s electronic filing system, they clearly lost some of the organization required to make them user-friendly.” (R. at 1786.) Mr. Bartle explained that the court’s e-filing system limits the sizes of exhibits and assigns new document and page numbers to electronically filed exhibits. This made the citations in his brief incorrect, because he had cited to the exhibits as he arranged them prior to e-filing them, and without taking into account how the e-filing system would change the exhibit *1231 designations. Moreover, because page numbers are assigned by the e-filing system, Mr. Bartle was unable “to direct the court to a particular page/line assigned by the system.” (R. at 1787). On appeal, Mr. Bartle similarly admits that his submission of evidence through the district court’s e-filing system made the citations difficult to follow. At oral argument, Mr. Bartle’s attorney told this court that “[t]he [district] court, in refusing to look at the evidence, exhibited a great deal of frustration.... Certainly the way that it was e-filed [made it] very difficult for the trial judge to use.” (Oral Argument at 3:40–4:06).
+ 
+Nevertheless, Mr. Bartle asks us on appeal to find that the district court abused its discretion in refusing to sift through the voluminous exhibits in order to match the assertions in Mr. Bartle’s motions to his supporting documentation. We are mindful that increasingly computerized court submission and filing methods may present challenges for court staff, judges, and attorneys alike. However, the district court acted well within its discretion in setting aside the unwieldy mass of data that Mr. Bartle attempted to rely on without providing correct, specific references in accordance with the local rules.
+ 
+Mr. Bartle admits his failure to correctly utilize the district court’s e-filing system made the information very difficult to use and the documentation supporting his assertions difficult to track down. The district court, in keeping with its longstanding practice, disregarded Mr. Bartle’s factual support for his summary judgment pleadings to the extent his filings failed to conform to the procedural rules. Cf. Litton v. Maverick Paper Co., 388 F.Supp.2d 1261, 1268 & n. 1 (D.Kan.2005) (noting the court ordinarily disregards those portions of an affidavit which are not shown to be based upon personal knowledge or otherwise do not comply with Fed.R.Civ.P. 56(e); further noting that the court will only consider those facts of the responding party that comply with D. Kan. Rule 56.1(b)); Biglow v. Boeing Co., 182 F.Supp.2d 1037, 1039 n. 2 (D.Kan.2001) (stating that the court will disregard any factual assertions made in violation of D. Kan. Rule 56.1(b)). The burden rests with the lawyers desiring to practice before a court to submit evidence in conformity with the rules of that court, as here with District of Kansas Rule 56.1. Accordingly, we find no abuse of discretion in the district court’s decision to consider only that evidence which was properly cited to in accordance with this rule.
+ 
+We turn then to the merits of the case, which we evaluate based on the evidence properly cited to by the parties and considered by the district court in its order granting summary judgment.
+ 
+[2] Our resolution of this case turns on the definition of “Insured” in the insurance policy issued to Garmin. Under the policy, the “insured” is defined to be:
+GARMIN INTERNATIONAL, INC., GARMIN USA, INC., GARMIN LTD, GARMIN CORPORATION, GARMIN EUROPE LIMITED, PRONAV CORPORATION, PRONAV INTERNATIONAL, INC., GARMIN AT, INC., GARMIN B.V., GARMIN N.V., MOTIONBASED and any subsidiary corporation or subsidiary thereof now existing or hereinafter created. Subsidiary corporation shall mean any entity that is under the ownership or management control of Garmin International, Inc., Garmin Corporation, Garmin Europe Limited, Pronav Corporation and Pronav International, Inc. and/or subsidiary companies and/or affiliated companies and/or associated companies for their respective rights and interests.
+ 
+*1232 The policy’s amended definitions further provide:
+The word ‘Insured’ shall mean the Insureds named above and all subsidiaries, affiliated, associated or allied companies, corporation, foundations, firms, joint ventures, partnerships, or any entities entered into, acquired, or formed, now existing, which may have existed, or hereafter be constituted after the effective date of this policy by any such Insured and over which such Insured has any ownership interest, or exerts financial control, or has assumed or exercised management control, or for which the Insured has obligation to provide insurance. (R. at 53) (emphasis added).
+ 
+Thus, according to the plain language of the policy, Mr. Bartle and Garmin needed more than to be a joint venture, partnership, or other entity in order to qualify as an “Insured”. Mr. Bartle needed to create one of the specified business entities with Garmin (e.g., a joint venture or partnership) and, in addition, Garmin must have had an ownership interest in the entity, been obliged to provide insurance, or have exerted financial or managerial control over this entity. Neither the district court below—nor we, reviewing those facts properly before the district court—find any evidence of an ownership interest, insurance obligation, or any financial or managerial control by Garmin over Mr. Bartle or the business entity they allegedly entered into.
+ 
+There is no evidence showing Mr. Bartle was ever paid a salary by Garmin or received any financial backing from Garmin in his construction of the plane and use of the G900X. Mr. Bartle had no written contract with Garmin, and Garmin never provided Mr. Bartle any sort of instruction or restrictions as he worked on incorporating the G900X into his Lancair IV–P aircraft. Garmin did list Mr. Bartle’s Ultimate Group as the supplier for the bracket he developed in the G900X installation manual for the Lancair IV–P aircraft. However, even this, which Mr. Bartle says reveals the existence of financial cooperation and a business partnership, does not qualify Mr. Bartle as an “Insured” because Garmin still exerted no financial or management control in the development or sale of this bracket simply by listing the Ultimate Group as its supplier. Nor is there any evidence Garmin had any ownership interest in the plane, the bracket, or the alleged joint venture revolving around Mr. Bartle’s use of the G900X. Similarly, Mr. Bartle points to no evidence Garmin had any obligation to provide insurance to Mr. Bartle or the alleged joint venture.
+ 
+Mr. Bartle does refer to other exhibits he submitted to the district court which he says further demonstrate the existence of an “Insured” relationship between Mr. Bartle and Garmin, but none, so far as this court can tell, he properly cited to in compliance with District of Kansas Rule 56.1. Mr. Bartle argues that “[t]hrowing Bartle out of court without having considered his evidence runs counter to the well-known policy of the courts to decide matters on the merits rather than on the process.” (Appellant’s Br. at 27.) However, this case does not present a problem of failing to follow the sort of procedural nicety or technicality we have been willing to ignore in the past. See, e.g., Queenan v. Mays, 90 F.2d 525, 528 (10th Cir.1937) (refusing to dismiss an appeal on the basis that an insolvent bank was not named with its receiver on the petition for appeal).
+ 
+The district court concluded, and Mr. Bartle acknowledged, that the exhibits submitted could not be feasibly used by the district court without great difficulty. The district court cannot be expected to review evidence, evaluate arguments, or *1233 arrive at reasoned conclusions without usable citations. In this case the merits cannot be separated from the process, and ultimately Mr. Bartle bore the responsibility to present evidence that would allow a rational trier of fact to find in his favor. See Adler v. Wal–Mart Stores, Inc., 144 F.3d 664, 670, 672 (10th Cir.1998).
+ 
+
+CONCLUSION
+Based on the information properly submitted to the district court, we hold that Mr. Bartle does not qualify as an “Insured” under the policy. We therefore AFFIRM the district court’s grant of summary judgment to Appellees.
+ 
+All Citations
+781 F.3d 1226
+Footnotes
+
+1
+
+The facts in this appeal are stated in the light most favorable to Mr. Bartle as the party opposing summary judgment. We note that many of these facts remain disputed.
+
+2
+
+Garmin’s insurance policy contains a forum selection clause designating the Insured’s primary place of business (in this case Kansas) as the jurisdiction whose law governs the policy. (R. at 69.)
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

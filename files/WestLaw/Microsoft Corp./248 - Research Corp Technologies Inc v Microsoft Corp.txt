@@ -1,0 +1,592 @@
+
+
+
+
+
+Research Corp. Technologies, Inc. v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | December 8, 2010 | 627 F.3d 859 | 2010 WL 4971008
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Bancorp Services, L.L.C. v. Sun Life Assur. Co. of Canada (U.S.), Fed.Cir.(Mo.), July 26, 2012
+
+standard Citation:
+
+Research Corp. Techs. v. Microsoft Corp., 627 F.3d 859 (Fed. Cir. 2010)
+
+All Citations:
+
+627 F.3d 859, 97 U.S.P.Q.2d 1274
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Arizona
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Bancorp Services, L.L.C. v. Sun Life Assur. Co. of Canada (U.S.), Fed.Cir.(Mo.), July 26, 2012
+627 F.3d 859
+United States Court of Appeals,
+Federal Circuit.
+RESEARCH CORPORATION TECHNOLOGIES, INC., Plaintiff–Appellant,
+v.
+MICROSOFT CORPORATION, Defendant–Appellee.
+No. 2010–1037.
+|
+Dec. 8, 2010.
+Synopsis
+Background: Patent holder filed action against competitor alleging infringement of patents relating to digital image half-toning. The United States District Court for the District of Arizona, Manuel L. Real, J., 2006 WL 1544381, held that patentee had engaged in inequitable conduct. Plaintiff appealed. The Court of Appeals, 536 F.3d 1247, reversed and remanded with instructions to reassign case to new judge. On remand, the district court, Robert C. Jones, J., 2009 WL 1676125 and 2009 WL 2413623, held that some claims of some patents were invalid and that other claims of other patents were not entitled to claim benefit of earlier filed applications. Plaintiff appealed.
+ 
+Holdings: The Court of Appeals, Rader, Chief Judge, held that:
+ 
+[1] method, or statutory “process,” for rendering half-tone image of digital image in computer applications by comparing digital image, pixel by pixel, against blue noise mask was not abstract, but, instead, presented functional and palpable applications in field of computer technology, and thus was patent-eligible;
+ 
+[2] claims in one continuation patent were not entitled to claim benefit of filing dates of parent application;
+ 
+[3] other claim was entitled to claim benefit of earlier filing date of prior parent application; and
+ 
+[4] district court’s summary judgment had to be reversed in part, rather than vacated in part.
+ 
+Affirmed in part, reversed in part, and remanded.
+ 
+
+
+West Headnotes (18)
+
+
+[1]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5)
+
+
+Questions about patent-eligible subject matter are reviewed without deference. 35 U.S.C.A. § 101.
+18 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5)
+
+
+The issue of whether a patent is entitled to an earlier priority date is reviewed without deference.
+5 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k459In general
+(Formerly 291k7.14)
+
+
+Method, or statutory “process,” for rendering half-tone image of digital image in computer applications by comparing digital image, pixel by pixel, against blue noise mask, was not abstract, but, instead, presented functional and palpable applications in field of computer technology, and thus was patent-eligible, although algorithms and formulas controlled masks and half-toning. 35 U.S.C.A. §§ 100, 101.
+23 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsEligible Subject Matter
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k441In general
+(Formerly 291k5)
+
+
+A court may not reject subject matter categorically because it finds that a claim is not worthy of a patent. 35 U.S.C.A. § 101.
+14 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsLaws of nature, natural phenomena, and abstract ideas;  fundamental principles
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k450Exceptions to Eligibility;  Ineligible Subject Matter
+291k452Laws of nature, natural phenomena, and abstract ideas;  fundamental principles
+(Formerly 291k5)
+
+
+On an application for a patent, abstractness, as a disqualifying characteristic, should exhibit itself so manifestly as to override the broad statutory categories of eligible subject matter and the statutory context that directs primary attention on the patentability criteria of the rest of the Patent Act. 35 U.S.C.A. §§ 100, 101.
+41 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsLaws of nature, natural phenomena, and abstract ideas;  fundamental principles
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k450Exceptions to Eligibility;  Ineligible Subject Matter
+291k452Laws of nature, natural phenomena, and abstract ideas;  fundamental principles
+(Formerly 291k5)
+
+
+Inventions with specific applications or improvements to technologies in the marketplace are not likely to be so abstract that they override the statutory language and framework of the Patent Act. 35 U.S.C.A. §§ 100, 101.
+30 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsEnablement Requirement
+PatentsParticularity and distinctness
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k904Specification
+291k908Enablement Requirement
+291k908(1)In general
+(Formerly 291k99)
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k817Particularity and distinctness
+(Formerly 291k101(6))
+
+
+A patent that presents a process sufficient to pass the coarse eligibility filter may nonetheless be invalid as indefinite because the invention would not provide sufficient particularity and clarity to inform skilled artisans of the bounds of the claim; that same subject matter also might be so conceptual that the written description does not enable a person of ordinary skill in the art to replicate the process. 35 U.S.C.A. §§ 101, 112.
+2 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsBenefit of Earlier Filing Date
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(B)Examination
+291k934Overcoming Prior Art References
+291k936Benefit of Earlier Filing Date
+291k936(1)In general
+(Formerly 291k110)
+
+
+Subsequent continuation patent, that disclosed half-tone masks that substantially produced dot profiles with substantially blue noise characteristics, was broader than prior parent patent application, that disclosed “blue noise mask” that was “halftone mask with wraparound properties that produces blue noise and visually pleasing dot profiles at any level of gray,” and thus claims in continuation patent were not entitled to claim benefit of filing dates of parent application, since person of ordinary skill in the art would not have understood from prior invention that inventors had disclosed half-tone masks that substantially produced dot profiles with substantially blue noise characteristics. 35 U.S.C.A. §§ 112, 120.
+Cases that cite this headnote
+
+
+
+[9]
+
+PatentsBenefit of Earlier Filing Date
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(B)Examination
+291k934Overcoming Prior Art References
+291k936Benefit of Earlier Filing Date
+291k936(1)In general
+(Formerly 291k110)
+
+
+To obtain the benefit of a parent patent application’s filing date, the claims of the later-filed application must be supported by the written description in the parent in sufficient detail that one skilled in the art can clearly conclude that the inventor invented the claimed invention as of the filing date sought. 35 U.S.C.A. § 120.
+4 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsBenefit of Earlier Filing Date
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(B)Examination
+291k934Overcoming Prior Art References
+291k936Benefit of Earlier Filing Date
+291k936(1)In general
+(Formerly 291k110)
+
+
+Entitlement to a filing date extends only to subject matter that is disclosed, not to that which is obvious; therefore, to obtain the benefit of a parent patent application’s filing date, the parent patent application must actually or inherently disclose the elements of the later-filed claims. 35 U.S.C.A. § 120.
+4 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsPresumption of correctness in general
+PatentsDegree of proof
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(D)Conclusiveness and Effect of Administrative Decisions
+291k1102Presumption of correctness in general
+(Formerly 291k112.1)
+291Patents
+291IVPatent Applications and Proceedings
+291IV(D)Conclusiveness and Effect of Administrative Decisions
+291k1116Sufficiency of Evidence to Offset Effect of Decision
+291k1119Degree of proof
+(Formerly 291k112.5)
+
+
+A patent is presumed valid and the party asserting invalidity has the burden of persuasion to show the contrary by clear and convincing evidence; the challenger has the burden of going forward with invalidating prior art and the patentee then has the burden of going forward with evidence to the contrary, i.e., the patentee must show that the prior art does not actually invalidate the patent or that it is not prior art because the asserted claim is entitled to the benefit of an earlier filing date.
+18 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsBenefit of Earlier Filing Date
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(B)Examination
+291k934Overcoming Prior Art References
+291k936Benefit of Earlier Filing Date
+291k936(1)In general
+(Formerly 291k110)
+
+
+Parent patent application disclosed only blue noise mask, and thus had to be limited accordingly on claim for earlier filing date for continuation patent, where, among other things, application limited invention to “blue noise mask,” which was “halftone mask with wraparound properties that produces blue noise and visually pleasing dot profiles at any level of gray,” specification repeatedly referred to blue noise mask as “the present invention,” figures in patent only illustrated various aspects of blue noise mask, all approved claims of application recited “blue noise mask,” and inventors’ admitted that they only described blue noise mask. 35 U.S.C.A. § 120.
+Cases that cite this headnote
+
+
+
+[13]
+
+PatentsBenefit of Earlier Filing Date
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(B)Examination
+291k934Overcoming Prior Art References
+291k936Benefit of Earlier Filing Date
+291k936(1)In general
+(Formerly 291k110)
+
+
+Expert declaration explaining that prior parent application provided written description support for later-filed claims properly was accorded little weight, where declaration was five years old at time that issue was addressed and declaration addressed patent claims that were not at issue. 35 U.S.C.A. § 120.
+Cases that cite this headnote
+
+
+
+[14]
+
+PatentsBenefit of Earlier Filing Date
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(B)Examination
+291k934Overcoming Prior Art References
+291k936Benefit of Earlier Filing Date
+291k936(1)In general
+(Formerly 291k110)
+
+
+Claim in subsequent continuation patent reciting an apparatus “for comparing, on a pixel-by-pixel basis, a plurality of color planes of said color image against a blue noise mask” was entitled to claim benefit of earlier filing date of prior parent application that described blue noise mask in terms of its first and second order properties and not how it was made, since claim covered blue noise mask that was calculated in any way and had written description support even if it did not recite exact method steps described in specification or any other methods for making blue noise mask. 35 U.S.C.A. § 120.
+1 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsReading limitations or elements into claims, or disregarding limitations or elements
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1322Reading limitations or elements into claims, or disregarding limitations or elements
+(Formerly 291k165(4))
+
+
+A court generally must take care to avoid reading process limitations into an apparatus patent claim because the process by which a product is made is irrelevant to the question of whether that product infringes a pure apparatus claim.
+5 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsWritten Description Requirement
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k904Specification
+291k907Written Description Requirement
+291k907(1)In general
+(Formerly 291k101(5))
+
+
+Apparatus patent claims do not need to recite every method of making the claimed apparatus.
+3 Cases that cite this headnote
+
+
+
+[17]
+
+PatentsDetermination and Disposition of Cause
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1974Determination and Disposition of Cause
+291k1975In general
+(Formerly 291k324.60)
+
+
+District court’s summary judgment had to be reversed, rather than vacated, as to whether prior parent patent applications had provided written description support for claim of subsequent continuation patent; although competitor had alternate arguments to make on remand as to why claims were not entitled to earlier filing dates, such as lack of enablement, competitor’s motion had been based solely on written description, rather than on lack of enablement, and that motion should have been denied. 35 U.S.C.A. §§ 112, 120; Fed.Rules Civ.Proc.Rule 56, 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[18]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,111,310, US Patent 5,341,228, US Patent 5,477,305, US Patent 5,543,941, US Patent 5,708,518, US Patent 5,726,772. Cited.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*862 J. Michael Jakes, Finnegan, Henderson, Farabow, Garrett & Dunner, LLP, of Washington, DC, argued for plaintiff-appellant. With him on the brief were Susan Y. Tull; and Erika H. Arner, of Reston, VA. Of counsel on the brief were M. Miller Baker, Blair M. Jacobs, Paul E. Poirot and Natalia V. Blinkova, McDermott, Will & Emery LLP, of Washington, DC; and Michael J. Rusing, Rusing & Lopez, PLLC, of Tucson, AZ. Of counsel were Isaac Crum, Stephen K. Shahida and Bureden J. Warren, McDermott, Will & Emery LLP, of Washington, DC.
+John D. Vandenberg, Klarquist Sparkman, LLP, of Portland, OR, argued for defendant-appellee. With him on the brief were Stephen J. Joncus, Todd M. Siegel, Kristin L. Cleveland and Salumeh R. Loesch. Of counsel on the brief were Stephen P. McGrath, Microsoft Corporation, of Redmond, WA; and Jeffrey Willis, Snell & Wilmer, L.L.P., of Tucson, AZ.
+Before RADER, Chief Judge, NEWMAN and PLAGER, Circuit Judges.
+Opinion
+RADER, Chief Judge.
+
+Research Corporation Technologies, Inc. (“RCT”) initiated this action against Microsoft Corporation (“Microsoft”), alleging infringement of six related patents: U.S. Patent Nos. 5,111,310 (“′310 patent”); 5,341,228 (“′228 patent”); 5,477,305 (“′305 patent”); 5,543,941 (“′941 patent”); 5,708,518 (“′518 patent”); and 5,726,772 (“′772 patent”). The United States District Court for the District of Arizona held that certain claims of the ′310 and ′228 patents were invalid under 35 U.S.C. § 101. The district court further held that certain claims of the ′772 and ′305 patents were not entitled to claim the benefit of earlier filed applications that led to the ′310 and ′228 patents.
+ 
+Because the ′310 and ′228 patents claim patent-eligible subject matter, this court reverses the district court on that point. This court also finds that claim 29 of the ′305 patent deserves the earlier filing date and thus reverses the district court’s effective date ruling and remands. At the same time, this court affirms the district court’s decision that claims 4 and 63 of the ′772 patent are not entitled to the earlier effective filing date.
+ 
+
+I
+RCT’s six patents relate to digital image halftoning. Digital images are, in fact, thousands of pixels arranged in arrays of rows and columns. Each pixel in a black-and-white image contains information about the gray level of the image at that particular position. A black-and-white image can have 256 shades of gray. A gray level 1 represents black and a gray level 256 represents white, with intervening numbers representing various shades of gray. For color images, a computer creates separate color-specific arrays of pixels, one array for each primary color. A color-specific array has pixels containing information about the shade level of that color at that particular position.
+ 
+Digital images often show shades of gray and even a spectrum of colors. Nonetheless, computer displays and printers *863 can only use a limited number of primary colors to display these digital images. Halftoning bridges this gap by simulating a continuous tone image through the use of dots. Halftoning techniques allow computers to present many shades and color tones with a limited number of pixel colors. These techniques place the dots of primary colors in a formation that gives the viewer the illusion of many more shades of gray or varying colors. Black-and-white printers use only black dots to give the illusion of shades of gray. Color printers typically use four primary colors—cyan, magenta, yellow, and black—to give the illusion of a spectrum of colors. Color displays often use three primary colors—red, green, and blue—to achieve the same effect. Digital halftoning technology thus allows computer displays and printers to render an approximation of an image by using fewer colors or shades of gray than the original image. For the most part, this opinion discusses halftoning technology with reference primarily to a black-and-white image with varying shades of gray, rather than a color image. The principles, however, are the same.
+ 
+One method of generating a digital halftoned image is called “thresholding.” The thresholding technique uses a two-dimensional array called a “mask” that is populated with predetermined threshold numbers, which are typically between 1 and 256. The thresholds do not relate at all to the image to be halftoned. The thresholding technique compares the gray level at each pixel of the image against the threshold that corresponds to the pixel’s position. If the gray level exceeds the corresponding threshold, the pixel is turned on, i.e., the computer places a “1” in the appropriate memory space. The resulting halftone image is a two-dimensional array of zeros and ones.
+ 
+This imaging field uses various ways to measure the quality of a halftoning process. One method examines the “dot profiles” produced by the halftoning process. A dot profile is a halftone image that would be produced if the original image were a single shade of gray, (i.e., all of the pixels have the same gray level). A dot profile is essentially a pattern of black dots on a white piece of paper. A dot profile for an original image with a high gray level would have more ones and thus more black dots than a dot profile for an image with a low gray level. Closely spaced dots are said to occur at a high frequency, and those far apart are said to occur at a low frequency. Because the human visual system is more sensitive to low frequencies than to high frequencies, viewers consider dot profiles with few low-frequency dots visually pleasing.
+ 
+Another way to observe the quality of a halftone is to use a power spectrum associated with each dot profile obtained from the halftoning process. A power spectrum is a graph showing the relative frequency of dots in the dot profile at a particular gray level. The shape of the power spectrum characterizes the type of “noise” that the dot profiles exhibit. For example, a dot profile with a “white noise” exhibits a power spectrum where the frequencies are approximately equal across the graph. In contrast, a dot profile with a “blue noise” exhibits a power spectrum with primarily high frequency components and negligible low frequency components.
+ 
+Figure 1 of the ′310 patent shows an ideal blue noise power spectrum, which is unattainable in the real world.
+ 
+
+*864
+
+​
+′310 patent fig.1. The horizontal axis represents the radial frequency, which is the reciprocal of the average spacing between the dots in the dot profile. A blue noise power spectrum has negligible frequency components below the principal frequency and high frequency components above the principal frequency. The principal frequency, fg, varies from one gray level g to another:
+
+​
+Id. col.6 ll.25–38. In this equation, R is the distance between addressable dots on the display and the gray level g is normalized from zero to one. The principal frequency assumes its highest value for 50% gray level because at this level there are equal numbers of black and white dots. Each dot profile exhibits a power spectrum with a different radial frequency because as the gray level increases, so does the number of dots in the dot profile.
+Drs. Kevin J. Parker and Theophano Mitsa, the named inventors of the six RCT patents, conceived of an improved blue noise mask. The inventors’ halftoning technique used a blue noise mask, which was stored in a computer’s memory, to carry out a pixel-by-pixel comparison of the mask to the digital image. Their halftoning technique compares the gray level of each pixel in a digital image to the corresponding threshold number in the blue noise mask to produce a halftone image.
+ 
+The claimed blue noise mask has unique first and second order properties. When thresholded at A% of the maximum level, exactly A out of every 100 pixels will be greater than the threshold value. For example, when the blue noise mask is thresholded at 50% of the maximum level, exactly half of the pixels will be turned on. In addition, the dots are distributed so that they form a blue noise pattern, which means that “the resulting dot profile is a locally aperiodic and isotropic binary pattern with small low-frequency components.” Id. col.5 ll.60–63. The blue noise mask also has wraparound properties such that a smaller blue noise mask can be used to halftone a larger image by tiling the mask over an appropriate number of periods.
+ 
+In constructing the claimed blue noise mask, one of skill in this art would first create a dot profile that corresponds to the 50% gray level. Next, the skilled artisan would sequentially construct the dot profiles *865 for other gray levels. The dot profile for the next gray level g + Δ g is built from the dot profile for the gray level g by converting a given number of pixels. If the next gray level is higher, a certain number of zeros are converted into ones; if the next gray level is lower, a certain number of ones are converted into zeros. The pixel that was turned on for a gray level g remains turned on for all dot profiles with a gray level g or higher. As these pixels change value from one sequential profile to the next, the mask keeps track of those changes. The pixel-value conversion that occurs at every pixel location is encoded in a cumulative array. When all dot profiles are built, the cumulative array becomes the blue noise mask. Compared to prior art blue noise masks, Drs. Parker and Mitsa’s inventive mask produces higher quality halftone images while using less processor power and memory space.
+ 
+RCT alleges that Microsoft infringes all six patents. The following claims are at issue on appeal: claims 1 and 2 of the ′310 patent; claim 11 of the ′228 patent; claims 4 and 63 of the ′772 patent; and claim 29 of the ′305 patent.
+ 
+The ′310 patent issued on May 5, 1992, based on a December 4, 1990 application (“the 1990 Application”). Asserted claims 1 and 2 recite:
+1. A method for the halftoning of gray scale images by utilizing a pixel-by-pixel comparison of the image against a blue noise mask in which the blue noise mask is comprised of a random non-deterministic, non-white noise single valued function which is designed to produce visually pleasing dot profiles when thresholded at any level of said gray scale images.
+′310 patent col.10 ll.23–30.
+2. The method of claim 1, wherein said blue noise mask is used to halftone a color image.
+Id. col.10 ll.31–32.
+ 
+The ′228 patent issued on August 23, 1994, based on a December 3, 1991 Application (“the 1991 Application”). The ′228 patent is a continuation-in-part of the ′310 patent. Claim 11 recites:
+11. A method for the halftoning of color images, comprising the steps of utilizing, in turn, a pixel-by-pixel comparison of each of a plurality of color planes of said color image against a blue noise mask in which the blue noise mask is comprised of a random non-deterministic, non-white noise single valued function which is designed to provide visually pleasing dot profiles when thresholded at any level of said color images, wherein a plurality of blue noise masks are separately utilized to perform said pixel-by-pixel comparison and in which at least one of said blue noise masks is independent and uncorrelated with the other blue noise masks.
+′228 patent col.20 ll.3–14.
+ 
+The remaining four patents—the ′305, ′941, ′518, and ′772 patents—claim the benefit under 35 U.S.C. § 120 of the effective filing dates of the 1990 and 1991 Applications. The ′941 patent is a continuation of the ′228 patent; the ′305 and ′518 patents are continuations of the ′941 patent; and the ′772 patent is a continuation of the ′305 patent. These five patents share the same specification. The asserted claims 4 and 63 of the ′ 772 patent depend from independent claims 1 and 57, respectively.
+*866 1. [not asserted] A machine comprising a computer readable storage device which stores a dither matrix for use in halftoning image information and a comparator responsive to said computer readable storage device, said dither matrix comprising at least one array, said at least one array, when thresholded at a number of levels produces a number of dot profiles, a plurality of said number of dot profiles each having a power spectrum substantially characteristic of a blue noise power spectrum for the level at which such dot profile is produced.
+′772 patent col.16 ll.52–61.
+4. The machine of claim 1, wherein substantially all of said number of dot profiles have a power spectrum substantially characteristic of a blue noise power spectrum for the level at which such dot profile is produced.
+Id. col.17 ll.1–4 (emphasis added).
+57. [not asserted] A computer readable memory device comprising a thresholdable halftoning mask, said halftoning mask designed to produce a plurality of visually pleasing dot profiles when thresholded at a number of levels and a comparator responsive to said computer readable memory device.
+Id. col.19 ll.38–43.
+63. The computer readable memory device of claim 57, wherein said halftoning mask is designed to produce substantially all visually pleasing dot profiles when thresholded at a number of levels.
+Id. col.19 ll.58–61 (emphasis added).
+ 
+Claim 29 of the ′305 patent recites:
+29. Apparatus for the halftoning of color images comprising a comparator for comparing, on a pixel-by-pixel basis, a plurality of color planes of said color image against a blue noise mask in which the blue noise mask is comprised of a random non-deterministic, non-white noise single valued function which is designed to provide visually pleasing dot profiles when thresholded at any level of said color images, wherein an output of said comparator is used to produce a halftoned image.
+′305 patent col.19 ll.48–56 (emphasis added).
+ 
+
+II
+On December 21, 2001, RCT filed suit against Microsoft alleging that Microsoft’s operating systems, office suites, and other applications infringe RCT’s patents. This court has heard an earlier appeal in this case and reversed the district court’s finding of inequitable conduct. Research Corp. Techs., Inc. v. Microsoft Corp., 536 F.3d 1247, 1254 (Fed.Cir.2008). This court vacated the district court’s grant of Microsoft’s motion for summary judgment of invalidity and non-infringement. Id. Finally, this court remanded with instructions to reassign the case to a new judge. Id. at 1255.
+ 
+On remand, the district court held on summary judgment that the asserted claims of the ′310 and the ′228 patents were invalid under 35 U.S.C. § 101. The district court also held on summary judgment that the asserted claims of the ′772 patent were not entitled to claim priority to the 1990 and 1991 Applications. The district court found that the invention disclosed in the 1990 and 1991 Applications were limited to a blue noise mask and thus did not provide written description support for the asserted claims of the ′772 patent, which claimed more than the disclosed blue noise mask. Id.
+ 
+After the district court’s effective date ruling for the ′772 patent, RCT and Microsoft stipulated that no accused Microsoft product infringes a valid, asserted claim of the ′305, ′941, ′518, and ′772 patents that *867 does not recite a “blue noise mask.” Among those later-filed claims, only claim 29 of the ′305 patent, which expressly claims a “blue noise mask,” remained for trial. On the eve of trial, the district court ruled from the bench that claim 29 of the ′305 patent was not entitled to claim the benefit of an earlier filing date. The parties stipulated to invalidity of claim 29. On the same day, the parties filed a written stipulation dismissing the suit on the merits pursuant to the Federal Rules of Civil Procedure Rule 41(a)(1)(A)(ii). The district court granted the stipulation on September 3, 2009.
+ 
+RCT appeals the district court’s section 101 ruling and the effective filing date rulings. This court has jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+III
+[1] [2] This court reviews a grant of summary judgment without deference. Liebel–Flarsheim Co. v. Medrad, Inc., 481 F.3d 1371, 1377 (Fed.Cir.2007). This court also reviews questions about patent-eligible subject matter under 35 U.S.C. § 101 without deference. In re Ferguson, 558 F.3d 1359, 1363 (Fed.Cir.2009). This court also reviews without deference whether a patent is entitled to an earlier priority date. Go Med. Indus. Pty, Ltd. v. Inmed Corp., 471 F.3d 1264, 1270 (Fed.Cir.2006).
+ 
+
+IV
+[3] The Patent Act of 1952 sets forth the categories of subject matter eligible for patent protection:
+Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefore, subject to the conditions and requirements of this title.
+35 U.S.C. § 101. Section 101 emphasizes that “any” subject matter in the four independent categories and “any” improvement in that subject matter qualify for protection. The Supreme Court recently reemphasized the significance of these broad statutory categories with the broadening double “any” exhortation as well. Bilski v. Kappos, ––– U.S. ––––, 130 S.Ct. 3218, 3225, 177 L.Ed.2d 792 (2010). In that recent case, the Supreme Court also focused on the Patent Act’s definition for “process,” the statutory category at issue in this case:
+The term “process” means process, art, or method, and includes a new use of a known process, machine, manufacture, composition of matter, or material.
+35 U.S.C. § 100(b); Bilski, 130 S.Ct. at 3225.
+ 
+In its Bilski decision, the Supreme Court invoked again some of its earlier cases that have relevance to this case as well. For instance, the Bilski court relied on Diamond v. Diehr, 450 U.S. 175, 101 S.Ct. 1048, 67 L.Ed.2d 155 (1981), and Diamond v. Chakrabarty, 447 U.S. 303, 100 S.Ct. 2204, 65 L.Ed.2d 144 (1980). Bilski, 130 S.Ct. at 3225. Chakrabarty recited that “Congress plainly contemplated that the patent laws would be given wide scope.” 447 U.S. at 308, 100 S.Ct. 2204. Therefore, the Supreme Court has “more than once cautioned that courts ‘should not read into the patent laws limitations and conditions which the legislature has not expressed.’ ” Diehr, 450 U.S. at 182, 101 S.Ct. 1048 (quoting Chakrabarty, 447 U.S. at 308, 100 S.Ct. 2204). The Supreme Court has articulated only three exceptions to the Patent Act’s broad patent-eligibility principles: “laws of nature, physical phenomena, and abstract ideas.” Chakrabarty, 447 U.S. at 309, 100 S.Ct. 2204. The Supreme Court reasoned that laws of nature and natural phenomena fall *868 outside the statutory categories because those categories embrace “the basic tools of scientific and technological work.” Gottschalk v. Benson, 409 U.S. 63, 67, 93 S.Ct. 253, 34 L.Ed.2d 273 (1972). Abstractness, also a disclosure problem addressed in the Patent Act in section 112, also places subject matter outside the statutory categories.
+ 
+[4] The section 101 patent-eligibility inquiry is only a threshold test. See Bilski, 130 S.Ct. at 3225. Moreover, the statutory provision that approves the broad categories of subject matter, section 101, itself directs primary attention to “the conditions and requirements of [Title 35].” 35 U.S.C. § 101. Indeed, the Supreme Court recently emphasized this statutory framework and faulted this court’s “machine or transformation” test for eligibility as nonstatutory. Bilski, 130 S.Ct. at 3227. In refocusing the eligibility inquiry on the statute, the Supreme Court advised that section 101 eligibility should not become a substitute for a patentability analysis related to prior art, adequate disclosure, or the other conditions and requirements of Title 35. In other words, section 101 does not permit a court to reject subject matter categorically because it finds that a claim is not worthy of a patent. See Bilski, 130 S.Ct. at 3238 (Stevens, J., concurring) (“Given the many moving parts at work in the Patent Act, there is a risk of merely confirming our preconceived notions of what should be patentable or of seeing common attributes that track ‘the familiar issues of novelty and obviousness’ that arise under other sections of the statute but are not relevant to § 101.”) (quoting Parker v. Flook, 437 U.S. 584, 588, 98 S.Ct. 2522, 57 L.Ed.2d 451 (1978)).
+ 
+In this case, the subject matter is a “process” for rendering a halftone image. As a process, the subject matter qualifies under both the categorical language of section 101 and the process definition in section 100. Therefore, this court proceeds to examine the Supreme Court’s three exceptions. The parties do not dispute, and this court agrees, that the inventors do not purport to have invented laws of nature or physical phenomena. Therefore, this court turns to abstractness. Indeed, the Supreme Court in Bilski refocused this court’s inquiry into processes on the question of whether the subject matter of the invention is abstract. The Supreme Court did not presume to provide a rigid formula or definition for abstractness. See, e.g., Bilski, 130 S.Ct. at 3236 (The Court has “never provide[d] a satisfying account of what constitutes an unpatentable abstract idea.” (Stevens, J., concurring)). Instead, the Supreme Court invited this court to develop “other limiting criteria that further the purposes of the Patent Act and are not inconsistent with its text.” Id. at 3231.
+ 
+[5] With that guidance, this court also will not presume to define “abstract” beyond the recognition that this disqualifying characteristic should exhibit itself so manifestly as to override the broad statutory categories of eligible subject matter and the statutory context that directs primary attention on the patentability criteria of the rest of the Patent Act. In that context, this court perceives nothing abstract in the subject matter of the processes claimed in the ′310 and ′228 patents. The ′310 and ′228 patents claim methods (statutory “processes”) for rendering a halftone image of a digital image by comparing, pixel by pixel, the digital image against a blue noise mask.
+ 
+[6] The invention presents functional and palpable applications in the field of computer technology. These inventions address “a need in the art for a method of and apparatus for the halftone rendering of gray scale images in which a digital data *869 processor is utilized in a simple and precise manner to accomplish the halftone rendering.” ′310 patent col.3 ll.33–40. The fact that some claims in the ′310 and ′228 patents require a “high contrast film,” “a film printer,” “a memory,” and “printer and display devices” also confirm this court’s holding that the invention is not abstract. Indeed, this court notes that inventions with specific applications or improvements to technologies in the marketplace are not likely to be so abstract that they override the statutory language and framework of the Patent Act.
+ 
+This court also observes that the claimed methods incorporate algorithms and formulas that control the masks and halftoning. These algorithms and formulas, even though admittedly a significant part of the claimed combination, do not bring this invention even close to abstractness that would override the statutory categories and context. The Supreme Court has already made abundantly clear that inventions incorporating and relying upon even “a well known mathematical equation” do not lose eligibility because “several steps of the process [use that] mathematical equation.” Diehr, 450 U.S. at 185, 101 S.Ct. 1048. Indeed, the Supreme Court counseled:
+In determining the eligibility of respondents’ claimed process for patent protection under section 101, their claims must be considered as a whole. It is inappropriate to dissect the claims into old and new elements and then to ignore the presence of the old elements in the analysis. This is particularly true in a process claim because a new combination of steps may be patentable even though all the constituents of the combination were well known and in common use before the combination was made.
+Id. at 188, 101 S.Ct. 1048. Borrowing from the reasoning of the Supreme Court in Diehr, this court observes that the patentees here “do not seek to patent a mathematical formula. Instead, they seek patent protection for a process of” halftoning in computer applications. Id. at 187, 101 S.Ct. 1048. Moreover, because the inventions claimed in the ′310 and ′228 patents are directed to patent-eligible subject matter, the process claims at issue, which claim aspects and applications of the same subject matter, are also patent-eligible.
+ 
+[7] In the context of the statute, this court notes that an invention which is not so manifestly abstract as to override the statutory language of section 101 may nonetheless lack sufficient concrete disclosure to warrant a patent. In section 112, the Patent Act provides powerful tools to weed out claims that may present a vague or indefinite disclosure of the invention. Thus, a patent that presents a process sufficient to pass the coarse eligibility filter may nonetheless be invalid as indefinite because the invention would “not provide sufficient particularity and clarity to inform skilled artisans of the bounds of the claim.” Star Scientific., Inc. v. R.J. Reynolds Tobacco Co., 537 F.3d 1357, 1371 (Fed.Cir.2008). That same subject matter might also be so conceptual that the written description does not enable a person of ordinary skill in the art to replicate the process.
+ 
+Accordingly, this court reverses the district court’s summary judgment that the ′310 and ′228 patents do not claim patent-eligible inventions.
+ 
+
+V
+[8] [9] [10] The Patent Act provides: “An application for patent for an invention disclosed in the manner provided by the first paragraph of this title in an application previously filed in the United States ... shall have the same effect, as to such invention, as though filed on the date of *870 the prior application....” 35 U.S.C. § 120. To obtain the benefit of a parent application’s filing date under section 120, “the claims of the later-filed application must be supported by the written description in the parent ‘in sufficient detail that one skilled in the art can clearly conclude that the inventor invented the claimed invention as of the filing date sought.’ ” Anascape, Ltd. v. Nintendo of Am., Inc., 601 F.3d 1333, 1335 (Fed.Cir.2010) (quoting Lockwood v. Am. Airlines, Inc., 107 F.3d 1565, 1572 (Fed.Cir.1997)). Entitlement to a filing date extends only to subject matter that is disclosed; not to that which is obvious. Lockwood, 107 F.3d at 1571–72. Therefore, the parent application must actually or inherently disclose the elements of the later-filed claims. PowerOasis, Inc. v. T–Mobile USA, Inc., 522 F.3d 1299, 1306 (Fed.Cir.2008).
+ 
+On appeal, RCT challenges the district court’s determination that claims 4 and 63 of the ′772 patent are not entitled to claim the benefit of the filing dates of the 1990 Application (December 4, 1990) or the 1991 Application (December 3, 1991). RCT also asserts that the district court erred by later ruling from the bench that claim 29 of the ′305 patent was not entitled to an earlier filing date.
+ 
+This court notes that the ′772 and ′305 patents share the same specification with the ′228 patent into which the 1991 Application matured. Therefore, whether the later-filed claims in the ′772 and ′305 patents are supported by the 1991 Application under 35 U.S.C. § 120 essentially asks whether the later-filed claims are supported by their own written descriptions under 35 U.S.C. § 112. However, because the parties have presented the issue as an effective filing date question rather than a written description question and the trial court has adopted the parties’ characterization of the issue, this court will analyze the issue under section 120.
+ 
+[11] This court first considers whether the district court misplaced the burden of showing the ′772 patent’s entitlement to an earlier effective date. A patent is presumed valid and the party asserting invalidity has the burden of persuasion to show the contrary by clear and convincing evidence. Tech. Licensing Corp. v. Videotek, Inc., 545 F.3d 1316, 1329 (Fed.Cir.2008). The challenger has the burden of going forward with invalidating prior art. Id. The patentee then has the burden of going forward with evidence to the contrary, i.e., the patentee must show that the prior art does not actually invalidate the patent or that it is not prior art because the asserted claim is entitled to the benefit of an earlier filing date. Id.; see also PowerOasis, 522 F.3d at 1304–06 (holding that the patentee had the burden to come forward with evidence to prove entitlement to an earlier filing date when it was undisputed that a certain reference was invalidating prior art).
+ 
+Microsoft’s summary judgment motion was couched as “Microsoft’s Motion for Partial Summary Judgment that the Asserted Claims of the ′772 patent are not Entitled to the Effective Filing Date of the 1991 or 1990 Applications under 35 U.S.C. § 120.” Br. of Def.-Microsoft Corp. at 1, Research Corp. Techs., Inc. v. Microsoft Corp., No. 01–658 (Dkt.845) (D.Ariz. Feb. 13, 2009). In fact, this motion had the effect of asserting invalidity. Microsoft pointed out in its motion that RCT sought the 1990 and 1991 effective dates to “avoid intervening art” and identified the ′310 patent as one such reference. Id. The district court recognized that “[b]ecause [Microsoft] is moving on validity of RCT’s ′772 patent, Microsoft has the burden of persuasion to prove invalidity by clear and convincing evidence.” Research Corp. *871 Techs., Inc. v. Microsoft Corp., No. 01–658, slip. op. at 11, 2009 WL 1676125 (D. Ariz. June 5, 2009).
+ 
+RCT argues that Microsoft did not show initially that the ′310 patent anticipated the asserted claims of the ′772 patent. However, in response to Microsoft’s motion, RCT only argued that the ′310 patent was not prior art because the ′772 patent was entitled to the same effective filing date as the ′310 patent. Br. of Pl.-Research Corp. Techs., Inc., Research Corp. Techs., Inc. v. Microsoft Corp., No. 01–658 (Dkt.885) (D.Ariz. Feb. 19, 2009). RCT did not contest before the district court (and thus waived on appeal) that the ′310 patent did not meet each and every element of the ′772 patent claims or present a disclosure that rendered the ′772 patent claims obvious. Accordingly, RCT did not put into dispute that the ′310 patent was an invalidating prior art reference. Because Microsoft effectively satisfied its initial burden by coming forward with invalidating prior art, the burden was on RCT to come forward with evidence to show that the ′310 patent was not actually prior art. The district court therefore correctly placed the burden on RCT to come forward with evidence to show entitlement to an earlier filing date.
+ 
+This court must next examine the scope of the later-filed claims in determining whether the written description of the 1990 and 1991 Applications support the later-filed claims. Claim 4 of the ′772 patent recites an array “when thresholded at a number of levels produces a number of dot profiles ... wherein substantially all of said number of dot profiles have a power spectrum substantially characteristic of a blue noise power spectrum for the level at which such dot profile is produced.” ′772 patent col.17 ll.1–4 (emphasis added). Claim 63 of the ′772 patent recites a “halftoning mask [that] is designed to produce substantially all visually pleasing dot profiles when thresholded at a number of levels.” Id. col.19 ll.58–61 (emphasis added). A “visually pleasing dot profile” is a “blue noise dot profile.” Research Corp. Techs., Inc. v. Microsoft Corp., No. 01–658, slip. op. at 15, 2009 WL 1676125 (D. Ariz. June 5, 2009). A “blue noise dot profile,” in turn, is a “dot profile that has substantial characteristics of a blue noise power spectrum; is locally aperiodic; has low anisotropy; and has a lack of low-frequency graininess.” Id. Accordingly, both claims 4 and 63 of the ′772 patent claim halftone masks that produce a number of dot profiles, “substantially all” of which have substantial characteristics of a blue noise power spectrum. Significantly, not all dot profiles that the claimed halftone masks produce need to have blue noise characteristics, i.e., be locally aperiodic, have low anisotropy, or lack low-frequency graininess.
+ 
+[12] In contrast, the 1990 and 1991 Applications limit the invention to a “blue noise mask,” which is “[a] halftone mask with wraparound properties that produces blue noise and visually pleasing dot profiles at any level of gray.” Research Corp. Techs., Inc. v. Microsoft Corp., No. 01–658, slip. op. at 4 (D.Ariz. Oct. 1, 2002) (emphasis added). At the outset, the 1990 and 1991 Applications are entitled “Method and Apparatus for Halftone Rendering of a Gray Scale Image Using a Blue Noise Mask.” ′310 patent abstract; ′228 patent abstract. Indeed, the specifications repeatedly refer to a blue noise mask as “the present invention.” See, e.g., ′310 patent col.1 ll.8–11 (“[T]he present invention relates to a method of and system for rendering a halftone by utilizing a pixel-by-pixel comparison of the gray scale image against a blue noise mask.”); see also id. col.2 l.68–col.3 l.4 (“In the present invention ... dot profiles are built ‘on top of’ *872 the profiles from lower gray levels, such that a single valued 2–dimensional function, that is, the cumulative array or blue noise mask, can be constructed.”). These references to “the present invention” strongly suggest that the claimed invention is limited to a blue noise mask. See Trading Techs. Int’l, Inc. v. eSpeed, Inc., 595 F.3d 1340, 1353 (Fed.Cir.2010). The specification also explains that the “objects of the invention are accomplished by generating a blue noise mask which, when thresholded at any gray level g, produces a blue noise binary pattern appropriate for that gray level.” Id. col.3 ll.50–54 (emphases added). Beyond this language, the figures in the patent only illustrate various aspects of a blue noise mask. Finally, all fifteen approved claims of the 1990 Application and all ten approved claims of the 1991 Application recite a “blue noise mask.” Id. col.10 l.23–col.12 l.13; ′ 228 patent col.17 l.56–col.20 l.15. Accordingly, the 1990 and 1991 Applications disclose only a blue noise mask.
+ 
+Moreover, the inventors’ testimony indicate that they were in possession of only a blue noise mask at the time of filing the 1990 and 1991 Applications. Dr. Parker admitted in his deposition that the 1991 Application did not describe any masks other than a blue noise mask. (J.A. 4426–28 at 146:24–147:3; 148:3–6.) He repeatedly acknowledged that the 1991 Application’s disclosure was limited to a blue noise mask. Dr. Mitsa also characterized “the invention” as “the blue noise mask.” (J.A. 6425 at 188:5–10.) The 1990 and 1991 Applications and the inventors’ testimony show that Drs. Parker and Mitsa only described a blue noise mask in the 1990 and 1991 Applications. Given the inventors’ admission that they only described a blue noise mask, a person of ordinary skill would not understand from the 1990 and 1991 Applications that the inventors were in possession of a mask other than the disclosed “blue noise mask.”
+ 
+[13] RCT argues that the district court erred by according little weight to RCT’s expert Dr. Bobby R. Hunt’s January 7, 2004 expert declaration, which explained that the 1990 Application provided written description support for the later-filed claims. Dr. Hunt’s expert declaration, however, was five years old at that time and addressed patent claims that are not at issue in the present appeal—claim 2 of the ′518 patent; claim 42 of the ′305 patent; and claim 1 of the ′772 patent. Thus, the trial court did not err by deeming the declaration insufficient. Also, RCT criticizes the district court for limiting the 1990 and 1991 Applications to the “ideal” blue noise mask depicted in figure 1. However, at no point did the district court state or imply that the applications’ disclosure was so limited. RCT does not provide any substantive evidence as to why a person of ordinary skill would understand from the 1990 and 1991 Applications that the inventors possessed masks that produced dot profiles that did not have substantially blue noise characteristics at every level of gray.
+ 
+Accordingly, claims 4 and 63 of the ′772 patent are broader than the invention disclosed in the 1990 and 1991 Applications. A person of ordinary skill in the art would not understand from the 1990 and 1991 Applications that the inventors had disclosed halftone masks that substantially produced dot profiles with substantially blue noise characteristics. This court affirms the district court’s decision that claims 4 and 63 of the ′772 patent are not entitled to claim the benefit of their parent applications’ filing dates.
+ 
+[14] Claim 29 of the ′305 patent recites an apparatus “for comparing, on a pixel-by-pixel basis, a plurality of color planes of said color image against a blue noise *873 mask....” Unlike the asserted claims of the ′772 patent, claim 29 expressly claims a “blue noise mask.” The district court nonetheless held that claim 29 was not entitled to claim the benefit of an earlier filing date on the ground that the 1990 and 1991 Applications limited the invention to a blue noise mask that was created according to a specific algorithm recited in figure 2 of the applications while claim 29 did not require any particular algorithm. Figure 2 is “a flow chart for the design of the blue noise mask of the present invention.” ′310 patent col.4 ll.8–9. The algorithm shown in the flow chart requires that one “apply a blue noise filter” to a dot profile to create a blue noise mask. Id. fig.2. Claim 29 does not require an application of a blue noise filter to create a blue noise mask.
+ 
+[15] “Courts must generally take care to avoid reading process limitations into an apparatus claim ... because the process by which a product is made is irrelevant to the question of whether that product infringes a pure apparatus claim.” Baldwin Graphic Sys., Inc. v. Siebert, Inc., 512 F.3d 1338, 1344 (Fed.Cir.2008) (citations omitted); see also Vanguard Prods. Corp. v. Parker Hannifin Corp., 234 F.3d 1370, 1372 (Fed.Cir.2001) (“A novel product that meets the criteria of patentability is not limited to the process by which was made.”).
+ 
+As noted, the applications describe a blue noise mask in terms of its first and second order properties and not how it is made. See, e.g., ′310 patent col.8 ll.54–58 (“The blue noise mask is constructed such that when thresholded at any level, the resulting dot profile is a locally aperiodic and isotropic binary pattern with small low-frequency components, which in the halftoning literature, is known as a blue noise pattern.”). Claim 29 is a pure apparatus claim and has no process limitations. Thus, claim 29 is not limited to any particular process or method of making the claimed blue noise mask.
+ 
+Microsoft relies on this court’s decision in LizardTech, Inc. v. Earth Resource Mapping, Inc., 424 F.3d 1336 (Fed.Cir.2005), to argue that the 1990 and 1991 Applications only support a blue noise mask that is created in a particular way. In LizardTech, the patent-at-issue recited a method for “selectively viewing areas of an image at multiple resolutions” that included forming and using a “seamless” discrete wavelet transform (“DWT”). Id. at 1343–44. The specification provided only one method for creating a seamless DWT but the claim was directed to creating any seamless array of DWT coefficients. Id. This court found that the claim lacked written description support. Id. at 1346–67.
+ 
+[16] Microsoft’s reliance on LizardTech is misplaced. LizardTech involved a method claim, while claim 29 is an apparatus claim. Apparatus claims do not need to recite every method of making the claimed apparatus. Microsoft would require apparatus claim 29 to include method steps for making a blue noise mask. Microsoft improperly tries to mix method and apparatus claims. Claim 29, which covers a blue noise mask that is calculated in any way, has written description support even if it does not recite the exact method steps described in the specification or any other methods for making a blue noise mask.
+ 
+[17] Accordingly, the 1990 and 1991 Applications provide written description support for claim 29 of the ′305 patent. In the event this court disagrees with the district court’s judgment as to claim 29, Microsoft argues that this court should vacate, not reverse, the summary judgment because Microsoft has alternate arguments as to why the claims are not entitled to the earlier filing dates, namely, *874 the lack of enablement. Microsoft’s “motion, however, [was] not based on the lack of enablement.” Br. of Def.-Microsoft Corp. at 9, Research Corp. Techs., Inc. v. Microsoft Corp., No. 01–658 (Dkt.845) (D.Ariz. Feb. 13, 2009). Because Microsoft’s summary judgment motion was solely based on written description, which should have been denied, this court reverses the district court’s summary judgment. The 1990 and 1991 Applications provide written description support for claim 29.
+ 
+
+VI
+Accordingly, this court reverses the district court’s summary judgment that the asserted claims of the ′310 and ′228 patents are invalid under 35 U.S.C. § 101. This court affirms the district court’s decision that the asserted claims of the ′772 patent cannot claim the benefit of its parent applications’ filing dates. This court reverses the effective date ruling as to the asserted claim of the ′305 patent and remands.
+ 
+AFFIRMED–IN–PART, REVERSED–IN–PART, AND REMANDED.
+ 
+
+COSTS
+No costs.
+ 
+All Citations
+627 F.3d 859, 97 U.S.P.Q.2d 1274
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,401 @@
+
+
+ 
+
+
+Wells Fargo Home Mortgage, Inc. v. Lindquist
+United States Court of Appeals, Eighth Circuit. | January 11, 2010 | 592 F.3d 838 | 2010 WL 58946
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wells Fargo Home Mortg., Inc. v. Lindquist, 592 F.3d 838 (8th Cir. 2010)
+
+All Citations:
+
+592 F.3d 838, Bankr. L. Rep. P 81,665
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Minnesota
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+592 F.3d 838
+United States Court of Appeals,
+Eighth Circuit.
+WELLS FARGO HOME MORTGAGE, INC., now known as Wells Fargo Bank Minnesota, National Association, Appellant,
+v.
+Dwight R.J. LINDQUIST, in his capacity as Chapter 7 Trustee of the bankruptcy estate of Dean Harold Westlund, Appellee.
+No. 08-3442.
+|
+Submitted: Oct. 22, 2009.
+|
+Filed: Jan. 11, 2010.
+Synopsis
+Background: Chapter 7 trustee filed adversary complaint, seeking to avoid debtor’s prepetition transfer of a mortgage to lender, which was not recorded by lender prepetition but, instead, was recorded postpetition by assignee that had purchased it from lender postpetition. On the parties’ cross-motions for summary judgment, the United States Bankruptcy Court for the District of Minnesota, Nancy C. Dreher, Chief Judge, granted summary judgment in favor of trustee and ordered lender to pay the bankruptcy estate $190,808.71. Lender appealed. The District Court, Michael J. Davis, Chief Judge, affirmed, and lender appealed.
+ 
+Holdings: The Court of Appeals, Gruender, Circuit Judge, held that:
+ 
+[1] the preferential “transfer” in this case was debtor’s prepetition transfer of the mortgage to lender, not assignee’s postpetition recording of the mortgage;
+ 
+[2] the mortgage was transferred “to or for the benefit of a creditor” and “for or on account of an antecedent debt” within the meaning of the Bankruptcy Code’s preference avoidance section;
+ 
+[3] the transfer enabled lender to “receive more than [it] would receive” in a hypothetical liquidation;
+ 
+[4] the bankruptcy court did not err in holding that trustee could recover from lender the value of the mortgage it received from debtor, rather than seeking to recover the actual mortgage from assignee;
+ 
+[5] lender failed to establish a genuine issue of material fact about the value of the mortgage; and
+ 
+[6] the bankruptcy court’s order did not have the effect of requiring lender to pay for the mortgage twice.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (13)
+
+
+[1]
+
+BankruptcyScope of review in general
+BankruptcyConclusions of law;  de novo review
+BankruptcyClear error
+
+
+51Bankruptcy
+51XIXReview
+51XIX(B)Review of Bankruptcy Court
+51k3779Scope of review in general
+51Bankruptcy
+51XIXReview
+51XIX(B)Review of Bankruptcy Court
+51k3782Conclusions of law;  de novo review
+51Bankruptcy
+51XIXReview
+51XIX(B)Review of Bankruptcy Court
+51k3785Findings of Fact
+51k3786Clear error
+
+
+On appeal from a district court’s review of a bankruptcy proceeding, the Court of Appeals sits as a second court of review, reviewing the bankruptcy court’s conclusions of law de novo and any factual findings for clear error.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+BankruptcyPreferences
+
+
+51Bankruptcy
+51VThe Estate
+51V(E)Preferences
+51k2601In general
+
+
+Under the Bankruptcy Code’s preference avoidance section, the trustee is permitted to recover, with certain exceptions, transfers of property made by the debtor within 90 days before the date the bankruptcy petition was filed. 11 U.S.C.A. § 547.
+12 Cases that cite this headnote
+
+
+
+[3]
+
+BankruptcyPreferences
+
+
+51Bankruptcy
+51VThe Estate
+51V(E)Preferences
+51k2601In general
+
+
+Preference avoidance rule is intended to discourage creditors from racing to dismember a debtor sliding into bankruptcy and to promote equality of distribution to creditors in bankruptcy. 11 U.S.C.A. § 547.
+12 Cases that cite this headnote
+
+
+
+[4]
+
+BankruptcyElements and Exceptions
+
+
+51Bankruptcy
+51VThe Estate
+51V(E)Preferences
+51k2606Elements and Exceptions
+51k2606.1In general
+
+
+In order for a transfer to be subject to avoidance as a preference, (1) there must be a transfer of an interest of the debtor in property, (2) on account of an antecedent debt, (3) to or for the benefit of a creditor, (4) made while the debtor was insolvent, (5) within 90 days prior to the commencement of the bankruptcy case, (6) that left the creditor better off than it would have been if the transfer had not been made and the creditor asserted its claim in a Chapter 7 liquidation. 11 U.S.C.A. § 547(b).
+23 Cases that cite this headnote
+
+
+
+[5]
+
+BankruptcyPreferences
+
+
+51Bankruptcy
+51VThe Estate
+51V(H)Avoidance Rights
+51V(H)2Proceedings
+51k2725Evidence
+51k2727Weight and Sufficiency
+51k2727(2)Preferences
+
+
+Trustee seeking to avoid a preferential transfer must establish each of the statutory elements by a preponderance of the evidence. 11 U.S.C.A. § 547(b).
+8 Cases that cite this headnote
+
+
+
+[6]
+
+BankruptcyOwnership of interest transferred
+
+
+51Bankruptcy
+51VThe Estate
+51V(E)Preferences
+51k2606Elements and Exceptions
+51k2610Ownership of interest transferred
+
+
+Preferential “transfer” at issue in Chapter 7 trustee’s adversary proceeding to avoid mortgage on debtor’s home was debtor’s prepetition transfer of mortgage to lender, not the postpetition recording of the mortgage by the assignee that had purchased the mortgage postpetition from lender. 11 U.S.C.A. § 547(b).
+1 Cases that cite this headnote
+
+
+
+[7]
+
+BankruptcyOwnership of interest transferred
+
+
+51Bankruptcy
+51VThe Estate
+51V(E)Preferences
+51k2606Elements and Exceptions
+51k2610Ownership of interest transferred
+
+
+Recording of a mortgage may be considered a “transfer of an interest of the debtor in property,” for preference avoidance purposes. 11 U.S.C.A. § 547(b).
+8 Cases that cite this headnote
+
+
+
+[8]
+
+BankruptcyAntecedent debt or contemporaneous consideration
+
+
+51Bankruptcy
+51VThe Estate
+51V(E)Preferences
+51k2606Elements and Exceptions
+51k2612Antecedent debt or contemporaneous consideration
+
+
+Mortgage granted by Chapter 7 debtor to lender prepetition, which was not recorded by lender prepetition but, instead, was recorded postpetition by assignee that had purchased it from lender postpetition, was transferred “to or for the benefit of a creditor” and “for or on account of an antecedent debt” within the meaning of the Bankruptcy Code’s preference avoidance section; debtor incurred the debt when he obtained the loan from lender more than two years prepetition, because lender failed to record the mortgage the Bankruptcy Code deemed the transfer of the mortgage to have occurred immediately before debtor filed his bankruptcy petition, and so, under these circumstances, lender was already a creditor of debtor when it received the mortgage from debtor. 11 U.S.C.A. § 547(b), (e)(2)(C).
+5 Cases that cite this headnote
+
+
+
+[9]
+
+BankruptcyEffect to give more than under bankruptcy distribution
+
+
+51Bankruptcy
+51VThe Estate
+51V(E)Preferences
+51k2606Elements and Exceptions
+51k2609Effect to give more than under bankruptcy distribution
+
+
+Chapter 7 debtor’s prepetition transfer of mortgage to lender, which was not recorded by lender prepetition but, instead, was recorded postpetition by assignee that had purchased it from lender postpetition, enabled lender to “receive more than [it] would receive” in a hypothetical liquidation, for preference avoidance purposes; because debtor erroneously listed lender as secured, lender was able to retain and sell mortgage without objection by trustee, but for transfer of mortgage to lender, the estate would have included interest in house equal to value of mortgage, which trustee would have been able to liquidate, trustee could have used proceeds to satisfy unsecured priority claims first, meaning that unsecured creditors with nonpriority claims, such as lender, necessarily would have received less than full value of their claims, but in this case, lender obtained mortgage on debtor’s property equal to full value of its claim, thereby depriving the estate of interest in house equal to value of mortgage. 11 U.S.C.A. § 547(b).
+2 Cases that cite this headnote
+
+
+
+[10]
+
+BankruptcyAvoidance rights and limits thereon, in general
+
+
+51Bankruptcy
+51VThe Estate
+51V(H)Avoidance Rights
+51V(H)1In General
+51k2701Avoidance rights and limits thereon, in general
+
+
+Where Chapter 7 debtor’s prepetition transfer of mortgage to lender was avoided as preferential, the bankruptcy court did not err in holding that trustee could recover from lender the value of the mortgage it received from debtor, rather than seeking to recover the actual mortgage from assignee that had purchased it from lender postpetition; the Bankruptcy Code permitted trustee to seek recovery from the initial transferee or from an immediate transferee of the initial transferee. 11 U.S.C.A. §§ 547(b), 550(a)(1, 2).
+Cases that cite this headnote
+
+
+
+[11]
+
+BankruptcyAvoidance rights and limits thereon, in general
+
+
+51Bankruptcy
+51VThe Estate
+51V(H)Avoidance Rights
+51V(H)1In General
+51k2701Avoidance rights and limits thereon, in general
+
+
+By providing that, when a transfer is avoided, the trustee can seek recovery from the initial transferee or an immediate transferee of the initial transferee, the Bankruptcy Code allows the trustee to pick his named defendant. 11 U.S.C.A. §§ 547(b), 550(a)(1, 2).
+1 Cases that cite this headnote
+
+
+
+[12]
+
+BankruptcyAvoidance rights and limits thereon, in general
+
+
+51Bankruptcy
+51VThe Estate
+51V(H)Avoidance Rights
+51V(H)1In General
+51k2701Avoidance rights and limits thereon, in general
+
+
+Where Chapter 7 debtor’s prepetition transfer of mortgage to lender was avoided as preferential, the bankruptcy court did not err in ordering lender, as the initial transferee, to pay $190,808.71 to the bankruptcy estate; trustee presented evidence that debtor owed lender $190,808.71 on the date he filed for bankruptcy and, though the amount that assignee paid lender when it purchased the mortgage from lender postpetition would have been relevant to the value of the mortgage, lender failed to provide admissible evidence about that transaction. 11 U.S.C.A. §§ 547(b), 550(a).
+Cases that cite this headnote
+
+
+
+[13]
+
+BankruptcyAvoidance rights and limits thereon, in general
+
+
+51Bankruptcy
+51VThe Estate
+51V(H)Avoidance Rights
+51V(H)1In General
+51k2701Avoidance rights and limits thereon, in general
+
+
+Where Chapter 7 debtor’s prepetition transfer of mortgage to lender, which was not recorded by lender prepetition but, instead, was recorded postpetition by assignee that had purchased it from lender postpetition, was avoided as preferential, the bankruptcy court’s order directing lender, as initial transferee, to pay the value of the mortgage, $190,808.71, to the bankruptcy estate did not have the effect of requiring lender to pay for the mortgage twice; lender was not entitled to receive the mortgage as a preference, and so had to reimburse the estate for receiving, and selling, a property interest that should have remained part of the estate, and lender admittedly would receive back a portion of its unsecured claim, as an unsecured creditor of the estate purportedly entitled to more than 90% of any funds distributed by trustee. 11 U.S.C.A. §§ 547(b), 550(a).
+1 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*841 Allen Edward Christy, Jr., argued, Patrick Charles Summers, Andrew P. Moratzka, on the brief, Minneapolis, MN, for appellant.
+Cynthia L. Hegarty, argued, Patrick Bernard Hennessy, Minneapolis, MN, for appellee.
+Before RILEY, SMITH and GRUENDER, Circuit Judges.
+Opinion
+GRUENDER, Circuit Judge.
+
+On October 14, 2005, Dean Harold Westlund (“the debtor”) filed a petition for Chapter 7 bankruptcy relief. Dwight R.J. Lindquist, the Chapter 7 trustee, filed suit against Wells Fargo Home Mortgage, Inc. under 11 U.S.C. § 547 to avoid the pre-petition transfer of a mortgage from the debtor to Wells Fargo. The bankruptcy court1 granted summary judgment in favor of the trustee and ordered Wells Fargo to pay the bankruptcy estate $190,808.71. The district court2 affirmed the bankruptcy court’s decision, and Wells Fargo now appeals. For the following reasons, we affirm.
+ 
+
+I. BACKGROUND
+On May 16, 2003, Wells Fargo loaned the debtor $196,000. In return, the debtor executed a promissory note payable to Wells Fargo for the principal amount of the loan and granted Wells Fargo a mortgage on his home in Hennepin County, Minnesota. On October 14, 2005, the debtor filed a petition for Chapter 7 bankruptcy relief, claiming $400 in non-exempt assets, $6,600 in unsecured priority claims and $37,833 in unsecured nonpriority claims. Although Wells Fargo never recorded the mortgage, the debtor erroneously listed Wells Fargo as a secured creditor. On the date he filed for bankruptcy, the unpaid principal balance on the note was $190,808.71.
+ 
+Soon after the debtor filed his bankruptcy petition, Wells Fargo sold a bundle of 334 mortgage loans to EMC Mortgage Corporation.3 In this transaction, Wells Fargo “assigned, sold and transferred” its rights under the debtor’s note and mortgage to EMC. The bankruptcy court granted the debtor a discharge on March 7, 2006, and closed the case on March 20, 2006. EMC recorded the mortgage on or about October 11, 2006. The trustee subsequently learned that Wells Fargo had not recorded the mortgage before the debtor filed his bankruptcy petition, meaning that Wells Fargo should have been listed as an unsecured creditor in the petition. At the trustee’s request, the bankruptcy court reopened the case on January 29, 2007. See 11 U.S.C. § 350(b).
+ 
+On April 17, 2007, the trustee filed a complaint against Wells Fargo in bankruptcy court, seeking to avoid the debtor’s grant of the mortgage to Wells Fargo. The trustee argued that 11 U.S.C. § 547(e)(2)(C) deems the transfer of the mortgage to Wells Fargo to have occurred immediately before the debtor’s October 14, 2005 bankruptcy filing because Wells *842 Fargo did not perfect its security interest in the property by recording the mortgage before the debtor filed for bankruptcy. See 11 U.S.C. § 547(e)(1)(A); Minn.Stat. § 507.34. According to the trustee, the pre-petition transfer of the mortgage from the debtor to Wells Fargo should be avoided as a preference under 11 U.S.C. § 547(b). As a result, the trustee claimed that Wells Fargo should pay the value of the mortgage to the debtor’s bankruptcy estate under 11 U.S.C. § 550(a). Alternatively, the trustee sought to avoid and recover Wells Fargo’s interest in the mortgage under 11 U.S.C. § § 544(a) and 550(a). The trustee moved for summary judgment, and Wells Fargo filed a cross-motion for summary judgment.
+ 
+The bankruptcy court granted the trustee’s motion for summary judgment. It held that the transfer of the mortgage occurred immediately before the debtor’s October 14, 2005 bankruptcy filing by operation of § 547(e)(2)(C). The court therefore avoided the transfer of the mortgage to Wells Fargo as a preferential transfer under § 547(b) and ordered Wells Fargo to pay the debtor’s bankruptcy estate $190,808.71. As a result, the bankruptcy court dismissed the trustee’s § 544(a) claim as moot. The district court affirmed, and Wells Fargo now appeals.
+ 
+
+II. DISCUSSION
+[1] “On appeal from a district court’s review of a bankruptcy proceeding, we sit as a second court of review, reviewing the bankruptcy court’s conclusions of law de novo and any factual findings for clear error.” Henning v. Mainstreet Bank, 538 F.3d 975, 978 (8th Cir.2008). “Summary judgment is appropriate when, viewing the record in the light most favorable to the nonmoving party, there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law.” Id.
+ 
+Wells Fargo argues that the bankruptcy court erred in avoiding the transfer under 11 U.S.C. § 547(b). In the alternative, Wells Fargo argues that the bankruptcy court erred in holding that the trustee could recover the value of the mortgage from Wells Fargo under 11 U.S.C. § 550(a) and in calculating the value of the mortgage to be $190,808.71.
+ 
+[2] [3] “Under the Bankruptcy Code’s preference avoidance section, 11 U.S.C. § 547, the trustee is permitted to recover, with certain exceptions, transfers of property made by the debtor within 90 days before the date the bankruptcy petition was filed.” Barnhill v. Johnson, 503 U.S. 393, 394, 112 S.Ct. 1386, 118 L.Ed.2d 39 (1992). “This rule ‘is intended to discourage creditors from racing to dismember a debtor sliding into bankruptcy and to promote equality of distribution to creditors in bankruptcy.’ ” Lindquist v. Dorholt (In re Dorholt, Inc.), 224 F.3d 871, 873 (8th Cir.2000) (quoting Jones Truck Lines, Inc. v. Cent. States, Se. & Sw. Areas Pension Fund (In re Jones Truck Lines, Inc.), 130 F.3d 323, 326 (8th Cir.1997)).
+ 
+[4] [5] “Title 11 U.S.C. § 547(b) requires that in order for a transfer to be subject to avoidance as a preference, (1) there must be a transfer of an interest of the debtor in property, (2) on account of an antecedent debt, (3) to or for the benefit of a creditor, (4) made while the debtor was insolvent, (5) within 90 days prior to the commencement of the bankruptcy case, (6) that left the creditor better off than it would have been if the transfer had not been made and the creditor asserted its claim in a Chapter 7 liquidation.” Buckley v. Jeld-Wen, Inc. (In re Interior Wood Prods. Co.), 986 F.2d 228, 230 (8th Cir.1993). The trustee must establish each of these elements by a preponderance of the evidence. Stingley v. AlliedSignal, Inc. (In re Libby Int’l, Inc.), 247 B.R. 463, 466 (8th Cir. BAP 2000).
+ 
+*843 [6] As an initial matter, Wells Fargo argues that the preferential “transfer” in this case is EMC’s post-petition recording of the mortgage, rather than the debtor’s pre-petition transfer of the mortgage to Wells Fargo. The bankruptcy court and the district court, however, rejected this argument and concluded that the debtor’s grant of the mortgage to Wells Fargo is the transfer at issue under § 547(b). This “transfer” of the mortgage is deemed to have occurred immediately before the debtor’s October 14, 2005 bankruptcy filing by operation of § 547(e)(2)(C) because Wells Fargo failed to record the mortgage. See 11 U.S.C. § 547(e)(2)(C) (2004) (“[A] transfer is made ... immediately before the date of the filing of the [bankruptcy] petition, if such transfer is not perfected at the later date of-(i) the commencement of the case; or (ii) 10 days after such transfer takes effect between the transferor and the transferee.”).4 Wells Fargo, however, asserts that the district court’s opinion “makes clear” that the § 547(b) preferential transfer inquiry in this case focuses on EMC’s post-petition recording of the mortgage. According to Wells Fargo, the transfer could not have been preferential under § 547(b) because it occurred after the debtor filed his bankruptcy petition.
+ 
+In making this argument, Wells Fargo misrepresents the district court’s opinion. Wells Fargo quotes the district court’s statement that “EMC was the beneficiary and transferee of the actual later transfer of the Mortgage” and asserts that the court adopted its view that the transfer at issue is the post-petition recording of the mortgage. This quote supports Wells Fargo’s position only when taken out of context. In its entirety, the sentence clarifies that the district court is not focusing on EMC’s recording of the mortgage: “While Wells Fargo is correct that EMC was the beneficiary of and transferee of the actual later transfer of the Mortgage, under the statute, the Court is addressing a statutorily created transfer from the Debtor to Wells Fargo that occurred in October 2005.” (Emphasis added.) At another point in the opinion, after discussing Wells Fargo’s post-petition transfer argument, the district court stated, “The Court rejects Wells Fargo’s argument,” and went on to analyze the pre-petition transfer of the mortgage from the debtor to Wells Fargo under § 547(b).
+ 
+[7] We note that the recording of a mortgage can also be considered a transfer of an interest in property, see Bergquist v. Fid. Mortgage Decisions Corp. (In re Alexander), 219 B.R. 255, 258 (Bankr.D.Minn.1998), but there can be no doubt in this case that the trustee filed suit under § 547(b) to avoid the debtor’s pre-petition transfer of the mortgage to Wells Fargo. Accordingly, we reject Wells Fargo’s argument that EMC’s post-petition recording is the subject of the § 547(b) preferential transfer inquiry and conclude that the relevant preferential transfer in this case is the debtor’s transfer of the mortgage to Wells Fargo. We now examine whether the trustee has established that the transfer of the mortgage to Wells Fargo meets the requirements of a preferential transfer under § 547(b). See In re Interior Wood Prods. Co., 986 F.2d at 230.
+ 
+There is no dispute that the debtor’s grant of a mortgage to Wells Fargo was a “transfer of an interest of the debtor in property,” that the transfer was “made while the debtor was insolvent,” or that § 547(e)(2)(C) deems the transfer of the mortgage to have occurred “within 90 days before the date of the filing of the [bankruptcy] petition.” See 11 U.S.C. § 547(b).
+ 
+*844 [8] Wells Fargo argues that the transfer was not “to or for the benefit of a creditor” and was not “for or on account of an antecedent debt owed by the debtor before such transfer was made,” see id., because § 547(e)(2)(C) is a “timing” provision that does not “fictionally alter the date of perfection.” Because Wells Fargo failed to perfect the mortgage before the debtor filed his bankruptcy petition, however, the date of perfection is irrelevant for the purposes of the § 547(b) preferential transfer inquiry. Wells Fargo loaned the debtor $196,000 on May 16, 2003, in exchange for a promissory note in that amount. The debtor also granted Wells Fargo a mortgage on his home as security for the note. However, because Wells Fargo failed to record the mortgage, § 547(e)(2)(C) deems the transfer of the mortgage to have occurred immediately before the debtor filed his October 14, 2005 bankruptcy petition. Thus, the debtor incurred the debt on May 16, 2003, but did not transfer the security interest in his home on account of that debt until immediately before the October 14, 2005 bankruptcy filing. Under these circumstances, Wells Fargo was already a creditor of the debtor when it received the mortgage from the debtor, so the mortgage was transferred “to or for the benefit of a creditor.” See id. Moreover, the transfer of the mortgage was “for or on account of an antecedent debt owed by the debtor before such transfer was made,” see id., because the debtor is deemed to have transferred the mortgage more than two years after incurring the debt on the note. See In re Dorholt, Inc., 224 F.3d at 873-74 (holding that a loan was antecedent to the transfer of a security interest when the security interest was not perfected within the time period provided by § 547(e)).
+ 
+[9] Wells Fargo also argues that the transfer did not enable it “to receive more than [it] would receive” in a hypothetical liquidation, see 11 U.S.C. § 547(b), because the transfer of the mortgage from the debtor to Wells Fargo did not diminish the bankruptcy estate, see Zachman Homes, Inc. v. Oredson (In re Zachman Homes, Inc.), 40 B.R. 171, 173 (Bankr.D.Minn.1984) (holding that a “transfer which diminishes or depletes the bankrupt’s estate may be seen as a transfer which enables a creditor to receive more than other creditors of equal status”). In his Chapter 7 bankruptcy petition, the debtor listed $400 in non-exempt assets, $6,600 in unsecured priority claims and $37,833 in unsecured nonpriority claims. We do not necessarily disagree with Wells Fargo’s position that, in this context, a creditor holding an unsecured note would not normally benefit from obtaining an unrecorded mortgage from the debtor on the eve of the debtor’s bankruptcy filing because its claim would remain unsecured and its recovery would not change. In this case, however, the debtor transferred the mortgage to Wells Fargo and then erroneously listed Wells Fargo as a secured creditor, allowing Wells Fargo to retain-and sell to EMC-the mortgage it received from the debtor without objection by the trustee. But for the transfer of the mortgage to Wells Fargo, the bankruptcy estate would have included an interest in the house equal to the value of the mortgage, which the trustee would have been able to liquidate.5 *845 With the proceeds, the trustee would have satisfied the unsecured priority claims first, meaning that unsecured creditors with nonpriority claims, such as Wells Fargo, necessarily would have received less than the full value of their claims. In this case, however, Wells Fargo obtained in the transfer a mortgage on the debtor’s property equal to the full value of its claim, depriving the bankruptcy estate of an interest in the house equal to the value of the mortgage. Thus, the trustee was unable to satisfy the unsecured priority claims or distribute any money to the creditors with unsecured nonpriority claims. Accordingly, on this record, we conclude that the transfer of the mortgage to Wells Fargo diminished the bankruptcy estate, and we agree with the bankruptcy court’s conclusion that the transfer enabled Wells Fargo to “receive more than [it] would receive” in a hypothetical liquidation. See 11 U.S.C. § 547(b).
+ 
+We hold that the pre-petition transfer of the mortgage to Wells Fargo was preferential under § 547(b) and that the trustee was entitled to judgment as a matter of law. Accordingly, the bankruptcy court properly avoided the transfer of the mortgage to Wells Fargo under § 547(b).
+ 
+[10] [11] Wells Fargo argues that the trustee brought suit against the wrong party because it should have sought to recover the actual mortgage from EMC. This argument lacks merit. When a transfer is avoided under § 547(b), “the trustee may recover, for the benefit of the estate” the property transferred, or its value, from “the initial transferee of such transfer or the entity for whose benefit such transfer was made.” 11 U.S.C. § 550(a)(1). Alternatively, the trustee may recover from “any immediate or mediate transferee of such initial transferee.” 11 U.S.C. § 550(a)(2). Thus, by providing that the trustee can seek recovery from the initial transferee or an immediate transferee of the initial transferee, § 550(a) “allows the trustee to pick his named defendant[ ].” See Leonard v. First Commercial Mortgage Co. (In re Circuit Alliance, Inc.), 228 B.R. 225, 236 (Bankr.D.Minn.1998). Accordingly, the bankruptcy court did not err in holding that the trustee may recover from Wells Fargo the value of the mortgage it received from the debtor pursuant to § 550(a)(1).
+ 
+[12] Wells Fargo also argues that the bankruptcy court erred in ordering it to pay $190,808.71 to the debtor’s bankruptcy estate. It asserts that the record creates a genuine issue of material fact about the value of the mortgage because the record contains no evidence of how much EMC paid Wells Fargo for the mortgage. We reject this argument. The trustee presented evidence that the debtor owed Wells Fargo $190,808.71 on the date he filed for bankruptcy. According to the trustee, this amount represents the value of the mortgage. Wells Fargo argues that the price EMC paid it for the mortgage represents the value of the mortgage. Although we agree that the amount EMC paid Wells Fargo would be relevant to the value of the mortgage, Wells Fargo has failed to provide admissible evidence about the transaction. Instead, Wells Fargo’s attorney submitted an affidavit stating that Wells Fargo has been unable to determine how much EMC paid for the mortgage because it was sold as part of a bundle of mortgages. The district court properly ignored this affidavit because the attorney did not assert personal knowledge of the sworn facts, a prerequisite for consideration of the affidavit under *846 Federal Rule of Civil Procedure 56(e). Because Wells Fargo failed to present any evidence about the value of the mortgage, we conclude that Wells Fargo has failed to establish a genuine issue of material fact about the value of the mortgage.
+ 
+[13] We also reject Wells Fargo’s argument that the bankruptcy court’s order has the effect of requiring it to pay for the mortgage twice. Wells Fargo loaned the debtor $196,000. But for the transfer of the mortgage, Wells Fargo would have had an unsecured nonpriority claim at the time the debtor filed for bankruptcy, which would have entitled it to payment of only a portion of its claim in a hypothetical liquidation. Because the debtor erroneously listed Wells Fargo as a secured creditor, the debtor’s transfer of a mortgage to Wells Fargo immediately prior to filing gave Wells Fargo an interest in property equal to the full amount of its unsecured claim. Wells Fargo then sold the mortgage to EMC. The bankruptcy court held that the transfer of the mortgage from the debtor to Wells Fargo was preferential, so it avoided the transfer and ordered Wells Fargo to pay the bankruptcy estate the value of the mortgage. In other words, Wells Fargo was not entitled to received the mortgage as a preference, so it must reimburse the bankruptcy estate for receiving-and selling-an interest of property that should have remained part of the estate. See Seaver v. Mortgage Elec. Registration Sys. (In re Schwartz), 383 B.R. 119, 125 (8th Cir.BAP2008) (“The purpose of [11 U.S.C. § 550(a) ] is to restore the debtor’s financial condition to the state it would have been had the avoided transfer not occurred.”). We also note that Wells Fargo claimed at oral argument that it remains an unsecured creditor of the estate and that it will be entitled to more than 90% of any funds distributed by the trustee. Thus, Wells Fargo admits that it will now receive back the portion of its unsecured claim that it is entitled to receive under the Bankruptcy Code.
+ 
+
+III. CONCLUSION
+The bankruptcy court did not err in avoiding the transfer of the mortgage to Wells Fargo as a preference under 11 U.S.C. § 547(b) and in awarding judgment to the trustee in the amount of $190,808.71 under 11 U.S.C. § 550(a). Accordingly, we affirm.
+ 
+All Citations
+592 F.3d 838, Bankr. L. Rep. P 81,665
+Footnotes
+
+1
+
+The Honorable Nancy C. Dreher, Chief Judge, United States Bankruptcy Court for the District of Minnesota.
+
+2
+
+The Honorable Michael J. Davis, Chief Judge, United States District Court for the District of Minnesota.
+
+3
+
+The parties disagree about the precise date on which Wells Fargo sold the bundle of mortgages to EMC. It is unnecessary for us to determine the precise date of the transaction because it is undisputed that the sale was completed after the debtor’s October 14, 2005 bankruptcy filing and before the bankruptcy court closed the case.
+
+4
+
+The debtor filed his bankruptcy petition on October 14, 2005, three days prior to the date the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (“BAPCPA”) went into effect.
+
+5
+
+Wells Fargo has not challenged the trustee’s position that the mortgage was “an interest of the debtor in property,” see 11 U.S.C. § 547(b), which the Supreme Court has defined as “property that would have been part of the estate had it not been transferred before the commencement of bankruptcy proceedings,” see Begier v. IRS, 496 U.S. 53, 58-59 & n. 3, 110 S.Ct. 2258, 110 L.Ed.2d 46 (1990). Moreover, neither party has claimed that the debtor’s real property was subject to a homestead exemption or any other encumbrance that would have prevented the trustee from liquidating an interest in the property equal to the value of the mortgage.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

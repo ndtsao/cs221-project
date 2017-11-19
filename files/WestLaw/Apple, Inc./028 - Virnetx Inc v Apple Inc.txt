@@ -1,0 +1,88 @@
+
+
+ 
+
+
+Virnetx Inc. v. Apple Inc.
+United States Court of Appeals, Federal Circuit. | December 9, 2016 | 671 Fed.Appx. 786 | 2016 WL 7174131
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Virnetx Inc. v. Apple Inc., 671 F. App’x 786 (Fed. Cir. 2016)
+
+All Citations:
+
+671 Fed.Appx. 786 (Mem)
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+671 Fed.Appx. 786 (Mem)
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+VIRNETX INC., Appellant
+v.
+APPLE INC., Appellee
+2016-1211
+|
+2016-1213
+|
+2016-1279
+|
+2016-1281
+|
+Decided: December 9, 2016
+Appeals from the United States Patent and Trademark Office, Patent Trial and Appeal Board in Nos. IPR2014-00403, IPR2014-00404, IPR2014-00481, IPR2014-00482.
+Attorneys and Law Firms
+JOSEPH PALYS, Paul Hastings LLP, Washington, DC, argued for appellant. Also represented by NAVEEN MODI, DANIELLE RUTH ACKER SUSANJ, IGOR VICTOR TIMOFEYEV, DANIEL ZEILBERGER.
+JOHN C. O’QUINN, Kirkland & Ellis LLP, Washington, DC, argued for appellee. Also represented by NATHAN S. MAMMEN; JEFFREY PAUL KUSHAN, Sidley Austin LLP, Washington, DC.
+Before O’Malley, Mayer, and Wallach, Circuit Judges.
+Opinion
+O’Malley, Circuit Judge.
+
+This appeal concerns the validity of VirnetX Inc.’s (“VirnetX”) U.S. Patent Nos. 7,188,180 (“the ‘180 patent”) and 7,987,274 (“the ‘274 patent”), disclosing technology for establishing secure communication over networks. Apple Inc. (“Apple”) challenged claims of the ‘274 patent in two inter partes review proceedings, which were consolidated with IPR2014-00403 (“the 403 proceeding”) and IPR2014-00404 (“the 404 proceeding”) initiated by Microsoft Corporation on similar grounds. Apple *787 relied principally on U.S. Patent No. 6,557,037 to Provino (“Provino”) and Takahiro Kiuchi & Shigekoto Kaihara, C-HTTP—The Development of a Secure, Closed HTTP-based Network on the Internet (Feb. 1996) (“Kiuchi”), respectively, for each proceeding. Apple also challenged claims of the ’180 patent in two inter partes review proceedings, IPR2014-00481 (“the 481 proceeding”) and IPR2014-00482 (“the 482 proceeding”), again relying principally on Provino and Kiuchi, respectively. VirnetX now appeals to this court.
+ 
+After full review of the record and careful consideration, we find no error in the Patent Trial and Appeal Board’s (“the Board”) claim constructions or findings in the 403 and 481 proceedings. For the reasons given by the Board therein, we find the challenged claims unpatentable over Provino and the additional prior art cited. We do not, therefore, need to reach the merits of the Board’s decisions in the 404 and 482 proceedings.
+ 
+AFFIRMED
+ 
+All Citations
+671 Fed.Appx. 786 (Mem)
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

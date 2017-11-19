@@ -1,0 +1,250 @@
+
+
+
+
+
+Smartflash LLC v. Apple Inc.
+United States Court of Appeals, Federal Circuit. | March 1, 2017 | 680 Fed.Appx. 977 | 2017 WL 786431
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Blue Flag – Appeal Notification
+ Petition for Certiorari Docketed by SMARTFLASH LLC, ET AL. v. APPLE INC., U.S., November 9, 2017
+
+standard Citation:
+
+Smartflash LLC v. Apple Inc., 680 F. App’x 977 (Fed. Cir. 2017)
+
+All Citations:
+
+680 Fed.Appx. 977
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Blue Flag – Appeal Notification
+ 	Petition for Certiorari Docketed by SMARTFLASH LLC, ET AL. v. APPLE INC., U.S., November 9, 2017
+680 Fed.Appx. 977
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+SMARTFLASH LLC, Smartflash Technologies Limited, Plaintiffs-Appellees
+v.
+APPLE INC., Defendant-Appellant
+2016-1059
+|
+Decided: March 1, 2017
+Synopsis
+Background: Patentee brought action alleging infringement of patents related to payment verification and data access systems. Following jury verdict of patent validity and infringement, the United States District Court for the Eastern District of Texas, No. 6:13-cv-00447-JRG, J. Rodney Gilstrap, J., 2015 WL 11089752, denied alleged infringer’s motion for judgment as a matter of law seeking to invalidate patents for being patent-ineligible. Alleged infringers appealed.
+ 
+Holdings: The Court of Appeals, Prost, Chief Judge, held that:
+ 
+[1] claims in patents were directed to patent-ineligible abstract idea, and
+ 
+[2] claims in patents lacked any inventive concept that transformed abstract idea into patent-eligible invention.
+ 
+Reversed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k462Business methods;  Internet applications
+
+
+Claims in patents related to payment verification and data access systems were directed to patent-ineligible abstract idea of conditioning and controlling access to data based on payment, since claims invoked computers merely as tools to execute fundamental economic practices. 35 U.S.C.A. § 101.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k462Business methods;  Internet applications
+
+
+Claims in patents related to payment verification and data access systems lacked any inventive concept that transformed abstract idea of conditioning and controlling access to data based on payment into patent-eligible invention, since patent claims involved routine computer activities, including reading, receiving, and responding to payment validation data and, based upon payment amount and access rules, allowing access to multimedia content, and claims’ references to “interfaces,” “program stores,” and “processors” were all generic computer components. 35 U.S.C.A. § 101.
+2 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 7,334,720, US Patent 8,118,221, US Patent 8,336,772. Invalid in Part.
+1 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 7,942,317. Cited.
+Cases that cite this headnote
+
+
+
+Appeal from the United States District Court for the Eastern District of Texas in No. 6:13-cv-00447-JRG, Judge J. Rodney Gilstrap.
+Attorneys and Law Firms
+AARON MARTIN PANNER, Kellogg, Huber, Hansen, Todd, Evans & Figel, PLLC, Washington, DC, argued for plaintiffs-appellees. Also represented by NICHOLAS O. HUNTER; JOHN AUSTIN CURRY, JASON DODD CASSADY, BRADLEY WAYNE CALDWELL, JOHN FRANKLIN SUMMERS, HAMAD M. HAMAD, Caldwell Cassady & Curry, Dallas, TX.
+*978 MARK ANDREW PERRY, Gibson, Dunn & Crutcher LLP, Washington, DC, argued for defendant-appellant. Also represented by BRIAN BUROKER; HERVEY MARK LYON, Palo Alto, CA; BLAINE H. EVANSON, JENNIFER RHO, Los Angeles, CA; BRETT ROSENTHAL, Dallas, TX; JAMES RICHARD BATCHELDER, Ropes & Gray LLP, East Palo Alto, CA; DOUGLAS HALLWARD-DRIEMEIER, Washington, DC; KEVIN JOHN POST, New York, NY.
+Before Prost, Chief Judge, Newman and Lourie, Circuit Judges.
+Opinion
+Prost, Chief Judge.
+
+Apple Inc. (“Apple”) appeals from the district court’s denial of Apple’s motion for judgment as a matter of law (“JMOL”) seeking to invalidate three Smartflash LLC (“Smartflash”) patents for being patent-ineligible under 35 U.S.C. § 101. Apple further appeals a jury verdict of patent validity and infringement. Because we find that the asserted claims recite patent-ineligible subject matter under § 101, we reverse.
+ 
+
+I
+Smartflash asserted the following claims from three patents in district court: claim 13 of U.S. Patent No. 7,334,720 (“’720 patent”); claim 32 of U.S. Patent No. 8,118,221 (“’221 patent”); and claims 26 and 32 of U.S. Patent No. 8,336,772 (“’772 patent”) (collectively, “the asserted claims”).1 The three patents-in-suit, entitled “Data Storage and Access Systems,” generally “relate[ ] to a portable data carrier for storing and paying for data and to computer systems for providing access to data to be stored.” ’720 patent col. 1 ll. 6–8.
+ 
+According to the specification, at the time of the invention, there was a “growing prevalence of so-called data pirates” who “obtain[ed] data either by unauthorized or legitimate means and then ma[d]e this data available essentially world-wide over the internet without authorization.” Id. at col. 1 ll. 15–19. The patents sought to address this problem by purportedly inventing systems comprising data carriers, or “terminals,” that could receive and validate payments from users and then retrieve and provide data, such as audio, video, text, and software over the Internet. See id. at col. 1 ll. 45–55. Figure 6 of the ’720 patent, shown below, illustrates one such system:
+*979
+ 
+ 
+
+​
+In this system, users employ content access terminals 118, including, for example, personal computers, to request content such as audio or video content and provide payment information such as credit card or bank account information. The payment information is validated by e-payment systems 121 and banks 122. After the payment is validated, the requested content is provided to the content access terminal 118 by a content access web server 124.
+ 
+Independent claim 3 of the ’720 patent, from which asserted Claim 13 depends, claims “[a] data access terminal for retrieving data from a data supplier and providing the retrieved data to a data carrier.” Id. at col. 26 ll. 41–43. The claimed terminal further comprises interfaces for communicating with the data supplier and the data carrier, and a “processor coupled to ... the data carrier.” Id. at col. 26 ll. 44–50. The processor implements
+code to read payment data from the data carrier and to forward the payment data to a payment validation system;
+code to receive payment validation data from the payment validation system;
+code responsive to the payment validation data to retrieve data from the data supplier and to write the retrieved data into the data carrier; and
+code responsive to the payment validation data to receive at least one access rule from the data supplier and to write the at least one access rule into the data carrier, the at least one access rule specifying at least one condition for accessing the retrieved data written into the data carrier, the at least one condition being dependent upon the amount of payment associated with the payment  *980 data forwarded to the payment validation system.
+Id. at col. 26 ll. 51–67. Asserted dependent claim 13 further recites “[a] data access terminal according to claim 3 integrated with a mobile communication device, a personal computer, an audio/video player, and/or a cable or satellite television interface device.” Id. at col. 28 ll. 1–4.
+ 
+Asserted claim 32 of the ’221 patent is identical to claim 3 of the ’720 patent except that claim 32 further recites “code to retrieve from the data supplier and output to a user-stored data identifier data and associated value data and use rule data for a data item available from the data supplier.” ’221 patent col. 28 ll. 23–50.
+ 
+Independent claim 25 of the ’772 patent, from which asserted claim 26 depends, claims a “handheld multimedia terminal for retrieving and accessing protected multimedia content.” ’772 patent col. 29 ll. 40–41. The claimed “handheld terminal” comprises wireless and user interfaces, memory, display, and a processor. Id. at col. 29 ll. 41–54. The terminal comprises code to
+request and receive “multimedia content available for retrieving;”
+request, receive, and present “content information compris[ing] one or more of description data and cost data pertaining to ... [the] multimedia content;”
+receive user selection of available multimedia content and respond by “transmit[ting] payment data ... for validation by a payment validation system;”
+receive and respond to payment validation data by “writ[ing] said retrieved ... multimedia content into ... [the] memory” and “receiv[ing] ... user selection ... [of] one or more items of retrieved multimedia content;”
+read and evaluate “use status data and use rules to determine whether access is permitted to ... one or more items of [the] retrieved multimedia content.”
+Id. at col. 29 l. 55–col. 30 l. 34. Further, the “user interface is operable to enable a user to make a first/second user selection ... for retrieving/accessing” the multimedia content “responsive to ... code to control access permitting access to ... [the] retrieved multimedia content.” Id. at col. 30 ll. 35–47. Dependent claim 26 recites that the handheld multimedia terminal of claim 25 further comprises “code to present said ... selected one or more items of retrieved multimedia content to a user via said display if access is permitted.” Id. at col. 30 ll. 48–51.
+ 
+Asserted claim 32 of the ’772 patent, which depends from independent claim 30, claims a “data access terminal” similar to the “handheld multimedia terminal” of claim 26 discussed above. Id. at col. 31 ll. 46–48. In addition to including the features of the “handheld multimedia terminal,” the “data access terminal” of claim 32 is also integrated with a “mobile communication device and audio/video player” and is able to receive “content data items” instead of “multimedia content.” Id. at col. 30 ll. 65–67, col. 31 ll. 46–48.
+ 
+At district court, Apple filed a motion for summary judgment with the magistrate judge seeking invalidity of all asserted claims under § 101. The magistrate judge recommended denying the motion. The district court adopted the magistrate judge’s findings and recommendation and found the claims not invalid under § 101. Smartflash LLC v. Apple Inc., 2015 WL 661174 (E.D. Tex. Feb. 13, 2015). In finding that the claims were directed to patent-eligible subject matter, the district court applied the Supreme Court’s two-step framework for determining patent eligibility. See Alice Corp. v. CLS Bank Int’l, –––U.S. ––––, 134 S.Ct. 2347, 189 L.Ed.2d 296 (2014) (citing *981 Mayo Collaborative Servs. v. Prometheus Labs., Inc., 566 U.S. 66, 132 S.Ct. 1289, 1294, 1296–98, 182 L.Ed.2d 321 (2012)). At step one, the district court concluded that the claims are directed to the abstract idea of “conditioning and controlling access to data based on payment.” Smartflash, 2015 WL 661174, at *8. At step two, however, the district court found that the claims recite meaningful limitations that transform the abstract idea into a patent-eligible invention because the claims “recite specific ways of using distinct memories, data types, and use rules that amount to significantly more than the underlying abstract idea.” Id. The district court concluded that “[a]lthough in some claims the language is functional and somewhat generic, the claims contain significant limitations on the scope of the inventions.” Id.
+ 
+After trial, Apple moved for JMOL asserting that the tried claims were ineligible under § 101. The district court denied Apple’s motion and Apple appeals. “[W]e apply [the regional circuit’s] law when reviewing ... denials of motions for JMOL or new trial.” i4i Ltd. P’ship v. Microsoft Corp., 598 F.3d 831, 841 (Fed. Cir. 2010), aff’d, 564 U.S. 91, 131 S.Ct. 2238, 180 L.Ed.2d 131 (2011). The Fifth Circuit reviews denial of JMOL de novo. Cambridge Toxicology Grp. v. Exnicios, 495 F.3d 169, 175 (5th Cir. 2007). Further, the issue of patent-eligibility under § 101 is a question of law that we review without deference. Rapid Litig. Mgmt. Ltd. v. CellzDirect, Inc., 827 F.3d 1042, 1047 (Fed. Cir. 2016). We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+II
+Section 101 of the Patent Act states that “[w]hoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefore, subject to the conditions and requirements of this title.” 35 U.S.C. § 101. In interpreting this statute, the Supreme Court has held that the broad language of this provision is subject to an implicit exception for “laws of nature, natural phenomena, and abstract ideas,” which are not patentable. Alice, 134 S.Ct. at 2355.
+ 
+To determine whether the exception applies, the Supreme Court has set forth a two-step inquiry. Specifically, courts must determine (1) whether the claim is directed to a patent-ineligible concept, i.e., a law of nature, a natural phenomenon, or an abstract idea; and if so, (2) whether the elements of the claim, considered “both individually and ‘as an ordered combination,’ ” add enough to “ ‘transform the nature of the claim’ into a patent-eligible application.” Id. (quoting Mayo, 132 S.Ct. at 1298, 1297).
+ 
+Applying this two-step process to claims challenged under the abstract idea exception, we first evaluate “the focus of the claimed advance over the prior art to determine if the claim’s character as a whole is directed to excluded subject matter.” Affinity Labs of Tex., LLC v. DIRECTV, LLC, 838 F.3d 1253, 1257 (Fed. Cir. 2016) (internal quotation marks omitted). If the claim is directed to such excluded subject matter, then, at step two we “search for an ‘inventive concept’ ” that “ ‘transform[s] the nature of the claim’ into a patent-eligible application.” Alice, 134 S.Ct. at 2355 (quoting Mayo, 132 S.Ct. at 1294, 1297). “At step two, more is required than ‘well-understood, routine, conventional activity already engaged in by the ... [relevant] community,’ which fails to transform the claim into ‘significantly more than a patent upon the’ ineligible concept itself.” Rapid Litig., 827 F.3d at 1047 (quoting Mayo, 132 S.Ct. at 1298, 1294).
+ 
+*982 On appeal, Apple contends that each of the asserted claims is directed to an abstract idea and fails to recite any inventive concept sufficient to transform the nature of the claims into patent-eligible applications.
+ 
+
+A
+[1]We begin our analysis at step one: whether the claims are “directed to” an abstract idea. Alice, 134 S.Ct. at 2355. The district court concluded that the asserted claims were directed to the abstract idea of “conditioning and controlling access to data based on payment.” Smartflash, 2015 WL 661174, at *8. We agree.
+ 
+In Alice, the Supreme Court explained that “fundamental economic practice [s]” and other “method[s] of organizing human activity” are not patent-eligible because they are abstract ideas. 134 S.Ct. at 2356–57. In Bilski v. Kappos, for example, the Supreme Court held that the “concept of hedging risk and the application of that concept to energy markets” was not patentable because it was a “fundamental economic practice long prevalent in our system of commerce.” 561 U.S. 593, 611, 130 S.Ct. 3218, 177 L.Ed.2d 792 (2010). Following this guidance, we have noted that when considering claims purportedly directed to “an improvement of computer functionality,” we “ask whether the focus of the claims is on the specific asserted improvement in computer capabilities ... or, instead, on a process that qualifies as an ‘abstract idea’ for which computers are invoked merely as a tool.” Enfish, LLC v. Microsoft Corp., 822 F.3d 1327, 1335–36 (Fed. Cir. 2016); compare id. at 1336–37 (finding computer-implemented system for improving computer search and retrieval systems using self-referential tables patent-eligible), with Ultramercial, Inc. v. Hulu, LLC, 772 F.3d 709, 716 (Fed. Cir. 2014) (finding computer-implemented system for “using advertising as a currency [on] the Internet” to be ineligible), buySAFE, Inc. v. Google, Inc., 765 F.3d 1350, 1352, 1355 (Fed. Cir. 2014) (finding computer-implemented system for guaranteeing performance of an online transaction to be ineligible), and CyberSource Corp. v. Retail Decisions, Inc., 654 F.3d 1366, 1370 (Fed. Cir. 2011) (finding computer-implemented system for “verifying the validity of a credit card transaction over the Internet” to be ineligible).
+ 
+The asserted claims here invoke computers merely as tools to execute fundamental economic practices. Claim 13 of the ’720 patent and claim 32 of the ’221 patent, for example, both claim “data access terminal[s] for retrieving data from a data supplier and providing the retrieved data to a data carrier.” ’720 patent col. 28 ll. 1–4; ’221 patent col. 28 ll. 23–25. Claims 26 and 32 of the ’772 patent similarly claim terminals for controlling access to and retrieving multimedia content. ’772 patent col. 30 ll. 48–52; col. 31 ll. 45–48. The asserted claims all purport to retrieve and provide this data subject to “payment validation” and “access/use rule[s]” that specify conditions for accessing/using the retrieved data. ’720 patent col. 26 ll. 59–67; ’221 patent col. 28 ll. 38–46; ’772 patent col. 30 ll. 19–34, col. 31 ll. 31–34, 41–43. The patents’ specifications explain that “[t]his invention is generally concerned with data storage and access systems. More particularly, it relates to portable data carrier[s] for storing and paying for data and to computer systems for providing access to data to be stored.” ’720 patent col. 1 ll. 6–9. The district court correctly concluded that “the asserted claims recite methods and systems for controlling access to content data, such as various types of multimedia files, and receiving and validating payment data.” Smartflash, 2015 WL 661174, at *8. As such, the asserted *983 claims are directed to the abstract idea of conditioning and controlling access to data based on payment.
+ 
+
+B
+[2]Having determined that the asserted claims are directed to an abstract idea, we next address whether the claims recite any “inventive concept” sufficient to “ ‘transform the nature of the claim’ into a patent-eligible application.” Alice, 134 S.Ct. at 2355. The district court found that the claims are patent-eligible because they purportedly recite “specific ways of managing access to digital content data based on payment validation through storage and retrieval of use status data and use rules in distinct memory types2 and evaluating the use data according to the use rules.” Smartflash, 2015 WL 661174, at *9. Smartflash argues that the claims comprise inventive concepts because they recite “storing payment data on the data carrier,” “transmitting payment validation data to the data access terminal and having the terminal retrieve the digital content from the data supplier in response,” and “writing on the data carrier ‘access rules’ that are dependent on the amount of payment.” Appellee’s Br. 29–30 (emphasis removed).
+ 
+The Supreme Court and this court, however, have previously held that such routine computer activities are insufficient for conferring patent eligibility. See, e.g., Alice, 134 S.Ct. at 2359 (“[U]se of a computer to obtain data, adjust account balances, and issue automated instructions; all of these computer functions are ‘well-understood, routine, conventional activit[ies]’ previously known to the industry.”) (quoting Mayo, 132 S.Ct. at 1294); Content Extraction & Transmission LLC v. Wells Fargo Bank, Nat. Ass’n, 776 F.3d 1343, 1347 (Fed. Cir. 2014) (“The concept of data collection, recognition, and storage is undisputedly well-known. Indeed, humans have always performed these functions.”); Accenture Global Servs., GmbH v. Guidewire Software, Inc., 728 F.3d 1336, 1339, 1346 (Fed. Cir. 2013) (finding claims reciting “applying ... information related to the insurance transaction to rules to determine a task to be completed” and “allowing an authorized user to edit and perform the determined task” to be patent ineligible). As such, merely storing, transmitting, retrieving, and writing data to implement an abstract idea on a computer does not “ ‘transform the nature of the claim’ into a patent-eligible application.” Alice, 134 S.Ct. at 2355.
+ 
+Smartflash further argues that the asserted claims are akin to the claims we found patent-eligible in DDR Holdings, LLC v. Hotels.com, L.P. 773 F.3d 1245 (Fed. Cir. 2014). In DDR Holdings, we evaluated the eligibility of claims “address[ing] the problem of retaining website visitors that, if adhering to the routine, conventional functioning of Internet hyperlink protocol, would be instantly transported away from a host’s website after ‘clicking’ on an advertisement and activating a hyperlink.” Id. at 1257. There, we found that the claims were patent-eligible because they transformed the manner in which a hyperlink typically functions to resolve a problem that had no “pre-Internet analog.” Id. at 1258. “[W]e caution[ed], however, that not all claims purporting to address Internet-centric challenges are eligible for patent.” Id. For example, in DDR Holdings we distinguished the patent-eligible claims at issue from claims we found *984 patent-ineligible in Ultramercial. See id. at 1258–59 (citing Ultramercial, 772 F.3d at 715–16). As we noted there, the Ultramercial claims were “directed to a specific method of advertising and content distribution that was previously unknown and never employed on the Internet before.” Id. at 1258 (quoting Ultramercial, 772 F.3d at 715–16). Nevertheless, those claims were patent-ineligible because they “merely recite[d] the abstract idea of ‘offering media content in exchange for viewing an advertisement,’ along with ‘routine additional steps such as updating an activity log, requiring a request from the consumer to view the ad, restrictions on public access, and use of the Internet.’ ” Id.
+ 
+Smartflash’s asserted claims are analogous to claims found ineligible in Ultramercial and distinct from claims found eligible in DDR Holdings. The ineligible claims in Ultramercial recited “providing [a] media product for sale at an Internet website;” “restricting general public access to said media product;” “receiving from the consumer a request to view [a] sponsor message;” and “if the sponsor message is an interactive message, presenting at least one query to the consumer and allowing said consumer access to said media product after receiving a response to said at least one query.” 772 F.3d at 712. Similarly, Smartflash’s asserted claims recite reading, receiving, and responding to payment validation data and, based upon the amount of payment, and access rules, allowing access to multimedia content. This is precisely the type of Internet activity that we found ineligible in Ultramercial.
+ 
+Smartflash also argues that its claims are patent-eligible because the claim elements, when considered as an ordered combination, recite “specific hardware components—including a communications interface, an interface for communicating with the data carrier, and a program store, all coupled to a processor” that “reflect specific technical choices that provide distinct advantages over alternatives.” Appellee’s Br. 28–29. But “provid[ing] a distinct advantage over alternatives” is not the test for eligibility. Instead, the test is whether the claims recite an “inventive concept sufficient to ‘transform’ the nature of the claim” into an eligible application. Alice, 134 S.Ct. at 2355 (quoting Mayo, 132 S.Ct. at 1298, 1297). In Alice, the Supreme Court considered an argument similar to Smartflash’s and found that “what petitioner characterizes as specific hardware—a ‘data processing system’ with a ‘communications controller’ and ‘data storage unit’ ”—did not confer eligibility because “[n]early every computer will include a ‘communications controller’ and ‘data storage unit’ capable of performing the basic calculation, storage, and transmission functions required by the ... claims.” 134 S.Ct. at 2360. Similarly, we find here that “interfaces,” “program stores,” and “processors” are all generic computer components and do not, taken individually or as an ordered combination, “transform [the] abstract idea into a patent-eligible invention.” Id. at 2352.
+ 
+In sum, the asserted claims are all directed to the abstract idea of conditioning and controlling access to data based on payment, and fail to recite any inventive concepts sufficient to transform the abstract idea into a patent-eligible invention. As such, the asserted claims are all invalid for failing to recite patent-eligible subject matter under 35 U.S.C. § 101.
+ 
+Because we find all asserted claims invalid, we do not reach the remaining issues raised on appeal. For the foregoing reasons, the district court’s decision is reversed.
+ 
+REVERSED
+ 
+All Citations
+680 Fed.Appx. 977
+Footnotes
+
+1
+
+The ’772 patent is a continuation of the ’221 patent which is a continuation of U.S. Patent No. 7,942,317, which is a continuation of the ’720 patent. All four patents share the same specification. For simplicity, all citations herein are to the ’720 patent unless stated otherwise.
+
+2
+
+The district court found that the claims’ recitation of “distinct memory types,” specifically “parameter memory” and “content memory” contributed to the inventive concept of the asserted claims. Smartflash, 2015 WL 661174, at *8–*9. Smartflash is no longer asserting the claims that recite these distinct memory type limitations. “Distinct memory types” therefore cannot support the eligibility of the asserted claims.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

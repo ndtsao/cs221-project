@@ -1,0 +1,469 @@
+
+
+ 
+
+
+Suffolk Technologies, LLC v. AOL Inc.
+United States Court of Appeals, Federal Circuit. | May 27, 2014 | 752 F.3d 1358 | 2014 WL 2179274
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Suffolk Techs., LLC v. AOL Inc., 752 F.3d 1358 (Fed. Cir. 2014)
+
+All Citations:
+
+752 F.3d 1358, 110 U.S.P.Q.2d 2034
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Virginia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+752 F.3d 1358
+United States Court of Appeals,
+Federal Circuit.
+SUFFOLK TECHNOLOGIES, LLC, Plaintiff–Appellant,
+v.
+AOL INC., Defendant,
+and
+Google Inc., Defendant–Appellee.
+No. 2013–1392.
+|
+May 27, 2014.
+Synopsis
+Background: Patentee brought patent infringement action against alleged infringers, internet search engines, claiming that the search engines infringed on its patent for methods and systems for controlling a server that supplies files to computers rendering web pages. The United States District Court for the Eastern District of Virginia, T.S. Ellis, III, J., 942 F.Supp.2d 600, construed the patent claims, and granted summary judgment to the search engines. The patentee appealed.
+ 
+Holdings: The Court of Appeals, Prost, Circuit Judge, held that:
+ 
+[1] term “generating said supplied file” meant creating or tailoring file, as distinct from selecting existing file, in dependence upon received identification signal;
+ 
+[2] a post on an internet newsgroup was a printed publication under statute governing conditions for patentability;
+ 
+[3] a challenge to accuracy and reliability of a newsgroup post failed to create a genuine issue of material fact;
+ 
+[4] the District Court did not abuse its discretion in excluding testimony from an expert witness; and
+ 
+[5] arguments of the patentee’s attorney were insufficient to undermine expert testimony of an expert witness of the alleged infringer on summary judgment.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (12)
+
+
+[1]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+(Formerly 291k101(2))
+
+
+Term “generating said supplied file,” as used in patent controlling a server that supplies files to computers rendering web pages, meant creating or tailoring file, as distinct from selecting existing file, in dependence upon received identification signal.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5)
+
+
+Claim construction is a question of law that the Court of Appeals reviews without deference.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsMultiple sources for construction
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1313Multiple sources for construction
+(Formerly 291k168(2.1), 291k167(1), 291k165(3))
+
+
+In construing claims, the Court of Appeals relies primarily on the claim language, the specification, and the prosecution history.
+2 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsExtrinsic Evidence
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1344Extrinsic Evidence
+291k1345In general
+(Formerly 291k159)
+
+
+After considering the claim language, the specification, and the prosecution history of a patent, a court may also seek guidance from extrinsic evidence such as expert testimony, dictionaries, and treatises.
+4 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)4Prior Description in Printed Publication
+291k602Particular products or processes
+(Formerly 291k68)
+
+
+A post on an internet newsgroup was made sufficiently publicly accessible to count as a printed publication under statute governing conditions for patentability, despite contention that the newsgroup was populated mostly by beginners and not those with ordinary skill in the art, where, at the time the post was made, the state of the art for controlling servers that supplied files to computers rendering webpages was relatively low as there were no courses or books on the topic, and the post was disseminated widely enough at the time it was posted, eliciting at least six responses in the first week. 35 U.S.C.A. § 102(b).
+1 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)5Prior Public Use or Sale
+291k640Questions of law or fact
+(Formerly 291k68)
+
+
+Whether an anticipatory document qualifies as a printed publication under statutes governing patentability is a legal conclusion based on underlying factual determinations. 35 U.S.C.A. § 102(b).
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsAccessibility
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)4Prior Description in Printed Publication
+291k592Requisites of Publication
+291k595Accessibility
+(Formerly 291k68)
+
+
+A given reference is publicly accessible, for purposes of determining if the reference is a printed publication under statute governing patentability, upon a satisfactory showing that such document has been disseminated or otherwise made available to the extent that persons interested and ordinarily skilled in the subject matter or art exercising reasonable diligence, can locate it. 35 U.S.C.A. § 102(b).
+2 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsAffidavits or other evidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1936Affidavits or other evidence
+(Formerly 291k323.2(4))
+
+
+Challenge to the accuracy and reliability of a post on an internet newsgroup, in the absence of affirmative evidence challenging the post’s material facts, failed to create a genuine issue of material fact, on summary judgment on the issue of anticipation in a patent infringement action; the putative author of the post stated that the post was consistent with the style of his writing and used an e-mail that he used to write from.
+Cases that cite this headnote
+
+
+
+[9]
+
+PatentsAdmissibility at trial
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1750Discovery
+291k1758Depositions
+291k1758(5)Admissibility at trial
+(Formerly 291k292.4)
+
+
+District court did not abuse its discretion in excluding testimony of an expert witness in a patent infringement action, where the expert went from having no opinion on the construction of a claim in his initial report and deposition during discovery to having an opinion after claim construction, and the court’s interpretation of the claim did not vary greatly from the parties’ proposals.
+Cases that cite this headnote
+
+
+
+[10]
+
+Federal CourtsExpert evidence and witnesses
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3600Expert evidence and witnesses
+
+
+Court of Appeals reviews the district court’s decision to exclude expert witness testimony for abuse of discretion.
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsAffidavits or other evidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1936Affidavits or other evidence
+(Formerly 291k323.2(4))
+
+
+Arguments of patentee’s attorney challenging the appropriateness of summary judgment, without evidentiary support, were insufficient to undermine the expert testimony of the expert witness of the alleged infringer, on summary judgment of a patent infringement action.
+2 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,081,835. Construed and Ruled Invalid.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1360 Joel L. Thollander, McKool Smith, P.C., of Austin, TX, argued for plaintiff-appellant. With him on the brief were Douglas A. Cawley and Daniel L. Geyser, of Dallas, TX; and Roderick G. Dorman, of Los Angeles, CA.
+Steven A. Hirsch, Keker & Van Nest LLP, of San Francisco, CA, argued for defendant-appellee. With him on the brief were Robert A. Van Nest, Christa M. Anderson, and Matthias A. Kamber.
+Before RADER, Chief Judge, PROST and CHEN, Circuit Judges.
+Opinion
+PROST, Circuit Judge.
+
+Suffolk Technologies, LLC (“Suffolk”) appeals from the summary judgment of the United States District Court for the Eastern District of Virginia holding certain claims of Suffolk’s U.S. Patent No. 6,081,835 (“′835 patent”) invalid. Specifically, the district court held that claims 1, 7, and 9 were anticipated by a Usenet newsgroup post. Suffolk then stipulated that, in light of the district court’s prior art, claim construction, and expert testimony rulings, claim 6 was also anticipated. Upon entry of final judgment, Suffolk appealed.
+ 
+We conclude that the district court correctly construed the claims and properly granted summary judgment of invalidity. Accordingly, we affirm.
+ 
+
+BACKGROUND
+Suffolk owns the ′835 patent, which is directed to methods and systems for controlling a server that supplies files to computers rendering web pages. ′ 835 patent col. 2 l. 58–col. 4 l. 10. The patent discloses using the address of the referring web page to determine whether to serve a file, and if so, which file. Id. The claims at issue are independent claim 1 and dependent claims 6, 7, and 9. Those claims read as follows:
+1. A method of operating a file server, said method comprising the steps of:
+receiving a request for a file;
+determining if the request includes a received identification signal identifying an originating file from which said request originated;
+comparing any said received identification signal with the one or more predetermined identification signals; and
+deciding which file, if any, is to be supplied in dependence upon said determining and comparing steps, and if in the deciding step it is decided that a file is to be supplied, supplying said file.
+Id. col. 7 ll. 30–42 (emphases added).
+6. A method as in claim 1 wherein said deciding step further comprises generating said supplied file.
+7. A method as in claim 1 wherein said request conforms to a hypertext transfer protocol.
+Id. col. 8 ll. 1–4 (emphasis added).
+9. A method as in claim 1 in which said file server is connected to the internet *1361 and wherein said request is received via the internet.
+Id. col. 8 ll. 8–10.
+ 
+In June 2012, Suffolk sued Google Inc. (“Google”) for infringing the ′835 patent.1 Google responded by arguing, among other things, that the asserted claims were anticipated by a newsgroup post. Specifically, on June 29, 1995—nine months before the priority date claimed for the ′835 patent—Marshall C. Yount posted to the comp.infosystems.www.authoring.cgi newsgroup a message entitled “How to tell which page called the script?” He wrote:
+ 
+I am a newbie at this CGI [common gateway interface] stuff, so this question might seem ridiculous (I did look in the FAQ and on some web pagpages). I have this script that will be called from one of 18 pages. Depending on which page it was called from, the output will be different. Is there any environment variable that will tell me this, or do I have to externally pass information to the script.
+J.A. 4805.
+A college student named Shishir Gundavaram replied with the following post (the “Post”):
+Look at the CGI environment variable HTTP—REFERER. In Perl, you can do something like this:
+# !/usr/local/bin/perl
+$referer=$ENV { ’HTTP_REFERER’} ;
+print “Content-type: text/plain”, “*n*n”;
+if ($referer=~/abc*.html/){ 
+print “A link in abc.html called this document.”, “*n”;} 
+} elsif ($referer=~/efg*.html/){ 
+print “A link in efg.html called this document.”, “*n”;} 
+else{ 
+print “A link in”, $referer, “called this document.”, “*n”;
+} 
+exit(0);
+Id.
+ 
+After construing the claims and excluding testimony from Suffolk’s validity expert, the district court granted Google’s motion for summary judgment, holding that claims 1, 7, and 9 were anticipated by the Post. Suffolk Techs. LLC v. AOL Inc., 942 F.Supp.2d 600, 602 (E.D.Va.2013) (order construing claims); J.A. 29 (order granting summary judgment). Suffolk then stipulated to summary judgment of anticipation of claim 6 in light of the district court’s prior art and claim construction rulings. J.A. 2 (Final Judgment).
+ 
+Suffolk timely appealed. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+ANALYSIS
+I. Claim Construction
+[1] Suffolk appeals the district court’s construction of the claim term “generating said supplied file.” According to Suffolk, the district court’s construction, in combination with the court’s prior art and summary judgment rulings “effectively ensured that [claim 6] would be invalidated as well.” Appellant’s Br. 4.
+ 
+[2] [3] [4] Claim construction is a question of law that we review without deference. *1362 Lighting Ballast Control LLC v. Philips Elecs. N. Am. Corp., 744 F.3d 1272, 1276–77 (Fed.Cir.2014) (en banc); Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc). In construing claims, this court relies primarily on the claim language, the specification, and the prosecution history. Phillips v. AWH Corp., 415 F.3d 1303, 1314–17 (Fed.Cir.2005) (en banc). After considering this intrinsic evidence, a court may also seek guidance from extrinsic evidence such as expert testimony, dictionaries, and treatises. Id. at 1317–18.
+ 
+Suffolk argues that the district court erred in construing the claim term “generating said supplied file” as “creating or tailoring a file, as distinct from selecting an existing file, in dependence upon the received identification signal.” Suffolk Techs., 942 F.Supp.2d at 602 (emphasis added). Suffolk’s position is that the generated file could depend on the content of the requesting web page and not just the received identification signal. According to Suffolk, the district court committed three fundamental errors in coming to a different conclusion.
+ 
+First, Suffolk argues that the language of the claims themselves does not support the district court’s construction. But a review of the claim language reveals the weakness of this position.
+ 
+Claim 1’s deciding step depends upon the preceding determining and comparing steps, both of which in turn depend upon a “received identification signal.” Thus, claim 1’s determining, comparing, and deciding steps all reference, directly or indirectly, a “received identification signal.”
+ 
+All claim 6 does is add a “generating said supplied file” limitation to claim 1’s deciding step. Neither claim 1 nor claim 6 references any variables or mechanisms for conveying information about the requesting page other than the “received identification signal.” And, the undisputed construction of “identification signal”—“digital information that identifies the source, origin, or location of a file”—says nothing about the content of the requesting page.
+ 
+Thus, the only variable actually listed in the claims that the generated file could depend on is the received identification signal and not the content of the requesting web page. Counter to Suffolk’s assertion, the language of the claims does support the district court’s construction.
+ 
+Second, Suffolk argues that the specification implicitly defines “generating said supplied file” and that the district court erred in ignoring that implicit definition. Suffolk lists several excerpts from the specification that it argues supports its position that the generated file could depend on the content of the requesting page. But when viewed in context, those excerpts actually support the district court’s construction. For example, Suffolk points to the statement that information can be “tailored in dependence upon the current web page being displayed by the browser.” ′835 patent col. 4 ll. 5–6. That excerpt is reproduced with context below. Suffolk’s excerpt is italicized and the most important context is bolded.
+In addition to the possibility of controlling access to image or sound, or other high bandwidth files, the referrer details transmitted with the file request may inform the server of the web page from which a file request is being made. Thus, if a HTML file is requested from a web page, the server is able to identify from which web page the HTML file request is made and customize the HTML file accordingly. For instance, if the browser requests a HTML file and generates a web page which includes *1363 details of a company, the details which are to be displayed can be tailored in dependence upon the current web page being displayed by the browser which could for instance be financial information.
+′835 patent col. 3 l. 62–col. 4 l. 7 (emphases added).
+Another of Suffolk’s excerpts with context follows.
+[T]he HTML file sent to the browser can be customised in dependence upon the web page from which the request for a new web page was made. In this embodiment the server runs an application which takes in the referrer address and generates a new HTML file.
+Id. col. 6 ll. 37–41 (emphases added).
+ 
+These passages, when taken in full, describe two basic steps: (1) identifying from which web page the request is made; and (2) customizing an HTML file accordingly. Importantly, the first step is not identifying the content of the requesting page. Arguably, it is possible that the server could separately match the received identification signal with content known to be on that requesting page, but such matching is not described or claimed. And in that case, the generated file would still be most accurately described as depending on the received identification signal and not the requesting page’s content.
+ 
+Thus, the specification, when viewed in context, supports the district court’s construction that “generating said supplied file” depends on the received identification signal and not the content of the requesting web page.
+ 
+Third, Suffolk argues that the district court’s construction effectively excludes the preferred embodiment that this claim language was intended to cover. But this argument fails when the entire description of the preferred embodiment is considered. When considered in full, it is clear that the embodiment uses the referrer address to generate the correct file. See ′835 patent col. 3 l. 67–col. 4 l. 2 (“[T]he server is able to identify from which web page the HTML file request is made and customise the HTML file accordingly.”) (emphases added); see also id. col. 3 l. 36–40. The district court’s construction does not exclude the preferred embodiment.
+ 
+We have considered Suffolk’s remaining arguments regarding the district court’s claim construction and find them unpersuasive. Accordingly, we affirm that construction.
+ 
+
+II. Summary Judgment
+Suffolk also appeals the district court’s grant of summary judgment of invalidity of claims 1, 7, and 9, and several underlying rulings.
+ 
+The district court’s grant of summary judgment is reviewed de novo. Grober v. Mako Prods., Inc., 686 F.3d 1335, 1344 (Fed.Cir.2012); Bruckelmyer v. Ground Heaters, Inc., 445 F.3d 1374, 1377 (Fed.Cir.2006). Summary judgment is appropriate if, viewing the evidence in the light most favorable to the non-moving party, the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. Fed.R.Civ.P. 56; Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986).
+ 
+According to Suffolk, the district court erred by (1) holding that the Post is a printed publication and thus prior art, (2) holding that there were no triable issues concerning the Post’s accuracy and reliability, *1364 (3) excluding testimony of Suffolk’s validity expert, and (4) granting summary judgment, even in light of those rulings. We address each purported error in turn.
+ 
+
+A. Printed Publication
+[5] As stated, Suffolk argues that the district court erred in holding that the Post is a printed publication under § 102.2
+ 
+[6] [7] “Whether an anticipatory document qualifies as a ‘printed publication’ under § 102 is a legal conclusion based on underlying factual determinations.” SRI Int’l, Inc. v. Internet Sec. Sys., Inc., 511 F.3d 1186, 1192 (Fed.Cir.2008) (citation omitted); see In re Klopfenstein, 380 F.3d 1345, 1347 (Fed.Cir.2004) (“Where no facts are in dispute, the question of whether a reference represents a ‘printed publication’ is a question of law.”) “Because there are many ways in which a reference may be disseminated to the interested public, ‘public accessibility’ has been called the touchstone in determining whether a reference constitutes a ‘printed publication’ bar under 35 U.S.C. § 102(b).” SRI Int’l, Inc., 511 F.3d at 1194 (quoting In re Hall, 781 F.2d 897, 898–99 (Fed.Cir.1986)). “A given reference is ‘publicly accessible’ upon a satisfactory showing that such document has been disseminated or otherwise made available to the extent that persons interested and ordinarily skilled in the subject matter or art exercising reasonable diligence, can locate it.” Id. (quoting Bruckelmyer v. Ground Heaters, Inc., 445 F.3d 1374, 1378 (Fed.Cir.2006)); see In re Cronyn, 890 F.2d 1158, 1160 (Fed.Cir.1989) (“[D]issemination and public accessibility are the keys to the legal determination whether a prior art reference was ‘published.’ ” (quoting Constant v. Advanced Micro–Devices, Inc., 848 F.2d 1560, 1568 (Fed.Cir.1988), cert. denied, 488 U.S. 892, 109 S.Ct. 228, 102 L.Ed.2d 218 (1988))).
+ 
+Suffolk argues that the Post should not be considered a printed publication for essentially two reasons. According to Suffolk, the Post’s audience was not those of ordinary skill in the art and locating the Post would be too difficult.
+ 
+As to the first argument, Suffolk contends that the Usenet newsgroup was populated mostly by “beginners,” not those of ordinary skill in the art. Suffolk bases this claim on Yount’s comment that he was a “newbie” and that “this question might seem ridiculous.” J.A. 4805. And Gundavaram did state that, at the time of the post, “Most of these people who are using these newsgroups were beginners.” J.A. 5132. But Suffolk’s argument is unpersuasive for two reasons. First, Suffolk seems to misunderstand the level of ordinary skill in the art at that time. According to Gundavaram, there were no courses or books concerning CGI at the time of the Post in 1995, and he learned about CGI through self-study. Second, the record indicates that those of ordinary skill in the art actually were using such newsgroups. At the time, only people with access to a university or corporate computer could use newsgroups, a subset of people more likely to be skilled in the art. Suffolk’s own validity expert, Dr. Rhyne, used newsgroups. Gundavaram clearly used the newsgroup here, and he ultimately wrote a book on CGI. Further, Yount’s question *1365 would only seem “ridiculous” if the other subscribers had more skill in the art than he. Accordingly, Suffolk’s first ground for attacking the printed publication is unpersuasive.
+ 
+As to the second ground, Suffolk argues that the Post was not sufficiently publically accessible to be considered a printed publication. Suffolk points out that the Post was non-indexed and non-searchable. And although the newsgroup posts did have titles, they could only be sorted by date.
+ 
+But this argument is also unpersuasive for two reasons. First, Suffolk overstates the difficulty in locating the Post after publication. Usenet newsgroups were organized in a hierarchical manner, as evidenced by the name of the newsgroup at issue—comp.infosystems.www.authoring.cgi. Thus, someone interested in CGI could easily locate a list of posts in this newsgroup.
+ 
+Second, and the ultimate reason Suffolk’s argument fails, a printed publication need not be easily searchable after publication if it was sufficiently disseminated at the time of its publication. See, e.g., In re Klopfenstein, 380 F.3d at 1350–51. Thus, the question becomes whether the Post was sufficiently disseminated. We hold it was, the facts here being similar to cases holding sufficient dissemination occurred. For example, in Klopfenstein we held a poster board presentation displayed for several days at an industry association meeting to be sufficiently disseminated to be “publically accessible,” and thus a printed publication. Id. Similarly, in Massachusetts Institute of Technology v. AB Fortia, 774 F.2d 1104, 1109 (Fed.Cir.1985), we held a paper delivered orally at a conference, where at least six copies of the paper were distributed, to be a printed publication. The present case is not, as Suffolk contends, more similar to SRI International where we held factual issues precluded summary judgment of invalidity. 511 F.3d at 1194. There, we did “not find enough evidence in the record to show that [a file posted on an FTP server] was publicly accessible and thus a printed publication under 35 U.S.C. § 102(b).” Id. at 1195. The FTP server was technically open to the public but the file “was not publicized or placed in front of the interested public.” Id. at 1197. We analogized those facts to “placing posters at an unpublicized conference with no attendees.” Id. Such analogy is inapplicable here, where dialogue with the intended audience was the entire purpose of the newsgroup postings. And, indeed, the Post elicited at least six responses over the week following its publication discussing the efficacy of Gundavaram’s proposal. Many more people may have viewed the posts without posting anything themselves.
+ 
+Thus, we conclude the Post was sufficiently disseminated to those of ordinary skill in the art to be considered publically accessible, and Suffolk’s second ground for attacking the printed publication fails.
+ 
+We therefore affirm the district court’s holding that the Post is a printed publication for purposes of § 102.
+ 
+
+B. The Post’s Accuracy and Reliability
+[8] Suffolk next argues that summary judgment was inappropriate because “serious questions undermining the reliability and accuracy of the Gundavaram post should have been submitted to the jury.” Appellant’s Br. 33. According to Suffolk, a juror may decide to not credit “a second-hand reproduction of an old Usenet post” that was admittedly altered. Id. Suffolk points out that each post was altered to *1366 bear a timestamp of 12:00 a.m. and that the email addresses were altered to protect users from spambots. Suffolk then argues that these small alterations “could suggest to a jury that other parts of the post may also have been inaccurate or altered.” Id. at 35.
+ 
+This argument, however, is unpersuasive. Suffolk presents no affirmative evidence challenging the Post’s material facts. And Gundavaram himself authenticated the Post, testifying that he recognized “the style of my writing,” “certain stylistic things in the code,” and “certainly the e-mail address that I wrote from.” J.A. 6192–93.
+ 
+In sum, the asserted evidentiary weaknesses in the Post are insufficient, without more, to create a genuine issue of material fact. We therefore affirm the district court’s holding that there were no genuine issues of material fact concerning the Post.
+ 
+
+C. Suffolk’s Validity Expert Testimony
+[9] [10] Suffolk next argues that the district court improperly excluded testimony from its validity expert, Dr. Rhyne. In his initial report and deposition, Dr. Rhyne offered no opinion on whether the Post anticipated claims 1, 7, or 9 of the ′835 patent. Dr. Rhyne did, however, opine that the Post did not anticipate claim 6. After the district court issued its claim construction, Dr. Rhyne filed a supplemental report in which he stated for the first time that the Post did not anticipate claim 1. The district court excluded that portion of the supplemental report, and Suffolk appeals that exclusion. We review the district court’s decision to exclude Dr. Rhyne’s testimony for abuse of discretion. See Nader v. Blair, 549 F.3d 953, 963 (4th Cir.2008); S. States Rack & Fixture, Inc. v. Sherwin–Williams Co., 318 F.3d 592, 595 (4th Cir.2003).
+ 
+Suffolk argues that Dr. Rhyne’s new opinion concerning the anticipation of claim 1 should be permitted because the district court “chang[ed] the landscape” when it construed the term “identification signal” as “digital information that identifies the source, origin, or location of a file.” Appellant’s Br. 41. For context, Suffolk’s proposed construction of “received identification signal” was “a signal identifying an originating file from which said request originated.” J.A. 12074.
+ 
+The crux of the district court’s decision to exclude the testimony is that, concerning the anticipation of claim 1, Dr. Rhyne went from having no opinion before claim construction to having an opinion after claim construction. The intervening claim construction, according to the district court, did not warrant such a change. J.A. 2552 (hearing on motion to strike Dr. Rhyne’s testimony) (“I was surprised, to the extent that they are not tethered and depend upon Markman constructions.... [Dr. Rhyne] testified that he had no opinion one way or the other, it didn’t matter. That doesn’t depend on claim construction. He had no opinion at all. So I am going to strike it.”).
+ 
+We do not conclude that every time a validity expert goes from having no opinion concerning a claim to having an opinion that such supplemental testimony should be excluded. We do, however, conclude that the district court did not abuse its discretion in doing so here, where Dr. Rhyne did opine on the validity of dependent claim 6 in his initial report and the district court’s construction did not vary greatly from the parties’ proposals. We therefore affirm the district court’s exclusion of portions of Dr. Rhyne’s testimony.
+ 
+
+*1367 D. Appropriateness of Summary Judgment
+[11] Suffolk next argues that, even if the Post is properly considered and Dr. Rhyne’s testimony is properly excluded, summary judgment of invalidity should not have been granted. According to Suffolk, there are genuine factual issues concerning whether the Post disclosed every limitation in the contested claims. Specifically, it argues that “the exemplary files disclosed [—abc.html—]were not in the context of a URL and did not provide additional information (beyond “abc.html”) communicating source, origin or location.” Appellant’s Br. 42. Without expert testimony, however, Suffolk’s position is mere attorney argument. And here, those attorney arguments are insufficient to undermine the credible testimony from Google’s expert that “abc.html” is an identification signal.
+ 
+Further, Suffolk argues broadly that summary judgment is inappropriate because Suffolk “can still attack Google’s affirmative case (on cross-examination or otherwise).” Appellant’s Br. 43. But these broad statements, without evidentiary support, are insufficient to make summary judgment inappropriate. To hold otherwise would improperly empower cross-examination with the ability to defeat nearly all motions for summary judgment. We refuse to endorse such a broad position.
+ 
+We have considered Suffolk’s remaining arguments regarding the district court’s grant of summary judgment and find them unpersuasive.
+ 
+Google bears the burden to show that there are no genuine issues of material fact. It has met that burden. And Suffolk’s attorney arguments, with no affirmative evidence, are insufficient to undermine Google’s showing. Thus, we affirm the district court’s summary judgment of invalidity.3
+ 
+
+CONCLUSION
+We conclude that the district court did not err in its claim construction or its grant of summary judgment of invalidity. We thus affirm the district court.
+ 
+AFFIRMED.
+ 
+All Citations
+752 F.3d 1358, 110 U.S.P.Q.2d 2034
+Footnotes
+
+1
+
+Suffolk also sued AOL Inc., but those parties settled in January 2013.
+
+2
+
+Google contends that Suffolk waived the argument that the Post is not a printed publication under § 102. Because the district court clearly recognized, considered, and ruled on the issue, we disagree. See Hollmer v. Harari, 681 F.3d 1351, 1356 n. 3 (Fed.Cir.2012).
+
+3
+
+Suffolk also appeals the district court’s exclusion of Suffolk’s damages expert. Having affirmed the summary judgment of invalidity, we need not and do not reach this issue.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

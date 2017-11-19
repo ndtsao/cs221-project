@@ -1,0 +1,662 @@
+
+
+
+
+
+Apple, Inc. v. Samsung Electronics Co., Ltd.
+United States Court of Appeals, Federal Circuit. | May 14, 2012 | 678 F.3d 1314 | 2012 WL 1662048
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Concurring In Part / Dissenting In Part
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by MRC Innovations, Inc. v. Hunter Mfg., LLP, Fed.Cir.(Ohio), April 2, 2014
+
+standard Citation:
+
+Apple, Inc. v. Samsung Elecs. Co., 678 F.3d 1314 (Fed. Cir. 2012)
+
+All Citations:
+
+678 F.3d 1314, 102 U.S.P.Q.2d 1633
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+Status Icons:
+
+  
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by MRC Innovations, Inc. v. Hunter Mfg., LLP, Fed.Cir.(Ohio), April 2, 2014
+678 F.3d 1314
+United States Court of Appeals,
+Federal Circuit.
+APPLE, INC., Plaintiff–Appellant,
+v.
+SAMSUNG ELECTRONICS CO., LTD., Samsung Electronics America, Inc., and Samsung Telecommunications America, LLC, Defendants–Appellees.
+No. 2012–1105.
+|
+May 14, 2012.
+|
+Rehearing and Rehearing En Banc Denied June 19, 2012.
+Synopsis
+Background: Patentee brought action against competitor, alleging infringement of several patents related to smartphones and tablet computers. The United States District Court for the Northern District of California, Lucy H. Koh, J., entered an order denying patentee’s motion for a preliminary injunction, and patentee appealed.
+ 
+Holdings: The Court of Appeals, Bryson, Circuit Judge, held that:
+ 
+[1] patentee failed to demonstrate irreparable harm with respect to its smartphone design patent, but
+ 
+[2] patentee demonstrated a substantial likelihood of success as to obviousness of its tablet computer design patent.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+O’Malley, Circuit Judge, filed a separate opinion concurring in part and dissenting in part.
+ 
+
+
+West Headnotes (11)
+
+
+[1]
+
+InjunctionGrounds in general;  multiple factors
+
+
+212Injunction
+212IIPreliminary, Temporary, and Interlocutory Injunctions in General
+212II(B)Factors Considered in General
+212k1092Grounds in general;  multiple factors
+
+
+A plaintiff seeking a preliminary injunction must establish that he is likely to succeed on the merits, that he is likely to suffer irreparable harm in the absence of preliminary relief, that the balance of equities tips in his favor, and that an injunction is in the public interest.
+32 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsPreliminary injunction;  temporary restraining order
+InjunctionDiscretionary Nature of Remedy
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3616Injunction
+170Bk3616(2)Preliminary injunction;  temporary restraining order
+(Formerly 170Bk815)
+212Injunction
+212IIPreliminary, Temporary, and Interlocutory Injunctions in General
+212II(A)Nature, Form, and Scope of Remedy
+212k1077Discretionary Nature of Remedy
+212k1078In general
+
+
+The decision to grant or deny a preliminary injunction lies within the sound discretion of the district court, and the Court of Appeals will not reverse its judgment absent an abuse of that discretion.
+4 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsActions and remedies
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2057Actions and remedies
+(Formerly 291k300)
+
+
+Patentee was required to show a causal nexus between competitor’s likely infringement of its smartphone design patent and its claims of lost market share and brand dilution, in order to demonstrate irreparable harm in seeking a preliminary injunction barring competitor from selling its accused devices within United States.
+50 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsActions and remedies
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2057Actions and remedies
+(Formerly 291k300)
+
+
+Owner of a smartphone design patent failed to demonstrate that it was likely to suffer irreparable harm in absence of a preliminary injunction barring competitor from selling its allegedly infringing devices within United States; competitor’s allegedly infringing design was, at most, responsible for an insignificant amount of lost sales for owner, and owner did not proceed as quickly as it could have in seeking preliminary injunctive relief.
+16 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsActions and remedies
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2057Actions and remedies
+(Formerly 291k295)
+
+
+Owner of a smartphone design patent, which claimed a bezel surrounding perimeter of phone’s front face, demonstrated a likelihood of success on merits of claim that its patent was not anticipated by a foreign patent disclosing an overall simple, minimalist smartphone design, as required for owner to obtain a preliminary injunction barring competitor from selling its allegedly infringing devices within United States; although both patents disclosed a substantially similar front view, foreign patent did not claim a bezel or any elements of allegedly infringed patent’s side view.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+Owner of a patent claiming a software feature for smartphones and tablet computers that allows previously visible parts of a document to bounce back during scrolling failed to demonstrate that it was likely to suffer irreparable harm in absence of a preliminary injunction barring competitor from selling its allegedly infringing devices within United States; competitor’s alleged infringement of bounce-back feature was unlikely to have motivated consumer demand or caused owner to lose significant sales.
+30 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsActions and remedies
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2057Actions and remedies
+(Formerly 291k295)
+
+
+Owner of a tablet computer design patent demonstrated a likelihood of success on merits of claim that its patent was not invalid for obviousness, as required for owner to obtain a preliminary injunction barring competitor from selling its allegedly infringing devices within United States; side-by-side visual comparison of patent and prior art references showed substantial differences in their overall appearances.
+1 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsObviousness;  lack of invention
+
+
+291Patents
+291VIIIDesign Patents
+291k2042Patentability and Validity
+291k2047Obviousness;  lack of invention
+(Formerly 291k28)
+
+
+In addressing a claim of obviousness in a design patent, the ultimate inquiry is whether the claimed design would have been obvious to a designer of ordinary skill who designs articles of the type involved.
+20 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsObviousness;  lack of invention
+
+
+291Patents
+291VIIIDesign Patents
+291k2042Patentability and Validity
+291k2047Obviousness;  lack of invention
+(Formerly 291k28)
+
+
+To determine whether one of ordinary skill would have combined teachings of the prior art to create the same overall visual appearance as the claimed design in assessing a claim of obviousness, the finder of fact must employ a two-step process: first, one must find a single reference, a something in existence, the design characteristics of which are basically the same as the claimed design, and second, other references may be used to modify the primary reference to create a design that has the same overall visual appearance as the claimed design.
+18 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsObviousness;  lack of invention
+
+
+291Patents
+291VIIIDesign Patents
+291k2042Patentability and Validity
+291k2047Obviousness;  lack of invention
+(Formerly 291k28)
+
+
+In determining whether a design patent is invalid for obviousness, the teachings of prior art designs may be combined only when the designs are so related that the appearance of certain ornamental features in one design would suggest the application of those features to the other.
+13 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsDesign
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2092Design
+(Formerly 291k328(1))
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent D504,889, US Patent D593,087, US Patent D618,677. Cited.
+US Patent 7,469,381. Cited.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1316 Michael A. Jacobs, Morrison & Foerster LLP, of San Francisco, CA, argued for plaintiff-appellant. With him on the brief were Harold J. McElhinny, Grant L. Kim, Alison M. Tucher and Richard S.J. Hung; and Brian R. Matsui, of Washington DC.
+Kathleen M. Sullivan, Quinn Emanuel Urquhart & Sullivan, LLP, of San Francisco, CA, argued for defendants-appellees. With her on the brief were Charles K. Verhoeven, Kevin P.B. Johnson, Victoria F. Maroulis and Michael T. Zeller. Of counsel were Kevin Alexander Smith; and William B. Adams, of New York, NY.
+Before BRYSON, PROST, and O’MALLEY, Circuit Judges.
+Opinion
+Opinion for the court filed by Circuit Judge BRYSON. Concurring in part and dissenting in part opinion filed by Circuit Judge O’MALLEY.
+
+BRYSON, Circuit Judge.
+
+This is an appeal from the denial of a preliminary injunction. While the appeal presents substantial issues of law and fact, the decision whether to issue a preliminary injunction is one that is committed to the discretion of the district court, which makes the appellant’s task in overturning that decision a difficult one. With respect to three of the four patents at issue in this appeal, we conclude that the appellant has not satisfied its burden of demonstrating an abuse of discretion, and we therefore affirm the denial of preliminary injunctive relief. With respect to the fourth patent, we conclude that the district court committed legal error in one important respect, so we vacate that portion of the court’s order *1317 and remand for further proceedings in that part of the case.
+ 
+
+I
+A
+Apple, Inc., is the owner of several design and utility patents pertaining to smartphones and tablet computers. U.S. Design Patent Nos. D593,087 (“the D′ 087 patent”) and D618,677 (“the D′677 patent”) are directed to designs that Apple contends are generally embodied in the iPhone, Apple’s popular smartphone. Those patents issued on May 26, 2009, and June 29, 2010, respectively. Both patents claim a minimalist design for a rectangular smartphone consisting of a large rectangular display occupying most of the phone’s front face. The corners of the phone are rounded. Aside from a rectangular speaker slot above the display and a circular button below the display claimed in several figures of the patent, the design contains no ornamentation. The D′087 patent claims a bezel surrounding the perimeter of the phone’s front face and extending from the front of the phone partway down the phone’s side. The parts of the side beyond the bezel, as well as the phone’s back, are disclaimed, as indicated by the use of broken lines in the patent figures. The D′677 patent does not claim a bezel but instead shows a black, highly polished, reflective surface over the entire front face of the phone. The D′677 patent disclaims the sides and back of the device. Representative depictions of the designs claimed in the D′087 and D′677 patents are reproduced below:
+ 
+
+​
+
+(D′087 Patent, Fig. 1)
+
+​
+
+*1318 (D′677 Patent, Fig. 1)
+Apple also owns U.S. Design Patent No. D504,889 (“the D′889 patent”), which is directed to the design of a tablet computer. The patent depicts a rectangular tablet with a polished reflective surface extending to the edge of the front side of the device. Within that surface, broken lines delineate a slightly smaller rectangular display area. The front face of the patented design has rounded corners, and a thin bezel surrounds the front surface along its perimeter. The front surface has no ornamentation, buttons, speaker slots, holes, or raised surfaces. The back and sides of the design are also claimed; the figures depict a flat, unadorned back transitioning into the sides through a rounded-over edge. Apple claims that its iPad tablet computer embodies the design of the D′889 patent. A figure representing the claimed design shows the following:
+ 
+
+​
+
+(D′889 Patent, Fig. 1)
+Apple has also asserted U.S. Patent No. 7,469,381 (“the ′381 patent”), a utility patent that claims a software feature known as the “bounce-back” feature, which is found on Apple’s smartphones and tablets, such as the iPhone and the iPad. The bounce-back feature is activated when the user is scrolling through a document displayed on the device. If the user attempts to scroll past the end of the document, an area beyond the edge of the document is displayed to indicate that the user has reached the document’s end. Once the user input ceases (i.e., when the user lifts up the finger that is used for scrolling), the previously visible part of the document “bounces back” into view. Claim 1 of the patent recites:
+A computer-implemented method, comprising:
+at a device with a touch screen display:
+displaying a first portion of an electronic document;
+detecting a movement of an object on or near the touch screen display;
+in response to detecting the movement, translating the electronic document displayed on the touch screen display in a first direction to display a second portion of the electronic document, wherein the second portion is different from the first portion;
+in response to an edge of the electronic document being reached while translating the electronic document in the first direction while the object is still detected on or near the touch screen display:
+*1319 displaying an area beyond the edge of the document, and
+displaying a third portion of the electronic document, wherein the third portion is smaller than the first portion; and
+in response to detecting that the object is no longer on or near the touch screen display, translating the electronic document in a second direction until the area beyond the edge of the electronic document is no longer displayed to display a fourth portion of the electronic document, wherein the fourth portion is different from the first portion.
+ 
+
+B
+Apple filed suit against Samsung on April 15, 2011, alleging, inter alia, infringement of the D′677 and ′381 patents. Two months later, Apple amended its complaint and asserted that Samsung was also infringing the D′087 and D′ 889 patents. Specifically, Apple claimed that two of Samsung’s smartphones, the Galaxy S 4G and the Infuse 4G, which were released on February 23, 2011, and May 15, 2011, respectively, infringed the D′087 and the D′677 patents. Apple also alleged that Samsung’s Galaxy Tab 10.1 tablet, which was released in June 2011, infringed the D′889 patent, and that all three devices infringed the ′381 patent.1 On July 1, 2011, Apple moved for a preliminary injunction to block the importation into and sale within the United States of the accused Samsung devices.
+ 
+The district court denied Apple’s motion with respect to each of the accused devices and all four asserted patents. Apple, Inc. v. Samsung Elecs. Co., No. 11–cv–1846, 2011 WL 7036077 (N.D.Cal. Dec. 2, 2011). The court noted that four factors must be considered in addressing a motion for a preliminary injunction—whether the movant is likely to succeed on the merits; whether the movant is likely to suffer irreparable harm in the absence of an injunction; whether the balance of the equities favors the movant; and whether the public interest would be served by the grant of injunctive relief. As to the claims based on the D′087 and D′889 patents, the district court denied relief on the ground that Apple had failed to show a likelihood of success on the merits. As to the claims based on the D′677 and ′381 patents, the court denied relief on the ground that Apple had failed to show that it would likely suffer irreparable harm from Samsung’s continuing infringement while the case was pending before the district court.
+ 
+
+C
+The court first examined the D′087 patent and concluded that while the patented design did not cover functional features, substantial questions were raised about the patent’s validity, and therefore Apple had failed to show that it was likely to succeed on the merits. The court held that the patented design claimed only the front face of the smartphone and that the front view was likely anticipated by Japanese Patent No. 1,241,638 (“the ′638 patent”). The court found the D′087 design to be substantially similar to the ′638 patent because it has “similar edges and rounded corners, a bezel, a similarly shaped speaker, and similar proportions of screen and border.” The ′638 patent, the court found, “discloses an overall simple, minimalist design.” The court rejected Apple’s argument that the arched profile of the front of the ′ 638 design differed from the flat profile of the D′087 patent; in light of the fact that the sides and back of the phone were *1320 disclaimed in the D′087 patent, the court held that it was improper to consider anything other than the front views of the two designs. Given its finding that Apple failed to establish the first factor needed for a preliminary injunction, the court did not reach the other three preliminary injunction factors for the D′087 patent.
+ 
+
+D
+The court then addressed the D′677 patent. The court again looked to the ′ 638 patent as a primary reference but concluded that the ′638 design was sufficiently different from the D′677 patent that it would not have been obvious to a designer to adopt a “flat, black, translucent front screen.” The court therefore concluded that Samsung had not raised a substantial question regarding the validity of the D′677 patent. As to infringement, the court found that both the Galaxy S 4G and the Infuse 4G phones had an overall design that an ordinary observer would likely find substantially the same as the claimed D′677 design and that those phones were likely to infringe.
+ 
+Despite those findings, the district court denied Apple’s request for a preliminary injunction based on its conclusion that Apple had failed to show that it was likely to suffer irreparable harm from the importation and sale of Samsung’s infringing smartphones while the case was pending in the district court. Apple made two arguments in support of its claim of irreparable harm. First, it argued that Samsung’s sales eroded Apple’s design and brand distinctiveness, resulting in a loss of goodwill. Second, it argued that Samsung’s sales took sales away from Apple and resulted in Apple’s losing market share. Apple argued that those losses would be difficult to quantify and that monetary damages thus would not be adequate to compensate it for the injuries caused by Samsung’s infringement. The district court rejected both contentions.
+ 
+The court was unpersuaded by Apple’s first argument because “Apple has not articulated a theory as to how erosion of ‘design distinctiveness’ leads to irreparable harm in this case.” The court also rejected Apple’s related assertion that Samsung’s sales of infringing phones diluted Apple’s brand value, because “even assuming that brand dilution could arise from design patent infringement, Apple has not met its burden to provide evidence that such brand dilution is likely to occur in this case.” The court held that “[w]ithout more evidence ... Apple has not demonstrated that brand dilution is likely to occur.”
+ 
+With respect to the claim of market share loss, the court noted that Apple and Samsung were directly competing “for new consumers [who] are looking to make first-time smartphone purchases [and] thus the potential for harm from infringing conduct is strong.” The court added that the initial decision regarding which product to buy can have long-term effects on items such as downstream purchases.2 The court also observed that there may be “network compatibility” effects that stem from a particular purchasing decision: a purchaser of one phone system may be reluctant to switch to a competing phone for fear of incompatibility with previous digital purchases. The court concluded that the economic effect of such losses of customers and future downstream purchases would be difficult to calculate and could support a finding of irreparable harm.
+ 
+*1321 The district court nonetheless declined to issue an injunction with respect to the D′677 patent because it concluded that Apple had failed to establish a “nexus between Apple’s harm of lost customers and loss in market share and Samsung’s allegedly infringing conduct.” The court found that despite Apple’s evidence that “product design generally is at least one factor, and for some people may be the primary factor, influencing a person’s decision to purchase a smartphone,” other evidence indicated that the “driver in consumer demand may be the novelty of the product, and not necessarily the design,” and that “smartphone buyers are motivated to purchase products for a whole host of reasons.” That evidence included exhibits showing that only a small percentage of all smartphone purchasers bought the device because of its design. The court concluded that the evidence was “even more ambiguous in light of the fact that Apple’s patents do not claim the entire article of manufacture.” The court concluded that the absence of a nexus between the claimed design and the loss of market share, coupled with Apple’s delay in seeking an injunction, undercut Apple’s claim of irreparable harm.
+ 
+With respect to delay, the district court found that Apple’s failure to seek an injunction sooner and its failure to seek to enjoin two other allegedly infringing phones undercut Apple’s claim of urgency and favored Samsung in the irreparable harm calculus. The court noted that Apple had alleged in its complaint that Samsung had been copying its designs and trade dress since 2007; the court found that Apple’s failure to file suit until April 2011 and to seek an injunction until July 2011 undermined its claim of irreparable harm. The court rejected Apple’s argument that its delay should be excused on the ground that the parties were engaged in negotiations, because the negotiations only covered part of the period of delay. In light of the delay and the lack of nexus between the infringement and the loss of market share, the court concluded that “Apple has not met its burden of establishing that Samsung’s allegedly infringing products will likely cause Apple irreparable harm.”
+ 
+The court held that the balance of hardships favored Samsung. The court found that in light of the presence of other smartphone manufacturers in the market, it was unclear that an injunction against Samsung’s devices would significantly benefit Apple, even though it would substantially injure Samsung. Finally, the court found the public interest factor to be neutral. Based on its four factor analysis, the court refused to enjoin sales of the Galaxy S 4G and Infuse 4G smartphones.
+ 
+
+E
+The court conducted a similar irreparable harm analysis for the D′889 patent and the Samsung Galaxy Tab 10.1 tablet. With respect to the tablet patent and product, however, the court found that Apple had shown a likelihood of irreparable harm. The court reached that conclusion for several reasons. First, the tablet market appeared to be dominated by only two manufacturers, Apple and Samsung, who together controlled a substantial share of the market. The evidence suggested that Apple’s market share decreased in accordance with the increase in Samsung’s market share after the introduction of the Galaxy Tab. Second, the court concluded that design mattered more to consumers in tablets than in smartphones. Finally, the court found that delay was not an issue in the case of the request for preliminary relief against Samsung’s tablet.
+ 
+The court nonetheless concluded that a preliminary injunction should be denied because there were substantial questions about the validity of the D′889 patent, and *1322 therefore Apple was unable to show that it would likely succeed on the merits. Although the court found that the design claimed by the D′889 patents was not dictated by functionality, it concluded that Samsung had raised a substantial question about whether the patented design would have been obvious in light of a combination of several prior art references.
+ 
+At the outset of its obviousness analysis, the court characterized the visual impression of the patented design as a “broad, simple design that gives the overall visual impression of a rectangular shape with four evenly rounded corners, a flat glass-like surface without any ornamentation[,] a rim surrounding the front surface, ... [a] flat [back] panel that rounds up near the edges[, and an] overall design [that] creates a thin form factor.” According to the court, the design created basically the same visual impression as a prototype tablet developed in 1994 by Roger Fidler. Although the Fidler tablet lacked a “flat glass-like surface,” the court found that difference not to “detract from the fact that the ‘overall visual impression’ created by the D′889 patent is the same as the 1994 Fidler[ ] tablet.” Accordingly, the court used Fidler as a primary reference in its obviousness analysis. For the flat glass screen, the court turned to the 2002 Hewlett–Packard Compaq Tablet TC1000, which “contains a flat glass screen that covers the top surface of the tablet and a thin rim that surrounds the front face of the device.”
+ 
+The court found that the combination of Fidler and the TC1000 would likely render the D′889 patent obvious. The court rejected Apple’s secondary consideration evidence, including evidence of industry skepticism and the unexpected commercial success of the iPad, because the court found the evidence of skepticism to be inconclusive and the evidence of commercial success not to show “the requisite nexus between the patented design and the success of the iPad.” Accordingly, the court concluded that Apple’s secondary consideration evidence failed to overcome the substantial questions of invalidity and that Apple had not established that it is “likely to succeed at trial against Samsung’s challenge to the validity of the D′889 patent.”
+ 
+With respect to the issue of infringement, the court found that the design of the Galaxy Tab 10.1 would appear substantially the same as the D′889 patent in the eyes of an ordinary observer. Nonetheless, the court concluded that “because Samsung has raised a substantial question regarding the validity of the D′889 patent, Apple has not met its overall burden of establishing a likelihood of success on the merits.” The court thus denied Apple’s request for injunctive relief with respect to the D′889 patent.
+ 
+
+F
+The court next turned to the ′381 patent. Samsung claimed that the patent was anticipated by two prior art references, International Publication No. WO 03/081458 (“the Lira reference”) and the LaunchTile and XNAV computer programs. The court found that Apple’s patent was not anticipated by those references because in those devices the “bounce-back” feature was activated for only some user inputs, and it served principally as an alignment control technique to align the display window following user input. The court explained that the Lira reference did one of two things in response to a user’s scrolling past the document’s edge: “if the user has scrolled less than the threshold amount past the edge, the screen will snap back to the original column, but ... if the user has scrolled past this threshold amount, the screen will either stay put or snap to the next column, depending on the settings used.” The *1323 court found that functionality to differ from the functionality claimed in the ′381 patent, which contained “no second behavior when a user scrolls past a certain threshold; the screen will always snap back.” For similar reasons, the court found the LaunchTile/XNAV software to practice a function different from the function claimed in the ′381 patent.
+ 
+Because the court found that Apple had made a strong showing that Samsung was infringing the “bounceback” feature of the ′381 patent and that Samsung had not shown that there was a substantial question of validity as to that patent, the court held that Apple was likely to succeed on the merits of its ′381 patent claims at trial. Nonetheless, the court declined to issue a preliminary injunction based on the ′381 patent. The court concluded that Apple had failed to show a likelihood of irreparable harm as to those claims because it “failed to establish a relationship between any alleged loss of market share, customers, or goodwill, and the infringement of the ′381 patent.” Moreover, the court found that Apple’s history of licensing the ′381 patent weighed in favor of Samsung.
+ 
+Turning to the remaining factors, the court concluded that the balance of hardships favored Apple because “Apple’s interest in enforcing its patent rights is strong particularly because it has so far presented a strong case on the merits,” and that the public’s interest in the protection of patent rights favored Apple on the fourth factor. Given the lack of a showing of a likelihood of irreparable harm, however, the court declined to enjoin the accused products.
+ 
+
+II
+[1] [2] “A plaintiff seeking a preliminary injunction must establish that he is likely to succeed on the merits, that he is likely to suffer irreparable harm in the absence of preliminary relief, that the balance of equities tips in his favor, and that an injunction is in the public interest.” Winter v. Natural Res. Def. Council, Inc., 555 U.S. 7, 20, 129 S.Ct. 365, 172 L.Ed.2d 249 (2008). The decision to grant or deny a preliminary injunction lies within the sound discretion of the district court, and we will not reverse its judgment absent an abuse of that discretion. Titan Tire Corp. v. Case New Holland, Inc., 566 F.3d 1372, 1375 (Fed.Cir.2009).
+ 
+In its comprehensive opinion, the district court addressed a large number of legal and factual issues; we have no reason to disagree with the district court on many of those issues, on which the court applied the law correctly or made findings that are not subject to serious challenge, particularly in light of the exacting standard of review that applies to this appeal. We focus our discussion on those aspects of the district court’s decision that present close questions or as to which the court committed error that could affect the outcome of this appeal.
+ 
+
+The D′677 Patent
+The district court held that the design claimed in the D′677 patent was not anticipated or rendered obvious by the prior art. On appeal, Samsung has not made a persuasive case that the district court’s conclusion was incorrect. With respect to irreparable harm, however, the district court found that Apple had not shown that it was likely to suffer irreparable injury in the absence of an injunction. The court based its ruling mainly on Apple’s failure to show that there was a nexus between the likely infringement of the patented design and Apple’s claims of lost market share and brand dilution. On appeal, Apple challenges that ruling on two grounds. First, it contends that it need not show a nexus in order to establish irreparable injury. Second, it contends that even if consumer motives are relevant to the irreparable *1324 harm inquiry, the evidence shows that there was a nexus between the asserted infringement and the market injury to Apple.
+ 
+[3] We hold that the district court was correct to require a showing of some causal nexus between Samsung’s infringement and the alleged harm to Apple as part of the showing of irreparable harm. To show irreparable harm, it is necessary to show that the infringement caused harm in the first place. Sales lost to an infringing product cannot irreparably harm a patentee if consumers buy that product for reasons other than the patented feature. If the patented feature does not drive the demand for the product, sales would be lost even if the offending feature were absent from the accused product. Thus, a likelihood of irreparable harm cannot be shown if sales would be lost regardless of the infringing conduct. See Voda v. Cordis Corp., 536 F.3d 1311, 1329 (Fed.Cir.2008) (explaining that “the district court did not clearly err in finding that [the plaintiff] failed to show that [defendant’s] infringement caused him irreparable injury” (emphasis in original)); Procter & Gamble Co. v. Ultreo, Inc., 574 F.Supp.2d 339, 349 (S.D.N.Y.2008) (in trademark context, finding no “nexus between allegedly false advertising and lost sales” and concluding that “[s]uch a loss, absent a nexus or a logical connection to false advertising, is insufficient to demonstrate the irreparable harm required to issue a preliminary injunction”).
+ 
+In arguing that no nexus is required for a preliminary injunction to issue, Apple relies on our decision in i4i Limited Partnership v. Microsoft Corp., 598 F.3d 831 (Fed.Cir.2010), aff’d, ––– U.S. ––––, 131 S.Ct. 2238, 180 L.Ed.2d 131 (2011). That reliance is misplaced. It is true that in i4i, purchasers of the infringing Microsoft Word word-processing software were not motivated to buy it solely because of (or even partly because of) the inclusion of i4i’s patented custom XML editor. The editor, however, was sold as an add-on to Word, and Microsoft’s incorporation of that function into Word would have completely eradicated the market for the add-on. 598 F.3d at 839. The narrow injunction upheld by this court served only to protect the patented product from obsolescence by its inclusion within Word. Id. at 862. Here, in contrast, the district court found that the alleged acts of infringement do not threaten to have any such dramatic effects on the market generally or on Apple’s share of that market.
+ 
+[4] Apple contends that even if some showing of nexus is required between the infringing conduct and the alleged harm, it made such a showing. The district court, however, considered the evidence presented by both parties, including survey evidence, and found that while there was evidence that design had some effect on smartphone sales, there was considerable countervailing evidence indicating that it was not a determinative factor in consumer decisionmaking.3 Weighing the evidence, the district court concluded that it did not clearly show that Samsung’s allegedly infringing design was responsible for Apple’s lost sales; at most, it showed that the alleged infringement caused an insignificant amount of lost sales.
+ 
+A mere showing that Apple might lose some insubstantial market share as a result *1325 of Samsung’s infringement is not enough. As the Supreme Court has pointed out, a party seeking injunctive relief must make “a clear showing” that it is at risk of irreparable harm, Winter, 555 U.S. at 22, 129 S.Ct. 365, which entails showing “a likelihood of substantial and immediate irreparable injury,” O’Shea v. Littleton, 414 U.S. 488, 502, 94 S.Ct. 669, 38 L.Ed.2d 674 (1974). See Weinberger v. Romero–Barcelo, 456 U.S. 305, 311, 102 S.Ct. 1798, 72 L.Ed.2d 91 (1982) (holding that an injunction should not issue as a matter of course for irreparable harm that is “merely trifling”). Given our deferential standard of review, we are not prepared to overturn the district court’s finding that Apple failed to satisfy its burden of establishing the likelihood of irreparable harm.
+ 
+Apple argues that the district court erroneously ruled that erosion of a distinctive design could never serve as the basis for a finding of irreparable harm. The district court remarked that “if the introduction of a design-patent-infringing product were sufficient to establish the erosion of design ‘distinctiveness,’ and therefore irreparable harm, an injunction would presumably issue in every case in which a defendant introduced an infringing product into the market.” Contrary to Apple’s contention, however, that observation does not reflect a wholesale rejection of design dilution as a theory of irreparable harm, which we agree would have been improper. Instead, the district court went on to note that “Apple has not articulated a theory as to how erosion of ‘design distinctiveness’ leads to irreparable harm in this case,” and that Apple had offered only “conclusory statements and theoretical arguments” in support of its theory. Without “concrete evidence to support its argument,” the district court ruled, “Apple has not yet established that this harm to its reputation for innovation is likely to occur.” As to Apple’s “brand dilution” argument, the district court found that, even assuming “brand dilution” could arise from design patent infringement, “Apple has not demonstrated that brand dilution is likely to occur.” The district court’s opinion thus makes clear that it did not categorically reject Apple’s “design erosion” and “brand dilution” theories, but instead rejected those theories for lack of evidence at this stage of the proceedings.
+ 
+The district court based its finding as to irreparable harm in part on Apple’s delay in seeking preliminary injunctive relief against Samsung’s smartphones. Apple objects—and we agree—that the district court should not have faulted Apple for not filing suit as early as 2007, since Apple’s design patents had not issued as of that date. Nonetheless, it was reasonable for the district court to consider the issue of delay and to find that Apple had not proceeded as quickly as it could have in seeking preliminary injunctive relief.4 The district court correctly noted that delay in bringing an infringement action and seeking a preliminary injunction are factors that could suggest that the patentee is not irreparably harmed by the infringement. See Nutrition 21 v. United States, 930 F.2d 867, 872 (Fed.Cir.1991). While the district court rejected the “extreme” position that Apple’s failure to seek a preliminary injunction against Samsung’s first generation of infringing products precludes it from ever seeking preliminary injunctive relief, the court looked to Apple’s *1326 “overall diligence in seeking a preliminary injunction,” and concluded that, on balance, Apple’s “delay in diligently pursuing its infringement claim against Samsung tips in Samsung’s favor.” We decline Apple’s invitation to reject the district court’s “delay” analysis altogether, and based on the district court’s conclusions as to the nexus and delay factors, we uphold the court’s finding that Apple failed to show that it was likely to suffer irreparable harm in the absence of a preliminary injunction.
+ 
+
+The D′087 Patent
+[5] The district court concluded that the D′087 patent was likely anticipated by the Japanese ′638 patent and that Apple had therefore failed to establish a likelihood of success on the merits. The court based its ruling on its conclusion that “the front view of the D′087 patent appears to be substantially similar to the front view of the ′638 reference.” The court refused to consider any other views of the ′638 reference because it found that Apple “never claimed all views of the D′087 patent.” That finding was erroneous.
+ 
+The D′087 patent claims a partial view of the side of the smartphone. The bezel encircling the front face of the patented design extends from the front of the phone to its sides. It is also prominently displayed with solid lines in each figure of the D′087 patent that shows the profile of the device:
+ 
+
+​
+In that respect, the D′087 patent differs from the D′677 patent, which did not claim a bezel and did not claim any elements of the side view other than the flat front surface (i.e., the side view in the D′677 patent consisted entirely of broken lines). Therefore, the district court erred when it refused to consider the partial side view of the D′087 patent and the resultant flat contour of the front face that the patent disclosed.
+Based only on the front view of the patented design, the district court found that the ′638 reference raised substantial questions regarding the validity of the D′087 patent. Given our holding that the court misconstrued the full scope of the D′087 patent, that finding cannot stand. Samsung’s assertion—that even if the patent claims a portion of the side view, the district court “properly found no material differences between the designs”—finds no support in the record, as the court expressly refused to compare anything more than the front views of the patent in question and the prior art reference. When the claimed portion of the side view is taken into account, the differences between the arched, convex front of the ′638 reference distinguish it from the perfectly flat front face of the D′087 patent:
+ 
+
+​
+*1327 We therefore reject the district court’s ruling that the D′ 087 patent is likely anticipated by the ′638 reference.
+Notwithstanding our disagreement with the district court on the issue of validity, we uphold the court’s order denying relief on the D′087 patent. Because the irreparable harm analysis is identical for both smartphone design patents, and because we have affirmed the district court’s finding of no irreparable harm with respect to the D′677 patent, we cannot say that the court abused its discretion when it refused to enjoin Samsung smartphones for infringing the D′087 patent. Consequently, we affirm the court’s denial of a preliminary injunction based on the D′087 patent.
+ 
+
+The ′381 Patent
+[6] We also affirm the district court’s denial of an injunction based on the ′381 patent. The court denied the injunction on the ground that Apple failed to show that it would likely be irreparably harmed by the infringement because it failed to demonstrate that consumer purchasing decisions were based on the presence of the bounce-back feature. Apple again challenges this “consumer motive” requirement. As explained above, we conclude that the district court was correct to require a nexus between infringement of the patent and some market-based injury, be it as a result of consumer preference or some other kind of causal link. Absent such a showing, Apple cannot establish a likelihood of irreparable harm necessary for a preliminary injunction.
+ 
+Apple relies on evidence that Samsung employees themselves believed that Samsung needed the bounce-back feature to compete with Apple. According to Apple, that internal Samsung evidence is sufficient to establish the requisite nexus. While the evidence that Samsung’s employees believed it to be important to incorporate *1328 the patented feature into Samsung’s products is certainly relevant to the issue of nexus between the patent and market harm, it is not dispositive. That is because the relevant inquiry focuses on the objective reasons as to why the patentee lost sales, not on the infringer’s subjective beliefs as to why it gained them (or would be likely to gain them). In light of the deference to which its decision is entitled, we cannot say that the district court erred in refusing to enjoin Samsung’s infringement of the ′ 381 patent.
+ 
+
+The D′889 Patent
+In addressing the D′889 patent, the tablet computer design patent, the district court concluded that Apple had shown that it was likely to suffer irreparable harm from Samsung’s alleged infringement. However, the court denied injunctive relief because it found that Apple had failed to establish a likelihood of success on the merits. In particular, it found that Samsung had raised a substantial question as to the validity of the D′889 patent. We sustain the court’s finding of a likelihood of irreparable harm, but we hold that the court erred in its analysis of the validity issue.
+ 
+With respect to irreparable harm, the district court considered the relevant factors, properly weighed them, and concluded that Apple had shown that it was likely to suffer irreparable harm from the sales of Samsung’s infringing tablets. The factors included the relative market share of Apple and Samsung and the absence of other competitors in the relevant market. The court also determined, based on evidence submitted by the parties, that design mattered more to customers in making tablet purchases, which helped Apple establish the requisite nexus. The fact that Apple had claimed all views of the patented device and the fact that it was prompt in asserting its patent rights were also properly accorded weight by the court. Given our deferential standard of review, we cannot say that the court abused its discretion when it found that Apple demonstrated a likelihood of irreparable harm.
+ 
+[7] We disagree with the district court, however, in its conclusion that Apple had failed to show that it was likely to succeed on the merits. The district court concluded that the validity of the D′889 patent was subject to a substantial challenge based on two prior art references: the 1994 Fidler reference and the TC1000 tablet.
+ 
+
+​
+
+*1329 (1994 Fidler Tablet)
+
+​
+
+(Hewlett–Packard Compaq Tablet TC1000)
+[8] [9] In addressing a claim of obviousness in a design patent, “the ultimate inquiry ... is whether the claimed design would have been obvious to a designer of ordinary skill who designs articles of the type involved.” Titan Tire, 566 F.3d at 1375, quoting Durling v. Spectrum Furniture Co., 101 F.3d 100, 103 (Fed.Cir.1996). To determine whether “one of ordinary skill would have combined teachings of the prior art to create the same overall visual appearance as the claimed design,” id. at 1381, the finder of fact must employ a two-step process. First, “one must find a single reference, ‘a something in existence, the design characteristics of which are basically the same as the claimed design.’ ” Durling, 101 F.3d at 103, quoting In re Rosen, 673 F.2d 388, 391 (CCPA 1982). Second, “other references may be used to modify [the primary reference] to create a design that has the same overall visual appearance as the claimed design.” Id. However, the “secondary references may *1330 only be used to modify the primary reference if they are ‘so related to the primary reference that the appearance of certain ornamental features in one would suggest the application of those features to the other.’ ” Id., quoting In re Borden, 90 F.3d 1570, 1575 (Fed.Cir.1996).
+ 
+The district court began its obviousness analysis by finding that the Fidler reference “creates basically the same visual impression as the D′889 patent” because both are rectangular tablets with four evenly rounded corners and a flat reflective surface for the front screen surrounded by a rim on all four sides. The court characterized the back of the Fidler reference as being “essentially flat.” It then concluded that although the Fidler reference did not have a flat glass surface, that did not prevent it from creating the same overall visual impression as the D′889 design. The court looked to the TC1000 tablet to supply the missing flat glass screen and the thin rim that surrounds the front face of the device. The court also relied on the testimony of Samsung’s expert, who concluded that “a designer of ordinary skill ... would have found it obvious to create the D′889 tablet consisting of a rectangular design with four evenly rounded corners, a relatively thin depth, a smooth back that curves up ... and a flat, clear front surface that extended beyond the edges of the display.”
+ 
+We hold that the district court erred in finding that the Fidler tablet created the same visual impression as the D′889 patent. A side-by-side comparison of the two designs shows substantial differences in the overall visual appearance between the patented design and the Fidler reference:
+ 
+
+​
+First, the Fidler tablet is not symmetrical: The bottom edge is noticeably wider than the others. More importantly, the frame of the Fidler tablet creates a very different impression from the “unframed” D′889 design. In the Fidler tablet, the frame surrounding *1331 the screen contrasts sharply with the screen itself. The Fidler screen appears to sink into the frame, creating a “picture frame” effect and breaking the continuity between the frame and the screen embedded within it. The transparent glass-like front surface of the D′889 patent, however, covers essentially the entire front face of the patented design without any breaks or interruptions. As a result, the D′889 design creates the visual impression of an unbroken slab of glass extending from edge to edge on the front side of the tablet. The Fidler reference does not create such an impression.5
+There are other noticeable differences between the Fidler tablet and the D′ 889 patent that contribute to the distinct visual appearance of the two designs. Unlike the D′889 patent, the Fidler reference contains no thin bezel surrounding the edge of the front side. Additionally, one corner of the frame in the Fidler reference contains multiple perforations. Also in contrast to the D′889 patent, the sides of the Fidler reference are neither smooth nor symmetrical; it has two card-like projections extending out from its top edge and an indentation in one of its sides. And the back of the Fidler reference also conveys a visual impression different from that of the D′889 design.
+ 
+In design patent obviousness analysis, a primary reference must be “something in existence, the design characteristics of which are basically the same as the claimed design in order to support a holding of obviousness.” In re Rosen, 673 F.2d at 391 (concluding that two glass coffee tables were “significantly different in concept” because the primary reference “does not give the same visual impression of lightness and suspension in space conveyed by appellant’s table”). Based on the differences between the Fidler tablet and the D′889 design, we hold that the Fidler tablet does not give the same visual impression as the D′889 patent, and therefore the district court erred in looking to Fidler as the primary reference against the D′889 patent.
+ 
+[10] Even assuming that Fidler qualified as a primary reference, the TC1000 secondary reference could not bridge the gap between Fidler and the D′889 design. First, while the TC1000 has a flat glass front, the screen area of that device is surrounded by a gray area that frames the screen. In addition, the perimeter of the TC1000 is encircled by a wide rounded-over metallic rim. And the screen area contains indicator lights in several places, unlike the minimalist design claimed in the D′889 patent. “[T]he teachings of prior art designs may be combined only when the designs are ‘so related that the appearance of certain ornamental features in one [design] would suggest the application of those features to the other.’ ” In re Borden, 90 F.3d at 1575, quoting In re Glavas, 43 CCPA 797, 230 F.2d 447, 450 (1956). The TC1000 is so different in visual appearance from the Fidler reference that it does not qualify as a comparison reference under that standard. See In re Rosen, 673 F.2d at 391 (rejecting the primary reference where “modifications of [it] necessary to achieve [the patented] design would destroy the fundamental characteristics” of that reference).
+ 
+Samsung contends that the district court properly focused on overall visual appearance rather than on the “design concepts” highlighted by Apple. In our assessment, however, the district court’s error was to *1332 view the various designs from too high a level of abstraction. Fidler does not qualify as a primary reference simply by disclosing a rectangular tablet with four evenly rounded corners and a flat back. See Durling, 101 F.3d at 104 (“The error in the district court’s approach is that it construed [the] claimed design too broadly.”). Rather than looking to the “general concept” of a tablet, the district court should have focused on the distinctive “visual appearances” of the reference and the claimed design. Id. When those visual impressions are compared, it becomes apparent that the Fidler reference, with or without the TC1000, cannot serve to render the D′889 patent invalid for obviousness.
+ 
+In the alternative, Samsung urges us to consider several other tablet and tablet-like designs as suitable primary references. All of those references consist of rectangular designs with rounded corners dominated by a display area. But those designs all suffer from the same problems as the Fidler reference, because all of them show either a thick surrounding frame in which a display is embedded or contain extensive ornamentation on the front of the tablet. The offered designs do not create the same visual impression as Apple’s claimed design and thus do not qualify as primary references. In the absence of a qualifying primary reference, we hold that the district court erred in concluding that there is likely to be a substantial question as to the validity of the D′889 patent.6 See Durling, 101 F.3d at 105.
+ 
+Because the district court found that there is a substantial question as to the validity of the D′889 patent, it did not make any findings with regard to the remaining two questions bearing on whether to issue a preliminary injunction—the balance of hardships and the public interest. The court conducted a detailed assessment of the balance of hardships with respect to the D′677 and ′381 patents after finding that they were likely to survive a validity challenge. With respect to the D′889 patent, however, the district court has not determined the extent to which Samsung would be harmed if the sales of Galaxy Tab 10.1 were enjoined, and how the potential harm to Samsung resulting from entering an injunction compares to the potential harm to Apple should the district court deny interim relief. Nor has the district court evaluated the public interest at stake with respect to the sales of Samsung’s Galaxy Tab 10.1. Because the district court has not yet weighed the balance of hardships to the parties and the public interest factors, we do not have a sufficient basis for concluding that the failure to enter an injunction was an abuse of discretion. It is normally not appropriate for this court to make such highly factual inquiries for the first time on appeal. See eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388, 394, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006) (remanding for the district court to apply the preliminary injunction factors “in the first instance”); Acumed LLC v. Stryker Corp., 483 F.3d 800, 811 (Fed.Cir.2007) (“If we were to weigh the evidence ourselves to reach a conclusion on injunctive relief, we would effectively be exercising our own discretion as if we were the first-line court of equity. That role belongs exclusively to the district court. Our task is solely to review the district court’s decisions for an abuse of discretion.”); Jack Guttman, Inc. v. Kopykake Enters., Inc., 302 F.3d 1352, 1362–63 (Fed.Cir.2002) (Factual determinations in preliminary injunction cases, including the balancing of the four factors, “rest within *1333 the province of the trial court, not the appellate court.... Thus, the appropriate remedy is not to reverse with instructions to enter the injunction ... but rather to vacate the trial court’s previous order and remand for further proceedings in light of this opinion.”); Tex. Instruments Inc. v. Tessera, Inc., 231 F.3d 1325, 1329 (Fed.Cir.2000) (“This court prefers that a district court make findings regarding each of the four factors before granting or denying a preliminary injunction.”). That is particularly true for an order granting preliminary relief, as a district court order denying relief can be upheld based on negative findings on fewer than all of the four factors. See Reebok Int’l Ltd. v. J. Baker, Inc., 32 F.3d 1552, 1555–56 (Fed.Cir.1994).
+ 
+The dissent contends that remanding this case to the district court will necessarily result in unjustifiable delay. We see no reason to believe that there will necessarily be delay, or if there is delay that it will be unjustifiable. If the dissent is correct that the findings the district court made in the smartphone part of this case regarding the balance of hardships and the public interest are readily transferable to the tablet part of the case, the district court should be able to make that determination in short order, thus minimizing the amount of delay. On the other hand, if those findings are not readily transferable to the tablet part of the case, then that is exactly the situation in which we would benefit from findings by the district court and in which the district court’s greater familiarity with the record will be an important safeguard against precipitous action.
+ 
+Because we have found the district court’s reasons for denying an injunction on the D′889 patent to be erroneous, we remand the matter to the district court for further proceedings. On remand, the court should conduct a similar assessment of the balance of hardships with respect to the D′889 patent. To the extent that the court finds that the public interest factor cuts in favor of either side, it should weigh that factor as well in determining whether to issue a preliminary injunction against Samsung’s Galaxy Tab 10.1 tablet computer.
+ 
+In sum, we affirm the denial of a preliminary injunction with respect to the D′087, D′677, and ′381 patents. We vacate the order denying an injunction with respect to the D′889 patent and remand the case to the district court for further proceedings on that portion of Apple’s motion for preliminary relief.
+ 
+Each party shall bear its own costs for this appeal.
+ 
+AFFIRMED IN PART, VACATED IN PART, and REMANDED
+ 
+
+O’MALLEY, Circuit Judge, concurring-in-part, dissenting-in-part.
+
+I concur in the majority’s decision to affirm the denial of preliminary injunctive relief with respect to Apple’s two smartphone design patents and its utility patent. Although I might have weighted Apple’s evidence of irreparable harm regarding its smartphones differently had I been considering it in the first instance, I agree that we should defer to the district court’s findings on that issue. I also agree with the majority that the district court erred in its analysis of the validity of Apple’s tablet computer design patent—U.S. Design Patent No. D504,889 (“the D′889 Patent”). I disagree, however, with the majority’s decision to remand that portion of the case for further proceedings; on that point, I respectfully dissent.
+ 
+Specifically, as explained below, the majority’s decision to remand this matter for further proceedings relating to the D′889 Patent is unwarranted because: (1) remand will cause unnecessary delay, which is inconsistent with the very purpose of *1334 preliminary injunctive relief; and (2) once we reject its validity analysis, the district court’s decision, taken in its entirety, reveals that all of the prerequisites for preliminary injunctive relief are satisfied. Remand is particularly inappropriate where, as here, both this court and the district court agree that Apple will suffer irreparable harm absent injunctive relief. The majority’s decision to remand for further proceedings will only exacerbate that harm.
+ 
+Based on the record at this stage of the proceedings, the only remand appropriate in this case is for entry of a preliminary injunction with respect to the D′889 Patent and for consideration of an appropriate security bond. Accordingly, I dissent from the portion of the majority’s decision remanding the D′889 Patent for further proceedings.
+ 
+
+I. Preliminary Injunctions Are Designed to Provide Expedited Relief.
+Rule 65 of the Federal Rules of Civil Procedure governs the entry of a preliminary injunction. Under this Rule, district courts have discretion to provide expedited relief where certain criteria are satisfied. It is well-established that a preliminary injunction is an extraordinary remedy reserved only for those cases where it is clearly warranted. See Atari Games Corp. v. Nintendo of Am., Inc., 897 F.2d 1572, 1578 (Fed.Cir.1990) (“The granting of a preliminary injunction is an extraordinary remedy.”); see also Leary v. Daeschner, 228 F.3d 729, 739 (6th Cir.2000) (noting that a “preliminary injunction is an extraordinary remedy involving the exercise of a very far-reaching power, which is to be applied only in [the] limited circumstances which clearly demand it” (internal citation and quotation omitted)).
+ 
+Although it is a drastic remedy, preliminary injunctive relief exists for a reason: to provide “speedy relief from irreparable injury.” Ross–Whitney Corp. v. Smith Kline & French Labs., 207 F.2d 190, 198 (9th Cir.1953) (“one of the purposes of a preliminary injunction ... is to give speedy relief from irreparable injury”). Consistent with this purpose, “[p]reliminary injunctions are generally granted under the theory that there is an urgent need for speedy action to protect the plaintiffs’ rights.” Citibank, N.A. v. Citytrust, 756 F.2d 273, 276 (2d Cir.1985). Indeed, the text of Rule 65 explains that proceedings initiated under the Rule are to be expedited. Simply, a preliminary injunction is an important vehicle through which a court can prohibit a party’s alleged wrongful or illegal conduct prior to a final determination on the merits in order to prevent harm that cannot be compensated by monetary damages. See 13 James Wm. Moore, Moore’s Federal Practice § 65.02 [2] (3d ed. 2011) (“The purpose of injunctive relief is to prevent future harm.”).
+ 
+The majority’s decision today effectively eviscerates the purpose of Rule 65 by causing unwarranted delay and thus contributing to Apple’s irreparable harm. While we, of course, must be cautious about granting the extraordinary relief that a preliminary injunction represents, where, as here, the record fully supports such a remedy, we must not hesitate to do so. The availability of injunctive relief is particularly important in the patent context, where patent holders undoubtedly have the right to exclude others from using their intellectual property without permission. See 35 U.S.C. § 154(a)(1) (“Every patent shall contain ... a grant to the patentee ... of the right to exclude others from making, using, offering for sale, or selling the invention throughout the United States ...”). Indeed, courts have an obligation to grant injunctive relief to protect against theft of property—including intellectual property—where the moving *1335 party has demonstrated that all of the predicates for that relief exist. As discussed below, on this record, further delay is neither necessary nor appropriate.
+ 
+
+II. Injunctive Relief as to the D′889 Patent is Warranted on this Record.
+When ruling on a motion for a preliminary injunction, a district court must consider and analyze four factors: (1) whether the movant is likely to succeed on the merits; (2) whether the movant is likely to suffer irreparable harm in the absence of injunctive relief; (3) the balance of hardships; and (4) whether issuance of an injunction is in the public interest. Celsis In Vitro, Inc. v. CellzDirect, Inc., 664 F.3d 922, 926 (Fed.Cir.2012) (citing Abbott Labs. v. Sandoz, Inc., 544 F.3d 1341, 1344 (Fed.Cir.2008)). Where the movant carries its burden as to each of the four prerequisites, a preliminary injunction should issue. See AstraZeneca LP v. Apotex, Inc., 633 F.3d 1042, 1049 (Fed.Cir.2010).
+ 
+As the majority acknowledges, because the district court found a substantial question as to the validity of the D′889 patent, it did not make any findings with regard to the balance of hardships and the public interest. Given this apparent deficiency, the majority argues that remand is necessary because it generally is inappropriate for this court to conduct these factual inquiries for the first time on appeal. In support of this proposition, the majority relies on two cases—eBay Inc. v. MercExchange, LLC, 547 U.S. 388, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006) and Acumed LLC v. Stryker Corp., 483 F.3d 800 (Fed.Cir.2007)—both of which are factually distinguishable because the lower courts were applying something other than the traditional four-factor test for preliminary injunctive relief.
+ 
+For example, in eBay, the Supreme Court rejected this court’s “general rule ... that a permanent injunction will issue once infringement and validity have been adjudged” and remanded the case for the district court to apply the four-factor framework “in the first instance.” eBay, 547 U.S. at 393–94, 126 S.Ct. 1837.1 Likewise, in Acumed, we noted that the district court applied the pre-eBay presumption that, in patent cases, “an injunction will issue, once infringement and validity have been adjudged ... unless there are some exceptional circumstances that justify denying injunctive relief” and remanded the case for the district court to apply the four-factor test. Acumed, 483 F.3d at 811 (quotations and citation omitted). These cases support the proposition that remand is necessary where the district court applied the incorrect preliminary injunction framework and, consequently, the record was not developed as to each of the relevant factors. In those circumstances, the parties had no incentive to develop a proper record to which the correct framework could be applied, and the court had no reason to reflect its views on them.
+ 
+Unlike the lower courts in eBay and Acumed, here, the district court fully understood *1336 the proper four-factor framework and discussed its views of those factors repeatedly. While it did not expressly address the balance of hardships and public interest when discussing the D′889 Patent, the district court’s discussion of those factors elsewhere in its decision applies with equal force to the D′889 Patent. Those findings, when coupled with the district court’s conclusions that: (1) Apple is highly likely to establish infringement of the D′889 Patent at trial; and (2) Apple has a strong argument that it will suffer irreparable harm absent an injunction against the Galaxy Tab 10.1, warrant an order from this court directing entry of an injunction as to further sales of Samsung’s tablets. In other words, in this case, there is a complete record from which we can review the district court’s analysis as to each of the four factors, and that review leads to one firm conclusion—that an injunction as to the D′889 Patent should be entered, and should be entered now.2
+ 
+
+A. Likelihood of Success
+As to Apple’s likelihood of success on the merits, the district court found that Samsung raised a substantial question as to the validity of the D′ 889 Patent on obviousness grounds. For the reasons stated in the majority opinion, I agree that this finding was in error. Despite this error with respect to validity, the district court conducted an infringement analysis and found that Apple is likely to establish that the Galaxy Tab 10.1 is substantially similar to Apple’s D′889 Patent in the eyes of an ordinary observer. Specifically, the court compared the Galaxy Tab 10.1 to Apple’s iPad and iPad 2, and concluded that the Galaxy Tab is “virtually indistinguishable” from Apple’s iPad products. Apple, Inc. v. Samsung Elecs. Co., No. 11–cv–1846, 2011 WL 7036077, at *28, 2011 U.S. Dist. LEXIS 139049, at *90–91 (N.D.Cal. Dec. 2, 2011). Because Samsung created a device that is likely to deceive an ordinary observer making purchasing decisions, the district court expressed little doubt that Apple likely would succeed on its infringement claim.
+ 
+
+B. Irreparable Harm
+As to irreparable harm, the district court considered Samsung and Apple’s respective market shares and found that “there appear to be fewer players in the tablet market.” Apple, 2011 WL 7036077, at *29, 2011 U.S. Dist. LEXIS 139049, at *93–94. This factor is significant because, as the district court noted, we recently indicated that “the existence of a two-player market may well serve as a substantial ground for granting an injunction ... because it creates an inference that an infringing sale amounts to a lost sale for the patentee.” Robert Bosch LLC v. Pylon Mfg. Corp., 659 F.3d 1142, 1151 (Fed.Cir.2011) (emphasis in original). Indeed, the district court pointed to evidence that Apple’s tablet sales decreased while Samsung’s newly-introduced tablet gained market share. Thus, the court concluded that a sale to Samsung translates to a lost sale to Apple.
+ 
+The district court also found—and Samsung conceded—that there is a “high degree of brand loyalty to Apple, which discourages Apple purchasers from switching to other brands.” Apple, 2011 WL 7036077, at *20, 2011 U.S. Dist. LEXIS 139049, at *64. This high level of loyalty has serious implications for downstream *1337 purchases and “makes the initial decision regarding which product to purchase even more important because the potential customers that Apple loses to Samsung may have long-term effects that are difficult to calculate and may not be recaptured.” Id. As the district court correctly noted, Apple could lose sales of tag-along products including apps, other Apple devices, and future models of its products. Although the district court discussed downstream implications in the context of the smartphone patents, these concerns apply to all of Apple’s iconic products, including the iPad. Because the loss of customers and the loss of future downstream purchases are difficult to quantify, these considerations support a finding that monetary damages would be insufficient to compensate Apple.
+ 
+Continuing its irreparable harm analysis, the district court also found that “Apple has established that design is an important driver in demand for tablets.” Apple, 2011 WL 7036077, at *29, 2011 U.S. Dist. LEXIS 139049, at *94. Given the substantial similarities between the parties’ products, the court concluded that this evidence supports Apple’s argument that consumers are likely to be induced to purchase the Galaxy Tab 10.1 instead of the iPad.
+ 
+Based on these factors, the district court found that Apple established a strong likelihood of irreparable harm absent injunctive relief. I agree with the majority that the district court did not abuse its discretion in reaching this conclusion.3
+ 
+
+C. Balance of Hardships
+Although the district court did not address the balance of hardships and public interest in conjunction with the D′889 Patent, its discussion of those factors in relation to Apple’s other patents supports entry of an injunction as to Samsung’s tablet.4 Specifically, with respect to the smartphone patents, the district court found that the balance of hardships favored Samsung because: (1) the court considered infringement of the D′677 Patent to be a “close question”; and (2) it was not clear that an injunction against Samsung’s accused devices would prevent Apple from suffering irreparable harm. Apple, 2011 WL 7036077, at *23, 2011 U.S. Dist. LEXIS 139049, at *74. This indicates that where, as with the D′889 Patent, the issue of infringement is not close, and there is evidence of irreparable harm which would necessarily cease with an injunction, the district court would find the balance favors Apple.
+ 
+Likewise, as to Apple’s utility patent, the district court concluded that Apple was likely to withstand a validity challenge but that it offered no evidence of irreparable harm. Despite the lack of irreparable harm, the trial court still found that the balance of hardships factor would favor Apple because Apple had successfully shown that its patent was likely valid and infringed and, thus, had an interest in enforcing its patent. Again, this makes clear that where, as here, Apple has not only shown that its patent is likely valid and infringed, but has established likelihood of irreparable harm, the balance of *1338 hardships would surely weigh in Apple’s favor.
+ 
+Given our conclusion that the district court erred in finding a substantial question as to the validity of the D′889 Patent, we are left with evidence that the D′889 Patent is likely valid and infringed, and with clear evidence of irreparable harm. Drawing from the district court’s analysis with respect to Apple’s utility patent, the balance of hardships weighs in Apple’s favor because it has an interest in enforcing its patent rights. And, the district court’s conclusion that the Galaxy Tab 10.1 clearly infringes the D′889 Patent, coupled with some evidence that Samsung altered its design to make it look like Apple’s, further tips the balance of hardships against Samsung. See Sunburst Prods., Inc. v. Derrick Law Co., 922 F.2d 845, 1991 WL 1523, at *5, 1991 U.S.App. LEXIS 352, at *16–17 (9th Cir. Jan. 9, 1991) (noting that, “in issuing the injunction, the court held that Advance had intentionally copied the SHARK watch” and that, although there was no direct evidence of copying, “similarity can be probative of intentional copying” such that the court “did not abuse its discretion in making the inference and asking Advance to rebut it”). This is particularly true given evidence that Apple spent significant sums to develop and promote its iPad design, promotion activities which will continue to inure to Samsung’s benefit given the identity of the products.
+ 
+
+D. Public Interest
+With respect to the smartphone patents, because it found the question of infringement to be a close one, the district court found that the public’s interest in the protection of patent rights “is counterbalanced by Samsung’s continuing right to compete, which must be viewed as legitimate at this stage in the process.” Apple, 2011 WL 7036077, at *24, 2011 U.S. Dist. LEXIS 139049, at *76. Accordingly, the court held that the public interest did not weigh strongly in either party’s favor. In contrast, as to Apple’s utility patent—which the district court found likely valid and very likely infringed—the court concluded that the public interest favors Apple because the public has an interest in protecting patent rights. Applying those conclusions to the D′889 Patent is simple: where the infringement question is not close and likely validity has been shown, the public interest weighs in favor of the patent holder.
+ 
+As this court has recognized, “[a]lthough the public interest inquiry is not necessarily or always bound to the likelihood of success o[n] the merits, ... absent any other relevant concerns ... the public is best served by enforcing patents that are likely valid and infringed.” Abbott Labs. v. Andrx Pharm., Inc., 452 F.3d 1331, 1348 (Fed.Cir.2006). So too here, because the record at this stage shows that the D′889 Patent is likely valid and infringed, and there are no other relevant concerns, the public interest is best served by granting a preliminary injunction.
+ 
+
+III. Conclusion
+For the foregoing reasons, although I agree with the majority as to resolution of Apple’s appeal from the district court’s refusal to enter an injunction relating to Apple’s smartphone patents and utility patent, I would remand for entry of a preliminary injunction with respect to the D′889 Patent. Given the record in this case, when balancing which of the two parties should be left with the prospect of only receiving money damages (however insufficient such damages might be)—the patent holder or the alleged infringer—it is clear that the answer should be Samsung.
+ 
+Under this approach, Samsung would, of course, be protected by the entry of a substantial bond. Indeed, Rule 65(c) provides *1339 that a court can issue a preliminary injunction “only if the movant gives security in an amount that the court considers proper to pay the costs and damages sustained by any party found to have been wrongfully enjoined or restrained.” This bond requirement is designed to protect the enjoined party’s interests in the event that future proceedings show the injunction issued wrongfully. See Edgar v. MITE Corp., 457 U.S. 624, 649, 102 S.Ct. 2629, 73 L.Ed.2d 269 (1982) (Stevens, J., concurring) (“Since a preliminary injunction may be granted on a mere probability of success on the merits, generally the moving party must demonstrate confidence in his legal position by posting bond in an amount sufficient to protect his adversary from loss in the event that future proceedings prove that the injunction issued wrongfully.”); see also Piambino v. Bailey, 757 F.2d 1112, 1143 (11th Cir.1985) (noting that “Rule 65(c)’s bond requirement ... was intended by Congress to protect enjoined parties from the losses that result from improvidently granted injunctions” (citation omitted)). Because the district court has broad discretion to determine the amount of the bond, I would remand for the district court to consider an appropriate amount to protect Samsung’s interests, but order entry of an injunction without any further proceedings. See Gateway E. Ry. Co. v. Terminal R.R. Ass’n, 35 F.3d 1134, 1141 (7th Cir.1994) (stating that Rule 65(c) “makes security mandatory ... but also anticipates the exercise of discretion in determining the amount of the bond to be posted” (citations omitted)).
+ 
+Because the majority’s decision to remand the D′889 Patent for further proceedings will cause unnecessary delay and will only contribute to the irreparable harm that both the district court and this court agree Apple will suffer absent injunctive relief, I dissent from that portion of the opinion.
+ 
+All Citations
+678 F.3d 1314, 102 U.S.P.Q.2d 1633
+Footnotes
+
+1
+
+Apple sought to enjoin the sales of a fourth device, the Droid Charge, for infringing the ′381 patent. The issues as to that device are the same as for the other accused smartphones, so we do not address that device separately.
+
+2
+
+Those downstream purchases include not only sales of later versions of the smartphones, but also products and accessories associated with the devices, such as digital media and software applications designed to be downloaded to a smartphone or tablet.
+
+3
+
+We do not hold that customer survey evidence or other proof of what Apple calls “consumer motivation” is a prerequisite to a finding of irreparable harm in every design patent case. On the record before us, however, we conclude that the district court did not abuse its discretion in concluding that Apple failed to submit sufficient evidence of the very harm it claimed—lost sales (both immediate and downstream) attributable to Samsung’s sale of allegedly infringing phones.
+
+4
+
+Although Samsung did not release the Galaxy S 4G and Infuse 4G smartphones until early 2011, it had previously released the similar Galaxy Vibrant and Galaxy i9000, which Apple alleges infringed the D′087 and D′ 677 patents. It was reasonable for the district court to place weight on Apple’s delay in seeking preliminary injunctive relief until after Samsung’s release of the later versions of those phones.
+
+5
+
+By its use of oblique lines, the D′889 patent indicates that the front surface of the device is reflective and glass-like. See Manual of Patent Examining Procedure § 1503.02 (8th ed. 2006) (“Oblique line shading must be used to show transparent, translucent and highly polished or reflective surfaces....”).
+
+6
+
+Our holding that the alternative prior art references do not invalidate the D′889 patent is limited to our evaluation of the record at this preliminary stage of the litigation.
+
+1
+
+The Supreme Court in eBay separately rejected the district court’s approach, which “appeared to adopt certain expansive principles suggesting that injunctive relief could not issue in a broad swath of cases.” 547 U.S. at 393, 126 S.Ct. 1837 (emphasis added). For example, the district court concluded that a “plaintiff’s willingness to license its patents and its lack of commercial activity in practicing the patents would be sufficient to establish that the patent holder would not suffer irreparable harm if an injunction did not issue.” Id. (internal citations and quotations omitted). The Supreme Court found that “traditional equitable principles do not permit such broad classifications” and that the district court’s categorical rule “cannot be squared with the principles of equity adopted by Congress.” Id.
+
+2
+
+Although district court judges are given discretion in determining whether to grant injunctive relief—and they certainly prefer that we defer to their discretion in appropriate circumstances—district judges do not prefer remands that unnecessarily multiply the proceedings. This is especially true where, as here, the record is sufficient to inform us as to how the district court would exercise its discretion given the current state of the law.
+
+3
+
+As the district court and the majority agree, delay was not an issue with respect to the D′889 Patent. Indeed, the Galaxy Tab 10.1 was released in June 2011, less than one month before Apple filed its motion for a preliminary injunction.
+
+4
+
+It is unwise for a district court to render a decision on a motion for preliminary injunction before completing its assessment of each of the four relevant factors. Indeed, this case evidences how a failure to undertake this basic and important exercise can itself cause unwarranted delay in the proceedings and harm to one or more of the parties.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (3)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  Broadcom Corp. v. Emulex Corp. 
+732 F.3d 1325 , Fed.Cir.(Cal.)
+PATENTS - Computers and Electronics. District court did not abuse its discretion in issuing permanent injunction with 18 month sunset period.
+Oct. 07, 2013
+Case
+
+1
+
+
+
+
+3
+
+
+
+
+6
+
+
+
+
+F.3d
+
+Distinguished by
+2.  MRC Innovations, Inc. v. Hunter Mfg., LLP  
+747 F.3d 1326 , Fed.Cir.(Ohio)
+PATENTS - Consumer Goods. Design patent for football jersey for dogs was invalid for obviousness.
+Apr. 02, 2014
+Case
+
+8
+
+
+
+
+9
+
+
+
+
+10
+
+
+
+
+F.3d
+
+Distinguished by
+3.  Ultratec, Inc. v. Sorenson Communications, Inc. 
+2014 WL 4829173 , W.D.Wis.
+This civil action involving claims of patent infringement and counterclaims of invalidity is scheduled for trial beginning on October 14, 2014. This order addresses defendants’...
+Sep. 29, 2014
+Case
+
+3
+
+
+
+
+F.3d
+
+

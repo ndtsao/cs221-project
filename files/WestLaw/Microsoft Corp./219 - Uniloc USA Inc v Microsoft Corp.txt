@@ -1,0 +1,314 @@
+
+
+ 
+
+
+Uniloc USA, Inc. v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | August 7, 2008 | 290 Fed.Appx. 337 | 2008 WL 3539749
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+standard Citation:
+
+Uniloc USA, Inc. v. Microsoft Corp., 290 F. App’x 337 (Fed. Cir. 2008)
+
+All Citations:
+
+290 Fed.Appx. 337, 2008 WL 3539749
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Rhode Island
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+290 Fed.Appx. 337
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+UNILOC USA, INC. and Uniloc Singapore Private Limited, Plaintiffs–Appellants,
+v.
+MICROSOFT CORPORATION, Defendant–Appellee.
+No. 2008–1121.
+|
+Aug. 7, 2008.
+|
+Rehearing Denied Sept. 25, 2008.
+Synopsis
+Background: Exclusive licensee and owner of patent brought action for infringement of patent providing a system for software registration directed towards reducing the unauthorized use of software. The United States District Court for the District of Rhode Island, William E. Smith, J., 447 F.Supp.2d 177, denied plaintiffs’ motion for recusal, and granted summary judgment of noninfringement. Plaintiffs appealed.
+ 
+Holdings: The Court of Appeals, Moore, Circuit Judge, held that:
+ 
+[1] District Court was within its discretion in denying plaintiffs’ motion for recusal;
+ 
+[2] existence of genuine issue of material fact precluded summary judgment of noninfringement; and
+ 
+[3] term “licensee unique ID” did not require personal information about the user.
+ 
+Affirmed in part, reversed in part, and remanded.
+ 
+Michel, Chief Judge, filed opinion dissenting in part.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+JudgesBias and Prejudice
+
+
+227Judges
+227IVDisqualification to Act
+227k49Bias and Prejudice
+227k49(1)In general
+
+
+District Court was within its discretion in denying exclusive licensee and patent owner’s motion for recusal, in patent infringement action, although reasonable minds could differ over propriety of trial judge’s hiring intern to work on the case given his financial ties to alleged infringer, where intern’s connections to alleged infringer did not create a conflict of interest under the Code of Conduct for Judicial Employees, and an objective, knowledgeable member of the public would not find reasonable basis in doubting judge’s impartiality given that the intern had no financial stake in the outcome of the case. 28 U.S.C.A. § 455(a).
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsIn general;  products and devices
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1935Particular Cases
+291k1935(1)In general;  products and devices
+(Formerly 291k323.2(3))
+
+
+Genuine issue of material fact existed as to whether alleged infringer’s system lacked a remote licensee unique ID generating means that included same algorithm used in patent providing a system for software registration directed towards reducing the unauthorized use of software, precluding summary judgment of noninfringement in patent infringement action.
+3 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+(Formerly 291k101(4))
+
+
+Term “licensee unique ID,” contained in patent providing a system for software registration directed towards reducing the unauthorized use of software, did not require personal information about the user, although preferred embodiments in the patent contemplated a licensee unique ID being generated from personally identifiable information, where there was no support in claims, specification, or prosecution history for requiring that licensee unique ID must be generated from at least one item of personally identifiable information.
+4 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  products and devices
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1935Particular Cases
+291k1935(1)In general;  products and devices
+(Formerly 291k323.2(3))
+
+
+Genuine issue of material fact existed as to whether alleged infringer’s system input non-platform-related information unique to a user to generate what might qualify as a “licensee unique ID,” within meaning of claims of patent providing a system for software registration directed towards reducing the unauthorized use of software, precluding summary judgment of noninfringement in patent infringement action.
+3 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 4,688,169, US Patent 4,796,220, US Patent 5,490,216. Cited.
+Cases that cite this headnote
+
+
+
+*338 Appeal from the United States District Court for the District of Rhode Island in case no. 03–CV–440, William E. Smith, Judge.
+Attorneys and Law Firms
+Paul J. Hayes, Mintz, Levin, Cohn, Ferris, Glovsky and Popeo, P.C., of Boston, Massachusetts, argued for plaintiffs-appellants. With him on the brief was Dean G. Bostock.
+Frank E. Scherkenbach, Fish & Richardson P.C., of Boston, Massachusetts, argued for defendant-appellee. With him on the brief were Kurt L. Glitzenstein, of Boston, Massachusetts, and Richard J. Anderson, of Minneapolis, Minnesota. Of counsel on the brief was Isabella Fu, Microsoft Corporation, of Redmond, Washington.
+*339 Before MICHEL, Chief Judge, LINN and MOORE, Circuit Judges.
+Opinion
+MOORE, Circuit Judge.
+
+**1 Plaintiff-appellants Uniloc USA, Inc. and Uniloc Singapore Private Limited (collectively, Uniloc), the exclusive licensee and owner respectively of U.S. Patent No. 5,490,216 (the ′216 patent), base their appeal on two grounds. Uniloc appeals the denial of their motion to recuse the district court judge on the basis that an intern he had hired to assist with the case allegedly had ties to Microsoft that would cause a reasonable person to question the judge’s impartiality. Uniloc also appeals the summary judgment of noninfringment entered in favor of defendant-appellee Microsoft by the United States District Court for the District of Rhode Island. We affirm the district court’s denial of Uniloc’s motion for recusal as Uniloc has failed to establish how the denial was an abuse of discretion, but reverse and remand the district court’s grant of summary judgment as Uniloc has pointed to evidence submitted below that would create a genuine issue of material fact.
+ 
+
+BACKGROUND
+The ′216 patent is directed to a software registration system wherein a particular piece of software may run on a platform in use mode if and only if a specified licensing procedure has taken place. See ′216 patent Abstract. Uniloc sued Microsoft, alleging that Microsoft’s Product Activation system, an anti-piracy registration system used to reduce unlicensed use of its software products, infringed sixteen claims of the ′216 patent under eight different infringement theories over twenty-four different disputed claim terms. See generally Uniloc USA, Inc. v. Microsoft Corp., 447 F.Supp.2d 177 (D.R.I.2006).
+ 
+After having construed all disputed claim terms, the district judge indicated that he was inclined to appoint an independent expert or special master to assist in deciding the motions given the complicated subject matter of this dispute. Ultimately, the district court hired an evening law student who was finishing his Ph.D. in computer science as an unpaid judicial intern to work on the case. Uniloc objected to the intern’s involvement with the case, alleging that the intern had numerous ties to Microsoft. At a hearing to address Uniloc’s objections, the judge informed Uniloc that it had no “veto power” over his hiring of chambers staff and that Uniloc’s only recourse was to move for recusal of the judge himself. Uniloc filed a motion for recusal of the judge, which was denied.
+ 
+On the merits of Uniloc’s claims for infringement, the district court granted summary judgment of noninfringement concluding that Product Activation did not infringe any of the independent claims of the ′216 patent. The district court concluded that the ′216 patent claims at issue required the same algorithm on both the client and server side to generate licensee unique IDs. If these licensee unique IDs match, the registration authority validates the registration and the intending licensee is then able to use the software. After determining that Uniloc had failed to offer proof that Microsoft’s Product Activation software employed the same algorithm on both the client and server side to generate licensee unique IDs that could then be compared to determine authorization, the district court granted summary judgment of noninfringement. Subsequently, the district court granted the parties’ subsequent joint motion to dismiss all remaining claims and counterclaims without prejudice.
+ 
+**2 Uniloc timely filed their appeal. We have jurisdiction over this appeal pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+*340 DISCUSSION
+I. Denial of Motion for Recusal
+[1] We start by examining the district court’s denial of Uniloc’s motion for recusal. As it does not involve issues unique to our exclusive subject matter jurisdiction, we follow regional circuit law in reviewing a denial of a motion for recusal. 28 U.S.C. § 455(a) provides that “[a]ny justice, judge, or magistrate judge of the United States shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.” The key to the analysis is perception, not reality; a judge may be required to be recused, even in the absence of an actual bias. See Liteky v. United States, 510 U.S. 540, 548, 114 S.Ct. 1147, 127 L.Ed.2d 474 (1994). Despite the statute’s catch-all nature, the First Circuit has held that a judge is required to step down “only if the charge against her is supported by a factual foundation and ‘the facts provide what an objective, knowledgeable member of the public would find to be a reasonable basis for doubting the judge’s impartiality.’ ” In re United States, 158 F.3d 26, 30 (1st Cir.1998) (quoting In re United States, 666 F.2d 690, 695 (1st Cir.1981) (emphasis in original)). And, since in many cases reasonable deciders may disagree, the district judge is allowed a range of discretion. As a reviewing court, therefore, we do not ask whether we would have decided as the trial court did, but only whether the trial court’s decision can be defended as a rational conclusion supported by a reasonable reading of the record. In re United States, 666 F.2d at 695.
+ 
+Uniloc contends that the district judge should have recused himself because the intern he hired to assist with this case possessed “financial and contractual relationships” with Microsoft. These connections, as characterized by the district court, include: 1) the receipt of royalty payments by Microsoft Press pursuant to publishing contracts for four programming guides co-authored by the intern and published 9–11 years ago; 2) the assignment of copyrights for his books to Microsoft; 3) a generic expression of thanks to certain Microsoft and Microsoft Press employees in his books; 4) an expression of admiration for Microsoft products in articles written and published by him in Microsoft journals; and 5) indirect financing for his graduate studies from a Microsoft research grant scheduled to expire before the start of his summer internship with the district court.
+ 
+Although reasonable minds could very well differ over the propriety of hiring this intern to work on the case given his financial ties, no matter how small the monetary amount, to one of the parties involved, the district court did not abuse its discretion in denying the motion for recusal. Uniloc emphasized below in their recusal brief that they were not questioning the impartiality of the judge himself. Rather, Uniloc argues that it was the intern’s connections with Microsoft that objectively created an appearance of partiality. As the district court’s thorough analysis indicates, its conclusion to the contrary is rationally based on a reasonable reading of the record. The intern’s connections to Microsoft do not create a conflict of interest under the Code of Conduct for Judicial Employees. The intern has never worked for Microsoft himself, and none of his publications related to Microsoft’s Product Activation technology such that he might have personal knowledge of disputed evidentiary facts in this case. Additionally, the district court concluded that an objective, knowledgeable member of the public would not find reasonable basis in doubting the judge’s impartiality given that the intern had no financial stake in the outcome of the case. Further, the district *341 court found that the outcome of the case would not affect the intern’s royalty payments or the research funding that had been distributed completely before the intern started his internship with the district court. Finally, we cannot ignore that it was the district judge, not the intern, who was the ultimate decision maker in this case. Although law clerks have been said to be capable of exerting substantial influence over the judges for whom they work, cf. In re Allied–Signal, Inc., 891 F.2d 967, 970 (1st Cir.1989), the same cannot necessarily be said of interns. In this case, the district judge explicitly made that point in noting the limited and indirect role that the intern would play in the court’s decision-making in this case. See Uniloc USA, Inc. v. Microsoft Corp., 492 F.Supp.2d 47, 59–60 (D.R.I.2007). Under these circumstances, we cannot conclude that the district court abused its discretion in finding that no reasonable member of the public could question his impartiality.
+ 
+**3 Uniloc also argues that the district court committed legal error by requiring Uniloc to treat the intern and judge as one by filing a motion for recusal of the judge, and by applying an incorrect conflict of interest standard under § 455. We do not agree. The district court made clear that it was not predicating its denial of Uniloc’s motion on whether the intern had a conflict of interest. Rather, the district court was analyzing whether a conflict of interest existed such that an objective, knowledgeable member of the public would have reasonable basis to doubt the judge’s impartiality. We thus conclude that Uniloc has failed to establish that the district court abused its discretion by denying the motion for recusal.
+ 
+
+II. Summary Judgment of Noninfringement
+[2] We review a district court’s grant of summary judgment without deference, viewing the evidence in the light most favorable to the nonmovant and resolving all doubts in favor of that party. See Bus. Objects, S.A. v. Microstrategy, Inc., 393 F.3d 1366, 1371–72 (Fed.Cir.2005).
+ 
+On summary judgment, the district court determined that none of independent claims 1, 12, 17, 19, or 20 were infringed. Uniloc limits its appeal to claims 12 and 19, contending that the district court erred in concluding that Microsoft’s Product Activation system lacked a remote licensee unique ID generating means that includes “the identical algorithm used by the local licensee unique ID generating means to produce the [remote] licensee unique ID,” or what Microsoft called the “same algorithm” requirement. Uniloc is correct. The district court erred by concluding that:
+Once again Uniloc misses the point: the ′216 Patent calls for the same algorithm to be used on both sides as the generating means of matching licensee unique IDs. That is simply not the case in Microsoft’s system; its values that might qualify as licensee unique IDs are produced by different algorithms, using different inputs, and hence the resulting licensee unique IDs do not match.
+Uniloc USA, Inc. v. Microsoft Corp., C.A. No. 03–440 S, slip op. at 24 (D.R.I. Oct. 19, 2007) (emphasis in original).
+ 
+Microsoft itself conceded at oral argument that the district court erred in failing to note that Uniloc had indeed pointed to statements from Microsoft’s affiants that the same hashing algorithm was, in fact, used both locally and remotely. Oral Arg. at 19:29–31, available at http://oralarguments.cafc. uscourts.gov/mp3/2008–1121.mp3 (“The district court did make that small error.”). As pointed out in Uniloc’s summary judgment opposition brief and summary judgment hearing arguments, *342 Microsoft’s affiants confirmed that the same hashing algorithms are used on both the client and server side of the Product Activation system. See Joint App’x at 1188; 1203. Microsoft also asserted in its statement of undisputed facts that the hashing algorithms in question are used to hash license data, which is created from a combination of the Hardware ID and the Product ID, which is in turn created from the Product Key. Moreover, Uniloc presented evidence that these hash algorithms are used to produce matching license digests based upon the testimony of both its expert and Microsoft’s affiants.1 Given the presence of this evidence, which was extensive and by no means conclusory, summary judgment of noninfringement was improper.
+ 
+
+III. Other Theories of Noninfringement
+**4 [3] On appeal, Microsoft presents several alternative grounds for affirming the summary judgment beyond those which were reached by the district court. We have considered these arguments and conclude they are without merit. For example, Microsoft argues that the district court erred in construing the term “licensee unique ID,” contained in all of the claims of the ′216 patent,2 as “[a] unique identifier associated with a licensee.” Uniloc USA, Inc. v. Microsoft Corp., 447 F.Supp.2d 177, 189 (D.R.I.2006). We review the district court’s claim construction de novo. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc ).
+ 
+Microsoft argues the “licensee unique ID” should be “based on information personal to the user, with the proviso that information personal to the user is distinct from information about the computer hardware.” Appellee Br. at 45. Microsoft would require the licensee unique ID to contain personally identifiable information, such as credit card numbers, names, and addresses. Further, Microsoft argues, the licensee unique ID is not to be based on any vendor-provided information, such as the Product Key, because Uniloc disclaimed during prosecution the use of any such information to generate the licensee unique ID. Thus, Microsoft argues that summary judgment of noninfringement was proper because Product Activation does not rely on such personally identifying inputs to compose its registration key.
+ 
+We agree with the district court that the licensee unique ID does not require personal information about the user. While it is true that the preferred embodiments in the ′216 patent contemplate a licensee unique ID being generated from personally identifiable information, there is no support in the claims, the specification, or the prosecution history for requiring that the licensee unique ID must be generated from at least one item of personally identifiable information. The specification, of course, makes ample reference to the licensee unique ID being generated from information unique to the user.3 But this *343 unique user information is not limited to personally identifiable information, such as credit card numbers, addresses, or names. Construing “licensee unique ID” otherwise would improperly import limitations from the preferred embodiments. See Phillips v. AWH Corp., 415 F.3d 1303, 1313 (Fed.Cir.2005) (“[A]lthough the specification often describes very specific embodiments of the invention, we have repeatedly warned against confining the claims to those embodiments.”); Liebel–Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 906 (Fed.Cir.2004) (noting that it is inappropriate to import limitations from the specification to limit facially broad claims “unless the patentee has demonstrated a clear intention to limit the claim scope using ‘words or expressions of manifest exclusion or restriction’ ”) (citations omitted).
+ 
+Indeed, some of these very same embodiments countenance the licensee unique ID being generated from inputs other than personally identifiable information, so long as the input value is unique and non-platform-related. For example, the first preferred embodiment generally states that the disclosed invention provides for a “registration number which can be ‘unique’ if the information provided by the intending licensee upon which the algorithm relies when executed upon the platform is itself ‘unique.’ ” ′216 patent col.6 ll.18–22. This sweeping statement about the type of unique input for generating licensee unique IDs, as distinguished from platform-related values like serial numbers, see ′216 patent col.6 ll.23–66 (describing the inclusion of serial numbers in the registration number generation algorithm that introduces an additional level of uniqueness in the calculation of the registration number), in no way restricts the input to personally identifiable information. Though the embodiment does list details like name, company, address, state, or contact number to describe the type of input of details unique to a prospective user, this list is prefaced with the phrase, “for example,” leaving room for other types of inputs. ′216 patent col.7 ll.9–10. While a name, address, or contact number may be considered “personal information,” details like the user’s company or state are more remote. If the name of the licensee’s company or their state is sufficient, nothing in the specification or prosecution history would exclude other indicia, such as the name of a club or church to which the licensee belongs or an identifier provided to the licensee by a vendor. As another example, the second embodiment describes a “key file” as simply containing information comprising “user registration details” along with platform-related details. ′216 patent col.8 ll.59–65. Nowhere does the embodiment constrain “user registration details” to personally identifiable information.4
+ 
+**5 Microsoft is, however, correct that the licensee unique ID cannot be based solely on platform-related user information. The specification distinguishes the disclosed invention from U.S. Patent No. 4,796,220 (the ′ 220 patent) stating: “U.S. Pat. No. 4,796,220 does not contemplate or disclose utilization of information which is unique to the user or intended licensee as part of the registration process which is to be distinguished from identification of the platform upon which the software is proposed to be run.” ′216 patent col.1 ll.60–65.
+ 
+The specification distinguishes U.S. Patent No. 4,688,169 (the ′169 patent) from the disclosed invention in the same manner “in that it discloses a computer software security system which relies for its security *344 on a ‘machine identification code unique to the machine’ upon which the software to be protected is to be run. Again, the disclosure is limited to identification of the platform and there is no suggestion or contemplation of linking platform identification with unique user identification.” ′216 patent col.2 ll.5–7. This, too, is an emphasis on a distinction between platform-related unique inputs and non-platform-related unique inputs. These statements clearly and unmistakably disavow the use of hardware information alone to supply the licensee unique ID. They nonetheless leave open the possibility that vendor-provided information, like Microsoft’s Product Key, could be the basis for a “licensee unique ID.” We do not read these distinctions as requiring that this information be uniquely about the user instead of just unique to the user.
+ 
+[4] The district court correctly construed the “licensee unique ID” as a unique identifier associated with a licensee that can be, but is not limited to, personally identifiable information about the licensee or user. This definition of the non-platform-related unique user information needed to generate the licensee unique ID could encompass vendor-supplied information.5 Uniloc has raised a genuine issue of material fact as to infringement given that it proffered evidence that Microsoft’s Product Activation system inputs non-platform-related information unique to a user, such as the Product Key, to generate what might qualify as a licensee unique ID, the hash value. Uniloc has pointed to statements made in Microsoft’s own documents describing the Product ID generated from the Product Key as “a way to help Microsoft identify its customers.” Uniloc also identified statements describing the resulting hash value as a “fingerprint” in an exhibit attached to Dr. Wallach’s declaration. Drawing all reasonable inferences in favor of the Uniloc requires that this factual question be submitted to the jury.6
+ 
+
+CONCLUSION
+For the foregoing reasons, we conclude that Uniloc has presented a genuine issue of material fact as to whether Microsoft uses the same algorithm on the client and server side of the Product Activation system to generate licensee unique IDs. We reverse and remand the district court’s summary judgment of noninfringment. We affirm the district court’s denial of Uniloc’s motion for recusal.
+ 
+
+MICHEL, Chief Judge, dissenting in part:
+
+**6 I agree with the analysis in Sections I and II of the majority opinion, but not with the majority’s claim construction in Section III. Although some may disagree, I think it clear that the ′216 patent requires the “licensee unique ID” to be generated from inputs including at least one item of personal information. Because it is undisputed that Microsoft’s license digests are generated from information about the user’s computer and the purchased software, and  *345 not from information that personally identifies the user, I would affirm the grant of summary judgment on this alternative ground (at least as to the absence of literal infringement).
+ 
+
+I. Claim Construction
+While if divorced from context the phrase “licensee unique ID” could mean any identification sufficient to discriminate between licensees, this phrase is not used in such a broad sense in the context of the ′216 patent specification, “the single best guide to the meaning of [this] disputed term.” Vitronics Corp. v. Conceptronic, 90 F.3d 1576, 1582 (Fed.Cir.1996). Rather, the specification makes clear that the claimed “licensee unique ID” must be generated, at least in part, from personal information and not merely computer-related or software-related information.
+ 
+First, the specification distinguishes two prior-art patents on the ground that one patent “does not contemplate or disclose utilization of information which is unique to the user or intended licensee as part of the registration process which is to be distinguished from identification of the platform upon which the software is proposed to be run,” Col. 1:60–65 (emphases added), while the other patent’s disclosure similarly “is limited to identification of the platform.” Col. 1:66–2:8. As the majority concedes, these statements make clear that the “licensee unique ID” of the ′216 patent cannot be generated from just any old inputs—at the least, inputs concerning the user’s computer are not sufficient. Maj. Op. at 343–44.
+ 
+Even beyond this disclaimer of computer-related information, the “Summary of the Invention” section of the specification provides that the “licensee unique ID” is preferably generated from inputs including “prospective licensee credit card number, date of birth and full name and address.” Col. 3:50–53 (emphases added). Although the word “preferably” leaves room for other inputs to be used, the listed inputs clearly suggest that at least some data personally identifying the user is required. By contrast, non-personal data such as “hard disk information and/or other computer hardware or firmware information” is preferably used to create a “platform unique ID.” See col. 3:56–59 (emphasis added).
+ 
+Similarly, the specification distinguishes between “information entered by a prospective registered user unique to that user,” on the one hand, and “a serial number generated from information provided by the environment in which the software to be protected is to run,” on the other hand, and provides that both kinds of information are preferably fed into the “registration number algorithm.” Col. 4:6–12. Thus, it is clear that the “registration number” or “licensee unique ID” must be composed at least in part from information unique to the user—in other words, as the patent abstract explains and the specification repeats, from “information supplied by the licensee which characterizes the licensee,” i.e., personal information. ′216 patent abstract; Col. 3:1–2.
+ 
+**7 Finally, all of the specific embodiments described in the specification are consistent with the requirement that some information that personally identifies the user is input to create the “licensee unique ID.” The First Embodiment explains that “[t]he registration dialogue box C (in Fig. 2b) prompts the user for details unique to that user (including, for example, name, company, address, state, contact number ),” which details are “passed through a registration number algorithm” along with a serial number to “generate[ ] a registration number or security key....” Col. 7:8–19 (emphasis added). All of the “details unique to [the] user” listed here are personal *346 details about the user, not details about the user’s computer or about the software purchased by the user.
+ 
+The majority writes that by virtue of the words “for example,” the specification leaves room for “other types of inputs.” Maj. Op. at 342–43 (emphasis added). I disagree. The words “for example” are most naturally read to leave room for other inputs of the same type as the listed examples, i.e., personal details other than the combination of name, company, address, state, and contact number. The majority also writes that if a user’s company or state is a sufficient input (rather than, say, her name), then the patent must allow a vendor-provided input to be sufficient for generation of a “licensee unique ID.” Maj. Op. at 343. But the majority’s premise is incorrect—the example given here by the patent is “name, company, address, state, contact number” (i.e., all of them, together serving to personally identify the user, e.g. John Smith of Widgets Inc. at 123 Arbor Lane, Cleveland OH, (216) 555–5555), not “name, company, address, state, or contact number” (i.e., any one of them, by itself likely insufficient to identify the user). My understanding is confirmed by the “registration dialogue box C” in Figure 2b, which corresponds to this Embodiment and provides that the “user must enter details in the specified fields in order to register the product including: name, company, address, contact number (phone and credit card details or corporate account number)” (emphasis added).1 This Figure allows alternatives for the type of contact number, but requires the user to enter each of her name, company, address, and contact number, so that the user is personally identified.
+ 
+The Second Embodiment is no different. The majority writes that this embodiment refers only to “user registration details” and does not constrain these details in any way. But the Second Embodiment does not purport to differ from the First Embodiment with respect to the registration inputs. Rather, the “distinction as against the [F]irst [E]mbodiment” is that “a duplicate key file” is created at the time of registration and stored on the user’s computer. Col. 8:49–55. Thus the Second Embodiment, like the First, requires input of details like the user’s name, address, and contact number.
+ 
+**8 The Third Embodiment incorporates Figure 4 of the patent, which is a “modified form of the dialogue box C of Fig. 2b” referenced in the First Embodiment, and includes, inter alia, lines for the user’s name, organization, address, and credit card number (i.e., not simply the user’s name or organization or address). Col. 9:32–34. There is no heading for a “Fourth Embodiment.” The Fifth Embodiment recites that the “registration procedure” executed by the disclosed microprocessor is “as previously described with reference to the [F]irst [E]mbodiment.” Col. 10:42–44. Thus the Third and Fifth Embodiments, like the First, require input of personal information.
+ 
+The Sixth Embodiment “operates in the manner generally described in respect of previous embodiments” and recites that “[t]he algorithm, in this embodiment, combines by addition the serial number 50 with the software product name and customer information 65 and previous user identification 22 to provide registration number 66.” Col. 11:42–56 (emphases added). Here, “customer information 65” most naturally refers to personal information *347 because the “software product name” (ostensibly provided by the vendor) is recited separately, and because computer-related information such as “CPU number ..., amount of memory, type of processor etc.” is described as comprising the “serial number 50.” Col. 12:3–18.
+ 
+Finally, the Seventh Embodiment distinguishes between personal, computer-related, and software-related information by reciting that the “local licensee unique ID generating means [combines], by addition, customer information C, product information P and serial number S in order to provide a local licensee unique ID....” Col. 12:62–65 (emphases added). Because the specification thus distinguishes explicitly between “customer information” on the one hand, and “product information” or “software product name” on the other hand, and because the specification requires information unique to a “user,” “licensee,” or “customer” in every embodiment while only requiring product-related information in some embodiments, I cannot agree with the majority that the patent “leave[s] open the possibility that vendor-provided information, like Microsoft’s Product Key, could be the basis for a ‘licensee unique ID.’ ” Maj. Op. at 344 (emphasis added). To be sure, vendor-provided (i.e., software-related) information may be among the inputs used to generate a “licensee unique ID,” but the patent clearly requires that at least one item of personal information be included as well.
+ 
+In arriving at this construction I recognize, as the majority states, that it is improper to import limitations from the specification into the claims. But here the claims explicitly recite a “licensee unique ID”; I am not importing this limitation from the specification, but rather resorting to the specification to determine what an ordinary artisan would understand this limitation to mean, for as we have explained, “[t]he claims are directed to the invention that is described in the specification [and] they do not have meaning removed from the context from which they arose.” Netword, LLC v. Centraal Corp., 242 F.3d 1347, 1352 (Fed.Cir.2001); see also Phillips v. AWH Corp., 415 F.3d 1303, 1316 (Fed.Cir.2005) (“the specification necessarily informs the proper construction of the claims”).
+ 
+**9 Similarly, the majority is clearly correct that patent claims, in general, may be broader than the preferred embodiments disclosed in a specification. However, we have explained that “the patentee’s choice of preferred embodiments can shed light on the intended scope of the claims.” Astrazeneca AB v. Mut. Pharm. Co., 384 F.3d 1333, 1340(Fed.Cir.2004). Here I do not propose to limit the scope of the claims to the precise embodiments disclosed in the specification—e.g., to always require input of the user’s name—but rather to refer to those embodiments for examples of the kind of information an ordinary artisan would understand to be involved in generation of a “licensee unique ID.” See, e.g., Inpro II Licensing, S.A.R.L. v. T–Mobile USA, Inc., 450 F.3d 1350, 1355 (Fed.Cir.2006) (“Although claims need not be limited to the preferred embodiment when the invention is more broadly described, neither do the claims enlarge what is patented beyond what the inventor has described as the invention.”) (internal citation omitted).
+ 
+
+II. Infringement
+Microsoft’s Product Activation system, in contrast to the invention claimed in the ′216 patent, does not require any personal information from the user or licensee. Indeed, Microsoft intentionally avoids the use of personal information, explaining in its End–User License Agreement that *348 “Microsoft will not collect any personally identifiable information from your device” during the activation process. Instead, the Microsoft system relies on information unique to the computer on which the software is being installed—in the vernacular of the ′216 patent, “identification of the platform”—and on information culled from the package in which the software product was purchased—“product information”—regardless of whether the user or licensee is the same person who purchased the software product.
+ 
+Specifically, Microsoft’s Hardware ID (“HWID”) is generated from information about the hardware of the user’s computer, but does not identify the user herself. A Product ID (“PID”) is generated from the Product Key found on the package in which the software was purchased, information about the software version, and a random number generated by the software. The majority notes that Microsoft’s own documents describe the Product Key as a way to help Microsoft identify its customers, Maj. Op. at 343–44, but such shorthand notwithstanding, it is clear that the Product Key at most identifies a particular copy of the software, and does not personally identify the user of that copy.
+ 
+In the accused Product Activation system, once a HWID and PID have been generated by a user’s computer, Microsoft’s Clearinghouse uses the PID and HWID to generate a license, hashes the license to form a license digest, and encrypts the license digest. Uniloc’s theory of infringement in this appeal is that the license digest constitutes a “licensee unique ID.” But because the license digest is generated only from platform-related information (the HWID) and product-related information (the PID), and not from any personal information, the license digest cannot be a “licensee unique ID” within the meaning of the asserted claims as I think they are properly construed. Therefore I would affirm the district court’s grant of summary judgment to Microsoft—at least as to the question of literal infringement—on this alternative ground, because “[w]e must affirm the decision of the district court if it is supported by any ground properly preserved on appeal.” Ethicon Endo–Surgery v. United States Surgical Corp., 93 F.3d 1572, 1582 (Fed.Cir.1996) (emphases added); see also Glaxo Group v. TorPharm, Inc., 153 F.3d 1366, 1371–1372 (Fed.Cir.1998) (“When a matter comes before an appellate court following a summary judgment, the appellate court is free to adopt a ground advanced by the appellee in seeking summary judgment but not adopted by the trial court.”); Datascope Corp. v. SMEC, Inc., 879 F.2d 820, 822 (Fed.Cir.1989) (“Appellees always have the right to assert alternative grounds for affirming the judgment that are supported by the record.”).
+ 
+All Citations
+290 Fed.Appx. 337, 2008 WL 3539749
+Footnotes
+
+1
+
+Uniloc also produced evidence that the results of the hashing algorithms qualify as unique values. For example, Uniloc cited to the declaration of Dr. Wallach, Microsoft’s witness, stating that “it is computationally infeasible to find a message which corresponds to a given message digest, or to find two different messages which produce the same digest.” Microsoft disputes Uniloc’s interpretation of this testimony—another factual dispute best left to the jury.
+
+2
+
+The parties agree that the claim limitations “licensee unique ID,” “security key,” “registration key,” and “enabling key” are synonymous. We therefore refer to these limitations collectively as “licensee unique ID.”
+
+3
+
+There is no dispute over the district court’s construction of “unique,” with which we agree.
+
+4
+
+The specification certainly does allow for the use of vendor-provided information to generate a licensee unique ID. See ′216 patent fig.4; col.12 ll.54–57, 61–64.
+
+5
+
+We are unconvinced by Microsoft’s argument that, during prosecution, Uniloc clearly and unmistakably disavowed the use of vendor-provided information, such as the Product Key, to generate the licensee unique ID. We agree with the district court that the single sentence, when read in context, does not preclude the vendor-provided inputs for the generation of licensee unique IDs.
+
+6
+
+Even if we agreed with Microsoft that the “licensee unique ID” required personal customer information, such as names or social security numbers, the district court’s grant of summary judgment would still require reversal because there would still be a factual question as to whether the Product Key is an equivalent of a personally identifiable input under the doctrine of equivalents.
+
+1
+
+I recognize that the Figure recites “address” where the specification recites “address, state,” but I do not think this discrepancy matters because a request for one’s “address” typically includes the state where “state” is not separately requested.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

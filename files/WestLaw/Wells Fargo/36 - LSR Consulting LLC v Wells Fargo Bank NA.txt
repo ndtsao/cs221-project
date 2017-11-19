@@ -1,0 +1,294 @@
+
+
+ 
+
+
+LSR Consulting, LLC v. Wells Fargo Bank, N.A.
+United States Court of Appeals, Fifth Circuit. | August 31, 2016 | 835 F.3d 530 | 2016 WL 4547205
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+LSR Consulting, LLC v. Wells Fargo Bank, N.A., 835 F.3d 530 (5th Cir. 2016)
+
+All Citations:
+
+835 F.3d 530
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:22 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+835 F.3d 530
+United States Court of Appeals,
+Fifth Circuit.
+LSR CONSULTING, LLC, as Assignee of Vinay K. Karna and Mridula L. Karna, Plaintiff–Appellant,
+v.
+WELLS FARGO BANK, N.A., Defendant–Appellee.
+No. 15–20774
+|
+Filed August 31, 2016
+Synopsis
+Background: Limited liability company (LLC), as assignee of mortgagors, brought action against mortgage servicer, alleging wrongful foreclosure and violation of Fair Debt Collection Practices Act (FDCPA). The United States District Court for the Southern District of Texas, Vanessa D. Gilmore, J., granted mortgage servicer’s summary judgment motion and awarded mortgage servicer attorneys’ fees under FDCPA. LLC appealed.
+ 
+Holdings: The Court of Appeals, Jerry E. Smith, Circuit Judge, held that:
+ 
+[1] mortgagors’ self-serving protestations of non-receipt of notice were insufficient to raise genuine issue of material fact with respect to wrongful foreclosure claim, and
+ 
+[2] LLC brought FDCPA claim in bad faith and for purpose of harassment, as required to merit award of attorneys’ fees under FDCPA.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (6)
+
+
+[1]
+
+Mortgages and Deeds of TrustElements, Grounds, and Defenses
+
+
+266Mortgages and Deeds of Trust
+266XVWrongful Enforcement or Foreclosure
+266k2325Elements, Grounds, and Defenses
+266k2326In general
+(Formerly 266k650)
+
+
+Under Texas law, a party alleging wrongful foreclosure must prove a defect in the foreclosure-sale proceedings.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustRequired Notices
+
+
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(B)Power and Right to Foreclose;  Grounds
+266k1719Required Notices
+266k1720In general
+(Formerly 266k335)
+
+
+In a mortgage foreclosure proceeding, Texas law requires strict compliance with a deed of trust, including notice conditions.
+Cases that cite this headnote
+
+
+
+[3]
+
+Federal Civil ProcedureAdmissibility
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)3Proceedings
+170Ak2542Evidence
+170Ak2545Admissibility
+
+
+In Texas-law wrongful foreclosure action, declarations filed by mortgage servicer demonstrated that notices of intent to accelerate debt could be presented in form admissible in evidence, and thus district court properly considered notices on mortgage servicer’s summary judgment motion. Fed. R. Civ. P. 56(c)(2).
+7 Cases that cite this headnote
+
+
+
+[4]
+
+Federal Civil ProcedureSufficiency of showing
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)3Proceedings
+170Ak2536Affidavits
+170Ak2539Sufficiency of showing
+
+
+On mortgage servicer’s summary judgment motion in Texas-law wrongful foreclosure action, court appropriately considered affidavits by individuals who served notices on mortgagors regarding mortgage servicer’s intent to accelerate debt, where affidavits contained sufficiently specific statements to support inference that affiants had personal knowledge of facts attested therein, and affidavits were supported by additional documentation. Fed. R. Civ. P. 56.
+Cases that cite this headnote
+
+
+
+[5]
+
+Federal Civil ProcedureMortgage cases
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)2Particular Cases
+170Ak2507Mortgage cases
+
+
+Mortgagors’ self-serving protestations of non-receipt of mortgage servicer’s notice of intent to accelerate debt were insufficient to raise genuine issue of material fact on mortgage servicer’s summary judgment motion in Texas-law wrongful foreclosure action, where Texas law recognized that dispositive inquiry was not receipt of notice, but rather service of notice, deeds of trust required only constructive notice, and mortgage servicer provided affidavits from individuals who served notices and supporting documentation. Tex. Prop. Code Ann. § 51.002(e); Fed. R. Civ. P. 56.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+Antitrust and Trade RegulationAttorney fees
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(E)Enforcement and Remedies
+29TIII(E)7Relief
+29Tk395Costs
+29Tk397Attorney fees
+
+
+Limited liability company (LLC), as assignee of mortgagors, brought Fair Debt Collection Practices Act (FDCPA) claim against mortgage servicer in bad faith and for purpose of harassment, as required to merit award of attorneys’ fees to mortgage servicer under FDCPA, where provision of FDCPA that mortgage servicer purportedly violated applied only to debt collectors, and plain language of FDCPA made clear that term “debt collector” did not include entities such as mortgage servicer, which did not have debt collection as their principal purpose and did not regularly collect or attempt to collect debts owed or due or asserted to be owed or due. Consumer Credit Protection Act §§ 803, 813, 15 U.S.C.A. §§ 1692a(6), 1692k(a)(3).
+Cases that cite this headnote
+
+
+
+*532 Appeal from the United States District Court for the Southern District of Texas, Vanessa D. Gilmore, J.
+Attorneys and Law Firms
+John Chris Juravich, Houston, TX, for Plaintiff–Appellant.
+George A. Kurisky, Jr., Esq., Damian William Abreo, Johnson, Deluca, Kurisky & Gould, P.C., Houston, TX, for Defendant–Appellee.
+Before KING, SMITH, and COSTA, Circuit Judges.
+Opinion
+JERRY E. SMITH, Circuit Judge:
+
+LSR Consulting, LLC (“LSR”), appeals a summary judgment denying its wrongful-foreclosure claims and awarding attorneys’ fees to Wells Fargo Bank, N.A. (“Wells Fargo”). Finding no error, we affirm.
+ 
+
+I.
+In 2006, Mridula Lal Karna and Vinay Karna bought real property on Wichita Street (the “Wichita Property”) and Cleburne Street (the “Cleburne Property”) in Houston. The original mortgagee of the Wichita Property was Wells Fargo; the original mortgagee of the Cleburne Property was First National Bank of Arizona and/or Mortgage Electronic Registration Systems, Inc., as its nominee. Wells Fargo was the mortgage servicer for both loans.
+ 
+The Karnas defaulted, and in 2010 Wells Fargo foreclosed. Before the foreclosures, the Karnas, through counsel, requested that Wells Fargo verify the debt as to both properties under the Fair Debt Collections Practices Act (“FDCPA”), 15 U.S.C. § 1692g. Wells Fargo responded but, according to LSR, failed to provide accurate and required information.
+ 
+In 2014, the Karnas assigned their alleged claims against Wells Fargo to their wholly owned company, LSR, agreeing to pay LSR the first $2,000 of any funds it collected from Wells Fargo and permitting LSR to retain the funds necessary to reimburse it for collection expenses, including attorneys’ fees. Shortly thereafter, LSR sued in state court, and Wells Fargo removed. Wells Fargo and the district court read LSR’s complaint as asserting causes of action for wrongful foreclosure and violation of the FDCPA.1 After discovery and motion practice, the court granted summary judgment to Wells Fargo and awarded it attorneys’ fees, both of which LSR appeals.2
+ 
+
+II.
+[1] [2]Wells Fargo is entitled to summary judgment on the wrongful-foreclosure claim because LSR cannot establish an essential element. Under Texas law, a party alleging wrongful foreclosure must prove a defect in the foreclosure-sale proceedings.3 Texas requires strict compliance with a deed of trust,4 including notice conditions, *533 5 and LSR maintains that Wells Fargo did not notify the Karnas of its intent to accelerate the maturity of the indebtedness before acceleration and foreclosure as required by the deeds of trust.6
+ 
+The district court concluded that the summary judgment evidence refutes the Karnas’ allegations of lack of notice.
+[T]he evidence in the record shows that Defendant served Plaintiff with Notices of Default and Intent to Foreclose for the Cleburne Property via certified mail on August 6, 2009, September 20, 2009, and November 14, 2009. Likewise, the evidence in the record shows that Defendant served Plaintiff with Notices of Default and Intent to Foreclose on the Wichita Property via certified mail on October 18, 2009 and November 15, 2009. Additionally, the record contains prima facie evidence of Defendant’s service via the affidavit of Matthew Cunningham of National Default Exchange, LP on May 4, 2010 for the Wichita Property, and the affidavit of Mikey Wilkinson of Brice, Vander Linder & Wernick, P.C. on May 6, 2010 for the Cleburne Property. As such, the Court finds no genuine issue of material fact as to whether Defendant served Plaintiff with the required Notices of Default and Intent to Foreclose documents prior to accelerating Plaintiff’s indebtedness and proceeding with a foreclosure sale.
+LSR Consulting, LLC v. Wells Fargo Bank, N.A. (S.D. Tex. Aug. 20, 2015) (citations omitted).
+ 
+LSR, however, disputes the admissibility of the evidence that the district court relied on in concluding that Wells Fargo notified the Karnas of its intent to accelerate. The Notices of Default and Intent to Foreclose (the “notices”), LSR maintains, are inadmissible because they are not self-authenticating and were not authenticated by any witness testimony attached to the motions for summary judgment.7 They are also irrelevant, because what matters is whether the notices were sent, and there is allegedly no summary judgment evidence that they were. LSR regards the declarations authenticating the notices as inadmissible *534 because, contrary to Local Rule 7.7 and the trial court’s Rule 4.K, they were not filed with or attached to the motions for summary judgment.8 And it urges the inadmissibility of the affidavits by Cunningham and Wilkinson because their statements regarding notice were conclusional and based on information and belief rather than personal knowledge.
+ 
+[3]LSR’s objections are without merit. First, it is not dispositive whether the notices in their current form are admissible in evidence. At the summary judgment stage, materials cited to support or dispute a fact need only be capable of being “presented in a form that would be admissible in evidence.” FED. R. CIV. P. 56(c)(2). The various declarations filed by Wells Fargo demonstrate that the notices can be presented in a form admissible in evidence. So the district court properly considered the notices.
+ 
+[4]Second, the court did not err in relying on the affidavits by Cunningham and Wilkinson. Although LSR objects that the affidavits were not based on personal knowledge, they contain sufficiently specific statements for the district court to infer that the affiants had personal knowledge of the facts attested therein. LSR also objects that the affidavits’ statements about the mailing of the notices “have a conclusory character” and that “bald assertions of ultimate facts are ordinarily insufficient to support summary judgment.” Gossett v. Du–Ra–Kel Corp., 569 F.2d 869, 872 (5th Cir. 1978) (emphasis added). Even if true, LSR’s averments do not suffice to disqualify the affidavits, because the affidavits’ statements do not stand alone. Wells Fargo provided supporting documentation.
+ 
+[5]Third, we reject LSR’s assertion that the Karnas’ testimony of non-receipt of the notices creates a fact issue requiring trial. Paragraph fifteen of the deeds of trust requires only constructive notice: “Any notice to Borrower in connection with [the deeds of trust] shall be deemed to have been given to Borrower when mailed by first class mail....” That paragraph is thus akin to Section 51.002(e) of the Texas Property Code, which defines service of certain foreclosure-related notices to be “complete when the notice is deposited in the United States mail, postage prepaid and addressed to the debtor at the debtor’s last known address.”
+ 
+In interpreting Section 51.002(e), Texas courts have recognized that the dispositive inquiry “is not receipt of notice, but, rather, service of notice.”9 For that reason, they have held there to be no genuine dispute as to the sending of notices required under Section 51.002 when the sole contravening evidence is the homeowner’s affidavit asserting non-receipt. Adebo, 2008 WL 2209703, at *4. LSR points out that in *535 Sauceda v. GMAC Mortgage Corp., 268 S.W.3d 135, 140 (Tex. App.—Corpus Christi 2008, no pet.), the court held that the homeowner’s testimony of non-receipt created a fact issue as to whether he was served with the statutorily required notice.10 Unlike here and in Adebo, however, in Sauceda the mortgage servicer provided no supporting documentation showing that it had served notice.11
+ 
+Applying the reasoning in Adebo to the notice and service provisions under the instant deeds of trust, we can only conclude that the Karnas’ self-serving protestations of non-receipt of notice do not create a genuine dispute as to whether Wells Fargo mailed notices of intent to accelerate. We thus affirm summary judgment on the wrongful-foreclosure claims.
+ 
+
+III.
+[6]Under the FDCPA, a court may award the defendant attorneys’ fees upon “a finding by the court that an action under this section was brought in bad faith and for the purpose of harassment.” 15 U.S.C. § 1692k(a)(3). The district court made the requisite factual finding. But LSR contends that, as a matter of law, the evidence is insufficient to support that finding.
+ 
+The court did not abuse its discretion in finding that LSR brought its FDCPA claim in bad faith and for the purpose of harassment.12 The provision that LSR alleges Wells Fargo violated applies only to debt collectors. But the plain language of the FDCPA makes clear that a debt collector does not include entities such as Wells Fargo, which do not have as their principal purpose “the collection of any debts” and which do not “regularly collect[ ] or attempt [ ] to collect, directly or indirectly, debts owed or due or asserted to be owed or due another.” 15 U.S.C. § 1692a(6). “The legislative history ... indicates conclusively that a debt collector does not include ... a mortgage servicing company....”13 LSR sued Wells Fargo just days before the four-year statute of limitations was set to expire with respect to the properties and has also sued numerous other lenders in connection with four other properties under the same theory, likewise just days before the running of limitations. LSR, moreover, is merely the assignee of claims with regard to the properties. The original holders of the claims are LSR’s principals, the Karnas, who, it could be inferred, assigned their claim solely to limit their personal liability, should Wells Fargo refuse to settle. Under these circumstances, there is no abuse of discretion in imposing attorneys’ fees.
+ 
+In its reply brief, LSR says that Wells Fargo is not entitled to attorneys’ fees under § 1692k because it never asserted a claim against Wells Fargo under the FDCPA. Because LSR failed to raise that argument in its initial brief on appeal, it has been waived. See  *536 Flex Frac Logistics, L.L.C. v. N.L.R.B., 746 F.3d 205, 208 (5th Cir. 2014).
+ 
+AFFIRMED.
+ 
+All Citations
+835 F.3d 530
+Footnotes
+
+1
+
+As noted below, LSR contends, for the first time in its reply brief, that it never claimed violation of § 1692g, even though it alleged a violation of that section in its original complaint: “Although the Karnas specifically requested debt verification pursuant to 15 U.S.C. § 1692g, Wells Fargo failed to provide it.”
+
+2
+
+LSR does not appeal the summary judgment on the FDCPA claims.
+
+3
+
+Charter Nat’l Bank–Houston v. Stevens, 781 S.W.2d 368, 371 (Tex. App.—Houston [14th Dist.] 1989, writ denied).
+
+4
+
+Univ. Sav. Ass’n v. Springwoods Shopping Ctr., 644 S.W.2d 705, 706 (Tex. 1982) (“Texas courts have consistently held that the terms set out in a deed of trust must be strictly followed.”).
+
+5
+
+Hous. First Am. Sav. v. Musick, 650 S.W.2d 764, 768 (Tex. 1983) (“Compliance with the notice condition contained in the deed of trust and as prescribed by law is a prerequisite to the right of the trustee to make the sale.”).
+
+6
+
+Deeds of Trust ¶ 22:
+Lender shall give notice to Borrower prior to acceleration following Borrower’s breach of any covenant or agreement in this Security Instrument (but not prior to acceleration under Section 18 unless Applicable Law provides otherwise). The notice shall specify: (a) the default; (b) the action required to cure the default; (c) a date, not less than 30 days from the date the notice is given to Borrower, by which the default must be cured; and (d) that failure to cure the default on or before the date specified in the notice will result in acceleration of the sums secured by this Security Instrument and sale of the Property. The notice shall further inform Borrower of the right to reinstate after acceleration and the right to bring a court action to assert the non-existence of a default or any other defense of Borrower to acceleration and sale.
+
+7
+
+Wells Fargo apparently intended, but failed, to attach declarations authenticating the notices to its motions for summary judgment, which were filed on March 10 and 18, 2015, respectively. On March 26, 2015, Wells Fargo filed declarations by Michael Burns and Becky Howell. Burns’s declaration purported to authenticate the notices for the Cleburne Property; Howell’s declaration purported to authenticate certain documents related to the Wichita Property but not the notices. On April 16, 2015, Wells Fargo filed declarations by Andrea Kruse authenticating the notices for both properties. LSR urged that all of those declarations were inadmissible. In deciding the motions for summary judgment, the district court relied on the declarations by Burns and Howell but not the late-filed declarations by Kruse.
+
+8
+
+S.D. Tex. Civ. R. 7.7 (“If a motion or response requires consideration of facts not appearing of record, proof by affidavit or other documentary evidence must be filed with the motion or response.”); Rule 4.K (“All exhibits (contract, leases, affidavits, etc.) referred to in briefs must be attached to the brief.”).
+
+9
+
+Adebo v. Litton Loan Servicing, L.P., 2008 WL 2209703, at *4 (Tex. App.—Houston [1st Dist.] 2008, no pet.) (mem. op.); see also WMC Mortg. Corp. v. Moss, 2011 WL 2089777, at *7 (Tex. App.—Houston [1st Dist.] 2011, no pet.) (“The purpose of notice under Section 51.002 is to provide a minimum level of protection to the debtor, and actual receipt of the notice is not necessary.”); Onwuteaka v. Cohen, 846 S.W.2d 889, 892 (Tex. App.—Houston [1st Dist.] 1993, writ denied) (“The general purpose of [Section 51.002] is to provide a minimum level of protection for the debtor, and it provides for only constructive notice of the foreclosure.” (emphasis added)).
+
+10
+
+In addition, LSR cites Coleman v. Wells Fargo Bank, No. 09–03–598 CV, 2004 WL 2750240 (Tex. App.—Beaumont 2004, no pet.) (per curiam) (mem. op.), holding that by filing two affidavits averring non-receipt of the notice required by Section 51.002(d), the homeowner had raised a question of material fact defeating summary judgment. The Coleman court, however, ignored Section 51.002(e). So it is not directly relevant.
+
+11
+
+The record in Sauceda contained two notices sent by the mortgage servicer and received by the homeowner, but those notices failed to comply with all the statutory requirements or the notice requirements in the deed of trust.
+
+12
+
+See Perry v. Stewart Title Co., 756 F.2d 1197, 1211 (5th Cir.), modified on other grounds, 761 F.2d 237 (5th Cir. 1985) (reviewing § 1692k(a)(3) attorneys’ fee determination for an abuse of discretion).
+
+13
+
+Id. at 1208.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

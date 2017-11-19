@@ -1,0 +1,411 @@
+
+
+
+
+
+Parker v. Google, Inc.
+United States Court of Appeals, Third Circuit. | July 10, 2007 | 242 Fed.Appx. 833 | 2007 WL 1989660
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Live Face on Web, LLC v. Emerson Cleaners, Inc., D.N.J., December 11, 2014
+
+standard Citation:
+
+Parker v. Google, Inc., 242 F. App’x 833 (3d Cir. 2007)
+
+All Citations:
+
+242 Fed.Appx. 833, 2007 WL 1989660, 2007 Copr.L.Dec. P 29,393, RICO Bus.Disp.Guide 11,316
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Pennsylvania
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Live Face on Web, LLC v. Emerson Cleaners, Inc., D.N.J., December 11, 2014
+242 Fed.Appx. 833
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Third Circuit LAR, App. I, IOP 5.7. (Find CTA3 App. I, IOP 5.7)
+United States Court of Appeals,
+Third Circuit.
+Gordon Roy PARKER, Appellant
+v.
+GOOGLE, INC.; John Does # 1–50,000.
+No. 06–3074.
+|
+Submitted Under Third Circuit
+LAR 34.1(a) March 23, 2007.
+|
+Filed July 10, 2007.
+Synopsis
+Background: E-book writer sued Internet search engine operator for, inter alia, direct and contributory copyright infringement of book called “29 Reasons Not to be a Nice Guy.” Operator moved to dismiss. The United States District Court for the Eastern District of Pennsylvania, R. Barclay Surrick, J., 422 F.Supp.2d 492, dismissed the complaint. Writer appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] operator’s archiving of usenet posting that included copyrighted material did not constitute direct, contributory, or vicarious copyright infringement;
+ 
+[2] operator was immune from tort liability arising from its archiving of, caching of, or providing access to allegedly defamatory usenet postings;
+ 
+[3] operator was not liable under Lanham Act for false designation of origin or trade disparagement; and
+ 
+[4] motion for leave to file second amended complaint was properly denied as futile.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (9)
+
+
+[1]
+
+Federal CourtsPleading
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)2Particular Decisions, Matters, or Questions as Reviewable
+170Bk3300Pleading
+170Bk3301In general
+(Formerly 170Bk590)
+
+
+E-book writer that had sued Internet search engine operator for copyright infringement and other causes of action elected to stand on complaint that had been dismissed without prejudice, rendering it final and appealable, where writer requested that the district court enter a judgment against him in the event that it denied his motions for reconsideration and leave to file a second amended complaint. Fed.Rules Civ.Proc.Rule 58(d), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+Copyrights and Intellectual PropertyOther works
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)1What Constitutes Infringement
+99k67.3Other works
+
+
+Internet search engine operator’s archiving of usenet posting that included copyrighted material from e-book called “29 Reasons Not to be a Nice Guy” so that it would be accessible to other usenet users did not constitute direct infringement of e-book writer’s copyright, given absence of any volitional conduct.
+17 Cases that cite this headnote
+
+
+
+[3]
+
+Copyrights and Intellectual PropertyPersons liable
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k77Persons liable
+
+
+Internet search engine operator’s archiving of usenet posting that included copyrighted material from e-book called “29 Reasons Not to be a Nice Guy” so that it would be accessible to other usenet users did not constitute contributory infringement of e-book writer’s copyright, absent claim that operator was on notice of a third party’s direct infringement.
+21 Cases that cite this headnote
+
+
+
+[4]
+
+Copyrights and Intellectual PropertyPersons liable
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k77Persons liable
+
+
+Internet search engine operator’s archiving of usenet posting that included copyrighted material from e-book called “29 Reasons Not to be a Nice Guy” so that it would be accessible to other usenet users did not constitute vicarious copyright infringement of e-book writer’s copyright, absent claim that operator had a direct financial interest in the purported infringing activity.
+25 Cases that cite this headnote
+
+
+
+[5]
+
+Libel and SlanderBy others in general
+TelecommunicationsPersons and entities liable;  immunity
+TortsDefenses in general
+
+
+237Libel and Slander
+237IWords and Acts Actionable, and Liability Therefor
+237k26Repetition
+237k28By others in general
+372Telecommunications
+372VIIIComputer Communications
+372k1339Civil Liabilities;  Illegal or Improper Purposes
+372k1344Persons and entities liable;  immunity
+379Torts
+379IVPrivacy and Publicity
+379IV(B)Privacy
+379IV(B)3Publications or Communications in General
+379k355Defenses in general
+
+
+Internet search engine operator was immune, under Communications Decency Act, from any defamation, invasion of privacy, or negligence liability arising from its archiving of, caching of, or providing access to allegedly defamatory usenet postings, absent claim that it was the information content provider of the statements. Communications Act of 1934, § 230(c, e), 47 U.S.C.A. § 230(c, e).
+8 Cases that cite this headnote
+
+
+
+[6]
+
+Antitrust and Trade RegulationOrigin, representations concerning
+
+
+29TAntitrust and Trade Regulation
+29TIIUnfair Competition
+29TII(A)In General
+29Tk29Origin, representations concerning
+
+
+Internet search engine operator’s listing of website that was critical of e-book writer did not subject operator to liability under Lanham Act for false designation of origin, absent claim that there was a likelihood of confusion with respect to the origin of writer’s works. Lanham Trade–Mark Act, § 43(a), 15 U.S.C.A. § 1125(a).
+7 Cases that cite this headnote
+
+
+
+[7]
+
+Antitrust and Trade RegulationParticular cases
+
+
+29TAntitrust and Trade Regulation
+29TIIUnfair Competition
+29TII(A)In General
+29Tk25Representations Concerning Others or Their Products;  Disparagement
+29Tk27Particular cases
+
+
+Internet search engine operator’s listing of website that was critical of e-book writer did not subject operator to liability under Lanham Act for trade disparagement, absent claim that the purportedly disparaging statements were made in the context of commercial advertising or promotion regarding his texts. Lanham Trade–Mark Act, § 43(a)(1)(B), 15 U.S.C.A. § 1125(a)(1)(B).
+2 Cases that cite this headnote
+
+
+
+[8]
+
+Federal Civil ProcedureParticular Actions, Insufficiency of Pleadings in
+Federal Civil ProcedureConspiracy and fraud, actions involving
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)4Particular Actions, Insufficiency of Pleadings in
+170Ak1781In general
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)4Particular Actions, Insufficiency of Pleadings in
+170Ak1789Conspiracy and fraud, actions involving
+
+
+E-book writer’s failure to include a short and plain statement of racketeering and civil conspiracy claims against Internet search engine operator warranted dismissal of those claims. Fed.Rules Civ.Proc.Rule 8(a), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+Federal Civil ProcedureForm and sufficiency of amendment;  futility
+
+
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(E)Amendments
+170Ak851Form and sufficiency of amendment;  futility
+
+
+E-book writer’s motion for leave to file second amended complaint against Internet search engine operator was properly denied as futile, since writer’s attempt to replead claims raised in first amended complaint suffered from similar defects and writer’s allegations were insufficient to state new claims for trade infringement or unfair competition. Fed.Rules Civ.Proc.Rule 15(a), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+*834 On Appeal From the United States District Court For the Eastern District of Pennsylvania (D.C.Civ. No. 04–cv–03918), District Judge: Honorable R. Barclay Surrick.
+Attorneys and Law Firms
+Gordon Roy Parker, Philadelphia, PA, pro se.
+John E. Riley, Vaira & Riley, Philadelphia, PA, Bart E. Volkmer, David H. Kramer, Wilson, Sonsini, Goodrich & Rosati, Palo Alto, CA, for Appellee.
+Before: BARRY, CHAGARES and ROTH, Circuit Judges.
+
+
+OPINION
+PER CURIAM.
+**1 This is an appeal from the District Court’s dismissal of Gordon Roy Parker’s complaint against Google, Inc. (“Google”). We will affirm.
+ 
+
+I.
+Google is a Delaware corporation whose headquarters are in California. Google operates a website at www.google.com. This website includes an Internet search engine that allows users to search for websites, products and images among other things. Google’s automatic search technology operates by “crawling” the Internet so that the content can be organized in a *835 searchable index. In the course of “crawling” the Internet, Google makes a copy of each website and stores it in a “cache.” When a user conducts a search, Google provides a list of results and often includes an excerpt from the matched site.
+ 
+Google also provides users with the ability to access, search and post messages to the USENET. The USENET is a global system of online bulletin boards. In 2000, Google purchased an archive of USENET postings dating back to 1981. Google’s USENET archive contains more than 845 million messages. A user can search the USENET archive using several different criteria, including, but not limited to the author, date, keywords, phrases and/or subject material.
+ 
+In 2004, Parker filed a pro se complaint against Google. After Google filed a motion to dismiss, Parker filed an amended complaint (“first amended complaint”). In the first amended complaint, Parker alleged that he is an Internet publisher. He has published works on the Internet under the name Snodgrass Publishing Group. Parker stated that he owns a copyright for his work entitled “29 Reasons Not to be a Nice Guy.” Parker alleged that a third-party copied “Reason # 6” and posted it to the USENET without his permission. Furthermore, Parker alleged that Google provided users with links to websites that portrayed him negatively when users utilized Google’s Internet search engine.
+ 
+Parker’s first amended complaint contained the following claims: (1) direct copyright infringement (“Claim I”); (2) contributory copyright infringement (“Claim II”); (3) vicarious copyright infringement (“Claim III”); (4) defamation (“Claim IV”); (5) invasion of privacy (“Claim V”); (6) negligence (“Claim VI”); (7) Lanham Act violations (“Claim VII”); racketeering against Google (“Claim VIII”); racketeering against seduction community (“Claim IX”); (10) abuse of process1 (“Claim X”); and (11) civil conspiracy (“Claim XI”). Subsequently, Google moved to dismiss the first amended complaint. On March 13, 2006, the District Court dismissed Claims I, II, III, IV, V, VI, VII and X with prejudice pursuant to Federal Rule of Civil Procedure 12(b)(6). Claims VIII, IX and XI were dismissed without prejudice after the District Court determined that these claims failed to comply with Federal Rule of Civil Procedure 8(a). Parker timely filed a motion for reconsideration as well as a motion for leave to file a second amended complaint.
+ 
+**2 As Parker’s motion for reconsideration and motion for leave to file a second amended complaint were pending before the District Court, Parker requested an entry of judgment pursuant to Federal Rule of Civil Procedure 58(d). Parker explained that he only wanted an entry of judgment in the event that the District Court denied his motion for reconsideration and motion for leave to file a second amended complaint. Subsequently, the District Court denied the motion for reconsideration and motion for leave to file a second amended complaint. The District Court entered judgment against Parker. Parker timely filed a notice of appeal.
+ 
+
+II.
+[1] We first must determine whether we have appellate jurisdiction. We adhere to the rule that “we lack appellate jurisdiction over partial adjudications when certain of the claims before the district court have been dismissed without prejudice.” Fed. Home Loan Mortgage Corp. v. Scottsdale Ins. Co., 316 F.3d 431, 438 (3d Cir.2003) (citations omitted). Nevertheless, an order is final and appealable where a *836 plaintiff elects to stand on a complaint. See Morton Int’l, Inc. v. A.E. Staley Mfg. Co., 460 F.3d 470, 477 (3d Cir.2006) (citation omitted). There is no “rigid requirement as to what a plaintiff must do to stand on a dismissed complaint.” United States ex rel. Atkinson v. PA. Shipbuilding Co., 473 F.3d 506, 517 (3d Cir.2007). Parker requested that the District Court enter a judgment against him pursuant to Federal Rule of Civil Procedure 58(d) in the event that the District Court denied his motion for reconsideration and motion for leave to file a second amended complaint. We interpret this request as Parker’s intent to stand on his first amended complaint in the event that his motion for reconsideration and motion for leave to file a second amended complaint were denied. Thus, we have appellate jurisdiction pursuant to 28 U.S.C. § 1291.
+ 
+
+III.
+Our standard of review over a District Court’s dismissal under Federal Rule of Civil Procedure 12(b)(6) is plenary. See Taliaferro v. Darby Twp. Zoning Bd., 458 F.3d 181, 188 (3d Cir.2006) (citation omitted). We accept as true all allegations of the complaint and all reasonable inferences that can be drawn therefrom. See id. We review a dismissal of claims for failure to comply with Federal Rule of Civil Procedure 8 for abuse of discretion. See In re Westinghouse Sec. Litig., 90 F.3d 696, 702 (3d Cir.1996) (citations omitted). A denial of a motion to amend the complaint is also reviewed for abuse of discretion. See Krantz v. Prudential Invs. Fund Mgmt. LLC, 305 F.3d 140, 144 (3d Cir.2002) (citation omitted).
+ 
+
+IV.
+A. Direct Copyright Infringement
+In the first amended complaint, Parker alleged that his work entitled “29 Reasons not to be a Nice Guy” is copyrighted. Parker alleged that an individual copied “Reason # 6” from this work and posted it to the USENET.2 Google archives postings on the USENET so that they can be accessible to others who utilize the USENET. Through this process, Parker alleged that Google directly infringed “Reason # 6.”
+ 
+**3 To allege a claim for copyright infringement, a plaintiff must state: “(1) ownership of a valid copyright; and (2) unauthorized copying of original elements of plaintiff’s work.” Kay Berry, Inc. v. Taylor Gifts, Inc., 421 F.3d 199, 203 (3d Cir.2005)(internal quotation marks and citation omitted). Additionally, to state a direct copyright infringement claim, a plaintiff must allege volitional conduct on the part of the defendant. See CoStar Group, Inc. v. LoopNet, Inc., 373 F.3d 544, 551 (4th Cir.2004); Religious Tech. Ctr. v. Netcom On–Line Commc’n Servs., Inc., 907 F.Supp. 1361, 1370 (N.D.Cal.1995). The District Court determined that Parker failed to allege any volitional conduct on the part of Google in archiving USENET posts.
+ 
+In CoStar Group, the Fourth Circuit drew an analogy between an internet service provider (“ISP”) and the owner of a traditional copy machine. We agree with this analogy as it applies to Google in this case. The Fourth Circuit noted that “a copy machine owner who makes the machine available to the public to use for copying is not, without more, strictly liable under [the Copyright Act] for illegal copying by a customer.” 373 F.3d at 550. The Fourth Circuit further stated that “an ISP who owns an electronic facility that responds automatically to users’ input is not a direct infringer.” Id. Thus, the Court determined that “the ISP should not be found liable as a direct infringer when its *837 facility is used by a subscriber to violate a copyright without intervening conduct of the ISP.” Id. The Court further noted that “[w]hen an electronic infrastructure is designed and managed as a conduit of information and data that connects users over the Internet, the owner and manager of the conduit hardly ‘copies’ the information and data in the sense that it fixes a copy in its system of more than transitory duration.” Id. at 550–51.
+ 
+[2] Upon examining the complaint, we agree with the District Court that Parker’s allegations against Google did not state a claim of direct copyright infringement. Parker’s allegations failed to assert any volitional conduct on the part of Google.
+ 
+
+B. Contributory and Vicarious Copyright Infringement
+Next, Parker alleged a claim of contributory copyright infringement against Google. Similar to his direct infringement claim, Parker alleged that a third-party copied “Reason # 6” to the USENET. Parker maintained that Google archived this post and made it available to users when searching the USENET through Google.
+ 
+[3] While the Copyright Act does not expressly make anyone liable for the copyright infringement of another, the law establishes doctrines of secondary liability. See Metro–Goldwyn–Mayer Studios Inc. v. Grokster, Ltd., 545 U.S. 913, 125 S.Ct. 2764, 2776, 162 L.Ed.2d 781 (2005). To allege a claim of contributory copyright infringement, a plaintiff must allege: (1) direct copyright infringement of a third-party; (2) knowledge by the defendant that the third-party was directly infringing; and (3) material contribution to the infringement. See Columbia Pictures Indus., Inc. v. Redd Horne, Inc., 749 F.2d 154, 160 (3d Cir.1984)(quoting Gershwin Publ’g Corp. v. Columbia Artists Mgmt., Inc., 443 F.2d 1159, 1162 (2d Cir.1971)). Parker failed to allege that Google had the requisite knowledge of a third-party’s infringing activity.3 Therefore, this claim was properly dismissed.
+ 
+**4 [4] Next, Parker alleged a claim against Google for vicarious copyright infringement. Parker also based this claim on his allegation that a third-party posted a copy of “Reason # 6” to the USENET. A plaintiff alleges a claim for vicarious copyright infringement when he alleges that the defendant “has the right and ability to supervise the infringing activity and also has a direct financial interest in such activities.” Gershwin Publ’g Corp., 443 F.2d at 1162. “Financial benefit exists where the availability of infringing material acts as a draw for customers.” Ellison v. Robertson, 357 F.3d 1072, 1078 (9th Cir.2004)(internal quotation marks and citation omitted). “There is no requirement that the draw be ‘substantial.’ ” Id. at 1079. We agree with the District Court that Parker failed to state a vicarious copyright infringement claim. Parker failed to allege that Google had a direct financial interest in the purported infringing activity. Thus, this claim was properly dismissed.
+ 
+
+*838 C. Defamation, Invasion of Privacy and Negligence
+Next, Parker alleged claims against Google for defamation, invasion of privacy and negligence. Parker’s defamation claim is based on comments posted about Parker to the USENET as well as statements located on a website that was available through Google’s Internet search engine. Parker also alleged that Google invaded his privacy by creating an unauthorized biography of him whenever someone “googled” his name into the search engine. Additionally, Parker alleged that Google was negligent because it continued to archive a website which contained negative statements about Parker even after Parker put Google on notice. The District Court found that Google was immune from suit on these claims pursuant to 47 U.S.C. § 230 of the Communications Decency Act (“CDA”). We agree.
+ 
+The elements required for Section 230(c) immunity are: (1) that the defendant is a provider or user of an “interactive computer service;” (2) that the asserted claims treat the defendant as the publisher or speaker of the information; and (3) that the information is provided by another “information content provider.” See 47 U.S.C. § 230(c)(1); Dimeo v. Max, 433 F.Supp.2d 523, 529 (E.D.Pa.2006). The CDA also states that “[n]o cause of action may be brought and no liability may be imposed under any State or local law that is inconsistent with this section.” 47 U.S.C. § 230(e)(3).
+ 
+[5] Parker’s claims for defamation, invasion of privacy and negligence arise from Parker’s allegations that Google failed to address harmful content posted by others against him on the Internet. Parker did not assert in the first amended complaint that Google is the information content provider of the statements at issue. We agree with the District Court that Section 230 bars these three claims against Google. See Green v. America Online (AOL), 318 F.3d 465, 471 (3d Cir.2003).
+ 
+
+D. Lanham Act Violations
+Next, Parker alleged that Google republished a website called the “RayFAQ.” Parker asserted that this website contained defamatory comments about him and that users looking for Parker’s website through Google’s search engine would also find the “RayFAQ” website. Parker asserted that these users would think that Parker created the “RayFAQ” website. He alleged Google’s republication of this site constituted a false designation of origin and represented unfair competition (“passing off”) under the Lanham Act.
+ 
+**5 [6] To state a claim pursuant to 15 U.S.C. § 1125(a) of the Lanham Act, a plaintiff must allege: (1) that the defendant uses a false designation of origin; (2) that such use of a false designation of origin occurs in interstate commerce in connection with goods or services; (3) that such false designation is likely to cause confusion, mistake or deception as to the origin, sponsorship or approval of the plaintiff’s goods and services by another person; and (4) that the plaintiff has been or is likely to be damaged. See AT & T Co. v. Winback & Conserve Program, Inc., 42 F.3d 1421, 1428 (3d Cir.1994). Parker failed to allege a likelihood of confusion with respect to the origin of his seduction works. Therefore, his Lanham Act unfair competition claim was properly dismissed.
+ 
+[7] Parker also raised a trade disparagement claim under the Lanham Act. The relevant section of the Lanham Act states:
+Any person who, on or in connection with any goods or services, or any container for goods, uses in commerce any word, term, name, symbol, or device, or  *839 any combination thereof, or any false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which ... in commercial advertising or promotion, misrepresents the nature, characteristics, qualities, or geographic origin of his or her or another person’s goods, services or commercial activities, shall be liable in a civil action by any person who believes that he or she is or is likely to be damaged by such act.
+15 U.S.C. § 1125(a)(1)(B). Parker did not allege that the purportedly disparaging statements about him were made in the context of commercial advertising or promotion regarding his texts. Thus, Parker’s Lanham Act claims were properly dismissed.
+ 
+
+E. Racketeering and Civil Conspiracy Claims
+[8] The District Court dismissed these claims without prejudice pursuant to Federal Rule of Civil Procedure 8(a). Rather than attempt to replead these claims, Parker stood on the allegations in his first amended complaint. Federal Rule of Civil Procedure 8(a) requires a plaintiff to include a “short and plain statement of the claim showing that the pleader is entitled to relief.” Upon examining the first amended complaint, the District Court did not abuse its discretion in dismissing these claims for failing to comply with Rule 8(a).
+ 
+
+F. Denial of Motion for Leave to File a Second Amended Complaint
+Finally, Parker appeals from the denial of his motion to file a second amended complaint. Parker filed this motion after the District Court dismissed his first amended complaint. Federal Rule of Civil Procedure 15(a) states that leave to amend “shall be freely given when justice so requires.” “Among the grounds that could justify a denial of leave to amend are undue delay, bad faith, dilatory motive, prejudice, and futility.” Shane v. Fauver, 213 F.3d 113, 115 (3d Cir.2000)(internal quotation marks and citations omitted). “Futility” means that the proposed amended complaint would fail to state a claim upon which relief could be granted. See id. (citation omitted). “In assessing ‘futility,’ the District Court applies the same standard of legal sufficiency as applies under [Federal] Rule [of Civil Procedure] 12(b)(6).” Id. (citations omitted).
+ 
+**6 [9] We hold that the District Court did not abuse its discretion in denying Parker’s motion for leave to amend. Parker’s attempt to replead claims raised in the first amended complaint suffered from similar defects as previously discussed. See id. (stating that if a claim is vulnerable to dismissal under Rule 12(b)(6) and “the plaintiff moves to amend, leave to amend generally must be granted unless the amendment would not cure the deficiency”).
+ 
+Parker also attempted to raise new claims in the proposed second amended complaint. First, Parker alleged that he “is entitled to relief under the Lanham Act due to Google’s term ‘Google Groups’ to describe USENET.” (Proposed Second Amend. Compl. ¶ 101). To state a valid trademark infringement claim, a plaintiff must allege that “(1) the marks are valid and legally protectable; (2) the marks are owned by the plaintiff; and (3) the defendant’s use of the marks to identify goods or services is likely to create confusion concerning the origin of the goods or services.” Opticians Ass’n of Am. v. Indep. Opticians of Am., 920 F.2d 187, 192 (3d Cir.1990) (citations omitted). Allowing Parker leave to amend to add this claim would have been futile because Parker did not allege that he owned the USENET mark in the proposed second amended complaint.
+ 
+*840 Second, Parker attempted to raise a different unfair competition claim against Google in the proposed second amended complaint. Parker’s proposed second amended complaint stated that “[b]ecause of Google, Plaintiff was forced to abandon his project called ‘Linkway,’ a human-edited directory of links to generate revenue from advertising and product partnerships.” (Proposed Second Amend. Compl. ¶ 44). Parker further alleged that “Google’s massive copyright infringement through its USENET archive, search engine, and cache constitutes unfair competition under the Lanham Act, specifically against human-edited web directories, which are a viable alternative to Google’s products, and which do not require copyright infringement or the risks of lawsuits for the same.” (Id. ¶ 102). Parker’s allegations failed to state a Lanham Act unfair competition claim with respect to the abandonment of his “Linkway” project. See AT & T Co., 42 F.3d at 1428 (setting forth elements of Lanham Act unfair competition claim). Additionally, Parker’s state law unfair competition claims were also futile because they failed to state a claim. See e.g., Granite State Ins. Co. v. Aamco Transmissions, Inc., 57 F.3d 316, 321 (3d Cir.1995)(stating that Lanham Act is derived from common law tort of unfair competition and its language parallels the protections afforded by state common law) (citation omitted).
+ 
+
+IV.
+In conclusion, we will affirm the decision of the District Court to dismiss Parker’s first amended complaint. While the first amended complaint was partially dismissed without prejudice, Parker elected to stand on his first amended complaint when he sought an entry of judgment. Additionally, the District Court did not abuse its discretion in denying Parker’s motion for leave to file a second amended complaint.
+ 
+All Citations
+242 Fed.Appx. 833, 2007 WL 1989660, 2007 Copr.L.Dec. P 29,393, RICO Bus.Disp.Guide 11,316
+Footnotes
+
+1
+
+Parker withdrew this claim on appeal.
+
+2
+
+Parker also alleged that, at one point, he himself posted “Reason # 6” to the USENET.
+
+3
+
+Parker attached several letters to the complaint. See Oshiver v. Levin, Fishbein, Sedran & Berman, 38 F.3d 1380, 1384 n. 2 (3d Cir.1994)(stating that when reviewing a complaint under Rule 12(b)(6), a court can “also consider matters of public record, orders, exhibits attached to the complaint and items appearing in the record of the case”) (citations omitted). These letters were addressed to Google and formed the basis of Parker’s allegation that Google had notice of the infringing activity. However, as noted by the District Court, these letters make no mention of any specific copyrighted work (most importantly, these letters do not mention “Reason # 6”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Live Face on Web, LLC v. Emerson Cleaners, Inc.  
+66 F.Supp.3d 551 , D.N.J.
+COPYRIGHTS - Software. Software developer stated a direct infringement claim against operator of drycleaning business that used infringing software.
+Dec. 11, 2014
+Case
+
+2
+
+
+
+
+3
+
+
+
+
+4
+
+
+
+
+Fed.Appx.
+
+

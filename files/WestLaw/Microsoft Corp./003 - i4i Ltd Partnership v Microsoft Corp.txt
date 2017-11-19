@@ -1,0 +1,1697 @@
+
+
+
+
+
+i4i Ltd. Partnership v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | March 10, 2010 | 598 F.3d 831 | 2010 WL 801705
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Follow by Loesel v. City of Frankenmuth, 6th Cir.(Mich.), August 20, 2012
+
+standard Citation:
+
+i4i Ltd. P’ship v. Microsoft Corp., 598 F.3d 831 (Fed. Cir. 2010)
+
+All Citations:
+
+598 F.3d 831, 93 U.S.P.Q.2d 1943, 81 Fed. R. Evid. Serv. 805
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Follow by Loesel v. City of Frankenmuth, 6th Cir.(Mich.), August 20, 2012
+598 F.3d 831
+United States Court of Appeals,
+Federal Circuit.
+I4I LIMITED PARTNERSHIP and Infrastructures for Information Inc., Plaintiffs–Appellees,
+v.
+MICROSOFT CORPORATION, Defendant–Appellant.
+No. 2009–1504.
+|
+March 10, 2010.
+Synopsis
+Background: Owner of patent relating to a method for processing and storing information about the structure of electronic documents brought infringement action against competitor. Following claim construction, 2009 WL 2960402, and a jury verdict for owner, awarding $200 million in damages, the United States District Court for the Eastern District of Texas, Leonard Davis, J., 670 F.Supp.2d 568, denied competitor’s motions for judgment as a matter of law and motions for a new trial, awarded $40 million in additional damages, and granted owner’s motion for a permanent injunction. Competitor appealed.
+ 
+Holdings: The Court of Appeals, Prost, Circuit Judge, held that:
+ 
+[1] term “distinct” did not require storage in separate files or independent manipulation of the metacode and mapped content;
+ 
+[2] sufficient evidence supported jury’s finding that patent was not anticipated by the sale of prior art software;
+ 
+[3] sufficient evidence supported finding of direct infringement of method claims;
+ 
+[4] substantial evidence supported finding of contributory infringement;
+ 
+[5] substantial evidence supported finding of induced infringement;
+ 
+[6] damages award of $200 million was not clearly excessive;
+ 
+[7] evidence was sufficient to establish that infringement was willful; and
+ 
+[8] district court did not abuse its discretion in granting permanent injunction.
+ 
+Affirmed as modified.
+ 
+Opinion, 589 F.3d 1246, superseded and withdrawn on rehearing.
+ 
+
+
+West Headnotes (61)
+
+
+[1]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+For issues not unique to patent law, the Court of Appeals for the Federal Circuit, in reviewing a patent law case, applies the law of the regional circuit in which the appeal would otherwise lie.
+12 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk776)
+
+
+Under Fifth Circuit law, a court of appeals reviews denials of judgment as a matter of law (JMOL) de novo.
+6 Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsNew Trial, Rehearing, or Reconsideration
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3606New Trial, Rehearing, or Reconsideration
+170Bk3606(1)In general
+(Formerly 170Bk825.1)
+
+
+Under Fifth Circuit law, a court of appeals reviews the denial of a new trial motion for abuse of discretion; a court will not reverse a denial absent a clear showing of an absolute absence of evidence to support the jury’s verdict.
+3 Cases that cite this headnote
+
+
+
+[4]
+
+Federal Civil ProcedureConstruction and Effect of Charge as a Whole
+Federal CourtsInstructions
+Federal CourtsInstructions
+
+
+170AFederal Civil Procedure
+170AXVTrial
+170AXV(G)Instructions
+170Ak2182Construction and Effect of Charge as a Whole
+170Ak2182.1In general
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3601Instructions
+(Formerly 170Bk822)
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)4Harmless and Reversible Error
+170Bk3686Particular Errors as Harmless or Prejudicial
+170Bk3703Instructions
+170Bk3703(1)In general
+(Formerly 170Bk908.1)
+
+
+Under Fifth Circuit law, a court of appeals reviews jury instructions for abuse of discretion, cognizant of the district court’s broad discretion to compose jury instructions, so long as the instructions accurately describe the law; a court will reverse a judgment only if the jury instructions as a whole create a substantial doubt as to whether the jury has been properly guided in its deliberations.
+Cases that cite this headnote
+
+
+
+[5]
+
+Federal CourtsInstructions
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)4Harmless and Reversible Error
+170Bk3686Particular Errors as Harmless or Prejudicial
+170Bk3703Instructions
+170Bk3703(1)In general
+(Formerly 170Bk908.1)
+
+
+Under Fifth Circuit law, erroneous jury instructions are subject to harmless error review; a court will not reverse if, considering the record as a whole, the erroneous instruction could not have affected the outcome of the case.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+Court of Appeals for the Federal Circuit reviews a district court’s patent claim construction de novo.
+2 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsMultiple sources for construction
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1313Multiple sources for construction
+(Formerly 291k168(2.1), 291k167(1), 291k165(2))
+
+
+To ascertain the scope and meaning of asserted patent claims, a court looks to the words of the claims themselves, the specification, and the prosecution history.
+6 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+(Formerly 291k101(2))
+
+
+Term “distinct,” as used to describe how the metacode map and the map content were stored in patent relating to a method for processing and storing information about the structure of electronic documents, did not require storage in separate files.
+2 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+(Formerly 291k101(2))
+
+
+Term “distinct,” as used to describe how the metacode map and the map content were stored in patent relating to a method for processing and storing information about the structure of electronic documents, did not require independent manipulation of the metacode and mapped content.
+Cases that cite this headnote
+
+
+
+[10]
+
+PatentsPreferred embodiment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1332Preferred embodiment
+(Formerly 291k167(1.1))
+
+
+Generally, a patent claim is not limited to the embodiments described in the specification unless the patentee has demonstrated a clear intention to limit the claim’s scope with words or expressions of manifest exclusion or restriction; by the same token, not every benefit flowing from an invention is a claim limitation.
+23 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)4Evidence and Determination
+291k800Questions of law or fact
+(Formerly 291k16.13)
+
+
+Although obviousness in a patent infringement case is a question of law, it is based on factual underpinnings.
+2 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsDe novo review in general
+PatentsObviousness;  lack of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(2)Patentability and Validity
+291k1970(7)Obviousness;  lack of invention
+(Formerly 291k324.5)
+
+
+In reviewing a patent infringement case, the Court of Appeals for the Federal Circuit reviews de novo whether the claimed invention would have been obvious.
+Cases that cite this headnote
+
+
+
+[13]
+
+PatentsJudgment as a matter of law
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1939Relief from Judgment
+291k1941Judgment as a matter of law
+(Formerly 291k323.3)
+
+
+In infringement action brought against competitor by owner of patent relating to a method for processing and storing information about the structure of electronic documents, competitor’s filing of a pre-verdict judgment as a matter of law (JMOL) on anticipation, based on one prior art reference, was insufficient to preserve its right to post-verdict judgment as a matter of law (JMOL) on obviousness, or on other prior art.
+6 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsJudgment as a matter of law
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1939Relief from Judgment
+291k1941Judgment as a matter of law
+(Formerly 291k323.3)
+
+
+In a patent infringement case, a party must file a pre-verdict judgment as a matter of law (JMOL) motion on all theories, and with respect to all prior art references, that it wishes to challenge with a post-verdict JMOL.
+7 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsDegree of proof
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)5Prior Public Use or Sale
+291k635Evidence
+291k638Degree of proof
+(Formerly 291k81)
+
+
+To prove invalidity of a patent by the on-sale bar, a challenger must show by clear and convincing evidence that the claimed invention was on sale in the United States, more than one year prior to the date of the application for patent in the United States. 35 U.S.C.A. § 102(b).
+3 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsDefenses
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1610Defenses
+291k1611In general
+(Formerly 291k283(1))
+
+
+In a patent infringement case, anticipation is an affirmative defense. 35 U.S.C.A. § 102(b).
+1 Cases that cite this headnote
+
+
+
+[17]
+
+PatentsOral testimony and corroboration
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)3Evidence and Determination
+291k578Weight and Sufficiency
+291k580Oral testimony and corroboration
+(Formerly 291k62(2))
+
+
+In patent infringement case, corroboration of expert testimony offered in response to a claim of anticipation and pertaining to whether the prior art practiced the claimed invention is not required.
+2 Cases that cite this headnote
+
+
+
+[18]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)3Evidence and Determination
+291k578Weight and Sufficiency
+291k581Particular products or processes
+(Formerly 291k66(1.24))
+
+
+Evidence was sufficient to support jury’s finding that patent relating to a method for processing and storing information about the structure of electronic documents was not anticipated by the sale of prior art software program; jury heard conflicting testimony on whether the prior art met the patent’s “metacode map” limitation.
+1 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsDegree of proof
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(D)Conclusiveness and Effect of Administrative Decisions
+291k1116Sufficiency of Evidence to Offset Effect of Decision
+291k1119Degree of proof
+(Formerly 291k112.5)
+
+
+A challenger is required to prove the invalidity of a patent by clear and convincing evidence.
+5 Cases that cite this headnote
+
+
+
+[20]
+
+PatentsInstructions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1849Instructions
+(Formerly 291k314(1))
+
+
+District court did not abuse its discretion by using the term “component” rather than “material or apparatus,” in jury instructions for contributory infringement in patent infringement case brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents; although the district court’s instructions differed from the corresponding statute, the parties’ infringement arguments did not turn on whether the accused product was a “component,” versus a “material or apparatus,” and there was no evidence that the jury was aware of any difference, or would have viewed the difference as anything but semantics had it known, because both parties used the terms interchangeably at trial. 35 U.S.C.A. § 271(c).
+13 Cases that cite this headnote
+
+
+
+[21]
+
+PatentsInstructions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1849Instructions
+(Formerly 291k314(1))
+
+
+In patent infringement case brought against competitor by owner of patent relating to a method for processing and storing information about the structure of electronic documents, district court did not abuse its discretion by instructing the jury to focus on custom extensible markup language (XML) editor within competitor’s larger software package, rather than all of the software package, when deciding whether any noninfringing uses were “substantial,” so as to constitute contributory infringement, in light of evidence that some versions of the software package included the editor, while others did not, and testimony opining that the ability to leave the editor out or put it in various products showed that the editor was a separate and distinct feature. 35 U.S.C.A. § 271(c).
+2 Cases that cite this headnote
+
+
+
+[22]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k259(1))
+
+
+A particular tool within a larger software package may be the relevant “material or apparatus,” for contributory infringement purposes of patent law, when that tool is a separate and distinct feature. 35 U.S.C.A. § 271(c).
+8 Cases that cite this headnote
+
+
+
+[23]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1848Questions of law or fact
+(Formerly 291k314(5))
+
+
+Patent infringement is a question of fact.
+24 Cases that cite this headnote
+
+
+
+[24]
+
+PatentsInfringement or noninfringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+(Formerly 291k324.55(5))
+
+
+Where patent infringement is tried to a jury, the Court of Appeals for the Federal Circuit reviews the verdict only for substantial evidence.
+8 Cases that cite this headnote
+
+
+
+[25]
+
+PatentsInfringement or noninfringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+(Formerly 291k324.55(5))
+
+
+Court of Appeals for the Federal Circuit must set aside a general verdict in a patent infringement case if the jury was told it could rely on any of two or more independent legal theories, one of which was defective; however, the Court of Appeals will not set aside a general verdict of infringement simply because the jury might have decided on a ground that was supported by insufficient evidence, and will uphold such a verdict if there was sufficient evidence to support any of the plaintiff’s alternative factual theories, assuming the jury considered all the evidence and relied upon a factual theory for which the burden of proof was satisfied.
+9 Cases that cite this headnote
+
+
+
+[26]
+
+PatentsParticular fields of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1828Particular Matters
+291k1828(2)Particular fields of invention
+(Formerly 291k312(5))
+
+
+Sufficient evidence supported finding of direct infringement of method claims of patent relating to a method for processing and storing information about the structure of electronic documents, as required for patent owner to succeed in its infringement case against competitor on a theory of contributory or induced infringement, in light of testimony of patent owner’s expert, stating that the patent was infringed if accused software was used to open an extensible markup language (XML) document, edit an XML document, or save a document containing custom XML in an XML file format, and joint stipulation and competitor’s interrogatory responses unequivocally stating that the accused software was used in those ways.
+10 Cases that cite this headnote
+
+
+
+[27]
+
+PatentsIdentity in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1562Patents for Processes and Methods
+291k1564Identity in general
+(Formerly 291k229)
+
+
+Direct infringement of method patent claims occurs only when someone performs the claimed method.
+5 Cases that cite this headnote
+
+
+
+[28]
+
+PatentsParticular fields of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1828Particular Matters
+291k1828(2)Particular fields of invention
+(Formerly 291k312(5))
+
+
+Substantial evidence supported jury’s finding, in reaching verdict that competitor infringed patent relating to method for processing and storing information about structure of electronic documents under contributory infringement theory, that custom extensible markup language (XML) editor in accused word-processing software had no substantial, noninfringing uses and that competitor knew that use of editor would infringe patent; expert testified that custom XML editor could be used in three noninfringing ways, but opined that none were substantial, and despite evidence that some users of accused software saved XML documents in noninfringing formats, there was ample testimony that the noninfringing format was not a practical or worthwhile use. 35 U.S.C.A. § 271(c).
+12 Cases that cite this headnote
+
+
+
+[29]
+
+PatentsContributory infringement in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1597Indirect Infringement
+291k1599Contributory infringement in general
+(Formerly 291k259(1))
+
+
+Whether a use is “substantial,” for contributory infringement purposes under patent law, rather than just unusual, far-fetched, illusory, impractical, occasional, aberrant, or experimental, cannot be evaluated in a vacuum. 35 U.S.C.A. § 271(c).
+16 Cases that cite this headnote
+
+
+
+[30]
+
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+Substantial evidence supported jury’s finding, in reaching verdict that competitor infringed patent relating to method for processing and storing information about the structure of electronic documents under induced infringement theory, that competitor had the affirmative intent to cause direct infringement; competitor’s online training and user support resources provided detailed instructions on using accused word-processing software’s infringing custom extensible markup language (XML) editor, patent owner’s expert testified that using the editor as directed by those materials would infringe the patent, and competitor’s internal e-mails showed both knowledge of both patent and infringing nature of accused software’s custom XML editor.
+20 Cases that cite this headnote
+
+
+
+[31]
+
+PatentsInducement to infringe
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1597Indirect Infringement
+291k1600Inducement to infringe
+(Formerly 291k259(1))
+
+
+To prove inducement, a patentee must show direct infringement, and that the alleged infringer knowingly induced infringement and possessed specific intent to encourage another’s infringement.
+66 Cases that cite this headnote
+
+
+
+[32]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk823)
+
+
+Under Fifth Circuit law, a court of appeals reviews evidentiary rulings for abuse of discretion.
+2 Cases that cite this headnote
+
+
+
+[33]
+
+EvidenceMatters involving scientific or other special knowledge in general
+EvidenceNecessity and sufficiency
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(B)Subjects of Expert Testimony
+157k508Matters involving scientific or other special knowledge in general
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.2Necessity and sufficiency
+
+
+Under Daubert, a district court is required to ensure that any scientific testimony is not only relevant, but reliable; when the methodology is sound, and the evidence relied upon sufficiently related to the case at hand, disputes about the degree of relevance or accuracy, above this minimum threshold, may go to the testimony’s weight, but not its admissibility. Fed.Rules Evid.Rule 702, 28 U.S.C.A.
+62 Cases that cite this headnote
+
+
+
+[34]
+
+EvidenceDamages
+EvidenceExperiments and results thereof
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.9Damages
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k557Experiments and results thereof
+
+
+District court did not abuse its discretion in patent infringement action when it admitted testimony of patent owner’s expert, who opined that a reasonable damages award would be $200 million dollars based on a hypothetical negotiation between patent owner and competitor at the time infringement began; expert testified about acceptance of hypothetical negotiation model among damage experts and economists, gave methodical explication of how he applied the model to the relevant facts, and drew relevant facts from competitor’s internal documents, publicly available information about other software similar to accused software, and a survey designed to estimate amount of infringing use. Fed.Rules Evid.Rule 702, 28 U.S.C.A.
+5 Cases that cite this headnote
+
+
+
+[35]
+
+EvidenceMatters involving scientific or other special knowledge in general
+EvidenceNecessity and sufficiency
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(B)Subjects of Expert Testimony
+157k508Matters involving scientific or other special knowledge in general
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.2Necessity and sufficiency
+
+
+Daubert and the expert testimony rule are safeguards against unreliable or irrelevant opinions, not guarantees of correctness. Fed.Rules Evid.Rule 702, 28 U.S.C.A.
+27 Cases that cite this headnote
+
+
+
+[36]
+
+EvidenceMatters involving scientific or other special knowledge in general
+EvidenceNecessity and sufficiency
+EvidenceDamages
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(B)Subjects of Expert Testimony
+157k508Matters involving scientific or other special knowledge in general
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.2Necessity and sufficiency
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.9Damages
+
+
+It is not the district court’s role under Daubert to evaluate the correctness of facts underlying an expert’s testimony; questions about what facts are most relevant or reliable to calculating a reasonable royalty are for the jury. Fed.Rules Evid.Rule 702, 28 U.S.C.A.
+40 Cases that cite this headnote
+
+
+
+[37]
+
+EvidenceNecessity and sufficiency
+EvidenceCross-Examination
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.2Necessity and sufficiency
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k558Cross-Examination
+157k558(1)In general
+
+
+Vigorous cross-examination, presentation of contrary evidence, and careful instruction on the burden of proof are the traditional and appropriate means of attacking shaky but admissible expert evidence.
+27 Cases that cite this headnote
+
+
+
+[38]
+
+EvidenceMachinery and mechanical devices and appliances
+PatentsProfits and damages
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(C)Competency of Experts
+157k539Machinery and mechanical devices and appliances
+(Formerly 291k312(2))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1821Admissibility
+291k1823Profits and damages
+(Formerly 291k312(2))
+
+
+District court did not abuse its discretion in admitting survey used to estimate the amount of infringing use in infringement action brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents; both of patent owner’s experts opined that the survey drastically underestimated the amount of infringing use, the amount of infringing use was a key number in patent owner’s damage calculation, and the testimony of expert of patent owner who helped design the survey sufficed to show that the survey was compiled in accordance with acceptable survey methods.
+3 Cases that cite this headnote
+
+
+
+[39]
+
+PatentsJudgment as a matter of law
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1939Relief from Judgment
+291k1941Judgment as a matter of law
+(Formerly 291k323.3)
+
+
+In infringement action brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents against competitor, competitor waived its ability to have the court decide whether there was a sufficient evidentiary basis for the jury’s damages award, where competitor did not file a pre-verdict judgment as a matter of law (JMOL) motion challenging the sufficiency of the damages’ evidence. Fed.Rules Civ.Proc.Rule 50(a), 28 U.S.C.A.
+3 Cases that cite this headnote
+
+
+
+[40]
+
+Federal CourtsDamages or Other Monetary Relief
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3614Damages or Other Monetary Relief
+170Bk3614(1)In general
+(Formerly 170Bk872, 170Bk871)
+
+
+Asking whether a damages award is “reasonable,” “grossly excessive or monstrous,” “based only on speculation or guesswork,” or “clearly not supported by the evidence,” are simply different ways of asking whether the jury’s award is supported by the evidence.
+3 Cases that cite this headnote
+
+
+
+[41]
+
+PatentsElements, measure, and amount
+PatentsNew trial;  amendment
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1912Elements, measure, and amount
+(Formerly 291k319(1))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1939Relief from Judgment
+291k1942New trial;  amendment
+(Formerly 291k323.3)
+
+
+Damages award of $200 million against patent owner’s competitor was not clearly excessive, so as to entitle competitor to a new trial, in infringement action brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents; patent owner’s damages expert opined that a reasonable royalty was between $200 and $207 million, and competitor’s survey expert explained that the survey’s conservative assumptions on the amount of infringing use meant the damages figure was “really an underestimate” and “way low.” Fed.Rules Civ.Proc.Rule 50(b), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[42]
+
+PatentsRemand;  mandate
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1974Determination and Disposition of Cause
+291k1976Remand;  mandate
+(Formerly 291k324.60)
+
+
+Court of Appeals for the Federal Circuit may set aside a damages award in a patent infringement case and remand for a new trial only upon a clear showing of excessiveness, which required the award to exceed the maximum amount calculable from the evidence; the Court of Appeals must affirm unless the appellant clearly shows there was no evidence to support the jury’s verdict.
+5 Cases that cite this headnote
+
+
+
+[43]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+Any reasonable royalty analysis in a patent infringement case necessarily involves an element of approximation, and uncertainty.
+10 Cases that cite this headnote
+
+
+
+[44]
+
+PatentsEnhanced or punitive damages
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1918Enhanced or punitive damages
+(Formerly 291k319(3))
+
+
+District court did not abuse its discretion in awarding $40 million in enhanced damages after the jury’s willful infringement finding in infringement action brought against competitor by owner of patent relating to a method for processing and storing information about the structure of electronic documents; district court properly considered competitor’s size and financial condition, as well as whether the competitor investigated the scope of the patent, and considered competitor’s litigation misconduct, which consisted of improper statements by competitor’s counsel to the jury, in defiance of the court’s repeated admonitions. 35 U.S.C.A. § 284.
+22 Cases that cite this headnote
+
+
+
+[45]
+
+PatentsEnhanced or punitive damages
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1918Enhanced or punitive damages
+(Formerly 291k319(3))
+
+
+A finding of willful infringement under patent law is a prerequisite to the award of enhanced damages. 35 U.S.C.A. § 284.
+55 Cases that cite this headnote
+
+
+
+[46]
+
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+Evidence was sufficient to establish that patent owner’s competitor willfully infringed patent relating to method for processing and storing information about the structure of electronic documents; after competitor’s employees attended demonstrations of software which practiced the patent and received a sales kit identifying the software as “patented” technology, competitor produced software that was designed to and did perform the same methods as the patented software, without taking any remedial action or making a good faith effort to avoid infringement.
+1 Cases that cite this headnote
+
+
+
+[47]
+
+PatentsWillful infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1559Intent or Purpose, and Knowledge
+291k1561Willful infringement
+(Formerly 291k227)
+
+
+Infringement is “willful” when the infringer was aware of the asserted patent, but nonetheless acted despite an objectively high likelihood that its actions constituted infringement of a valid patent; after satisfying this objective prong, the patentee must also show that the infringer knew or should have known of this objectively high risk.
+56 Cases that cite this headnote
+
+
+
+[48]
+
+PatentsRelief
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(17)Relief
+291k1970(18)In general
+(Formerly 291k324.54)
+
+
+Court of Appeals for the Federal Circuit reviews the decision to grant an injunction in a patent infringement case, as well as the scope of that injunction, for abuse of discretion.
+7 Cases that cite this headnote
+
+
+
+[49]
+
+PatentsDiscretion of lower court in general
+PatentsRelief
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1968Discretion of lower court in general
+(Formerly 291k324.55(2))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(17)Relief
+291k1970(18)In general
+(Formerly 291k324.54)
+
+
+In reviewing a decision granting an injunction in a patent infringement case, the Court of Appeals for the Federal Circuit reviews factual findings made in support of the injunction for clear error, and the district court’s conclusion as to each eBay factor for abuse of discretion.
+7 Cases that cite this headnote
+
+
+
+[50]
+
+PatentsGrounds in general;  multiple factors
+PatentsEvidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1864Grounds in general;  multiple factors
+(Formerly 291k317)
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1869Evidence
+(Formerly 291k317)
+
+
+In seeking an injunction in a patent infringement case, the plaintiff has the burden of showing that (1) it has suffered an irreparable injury; (2) remedies available at law are inadequate to compensate for that injury; (3) considering the balance of hardships between the plaintiff and defendant, a remedy in equity is warranted; and (4) the public interest would not be “disserved” by a permanent injunction. 35 U.S.C.A. § 283.
+33 Cases that cite this headnote
+
+
+
+[51]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+(Formerly 291k317)
+
+
+In granting permanent injunction prohibiting competitor from selling, offering to sell, importing, or using copies of accused software with infringing custom extensible markup language (XML) editor, in infringement action brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents against competitor, district court did not abuse its discretion in finding that infringement irreparably injured patent owner, in light of strong circumstantial evidence that competitor’s infringement rendered patent owner’s product obsolete for much of the custom XML market, causing patent owner to lose market share and change its business strategy to survive. 35 U.S.C.A. § 283.
+3 Cases that cite this headnote
+
+
+
+[52]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+(Formerly 291k317)
+
+
+Past harm to a patentee’s market share, revenues, and brand recognition is relevant for determining whether the patentee has suffered an irreparable injury warranting injunctive relief. 35 U.S.C.A. § 283.
+38 Cases that cite this headnote
+
+
+
+[53]
+
+PatentsAvailability and adequacy of other remedies
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1865Availability and adequacy of other remedies
+(Formerly 291k317)
+
+
+In granting permanent injunction prohibiting competitor from selling, offering to sell, importing, or using copies of accused software with infringing custom extensible markup language (XML) editor, in infringement action brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents against competitor, district court did not abuse its discretion in concluding that monetary damages would be inadequate; patent owner was a small company practicing its patent, only to suffer a loss of market share, brand recognition, and customer goodwill as the result of the competitor’s infringing acts, and such losses were difficult to quantify.
+8 Cases that cite this headnote
+
+
+
+[54]
+
+PatentsAvailability and adequacy of other remedies
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1865Availability and adequacy of other remedies
+(Formerly 291k317)
+
+
+Difficulty in estimating monetary damages is evidence that remedies at law are inadequate, so as to support the grant of an injunction in a patent infringement case. 35 U.S.C.A. § 283.
+16 Cases that cite this headnote
+
+
+
+[55]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+(Formerly 291k317)
+
+
+Balance of hardships favored permanent injunction prohibiting competitor from selling, offering to sell, importing, or using copies of accused software with infringing custom extensible markup language (XML) editor, in infringement action brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents against competitor, where patent owner’s business was comprised almost exclusively of products based on the patent, and, in contrast, competitor’s infringing custom XML editor was merely one of thousands of features within accused software, used by only a small fraction of competitor’s customers, and competitor’s infringement of the patent allowed competitor to corner the XML market.
+1 Cases that cite this headnote
+
+
+
+[56]
+
+PatentsDefenses or objections
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1868Defenses or objections
+(Formerly 291k317)
+
+
+Neither commercial success, nor sunk development costs, shield a patent infringer from injunctive relief.
+10 Cases that cite this headnote
+
+
+
+[57]
+
+PatentsPublic interest considerations
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1867Public interest considerations
+(Formerly 291k317)
+
+
+In granting permanent injunction prohibiting competitor from selling, offering to sell, importing, or using copies of accused software with infringing custom extensible markup language (XML) editor after its effective date, in infringement action brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents against competitor, district court did not abuse its discretion in finding that the narrow scope of the injunction and the public’s general interest in upholding patent rights favored injunctive relief; by excluding users who purchased or licensed infringing products before the injunction’s effective date, the injunction greatly minimized adverse effects on the public.
+21 Cases that cite this headnote
+
+
+
+[58]
+
+PatentsPublic interest considerations
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1867Public interest considerations
+(Formerly 291k317)
+
+
+The touchstone of the public interest factor in deciding whether to grant an injunction in a patent infringement case is whether an injunction, both in scope and effect, strikes a workable balance between protecting the patentee’s rights and protecting the public from the injunction’s adverse effects.
+47 Cases that cite this headnote
+
+
+
+[59]
+
+PatentsScope and extent of relief
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1871Scope and extent of relief
+(Formerly 291k317)
+
+
+In granting permanent injunction prohibiting competitor from selling, offering to sell, importing, or using copies of accused software with infringing custom extensible markup language (XML) editor, in infringement action brought by owner of patent relating to a method for processing and storing information about the structure of electronic documents against competitor, district court erred by ordering competitor to comply with the injunction within 60 days, rather than five months, where the only evidence about how long it would take competitor to comply with the injunction was a declaration of competitor’s employee, which gave an estimate of “at least” five months.
+1 Cases that cite this headnote
+
+
+
+[60]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,280,574, US Patent 5,587,902, US Patent 6,101,512. Cited as Prior Art.
+5 Cases that cite this headnote
+
+
+
+[61]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,787,449. Construed and Ruled Infringed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*838 Donald R. Dunner, Finnegan, Henderson, Farabow, Garrett & Dunner, L.L.P., of Washington, DC, argued for plaintiffs-appellees. With him on the brief were Don O. Burley, Kara F. Stoll and Jason W. Melvin; and Erik R. Puknys, of Palo Alto, CA. Of counsel on the brief were Douglas A. Cawley and Jeffrey A. Carter, McKool Smith, P.C. of Dallas, TX, and T. Gordon White, of Austin, TX.
+Matthew D. Powers, Weil, Gotshal & Manges LLP, of Redwood Shores, CA, argued for defendant-appellant. With him on the brief were Kevin S. Kudlac and Amber H. Rovner, of Austin, TX. Of counsel on the brief were Matthew D. McGill, Minodora D. Vancea, Gibson, Dunn & Crutcher LLP, of Washington, DC; and Isabella E. Fu, Microsoft Corporation, of Redmond, WA. Of counsel was David J. Lender, Weil, Gotshal & Manges LLP, of New York, NY.
+John W. Thornburgh, Fish & Richardson, P.C., of San Diego, CA, for amici curiae Dell Inc. and Hewlett–Packard Company. With him on the brief were John E. Gartman; and Indranil Mukerji, of Washington, DC.
+*839 Richard A. Samp, Washington Legal Foundation, of Washington, DC, for amicus curiae Washington Legal Foundation, of Washington, DC. With him on the brief was Daniel J. Popeo.
+Before SCHALL, PROST, and MOORE, Circuit Judges.
+Opinion
+PROST, Circuit Judge.
+
+This is a patent infringement case about an invention for editing custom XML, a computer language. The owner of the patent, i4i Limited Partnership (“i4i”), brought suit against Microsoft Corporation (“Microsoft”), alleging that the custom XML editor in certain versions of Microsoft Word (“Word”), Microsoft’s word-processing software, infringed i4i’s patent. After a seven-day trial, the jury found Microsoft liable for willful infringement. The jury rejected Microsoft’s argument that the patent was invalid, and awarded $200 million in damages to i4i. The district court denied Microsoft’s motions for judgment as a matter of law and motions for a new trial, finding that Microsoft had waived its right to challenge, among other things, the validity of the patent based on all but one piece of prior art and the sufficiency of the evidence supporting the jury’s damage award. Although statutorily authorized to triple the jury’s damages award because of Microsoft’s willful infringement, the district court awarded only $40 million in additional damages. It also granted i4i’s motion for a permanent injunction. This injunction, which this court stayed pending the outcome of this appeal, is narrow. i4i Ltd. v. Microsoft Corp., 343 Fed.Appx. 619 (Fed.Cir.2009). It does not affect copies of Word sold or licensed before the injunction goes into effect. Thus, users who bought or licensed Word before the injunction becomes effective will still be able to use the infringing custom XML editor, and receive technical support from Microsoft. After its effective date, the injunction prohibits Microsoft from selling, offering to sell, importing, or using copies of Word with the infringing custom XML editor. Microsoft is also prohibited from instructing or assisting new customers in the custom XML editor’s use.
+ 
+On appeal, Microsoft challenges the jury verdict and injunction on multiple grounds. Because this case went to trial and we are in large part reviewing what the jury found, our review is limited and deferential. We affirm the issuance of the permanent injunction, though we modify its effective date to accord with the evidence. In all other respects, we affirm for the reasons set forth below.
+ 
+
+BACKGROUND
+i4i began as a software consulting company in the late 1980s. Basically, companies would hire i4i to develop and maintain customized software for them. Thus, while consumers might not find i4i’s products on the shelves at Best Buy or CompUSA, i4i was in the business of actively creating, marketing, and selling software. In June 1994, i4i applied for a patent concerning a method for processing and storing information about the structure of electronic documents. After approximately four years, the United States Patent and Trademark Office (“PTO”) allowed the application, which issued as U.S. Patent No. 5,787,449 (“′449 patent”). The invention claimed in the ′449 patent forms the basis of this litigation. Since then, i4i has developed several software products that practice the invention. One of these products is “add-on” software for Microsoft Word, which expands Word’s capability to work with documents containing custom XML.
+ 
+XML is one of many markup languages. Markup languages tell the computer how text should be processed by inserting “tags” around text. Tags give the computer *840 information about the text. For example, some tags might tell the computer how to display text, such as what words should appear in bold or italics. Tags can also tell the computer about the text’s content, identifying it as a person’s name or social security number, for instance. Each tag consists of a delimiter and tag name. The delimiter sets the tag apart from the content. Thus, a tag indicating that “717 Madison Pl. NW” is an address might appear as <address>717 Madison Pl. NW</address> where “address” is the tag’s name and “<” and “>” are the delimiters. Custom XML allows users to create and define their own tags. i4i refers to tags and similar information about a document’s structure as “metacodes.” The specification of the ′449 patent defines “metacode” as “an individual instruction which controls the interpretation of the content of the data.” ′449 patent col.4 ll.15–16.
+ 
+The ′449 patent claims an improved method for editing documents containing markup languages like XML. The improvement stems from storing a document’s content and metacodes separately. Id. at col.6 ll.18–21. The invention primarily achieves this separation by creating a “metacode map,” a data structure that stores the metacodes and their locations within the document. The document’s content is stored in a data structure called “mapped content.” Claim 14 is illustrative:
+A method for producing a first map of metacodes and their addresses of use in association with mapped content and stored in distinct map storage means, the method comprising:
+providing the mapped content to mapped content storage means;
+providing a menu of metacodes; and
+compiling a map of the metacodes in the distinct storage means, by locating, detecting and addressing the metacodes; and
+providing the document as the content of the document and the metacode map of the document.
+Id. at col. 16 ll.18–30.
+ 
+Separate storage of a document’s structure and content was an improvement over prior technology in several respects. Importantly, it has allowed users to work solely on a document’s content or its structure. Id. at col.7 ll.6–11, 17–20.
+ 
+Since 2003, versions of Microsoft Word, a word processing and editing software, have had XML editing capabilities. In 2007, i4i filed this action against Microsoft, the developer and seller of Word. i4i alleged that Microsoft infringed claims 14, 18, and 20 of the ′449 patent by making, using, selling, offering to sell, and/or importing Word products capable of processing or editing custom XML. i4i further alleged that Microsoft’s infringement was willful. Microsoft counterclaimed, seeking a declaratory judgment that the ′ 449 patent was invalid and unenforceable.
+ 
+Before the case was submitted to the jury, Microsoft moved for judgment as a matter of law (“JMOL”) on the issues of infringement, willfulness, and validity. The district court denied Microsoft’s motions, and the case was submitted to the jury. The jury found that Word infringed all asserted claims of the ′449 patent. The jury further found that the patent was not invalid, and that Microsoft’s infringement was willful. It awarded $200 million in damages.
+ 
+After trial, Microsoft renewed its motions for JMOL on infringement, validity, and willfulness. In the alternative, Microsoft moved for a new trial on these issues based on the sufficiency of the evidence supporting the jury’s findings. Microsoft also argued it was entitled to a new trial *841 based on errors in the claim construction, evidentiary rulings, and jury instructions. The district court denied Microsoft’s motions. It granted i4i’s motion for a permanent injunction and awarded $40 million in enhanced damages.
+ 
+Microsoft now appeals. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+Microsoft raises numerous issues on appeal. First, Microsoft challenges the district court’s construction of the claim term “distinct.” Second, Microsoft challenges the jury’s validity finding, urging us to find that the ′449 patent was anticipated or obvious as a matter of law, or at least grant a new trial on those issues. Third, Microsoft argues that the jury’s infringement finding must be set aside because it is unsupported by substantial evidence. Fourth, Microsoft challenges the damages award, specifically the admission of certain expert testimony and the sufficiency of the evidence supporting the award. Finally, Microsoft challenges the issuance and terms of the permanent injunction. We address each of these issues in turn.
+ 
+
+I. Standards of Review
+[1] For issues not unique to patent law, we apply the law of the regional circuit in which this appeal would otherwise lie. Thus, we apply Fifth Circuit law when reviewing evidentiary rulings and denials of motions for JMOL or new trial. Finisar Corp. v. DirecTV Group, Inc., 523 F.3d 1323, 1328 (Fed.Cir.2008).
+ 
+[2] We review denials of JMOL de novo. Cambridge Toxicology Group, Inc. v. Exnicios, 495 F.3d 169, 179 (5th Cir.2007). JMOL is appropriate only if the court finds that a “reasonable jury would not have a legally sufficient evidentiary basis to find for the party on that issue.” Fed.R.Civ.P. 50(a)(1); see Cambridge Toxicology, 495 F.3d at 179.
+ 
+[3] We review the denial of a new trial motion for abuse of discretion. Industrias Magromer Cueros y Pieles S.A. v. La. Bayou Furs Inc., 293 F.3d 912, 924 (5th Cir.2002). We will not reverse a denial absent a “clear showing” of an “absolute absence of evidence to support the jury’s verdict.” Duff v. Werner Enters., Inc., 489 F.3d 727, 729 (5th Cir.2007) (emphasis added).
+ 
+[4] [5] We review jury instructions for abuse of discretion, cognizant as we do so of the district court’s broad discretion to compose jury instructions, so long as the instructions accurately describe the law. Baker v. Canadian Nat’l/Ill. Cent. R.R., 536 F.3d 357, 363–64 (5th Cir.2008); Walther v. Lone Star Gas Co., 952 F.2d 119, 125 (5th Cir.1992); see also Barton’s Disposal Serv., Inc. v. Tiger Corp., 886 F.2d 1430, 1434 (5th Cir.1989). We will reverse a judgment “only if the [jury instructions] as a whole create[ ] a substantial doubt as to whether the jury has been properly guided in its deliberations.” Baker, 536 F.3d at 363–64. Erroneous instructions are subject to harmless error review. We will not reverse if, considering the record as a whole, the erroneous instruction “could not have affected the outcome of the case.” Wright v. Ford Motor Co., 508 F.3d 263, 268 (5th Cir.2007).
+ 
+
+II. Claim Construction
+On appeal, we must decide whether the district court properly construed the claim term “distinct.” In the asserted claims, the term “distinct” is used to describe how the metacode map and the mapped content are stored. Specifically, the claims say the metacode map is stored in “distinct map storage means” or “distinct storage means.” See, e.g., ′449 patent col.16 ll.20, 25–26, 53–54. Analogously, the document’s *842 content is stored in “mapped content storage,” id. at col.16 ll.22–23, or “mapped content distinct storage means.” Id. at col. 15 l.51 (emphasis added).
+ 
+Before the district court, Microsoft argued that “distinct” added two requirements: (1) storing the metacode map and mapped content in separate files, not just separate portions of the computer’s memory; and (2) the ability to edit the document’s content and its metacode map “independently and without access” to each other.
+ 
+The district court rejected both of Microsoft’s proposed limitations. Based on its review of the claim language, the specification, and prosecution history, the district court concluded that “distinct” did not require storage in separate files. Similarly, it concluded that the user’s ability to independently edit the document’s structure or content was a benefit of separate storage, not a claim limitation. The district court then defined “distinct map storage means” in more general terms, as “a portion of memory for storing a metacode map.” “Mapped content distinct storage means” was defined as “a portion of memory for storing mapped content.”
+ 
+[6] [7] On appeal, Microsoft renews both arguments about the meaning of “distinct.” We review the district court’s claim construction de novo. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1454–55 (Fed.Cir.1998) (en banc). To ascertain the scope and meaning of the asserted claims, we look to the words of the claims themselves, the specification, and the prosecution history. Phillips v. AWH Corp., 415 F.3d 1303, 1315–17 (Fed.Cir.2005) (en banc); see also 35 U.S.C. § 112 ¶ 2; Innova/Pure Water, Inc. v. Safari Water Filtration Sys., Inc., 381 F.3d 1111, 1115–16 (Fed.Cir.2004) (holding that the claims are not “presumed” to be restricted to the embodiments disclosed in the specification). We conclude that the district court properly rejected both of Microsoft’s proposed limitations.
+ 
+
+A. Separate Files
+[8] To determine whether “distinct” adds the requirement of storage in separate files, we begin with the claim language. See Phillips, 415 F.3d at 1312. In this case, the claim’s plain language does not require storage of the metacode map and mapped content in separate files. The term “file” appears nowhere in the ′449 patent. Instead, the claims use “storage means”; the specification uses “structures.” ′449 patent col.16 ll.22–26, 53; see also id. at col.4 ll.7–13, 21–24. Both “storage means” and “structures” are broader terms than “file,” suggesting no particular format. At trial, i4i’s expert testified that a person of ordinary skill in the art would understand “structures” to store and organize data, but not as limited to a particular storage format. Indeed, the specification arguably renounces particular formats by defining “document” as a “nonrandom aggregation of data irrespective of its mode of storage or presentation.” Id. at col.4 ll.57–59 (emphasis added).
+ 
+Turning to the specification, we similarly see no “clear intent[ ] to limit the claim scope” to storage in files. Abbott Labs. v. Sandoz, Inc., 566 F.3d 1282, 1288 (Fed.Cir.2009). The sample algorithms do not say the storage means is restricted to “files.” ′449 patent col.8 ll.53–62; see Innova/Pure Water, 381 F.3d at 1121–22. Instead, they use the more generic term “storage space,” creating one for the mapped content and another for the metacode map.
+ 
+As for the prosecution history, we do not read it as limiting storage to files. During prosecution, i4i distinguished its invention from U.S. Patent No. 5,280,574 (“Mizuta”) prior art in part because Mizuta stored “all *843 document information ... in one file ... the document file.” But this is not all i4i said. i4i then explained that Mizuta “lacked any notion of a metacode map” or “distinct storage means.” In evaluating whether a patentee has disavowed claim scope, context matters. Together, these statements make clear that what distinguished the Mizuta prior art was not the storage type (file or no file), but rather the separation of a document’s content and structure. The statements Microsoft now plucks from the prosecution history do not “clear[ly] and unmistakabl[y] disavow” storage means that are not files. Computer Docking Station Corp. v. Dell, Inc., 519 F.3d 1366, 1374 (Fed.Cir.2008) (citing Purdue Pharma L.P. v. Endo Pharms., Inc., 438 F.3d 1123, 1136 (Fed.Cir.2006)).
+ 
+Because the claims themselves do not use the word “file” and the specification discloses embodiments where the storage format is not a file, we conclude that “distinct” does not require storage in separate files. Liebel–Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 907–08 (Fed.Cir.2004) (declining to limit the invention’s scope to the disclosed embodiments when the specification did “not expressly or by clear implication reject the scope of the invention” to those embodiments); see also Boston Scientific Scimed, Inc. v. Cordis Corp., 554 F.3d 982, 987 (Fed.Cir.2009).
+ 
+
+B. Independent Manipulation
+[9] The closer question is whether “distinct” requires independent manipulation of the metacode map and mapped content. Several of the embodiments in the ′449 patent allow the user to manipulate only the metacode map or mapped content. ′449 patent figs.4, 5, 6, 8. However, based on our review of the claim language, the specification, and the prosecution history, we conclude that the claims are not limited to these particular embodiments.
+ 
+[10] Generally, a claim is not limited to the embodiments described in the specification unless the patentee has demonstrated a “clear intention” to limit the claim’s scope with “words or expressions of manifest exclusion or restriction.” Liebel–Flarsheim, 358 F.3d at 906; see also Teleflex, Inc. v. Ficosa N. Am. Corp., 299 F.3d 1313, 1327 (Fed.Cir.2002). By the same token, not every benefit flowing from an invention is a claim limitation. See Computer Docking, 519 F.3d at 1374; Verizon Servs. Corp. v. Vonage Holdings Corp., 503 F.3d 1295, 1302–03 (Fed.Cir.2007).
+ 
+We begin again with the claim language. None of the claims mention “independent manipulation” of the mapped content and metacode map, an omission we find significant. Had the inventors intended this limitation, they could have drafted the claims to expressly include it.
+ 
+Similarly, the specification refers to “separate,” rather than “independent,” manipulation of the document’s architecture and content. The specification goes on to describe the storage of the metacode map and content as “distinct and separate.” “Distinct” and “separate” are not the same as “independent.” Moreover, the specification teaches that “separate manipulation” describes the user’s ability to work on only the metacode map or content. Behind the scenes, the invention keeps the metacode map and content synchronized. For example, Figure 9 teaches that updates to the content may require the invention to make corresponding changes to the metacode map. ′449 patent col. 14 l.49–col. 15 l.5.
+ 
+Microsoft is correct that the specification refers to working on “solely” the document’s structure (metacode map):
+*844 The present invention provides the ability to work solely on metacodes. The process allows changes to be made to the structure of a document without requiring the content. A metacode map could be edited directly without the mapped content. Additionally a new map can be created based solely on an existing map without requiring the content.
+Id. at col.7 ll.6–11 (emphases added). Read as a whole, however, these statements are best understood as describing the advantages of separate storage, the real claim limitation. See Abbott Labs., 566 F.3d at 1289–90. The specification’s permissive language, “could be edited,” “can be created,” and “ability to work,” does not clearly disclaim systems lacking these benefits.
+ 
+An examination of the prosecution history similarly reveals no statements that unequivocally narrow the claims to require independent manipulation. Initially, the examiner rejected several claims as obvious, explaining that “[s]torage is always distinct, even if at distinct addresses.” In response, i4i stated:
+[T]he architecture of a document can be treated as a separate entity from the content of the document. Thus, the architecture of the document can be treated as an entity having distinct storage from the content of the document. This separation allows distinct processes to operate on the content and the architecture, with or without knowledge of the other. In other words, using the present invention, one could change the architecture, (layout, structure, or presentation formation) of a document without even having access to the actual content of the document. This is achieved by extracting the metacodes from an existing document and creating a map of the location of the metacodes in the document and then storing the map and the content of the document separately.
+The reason for the examiner’s rejection helps us understand i4i’s response. In context, i4i’s response is best read as clarifying why the invention’s “storage means” are more than just “distinct addresses.” i4i’s subsequent discussion of the benefits of separate storage is not sufficiently “clear and unmistakable” to disavow embodiments lacking independent manipulation. Purdue Pharma, 438 F.3d at 1136.
+ 
+In light of the specification’s permissive language, the prosecution history, and the claim language, we conclude that “independent manipulation” is a benefit of separate storage, but not itself a limitation.
+ 
+
+III. Validity
+Microsoft also appeals two issues regarding the validity of i4i’s patent. The first is whether the invention would have been obvious to one of skill in the art. The second is whether Microsoft is entitled to JMOL or a new trial on validity, due to anticipation by a software program called S4.
+ 
+At trial, Microsoft argued that the ′449 patent was invalid based on several pieces of prior art. As relevant here, Microsoft argued that i4i’s invention would have been obvious in light of U.S. Patent No. 5,587,902 (“Kugimiya”), when combined with either an SGML editor known as Rita or U.S. Patent No. 6,101,512 (“DeRose”). In the alternative, Microsoft argued that i4i’s invention was anticipated under 35 U.S.C. § 102(b) by the sale of a software program, SEMI–S 4 (“S4”), by i4i before the critical date.
+ 
+i4i disputed that it would have been obvious to combine Kugimiya with Rita or DeRose. i4i presented evidence that Kugimiya was in a different field (language translation) than Rita, DeRose, or the ′449 patent, which address document editing. *845 i4i also presented evidence of secondary considerations, including long-felt need, failure of others, and commercial success. As to anticipation, i4i also argued that S4 did not practice the ′449 patent because it did not create a “metacode map.”
+ 
+Before the case was submitted to the jury, Microsoft moved for JMOL on invalidity, arguing that i4i’s sale of S4 violated the on-sale bar under § 102(b). Microsoft did not move for pre-verdict JMOL on obviousness or with regard to other prior art. The verdict form did not require the jury to make separate findings for the different pieces of prior art. Instead, the form asked: “Did Microsoft prove by clear and convincing evidence that any of the listed claims of the ′449 patent are invalid?” The jury was instructed to answer “yes” if it found a particular claim invalid, but otherwise answer “no.” The jury found all the asserted claims not invalid.
+ 
+
+A. Obviousness
+On appeal we must decide whether the ′449 patent would have been obvious in light of some combination of Rita or DeRose with Kugimiya.
+ 
+The Rita prior art is a software program that allows users to create and edit documents using SGML, a markup language like XML. Rita stores the SGML tags and document’s content in a “tree structure.” This tree stores the tags and content together. DeRose discloses a system for generating, analyzing, and navigating electronic documents containing a markup language, such as XML or SGML. To assist navigation, DeRose and Rita use “pointers,” which allow the user to move between different branches of the tree structure. Kugimiya discloses a system for translating documents from English to Japanese. As part of the translation process, Kugimiya finds, removes, and stores any XML tags in a separate file. The program then translates the document’s content from English to Japanese, after which it puts the XML tags into the translated document. After the tags are replaced, the separate file containing the tags is discarded.
+ 
+[11] [12] Although obviousness is a question of law, it is based on factual underpinnings. As always, our review of the ultimate legal question, whether the claimed invention would have been obvious, is de novo. Duro–Last, Inc. v. Custom Seal, Inc., 321 F.3d 1098, 1108 (Fed.Cir.2003). The extent to which we may review the jury’s implicit factual findings depends on whether a pre-verdict JMOL was filed on obviousness. Id.; see also Jurgens v. McKasy, 927 F.2d 1552, 1557–58 (Fed.Cir.1991).
+ 
+[13] [14] In this case, Microsoft has waived its right to challenge the factual findings underlying the jury’s implicit obviousness verdict because it did not file a pre-verdict JMOL on obviousness for the Rita, DeRose and Kugimiya references. Fed.R.Civ.P. 50(a), (b). As we explained in Duro–Last, a party must file a pre-verdict JMOL motion on all theories, and with respect to all prior art references, that it wishes to challenge with a post-verdict JMOL. 321 F.3d at 1107–08. Microsoft’s pre-verdict JMOL on anticipation, based on S4, was insufficient to preserve its right to post-verdict JMOL on a different theory (obviousness), or on different prior art (Rita, DeRose, Kugimiya). Duro–Last, 321 F.3d at 1107–08.
+ 
+Accordingly, we do not consider whether the evidence presented at trial was legally sufficient to support the jury’s verdict. Our review is limited to determining whether the district court’s legal conclusion of nonobviousness was correct, based on the presumed factual findings. Id. at 1108–09; Kinetic Concepts, Inc. v. Blue *846 Sky Med. Group, Inc., 554 F.3d 1010, 1020–21 (Fed.Cir.2009). In conducting this review, we must presume the jury resolved underlying factual disputes in i4i’s favor because the jury made no explicit factual findings. Duro–Last, 321 F.3d at 1108. This presumption applies to disputes about (1) the scope and content of the prior art; (2) differences between the prior art and asserted claims; (3) the existence of motivation to modify prior art references; and (4) the level of ordinary skill in the pertinent art. Id. at 1109; see also Graham v. John Deere Co., 383 U.S. 1, 17, 86 S.Ct. 684, 15 L.Ed.2d 545 (1966); Kinetic Concepts, 554 F.3d at 1019.
+ 
+Microsoft’s argument on appeal—that it would have been obvious to combine DeRose or Rita with Kugimiya—depends heavily on (1) the scope of the prior art, and (2) whether a person of ordinary skill would have been motivated to combine the references’ teachings. These are questions of fact. Kinetic Concepts, 554 F.3d at 1020–21. Similarly, Microsoft’s argument that the prior art discloses all of the claim limitations boils down to questions of fact: whether the “tree structure” in Rita and DeRose is a “metacode map,” and whether a “pointer” is an “address of use.” See id.; Graham, 383 U.S. at 17, 86 S.Ct. 684. The jury found all of the asserted claims not invalid, meaning the jury must have believed that there were differences between the prior art and asserted claims, and that a person of ordinary skill would not have been motivated to combine the references. Cf. Kinetic Concepts, 554 F.3d at 1019–20; Duro–Last, 321 F.3d at 1108–09. Because we must view the evidence in the light most favorable to the verdict, all of these questions must be resolved against Microsoft, and in favor of i4i. Arsement v. Spinnaker Exploration Co., 400 F.3d 238, 249, 252–53 (5th Cir.2005); see Jurgens, 927 F.2d at 1557–58. In light of the jury’s implicit factual findings, Microsoft has not established that the asserted claims would have been obvious.
+ 
+
+B. Anticipation
+For anticipation, the question is whether the district court erred in denying Microsoft’s motion for post-verdict JMOL on invalidity, or alternatively a new trial, based on the sale of S4 violating the on-sale bar. See 35 U.S.C. § 102(b).
+ 
+S4 was a software program developed for a client called SEMI by i4i’s corporate predecessor. i4i’s founder, Michel Vulpe, hired Stephen Owens to help develop S4, which they delivered to SEMI in early 1993. S4 allowed the user to add and edit SGML tags in electronic documents. For storage purposes, S4 divided the document into “entities.” According to Vulpe and Owens, these entities were simply chunks of the SGML document, where the SGML tags were intermixed with the content. Both Vulpe and Owens testified that S4 did not create a “metacode map.”
+ 
+[15] At trial, Microsoft argued that the sale of S4 before the critical date violated the on-sale bar. To prove invalidity by the on-sale bar, a challenger must show by clear and convincing evidence that the claimed invention was “on sale in this country, more than one year prior to the date of the application for patent in the United States.” Id.; Adenta GmbH v. OrthoArm, Inc., 501 F.3d 1364, 1371 (Fed.Cir.2007). It is uncontested that S4 was sold in the United States before the critical date. At trial, the dispute was whether S4 practiced the “metacode map” limitation of the ′449 patent.
+ 
+Because the S4 source code was destroyed after the project with SEMI was completed (years before this litigation began), the dispute turned largely on the credibility of S4’s creators, Vulpe and Owens, who are also the named inventors on *847 the ′449 patent. Both testified that the S4 software sold to SEMI did not practice the ′449 patent, for which they claimed the key innovation—the metacode map—was not even conceived until after the critical date. Both were extensively cross-examined. Vulpe was impeached with statements from a letter he had written to investors, as well as a funding application submitted to the Canadian government.
+ 
+On appeal, Microsoft argues that it was entitled to JMOL because it established a prima facie case of anticipation, which i4i could not rebut by relying on the inventors’ testimony alone, absent corroboration. Alternatively, Microsoft contends the evidence was not sufficient to support the jury’s verdict of validity.
+ 
+
+1. Burden of Proof
+[16] Microsoft’s contention regarding a prima facie case and i4i’s “rebuttal” misunderstands the nature of an anticipation claim under 35 U.S.C. § 102(b). Anticipation is an affirmative defense. See, e.g., Electro Med. Sys., S.A. v. Cooper Life Scis., Inc., 34 F.3d 1048, 1052 (Fed.Cir.1994). We do not agree that i4i was required to come forward with corroboration to “rebut” Microsoft’s prima facie case of anticipation. Corroboration is required in certain circumstances. See, e.g., Martek Biosciences Corp. v. Nutrinova, Inc., 579 F.3d 1363, 1374–76 (Fed.Cir.2009) ( “Because Lonza sought to introduce the testimony of an alleged prior inventor under § 102(g) for the purpose of invalidating a patent, Lonza was required to produce evidence corroborating Dr. Long’s testimony.”); Procter & Gamble Co. v. Teva Pharms. USA, Inc., 566 F.3d 989, 989–99 (Fed.Cir.2009) (requiring corroboration where patentee tried to prove that the conception date was earlier than the filing date of a potentially anticipatory patent); Henkel Corp. v. Procter & Gamble Co., 560 F.3d 1286 (Fed.Cir.2009) (interference); Symantec Corp. v. Computer Assocs. Int’l, Inc., 522 F.3d 1279, 1295–96 (Fed.Cir.2008) (“An alleged co-inventor’s testimony, standing alone, cannot rise to the level of clear and convincing evidence; he must supply evidence to corroborate his testimony.”). However, this is not a case where witness testimony was being used to overcome prior art by establishing an earlier date of invention.
+ 
+[17] To support its argument that S4 practiced the ′449 patent, Microsoft offered testimony by a former i4i employee and its expert. i4i responded with evidence, specifically testimony by S4’s inventors, that S4 did not practice the claimed method. Though we require corroboration of “any witness whose testimony alone is asserted to invalidate a patent,” Finnigan Corp. v. Int’l Trade Comm’n, 180 F.3d 1354, 1369–70 (Fed.Cir.1999) (emphasis added), here the inventor testimony was offered by i4i in response to Microsoft’s attack on the validity of the ′449 patent. It was not offered to meet Microsoft’s burden of proving invalidity by clear and convincing evidence. Cf. TypeRight Keyboard Corp. v. Microsoft Corp., 374 F.3d 1151, 1159–60 (Fed.Cir.2004); Tex. Digital Sys., Inc. v. Telegenix, Inc., 308 F.3d 1193, 1217 (Fed.Cir.2002); Finnigan, 180 F.3d at 1367. We know of no corroboration requirement for inventor testimony asserted to defend against a finding of invalidity by pointing to deficiencies in the prior art. Accordingly, we hold that corroboration was not required in this instance, where the testimony was offered in response to a claim of anticipation and pertained to whether the prior art practiced the claimed invention.
+ 
+
+2. Sufficiency of the Evidence
+[18] In contrast to obviousness, Microsoft did move for pre-verdict JMOL regarding *848 anticipation based on S4. We nonetheless conclude that there was sufficient evidence for a reasonable jury to find that the ′449 patent was not anticipated by the sale of S4. See Bellows v. Amoco Oil Co., 118 F.3d 268, 273 (5th Cir.1997). At trial, the jury heard conflicting testimony on whether S4 met the “metacode map” limitation. In evaluating the evidence, the jury was free to disbelieve Microsoft’s expert, who relied on the S4 user manual, and credit i4i’s expert, who opined that it was impossible to know whether the claim limitation was met without looking at S4’s source code. Although the absence of the source code is not Microsoft’s fault, the burden was still on Microsoft to show by clear and convincing evidence that S4 embodied all of the claim limitations. The jury’s finding of validity was supported by the testimony of the inventors (Vulpe and Owens), as well as their faxes to an attorney regarding the patent application.
+ 
+
+3. Jury Instructions
+Microsoft also challenges the jury instructions on its burden of proving anticipation. According to Microsoft, the burden of proof should have been less for prior art that was not before the PTO, as was the case for Rita and DeRose.
+ 
+[19] We conclude that the jury instructions were correct in light of this court’s precedent, which requires the challenger to prove invalidity by clear and convincing evidence. See, e.g., Zenith Elecs. Corp. v. PDI Commc’n Sys., Inc., 522 F.3d 1348, 1363–64 (Fed.Cir.2008). This court’s decisions in Lucent Technologies, Inc. v. Gateway, Inc., 580 F.3d 1301, 1311–16 (Fed.Cir.2009), and Technology Licensing Corp. v. Videotek, Inc., 545 F.3d 1316, 1327 (Fed.Cir.2008), make clear that the Supreme Court’s decision in KSR International Co. v. Teleflex Inc., 550 U.S. 398, 426, 127 S.Ct. 1727, 167 L.Ed.2d 705 (2007) did not change the burden of proving invalidity by clear and convincing evidence. Thus, based on our precedent, we cannot discern any error in the jury instructions.
+ 
+
+IV. Infringement
+Taking Microsoft’s arguments with regard to infringement in turn, we first review the jury instructions on infringement. We then decide whether the verdict is supported by substantial evidence.
+ 
+
+A. Jury Instructions
+At trial, i4i presented three theories of liability: direct, contributory, and induced infringement. Over Microsoft’s objection, the district court used a general verdict form, which did not require separate findings on the different theories. Instead, the form asked: “Did i4i prove by a preponderance of the evidence that Microsoft infringes Claims 14, 18, or 20 of the ′449 patent?” The form then instructed the jury to answer “yes” or “no” for each claim. The jury answered “yes” for all asserted claims.
+ 
+[20] On appeal, Microsoft argues that it is entitled to a new trial because of two alleged errors in the jury instructions regarding contributory infringement. First, Microsoft argues it was error to use the term “component” rather than “material or apparatus.” In relevant part, the instructions provided:
+If you find someone has directly infringed the ′449 patent, then contributory infringement exists if i4i establishes by a preponderance of evidence that:
+1) Microsoft sold, offered for sale, or imported;
+2) A material component for use in practicing the patented claim-or patented method that is not a staple article of commerce suitable for substantial non-infringing use;
+*849 3) With knowledge that the component was especially made or adapted for use in an infringing manner.
+The corresponding statutory section, 35 U.S.C. § 271(c), uses the words “material or apparatus,” not “component,” for patented processes. Although the district court’s instructions differed from the statute, this is not a case where the difference mattered. See Baker, 536 F.3d at 363–64 (reversing a jury verdict “only if the charge as a whole creates a substantial doubt as to whether the jury has been properly guided in its deliberations”). The parties’ infringement arguments did not turn on whether Word’s custom XML editor was a “component,” versus a “material or apparatus.” Nor is there any reason to think the jury was aware of the difference, or would have viewed the difference as anything but semantics had it known, because both parties used the terms interchangeably at trial. Under these circumstances, we are satisfied that the instruction properly guided the jury in its deliberations.
+ 
+[21] [22] Microsoft also argues that the district court erred by instructing the jury to focus on the custom XML editor, rather than all of Word, when deciding whether any noninfringing uses were “substantial.” Given the evidence presented at trial, the district court did not abuse its discretion. As we explained in Lucent, a particular tool within a larger software package may be the relevant “material or apparatus” when that tool is a separate and distinct feature. 580 F.3d at 1320–21. In Lucent, the infringement inquiry accordingly focused on the date-picker, even though that tool was included in Microsoft Outlook, a larger software package. Id. Although the software differs, our reasoning in Lucent applies equally here. At trial, i4i showed that some versions of Word 2003 included the custom XML editor, while others did not. Dr. Rhyne opined that this ability to “leave [the editor] out or put it in” various Word products showed that the editor was a separate and distinct feature. Thus, there was sufficient evidence before the jury for it to conclude that the relevant “material or apparatus” was the custom XML editor, not all of Word. Accordingly, the jury was properly instructed that it should focus on the editor, not all of Word. See Ricoh Co. v. Quanta Computer Inc., 550 F.3d 1325, 1337 (Fed.Cir.2008).
+ 
+
+B. Sufficiency of the Evidence
+[23] [24] Microsoft also challenges the sufficiency of evidence supporting the jury’s general verdict of infringement. Infringement is a question of fact. Because infringement was tried to a jury, we review the verdict only for substantial evidence. ACCO Brands, Inc. v. ABA Locks Mfrs. Co., 501 F.3d 1307, 1311 (Fed.Cir.2007).
+ 
+[25] Before we consider the evidence, we pause briefly to address what errors are fatal to a general verdict. Different rules apply depending upon whether the flaw is in the legal theory or the evidence. We must set aside a general verdict if the jury was told it could rely on any of two or more independent legal theories, one of which was defective. Walther, 952 F.2d at 126; see Northpoint Tech., Ltd. v. MDS Am., Inc., 413 F.3d 1301, 1311–12 (Fed.Cir.2005). However, we will not set aside a general verdict “simply because the jury might have decided on a ground that was supported by insufficient evidence.” Walther, 952 F.2d at 126 (emphasis added). We will uphold such a verdict if there was sufficient evidence to support any of the plaintiff’s alternative factual theories; we assume the jury considered all the evidence and relied upon a factual theory for which the burden of proof was satisfied. *850 See Northpoint Tech., 413 F.3d at 1311–12.
+ 
+In this case, Microsoft argues that the general verdict must be set aside unless both of i4i’s alternative legal theories, contributory infringement and induced infringement, are supported by substantial evidence. We disagree: the verdict must be upheld if substantial evidence supports either legal theory. Microsoft’s argument fails to distinguish between defects in legal theories and defects in the factual evidence. In this case, the jury was instructed that it could rely on any of three legal theories—direct, contributory, or induced infringement. All of these theories are legally valid and the corresponding instructions on each were proper. Because the jury could not have relied on a legally defective theory, the only remaining question is whether there was sufficient evidence to support either of i4i’s independently sufficient legal theories, contributory infringement or induced infringement.1 We conclude that there was.
+ 
+
+1. Direct Infringement
+[26] [27] To succeed on a theory of contributory or induced infringement, i4i was required to show direct infringement of the ′449 patent. Lucent, 580 F.3d at 1317; see also Glenayre Elecs., Inc. v. Jackson, 443 F.3d 851, 858 (Fed.Cir.2006). Because the claims asserted by i4i are method claims, Microsoft’s sale of Word, without more, did not infringe the ′449 patent. Lucent, 580 F.3d at 1317. Direct infringement occurs only when someone performs the claimed method. Id.
+ 
+Based on the evidence presented at trial, a reasonable jury could have found that at least one person performed the methods claimed in the ′449 patent. This evidence included testimony by i4i’s expert (Dr. Rhyne), a joint stipulation, and Microsoft’s response to interrogatories. Rhyne opined that Word’s custom XML editor met all of the limitations of the asserted claims because the editor separated a document into a “CP stream” of content and a separate data structure containing the metacodes and their addresses of use. Rhyne testified that this separate data structure met the “metacode map” limitation. Though Microsoft’s expert offered conflicting evidence, opining that Word did not infringe the asserted claims, the jury was free to disbelieve Microsoft’s expert and credit i4i’s expert, who testified that the ′449 patent was infringed if Word was used to open an XML document, edit an XML document, or save a document containing custom XML in an XML file format. The joint stipulation and Microsoft’s interrogatory responses unequivocally state that Word was used in these ways. Cf. Fresenius USA, Inc. v. Baxter Int’l, Inc., 582 F.3d 1288, 1298–99 (Fed.Cir.2009); Martek, 579 F.3d at 1371–72.
+ 
+
+2. Contributory Infringement
+For contributory infringement, the question is whether there is substantial evidence to support a finding under this theory. A party is liable for contributory infringement if that party sells, or offers to sell, a material or apparatus for use in practicing a patented process. That “material or apparatus” must be a material part of the invention, have no substantial noninfringing uses, and be known (by the  *851 party) “to be especially made or especially adapted for use in an infringement of such patent.” 35 U.S.C. § 271(c); Cross Med. Prods., Inc. v. Medtronic Sofamor Danek, Inc., 424 F.3d 1293, 1312 (Fed.Cir.2005).
+ 
+[28] Based on the evidence presented at trial, the jury could have reasonably concluded that the custom XML editor had no substantial, noninfringing uses and that Microsoft knew that the use of the custom XML editor would infringe i4i’s patent. At trial, Rhyne agreed that the custom XML editor could be used in three noninfringing ways, but opined that none were “substantial.” Rhyne explained that saving a document in the noninfringing, binary format deprived users of the very benefit XML was intended to provide: namely, allowing another program to search and read the document’s metacode tags.
+ 
+[29] Despite Microsoft’s contention to the contrary, evidence that some users saved XML documents in these noninfringing formats does not render the jury’s verdict unreasonable. Whether a use is “substantial,” rather than just “unusual, far-fetched, illusory, impractical, occasional, aberrant, or experimental,” cannot be evaluated in a vacuum. Vita–Mix Corp. v. Basic Holding, Inc., 581 F.3d 1317, 1327 (Fed.Cir.2009). In assessing whether an asserted noninfringing use was “substantial,” the jury was allowed to consider not only the use’s frequency, but also the use’s practicality, the invention’s intended purpose, and the intended market. See id. Here, the jury heard ample testimony that the noninfringing, binary file format was not a practical or worthwhile use for the XML community, for which the custom XML editor was designed and marketed.
+ 
+Further, the jury could have reasonably concluded that Microsoft knew that use of the editor would infringe the ′449 patent, based on the circumstantial evidence presented at trial. Cf. Lucent, 580 F.3d at 1318, 1321–22; Fuji Photo Film Co. v. Jazz Photo Corp., 394 F.3d 1368, 1377–78 (Fed.Cir.2005). Here, the evidence showed that the Word development team heard a presentation by i4i about software practicing the ′449 patent, asked how the software worked, and received marketing materials on the software. Internal Microsoft emails showed that other Microsoft employees received a marketing email from i4i containing the patent number, were “familiar” with i4i’s products, and believed the Word’s custom XML editor would render that product “obsolete.” Based on this evidence, the jury could have reasonably concluded that Microsoft knew about the ′449 patent and knew use of its custom XML editor would infringe.
+ 
+
+3. Induced Infringement
+[30] [31] Though we need not reach this theory because substantial evidence supports i4i’s theory of contributory infringement, we do so for the sake of completeness. On appeal, the sole question is whether there is substantial evidence to support a verdict of induced infringement. To prove inducement, the patentee must show direct infringement, and that the alleged infringer “knowingly induced infringement and possessed specific intent to encourage another’s infringement.” MEMC Elec. Materials, Inc. v. Mitsubishi Materials Silicon Corp., 420 F.3d 1369, 1378 (Fed.Cir.2005); see 35 U.S.C. § 271(b).
+ 
+Based on the evidence presented at trial, a reasonable jury could have concluded that Microsoft had the “affirmative intent to cause direct infringement.” DSU Med. Corp. v. JMS Co., 471 F.3d 1293, 1306 (Fed.Cir.2006) (en banc in relevant part). The jury saw and heard about Microsoft’s online training and user support resources, which provided detailed instructions on using Word’s custom XML editor. i4i’s expert *852 opined that using the editor as directed by these materials would infringe the ′449 patent. The instructional materials were thus substantial evidence that Microsoft intended the product to be used in an infringing manner. See DSU, 471 F.3d at 1303, 1305. Unlike the instructions in Vita–Mix, 581 F.3d at 1328–29, which taught a use the defendant “could have reasonably believed was non-infringing” and another use that was “non-infringing,” here there was substantial evidence Microsoft knew its instructions would result in infringing use. As explained in our discussion of contributory infringement, Microsoft’s internal emails are substantial evidence of Microsoft’s knowledge, both of the ′449 patent and the infringing nature of Word’s custom XML editor. Regarding i4i’s software that practiced the invention, one Microsoft employee remarked: “[W]e saw this tool some time ago and met its creators. Word [2003] will make it obsolete. It looks great for XP though.” Evidence that consumers were using Word in an infringing manner included Microsoft data on usage of Word, as well as a Microsoft marketing document listing “real” examples of custom XML’s use in Word.
+ 
+
+V. Damages
+Microsoft protests the $200 million damages award on several grounds. We begin by reviewing the propriety of various evidentiary rulings. We then decide whether the district court abused its discretion by denying Microsoft a new trial on damages.
+ 
+
+A. Evidentiary Rulings
+[32] We review evidentiary rulings for abuse of discretion. Huss v. Gayden, 571 F.3d 442, 452 (5th Cir.2009); see Paz v. Brush Engineered Materials, Inc., 555 F.3d 383, 387–88 (5th Cir.2009). Microsoft challenges the admission of expert testimony on damages, as well as a survey relied on by the expert. We address each in turn.
+ 
+
+1. Expert Testimony
+[33] To determine whether expert testimony was properly admitted under Rule 702 of the Federal Rules of Evidence, we use the framework set out in Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579, 589–90, 113 S.Ct. 2786, 125 L.Ed.2d 469 (1993).2 Daubert requires the district court ensure that any scientific testimony “is not only relevant, but reliable.” Id. at 589, 113 S.Ct. 2786; see also Kumho Tire Co. v. Carmichael, 526 U.S. 137, 141–42, 119 S.Ct. 1167, 143 L.Ed.2d 238 (1999). When the methodology is sound, and the evidence relied upon sufficiently related to the case at hand, disputes about the degree of relevance or accuracy (above this minimum threshold) may go to the testimony’s weight, but not its admissibility. Knight v. Kirby Inland Marine Inc., 482 F.3d 347, 351 (5th Cir.2007); Moore v. Ashland Chem. Inc., 151 F.3d 269, 276 (5th Cir.1998) (en banc).
+ 
+[34] On appeal, Microsoft challenges the expert testimony by Dr. Wagner, i4i’s damages expert. Wagner opined that a reasonable damages award would be $200 million dollars, based on a hypothetical negotiation between i4i and Microsoft at the time the infringement began. To come up with the $200 million figure, Wagner calculated a royalty rate ($98), then multiplied that rate by the number of Word *853 products actually used in an infringing manner (2.1 million).
+ 
+At trial, the parties hotly disputed the correctness of the $98 royalty rate. Microsoft argued that this rate was exorbitant given the price of certain Word products, which could be as little as $97. As further evidence of its unreasonableness, Microsoft pointed out that the rate resulted in a total damages amount ($200 million) greatly exceeding the $1–$5 million Microsoft had paid to license other patents. In response, i4i had its expert (Wagner) give a detailed explanation for how he arrived at the $98 royalty rate. Wagner testified that he first chose an appropriate “benchmark” in order to value Microsoft’s use of the claimed invention at the time of the hypothetical negotiation. Wagner chose a product called XMetaL as his benchmark, which had a retail price of $499. To calculate the licensing fee, Wagner multiplied the price of XMetaL ($499) by Microsoft’s profit margin (76.6%), based on his assumption that any licensing fee would be a fraction of the profits. Wagner then applied the 25–percent rule to this number, which assumes the inventor will keep 25% of the profits from any infringing sales. This resulted in a baseline royalty rate of $96. Wagner testified that the 25–percent rule was “well-recognized” and “widely used” by people in his field.
+ 
+To support his royalty calculation, Wagner adjusted the baseline royalty rate of ($96) using the factors set out in Georgia–Pacific Corp. v. U.S. Plywood Corp., 318 F.Supp. 1116, 1120 (S.D.N.Y.1970).3 Based on the Georgia–Pacific factors, Wagner then increased the baseline from $96 to $98, which was the “reasonable royalty rate” he used in calculating the $200–$207 million damages estimate. Specifically, Wagner concluded that factors 3, 5, 6, 9, and 11 affected the baseline rate.
+ 
+Wagner opined that factor 3, which considers the license’s terms, lowered the royalty rate because his hypothetical license did not give Microsoft know-how, additional cooperation or trade secrets, just non-exclusive use in the United States. However, Wagner opined that factors 5, 6, 9, and 11 increased the royalty rate. For factor 5, which looks at the commercial relationship between the licensor and licensee, Wagner found that Microsoft was a direct competitor of i4i, which meant any license would destroy a “very large segment” of i4i’s market. For factor 6, which asks whether the patented technology promotes the sale of other products, Wagner concluded that the infringing custom XML *854 editor was critical to Microsoft’s sales generally, as evidenced by internal Microsoft statements that a custom XML editor was “one of the most important ways” for encouraging users to purchase new Word products. Examining factor 9, which examines the infringer’s need for taking a license, Wagner opined that Microsoft had no commercially acceptable, non-infringing alternatives to using i4i’s patent. This opinion was based on internal Microsoft documents describing Microsoft’s interest in creating such a custom XML editor, and prolonged inability to do so. For factor 11, which looks at the use and value of the patented technology to Microsoft, Wagner concluded that the custom XML editor was a critical addition to Word. In support of this view, i4i presented statements by Microsoft employees that custom XML was not a “slight addition [but i]t’s more like 90 percent of the value,” was “where the future is, seriously,” and “the glue that holds the Office ecosystem together.” Based on all of these Georgia–Pacific factors, Wagner increased the baseline royalty rate by $2, for a total of $98.
+ 
+[35] On appeal, Microsoft ably points out various weaknesses in the damage calculations by i4i’s expert. At their heart, however, Microsoft’s disagreements are with Wagner’s conclusions, not his methodology. Daubert and Rule 702 are safeguards against unreliable or irrelevant opinions, not guarantees of correctness. We have consistently upheld experts’ use of a hypothetical negotiation and Georgia–Pacific factors for estimating a reasonable royalty. See, e.g., Micro Chem., Inc. v. Lextron, Inc., 317 F.3d 1387, 1393 (Fed.Cir.2003); Interactive Pictures Corp. v. Infinite Pictures, Inc., 274 F.3d 1371, 1384 (Fed.Cir.2001). Wagner’s testimony about the acceptance of the hypothetical negotiation model among damage experts and economists, combined with his methodical explication of how he applied the model to the relevant facts, satisfied Rule 702 and Daubert. See Daubert, 509 U.S. at 593, 113 S.Ct. 2786. Given Wagner’s testimony about his credentials, the district court did not abuse its discretion in finding Wagner qualified to apply the methodology. See Pipitone v. Biomatrix, Inc., 288 F.3d 239, 249–50 (5th Cir.2002). Microsoft’s quarrel with the facts Wagner used go to the weight, not admissibility, of his opinion.
+ 
+We further hold that Wagner’s opinion was “based on sufficient facts or data.” Fed.R.Evid. 702. At trial, Microsoft disputed which facts were relevant for determining a reasonable royalty rate. In particular, Microsoft focused on the benchmark (XMetaL), the resulting baseline royalty rate, and i4i’s survey for estimating infringing use.
+ 
+Regarding the benchmark, Wagner explained that he chose XMetaL because it was the product Microsoft bought and used before developing its own custom XML editor, it was the cheapest of the custom XML editors available on the market at the time, and it was one of three principal competitors Microsoft identified in the custom XML market. Microsoft contended that a better estimate of the custom XML editor’s value was $50, the difference in price between versions of Word with and without the editor. Microsoft also argued that because XMetaL has many additional features besides custom XML editing, the $499 retail price overestimated the value of the custom XML editor. In response, Wagner acknowledged that not all users of custom XML would have switched to a high-end product like XMetaL, but that those “who really needed that functionality” would have, requiring them to buy one of the commercially available products, even if it had many superfluous features. Wagner clarified that his damages estimate only considered *855 users who “really needed” the custom XML editor, making it inappropriate to use the $50 price difference paid by all purchasers of Word, regardless of whether they infringed or not.
+ 
+As for using the baseline royalty rate ($96) as the starting point for the Georgia–Pacific analysis, Wagner opined that it was necessary because of Microsoft’s business strategy. According to Wagner, Microsoft’s primary goal is to make sales, not to maximize the price it charges for each additional feature. In making sales, Wagner explained that Microsoft’s biggest competitor is always itself: Microsoft has to convince consumers to purchase new versions of its products, even if they already have a “perfectly good” copy of an older version. To incentivize users to upgrade, Wagner testified that Microsoft included new features at no additional cost, making it difficult to value the new features.
+ 
+As for the survey, i4i’s survey expert (Dr. Wecker) explained that it was limited to estimating infringing use by businesses; i4i did not even seek damages for infringing use by individual consumers. Wecker sent the survey to 988 large and small businesses randomly selected from a database of 13 million U.S. companies. Wecker explained that this large sample size was necessary to ensure he received sufficient responses (between 25 and 100) because many companies are “too busy” or have policies against responding to surveys. The survey consisted of screening and substantive questions. The screening questions helped identify the proper person to speak with about the company’s use of custom XML. Wecker received 46 responses to the survey, which consisted of approximately 40 substantive questions. For all of the questions, the responder had the option of saying they did not know. Any company that took the survey received $35, regardless of the answers they gave. Wecker explained that he used logical imputation, an accepted procedure for statisticians to resolve inconsistent survey responses, to make some of the answers consistent. Of those that responded to the survey, 19 companies reported using Word in an infringing manner. Wecker assumed that all the companies that did not respond (942) did not use Word in an infringing manner. Based on these assumptions, Wecker determined that 1.9% (19/988) of all copies of Word sold to businesses between 2003 and 2008 were used in an infringing manner. Wecker then multiplied this percentage (1.9%) by the number of copies of Word sold to businesses, for a total of 1.8 million infringing uses.4
+ 
+Wecker opined that this estimate was conservative, “really an underestimate” and “way low” because he assumed every company that did not respond was not infringing, which was highly unlikely and introduced a “serious downward bias.” Microsoft contested the accuracy of the survey, based on the low response rate, use of logical imputation to correct inconsistent answers, and questions requiring estimates of Word usage going back several years. In response, i4i’s experts opined that the survey’s conservative assumptions about the unresponsive companies mitigated (and perhaps even overcorrected) for those weaknesses.
+ 
+Microsoft is correct that i4i’s expert could have used other data in his calculations. The existence of other facts, however, does not mean that the facts used failed to meet the minimum standards of relevance *856 or reliability. See Fed.R.Evid. 702 advisory committee’s note. Under Rule 702, the question is whether the expert relied on facts sufficiently related to the disputed issue. Here, that issue was a reasonable royalty for the ′449 patent. We conclude that Wagner based his calculations on facts meeting these minimum standards of relevance and reliability. Fed.R.Evid. 702.
+ 
+[36] As i4i’s expert explained, the facts were drawn from internal Microsoft documents, publicly available information about other custom XML editing software, and a survey designed to estimate the amount of infringing use. Thus, these facts had a sufficient nexus to the relevant market, the parties, and the alleged infringement. While the data were certainly imperfect, and more (or different) data might have resulted in a “better” or more “accurate” estimate in the absolute sense, it is not the district court’s role under Daubert to evaluate the correctness of facts underlying an expert’s testimony. See Micro Chem., 317 F.3d at 1392. Questions about what facts are most relevant or reliable to calculating a reasonable royalty are for the jury. The jury was entitled to hear the expert testimony and decide for itself what to accept or reject. See Pipitone, 288 F.3d at 249–50.
+ 
+[37] As the Supreme Court explained in Daubert, “[v]igorous cross-examination, presentation of contrary evidence, and careful instruction on the burden of proof are the traditional and appropriate means of attacking shaky but admissible evidence.” 509 U.S. at 596, 113 S.Ct. 2786. Microsoft had these opportunities, and ably availed itself of them. Microsoft presented expert testimony and attacked the benchmark, survey, and calculation’s reasonableness on cross-examination. Cf. Micro Chem., 317 F.3d at 1392.
+ 
+Based on this record, the district court did not abuse its discretion in admitting Wagner’s expert testimony on damages.
+ 
+
+2. The Survey
+[38] Microsoft also challenges the district court’s admission of the survey used to estimate the amount of infringing use. We do not agree with Microsoft that the danger of unfair prejudice substantially outweighed the survey’s probative value, so as to warrant exclusion under Rule 403. Both of i4i’s experts, Wagner and Wecker, opined that the survey dramatically underestimated the amount of infringing use. Given the survey’s conservative assumptions, the district court did not abuse its discretion in admitting the survey. Further, the survey was properly admitted over Microsoft’s hearsay objection under Federal Rule of Evidence 703, since the survey was used to estimate the amount of infringing use, a key number in i4i’s damage calculation. Given the survey’s importance, evidence about its methodology and findings could certainly help the jury evaluate the expert testimony. See C.A. May Marine Supply Co. v. Brunswick Corp., 649 F.2d 1049, 1054–55 (5th Cir.1981). The testimony of Wecker, the expert who helped design the survey, sufficed to show that the survey was compiled in accordance with acceptable survey methods.
+ 
+For these reasons, the district court did not abuse its discretion in admitting the survey.
+ 
+
+B. Reasonableness of the Damages Award
+[39] Microsoft urges us to follow this court’s recent decision in Lucent, 580 F.3d 1301, and hold that $200 million is not a reasonable royalty. We cannot, however, because the procedural posture of this case differs from Lucent, and that difference controls this case. Although Microsoft *857 now objects to the size of the damages award, we cannot reach that question because Microsoft did not file a pre-verdict JMOL on damages.
+ 
+[40] In Lucent, the accused infringer filed a pre-verdict JMOL motion challenging the sufficiency of the damages’ evidence. Id. at 1309. Though Microsoft could have similarly filed a pre-verdict JMOL, for whatever reason, it chose not to. See Fed.R.Civ.P. 50(a). On appeal, what that strategic decision means for Microsoft is that we cannot decide whether there was a sufficient evidentiary basis for the jury’s damages award. Cf. Lucent, 580 F.3d at 1332 (holding that “we see little evidentiary basis under Georgia–Pacific ” for the damages award). Asking whether a damages award is “reasonable,” “grossly excessive or monstrous,” “based only on speculation or guesswork,” or “clearly not supported by the evidence,” are simply different ways of asking whether the jury’s award is supported by the evidence. Fuji Photo, 394 F.3d at 1378; Catalina Lighting, Inc. v. Lamps Plus, Inc., 295 F.3d 1277, 1290 (Fed.Cir.2002). Microsoft waived its ability to have us decide that question by failing to file a pre-verdict JMOL on damages. Fed.R.Civ.P. 50(a), (b).
+ 
+Had Microsoft filed a pre-verdict JMOL, it is true that the outcome might have been different. Given the opportunity to review the sufficiency of the evidence, we could have considered whether the $200 million damages award was “grossly excessive or monstrous” in light of Word’s retail price and the licensing fees Microsoft paid for other patents. Cf. Lucent, 580 F.3d at 1325–32. As this court did in Lucent, we could have analyzed the evidentiary basis for the Georgia–Pacific factors, and whether the benchmark (XMetaL) was sufficiently comparable. Id.
+ 
+[41] [42] However, we cannot. Instead of the more searching review permitted under Rule 50(b), we are constrained to review the verdict under the much narrower standard applied to denials of new trial motions. Duff, 489 F.3d at 730. This standard is highly deferential: we may set aside a damages award and remand for a new trial “only upon a clear showing of excessiveness.” Id. (emphasis added). To be excessive, the award must exceed the “maximum amount calculable from the evidence.” Carlton v. H.C. Price Co., 640 F.2d 573, 579 (5th Cir.1981). We must affirm unless the appellant clearly shows there was no evidence to support the jury’s verdict. Duff, 489 F.3d at 730, 732; see also Industrias Magromer, 293 F.3d at 923.
+ 
+[43] Under this highly deferential standard, we cannot say that Microsoft is entitled to a new trial on damages. The damages award, while high, was supported by the evidence presented at trial, including the expert testimony—which the jury apparently credited. See Unisplay, S.A. v. Am. Elec. Sign Co., 69 F.3d 512, 519 (Fed.Cir.1995). On appeal, the question is not whether we would have awarded the same amount of damages if we were the jury, but rather whether there is evidence to support what the jury decided. See Fuji Photo, 394 F.3d at 1378. Here, the jury’s award was supported by the testimony of Wagner, i4i’s damage expert, who opined that a reasonable royalty was between $200 and $207 million. The award was also supported by the testimony of Wecker, i4i’s survey expert, who explained that the survey’s conservative assumptions (i.e., that none of the companies who failed to respond infringed) meant the damages figure was “really an underestimate” and “way low.” As we have recognized previously, any reasonable royalty analysis necessarily involves an element of approximation, *858 and uncertainty. See Lucent, 580 F.3d at 1325; Unisplay, 69 F.3d at 517. Given the intensely factual nature of a damages determination and our deferential standard of review, we are not in a position to second-guess or substitute our judgment for the jury’s.
+ 
+
+C. Enhanced Damages
+[44] Microsoft has only appealed the district court’s decision to enhance damages under 35 U.S.C. § 284.
+ 
+[45] Section 284 gives the district court discretion to “increase the damages up to three times the amount found or assessed” by the jury. A finding of willful infringement is a prerequisite to the award of enhanced damages. In re Seagate Technology, LLC., 497 F.3d 1360, 1368 (Fed.Cir.2007) (en banc). In this case, the question of whether Microsoft willfully infringed the ′449 patent was submitted to the jury, which was instructed that i4i had to prove Microsoft (1) was aware of the ′449 patent; (2) acted despite an objectively high likelihood that its actions infringed a valid patent; where (3) this objectively high risk was either known or so obvious it should have been known to Microsoft. The verdict form instructed the jury to answer “yes” or “no” to “Did i4i prove by clear and convincing evidence that Microsoft’s infringement was willful?” The jury answered “yes.” Based on the jury’s willfulness finding, i4i made a post-trial motion for enhanced damages.
+ 
+The district court then analyzed the factors set out in Read Corp. v. Portec, Inc., 970 F.2d 816, 826–27 (Fed.Cir.1992), in deciding whether to enhance damages. The district court found that factors 2, 4, 6, 7, and 8 supported enhancement. Factors 1 and 9, combined with i4i’s delay in bringing suit, were found to weigh against enhancement. For factor 1, which considers whether the infringer deliberately copied the ideas or design of another, the district court found no evidence that Microsoft deliberately copied any of i4i’s products. For factor 2, which considers whether the infringer knew of the patent, investigated the patent’s scope and formed a good-faith belief of its invalidity or noninfringement, the district court found Microsoft was aware of i4i’s patent, never formed a good faith belief of noninfringement, and clearly intended to add a custom XML editor in Word with similar capabilities to i4i’s patented products. For factor 4, which considers the infringer’s size and financial condition, the district court found that the jury’s award, while “substantial,” was only a small fraction of Microsoft’s profits from the sale of Word products. The district court also noted that Microsoft was “undisputedly” the world leader in software for business and personal computing, with revenues of $60.42 billion in 2008 alone. As for factors 6, 7, and 8, the district court found that Microsoft had started using the infringing products more than five years ago (in 2002), failed to conduct an infringement analysis after being notified of the ′449 patent again in 2003, and implemented the infringing custom XML editor with the purpose of rendering i4i’s products obsolete. Although statutorily authorized to increase the award to $600 million, the district court awarded only $40 million in enhanced damages. See 35 U.S.C. § 284.
+ 
+On this record, we cannot conclude that the district court abused its discretion in weighing the evidence or applying the Read factors. See Amsted Indus., Inc. v. Buckeye Steel Castings Co., 24 F.3d 178, 184 (Fed.Cir.1994). The district court made detailed factual findings which, taken together, support its award of enhanced damages. See Jurgens v. CBK, Ltd., 80 F.3d 1566, 1570–71 (Fed.Cir.1996). In deciding whether to enhance damages, the district court properly declined to reapply *859 the test for willfulness set out in Seagate, 497 F.3d 1360. Although a finding of willfulness is a prerequisite for enhancing damages under § 284, the standard for deciding whether—and by how much—to enhance damages is set forth in Read, not Seagate. See 35 U.S.C. § 284; SRI Int’l, Inc. v. Advanced Tech. Labs., Inc., 127 F.3d 1462, 1468–69 (Fed.Cir.1997); cf.  Seagate, 497 F.3d at 1371. Here, the question of willfulness was submitted to the jury. Microsoft does not dispute that the jury instructions were proper under Seagate, 497 F.3d at 1371. The test for willfulness is distinct and separate from the factors guiding a district court’s discretion regarding enhanced damages. Compare id., with Read, 970 F.2d at 826–27. Under the Read factors, the district court properly considered Microsoft’s size and financial condition, as well as whether Microsoft investigated the scope of the patent. Id. at 827; see also Transclean Corp. v. Bridgewood Servs., Inc., 290 F.3d 1364, 1377–78 (Fed.Cir.2002).
+ 
+Microsoft is correct that it would have been improper to enhance damages based solely on litigation misconduct, and that this is not the prototypical case of litigation misconduct.5 Typically, “litigation misconduct” refers to bringing vexatious or unjustified suits, discovery abuses, failure to obey orders of the court, or acts that unnecessarily prolong litigation. Jurgens, 80 F.3d at 1570–71 & n. 3; see also Va. Panel Corp. v. MAC Panel Co., 133 F.3d 860, 866 (Fed.Cir.1997). Here, the misconduct was improper statements by Microsoft’s counsel to the jury, in defiance of the court’s repeated admonitions. However, the district court considered Microsoft’s litigation misconduct only after finding that the other Read factors favored enhanced damages: “Finally, also favoring enhancement is Microsoft’s counsel’s litigation conduct....” Considering all the Read factors and the district court’s statutory authority to treble damages under § 284, the actual award of $40 million was not an abuse of discretion.
+ 
+
+VI. Willfulness
+We do not read Microsoft’s opening brief as challenging the denial of Microsoft’s post-verdict JMOL on willfulness. Although Microsoft did mention willfulness when disputing the propriety of the enhanced damages award, in substance this argument focused on the district court’s rationale for awarding enhanced damages, not the jury’s willfulness verdict. Whether the district court abused its discretion in weighing the Read factors is not the same question as whether there was a legally sufficient evidentiary basis for the jury’s finding of willfulness. Fed.R.Civ.P. 50(a); compare Bryant v. Compass Group USA Inc., 413 F.3d 471, 475 (5th Cir.2005), with Read, 970 F.2d at 821, 826–27. Whether Microsoft’s infringement was willful is a question of fact. Cohesive Techs., Inc. v. Waters Corp., 543 F.3d 1351, 1374 (Fed.Cir.2008); see Braun Inc. v. Dynamics Corp. of Am., 975 F.2d 815, 822 (Fed.Cir.1992). This question was submitted to the jury, which answered in the affirmative. Accordingly, appellate review is limited to asking whether that verdict is supported by substantial evidence. ACCO Brands, 501 F.3d at 1311–12. On appeal, Microsoft has never attacked the jury instructions or the basis for the jury’s willfulness verdict. In light of what Microsoft actually argued, we do not read Microsoft’s *860 passing reference to its post-verdict JMOL on willfulness as raising the issue.
+ 
+[46] [47] Even if we were to read the solitary sentence, “Microsoft is entitled to judgment as a matter of law on the issue of willfulness,” as challenging the jury’s finding of willfulness, the result does not change. A reasonable jury could have concluded that Microsoft “willfully” infringed the ′ 449 patent based on the evidence presented at trial. Infringement is willful when the infringer was aware of the asserted patent, but nonetheless “acted despite an objectively high likelihood that its actions constituted infringement of a valid patent.” Seagate, 497 F.3d at 1371. After satisfying this objective prong, the patentee must also show that the infringer knew or should have known of this objectively high risk. Id.
+ 
+In this case, i4i presented sufficient evidence at trial to prove each prong of the Seagate standard for willfulness. The jury heard that Microsoft employees attended demonstrations of i4i’s software, which practiced the ′449 patent. Further, the jury learned that Microsoft employees received i4i’s sales kit, which identified i4i’s software as “patented” technology and cited the ′449 patent. The jury then saw a series of emails between Microsoft employees discussing a marketing email sent by i4i. One of those emails explained that the “heart” of i4i’s software was patented, again citing the ′449 patent. Based on this circumstantial evidence, the jury could have reasonably inferred that Microsoft knew about the ′449 patent.
+ 
+At trial, i4i also showed that Word’s custom XML editor was designed to and did perform the same methods as i4i’s software (which was known to practice the ′449 patent). Despite this highly similar functionality, there is no evidence Microsoft took any remedial action, even though Microsoft knew of the ′449 patent as early as April 2001, before any work had begun on Word’s custom XML editor. For example, Microsoft did not cease its infringing activity or attempt to design around; instead, Microsoft started marketing, selling, and instructing others in the use of Microsoft’s custom XML editor in 2002. Cf. DePuy Spine, Inc. v. Medtronic Sofamor Danek, 567 F.3d 1314, 1336–37 (Fed.Cir.2009). Similarly, there is no evidence Microsoft ever made a good faith effort to avoid infringement; internal emails show Microsoft intended to render i4i’s product “obsolete” and assure “there won’t be a need for [i4i’s] product.” Based on this and other evidence presented at trial, it would have been reasonable for the jury to infer that Microsoft went ahead with producing, marketing, and promoting its custom XML editor despite an objectively high likelihood the editor infringed the ′449 patent. This same evidence supports the jury’s finding as to the subjective prong of Seagate. Given the information Microsoft had about i4i’s software and the ′449 patent, Microsoft knew or should have known that there was an objectively high risk of infringement.
+ 
+The fact that Microsoft presented several defenses at trial, including noninfringement and invalidity, does not mean the jury’s willfulness finding lacks a sufficient evidentiary basis. See Fed.R.Civ.P. 50(a). The jury heard all of Microsoft’s defenses, which it expressly rejected in finding the ′ 449 patent infringed and not invalid. Cf. DePuy Spine, 567 F.3d at 1336–37 (noting that the question of equivalence was “a close one”). Based on its own assessment of the evidence and Microsoft’s defenses, the jury was free to decide for itself whether Microsoft reasonably believed there were any substantial defenses to a claim of infringement. Cf. Cohesive Techs., 543 F.3d at 1374.
+ 
+
+*861 VII. Permanent Injunction
+We must decide whether the district court abused its discretion in granting a permanent injunction against Microsoft, or in tailoring that injunction under eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388, 391, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006).
+ 
+The permanent injunction prohibits Microsoft from (1) selling, offering to sell, and/or importing into the United States any infringing Word products with the capability of opening XML files containing custom XML; (2) using Word to open an XML file containing custom XML; (3) instructing or encouraging anyone to use Word to open an XML containing custom XML; (4) providing support or assistance that describes how to use Word to open an XML file containing custom XML; and (5) testing, demonstrating, or marketing Word’s ability to open an XML file containing custom XML.
+ 
+The scope of this injunction is narrow, however. It applies only to users who purchase or license Word after the date the injunction takes effect. Users who purchase or license Word before the injunction’s effective date may continue using Word’s custom XML editor, and receiving technical support.
+ 
+[48] [49] [50] We review the decision to grant an injunction, as well as the scope of that injunction, for abuse of discretion. Joy Techs., Inc. v. Flakt, Inc., 6 F.3d 770, 772 (Fed.Cir.1993). Factual findings made in support of the injunction are reviewed for clear error; the district court’s conclusion as to each eBay factor is reviewed for abuse of discretion. Acumed LLC v. Stryker Corp., 551 F.3d 1323, 1327–31 (Fed.Cir.2008). Our review is guided by statute and well-established principles of equity. See 35 U.S.C. § 283.6 The plaintiff has the burden of showing that (1) it has suffered an irreparable injury; (2) remedies available at law are inadequate to compensate for that injury; (3) considering the balance of hardships between the plaintiff and defendant, a remedy in equity is warranted; and (4) the public interest would not be “disserved” by a permanent injunction. eBay, 547 U.S. at 391, 126 S.Ct. 1837.
+ 
+While we conclude that the injunction’s effective date should have been five months, rather than sixty days, from the date of its August 11, 2009 order, we affirm the district court’s issuance of a permanent injunction and otherwise affirm the injunction’s scope. Below, we address each factor in turn.
+ 
+
+A. Irreparable Injury
+[51] The district court concluded that i4i was irreparably injured by Microsoft’s infringement, based on its factual findings that Microsoft and i4i were direct competitors in the custom XML market, and that i4i lost market share as a result of the infringing Word products. The district court further found that the infringing Word products rendered i4i’s software obsolete, as a result of which i4i changed its business model to make software that complemented Microsoft’s infringing products.
+ 
+[52] It was proper for the district court to consider evidence of past harm to i4i. Past harm to a patentee’s market share, revenues, and brand recognition is relevant for determining whether the patentee “has suffered an irreparable injury.” Id. at 391, 126 S.Ct. 1837 (emphasis added); see, e.g., Acumed, 551 F.3d at 1328–29 *862 (considering the relevance of past licensing decisions in assessing irreparable injury); Voda v. Cordis Corp., 536 F.3d 1311, 1329 (Fed.Cir.2008) (concluding that the patentee “had not identified any irreparable injury to himself”); Innogenetics, N.V. v. Abbott Labs., 512 F.3d 1363, 1379–80 (Fed.Cir.2008) (analyzing whether the patentee “had been irreparably harmed”). Although injunctions are tools for prospective relief designed to alleviate future harm, by its terms the first eBay factor looks, in part, at what has already occurred. Considering past harm to a patentee does not establish a “general rule” or rely on the sort of “broad classifications” rejected by the Supreme Court in eBay; not all patentees will be able to show injury, and even those who do must still satisfy the other three factors. Cf. eBay, 547 U.S. at 393–94, 126 S.Ct. 1837.
+ 
+In this case, the district court properly considered strong circumstantial evidence that Microsoft’s infringement rendered i4i’s product obsolete for much of the custom XML market, causing i4i to lose market share and change its business strategy to survive. i4i was not required to prove that its specific customers stopped using i4i’s products because they switched to the infringing Word products. Based on the evidence presented at trial, it was not an abuse of discretion for the district court to find that Microsoft’s infringement irreparably injured i4i.
+ 
+
+B. Inadequate Remedies at Law
+[53] The district court concluded that there were inadequate remedies at law to compensate i4i for its injury. The district court found that before and after Microsoft began infringing, i4i produced and sold software that practiced the patented method. The district court found no evidence that i4i had previously licensed the patent, instead finding evidence that i4i sought to retain exclusive use of its invention.
+ 
+[54] It was not an abuse of discretion for the district court to conclude that monetary damages would be inadequate. In this case, a small company was practicing its patent, only to suffer a loss of market share, brand recognition, and customer goodwill as the result of the defendant’s infringing acts. Such losses may frequently defy attempts at valuation, particularly when the infringing acts significantly change the relevant market, as occurred here. The district court found that Microsoft captured 80% of the custom XML market with its infringing Word products, forcing i4i to change its business strategy. The loss associated with these effects is particularly difficult to quantify. Difficulty in estimating monetary damages is evidence that remedies at law are inadequate. Broadcom Corp. v. Qualcomm Inc., 543 F.3d 683, 703–04 (Fed.Cir.2008).
+ 
+
+C. Balance of Hardships
+[55] Except on the limited issue of timing, the balance of hardships favors i4i. The district court found that i4i’s business is comprised “almost exclusively” of products based on the ′449 patent. In contrast, Microsoft’s infringing custom XML editor was found to be “merely one of thousands of features” within Word, used by only a small fraction of Microsoft’s customers. The district court further found that Microsoft’s infringement of the ′449 patent allowed Microsoft to “corner[ ] the XML market.”
+ 
+Because the “balance of hardships” assesses the relative effect of granting or denying an injunction on the parties, the district court properly considered several factors in its analysis. eBay, 547 U.S. at 391, 126 S.Ct. 1837. These factors included the parties’ sizes, products, and revenue sources. When measured by these factors, *863 it is clear that the patented technology is central to i4i’s business. Because most of i4i’s products are based on the ′ 449 patent, i4i’s market share, revenues, and business strategy are similarly tied to the patented method. These same factors reveal that the infringing custom XML editor relates to only a small fraction of Microsoft’s sizeable business. The far greater importance of the patented method to i4i, combined with the demonstrated past effects of infringement on i4i, favors issuance of a permanent injunction.
+ 
+[56] The district court’s analysis properly ignored the expenses Microsoft incurred in creating the infringing products. See Acumed, 551 F.3d at 1330. Similarly irrelevant are the consequences to Microsoft of its infringement, such as the cost of redesigning the infringing products. Id. As we explained in Broadcom, neither commercial success, nor sunk development costs, shield an infringer from injunctive relief. 543 F.3d at 704. Microsoft is not entitled to continue infringing simply because it successfully exploited its infringement. Id.; see also Windsurfing Int’l v. AMF, Inc., 782 F.2d 995, 1003 n. 12 (Fed.Cir.1986).
+ 
+
+D. Public Interest
+[57] [58] Except as to the injunction’s effective date, the district court did not abuse its discretion in finding that the narrow scope of the injunction and the public’s general interest in upholding patent rights favor injunctive relief. See Broadcom, 543 F.3d at 704 (quoting Rite–Hite Corp. v. Kelley Co., 56 F.3d 1538, 1547 (Fed.Cir.1995)). The district court’s conclusion properly recognized that the touchstone of the public interest factor is whether an injunction, both in scope and effect, strikes a workable balance between protecting the patentee’s rights and protecting the public from the injunction’s adverse effects. Broadcom, 543 F.3d at 704. In particular, the injunction’s narrow scope substantially mitigates the negative effects on the public, practically and economically. By excluding users who purchased or licensed infringing Word products before the injunction’s effective date, the injunction greatly minimizes adverse effects on the public. Id. Here, the relevant “public” includes not only individual consumers, but also companies that license infringing Word products and manufacturers that are part of Microsoft’s distribution channels. Cf. id. (defining the “public” to include affected network carriers and manufacturers). By carving out users who purchased or licensed infringing Word products before the injunction’s effective date, the injunction’s tailoring minimizes disruptions to the market and the public.
+ 
+
+E. Injunction’s Effective Date
+[59] On appeal, Microsoft challenges the date on which the injunction goes into effect. We review whether this aspect of the district court’s order is supported by the record. As to the limited question of the injunction’s effective date, we conclude that it is not. Accordingly, the injunction’s effective date is modified as described below.
+ 
+The district court ordered the injunction to go into effect sixty days after August 11, 2009, the date of its order issuing the injunction. Citing the declaration of a Microsoft employee (the “Tostevin declaration”), the district court found that “Microsoft ha[d] presented evidence that it may take five months to implement any injunction.” The district court also found, without any citation to the record, that “i4i ha[d] presented evidence that it is possible to design a software patch that can remove a user’s ability to operate the infringing functionality.” Based on, among other things, “this competing evidence” and “the *864 uncertainty surrounding what period of time would be ‘reasonable’ to expect Microsoft to comply with any injunction,” the district court ordered Microsoft to comply with the permanent injunction “within 60 days.”
+ 
+In light of the record evidence, we conclude that the district court erred by ordering Microsoft to comply with the injunction within sixty days. The only evidence about how long it would take Microsoft to comply with the injunction was the Tostevin declaration, which gave an estimate of “at least” five months. The district court cited no other evidence, and our review of the record reveals no “competing evidence.” Accordingly, we modify the injunction’s effective date from “60 days from the date of this order” to “5 months from the date of this order.” Cf. Canadian Lumber Trade Alliance v. United States, 517 F.3d 1319, 1339 n. 22 & 1344 (Fed.Cir.2008) (modifying an injunction’s terms on appeal); Forest Labs., Inc. v. Ivax Pharms., Inc., 501 F.3d 1263, 1271–72 (Fed.Cir.2007) (modifying an injunction’s terms on appeal). The injunction’s effective date is now January 11, 2010.
+ 
+
+CONCLUSION
+The district court’s claim construction is affirmed, as are the jury’s findings of infringement and validity. The district court did not abuse its discretion in admitting i4i’s evidence as to damages or in granting enhanced damages. Finally, we affirm the entry of the permanent injunction as modified herein.
+ 
+AFFIRMED.
+ 
+
+ON PETITION FOR PANEL REHEARING
+A combined petition for panel rehearing and rehearing en banc was filed by Microsoft Corporation. A response was invited by the panel and filed by i4i Limited Partnership. That was followed by Microsoft’s Motion for Leave to File a Reply in Support of Combined Petition for Panel Rehearing and Rehearing En Banc.
+ 
+Among the issues on which Microsoft has sought rehearing is the holding that Microsoft did not challenge the district court’s denial of Microsoft’s post-verdict JMOL on willfulness. i4i Ltd. v. Microsoft Corp., 589 F.3d 1246, 1273 (Fed.Cir.2009). Microsoft argues that this conclusion is factually incorrect, that review of the jury’s willfulness verdict is required, and that it should prevail on that question.
+ 
+IT IS ORDERED THAT:
+ 
+(1) Microsoft’s Motion for Leave to File a Reply in Support of Combined Petition for Panel Rehearing and Rehearing En Banc is granted.
+ 
+(2) Microsoft’s Petition for Panel Rehearing is granted for the limited purpose of revising portions of the discussion of willfulness.
+ 
+(3) The previous opinion in this appeal issued December 22, 2009 and reported at i4i Ltd. v. Microsoft Corp., 589 F.3d 1246 (Fed.Cir.2009), is withdrawn and replaced with the revised opinion accompanying this order.
+ 
+The Petition for Rehearing En Banc will be circulated to the full court along with a copy of this order.
+ 
+All Citations
+598 F.3d 831, 93 U.S.P.Q.2d 1943, 81 Fed. R. Evid. Serv. 805
+Footnotes
+
+1
+
+Even though we could affirm the jury’s verdict of infringement so long as there was sufficient evidence of direct infringement by Microsoft, here we focus on indirect infringement because that was the basis for i4i’s damages estimate, which the jury apparently credited. See Lucent, 580 F.3d at 1334–35; Dynacore Holdings Corp. v. U.S. Philips Corp., 363 F.3d 1263, 1274 (Fed.Cir.2004).
+
+2
+
+An expert witness with “scientific, technical, or otherwise specialized knowledge,” may testify and form an opinion “if (1) the testimony is based upon sufficient facts or data, (2) the testimony is the product of reliable principles and methods; and (3) the witness has applied the principles and methods reliably to the facts of the case.” Fed.R.Evid. 702.
+
+3
+
+These factors include: (1) royalties the patentee has received for licensing the patent to others; (2) rates paid by the licensee for the use of comparable patents; (3) the nature and scope of the license (exclusive or nonexclusive, restricted or nonrestricted by territory or product type); (4) any established policies or marketing programs by the licensor to maintain its patent monopoly by not licensing others to use the invention or granting licenses under special conditions to maintain the monopoly; (5) the commercial relationship between the licensor and licensee, such as whether they are competitors; (6) the effect of selling the patented specialty in promoting sales of other products of the licensee; (7) the duration of the patent and license term; (8) the established profitability of the product made under the patent, including its commercial success and current popularity; (9) the utility and advantages of the patent property over old modes or devices; (10) the nature of the patented invention and the benefits to those who have used the invention; (11) the extent to which the infringer has used the invention and the value of that use; (12) the portion of profit or of the selling price that may be customary in that particular business to allow for use of the invention or analogous inventions; (13) the portion of the realizable profit that should be credited to the invention as opposed to its non-patented elements; (14) the opinion testimony of qualified experts; and (15) the results of a hypothetical negotiation between the licensor and licensee. Id.
+
+4
+
+Based on sales of Word, Wagner then estimated the number of additional infringing uses that occurred between the end of the survey date and start of trial, to give a total of 2.1 million.
+
+5
+
+Enhanced damages are certainly not the sole remedy for attorney misconduct. Other tools, which may be more appropriate in the mine-run of cases, include the award of attorney fees or sanctions. See 35 U.S.C. § 285; Fed.R.Civ.P. 11, 38; see also 28 U.S.C. § 1927.
+
+6
+
+The Patent Act provides that courts “may grant injunctions in accordance with the principles of equity to prevent the violation of any right secured by patent, on such terms as the court deems reasonable.” 35 U.S.C. § 283.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

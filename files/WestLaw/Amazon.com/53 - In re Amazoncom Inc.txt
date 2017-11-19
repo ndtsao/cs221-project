@@ -1,0 +1,137 @@
+
+
+ 
+
+
+In re Amazon.com Inc.
+United States Court of Appeals, Federal Circuit. | May 1, 2012 | 478 Fed.Appx. 669 | 2012 WL 1514442
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Opinion
+All Citations
+
+standard Citation:
+
+In re Amazon.com Inc., 478 F. App’x 669 (Fed. Cir. 2012)
+
+All Citations:
+
+478 Fed.Appx. 669, 2012 WL 1514442
+
+Search Details
+
+Search Query:
+
+adv: NAME(”amazon.com”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+478 Fed.Appx. 669
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Federal Circuit Rule 32.1 and Federal Circuit Local Rule 32.1. (Find CTAF Rule 32.1)
+United States Court of Appeals,
+Federal Circuit.
+In re AMAZON.COM INC., Amazon Services LLC, and Amazon Web Services LLC, Petitioners.
+Misc. No. 115.
+|
+May 1, 2012.
+Synopsis
+Background: Defendants in patent infringement action filed petition for writ of mandamus to the United States District Court for the Eastern District of Texas, Leonard Davis, J., to vacate its order denying their motion to transfer venue, and to transfer case.
+ 
+Holding: The Court of Appeals, Rader, Chief Judge, held that district court’s denial of defendants’ motion to transfer venue was not clear abuse of discretion.
+ 
+Petition denied.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Federal CourtsPatents, copyrights, and trade regulation
+
+
+170BFederal Courts
+170BXIIChange or Transfer of Venue
+170BXII(A)In General;  Venue Laid in Proper Forum
+170Bk2907Particular Determinations
+170Bk2912Patents, copyrights, and trade regulation
+(Formerly 170Bk110)
+
+
+District court’s denial of defendants’ motion to transfer venue in patent infringement action from Eastern District of Texas to Western District of Texas was not clear abuse of discretion, even though some likely sources of proof were located in Western District, some material third-party witnesses resided in Western District or within 100 miles of that court, and Western District had personal jurisdiction over all defendants, where no defendants were headquartered in Western District, defendants’ documents and evidence were physically located throughout nation, and other material witnesses resided closer to Eastern District.
+2 Cases that cite this headnote
+
+
+
+*669 On Petition for Writ of Mandamus to the United States District Court for the Eastern District of Texas in case no. 10–CV–671, Judge Leonard Davis.
+Before RADER, Chief Judge, LINN, and PROST, Circuit Judges.
+
+
+ON PETITION
+RADER, Chief Judge.
+
+ORDER
+**1 Petitioners Amazon.com Inc., Amazon Services LLC, and Amazon Web Services LLC (“Amazon”) seek a writ of mandamus to direct the United States District Court for the Eastern District of Texas to vacate its order denying Amazon’s motion to transfer venue, and to transfer the case to the United States District Court for the Western District of Texas. Global Sessions LP and Global Sessions Holding SRL (“Global Sessions”) oppose. Amazon replies.
+ 
+Global Sessions filed this patent infringement suit against Amazon, Systemax, Inc., Circuitcity.com, Inc., Compusa.com, Inc., Profitcenter Software Inc., and Tigerdirect, Inc., Orbitz Worldwide, LLC, Orbitz, Inc., Orbitz, LLC, Trip Network, Inc. (d/b/a CheapTickets), Priceline.com, Inc., Sabre Holdings Corporation, Sabre Inc., Travelocity.com L.P., Travelocity.com, Inc., CDW Corporation, and CDW LLC.*
+ 
+In its order denying Amazon’s motion to transfer, the district court noted that none of the defendants are headquartered in the Western District of Texas and that the *670 defendants’ documents and evidence are physically located throughout the nation. Although the court noted that some likely sources of proof are located at Global Sessions’ principal place of business in Austin, Texas, the court explained that the patent prosecution documents are likely located in Dallas, Texas and other defendants’ documents are likely located in Tulsa, Oklahoma and Southlake, Texas, which are all closer to the Eastern District of Texas.
+ 
+The district court also recognized that the Western District of Texas court’s ability to subpoena potential witnesses favored transfer because the parties had identified a number of material third-party witnesses who resided in the Western District or within 100 miles of that court. However, because at least four witnesses with knowledge about the valuation, acquisition, and assignment of the patents worked within 100 miles of the Eastern District of Texas court, the court noted that it would have absolute subpoena power over those witnesses. The court further noted that although transfer would make it more convenient for the witnesses identified in the Western District, transfer would merely shift the inconvenience of travel for a number of witnesses who resided closer to the Eastern District. Ultimately, after considering all of the relevant factors, the district court concluded that Amazon had not met its burden of demonstrating that the Western District of Texas was clearly more convenient than the Eastern District of Texas for trial of the case, and denied the transfer motion.
+ 
+Mandamus is an extraordinary remedy, available “to correct a clear abuse of discretion or usurpation of judicial power.” In re Nintendo Co., 589 F.3d 1194, 1197 (Fed.Cir.2009). As the petition does not involve substantive issues of patent law, the law of the regional circuit applies, here the Fifth Circuit. Id.
+ 
+Amazon relies on this court’s decision in In re Genentech, Inc., 566 F.3d 1338 (Fed.Cir.2009), arguing that, as in this case, the district court in Genentech weighed against transfer the fact that sources of proof maintained outside the district were nonetheless closer to the Eastern District of Texas. In that case, the district court denied transfer to the Northern District of California, a venue where eight of the nine alleged infringing products had been developed, tested, and produced, and where a substantial number of sources of proof were located and witnesses resided, despite the fact that no parties or witnesses resided in the Eastern District of Texas. Id. at 1345. In denying transfer, the district court explained that some documents located abroad and on the East Coast would have to be transported over a shorter distance to the Eastern District of Texas than if they were to be transported to the transferee venue. Id. Because those documents would need to be transported a significant distance no matter where the case was tried, and it was patently erroneous to allow that basis to prevent transfer to the far more convenient venue, this court granted mandamus. See id. at 1348 (“[T]here is simply no rational argument that, in light of the witnesses, parties, evidence, compulsory attendance and local interest, the clearly more convenient venue is not the Northern District of California.”).
+ 
+**2 In this case, by contrast, no defendant is headquartered in the transferee venue. In that respect, this case differs significantly from Genentech because transfer here would not result in trial of the case where the alleged infringing products were developed and where a significant amount of the defendants’ sources of proof are maintained. Although the district court relied on the fact that some of the defendants’ likely documentary evidence is located in *671 Dallas, Texas, Southlake, Texas, and in Oklahoma, which are all outside, but closer to, the Eastern District of Texas, this court discerns no clear abuse of discretion in the district court’s finding that the relative ease of access to sources of proof does not favor transfer.
+ 
+Amazon also argues that the handful of third-party witnesses Global Sessions identified as located in the Eastern District have only a speculative connection to the case. According to Amazon, the availability of compulsory process to secure attendance of non-party witnesses should therefore weigh “strongly” in favor of transfer, not “slightly” as the district court found. This type of asserted error is ordinarily not mandamus-worthy, particularly in light of the fact that at the transfer stage, affidavits or other detailed information about a witness’s relevance and potential testimony are not required. See In re Volkswagen of Am., Inc., 545 F.3d 304, 317 n. 12 (5th Cir.2008) (en banc).
+ 
+This court is also not persuaded by Amazon’s arguments regarding the district court’s severance and judicial economy analysis. It is true that if transfer were clearly appropriate, severance would not be required given it is undisputed the Western District of Texas has personal jurisdiction over all defendants. Nonetheless, because Amazon has not made a compelling showing that the Western District is a clearly more convenient venue, even discounting the district court’s concerns about severance, this court cannot say that the district court’s decision amounted to a clear abuse of discretion.
+ 
+Accordingly,
+ 
+IT IS ORDERED THAT:
+ 
+The petition for a writ of mandamus is denied.
+ 
+All Citations
+478 Fed.Appx. 669, 2012 WL 1514442
+Footnotes
+
+*
+
+Amazon’s co-defendants have all filed briefs of non-opposition to or support of Amazon’s petition.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

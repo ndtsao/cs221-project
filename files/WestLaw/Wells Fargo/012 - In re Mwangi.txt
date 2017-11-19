@@ -1,0 +1,142 @@
+
+
+ 
+
+
+In re Mwangi
+United States Court of Appeals, Ninth Circuit. | October 21, 2014 | 585 Fed.Appx. 939 | 2014 WL 5334683
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+In re Mwangi, 585 F. App’x 939 (9th Cir. 2014)
+
+All Citations:
+
+585 Fed.Appx. 939
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Nevada
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:14 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+585 Fed.Appx. 939
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+In re Eric MWANGI; Pauline Mwicharo, Debtors,
+Eric Mwangi, and Pauline Mwicharo, Appellants,
+v.
+Wells Fargo Bank, N.A., Appellee.
+No. 14–15265.
+|
+Submitted Oct. 17, 2014.*
+|
+Filed Oct. 21, 2014.
+Synopsis
+Background: Order was entered by the United States Bankruptcy Court for the District of Nevada, denying debtors’ motion for sanctions for violation of automatic stay, and debtors appealed. The District Court, Gloria M. Navarro, Chief Judge, 2014 WL 198582, affirmed. Debtors appealed.
+ 
+Holding: The Court of Appeals held that appeal from district court’s affirmance of decision of bankruptcy court that debtors lacked standing to enforce automatic stay insofar as it proscribed any attempt to exercise control over property of the estate, that this proscription no longer applied after account funds revested in debtors upon expiration of time for parties in interest to object to debtors’ claim of exemption therein, or that debtors had failed to establish causal link between bank’s actions and their claimed injury was rendered moot following determination that debtors failed to state claim for violation of automatic stay based on administrative freeze that bank imposed on their account.
+ 
+Appeal dismissed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+BankruptcyMoot questions
+
+
+51Bankruptcy
+51XIXReview
+51XIX(B)Review of Bankruptcy Court
+51k3781Moot questions
+
+
+Appeal from district court’s affirmance of decision of bankruptcy court that debtors lacked standing to enforce automatic stay insofar as it proscribed any attempt to exercise control over property of the estate, that this proscription no longer applied after account funds revested in debtors upon expiration of time for parties in interest to object to debtors’ claim of exemption therein, or that debtors had failed to establish causal link between bank’s actions and their claimed injury was rendered moot following determination that debtors failed to state claim for violation of automatic stay based on administrative freeze that bank imposed on their account and that bank did not violate turnover statute by not immediately releasing funds to debtors and by instead seeking instructions from trustee as to how it should proceed. 11 U.S.C.A. §§ 362(a)(3), 542(b).
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*939 Christopher P. Burke, Chris P. Burke & Associates, Las Vegas, NV, for Appellants.
+Lars K. Evensen, Holland & Hart LLP, Las Vegas, NV, Kevin Murray Fong, Malcolm David Minnick, Pillsbury Winthrop Shaw Pittman LLP, San Francisco, CA, for Appellee.
+Appeal from the United States District Court for the District of Nevada, Gloria M. Navarro, Chief District Judge, Presiding. D.C. No. 2:12–cv–00683–GMNGWF, BK–S–09–24057–LED.
+Before: SILVERMAN, W. FLETCHER, and BYBEE, Circuit Judges.
+
+
+*940 MEMORANDUM**
+Appellants Eric Mwangi and Pauline Mwicharo (collectively “the Debtors”) appeal from a district court affirmance of the bankruptcy court’s denial of their motion for sanctions. The facts and procedural posture of this case are known to the parties, and we do not repeat them here. In light of our decision in Mwangi v. Wells Fargo Bank, N.A. (In re Mwangi), 764 F.3d 1168 (9th Cir.2014), we dismiss this appeal as moot.1
+ 
+Mwangi, our prior decision, arose from the same set of facts as the instant case. There, the Debtors claimed that Wells Fargo violated 11 U.S.C. § 362(a)(3), the automatic stay provision of the Bankruptcy Code, when it placed an “administrative pledge” on the Debtors’ bank accounts, effectively freezing the accounts and preventing the Debtors from accessing their funds. We held that the Debtors failed to allege any injury based on the operation of Wells Fargo’s administrative pledge. Id. at 1177. We reasoned that “[f]rom the filing of the Chapter 7 bankruptcy petition ... to the end of the thirty-day objections period ... the Debtors had no right to possess or control the account funds.” Id. Moreover, after the thirty-day objections period closed, and the funds revested in the Debtors, the “funds lost their status as estate property” and therefore “were no longer subject to the protections of § 362(a)(3)’s automatic stay provision.” Id. Accordingly, we concluded, Wells Fargo’s administrative pledge could not cause injury to the Debtors during the objections period or after the funds revested in the Debtors. Id. We also concluded that Wells Fargo did not violate 11 U.S.C. § 542(b)’s turnover provision when it sought instructions from the trustee as to how it should proceed, rather than immediately turning the funds over to the Debtors. Id. at 1178–79. Finally, we concluded that the Debtors failed to state a claim under 11 U.S.C. § 105(a), which allows the court to “issue any order, process, or judgment that is necessary or appropriate to carry out the provisions of this title,” because the Debtors failed to state a claim under any other provision of the Bankruptcy Code. Id. at 1179.
+ 
+In this case, the Debtors claim several errors in the bankruptcy court’s denial of their motion for sanctions. At the heart of their motion is the Debtors’ claim that Wells Fargo violated § 362(a)(3) when it placed the administrative pledge on the Debtors’ bank accounts. Each of the Debtors’ claims is mooted by our decision in Mwangi.
+ 
+First, the Debtors argue that the bankruptcy court erred in denying the debtors standing to enforce § 362(a)(3) and § 105(a). This claim is moot because Mwangi held that the debtors failed to state a claim under §§ 362(a)(3) and 105(a). See W. Coast Seafood Processors Ass’n v. Natural Res. Def. Council, Inc., 643 F.3d 701, 704 (9th Cir.2011) (“An appeal is moot if there exists no present controversy as to which effective relief can be granted.” (internal quotation marks omitted)).
+ 
+Second, the Debtors argue that even though the funds revested in the Debtors after the objections period closed, *941 § 362(a)(3) continued to govern Wells Fargo’s actions. Our prior opinion also moots this argument. We held in Mwangi that upon the revesting of the funds in the Debtors, the funds “lost their status as estate property” and were thus no longer subject to the protections of § 362(a)(3)’s automatic stay provision. Mwangi, 764 F.3d at 1177. Thus, we have already rejected the Debtors’ claim that § 362(a)(3) continued to govern Wells Fargo’s actions after the objections period ended.
+ 
+Next, the Debtors claim that Wells Fargo violated the § 542(b) turnover provision by failing to lift the administrative pledge, and that its withholding of the funds for several months after the objections period closed was unreasonable. To the contrary, we held in Mwangi that Wells Fargo complied with the turnover provision, and did not wrongfully withhold any estate property from the estate. Id. at 1178–79.
+ 
+Finally, with respect to sanctions, the Debtors contend that the bankruptcy court erred in failing to find a causal link between Wells Fargo’s actions and the Debtors’ injury, failing to find that Wells Fargo acted willfully in violating § 362(a)(3), and denying damages. Each of these claims is moot because Mwangi held that the Debtors failed to state a claim of injury resulting from any violation of the automatic stay, the predicate for seeking damages under 11 U.S.C. § 362(k)(1). See § 362(k)(1) (“[A]n individual injured by any willful violation of a stay provided by this section shall recover actual damages, including costs and attorneys’ fees, and, in appropriate circumstances, may recover punitive damages.” (emphasis added)).
+ 
+In sum, each of the Debtors’ claims for relief is mooted by our decision in Mwangi. Accordingly, this appeal is
+ 
+DISMISSED.
+ 
+All Citations
+585 Fed.Appx. 939
+Footnotes
+
+*
+
+The panel unanimously concludes this case is suitable for decision without oral argument. See Fed. R.App. P. 34(a)(2).
+
+**
+
+This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36–3.
+
+1
+
+In their letter brief, the Debtors state that they are “contemplating” filing a petition for a writ of certiorari in Mwangi and request that this Court stay this case until either the time for filing a petition for a writ of certiorari has run, or the Supreme Court renders a decision regarding any petition the Debtors choose to file. Treating this request as a motion for a stay, we deny the motion.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,676 @@
+
+
+
+
+
+Massachusetts Institute of Technology and Electronics For Imaging, Inc. v. Abacus Software
+United States Court of Appeals, Federal Circuit. | September 13, 2006 | 462 F.3d 1344 | 2006 WL 2613439
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Not Followed as Dicta Inventio AG v. ThyssenKrupp Elevator Americas Corp., Fed.Cir.(Del.), June 15, 2011
+
+standard Citation:
+
+Massachusetts Inst. of Tech. & Elecs. For Imaging, Inc. v. Abacus Software, 462 F.3d 1344 (Fed. Cir. 2006)
+
+All Citations:
+
+462 F.3d 1344, 80 U.S.P.Q.2d 1225
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Not Followed as Dicta Inventio AG v. ThyssenKrupp Elevator Americas Corp., Fed.Cir.(Del.), June 15, 2011
+462 F.3d 1344
+United States Court of Appeals,
+Federal Circuit.
+THE MASSACHUSETTS INSTITUTE OF TECHNOLOGY AND ELECTRONICS FOR IMAGING, INC., Plaintiffs–Appellants,
+v.
+ABACUS SOFTWARE, Defendant,
+and
+Corel Corp. and Corel Inc., Defendants–Cross Appellants,
+and
+Microsoft Corporation, Defendant–Cross Appellant,
+and
+Roxio, Inc. and MGI Software, Inc., Defendants–Cross Appellants.
+Nos. 05–1142, 05–1161, 05–1162, 05–1163.
+|
+Sept. 13, 2006.
+|
+Rehearing and Rehearing En Banc Denied Oct. 31, 2006.
+Synopsis
+Background: Assignor and exclusive licensee brought action against competitors alleging infringement of patent that disclosed color processing system for producing copies of color originals. Competitors asserted counterclaims of invalidity and unenforceability. The United States District Court for the Eastern District of Texas, David J. Folsom, J., entered stipulated final judgment of non-infringement. Parties appealed.
+ 
+Holdings: The Court of Appeals, Dyk, Circuit Judge, held that:
+ 
+[1] term “scanner” required relative movement between scanning element and object scanned;
+ 
+[2] term “scanner” required placement of color original on, or in close proximity to, scanner;
+ 
+[3] phrase “colorant selection mechanism” did not connote sufficient structure to person of ordinary skill in art to avoid means-plus-function treatment;
+ 
+[4] “aesthetic correction circuitry” limitation connoted sufficient structure to avoid means-plus-function treatment;
+ 
+[5] term “aesthetic correction circuitry” was limited to hardware;
+ 
+[6] local rules could not be applied to prevent plaintiff from updating its preliminary infringement contentions;
+ 
+[7] Court of Appeals was not required to consider competitors’ cross-appeals where favorable ruling would not have broadened scope of stipulated final judgment of non-infringement; and
+ 
+[8] rulings were moot, that had been issued by district court in favor of parties that had been voluntarily dismissed from lawsuit with prejudice, as to party that remained in lawsuit and had appealed those rulings on basis that rulings may limit its damages award.
+ 
+Vacated in part, dismissed in part, and remanded.
+ 
+Michel, Chief Circuit Judge, filed dissenting opinion.
+ 
+
+
+West Headnotes (16)
+
+
+[1]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+(Formerly 291k324.55(1))
+
+
+Patent claim construction is a matter of law that is reviewed without deference.
+7 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsPhotography;  imaging and graphic arts
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1424Photography;  imaging and graphic arts
+(Formerly 291k101(2))
+
+
+Term “scanner,” in patent that disclosed color processing system for producing copies of color originals, required relative movement between scanning element and object scanned, in context of claim which stated, “scanner for producing from said color original a set of three tristimulus appearance signals dependent on the colors in said original,” where specification was not inconsistent with relative movement requirement and dictionary definitions of “scan” and “scanner” at time that patent application had been filed confirmed that those terms required relative movement between scanning element and object to be scanned.
+5 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsEffect of reference in claims to specifications or drawings
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1334Effect of reference in claims to specifications or drawings
+(Formerly 291k167(1.1))
+
+
+Patent claims must be read in view of the specification, of which they are a part.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsPhotography;  imaging and graphic arts
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1424Photography;  imaging and graphic arts
+(Formerly 291k101(2))
+
+
+Term “scanner,” in patent that disclosed color processing system for producing copies of color originals, required placement of color original on, or in close proximity to, scanner, in context of claim which stated, “a scanner for producing from said color original a set of three tristimulus appearance signals dependent on the colors in said original,” where person of ordinary skill in art would have known of two general types of scanners, drum scanners and flatbed scanners, and both of those scanners required close proximity between color original and scanner.
+2 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsPlain, ordinary, or customary meaning in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1317Plain, ordinary, or customary meaning in general
+(Formerly 291k101(2))
+
+
+The words of a patent claim must be given their ordinary and customary meaning, which is the meaning that the words would have to a person of ordinary skill in the art in question at the time of the invention, i.e., as of the effective filing date of the patent application.
+3 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsClaims and Limitations;  Language of Patent
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1315In general
+(Formerly 291k101(2))
+
+
+When determining the meaning of a term within the pertinent art, it is appropriate to determine the mode of operation of the device at the time the patent application was filed.
+3 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+Phrase “colorant selection mechanism,” in patent that disclosed color processing system for producing copies of color originals, did not connote sufficient structure to person of ordinary skill in art to avoid means-plus-function treatment; although phrase was presumptively not subject to such treatment, phrase appeared in patent together with description of its functions, patentee used “mechanism” and “means” as synonyms, dictionary definition equated mechanism with means, and term “colorant selection” was not defined in specification, did not have dictionary definition, and there was no suggestion that it had generally understood meaning in art. 35 U.S.C.A. § 112, par. 6.
+62 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+A limitation lacking the term “means” may overcome the presumption against means-plus-function treatment if it is shown that the patent claim term fails to recite sufficiently definite structure or else recites function without reciting sufficient structure for performing that function. 35 U.S.C.A. § 112, par. 6.
+117 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+Patent claim language that further defines a generic term like “mechanism” can add sufficient structure to avoid means-plus-function treatment. 35 U.S.C.A. § 112, par. 6.
+111 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+“Aesthetic correction circuitry” limitation, in patent that disclosed color processing system for producing copies of color originals, connoted sufficient structure to avoid means-plus-function treatment, where limitation did not contain term “means,” and thus presumptively was not means-plus-function limitation, technical dictionary definitions established that term “circuitry,” by itself, connoted structure, and further structure was added by description of operation of circuit. 35 U.S.C.A. § 112, par. 6.
+142 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsPhotography;  imaging and graphic arts
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1424Photography;  imaging and graphic arts
+(Formerly 291k101(2))
+
+
+Term “aesthetic correction circuitry,” in patent that disclosed color processing system for producing copies of color originals, was limited to hardware, and, thus, specification references did not require interpretation of “circuit” to include software, where specification described components of color translation module as hardware components, and although specification suggested that certain computations performed by color translation module could be accomplished with either hardware or software, reference did not alter specification’s repeated description of circuit itself as involving hardware.
+3 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsPreliminary infringement contentions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)2Pleadings and Motions
+291k1772Complaint or Other Initial Pleading
+291k1780Infringement and Injury, Loss, or Damage
+291k1780(3)Preliminary infringement contentions
+(Formerly 291k310.1(5))
+
+
+Local rules of particular district judge could not be applied to prevent plaintiff in patent infringement lawsuit from updating its preliminary infringement contentions, where district court did not state that judge’s local rules would govern order that required such contentions, and plaintiff had not been provided with sufficient notice that its preliminary infringement contentions would be deemed final or that they could be updated only upon showing of good cause. Fed.Rules Civ.Proc.Rule 83(b), 28 U.S.C.A.
+5 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5)
+
+
+Court of Appeals was not required to consider competitors’ cross-appeals from stipulated final judgment of non-infringement, where favorable ruling would not have broadened scope of judgment.
+8 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsMootness
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1952Decisions Reviewable
+291k1954Mootness
+291k1954(1)In general
+(Formerly 291k324.1)
+
+
+Rulings were moot, that had been issued by district court in favor of parties that subsequently were voluntarily dismissed from lawsuit with prejudice, as to party that remained in lawsuit and had appealed those rulings on basis that rulings may have limited its damages award; party that remained voluntarily forfeited its legal remedy by ordinary process of appeal as to dismissed parties but rulings did limit damages with respect to non-dismissed party and rulings otherwise could have been appealed as to defendants that remained, if appropriate.
+1 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 2,790,844, US Patent 4,037,249, US Patent 4,328,515, US Patent 4,349,279, US Patent 4,393,398. Cited.
+Cases that cite this headnote
+
+
+
+[16]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 4,500,919. Construed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1347 William C. Rooklidge, Howrey LLP, of Irvine, California, argued for plaintiffs-appellants. With him on the brief was Russell B. Hill. Of counsel on the brief was Tom Crunk, of Los Angeles, California.
+Jeffrey D. Sanok, Crowell & Moring LLP, of Washington, DC, argued for defendants-cross appellants Corel Corp. and Corel Inc. With him on the brief was Richard McMillan, Jr. Of counsel on the brief was Dennis R. Gallagher, of Irvine, California.
+Roy W. Hardin, Locke Liddell & Sapp, LLP, of Dallas, Texas, argued for defendant-cross appellant Microsoft Corporation. With him on the brief was M. Scott Fuller. Of counsel on the brief was Isabella E. Fu, Microsoft Corporation, of Redmond, Washington.
+David P. Enzminger, O’Melveny & Myers LLP, of Los Angeles, California, argued for defendants-cross appellants Roxio, Inc. and MGI Software, Inc. With him on the brief was Ryan K. Yagura.
+Before MICHEL, Chief Judge, FRIEDMAN, Senior Circuit Judge, and DYK, Circuit Judge.
+Opinion
+Opinion for the court filed by Circuit Judge DYK.
+Dissenting opinion filed by Chief Judge MICHEL.
+
+DYK, Circuit Judge.
+
+Massachusetts Institute of Technology (“MIT”) and Electronics for Imaging, Inc. (“EFI”) appeal from the stipulated final judgment of noninfringement of the United States District Court for the Eastern District of Texas. MIT and EFI urge that the district court’s claim construction (on which the stipulated judgment of non-infringement was based) was erroneous. Appellants also urge that the district court’s order granting Microsoft’s motion to exclude Windows as an infringing product was erroneous. We vacate the grant of summary judgment and remand for further proceedings because we hold that the district court erred in its construction of “aesthetic correction circuitry,” and erred in excluding Windows as an infringing product. We decline to address claim construction issues not implicated by the judgment. We dismiss the cross-appeals since *1348 the cross-appeals, if successful, would not expand the scope of the judgment. We decline to reach the question whether the district court properly denied the parties’ motions for summary judgment on the marking statute issues since the district court has not finally decided whether the marking statute bars the claims. We dismiss as moot the appeals insofar as they arise from orders that were granted in favor of Fry’s Electronics, Inc. (“Fry’s”) and Arcsoft, Inc. (“Arcsoft”) because both those parties have been voluntarily dismissed from this action.
+ 
+
+BACKGROUND
+U.S. Patent No. 4,500,919 (the “ ‘919 patent”) discloses a color processing system for producing copies of color originals. The invention discloses “color reproduction process[es] which use[ ] a small number of colorants, usually three or four, in various mixtures, more or less to match the colors of the original.” ’919 patent, col. 1, ll. 22–25. It is designed to address a problem common to conventional color editing systems—namely, that “the exact combination of colorants required for the match is not related, in any simple way, to measurements which can be made on the original.” Id. col. 1, ll. 32–36. The invention performs three basic steps: (a) scanning a color image; (b) displaying and interactively editing the scanned image; and (c) accurately reproducing the displayed image. Claim 1 of the ’919 patent, the only claim at issue in this appeal, describes the three steps as follows:
+1. A system for reproducing a color original in a medium using a selected multiplicity of reproduction colorants, the system comprising in serial order:
+a. a scanner for producing from said color original a set of three tristimulus appearance signals dependent on the colors in said original;
+b. display means connected to the scanner for receiving the appearance signals and aesthetic correction circuitry for interactively introducing aesthetically desired alterations into said appearance signals to produce modified appearance signals; and
+c. colorant selection mechanism for receiving said modified appearance signals and for selecting corresponding reproduction signals representing values of said reproducing colorants to produce in said medium a colorimetrically-matched reproduction.
+Id., col. 15, ll. 31–47 (emphases added). The pertinent claim construction dispute involves the emphasized language.
+ 
+In step (a) of the disclosed embodiment, “[an] image is scanned in [by the scanner] ... and stored in terms of appearance values, for example RGB [‘Red Green Blue’].” Id., col. 3, ll. 42–44. These “appearance values” are the “appearance signals” referred to in claim 1(a).
+ 
+In step (b), the appearance signals are sent to a TV or other “display means,” and “[t]he image is displayed on [the display means].” Id., col. 3, ll. 44–46. The image “is a colorimetric match for the final reproduction, and can be used to judge its appearance.” Id., col. 3, ll. 53–54. An operator “manipulates the TV image interactively in terms of appearance values, introducing aesthetic corrections and such other changes as desired.” Id., col. 3, ll. 59–63. In the language of claim 1(b), “aesthetic correction circuitry” allows these “aesthetically desired alterations” to be “introduce[d] into [the] appearance signals to produce modified signals.”
+ 
+In step (c), the final step, the “colorant selection mechanism” (“CSM”) receives the “modified appearance signals” and calculates *1349 “[i]nk density images, as required for a colorimetric match with the corrected images....” Id., col. 4, ll. 12–14. Thus, as claim 1 recites, the CSM “select[s] corresponding reproduction signals representing values [of colorants] to produce ... a colorimetrically-matched reproduction.” The “computed ink density images are used ... to control the amount of colorant delivered to the final page at each point.” Id., col. 4, ll. 15–21.
+ 
+MIT, the assignee of the ’919 patent, granted an exclusive license to EFI. Plaintiffs MIT and EFI filed an original complaint on December 28, 2001, alleging that 92 defendants directly and contributorily infringed and induced infringement of the ’919 patent. On April 25, 2002, shortly before the ’919 patent expired, plaintiffs filed an amended complaint, asserting infringement against a total of 214 defendants. On August 23, 2002, the district court issued a docket control order (“DCO”) that required MIT to make preliminary infringement contentions, including a list of so-called “Accused Instrumentalities” (infringing products) by September 3, 2002. MIT served its preliminary infringement contentions on August 29, 2002. The Accused Instrumentalities included various types of image editing software, computer systems, digital cameras, scanners, and color reproduction systems. MIT did not list Windows as an Accused Instrumentality but stated that it believed that Microsoft Windows infringed and would “seek related discovery.” J.A. at 4497. In the course of litigation, plaintiffs settled with some defendants and dismissed their claims against others, until only four remained: Microsoft, Corel, Roxio, and MGI Software.
+ 
+Following a Markman hearing, a magistrate judge issued a “Report and Recommendation” on claim construction on July 3, 2003, construing various terms in claim 1. The district court issued a claim construction order largely adopting the magistrate’s recommendations on September 15, 2003. Three claim terms are relevant to this appeal: “scanner,” “colorant selection mechanism,” and “aesthetic correction circuitry.”
+ 
+The court held that the term “scanner” is not a means-plus-function limitation. The district court concluded, however, that the scanner includes two limitations: first, it must have “relative movement between the scanning element and the object being scanned,” and second, the “color original” that the scanner scans must be “placed on or in close proximity to the scanner.”
+ 
+The court construed the term “colorant selection mechanism” as a means-plus-function limitation, and held that the recited functions are “receiving said modified appearance signals” and “selecting corresponding reproduction signals representing values of said reproduction colorants to produce in said medium a colorimetrically-matched reproduction.” The court concluded that the structure that performs these functions is the components of the “ink correction module (ICM).”
+ 
+Finally, the court held that “aesthetic correction circuitry” is a means-plus-function limitation, that the recited function is “introducing aesthetically desired alterations into said appearance signals to produce modified appearance signals,” and that the structures that perform this function are the five components that comprise the Color Translation Module (“CTM”).
+ 
+Following the claim construction ruling, the district court issued two orders that are pertinent to this appeal. First, on September 10, 2004, the district court granted Microsoft’s motion to exclude Windows as an accused product on the ground that Windows had not been listed as an Accused Instrumentality when MIT *1350 submitted its preliminary infringement contentions prior to the Markman hearing.
+ 
+Second, on September 29, 2004, the district court denied both sides’ motions for summary judgment regarding MIT’s compliance with the marking statute, 35 U.S.C. § 287, which permits damages only when the infringing articles are marked or the infringer is on notice of infringement.
+ 
+On November 10, 2004, the parties “stipulate[d] to entry of final judgment of non-infringement of [the ’919 patent] based on the Court’s claim construction.” J.A. at 1. The parties also “stipulate[d] to the dismissal without prejudice of Defendants’ counterclaims” of invalidity and unenforceability. Based on these stipulations, the district court entered a final judgment of non-infringement and dismissed the defendants’ counterclaims on November 12, 2004. The stipulated judgment is thus based entirely on the claim construction issues decided adversely to the plaintiffs. MIT timely appealed and Microsoft, Corel, and Roxio cross-appealed. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+I
+[1] We first address issues of claim construction. Claim construction is a matter of law that we review without deference. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1454–55 (Fed.Cir.1998) (en banc).
+ 
+This case once again involves an effort by parties to a patent infringement case to have this court opine on a range of claim construction issues even though the judgment of the district court is not based on the resolution of those issues. We decline that invitation and limit our consideration to issues presented by the judgment under review. An appeal is not an opportunity to bring before the appellate court every ruling with which one of the parties disagrees without regard to whether the ruling has in any way impacted the final judgment. The fact that this is a patent case does not invoke a different legal regime.
+ 
+As described above, the judgment here is a stipulated judgment of non-infringement by the parties based on the district court’s claim construction. The stipulated judgment presents only the question whether the claim constructions adverse to the patentee were correct. We thus will not consider claim construction issues decided in favor of the patent holder that the accused infringers contend were incorrect, nor will we address issues that are pertinent only to dismissed claims of invalidity. Revising the district court’s claim constructions in these respects would not affect the judgment of non-infringement.1
+ 
+Even with respect to the claim construction issues on which the judgment is based we perceive a problem with the mechanism by which this case has been litigated. As in Lava Trading, Inc. v. Sonic Trading Mgmt., LLC, 445 F.3d 1348 (Fed.Cir.2006), the record does not disclose the nature of the accused devices, and our rulings on claim construction in this case unfortunately must be made without knowledge of the accused devices. See id. at 1350 (“Without knowledge of the accused products, this court cannot assess the accuracy of the infringement judgment under review and lacks a proper context for an accurate claim construction.”); see also Exigent Tech., Inc. v. Atrana Solutions, Inc., 442 F.3d 1301, 1310 n. 10 (Fed.Cir.2006) (“[I]t *1351 is appropriate for a court to consider the accused device when determining what aspect of the claim should be construed.”). Moreover, the stipulated judgment does not identify which of the many claim construction rulings are dispositive. While it is highly undesirable to consider these issues in the abstract, here as in Lava Trading, we have proceeded to do so.
+ 
+
+A
+[2] The parties dispute the meaning of the claim term “scanner.” The first element of claim 1 recites, in pertinent part, “a scanner for producing from said color original a set of three tristimulus appearance signals dependent on the colors in said original.” ’919 patent, col. 15, ll. 34–36 (emphasis added).
+ 
+
+i
+The district court concluded that the scanner must have “relative movement between the scanning element and the object being scanned.” We agree.
+ 
+[3] “Claims must be read in view of the specification, of which they are a part.” Phillips v. AWH Corp., 415 F.3d 1303, 1315 (Fed.Cir.2005) (en banc) (internal quotations omitted). Indeed, the specification is “[u]sually ... dispositive” and “is the single best guide to the meaning of a disputed term.” Id. In this case, however, the specification does not define the term “scanner” either explicitly or implicitly. The most that can be said is that the specification is not inconsistent with a relative movement requirement. The specification discloses only one type of scanner, a “Hell Model 299,” which is a drum scanner that rotates a two dimensional original image past a scanning element. ’919 patent, col. 5, ll.40–43. The drum scanner operates by moving the original past a scanning element, and thus requires “relative movement between the scanning element and the object being scanned.”
+ 
+Under such circumstances it is appropriate for us to look to dictionary definitions of the terms. See Phillips, 415 F.3d at 1322 (“Dictionaries or comparable sources are often useful to assist in understanding the commonly understood meaning of words and have been used both by our court and the Supreme Court in claim interpretation.”). Dictionary definitions of “scan” and “scanner” at the time the patent application was filed in 1982 confirm that these terms require relative movement between a scanning element and an object being scanned. For example, the 1968 version of Webster’s Third New International Dictionary defines “scan” as “to cause a narrow beam of light to ... traverse (an object) in order to translate light modulations into a corresponding electrical current.” Subsequent dictionary definitions include the same limitation. The 1984 edition of McGraw–Hill Dictionary of Scientific and Technical Terms defines “scanner” as “[a]ny device that examines an area or region point by point in a continuous systematic manner, repeatedly sweeping across until the entire area or region is covered.” The definition in the 2002 version of Webster’s is identical to the definition in the 1968 version. Thus the definitions, both before and after 1982, require relative movement.
+ 
+MIT argues that “flying spot scanners” existed in 1982 (although not referenced in the specification) and lacked the relative movement limitation. Thus, MIT urges that to a person of ordinary skill in 1982, a scanner would not have required relative movement. In a “flying spot scanner,” “[a] moving spot of light, controlled either mechanically or electrically, scans the image field to be transmitted.” Electronics and Nucleonics Dictionary 249 (3d ed.1966) (emphasis added); see McGraw– *1352 Hill Dictionary of Scientific and Technical Terms 784–85 (5th ed.1994) (defining “flying-spot scanner” as “[a] scanner used for television film and slide transmission, electronic writing, and character recognition, in which a moving spot of light, controlled mechanically or electrically, scans the image field, and the light reflected from or transmitted by the image field is picked up by a phototube to generate electric signals”). A 1982 dictionary of computing defines a “flying spot” as “[a] point of light or the end of an electron beam that is movable at high speed back and forth across a field.” Frank. J. Galland, Dictionary of Computing 107 (1982). This type of scanner is disclosed in U.S. Patent No. 2,790,844 (the “ ‘844 patent”), filed on May 11, 1954. ’844 patent, col. 4, ll. 33–44, 63–65. MIT argues that because a flying spot scanner has no mechanical movement, it is an example of a scanner that is inconsistent with the district court’s relative movement limitation. Although the mechanical components of a flying spot scanner may remain fixed, the scanner operates by sweeping a light beam across the object to be scanned. See McGraw–Hill definition; ’844 patent, col. 4 ll. 33–44, 63–65. We agree with the district court that the light beam qualifies as a scanning element, and thus that the flying spot scanner operates with movement between the scanning element and the object being scanned.
+ 
+Plaintiffs similarly argue that television cameras, which were available in 1982, are “scanners” that operate without relative movement. We disagree. Although a camera may achieve the same result as a scanner, the dictionary definitions confirm that a “scanner,” as it was understood in 1982, required relative movement between a scanning element and the object being scanned. Plaintiffs assert that U.S. Patent No. 4,037,249 (the “Pugsley” patent) used the term “scanner” to refer to a camera and thus reveals that in 1982 a person of ordinary skill in the art viewed a camera as a type of scanner. However, the specification of the Pugsley patent explicitly distinguishes between a camera (which does not require relative movement) and a scanner (which does) when it states that “it is usual to form three separate images by photographing or scanning the original.” Pugsley patent, col. 1, l. 27 (emphasis added).2
+ 
+We conclude that a camera that operates without relative movement is not a scanner within the meaning of the ’919 patent.
+ 
+
+ii
+[4] The district court also concluded that the “scanner” in claim 1(a) must involve placing the “ ‘color original’ ... on or in close proximity to the scanner.” Here again the specification does not explicitly or implicitly define “scanner” as including a “close proximity” requirement. Although the single disclosed scanner in the specification includes this limitation, we do not confine the claim to the disclosed embodiments. Phillips, 415 F.3d at 1323. The pertinent dictionaries also offer no assistance.
+ 
+[5] [6] Under such circumstances, we must determine what meaning the term had in the relevant art at the time the patent issued by looking to other sources. *1353 This follows from our obligation to give the words of a claim “their ordinary and customary meaning, [which] ... is the meaning that the [words] would have to a person of ordinary skill in the art in question at the time of the invention, i.e., as of the effective filing date of the patent application.” Phillips, 415 F.3d at 1312–13 (internal quotation marks and citations omitted) (emphasis added); see also Markman v. Westview Instruments, Inc., 52 F.3d 967, 986 (Fed.Cir.1995) (en banc), aff’d, 517 U.S. 370, 116 S.Ct. 1384, 134 L.Ed.2d 577 (1996) (In construing claims, the courts focus on “what one of ordinary skill in the art at the time of the invention would have understood the term to mean.”); Chisum on Patents § 18.03 [2][g] (2003 ed.). In determining the meaning of a term within the pertinent art, it is appropriate to determine the mode of operation of the device at the time the patent application was filed.3
+ 
+Here, the district court (relying on the ’919 specification, expert testimony, and technical references) concluded that in 1982 a person of ordinary skill in the art would have known of two general types of scanners, drum scanners and flatbed scanners. Both these scanners require close proximity between the color original and the scanner. We see no basis for disturbing this conclusion and agree that the term scanner should be defined by what was known in the art at the time. Plaintiffs argue that in 1982 cameras were scanners that did not require close proximity, but as we noted above, a camera that lacks the relative movement limitation is not a scanner. We conclude that the term scanner in 1982 should be construed to include a requirement of close proximity.
+ 
+
+B
+[7] MIT and EFI argue that the district court erroneously held the phrase “colorant selection mechanism” was a means-plus-function limitation under section 112 ¶ 6. That phrase appears in the patent together with a description of its functions, “receiving said modified appearance signals” and “selecting corresponding reproduction signals representing values of said reproducing colorants to produce in said medium a colorimetrically-matched reproduction.”
+ 
+[8] The phrase “colorant selection mechanism” is presumptively not subject to 112 ¶ 6 because it does not contain the term “means.” CCS Fitness, Inc. v. Brunswick Corp., 288 F.3d 1359, 1369 (Fed.Cir.2002). However, a limitation lacking the term “means” may overcome the presumption against means-plus-function treatment if it is shown that “the claim term fails to ‘recite sufficiently definite structure’ or else recites ‘function without reciting sufficient structure for performing that function.’ ” Id. (quoting Watts v. XL Sys., Inc., 232 F.3d 877, 880 (Fed.Cir.2000)).
+ 
+*1354 We agree with the district court’s conclusion that the presumption here is overcome and that the phrase “colorant selection mechanism” should be construed as a means-plus-function limitation. The generic terms “mechanism,” “means,” “element,” and “device,” typically do not connote sufficiently definite structure. In Personalized Media Commc’ns, LLC v. Int’l Trade Com’n, 161 F.3d 696 (Fed.Cir.1998), we addressed the claim term “digital detector.” We contrasted the term “detector,” which recited sufficient structure to avoid 112 ¶ 6, with “generic structural term[s] such as ‘means,’ ‘element,’ or ‘device,’ ” which do not. Id. at 704. Similarly, in Lighting World, Inc. v. Birchwood Lighting, Inc., 382 F.3d 1354 (Fed.Cir.2004), we recognized that Section 112 ¶ 6 does not apply to “a term that is simply a nonce word or a verbal construct that is not recognized as the name of structure and is simply a substitute for the term ‘means for.’ ” Id. at 1360.
+ 
+Here the patentee used “mechanism” and “means” as synonyms. See ’919 patent, claim 3, col. 15 l. 51 (referring to “colorant selection means ”) (emphasis added); id., claim 14, col. 17 ll. 1–2 (same). At least one dictionary definition equates mechanism with means. See The Random House Webster’s Unabridged Dictionary 1193 def. 2 (2d ed.1998) (defining “mechanism” as “the agency or means by which an effect is produced or a purpose is accomplished”); see also The Random House Dictionary of the English Language—The Unabridged Edition 889 (1973) (same). The term “mechanism” standing alone connotes no more structure than the term “means.”
+ 
+[9] Claim language that further defines a generic term like “mechanism” can sometimes add sufficient structure to avoid 112 ¶ 6. For example, in Greenberg v. Ethicon Endo–Surgery, Inc., 91 F.3d 1580 (Fed.Cir.1996), which involved a mechanical device, we held that 112 ¶ 6 did not apply to the term “detent mechanism,” because “the noun ‘[d]etent’ denotes a type of device with a generally understood meaning in the mechanical arts, even though the definitions are expressed in functional terms.” Id. at 1583. The court recited several dictionary definitions for “detent,” including “a mechanism that temporarily keeps one part in a certain position relative to that of another, and can be released by applying force to one of the parts.” Id. (internal quotation marks and citations omitted). These definitions connoted sufficient structure to avoid 112 ¶ 6. We also concluded that “[t]he fact that a particular mechanism—here ‘detent mechanism’—is defined in functional terms is not sufficient to convert a claim element containing that term into a ‘means for performing a specified function’ within the meaning of [112 ¶ 6]” because “[m]any devices take their names from the functions they perform.” Id.4
+ 
+In contrast, the term “colorant selection,” which modifies “mechanism” here, is not defined in the specification and has no dictionary definition, and there is no suggestion that it has a generally understood meaning in the art. We therefore agree with the district court that “colorant selection mechanism” does not connote sufficient structure to a person of ordinary skill in the art to avoid 112 ¶ 6 treatment.5
+ 
+*1355 The district court found that the functions of the “colorant selection mechanism,” as recited in claim 1, are “receiving said modified appearance signals” and “selecting corresponding reproduction signals representing values of said reproduction colorants to produce in said medium a colorimetrically-matched reproduction.” The court further held that the corresponding structures are the components of the “ink correction module (ICM).” MIT does not argue that if means-plus-function treatment was appropriate, the district court erred in its conclusions regarding the function and corresponding structure of the term. Therefore, the district court’s construction will govern further proceedings.
+ 
+
+C
+[10] Claim 1(b) of the ’919 patent recites, “display means connected to the scanner for receiving the appearance signals and aesthetic correction circuitry for interactively introducing aesthetically desired alterations into said appearance signals to produce modified appearance signals.” ’919 patent, col. 15, ll. 37–41 (emphasis added). The phrase, “aesthetic correction circuitry for interactively introducing aesthetically desired alterations into said appearance signals to produce modified appearance signals,” does not contain the term “means,” and is therefore presumptively not a means-plus-function limitation. Nonetheless, the district court held that the presumption was overcome and proceeded to define the function and related structure.
+ 
+MIT urges that the term “aesthetic correction circuitry” connotes sufficient structure to avoid 112 ¶ 6 treatment. We agree.
+ 
+In contrast to the term “mechanism,” dictionary definitions establish that the term “circuitry,” by itself, connotes structure. Webster’s Third New International Dictionary, 408–09 (1968 ed.) (defining “circuit” as “the complete path of an electric current including any displacement current” and “circuitry” as “the detailed plan of an electric circuit or network (as of a radio or television receiver)”); see also Linear Tech. Corp. v. Impala Linear Corp., 379 F.3d 1311, 1320 (Fed.Cir.2004) (“Technical dictionaries, which are evidence of the understandings of persons of skill in the technical arts, plainly indicate that the term ‘circuit’ connotes structure....The Dictionary of Computing 75 (4th ed.1996) defines ‘circuit’ as ‘the combination of a number of electrical devices and conductors that, when interconnected to form a conducting path, fulfill some desired function.’ ”); Random House Webster’s Unabridged Dictionary 374, def. 9 (2d ed.1998) (defining circuit as “the complete path of an electric current”); Rudolf F. Graf, Modern Dictionary of Electronics 116 (7th ed.1999) (defining “circuit” as “[t]he interconnection of a number of devices in one or more closed paths to perform a desired electrical or electronic function”);
+ 
+In two of our prior cases we concluded that the term “circuit,” combined with a description of the function of the circuit, connoted sufficient structure to one of ordinary skill in the art to avoid 112 ¶ 6 treatment. See Linear, 379 F.3d at 1320 (“[W]hen the structure-connoting term ‘circuit’ is coupled with a description of the circuit’s operation, sufficient structural *1356 meaning generally will be conveyed to persons of ordinary skill in the art, and § 112 ¶ 6 presumptively will not apply.”); Apex Inc. v. Raritan Computer, Inc., 325 F.3d 1364, 1373 (Fed.Cir.2003) (“[T]he term ‘circuit’ with an appropriate identifier such as ‘interface,’ ‘programming’ and ‘logic,’ certainly identifies some structural meaning to one of ordinary skill in the art.”). The claim language here too does not merely describe a circuit; it adds further structure by describing the operation of the circuit. The circuit’s input is “appearance signals” produced by the scanner; its objective is to “interactively introduce[e] aesthetically desired alterations into said appearance signals”; and its output is “modified appearance signals.” ’919 patent, col. 15, ll. 29–41. This description of the operation of the circuit is sufficient to avoid 112 ¶ 6.
+ 
+In arguing to the contrary, the dissent appears to misapprehend the strength of the presumption that applies when the term “means” does not appear in the claim. As we stated in Lighting World, 382 F.3d at 1362, “[W]e have seldom held that a limitation not using the term ‘means’ must be considered to be in means-plus-function form,” and “the circumstances must be [unusual] to overcome the presumption ....” So too the dissent erroneously suggests that claims cannot avoid means-plus-function treatment unless the claim term denotes a specific structure. But “[i]n considering whether a claim term recites sufficient structure to avoid application of section 112 ¶ 6, we have not required the claim term to denote a specific structure. Instead, we have held that it is sufficient if the claim term is used in common parlance or by persons of skill in the pertinent art to designate structure, even if the term covers a broad class of structures and even if the term identifies the structures by their function.” Id. at 1359–60. Here, technical dictionaries supply ample evidence that the claim term designates structure.
+ 
+We conclude that Microsoft has not overcome the presumption that the “aesthetic correction circuitry” limitation is not a means-plus-function limitation.
+ 
+[11] Microsoft urges that “circuitry” should be limited to hardware whereas MIT urged below that it should include both hardware and software. We conclude that the term “aesthetic correction circuitry” is clearly limited to hardware.
+ 
+The parties agree that the CTM is the “aesthetic correction circuitry” of the ’919 patent. As the Summary of the Invention explains, when the operator views an image of the scanned original on a TV screen, the operator can “manipulate[ ] the TV image interactively in terms of appearance values, introducing aesthetic corrections and such other changes as desired.” ’919 patent, col. 3 ll. 59–62. The CTM is the device that is used “to correct the input errors” in the image on the TV screen. In the preferred embodiment, it is composed of five modules, each of which corrects a specific type of error.
+ 
+The specification describes the components of the CTM as hardware components. See id., col. 8, ll. 36–38 (“The next step is conversion to LC1C2 form by a hardware implementation of the given transformation, followed by the LC1C2 Color Balance Module, 35.”); id., col. 8 ll. 48–51 (“The next two modules operate on chrominance in polar coordinates, so that the C1C2 signals must be converted in a hardware Cartesian to Polar Coordinate Converter, 36.”); id., col. 9, ll. 7–10 (“After Special Correction, hue and saturation are converted back to C1C2 form by a hardware Polar to Cartesian Coordinate Converter, 39, for passage to storage or the display.”). Although the specification suggests that certain computations performed *1357 by the CTM can be accomplished with either hardware or software,6 this reference does not alter the specification’s repeated description of the circuit itself as involving hardware. Thus, the specification references do not require that “circuit” be interpreted to include software. Dictionary definitions of circuit in 1982, when the patent application was filed, did not include software.7 See McGraw–Hill Dictionary of Scientific and Technical Terms 299 (2d ed.1978) (defining “circuitry” as “[t]he complete combination of circuits used in an electrical or electronic system or piece of equipment”). We conclude that the term “circuitry” in claim 1 is limited to hardware.
+ 
+Having decided that 112 ¶ 6 does not apply to the “aesthetic correction circuitry” limitation and that the term does not include software, we leave it to the district court to define this term with further particularity.
+ 
+
+D
+In conclusion, we agree that the district court properly construed the claim terms “colorant selection mechanism” and “scanner” in the respects described above. However, its construction of the term “aesthetic correction circuitry” was erroneous.
+ 
+Microsoft and Corel contend that the district court erred in construing the term “colorimetric match” to permit a specific tolerance, the term “scanner” not to require “Color Mixture Curve filters,” and the term “color original” not to require two-dimensional originals. MIT contends that the district court should have adopted a narrower construction of the term “system comprising in serial order,” for purposes of the invalidity analysis. Because the construction of these terms would not affect the judgment under review, we decline to address them.
+ 
+
+II
+[12] Microsoft urges an alternative ground for partial affirmance of the judgment of non-infringement. Microsoft contends that the district court properly granted Microsoft’s motion to exclude Windows as an infringing product. The district court granted the motion on the ground that MIT’s preliminary infringement contentions should be treated as final, and thus MIT should not be permitted subsequently to add new accused products except on a showing of good cause.
+ 
+The docket control order (“DCO”) set a September 3, 2002, deadline for asserting preliminary infringement contentions and defined the required disclosure as follows:
+[T]he “Disclosure of Asserted Claims and Preliminary Infringement Contentions” shall contain ... each accused apparatus, product, device, process, method, act, or other instrumentality (“Accused Instrumentality”) of each opposing party of which the party is aware. This identification shall be as specific as possible, [sic] Each product, device, and apparatus must be identified by name or model number, if known.
+*1358 J.A. at 810. MIT served its preliminary infringement contentions on August 29, 2002. The court’s claim construction order issued on July 3, 2003. On November 4, 2003, the court issued an amended DCO, requiring the parties to update their preliminary infringement contentions in light of the claim construction order by November 21, 2003 (later extended to December 22, 2003). In an order accompanying the amended DCO, the district court noted for the first time—nine months after the original DCO—that under the “Rules of Practice Before the Honorable T. John Ward of the Eastern District of Texas” (“Judge Ward’s Rules”) preliminary infringement contentions are deemed to be final, and can only be amended by order of the court on a showing of good cause. Nonetheless, on December 22, 2003, MIT attempted to update its preliminary infringement disclosures to include Windows. Microsoft moved to exclude Windows on January 26, 2004, and the district court granted the motion on September 10, 2004.
+ 
+The district court relied on rules 3–6 and 3–7 of Judge Ward’s Rules.8 Rule 3–6 provides that “[e]ach party’s [sic] ‘Preliminary Infringement Contentions’...shall be deemed to be that party’s final contentions [with immaterial exceptions].” Rule 3–7 provides that “[a]mendment or modification of the Preliminary or Final Infringement Contentions ..., other than as expressly permitted in P.R. 3–6, may be made only by order of the Court, which shall be entered only upon a showing of good cause.” The court concluded that MIT had failed to show good cause for the delay in adding Windows as an Accused Instrumentality.
+ 
+Under the law of the Fifth Circuit, which governs here, district courts are afforded broad discretion in interpreting their own orders.9 However, the district court is obligated to provide clear notice of the requirements of its orders. Federal Rule of Civil Procedure 83(b) provides:
+ 
+A judge may regulate practice in any manner consistent with federal law, rules adopted under 28 U.S.C. §§ 2072 *1359 and 2075, and local rules of the district. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, or the local district rules unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
+Fed.R.Civ.P. 83(b).
+We conclude that MIT was not provided with sufficient notice that its preliminary infringement contentions would be deemed final or that they could only be updated upon a showing of good cause. The August 23, 2002, DCO did not give notice that the preliminary infringement contentions would be deemed final. The district court did not state that Judge Ward’s rules would govern. Nor did it state that a “good cause” standard would govern the addition of new products to MIT’s preliminary infringement contentions.
+ 
+The dissent appears to suggest that even if the district court here erred in relying on Judge Ward’s rules, its order was justified under the “no excuses” provision. The “no excuses” provision stated that “[a] party is not excused from the requirements of the Docket Control Order because it has not fully completed its investigation of the case” cannot justify the exclusion. J.A. at 806. The dissent suggests that MIT purported to justify updating its infringement contentions to include Windows for a single unpersuasive reason—namely, that the district court unexpectedly construed “aesthetic correction circuitry” as a means-plus-function term. See Dissenting Op. at 1365. On the contrary, MIT relied primarily on the theory that it needed discovery into Windows’ interaction with other products before it could determine whether Windows infringed. See Plaintiffs’ Opposition to Microsoft’s Motion to Exclude Windows as an Additional Accused Product and Strike Plaintiffs’ Infringement Contentions, at 2–4 (Feb. 17, 2004). In this respect, the dissent appears to urge that, even though the district court stayed discovery, MIT should be held culpable for its failure to obtain the earlier discovery that would have permitted it to add Windows as an accused product prior to the Markman hearing. With respect, the “no excuses” provision cannot reasonably be read as obligating MIT to conduct the discovery for purposes of framing final infringement contentions when the district court had explicitly stayed discovery in the very same order.
+ 
+Because MIT was not on actual notice that a showing of good cause was required to add “Accused Instrumentalities” to its preliminary infringement contentions, the district court erred in barring the addition of Windows as an infringing product.
+ 
+
+III
+[13] Both MIT and defendants Microsoft and Corel contend that the district court erred in denying their motions for summary judgment under the marking statute. Microsoft’s and Corel’s cross-appeals in this respect are improper since a favorable ruling would not broaden the scope of the judgment. See Bailey v. Dart Container Corp. of Mich., 292 F.3d 1360, 1362 (Fed.Cir.2002) (“It is only necessary and appropriate to file a cross-appeal when a party seeks to enlarge its own rights under the judgment or to lessen the rights of its adversary under the judgment.”). The cross-appeals are therefore dismissed. To the extent that we have jurisdiction to consider the marking statute issues, we decline to address them because those questions have not been finally resolved by the district court.
+ 
+[14] We also have no authority to address two other arguments raised by MIT. *1360 First, MIT argues that the district court erred in granting Fry’s motion for summary judgment of non-infringement when it improperly determined that an infringing sale requires a completely assembled system. Second, MIT argues the district court erred in granting Arcsoft’s and Fry’s motion for partial summary judgment under the marking statute when it concluded that certain letters EFI sent to the appellees failed to give actual notice of infringement under section 287(a). Both these conclusions were reached in rulings in favor of Fry’s and Arcsoft. MIT agreed to dismiss both parties with prejudice, so challenges to those rulings are moot. U.S. Bancorp Mortgage Co. v. Bonner Mall P’ship, 513 U.S. 18, 25, 115 S.Ct. 386, 130 L.Ed.2d 233 (1994) (“Where mootness results from settlement ... the losing party has voluntarily forfeited his legal remedy by the ordinary process[ ] of appeal.”). MIT argues that these rulings “may” limit their damages award, but this does not affect the mootness of the particular rulings at this stage of the proceedings. See Reply Brief for Plaintiff–Appellant at 47. If the district court in the future relies on these rulings to limit damages with respect to a non-dismissed party, that reliance will give rise to a new ruling that may then be appealed (if otherwise appropriate).
+ 
+
+CONCLUSION
+The district court erred in its construction of the term “aesthetic correction circuitry” in the ’919 patent and its decision to grant Microsoft’s motion to exclude Windows as an Accused Instrumentality. Accordingly, we vacate the district court’s grant of summary judgment of non-infringement of the ’919 patent and remand for further proceedings consistent with this opinion. We dismiss Microsoft’s and Corel’s cross-appeals from the district court’s denial of their motions for summary judgment concerning the marking statute. We dismiss MIT’s appeal in part as moot.
+ 
+
+VACATED–IN–PART, DISMISSED–IN–PART, and REMANDED
+COSTS
+No costs.
+ 
+
+MICHEL, Chief Judge, dissenting.
+
+I respectfully dissent from the majority’s vacatur and remand-in-part of the district court’s decision on the bases of the trial court’s incorrectly construing the claim term “aesthetic correction circuitry” under section 112 and erring in the exclusion of Windows as an infringing product, first suggested two years after the complaint was filed. I believe that in view of its specific language, “aesthetic correction circuitry” was correctly construed as a means-plus-function claim limitation. Nor do the cases relied on by the majority support, much less require, a different disposition. Moreover, I believe that excluding Windows as an infringing product was not an abuse of the trial court’s discretion because MIT itself urged, successfully, that discovery be delayed.
+ 
+
+I.
+The district court correctly interpreted “aesthetic correction circuitry” as a means-plus-function claim despite the absence of the term “means for” in view of the presence of functional language because the limitation fails to recite sufficiently definite structure, as our precedent requires. Thus, the presumption against application of section 112, paragraph 6 was overcome. Indeed, on this record, I find it overcome as a matter of law.
+ 
+The parties agree that “the term ‘circuit[ry],’ by itself connotes some structure” to one skilled in the art. Apex, Inc. v. *1361 Raritan Computer, Inc., 325 F.3d 1364, 1373 (Fed.Cir.2003) (emphasis added). The issue, however, is whether the “aesthetic correction circuitry” limitation “recite[s] sufficiently definite structure,” id. at 1372 (emphasis added); accord Linear Tech. Corp. v. Impala Linear Corp., 379 F.3d 1311, 1319 (Fed.Cir.2004), which is required to avoid section 112, paragraph 6 in a claim using functional language, even in the absence of “means for.”
+ 
+This “definite structure” requirement is well-established in our precedent. “To invoke this statute [section 112, paragraph 6], the alleged means-plus-function claim element must not recite a definite structure which performs the described function.” Cole v. Kimberly–Clark Corp., 102 F.3d 524, 531 (Fed.Cir.1996); see also B. Braun Med., Inc. v. Abbott Labs., 124 F.3d 1419, 1424 (Fed.Cir.1997) (“Because this limitation ... does not recite definite structure in support of its function, it is subject to the requirements of 35 U.S.C. § 112, ¶ 6 ....”); Personalized Media Commc’ns, LLC v. Int’l Trade Comm’n, 161 F.3d 696, 704 (Fed.Cir.1998) (“In deciding whether either presumption [‘means for’ with stated function presumes that section 112, paragraph 6 applies, while no ‘means for’ with stated function presumes that section 112, paragraph 6 does not apply] has been rebutted, the focus remains on whether the claim as properly construed recites sufficiently definite structure to avoid the ambit of § 112, ¶ 6.”); Watts v. XL Sys., Inc., 232 F.3d 877, 880 (Fed.Cir.2000) (“[T]he focus remains on whether the claim ... recites sufficiently definite structure.”); CCS Fitness, Inc. v. Brunswick Corp., 288 F.3d 1359, 1369 (Fed.Cir.2002) ( “Life Fitness can rebut this presumption if it demonstrates that the claim term fails to ‘recite sufficiently definite structure.’ ”); Lighting World, Inc. v. Birchwood Lighting, Inc., 382 F.3d 1354, 1358 (Fed.Cir.2004) (“The presumption that a limitation lacking the term ‘means’ is not subject to section 112 ¶ 6 can be overcome if it is demonstrated that the ‘claim term fails to recite sufficiently definite structure.’ ”) (internal quotations omitted). Indeed, section 112, paragraph 6 is rooted in the definiteness requirement of section 112, paragraph 2: “Congress has provided this statute [section 112, paragraph 6] as a specific instruction on interpretation of the type of claim which otherwise might be held to be indefinite.” Data Line Corp. v. Micro Techs., Inc., 813 F.2d 1196, 1201 (Fed.Cir.1987); accord Jonsson v. Stanley Works, 903 F.2d 812, 819 (Fed.Cir.1990); see also Laitram Corp. v. Rexnord, Inc., 939 F.2d 1533, 1536 (Fed.Cir.1991) (“Absent section 112(6), claim language which requires only a means for performing a function might be indefinite.”). Such a claim would, of course, be invalid under section 112, paragraph 2. Although both Apex and Linear, relied on dispositively and exclusively by the majority, found sufficiently definite structure in the claim language, both are distinguishable from the instant case, in which the claim language is dramatically different.
+ 
+In Apex, a number of claim limitations using the term “circuit” were at issue. One such representative claim with the representative limitations was:
+a first interface circuit for receiving keyboard and cursor control device signals from the workstation;
+an on-screen programming circuit that produces video signals for display on the video monitor;
+a programmed logic circuit coupled to the first interface that transmits the keyboard and cursor control device signals to the programmable switch and controls the on-screen programming circuit to produce the video signals upon *1362 the detection of a predefined input from a user of the workstation, the programmed logic circuit further operating to detect keyboard or cursor control device signals received while the on-screen programming circuit is producing video signals on the video monitor and to control the programmable switch in response to the keyboard or cursor control device signals detected; and
+a second interface circuit disposed between the programmable switch and the selected computer for supplying the keyboard and cursor control device signals routed through the programmable switch to the selected computer.
+325 F.3d at 1368; United States Patent No. 5,884,096, col. 13, l. 53—col. 14, l. 24. In holding that the term “interface circuit” was not a means-plus-function limitation, we explained that “the term ‘circuit’ with an appropriate identifier such as ‘interface,’ ‘programming’ and ‘logic,’ certainly identifies some structural meaning to one of ordinary skill in the art.” Apex, 325 F.3d at 1373 (emphases added). Moreover, we elaborated that “interface circuit” connotes sufficiently definite structure because “interface” and “interface circuit” are defined in electronics and computing dictionaries so as to “connote[ ] specific structures to one of ordinary skill in the art.” Id. at 1374. We then remanded the case to the district court for further development of the record and a similar analysis for the remaining “circuit” terms. Thus, not every “adjectival qualification” (“A.Q.”), id., connotes sufficiently definite structure for the term “circuit,” but rather an “appropriate ” A.Q., as demonstrated in Apex by technical dictionaries.
+ 
+By contrast, the “circuitry” claim limitation in this case recites only the following and nothing more:
+aesthetic correction circuitry for interactively introducing aesthetically desired alterations into said appearance signals to produce modified appearance signals;
+’919 patent, col. 15, ll. 38–41. Unlike in Apex, here we have no evidence whatsoever that “aesthetic correction” is such an “appropriate” A.Q. that it would connote sufficiently definite structure to one skilled in the art. Indeed, “aesthetic correction” itself may be solely functional language. For example, we were shown no evidence that any technical dictionaries suggest to the artisan a sufficiently definite structure for “aesthetic correction circuitry” or even list such a term. Nor did experts from either side opine that one skilled in the art would understand “aesthetic correction circuitry” to connote sufficiently definite circuit structure. While Microsoft’s expert Anthony Johnson stated that one skilled in the art would have understood “aesthetic correction circuitry” to mean “hardware that allows an operator to interactively introduce changes into the appearance signals to create modified appearance signals,” this does not connote definite structure, but merely some unspecified hardware structure. The record on appeal does not reflect the opinion of MIT’s expert, Bradley Paxton, regarding the meaning of “aesthetic correction circuitry.” Rather, in the paltry portion of his testimony in the appellate record, he merely discusses “circuitry” and the fact that “[c]ircuitry contains a lot of components, including wires.” This fails to impart definite structure to “aesthetic correction circuitry” because the components and their arrangements are unstated. The inventor, William Schreiber, explained that “aesthetic correction circuitry” means to one skilled in the art “hardware or software used by the system operator to introduce desired alterations into the appearance signals of an image.” Again, this does not elucidate a definite structure, but merely suggests some generic structure, namely, some unspecified arrangement of *1363 unidentified hardware components or software. Neither of MIT’s experts even attempted to opine that “aesthetic correction” connotes definite structure such that “aesthetic correction circuitry” would suggest a sufficiently definite array of components to one skilled in the art. Thus, I cannot discern sufficiently definite structure from the term “aesthetic correction circuitry” to avoid means-plus-function treatment.
+ 
+Similarly, in Linear, a representative claim with limitations concerning “circuit” recited:
+A circuit for controlling a switching voltage regulator, the regulator having (1) a switch circuit coupled to receive an input voltage and including a pair of synchronously switched switching transistors and (2) an output circuit including an output terminal and an output capacitor coupled thereto for supplying current at a regulated voltage to a load, the control circuit comprising:
+a first circuit for monitoring a signal from the output terminal to generate a first feedback signal;
+a second circuit for generating a first control signal during a first state of circuit operation, the first control signal being responsive to the first feedback signal to vary the duty cycle of the switching transistors to maintain the output terminal at the regulated voltage; and
+a third circuit for generating a second control signal during a second state of circuit operation to cause both switching transistors to be simultaneously OFF for a period of time if a sensed condition of the regulator indicates that the current supplied to the load falls below a threshold fraction of maximum rated output current for the regulator, whereby operating efficiency of the regulator at low output current levels is improved.
+379 F.3d at 1316. In ascertaining that these “circuit” limitations were not means-plus-function limitations, Linear began with the approach of Apex and CCS Fitness: “To help determine whether a claim term recites sufficient structure, we examine whether it has an understood meaning in the art.” Id. at 1320. Linear then quoted two dictionary definitions of “circuit,” one identical to the dictionary definition in Apex. Yet, while Apex merely concluded from these dictionary definitions that “circuit” connoted “some structural meaning to one of ordinary skill in the art,” Apex, 325 F.3d at 1373 (emphases added), Linear relied on these dictionary definitions, Apex, and certain non-functional, operational claim language to state: “Thus, when the structure-connoting term ‘circuit’ is coupled with a description of the circuit’s operation, sufficient structural meaning generally will be conveyed to persons of ordinary skill in the art, and § 112 ¶ 6 presumptively will not apply.” Linear, 379 F.3d at 1320 (citing Apex, 325 F.3d at 1373) (emphases added). In its holding, however, Linear also required expert testimony as to whether these descriptions of the circuit’s operation conveyed sufficient structure to an artisan: “We hold that because the term ‘circuit’ is used in each of the disputed limitations ... with a recitation of the respective circuit’s operation in sufficient detail to suggest structure to persons of ordinary skill in the art, the ‘circuit’ and ‘circuitry’ limitations of such claims are not means-plus-function limitations ....” Id. at 1320–21 (emphasis added). Thus, not any operational language suffices.
+ 
+Linear therefore extended the reasoning of Apex such that the use of “circuit” coupled with a description of the circuit’s operation may connote “sufficient structural meaning,” id. at 1320, to one skilled in the art. In Linear, this description of the *1364 first circuit’s operation was “for monitoring a signal from the output terminal to generate a first feedback signal.” Id. The description of the second circuit’s operation was “for generating a first control signal during a first state of circuit operation.” Id. at 1316. Similarly, the description of the third circuit’s operation was “for generating a second control signal during a second state of circuit operation to cause both switching transistors to be simultaneously OFF.” Id. Importantly, however, Linear relied on expert testimony to determine whether these descriptions of the circuit’s operation conveyed sufficient structure to one skilled in the art. “That persons of ordinary skill in the art would understand the structural arrangements of circuit components from the term ‘circuit’ coupled with the qualifying language of claim 1 was recognized by Linear’s expert witness,” id. at 1320 (emphasis added), who opined that one skilled in the art “would have an understanding of, and would be able to draw, structural arrangements of the circuit elements defined by the claims.” Id. (emphases added). Thus, in Linear, it was not merely the particular descriptions of the operation of the circuit that connoted sufficient structure, but also the expert testimony that these descriptions conveyed sufficient structure to one skilled in the art because the artisan “would be able to draw[ ] structural arrangements of the circuit elements.” Id.
+ 
+Here, we face a description of only the circuit’s function, not of how it operates with other circuits or devices to carry out that function. Moreover, even assuming we had a description of the circuit’s operation, “for interactively introducing aesthetically desired alterations into said appearance signals to produce modified appearance signals,” ’919 patent, col. 15, ll. 38–41, we were shown no evidence from which to conclude that this description identifies the circuit components or conveys the arrangement of circuit components to one skilled in the art so that he could draw the circuit’s elements and their sequence.
+ 
+In sum, both Apex and Linear relied on additional information in the claim to determine whether the limitation as a whole conveyed sufficiently definite circuit structure, i.e., elements or components and their sequence, to an artisan. Apex relied on dictionary definitions of an accompanying “appropriate” A.Q. that suggested sufficiently definite structure to one skilled in the art. Linear relied on expert testimony that the claim’s description of the operation of the circuit connoted definite structure. Here, we have neither a dictionary definition to establish that “aesthetic correction” is an appropriate A.Q. to suggest definite structure nor expert testimony that the accompanying description of the operation of the circuit, if any, connotes definite circuit structure-sequence of particular circuit components-to an artisan so that he could draw on paper the arrangement of the components needed.
+ 
+
+II.
+The district court denied MIT’s belated attempt to add Windows as an infringing device. At the outset of the case, the court provided a proposed Docket Control Order on June 19, 2002. This proposed order stated that Preliminary Infringement Contentions were due prior to the Markman hearing. It did not allow for amended or supplemental infringement contentions. It also contained a “No Excuses” provision, which stated: “A party is not excused from the requirements of the Proposed Docket Control Order because it has not fully completed its investigation of the case ... or because another party has not made its disclosures.” MIT did not *1365 object to the “No Excuses” clause. Yet in response to the proposed order, MIT did request that no discovery occur until after the Markman hearing.1 The court amended the proposed Docket Control Order to include MIT’s requested stay of discovery until after the Markman hearing. After the Markman hearing and discovery, MIT attempted to “update” its infringement contentions. Microsoft then moved to exclude Windows as an additional accused device and strike MIT’s updated infringement contentions. The court granted the motion because, it said, to do otherwise would have caused “significant delay that could have been avoided,” Mass. Inst. of Tech. v. Abacus Software, No. 01–344, at 10 (E.D.Tex. Sept. 10, 2004) (order granting motion to exclude), especially given that “Microsoft did not have the opportunity to consider Windows in drafting its claim construction arguments.” Id. I agree.
+ 
+First, had MIT not requested stay of discovery until after the Markman hearing, it would have discovered Windows as an allegedly infringing device prior to the Markman hearing. Second, MIT requested the stay of discovery even though it already knew, based on the trial court’s June 19, 2002 proposed scheduling order, that incomplete investigation of its case—i.e., uncompleted discovery—was not an excuse for deviation from the scheduling order, including the deadline for infringement contentions. Third, it is difficult to fathom how the district court’s construction of “aesthetic correction circuitry” as a means-plus-function limitation, which narrowed the claim term, should have expanded the set of potentially infringing devices such that MIT would only have been able to identify Windows as an allegedly infringing device after the limitation had been so narrowed. Indeed, MIT utterly fails to explain how construction of this limitation as a means-plus-function limitation could have first apprised MIT that Windows might infringe. Moreover, it is difficult to understand why MIT could not have contended prior to the Markman hearing that Windows—software—allegedly infringed, given that in its Markman brief MIT argued that “aesthetic correction circuitry” includes “hardware or software”—not only hardware, as Microsoft argued. Fourth, to add this new accused product two years into litigation would have caused undue delay and prejudice to Microsoft—and all other parties in this complex litigation against 214 defendants—because claim construction had occurred, invalidity contentions had been served, depositions had been taken, expert reports had been served, etc.2 Fifth, adding an entirely new accused product was not an “update”—it materially changed the theories of the case.
+ 
+Moreover, I disagree that MIT did not have actual notice that it would not be able to “update” its infringement contentions based on incomplete discovery. The majority states that “MIT was not provided with sufficient notice that its preliminary infringement contentions would be deemed final” because MIT was not notified that *1366 Judge Craven would “rel[y]” on Judge Ward’s Rules. This is misleading on three points: (1) notice, (2) finality, and (3) Judge Ward’s Rules.
+ 
+First, MIT was provided with notice that it would not be allowed to “update” its infringement contentions based on incomplete discovery through the “No Excuses” clause. The no excuses clause explicitly notified MIT that it would not be excused from the requirements of the scheduling order “because it ha[d] not fully completed its investigation of the case.” Incomplete discovery, I infer, is the real reason that MIT wanted to update its infringement contentions. Incomplete discovery is one reason explicitly noticed by the no excuses clause that MIT was not allowed to do so.
+ 
+Indeed, the August 23, 2002 scheduling order required that preliminary infringement contentions be filed by September 3, 2002. This same order set a deadline for opening Markman briefs of February 3, 2003. This five-month delay between filing of preliminary infringement contentions and of the opening Markman briefs strongly suggests that the purpose of this extended time frame was to allow the parties to develop their respective theories of the case, litigation strategies, and claim constructions with the allegedly infringing products in mind. Allowing MIT thereafter to “update” its contentions in contravention of this notice would have allowed it to subvert the very purpose of these provisions of the scheduling order. Moreover, the March 10, 2003 Early Mediation Deadline set in the same scheduling order further implies that the purpose of the infringement contention deadline combined with the no excuses clause was to narrow the issues in the case, including the issue of infringement, to facilitate early settlement, especially in this large, complex case.
+ 
+Second, the district court did not need to notify MIT that its preliminary infringement contentions would be deemed “final,” as the majority states, because the district court never deemed them “final.” Nowhere in her order did Judge Craven characterize MIT’s infringement contentions as “final.” Rather, the district court, applying its no excuses clause, refused to allow MIT to add an allegedly infringing product based on incomplete discovery. Indeed, the no excuses clause seems to contemplate—and obviate—such a situation as we have here: a belated attempt to add an infringing product based on incomplete discovery.3 The no excuses clause quashed such a possibility in no uncertain terms. Thus, while other reasons may have allowed plaintiffs upon a showing of good cause to introduce additional infringement contentions beyond the preliminary contentions, incomplete discovery was explicitly not such a reason.
+ 
+Third, I further disagree with the majority’s and MIT’s characterization of Magistrate Judge Craven’s use of Judge Ward’s Local Patent Rules in granting Microsoft’s motion to exclude Windows as an infringing product. The majority states that Judge Craven was “govern[ed]” by Judge Ward’s Rules and “relied” on those Rules. This is inaccurate.
+ 
+The court issued its claim construction order on July 3, 2003. MIT served its Updated Disclosure of Asserted Claims *1367 and Preliminary Infringement Contentions re Defendant Microsoft Corporation on Microsoft on December 22, 2003, attempting to add Windows as an infringing product for the first time since filing its complaint on December 28, 2001. Yet in her November 4, 2003 Order granting the motion for entry of a revised Docket Control Order, Judge Craven stated that she was using Judge Ward’s Local Patent Rules as “guidance.” In her September 10, 2004 Order granting Microsoft’s motion to exclude Windows as an infringing product, Judge Craven again cited Judge Ward’s rules. Yet it does not appear that she viewed these rules as binding on her or on the parties. Rather, it appears that she used them to justify and explain in part the grant of Microsoft’s motion, in the same way that she cited case law to justify and explain her decision (as all courts do). I see no error, constitutional or other, in this use of Judge Ward’s rules, unlike the majority, nor a violation of Federal Rule of Civil Procedure 83(b). From the no excuses clause, MIT had actual notice that the infringement contentions were not subject to expansion from discovery results occurring after the Markman hearing. Indeed, because the no excuses clause provided sufficient notice that MIT would not be allowed to add an infringing product based on incomplete discovery, whether Judge Craven gave sufficient notice of her alleged reliance on Judge Ward’s rules is irrelevant.
+ 
+I certainly see no abuse of discretion in excluding Windows. MIT concedes that “this Court should apply the abuse of discretion standard on appeal” regarding the exclusion of Windows as an infringing product. The majority equivocates on the standard it uses to determine that this exclusion was reversible. The majority states that “district courts are afforded broad discretion in interpreting their own orders.” Maj. Op. at 1358. In a footnote, it then cites a case that holds that abuse of discretion is the standard of review. Upon reaching its conclusion, however, the majority simply states that the “district court erred.” That appears to be de novo review, rather than review for abuse of discretion. Indeed, a judge’s discretion is at its broadest on matters of trial management.
+ 
+“[R]ulings which rested largely in the sound discretion of the court ... may be made the basis for reversal only where it is made to appear not merely that the ruling might have been the other way but that, as made, there was a grave and serious abuse of discretion ....” Fulenwider v. Wheeler, 262 F.2d 97, 99 (5th Cir.1959). In particular, “[t]he Civil Rules endow the trial judge with formidable case-management authority.” Rushing v. Kan. City S. Ry. Co., 185 F.3d 496 (5th Cir.1999) (quoting Rosario–Diaz v. Gonzalez, 140 F.3d 312, 315 (1st Cir.1998)); see also Macklin v. City of New Orleans, 293 F.3d 237, 241 (5th Cir.2002). Here, neither the majority nor MIT has demonstrated “grave and serious” error. The majority simply opines that Judge Craven failed to provide “clear notice” that the initial infringement contentions would be deemed final even though ample evidence contradicts this, as discussed above. Moreover, it seems that Judge Craven was not “govern[ed]” by Judge Ward’s Rules, as the majority contends. Thus, while another reasonable judge may have ruled another way, this ruling falls far short of meeting the rigorous standard of abuse of discretion.
+ 
+All Citations
+462 F.3d 1344, 80 U.S.P.Q.2d 1225
+Footnotes
+
+1
+
+The accused infringers have not suggested that this is a case like Nautilus Group, Inc. v. Icon Health and Fitness, Inc., 437 F.3d 1376 (Fed.Cir.2006), where the judgment could be sustained by a claim construction not relied on by the district court.
+
+2
+
+MIT relies on three other patents as supposedly recognizing that a camera is a type of scanner. But these references either make clear that a scanner is distinct from a camera, see U.S. Patent Nos. 4,393,398 (employing “a cathode ray tube scanner or a color television camera”); 4,328,515 (“a scanning unit can be employed which works with a color television camera”), or are ambiguous, see U.S. Patent No. 4,349,279 (referring both to “an electronic color scanner in the form of a color camera” and to a “color scanning device in the form of a color scanner or a primary color camera”).
+
+3
+
+In Schering Corp. v. Amgen Inc., 222 F.3d 1347, 1354 (Fed.Cir.2000), we concluded that the claim reference to “polypeptide of the IFN-ø◯ type” did not include later-discovered species of IFN-ø◯ that were unknown at the time of the application. And in Kopykake Enterprises, Inc. v. Lucks Co., 264 F.3d 1377 (Fed.Cir.2001), the term “screen printing,” a term of art referring to printing on foodstuffs, did not include a method of printing that existed at the time of application but was only later adapted to printing on foodstuffs. See also SuperGuide Corp. v. DirecTV Enterprises, 358 F.3d 870, 879–880 (Fed.Cir.2004) (holding that claimed invention included digital technology that was known to those skilled in the art at the time of the patent application); Kopykake Enterprises 264 F.3d at 1383 (“[W]hen a claim term understood to have a narrow meaning when the application is filed later acquires a broader definition, the literal scope of the term is limited to what it was understood to mean at the time of filing.”).
+
+4
+
+Of course, a claim term defined solely in functional terms, without more, would fall within Section 112(6). See Al–Site Corp. v. VSI Int’l, Inc., 174 F.3d 1308, 1318 (Fed.Cir.1999); see also Micro Chem., Inc. v. Great Plains Chem. Co., Inc., 194 F.3d 1250, 1258 (Fed.Cir.1999).
+
+5
+
+In Lighting World, we held that it was appropriate to look to dictionaries “to determine if a disputed term has achieved recognition as a noun denoting structure,” and determined that “connector” had a reasonably well-understood meaning as a name for a structure. 382 F.3d at 1360–61. That structure was defined in terms of the function it performed, “connecting.” Id. Here, the term “mechanism” is not defined by a function that particularizes its structure.
+
+6
+
+See ’919 patent, col. 10, ll. 25–29 (“It has proven convenient to use a hybrid analog-digital computer to perform the said computation, but any known form of computation can be used....”).
+
+7
+
+“Software” is defined as “the programs used to direct the operation of a computer,” Random House Webster’s Unabridged Dictionary 1814, def. 1 (2d ed.1998), and “hardware” is defined as “the mechanical, magnetic, electronic, and electrical devices comprising a computer system,” Id. at 872, def. 5.
+
+8
+
+The dissent urges that the district court did not rely on Judge Ward’s rules. Dissenting Op. at 1366. But the court here quoted Judge Ward’s rules at length, and its conclusion explicitly relies on the “good cause” standard enunciated in Rule 3–7 of Judge Ward’s Rules, which it interpreted as an exception to the finality of party’s preliminary infringement contentions.
+Quoting Rule 3–6, the court stated “[e]ach party’s ‘Preliminary Infringement Contentions’ ... shall be deemed to be that party’s final contentions ....” J.A. at 4967 (emphasis in original). The court then noted that Judge Ward’s Local Patent Rule 3–7 provides for an exception: “Amendment or modification of the Preliminary or Final Infringement Contentions [with immaterial exceptions] ... may be made only by order of the Court, which shall be entered only upon a showing of good cause.” J.A. at 4968 (emphasis in original). Noting that “Judge Ward adopted the Northern District of California’s Patent Local Rules,” the court proceeded to discuss at length two cases Northern District of California interpreting Rule 3–7. J.A. 4968–69. Finally, the court concluded that “[f]or the forgoing reasons, the Court finds that Plaintiffs have not set forth good cause for their lengthy delay in seeking to amend their infringement contentions to include all versions of Microsoft Windows.” J.A. at 4970. Under these circumstances, we think it clear that the court relied on Judge Ward’s rules to conclude that MIT’s preliminary infringement contentions should be deemed final.
+
+9
+
+See Nat’l Presto Indus., Inc. v. W. Bend Co., 76 F.3d 1185, 1188 n. 2 (Fed.Cir.1996) (“On procedural matters not unique to the areas that are exclusively assigned to the Federal Circuit, the law of the regional circuit shall be applied.”); Macklin v. City of New Orleans, 293 F.3d 237, 240 (5th Cir.2002) (“We review the district court’s administrative handling of a case, including its enforcement of the local rules and its own scheduling orders for abuse of discretion.”).
+
+1
+
+In Plaintiffs’ Proposed Scheduling Conference Agenda, MIT stated: “Plaintiffs, however, believe that the parties can avoid duplicative and wasteful discovery requests by the Court imposing the following limitations: No individualized discovery may be served until after the Court issues its Markman ruling.” MIT does not deny that MIT requested this stay of discovery. Thus, MIT’s arguments in its appeal briefs that “[t]he district court did not permit the needed discovery until after the Markman ruling” are disingenuous.
+
+2
+
+For example, Bradley Paxton, MIT’s expert, was deposed February 7, 2003. Microsoft’s expert report by Anthony Johnson was submitted in support of its Markman brief on February 18, 2003.
+
+3
+
+MIT repeatedly stated in its appellate briefs that incomplete discovery was the reason for its delay in “updating” its infringement contentions, viz., “the district court arbitrarily forced Appellants into final infringement contentions without complete infringement discovery,” “Appellants could not finalize their infringement contentions until after they obtained discovery into the accused product’s source code as well as manufacturing methods.”
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

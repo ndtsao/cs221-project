@@ -1,0 +1,354 @@
+
+
+
+
+
+AT & T Corp. v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | July 13, 2005 | 414 F.3d 1366 | 2005 WL 1631112
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Red Flag - Severe Negative Treatment
+ Order Recalled and Vacated by AT & T Corp. v. Microsoft Corp., Fed.Cir., June 14, 2007
+
+standard Citation:
+
+AT & T Corp. v. Microsoft Corp., 414 F.3d 1366 (Fed. Cir. 2005)
+
+All Citations:
+
+414 F.3d 1366, 75 U.S.P.Q.2d 1506
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Red Flag - Severe Negative Treatment
+ 	Order Recalled and Vacated by AT & T Corp. v. Microsoft Corp., Fed.Cir., June 14, 2007
+414 F.3d 1366
+United States Court of Appeals,
+Federal Circuit.
+AT & T CORP., Plaintiff–Appellee,
+v.
+MICROSOFT CORPORATION, Defendant–Appellant.
+No. 04–1285.
+|
+July 13, 2005.
+|
+Rehearing En Banc Denied Oct. 20, 2005.
+Synopsis
+Background: Owner of patent for speech encoding technology sued software manufacturer for infringement. The United States District Court for the Southern District of New York, William H. Pauley III, J., granted summary judgment of infringement, and manufacturer appealed.
+ 
+Holdings: The Court of Appeals, Lourie, Circuit Judge, held that:
+ 
+[1] manufacturer’s export of software constituted supplying of “component,” and
+ 
+[2] foreign-replicated copies of software constituted components supplied from United States.
+ 
+Affirmed.
+ 
+Rader, Circuit Judge, dissented and filed opinion.
+ 
+
+
+West Headnotes (7)
+
+
+[1]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k259(3))
+
+
+Software code, sent abroad by manufacturer for copying on to hard drives by foreign computer producers, was “component” of patented invention, within meaning of statute proscribing foreign assembly. 35 U.S.C.A. § 271(f).
+7 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k259(3))
+
+
+Software replicated abroad from master version exported from United States, with intent that it be replicated, is deemed “supplied” from United States for purposes of statute proscribing foreign assembly. 35 U.S.C.A. § 271(f).
+6 Cases that cite this headnote
+
+
+
+[3]
+
+StatutesPlain Language;  Plain, Ordinary, or Common Meaning
+
+
+361Statutes
+361IIIConstruction
+361III(B)Plain Language;  Plain, Ordinary, or Common Meaning
+361k1091In general
+(Formerly 361k188)
+
+
+When interpreting statutory provision, court starts with language of statute, giving words their ordinary, contemporary, common meaning, absent indication Congress intended them to bear some different import.
+Cases that cite this headnote
+
+
+
+[4]
+
+StatutesStatutes concerning duties and liabilities
+
+
+361Statutes
+361IIIConstruction
+361III(K)Particular Classes of Statutes, Construction of
+361k1305Statutes concerning duties and liabilities
+(Formerly 361k240)
+
+
+Where there are competing interpretations of statute that imposes liability for certain acts, interpretation that allows liability to attach only when party acts in unrealistic manner is unlikely to be correct.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsManufacture and sale of articles to be used in manufacture of patented article
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1597Indirect Infringement
+291k1603Manufacture and sale of articles to be used in manufacture of patented article
+(Formerly 291k259(3))
+
+
+Liability under statute proscribing supply of component of patented invention for foreign assembly does not depend on medium used for exportation, but rather on fact of exportation. 35 U.S.C.A. § 271(f).
+3 Cases that cite this headnote
+
+
+
+[6]
+
+StatutesPurpose
+StatutesPolicy behind or supporting statute
+StatutesStatute as a Whole;  Relation of Parts to Whole and to One Another
+
+
+361Statutes
+361IIIConstruction
+361III(A)In General
+361k1074Purpose
+361k1075In general
+(Formerly 361k184)
+361Statutes
+361IIIConstruction
+361III(A)In General
+361k1074Purpose
+361k1077Policy behind or supporting statute
+(Formerly 361k184)
+361Statutes
+361IIIConstruction
+361III(E)Statute as a Whole;  Relation of Parts to Whole and to One Another
+361k1151In general
+(Formerly 361k205)
+
+
+When construing statute, court must look to provisions of whole law, and to its object and policy.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsReissue
+
+
+291Patents
+291XPatents Enumerated
+291k2094Reissue
+(Formerly 291k328(4))
+
+
+US Patent RE32,580. Infringed.
+1 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1367 Stephen C. Neal, Cooley Godward LLP, of Palo Alto, California, argued for plaintiff-appellee. With him on the brief were Jonathan G. Graves and Nathan K. Cummings, of Reston, Virginia. Of counsel on the brief was Laura A. Kaster, AT & T Corp., of Bedminster, New Jersey.
+Dale M. Heist, Woodcock Washburn LLP, of Philadelphia, Pennsylvania, argued for defendant-appellant. With him on the brief were David R. Bailey and Lynn B. Morreale. Of counsel on the brief were James H. Carter and James T. Williams, Sullivan & Cromwell LLP, of New York, New York, and Thomas Andrew Culbert, Microsoft Corporation, of Redmond, Washington.
+John D. Vandenberg, Klarquist Sparkman, LLP, of Portland, Oregon, for amici curiae Wacom Technology Corporation, et al.
+Frank E. Scherkenbach, Fish & Richardson P.C., of Boston, Massachusetts, for amici curiae Adobe Systems, Inc., et al. With him on the brief was Kurt L. Glitzenstein. Of counsel on the brief was Jennifer K. Bush, of San Diego, California.
+Before MAYER, LOURIE, and RADER, Circuit Judges.
+Opinion
+Opinion for the court filed by Circuit Judge LOURIE. Dissenting opinion filed by Circuit Judge RADER.
+
+LOURIE, Circuit Judge.
+
+Microsoft Corporation (“Microsoft”) appeals from the judgment of the United States District Court for the Southern District *1368 of New York in favor of AT & T Corp. (“AT & T”), holding that Microsoft was liable for infringement of AT & T’s United States Reissue Patent 32,580 under 35 U.S.C. § 271(f) for copies of the Windows® operating system that had been replicated abroad from a master version sent from the United States. AT & T Corp. v. Microsoft Corp., No. 01–CV–4872 (S.D.N.Y. Mar. 5, 2004). We affirm.
+ 
+
+BACKGROUND
+To facilitate international distribution of its flagship product, Microsoft supplies a limited number of master versions of the Windows® software to foreign computer manufacturers and authorized foreign “replicators,” who, pursuant to their licensing agreements with Microsoft, replicate the master versions in generating multiple copies of Windows® for installation on foreign-assembled computers that are then sold to foreign customers. The master versions are created in the United States and are sent abroad on so-called “golden master” disks or via electronic transmissions.
+ 
+The master versions of Windows® thus exported incorporate certain speech codecs,1 which, when installed on a computer, are alleged to infringe AT & T’s ’580 patent. During the course of AT & T’s suit against Microsoft for patent infringement, Microsoft moved in limine to exclude evidence of purported liability under 35 U.S.C. § 271(f) arising from foreign sales of Windows®. In support of its motion, Microsoft argued that: (1) software is intangible information such that it could not be a “component” of a patented invention within the meaning of § 271(f); and (2) even if the Windows® software were a “component,” no actual “components” had been “supplied” from the United States as required by § 271(f) because the copies of Windows® installed on the foreign-assembled computers had all been made abroad.
+ 
+By stipulation, the parties subsequently converted Microsoft’s motion in limine into a motion for partial summary judgment of noninfringement under § 271(f), which the district court denied on the basis that neither the jurisprudence surrounding § 271(f) nor its legislative history supported Microsoft’s reading of the words “component” and “supplied.” Reasoning that the patentability of software was well-established and that the statute did not limit “components” to tangible structures, the district court rejected Microsoft’s argument that software could not be a “component” of a patented invention under § 271(f). As for copies made abroad from a master version sent from the United States, the district court ruled that such copies were not shielded from § 271(f) in light of the statute’s purpose of prohibiting the circumvention of infringement through exportation. The parties thereafter agreed to the entry of a stipulated final judgment holding Microsoft liable for infringement under § 271(f), while expressly reserving Microsoft’s right to appeal that issue.
+ 
+This appeal followed. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+On appeal, Microsoft argues that the district court erred in its determination of infringement under § 271(f), insisting that the master versions of the Windows® software that it exports for copying abroad are not “components” within the meaning of § 271(f). It also argues that liability under § 271(f) should not attach to the copies of Windows® made abroad because those *1369 copies are not “supplied” from the United States.
+ 
+[1] The first question, i.e., whether software may be a “component” of a patented invention under § 271(f), was answered in the affirmative in Eolas Techs. Inc. v. Microsoft Corp., 399 F.3d 1325 (Fed.Cir.2005), which issued while the instant appeal was pending. In that case, we held that “[w]ithout question, software code alone qualifies as an invention eligible for patenting,” and that the “statutory language did not limit section 271(f) to patented ‘machines’ or patented ‘physical structures,’ ” such that software could very well be a “component” of a patented invention for the purposes of § 271(f). Id. at 1339.
+ 
+[2] The remaining question, then, is whether software replicated abroad from a master version exported from the United States-with the intent that it be replicated—may be deemed “supplied” from the United States for the purposes of § 271(f). That question is one of first impression, the answer to which turns on statutory interpretation, an issue of law that we review de novo. Romero v. United States, 38 F.3d 1204, 1207 (Fed.Cir.1994). The statute at issue, 35 U.S.C. § 271(f), provides that:
+(1) Whoever without authority supplies or causes to be supplied in or from the United States all or a substantial portion of the components of a patented invention, where such components are uncombined in whole or in part, in such manner as to actively induce the combination of such components outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
+(2) Whoever without authority supplies or causes to be supplied in or from the United States any component of a patented invention that is especially made or especially adapted for use in the invention and not a staple article or commodity of commerce suitable for substantial noninfringing use, where such component is uncombined in whole or in part, knowing that such component is so made or adapted and intending that such component will be combined outside of the United States in a manner that would infringe the patent if such combination occurred within the United States, shall be liable as an infringer.
+35 U.S.C. § 271(f) (2000) (emphases added).
+ 
+In its briefs, Microsoft maintains that no liability attaches under § 271(f) for foreign-replicated copies of Windows® because they are not “supplie [d] or cause[d] to be supplied in or from the United States.” According to Microsoft, a foreign-replicated copy made from a master version supplied from the United States has actually been “manufactured” abroad by encoding a storage medium with the Windows® software. We disagree that no liability attaches.
+ 
+[3] When interpreting a statutory provision “[w]e start, as always, with the language of the statute,” giving the words “their ordinary, contemporary, common meaning, absent an indication Congress intended them to bear some different import.” Williams v. Taylor, 529 U.S. 420, 431, 120 S.Ct. 1479, 146 L.Ed.2d 435 (2000) (internal quotation marks and citations omitted). As the statute sets forth no specific definition of the word “supplied,” we accordingly look to its “ordinary, contemporary, common meaning,” which is necessarily context-dependent. In the present case, § 271(f) is being invoked in the context of software distribution. Therefore, in order for us to properly construe the “supplie[d] or cause[d] to be supplied in or from the United States” requirement, we must look at the way software is typically “supplied.”
+ 
+*1370 Given the nature of the technology, the “supplying” of software commonly involves generating a copy. For example, when a user downloads software from a server on the Internet, the server “supplies” the software to the user’s computer by transmitting an exact copy. Uploading a single copy to the server is sufficient to allow any number of exact copies to be downloaded, and hence “supplied.” Copying, therefore, is part and parcel of software distribution. Accordingly, for software “components,” the act of copying is subsumed in the act of “supplying,” such that sending a single copy abroad with the intent that it be replicated invokes § 271(f) liability for those foreign-made copies.2
+ 
+[4] Indeed, Microsoft has taken full advantage of the replicable nature of software to efficiently distribute Windows® internationally. At the same time, however, Microsoft posits that § 271(f) liability should attach only to each disk that is shipped and incorporated into a foreign-assembled computer. See Tr. of Dec. 12, 2003 Hearing, at 16:10–17 (J.A. 359). We reject this theory of liability as it fails to account for the realities of software distribution. “[T]he appellate process is not a mere academic exercise,” Rosemount, Inc. v. Beckman Instruments, Inc., 727 F.2d 1540, 1543 (Fed.Cir.1984), and we cannot disregard the nature of the relevant technology and business practices underlying a particular litigation. It is inherent in the nature of software that one can supply only a single disk that may be replicated-saving material, shipping, and storage costs—instead of supplying a separate disk for each copy of the software to be sold abroad. All of such resulting copies have essentially been supplied from the United States. Where there are competing interpretations of a statute that imposes liability for certain acts, an interpretation that allows liability to attach only when a party acts in an unrealistic manner is unlikely to be correct. See Haggar Co. v. Helvering, 308 U.S. 389, 394, 60 S.Ct. 337, 84 L.Ed. 340 (1940) (“A literal reading of [a statute] which would lead to absurd results is to be avoided ....”). We therefore reject Microsoft’s reading of § 271(f).
+ 
+We also reject Microsoft’s argument that Pellegrini v. Analog Devices, Inc., 375 F.3d 1113 (Fed.Cir.2004), compels reversal. Pellegrini held that liability under § 271(f) may exist only where a component itself-as opposed to instructions for manufacturing the component or management oversight—has been “supplie[d] or cause[d] to be supplied in or from the United States.” Pellegrini, 375 F.3d at 1118. In the present case, what is being supplied abroad is an actual component, i.e., the Windows® operating system, that is ready for installation on a computer to form an infringing apparatus—not instructions to foreign software engineers for designing and coding Windows®. Thus, Pellegrini does not control this case.
+ 
+[5] Additionally, we cannot accept Microsoft’s suggestion that software sent by electronic transmission must be treated differently for purposes of § 271(f) liability from software shipped on disks, see Tr. of Dec. 12, 2003 Hearing, at 8:8–17 (J.A. 351), as it would amount to an exaltation of form over substance. Liability under § 271(f) does not depend on the medium used for exportation: a disk is merely a container *1371 that facilitates physical handling of software, much like bottles for liquids or pressurized cylinders for gases. As we emphasized in Eolas, the applicability of § 271(f) is not limited to “structural or physical” components. Eolas, 399 F.3d at 1339 (“[E]very component of every form of invention deserves the protection of section 271(f).”). Therefore, whether software is sent abroad via electronic transmission or shipped abroad on a “golden master” disk is a distinction without a difference for the purposes of § 271(f) liability. Liability under § 271(f) is not premised on the mode of exportation, but rather the fact of exportation.
+ 
+[6] Our interpretation of “supplie[d] or cause[d] to be supplied in or from the United States” in the context of software comports with Congress’s motivation for enacting § 271(f). It is a well-established principle that “[i]n expounding a statute, we must ... look to the provisions of the whole law, and to its object and policy.” United States v. Heirs of Boisdore, 49 U.S. (8 How.) 113, 122, 12 L.Ed. 1009 (1850).
+ 
+In 1984, Congress enacted § 271(f) in response to the Supreme Court’s ruling in Deepsouth Packing Co. v. Laitram Corp., 406 U.S. 518, 92 S.Ct. 1700, 32 L.Ed.2d 273 (1972), that exposed a loophole in § 271 that allowed potential infringers to avoid liability by manufacturing the components of patented products in the United States and then shipping them abroad for assembly. As explained in the Congressional Record:
+[Section 271(f) ] will prevent copiers from avoiding U.S. patents by supplying components of a patented product in this country so that the assembly of the components may be completed abroad. This proposal responds to the United States Supreme Court decision in Deepsouth Packing Co. v. Laitram Corp., 406 U.S. 518, 92 S.Ct. 1700, 32 L.Ed.2d 273 (1972), concerning the need for a legislative solution to close a loophole in patent law.
+H.R. 6286, Patent Law Amendments Act of 1984, 130 Cong. Rec. 28069 (Oct. 1, 1984). At the time of its enactment, § 271(f) was touted as a “housekeeping-oriented” measure, without which “the patent system would not be responsive to the challenges of a changing world and the public would not benefit from the release of creative genius.” Id. However, it is clear from the legislative history that § 271(f), which “close[d] a loophole,” was remedial in nature, such that it “should be construed broadly to effectuate its purposes.” Tcherepnin v. Knight, 389 U.S. 332, 336, 88 S.Ct. 548, 19 L.Ed.2d 564 (1967). Congress obviously intended the statute to have an extraterritorial effect to the extent that the exportation was facilitated by acts in the United States, and the acts at issue here originating from the United States can be understood to be similarly within the meaning of the statute.
+ 
+Were we to hold that Microsoft’s supply by exportation of the master versions of the Windows® software—specifically for the purpose of foreign replication-avoids infringement, we would be subverting the remedial nature of § 271(f), permitting a technical avoidance of the statute by ignoring the advances in a field of technology—and its associated industry practices—that developed after the enactment of § 271(f). It would be unsound to construe a statutory provision that was originally enacted to encourage advances in technology by closing a loophole, in a manner that allows the very advances in technology thus encouraged to subvert that intent. Section 271(f), if it is to remain effective, must therefore be interpreted in a manner that is appropriate to the nature of the technology at issue.
+ 
+For this reason, we find Microsoft’s lock-and-key hypothetical, in which a single *1372 master key is sent abroad for mass replication, to be unpersuasive and irrelevant to this case. A lock-and-key assembly is a different type of technology from software, with different uses, such that its mode of mass production and consequent manner of supply abroad could very well be different from the way Microsoft conveniently hypothesizes it to be. While it is clear that a software manufacturer would want several million exact copies of a specific software program generated abroad for distribution, it is unclear why a lock-and-key manufacturer would want several million exact copies of a specific key made, as the point of having a lock-and-key assembly is to allow access control by a few keys. We prefer an interpretation of § 271(f) that is informed by actual industry practices, not by hypothetical scenarios that have no bearing on the technical realities of the invention at issue.
+ 
+Finally, Microsoft’s impassioned recitation of a parade of horribles that may befall the domestic software industry—such as the relocation of manufacturing facilities overseas—provides an insufficient basis for reaching a different result in this case. After all, the enactment of § 271(f) could have been similarly thought to result in the export of jobs, and Congress still enacted that provision. Moreover, possible loss of jobs in this country is not justification for misinterpreting a statute to permit patent infringement. More importantly, however, “[i]t is enough that Congress intended that the language it enacted would be applied as we have applied it.” Griffin v. Oceanic Contractors, Inc., 458 U.S. 564, 576, 102 S.Ct. 3245, 73 L.Ed.2d 973 (1982). Therefore, “[t]he remedy for any dissatisfaction with the results in particular cases lies with Congress” and not with this court. Id.
+ 
+We have considered Microsoft’s other arguments and conclude that they are either unpersuasive or unnecessary for resolution of this appeal.
+ 
+
+CONCLUSION
+For the foregoing reasons, the judgment of the district court holding Microsoft liable under § 271(f) is
+ 
+
+AFFIRMED.
+
+RADER, Circuit Judge, dissenting.
+
+This court today determines that supplying a single “component” of a patented invention from the United States gives rise to endless liability in the United States under § 271(f) for products manufactured entirely abroad. To my eyes, this judgment disregards the existing international scheme of patent law with potential consequences beyond a “parade of horribles [in] the domestic software industry.” Therefore, although agreeing that software may be a component of a patented invention under § 271(f) and that electronic transmissions of software from the United States must receive the same treatment as software shipped from the United States on disks, I respectfully dissent from the proposition that foreign manufacture of a mere component of a patented product creates liability in the United States under § 271(f).
+ 
+As noted by this court, section 271(f) imposes liability on anyone who “without authority supplies ... from the United States ... the components of a patented invention ... in such a manner as to actively induce the combination of such components outside of the United States in a manner that would infringe the patent ....” Today’s judgment turns on the meaning of “supplies.” This court purports to construe that term according to its “ordinary, contemporary, common meaning.” The ordinary meaning of “supplies,” however, does not include “copying,” *1373 “replicating,” or “reproducing”—in effect “manufacturing.” The act of supplying is separate and distinct from copying, reproducing, or manufacturing. Thus, this court provides extraterritorial expansion to U.S. law by punishing under U.S. law “copying” that occurs abroad. While copying in Düsseldorf or Tokyo may indeed constitute infringement, that infringement must find its remedy under German or Japanese law.
+ 
+Each manufacture of a patented product constitutes a separate and distinct act of infringement. Microsoft “supplied” a master disc to New York, Düsseldorf, and Tokyo. The district court properly assessed damages against Microsoft under § 271(a) for each copy of the master manufactured and implemented into an infringing product in New York.1 Similarly, section 271(f) attaches liability to each individual export from the United States of components of an incomplete invention for assembly abroad. As for manufacturing copies in Düsseldorf and Tokyo for the German and Japanese markets, those acts create liability only under German or Japanese law. Nonetheless, this court extends § 271(f) to cover extraterritorial copying in Düsseldorf and Tokyo. This extraterritorial expansion of U.S. patent law contravenes the precedent of this court and the Supreme Court that expressly confines the rights conferred by Title 35 to the United States and its Territories. See Dowagiac Mfg. Co. v. Minn. Moline Plow Co., 235 U.S. 641, 650, 35 S.Ct. 221, 59 L.Ed. 398 (1915) (“The right conferred by a patent under our law is confined to the United States and its Territories (Rev.Stat., § 4884) and infringement of this right cannot be predicated on acts wholly done in a foreign country.” (citing United Dictionary Co. v. G & C Merriam Co., 208 U.S. 260, 265, 28 S.Ct. 290, 52 L.Ed. 478 (1908))); accord Int’l Rectifier Corp. v. Samsung Elecs. Co., 361 F.3d 1355, 1360 (Fed.Cir.2004); Pellegrini v. Analog Devices, Inc., 375 F.3d 1113, 1117 (Fed.Cir.2004); Rotec Indus., Inc. v. Mitsubishi Corp., 215 F.3d 1246, 1251 (Fed.Cir.2000); see Waymark Corp. v. Porta Sys. Corp., 245 F.3d 1364, 1367–68 (Fed.Cir.2001) (holding that liability under § 271(f) attaches with mere shipment of the component from the United States and does not consider the presence or absence of acts occurring abroad).
+ 
+Again this extraterritorial expansion flows from this court’s broad construction of “supplies.” This court reasons that the “nature of the technology” justifies a different, unordinary, and uncommon construction of that term. Thus, this court distinguishes intangible software components from tangible components on the grounds that “the ‘supplying’ of software commonly involves generating a copy.”
+ 
+To the contrary, copying and supplying are separate acts with different consequences—particularly when the “supplying” occurs in the United States and the copying occurs in Düsseldorf or Tokyo. As a matter of logic, one cannot supply one hundred components of a patented invention without first making one hundred copies of the component, regardless of whether the components supplied are physical parts or intangible software. Thus, copying and supplying are different acts, and one act of “supplying” cannot give rise to liability for multiple acts of copying.
+ 
+The court’s proposition today that “the ‘supplying’ of software commonly involves generating a copy” does not actually distinguish *1374 software components from physical components of other patented inventions. The only true difference between making and supplying software components and physical components is that copies of software components are easier to make and transport. The ease of copying a patented component is not the proper basis for making distinctions under § 271(f).
+ 
+Possibly recognizing defects in its reasoning, this court limits its novel uncommon construction of “supplies” to “software ‘components,’ [because for those inventions] the act of copying is subsumed in the act of ‘supplying,’ ....” Rather than “according the same treatment to all forms of invention,” Eolas Techs. Inc. v. Microsoft Corp., 399 F.3d 1325, 1339 (2005) (citing TRIPS Agreement, Part II, Section 5 (1994) (“Patents shall be available and patent rights enjoyable without discrimination as to the place of invention[ ][and] the field of technology ....”) (emphases added)), this court creates a new rule that foreign copying of a component of a patented invention shipped from the U.S. gives rise to liability in the U.S. Apparently this rule applies only to software inventions. This application of “supplies” solely to software components ignores this court’s case law that refuses to discriminate based on the field of technology. Id. The language of § 271(f) does not discriminate based on field or form of technology, yet this court invents such a distinction.
+ 
+This court also declines to treat software the same as other inventions because a literal application of § 271(f) “fails to account for the realities of software distribution ... and [this court] cannot disregard the nature of the relevant technology and business practices underlying a particular litigation.” However, in Pellegrini an American corporation provided the instructions and corporate oversight that “cause[d] the components of the patented invention to be supplied,” but no part of the accused products ever entered or exited the United States. 375 F.3d at 1118. Thus, the production of the infringing products in Pellegrini was “facilitated by acts in the United States.” Despite economic harm to the plaintiff and economic benefit to the defendant both in the United States, this court strictly construed § 271(f) to “appl[y] only where components of a patent[ed] invention are physically present in the United States and then either sold or exported ....” Id. at 1117. This court should exercise the same restraint demonstrated in Pellegrini by refusing to broaden § 271(f) to accommodate the “nature of the relevant technology and business practices underlying a particular litigation.”
+ 
+In fact, the “realities of software distribution” or “nature of the relevant technology and business practices” theory amounts to the following: “section 271(f) liability attaches if this court perceives that the patented component is cheaper or more convenient to replicate abroad than to ship from the United States.” In sum, this “nature of the business” theory has no statutory support and may well not even be based on an accurate understanding of the nature of the software business.
+ 
+Furthermore, this court’s dismissal of Pellegrini because Microsoft supplied an actual component of the patented invention and not merely instructions as in Pellegrini does not reconcile the holding of Pellegrini with today’s ruling. Pellegrini holds that “the language of § 271(f) clearly contemplates that there must be an intervening sale or exportation; there can be no liability under § 271(f) unless components are shipped from the United States for assembly.” 375 F.3d at 1117. In the case before this court Düsseldorf and Tokyo distributors copy the components supplied from the United States and then install those copies into the infringing products. *1375 The German and Japanese manufacturers do not install the actual component “supplied” from the U.S. (the master disc). Instead, they install a copy made in Düsseldorf or Tokyo. Thus, under Pellegrini liability cannot attach under § 271(f) because the components actually assembled into the infringing products were never literally “shipped from the United States.” To my eyes, today’s ruling departs from the holding of Pellegrini.
+ 
+The majority also purports to construe § 271(f) to “comport with Congress’ [s] motivation for enacting § 271(f).” Apart from the impossibility of divining Congressional intent divorced from the language of the law, this court’s reasoning misses the policy behind § 271(f). Congress enacted § 271(f) in response to the Supreme Court’s holding in Deepsouth Packing Co. v. Laitram Corp., 406 U.S. 518, 92 S.Ct. 1700, 32 L.Ed.2d 273 (1972). Deepsouth held that making and shipping component parts of a patented combination invention did not constitute “making” the patented invention in the United States. Id. at 527–29, 92 S.Ct. 1700 (“We cannot endorse the view that the ‘substantial manufacture of the constituent parts of a machine’ constitutes direct infringement when we have so often held that a combination patent protects only against the operable assembly of the whole and not the manufacture of its parts.”). Thus, because Deepsouth was not “making” the invention in the United States before exportation, there was no direct infringer in the United States to enable a charge of contributory infringement. Id. at 527, 92 S.Ct. 1700. Deepsouth let U.S. manufacturers escape infringement by making and exporting less than the complete patented invention. Section 271(f) closed that loophole by attaching liability to U.S. manufacturers for making and exporting components of the patented invention.
+ 
+Nothing in § 271(f) or its enacting documents expresses an intent to attach liability to manufacturing activities occurring wholly abroad. This court’s ruling, however, does exactly that: It holds Microsoft liable for the activities of foreign manufacturers making copies of the patented component abroad.
+ 
+To the contrary, § 271(f) protects only components “supplied in or from the United States.” This language limited § 271(f) to ensure it would not embrace manufacturing or copying activities occurring abroad. The “supplied in and from the United States” limitation would be wholly unnecessary, and indeed would contradict the intent of the law, if the law intended, as this court holds today, to regulate activities occurring in Düsseldorf or Tokyo. Had Congress intended to give extraterritorial effect to U.S. patent laws, it would have expressly stated so. Instead, Title 35 expressly limits liability under § 271(f) to activities occurring in the United States that result in the literal shipment of components “in or from the United States.”
+ 
+As a final refusal to confront the central issues of this case, the court today dismisses Microsoft’s lock-and-key hypothetical as “irrelevant,” as merely a scenario “without bearing on the technical realities.” To the contrary, just as computers easily can make copies of software components of patented computer products, key replication machines easily can make copies of the key component of a patented lock product. A computer needs a master copy to replicate the software; similarly, a key replication machine needs a master copy to replicate the key. Thus, under a fair presentation of the hypothetical, a U.S. manufacturer supplies a single master key of a patented lock invention from the United States. Foreign manufacturers then copy that key for foreign sale as part of the patented lock product.2 I doubt that the *1376 U.S. manufacturer who supplied the single master key would be liable under § 271(f) for the multiple infringing lock products manufactured and sold abroad. Yet this court creates liability under indistinguishable circumstances.
+ 
+Other possible scenarios further highlight difficulties with this court’s holding. For example, this court’s holding would seem to impose liability under § 271(f) for foreign-manufactured copies on an individual who purchased a copy of AT & T’s patented software and then shipped it overseas knowing that it would be copied and sold in Düsseldorf or Tokyo. The same problem might arise if the individual ships the purchased software to Düsseldorf with no intention of making further copies, but the Düsseldorf distributor of its own accord then makes and sells foreign copies. Before this opinion, the law would have suggested that AT & T would need to resort to German law and courts to determine any infringement for the copies manufactured and sold in Düsseldorf, but apparently this court purports to change that basic tenet of patent law.
+ 
+This court reinforces one point several times, namely that its judgment reaches a just result by imposing liability for multiple infringing acts by foreign manufacturers on a U.S. “supplier” of a single patented component. This emphasis suggests that AT & T might otherwise have no remedy for infringement occurring wholly outside the United States. AT & T, however, is not left without remedy. AT & T can protect its foreign markets from foreign competitors by obtaining and enforcing foreign patents. Section 271(f) protects foreign markets from domestic competitors. Section 271(f) does not, or at least did not until today, protect foreign markets from foreign competitors. This court’s expansion of § 271(f) to offer protection to foreign markets from foreign competitors distorts both the language and the policy of the statute. This court should accord proper respect to the clear language of the statute and to foreign patent regimes by limiting the application of § 271(f) to components literally “shipped from the United States.” Pellegrini, 375 F.3d at 1117.
+ 
+For the foregoing reasons, I must respectfully dissent.
+ 
+All Citations
+414 F.3d 1366, 75 U.S.P.Q.2d 1506
+Footnotes
+
+1
+
+A “speech codec” is a software program that codes a speech signal into a more compact form, and decodes it back into a signal that sounds like the original. (Am. Compl. ¶ 14; J.A. 142).
+
+2
+
+The dissent grounds its disagreement on a purported distinction between the statutory term “supplies” and such terms as “copying,” “replicating,” or “reproducing.” Whatever the distinction in other contexts, we are interpreting a statutory term in the context of the facts before us. To decide otherwise would emasculate § 271(f) for software inventions. Obtaining foreign patents would surely alleviate some avoidance of American law, but we must construe our statutes irrespective of the existence or nonexistence of foreign patents.
+
+1
+
+Microsoft might also be liable for supplying the master to Düsseldorf and Tokyo if copies made in those overseas locations are sold back into the U.S. market. See 35 U.S.C. § 271(a) & (c) (prohibiting importing into the United States patented inventions or components thereof).
+
+2
+
+The court’s dismissal of the “key” hypothetical is easily addressed by adjusting the facts of the hypothetical. Consider a lock-and-key combination that recognizes the voice of the key’s rightful owner. Only after confirming the identity of the owner does the lock expose the opening for the key and the key expose the teeth necessary to rotate the locking mechanism. Thus, each lock and key may have the same shape, thereby decreasing manufacturing costs, and yet allow access to a limited number of persons.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,166 @@
+
+
+ 
+
+
+Wells Fargo Bank, N.A. v. Financial Sec. Assur. Inc.
+United States Court of Appeals, Second Circuit. | December 5, 2012 | 504 Fed.Appx. 38 | 2012 WL 6028908
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wells Fargo Bank, N.A. v. Fin. Sec. Assur. Inc., 504 F. App’x 38 (2d Cir. 2012)
+
+All Citations:
+
+504 Fed.Appx. 38, 2012 WL 6028908
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:17 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+504 Fed.Appx. 38
+This case was not selected for publication in West’s Federal Reporter.
+United States Court of Appeals,
+Second Circuit.
+WELLS FARGO BANK, N.A., solely in its capacity as Trust Administrator, Interpleader–Plaintiff–Appellee,
+v.
+FINANCIAL SECURITY ASSURANCE INC., aka Assured Guaranty Municipal Corp., Interpleader–Defendant–Cross–Defendant–Appellant,
+v.
+Cede & Co., as registered Holder of certain Certificates and nominee name of the Depositary Trust Company, Interpleaders–Defendants–Appellees,
+Alexander Bakal, David Visher, Esm Management LLC, Esm Fund I, LP, Compass Sav LLC, Compass Offshore Sav Pcc Ltd., Jean David Ittah, Interpleaders–Defendants–Cross–Claimants–Appellees,
+Esm Investors Ltd., Orion Partners LLC, Does, 1–100, beneficial owner of certain Certificates, Interpleaders–Defendants.*
+No. 12–0083–cv.
+|
+Dec. 5, 2012.
+Synopsis
+Background: Bank, as administrator of mortgage pooling trust, brought interpleader action against holders of uninsured certificates issued by trust and insurer of other certificates pursuant to financial guaranty insurance policy, seeking to determine defendants’ rights to distributions under trust. Certificate holders asserted cross claims against insurer for reformation, breach of insurance policy, and unjust enrichment. The United States District Court for the Southern District of New York, Sand, J., 785 F.Supp.2d 188, granted judgment on the pleadings in favor of certificate holders and against insurer, and thereafter, 2012 WL 3023985, adopting the report and recommendation of the United States Magistrate Judge, 2012 WL 3023997,granted stay pending appeal. Insurer appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] under New York law, district court had to consider prospectus supplement and other transaction documents related to pooling and servicing agreement in interpreting agreement, and
+ 
+[2] insurer was entitled only to distribution of funds related to its subrogation rights in trust certificates that it insured.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Mortgages and Deeds of TrustPooling and securitization
+TrustsEvidence to aid construction
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(D)Transfers Involving Servicing Rights, Participation Arrangements, Pooling, or Securitization
+266k1478Construction, Operation, and Effect of Transfer
+266k1481Pooling and securitization
+(Formerly 266k241)
+390Trusts
+390IIConstruction and Operation
+390II(A)In General
+390k119Evidence to aid construction
+
+
+Under New York law, district court had to consider prospectus supplement and other transaction documents related to pooling and servicing agreement for a mortgage pooling trust in interpreting agreement.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+InsuranceLiability, fidelity and guaranty insurance
+
+
+217Insurance
+217XXXRecovery of Payments by Insurer
+217k3511Subrogation Against Third Parties;  Right to Proceeds of Action or Settlement
+217k3517Liability, fidelity and guaranty insurance
+
+
+Under New York law, pooling and servicing agreement for mortgage pooling trust entitled insurer only to distribution of funds related to its subrogation rights in trust certificates that it insured, rather than to reimbursement of all amounts that it paid under financial guaranty insurance policy, where agreement provided that insurer would receive distribution up to aggregate certificate insurer reimbursement (CIR) amount as third step in order of distribution, aggregate CIR amount consisted, for three certificate classes, of any amount owed to insurer for reimbursement, with interest, for claims paid under its policy, and policy provided that insurer was subrogated to rights of insured certificate holders.
+Cases that cite this headnote
+
+
+
+*39 Appeal from the United States District Court for the Southern District of New York (Sand, J.).
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the order of the district court is AFFIRMED.
+Attorneys and Law Firms
+Adam M. Abensohn (Philippe Z. Selendy, Sanford I. Weisburst on the brief), Quinn Emanuel Urquhart & Sullivan, LLP, New York, NY, for Interpleader–Defendant–Cross–Defendant–Appellant.
+Laura E. Krabill (M. Norman Goldberger on the brief), Ballard Spahr, LLP, Philadelphia, PA, Jarett M. Behar, Sinnreich Kosakoff & Messina LLP, Central Islip, NY, for Interpleaders–Defendants–Cross Claimants–Appellees.
+Alexander Bakal, New York, NY, pro se.
+*40 David Visher, Malibu, CA, pro se.
+PRESENT: DENNY CHIN, CHRISTOPHER F. DRONEY, Circuit Judges, JOHN GLEESON, District Judge.**
+
+
+SUMMARY ORDER
+**1 Interpleader-defendant-cross-defendant-appellant Financial Security Assurance Inc., AKA Assured Guaranty Municipal Corp. (“Assured”), appeals from the district court’s order entered December 13, 2011, implementing its memorandum and order entered March 29, 2011, granting judgment on the pleadings in favor of the interpleaders-defendants-cross-claimants-appellees and against Assured.
+ 
+On appeal, Assured principally challenges the district court’s interpretation of Section 4.02(a)(3) of the Pooling and Servicing Agreement (“PSA”), i.e., the district court’s holding that Assured is entitled only to distribution of funds related to its subrogation rights in the certificates it insures, as opposed to reimbursement of all amounts it paid under the Financial Guaranty Insurance Policy (the “Insurance Policy”). We assume the parties’ familiarity with the underlying facts, the procedural history of the case, and the issues on appeal.
+ 
+We review de novo the district court’s grant of judgment on the pleadings, Desiano v. Warner–Lambert & Co., 467 F.3d 85, 89 (2d Cir.2006), and the district court’s interpretation of a contract. Fishoff v. Coty Inc., 634 F.3d 647, 652 (2d Cir.2011).
+ 
+[1] As an initial matter, we reject Assured’s argument that the district court erred in considering, in interpreting the PSA, the Prospectus Supplement and other transaction documents related to the PSA. Under New York law, which governs the PSA, the district court properly considered all writings forming part of a single transaction, see This Is Me, Inc. v. Taylor, 157 F.3d 139, 143 (2d Cir.1998), as Assured itself asked the district court to do below.
+ 
+[2] We agree with the district court’s conclusion that the PSA unambiguously entitles Assured only to the distribution of funds related to its subrogation rights in the certificates it insures, rather than to reimbursement of all amounts it paid under the Insurance Policy.
+ 
+Section 4.02(a)(3) of the PSA provides that Assured will receive distribution “up to the Aggregate Certificate Insurer Reimbursement [‘CIR’] Amount” as the third step in the order of distribution described in Section 4.02. The Aggregate CIR Amount, in turn, is defined by Section 1.01 of the PSA as “the sum of the Class 1–A–3 [CIR] Amount, the Class 2–A–3 [CIR] Amount and the Class 4–A–2 [CIR] Amount.” The CIR Amount of each of those three certificate classes is “any amount owing to [Assured] under Section 4.02 or 4.07 for reimbursement, with interest, for claims paid ... under the ... Insurance Policy....” Under the Insurance Policy, Assured “shall be subrogated to the rights of each [certificate holder] to receive distributions with respect to each Certificate held by such Holder.” Thus, these contract provisions by their plain meaning provide Assured only with subrogation rights in the certificates it insures.
+ 
+**2 We find unpersuasive Assured’s argument that it is entitled to reimbursement of any and all claims it paid out under the Insurance Policy as such an interpretation is not supported by the plain language of the PSA, and moreover, it would render meaningless several other provisions of *41 the PSA, as the district court observed in its memorandum and order. See RJE Corp. v. Northville Indus. Corp., 329 F.3d 310, 314 (2d Cir.2003) (per curiam) (under New York law, courts “consider the entire contract to safeguard against adopting an interpretation that would render any individual provision superfluous” (citation and internal quotation marks omitted)).
+ 
+We have considered all of Assured’s remaining arguments and find them to be without merit. Accordingly, we AFFIRM the order of the district court.
+ 
+All Citations
+504 Fed.Appx. 38, 2012 WL 6028908
+Footnotes
+
+*
+
+The Clerk of Court is directed to amend the official caption to conform with the above.
+
+**
+
+The Honorable John Gleeson, of the United States District Court for the Eastern District of New York, sitting by designation.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

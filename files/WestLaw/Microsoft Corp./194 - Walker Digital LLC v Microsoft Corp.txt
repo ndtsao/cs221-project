@@ -1,0 +1,162 @@
+
+
+ 
+
+
+Walker Digital, LLC v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | May 24, 2012 | 484 Fed.Appx. 496 | 2012 WL 1877600
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Walker Digital, LLC v. Microsoft Corp., 484 F. App’x 496 (Fed. Cir. 2012)
+
+All Citations:
+
+484 Fed.Appx. 496, 2012 WL 1877600
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+484 Fed.Appx. 496
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+WALKER DIGITAL, LLC, Plaintiff–Appellant,
+v.
+MICROSOFT CORPORATION and Hewlett–Packard Company, Defendants–Appellees,
+and
+Dell, Inc., Defendant.
+No. 2011–1419.
+|
+May 24, 2012.
+|
+Rehearing Denied June 22, 2012.
+Synopsis
+Background: Patentee brought action against competitors, alleging infringement of patent related generally to tools for improving the efficiency of software programs. The United States District Court for the Central District of California, Judge Philip S. Gutierrez, J., 2011 WL 61618, construed disputed claim terms and granted competitors’ motion for summary judgment. Patentee appealed.
+ 
+Holding: The Court of Appeals, Moore, Circuit Judge, held that disputed claims required initiation of a search on a background thread.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+(Formerly 291k101(2))
+
+
+Claim of patent relating generally to tools for improving the efficiency of software programs, reciting “initiating from said first application program, on a background thread over a network, a search,” required that the search be initiated from the application program on a background thread and over a network; although the patent specification used “initiate” from the user’s point of view, the specification and the claim used the terms “initiate” in slightly different ways, and the claim limitation concerned the application program’s “initiation” of the search in response to a user’s command.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,349,295. Construed and Ruled Not Infringed.
+Cases that cite this headnote
+
+
+
+*496 Appeal from the United States District Court for the Central District of California in case no. 09–CV–7514, Judge Philip S. Gutierrez.
+Attorneys and Law Firms
+Lawrence M. Hadley, McKool Smith Hennigan, P.C., of Los Angeles, CA, argued *497 for plaintiff-appellant. With him on the brief were Roderick G. Dorman, Alan P. Block, Thomas B. Watson and Mieke K. Malmberg.
+Gregory P. Stone, Munger, Tolles & Olson, LLP, of Los Angeles, CA, argued for defendants-appellees. With him on the brief were Ted Dane and Adam R. Lawton. Of Counsel on the brief was Isabella E. Fu, Microsoft Corporation, of Redmond, WA.
+Before RADER, Chief Judge, LOURIE and MOORE, Circuit Judges.
+Opinion
+MOORE, Circuit Judge.
+
+**1 After the district court construed the disputed claim terms of asserted U.S. Patent No. 6,349,295 (’295 patent), it granted Microsoft’s motion for summary judgment of non-infringement and entered final judgment in favor of Microsoft. Walker Digital appeals the district court’s constructions of several related claim terms. For the reasons set forth below, we affirm the district court’s judgment.
+ 
+
+BACKGROUND
+The ′295 patent is directed to performing background searches over a network from within an application program, such as a word processor, without interrupting the use of the application program. ′295 patent col.2 ll.49–57. To allow a user to continue working in the application program while simultaneously searching in the background, the ′295 patent teaches the use of multiple processing “threads.” The application program, which runs in the foreground thread, launches the search on a background thread. Id. col.4 ll.34–57. This allows the user to continue using the application program without interruption while the search process occurs in the background. Id.
+ 
+The constructions of similar terms in five claims are appealed, each term relating to initiating a search from the application program. Claims 18 and 24 each recite “initiating from said first application program, on a background thread over a network, a search....” Claims 71 and 72 each recite, “a step to initiate from the first application program, on a background thread over a network, said search....” And claim 76 recites, “initiating from the first application program, on a background thread over a network, said search....”
+ 
+The district court construed each of these terms similarly, concluding that each requires initiation of the search on a background thread. Because the accused Microsoft Word program initiates the search in its foreground thread, the district court granted Microsoft’s motion for summary judgment of non-infringement and entered final judgment in favor of Microsoft. The district court alternatively concluded that Word does not infringe because the user’s ability to interact with Word is interrupted during the initiation steps that occur on the foreground thread, contrary to the claim requirements. Walker Digital appeals, contending that the district court’s constructions are erroneous. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+Claim construction is a matter of law that we review de novo. ICU Med., Inc. v. Alaris Med. Sys., Inc., 558 F.3d 1368, 1374 (Fed.Cir.2009). Absent contrary evidence, “the words of a claim ‘are generally given their ordinary and customary meaning’ ” as understood by a person of ordinary skill in the art at the time of invention. Phillips v. AWH Corp., 415 F.3d 1303, 1312 (Fed.Cir.2005) (en banc) (quoting Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582 (Fed.Cir.1996)). The claims should be read in context with the specification, but care should be taken not to read limitations from the specification into the claims. Id. at 1315, 1323.
+ 
+*498 **2 Walker Digital argues that the district court’s construction erroneously requires “initiation of the search” to occur on a background thread. Walker Digital argues that the specification’s only embodiment “initiates” the search on the foreground thread at step 442 in Figure 4B—where the application program sets a task variable to “data search”—and that the search is then “performed” on a background thread. Walker Digital contends that the clause “on a background thread over a network” in the disputed claims modifies “search” instead of “initiate” or “initiation” because the search is initiated from the application program, not over a network. Walker Digital thus argues that initiation occurs on the foreground thread. Walker Digital further argues that claim 20, which depends from claim 18 and requires the search tool to execute on a background thread, indicates that “initiation” in claim 18 is on the foreground thread.
+ 
+We disagree. Claim 18, which is representative, recites “initiating from said first application program, on a background thread over a network, a search....” The plain meaning requires that the search be initiated from the application program on a background thread and over a network. This is consistent with the specification and statements made by Walker Digital during prosecution of the ′ 295 patent.
+ 
+The specification and claims use the term “initiate” in slightly different ways. The specification refers to “initiate” from a user’s point of view, stating that a user “initiates” a search by pressing a toolbar icon, selecting a menu item, or entering keyboard commands. ′295 patent col.4 ll.47–51. The claims, however, are drafted from the perspective of the software system, referring to the application program’s “initiation” of a search in response to a user command to initiate. For example, claim 10 recites “receiving a command from a user ... to initiate a search, said search being launched from said first application program” and “initiating said search using a background thread.” ′295 patent cl.10; see also id. cl.1, 16, 17. Similarly, the claims at issue here each contain a user-command step (receiving a user command to initiate a search or selecting a search term) and a step in which the application program initiates the search. See ′295 patent cl. 18, 24 (“initiating from said first application program ... a search”); id. cl. 71, 72 (“a step to initiate from the first application program ... said search”); id. cl. 76 (“initiating from the first application program ... said search”). Thus, although the specification uses “initiate” from the user’s point of view, the claim limitations at issue concern the application program’s “initiation” of the search in response to a user’s command.
+ 
+From the application program’s perspective, the specification teaches that in response to receiving a user’s command to initiate a search, the application program launches the requested search on a background thread :
+**3 [T]he word processing application program 400 launches a supplemental search on a given data element when requested by a user.... The supplemental search is launched in the background and the user continues working in the word processing application program 400 until the search results are received.
+′295 patent col.4 ll.45–57. See also id. col.6 ll.55–58 (“[T]he word processing application program 400 directs the CPU to launch the supplemental search process 500 (i) when a supplemental search is requested by a user on a given topic.”). The specification explains and Figure 4B illustrates that the application program receives a user’s command to search, sets a task variable to “data searching,” and launches supplemental search process 500 *499 in the background while simultaneously returning control of the application program to the user. ′295 patent col.7 ll.37–40; id. col.8 ll.47–53. When the system sets a status variable indicating that a search is going to occur, this is not “initiating” the search itself. Rather, the search is initiated and performed during the supplemental search process, which runs on a background thread. See ′295 patent figs.5A–5E; id. col.10 l.44–col.12 l.50. We thus reject Walker Digital’s argument that the only embodiment initiates the search on a foreground thread.
+ 
+Statements made by Walker Digital during prosecution of the ′295 patent also indicate that the application program initiates the search on a background thread. In distinguishing the prior art Wolfe reference, Walker Digital stated, “Wolfe contains no disclosure concerning initiating a search without preempting an application program.” J.A. 341; see also id. (“The present invention is primarily concerned with a software application program ... from which a database search is launched without interrupting the foreground processing of the application program.”); ′295 patent col.8 ll.53–57 (“[A]s shown in FIG. 4B, the word processing application program 400 launches the supplemental search process 500 during step 445, while simultaneously returning control of the word processing application program 400 to step 424.”). For the search to be “initiated” without preempting the application program running on the foreground thread, the “initiation” must occur on a background thread.
+ 
+We also reject Walker Digital’s argument regarding dependent claim 20. Claim 18 requires that a “search tool” be used by the application program to conduct the search. The preferred embodiment describes this search tool as a separate “browser program” that the application communicates with through inter-process communication techniques. ′295 patent col.11 ll.35–62; id. col.6 ll.30–42. Claim 20, however, requires the “search tool” to run in a background thread of the application program instead of running as a separate “browser program.” Claim 20 thus does not speak to the initiation of the search.
+ 
+* * * * * *
+ 
+**4 Based on the claim language, specification, and statements made by Walker Digital during prosecution, we agree with the district court that the disputed claims require that the application program initiate the search on a background thread. We therefore affirm the district court’s judgment. We decline to reach the district court’s alternative basis for granting summary judgment as well as Walker Digital’s related arguments.
+ 
+AFFIRMED
+ 
+All Citations
+484 Fed.Appx. 496, 2012 WL 1877600
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

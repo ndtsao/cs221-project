@@ -1,0 +1,306 @@
+
+
+ 
+
+
+Microsoft Corp. v. C.I.R.
+United States Court of Appeals, Ninth Circuit. | December 3, 2002 | 311 F.3d 1178 | 2002 WL 31687644
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Microsoft Corp. v. C.I.R., 311 F.3d 1178 (9th Cir. 2002)
+
+All Citations:
+
+311 F.3d 1178, 90 A.F.T.R.2d 2002-7521, 2002-2 USTC P 50,800, 2003 Copr.L.Dec. P 28,541, 65 U.S.P.Q.2d 1028, 02 Cal. Daily Op. Serv. 11,617, 2002 Daily Journal D.A.R. 13,618
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+9th Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+311 F.3d 1178
+United States Court of Appeals,
+Ninth Circuit.
+MICROSOFT CORPORATION, Appellant,
+v.
+COMMISSIONER OF INTERNAL REVENUE, Appellee.
+No. 01–71584.
+|
+Argued and Submitted Sept. 11, 2002.
+|
+Filed Dec. 3, 2002.
+Software developer petitioned for redetermination of deficiency arising from disallowance of claimed export property deductions for commissions paid to its foreign sales corporation (FSC) for royalty income earned from international distribution of master copies of computer software developed by taxpayer. The United States Tax Court, 2000 WL 1310664, ruled for IRS and taxpayer appealed. The Court of Appeals, David R. Thompson, Circuit Judge, held that: (1) computer software was export property, as media excepted from copyrighted works, and (2) regulation, which conflicted with statute, was invalid.
+ 
+Reversed and remanded.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+Federal CourtsTaxation
+Internal RevenueTrial de novo
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3619Substantive Matters
+170Bk3628Taxation
+(Formerly 170Bk776)
+220Internal Revenue
+220XXIAssessment of Taxes
+220XXI(F)Review of Tax Court Decisions
+220XXI(F)4Scope and Extent of Review
+220k4705Trial de novo
+
+
+Issue of statutory construction, and Tax Court’s construction of Internal Revenue Code, is reviewed de novo.
+Cases that cite this headnote
+
+
+
+[2]
+
+Internal RevenueDomestic International Sales Corporations;  Foreign Sales Corporations
+
+
+220Internal Revenue
+220VIncome Taxes
+220V(X)Income from Within and Without the United States
+220V(X)2Income from Sources Without the United States
+220k4118Domestic International Sales Corporations;  Foreign Sales Corporations
+
+
+Computer software masters, sold for adaptation, reproduction, and distribution abroad, came within phrase “copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use),” and thus qualified as “export property,” so that software developer could claim export property deduction for commissions paid to foreign sales corporation (FSC); each specific term in Similar Reproductions Parenthetical referred to media, rather than content, and developer’s computer software master tapes were within specific listing of “films, tapes, records,” and its CD–ROMs, DVD–ROMs and diskettes were within meaning of “similar reproductions.” 26 U.S.C.(1994 Ed.) § 927(a)(2)(B).
+4 Cases that cite this headnote
+
+
+
+[3]
+
+StatutesAssociated terms and provisions;  noscitur a sociis
+
+
+361Statutes
+361IIIConstruction
+361III(E)Statute as a Whole;  Relation of Parts to Whole and to One Another
+361k1159Associated terms and provisions;  noscitur a sociis
+(Formerly 361k193)
+
+
+Doctrine of “noscitur a sociis” counsels that words in statute should be understood by the company they keep.
+8 Cases that cite this headnote
+
+
+
+[4]
+
+Internal RevenueRules and regulations
+
+
+220Internal Revenue
+220VIncome Taxes
+220V(X)Income from Within and Without the United States
+220V(X)2Income from Sources Without the United States
+220k4097Rules and regulations
+
+
+Temporary Treasury Regulation defining export property for purposes of foreign sales corporation (FSC) rules conflicted with governing Internal Revenue Code provision, and thus was invalid; while regulation provided that mass marketed computer software was export property if not accompanied by right to reproduce for external use, plain meaning of statute provided that computer software licensed for adaptation, reproduction and distribution abroad was export property. 26 U.S.C.(1994 Ed.) § 927(a)(2)(B); 26 C.F.R. § 1.927(a)–1T(f)(3).
+5 Cases that cite this headnote
+
+
+
+West Codenotes
+Held Invalid
+26 C.F.R. § 1.927(a)-1T(f)(3).
+Attorneys and Law Firms
+*1179 James M. O’Brien, Chicago, IL, for the petitioner.
+Andrea R. Tebbets, Washington, DC, for the respondent.
+On Appeal from a Decision of the United States Tax Court, No. 16878–96.
+Before: THOMPSON and RAWLINSON, Circuit Judges, and SCHWARZER,*Senior District Judge.
+Opinion
+DAVID R. THOMPSON, Circuit Judge:
+
+Microsoft Corporation appeals the tax court’s deficiency judgment in favor of the Commissioner of Internal Revenue (the “Commissioner”). In 1990 and 1991, Microsoft claimed “export property” deductions for certain commissions it paid to Microsoft Foreign Sales Corporation. These commissions were for royalty income subsidiaries earned from the international distribution of master copies of Microsoft computer software. The Commissioner disallowed the deductions because it concluded that master copies of computer software were not deductible “export property” under now repealed I.R.C. § 927(a)(2)(B). During the applicable period, that section provided, in relevant part:
+The term ‘export property’ shall not include ... patents, inventions, models, designs, formulas, or processes whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), good will, trademarks, trade brands, franchises, or other like property....
+§ 927(a)(2)(B).1 Because we interpret this section’s phrase “copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use)” to include computer software masters, we reverse the tax court’s judgment.
+ 
+
+I
+Statutory Background
+In 1970, in response to a troubled economy, Congress twice tried but failed to enact legislation that would have exempted export property from tax liability in certain circumstances. Both bills stated that intangible intellectual property would not be deductible export property, but exempted certain copyrightable materials. One bill provided that “copyrights (other than motion picture films or films or tapes used for radio or television broadcasting)” were *1180 not export property. H.R. 18392, 91st Cong. sec. 2, § 991 (1970). The other provided that “copyrights (other than films, tapes, or records for the commercial showing of motion pictures or used for radio or television broadcasting or to provide background music),” were not export property. H.R. 18970, 91st Cong. sec. 402, § 991 (1970). Neither bill was enacted.
+ 
+The next year, Congress successfully passed the Revenue Act of 1971, Pub.L. No. 92–178, 85 Stat. 497, with stated goals which included putting the lagging economy on a high growth path, increasing the number of jobs, reducing the high unemployment rate, increasing exports, and improving the balance of payments (hereinafter “the DISC legislation”). S.Rep. No. 92–437, at 1 (1971), reprinted in 1971 U.S.C.C.A.N.1918. The Senate Report explained that:
+To provide tax incentives for U.S. firms to increase their exports, [Congress] has provided tax deferral for one-half of export-related profits, so long as they are retained in a new type of U.S. corporation known as a Domestic International Sales Corporation or a “DISC.” The requirements for qualification as a DISC in general are that substantially all of the corporation’s gross receipts and assets must be export related.
+Id. at 12, reprinted in 1971 U.S.C.C.A.N. at 1928. By this legislation, Congress sought “to provide substantial stimulus to exports and at the same time to avoid granting undue tax advantages to the DISC’s [sic].” Id. at 13, reprinted in 1971 U.S.C.C.A.N. at 1928.
+ 
+In 1984, responding to pressure from signatories to the General Agreement on Tariffs and Trade, Congress supplemented the DISC regime with Foreign Sales Corporations (“FSCs”) in the Tax Reform Act of 1984, Pub.L. No. 98–369, § 801(a), 98 Stat. 494, 991 (1984) (hereinafter “the FSC legislation”). Polychrome Int’l Corp. v. Krigger, 5 F.3d 1522, 1526 (3d Cir.1993) (citing Joint Committee on Taxation, General Explanation of the Revenue Provisions of the Deficit Reduction Act of 1984, 98th Cong.2d Sess., at 1041–42 (CCH 1985)). Under the new legislation, FSCs promoted the same goals as DISCs, but a FSC could permanently exclude, rather than defer, a portion of its profits from qualifying export sales. See H.R. Conf. Rep. No. 98–861, at 968–77 (1984), reprinted in 1984 U.S.C.C.A.N. 1445, 1656–65. The language that determined qualifying export property remained the same in both the 1971 and 1984 versions of the law. In each, export property must have been:
+(A) manufactured, produced, grown, or extracted in the United States by a person other than a DISC [FSC],
+(B) held primarily for the sale, lease, or rental, in the ordinary course of trade or business, by, or to, a DISC [FSC], for direct use, consumption, or disposition outside the United States, and
+(C) not more than 50 percent of the fair market value of which is attributable to articles imported into the United States.
+§§ 993(c)(1), 927(a)(1). Both statutes excluded from export property “patents, inventions, models, designs, formulas, or processes[,] whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), good will, trademarks, trade brands, franchises, or other like property.” §§ 993(c)(2)(B), 927(a)(2)(B) (The only difference between the clauses is that a comma after the word “processes” was omitted from the § 927 version.).
+ 
+Although some uncertainty was expressed regarding whether and to what extent this exception applied to copyrighted computer software programs, (see, e.g., Tech. Adv. Mem. 85–49–003, 1985 WL 297327 (Aug. 16, 1985)), the parenthetical exception remained unchanged until 1997, *1181 when Congress amended § 927(a)(2)(B) to specify that computer software was within the parenthetical exception: “[t]he term ‘export property’ shall not include ... copyrights (other than films, records, or similar reproductions, and other than computer software (whether or not patented), for commercial or home use)....” See Tax-payer Relief Act of 1997, Pub.L. No. 105–34, § 1171, 111 Stat. 788, 987. In making this change, Congress recognized that then-current Treasury Regulations excluded from treatment as “export property” computer software accompanied by the right to reproduce, but directed that “[n]o inference [was] intended regarding the qualification as export property of computer software licensed for reproduction abroad under present law.” H.R. Conf. Rep. No. 105–220, at 636 (1997), reprinted in 1997 U.S.C.C.A.N. 1129, 1448.
+ 
+
+II
+Factual Background
+Organized as a partnership in 1975, Appellant incorporated as Microsoft Corporation (“Microsoft”) in 1980. Microsoft’s 1990 and 1991 Forms 10–K described its business as the “development, production, marketing, and support of a wide range of software for business and professional use, including operating systems, languages and application programs, as well as books, hardware and CD–ROM products for the microcomputer marketplace.”
+ 
+Microsoft distributed its products internationally through two principal lines: foreign computer makers (known as original equipment manufacturers or “OEMs”) and Microsoft’s foreign subsidiaries (known as controlled foreign corporations or “CFCs”). OEMs and CFCs purchased from Microsoft computer software master copies (“software masters”), which contained the object code for computer programs and related data files for Microsoft products including operating systems (such as MS–DOS and Windows) and applications (such as Word and Excel). Such purchases included a license which gave the OEMs and CFCs the right make copies for distribution to others. The software licensees could store the digital information from the masters on network computers at their facilities and modify, reproduce, and distribute the licensed software, paying a royalty for each copy of the copyrighted work distributed in the market or for each computer system the OEMs sold.
+ 
+Microsoft’s Product Release Services group (“PRS”) produced the master copies of the software and related documentation for distribution to the OEMs and CFCs. During the years at issue, PRS provided masters on .25 inch magnetic tape and on 5.25 inch and 3.5 inch magnetic diskettes (“diskettes”). During this period, Microsoft also exported individually packaged retail software, but deductions for these items are not at issue in this appeal because the Commissioner determined that these individually packaged standardized software products came within the definition of “export property.” See Microsoft, Corp. v. Comm’r of Internal Revenue, 115 T.C. 228, 248–50, 2000 WL 1310664 (2000); Temp. Treas. Reg. § 1.927(a)–1T(f)(3).
+ 
+Microsoft organized Microsoft FSC Corporation (“MS–FSC”) as a Virgin Islands corporation in 1984, and qualified it as a FSC to take advantage of the favorable tax provisions available under the FSC legislation. Microsoft and MS–FSC treated the royalties that Microsoft earned from the software master licenses to the OEMs and CFCs as foreign trading gross receipts (“FTGRs”) for the purpose of determining foreign trade income under § 924. Microsoft then paid MS–FSC a commission based upon these gross receipts, using the applicable administrative pricing rules of § 925.
+ 
+*1182 The Commissioner disallowed Microsoft’s deductions for commission amounts attributable to software masters because the Commissioner determined that the software masters, which included the right to reproduce, did not qualify as “export property,” but instead constituted disqualified copyright property under § 927(a)(2)(B). In response, Microsoft filed suit in the tax court. It contended that the Commissioner incorrectly disallowed its FSC commission deductions attributable to the export of software copies. The amounts of these claimed deductions were $16,426,046 in 1990 and $15,340,797 in 1991.2 The case came on for trial in 1999.
+ 
+
+III
+Tax Court Trial
+In the tax court, the parties stipulated that Microsoft’s software development in the United States satisfied the domestic production requirement of § 927(a)(1). At trial, Microsoft argued that the parenthetical phrase “other than film, tapes, records, or similar reproductions, for commercial or home use” in § 927(a)(2)(B) (“the Similar Reproductions Parenthetical”) covered the media to which copyrighted material is affixed. In Microsoft’s view, once a software program was affixed to “films, tapes, records, or similar reproductions,” it became export property under § 927(a)(2)(B). Microsoft’s evidence showed that, in 1990 and 1991, software, sound recordings, and motion pictures were distributed on a variety of media including magnetic tapes and diskettes and CDs (software), records, magnetic tapes, and CDs (sound recordings), and film, magnetic tapes, and laser video disks (motion pictures). Additionally, export procedures for each involved the use of master copies on some form of magnetic tape. Microsoft’s evidence also showed that it used licensing techniques similar to those used by the motion picture and music industries, which allowed for product reproduction and adaptation to fit particular markets and required use of associated trademarks.
+ 
+The Commissioner argued that the parenthetical reference to “films, tapes, records, or similar reproductions” covered the particular content typically placed on the specifically listed media, and therefore included only sound recordings and motion pictures. The Commissioner argued that because software is fundamentally different from motion picture and sound recordings, it could not constitute a “similar reproduction” falling within the parenthetical, and could not be export property under § 927(a). The Commissioner presented evidence of differences between sound recordings and motion pictures as compared to software, and emphasized that computer software actually enables the computer to do a variety of useful functions while sound recordings and motion pictures are more analogous to data that can lead to different outputs, but cannot add to a machine’s basic functionality.
+ 
+The tax court ruled in favor of the Commissioner. In an opinion filed September 15, 2000 and a decision filed July 2, 2001, the court held that:
+[w]ithin the purview of the parenthetical, (1) “films, tapes, and records” are content specific, and (2) “similar reproductions” refers to “films, tapes, and records” on media that might be invented in the future. In sum, we hold that copyrights in computer software do not constitute section 927(a) “export property”.
+Microsoft Corp., 115 T.C. at 248. The tax court found that computer software is “fundamentally different” from film, tapes, *1183 and records in that it “causes a computer to perform countless functions.” Id. The court also relied on Temporary Treasury Regulation § 1.927(a)–1T(f)(3), holding that this regulation conformed with the court’s interpretation of the statute. Id. at 249. The reference in the regulation to “master recording tapes,” the court held, was meant to benefit the sound recording industry only. Id. at 249–50. Finally, the court rejected Microsoft’s argument that the regulation was invalid. Id. at 253. Microsoft filed a timely appeal to this court.
+ 
+
+IV
+Analysis
+[1] [2] The primary issue is whether computer software masters, sold for adaptation, reproduction, and distribution abroad, come within the phrase “copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use),” and thus qualify as “export property” under Internal Revenue Code § 927(a)(2)(B). The tax court held that “similar reproductions” in this section refers only to reproductions of motion pictures and sound recordings. Microsoft argues that “similar reproductions” includes computer software because the entire parenthetical refers to the media to which copyrighted works are affixed. We review this issue of statutory construction, and the tax court’s construction of the tax code, de novo. Leslie v. Comm’r of Internal Revenue, 146 F.3d 643, 648 (9th Cir.1998).
+ 
+We begin our statutory interpretation by looking at the plain meaning of § 927(a)(2)(B). “Our first step in interpreting a statute is to determine whether the language at issue has a plain and unambiguous meaning with regard to the particular dispute in the case.” Robinson v. Shell Oil Co., 519 U.S. 337, 340, 117 S.Ct. 843, 136 L.Ed.2d 808 (1997). When the text of a statute contains undefined terms, we construe those terms to have their ordinary meanings. Fed. Deposit Ins. Corp. v. Meyer, 510 U.S. 471, 476, 114 S.Ct. 996, 127 L.Ed.2d 308 (1994). Where the plain language of the statute is susceptible of more than one interpretation, “we are left with the task of determining the more plausible interpretation of the language Congress [chose].” United States v. Hohri, 482 U.S. 64, 70, 107 S.Ct. 2246, 96 L.Ed.2d 51 (1987).
+ 
+The statute at issue reads:
+The term ‘export property’ shall not include ... patents, inventions, models, designs, formulas, or processes whether or not patented, copyrights (other than films, tapes, records, or similar reproductions, for commercial or home use), good will, trademarks, trade brands, franchises, or other like property....
+§ 927(a)(2)(B). We must interpret the statute’s parenthetical phrase “(other than films, tapes, records, or similar reproductions, for commercial or home use).” If computer software masters constitute “similar reproductions” to “films, tapes, [and] records” then computer software masters are to be considered export property under § 927(a).
+ 
+Dictionary definitions contemporary to the original enactment of § 927(a)(2)(B) clarify the meaning of the words used in the parenthetical. The relevant Webster’s New World Dictionary published in 1972 (“Webster’s”) defines “tape” as “a narrow strip or band of steel, paper, etc.” or a shortened form of “magnetic tape.” Webster’s New World Dictionary of the American Language 1454 (David B. Guralnik, ed., 2d College ed.1972). Webster’s defines “film” as either “a motion picture” or “a sheet or roll of a flexible cellulose material covered with a substance sensitive to light and used in taking photographs or making motion pictures.” Id. at 522. “Record” is defined as “something on *1184 which sound or visual images have been recorded; esp. a thin, flat grooved disc for playing on a phonograph.” Id. at 1187. Thus, at the time Congress adopted the language, the terms “film” and “record,” as well as “tape,” could properly refer to the media capable of holding content or the content itself.
+ 
+“Words that can have more than one meaning are given content, however, by their surroundings....” Whitman v. Am. Trucking Ass’ns, 531 U.S. 457, 466, 121 S.Ct. 903, 149 L.Ed.2d 1 (2001) (citing FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 132–33, 120 S.Ct. 1291, 146 L.Ed.2d 121 (2000) and Jones v. United States, 527 U.S. 373, 389, 119 S.Ct. 2090, 144 L.Ed.2d 370 (1999)). In deciding which of the relevant definitions to apply, we look to the words nearby. Limited, Inc. v. Comm’r of Internal Revenue, 286 F.3d 324, 334 (6th Cir.2002). Given this guidance, it makes sense for each specific term in the Similar Reproductions Parenthetical to refer to media, rather than content.
+ 
+Though “record” and “film” each could potentially have been used as a synonym for specific content (“film” for “motion picture” and “record” for “sound recording”), such a construction would render “tape,” which had a definition that more clearly referenced a medium and not the type of content stored, wholly out of place. Moreover, if “films, tapes, [and] records” each referred to content in 1971, “tapes” would have been mere surplusage as it is capable of storing both audio content, like records, and audiovisual content, like films. We are reluctant to treat statutory terms as mere surplusage. Duncan v. Walker, 533 U.S. 167, 174, 121 S.Ct. 2120, 150 L.Ed.2d 251 (2001) (citing Babbitt v. Sweet Home Chapter, Communities for a Great Or., 515 U.S. 687, 698, 115 S.Ct. 2407, 132 L.Ed.2d 597 (1995)). Thus, “tapes” as well as “films” and “records” must be considered in giving meaning to “similar reproductions.”3
+ 
+Both Microsoft and producers of master copies from the motion picture and sound recording industries store and distribute their products on similar and sometimes identical media, including magnetic media (such as tapes and diskettes) and optical media including compact discs (“CDs”) and digital video discs (“DVDs”). Because the computer software industry and the entertainment industry use the same or similar media on which to store and distribute their content, the reproductions of their copyrighted works are similar. Thus, the plain meaning of the Similar Reproductions Parenthetical is that computer software masters are similar reproductions to motion picture and sound masters, which the Commissioner concedes are included in the parenthetical.
+ 
+[3] We have also considered whether there is any ambiguity in the plain meaning of the Similar Reproductions Parenthetical. In doing so, we have examined that parenthetical in relation to the specific list of items excluded from “export property” under § 927(a)(2)(B). See John v. United States, 247 F.3d 1032, 1041 (9th Cir.2001); Smith v. United States, 508 U.S. 223, 233, 113 S.Ct. 2050, 124 L.Ed.2d 138 (1993) (“Just as a single word cannot be read in isolation, nor can a single provision of a statute.”). The doctrine of noscitur a sociis counsels that words should be understood by the company they keep. Gustafson v. Alloyd Co., 513 U.S. 561, 575, 115 S.Ct. 1061, 131 L.Ed.2d 1 (1995). Applying *1185 these doctrines, the excluded items in § 927(a)(2)(B), “patents, inventions, models, designs, formulas, or processes whether or not patented, copyrights [except for some copyrights], good will, trademarks, trade brands, franchises, or other like property,” should be understood to have something in common that the excepted copyrights do not. When read as a whole, the most appropriate interpretation is that Congress sought to prevent intangible intellectual property from obtaining the benefits of categorization as “export property” while permitting certain intellectual property that had been reduced to tangible film, tape, record or similar form to enjoy that benefit.
+ 
+Because “films, tapes, records or similar reproductions” when manufactured in the United States are tangible property upon export, they are distinguishable from the various sorts of intangible property excluded from the “export property” definition. This construction corresponds to the Commissioner’s treatment of individually packaged software.
+ 
+Our decision in United States v. Lacy is also instructive. 119 F.3d 742 (9th Cir.1997), cert. denied, 523 U.S. 1101, 118 S.Ct. 1571, 140 L.Ed.2d 804 (1998). In Lacy, we construed 18 U.S.C. § 2252(a)(4)(B) (1996 version), which made it a crime to possess “3 [sic] or more books, magazines, periodicals, films, video tapes, or other matter which contain any visual depiction ... if the producing of such depiction involves the use of a minor engaging in sexually explicit conduct ....” (emphasis added). Although the word “matter” could have been construed to refer to the computer graphics files (known as “GIFs”) themselves or to the computer disks and hard drive that contained the GIFs, we construed “matter” to refer to “the physical medium that contains the visual depiction—in this case, the hard drive of Lacy’s computer and the disks found in his apartment.” Lacy, 119 F.3d at 748. We explained that
+This interpretation is supported by two principles of statutory interpretation, noscitur a sociis and ejusdem generis. “The first means that a word is understood by the associated words, the second, that a general term following more specific terms means that the things embraced in the general term are of the same kind as those denoted by the specific terms.” United States v. Baird, 85 F.3d 450, 453 (9th Cir.1996) (citing 2A Norman J. Singer, Sutherland–Statutory Construction §§ 47.16, 47.17 (5th ed.1992)). Although canons of construction do not mandate how a phrase is to be read, they “describe[ ] what we usually mean by a particular manner of expression.” Longview Fibre Co. v. Rasmussen, 980 F.2d 1307, 1313 (9th Cir.1992). Here, the word “matter” appears at the end of the list “books, magazines, periodicals, films, [and] videotapes,” all of which are physical media capable of containing images. See Baird, 85 F.3d at 453 (looking to a list’s “theme” to determine the meaning of a general term).
+Id.
+ 
+Here, as in Lacy, a general phrase follows a list of more specific terms: the general phrase “similar reproductions” follows the more specific terms “films, tapes, [and] records.” Thus, “films, tapes, [and] records” must inform our understanding of “similar reproductions,” and “similar reproductions” must mean things “of the same kind” as those denoted by “films, tapes, [and] records.” Id. To read the statute as containing specific references to content followed by a general reference to media is contrary to the application of the canons of construction on which we relied in Lacy. Because the phrase “similar reproductions” refers to unspecified media, *1186 the more specific “films, tapes, and records” must also refer to media. Microsoft’s computer software master tapes are thus included in the statute’s specific listing of “films, tapes, [and] records,” and its CD–ROMs, DVD–ROMs and diskettes are included within the meaning of “similar reproductions.”
+ 
+When the plain language of a statute is clear, we need look no further to divine its meaning. United States v. Lewis, 67 F.3d 225, 228 (9th Cir.1995) (citing Sullivan v. Stroop, 496 U.S. 478, 482, 110 S.Ct. 2499, 110 L.Ed.2d 438 (1990) and United States v. Ron Pair Enter., Inc., 489 U.S. 235, 241, 109 S.Ct. 1026, 103 L.Ed.2d 290 (1989)). Nevertheless, the history of the DISC legislation supports the plain meaning set out above.
+ 
+“[W]e may not add terms or provisions where[C]ongress has omitted them, and this restraint is even more compelling when [C]ongress has specifically removed a term from a statute....” Sale v. Haitian Ctrs. Council, Inc., 509 U.S. 155, 168 n. 16, 113 S.Ct. 2549, 125 L.Ed.2d 128 (1993) (citations omitted). In the present case, Congress considered unambiguously content-based language in earlier drafts and opted instead for the present language. Specifically, Congress considered a parenthetical that would have limited qualifying copyrights to “motion picture films or films or tapes used for television broadcasting,” H.R. 18392, 91st Cong. sec. 2, § 991 (1970), and a parenthetical that would have limited qualifying copyrights to “films, tapes, or records for the commercial showing of motion pictures or used for radio or television broadcasting or to provide background music.” H.R. 18970, 91st Cong. sec. 402, § 991 (1970). It chose neither. In other words, Congress considered language that explicitly restricted the media of films, tapes, and records to motion pictures, television, radio, or background music, but ultimately chose language that left the nature of the copyrighted material more broadly defined. See § 927(a)(2)(B). It would be unreasonable to conclude that, having rejected more limiting language in favor of more expansive language, Congress intended to retain the limited meaning. See Russello v. United States, 464 U.S. 16, 23–24, 104 S.Ct. 296, 78 L.Ed.2d 17 (1983) (citing Arizona v. California, 373 U.S. 546, 580–81, 83 S.Ct. 1468, 10 L.Ed.2d 542 (1963)). Thus, this legislative history supports our conclusion that software masters on “films, tapes, records, or similar reproductions” are within the Similar Reproductions Parenthetical.
+ 
+Other legislative history also supports this conclusion. In 1979, Congress adopted all of the recommendations of the Final Report of the National Commission on New Technological Uses of Copyrighted Works. That report recognized a fundamental similarity between intellectual property rights in computer programs and other copyrighted works. See National Commission on New Technological Uses of Copyrighted Works, Final Report, 1, 9–15, 20–23 (1979) (hereinafter “CONTU Report”). In the CONTU Report, the Commission concluded that:
+[Computer p]rograms should no more be considered machine parts than videotapes should be considered parts of projectors or phonorecords parts of sound reproduction equipment.... In all three instances, the medium in which the copyrighted material is stored is moved past a sensing device at a set speed, causing electric current to flow, and ultimately resulting in the movement of machine parts to print words, display pictures, or create sounds.
+CONTU Report at 21. Given this fundamental similarity, when one groups together “films, tapes, [and] records” in order to determine whether a CD or a magnetic diskette, for example, is a similar reproduction, *1187 the essential determination depends upon what fundamental features films, tapes, and records share so that one can determine whether other items constitute “similar reproductions.”
+ 
+The evidence at trial established that computer software, sound recording and motion picture media share many similarities. The media used for computer software can be read only with the aid of a machine, just as sound recordings and motion pictures can only be read with the aid of a machine. Magnetic media containing computer software is erasable and re-writeable, just as are magnetic audio and video tapes. Computer software tapes are mastered in a manner identical to sound recording media. A single master can generate multiple perfect copies of motion pictures, sound recordings, or computer software at minimal expense. Optical media, whether for computer software or reproduction of sound or audiovisual recordings, is encoded on injection molded plastic disks upon which digital information is stored as a series of “1”s and “0”s, read by a focused laser scanning the surface. The similarities in media are fundamental to the way in which these types of copyrighted works are reproduced and distributed, making computer software reproductions similar to “films, tapes, [and] records.” These similarities in media to which the copyrighted material is affixed, not the content of that material, inform our decision as to the meaning of the Similar Reproductions Parenthetical.
+ 
+Congress was aware of the distinction between content and media when, in 1971, the same year the DISC legislation was enacted, it amended the Copyright Code. In enacting that amendment, Congress stated:
+‘Sound recordings’ are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture. ‘Reproductions of sound recordings’ are material objects in which sounds other than those accompanying a motion picture are fixed by any method now known or later developed, and from which sounds can be perceived, reproduced or otherwise communicated, either directly or with the aid of a machine or device, and include the ‘parts of instruments serving to reproduce mechanically the musical work’, ‘mechanical reproductions’, and ‘interchangeable parts, such as discs or tapes for use in mechanical music-producing machines’ ....
+Pub.L. No. 92–140, sec. 1(e), 85 Stat. 391 (1971), reprinted in 1971 U.S.C.C.A.N. 417, 418 (current version at 17 U.S.C. § 101 (2002)) (emphasis added). Under the Copyright Code as amended in 1976 (after the DISC legislation, but before the FSC legislation), “audiovisual works” are “works that consist of a series of related images ... together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied.” 17 U.S.C. § 101 (1976 & 2002) (emphasis added). “Motion pictures” are defined as one specific type of audiovisual work. Id. Sound recordings are “works that result from the fixation of a series of musical, spoken, or other sounds ... regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.” Id. (emphasis added)
+ 
+As a matter of copyright law, therefore, references to “films, tapes, and records” refer to the media on which content is embodied, not the content itself. Reading copyright law and § 927(a)(2)(B) consistently, “similar reproductions” refers to copies or likenesses that are similar (share some common characteristic) to “films, tapes, and records.” Magnetic tapes and diskettes and optical DVDs and CDs, all of *1188 which can embody software code, therefore, are similar to films, tapes, and records, because all are media on which machine-readable copyrighted material can be stored.
+ 
+The Commissioner contends that our interpretation conflicts with the purpose of the statute, arguing that to include computer software masters within the § 927(a)(2)(B) exception would virtually eviscerate the copyright exclusion because all material could be embodied in some machine readable master, which could then be shipped abroad for adaptation, reproduction, and distribution. Such an interpretation, the Commissioner asserts, would send overseas the domestic jobs Congress sought to promote by enacting the DISC legislation. We disagree.
+ 
+Currently, the Commissioner treats sound and audiovisual masters as qualifying export property under § 927(a)(2)(B). The copyright owners sell and lease these masters overseas with licenses that allow them to be adapted, reproduced, packaged, and sold for consumption in ways that meet local technological, language, and censorship requirements. Congress specifically included the exception embodied in § 927(a)(2)(B) although an obvious result would be a decrease in the domestic jobs otherwise potentially gained as a result of the DISC/FSC legislation.
+ 
+Evidence at trial established, however, that the vast majority of jobs created by Microsoft’s export activities are domestic. These activities include a three-step software creative process that requires between 12 and 32 months of domestic development for each software product. Because the heart of the creative process in developing software, motion pictures, and sound recordings is domestic, the majority of the jobs created are domestic. Accordingly, including the computer software industry within the exception advances the legislative purpose. It would be aberrant for Congress to offer this tax advantage to the entertainment industry to the exclusion of all other industries when Congress’ plain language indicates a broader, yet parallel treatment.4
+ 
+
+V
+The Conflicting Regulation
+[4] The parties offer various arguments with regard to whether Temporary Treasury Regulation § 1.927(a)–1T(f)(3) conflicts with § 927(a)(2)(B), and if it does, whether the regulation is invalid. The regulation reads:
+Intangible property. Export property does not include any patent, invention, model, design, formula, or process, whether or not patented, or any copyright (other than films, tapes, records, or similar reproductions, for commercial or home use), goodwill, trademark, tradebrand, franchise, or other like property. Although a copyright such as a copyright on a book or computer software does not constitute export property, a copyrighted article (such as a book or standardized, mass marketed computer software) if not accompanied by the right to reproduce for external use is export property if the requirements of this section are otherwise satisfied. Computer software referred to in the preceding sentence may be on any medium, including, but not limited to, magnetic tape, punched cards, disks, semiconductor chips and circuit boards. A license of a master recording tape for reproduction outside the United States is not disqualified under this paragraph from being export property.
+*1189 26 C.F.R. § 1.927(a)–1T(f)(3). Because we conclude that the statute clearly expresses Congress’s intent, we do not defer to the conflicting regulation. See Dole v. United Steelworkers, 494 U.S. 26, 42–43, 110 S.Ct. 929, 108 L.Ed.2d 23 (1989); Bd. of Governors of Federal Reserve System v. Dimension Fin. Corp., 474 U.S. 361, 368, 106 S.Ct. 681, 88 L.Ed.2d 691 (1986) (“The traditional deference courts pay to agency interpretation is not to be applied to alter the clearly expressed intent of Congress.”). Moreover, because Temporary Treasury Regulation § 1.927(a)–1T(f)(3) conflicts with the plain meaning of Internal Revenue Code § 927(a)(2)(B), the regulation is invalid. United States v. Cartwright, 411 U.S. 546, 557, 93 S.Ct. 1713, 36 L.Ed.2d 528 (1973) (affirming invalidation of a Treasury regulation because it was an unreasonable interpretation even though it was not “technically inconsistent” with the language of the statute); United States v. Vogel Fertilizer Co., 455 U.S. 16, 26, 102 S.Ct. 821, 70 L.Ed.2d 792 (1982) (affirming invalidation of a Treasury regulation because the statutory language and legislative history made clear that the regulation was not a reasonable interpretation of the accompanying statute despite the fact that the statutory language could support the regulation).
+ 
+
+VI
+Conclusion
+Computer software licensed for adaptation, reproduction, and distribution abroad is “export property” within the meaning of Internal Revenue Code § 927(a)(2)(B). This is the plain meaning of the statute.5 Temporary Treasury Regulation § 1.927(a)–1T(f)(3), which conflicts with the statute, is invalid. Accordingly, the judgment of the tax court is reversed, and the case is remanded for further proceedings consistent with this opinion.6
+ 
+Judgment of the tax court REVERSED; case REMANDED for further proceedings.
+ 
+All Citations
+311 F.3d 1178, 90 A.F.T.R.2d 2002-7521, 2002-2 USTC P 50,800, 2003 Copr.L.Dec. P 28,541, 65 U.S.P.Q.2d 1028, 02 Cal. Daily Op. Serv. 11,617, 2002 Daily Journal D.A.R. 13,618
+Footnotes
+
+*
+
+The Honorable William W Schwarzer, Senior United States District Judge for the Northern District of California, sitting by designation.
+
+1
+
+Unless otherwise specified, all references are to the Internal Revenue Code (Title 26 of the United States Code) as in effect in 1990 and 1991. In 2000, Congress repealed §§ 921 through 927. See FSC Repeal and Extraterritorial Income Exclusion Act of 2000, Pub.L. No. 106–519, § 2, 114 Stat. 2423.
+
+2
+
+References are to tax years ending June 30, 1990 and June 30, 1991, respectively.
+
+3
+
+The 1972 edition of Webster’s New World Dictionary of the American Language (David B. Guralnik, ed., 2d College ed.) indicated that “similar reproductions” referred to “cop[ies]” or “duplicat[es]” that are “nearly but not exactly the same” as those enumerated. Id. at 1207, 1327.
+
+4
+
+Our decision should not be read to interpret the statute to refer to every possible copyright, but only the software masters in controversy before us. We do not decide, for example, that the Similar Reproductions Parenthetical covers literary copyrights.
+
+5
+
+Having determined the statute’s plain meaning, which is supported by legislative history including congressional adoption of the recommendations of the CONTU Report, we need not address whether the tax court erred in finding that computer software is fundamentally different from sound recordings and motion pictures.
+
+6
+
+In view of our reversal of the tax court’s judgment, there may be other issues which now require resolution in that court. One such issue appears to be whether the royalties paid were solely for the exploitation of copyright rights, as Microsoft maintains, or for patents, trademark, and trade secrets, in addition to copyright rights, as the Commissioner contends.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

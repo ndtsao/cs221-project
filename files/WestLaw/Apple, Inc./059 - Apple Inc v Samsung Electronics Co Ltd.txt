@@ -1,0 +1,741 @@
+
+
+ 
+
+
+Apple Inc. v. Samsung Electronics Co., Ltd.
+United States Court of Appeals, Federal Circuit. | December 16, 2015 | 809 F.3d 633 | 2015 WL 9014387
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Concurring Opinion
+Dissenting Opinion
+All Citations
+
+standard Citation:
+
+Apple Inc. v. Samsung Elecs. Co., 809 F.3d 633 (Fed. Cir. 2015)
+
+All Citations:
+
+809 F.3d 633, 117 U.S.P.Q.2d 1469
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+809 F.3d 633
+United States Court of Appeals,
+Federal Circuit.
+APPLE INC., A California Corporation, Plaintiff–Appellant
+v.
+SAMSUNG ELECTRONICS CO., LTD., A Korean Corporation, Samsung Electronics America, Inc., A New York Corporation, Samsung Telecommunications America, LLC, A Delaware Limited Liability Company, Defendants–Appellees.
+No. 2014–1802.
+|
+Dec. 16, 2015.
+Synopsis
+Background: Patentee brought action against competitor for infringement of patents directed to smartphone and tablet interfaces. After summary judgment that competitor infringed patent and jury verdict that competitor infringed other patents, patentee moved for permanent injunction to bar competitor from using software or code capable of implementing infringing features in its products. The United States District Court for the Northern District of California, Lucy H. Koh, J., 2014 WL 7496140, denied motion. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Moore, Circuit Judge, held that:
+ 
+[1] patentee was required to establish causal nexus between irreparable harm and competitor’s infringement;
+ 
+[2] to establish requisite causal nexus, patentee was not required to prove that infringing features of competitor’s products were exclusive or predominant reason that consumers bought competitor’s products, only that there was some connection between infringing features and demand for competitor’s products;
+ 
+[3] patentee established irreparable harm;
+ 
+[4] patentee lacked adequate remedy at law;
+ 
+[5] balance of hardships weighed in favor of injunction; and
+ 
+[6] public interest weighed strongly in favor of injunction.
+ 
+Vacated and remanded.
+ 
+Opinion, 801 F.3d 1352, modified and superseded on rehearing.
+ 
+Reyna, Circuit Judge, filed concurring opinion.
+ 
+Prost, Chief Judge, filed dissenting opinion.
+ 
+
+
+West Headnotes (19)
+
+
+[1]
+
+InjunctionGrounds in general;  multiple factors
+
+
+212Injunction
+212IInjunctions in General;  Permanent Injunctions in General
+212I(B)Factors Considered in General
+212k1032Grounds in general;  multiple factors
+
+
+A party seeking a permanent injunction must demonstrate: (1) that it has suffered an irreparable injury; (2) that remedies available at law, such as monetary damages, are inadequate to compensate for that injury; (3) that, considering the balance of hardships between the plaintiff and defendant, a remedy in equity is warranted; and (4) that the public interest would not be disserved by a permanent injunction.
+4 Cases that cite this headnote
+
+
+
+[2]
+
+InjunctionEquitable nature of remedy
+
+
+212Injunction
+212IInjunctions in General;  Permanent Injunctions in General
+212I(A)Nature, Form, and Scope of Remedy
+212k1004Equitable nature of remedy
+
+
+Decision to award or deny permanent injunctive relief lies within the equitable discretion of the district court, and traditional equitable principles do not permit the adoption of certain expansive principles suggesting that injunctive relief could not issue in a broad swath of cases.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsInjunction
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3616Injunction
+170Bk3616(1)In general
+
+
+District court’s decision on permanent injunctive relief is reviewable for abuse of discretion.
+2 Cases that cite this headnote
+
+
+
+[4]
+
+Federal CourtsAbuse of discretion in general
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3563Discretion of Lower Court in General
+170Bk3565Abuse of discretion in general
+
+
+District court abuses its discretion when it makes a clear error of judgment in weighing relevant factors or exercises its discretion based upon an error of law or clearly erroneous factual findings.
+2 Cases that cite this headnote
+
+
+
+[5]
+
+Federal CourtsInjunction
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3616Injunction
+170Bk3616(1)In general
+
+
+On appeal from order granting or denying permanent injunctive relief, Court of Appeals reviews for abuse of discretion the district court’s conclusions as to irreparable injury, adequacy of remedy at law, balance of hardships, and public interest, and Court of Appeals reviews district court’s underlying factual findings for clear error.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Patentee seeking permanent injunction against an infringer must show that it is irreparably harmed by the infringement, which requires proof that a causal nexus relates the alleged harm to the alleged infringement, i.e., proof that the infringement causes the harm.
+12 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Patentee seeking permanent injunction against competitor was required to establish causal nexus between irreparable harm to patentee and competitor’s infringement of patents directed to smartphone and tablet interfaces, although patentee sought narrow injunction limited to infringing features in competitor’s products rather than products themselves; purpose of causal nexus requirement was to ensure that there was some connection between the harm alleged and the infringing acts, which was a consideration entirely independent of the scope of the proposed injunction.
+7 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Causal nexus requirement for permanent injunction in patent infringement action ensures that an injunction is only entered against a defendant on account of a harm resulting from the defendant’s wrongful conduct, not some other reason; for example, it ensures that an injunction is not entered on account of irreparable harm caused by otherwise lawful competition.
+3 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Whether a patentee’s irreparable harm stems from infringement of its patents is entirely independent of the scope of the proposed permanent injunction in patent infringement action.
+Cases that cite this headnote
+
+
+
+[10]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Causal nexus linking irreparable harm to patentee and infringing acts must be established regardless of whether permanent injunction is sought by patentee for an entire accused product or is narrowly limited to particular features.
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+When a patentee seeking permanent injunction against competitor alleges it suffered irreparable harm stemming from lost sales solely due to a competitor’s infringement, a finding that the competitor’s infringing features drive consumer demand for its products satisfies the causal nexus inquiry, and the entirety of the patentee’s alleged harm weighs in favor of injunctive relief.
+4 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+When a patentee seeking permanent injunction against competitor alleges it suffered irreparable harm stemming from lost sales due to infringing features of competitor’s products and the accused products have thousands of features, the patentee need not rule out the thousands of other features as potential causes of irreparable harm, instead, proving a causal nexus requires the patentee to show some connection between the patented features and the demand for the infringing products.
+9 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+For patentee seeking permanent injunction to establish requisite causal nexus between competitor’s infringement and irreparable harm, patentee was not required to prove that infringing features of competitor’s products were exclusive or predominant reason that consumers bought competitor’s products, only that there was some connection between infringing features and the demand for competitor’s products, i.e., that the infringing features impacted consumers’ decisions to purchase the accused products, in action alleging infringement of patents directed to smartphone and tablet interfaces.
+6 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Patentee in infringement action established irreparable harm by showing causal nexus between competitor’s infringement of patents directed to smartphone and tablet interfaces and patentee’s lost market share and sales, weighing in favor of permanent injunction against competitor’s use of infringing features in its devices; patentee did not establish patented features were exclusive driver of customer demand, but showed some connection between patented features and demand for infringing products with strong evidence of competitor’s copying, its professed belief in importance of patented features to sales, and evidence that consumers preferred products with patented features, including study establishing consumers would not have purchased competitor’s phone if it lacked patented features.
+9 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Evidence of competitor’s copying of patented features for its products does not, by itself, establish a causal nexus between infringement and irreparable harm to patentee, as required for patentee to obtain permanent injunction against infringing features, but that does not make the evidence wholly irrelevant; where the precise question is about consumer preferences and buying choices, the strength and weight to be given to such evidence is to be determined on a case-by-case basis based on what the evidence indicates.
+2 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Patentee lacked adequate remedy at law for irreparable harm from lost sales caused by competitor’s infringement of patents directed to smartphone and tablet interfaces, weighing in favor of permanent injunction against competitor’s use of infringing features in its devices; sales lost by patentee to competitor were difficult to quantify due to ecosystem effect that sale of single product could have on downstream sales of accessories, computers, software applications, and future products, as well as due to network effect by which individual customer advertised patentee’s product to friends, family, and colleagues.
+2 Cases that cite this headnote
+
+
+
+[17]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1866Balance of hardships;  irreparable injury
+
+
+Balance of hardships weighed in favor of granting patentee’s request for permanent injunction against competitor’s use in its products of features that infringed patents directed to smartphone and tablet interfaces; without injunction, patentee would be deprived of its exclusivity and forced to compete against its own innovation usurped by its largest and fiercest competitor, while competitor would suffer relatively little harm from injunction, which targeted specific infringing features, not entire products, and contained 30–day sunset provision giving competitor time to design around patents.
+Cases that cite this headnote
+
+
+
+[18]
+
+PatentsPublic interest considerations
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1862Injunctions
+291k1867Public interest considerations
+
+
+Public interest weighed strongly in favor of granting patentee permanent injunction against competitor’s use in its products of features that infringed patents directed to smartphone and tablet interfaces; public generally did not benefit when competition was at expense of patentee’s investment-backed property right, patentee’s proposed injunction was narrow in scope as targeted features, not products, competitor could remove patented features without recalling products or disrupting customer use of its products, and proposed injunction included 30-day sunset provision to allow competitor to do just that.
+5 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,946,647, US Patent 8,046,721, US Patent 8,074,172. Cited.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*636 William F. Lee, Wilmer Cutler Pickering Hale and Dorr LLP, Boston, MA, argued for plaintiff-appellant. Also represented by Sarah R. Frazier, Lauren B. Fletcher, Richard Wells O’Neill, Mark Christopher Fleming, Andrew J. Danford; James Quarles, III, Thomas Gregory Sprankling, Washington, DC; Mark D. Selwyn, Palo Alto, CA; Rachel Krevans, Christopher Robinson, Nathaniel Bryan Sabri, Morrison & Foerster, LLP, San Francisco, CA; Erik Jeffrey Olson, Palo Alto, CA.
+Kathleen M. Sullivan, Quinn Emanuel Urquhart & Sullivan, LLP, New York, N.Y., argued for defendant-appellees. Also represented by William Adams; Brian Cosmo Cannon, Victoria Fishman Maroulis, Kevin P.B. Johnson, Redwood Shores, CA; Scott L. Watson, Michael Thomas Zeller, John B. Quinn, Los Angeles, CA; Kevin Alexander Smith, San Francisco, CA.
+Mike McKool, McKool Smith, P.C., Dallas TX, for amicus curiae Ericsson Inc. Also represented by Theodore Stevenson, III; John Bruce Campbell, Joel Lance Thollander, Austin, TX.
+John D. Haynes, Alston & Bird LLP, Atlanta, GA, for amici curiae Nokia Corporation, *637 Nokia USA, Inc. Also represented by Patrick J. Flinn; Ryan W. Koppelman, East Palo, CA.
+Matthew Schruers, Computer & Communications Industry Association, Washington, DC, for amicus curiae Computer & Communications Industry Association.
+Joseph Carl Cecere, Jr., Cecere PC, Dallas, TX, for amicus curiae The National Black Chamber of Commerce.
+Kevin McGann, White & Case LLP, New York, N.Y., for amici curiae Google Inc., HTC Corporation, HTC America, Inc., LG Electronics, Inc., Rackspace Hosting, Inc., Red Hat, Inc., SAP America, Inc., Lenovo, Inc., eBay, Inc., ASUSTeK Computer Inc., Facebook, Inc., Newegg Inc. Also represented by Christopher J. Glancy; Warren S. Heit, Palo Alto, CA.
+Kimberly N. Brown, Chevy Chase, MD, for amici curiae Michael J. Santorelli and Charles M. Davidson.
+Charles Duan, Public Knowledge, Washington, D.C., for amici curiae Public Knowledge and Electronic Frontier Foundation.
+Before PROST, Chief Judge, MOORE, and REYNA, Circuit Judges.
+Opinion
+Opinion for the court filed by Circuit Judge MOORE, in which Circuit Judge REYNA joins.
+Concurring opinion filed by Circuit Judge REYNA.
+Dissenting opinion filed by Chief Judge PROST.
+
+MOORE, Circuit Judge.
+
+Apple Inc. appeals from an order of the district court denying Apple’s request for a permanent injunction against Samsung Electronics Company, Ltd.; Samsung Electronics America, Inc.; and Samsung Telecommunications America, LLC (collectively, “Samsung”). We vacate and remand for further proceedings.
+ 
+
+BACKGROUND
+In 2007, Apple introduced the iPhone, revolutionizing the cell phone market. To develop the iPhone, Apple invested billions of dollars over several years—investment that came with significant risk. J.A. 10424–26, 10585–98. Indeed, Apple executives referred to the iPhone as a “you bet your company” product because of the uncertainty associated with launching an untested product line in a new market. J.A. 10425–26, 10451–52.
+ 
+To protect the inventions developed as a result of this investment, Apple applied for and received patents covering much of the innovative technology incorporated into the iPhone. Apple’s patents are numerous and include U.S. Patent Nos. 5,946,647; 8,046,721; and 8,074,172, the patents at issue in this appeal. Claim 8 of the ′721 patent claims a touchscreen device that unlocks when the user makes contact with an “unlock image” and moves that image to a second, predefined location. ′721 patent col. 19 l. 51–col. 20 l. 12. Although seemingly straightforward, Apple considered this feature so core to the Apple iPhone user experience that it opened the first iPhone ad with imagery illustrating the operation of this “slide to unlock” feature. J.A. 10433–34, 21014. Claim 9 of the ′647 patent claims a system that detects “data structures” within text and generates links to specific actions that can be performed for each type of detected structure—for example, detecting a phone number in a text message and creating a link that would allow the user to dial the phone number or store it in an address book. ′647 patent col. 7 ll. 52–54, fig. 7. And claim 18 of the ′172 patent claims a method for automatically correcting spelling *638 errors on touchscreen devices. ′172 patent col. 12 l. 49–col. 13 l. 4.
+ 
+The iPhone was undisputedly successful. After its release, reviewers praised a number of features on the iPhone, including its multitouch screen, software, ease of use, and overall user experience. Trial Transcript Day 2 at 436–40, Apple, Inc. v. Samsung Elecs. Co., No. 12–CV–00630–LHK (N.D. Cal. 2014) (No. 1622). Other companies followed. Samsung, in particular, developed competing smartphones. Internal Samsung documents show that Samsung “paid close attention to, and tried to incorporate” some of Apple’s patented technology, which was “indicative of copying by Samsung.” Apple, Inc. v. Samsung Elecs. Co., No. 12–CV–00630–LHK, 2014 WL 7496140, at *14 (N.D.Cal. Aug. 27, 2014) (“Injunction Order ”). Today, Apple and Samsung are fierce competitors in the smartphone and tablet market. Id. at *8.
+ 
+The instant appeal springs from a suit filed by Apple against Samsung in February 2012 alleging infringement of five patents directed to smartphone and tablet interfaces, including the ′721 patent, the ′647 patent, and the ′ 172 patent. The district court held on summary judgment that Samsung infringed the ′172 patent. The case proceeded to trial, and a jury found that nine Samsung products infringed one or both of Apple’s ′647 and ′721 patents. The jury awarded Apple a total of $119,625,000 for Samsung’s infringement of the three patents.
+ 
+Following the verdict, Apple filed a motion seeking a permanent injunction that would bar Samsung from, inter alia, making, using, selling, developing, advertising, or importing into the United States software or code capable of implementing the infringing features in its products. That is, Apple did not seek to enjoin Samsung’s infringing smartphones and tablets, but only the infringing features. Moreover, Apple’s proposed injunction included a 30–day “sunset period” that would stay enforcement of the injunction until 30 days after it was entered by the district court, during which Samsung could design around the infringing features. This “sunset period” coincided with Samsung’s representations at trial that it could remove the infringing features from its products quickly and easily. Injunction Order at *20–22.
+ 
+Despite the narrowness of Apple’s proposed injunction, the district court denied Apple’s motion, finding that Apple had not shown that it would suffer irreparable harm without an injunction. Id. at *23. Predicated entirely on this finding, the district court reasoned that Apple could not establish that monetary damages were inadequate. Id. at *19. Although the district court found that the public interest favored Apple’s request and that the narrowness of Apple’s proposed injunction tilted the balance of hardships in Apple’s favor, it determined that these factors did not overcome Apple’s lack of irreparable harm. Id. at *23. Apple appealed. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+The Patent Act provides a patentee with the “right to exclude others from making, using, offering for sale, or selling the [patented] invention.” 35 U.S.C. § 154(a)(1). This right has its roots in the U.S. Constitution’s Intellectual Property Clause, which refers to inventors’ “exclusive Right to their respective ... Discoveries.” U.S. Const. art. I, § 8, cl. 8. In furtherance of this right to exclude, district courts “may grant injunctions in accordance with the principles of equity to prevent the violation of any right secured by patent, on such terms as the court deems reasonable.” 35 U.S.C. § 283. “[N]ot surprising[ly], given *639 the difficulty of protecting a right to exclude through monetary remedies that allow an infringer to use an invention against the patentee’s wishes,” historically courts have “granted injunctive relief upon a finding of infringement in the vast majority of patent cases.” eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388, 395, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006) (Roberts, C.J., concurring) (emphasis in original).
+ 
+[1] [2] [3] [4] [5] A party seeking a permanent injunction must demonstrate:
+(1) that it has suffered an irreparable injury;
+(2) that remedies available at law, such as monetary damages, are inadequate to compensate for that injury; (3) that, considering the balance of hardships between the plaintiff and defendant, a remedy in equity is warranted; and (4) that the public interest would not be disserved by a permanent injunction.
+Id. at 391, 126 S.Ct. 1837 (majority opinion). The decision to award or deny permanent injunctive relief lies within the equitable discretion of the district court; these traditional equitable principles do not permit the adoption of “certain expansive principles suggesting that injunctive relief could not issue in a broad swath of cases.” Id. at 391, 393, 126 S.Ct. 1837. The district court’s decision is reviewable for abuse of discretion. Id. at 391, 126 S.Ct. 1837. A court abuses its discretion when it “ma[kes] a clear error of judgment in weighing relevant factors or exercise[s] its discretion based upon an error of law or clearly erroneous factual findings.” Innogenetics, N.V. v. Abbott Labs., 512 F.3d 1363, 1379 (Fed.Cir.2008). We review the district court’s conclusion as to each eBay factor for abuse of discretion and its underlying factual findings for clear error. i4i Ltd. P’ship v. Microsoft Corp., 598 F.3d 831, 861 (Fed.Cir.2010).
+ 
+
+A. Irreparable Harm
+[6] To satisfy the first eBay factor, the patentee must show that it is irreparably harmed by the infringement. This requires proof that a “causal nexus relates the alleged harm to the alleged infringement.” Apple Inc. v. Samsung Elecs. Co., 695 F.3d 1370, 1374 (Fed.Cir.2012) (“Apple II ”). This just means that there must be proof that the infringement causes the harm.
+ 
+Apple argued to the district court that it was irreparably harmed by Samsung’s infringement due to damage to its reputation as an innovator, lost market share, and lost downstream sales. Injunction Order at *6, *11. The district court rejected Apple’s arguments regarding irreparable harm and found that Apple had not shown that a causal nexus connected Samsung’s infringement to these alleged injuries. Id. at *8–9, *11–16. On appeal, Apple argues that the district court erred in a number of ways with respect to this eBay factor. First, Apple argues that the court should not have required Apple to prove that a causal nexus linked Samsung’s infringement to Apple’s harms because Apple’s proposed injunction was limited to the infringing features alone, not the products as a whole. Apple also argues that the court erred when it found that Apple did not suffer irreparable harm stemming from its sales-based losses and from harm to its reputation as an innovator due to Samsung’s infringement. We address each of Apple’s arguments in turn.
+ 
+
+1. Causal Nexus Requirement
+[7] Apple claims that “[t]he purpose and substance of the causal nexus requirement are necessarily satisfied in this circumstance because there is no risk that Apple might be ‘leveraging its patent for competitive gain beyond that which the *640 inventive contribution and value of the patent warrant.’ ” Appellant’s Br. 33 (quoting Apple, Inc. v. Samsung Elecs. Co., 735 F.3d 1352, 1361 (Fed.Cir.2013) (“Apple III ”) (alterations omitted)). Apple argues that our discussion of causal nexus to date has been limited to cases where the patentee sought a product-based injunction. See Apple III, 735 F.3d at 1352; Apple II, 695 F.3d at 1375–76; Apple, Inc. v. Samsung Elecs. Co., 678 F.3d 1314, 1324 (Fed.Cir.2012) (“Apple I ”). Apple asserts that there is no causal nexus requirement when the patentee is seeking, as in this case, a narrow injunction, limited to the infringing features.
+ 
+[8] [9] Apple misunderstands the purpose of the causal nexus requirement. Although we stated in Apple II that the causal nexus requirement “informs whether the patentee’s allegations of irreparable harm are pertinent to the injunctive relief analysis, or whether the patentee seeks to leverage its patent for competitive gain beyond that which the inventive contribution and value of the patent warrant,” this statement was incomplete. Apple II, 695 F.3d at 1375. The causal nexus requirement ensures that an injunction is only entered against a defendant on account of a harm resulting from the defendant’s wrongful conduct, not some other reason. For example, it ensures that an injunction is not entered on account of “irreparable harm caused by otherwise lawful competition.” Apple III, 735 F.3d at 1361. Whether a patentee’s irreparable harm stems from infringement of its patents is entirely independent of the scope of the proposed injunction.
+ 
+[10] And while, in the past, we have only had occasion to require proof of causal nexus for product-based injunctions, we have also rejected Apple’s argument that narrowing the proposed injunction can eliminate the causal nexus requirement. In Apple III, we explained that, while narrowing a proposed injunction by delaying it so that the infringer could design around the infringing features would make it “more likely to prevent only infringing features rather than the sale of entire products,” it did not “show that the patentee is irreparably harmed by the infringement.” Id. at 1363 (emphasis in original). The same is true here. That Apple’s proposed injunction applies only to infringing features says nothing about whether Apple is irreparably harmed by Samsung’s infringement. The purpose of the causal nexus requirement is to establish the link between the infringement and the harm, to ensure that there is “some connection” between the harm alleged and the infringing acts. Id. at 1364. Thus, a causal nexus linking the harm and the infringing acts must be established regardless of whether the injunction is sought for an entire product or is narrowly limited to particular features.
+ 
+To be sure, the scope of an injunction plays a role in determining whether that injunction is awarded. For example, it is crucial when considering the final two factors of the eBay test. Here, the district court did not err by requiring Apple to satisfy the causal nexus requirement to show irreparable harm.
+ 
+
+2. Sales–Based Harm
+Apple argues that the district court erred in finding that Apple did not suffer irreparable harm due to lost market share and lost downstream sales stemming from Samsung’s infringement. The district court noted that it was undisputed that Apple lost market share and downstream sales to Samsung. Injunction Order at *11. It was also undisputed that “Apple and Samsung compete directly in the market for smartphones and tablets” and that “this competition affects [Apple’s] downstream *641 sales because of so-called ‘ecosystem’ effects, where one company’s customers will continue to buy that company’s products and recommend them to others.” Id. Moreover, the court wrote that the record established that “the competition between Apple and Samsung was ‘fierce’ ” and that “Apple was Samsung’s ‘largest smartphone competitor’ in the U.S. market.” Id. Because “[w]here two companies are in competition against one another, the patentee suffers the harm—often irreparable—of being forced to compete against products that incorporate and infringe its own patented inventions,” id. (quoting Douglas Dynamics, LLC v. Buyers Prods. Co., 717 F.3d 1336, 1345 (Fed.Cir.2013)), the court found that “[t]he presence of direct competition between Apple and Samsung in the smartphone market weighs in favor of finding irreparable harm,” id.
+ 
+Despite these findings, the district court found that Apple failed to demonstrate irreparable harm due to lost sales because it failed to show a causal nexus between the infringement and the lost sales. That is, according to the district court, Apple did not show that the infringing features “drive consumer demand for Samsung’s infringing products.” Id. at *13. Here, the district court erred.
+ 
+[11] [12] When a patentee alleges it suffered irreparable harm stemming from lost sales solely due to a competitor’s infringement, a finding that the competitor’s infringing features drive consumer demand for its products satisfies the causal nexus inquiry. In that case, the entirety of the patentee’s alleged harm weighs in favor of injunctive relief. Such a showing may, however, be nearly impossible from an evidentiary standpoint when the accused devices have thousands of features, and thus thousands of other potential causes that must be ruled out. Nor does the causal nexus requirement demand such a showing. Instead, it is a flexible analysis, as befits the discretionary nature of the four-factor test for injunctive relief. We have explained that proving a causal nexus requires the patentee to show “some connection” between the patented features and the demand for the infringing products. Apple III, 735 F.3d at 1364.1 Thus, in a case involving phones with hundreds of thousands of available features, it was legal error for the district court to effectively require Apple to prove that the infringement was the sole cause of the lost downstream sales. The district court should have determined whether the record established that a smartphone feature impacts customers’ purchasing decisions. Apple III, 735 F.3d at 1364. Though the fact that the infringing features are not *642 the only cause of the lost sales may well lessen the weight of any alleged irreparable harm, it does not eliminate it entirely. To say otherwise would import a categorical rule into this analysis.
+ 
+The right to exclude competitors from using one’s property rights is important. And the right to maintain exclusivity—a hallmark and crucial guarantee of patent rights deriving from the Constitution itself—is likewise important. “Exclusivity is closely related to the fundamental nature of patents as property rights.” Douglas Dynamics, 717 F.3d at 1345. And the need to protect this exclusivity would certainly be at its highest when the infringer is one’s fiercest competitor. Essentially barring entire industries of patentees—like Apple and other innovators of many-featured products—from taking advantage of these fundamental rights is in direct contravention of the Supreme Court’s approach in eBay. 547 U.S. at 393, 126 S.Ct. 1837 (“[E]xpansive principles suggesting that injunctive relief could not issue in a broad swath of cases ... cannot be squared with the principles of equity adopted by Congress.”).
+ 
+[13] The district court thus erred when it required Apple to prove that the infringing features were the exclusive or predominant reason why consumers bought Samsung’s products to find irreparable harm. See Apple III, 735 F.3d at 1364 (explaining that “[c]onsumer preferences are too complex—and the principles of equity are too flexible” for a patentee to have to show that patented features are the “one and only reason for consumer demand”). Instead, the district court should have considered whether there is “some connection” between the patented features and the demand for Samsung’s products. Id. That is, the district court should have required Apple to show that the patented features impact consumers’ decisions to purchase the accused devices. Id. (explaining that causal nexus can be shown with evidence that “a patented feature is one of several features that cause consumers to make their purchasing decisions”).
+ 
+[14] The record here establishes that these features do influence consumers’ perceptions of and desire for these products. The district court wrote that there was evidence that Samsung valued the infringing features, including evidence that Samsung “paid close attention to, and tried to incorporate, certain iPhone features,” which was “indicative of copying.” Injunction Order at *14. This included evidence that Samsung had copied the “slide to unlock” feature claimed in the ′721 patent, such as “internal Samsung documents showing that Samsung tried to create unlocking designs based on the iPhone,” id. (citing PX119 (J.A. 20197), PX121 (J.A. 20274, 20347)); testimony from a Samsung engineer about “the value of designs for unlocking,” id. (citing Tr. at 1729:3–11 (J.A. 11735:3–11)); and “Samsung e-mails noting that certain carriers disapproved of the noninfringing ‘circle lock’ alternative,” id. (citing PX181 at 5 (J.A. 21019)). The district court also noted that the jury found that Samsung willfully infringed the ′721 patent. Id. For the ′647 patent, evidence of copying included “an internal Samsung report that shows iPhone screens and notes the ‘[n]eed to improve usability by providing Links for memo contents,’ ” id. (citing PX146 at 37 (J.A. 20584)), and “an internal Samsung document that copied a figure from the publication of one of the ′647 patent’s inventors,” id. (citing PX107 at 52 (J.A. 20063)); see also J.A. 20003 (inventor’s publication). And for the ′172 patent, Apple presented evidence that users criticized Samsung’s noninfringing keyboards and word-correction designs. Injunction Order at *14 (citing PX168 at 4 (J.A. 20985), PX169 at 4 (J.A. 21006), *643 PX219 at 104 (J.A. 21318)); see also J.A. 10700–02 (explaining that a Samsung carrier found Samsung’s non-infringing word-correction method “jarring,” which Samsung resolved by going to the word-correction method described in the ′172 patent). Finally, the district court held that Apple had shown that it too found the “slide to unlock” feature claimed in the ′721 patent valuable to consumers. Injunction Order at *15 (citing Tr. at 432:20–433:18 (J.A. 10433:20–10434:18); Tr. at 600:23–601:15 (J.A. 10602:23–10603:15)); see also J.A. 21014 (Apple’s first iPhone ad, which opened with imagery of the “slide to unlock” feature). The district court rejected this evidence as insufficient to establish the requisite causal nexus. Injunction Order at *13–15 (citing Apple I, 678 F.3d at 1327–28; Apple III, 735 F.3d at 1367). In doing so, the district court relied on our previous statements that copying is not sufficient to show causal nexus:
+While the evidence that Samsung’s employees believed it to be important to incorporate the patented feature into Samsung’s products is certainly relevant to the issue of nexus between the patent and market harm, it is not dispositive. That is because the relevant inquiry focuses on the objective reasons as to why the patentee lost sales, not on the infringer’s subjective beliefs as to why it gained them (or would be likely to gain them).
+Apple I, 678 F.3d at 1327–28.
+ 
+[15] The district court was correct that evidence of copying does not, by itself, establish a causal nexus. But that does not make the evidence wholly irrelevant. Here, too, we must avoid categorical rules. Where the precise question is about consumer preferences and buying choices, the strength and weight to be given to such evidence is to be determined on a case-by-case basis based on what the evidence indicates. Sometimes this evidence will have little or no probative value, for example, if the record contains evidence that the infringer’s belief may be at odds with consumer preferences. But here, Apple’s evidence of copying established a further link between Apple’s and Samsung’s subjective beliefs and consumers’ perceptions, thereby strengthening a causal nexus and irreparable harm to Apple. The dissent criticizes Apple’s evidence of copying as “lack[ing] any connection to the critical details that define the patented features.” Dissent at 661. The district court made no such findings. Injunction Order at *14. The district court acknowledged that Apple presented evidence that carriers (′721 patent) and users (’172 patent), not just Samsung, preferred and valued the infringing features and wanted them in Samsung phones. Id. It also acknowledged that Apple presented evidence that carriers or users disapproved of Samsung’s alternative to the infringing features. The court failed to appreciate, however, that this evidence did not just demonstrate that Samsung valued the patented features, but also that its carriers or users valued the features. The district court further correctly concluded that the ′721 patent’s features are valuable to Apple’s consumers. Id. at *15. It was legal error for the district court to reject such strong evidence in this case because Apple presented evidence showing that Samsung’s subjective beliefs are indicative of consumers’ perceptions of the infringing features. Given the strength of the evidence of copying and Samsung’s professed belief in the importance of the patented features as a driver of sales, and the evidence that carriers or users also valued and preferred phones with these features, the district court erred by disregarding this evidence, which further establishes a causal nexus and Apple’s irreparable harm.
+ 
+*644 Furthermore, this record contained Dr. John Hauser’s conjoint study, which established that consumers would not have purchased a Samsung phone if it lacked the patented features, that they valued these features, and that they were willing to pay considerably more for a phone that contained these features. Injunction Order at *12; see also J.A. 20491–98 (survey results showing that many respondents would not purchase a Samsung phone without the infringing features); J.A. 20539 (results showing that respondents were willing to pay more for devices that included the infringing features). Based on the results, Dr. Hauser concluded that “[t]he features that were enabled by the patents at issue in this case have a measurable impact on consumer demand for Samsung telephones, smartphones, and tablets.” J.A. 11130. The district court appeared to disregard the Hauser study, writing that “[t]he weight of the evidence shows that [the Hauser study] fails to demonstrate that the features claimed in the ′647, ′721, and ′172 patents drive consumer demand for Samsung’s infringing products.” Injunction Order at *13. The district court’s decision seems to be predicated on an incorrect understanding of the nature of the causal nexus requirement, as discussed above.
+ 
+In short, the record establishes that the features claimed in the ′ 721, ′647, and ′172 patents were important to product sales and that customers sought these features in the phones they purchased. While this evidence of irreparable harm is not as strong as proof that customers buy the infringing products only because of these particular features, it is still evidence of causal nexus for lost sales and thus irreparable harm. Apple loses sales because Samsung products contain Apple’s patented features. The district court therefore erred as a matter of law when it required Apple to show that the infringing features were the reason why consumers purchased the accused products. Apple does not need to establish that these features are the reason customers bought Samsung phones instead of Apple phones—it is enough that Apple has shown that these features were related to infringement and were important to customers when they were examining their phone choices. On this record, applying the correct legal standard for irreparable harm, Apple has established irreparable harm. The strength of its evidence of irreparable harm goes to this factor’s weight when assessing the propriety of the injunction. Apple established that customers wanted, preferred, and would pay extra for these features. Apple established that Samsung believed these features were important and copied them. The evidence establishes that Samsung’s carriers and users wanted these features on phones. The evidence establishes that Apple believed these features were important to customer demand. The evidence establishes that Samsung was Apple’s biggest rival, its fiercest competitor. It was clear error in the face of this evidence for the district court to conclude that Apple failed to establish “some connection” between the patented features and demand for the infringing products. Apple did not establish that these features were the exclusive driver of customer demand, which certainly would have weighed more heavily in its favor. Apple did, however, show that “a patented feature is one of several features that cause consumers to make their purchasing decisions.” Apple III, 735 F.3d at 1364. We conclude that this factor weighs in favor of granting Apple’s injunction.
+ 
+
+B. Inadequate Remedy at Law
+[16] The second eBay factor is whether “remedies available at law, such as monetary damages, are inadequate to compensate” *645 for the irreparable harm suffered by the patentee. 547 U.S. at 391, 126 S.Ct. 1837.
+ 
+The district court found that Apple’s sales-based losses were difficult to quantify. Injunction Order at *18. In support, the district court cited testimony by Mr. Phil Schiller, an Apple marketing executive; testimony by Apple’s damages expert; and its own past findings on the subject in the context of the Apple–Samsung litigation. Id. at *17. We agree with the district court’s analysis. Sales lost by Apple to Samsung are difficult to quantify due to the “ecosystem effect”—that is, the effect the sale of a single product can have on downstream sales of accessories, computers, software applications, and future smartphones and tablets. Id.; see also J.A. 10449–50. In addition to the downstream sales to the individual customer, Mr. Schiller testified that individual customers have a “network effect,” by which they advertise Apple’s product to their friends, family, and colleagues. J.A. 10449–50. Thus, the loss by Apple of a single smartphone or tablet customer may have a far-reaching impact on Apple’s future revenues. Because of its variable and uncertain nature, this loss is very difficult to calculate.
+ 
+Despite its finding that Apple’s sales-based losses were difficult to quantify, the district court nonetheless found that this factor weighed against injunctive relief based on its determination that Apple had failed to establish any irreparable harm. Injunction Order at *19. Apple argues that if we reverse the court on that point, this factor will also tip in its favor. We agree. Because we find the district court’s finding that Apple did not suffer any irreparable harm stemming from its losses of sales was predicated on a legal error, it also erred when it found that this factor weighs against an injunction. This factor strongly weighs in favor of Apple because, as the district court found, the extent of Apple’s downstream and network effect losses are very difficult to quantify.
+ 
+
+C. Balance of Hardships
+[17] To satisfy the third eBay factor, the patentee must show that the balance of hardships weighs in its favor. 547 U.S. at 391, 126 S.Ct. 1837. This factor “assesses the relative effect of granting or denying an injunction on the parties.” i4i, 598 F.3d at 862. Because “Apple’s proposed injunction targets only specific features, not entire products” and contains a 30–day “sunset provision,” Injunction Order at *20–21, and because “Samsung repeatedly told the jury that designing around the asserted claims of the three patents at issue would be easy and fast,” id. at *22, the district court found that Samsung would “not face any hardship” from Apple’s proposed injunction, id. at *19. The court, reasoning that “requiring a patentee to ‘compete against its own patented invention ... places a substantial hardship’ on the patentee,” found that Apple would suffer hardship without an injunction. Id. at *22 (quoting Robert Bosch LLC v. Pylon Mfg. Corp., 659 F.3d 1142, 1156 (Fed.Cir.2011)). The court therefore found that this factor weighed in Apple’s favor. We agree. This factor strongly favors granting Apple the relief requested.
+ 
+Samsung argues that the district court erred in finding the balance of hardships favors the entry of an injunction. It argues that Apple will not suffer any hardship in the absence of an injunction because the patented features are minor components in a complex device. Samsung argues that it and its carriers, retailers, and customers would suffer substantial hardship if an injunction issued, particularly because the proposed injunction would extend to unadjudicated products with software that is “capable of implementing” *646 the infringing features or other features “not colorably different.” Appellees’ Br. 55 & n. 14 (quoting J.A. 2698).
+ 
+The district court did not abuse its discretion in finding the balance of hardships favors an injunction; to the contrary, this factor strongly weighs in favor of an injunction. Samsung’s infringement harmed Apple by causing lost market share and lost downstream sales and by forcing Apple to compete against its own patented invention, which “places a substantial hardship” on a patentee, especially here where it is undisputed that it is essentially a two-horse race. Bosch, 659 F.3d at 1156. Furthermore, as the district court found, Apple’s proposed injunction was narrowly tailored to cause no harm to Samsung other than to deprive it of the ability to continue to use Apple’s patented features. Injunction Order at *21–22. The court has overseen the Apple–Samsung litigation from the beginning and has worked extensively with parties and their counsel. Given the court’s familiarity with the infringing products, the parties, and their history of litigation, it is best-positioned to determine the impact of the scope of the injunction on the parties. Furthermore, the district court presided over a trial in which Samsung’s witnesses and counsel assured the jury that design-arounds to the infringing features would be “simple or already exist.” Id. at *20. And Samsung asserted at oral argument that none of the products it currently sells practice the ′ 721 patent or the ′172 patent, and that only a single product practices the ′647 patent. Oral Argument at 31:10–31:48, available at http://oralarguments.cafc.uscourts.gov/default.aspx?fl=2014–1802.mp3. As we wrote in Douglas Dynamics, when the infringer “ha[s] a non-infringing alternative which it could easily deliver to the market, then the balance of hardships would suggest that [it] should halt infringement and pursue a lawful course of market conduct.” 717 F.3d at 1345. On this record, it is clear—Samsung will suffer relatively little harm from Apple’s injunction, while Apple is deprived of its exclusivity and forced to compete against its own innovation usurped by its largest and fiercest competitor. Given the narrow feature-based nature of the injunction, this factor strongly weighs in favor of granting Apple this injunction.
+ 
+
+D. Public Interest
+[18] The fourth eBay factor requires the patentee to show that “the public interest would not be disserved by a permanent injunction.” 547 U.S. at 391, 126 S.Ct. 1837. The district court found that the public interest “favor[s] the enforcement of patent rights to promote the encouragement of investment-based risk,” particularly where, as here, the patentee’s proposed injunction is narrow in scope and includes a sunset provision limiting the impact of the injunction on consumers. Injunction Order at *22–23 (quotation marks omitted). The court also noted that “an injunction may prompt introduction of new alternatives to the patented features.” Id. at *23. It therefore concluded that the public interest factor favors Apple.
+ 
+Samsung argues that the district court erred in finding the public interest weighs in favor of an injunction. Samsung also argues that the proposed injunction, while styled as narrow, is actually quite broad and would lead to the removal of products from store shelves, which it argues would harm the public interest. Samsung also argues that the public has a strong interest in competition and the resulting variety of product choices, and that the cost of administering this injunction would be great.
+ 
+*647 The district court did not abuse its discretion in finding that the public interest favors an injunction. Indeed, the public interest strongly favors an injunction. Samsung is correct—the public often benefits from healthy competition. However, the public generally does not benefit when that competition comes at the expense of a patentee’s investment-backed property right. To conclude otherwise would suggest that this factor weighs against an injunction in every case, when the opposite is generally true. We base this conclusion not only on the Patent Act’s statutory right to exclude, which derives from the Constitution, but also on the importance of the patent system in encouraging innovation. Injunctions are vital to this system. As a result, the public interest nearly always weighs in favor of protecting property rights in the absence of countervailing factors, especially when the patentee practices his inventions. “[T]he encouragement of investment-based risk is the fundamental purpose of the patent grant, and is based directly on the right to exclude.” Sanofi–Synthelabo v. Apotex, Inc., 470 F.3d 1368, 1383 (Fed.Cir.2006) (quotation marks omitted).
+ 
+This is not a case where the public would be deprived of Samsung’s products. Apple does not seek to enjoin the sale of lifesaving drugs, but to prevent Samsung from profiting from the unauthorized use of infringing features in its cellphones and tablets. Again, Apple seeks only a narrow feature-based injunction commensurate in scope with its monopoly rights. And the evidence of record is that Samsung can effect the removal of the patented features without recalling any products or disrupting customer use of its products. Apple has not attempted to expand the scope of its monopoly. Given the important public interest in protecting patent rights, the nature of the technology at issue, and the limited nature of the injunction, this factor strongly favors an injunction.
+ 
+
+CONCLUSION
+The district court erred when it found the first two eBay factors weighed against an injunction. Although the evidence may not make a strong case of irreparable harm, Apple has satisfied the causal nexus requirement and therefore established irreparable harm.2 Apple has also established that the harm it will suffer is not easily compensable at law. Moreover, as the district court found, the balance of hardships and public interest weigh strongly in favor of an injunction. Given this, the district court abused its discretion when it did not enjoin Sam-sung’s infringement. If an injunction were not to issue in this case, such a decision would virtually foreclose the possibility of injunctive relief in any multifaceted, multifunction technology. We vacate the district court’s order denying Apple’s proposed injunction and remand for further proceedings consistent with this opinion.
+ 
+VACATED AND REMANDED
+ 
+
+COSTS
+
+REYNA, Circuit Judge, concurring.
+
+The Constitution bestows on Congress the power to secure inventors’ “exclusive Right[s]” to their inventions. U.S. Const. Art. I, § 8. The utility of this power would, according to James Madison, “scarcely be questioned” as the rights to inventions *648 “belong to the inventors.” The Federalist No. 43, p. 214 (L. Goldman ed. 2008) (J. Madison). In the years since Congress first exercised this power and enacted the first Patent Act in 1790, courts have varied in how they have protected the right to exclude, first preferring damages, then granting injunctions routinely, and recently rigorously applying the irreparable injury factor of the four-part eBay test. The court today correctly concludes that Apple, Inc. is entitled to a narrow, feature-based injunction against Samsung1 because Samsung’s infringement will likely cause Apple to lose downstream sales. I agree with this decision and note that it leaves open the door for obtaining an injunction in a case involving infringement of a multi-patented device, a door that appears near shut under current law.
+ 
+I write to add that I believe Apple satisfied the irreparable injury factor based on Samsung’s infringement on Apple’s right to exclude and based on the injury that the infringement causes Apple’s reputation as an innovator. There is no dispute that Samsung has infringed Apple’s right to exclude and, absent an injunction, it will likely continue to do so. I believe that such a finding satisfies the irreparable harm requirement because the infringement is, in this case, “irreparable.” On reputational injury, the roles are reversed: it is undisputed that such an injury is irreparable; the question is whether this injury will likely occur. As I explain below, I believe that the record here—particularly the toe-to-toe competition between Apple and Samsung, Apple’s reputation as an innovator, and the importance of the patents-in-suit to that reputation—establishes that Apple will likely suffer irreparable harm to its reputation.
+ 
+
+I. Injury to The Right to Exclude is an “Injury” That is, in this Case, “Irreparable.”
+A patentee’s rights spring forth from the Constitution, which gives Congress the power to “secur[e] for limited Times to ... Inventors the exclusive Right to their respective ... Discoveries.” U.S. Const. Art. I, § 8. Under this grant of authority, Congress has given patentees “monopoly rights.” F.T.C. v. Actavis, Inc., ––– U.S. ––––, 133 S.Ct. 2223, 2240, 186 L.Ed.2d 343 (2013) (Roberts, C.J., dissenting). That is, the patentee obtains the right to invoke the “State’s power” to prevent others from engaging in certain activities. Zenith Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100, 135, 89 S.Ct. 1562, 23 L.Ed.2d 129 (1969). Those activities include “making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States,” and if the invention is a process, “using, offering for sale or selling throughout the United States, or importing into the United States, products made by that process.” 35 U.S.C. § 154(a)(1).
+ 
+These monopoly rights do not necessarily entitle a patentee to injunctive relief. At least as far back as the 17th century, courts have required a showing of “irreparable” injury before granting injunctive relief. See Laycock, Douglas, Death of the Irreparable Injury Rule, 103 Harv. L.Rev. 687, 699 (1990) (“Laycock”). After Congress passed the first Patent Act in 1790 up until 1819, American courts generally found that the patent statutes provided damages as the remedy for patent infringement, meaning that infringement of patent rights did not constitute an irreparable injury. See Root v. Lake Shore & M.S. Ry. Co., 105 U.S. 189, 192, 26 L.Ed. 975 (1881); Frankfurter, Felix, The Business *649 of the Supreme Court of the United States—A Study in the Federal Judicial System, 39 Harv. L.Rev. 587, 616–17 (1926). In 1819, Congress specifically granted courts the authority to grant injunctions in cases involving patent infringement. Root, 105 U.S. at 192. From this point until the 20th century, courts granted injunctions in patent cases where the defendant was shown to be likely to continue to infringe. Robinson, William C., The Law of Patents for Useful Inventions, § 1088 (1890); Lipscomb, Ernest Bainbridge, III, Walker on Patents, § 25:33 (1988). In the early 20th century, courts went further, holding that the default rule was that monetary damages were insufficient to compensate for infringement on the right to exclude. E.g., Am. Code Co. v. Bensinger, 282 F. 829, 834 (2d Cir.1922) (“In cases of infringement of copyright, an injunction has always been recognized as a proper remedy, because of the inadequacy of the legal remedy.”) Our court followed suit, holding that where “validity and continuing infringement have been clearly established,” irreparable injury is presumed. Smith Intern., Inc. v. Hughes Tool Co., 718 F.2d 1573, 1581 (Fed.Cir.1983). We eventually created a default rule that an injunction would issue when infringement has been established, absent a “sound” reason for denying it. Richardson v. Suzuki Motor Co., 868 F.2d 1226, 1246–47 (Fed.Cir.1989), cert. denied, 493 U.S. 853, 110 S.Ct. 154, 107 L.Ed.2d 112 (1989).
+ 
+In eBay Inc. v. MercExchange, L.L.C., the Supreme Court rejected that default rule, holding that a plaintiff seeking a permanent injunction must satisfy the four-factor test historically employed by courts of equity, including establishing irreparable injury. 547 U.S. 388, 391, 393, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006). Though we read eBay to overrule our presumption of irreparable injury, we cautioned that courts should not necessarily “ignore the fundamental nature of patents as property rights granting the owner the right to exclude.” Robert Bosch LLC v. Pylon Mfg. Corp., 659 F.3d 1142, 1149 (Fed.Cir.2011). Yet our recent cases have done precisely that, ignoring the right to exclude in determining whether to issue an injunction. Indeed, our opinions in the most recent cases between Apple and Samsung do not even mention the right to exclude as a possible basis for injunctive relief.2
+ 
+I believe that this recent trend extends eBay too far. Infringement on the right to exclude is, in my view, an “injury” that is sometimes irreparable. An “injury” is not limited to tangible violations but rather encompasses “violation[s] of another’s legal right, for which the law provides a remedy; a wrong or injustice.” Injury, Black’s Law Dictionary (10th ed.2014) (emphasis added). Courts have routinely granted injunctions when constitutional rights are at issue. 11A Charles Alan Wright et al. Federal Practice & Procedure § 3942 (3d ed.). Nor is this approach limited to rights derived from the Constitution—courts have granted injunctions against private parties based on various statutorily-granted rights. See, e.g., E.E.O.C. v. Cosmair, Inc., L’Oreal Hair Care Div., 821 F.2d 1085, 1090 (5th Cir.1987) (employment discrimination); Park Vill. Apartment Tenants Ass’n v. Mortimer Howard Trust, 636 F.3d 1150, 1152 (9th Cir.2011) (statutory housing rights); Armstrong v. Schwarzenegger, 622 F.3d 1058 (9th Cir.2010) (ADA rights).
+ 
+*650 There is no reason to treat patent rights differently. As the majority aptly puts it, the right to exclude is “important.” Maj. Op. at 642. The patentee earned this right by disclosing a useful invention to the public. See 35 U.S.C. §§ 101, 112. Madison recognized the balance between the right to exclude and the benefit extended to society by the disclosure included in a patent as a “public good.” The Federalist No. 43, p. 214 (L. Goldman ed. 2008) (J. Madison). When courts do not force the public to hold up its end of the bargain they inhibit rather than “promote” the “progress of the useful arts.” U.S. Const. Art. I, § 8. Indeed, Chief Justice Roberts’s concurrence in eBay, discussed in more detail below, implicitly acknowledges that infringement on the right to exclude is an injury for which an injunction can be granted. eBay, 547 U.S. at 395, 126 S.Ct. 1837.
+ 
+Such an injury can be irreparable. In this context, “irreparable” does not mean that the injury cannot be remedied at all. If that were the case, the plaintiff would not have standing to sue. Lujan v. Defenders of Wildlife, 504 U.S. 555, 561, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992). What makes an injury “irreparable” is that legal damages, i.e., monetary relief, cannot remedy the harm. See Laycock at 694. Courts have provided several reasons why this may be the case, including instances in which injury is repeated or threatened, substitutes are difficult to obtain, or damages are difficult to measure. See, e.g., Mark P. Gergen et al., The Supreme Court’s Accidental Revolution? The Test for Permanent Injunctions, 112 Colum. L.Rev. 203, 237 (2012) (“Gergen”).
+ 
+The last of these concerns was the reason courts traditionally found infringement of intellectual property rights to be irreparable. As Chief Justice Roberts explained in his eBay concurrence:
+From at least the early 19th century, courts have granted injunctive relief upon a finding of infringement in the vast majority of patent cases. This “long tradition of equity practice” is not surprising, given the difficulty of protecting a right to exclude through monetary remedies that allow an infringer to use an invention against the patentee’s wishes—a difficulty that often implicates the first two factors of the traditional four-factor test.
+eBay, 547 U.S. at 395, 126 S.Ct. 1837. As Justice Kennedy explained, however, this traditional model does not always apply, particularly when the patentee is a non-practicing entity:
+An industry has developed in which firms use patents not as a basis for producing and selling goods but, instead, primarily for obtaining licensing fees. For these firms, an injunction, and the potentially serious sanctions arising from its violation, can be employed as a bargaining tool to charge exorbitant fees to companies that seek to buy licenses to practice the patent. When the patented invention is but a small component of the product the companies seek to produce and the threat of an injunction is employed simply for undue leverage in negotiations, legal damages may well be sufficient to compensate for the infringement and an injunction may not serve the public interest.
+Id. at 396–97, 126 S.Ct. 1837. Where the patentee is an entity that uses patents primarily to obtain licensing fees, its business objectives are premised on monetary relief being sufficient to compensate for infringement. The relationship between the patentee and the infringer is also relatively simple, making damages relatively straightforward to calculate.
+ 
+That is not the case here. Apple’s business objectives encompass far more than *651 obtaining licensing fees. And the relationship between Apple and Samsung is complex. Apple and Samsung “fiercely” compete in the mobile device hardware and software markets. The device hardware market includes multiple competitors, but Apple and Samsung stand alone as the market leaders. They also compete in the device operating system market, where Apple’s “iOS” operating system competes with Google, Inc.’s “Android” operating system.
+ 
+Apple effectively created the smartphone market when it launched its iPhone in June 2007. According to Phil Schiller, the head of Apple’s Worldwide Marketing Group, Apple sold 300,000 units during its first quarter. J.A. 10447. This figure rose to over 10 million at the start of 2009. Id. According to Mr. Schiller, what distinguished Apple’s phones was that they were controlled completely by software (as opposed to buttons on the phone), which allowed users to access media and the Internet. J.A. 10449. Apple released its tablet, the iPad, in 2010, and it too enjoyed great success. J.A. 10451. When Samsung entered the smartphone market, releasing its own line of “Galaxy” smartphones, Apple took notice. To Mr. Schiller, Samsung’s smartphones seemed like an “attempt to copy the iPhone.” J.A. 10470. By August of 2011, when Apple was releasing version 5 of iOS, the relationship between Apple and Samsung, in Mr. Schiller’s words, “wasn’t a good relationship.” J.A. 10473. Apple and Samsung had created an “extremely competitive environment.” J.A. 10473. Apple and Samsung were at the time of trial, according to Mr. Schiller, “head-to-head” competitors in a variety of retail markets for smartphones and tablets. J.A. 10469.
+ 
+From Samsung’s perspective, the competition was equally vigorous. In its internal marketing documents, Samsung listed one of its 2010 objectives in market reputation terms to “overcome fast follower status and establish Samsung as a challenger to Apple.” J.A. 11703. In Samsung’s view, the marketplace mainly involved competition between devices that run Apple’s iOS and devices that run Google’s Android. J.A. 11708. Indeed, Sam-sung’s counsel asserted in its opening statement that “Apple has sued ... the biggest user of Google’s Android software and the most successful manufacturer of Android phones, Samsung, to try to prevent it from selling phones with that leading Android software....” J.A. 10361. Samsung, however, also attempted to distinguish its devices from Apple’s through hardware advancements, including, for example, larger screen sizes, near field communications, and allowing for the use of a stylus. J.A. 11710. Despite this fierce, toe-to-toe competition, Apple and Samsung are also business partners. Samsung supplies about 25 percent of the components in the iPh-one. J.A. 11712.
+ 
+This evidence demonstrates that the relationship between Apple and Samsung is dramatically different from a non-practicing entity and an infringer. Apple’s business objective is not merely to obtain licensing fees from Samsung. Rather, it seeks to firmly establish and grow its market share in the rapidly evolving smartphone and tablet market. In a marketplace this complex, it is difficult, if not impossible, for a court to accurately value Apple’s right to exclude. How, for example, does Apple value its rights to exclude relative to other means for competing against Samsung? What effect does the infringement have on how consumers view subsequently released products? How would Apple’s existing business relationship with Samsung factor into this valuation? Courts are not equipped to answer these questions.
+ 
+*652 In sum, a jury found that Samsung infringed Apple’s right to exclude. Apple has been injured and, absent an injunction, that injury will likely continue. eBay and its progeny explain that such a finding is not necessarily sufficient to meet the irreparable harm requirement. But that does not mean we should ignore this injury. In view of Apple’s and Samsung’s unique competition, I would conclude a court cannot accurately determine the extent of Apple’s injury, and thus, I would find that Samsung’s infringement of Apple’s patent rights irreparably injures Apple.
+ 
+
+II. Apple has shown that Samsung’s Infringement will Likely Injure Apple’s Reputation as an Innovator.
+Having determined that Apple established irreparable injury via lost downstream sales, the majority opinion does not reach the issue of reputational injury. Maj. Op. at 647, n. 2. I would reach this issue and hold, in the alternative, that Samsung’s continued infringement would irreparably injure Apple’s reputation as an innovator.
+ 
+To establish any irreparable injury, this court has generally required the plaintiff to establish a “causal nexus”: “[t]o show irreparable harm, it is necessary to show that the infringement caused harm in the first place.” Apple I, 678 F.3d at 1324 (emphasis added). The problem with this formulation is that it necessarily focuses on the past, and in doing so effectively requires the plaintiff to show a near certainty of irreparable harm and not a “likelihood” of harm. As the Supreme Court explained more than sixty years ago, injunctive relief addresses future harms and the past is only relevant as an indicator of the future:
+The sole function of an action for injunction is to forestall future violations.... All it takes to make the cause of action for relief by injunction is a real threat of future violation or a contemporary violation of a nature likely to continue or recur.... In a forward-looking action such as this, an examination of ‘a great amount of archeology’ is justified only when it illuminates or explains the present and predicts the shape of things to come.
+United States v. Or. State Med. Soc., 343 U.S. 326, 333, 72 S.Ct. 690, 96 L.Ed. 978 (1952) (Jackson, J.). In Winter v. Natural Resources Defense Council, Inc., the Court further explained that a plaintiff must show that irreparable injury is “likely” in the absence of an injunction. 555 U.S. 7, 22, 129 S.Ct. 365, 172 L.Ed.2d 249 (2008).3 While “likely” is more demanding than “possible,” it does not require a showing that the injury is certain or nearly certain. Small v. Avanti Health Sys., LLC, 661 F.3d 1180, 1191 (9th Cir.2011). Rather, the plaintiff must show that irreparable injury is more likely than not to occur absent an injunction. Cf. Trebro Mfg., Inc. v. Firefly Equip., LLC, 748 F.3d 1159, 1166 (Fed.Cir.2014) (explaining that “likely” success on the merits means “more likely than not”).
+ 
+A plaintiff can meet this burden by showing that it will likely suffer an injury and, separately, satisfy the nexus requirement by showing that this injury is causally linked to the infringement. The plaintiff’s evidence often comes in the form of empirical data showing both a past injury and a causal link between that injury and *653 the past infringement.4 The district court faults Apple for not following this methodology here, finding significant that Apple’s data do not empirically show that its reputation had been harmed. Apple Inc. v. Samsung Elecs. Co. Ltd., No. 12–CV00630, 2014 WL 7496140, at *15–17 (N.D.Cal. Aug. 27, 2014). But our case law does not require a plaintiff to follow this methodology. A plaintiff can instead rely on a theory of causation to show that it will be irreparably harmed. In other words, the plaintiff can show both the presence of irreparable injury and the causal nexus by establishing circumstances under which infringement would more likely than not cause the claimed injury. This was how the patentee proved irreparable injury in Douglas Dynamics, LLC v. Buyers Products Co., 717 F.3d 1336 (Fed.Cir.2013).
+ 
+In that case, the patentee, Douglas Dynamics, and infringer, Buyer Products, were competitors in the market for snowplow assemblies often mounted on the front of a truck. Id. at 1339. Douglas Dynamics had about sixty percent of the market share and was recognized as being an innovator. Id. The patented features were recognizable by consumers, thus influencing how consumers viewed Douglas Dynamics. The patented features included a mounting frame that did not extend beyond the vehicle’s bumper, reducing the likelihood of inadvertent damage and allowing drivers to “remove heavy portions of the snowplow assembly from the vehicle when the plow is not in use, thus reducing stress on the vehicle’s suspension.” Id.
+ 
+We held that the district court abused its discretion in finding that Douglas did not meet the irreparable injury factor. Id. In particular, we held—without any empirical evidence of injury or causal nexus—that the district court’s finding that Douglas Dynamics’s reputation would not be injured by the infringement was clearly erroneous. Id. at 1344. Infringement, we explained, can harm a company’s reputation, “particularly its perception in the marketplace by customers, dealers, and distributors.” Id. Douglas Dynamics’s reputation would “certainly be damaged” if customers found the patented features appearing in a competitor’s product. Id. at 1344–45. Douglas Dynamics would be perceived as less of an innovator because its competitors could incorporate the patented features without noting that they belonged to Douglas Dynamics. Id. at 1344. Exclusivity, we further explained, is “an intangible asset that is part of a company’s reputation.” Id. at 1345. “Where two companies are in competition against one another, the patentee suffers the harm—often irreparable—of being forced to compete against products that incorporate and infringe its own patented inventions.” Id. Where the patentee and the infringer are toe-to-toe competitors in a two-competitor marketplace, the loss of reputation caused by infringement marks a gain of reputation of the infringer as an innovator.
+ 
+On the record before us, I would hold that Apple has shown that it will likely suffer irreparable injury. First, Apple and Samsung are direct competitors in the smartphone and tablet market. We have repeatedly held after eBay that competition between the patentee and the infringer, particularly direct competition, strongly militates toward a finding of irreparable harm. As noted above, in Douglas Dynamics, we focused on the competition between the patentee and the infringer. Id. In Presidio Components, we explained that direct competition is “one factor suggesting strongly the potential for irreparable *654 harm.” Presidio Components Inc. v. Am. Tech. Ceramics Corp., 702 F.3d 1351, 1363 (Fed.Cir.2012) (internal citation omitted). And in Trebro Manufacturing, we explained that because the record showed that the patentee and the infringer were direct competitors, it “strongly show[ed] a probability for irreparable harm.” Trebro Mfg. v. Firefly Equipment, 748 F.3d 1159, 1171 (Fed.Cir.2014). This factor is especially strong here because Apple and Samsung are toe-to-toe competitors in a unique marketplace.
+ 
+Second, like Douglas Dynamics, Apple’s reputation as an innovator is critical to its ability to compete against Samsung. As the district court explained, Apple has a strong reputation as being an innovator in the smartphone and tablet market. See 2014 WL 7496140 at *15. Samsung appears to concede this point, going so far as to refer to Apple as an “amazing innovative company” in its opening statement at trial. J.A. 10361. Mr. Schiller testified that Apple prizes this reputation, explaining that the “very DNA” of Apple is that it is an innovator that “creates unique differentiations in [its] products that customers value.” J.A. 10453. He further explained that Apple’s marketing strategy was “The Product as Hero.” J.A. 10466. That is, the features of the product are the emphasis of the marketing, not, e.g., price, customer service, etc. See id.
+ 
+The patents at issue here cover the types of features that made Apple’s products the “hero.” These patents cover features that consumers regularly interact with, thereby influencing how consumers perceive Apple, not latent features which consumers may not be aware of. Douglas Dynamics, 717 F.3d at 1339. For example, U.S. Patent No. 5,946,647 discloses software that allows a user to take action with respect to a detected phone number by dialing a phone number without exiting one program and entering another. ′647 patent col. 5 ll. 38–50. These features were so important that Apple included it across all of its products, including iPhones and iPads. J.A. 10794. U.S. Patent No. 8,046,721 discloses a device that a user unlocks with gestures. ′721 patent col. 8 ll. 49–55. This feature was one of the features that Apple marketed in its first ads. It represented a “great beginning” that customers often utilize. J.A. 10433–34, 21014, 10602–04. Similarly, U.S. Patent No. 8,074,172 discloses a method for automatically correcting spelling errors as a user types words using a touchscreen device, a boon for those who would accept a misspelled word in favor of looking up its correct spelling. ′172 patent col. 9 ll. 11–27.
+ 
+In Douglas Dynamics, we explained that when customers find the patentee’s innovations appearing in a competitor’s products, the patentee’s reputation as an innovator will “certainly” be damaged. Douglas Dynamics, 717 F.3d at 1344–45. That reasoning applies with great force here. Though the parties dispute whether Apple practices every aspect of the claimed inventions, it is essentially undisputed that Apple’s products include similar features that compete with the patented features, as practiced in Samsung’s products. The presence of the patented features in the products of Apple’s chief competitor communicates a message that Apple’s corresponding features are commonplace, not innovative. Samsung’s infringement thus neutralizes the beneficial impact that Apple’s corresponding features have in the mind of the consumer. This injury is amplified here because of the toe-to-toe competition between Apple and Samsung. In such a market, even otherwise minor differences between competitors are magnified as each competitor attempts to gain some advantage over the *655 other, such as the perception that one is a greater innovator than the other.
+ 
+Apple’s reputational injury is all the more important here because of the nature of Apple’s reputation, i.e., one of an innovator (as opposed to, e.g., a producer of low-cost goods). Consumers in the smartphone and tablet market seek out innovative features and are willing to pay a premium for them. Sometimes consumers in this market will even prioritize innovation over utility. A reputation as an innovator creates excitement for product launches and engenders brand loyalty. Samsung recognized the importance of such a reputation and set its sights not on developing more useful products, but rather to overcome the perception that it was a “fast follower.” Apple, 2014 WL 7496140, at *8.
+ 
+Samsung argues that some or all of the patented features not being exclusive to Apple “defeats any claim of reputational harm.” Appellee Br. 38. Apple appears to concede that it has license agreements with Nokia and HTC.5 Appellant Br. 46. Apple also appears to have license agreements with Microsoft and IBM, but Samsung did not rely on these licenses before the district court. 2014 WL 7496140 at *33, n. 7. A patentee’s willingness to license can militate against a finding of irreparable harm, but it does not foreclose such a finding. Acumed LLC v. Stryker Corp., 551 F.3d 1323, 1328 (Fed.Cir.2008) (“A plaintiff’s past willingness to license its patent is not sufficient per se to establish a lack of irreparable harm if a new infringer were added.”) (citing eBay, 547 U.S. at 393, 126 S.Ct. 1837). In the context of reputational injury, if patented features appear in products other than the infringer’s products, the marginal impact of the infringer’s use of those features may be minimized. The licensed use of patented features is sufficient to make those features appear commonplace, and thus the infringer’s use of those features has little or no impact. This reasoning does not apply here because there is no evidence that any of the licensees practiced any of the patented features. Samsung counters that it is Apple’s burden to produce evidence tending to prove the negative, i.e., to produce “evidence that Microsoft and HTC cannot and do not use the patented features.” Appellee Br. 38. Samsung’s argument misunderstands the burden applicable in this case. In requesting a permanent injunction, Apple of course bears the burden of production. Robert Bosch, 659 F.3d at 1154. Apple met this burden with the evidence cited above—particularly, the unique, direct, and fierce competition between the parties, Apple’s reputation as an innovator, and the importance of the patented features to that reputation. If Samsung seeks to rebut this evidence with instances of the use of the patented features by other parties, it was Samsung’s burden to show that this occurred. To hold otherwise would mean that proof of a lack of licensing activity is a prerequisite to injunctive relief, a position the Supreme Court rejected in eBay. 547 U.S. at 393, 126 S.Ct. 1837.6
+ 
+Nor does the presence of the licensing agreements indicate that Apple considered monetary remedies sufficient to compensate it for Samsung’s infringement. As *656 the district court found, the Nokia and HTC licenses are litigation settlements. 2014 WL 7496140 at *33. Though these agreements may allow for some form of monetary compensation, they have a fundamentally non-monetary undergirding—the end of a litigation between the parties. In addition, the licenses themselves indicate a strong desire on the part of Apple to carefully guard its own user experience. The HTC license excluded products that were “clones” of Apple’s products, and the license to Nokia only applied for a “standstill” period. Id. Most notably, the licensed companies are not Apple’s chief competitor. Thus, even if the licenses indicate a willingness to accept monetary compensation from Nokia and HTC, they would not show that monetary compensation is sufficient in this case. As we explained in Acumed, the “identity of the past licensees, the experience in the market since the licenses were granted, and the identity of the new infringer” all affect whether monetary damages are sufficient to compensate for infringement. 551 F.3d at 1328.
+ 
+Samsung also argues that a reliance on the factors described in Douglas Dynamics would create a “per se” rule of the sort that the Supreme Court rejected in eBay. Appellee Br. 30. Indeed, a theme that runs through both parties’ briefing is that the other side’s reasoning would impermissibly create a per se rule. Both sides are of course correct that eBay rejected this court’s “categorical grant” of injunctions absent exceptional circumstances. 547 U.S. at 394, 126 S.Ct. 1837. But relying on factors from past cases to determine whether a patentee will likely suffer irreparable harm is not the creation of a per se rule; it is the application of stare decisis. As Justice Holmes famously stated, “a page of history is worth a volume of logic.” N.Y. Trust Co. v. Eisner, 256 U.S. 345, 349, 41 S.Ct. 506, 65 L.Ed. 963 (1921) (quoted in eBay, 547 U.S. at 395, 126 S.Ct. 1837 (Roberts, C.J., concurring)).
+ 
+
+III. CONCLUSION
+I would hold that Samsung’s infringement amounted to an irreparable injury to Apple’s right to exclude. That injury is sufficient, based on the facts of this case, to grant an injunction. Apple also has shown that Samsung’s infringement will likely injure its reputation as an innovator in the fiercely competitive smartphone and tablet market.
+ 
+
+PROST, Chief Judge, dissenting.
+
+This is not a close case. One of the Apple patents at issue covers a spelling correction feature not used by Apple. Two other patents relate to minor features (two out of many thousands) in Apple’s iPhone—linking a phone number in a document to a dialer, and unlocking the screen. Apple alleged that it would suffer irreparable harm from lost sales because of Samsung’s patent infringement. For support, Apple relied on a consumer survey as direct evidence, and its allegations of “copying” as circumstantial evidence. The district court rejected both evidentiary bases. On the record of this case, showing clear error in the district court’s factual findings is daunting, if not impossible. Not surprisingly, Apple principally presses a novel legal theory in this appeal: that the narrowness of its injunction request eliminated its burden to show nexus between its alleged irreparable harm and Samsung’s patent infringement. The majority correctly rejects this theory and the case should have ended there.
+ 
+So why doesn’t it? Because the majority finds legal error by the district court where none exists. Then, under the guise of the purported “legal error,” the majority reverses without deference the district *657 court’s rejection of Apple’s survey evidence, never mentioning that the survey was rejected by the district court because Samsung’s serious challenges to its techniques and conclusions were unrebutted by Apple. The majority further relies on “evidence,” found nowhere in the record, that carriers or users preferred having the patented features on Samsung’s phones. It also concludes—contrary to our case law—that Apple’s alleged evidence of “copying” is sufficient to show nexus to Apple’s alleged lost-sales. Because the majority here reaches a result that comports with neither existing law nor the record in this case, I must respectfully dissent.
+ 
+
+A
+Injunctions in patent cases, as in other areas of law, require evaluating the traditional four factors, including irreparable harm. Following eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006), when the infringing feature is but one of several components of the accused product, our precedent has clearly and consistently required patentees requesting injunctions to establish a nexus between the alleged irreparable harm and the patent infringement. This nexus showing is, of course, an indispensable pre-requisite in a case such as this, where, we are told, the infringed features are merely three of potentially hundreds of thousands of patented features in a single product. Requiring a showing of nexus is necessary to prevent undue leverage wielded by patents on minor features.
+ 
+
+B
+Turning to the case, the majority’s first error is its determination that the district court’s analysis was legally erroneous. Specifically, the majority states that, regarding Apple’s alleged irreparable harm from lost sales, “it was legal error for the district court to effectively require Apple to prove that the infringement was the sole cause of the lost downstream sales.” Majority Op. at 641; see also id. at 641–42, 644. But the majority quotes nothing from the district court’s opinion to show there is such an error. And for good reason: there is nothing. Hence, there is no error.
+ 
+The words “sole” and “predominant” are not even present in the district court’s opinion.1 There is simply nothing in the district court’s opinion that explicitly or implicitly required Apple to show that the patented features were the “sole,” “predominant,” or “exclusive” reasons for purchasing Samsung’s products. Nevertheless, the majority concludes that the district court’s rejection of Apple’s direct *658 evidence—the consumer survey and testimony by its expert, Dr. Hauser—“seems to be predicated on an incorrect understanding of the nature of the causal nexus requirement, as discussed above,” i.e., the so-called “legal error” by the district court. Id. at 644.
+ 
+In reality, however, the district court simply weighed the evidence and found it lacking: “[t]he weight of the evidence shows that Apple’s conjoint study fails to demonstrate that the features claimed in the ′647, ′721, and ′172 patents drive consumer demand for Samsung’s infringing products.” Injunction Order at *13. The district court reasoned that Apple made “only cursory arguments” about Dr. Hauser’s survey, while in contrast, Samsung challenged its myriad deficiencies including that the survey “omitted the major factors and major drivers of sales,” “overstated the scope of the claimed features and improperly included noninfringing alternatives,” and “produced nonsensical results, such as the conclusion that the patented word correction feature (corresponding to the ′172 patent) was worth about $102 on a phone that cost $149.” Id. at *12–13. The district court therefore found that Apple “d[id] not rebut Samsung’s critiques of Dr. Hauser’s techniques or show that Apple’s conjoint study in this case establishe[d] a causal nexus.” Id. at *13.
+ 
+In making these factual findings, the district court followed our case law faithfully. Nothing in the district court’s opinion suggests that it deviated from our precedent. Rather, it is the majority that deviates from our precedent by repeating as a mantra the phrase “some connection” in Apple Inc. v. Samsung Electronics Co., 735 F.3d 1352 (Fed.Cir.2013) (“Apple III ”) detached from the causal nexus standard explained in our prior cases. See Majority Op. at 640, 640–41, 641 n. 1, 641–42, 644. The phrase “some connection” was not made in a vacuum, but instead in the context of our prior decisions, which goes ignored by the majority here.
+ 
+Specifically, in Apple II, we explained that the connection between harm and infringement must be more than “insubstantial:”
+It is not enough for the patentee to establish some insubstantial connection between the alleged harm and the infringement and check the causal nexus requirement off the list. The patentee must rather show that the infringing feature drives consumer demand for the accused product.
+Apple Inc. v. Samsung Elecs. Co., 695 F.3d 1370, 1375 (Fed.Cir.2012) ( “Apple II ”) (emphasis added). And in Apple III, we explained that the requisite connection might be met by evidence showing that the patented feature is a “significant” driver of demand:
+There might be a variety of ways to make this required showing, for example, with evidence that a patented feature is one of several features that cause consumers to make their purchasing decisions. It might also be shown with evidence that the inclusion of a patented feature makes a product significantly more desirable. Conversely, it might be shown with evidence that the absence of a patented feature would make a product significantly less desirable.
+Apple III, 735 F.3d at 1364 (emphasis added).
+ 
+The majority simply dismisses these examples from Apple III on grounds that they “do not delineate or set a floor on the strength of the connection that must be shown to establish a causal nexus” but instead are “examples of connections that surpass the minimal connection necessary.” Majority Op. at 641, n. 1. But divorcing Apple III’s “some connection” *659 language from the examples directly following those words morphs our decision into something it was not. And the majority’s attempt to sidestep that language by relying on Apple III’s cup holder example (illustrating an insufficient connection) fares no better. Id. In this case, Apple’s evidence fell far short of even the meager cup holder example, as Apple failed to offer any defensible evidence on consumers’ willingness to pay even a nominal premium for the patented features over non-infringing alternatives. See Injunction Order at *13 (finding that Apple “d[id] not rebut Samsung’s critiques of Dr. Hauser’s techniques or show that Apple’s conjoint study in this case establishes a causal nexus.”).
+ 
+Perhaps recognizing its error, the majority reissued its opinion in this case to remove the implication that even an insignificant connection might be enough to satisfy the causal nexus requirement.2 While this change is a more accurate reflection of our law, it does not obviate the central problem with the majority’s conclusion in this case. As we stated in Apple III, “[t]he question becomes one of degree, to be evaluated by the district court.” Apple III, 735 F.3d at 1368. Here, the district court weighed the evidence and found it lacking. Injunction Order at *13 (“[T]he weight of the evidence shows that Apple’s conjoint study fails to demonstrate that the features claimed in the ′647, ′721, and ′172 patents drive consumer demand for Samsung’s infringing products.”). The majority identifies no basis for overturning this finding with its conclusion—unsupported by the record—that “Apple did, however, show that ‘a patented feature is one of several features that cause consumers to make their purchasing decisions.’ ” Majority Op. at 644 (quoting Apple III, 735 F.3d at 1364).
+ 
+
+C
+Hamstrung by the deficiencies in Apple’s direct survey evidence, the majority trumpets instead Apple’s “copying” evidence and even creates new evidence:
+Given the strength of the evidence of copying and Samsung’s professed belief in the importance of the patented features as a driver of sales, and the evidence that carriers or users also valued and preferred phones with these features, the district court erred by disregarding this evidence, which further establishes a causal nexus and Apple’s irreparable harm.
+Majority Op. at 643. All three parts of this statement are wrong: there was no evidence at all of such “carriers’ or users’ preference;” there was no “strong” evidence of “copying;” and “copying” alone is not dispositive to establish a causal nexus to Apple’s alleged irreparable harm from lost sales.
+ 
+First, the majority’s “carriers’ or users’ preference” theory was not mentioned at all by the district court. The majority asserts that “[t]he district court acknowledged that Apple presented evidence that carriers (′721 patent) and users (′172 patent), not just Samsung, preferred and valued the infringing features and wanted them in Samsung phones.” Id. at 643. The majority again quotes nothing from the district court’s opinion to show there is *660 such an acknowledgement. Again for good reason: there is nothing. As the majority notes just two sentences later, the district court “failed to appreciate” that the evidence cited by Apple “did not just demonstrate that Samsung valued the patented features, but also that its carriers or users valued the features.” Id. The district court could not have “acknowledged” what it “failed to appreciate.” The majority reaches its creative interpretation of the evidence to find “carriers’ or users’ preference” all on its own.
+ 
+The majority also cites nothing from the record to support its “carriers’ or users’ preference” theory. I can only guess that the majority’s “users (’172 patent) preference” theory is relying on its earlier statement that “users criticized Samsung’s noninfringing keyboards and word-correction designs,” for that is the only reference by the majority to anything in the record in connection with users and the ′172 patent. See id. at 642 (citing J.A. 20985). The document in the Joint Appendix on page 20985, however, is merely an internal Samsung e-mail message that mentioned “carrier issues” with Samsung’s keyboard user interface and referred to a table of information immediately following. Apple’s expert, Mr. Cockburn, concluded from the table that Samsung was proposing to use the feature defined in the ′ 172 patent. J.A. 10700–02 (“And the next column across says ‘shows word in suggestion bar but does not change in the text field until user accepts or hits space.’ So this is the infringing method.”). Immediately below the text interpreted by Apple’s Mr. Cockburn as proposing the infringing feature, Samsung’s employees noted “[Carrier requests additional information] It is not clear exactly what the issue is.” J.A. 20988 (brackets in original). The carrier was concerned about and had some “issue” with Samsung’s proposal to change to the purported infringing feature; the “carrier issues” were not about Samsung’s previous non-infringing method.
+ 
+This e-mail message mentioned no users’ or carriers’ criticisms of Samsung’s non-infringing alterative to the ′172 patent’s method. See J.A. 20983–88, J.A. 10700–02. Moreover, even if this e-mail were to show such criticisms, a negative view towards a non-infringing feature does not prove a positive preference towards the patented feature. Consumers could have preferred many other non-infringing word correction alternatives to the ′172 patent, including Apple’s implementation in its “undisputedly successful” products that do not practice the ′172 patent. See Majority Op. at 638.
+ 
+Likewise, I can only guess that the majority’s “carriers (′721 patent) preference” theory is relying on its earlier statement that “Samsung e-mails not[ed] that certain carriers disapproved of the noninfringing ‘circle lock’ alternative,” for that is the only statement by the majority tying the ′721 patent to carriers. See id. at 642 (citing J.A. 21019). The document in the Joint Appendix on page 21019, however, is merely an internal Samsung e-mail message referring to a single carrier’s “negative response towards our company’s circle lock playing the role of the unlock visual cue.” The majority’s characterization of the negative response as a “disapproval” is much too strong because the response was only preliminary; the carrier had not reviewed an actual working sample and was “request[ing] to review actual working sample....” See id. Moreover, as discussed above, a negative view towards a non-infringing feature does not prove a positive preference for the patented feature. The evidence cited by the majority of a “negative response” does not show that any carrier preferred the feature defined by the ′721 patent. The majority’s “carriers’ or users’ preference” arguments *661 and the factual record it builds for support dissolve upon review of the evidence.
+ 
+What we are therefore left with is the majority’s reliance on the so-called “copying” by Samsung to justify its reversal of the district court’s finding of no irreparable harm from lost sales. And the factual support is weak. The majority concedes as much in concluding that “the evidence may not make a strong case of irreparable harm....” Id. at 647.
+ 
+Nevertheless, the majority states that “[t]he district court wrote that there was evidence ... ‘indicative of copying.’ ” Id. at 642. The quotations upon which the majority relies, however, are not the district court’s findings. Rather, they are the district court’s recitation of Apple’s contentions, with which the district court disagreed. As the district court noted, “[w]hile indicative of copying by Samsung, this evidence alone does not establish that the infringing features drove customer demand for Samsung’s smartphones and tablets.” See Injunction Order at *14 (emphasis added). The district court, of course, did not mean that Apple proved copying for all three patents-in-suit. As the district court noted, Apple did not practice or allege copying of the ′172 patent. Id. The district court also rejected Apple’s only support for its contention that it practiced the ′647 patent. Id. at *15 (finding Apple’s only evidence of its own use “did not directly equate asserted claim 9 of the ′647 patent with ‘data detectors’ ”). Without Apple practicing these patents, Samsung obviously could not have copied the patented features from Apple’s products.
+ 
+The district court also discounted Apple’s evidence of “copying,” because “[s]ome of the cited Samsung documents show that Samsung valued numerous other nonin-fringing features.” See id. In fact, Apple’s evidence of “copying” lacked any connection to the critical details that define the patented features. The handful of internal Samsung documents cited by Apple merely addressed generic or un-patented aspects of Apple’s linking and screen-unlocking features. For example, one internal Samsung analysis recommended that Samsung provide “Links for memo contents such as Web, Call and E-mail, that can be linked.” J.A. 20584. But the asserted ′647 patent claim does not monopolize the general concept of linking from documents; it is limited instead by specific elements such as “display[ing] a pop-up menu of the linked actions” and more. See Injunction Order at *1 (detailing asserted ′647 patent claim 9). None of these critical elements were addressed in Apple’s “copying” evidence.
+ 
+Similarly, another internal Samsung analysis compared Apple’s “unlocking standard by sliding” with Sam-sung’s “unlock[ing] with only a slight flick motion.” J.A. 20347. But the ′721 patent does not deal with an innovation based on the strength and speed of the touch input, i.e., “sliding” versus “slight flick motion;” it requires instead details such as “display[ing] visual cues to communicate a direction of movement of the unlock image required to unlock the device” and more. See Injunction Order at *2 (detailing asserted ′ 721 patent claim 8). Again, none of these critical elements were addressed in Apple’s “copying” evidence. Merely mentioning generic or un-patented aspects of Apple’s linking and screen-unlocking features is clearly insufficient to show copying of the relevant patented features.
+ 
+Finally, the majority concludes that the evidence in this case, which boils down to Apple’s allegations of “copying,” is enough to show nexus to Apple’s alleged irreparable harm from lost sales. This conclusion is contrary to our precedent. As the district court stated, “the parties’ subjective *662 beliefs about what drives consumer demand are relevant to causal nexus, but do not independently satisfy the inquiry.” Id. at *14. Once again, the district court was doing nothing more than faithfully following our case law. We have repeatedly affirmed the district court’s previous rejections of the same allegations of “copying” as insufficient to show irreparable sales-based harm. Apple I at 1327; Apple III at 1367. As we have explained, to prove nexus to the alleged lost-sales, “the relevant inquiry focuses on the objective reasons as to why the patentee lost sales, not on the infringer’s subjective beliefs as to why it gained them (or would be likely to gain them).” Apple I at 1327–28.
+ 
+The district court was well within its discretion to reject Apple’s contentions of “copying.” There is simply no basis for this court, on an abuse of discretion review, to reverse the district court’s denial of Apple’s injunction request.
+ 
+
+D
+In sum, the majority states that “the evidence [of consumer preferences and buying choices] is to be determined on a case-by-case basis based on what the evidence indicates.” Majority Op. at 643. The district court did exactly that in this case. Given the unassailable factual findings by the district court, the majority faces a tough mountain to climb to reach a reversal.
+ 
+Thus, in order to reach its result, as described above, the majority rests on findings of non-existent legal error, of “carriers’ preference” created without record support, and of “copying” as dispositive to show causal nexus to lost sales that is contrary to our case law. I must disagree with the majority’s approach and its conclusion that Apple would suffer irreparable harm from Samsung’s patent infringement.3
+ 
+
+E
+Finally, I also note the majority’s discussion on the public interest factor. I agree with the majority that the public’s interest in competition, without more, does not necessarily decide this factor against granting an injunction. But it does not follow that the public interest “nearly always” favors granting an injunction as the majority states. According to the majority, “[i]njunctions are vital to this system. As a result, the public interest nearly always weighs in favor of protecting property rights, especially when the patentee practices his inventions.” Id. at 647.
+ 
+The majority repeatedly relies on the statutory right to exclude others from practicing a patent and the public policy embodied in the statute. See id. at 638–39, 641–42, 646. But I am confident that we all remain mindful that pre-eBay, “[a]ccording to the Court of Appeals, this statutory right to exclude alone justifie[d] its general rule in favor of permanent injunctive relief.” eBay, 547 U.S. at 392, 126 S.Ct. 1837. The Supreme Court, however, unanimously rejected that approach, reasoning *663 that “the creation of a right is distinct from the provision of remedies for violations of that right.” Id. For the same reason, the statutory right to exclude should not categorically bias the public interest factor “strongly ” in the determination of the injunctive remedies as the majority asserts. See Weinberger v. Romero–Barcelo, 456 U.S. 305, 312, 102 S.Ct. 1798, 72 L.Ed.2d 91 (1982) (“The Court has repeatedly held that the basis for injunctive relief in the federal courts has always been irreparable injury and the inadequacy of legal remedies.”). The particular facts of a given case matter. As Justice Kennedy explained, “[w]hen the patented invention is but a small component of the product the companies seek to produce and the threat of an injunction is employed simply for undue leverage in negotiations, legal damages may well be sufficient to compensate for the infringement and an injunction may not serve the public interest.” eBay, 547 U.S. at 396–97, 126 S.Ct. 1837 (Kennedy, J., concurring).
+ 
+Based on this record, I cannot agree with the majority’s broad warning that “[i]f an injunction were not to issue in this case, such a decision would virtually foreclose the possibility of injunctive relief in any multifaceted, multifunction technology.” See Majority Op. at 647. Rather, injunctive relief will be appropriate when and if, consistent with our case law, the causal nexus requirement is met. This is not such a case.
+ 
+All Citations
+809 F.3d 633, 117 U.S.P.Q.2d 1469
+Footnotes
+
+1
+
+As we explained in Apple III, “some connection” between the patented feature and consumer demand for the products may be shown in “a variety of ways,” including, for example, “evidence that a patented feature is one of several features that cause consumers to make their purchasing decisions,” “evidence that the inclusion of a patented feature makes a product significantly more desirable,” and “evidence that the absence of a patented feature would make a product significantly less desirable.” Id. These examples do not delineate or set a floor on the strength of the connection that must be shown to establish a causal nexus; rather, they are examples of connections that surpass the minimal connection necessary to establish a causal nexus. Apple III included a fourth example to demonstrate a connection that does not establish a causal nexus—where consumers are only willing “to pay a nominal amount for an infringing feature.” Id. at 1368 (using example of $10 cup holder in $20,000 car). There is a lot of ground between the examples that satisfy the causal nexus requirement and the example that does not satisfy this requirement. The required minimum showing lies somewhere in the middle, as reflected by the “some connection” language.
+
+2
+
+Because we hold that the district court erred when it found that Apple did not suffer irreparable harm stemming from its sales-based losses, see supra at 640–45, and that on this record and consistent with the other holdings of the district court, this harm is sufficient to justify an injunction, see infra at 647, we do not reach the issue of whether Apple also suffered irreparable reputational harm.
+
+1
+
+I refer to Samsung Electronics Company, Ltd.; Samsung Electronics America, Inc.; and Samsung Telecommunications America, LLC collectively as “Samsung.”
+
+2
+
+See Apple Inc. v. Samsung Elecs. Co., 678 F.3d 1314 (Fed.Cir.2012) (“Apple I ”); Apple Inc. v. Samsung Elecs. Co., 695 F.3d 1370 (Fed.Cir.2012) (“Apple II ”); Apple Inc. v. Samsung Elecs. Co., 735 F.3d 1352 (Fed.Cir.2013) (“Apple III ”).
+
+3
+
+Though Winter addressed the test in the context of a preliminary injunction, the substantive analysis for irreparable harm factor is the same for a permanent injunction. Amoco Prod. Co. v. Village of Gambell, AK, 480 U.S. 531, 546 n. 12, 107 S.Ct. 1396, 94 L.Ed.2d 542 (1987).
+
+4
+
+As noted, an injunction is a form of forward-looking relief. Thus, arguments based on past harm implicitly assume that circumstances will not change.
+
+5
+
+All license agreements are described in general terms because aspects of these agreements are confidential.
+
+6
+
+The Dissent incorrectly asserts that requiring Samsung to provide evidence of instances of the use of the patented features by parties other than Samsung “arbitrarily shift[s] the burden of proof to Samsung.” Dissent at 657–58 n. 1. The burden of proof, of course, remains on Apple. But Apple does not have to prove a negative to carry that burden.
+
+1
+
+The district court used the words “exclusivity” and “exclusively,” but only in the context of rejecting Apple’s contention of irreparable reputational harm. See, e.g., Apple Inc. v. Samsung Elecs. Co., No. 12–CV–00630–LHK, 2014 WL 7496140, at *11 (N.D.Cal. Aug. 27, 2014) (“Injunction Order ”). And while the majority declines to reach the reputational harm issue, the concurrence does not. Here, the district court found that Apple’s licenses to other competitors were fatal to its claim that it had a “reputation for exclusivity” over the patented features. Id. The concurrence simply disregards this finding. Instead, the concurrence faults Samsung for failing to show evidence “that any of the licensees practiced any of the patented features” and states that Apple only “bears the burden of production,” after which the burden shifts to Samsung. Concurrence at 655. But the party requesting injunction bears more than the “burden of production;” it bears the “burden of proving irreparable harm,” a burden which Apple failed to meet. See Robert Bosch LLC v. Pylon Mfg. Corp., 659 F.3d 1142, 1154 (Fed.Cir.2011). Apple’s failure of proof cannot be excused by disregarding the district court’s factual findings and arbitrarily shifting the burden of proof to Samsung.
+
+2
+
+The majority’s original opinion stated that: “Apple did not establish that that [sic ] these features were the exclusive or significant driver of customer demand, which certainly would have weighed more heavily in its favor.” Apple Inc. v. Samsung Elecs. Co., 801 F.3d 1352, 1363 (Fed.Cir.2015), vacated, Order (Fed.Cir. Dec. 16, 2015) (emphasis added). The majority’s reissued opinion removes the words “or significant” from this sentence. Majority Op. at 644.
+
+3
+
+I also disagree with the majority’s reversal of the district court’s findings that remedy at law would be adequate. This reversal is premised on the majority’s disagreement with the district court’s findings of no irreparable harm and the majority’s acceptance of Apple’s contention that any lost downstream sales would be “difficult to quantify.” Majority Op. at 645. We noted previously that if “Apple cannot demonstrate that demand for Samsung’s products is driven by the infringing features, then Apple’s reliance on lost market share and downstream sales to demonstrate the inadequacy of damages will be substantially undermined.” Apple III at 1371. Because I agree with the district court that Apple failed to show irreparable harm, I would also affirm the district court’s finding that Apple failed to show inadequacy of legal remedy.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

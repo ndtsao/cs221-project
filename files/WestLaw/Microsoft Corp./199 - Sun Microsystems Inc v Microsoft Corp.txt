@@ -1,0 +1,383 @@
+
+
+
+
+
+Sun Microsystems, Inc. v. Microsoft Corp.
+United States Court of Appeals, Ninth Circuit. | August 23, 1999 | 188 F.3d 1115 | 1999 WL 635783
+
+Document Details
+
+Outline
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Red Flag - Severe Negative Treatment
+ Implied Overruling Recognized by Perfect 10, Inc. v. Google, Inc., 9th Cir.(Cal.), August 3, 2011
+
+standard Citation:
+
+Sun Microsystems, Inc. v. Microsoft Corp., 188 F.3d 1115 (9th Cir. 1999)
+
+All Citations:
+
+188 F.3d 1115, 1999 Copr.L.Dec. P 27,946, 51 U.S.P.Q.2d 1825, 99 Cal. Daily Op. Serv. 6799, 1999 Daily Journal D.A.R. 8717
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Red Flag - Severe Negative Treatment
+ 	Implied Overruling Recognized by Perfect 10, Inc. v. Google, Inc., 9th Cir.(Cal.), August 3, 2011
+188 F.3d 1115
+United States Court of Appeals,
+Ninth Circuit.
+SUN MICROSYSTEMS, INC., a Delaware Corporation, Plaintiff–Appellee,
+v.
+MICROSOFT CORPORATION, a Washington corporation, Defendant–Appellant.
+No. 99–15046.
+|
+Argued and Submitted June 16, 1999.
+|
+Decided Aug. 23, 1999.
+Licensor of computer programming language brought action against licensee which had allegedly exceeded scope of its license, asserting copyright infringement and unfair competition under California law. The United States District Court for the Northern District of California, Ronald M. Whyte, J., 21 F.Supp.2d 1109, granted preliminary injunction in favor of licensor, and licensee appealed. The Court of Appeals, Schroeder, Circuit Judge, held that: (1) licensor demonstrated probability of success on merits of its claim that licensee’s modifications violated license agreement; (2) whether compatibility terms in license agreement were license restrictions or separate covenants was preliminary contractual issue that had to be resolved before licensor would be entitled to copyright presumption of irreparable harm; and (3) injunction against alleged unfair competition was improper absent showing that challenged practices were likely to recur.
+ 
+Vacated and remanded.
+ 
+
+
+West Headnotes (11)
+
+
+[1]
+
+Federal CourtsPreliminary injunction;  temporary restraining order
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3616Injunction
+170Bk3616(2)Preliminary injunction;  temporary restraining order
+(Formerly 170Bk815)
+
+
+Court of Appeals reviews the grant of a preliminary injunction generally for abuse of discretion, and that discretion is abused where the district court based its ruling on an erroneous view of the law or on a clearly erroneous assessment of the evidence.
+Cases that cite this headnote
+
+
+
+[2]
+
+InjunctionGrounds in general;  multiple factors
+
+
+212Injunction
+212IIPreliminary, Temporary, and Interlocutory Injunctions in General
+212II(B)Factors Considered in General
+212k1092Grounds in general;  multiple factors
+(Formerly 212k138.1)
+
+
+Standard for a preliminary injunction balances the plaintiff’s likelihood of success against the relative hardships to the parties; to receive a preliminary injunction, plaintiff is required to show either a likelihood of success on the merits and the possibility of irreparable injury, or that serious questions going to the merits were raised and the balance of hardships tips sharply in its favor.
+80 Cases that cite this headnote
+
+
+
+[3]
+
+InjunctionGrounds in general;  multiple factors
+
+
+212Injunction
+212IIPreliminary, Temporary, and Interlocutory Injunctions in General
+212II(B)Factors Considered in General
+212k1092Grounds in general;  multiple factors
+(Formerly 212k138.21)
+
+
+Alternative means for obtaining preliminary injunction, which require showing of either likelihood of success on the merits and possibility of irreparable injury or raising of serious questions going to the merits and showing that balance of hardships tips sharply in plaintiff’s favor, represent extremes of a single continuum, rather than two separate tests; thus, the greater the relative hardship to the moving party, the less probability of success must be shown.
+89 Cases that cite this headnote
+
+
+
+[4]
+
+Copyrights and Intellectual PropertyPreliminary injunction
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k85Preliminary injunction
+
+
+A plaintiff that demonstrates a likelihood of success on the merits of a copyright infringement claim is entitled to a presumption of irreparable harm, for purpose of obtaining a preliminary injunction, which means that the balance of hardships issue cannot be accorded significant, if any, weight in determining whether a court should enter a preliminary injunction to prevent the use of infringing material in cases where the plaintiff has made a strong showing of likely success on the merits.
+47 Cases that cite this headnote
+
+
+
+[5]
+
+Copyrights and Intellectual PropertyPreliminary injunction
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k85Preliminary injunction
+
+
+Licensor of computer programming language established likelihood of success on merits of its claims that licensee violated licensing agreement by adding new features to its compiler that caused it to fail licensor’s compatibility tests and failing to support component, added by licensor, which was tool for integrating platform-specific code into programs, for purpose of licensor’s motion for preliminary injunction in its copyright infringement action.
+9 Cases that cite this headnote
+
+
+
+[6]
+
+Copyrights and Intellectual PropertyActs Constituting Infringement
+Copyrights and Intellectual PropertyFair use and other permitted uses in general
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)1What Constitutes Infringement
+99k53Acts Constituting Infringement
+99k53(1)In general
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)1What Constitutes Infringement
+99k53.2Fair use and other permitted uses in general
+
+
+A copyright owner who grants a nonexclusive license to use his copyrighted material generally waives his right to sue the licensee for copyright infringement and can sue only for breach of contract; if, however, a license is limited in scope and the licensee acts outside the scope, the licensor can bring an action for copyright infringement.
+54 Cases that cite this headnote
+
+
+
+[7]
+
+Copyrights and Intellectual PropertyPreliminary injunction
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k85Preliminary injunction
+
+
+Whether compatibility terms in license agreement for computer programming language were license restrictions, such that licensor could bring copyright infringement action for conduct exceeding scope of license, or were separate covenants was preliminary contractual issue that had to be resolved before licensor would be entitled to copyright presumption of irreparable harm on its motion for preliminary injunction, and that issue was to be decided by the district court in the first instance.
+36 Cases that cite this headnote
+
+
+
+[8]
+
+Copyrights and Intellectual PropertyPreliminary injunction
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k85Preliminary injunction
+
+
+Where two sophisticated parties have negotiated a copyright license and dispute its scope, the copyright holder who has demonstrated likely success on the merits is entitled to a presumption of irreparable harm, but only after the copyright holder has established that the disputed terms are limitations on the scope of the license rather than independent contractual covenants.
+40 Cases that cite this headnote
+
+
+
+[9]
+
+Antitrust and Trade RegulationWeight and sufficiency
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(E)Enforcement and Remedies
+29TIII(E)6Evidence
+29Tk369Weight and sufficiency
+(Formerly 382k864 Trade Regulation)
+
+
+Finding that licensee of computer programming language conditioned use of licensee’s logo on the exclusive use of its virtual machine was supported by evidence, for purpose of licensor’s unfair competition claim under California law, despite licensee’s claim that literal terms of its contracts merely required third party licensees to use its virtual machine and did not forbid them from using licensor’s as well; policy was tantamount to requiring exclusive use, because licensee’s virtual machine was incompatible with licensor’s standard, and no licensee would ever use both.
+1 Cases that cite this headnote
+
+
+
+[10]
+
+InjunctionOther particular businesses or occupations
+
+
+212Injunction
+212IVParticular Subjects of Relief
+212IV(L)Trade or Business
+212k1382Other particular businesses or occupations
+(Formerly 212k22)
+
+
+Under California law, injunction prohibiting licensee of computer programming language from putting certain conditions on its own licenses with third parties was improper, upon licensor’s claim of unfair competition, absent showing by licensor that such practices, which had been discontinued, were likely to recur. West’s Ann.Cal.Bus. & Prof.Code § 17200 et seq.
+1 Cases that cite this headnote
+
+
+
+[11]
+
+InjunctionProspective, preventive, or future-oriented nature of remedy
+InjunctionClear, likely, threatened, anticipated, or intended injury
+
+
+212Injunction
+212IInjunctions in General;  Permanent Injunctions in General
+212I(A)Nature, Form, and Scope of Remedy
+212k1006Prospective, preventive, or future-oriented nature of remedy
+(Formerly 212k22)
+212Injunction
+212IInjunctions in General;  Permanent Injunctions in General
+212I(B)Factors Considered in General
+212k1041Injury, Hardship, Harm, or Effect
+212k1044Clear, likely, threatened, anticipated, or intended injury
+(Formerly 212k22)
+
+
+Under California law, a plaintiff cannot receive an injunction for past conduct unless he shows that the conduct will probably recur.
+12 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1116 Barbara A. Caulfield, Orrick, Herrington & Sutcliffe, Menlo Park, California, for the defendant-appellant.
+Lloyd R. Day, Jr., Day, Casebeer, Madrid, Winters & Batchelder, Cupertino, California, for the plaintiff-appellee.
+Appeal from the United States District Court for the Northern District of California Ronald M. Whyte, District Judge, Presiding. D.C. No. CV–96–20884–RMW.
+Before: SCHROEDER, BOOCHEVER, and HALL, Circuit Judges.
+
+SCHROEDER, Circuit Judge:
+
+Overview
+This case illustrates how fast technology can outdistance the capacity of contract *1117 drafters to provide for the ramifications of a computer software licensing arrangement. The license in question runs from plaintiff-appellee Sun Microsystems to defendant-appellant Microsoft. It involves Java, a computer programming language Sun developed to enable the writing of programs that work on any computer operating system. The license agreement was negotiated on a rushed basis in 1996, and by 1997 both Microsoft and Sun had developed what they believed to be significant improvements to Java.
+ 
+Sun filed this suit for copyright infringement, claiming that Microsoft had exceeded the scope of its license by creating an enhanced version of Java that was fully operable only on Microsoft’s operating system, and further, by not adapting its implementation of Java to be compatible with Sun’s addition to Java of a component known as the “Java Native Interface” (“JNI”). Sun sought an injunction barring Microsoft from including incompatible Java technology in its products. The district court granted a preliminary injunction to Sun, and Microsoft appeals. The underlying facts, the details of the negotiations, and the nature of the software involved are all more fully described in the district court’s detailed opinion. See Sun Microsystems v. Microsoft Corp., 21 F.Supp.2d 1109 (N.D.Cal.1998).
+ 
+Before the district court, the parties bitterly contested the proper interpretation of the terms of the license agreement. Microsoft maintained that the agreement fully authorized all of the conduct that Sun challenged as infringing. Sun’s interpretation was, of course, to the contrary. After a careful analysis of the parties’ contentions, the district court held that Sun was likely to prevail on the merits of its claim that Microsoft had violated the license agreement.
+ 
+The parties also disputed whether Sun’s suit was properly considered as one for copyright infringement, as Sun contended, or as one for breach of contract, as Microsoft contended. The district court concluded that the claim was properly considered as an infringement action, thereby entitling Sun to a presumption of irreparable harm. See Cadence Design Systems v. Avant! Corp., 125 F.3d 824, 826–27 (9th Cir.1997), cert. denied, 523 U.S. 1118, 118 S.Ct. 1795, 140 L.Ed.2d 936 (1998) (copyright plaintiff that demonstrates likely success on the merits entitled to a presumption of irreparable harm). The district court did not elaborate on why the case was a copyright infringement rather than a contract interpretation dispute, and it is on this point that Microsoft expends most of its ammunition on this appeal. It contends that the disputed compatibility requirements of the license agreement are affirmative covenants rather than limitations on the scope of the license, and that accordingly contractual rather than copyright remedies are appropriate if there has been any breach. The district court apparently did not expressly rule on this issue.
+ 
+[1] We review the grant of a preliminary injunction generally for abuse of discretion, and “that discretion is abused where the district court based its ruling on an erroneous view of the law or on a clearly erroneous assessment of the evidence.” Roe v. Anderson, 134 F.3d 1400, 1402 (9th Cir.1998) (internal quotations and footnote omitted). We agree with Sun that significant evidence supports the district court’s holding that Sun is likely to prevail on its interpretation of the language of the agreement and to prove that Microsoft’s conduct violated it. We agree with Microsoft, however, that the district court should not have invoked the presumption of irreparable harm applicable to copyright infringement claims before it determined that the compatibility requirements were a limit on the scope of the license rather than independent contractual covenants. We therefore vacate the preliminary injunction and remand for further proceedings.
+ 
+There is also a claim of unfair competition under California law. The district court entered an injunction on that claim *1118 solely on the basis of past conduct. Microsoft correctly contends that under California law an injunction must be based on the prospect of future conduct. We therefore also vacate the injunction insofar as it relates to the unfair competition claim and remand for consideration of that issue.
+ 
+
+Factual Background
+In March 1996, Microsoft and Sun entered into a “Technology License and Distribution Agreement” (“TLDA”) for Java. Microsoft agreed to pay Sun $3.75 million a year for broad rights to use the language. In exchange, Sun granted Microsoft a non-exclusive license to “make, access, use, copy, view, display, modify, adapt, and create Derivative Works of the Technology in Source Code form” and to “make, use, import, reproduce, license, rent, lease, offer to sell, sell or otherwise distribute to end users as part of a Product ... the Technology and Derivative Works thereof in binary form.” Sun Microsystems, 21 F.Supp.2d at 1113.
+ 
+Sun had created Java so that programmers could write a single program that would work on any operating system. Because Sun wanted Java to remain cross-platform compatible, the TLDA includes compatibility requirements. Section 2.6(a)(iv) requires Microsoft to produce a compatible implementation of Java within six months of the date that Sun creates a “significant upgrade” to Java. Section 2.6(a)(vi) provides that Microsoft shall make available only products that are compatible implementations. See id. at 1113. Section 2.6(b)(iv) contains the compatibility requirements for compilers. It provides that Microsoft’s Java compilers “shall include a mode which a Tool Customer may use to permit such Product to pass the Java Language Test Suite that accompanie[s]” any upgrades of Java that Sun creates. Id. at 1114. To determine compatibility, the TLDA refers to a set of mostly automated tests that Sun had developed.
+ 
+In late 1997, Sun became concerned that Microsoft was distributing a “polluted” version of Java that Microsoft had modified in ways that made it incompatible with Sun’s standards. Sun filed suit against Microsoft on October 7, 1997, alleging, among other things, trademark infringement, unfair competition, and breach of contract. In November 1997, Sun moved for a preliminary injunction barring Microsoft from using Sun’s “Java Compatible” logo on products that failed Sun’s compatibility tests. On March 24, 1998, the district court entered a preliminary injunction. See Sun Microsystems v. Microsoft Corp., 999 F.Supp. 1301 (N.D.Cal.1998). Microsoft did not appeal this injunction.
+ 
+Sun then amended its complaint to add a claim for copyright infringement and filed motions for a preliminary injunction under 17 U.S.C. § 502 for copyright infringement and under California Business & Professions Code § 17200 for unfair competition. The copyright infringement motion sought an order immediately enjoining Microsoft from distributing its development kit for Java programmers, and enjoining it from distributing Internet Explorer or Windows98 unless it could show within ninety days that those products passed Sun’s compatibility tests. The unfair competition motion sought to enjoin Microsoft from abusing its dominant position in the software market by conditioning licenses for Microsoft products upon use of Microsoft’s version of Java.
+ 
+On November 17, 1998, the district court granted both motions. It found that Sun was likely to prevail on its claims that Microsoft had failed to comply with several of the TLDA compatibility provisions and had engaged in unfair business practices. The court entered a detailed injunction that pertained to both motions and that barred Microsoft from, among other things: (1) distributing any operating systems or internet browsers containing Java technology unless they supported JNI; (2) distributing any Java development tools unless they supported JNI and included a compiler with a default mode that disabled Microsoft’s incompatible modifications; (3) incorporating any additional Microsoft keyword extensions or compiler directives *1119 into its Java software development tools; and (4) conditioning licenses to Microsoft products or the right to use the “Designed for Windows” logo on the exclusive use of either Microsoft’s Java virtual machine or Microsoft’s native code interfaces. See Sun Microsystems, 21 F.Supp.2d at 1127–28. Microsoft appeals.
+ 
+
+Analysis
+I. The Copyright Infringement Claim
+[2] [3] The standard for a preliminary injunction balances the plaintiff’s likelihood of success against the relative hardships to the parties. To receive a preliminary injunction, Sun was required to show “either a likelihood of success on the merits and the possibility of irreparable injury, or that serious questions going to the merits were raised and the balance of hardships tips sharply in its favor.” Sega Enters. v. Accolade, Inc., 977 F.2d 1510, 1517 (9th Cir.1992) (citations omitted). These two alternatives represent “extremes of a single continuum,” rather than two separate tests. Benda v. Grand Lodge of Int’l Ass’n of Machinists & Aerospace Workers, 584 F.2d 308, 315 (9th Cir.1978). Thus, “the greater the relative hardship to the moving party, the less probability of success must be shown.” National Ctr. for Immigrants Rights v. INS, 743 F.2d 1365, 1369 (9th Cir.1984).
+ 
+[4] Under federal copyright law, however, a plaintiff that demonstrates a likelihood of success on the merits of a copyright infringement claim is entitled to a presumption of irreparable harm. See Cadence Design Systems v. Avant! Corp., 125 F.3d 824, 826–27 (9th Cir.1997), cert. denied, 523 U.S. 1118, 118 S.Ct. 1795, 140 L.Ed.2d 936 (1998). That presumption means that “the balance of hardships issue cannot be accorded significant”-if any-“weight in determining whether a court should enter a preliminary injunction to prevent the use of infringing material in cases where ... the plaintiff has made a strong showing of likely success on the merits.” Id. at 830.
+ 
+The district court found that Sun was likely to succeed on its contentions that Microsoft had violated the terms of the TLDA by failing to support JNI and by extending the Java language and modifying the compiler. See Sun Microsystems, 21 F.Supp.2d at 1119, 1123. It therefore held that Sun was entitled to a presumption of irreparable harm. See id. at 1125 (citing Johnson Controls v. Phoenix Control Sys., 886 F.2d 1173, 1174 (9th Cir.1989)). The district court did not make any finding on whether there would be irreparable harm absent the copyright presumption. Finally, the district court briefly addressed hardship, stating that the potential harm to Microsoft was not “unduly burdensome” and that the requested relief would not harm the interests of third parties. Id. at 1126. It did not discuss the likely extent of harm to Sun if a preliminary injunction were not entered.
+ 
+We address in turn the likelihood of success on the merits and the applicability of a presumption of irreparable harm. With regard to the likelihood of success, the issue is whether there is sufficient evidence to support the district court’s conclusion that Sun was likely to prove that Microsoft’s conduct violated the terms of the TLDA. We conclude that there is such evidence. With regard to the applicability of a presumption of irreparable harm, we agree with Microsoft that the issue turns upon whether the terms Microsoft allegedly breached were limitations on the scope of the license, which would mean that Microsoft had infringed the copyright by acting outside the scope of the license; or whether the terms were merely separate contractual covenants, which would make this a contract dispute in which the copyright presumption of irreparable harm has no application. We conclude that the district court must decide this latter issue before it decides whether Sun is entitled to a presumption of irreparable harm, and so we vacate the injunction and remand the case.
+ 
+
+*1120 A. Likelihood of Success
+[5] The district court held that Sun had shown that it was likely to prove that Microsoft had violated the TLDA in two ways: by adding new features to its compiler that caused it to fail Sun’s compatibility tests referenced in the TLDA and by failing to support Sun’s “Java Native Interface” (“JNI”), a tool for integrating platform-specific (or “native”) code into a Java program.
+ 
+There is significant evidence to support the district court’s holding that Sun has a reasonable likelihood of proving that Microsoft’s Java compiler violated the compatibility provisions of the TLDA. The TLDA generally permits Microsoft to modify its compiler, for section 2.1(a) allows Microsoft to “modify” the “Java Technology,” and section 1.25 defines the Java “Technology” to include the “Java Compiler.” Microsoft modified the Java compiler by adding an extended mode that includes two keyword extensions and three compiler directives that enable programmers to use some Windows features and to program more efficiently in the Windows environment. The district court found that the use of Microsoft’s additional compiler directives and keyword extensions can result in programs that fail Sun’s compatibility tests.
+ 
+Microsoft’s compiler, however, contains a mode that disables the compiler directives and keyword extensions; when the compiler is operated in that mode, there are no compatibility problems. Microsoft argues that because of the inclusion of this mode, TLDA § 2.6(b)(iv) permits the compiler modifications. That section provides that any new Java compilers that Microsoft makes commercially available “shall include a mode which a Tool Customer may use to permit such Product to pass the Java Language Test Suite that accompanied the Significant Upgrade.” Section 2.6(b)(iv), however, says only that the compiler must have the described mode; it does not say that any compiler that includes the described mode is allowable. The disputed issue is whether the extended mode of Microsoft’s compiler, which the district court concluded causes the compiler to fail the Java Language Test Suite, violates the TLDA.
+ 
+Considerable evidence supports the district court’s conclusion that Microsoft’s extended compiler mode is impermissible. Microsoft’s extended compiler fails a requirement, contained in the documentation to the Java Language Test Suite, that “[t]he output from your Java compiler implementation (if applicable) must execute properly with a JavaSoft Virtual Machine of the same version as the Java Compatibility Kit you are using.” Moreover, the Java Language Specification implicitly prohibits the addition of keywords by defining a complete list of keywords and then reserving only two words for later inclusion. This reading of the specification is buttressed by the preface, which states that the specification is meant to ensure that “the behavior of every language construct [be] specified, so that all implementations of Java will accept the same programs.”
+ 
+There is also evidence to support the district court’s holding that Sun has a reasonable likelihood of proving that the TLDA obligates Microsoft to support JNI. In the district court, the parties disputed whether JNI is part of the AAPI (the “Applet Application Programming Interface”), with which Microsoft’s products must comply under sections 1.15 and 2.6(a)(vi) of the TLDA. See Sun Microsystems, 21 F.Supp.2d at 1119–22. Section 1.1(a) of the TLDA defines the AAPI in relevant part as “the public application programming interface to the Java Applet Environment.” The issues before the district court thus reduced to whether JNI is a “public application programming interface,” a term the TLDA does not define, and whether it is an interface to the Java Applet Environment. Although Microsoft’s experts testified to the contrary, there is substantial evidence in the record from Sun’s experts that JNI is a “public application programming interface.” According to section 2.9(e) of the TLDA, *1121 moreover, native code interfaces, such as JNI, are interfaces to the Java Reference Implementation virtual machine. Because section 1.25 of the TLDA states that the virtual machine is part of the Java Applet Environment, JNI appears to be an interface to the Java Applet Environment. There is thus considerable evidence that JNI falls within Microsoft’s compliance obligations.
+ 
+Microsoft nevertheless stresses that the district court erred in holding that the TLDA requires Microsoft to support JNI because JNI did not even exist at the time the parties signed the TLDA. The district court concluded that the addition of JNI was a permissible upgrade to Java under section 1.1(a) of the TLDA. See id. at 1122. That section defines the AAPI, of which JNI is a part, as “(a) the public application programming interface to the Java Applet Environment ... and (d) the OEM Java API Specification, as modified by SUN during the term of this agreement.” Id. The district court did not err in adopting the grammatically plausible reading that the “as modified” language refers not only to section 1.1(d), but to section 1.1(a) as well, and thus allows the AAPI to be modified to include JNI. We therefore hold that sufficient evidence supports the district court’s finding that Sun demonstrated a probability of success on the merits of its claim that Microsoft’s modifications of Java violated the TLDA.
+ 
+
+B. Presumption of Irreparable Harm
+Federal copyright law presumes irreparable harm from the infringement of a copyright. See Cadence Design Systems, 125 F.3d at 826–27. The district court held that this case is a copyright infringement case and not a contract case and therefore presumed irreparable harm. See Sun Microsystems, 21 F.Supp.2d at 1125. It is not clear, however, how the district court reached its decision that this case should be analyzed under the copyright infringement standard. It stated only that “Microsoft’s argument that ... Sun does not enjoy a presumption of irreparable harm merely rehashes its argument, which the court has rejected, that Sun’s claims arise out of breach of contract rather than copyright infringement.” Id. We were unable to determine, and the parties were unable to inform us at oral argument, where in the record before us the district court had previously addressed this issue.
+ 
+[6] Whether this is a copyright or a contract case turns on whether the compatibility provisions help define the scope of the license. Generally, a “copyright owner who grants a nonexclusive license to use his copyrighted material waives his right to sue the licensee for copyright infringement” and can sue only for breach of contract. Graham v. James, 144 F.3d 229, 236 (2d Cir.1998) (citing Peer Int’l Corp. v. Pausa Records, Inc., 909 F.2d 1332, 1338–39 (9th Cir.1990)). If, however, a license is limited in scope and the licensee acts outside the scope, the licensor can bring an action for copyright infringement. See S.O.S., Inc. v. Payday, Inc., 886 F.2d 1081, 1087 (9th Cir.1989); Nimmer on Copyright, § 1015[A] (1999).
+ 
+[7] Microsoft argues, more strongly on appeal than before the district court, that the compatibility provisions on which Sun relies are contractual covenants that do not limit the scope of the license. Microsoft asserts that the broad grants of section 2.2 of the TLDA allow it an unrestricted right to modify Sun’s source code and create derivative works, and that it made a separate contractual promise in section 2.6 to honor the compatibility requirements. Sun argues that the granting language of section 2.2 and the compatibility terms of section 2.6 must be read together to create a license that grants Microsoft only the right to make compatible modifications and derivative works. The district court did not address these arguments in its opinion. It is thus not clear whether it agreed with Sun that the compatibility terms in question are limitations on the scope of the license or whether it believed the distinction between affirmative covenants *1122 and limitations on scope to be immaterial.
+ 
+[8] The enforcement of a copyright license raises issues that lie at the intersection of copyright and contract law, an area of law that is not yet well developed. We must decide an issue of first impression: whether, where two sophisticated parties have negotiated a copyright license and dispute its scope, the copyright holder who has demonstrated likely success on the merits is entitled to a presumption of irreparable harm. We hold that it is, but only after the copyright holder has established that the disputed terms are limitations on the scope of the license rather than independent contractual covenants. In other words, before Sun can gain the benefits of copyright enforcement, it must definitively establish that the rights it claims were violated are copyright, not contractual, rights.
+ 
+In reaching this result, we find considerable support in Video Trip Corp. v. Lightning Video, Inc., 866 F.2d 50 (2d Cir.1989), in which the Second Circuit held that preliminary contractual issues, such as the ownership of the copyright, must be resolved before the copyright presumption of irreparable harm applies. Video Trip, a company that produced copyrighted travel videotapes, had granted an exclusive license to Lightning Video to promote and distribute the tapes. When the arrangement failed to work out, the parties amended the agreement to require Lightning to dispose of its remaining inventory and furnish Video Trip with an accounting. The copyright was then to revert to Video Trip, unless Video Trip owed money under the accounting and failed to pay. The parties disagreed about the amounts owed and Lightning refused to return the tapes. Video Trip sued for an injunction against copyright infringement, claiming that the license was no longer valid; Lightning claimed it was still valid because Video Trip owed it money.
+ 
+As here, the parties disputed what preliminary injunction standard should apply. The Second Circuit stated: “It is understandable why a party claiming copyright protection would prefer to ignore the contract dispute and assume the validity of the ownership of the copyright. The rules for obtaining a preliminary injunction are less onerous than in other cases.” Id. at 52. The court held that “[s]ince the issue as to the ownership of the copyright is still to be determined, we review the order of the court below in denying the application for a preliminary injunction in light of the rule applicable in any contract case.” Id.
+ 
+The determination of whether the compatibility terms in the TLDA are covenants or limitations on the scope of the license is likewise a contractual issue, for it requires us to construe the license. We recognized this in S.O.S., Inc. v. Payday, Inc., 886 F.2d 1081 (9th Cir.1989). In S.O.S., the plaintiff, which held a copyright in a computer program, had granted the defendant a license to “use” the software and had explicitly reserved all other rights. The plaintiff claimed that by modifying the software the defendant had exceeded the scope of the license and therefore infringed the copyright. The district court, using California contract law to construe the license, applied the rule that contracts should be construed against the drafter and held that the license therefore permitted any uses not explicitly forbidden. On appeal, we agreed that we should “rely on state law to provide the canons of contractual construction” provided that “such rules do not interfere with federal copyright law or policy.” Id. at 1088.
+ 
+The principles illustrated by Video Trip and S.O.S. indicate that the disputed question in this case, whether the compatibility terms in the TLDA are license restrictions or separate covenants, is a preliminary contractual issue that must be resolved under California law favorably to Sun before Sun is entitled to the copyright presumption of irreparable harm. The district court did not decide this issue. Although the parties have asked us to decide it, we conclude that it is appropriate to give the district court the first *1123 opportunity, especially given that the parties put almost no emphasis on the issue when they litigated the preliminary injunction before the district court. We therefore vacate the preliminary injunction and remand the case. Because we vacate the injunction, we also leave it to the district court to consider in the first instance Microsoft’s argument that, under the district court’s prior interpretation of the TLDA, an injunction may be granted only if Microsoft intentionally and willfully violated the TLDA’s compatibility requirements.
+ 
+Finally, we observe that the determination of whether or not Sun is entitled to a presumption of irreparable harm may not end the matter, for even if Sun is not entitled to the presumption, it may still be able to demonstrate that an injunction is warranted under the traditional standard for preliminary injunctions, in which the court balances the likelihood of success against the relative hardships to Sun and Microsoft. This too is an issue the district court has not yet considered.
+ 
+
+II. The Unfair Competition Claim
+We also vacate the portion of the district court’s preliminary injunction that is based on the California Unfair Business Practices Act. Sun claimed that Microsoft violated California’s rules against unfair competition, see Cal. Bus. & Prof.Code §§ 17200 et seq., by forcing its business partners to use its non-compatible version of Java and by allowing developers to use Microsoft’s “Designed for Windows95/NT” logo only if they exclusively used Microsoft’s virtual machine. The district court agreed that several of Microsoft’s Java distributing and advertising practices violated California law. It enjoined Microsoft from “[c]onditioning any licence to any Microsoft product on exclusive use or distribution of Microsoft’s Java virtual machine” and from “[e]ntering into any agreement, condition or arrangement with any third party that requires such third party to exclusively use Microsoft’s interfaces to its runtime interpreter when invoking native code.” Sun Microsystems, 21 F.Supp.2d at 1128.
+ 
+[9] Microsoft challenges the district court’s entry of this injunction. It first contends that the district court abused its discretion when it ruled that Microsoft conditioned the use of its “Designed for Windows95/NT” logo on the exclusive use of its virtual machine. See id. at 1127. Microsoft correctly argues that the literal terms of its contracts merely required its licensees to use its virtual machine and did not forbid them from using Sun’s as well. We agree with Sun, however, that because Microsoft’s virtual machine is incompatible with Sun’s standard, no licensee would ever use both, and so Microsoft’s policy is tantamount to requiring exclusive use.
+ 
+[10] [11] Microsoft’s stronger assertion is that the district court abused its discretion in enjoining Microsoft’s exclusivity provisions for the virtual machine and the native code interface even though Microsoft claimed that it had discontinued these practices and Sun had made no showing that they were likely to recur. The district court apparently placed the burden on Microsoft to prove that its conduct would not recur, relying upon Polo Fashions, Inc. v. Dick Bruhn, Inc., 793 F.2d 1132 (9th Cir.1986), in which this court held that where a defendant in a trademark case has ceased the unlawful conduct, an injunction should issue unless “the reform of the defendant [is] irrefutably demonstrated and total.” Id. at 1135 (internal quotation marks omitted). Sun’s unfair competition claim, however, is not brought under federal trademark law, but under California law, which provides that a plaintiff cannot receive an injunction for past conduct unless he shows that the conduct will probably recur. See People v. Toomey, 157 Cal.App.3d 1, 20, 203 Cal.Rptr. 642 (1984). The district court erred by entering its preliminary injunction on Sun’s unfair competition claim without making such a finding.
+ 
+*1124 The injunction is VACATED and the case REMANDED to the district court for further proceedings.
+ 
+All Citations
+188 F.3d 1115, 1999 Copr.L.Dec. P 27,946, 51 U.S.P.Q.2d 1825, 99 Cal. Daily Op. Serv. 6799, 1999 Daily Journal D.A.R. 8717
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

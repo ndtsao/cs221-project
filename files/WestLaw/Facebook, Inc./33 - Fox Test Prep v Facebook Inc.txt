@@ -1,0 +1,105 @@
+
+
+ 
+
+
+Fox Test Prep v. Facebook, Inc.
+United States Court of Appeals, Ninth Circuit. | December 26, 2014 | 588 Fed.Appx. 733 | 2014 WL 7336402
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Fox Test Prep v. Facebook, Inc., 588 F. App’x 733 (9th Cir. 2014)
+
+All Citations:
+
+588 Fed.Appx. 733
+
+Search Details
+
+Search Query:
+
+adv: NAME(”facebook”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:48 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+588 Fed.Appx. 733
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+FOX TEST PREP; Steven Price, Plaintiffs–Appellants,
+v.
+FACEBOOK, INC., Defendant–Appellee.
+No. 12–16601.
+|
+Argued and Submitted Dec. 9, 2014.
+|
+Filed Dec. 26, 2014.
+Attorneys and Law Firms
+Terrianne Benedetto, David R. Buchanan, Christopher A. Seeger, Jonathan Shub, Seeger Weiss LLP, Philadelphia, PA, Jeffrey A. Leon, Julie D. Miller, Richard J. Burke, Esquire, Complex Litigation Group LLC, St. Louis, MO, Steven Nathan Berk, Berk Law PLLC, Washington, DC, Gordon M. Fauth, Jr., Litigation Law Group, Alameda, CA, J. Paul Gignac, Arias, Ozzello & Gignac, LLP, Santa Barbara, CA, Brian Kabateck, Kabateck Brown & Kellner, LLP, Los Angeles, CA, Rosemary M. Rivas, Finkelstein Thompson LLP, San Francisco, CA, Jordan Sander Esensten, Wasserman, Comden, Casselman & Esensten, LLP, Tarzana, CA, for Plaintiff–Appellant.
+Matthew Michael Brown, Esquire, Whitty Somvichian, Esquire, Michael Graham Rhodes, Esquire, Partner, Cooley LLP, Jonathan H. Blavin, Kristin Linsley Myles, Esquire, Munger Tolles & Olson, LLP, San Francisco, CA, for Defendant–Appellee.
+Appeal from the United States District Court for the Northern District of California, Phyllis J. Hamilton, District Judge, Presiding. DC No. 4:09 CV–3043 PJH.
+Before: TASHIMA and PAEZ, Circuit Judges, and QUIST, Senior District Judge.*
+
+
+MEMORANDUM**
+Plaintiffs Fox Test Prep and Stephen Price appeal the district court’s denial of class certification. We have jurisdiction pursuant to 28 U.S.C. § 1292(e) and Federal Rule of Civil Procedure 23(f), and we affirm.
+ 
+We review a district court’s denial of class certification for abuse of discretion. See Yokoyama v. Midland Nat’l Life Ins. Co., 594 F.3d 1087, 1090 (9th Cir.2010). “An abuse of discretion occurs when the district court, ‘in making a discretionary ruling, relies upon an improper factor, omits consideration of a factor entitled to substantial weight, or mulls the correct mix of factors but makes a clear error of judgment in assaying them.’ ” Parra v. Bashas’, Inc., 536 F.3d 975, 977–78 (9th Cir.2008) (quoting Waste Mgmt. Holdings, Inc. v. Mowbray, 208 F.3d 288, 295 (1st Cir.2000)).
+ 
+The district court held that the proposed class could not be certified under Federal Rule of Civil Procedure 23(b)(3) because, among other reasons, Plaintiffs failed to *734 establish that there is a class-wide uniform method for determining what constitutes a “valid click.” In re Facebook, Inc., PPC Adver. Litig., 282 F.R.D. 446, 458–59 (N.D.Cal.2012). We conclude that the district court did not abuse its discretion in determining that class certification was inappropriate under Rule 23(b)(3). See Comcast Corp. v. Behrend, ––– U.S. ––––, 133 S.Ct. 1426, 1432, 185 L.Ed.2d 515 (2013).
+ 
+Plaintiffs’ central theory of liability is that Facebook improperly charged them for “invalid” clicks. As a result, it was crucial for them to establish a workable, classwide method to distinguish among “valid,” “invalid,” and “fraudulent” clicks. Plaintiffs’ expert stated that he could develop and implement rule-based algorithms to determine whether Facebook failed to employ algorithms in conformity with prevailing industry standards in determining whether a click is legitimate. He further noted that the IAB (Interactive Advertising Bureau) Click Measurement Guidelines make clear that it is generally understood in the industry that a click is defined as a request by a human with an intent to view the content. Nowhere in his report or deposition, however, did he provide the actual method for distinguishing between valid and invalid clicks. Further, in his deposition he acknowledged that he knows of no sources, including the IAB guidelines, that provide specific parameters for determining what constitutes a valid click.
+ 
+Because Plaintiffs failed to meet their burden of demonstrating a workable class-wide methodology to determine what constitutes a “valid click,” the district court did not abuse its discretion in denying class certification because “common issues do not predominate,” In re Facebook, 282 F.R.D. at 459, as required by Rule 23(b)(3).1
+ 
+Accordingly, the order of the district court denying class certification is AFFIRMED.
+ 
+All Citations
+588 Fed.Appx. 733
+Footnotes
+
+*
+
+The Honorable Gordon J. Quist, Senior United States District Judge for the Western District of Michigan, sitting by designation.
+
+**
+
+This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36–3.
+
+1
+
+Because we decide this appeal on the lack of predominance issue, we do not reach the other bases of the district court’s decision denying class certification.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

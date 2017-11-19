@@ -1,0 +1,982 @@
+
+
+
+
+
+Rosetta Stone Ltd. v. Google, Inc.
+United States Court of Appeals, Fourth Circuit. | April 9, 2012 | 676 F.3d 144 | 2012 WL 1155143
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by 1-800 Contacts, Inc. v. Lens.com, Inc., 10th Cir.(Utah), July 16, 2013
+
+standard Citation:
+
+Rosetta Stone Ltd. v. Google, Inc., 676 F.3d 144 (4th Cir. 2012)
+
+All Citations:
+
+676 F.3d 144, 102 U.S.P.Q.2d 1473
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Virginia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by 1-800 Contacts, Inc. v. Lens.com, Inc., 10th Cir.(Utah), July 16, 2013
+676 F.3d 144
+United States Court of Appeals,
+Fourth Circuit.
+ROSETTA STONE LTD., Plaintiff–Appellant,
+v.
+GOOGLE, INCORPORATED, Defendant–Appellee.
+The UK Intellectual Property Law Society, Amicus Curiae,
+Eric Goldman; Public Citizen; Martin Schwimmer, Limited Intervenors.
+International Trademark Association; Blues Destiny Records, LLC; Carfax, Incorporated; Ford Motor Company; Harmon International Industries, Incorporated; The Media Institute; Viacom, Inc.; Burlington Coat Factory Warehouse Corporation; Business Software Alliance; Chanel, Incorporated; Coach, Incorporated; Government Employees Insurance Company; Harrah’s Entertainment, Incorporated; Longchamp USA, Incorporated; National Football League; Oakley, Incorporated; Professional Golfers’ Association of America, Incorporated; Rolls–Royce North America, Incorporated; S.A.S. Jean Cassegrain; Sunkist Growers, Incorporated; Swarovski North America, Ltd.; The Association for Competitive Technology; The Sunrider Corporation; Tivo, Incorporated; Tiffany & Company; Tumi, Incorporated; United Continental Holdings, Incorporated; 1–800 Contacts, Incorporated; ConvaTec, Incorporated; Guru Denim, Incorporated; Monster Cable Products, Incorporated; PetMed Express, Inc.; Volunteers of America, Amici Supporting Appellant,
+Public Citizen; Public Knowledge; Electronic Frontier Foundation; eBay Incorporated; Yahoo! Incorporated, Amici Supporting Appellee.
+No. 10–2007.
+|
+Argued: Sept. 22, 2011.
+|
+Decided: April 9, 2012.
+Synopsis
+Background: Provider of technology-based language learning products and services brought action alleging that internet search engine operator actively assisted third party advertisers to mislead consumers and misappropriated its trademarks by using trademarks as keyword triggers for paid advertisements and within title and text of paid advertisements on operator’s website. The United States District Court for the Eastern District of Virginia, Gerald Bruce Lee, J., dismissed unjust enrichment claim, 732 F.Supp.2d 628, and entered summary judgment in operator’s favor, 730 F.Supp.2d 531. Provider appealed.
+ 
+Holdings: The Court of Appeals, Traxler, Chief Judge, held that:
+ 
+[1] summary judgment on provider’s trademark infringement claim was not warranted;
+ 
+[2] operator’s use of marks was not protected by functionality doctrine;
+ 
+[3] summary judgment on provider’s contributory infringement claim was not warranted;
+ 
+[4] operator was not liable for vicarious trademark infringement;
+ 
+[5] operator was not unjustly enriched by its auctioning of trademarks; and
+ 
+[6] summary judgment on provider’s trademark dilution claim was not warranted.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (32)
+
+
+[1]
+
+TrademarksInfringement
+
+
+382TTrademarks
+382TVIIIViolations of Rights
+382TVIII(A)In General
+382Tk1418Practices or Conduct Prohibited in General;  Elements
+382Tk1421Infringement
+
+
+To establish trademark infringement under Lanham Act, plaintiff must prove that: (1) it owns valid mark; (2) defendant used mark in commerce and without plaintiff’s authorization; (3) defendant used mark or imitation of it in connection with sale, offering for sale, distribution, or advertising of goods or services; and (4) defendant’s use of mark is likely to confuse consumers. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+48 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsMatters of substantive law
+TrademarksFindings
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)4Harmless and Reversible Error
+170Bk3686Particular Errors as Harmless or Prejudicial
+170Bk3713Matters of substantive law
+(Formerly 170Bk893)
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(E)Trial and Judgment
+382Tk1696Findings
+
+
+District court’s failure to consider all nine traditional likelihood-of-confusion factors is not reversible error in ruling on trademark infringement claim, especially when offending use of plaintiff’s trademark is referential or nominative in nature; however, district court opting not to address given factor or group of factors should provide at least brief explanation of its reasons. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+4 Cases that cite this headnote
+
+
+
+[3]
+
+TrademarksStrength or fame of marks;  degree of distinctiveness
+
+
+382TTrademarks
+382TIIISimilarity Between Marks;  Likelihood of Confusion
+382Tk1090Nature of Marks
+382Tk1092Strength or fame of marks;  degree of distinctiveness
+
+
+When defendant creates association between its goods or services and plaintiff’s mark, strength of mark is relevant consideration in ruling on trademark infringement claim, since encroachment upon strong mark is more likely to cause confusion. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+20 Cases that cite this headnote
+
+
+
+[4]
+
+Federal Civil ProcedureCopyright, trademark, and unfair competition cases
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)2Particular Cases
+170Ak2493Copyright, trademark, and unfair competition cases
+
+
+Genuine issues of material fact as to whether internet search engine operator’s auctioning of marks owned by provider of technology-based language learning products and services as keyword triggers for links sponsored by third party advertisers was intended to produce confusion in minds of consumers about origin of goods or services in question, and whether it in fact did so, precluded summary judgment on provider’s trademark infringement claim against operator. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+2 Cases that cite this headnote
+
+
+
+[5]
+
+Federal Civil ProcedureCopyright, trademark, and unfair competition cases
+Federal Civil ProcedureAdmissibility
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)2Particular Cases
+170Ak2493Copyright, trademark, and unfair competition cases
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)3Proceedings
+170Ak2542Evidence
+170Ak2545Admissibility
+
+
+Anecdotal customer testimony, internet search engine operator’s in-house studies, and expert’s report were admissible as evidence of actual confusion for summary judgment purposes in trademark infringement action brought by provider of technology-based language learning products and services against operator that auctioned its marks to third party advertisers, even though customers were aware that they were not purchasing directly from provider, and there were only five instances of actual confusion out of more than 100,000 impressions over six years, where provider claimed that customers were confused as to goods’ sponsorship, district court permitted only five “actual confusion” depositions, and there was evidence of more than 260 other instances of actual confusion. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+5 Cases that cite this headnote
+
+
+
+[6]
+
+TrademarksKnowledge, intent, and motive;  bad faith
+TrademarksTrade dress
+
+
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(C)Evidence
+382Tk1601Presumptions and Burden of Proof
+382Tk1610Knowledge, intent, and motive;  bad faith
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(C)Evidence
+382Tk1601Presumptions and Burden of Proof
+382Tk1611Trade dress
+
+
+Presumption of likelihood of consumer confusion arises from intentional copying of plaintiff’s trade dress or trademark by defendant.
+4 Cases that cite this headnote
+
+
+
+[7]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1065Particular Cases or Products
+382Tk1065(3)Functionality
+
+
+Internet search engine operator’s use of marks owned by provider of technology-based language learning products and services as keyword triggers for links sponsored by third party advertisers was not protected by functionality doctrine from imposition of liability for trademark infringement under Lanham Act, even if marks made operator’s product more useful; provider’s use of its own mark was not essential for functioning of its language-learning products, which would operate no differently if they were branded with another name. Lanham Act, §§ 2(e)(5), 32(a), 33(b)(8), 15 U.S.C.A. §§ 1052(e)(5), 1114(a), 1115(b)(8).
+1 Cases that cite this headnote
+
+
+
+[8]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1064Functionality
+
+
+Product feature is “functional,” and thus is not protected by Lanham Act, if it is reason device works, or it constitutes actual benefit that customer wishes to purchase, as distinguished from assurance that particular entity made, sponsored, or endorsed product. Lanham Act, § 2(e)(5), 15 U.S.C.A. § 1052(e)(5).
+2 Cases that cite this headnote
+
+
+
+[9]
+
+TrademarksContributory liability
+
+
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(A)In General
+382Tk1564Persons Liable
+382Tk1566Contributory liability
+
+
+“Contributory infringement” is judicially created doctrine that derives from common law of torts, under which liability may be imposed upon those who facilitate or encourage trademark infringement. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+2 Cases that cite this headnote
+
+
+
+[10]
+
+TrademarksContributory liability
+
+
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(A)In General
+382Tk1564Persons Liable
+382Tk1566Contributory liability
+
+
+To establish contributory trademark infringement claim, it is not enough to have general knowledge that some percentage of purchasers of product or service is using it to engage in infringing activities; rather, defendant must supply its product or service to identified individuals that it knows or has reason to know are engaging in trademark infringement. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+7 Cases that cite this headnote
+
+
+
+[11]
+
+TrademarksContributory liability
+
+
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(A)In General
+382Tk1564Persons Liable
+382Tk1566Contributory liability
+
+
+For there to be liability for contributory trademark infringement, plaintiff must establish underlying direct infringement. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+20 Cases that cite this headnote
+
+
+
+[12]
+
+Federal Civil ProcedureCopyright, trademark, and unfair competition cases
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)2Particular Cases
+170Ak2493Copyright, trademark, and unfair competition cases
+
+
+Genuine issue of material fact as to whether internet search engine operator continued to supply its keyword advertising services to known trademark infringers precluded summary judgment on contributory infringement claim brought against operator by provider of technology-based language learning products and services. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+2 Cases that cite this headnote
+
+
+
+[13]
+
+TrademarksPersons Liable
+
+
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(A)In General
+382Tk1564Persons Liable
+382Tk1565In general
+
+
+Liability for vicarious trademark infringement requires finding that defendant and infringer have apparent or actual partnership, have authority to bind one another in transactions with third parties or exercise joint ownership or control over infringing product. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+9 Cases that cite this headnote
+
+
+
+[14]
+
+TrademarksPersons Liable
+
+
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(A)In General
+382Tk1564Persons Liable
+382Tk1565In general
+
+
+Internet search engine operator that auctioned keyword triggers for links sponsored to third party advertisers was not liable for vicarious trademark infringement under Lanham Act based on advertisers’ sales of counterfeit products, where there was no evidence that operator acted jointly with any advertiser to control counterfeit products. Lanham Act, § 32(a), 15 U.S.C.A. § 1114(a).
+6 Cases that cite this headnote
+
+
+
+[15]
+
+Implied and Constructive ContractsUnjust enrichment
+
+
+205HImplied and Constructive Contracts
+205HINature and Grounds of Obligation
+205HI(A)In General
+205Hk2Constructive or Quasi Contracts
+205Hk3Unjust enrichment
+
+
+Under Virginia law, cause of action for unjust enrichment rests upon doctrine that a man shall not be allowed to enrich himself unjustly at expense of another.
+2 Cases that cite this headnote
+
+
+
+[16]
+
+Implied and Constructive ContractsUnjust enrichment
+
+
+205HImplied and Constructive Contracts
+205HINature and Grounds of Obligation
+205HI(A)In General
+205Hk2Constructive or Quasi Contracts
+205Hk3Unjust enrichment
+
+
+Under Virginia law, to avoid unjust enrichment, equity will effect contract implied in law requiring one who accepts and receives services of another to make reasonable compensation for those services.
+5 Cases that cite this headnote
+
+
+
+[17]
+
+Implied and Constructive ContractsUnjust enrichment
+
+
+205HImplied and Constructive Contracts
+205HINature and Grounds of Obligation
+205HI(A)In General
+205Hk2Constructive or Quasi Contracts
+205Hk3Unjust enrichment
+
+
+Under Virginia law, plaintiff asserting unjust enrichment must demonstrate that: (1) he conferred benefit on defendant; (2) defendant knew of benefit and should reasonably have expected to repay plaintiff; and (3) defendant accepted or retained benefit without paying for its value.
+6 Cases that cite this headnote
+
+
+
+[18]
+
+ContractsImplied agreements
+
+
+95Contracts
+95IRequisites and Validity
+95I(B)Parties, Proposals, and Acceptance
+95k27Implied agreements
+
+
+Under Virginia law, “implied-in-fact contract” is actual contract that was not reduced to writing, but court infers existence of contract from parties’ conduct.
+3 Cases that cite this headnote
+
+
+
+[19]
+
+ContractsImplied agreements
+
+
+95Contracts
+95IRequisites and Validity
+95I(B)Parties, Proposals, and Acceptance
+95k27Implied agreements
+
+
+Under Virginia law, to recover under contract implied-in-fact, plaintiff must allege facts to raise implication that defendant promised to pay plaintiff for such benefit.
+3 Cases that cite this headnote
+
+
+
+[20]
+
+Implied and Constructive ContractsEffect of Express Contract
+
+
+205HImplied and Constructive Contracts
+205HINature and Grounds of Obligation
+205HI(D)Effect of Express Contract
+205Hk55In general
+
+
+Under Virginia law, concept of implied-in-law contract, or quasi contract, applies only when there is no actual contract or meeting of minds.
+5 Cases that cite this headnote
+
+
+
+[21]
+
+Implied and Constructive ContractsUnjust enrichment
+
+
+205HImplied and Constructive Contracts
+205HINature and Grounds of Obligation
+205HI(A)In General
+205Hk2Constructive or Quasi Contracts
+205Hk3Unjust enrichment
+
+
+Under Virginia law, internet search engine operator was not unjustly enriched by its auctioning of trademarks belonging to provider of technology-based language learning products and services as keyword triggers for links sponsored by third party advertisers, where there was no evidence that operator should reasonably have expected to pay for use of marks in its keyword query process.
+1 Cases that cite this headnote
+
+
+
+[22]
+
+TrademarksNature and extent of harm;  similarity, competition, and confusion
+
+
+382TTrademarks
+382TVIIIViolations of Rights
+382TVIII(B)Dilution
+382Tk1461Nature and extent of harm;  similarity, competition, and confusion
+
+
+“Trademark dilution” is whittling away of established trademark’s selling power and value through its unauthorized use by others. Lanham Act, § 43(c)(1), 15 U.S.C.A. § 1125(c)(1).
+1 Cases that cite this headnote
+
+
+
+[23]
+
+TrademarksOf one’s own product;  fair use
+
+
+382TTrademarks
+382TVIIIViolations of Rights
+382TVIII(D)Defenses, Excuses, and Justifications
+382Tk1521Justified or Permissible Uses
+382Tk1523Identification or Description
+382Tk1523(2)Of one’s own product;  fair use
+
+
+Fair use essentially amounts to affirmative defense against claim of trademark dilution. Lanham Act, § 43(c)(3)(A), 15 U.S.C.A. § 1125(c)(3)(A).
+2 Cases that cite this headnote
+
+
+
+[24]
+
+TrademarksNature and Elements in General
+
+
+382TTrademarks
+382TVIIIViolations of Rights
+382TVIII(B)Dilution
+382Tk1458Nature and Elements in General
+382Tk1459In general
+
+
+To state prima facie dilution claim under Federal Trademark Dilution Act (FTDA), plaintiff must show that: (1) plaintiff owns famous mark that is distinctive; (2) defendant has commenced using mark in commerce that allegedly is diluting famous mark; (3) similarity between defendant’s mark and famous mark gives rise to association between marks; and (4) association is likely to impair famous mark’s distinctiveness or likely to harm famous mark’s reputation. Lanham Act, § 43(c)(1), 15 U.S.C.A. § 1125(c)(1).
+39 Cases that cite this headnote
+
+
+
+[25]
+
+TrademarksDefenses, excuses, and justifications
+
+
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(C)Evidence
+382Tk1601Presumptions and Burden of Proof
+382Tk1612Defenses, excuses, and justifications
+
+
+Once famous mark’s owner establishes prima facie case of trademark dilution by blurring or tarnishment, it falls to defendant to demonstrate that its use constituted fair use other than as designation of source for defendant’s own goods or services. Lanham Act, § 43(c)(3)(A), 15 U.S.C.A. § 1125(c)(3)(A).
+8 Cases that cite this headnote
+
+
+
+[26]
+
+TrademarksOf one’s own product;  fair use
+
+
+382TTrademarks
+382TVIIIViolations of Rights
+382TVIII(D)Defenses, Excuses, and Justifications
+382Tk1521Justified or Permissible Uses
+382Tk1523Identification or Description
+382Tk1523(2)Of one’s own product;  fair use
+
+
+Defendant in trademark dilution action must show that its use of mark was in good faith in order to establish fair use defense under Federal Trademark Dilution Act (FTDA). Lanham Act, § 43(c)(3)(A), 15 U.S.C.A. § 1125(c)(3)(A).
+7 Cases that cite this headnote
+
+
+
+[27]
+
+Federal Civil ProcedureCopyright, trademark, and unfair competition cases
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)2Particular Cases
+170Ak2493Copyright, trademark, and unfair competition cases
+
+
+Genuine issues of material fact as to whether internet search engine operator’s use of marks owned by provider of technology-based language learning products and services as keyword triggers for links sponsored by third party advertisers diluted provider’s marks, and whether provider’s marks were famous when operator first permitted their use as keyword triggers precluded summary judgment on provider’s trademark dilution claim against operator. Lanham Act, § 43(c)(1), 15 U.S.C.A. § 1125(c)(1).
+Cases that cite this headnote
+
+
+
+[28]
+
+TrademarksMarks protected;  strength or fame
+
+
+382TTrademarks
+382TVIIIViolations of Rights
+382TVIII(B)Dilution
+382Tk1468Marks protected;  strength or fame
+
+
+Defendant’s first diluting use of famous mark fixes time by which famousness is to be measured for purposes of Federal Trademark Dilution Act (FTDA). Lanham Act, § 43(c)(1), 15 U.S.C.A. § 1125(c)(1).
+7 Cases that cite this headnote
+
+
+
+[29]
+
+TrademarksAlphabetical listing
+
+
+382TTrademarks
+382TXITrademarks and Trade Names Adjudicated
+382Tk1800Alphabetical listing
+
+
+ROSETTA STONE.
+Cases that cite this headnote
+
+
+
+[30]
+
+TrademarksAlphabetical listing
+
+
+382TTrademarks
+382TXITrademarks and Trade Names Adjudicated
+382Tk1800Alphabetical listing
+
+
+ROSETTA STONE LANGUAGE LEARNING SUCCESS.
+Cases that cite this headnote
+
+
+
+[31]
+
+TrademarksAlphabetical listing
+
+
+382TTrademarks
+382TXITrademarks and Trade Names Adjudicated
+382Tk1800Alphabetical listing
+
+
+ROSETTA WORLD.
+Cases that cite this headnote
+
+
+
+[32]
+
+TrademarksAlphabetical listing
+
+
+382TTrademarks
+382TXITrademarks and Trade Names Adjudicated
+382Tk1800Alphabetical listing
+
+
+ROSETTASTONE.COM.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*148 ARGUED: Clifford M. Sloan, Skadden, Arps, Slate, Meagher & Flom, LLP, Washington, D.C., for Appellant. Margret Mary Caruso, Quinn, Emanuel, Urquhart & Sullivan, LLP, Redwood Shores, California, for Appellee. ON BRIEF: Mitchell S. Ettinger, Jennifer L. Spaziano, Skadden, Arps, Slate, Meagher & Flom, LLP, Washington, D.C., for Appellant. Cheryl A. Galvin, Henry Lien, Austin D. Tarango, Quinn, Emanuel, Urquhart & Sullivan, LLP, Redwood Shores, California; Jonathan D. Frieden, Odin, Feldman & Pittleman, PC, Fairfax, Virginia, for Appellee. Charles Lee Thomason, Spalding & Thomason, Bardstown, Kentucky, for The UK Intellectual Property Law Society, Amicus Curiae. David H. Bernstein, Debevoise & Plimpton LLP, New York, New York; Kurt E. Anderson, Giordano, Halleran & Ciesla, PC, Red Bank, New *149 Jersey; A. Justin Ourso, III, Jones, Walker, Waechter, Poitevent, Carrere & Denegre LLP, Baton Rouge, Louisiana, for International Trademark Association, Amicus Supporting Appellant. Marcia B. Paul, Kevan Choset, Davis Wright Tremaine LLP, New York, New York, Daniel P. Reing, Davis Wright Tremaine LLP, Washington, D.C., for Blues Destiny Records, LLC, Carfax, Incorporated, Harmon International Industries, Incorporated, The Media Institute, and Viacom, Inc.; Mark S. Sparschu, Brooks Kushman PC, Southfield, Michigan, for Ford Motor Company, Amici Supporting Appellant. Randall K. Miller, Arnold & Porter, McLean, Virginia, Roberta L. Horton, Tricia A. Cross, Brent S. LaBarge, Arnold & Porter LLP, Washington, D.C., for Burlington Coat Factory Warehouse Corporation, Business Software Alliance, Chanel, Incorporated, Coach, Incorporated, Government Employees Insurance Company, Harrah’s Entertainment, Incorporated, Longchamp USA, Incorporated, National Football League, Oakley, Incorporated, Professional Golfers’ Association of America, Incorporated, Rolls–Royce North America, Incorporated, S.A.S. Jean Cassegrain, Sunkist Growers, Incorporated, Swarovski North America, Ltd., The Association for Competitive Technology, The Sunrider Corporation, TiVo, Incorporated, Tiffany & Company, Tumi, Incorporated, and United Continental Holdings, Incorporated, Amici Supporting Appellant. Brad R. Newberg, Reed Smith LLP, Falls Church, Virginia, for 1–800 Contacts, Incorporated, ConvaTec, Incorporated, Guru Denim, Incorporated, Monster Cable Products, Incorporated, and PetMed Express, Inc., Amici Supporting Appellant. Thomas G. Southard, Karl Wm. Means, Alan B. Sternstein, Shulman, Rogers, Gandal, Pordy & Ecker, PA, Potomac, Maryland, for Volunteers of America, Amicus Supporting Appellant. Paul Alan Levy, Public Citizen Litigation Group, Washington, D.C., for Public Citizen, Amicus Supporting Appellee. Harold Feld, John Bergmayer, Rashmi Rangnath, Public Knowledge, Washington, D.C.; Corynne McSherry, Electronic Frontier Foundation, San Francisco, California, for Public Knowledge and Electronic Frontier Foundation, Amici Supporting Appellee. R. Bruce Rich, Jonathan Bloom, Mark J. Fiore, Weil, Gotshal & Manges LLP, New York, New York, Michael Lyle, Weil, Gotshal & Manges LLP, Washington, D.C., for Yahoo! Incorporated and eBay, Incorporated, Amici Supporting Appellee.
+Before TRAXLER, Chief Judge, KEENAN, Circuit Judge, and HAMILTON, Senior Circuit Judge.
+
+Affirmed in part, vacated in part, and remanded by published opinion. Chief Judge TRAXLER wrote the opinion, in which Judge KEENAN and Senior Judge HAMILTON joined.
+
+
+OPINION
+TRAXLER, Chief Judge:
+Appellant Rosetta Stone Ltd. appeals from an order, see Rosetta Stone Ltd. v. Google Inc., 730 F.Supp.2d 531 (E.D.Va.2010), granting summary judgment against Rosetta Stone on its claims against Appellee Google Inc. for trademark infringement, see 15 U.S.C. § 1114(1)(a); contributory and vicarious trademark infringement; and trademark dilution, see 15 U.S.C. § 1125(c)(1). Rosetta Stone also appeals from an order dismissing its unjust enrichment claim under Virginia Law. See Rosetta Stone Ltd. v. Google Inc., 732 F.Supp.2d 628 (E.D.Va.2010). For the reasons that follow, we affirm the district court’s order with respect to the vicarious infringement and unjust enrichment claims; however, we vacate the district *150 court’s order with respect to the direct infringement, contributory infringement and dilution claims and remand these claims for further proceedings.
+ 
+
+I. Background
+In conducting a de novo review of the district court’s order granting summary judgment in favor of Google, “we view the facts and draw all reasonable inferences therefrom in the light most favorable to [Rosetta Stone], as the nonmoving party.” Georgia Pac. Consumer Prods., LP v. Von Drehle Corp., 618 F.3d 441, 445 (4th Cir.2010). Bearing this standard in mind, we review the underlying facts briefly.
+ 
+Rosetta Stone began in 1992 as a small, family-owned business that marketed its language-learning software under the brand name “Rosetta Stone.”1 By 2006, Rosetta Stone had become an industry leader in technology-based language-learning products and online services, and, by January 2010, it had become a publicly traded corporation with 1,738 employees and gross revenues of approximately $252 million. Its products consist of “software, online services and audio practice tools” available in over thirty languages. J.A. 203.
+ 
+Rosetta Stone owns and uses several registered marks in connection with its products and services: ROSETTA STONE, ROSETTA STONE LANGUAGE LEARNING SUCCESS, ROSETTASTONE.COM, and ROSETTA WORLD. Using this family of registered marks, Rosetta Stone markets its brand through various types of media, including the Internet, television, radio, magazines and other print media, and kiosks in public venues. From 2003 through 2009, Rosetta Stone spent approximately $57 million for television and radio advertising, $40 million for print media marketing, and $12.5 million to advertise on the Internet. In 2009, Rosetta Stone’s marks enjoyed the highest level of brand recognition by far in the domestic language-learning market.2 Rosetta Stone has achieved international success as well, with its products in use in over 150 countries.
+ 
+Rosetta Stone began advertising in connection with Google’s website and online services in 2002 and has continued to do so since that time. Google operates one of the world’s most popular Internet search engines—programs that enable individuals to find websites and online content, generally through the use of a “keyword” search. See Retail Servs., Inc. v. Freebies Publ’g, 364 F.3d 535, 541 n. 1 (4th Cir.2004). When an Internet user enters a word or phrase—the keyword or keywords—into Google’s search engine, Google returns a results list of links to *151 websites that the search engine has determined to be relevant based on a proprietary algorithm.
+ 
+In addition to the natural list of results produced by the keyword search, Google’s search engine also displays paid advertisements known as “Sponsored Links” with the natural results of an Internet search. Google’s AdWords advertising platform permits a sponsor to “purchase” keywords that trigger the appearance of the sponsor’s advertisement and link when the keyword is entered as a search term. In other words, an advertiser purchases the right to have his ad and accompanying link displayed with the search results for a keyword or combination of words relevant to the advertiser’s business. Most sponsors advertising with Google pay on a “cost-per-click” basis, meaning that the advertiser pays whenever a user of Google’s search engine clicks on the sponsored link.
+ 
+Google displays up to three sponsored links in a highlighted box immediately above the natural search results, and it also displays sponsored links to the right of the search results, but separated by a vertical line. As this suggests, more than one sponsor can purchase the same keyword and have a link displayed when a search for that keyword is conducted. Would-be advertisers purchase their desired keywords through an auction where advertisers bid competitively against each other for page position on the search results page. Generally speaking, users of the Internet are apparently more likely to click on ads that appear higher up on the search results page. Accordingly, an advertiser will try to outbid its competitors for the top positions in order to maximize the number of clicks on the advertiser’s text ads. For the advertiser, more clicks yield increased web traffic, which means more potential website sales. Google, in turn, benefits by placing the most relevant ads in the most desirable locations, which increases the likelihood of a high click-through rate and leads to increased advertising revenue.
+ 
+An advertiser must register for a Google AdWords account before bidding on a keyword. Under AdWords’ boilerplate terms and conditions, the account holder must agree to assume responsibility for its selected keywords, for all advertising content, and for “ensuring that [its] use of the keywords does not violate any applicable laws.” J.A. 4081. Account holders must also agree to refrain from “advertis[ing] anything illegal or engag[ing] in any illegal or fraudulent business practice.” J.A. 2382.
+ 
+Prior to 2004, Google’s policy precluded both the use of trademarks in the text of an advertisement and the use of trademarks as keywords upon request of the trademark owner. In 2004, Google loosened its trademark usage policy to allow the use of third-party trademarks as keywords even over the objection of the trademark owner. Google later even introduced a trademark-specific keyword tool that suggested relevant trademarks for Google’s advertising clients to bid on as keywords. Google, however, continued to block the use of trademarks in the actual advertisement text at the request of a trademark owner. At that time, Google’s internal studies suggested the unrestricted use of trademarks in the text of an advertisement might confuse Internet users.
+ 
+Finally, in 2009, Google changed its policy to permit the limited use of trademarks in advertising text in four situations: (1) the sponsor is a reseller of a genuine trademarked product; (2) the sponsor makes or sells component parts for a trademarked product; (3) the sponsor offers compatible parts or goods for use with the trademarked product; or (4) the sponsor provides information about or reviews *152 a trademarked product. Google’s policy shift came after it developed the technology to automatically check the linked websites to determine if the sponsor’s use of the trademark in the ad text was legitimate.3
+ 
+Rosetta Stone contends that Google’s policies concerning the use of trademarks as keywords and in ad text created not only a likelihood of confusion but also actual confusion as well, misleading Internet users into purchasing counterfeit ROSETTA STONE software. Moreover, Rosetta Stone alleges that it has been plagued with counterfeiters since Google announced its policy shift in 2009. According to Rosetta Stone, between September 3, 2009, and March 1, 2010, it was forced to report 190 instances to Google in which one of Google’s sponsored links was marketing counterfeit ROSETTA STONE products.
+ 
+Rosetta Stone filed this action against Google, asserting several claims: direct trademark infringement under the Lanham Act, see 15 U.S.C. § 1114(1)(a); contributory trademark infringement; (3) vicarious trademark infringement; (4) trademark dilution, see 15 U.S.C. § 1125(c)(1); and (5) unjust enrichment. Google filed a motion for summary judgment as to all claims except unjust enrichment. As to that claim, Google moved to dismiss. The district court granted Google’s motion for summary judgment on all claims and granted the motion to dismiss the unjust enrichment claim. The district court denied Rosetta Stone’s cross-motion for partial summary judgment.
+ 
+
+II. Direct Infringement
+The district court entered summary judgment against Rosetta Stone as to its direct trademark infringement claim, concluding (A) that there is not a genuine issue of fact as to whether Google’s use of ROSETTA STONE created a likelihood of confusion; and (B) that the “functionality doctrine” shielded Google from liability in any event. We conclude that neither ground can sustain the summary judgment order as to this claim. Accordingly, we vacate the district court’s order as it pertains to the direct infringement claim and remand for further proceedings.
+ 
+
+A. Likelihood of Confusion
+[1] To establish trademark infringement under the Lanham Act, a plaintiff must prove: (1) that it owns a valid mark; (2) that the defendant used the mark “in commerce” and without plaintiff’s authorization; (3) that the defendant used the mark (or an imitation of it) “in connection with the sale, offering for sale, distribution, or advertising” of goods or services; and (4) that the defendant’s use of the mark is likely to confuse consumers. 15 U.S.C. § 1114(a); see Louis Vuitton Malletier S.A. v. Haute Diggity Dog, LLC, 507 F.3d 252, 259 (4th Cir.2007); People for the Ethical Treatment of Animals v. Doughney, 263 F.3d 359, 364 (4th Cir.2001).
+ 
+According to the district court, Google did not dispute that Rosetta Stone was able to surmount the summary judgment barrier on all of the infringement elements except the likelihood of confusion element. See Rosetta Stone, 730 F.Supp.2d at 540–41. On appeal, Google does not take issue with this statement.4 Thus, we assume for *153 purposes of this appeal that Google’s policy permitting advertisers to use Rosetta Stone’s marks as keywords in the AdWords program and to use Rosetta Stone’s marks in the text of advertisements constituted an unauthorized use “in commerce” and “in connection with the sale, offering for sale, distribution, or advertising of any goods or services.” 15 U.S.C. § 1114(1)(a). The only question for us on Rosetta Stone’s direct trademark infringement claim is whether there is sufficient evidence for a finder of fact to conclude that Google’s “use” of the mark in its AdWords program is “likely to produce confusion in the minds of consumers about the origin of the goods or services in question.” CareFirst of Md., Inc. v. First Care, P.C., 434 F.3d 263, 267 (4th Cir.2006) (internal quotation marks omitted).
+ 
+This court has articulated at least nine factors that generally are relevant to the “likelihood of confusion” inquiry:
+(1) the strength or distinctiveness of the plaintiff’s mark as actually used in the marketplace; (2) the similarity of the two marks to consumers; (3) the similarity of the goods or services that the marks identify; (4) the similarity of the facilities used by the markholders; (5) the similarity of advertising used by the markholders; (6) the defendant’s intent; (7) actual confusion; (8) the quality of the defendant’s product; and (9) the sophistication of the consuming public.
+George & Co., LLC v. Imagination Entm’t Ltd., 575 F.3d 383, 393 (4th Cir.2009). Although summary judgment on the likelihood of confusion issue is certainly permissible in appropriate cases, we have noted this is “an inherently factual issue that depends on the facts and circumstances in each case.” Lone Star Steakhouse & Saloon, Inc. v. Alpha of Va., Inc., 43 F.3d 922, 933 (4th Cir.1995) (internal quotation marks omitted).
+ 
+The district court indicated that “only three of the nine confusion factors are in dispute: (1) defendant’s intent; (2) actual confusion; and (3) the consuming public’s sophistication.” Rosetta Stone, 730 F.Supp.2d at 541. Weighing both Rosetta Stone’s evidence and Google’s rebuttal evidence, the district court concluded that all three “disputed” factors favored Google. The district court then stated that it had “[b]alanc[ed] all of the disputed likelihood of confusion factors, ... [and] conclude[d] that Google’s use of the Rosetta Stone Marks d[id] not amount to direct trademark infringement.” Id. at 545. On appeal, Rosetta Stone argues that the district court failed to consider the effect of the other “undisputed” confusion factors, suggesting that all of these factors favor Rosetta Stone. Rosetta Stone also contends that there was sufficient evidence to create a genuine issue of fact as to whether the three “disputed” confusion factors favored Google or Rosetta Stone. We address these arguments in turn.
+ 
+
+1. Failure to Address All Factors
+[2] Rosetta Stone contends that the district court’s failure to consider all nine of the traditional likelihood-of-confusion *154 factors was reversible error. We cannot agree. This judicially created list of factors is not intended to be exhaustive or mandatory. See Pizzeria Uno Corp. v. Temple, 747 F.2d 1522, 1527 (4th Cir.1984) (setting forth factors one through seven); see also Sara Lee Corp. v. Kayser–Roth Corp., 81 F.3d 455, 463–64 (4th Cir.1996) (identifying factors eight and nine). These “factors are not always weighted equally, and not all factors are relevant in every case.” Louis Vuitton, 507 F.3d at 259–60. In fact, “there is no need for each factor to support [the plaintiff’s] position on the likelihood of confusion issue.” Synergistic Int’l, LLC v. Korman, 470 F.3d 162, 171 (4th Cir.2006). Rather, the confusion “factors are only a guide—a catalog of various considerations that may be relevant in determining the ultimate statutory question of likelihood of confusion.” Anheuser–Busch, Inc. v. L & L Wings, Inc., 962 F.2d 316, 320 (4th Cir.1992). Accordingly, there is no hard and fast rule that obligates the district court to discuss each non-mandatory factor.
+ 
+This is especially true when the offending use of the plaintiff’s trademark is referential or nominative in nature. See Century 21 Real Estate Corp. v. Lendingtree, Inc., 425 F.3d 211, 217 (3d Cir.2005). Unlike the typical infringement fact-pattern wherein the defendant “passe[s] off another’s mark as its own” and “confus[es] the public as to precisely whose goods are being sold,” id., a nominative use is one in which the defendant uses the plaintiff’s trademark to identify the plaintiff’s own goods, see Tiffany (NJ) Inc. v. eBay Inc., 600 F.3d 93, 102 (2d Cir.2010), and “makes it clear to consumers that the plaintiff, not the defendant, is the source of the trademarked product or service,” Century 21, 425 F.3d at 220; see Tiffany, 600 F.3d at 102 (explaining that a “nominative fair use” does not create “confusion about the source of [the] defendant’s product” (internal quotation marks omitted)). An example of this type of use would be where an automobile repair shop specializing in foreign vehicles runs an advertisement using the trademarked names of various makes and models to highlight the kind of cars it repairs. See New Kids On The Block v. News Am. Publ’g, Inc., 971 F.2d 302, 306–07 (9th Cir.1992).
+ 
+In the context of a referential or nominative type of use, the application of the traditional multi-factor test is difficult because often many of the factors “are either unworkable or not suited or helpful as indicators of confusion in this context.” Century 21, 425 F.3d at 224; see Playboy Enters., Inc. v. Welles, 279 F.3d 796, 801 (9th Cir.2002). For example, the first two factors in our list—the similarity of the marks and the strength of the plaintiff’s mark—are clearly of limited value for assessing the kind of use at issue here. Consideration of the similarity of the marks will always suggest the presence of consumer confusion—the mark used will always be identical “because, by definition, nominative use involves the use of another’s trademark in order to describe the trademark owner’s own product.” Century 21, 425 F.3d at 224. The similarity factor does not account for context and “lead[s] to the incorrect conclusion that virtually all nominative uses are confusing.” Playboy Enters., 279 F.3d at 801.
+ 
+[3] The strength of the plaintiff’s mark is also of limited probative value as to the confusion created by a nominative use. When a defendant creates an association between its goods or services and plaintiff’s mark, the strength of the mark is relevant since encroachment upon a strong mark is more likely to cause confusion. See CareFirst of Md., 434 F.3d at 270 (“A strong trademark is one that is rarely used by parties other than the owner of the *155 trademark, while a weak trademark is one that is often used by other parties.” (internal quotation marks omitted)). Of course, in the nominative use context, the defendant is not passing off its products under the plaintiff’s mark but rather is using plaintiff’s mark to refer to plaintiff’s own products. The strength of the mark is often not informative as to confusion in this context. See Century 21, 425 F.3d at 225.
+ 
+The district court also did not address the two factors relating to the trademarked goods—the similarity of the parties’ goods and services and the quality of the defendant’s goods. Because Google offers no products or services under Rosetta Stone’s mark, these factors are irrelevant in this context.
+ 
+The final two factors not addressed by the district court—the similarity of facilities and the similarity of advertising—are likewise of no relevance here. When considering the similarity of facilities, courts are trying to determine if confusion is likely based on “how and to whom the respective goods of the parties are sold,” and the key question is whether “both products [are] sold in the same ‘channels of trade.’ ” 4 J. Thomas McCarthy, McCarthy on Trademarks and Unfair Competition § 24:51 [hereinafter McCarthy on Trademarks]; see Sara Lee Corp., 81 F.3d at 466 (similarity of distribution channels favored confusion where the parties’ products were sold, “often side-by-side,” in the same mass merchandising outlets). As Google distributes no respective product via the Internet or other outlets, this factor does not aid the likelihood-of-confusion analysis in this case.
+ 
+We hasten to add that we are not adopting a position about the viability of the nominative fair-use doctrine as a defense to trademark infringement or whether this doctrine should formally alter our likelihood-of-confusion test in some way. That question has not been presented here and we leave it for another day. We have merely attempted to highlight the problems inherent in the robotic application of each and every factor in a case involving a referential, nontrademark use. Accordingly, the district court did not commit reversible error in failing to address every factor. In the future, however, a district court opting not to address a given factor or group of factors should provide at least a brief explanation of its reasons.
+ 
+
+2. Remaining “Disputed” Factors: Genuine Issues of Fact
+[4] Nevertheless, we agree that summary judgment should not have been granted. As explained in the discussion that follows, the district court did not properly apply the summary judgment standard of review but instead viewed the evidence much as it would during a bench trial.
+ 
+
+(a) Intent
+The district court concluded that no reasonable trier of fact could find that Google intended to create confusion by permitting the use of ROSETTA STONE in the text of sponsored links or as keywords in Google’s AdWords program. The court found it especially significant that “there is no evidence that Google is attempting to pass off its goods or services as Rosetta Stone’s.” Id. at 541.
+ 
+The record shows that prior to 2004, Google did not allow the use of trademarks as keyword search triggers for unauthorized advertisers or in the body or title of the text of an advertisement. In 2004, Google loosened its restrictions on the use of trademarks as keywords to “[p]rovide users with more choice and greater access to relevant information.” J.A. 4264. The underlying reason was largely financial, as *156 Google’s research showed that “[a]bout 7% [of its] total revenue [was] driven by [trademark]ed keywords.” J.A. 4265. With the policy shift, Google understood that “[t]here [would be] a slight increase in risk that we and our partners will be the subject of lawsuits from unhappy trademark owners.” J.A. 4271. At that time, however, Google “continue [d] to prevent advertisers from using ... trademarks in their ad text or ad titles unless the advertiser is authorized to do so by the trademark owner.” J.A. 4263. Indeed, internal studies performed by Google at this time suggested that there was significant source confusion among Internet searchers when trademarks were included in the title or body of the advertisements.
+ 
+Nonetheless, Google shifted its policy again in 2009, telling its customers and potential customers that “we are adjusting our trademark policy ... to allow some ads to use trademarks in the ad text. Under certain criteria, you can use trademark terms in your ad text ... even if you don’t own that trademark or have explicit approval from the trademark owner to use it.” J.A. 4383. Google expected a substantial boost in revenue from the policy change as well as an uptick in litigation from trademark owners. The record does not contain further Google studies or any other evidence suggesting that in 2009 source confusion relating to the use of trademarks in the body of an advertisement was any less significant than in 2004. Viewing the evidence and all reasonable inferences in a light most favorable to Rosetta Stone, as we are required to do on a motion for summary judgment, we conclude that a reasonable trier of fact could find that Google intended to cause confusion in that it acted with the knowledge that confusion was very likely to result from its use of the marks.
+ 
+
+(b) Actual Confusion
+(i) Actual Purchaser Confusion
+Rosetta Stone presented both survey and anecdotal evidence of actual confusion in connection with Google’s use of trademarks in its AdWords program. See George & Co., 575 F.3d at 398 (“Actual confusion can be demonstrated by both anecdotal and survey evidence.”). Both types of evidence are relevant, and neither category is necessarily required to prove actual confusion. See Tools USA & Equip. Co. v. Champ Frame Straightening Equip., Inc., 87 F.3d 654, 661 (4th Cir.1996).
+ 
+First, the record includes the deposition testimony of five consumers who attempted to buy a ROSETTA STONE software package via the Internet in 2009 after Google began permitting use of ROSETTA STONE and other trademarks in the text of the sponsored links. Each of these would-be customers purchased bogus ROSETTA STONE software from a sponsored link that they mistakenly believed to be either affiliated with Rosetta Stone or authorized by Rosetta Stone to resell or distribute genuine software. In each instance, the customer received fake software that would not load onto his or her computer or was so faulty after loading as to be altogether useless. Each witness testified that he or she called Rosetta Stone directly, believing that Rosetta Stone would assist because it was a defective genuine product or that Rosetta Stone had empowered the reseller to offer its products. Typical of this set of witnesses was Steve Dubow, a college-educated founder and owner of a software company. Mr. Dubow testified that he wanted to learn Spanish and, after conducting his own research on the Internet, concluded that the ROSETTA STONE brand was best for him. Mr. Dubow then described how he arrived at the decision to purchase *157 from “bossdisk.com,” one of the sponsored links that was selling counterfeit ROSETTA STONE products:
+... At the time that you entered the terms ... “Rosetta Stone” in the Google search engine ... in October 2009, do you recall whether any advertisements appeared on the first page?
+... [W]hat do you mean by advertisements?
+Q. Links that appear to you to be companies selling goods in response to your query.
+A. Yes.... There were quite a few under that description, yes.
+Q. What do you recall seeing on the search page results when you entered Rosetta Stone in the Google search engine?
+A. I saw a number of sites ... advertising Rosetta Stone software for a number of different discounted prices. What attracted us to this particular site was that they presumed to be a Rosetta Stone reseller reselling OEM or original equipment manufactured product.
+...
+Q. What do you mean by reseller?
+A. That they were a ... sanctioned reseller of Rosetta Stone product.
+J.A. 4614c–4615a. Once Mr. Dubow received the shipment from bossdisk.com and determined that the software appeared to need a key code to become fully operational, he called Rosetta Stone because he “thought that since this company was a representative perhaps they just forgot to put the welcome kit in this package and they would have a key.” J.A. 4620c.
+ 
+[5] The district court dismissed this anecdotal customer testimony as evidence of actual confusion for several reasons. We agree with Rosetta Stone that none of these reasons provide a proper basis for rejecting this testimony completely.
+ 
+First, the district court concluded that the witnesses indicated they knew they were not purchasing directly from Rosetta Stone’s site and, therefore, “none of the Rosetta Stone witnesses were confused about the source of their purchase but only as to whether what they purchased was genuine or counterfeit.” Rosetta Stone, 730 F.Supp.2d at 544. More than just source confusion is at issue in an infringement claim since “[t]he unauthorized use of a trademark infringes the trademark holder’s rights if it is likely to confuse an ordinary consumer as to the source or sponsorship of the goods.” Doughney, 263 F.3d at 366 (emphasis added) (internal quotation marks omitted). “The confusion that is remedied by trademark and unfair competition law is confusion not only as to source, but also as to affiliation, connection or sponsorship.” 4 McCarthy on Trademarks § 23:8.
+ 
+The district court also reasoned that none of the five witnesses were confused by a sponsored link “that conformed to Google’s policies—i.e., used the Rosetta Stone Marks in connection with advertising genuine goods.” Rosetta Stone, 730 F.Supp.2d at 543. This is no basis, however, for rejecting this testimony. Whether the sponsored link conforms to Google’s policy is not an issue that bears upon whether the consuming public, which is not privy to these policies, is confused by the actual use of the trademarks in sponsored links. What matters is whether “the defendant’s actual practice is likely to produce confusion in the minds of consumers about the origin of the goods or services in question.” CareFirst of Md., 434 F.3d at 267 (emphasis added) (internal quotation marks omitted).
+ 
+Finally, the district court dismissed the anecdotal evidence as de minimis given that there were only five instances of actual *158 confusion out of more than “100,000 impressions over six years.” Rosetta Stone, 730 F.Supp.2d at 543. And, indeed, “[e]vidence of only a small number of instances of actual confusion may be dismissed as de minimis ” where the number of opportunities for confusion is great. George & Co., 575 F.3d at 398; see 4 McCarthy § 23:14 (“If there is a very large volume of contacts or transactions which could give rise to confusion and there is only a handful of instances of actual confusion, the evidence of actual confusion may receive relatively little weight.”). Rosetta Stone presented the deposition testimony of five individuals who had experienced actual confusion—the maximum number of “actual confusion” depositions permitted by the district court in this case. The record, however, contains other evidence of actual confusion. Rosetta Stone presented evidence that from April 1, 2009, through December 9, 2009, Rosetta Stone’s customer care center received 123 complaints “from individuals who ha[d] purchased pirated/counterfeit software believing the software to be genuine Rosetta Stone product,” J.A. 5427, and Rosetta Stone received 139 additional complaints from December 9, 2009, through March 8, 2010. Although this evidence does not indicate whether each customer logging a complaint made the purchase via a sponsored link, it is reasonable, for purposes of summary judgment, to infer that a great number of these individuals were confused by the apparent relationship between Rosetta Stone and the sponsored link given that Google began allowing trademarks to be displayed in the ad text in 2009 and in light of the evidence showing a substantial “proliferation of sponsored links to pirate/counterfeit sites.” Id.
+ 
+
+(ii) Google’s In–House Studies and Google’s Corporate Designees
+The record also includes various in-house studies conducted by Google “to analyze user confusion (if any) associated with ads using [trademark] terms.” J.A. 4362. One of the studies showed that “the likelihood of confusion remains high” when trademark terms are used in the title or body of a sponsored link appearing on a search results page. J.A. 4366. The study recommended “that the only effective [trademark] policy ... is: (1) [to] [a]llow [trademark] usage for keywords; (2) [but] not allow [trademark] usage in ad text—title or body.” Id. And, in fact, Google’s official policy change in 2004 that continued to prohibit trademark usage in ad text was based, in part, on these internal studies. The district court concluded these studies were not evidence of actual confusion because the studies did not test consumer impressions of the ROSETTA STONE mark specifically, but of a broad cross-section of 16 different brand names of varying strengths. We conclude that these studies, one of which reflected that “94% of users were confused at least once,” are probative as to actual confusion in connection with Google’s use of trademarks; indeed, Google determined that there was “[n]o difference between strong and weak trademarks” with respect to confusion. J.A. 4375.
+ 
+Additionally, when testifying on behalf of Google as its Rule 30(b)(6) designees, two of Google’s in-house trademark attorneys were shown a Google search results page for the keyword phrase “Rosetta Stone,” and they were unable to determine without more research which sponsored links were authorized resellers of ROSETTA STONE products. The district court rejected this evidence as proof of actual confusion because the testimony appeared to the district court to “reflect a mere uncertainty about the source of a product rather than actual confusion.” Rosetta Stone, 730 F.Supp.2d at 544. “[U]ncertain[ty *159 about] the origin” of a product, however, is quintessential actual confusion evidence. Sara Lee Corp., 81 F.3d at 466. The district court should have accepted it as evidence of actual confusion for summary judgment purposes; whether it is entitled to enough weight to carry the day on the ultimate issue is a matter for trial.
+ 
+
+(iii) Dr. Kent Van Liere’s Report
+Rosetta Stone also presented a consumer confusion survey report from Dr. Kent Van Liere. Dr. Van Liere is an expert in market analysis and consumer behavior, with “experience conducting and using focus groups and surveys to measure consumer opinions ... regarding products and services,” J.A. 5448, and “design[ing] and review[ing] studies on the application of sampling and survey research methods in litigation for a variety of matters including trademark/trade dress infringement,” J.A. 5449. Dr. Van Liere “tested for actual confusion regarding the appearance of sponsored links when consumers conducted a Google search for ‘Rosetta Stone.’ ” J.A. 5449. Based on this study, Dr. Van Liere concluded that
+a significant portion of consumers in the relevant population are likely to be confused as to the origin, sponsorship or approval of the “sponsored links” that appear on the search results page after a consumer has conducted a Google search using a Rosetta Stone trademark as a keyword and/or are likely to be confused as to the affiliation, endorsement, or association of the websites linked to those “sponsored links” with Rosetta Stone.
+J.A. 5450. Specifically, Dr. Van Liere’s survey “yield[ed] a net confusion rate of 17 percent”—that is, “17 percent of consumers demonstrate actual confusion.” J.A. 5459. This result is clear evidence of actual confusion for purposes of summary judgment. Cf. Sara Lee Corp., 81 F.3d at 467 n. 15 (suggesting that survey evidence “clearly favors the defendant when it demonstrates a level of confusion much below ten percent” but noting caselaw that “hold[s] that survey evidence indicating ten to twelve percent confusion was sufficient to demonstrate actual confusion”).
+ 
+The district court, however, concluded that the survey report was “unreliable evidence of actual confusion because the result contained a measure of whether respondents thought Google ‘endorsed’ a Sponsored Link, a non-issue.” Rosetta Stone, 730 F.Supp.2d at 544. Thus, the court did not consider this survey evidence to be viable proof of actual confusion for much the same reason it rejected the deposition testimony of the five individuals who purchased counterfeit software. As we previously stated, however, trademark infringement creates a likelihood of “confusion not only as to source, but also as to affiliation, connection or sponsorship.” 4 McCarthy on Trademarks § 23:8. Accordingly, this evidence should have been added to the other evidence of actual confusion to be considered in the light most favorable to Rosetta Stone.
+ 
+
+(c) Sophistication of the Consuming Public
+The district court concluded that the consumer sophistication factor also favored a finding that Google’s use of the marks is not likely to create confusion. Noting the substantial cost of Rosetta Stone’s products (“approximately $259 for a single-level package and $579 for a three-level bundle”), as well as the time commitment required to learn a foreign language, the district court concluded that the relevant market of potential purchasers “is comprised of well-educated consumers” who “are more likely to spend time searching and learning about Rosetta Stone’s products.” *160 Rosetta Stone Ltd., 730 F.Supp.2d at 545. From there, the court inferred consumer sophistication—consumers willing to pay Rosetta Stone’s prices and, presumably, make the required time commitment “would tend to demonstrate that they are able to distinguish between the Sponsored Links and organic results displayed on Google’s search results page.” Id.
+ 
+The district court drew this inference relying on Star Industries, Inc. v. Bacardi & Co. Ltd., 412 F.3d 373 (2d Cir.2005), in which the Second Circuit noted that a court may “reach a conclusion about consumer sophistication based solely on the nature of the product or its price.” Id. at 390. This is correct if, as in Star Industries, the court is making findings of fact on the likelihood of confusion issue following a bench trial. See id. at 379. In the more relevant context of a summary judgment motion, however, that is not the case, as “[c]redibility determinations, the weighing of the evidence, and the drawing of legitimate inferences from the facts are jury functions, not those of a judge ... ruling on a motion for summary judgment.” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986).
+ 
+We conclude that there is sufficient evidence in the record to create a question of fact as to consumer sophistication that cannot be resolved on summary judgment. The record includes deposition testimony from Rosetta Stone customers who purchased counterfeit ROSETTA STONE software from sponsored links that they believed to be either affiliated with or authorized by Rosetta Stone to sell genuine software. The evidence also includes an internal Google study reflecting that even well-educated, seasoned Internet consumers are confused by the nature of Google’s sponsored links and are sometimes even unaware that sponsored links are, in actuality, advertisements. At the summary judgment stage, we cannot say on this record that the consumer sophistication factor favors Google as a matter of law. There is enough evidence, if viewed in a light most favorable to Rosetta Stone, to find that this factor suggests a likelihood of confusion.
+ 
+[6] In sum, we conclude that there is sufficient evidence in the record to create a question of fact on each of the “disputed” factors—intent, actual confusion, and consumer sophistication—to preclude summary judgment. Because the district court’s likelihood-of-confusion analysis was limited only to these “disputed” factors, the likelihood-of-confusion issue cannot be resolved on summary judgment, and we vacate the district court’s order in this regard.5
+ 
+
+*161 B. Functionality
+[7] As an alternate to its conclusion that Rosetta Stone failed to forecast sufficient evidence to establish a likelihood of confusion, the district court held that the use of the ROSETTA STONE marks as keywords was protected by the “functionality doctrine” and, as such, was non-infringing as a matter of law. See Rosetta Stone, 730 F.Supp.2d at 545. Because the functionality doctrine does not apply in these circumstances, however, we conclude that the district court erred in awarding summary judgment to Google on this basis.
+ 
+The functionality doctrine developed as a common law rule prohibiting trade dress or trademark rights in the functional features of a product or its packaging. See Wilhelm Pudenz, GmbH v. Littlefuse, Inc., 177 F.3d 1204, 1207 (11th Cir.1999); 1 McCarthy § 7:63. The purpose of the doctrine is to preserve the distinction between the realms of trademark law and patent law:
+The functionality doctrine prevents trademark law, which seeks to promote competition by protecting a firm’s reputation, from instead inhibiting legitimate competition by allowing a producer to control a useful product feature. It is the province of patent law, not trademark law, to encourage invention by granting inventors a monopoly over new product designs or functions for a limited time, after which competitors are free to use the innovation. If a product’s functional features could be used as trademarks, however, a monopoly over such features could be obtained without regard to whether they qualify as patents and could be extended forever (because trademarks may be renewed in perpetuity).
+Qualitex Co. v. Jacobson Prods. Co., 514 U.S. 159, 164–65, 115 S.Ct. 1300, 131 L.Ed.2d 248 (1995) (internal citation omitted); see Georgia–Pacific Consumer Prods., LP v. Kimberly–Clark Corp., 647 F.3d 723, 727 (7th Cir.2011) (explaining that “patent law alone protects useful designs from mimicry; the functionality doctrine polices the division of responsibilities between patent and trademark law by invalidating marks on useful designs” (internal quotation marks omitted)).
+ 
+[8] In 1998, Congress adopted the functionality doctrine by explicitly prohibiting trademark registration or protection under the Lanham Act for a functional product feature, see 15 U.S.C. § 1052(e)(5) (prohibiting registration of a mark which “comprises any matter that, as a whole, is functional”), and by making functionality a statutory defense to an incontestably registered mark, see 15 U.S.C. § 1115(b)(8); see generally 1 McCarthy § 7:63. Although the Lanham Act does not define the term “functional,” see 15 U.S.C. § 1127, the Supreme Court has explained that “a product feature is functional if it is essential to the use or purpose of the article or if it affects the cost or quality of the article.” Inwood Labs., Inc. v. Ives Labs., Inc., 456 U.S. 844, 850 n. 10, 102 S.Ct. 2182, 72 L.Ed.2d 606 (1982); see TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23, 32–33, 121 S.Ct. 1255, 149 L.Ed.2d 164 (2001). Under Inwood’s traditional rule, a product feature is functional if it is “the reason the device works,” Board of Supervisors v. Smack Apparel Co., 550 F.3d 465, 486 (5th Cir.2008) (internal quotation marks omitted), or it “constitute[s] the actual benefit that the customer wishes to purchase, as distinguished from an assurance that a particular entity made, sponsored, or endorsed a product,” Clamp Mfg. Co. v. Enco Mfg. *162 Co., 870 F.2d 512, 516 (9th Cir.1989) (internal quotation marks omitted); see I.P. Lund Trading v. Kohler Co., 163 F.3d 27, 37 n. 5 (1st Cir.1998). (“[F]unctional features or designs should be defined as those that are driven by practical, engineering-type considerations such as making the product work more efficiently, with fewer parts and longer life, or with less danger to operators, or be shaped so as to reduce expenses of delivery or damage in shipping.” (internal quotation marks omitted)).6
+ 
+The district court did not conclude, nor could it, that Rosetta Stone’s marks were functional product features or that Rosetta Stone’s own use of this phrase was somehow functional. Instead, the district court concluded that trademarked keywords—be it ROSETTA STONE or any other mark—are “functional” when entered into Google’s AdWords program:
+The keywords ... have an essential indexing function because they enable Google to readily identify in its databases relevant information in response to a web user’s query ... [T]he keywords also serve an advertising function that benefits consumers who expend the time and energy to locate particular information, goods, or services, and to compare prices.
+Rosetta Stone, 730 F.Supp.2d at 546.
+ 
+The functionality doctrine simply does not apply in these circumstances. The functionality analysis below was focused on whether Rosetta Stone’s mark made Google’s product more useful, neglecting to consider whether the mark was functional as Rosetta Stone used it. Rosetta Stone uses its registered mark as a classic source identifier in connection with its language learning products. Clearly, there is nothing functional about Rosetta Stone’s use of its own mark; use of the words “Rosetta Stone” is not essential for the functioning of its language-learning products, which would operate no differently if Rosetta Stone had branded its product “SPHINX” instead of ROSETTA STONE. See Playboy Enters., Inc. v. Netscape Commc’ns Corp., 354 F.3d 1020, 1030–31 (9th Cir.2004) (“Nothing about the marks used to identify PEI’s products is a functional part of the design of those products” since “PEI could easily have called its magazine and its models entirely different things without losing any of their intended function.”). Once it is determined that the product feature—the word mark ROSETTA STONE in this case—is not functional, then the functionality doctrine has no application, and it is irrelevant whether Google’s computer program functions better by use of Rosetta Stone’s nonfunctional mark. See id. at 1031 (concluding that “[t]he fact that the [word] marks make defendants’ computer program more functional is irrelevant” where plaintiff used its word marks merely to identify its products).
+ 
+As the case progresses on remand, Google may well be able to establish that its use of Rosetta Stone’s marks in its AdWords program is not an infringing use of such marks; however, Google will not be able to do so based on the functionality *163 doctrine. The doctrine does not apply here, and we reject it as a possible affirmative defense for Google.
+ 
+
+III. Contributory Infringement
+[9] [10] [11] Rosetta Stone next challenges the district court’s grant of summary judgment in favor of Google on the contributory trademark infringement claim. Contributory infringement is a “judicially created doctrine” that “derive[s] from the common law of torts,” Von Drehle, 618 F.3d at 449, under which liability may be imposed upon those who facilitate or encourage infringement, see 4 McCarthy on Trademarks § 25:17. The Supreme Court explained in Inwood Laboratories that
+if a manufacturer or distributor intentionally induces another to infringe a trademark, or if it continues to supply its product to one whom it knows or has reason to know is engaging in trademark infringement, the manufacturer or distributor is contributorily responsible for any harm done as a result of the deceit.
+456 U.S. at 854, 102 S.Ct. 2182. It is not enough to have general knowledge that some percentage of the purchasers of a product or service is using it to engage in infringing activities; rather, the defendant must supply its product or service to “identified individuals” that it knows or has reason to know are engaging in trademark infringement. See Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417, 439 n. 19, 104 S.Ct. 774, 78 L.Ed.2d 574 (1984) (contributory trademark infringement requires a showing that the defendant “intentionally induc[ed] its customers to make infringing uses” of the marks or “suppl[ied] its products to identified individuals known by it to be engaging in continuing infringement” (internal quotation marks omitted)). Finally, for there to be liability for contributory trademark infringement, the plaintiff must establish underlying direct infringement. See Von Drehle, 618 F.3d at 451. In other words, there must necessarily have been an infringing use of the plaintiff’s mark that was encouraged or facilitated by the defendant.
+ 
+The district court recognized that Rosetta Stone had come forward with evidence relevant to its contributory infringement claim. The most significant evidence in this regard reflected Google’s purported allowance of known infringers and counterfeiters to bid on the Rosetta Stone marks as keywords:
+[The evidence included] a spreadsheet that Google received which reflects the dates when Rosetta Stone advised Google that a Sponsored Link was fraudulent, the domain names associated with each such Sponsored Link, the text of each Sponsored Link, and the date and substance of Google’s response. As documented, from September 3, 2009 through March 1, 2010, Rosetta Stone notified Google of approximately 200 instances of Sponsored Links advertising counterfeit Rosetta Stone products. Rosetta Stone contends that even after being notified of these websites, Google continued to allow Sponsored Links for other websites by these same advertisers to use the Rosetta Stone Marks as keyword triggers and in the text of their Sponsored Link advertisements. For example, between October 2009 to December 2009, 110 different Sponsored Links purportedly selling Rosetta Stone products used “Rosetta Stone” as a keyword trigger, and most of the Links included “Rosetta Stone” or “Rosettastone” in their display. Registered to the same individual, these 110 Links were displayed on 356,675 different search-results pages.
+*164 Rosetta Stone, 730 F.Supp.2d at 547 (internal citations omitted).
+ 
+Nevertheless, the district court indicated it was “unpersuaded” by this evidence. Id. at 547. The district court’s conclusion was based largely on Tiffany (NJ) Inc. v. eBay Inc., 600 F.3d 93 (2d Cir.2010), in which the Second Circuit rejected a contributory trademark infringement claim against an Internet auction site, eBay, by a trademark owner, Tiffany, whose mark was being used by jewelry counterfeiters on eBay’s site. The record at trial in that case contained evidence “demonstrat[ing] that eBay had generalized notice that some portion of the Tiffany goods sold on its website might be counterfeit,” id. at 106, having received “thousands of [Notice of Claimed Infringement Forms] [Tiffany] filed with eBay alleging ... that certain listings were counterfeit,” id. The Second Circuit concluded that such evidence was insufficient to satisfy Inwood’s “knows or has reason to know” requirement and that Tiffany “would have to show that eBay knew or had reason to know of specific instances of actual infringement beyond those that it addressed upon learning of them.” Id. at 107 (emphasis added; internal quotation marks omitted). The Second Circuit noted, however, that had there been evidence of willful blindness, that would have satisfied the Inwood standard. See id. at 109. “[C]ontributory liability may arise where a defendant is (as was eBay here) made aware that there was infringement on its site but (unlike eBay here) ignored that fact.” Id. at 110 n. 15.7
+ 
+Applying Tiffany, the district court concluded that Rosetta Stone failed to establish with the requisite specificity that Google knew or should have known of the infringing activity:
+Comparing the evidence of knowledge attributed to eBay to the roughly 200 notices Google received of Sponsored Links advertising counterfeit Rosetta Stone products on its search results pages, the Court necessarily holds that Rosetta Stone has not met the burden of showing that summary judgment is proper as to its contributory trademark infringement claim.
+See Rosetta Stone, 730 F.Supp.2d at 549 (emphasis added). The court also noted that Google did not turn a blind eye to Rosetta Stone’s complaints about counterfeiters, explaining that “[t]here is little Google can do beyond expressly prohibiting advertisements for counterfeit goods, taking down those advertisements when it learns of their existence, and creating a team dedicated to fighting advertisements for counterfeit goods.” Id. at 548.
+ 
+[12] On appeal, Rosetta Stone argues that the district court misapplied the standard of review and incorrectly awarded summary judgment to Google where the evidence was sufficient to permit a trier of fact to find contributory infringement. We agree. In granting summary judgment to Google because “Rosetta Stone has not met the burden of showing that summary judgment is proper as to its contributory trademark infringement claim,” the district court turned the summary judgment standard on its head. While it may very well be that Rosetta Stone was not entitled to summary judgment, that issue is not before us. The only question in this appeal is whether, viewing the evidence and drawing all reasonable *165 inferences from that evidence in a light most favorable to Rosetta Stone, a reasonable trier of fact could find in favor of Rosetta Stone, the nonmoving party. See Von Drehle, 618 F.3d at 445. Of course, the Tiffany court did not view the evidence through the lense of summary judgment; rather, Tiffany involved an appeal of judgment rendered after a lengthy bench trial. Because of its procedural posture, the district court in Tiffany appropriately weighed the evidence sitting as a trier of fact. Accordingly, Tiffany is of limited application in these circumstances, and the district court’s heavy reliance on Tiffany was misplaced. We conclude that the evidence recited by the district court is sufficient to establish a question of fact as to whether Google continued to supply its services to known infringers. Accordingly, we vacate the district court’s order to the extent it grants summary judgment in favor of Google on Rosetta Stone’s contributory infringement claim.
+ 
+
+IV. Vicarious Infringement
+[13] Rosetta Stone next challenges the district court’s rejection of its vicarious liability theory. “Vicarious liability” in the trademark context is essentially the same as in the tort context: the plaintiff seeks to impose liability based on the defendant’s relationship with a third party tortfeasor. Thus, liability for vicarious trademark infringement requires “a finding that the defendant and the infringer have an apparent or actual partnership, have authority to bind one another in transactions with third parties or exercise joint ownership or control over the infringing product.” Hard Rock Cafe Licensing Corp. v. Concession Servs., Inc., 955 F.2d 1143, 1150 (7th Cir.1992).
+ 
+[14] Rosetta Stone argues that the evidence proffered was sufficient to create a question of fact regarding whether Google jointly controls the appearance of the ads or sponsored links on Google’s search-engine results page. This is not evidence, however, that Google acts jointly with any of the advertisers to control the counterfeit ROSETTA STONE products. Accordingly, we affirm the district court’s grant of summary judgment in favor of Google on Rosetta Stone’s vicarious liability claim.
+ 
+
+V. Unjust Enrichment
+Rosetta Stone contends that the district court improperly dismissed its claim for unjust enrichment under Virginia law. The district court dismissed this claim on two grounds, concluding that Rosetta Stone failed to allege facts sufficient to state a claim of unjust enrichment, see Rosetta Stone, 732 F.Supp.2d at 631–32, and that the Communications Decency Act (CDA), see 47 U.S.C. § 230(c)(1), bars the unjust enrichment claim, see Rosetta Stone, 732 F.Supp.2d at 633. We conclude that Rosetta Stone failed to sufficiently plead the elements of its unjust enrichment claim and therefore affirm, albeit on reasoning different than that of the district court.
+ 
+[15] [16] [17] A cause of action for unjust enrichment in Virginia “rests upon the doctrine that a man shall not be allowed to enrich himself unjustly at the expense of another.” Kern v. Freed Co., 224 Va. 678, 299 S.E.2d 363, 365 (1983) (internal quotation marks omitted); see Nossen v. Hoy, 750 F.Supp. 740, 744 (E.D.Va.1990). “To avoid unjust enrichment, equity will effect a ‘contract implied in law,’ ” i.e., a quasi contract, “requiring one who accepts and receives the services of another to make reasonable compensation for those services.” Po River Water and Sewer Co. v. Indian Acres Club of Thornburg, Inc., 255 Va. 108, 114, 495 S.E.2d 478 (1998). A plaintiff asserting unjust enrichment must demonstrate the following three elements: *166 “(1) he conferred a benefit on [the defendant]; (2) [the defendant] knew of the benefit and should reasonably have expected to repay [the plaintiff]; and (3) [the defendant] accepted or retained the benefit without paying for its value.” Schmidt v. Household Finance Corp., 276 Va. 108, 661 S.E.2d 834, 838 (2008).
+ 
+[18] [19] The district court concluded that Rosetta Stone failed to state a claim because it did not allege “facts which imply that [Google] promised to pay the plaintiff for the benefit received” or that there was “an understanding by Google that it owed Rosetta Stone revenue earned for paid advertisements containing the Rosetta Stone Marks.” Rosetta Stone, 732 F.Supp.2d at 631, 632. Failure to allege an implicit promise to pay, however, is not necessarily fatal to an implied contract theory. Virginia distinguishes between two types of implied contracts: contracts that are implied-in-fact and contracts that are implied-in-law. An implied-in-fact contract is an actual contract that was not reduced to writing, but the court infers the existence of the contract from the conduct of the parties. See Nossen, 750 F.Supp. at 744. To recover under a contract “implied-in-fact,” a plaintiff must allege “facts to raise an implication that the defendant promised to pay the plaintiff for such benefit.” Nedrich v. Jones, 245 Va. 465, 429 S.E.2d 201, 207 (1993) (internal quotation marks omitted & emphasis added).
+ 
+[20] By contrast, the concept of an implied-in-law contract, or quasi contract, applies only when there is not an actual contract or meeting of the minds. See id. We understand Rosetta Stone’s unjust enrichment claim to be an implied-in-law contract claim; thus, the failure to allege that Google implicitly promised to pay is not fatal.
+ 
+[21] Nonetheless, this court can affirm the dismissal of the complaint “on any basis fairly supported by the record.” Eisenberg v. Wachovia Bank, N.A., 301 F.3d 220, 222 (4th Cir.2002). We conclude that Rosetta Stone failed to allege facts showing that it “conferred a benefit” on Google for which Google “should reasonably have expected” to repay. According to Rosetta Stone, the keyword trigger auctions constitute the unauthorized sale of the ROSETTA STONE marks. Rosetta Stone alleges that through the auctions it conferred a benefit “involuntarily” on Google, and that Google “is knowingly using the goodwill established in [the] trademarks to derive ... revenues.” J.A. 197. Rosetta Stone, however, has not alleged facts supporting its general assertion that Google “should reasonably have expected” to pay for the use of marks in its keyword query process. Indeed, Rosetta Stone does not contend, and did not allege, that Google pays any other mark holder for the right to use a mark in its AdWords program. In our view, these allegations are insufficient to surmount even the minimal barrier presented by a motion to dismiss.8
+ 
+
+*167 VI. Trademark Dilution
+[22] Rosetta Stone next challenges the district court’s summary judgment order as to its trademark dilution claim. “Unlike traditional infringement law, the prohibitions against trademark dilution ... are not motivated by an interest in protecting consumers.” Moseley v. V. Secret Catalogue, Inc., 537 U.S. 418, 429, 123 S.Ct. 1115, 155 L.Ed.2d 1 (2003). Dilution is not concerned with confusion in the marketplace. Rather, dilution theory provides that “if customers or prospective customers see the plaintiff’s famous mark used by other persons in a non-confusing way to identify other sources for many different goods and services, then the ability of the famous mark to clearly identify and distinguish only one source might be ‘diluted’ or weakened.” 4 McCarthy § 24:67. Thus, trademark dilution is “the whittling away of the established trademark’s selling power and value through its unauthorized use by others.” Tiffany, 600 F.3d at 111 (internal quotation marks and alteration omitted).
+ 
+Until 1996, trademark dilution was based entirely upon state law because federal law did not recognize the dilution doctrine. The Federal Trademark Dilution Act (FTDA) was passed in 1996, see Pub.L. No. 104–98, 109 Stat. 985 (1996), and was amended substantially in 2006 with the passage of the Trademark Dilution Revision Act of 2006, see Pub.L. No. 109–312, § 2, 120 Stat. 1730 (2006). The FTDA currently provides:
+[T]he owner of a famous mark ... shall be entitled to an injunction against another person who ... commences use of a mark or trade name in commerce that is likely to cause dilution by blurring or dilution by tarnishment of the famous mark, regardless of the presence or absence of actual or likely confusion, of competition, or of actual economic injury.
+15 U.S.C. § 1125(c)(1) (emphasis added). The statute defines “dilution by blurring” as the “association arising from the similarity between a mark or trade name and a famous mark that impairs the distinctiveness of the famous mark.” 15 U.S.C. § 1125(c)(2)(B). “[D]ilution by tarnishment” is defined as the “association arising from the similarity between a mark or trade name and a famous mark that harms the reputation of the famous mark.” 15 U.S.C. § 1125(c)(2)(C). Thus, blurring under the federal statute involves the classic “whittling away” of the selling power and strength of the famous mark. Tarnishment, by contrast, creates consumer aversion to the famous brand—e.g., when the plaintiff’s famous trademark is “linked to products of shoddy quality, or is portrayed in an unwholesome or unsavory context” such that “the public will associate the lack of quality or lack of prestige in the defendant’s goods with the plaintiff’s unrelated goods.” Scott Fetzer Co. v. House of Vacuums Inc., 381 F.3d 477, 489 (5th Cir.2004) (internal quotation marks omitted).
+ 
+[23] Finally, the FTDA expressly excludes from its reach “[a]ny fair use, including a nominative or descriptive fair use, or facilitation of such fair use, of a famous mark by another person other than as a designation of source for the person’s own goods or services.” 15 U.S.C. § 1125(c)(3)(A). The statute specifically provides comparative advertising and parody as examples of non-dilutive fair uses. See 15 U.S.C. § 1125(c)(3)(A)(i) & (ii). Accordingly, “fair use,” though not so labeled in the statute, essentially amounts to an affirmative defense against a claim of trademark dilution. Cf.  *168 KP Permanent Make–Up v. Lasting Impression I, Inc., 543 U.S. 111, 117–18, 125 S.Ct. 542, 160 L.Ed.2d 440 (2004).
+ 
+[24] To state a prima facie dilution claim under the FTDA, the plaintiff must show the following:
+(1) that the plaintiff owns a famous mark that is distinctive;
+(2) that the defendant has commenced using a mark in commerce that allegedly is diluting the famous mark;
+(3) that a similarity between the defendant’s mark and the famous mark gives rise to an association between the marks; and
+(4) that the association is likely to impair the distinctiveness of the famous mark or likely to harm the reputation of the famous mark.
+Louis Vuitton, 507 F.3d at 264–65.
+ 
+The district court granted summary judgment for Google on the dilution claim on two bases. First, the district court held that Rosetta Stone was required but failed to present evidence that Google was “us[ing] the Rosetta Stone Marks to identify its own goods and services.” Rosetta Stone, 730 F.Supp.2d at 551. To support its conclusion, the district court relied on the text of the statutory “fair use” defense that shields a person’s “fair use” of plaintiff’s mark so long as such use is not as “a designation of source for the person’s own goods or services.” 15 U.S.C. § 1125(c)(3)(A).
+ 
+Second, the district court concluded that Rosetta Stone failed to show that Google’s use of the mark was likely to impair the distinctiveness of or harm the reputation of the ROSETTA STONE marks. Specifically, the district court indicated that there was “no evidence of dilution by blurring when Rosetta Stone’s brand awareness has only increased since Google revised its trademark policy in 2004,” and the court noted evidence that Rosetta Stone’s “brand awareness equity also increased from 19% in 2005 to 95% in 2009.” Rosetta Stone, 730 F.Supp.2d at 551. In support of this conclusion, the district court read our decision in Louis Vuitton to establish the proposition that “no claim for dilution by blurring exists where a defendants’ product only increases public identification of the plaintiffs’ marks.” Id.
+ 
+
+A. Google’s Non–Trademark Use of Rosetta Stone’s Marks
+We first consider the district court’s grant of summary judgment based on the lack of evidence that Google used the ROSETTA STONE marks “to identify its own goods and services.” Id. The district court held that Rosetta Stone could not establish its dilution claim, specifically, the third element, without showing that Google used the mark as a source identifier for its products and services. See id. at 550–51. In support of this conclusion, however, the district court relied upon the “fair use” defense available under the FTDA. See 15 U.S.C. § 1125(c)(3)(A) (“Any fair use, including a nominative or descriptive fair use, or facilitation of such fair use, of a famous mark by another person other than as a designation of source for the person’s own goods or services” is not “actionable as dilution by blurring or dilution by tarnishment.”) Thus, the district court apparently concluded that Rosetta Stone was required, as part of its prima facie showing of dilution under the FTDA, to demonstrate that Google was using the mark as a source identifier for Google’s own goods.
+ 
+[25] We view § 1125(c)(3)(A) as affording a fair use defense to defendants in dilution actions. See Louis Vuitton, 507 F.3d at 265–66. In our view, once the owner of a famous mark establishes a prima facie case of dilution by blurring or tarnishment, it falls to the defendant to demonstrate that its use constituted a “fair *169 use ... other than as a designation of source for the [defendant’s] own goods or services,” 15 U.S.C. § 1125(c)(3)(A). Whether Google used the mark other than as a source identifier and in good faith is an issue that Google, not Rosetta Stone, is obligated to establish. Thus, the district court erroneously required Rosetta Stone to demonstrate that Google was using the ROSETTA STONE mark as a source identifier for Google’s own products.
+ 
+More importantly, the district court erred when it ruled that Google was not liable for dilution simply because there was no evidence that Google uses the Rosetta Stone marks to identify Google’s own goods and services. In essence, the district court made nontrademark use coextensive with the “fair use” defense under the FTDA. The statute, however, requires more than showing that defendant’s use was “other than as a designation of source”—the defendant’s use must also qualify as a “fair use.” 15 U.S.C. § 1125(c)(3)(A). Indeed, if the district court’s analysis is correct—that is, if a federal trademark dilution claim is doomed solely by the lack of proof showing that the defendant used the famous mark as a trademark—then the term “fair use” as set forth in § 1125(c)(3)(A) would be superfluous.
+ 
+The district court failed to determine whether this was “fair use”. Although the FTDA does not expressly define “fair use,” the classic concept of “fair use” is well-established and incorporated as an affirmative defense to a claim of trademark infringement. See 15 U.S.C. § 1115(b)(4). The contours of the fair-use defense in the infringement context are therefore instructive on the classic or descriptive fair-use defense to a dilution claim. See Sullivan v. Stroop, 496 U.S. 478, 484, 110 S.Ct. 2499, 110 L.Ed.2d 438 (1990) ( “[I]dentical words used in different parts of the same act are intended to have the same meaning.” (internal quotation marks omitted)).
+ 
+[26] Descriptive, or classic, fair use applies when the defendant is using a trademark “in its primary, descriptive sense” to describe the defendant’s goods or services. Fortune Dynamic, Inc. v. Victoria’s Secret Stores Brand Mgmt., Inc., 618 F.3d 1025, 1031 (9th Cir.2010) (internal quotation marks omitted); see 15 U.S.C. § 1115(b)(4). The FTDA also expressly includes “nominative” fair use as a defense. See 15 U.S.C. § 1125(c)(3)(A). Typically, nominative fair use comes into play when the defendant uses the famous mark to identify or compare the trademark owner’s product. See New Kids on the Block, 971 F.2d at 308; 4 McCarthy § 23.11. Regardless of the type of fair use claimed by a defendant, a common component of fair use is good faith. See, e.g., JA Apparel Corp. v. Abboud, 568 F.3d 390, 401 (2d Cir.2009) (“Assessment of this defense thus requires analysis of whether a given use was (1) other than as a mark, (2) in a descriptive sense, and (3) in good faith.” (internal quotation marks omitted)); Sands, Taylor & Wood Co. v. Quaker Oats Co., 978 F.2d 947, 951 (7th Cir.1992) (“To prevail on the fair use defense, the defendant must establish that it has used the plaintiff’s mark, in good faith, to describe its (defendant’s) product and otherwise than as a trademark.” (internal quotation marks omitted)). In this context, “the inquiry into the defendant’s good faith ‘concerns the question whether the user of a mark intended to create consumer confusion as to source or sponsorship.’ ” JA Apparel Corp., 568 F.3d at 400; see also Bd. of Supervisors v. Smack Apparel Co., 550 F.3d 465, 489 (5th Cir.2008) (explaining that “in order to avail [itself] of the nominative fair use defense[,] the defendant (1) may only use so much of the mark as necessary to identify the product or *170 service and (2) may not do anything that suggests affiliation, sponsorship, or endorsement by the markholder.” (internal quotation marks omitted)).
+ 
+In short, the court’s summary judgment order omitted this analysis, impermissibly omitting the question of good faith and collapsing the fair-use defense into one question—whether or not Google uses the ROSETTA STONE mark as a source identifier for its own products. Accordingly, we vacate the district court’s summary judgment order and remand for reconsideration of Rosetta Stone’s dilution claim. If the district court determines that Rosetta Stone has made a prima facie showing under the elements set forth in Louis Vuitton, 507 F.3d at 264–65, it should reexamine the nominative fair-use defense in light of this opinion.
+ 
+
+B. Likelihood of Dilution
+Alternatively, the district court held that Rosetta Stone failed to satisfy the fourth and final element of its trademark dilution claim requiring that the plaintiff show defendant’s use is “likely to impair the distinctiveness of the famous mark or likely to harm the reputation of the famous mark.” Id. at 265. The court based its conclusion solely on the fact that “Rosetta Stone’s brand awareness ha[d] only increased since Google revised its trademark policy in 2004.” Rosetta Stone, 730 F.Supp.2d at 551. On the strength of this evidence, the district court concluded that “the distinctiveness of the Rosetta Stone Marks has not been impaired” and therefore that “Rosetta Stone cannot show that Google’s trademark policy likely caused dilution by blurring.” Id.
+ 
+To determine whether the defendant’s use is likely to impair the distinctiveness of the plaintiff’s famous mark, the FTDA enumerates a non-exhaustive list of six factors that are to be considered by the courts:
+In determining whether a mark or trade name is likely to cause dilution by blurring, the court may consider all relevant factors, including the following:
+(i) The degree of similarity between the mark or trade name and the famous mark.
+(ii) The degree of inherent or acquired distinctiveness of the famous mark.
+(iii) The extent to which the owner of the famous mark is engaging in substantially exclusive use of the mark.
+(iv) The degree of recognition of the famous mark.
+(v) Whether the user of the mark or trade name intended to create an association with the famous mark.
+(vi) Any actual association between the mark or trade name and the famous mark.
+15 U.S.C. § 1125(c)(2)(B). Although “[n]ot every factor will be relevant in every case, and not every blurring claim will require extensive discussion of the factors[,] ... a trial court must offer a sufficient indication of which factors it has found persuasive and explain why they are persuasive.” Louis Vuitton, 507 F.3d at 266.
+ 
+[27] The district court addressed only one factor—the degree of recognition of Rosetta Stone’s mark—and did not mention any other remaining statutory factor. The court’s reliance on Louis Vuitton for the proposition that no claim for dilution by blurring exists when there is evidence that public recognition of the defendants’ product increased was error. Louis Vuitton addressed a far different fact pattern, where the defendant’s fair use claim was based on parody, which Congress expressly included as a protected fair use under the FTDA so long as the mark being parodied is not being “used as a designation *171 of source for the person’s own goods or services.” See 15 U.S.C.A. § 1125(c)(3)(A)(ii). We concluded that a successful parody “might actually enhance the famous mark’s distinctiveness by making it an icon. The brunt of the joke becomes yet more famous.” Louis Vuitton, 507 F.3d at 267 (4th Cir.2007) (emphasis added). We disagree, therefore, the district court’s reading of Louis Vuitton. Under the FTDA, Rosetta Stone must show only a likelihood of dilution and need not prove actual economic loss or reputational injury. See id. at 264 n. 2. The decision below employed a truncated analysis that placed a very heavy emphasis upon whether there had been any actual injury suffered by Rosetta Stone’s brand. On remand, the court should address whichever additional factors might apply to inform its determination of whether Google’s use is likely to impair the distinctiveness of Rosetta Stone’s mark. See 15 U.S.C. § 1125(c)(2)(B).
+ 
+
+C. When did Rosetta Stone’s marks become famous?
+Under the FTDA, the owner of a famous mark may obtain injunctive relief against any “person who, at any time after the owner’s mark has become famous, commences use of a mark ... in commerce that is likely to cause dilution.” 15 U.S.C. § 1125(c)(1) (emphasis added). A threshold issue, therefore, is whether the plaintiff’s mark became famous, if at all, before the defendant began using the mark in commerce. Although the district court held that Rosetta Stone’s mark had become famous before Google began using it, “we are not limited to evaluation of the grounds offered by the district court to support its decision ... [and] may affirm on any grounds apparent from the record.” Pitt Cnty. v. Hotels.com, L.P., 553 F.3d 308, 311 (4th Cir.2009) (internal quotation marks omitted). Accordingly, we consider Google’s argument that Rosetta Stone’s marks were not famous in 2004 when Google allegedly began using the mark in commerce.
+ 
+Under the statute, “a mark is famous if it is widely recognized by the general consuming public of the United States as a designation of source of the goods or services of the mark’s owner.” 15 U.S.C. § 1125(c)(2)(A). This is not an easy standard to achieve. “[C]ourts agree that a mark must be truly prominent and renowned to be granted the extraordinary scope of exclusive rights created by the Federal Antidilution Act.” 4 McCarthy § 24:104. “Because protection from dilution comes close to being a ‘right in gross,’ ... the FTDA extends dilution protection only to those whose mark is a ‘household name.’ ” Nissan Motor Co. v. Nissan Computer Corp., 378 F.3d 1002, 1011 (9th Cir.2004).
+ 
+[28] Additionally, for § 1125(c)(1) to apply, the defendant must have “commence[d]” a diluting use of the plaintiff’s mark after the point at which the mark became famous. The policy basis for this rule “reflects the fair and equitable principle that one should not be liable for dilution by the use of a mark which was legal when first used.” 4 McCarthy § 24:103. Professor McCarthy explains as follows:
+[I]f at the time of first use, Zeta’s mark did not dilute Alpha’s mark because Alpha’s mark was not then famous, Zeta’s use will not at some future time become diluting and illegal solely because Alpha’s mark later became “famous.” That is, Alpha will not at some future time have a federal dilution claim against Zeta’s mark. Thus, the junior user must be proven to have first used its mark after the time that plaintiff’s mark achieved fame....
+*172 This rule is modeled after that applied in traditional confusion cases where the plaintiff must prove secondary meaning. In those cases, the senior user must prove that secondary meaning in its mark was established prior to the junior user’s first use....
+4 McCarthy § 24:103 (footnote omitted). Stated differently, the defendant’s first diluting use of a famous mark “fixes the time by which famousness is to be measured” for purposes of the FTDA. Nissan Motor Co., 378 F.3d at 1013.
+ 
+The district court concluded that “Rosetta Stone Marks are famous and have been since at least 2009, when Rosetta Stone’s brand awareness reached 75%.” Rosetta Stone, 730 F.Supp.2d at 550. The court explained that “[t]he Marks need not have been famous when Google revised its trademark policy in 2004. Instead, Rosetta Stone must only show that at any time after its Marks became famous, Google began using a mark or trade name in commerce that was likely to cause dilution of the Rosetta Stone Marks.” Id.
+ 
+According to Google, however, even if ROSETTA STONE had become a famous brand by 2009, it was not famous when Google began its alleged facilitation of the use of ROSETTA STONE in 2004. Indeed, Rosetta Stone alleges in its Complaint that the use of ROSETTA STONE and other trademarks as keywords in Google’s AdWords program “lessen[ed] the capacity of Rosetta Stone’s famous and distinctive ... Marks to distinguish Rosetta Stone’s products and services from those of others, and has diluted the distinctive quality” of the marks. J.A. 56. The use of Rosetta Stone’s mark as a keyword trigger began at least as early as 2004. Google points to survey evidence reflecting that, in 2005, two percent of the general population of Internet users recognized ROSETTA STONE without being prompted while 13 percent recognized ROSETTA STONE with prompting.
+ 
+In response, Rosetta Stone argues that Google first began permitting the use of Rosetta Stone’s mark in sponsored ad text in 2009, by which time it had become famous. Thus, Rosetta Stone’s position is that the phrase “commences use” in § 1125(c)(1) refers to any diluting use in commerce, not merely the first. This argument, of course, undercuts Rosetta Stone’s own Complaint, which clearly asserts that Google diluted Rosetta Stone’s mark beginning in 2004 by permitting the use of trademarks such as ROSETTA STONE as keyword triggers. Rosetta Stone asks us to ignore this alleged diluting use for purposes of § 1125(c)(1). The statute does not permit the owner of a famous mark to pick and choose which diluting use counts for purposes of § 1125(c)(1). See Nissan Motor Co., 378 F.3d at 1013 (“If ... first use for purposes of § 1125(c) turned on whatever use the mark’s owner finds particularly objectionable, owners of famous marks would have the authority to decide when an allegedly diluting use was objectionable, regardless of when the party accused of diluting first began to use the mark.”). The fame of Rosetta Stone’s mark, therefore, should be measured from 2004, when Rosetta Stone alleges Google’s diluting use of its mark began.
+ 
+Alternatively, Rosetta Stone suggests that it produced evidence showing that its mark was famous in 2004. It is, however, unclear from the voluminous record precisely which evidence reflects ROSETTA STONE’s fame in 2004, and we think the better course is for the district court to handle this fact-intensive question of when Rosetta Stone’s mark became famous in the first instance, particularly since other facets of the dilution claim will be reconsidered on remand. Thus, on remand, the *173 district court should reconsider whether ROSETTA STONE was a famous mark for purposes of its dilution claim against Google. That will require the court first to determine when Google made its first ostensibly diluting use of the mark. Second, the court must decide whether Rosetta Stone’s mark was famous at that point. In making the latter determination, the district court should assess fame in light of the relevant statutory factors, see 15 U.S.C. § 1125(c)(2)(A), as well as the strong showing required to establish fame under this statute, see, e.g., I.P. Lund Trading ApS v. Kohler Co., 163 F.3d 27, 46 (1st Cir.1998) (explaining that to satisfy the famousness requirement, “a mark had to be truly prominent and renowned” (internal quotation marks omitted)).
+ 
+
+VII. Conclusion
+For the foregoing reasons, we affirm the district court’s order with respect to the vicarious infringement and unjust enrichment claims. We vacate, however, the district court’s order with respect to Rosetta Stone’s direct infringement, contributory infringement and dilution claims, and we remand the case for further proceedings on those three claims.
+ 
+AFFIRMED IN PART, VACATED IN PART, AND REMANDED
+ 
+All Citations
+676 F.3d 144, 102 U.S.P.Q.2d 1473
+Footnotes
+
+1
+
+The actual Rosetta Stone, discovered in 1799, is a granite stele bearing a royal Egyptian decree etched in three languages: Greek, hieroglyphic, and demotic. The discovery of this stone became the “key to the deciphering of Egyptian hieroglyphics.” Barbara Green, Cracking the Code: Interpreting and Enforcing the Appellate Court’s Decision and Mandate, 32 Stet. L.Rev. 393, 393 (2003) (internal quotation marks omitted). The term “Rosetta Stone” has become somewhat of a common metaphor for anything that provides the means for solving a difficult problem or understanding a code.
+
+2
+
+Rosetta Stone conducted a brand equity study in February 2009 showing a substantial gap in actual recognition of the Rosetta Stone mark and the closest competing brand. When asked to identify without prompting “all brand names that come to mind when you think of language learning,” almost 45% of the respondents were able to recall “Rosetta Stone,” while only about 6% thought of “Berlitz,” the second-place finisher. J.A. 2288. When prompted, 74% indicated they had heard of Rosetta Stone language products. Berlitz, again the closest competitor, was familiar to only 23% of the respondents when prompted.
+
+3
+
+This automated tool checks the “landing page”—i.e., the page linked to the ad referring to the trademark—and determines whether the page uses the trademark prominently; whether the page contains commercial information suggesting the sponsor is a reseller; and whether the landing page is a review site.
+
+4
+
+We note, however, that Google, in its memorandum filed in support of its motion for summary judgment, argued that it had not “used” Rosetta Stone’s marks as contemplated by 15 U.S.C. § 1114(a), but rather had merely sold advertising space to others who were “using” the mark. J.A. 4103. And, we see nothing in the hearing transcript suggesting that Google conceded that it “used” the mark “in commerce” and “in connection with the sale, offering for sale, distribution, or advertising of any goods or services.” 15 U.S.C. § 1114(1)(a). Since it is not an issue in this appeal, we express no opinion today as to whether Google “used” these marks as contemplated by the Lanham Act. See, e.g., Rescuecom Corp. v. Google Inc., 562 F.3d 123, 129–31 (2d Cir.2009) (holding that Google’s auctioning of trademarks qualifies as a “use in commerce”).
+
+5
+
+We reject Rosetta Stone’s contention that it is entitled to a presumption of confusion on the infringement claim and that the district court erred in failing to afford such a presumption. In this circuit, “a presumption of likelihood of consumer confusion” arises from the “intentional copying” of plaintiff’s trade dress or trademark by a defendant. See, e.g., Osem Food Indus. Ltd. v. Sherwood Foods, Inc., 917 F.2d 161, 164 (4th Cir.1990); Shakespeare Co. v. Silstar Corp. of Am., Inc., 110 F.3d 234, 239 (4th Cir.1997). The “presumption arises only when the copier inten[ds] to exploit the good will created by an already registered trademark.” Shakespeare, 110 F.3d at 239 (internal quotation marks omitted). Thus, where “one produces counterfeit goods in an apparent attempt to capitalize upon the popularity of, and demand for, another’s product, there is a presumption of a likelihood of confusion.” Polo Fashions, Inc. v. Craftex, Inc., 816 F.2d 145, 148 (4th Cir.1987). We apply such a presumption because “one who tries to deceive the public should hardly be allowed to prove that the public has not in fact been deceived.” Shakespeare, 110 F.3d at 239. Here, however, there is absolutely no evidence that Google intentionally copied or adopted Rosetta Stone’s mark in an effort to pass off its own goods or services under the ROSETTA STONE mark.
+
+6
+
+Elaborating on the idea that the functionality doctrine keeps trademark law from “inhibiting legitimate competition by allowing a producer to control a useful product feature,” Qualitex Co. v. Jacobson Prods. Co., 514 U.S. 159, 164, 115 S.Ct. 1300, 131 L.Ed.2d 248 (1995), the Supreme Court noted that if a feature is functional, “exclusive use ... would put competitors at a significant nonreputation-related disadvantage,” id. at 165, 115 S.Ct. 1300. However, “[w]here the design is functional under the Inwood formulation there is no need to proceed further to consider if there is a competitive necessity for the feature.” TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23, 33, 121 S.Ct. 1255, 149 L.Ed.2d 164 (2001).
+
+7
+
+eBay maintained a “Verified Rights Owner (‘VeRO’) Program,” which allowed trademark owners to report potentially infringing items so that eBay could remove the associated listings. See Tiffany (NJ) Inc. v. eBay Inc., 600 F.3d 93, 99 (2d Cir.2010). The district court found that the trial evidence showed eBay promptly removed challenged listings from its website. See id. at 106.
+
+8
+
+On appeal, Rosetta Stone clarified that its unjust enrichment claim arises from Google’s business practice of selling trademarks as keywords that trigger the display of sponsored links rather than the content of the sponsored links. In light of our conclusion that Rosetta Stone failed to state an unjust enrichment claim as to the use of its marks as keywords, we need not address the district court’s alternative holding that, to the extent advertisers used Rosetta Stone’s marks in the text of their ads, Google was entitled to “immunity” under the Communications Decency Act “because Google is no more than an interactive computer service provider and cannot be liable for the actions of third party advertisers.” Rosetta Stone Ltd. v. Google Inc., 732 F.Supp.2d 628, 632 (E.D.Va.2010) (footnote omitted); see 47 U.S.C. § 230(c)(1) (“No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  1-800 Contacts, Inc. v. Lens.com, Inc.  
+722 F.3d 1229 , 10th Cir.(Utah)
+E-COMMERCE - Intellectual Property. Competitor’s Internet advertising was unlikely to cause initial-interest confusion among consumers seeking retailer’s contact lenses.
+July 16, 2013
+Case
+
+10
+
+
+
+
+14
+
+
+
+
+F.3d
+
+

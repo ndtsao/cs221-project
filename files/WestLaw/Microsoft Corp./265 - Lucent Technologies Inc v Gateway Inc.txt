@@ -1,0 +1,668 @@
+
+
+
+
+
+Lucent Technologies, Inc. v. Gateway, Inc.
+United States Court of Appeals, Federal Circuit. | September 25, 2008 | 543 F.3d 710 | 2008 WL 4349236
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Koninklijke Philips N.V. v. ZOLL Lifecor Corporation, W.D.Pa., August 28, 2015
+
+standard Citation:
+
+Lucent Techs., Inc. v. Gateway, Inc., 543 F.3d 710 (Fed. Cir. 2008)
+
+All Citations:
+
+543 F.3d 710, 88 U.S.P.Q.2d 1481
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Koninklijke Philips N.V. v. ZOLL Lifecor Corporation, W.D.Pa., August 28, 2015
+543 F.3d 710
+United States Court of Appeals,
+Federal Circuit.
+LUCENT TECHNOLOGIES, INC., Plaintiff/Counterclaim Defendant–Appellant,
+and
+Lucent Technologies Guardian I LLC, Counterclaim Defendant,
+and
+Multimedia Patent Trust, Plaintiff/Counterclaim Defendant,
+v.
+GATEWAY, INC., Gateway Country Stores LLC, Gateway Companies, Inc., Cowabunga Enterprises, Inc., and Gateway Manufacturing LLC, Defendants/Counterclaimants,
+and
+Dell Inc., Defendant,
+and
+Microsoft Corporation, Defendant/Counterclaimant–Cross Appellant.
+Nos. 2007–1546, 2007–1580.
+|
+Sept. 25, 2008.
+Synopsis
+Background: Patent owner filed actions against competitor alleging infringement of patents that were directed to methods of compressing digital audio files to reduce storage space without compromising quality of sound produced from files. Cases were transferred and consolidated. Jury rendered verdict of infringement and damages award. The United States District Court for the Southern District of California, Rudi M. Brewster, Senior District Judge, granted judgment as matter of law (JMOL), and alternatively new trial, on infringement and damages. Owner appealed.
+ 
+Holdings: The Court of Appeals, Prost, Circuit Judge, held that:
+ 
+[1] written descriptive support in patent specification was relevant to determining when claimed technology had been developed;
+ 
+[2] demonstration of obviousness to one of skill in the art was not sufficient to show possession of technology claimed in patent;
+ 
+[3] joint venturer was co-owner of patent even though it did not contribute to invention of some claims in patent; and
+ 
+[4] owner did not demonstrate infringement of audio coding methods claim.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (20)
+
+
+[1]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+In a patent case, decisions on motions for judgment as a matter of law (JMOL) and motions for a new trial are reviewed under the law of the regional circuit.
+3 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk776)
+
+
+In the Ninth Circuit, a district court’s grant of judgment as a matter of law (JMOL) is reviewed de novo.
+2 Cases that cite this headnote
+
+
+
+[3]
+
+Federal Civil ProcedureEvidence
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(E)Notwithstanding Verdict;  Judgment as Matter of Law
+170Ak2608Evidence
+170Ak2608.1In general
+
+
+A grant of judgment as a matter of law (JMOL) is appropriate when the evidence, construed in the light most favorable to the non-moving party, permits only one reasonable conclusion, and that conclusion is contrary to the jury’s.
+Cases that cite this headnote
+
+
+
+[4]
+
+Federal CourtsNew Trial, Rehearing, or Reconsideration
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3606New Trial, Rehearing, or Reconsideration
+170Bk3606(1)In general
+(Formerly 170Bk825.1)
+
+
+A district court’s grant of a new trial is reviewed for abuse of discretion.
+Cases that cite this headnote
+
+
+
+[5]
+
+Federal Civil ProcedureWeight of evidence
+
+
+170AFederal Civil Procedure
+170AXVINew Trial
+170AXVI(B)Grounds
+170Ak2338Verdict or Findings Contrary to Law or Evidence
+170Ak2339Weight of evidence
+
+
+A district court abuses its discretion in ordering a new trial if the jury’s verdict is not against the clear weight of the evidence.
+Cases that cite this headnote
+
+
+
+[6]
+
+Federal CourtsStanding
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3585Parties
+170Bk3585(2)Standing
+(Formerly 170Bk763.1)
+
+
+A district court’s dismissal for lack of standing is reviewed without deference.
+Cases that cite this headnote
+
+
+
+[7]
+
+Federal CourtsContracts
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3619Substantive Matters
+170Bk3633Contracts
+170Bk3633(1)In general
+(Formerly 170Bk776)
+
+
+Contract interpretation is a question of law, which is reviewed de novo.
+6 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsInfringement or noninfringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+(Formerly 291k324.55(5))
+
+
+Patent infringement is a question of fact, which is reviewed for substantial evidence when tried to a jury.
+Cases that cite this headnote
+
+
+
+[9]
+
+PatentsWritten Description Requirement
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k904Specification
+291k907Written Description Requirement
+291k907(1)In general
+(Formerly 291k99)
+
+
+Written descriptive support in patent specification was relevant to determining when claimed technology had been developed. 35 U.S.C.A. § 112.
+1 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsInventorship and Priority
+
+
+291Patents
+291IIIPersons Entitled to Patents
+291III(B)Inventorship and Priority
+291k861In general
+(Formerly 291k90(1))
+
+
+Patent claims are awarded priority on a claim-by-claim basis based on the disclosure in the priority applications. 35 U.S.C.A. § 112.
+4 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsParticular cases
+
+
+291Patents
+291IIIPersons Entitled to Patents
+291III(B)Inventorship and Priority
+291k876Evidence
+291k881Weight and Sufficiency
+291k881(2)Particular cases
+(Formerly 291k91(3))
+
+
+Demonstration of obviousness to one of skill in the art was not sufficient to show possession of technology claimed in patent, for purposes of determining priority date. 35 U.S.C.A. § 103(a).
+1 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+The understanding of one of skill in the art does not relieve the patentee of the duty to disclose sufficient structure to support means-plus-function claim terms. 35 U.S.C.A. § 112.
+5 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsJoint Inventors
+PatentsPersons Entitled to Sue;  Standing
+
+
+291Patents
+291IIIPersons Entitled to Patents
+291III(C)Joint Inventors
+291k891In general
+(Formerly 291k92)
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1696In general
+(Formerly 291k286)
+
+
+Joint venturer was co-owner of patent of partner even though it did not contribute to invention of some claims in patent, and thus partner lacked standing to sue for infringement of patent in absence of joint venturer.
+2 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsIn general;  assignability of patents
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(C)Assignments and Other Transfers
+291k1461In general;  assignability of patents
+(Formerly 291k193)
+
+
+The owner of a patent cannot split up its ownership rights in a patent and assign different claims to different parties.
+2 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsJoint Inventors
+
+
+291Patents
+291IIIPersons Entitled to Patents
+291III(C)Joint Inventors
+291k891In general
+(Formerly 291k92)
+
+
+An inventor of one or more claims of the patent is an owner of all claims of the patent.
+Cases that cite this headnote
+
+
+
+[16]
+
+PatentsParticular fields of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1828Particular Matters
+291k1828(2)Particular fields of invention
+(Formerly 291k312(6))
+
+
+Patent owner did not demonstrate infringement of audio coding methods claim by offering circumstantial evidence that proved at most that accused encoder possibly was capable of running; owner had to show, circumstantially or otherwise, that accused encoder actually had run and performed claimed method.
+5 Cases that cite this headnote
+
+
+
+[17]
+
+PatentsDirect or circumstantial evidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1827Direct or circumstantial evidence
+(Formerly 291k312(3.1))
+
+
+A patentee may rely on either direct or circumstantial evidence to prove infringement.
+6 Cases that cite this headnote
+
+
+
+[18]
+
+PatentsNature and elements of injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1552Nature and elements of injury
+(Formerly 291k226)
+
+
+In order to prove direct infringement, a patentee must either point to specific instances of direct infringement or show that the accused device necessarily infringes the patent in suit.
+7 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsIn general;  utility
+PatentsReissue
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+291Patents
+291XPatents Enumerated
+291k2094Reissue
+(Formerly 291k328(4))
+
+
+US Patent 5,341,457. Not Infringed.
+US Patent RE39,080. Not Infringed.
+4 Cases that cite this headnote
+
+
+
+[20]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,627,938. Cited.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*712 Richard G. Taranto, Farr & Taranto, of Washington, DC, argued for plaintiff/counterclaim defendant-appellant. Of counsel on the brief were John M. Desmarais, Robert A. Appleby, Paul A. Bondor, and Michael P. Stadnick, Kirkland & Ellis LLP, of New York, NY.
+John E. Gartman, Fish & Richardson P.C., of San Diego, CA, argued for defendant/counterclaimant-cross appellant. With him on the brief were John W. Thornburgh, Matthew C. Bernstein, and Justin M. Barnes, and John A. Dragseth, of Minneapolis, MN. Of counsel on the brief was Stephen P. McGrath, Microsoft Corporation, of Redmond, WA.
+Before LOURIE, BRYSON and PROST, Circuit Judges.
+Opinion
+PROST, Circuit Judge.
+
+This case involves alleged infringement by Gateway, Inc. (“Gateway”), Microsoft Corporation (“Microsoft”), and Dell Inc. (“Dell”) of two patents owned by Lucent Technologies, Inc. (“Lucent”). After a jury verdict of infringement and a damages award of $1,538,056,702, the district court granted judgment as a matter of law (“JMOL”), and alternatively a new trial, on infringement and damages. Lucent Techs., Inc. v. Gateway, Inc., 509 F.Supp.2d 912 (S.D.Cal.2007) (“Lucent ”). For the reasons set forth below, we affirm the court’s grant of JMOL based on lack of standing for one patent and based on non-infringement for the other patent. We need not decide the damages issues.
+ 
+
+*713 I
+A
+The patents at issue in this appeal are directed to methods of compressing digital audio files to reduce storage space without compromising the quality of sound produced from the files. The methods involve using the frequencies of the audio signals to generate frequency coefficients, and then using certain thresholds—which dictate what data can be ignored and how finely to encode the data—to assign numbers to the audio signals, i.e., to “quantize” the frequency information. For example, an “absolute hearing threshold” is an estimate of the quietest sounds a person can hear. A “masking threshold” reflects what sounds are inaudible when other sounds are present.
+ 
+James Johnston and Joseph Hall are the listed inventors on the earliest application, Application No. 07/292,598 (“the ′598 application”), which was filed in 1988 while they were working at AT & T Bell Laboratories (“AT & T”).1 They are likewise the inventors of U.S. Patent No. 5,341,457 (“the ′457 patent”), which was filed in 1993 and is a continuation, through two other applications, of the ′598 application. The claims of the ′457 patent are directed to a method of compressing digital audio files wherein “tonality values” are used in generating masking thresholds for quantization. Claim 1 recites:
+ 
+1. A method of processing an ordered time sequence of audio signals partitioned into a set of ordered blocks, each said block having a discrete frequency spectrum comprising a first set of frequency coefficients, the method comprising, for each of said blocks, the steps of:
+(a) grouping said first set of frequency coefficients into at least one group, each group comprising at least one frequency coefficient;
+(b) generating at least one tonality value, each group having an associated tonality value, said at least one tonality value reflecting the degree to which said time sequence of audio signals comprises tone-like quality;
+(c) generating at least one noise masking threshold, each said at least one noise masking threshold being based upon at least a portion of said at least one tonality value; and
+(d) quantizing at least one frequency coefficient in said at least one group, said quantizing based upon said at least one noise masking threshold.
+(Emphases added). Claims 5 further limits the method to one wherein each block is representable by a number of bits. Claim 10 is directed to a storage medium “manufactured in accordance with” the method of claim 1.
+U.S. Patent No. 5,627,938 (“the ′938 patent”), which was filed in 1994, claims priority to an application filed in 1992. Johnston is the sole inventor of the ′938 patent. Three of the claims of the ′938 patent are directed to a method that, instead of using tonality values in quantizing, uses a masking threshold and an absolute hearing threshold, and an iterative process for achieving a required bit rate. The fourth claim is directed to a decoder for decoding a set of frequency coefficients. The claims are as follows:
+1. A method of coding an audio signal comprising:
+(a) converting a time domain representation of the audio signal into a frequency domain representation of the audio signal, the frequency domain representation comprising a set of frequency coefficients;
+*714 (b) calculating a masking threshold based upon the set of frequency coefficients;
+(c) using a rate loop processor in an iterative fashion to determine a set of quantization step size coefficients for use in encoding the set of frequency coefficients, said set of quantization step size coefficients determined by using the masking threshold and an absolute hearing threshold; and
+(d) coding the set of frequency coefficients based upon the set of quantization step size coefficients.
+2. The method of claim 1 wherein the set of frequency coefficients are MDCT [modified discrete cosine transform] coefficients.
+3. The method of claim 1 wherein the using the rate loop processor in the iterative fashion is discontinued when a cost, measured by the number of bits necessary to code the set of frequency coefficients, is within a predetermined range.
+4. A decoder for decoding a set of frequency coefficients representing an audio signal, the decoder comprising:
+(a) means for receiving the set of coefficients, the set of frequency coefficients having been encoded by:
+(1) converting a time domain representation of the audio signal into a frequency domain representation of the audio signal comprising the set of frequency coefficients;
+(2) calculating a masking threshold based upon the set of frequency coefficients;
+(3) using a rate loop processor in an iterative fashion to determine a set of quantization step size coefficients needed to encode the set of frequency coefficients, said set of quantization step size coefficients determined by using the masking threshold and an absolute hearing threshold; and
+(4) coding the set of frequency coefficients based upon the set of quantization step size coefficients; and
+(b) means for converting the set of coefficients to a time domain signal.
+(Emphases added).
+ 
+In April 2006, following a reissue proceeding, the ′938 patent was surrendered in favor of U.S. Patent No. RE 39,080 (“the ′080 patent”). Notably, claim 2 was canceled during the reissue proceeding. In addition, the priority claim was amended such that the ′080 patent claims priority, through several applications, as a continuation-in-part (“CIP”) to the ′598 application.
+ 
+
+B
+In 1988, AT & T entered into a Joint Development Agreement (“JDA”) with a German company, Fraunhofer Gesellschaft (“Fraunhofer”), which was also working on digital compression technologies. Under the JDA, Fraunhofer’s scientist, Karlheinz Brandenburg, went to work with Johnston at AT & T beginning in April 1989. The JDA preserved “Existing Technology,” technology developed by AT & T or by Fraunhofer before April 1989, to each company. The JDA defined Existing Technology as:
+Existing Technology is the results of work relating to Digital Audio Coding needed to cover ISO work done by AT & T’s Information Principles Research Laboratory and FhG [Fraunhofer] at its AIS (including the work of Mr. Brandenburg and his colleagues at the University of Erlangen, cooperating with FhG/AIS) before the beginning of the Period.
+*715 Existing AT & T Technology is described in Attachment A (papers describing technical information) and Attachment B (patents and patent applications).
+Existing FhG Technology is described in Attachment C (papers describing technical information) and Attachment D (patents and patent applications).
+(Emphasis added).2 In contrast, “New Work,” technology developed after April 1989, was to be jointly owned—and each company had the nonexclusive right to make use of, and to grant nonexclusive licenses to others to use, the technology. Specifically, the JDA stated:
+ 
+All New Work is treated as joint work. The intellectual property rights to that work will be jointly owned by AT & T and FhG [Fraunhofer]. Each party has the nonexclusive right to make use of the results of New Work (including intellectual property rights), and may grant nonexclusive licenses to others to use the results of such New Work.
+Although the JDA was originally set to terminate on September 30, 1990, it was later extended indefinitely.
+Working together in late 1989, Johnston and Brandenburg implemented and assisted in setting the industry standard ISO 11172–3 Audio Layer 3 (“MP3”) coding techniques. By 1997, Fraunhofer had written software for MP3 functionality, and licensed hundreds of companies to use its MP3 software and patents. Microsoft sought to add to its Windows Media Player the ability to play MP3 files. Thus, in 1997, Microsoft obtained a license from Fraunhofer for the MP3 decoder software and incorporated it into computers containing Windows Media Player to allow the computers to play MP3 files.
+ 
+In 2004, after the commencement of this litigation, Microsoft took another license from Fraunhofer for encoding and decoding software for use in its Windows Media Player 10. The software included two encoders—the “Fast” encoder and the “High Quality” encoder. Only the High Quality encoder uses tonality values as required by the ′457 patent. In late 2006, Microsoft released Windows Media Player 11, which retains the Fast encoder, but omits the High Quality encoder.
+ 
+
+C
+In 2002, Lucent filed suit against Gateway for patent infringement in the United States District Court for the Eastern District of Virginia. The action was transferred to the Southern District of California. Microsoft intervened and filed a declaratory judgment action against Lucent. In 2003, Lucent filed suit against Dell for patent infringement in the District of Delaware. That case was also transferred to the Southern District of California and consolidated with the other cases. The patents at issue were divided into five groups for summary judgment and trial.3
+ 
+In 2004, the district court issued a claim construction order for the ′ 457 patent. Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108 (S.D.Cal. Feb.22, 2004). A claim construction order was issued for the ′080 patent in 2006, following the reissue proceedings. *716 Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV2060, 03–CV–0699, 03–CV–1108 (S.D.Cal. Aug.21, 2006).
+ 
+Then, in early 2007, a two-week jury trial was held. At issue was infringement and validity of claims 1, 5, and 10 of the ′457 patent and all claims (claims 1, 3, and 4) of the ′080 patent. In a Special Verdict Form, the jury was asked to answer a Special Question relevant to the infringement analysis with respect to the ′080 patent:
+Has Microsoft proven by a preponderance of the evidence that work was performed on or after April 1989 which was incorporated into any of the claims of the ′938 patent? Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, slip op. at 5, 2007 WL 1039302 (S.D.Cal. Feb.22, 2007). The jury answered that Microsoft had failed to prove that any claim of the ′938 patent incorporates work first performed on or after April 1989 (i.e., New Work). Id. The jury found contributory and induced infringement of all asserted claims and rejected all invalidity defenses. Id. at 2–8. The jury awarded damages in the amount of $1,538,056,702 ($769,028,351 for each of the ′457 patent and the ′080 patent), based on a 0.5% royalty rate for the value of the entire computer that performed the MP3 encoding functions. Id. at 8–9.
+ 
+The district court set aside the jury verdict, granting JMOL and, in the alternative, a new trial on infringement of claims 1, 5, and 10 of the ′457 patent, and dismissed the claims for infringement of the ′080 patent. Lucent, 509 F.Supp.2d at 942. In particular, the court held that, while the jury permissibly found that claims 1 and 3 of the ′938 patent incorporate only Existing Technology, the jury lacked substantial evidence and acted against the clear weight of the evidence in so finding for claims 2 and 4. Id. at 919–22. Because the court determined that claims 2 and 4 encompassed New Work, it concluded that the ′938 patent, and hence the ′080 patent, was jointly owned by AT & T and Fraunhofer, and Lucent lacked standing to sue in the absence of Fraunhofer. Id. at 922–24. Thus, the court dismissed Lucent’s infringement claims based on the ′080 patent. Id. at 924.
+ 
+With respect to the ′457 patent, the court held that the jury lacked substantial evidence and acted against the clear weight of the evidence in finding infringement of method claims 1 and 5 by Microsoft’s Windows Media Player given that Lucent provided insufficient evidence to establish that the High Quality encoder actually ever ran and performed the claimed method. Id. at 925–27. For the same reasons, the court held that there was insufficient evidence of infringement of claim 10, which, although directed to a storage medium, used the phrase “manufactured in accordance with a process comprising,” thus requiring evidence of practice of the claimed process. Id. at 927–28. Therefore, the court granted Lucent’s motion for JMOL, or alternatively for a new trial, on infringement of the ′457 patent. Id.4
+ 
+Finally, the district court granted JMOL or a new trial on damages. Id. at 938, 940. It held that the jury acted against the clear weight of the evidence in using the value of the entire computer as the royalty base, and thus erred in its application of the entire market rule. Id. at 935–38. The court, therefore, granted JMOL or a *717 new trial on damages on that basis. Id. at 939. The court could not definitively conclude that there was insufficient evidence to support the jury’s 0.5% royalty rate. Id. at 938–40. Thus, it denied the motion for JMOL on that basis, but granted a new trial. Id. at 940.
+ 
+Lucent appeals. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+II
+[1] [2] [3] We review decisions on motions for JMOL and motions for a new trial under the law of the regional circuit. DyStar Textilfarben GmbH v. C.H. Patrick Co., 464 F.3d 1356, 1359 (Fed.Cir.2006). In the Ninth Circuit, a district court’s grant of JMOL is reviewed de novo. CollegeNet, Inc. v. ApplyYourself, Inc., 418 F.3d 1225, 1230 (Fed.Cir.2005); City Solutions, Inc. v. Clear Channel Commc’ns, 365 F.3d 835, 839 (9th Cir.2004). A grant of JMOL is appropriate when “the evidence, construed in the light most favorable to the non-moving party, permits only one reasonable conclusion, and that conclusion is contrary to the jury’s.” CollegeNet, 418 F.3d at 1230 (quoting Pavao v. Pagay, 307 F.3d 915, 918 (9th Cir.2002)); City Solutions, 365 F.3d at 839.
+ 
+[4] [5] The district court’s grant of a new trial is reviewed for abuse of discretion. CollegeNet, 418 F.3d at 1230; Wallace v. City of San Diego, 479 F.3d 616, 630 (9th Cir.2007). We may find that the “district court abused its discretion in ordering a new trial if the jury’s verdict is not against the clear weight of the evidence.” CollegeNet, 418 F.3d at 1230 (quoting United States v. 4.0 Acres of Land, 175 F.3d 1133, 1139 (9th Cir.1999)); Wallace, 479 F.3d at 630.
+ 
+[6] [7] [8] We review the district court’s dismissal for lack of standing without deference. Consol. Edison Co. of N.Y. v. Richardson, 233 F.3d 1376, 1379 (Fed.Cir.2000). Contract interpretation is a question of law, which we review de novo. St. Christopher Assocs., L.P. v. United States, 511 F.3d 1376, 1380 (Fed.Cir.2008). Infringement is a question of fact, which we review for substantial evidence when tried to a jury. Finisar Corp. v. DirecTV Group, Inc., 523 F.3d 1323, 1332–33 (Fed.Cir.2008).
+ 
+
+III
+Lucent challenges the district court’s holding that it lacks standing to sue for infringement of the ′080 patent in the absence of Fraunhofer on two grounds. First, Lucent avers that the court erred in finding that claims 2 and 4 of the ′938 patent constitute New Work under the JDA. Alternatively, Lucent contends that, even if claims 2 and 4 are New Work, the court erred in concluding that Fraunhofer is a co-owner of the ′938 patent, and thus the ′ 080 patent.
+ 
+
+A
+The jury determined that all four claims of the ′938 patent incorporate Existing Technology, not New Work, under the JDA. The district court upheld the jury’s finding that claims 1 and 3 of the ′938 patent are Existing Technology; however, the court determined, contrary to the jury’s finding, that claims 2 and 4 are New Work. Claim 2 limits the frequency coefficients to MDCT coefficients. Claim 4 requires a “means for receiving” and a “means for converting” (i.e., decoding) the set of frequency coefficients.
+ 
+Lucent contends that the district court erred in setting aside the jury’s finding and concluding that claims 2 and 4 constitute New Work. According to Lucent, the jury’s finding that claims 2 and 4 of the *718 ′938 patent do not incorporate New Work is supported by substantial evidence. Further, Lucent asserts that for claims 2 and 4 to constitute Existing Technology, it is not necessary for there to be written descriptive support for the claims in the specification of the ′938 patent since contract law governs, not 35 U.S.C. § 112, first paragraph. Lucent asserts that under the JDA, all that is required is for the claimed subject matter to have been in the public domain prior to April 1989. This interpretation of the JDA is apparently attributable to the language “the results of” in the definition of Existing Technology.
+ 
+With respect to claim 2, Lucent contends that the original ′598 application, filed in 1988, refers generally to means to transform and that, before April 1989, a person of skill in the art would have recognized that MDCT was among the existing means to transform. In fact, Lucent asserts that its expert testified that MDCT was known in the prior art, and that evidence indicated that Johnston recognized the availability of MDCT prior to April 1989. Thus, Lucent argues, use of the MDCT transform in the method of claim 1 was part of “the results of” Johnston’s pre-April 1989 work.
+ 
+With respect to claim 4, Lucent argues that the means-plus-function elements, “means for receiving” and “means for converting,” encompass structures for receiving and decoding frequency coefficients. According to Lucent, the district court erred in limiting the structures that support the means-plus-function elements to the digital signal processor (“DSP”) and the Very Large Scale Integration (“VLSI”) hardware, rather than to include their equivalents. Lucent asserts that it is undisputed that some structure for encoding and decoding was part of Johnston’s pre-April 1989 work. In particular, Lucent points to the specification and drawings of the ′457 patent, which date to 1988, and evidence of Johnston’s working embodiment. Moreover, Lucent contends that its expert testified that personal computers have DSPs and VLSIs, and that Johnston testified that he tested his software on Alliant and Data General computers.
+ 
+We cannot adopt Lucent’s strained interpretation of the JDA. Existing Technology is clearly defined in the JDA to refer to technology developed by AT & T or by Fraunhofer prior to April 1989. Indeed, what was recognized by the parties to constitute Existing AT & T Technology and Existing Fraunhofer Technology was specifically described in Attachments A–D to the JDA. There is simply no basis for reading Existing Technology more broadly to encompass any technology in the public domain prior to April 1989. Notably, Lucent points to nothing in Attachments A–D that supports its argument that the subject matter of claims 2 and 4 was Existing Technology.
+ 
+[9] [10] Furthermore, we disagree that written descriptive support in the specification is not relevant to determining when the claimed technology was developed. In order to be valid, each patent claim must meet all the statutory requirements, including written description under 35 U.S.C. § 112, first paragraph. Patent claims are awarded priority on a claim-by-claim basis based on the disclosure in the priority applications. Go Med. Indus. Pty., Ltd. v. Inmed Corp., 471 F.3d 1264, 1270 (Fed.Cir.2006); Augustine Med., Inc. v. Gaymar Indus., Inc., 181 F.3d 1291, 1302 (Fed.Cir.1999). When the ′ 080 patent application was filed as a reissue of the ′938 patent, the priority was amended to claim priority as a continuation to an application filed in 1992, which in turn was a CIP of another application that was a continuation *719 of the ′598 application, filed in 1988. Thus, while the ′ 080 patent (and the ′938 patent) shares the same specification as the application filed in 1992, it does not share the same specification as the ′598 application. Since the critical date for distinguishing between New Work and Existing Technology is April 1989, it is important to establish whether the claims of the ′080 patent are entitled to the priority date of the ′598 application (i.e., 1988) or only to the 1992 priority date.
+ 
+[11] The district court determined that the ′457 patent (which shares the same specification as the ′598 application filed in 1988) does not mention MDCTs and thus there is no evidence that the work embodied in claim 2 was performed prior to April 1989. Lucent, 509 F.Supp.2d at 920. Even if the implementation of MDCTs into the claimed technology would have been obvious to one of skill in the art, the court correctly recognized that a demonstration of obviousness is not sufficient to show possession. Id.; see PowerOasis, Inc. v. T–Mobile USA, Inc., 522 F.3d 1299, 1306 (Fed.Cir.2008); Regents of the Univ. of Cal. v. Eli Lilly & Co., 119 F.3d 1559, 1566 (Fed.Cir.1997); Lockwood v. Am. Airlines, Inc., 107 F.3d 1565, 1571–72 (Fed.Cir.1997). Moreover, the court relied on the testimony of Johnston that he had not heard of MDCTs and had not performed work with MDCTs before the collaborative period with Fraunhofer. Lucent, 509 F.Supp.2d at 920. We find the court’s analysis to be sound, and thus we conclude that claim 2 constitutes New Work. We next proceed to consider claim 4.5
+ 
+The court first restated its earlier construction of the claim 4 terms, “means for receiving” and “means for converting,” as means-plus-function claim terms under 35 U.S.C. § 112, ¶ 6, requiring the following corresponding structure described in the specification of the ′938 patent:
+[A] digital signal processor (DSP), a DSP with software, VLSI hardware embodiments, or hybrid DSP/VLSI embodiments.
+Lucent, 509 F.Supp.2d at 921; see ′938 patent col.23 l.59–col.24 l.1. The court then recognized that none of the corresponding structures appeared in the specification of the ′457 application (which is entitled to priority to the ′598 application filed in 1988), but instead first appeared in the ′938 patent application (i.e., in the priority application filed in 1992). Lucent, 509 F.Supp.2d at 921. The court rejected Lucent’s attempt to rely on Figure 7 of the ′457 patent for support because the figure does not identify any structures. Id. We agree with the district court that claim 4, in that it recites the two means-plus-function claim terms, is only entitled to a priority date of 1992. Lucent does not point to other corresponding structures in the ′938 patent specification that support the terms “means for receiving” or “means for converting,” nor does Lucent point to support for DSP or VLSI in the ′598 application.
+ 
+[12] Further, the court properly rejected Lucent’s arguments that one of skill in the art would have known in 1988 that DSP and VLSI are satisfactory structures for a “means for receiving” and a “means for converting.” Id. The understanding of one of skill in the art does not relieve the patentee of the duty to disclose sufficient structure to support means-plus-function claim terms. Biomedino, LLC v. Waters Techs. Corp., 490 F.3d 946, 952 (Fed.Cir.2007). Thus, claim 4 is entitled only to a priority date of 1992, after the April 1989 *720 critical date. We further agree with the district court that Lucent presented insufficient evidence to support the jury’s finding that claim 4 had an earlier date of invention. As such, claim 4 is New Work and not Existing Technology. Given that claims 1 and 3 of the ′938 patent are Existing Technology and claims 2 and 4 are New Work, we must now consider the ownership of the ′938 patent (and the ′080 patent).
+ 
+
+B
+[13] Lucent argues, in the alternative, that even if claims 2 and 4 incorporate New Work under the JDA, ownership of the ′938 patent (and thus the ′080 patent) remains solely with Lucent since claims 1 and 3 are Existing Technology. Lucent contends that while the JDA may have attempted to assign joint ownership to some of the claims of the ′938 patent, it was ineffective to do that. According to Lucent, by law a patentee may only assign title to an entire patent; a transfer of less is merely a license. Thus, Lucent avers, AT & T merely granted a license to Fraunhofer in claims 2 and 4 of the ′938 patent, not an ownership interest in the entire patent. Because Fraunhofer is not a co-owner of the ′080 patent, Lucent contends that it does not lack standing to sue in the absence of Fraunhofer.
+ 
+In making its argument, Lucent relies primarily on Pope, and on subsequent Supreme Court and Federal Circuit precedent reiterating the principles set out in Pope. See Pope Mfg. Co. v. Gormully & Jeffery Mfg. Co., 144 U.S. 248, 12 S.Ct. 641, 36 L.Ed. 423 (1892). Lucent contends that while the district court correctly recognized that Pope precluded the separation of claims 1 and 3 from claims 2 and 4, it arrived at the wrong conclusion—that the JDA therefore assigns ownership of the entire patent. Instead, Lucent argues, Pope mandates that the result of a mixed assignment is a mere license. In addition, Lucent criticizes the district court’s application of Israel Bio–Engineering Project v. Amgen, Inc., 475 F.3d 1256, 1263–64 (Fed.Cir.2007). According to Lucent, Israel Bio–Engineering is distinguishable from the instant case because it involved co-inventors who began with an ownership interest.
+ 
+[14] We find no error in the district court’s application of Pope and Israel Bio–Engineering. The issue in Pope was whether the plaintiff in an infringement suit had legal title to a patent and thus the right to sue. 144 U.S. at 250, 12 S.Ct. 641. The patent related to bicycles, the second claim reciting: “In a velocipede, an adjustable hammock seat, J, substantially as set forth.” Id. at 249, 12 S.Ct. 641. Other claims did not mention a hammock seat. Id. at 250, 12 S.Ct. 641. The plaintiff had obtained title to the patent through a series of assignments, the first of which conveyed “all rights for past infringement so far as said patent relates to or covers the adjustable hammock seat or saddle....” Id. at 249, 12 S.Ct. 641. Thus, the Court considered “whether a patentee can split up his patent into as many different parts as there are claims, and vest the legal title to those claims in as many different persons.” Id. at 250, 12 S.Ct. 641. The Court concluded that the right of the patentee to assign his monopoly was limited to:
+(1) the whole patent, comprising the exclusive right to make, use, and vend the invention throughout the United States;
+(2) an undivided part or share of that exclusive right; or
+(3) the exclusive right under the patent within and throughout a specified territory.
+*721 Id. at 251, 12 S.Ct. 641 (citing Waterman v. Mackenzie, 138 U.S. 252, 11 S.Ct. 334, 34 L.Ed. 923 (1891), and Gayler v. Wilder, 51 U.S. 477, 10 How. 477, 13 L.Ed. 504 (1850)). A transfer of less, according to the Court, did not convey title in the patent and the right to sue; instead, it conveyed merely a license. Pope, 144 U.S. at 252, 12 S.Ct. 641. Therefore, the Court determined that the plaintiff lacked title in the patent and could not sue for infringement. Id. The district court correctly recognized that Pope stands for the proposition that the owner of a patent cannot split up its ownership rights in a patent and assign different claims to different parties. Pope, however, has limited relevance to the instant case where we need to determine ownership of the patent in the first instance, i.e., upon issuance of the patent.
+ 
+More relevant is Israel Bio–Engineering, which, like this case, involved determination of the ownership of a patent when some of the claimed subject matter was invented under a contract and some was invented outside the contract. Israel Bio–Engineering involved a five-year contract between Inter–Yeda, Ltd. (“Inter–Yeda”) and Israel Bio–Engineering Project (“IBEP”) in which IBEP would fund research conducted by Inter–Yeda in cooperation with Yeda Research and Development Co., Ltd. (“Yeda”), Inter–Yeda would apply for patents in its sole discretion, and all ownership interests in patents so obtained would be assigned to IBEP. Israel Bio–Eng’g, 475 F.3d at 1259. After the termination of the contract a patent issued, which named four inventors and named Yeda as the assignee. Id. at 1260. One of the inventors, Dr. Rubenstein, had joined the research project after the contract ended. Id. at 1261. While the subject matter of claim 1 of the patent was discovered during the contract term, the subject matter of claims 2 and 3 was discovered by Rubenstein after the termination of the contract. Id. at 1260–61. Rubenstein had assigned his ownership rights to Yeda. Id. at 1261, 1268. When IBEP sued Amgen and others for infringement of claim 1 of the patent, this court had to determine whether IBEP had standing to sue without the joinder of Yeda. Id. at 1261–63. We held that Rubenstein was a presumptive co-owner of the patent because he was listed on the patent and had discovered the subject matter of claims 2 and 3 of the patent; however, he had assigned his ownership rights to Yeda. Id. at 1268. Because Yeda was a co-owner of the patent by virtue of claims 2 and 3, we held that IBEP lacked standing to sue for patent infringement in the absence of Yeda. Id.
+ 
+[15] Here, the district court properly relied on Israel Bio–Engineering to conclude that because claims 2 and 4 of the ′938 patent were invented during the period covered by the JDA, and thus constitute New Work, Fraunhofer is a co-owner of the ′938 patent- and thus the ′080 patent. As such, Lucent lacks standing to sue for infringement of the ′080 patent in the absence of Fraunhofer. We disagree with Lucent that Israel Bio–Engineering is distinguishable because it concerns co-inventors who began with an ownership interest. Instead, at issue in Israel Bio–Engineering was whether one of the inventors listed on the patent (who, in turn, assigned his ownership rights) was required to be joined in the infringement lawsuit even though he had not invented the asserted claim. Similarly, here, the issue is whether Fraunhofer is an owner of the ′080 patent even though it did not contribute to the invention of some of the claims. The answer in both cases is a resounding yes. Pope indeed dictates that patent rights cannot be split between claims, but Israel Bio–Engineering holds that an inventor of one or more claims of the patent is an owner of all claims of the patent.
+ 
+Finally, Lucent contends that the result arrived at by the district court unfairly *722 grants ownership rights over Existing Technology to Fraunhofer, contrary to the intent of the JDA, which disallowed each party from licensing the other party’s Existing Technology. Moreover, Lucent asserts that Fraunhofer, not Microsoft, should have raised a grievance regarding its ownership interest and it has not done so.
+ 
+But, Lucent’s predecessor, AT & T, had the ability to file patent applications at its own discretion, and had the option to file separate applications on inventions constituting New Work and inventions constituting Existing Technology, or to include both inventions in a single application.6 See Israel Bio–Eng’g, 475 F.3d at 1267. Since AT & T chose the latter route, Lucent is required to join Fraunhofer in any infringement suit involving the ′080 patent.7 It was perfectly appropriate for Microsoft to raise this defect in standing before the district court.
+ 
+We find no error in the district court’s determination that claims 2 and 4 of the ′938 patent—claim 4 of the ′080 patent—constitute New Work and its conclusion that Fraunhofer was thus a co-owner of the ′080 patent. Accordingly, we affirm the district court’s grant of JMOL and its dismissal of Lucent’s infringement claims with respect to the ′080 patent for lack of standing.8
+ 
+
+IV
+[16] Lucent next contends that the district court erred in setting aside the jury’s verdict of direct infringement of claims 1, 5, and 10 of the ′457 patent by concluding that the jury lacked substantial evidence in finding that the High Quality encoder is used in Microsoft’s Windows Media Player. According to Lucent, the jury’s finding was supported by circumstantial evidence. First, Lucent’s expert, Dr. Polish, testified that Microsoft’s software is designed to call the High Quality encoder as a backup to the Fast encoder under specified conditions, and thus it could be inferred that the High Quality encoder actually runs in practice. In addition, Polish testified that the conditions for the Fast encoder to fail are probably “very common” in practice, and even Microsoft’s witness, Mr. Jones, acknowledged that the Fast encoder “could fail for any number of reasons.” Finally, Polish testified that he could find no basis for concluding that the High Quality encoder would necessarily fail if the Fast encoder failed since the two encoders use different initialization tests.
+ 
+Lucent asserts that the district court mistakenly relied on E–Pass Technologies, Inc. v. 3Com Corp., 473 F.3d 1213 (Fed.Cir.2007), and ACCO Brands, Inc. v. ABA Locks Manufacturer Co., 501 F.3d 1307 (Fed.Cir.2007), in finding no direct infringement even though both cases can be distinguished from the present case. According to Lucent, in E–Pass, the patentee could have easily introduced testimony to prove direct infringement since the claimed invention involved user choice. *723 Similarly, Lucent contends that, in ACCO, the patentee could have readily obtained evidence of infringing use, but did not. In contrast, here, Lucent avers, the infringing steps are automatic and undetectable, and thus there is no available but omitted evidence of infringement. Lucent relies principally on Polish’s testimony that he lacked the means to observe an individual use of the High Quality encoder.
+ 
+[17] [18] A patentee may rely on either direct or circumstantial evidence to prove infringement. Liquid Dynamics Corp. v. Vaughan Co., 449 F.3d 1209, 1219 (Fed.Cir.2006) (citing Moleculon Research Corp. v. CBS, Inc., 793 F.2d 1261, 1272 (Fed.Cir.1986)). “In order to prove direct infringement, a patentee must either point to specific instances of direct infringement or show that the accused device necessarily infringes the patent in suit.” ACCO, 501 F.3d at 1313.
+ 
+Lucent did not show specific instances of direct infringement. Instead, Lucent relied on circumstantial evidence to attempt to show that Microsoft’s Windows Media Player necessarily infringes the ′457 patent. Proof of infringement of the method of claims 1 and 5 required proof that the High Quality encoder had actually run. The district court found, however, that the circumstantial evidence presented by Lucent established only uncertainty and speculation as to whether the High Quality encoder had run even once. Lucent, 509 F.Supp.2d at 926. In particular, the court noted that Polish’s opinion that errors would occur that would cause the Fast encoder to fail and would not cause the High Quality encoder to fail was based only on his review of the source code, and that he did not know at what rates such errors occurred and did not ever observe such errors. Id. Further, the court reasoned that if running of the High Quality encoder was so common and so routine, then certainly Lucent could have produced evidence of at least one instance when the High Quality encoder had run. Id. Thus, the court concluded that Lucent did not provide sufficient evidence to establish that the High Quality encoder had ever run. Id. With regard to claim 10, directed to a storage medium “manufactured in accordance with” the method of claim 1, the court held, based on the same reasoning, that there was insufficient evidence to establish infringement. Id. at 927–28. Thus, the court granted JMOL of non-infringement of the ′457 patent. Id.
+ 
+We find no error in the district court’s analysis or in its reliance on Acco and EPass. In Acco, the patents at issue were directed to locking systems. 501 F.3d at 1310. This court reversed the district court’s finding of infringement because the patentee failed to provide specific evidence of direct infringement or evidence that the accused device necessarily infringed. Id. at 1313. In so concluding, we recognized that the accused device could be operated in two ways, one infringing and one noninfringing, and that the lock users received instructions describing only the noninfringing method. Id. In E–Pass, the patents were directed to a method of substituting an electronic multi-function card for a plurality of credit cards. 473 F.3d at 1216. We affirmed the district court’s grant of summary judgment of non-infringement because we determined that the evidence provided by the patentee at best showed that customers were taught each step of the claimed method in isolation, yet failed to establish that all of the steps of the method had actually been performed in the prescribed order. Id. at 1222. Thus, we held that it would be too speculative to conclude that any customer actually performed the claimed method. Id. Here, too, Lucent has failed to provide sufficient evidence to establish that the *724 High Quality encoder actually runs on Windows Media Player and thus it would be too speculative to conclude that Windows Media Player necessarily infringes the ′ 457 patent.
+ 
+Lucent also asks this court to reinstate the jury verdict of infringement of claim 10 “if the ′457 infringement verdict regarding Claim 1 and 5” is reinstated. Resp. & Reply Br. 27. For the reasons stated previously, we decline to reverse the district court’s decision on claims 1 and 5, and therefore decline to reverse the court’s judgment of non-infringement on claim 10 as well. Accordingly, we hold that the district court properly granted JMOL of non-infringement of the ′457 patent.9
+ 
+
+V
+For the foregoing reasons, we affirm the district court’s dismissal of the infringement claims with respect to the ′080 patent for lack of standing, and the court’s grant of JMOL of non-infringement with respect to the ′457 patent.
+ 
+AFFIRMED
+ 
+All Citations
+543 F.3d 710, 88 U.S.P.Q.2d 1481
+Footnotes
+
+1
+
+AT & T Bell Laboratories is now Lucent Technologies, Inc.
+
+2
+
+ISO work refers to work performed for submission to and possible adoption as a standard by the International Organization for Standardization. AIS refers to Fraunhofer’s research group, the Arbeitsgruppe für Integrierte Schaltungen.
+
+3
+
+We affirmed-in-part and vacated-in-part the district court’s grant of summary judgment of non-infringement for two other patents. Lucent Techs., Inc. v. Gateway, Inc., 525 F.3d 1200 (Fed.Cir.2008).
+
+4
+
+The court also ordered a new trial on claim 10 of the ′457 patent on an alternative basis, because it concluded that its jury instruction for infringement of that product-by-process claim was confusing. Id. at 928.
+
+5
+
+We note that, since claim 2 was canceled from the ′938 patent when it was reissued as the ′080 patent, there may be some question of the significance of claim 2 to the ownership of the ′080 patent.
+
+6
+
+Particularly, as here, where AT & T filed a reissue application and canceled claim 2, it could easily have canceled claim 4 as well if it wished to retain sole ownership rights in the ′080 patent.
+
+7
+
+We find the result advocated by Lucent to be sharply in conflict with the JDA because it would allow either party to the JDA, by adding at least one claim to a patent application directed to Existing Technology, to thereby deprive the other party to the JDA of joint ownership of any New Work claimed in the same application.
+
+8
+
+Because we affirm the district court’s grant of JMOL, we need not consider whether its grant, in the alternative, of a new trial was proper.
+
+9
+
+Because we affirm the district court’s grant of JMOL, we need not consider whether the court erred in granting, in the alternative, a new trial. We further need not consider the remaining issues raised by Lucent on appeal or by the appellees in their cross-appeal.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

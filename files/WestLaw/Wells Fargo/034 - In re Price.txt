@@ -1,0 +1,496 @@
+
+
+
+
+
+In re Price
+United States Court of Appeals, Fourth Circuit. | April 13, 2009 | 562 F.3d 618 | 2009 WL 975796
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Disagreed With by In re Penrod, 9th Cir.(Cal.), July 16, 2010
+
+standard Citation:
+
+In re Price, 562 F.3d 618 (4th Cir. 2009)
+
+All Citations:
+
+562 F.3d 618, 61 Collier Bankr.Cas.2d 1422, Bankr. L. Rep. P 81,462, 68 UCC Rep.Serv.2d 786
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+North Carolina
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Disagreed With by In re Penrod, 9th Cir.(Cal.), July 16, 2010
+562 F.3d 618
+United States Court of Appeals,
+Fourth Circuit.
+In re Telephius Letoinne PRICE; Shawana Denise Price, Debtors.
+Wells Fargo Financial Acceptance, Plaintiff–Appellant,
+Telephius Letoinne Price; Shawana Denise Price, Debtors–Appellees.
+GMAC, LLC, Amicus Supporting Appellant,
+Ingrid M. Hillinger; Michael Hillinger; Adam J. Levitin; Michaela M. White; Jean Braucher; National Association of Consumer Bankruptcy Attorneys, Amici Supporting Appellees.
+In re Telephius Letoinne Price; Shawana Denise Price, Debtors.
+Wells Fargo Financial Acceptance, Plaintiff–Appellee,
+Telephius Letoinne Price; Shawana Denise Price, Debtors–Appellants.
+Ingrid M. Hillinger; Michael Hillinger; Jean Braucher; Adam J. Levitin; National Association of Consumer Bankruptcy Attorneys; Michaela M. White, Amici Supporting Appellants,
+GMAC, LLC, Amicus Supporting Appellee.
+Nos. 07–2185, 08–1022.
+|
+Argued: Jan. 28, 2009.
+|
+Decided: April 13, 2009.
+Synopsis
+Background: Creditor objected to confirmation of debtors’ proposed Chapter 13 plan, asserting that it had purchase money security interest in debtors’ vehicle which precluded bifurcation of its secured claim. The Bankruptcy Court, 363 B.R. 734, denied objection. Creditor appealed. The United States District Court for the Eastern District of North Carolina, W. Earl Britt, Senior District Judge, 2007 WL 5297071, affirmed in part, reversed in part, and remanded. Parties cross-appealed.
+ 
+Holdings: The Court of Appeals, Wilkinson, Circuit Judge, held that:
+ 
+[1] state law controls the meaning of term “purchase money security interest” as used in “hanging paragraph” of plan confirmation statute;
+ 
+[2] creditor’s financing of debtors’ negative equity in their trade-in vehicle created purchase-money obligation under North Carolina law; and
+ 
+[3] pursuant to “hanging paragraph” of plan confirmation statute, debtors were barred from bifurcating creditor’s secured claim.
+ 
+Reversed and remanded.
+ 
+
+
+West Headnotes (10)
+
+
+[1]
+
+BankruptcyConclusions of law;  de novo review
+
+
+51Bankruptcy
+51XIXReview
+51XIX(B)Review of Bankruptcy Court
+51k3782Conclusions of law;  de novo review
+
+
+Questions of law are reviewed de novo.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+BankruptcyLiens securing claims not allowed
+
+
+51Bankruptcy
+51VThe Estate
+51V(D)Liens and Transfers;  Avoidability
+51k2575Liens securing claims not allowed
+
+
+If creditor’s secured claim is for more than collateral’s value, bankruptcy statute generally providing that value of allowed secured claim is equal to value of collateral requires bifurcation of claim into two components: a secured claim for value of collateral, and an unsecured claim for the balance. 11 U.S.C.A. § 506(a)(1).
+2 Cases that cite this headnote
+
+
+
+[3]
+
+BankruptcyEffect of state law in general
+BankruptcyEffect of state law, in general
+
+
+51Bankruptcy
+51VThe Estate
+51V(C)Property of Estate in General
+51V(C)1In General
+51k2534Effect of state law in general
+51Bankruptcy
+51VThe Estate
+51V(D)Liens and Transfers;  Avoidability
+51k2574Effect of state law, in general
+
+
+When determining the substance of property rights and security interests in bankruptcy, the basic federal rule is that state law governs.
+3 Cases that cite this headnote
+
+
+
+[4]
+
+BankruptcyLiens securing claims not allowed
+BankruptcyModification of claim, right, or debt in general
+
+
+51Bankruptcy
+51VThe Estate
+51V(D)Liens and Transfers;  Avoidability
+51k2575Liens securing claims not allowed
+51Bankruptcy
+51XVIIIIndividual Debt Adjustment
+51k3704Plan
+51k3708Secured Claims;  Cram Down
+51k3708(8)Modification of claim, right, or debt in general
+
+
+State law controls the meaning of term “purchase money security interest” as used in “hanging paragraph” of plan confirmation statute, which bars bifurcation, through Chapter 13 plan, of secured claim of creditor with purchase money security interest in motor vehicle acquired for debtor’s personal use within 910 days of debtor’s bankruptcy filing. 11 U.S.C.A. § 1325(a).
+10 Cases that cite this headnote
+
+
+
+[5]
+
+Secured TransactionsPurchase money security interests
+
+
+349ASecured Transactions
+349AIIIConstruction and Operation
+349AIII(B)Rights as to Third Parties and Priorities
+349Ak145Conflicting Security Interests, Priorities Among
+349Ak146Purchase money security interests
+
+
+Creditor’s financing of vehicle buyers’ negative equity in their trade-in vehicle created purchase-money obligation giving rise to purchase money security interest under North Carolina’s version of Uniform Commercial Code (UCC), which defined “purchase-money obligation” giving rise to purchase money security interest in goods to require that debt be incurred as all or part of price of collateral or for value given to enable debtor to acquire rights in or use of collateral if value was in fact so used, since creditor’s financing enabled buyers to acquire rights in vehicle being purchased. West’s N.C.G.S.A. § 25–9–103(a–b).
+15 Cases that cite this headnote
+
+
+
+[6]
+
+StatutesUndefined terms
+
+
+361Statutes
+361IIIConstruction
+361III(D)Particular Elements of Language
+361k1123Undefined terms
+(Formerly 361k188)
+
+
+When a word is not defined by statute, courts normally construe it in accord with its ordinary or natural meaning.
+Cases that cite this headnote
+
+
+
+[7]
+
+BankruptcyLiens securing claims not allowed
+BankruptcyModification of claim, right, or debt in general
+Secured TransactionsPurchase money security interests
+
+
+51Bankruptcy
+51VThe Estate
+51V(D)Liens and Transfers;  Avoidability
+51k2575Liens securing claims not allowed
+51Bankruptcy
+51XVIIIIndividual Debt Adjustment
+51k3704Plan
+51k3708Secured Claims;  Cram Down
+51k3708(8)Modification of claim, right, or debt in general
+349ASecured Transactions
+349AIIIConstruction and Operation
+349AIII(B)Rights as to Third Parties and Priorities
+349Ak145Conflicting Security Interests, Priorities Among
+349Ak146Purchase money security interests
+
+
+Under North Carolina’s version of Uniform Commercial Code (UCC), creditor’s purchase money security interest in vehicle acquired by Chapter 13 debtors for their personal use within 910 days of their bankruptcy filing applied to entire debt incurred in financing vehicle purchase, including those portions of debt associated with financing of debtors’ negative equity in trade-in vehicle and gap insurance, and therefore, pursuant to “hanging paragraph” of plan confirmation statute, debtors were barred from bifurcating creditor’s secured claim. 11 U.S.C.A. § 1325(a); West’s N.C.G.S.A. § 25–9–103(a–b).
+15 Cases that cite this headnote
+
+
+
+[8]
+
+Secured TransactionsPurchase money security interests
+
+
+349ASecured Transactions
+349AIIIConstruction and Operation
+349AIII(B)Rights as to Third Parties and Priorities
+349Ak145Conflicting Security Interests, Priorities Among
+349Ak146Purchase money security interests
+
+
+Under North Carolina’s version of Uniform Commercial Code (UCC), which defined “purchase-money obligation” giving rise to purchase money security interest in goods to require that debt be incurred as all or part of price of collateral or for value given to enable debtor to acquire rights in or use of collateral if value was in fact so used, creditor’s financing of gap insurance as part of debtors’ acquisition of new vehicle gave rise to purchase money security interest. West’s N.C.G.S.A. § 25–9–103(a–b).
+6 Cases that cite this headnote
+
+
+
+[9]
+
+StatutesLanguage and intent, will, purpose, or policy
+
+
+361Statutes
+361IIIConstruction
+361III(A)In General
+361k1078Language
+361k1080Language and intent, will, purpose, or policy
+(Formerly 361k181(1))
+
+
+Courts are obligated to interpret statutory language in a manner that effectuates congressional intent.
+1 Cases that cite this headnote
+
+
+
+[10]
+
+BankruptcyLiens securing claims not allowed
+BankruptcyModification of claim, right, or debt in general
+
+
+51Bankruptcy
+51VThe Estate
+51V(D)Liens and Transfers;  Avoidability
+51k2575Liens securing claims not allowed
+51Bankruptcy
+51XVIIIIndividual Debt Adjustment
+51k3704Plan
+51k3708Secured Claims;  Cram Down
+51k3708(8)Modification of claim, right, or debt in general
+
+
+Plain language of “hanging paragraph” in plan confirmation statute, which prevents bifurcation, through Chapter 13 plan, of qualifying claim secured by purchase money security interest, requires court to treat debt as a single entity, making it improper to partition debt into purchase money and non-purchase money components. 11 U.S.C.A. § 1325(a).
+2 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*620 ARGUED: David G. Epstein, Haynes & Boone, L.L.P., Dallas, Texas, for Wells Fargo Financial Acceptance. William Earl Brewer, Jr., Raleigh, North Carolina, for Telephius Letoinne Price and Shawana Denise Price. ON BRIEF: Pamela P. Keenan, Kirschbaum, Nanney, Keenan & Griffin, P.A., Raleigh, North Carolina, for Wells Fargo Financial Acceptance. Barkley Clark, Katherine M. Sutcliffe Becker, Stinson, Morrison, Hecker, L.L.P., Washington, D.C., for Amicus Curiae GMAC, L.L.C. Michael R. Totaro, Totaro & Shanahan, *621 Pacific Palisades, California, for Amici Curiae Ingrid M. Hillinger, Michael Hillinger, Jean Braucher, Adam J. Levitin, and Michaela M. White. Tara Twomey, National Association of Consumer Bankruptcy Attorneys, San Jose, California, for Amicus Curiae National Association of Consumer Bankruptcy Attorneys.
+Before WILKINSON, KING, and GREGORY, Circuit Judges.
+
+Reversed and remanded by published opinion. Judge WILKINSON wrote the opinion, in which Judge KING and Judge GREGORY joined.
+
+
+OPINION
+WILKINSON, Circuit Judge:
+This appeal involves the application of the “hanging paragraph” in Chapter 13 of the Bankruptcy Code. See 11 U.S.C. § 1325(a). That paragraph prevents the bifurcation (or “strip-down”) of a secured claim when the creditor has a “purchase money security interest” in a motor vehicle acquired for the debtor’s personal use within 910 days of the debtor’s bankruptcy filing. Id. In this case, we must decide how the hanging paragraph applies to a secured claim when a portion of that claim relates to the financing of “negative equity” (which, in a car transaction, refers to the difference between the value of a vehicle that the buyer trades in and the amount of the buyer’s preexisting debt on that trade-in).
+ 
+Applying the most natural interpretation of the statute, and in turn state law, we conclude that a creditor does have a “purchase money security interest” for the portion of its claim relating to negative equity. We reach that conclusion because negative equity financing is integral to the debtor’s acquisition of a new car and because this result effectuates Congress’s intent in the hanging paragraph. The judgment of the district court is therefore reversed. Because we hold that the debt in this case was secured by a purchase money security interest, we do not address the proper treatment of a debt that includes non-purchase money components.
+ 
+
+I.
+In July 2005, Telephius and Shawana Price bought a 2001 Lincoln LS from Capital Mazda in Cary, North Carolina. The Prices purchased the Lincoln on secured credit pursuant to a retail installment sales contract (“the contract”). Capital Mazda subsequently assigned the contract to Wells Fargo Financial Acceptance.
+ 
+The contract stated that the purchase price of the Lincoln was $14,437.17. The Prices put down $1,400 in cash. They also traded in their 1997 Nissan Maxima, which earned them a trade-in allowance of $2,861. The Prices had purchased the Nissan on credit, and they still owed $5,698.96 on the Nissan to their previous lender. The contract for the Lincoln therefore included financing for $2,837.96 in “negative equity,” or the difference between the amount the Prices received for the Nissan and the amount they still owed. The contract also included $426 in fees and taxes and $600 for gap insurance, which would cover the difference between the amount the Prices owed on the contract and the amount they would receive from an insurer if the Lincoln were totaled. The total amount financed in the contract—including the purchase price, the negative equity, fees and taxes, and the gap insurance, minus the down payment—was $16,901.13. This debt was secured by the Lincoln.
+ 
+Almost one year later, in June 2006, the Prices filed a Chapter 13 bankruptcy petition. Wells Fargo presented a proof of claim showing that the Prices owed $18,332.37, reflecting accrued interest, under *622 the contract at the time.1 The Prices’ Chapter 13 plan proposed to invoke 11 U.S.C. § 506(a)(1) to bifurcate Wells Fargo’s claim into two parts: a secured claim for $12,475 (the present value of the Lincoln), and an unsecured claim for the remainder. Wells Fargo objected to confirmation of the Prices’ plan, arguing that the Bankruptcy Code’s “hanging paragraph” protected its claim from bifurcation because that claim was secured by a “purchase money security interest.” See 11 U.S.C. § 1325(a).
+ 
+The bankruptcy court noted that “many courts have struggled to discern the meaning of portions of the ‘hanging paragraph.’ ” In re Price, 363 B.R. 734, 737 (Bankr.E.D.N.C.2007) (citing In re Trejos, 352 B.R. 249, 253–54 n. 6 (Bankr.D.Nev.2006)). Courts interpreting the hanging paragraph generally have disagreed on two points relating to motor vehicle transactions. First, courts have disagreed as to whether a purchase money security interest exists in the portion of a car loan relating to negative equity on a trade-in vehicle or to gap insurance. And second, even when courts have agreed that a purchase money security interest does not exist for these portions of the car loan, they have disagreed as to whether a purchase money security interest can still exist in the rest of the loan, or whether the hanging paragraph instead requires treating the entire debt as non-purchase money. See In re Graupner, 537 F.3d 1295, 1300 (11th Cir.2008) (collecting cases).
+ 
+The bankruptcy court in this case determined that the meaning of “purchase money security interest” in the hanging paragraph depended on state law. 363 B.R. at 740. The court then concluded that, under North Carolina law, the negative equity and gap insurance components of the contract between the Prices and Wells Fargo did not give rise to a purchase money security interest. Id. at 740–41. The bankruptcy court next applied what is known as the “transformation rule,” under which the non-purchase money portion of the debt converts the entire lien into a non-purchase money security interest. Id. at 745–46.
+ 
+On appeal, the district court agreed that, under North Carolina law, “negative equity and gap insurance ... cannot give rise to a purchase money security interest.” Wells Fargo Fin. N.C. 1, Inc. v. Price, No. 5:07–CV–133–BR, 2007 WL 5297071, at *3 (E.D.N.C. Nov.14, 2007). But the district court then applied the “dual status rule” and held that Wells Fargo did have a purchase money security interest for the part of its claim that did not relate to negative equity and gap insurance. Id. at *4. The district court therefore remanded the case to the bankruptcy court to determine the actual amount of Wells Fargo’s secured claim. Id. at *5.
+ 
+[1] Wells Fargo now appeals the district court’s conclusion that the negative equity and gap insurance components of the debt did not give rise to a purchase money security interest. The Prices cross-appeal the district court’s application of the dual status rule, arguing that the court should have applied the transformation rule instead. Because both of these appeals present only questions of law, we review the district court’s decision de novo. In re Bryson Props., XVIII, 961 F.2d 496, 499 (4th Cir.1992).
+ 
+
+II.
+A.
+[2] In Chapter 13 bankruptcy proceedings, the debtor has the option of retaining *623 his property over the objection of a secured creditor with an interest in that property, as the Prices did here. See 11 U.S.C. § 1325(a)(5)(B). In return, the secured creditor retains its lien on the collateral, and the debtor must repay the present value of the creditor’s “allowed secured claim” over time. Id. § 1325(a)(5); Assocs. Commercial Corp. v. Rash, 520 U.S. 953, 957, 117 S.Ct. 1879, 138 L.Ed.2d 148 (1997). Section 506(a)(1) of the Bankruptcy Code generally provides that the value of the allowed secured claim is equal to the value of the collateral. See 11 U.S.C. § 506(a)(1)2; Rash, 520 U.S. at 957, 117 S.Ct. 1879. Thus, if the secured creditor’s claim is for more than the collateral’s value, Section 506(a)(1) requires the bifurcation of the claim into two components: a secured claim for the value of the collateral, and an unsecured claim for the balance. Tidewater Fin. Co. v. Kenney, 531 F.3d 312, 316–17 (4th Cir.2008). Bifurcation of the secured creditor’s claim is sometimes characterized as “stripping down” the secured claim to the collateral’s value. Drive Fin. Servs., L.P. v. Jordan, 521 F.3d 343, 346–47 & n. 9 (5th Cir.2008).
+ 
+In 2005, Congress amended Chapter 13 of the Bankruptcy Code by adding the “hanging paragraph” (so called because the paragraph is unnumbered) to Section 1325(a). See Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, Pub.L. No. 109–8, § 306, 119 Stat. 23, 80 (“BAPCPA”). The effect of the hanging paragraph is to prevent the bifurcation of certain secured claims when confirming a debtor’s plan under Section 1325(a)(5). See, e.g., In re Dean, 537 F.3d 1315, 1318–20 (11th Cir.2008). The text of the hanging paragraph provides:
+For purposes of paragraph (5), section 506 shall not apply to a claim described in that paragraph if the creditor has a purchase money security interest securing the debt that is the subject of the claim, the debt was incurred within the 910–day [period] preceding the date of the filing of the petition, and the collateral for that debt consists of a motor vehicle (as defined in section 30102 of title 49) acquired for the personal use of the debtor, or if collateral for that debt consists of any other thing of value, if the debt was incurred during the 1–year period preceding that filing.
+11 U.S.C. § 1325(a).
+ 
+The parties here do not dispute that the Prices’ entire debt to Wells Fargo was incurred within 910 days of their bankruptcy filing and that the collateral for the entire debt (the Lincoln) was a motor vehicle acquired for the Prices’ personal use. The only issue in this case, therefore, is whether the Prices’ debt was secured by a “purchase money security interest.” 11 U.S.C. § 1325(a). In particular, the parties dispute whether the portion of the debt relating to the negative equity in the Prices’ trade-in gave rise to a purchase money security interest.
+ 
+
+B.
+The hanging paragraph does not define the term “purchase money security interest.” Indeed, that term is defined nowhere in the Bankruptcy Code. Wells Fargo nonetheless argues that we can *624 construct a federal definition of “purchase money security interest” for purposes of the hanging paragraph. We disagree.
+ 
+[3] Instead, we look to another source containing a ready-made definition of “purchase money security interest”: state law. “North Carolina and the vast majority of states have adopted” Article 9 of the Uniform Commercial Code, In re S. Air Transp., Inc., 511 F.3d 526, 531–32 (6th Cir.2007), which expressly defines the term “purchase-money security interest,” U.C.C. § 9–103(b). We apply this state-law definition because, when determining the substance of property rights and security interests in bankruptcy, “the basic federal rule is that state law governs.” Butner v. United States, 440 U.S. 48, 57, 99 S.Ct. 914, 59 L.Ed.2d 136 (1979); see id. at 55, 99 S.Ct. 914; see also Travelers Cas. & Sur. Co. of Am. v. Pac. Gas & Elec. Co., 549 U.S. 443, 450–51, 127 S.Ct. 1199, 167 L.Ed.2d 178 (2007). Indeed, we recently reiterated that “state law creates and defines security interests at issue in bankruptcy proceedings if no federal law requires a different result.” Tidewater, 531 F.3d at 319. Because Congress did not provide its own definition of “purchase money security interest,” no federal law prevents our use of North Carolina’s definition of that term here.
+ 
+[4] Moreover, historical practice strongly suggests that Congress meant for state law to control the meaning of “purchase money security interest” in the hanging paragraph. Prior to the enactment of the hanging paragraph in 2005, courts had “uniformly” looked to state law to define “purchase money security interest” as it appears in Section 522(f) of the Bankruptcy Code. In re Billings, 838 F.2d 405, 406 (10th Cir.1988). “Congress, presumably aware that its prior use of this term of art had led courts to resort to state law ... once again used this term of art without providing a federal definition or any interpretive guidance.” Peaslee v. GMAC, LLC, 547 F.3d 177, 184 n. 13 (2d Cir.2008). Thus, we agree with the great majority of other courts: state law controls the meaning of “purchase money security interest” in the hanging paragraph. See, e.g., id. at 184; In re Graupner, 537 F.3d 1295, 1301–02 (11th Cir.2008).
+ 
+
+III.
+A.
+[5] We therefore turn to North Carolina law. In North Carolina, a “purchase-money security interest” in goods is defined as a security interest in goods that are “purchase-money collateral,” and “purchase-money collateral” is in turn defined as goods that secure a “purchase-money obligation.” N.C. Gen.Stat. § 25–9–103(a)–(b).3 So the important question for our purposes is the definition of a “purchase-money obligation.” To constitute a purchase-money obligation, a piece of debt must be “incurred as all or part of the price of the collateral or for value given to enable the debtor to acquire rights in or *625 the use of the collateral if the value is in fact so used.” Id. § 25–9–103(a)(2).
+ 
+Wells Fargo argues that the portion of the debt at issue here (the financing of the negative equity in the Prices’ trade-in) had the necessary close relationship with the collateral (the new vehicle) to constitute a purchase-money obligation. In particular, Wells Fargo claims that the Prices incurred the portion of the debt relating to negative equity “for value given to enable the [Prices] to acquire rights in or the use of the [new car],” and that the value was “in fact so used.” Id. Applying the same provision of the UCC, the Eleventh Circuit reached the same conclusion that Wells Fargo proposes here. See In re Graupner, 537 F.3d 1295, 1301–02 (11th Cir.2008).
+ 
+[6] We think the Eleventh Circuit’s view persuasive. Under a natural reading of state law, the negative equity financing here created a purchase-money obligation because that financing enabled the Prices to acquire rights in their new car. “When a word is not defined by statute, we normally construe it in accord with its ordinary or natural meaning.” Smith v. United States, 508 U.S. 223, 228, 113 S.Ct. 2050, 124 L.Ed.2d 138 (1993). “Enable,” which is not defined in the UCC, ordinarily means “[t]o supply with the means, knowledge, or chance to be or do something,” or “[t]o make possible.” Webster’s II New College Dictionary 377 (3d ed.2005); see also Black’s Law Dictionary 567 (8th ed. 2004) (“To give power to do something; to make able.”). Under any of these definitions, the value given by Capital Mazda to pay off the Prices’ negative equity “enabled” the Prices to acquire the new vehicle. That is because the negative equity financing was integral to the whole transaction in which the new vehicle was purchased. All of the Prices’ debt to Wells Fargo was incurred at the same time, in the same contract, and for the same purpose: acquiring the new car. In other words, the negative equity financing enabled the purchase of the new car because the negative equity financing and the purchase were a “package deal.” Graupner, 537 F.3d at 1302.
+ 
+For that reason, it would make little sense to attempt artificial distinctions between portions of a single transaction that enabled the acquisition of rights in the vehicle and portions that supposedly did not. To be sure, some bankruptcy courts have done just that, contending that there is a “distinction between enabling a transaction to occur and enabling a debtor to acquire rights in new collateral,” and that negative equity financing does only the former. In re Sanders, 377 B.R. 836, 856 (Bankr.W.D.Tex.2007), rev’d, 403 B.R. 435, 2009 WL 844021 (W.D.Tex. Mar.30, 2009). From a practical perspective, that distinction is meaningless. If negative equity financing enabled the transaction in which the new car was acquired, then, in reality, the negative equity financing also enabled the acquisition of rights in the new car. And that was the case here. The trade-in itself was essential to the over-all transaction because trading in the old car allowed the Prices to obtain value to put toward the new car. But the Prices could not have traded in their old car unless they also extinguished their negative equity: car dealers are generally unwilling to accept a trade-in with an outstanding lien because the lien makes it difficult for the dealer to resell the car. See Brief for Appellant at 18–19; GMAC v. Horne, 390 B.R. 191, 199 (E.D.Va.2008) (“[T]he discharge of the buyer’s remaining obligation on the trade-in vehicle was part and parcel of the buyer’s ability to use the trade-in vehicle to buy the new vehicle[ ].”). The negative equity financing therefore enabled the completion of the whole transaction *626 and, as a result, the Prices’ acquisition of rights in the new car.
+ 
+
+B.
+In place of this natural interpretation of state law, the Prices propose a formalistic reading of the definition of “purchase-money obligation” that would exclude negative equity financing. They argue, based on previously enacted versions of Article 9 of the UCC, that “price” and “value given to enable” have the same scope in the definition of “purchase-money obligation.” See Brief for Appellees at 15–18. They further contend that the negative equity in this case was not part of the “price” of the new car, and that to conclude otherwise would “def[y] not only our common understanding of the word[ ], but common sense, as well.” Brief for Appellees at 10–11. Thus, the Prices argue, the negative equity funds also were not “value given to enable,” and the negative equity financing did not constitute a purchase-money obligation.
+ 
+These arguments lack merit. Regardless of whether “price” and “value given to enable” have the same scope, the official comments to Section 9–103 of the UCC do not allow us to rely on the debtors’ “common understanding” of the term “price.” We treat the UCC’s official comments as instructive. See Buettner v. R.W. Martin & Sons, Inc., 47 F.3d 116, 118 (4th Cir.1995). And Official Comment 3 is particularly instructive here because it provides that both “price” and “value given to enable” include numerous expenses that might not come within a common understanding of the term “price,” namely: “obligations for expenses incurred in connection with acquiring rights in the collateral, sales taxes, duties, finance charges, interest, freight charges, costs of storage in transit, demurrage, administrative charges, expenses of collection and enforcement, attorney’s fees, and other similar obligations.”4 As this extensive list of expenses makes clear, neither “price” nor “value given to enable” have the strictly cabined meaning in the UCC that appellees suggest.
+ 
+Indeed, when read correctly, Official Comment 3 supports the determination that negative equity financing of an automobile purchase gives rise to a purchase money security interest. Although the comment does not mention negative equity explicitly, it would be a stretch to conclude that the negative equity financing here, which was executed at the same time and in the same contract as the car purchase, was not an “expense[ ] incurred in connection with acquiring rights in the collateral.” N.C. Gen.Stat. § 25–9–103, Official Comment 3. And the context provided by the other expenses included in the comment fortifies that conclusion. Cf. Gustafson *627 v. Alloyd Co., 513 U.S. 561, 575, 115 S.Ct. 1061, 131 L.Ed.2d 1 (1995) (“[A] word is known by the company it keeps (the doctrine of noscitur a sociis ).”). Like negative equity, the listed expenses—such as taxes, duties, and interest—are best described as “transaction costs” associated with buying the new car. Graupner, 537 F.3d at 1302. The Prices argue that, unlike negative equity, “[e]very item in the list includes an expense, tax, charge, or fee directly related to the cost of [the] collateral itself.” Brief for Appellees at 12. But that argument fails because some of the expenses—freight and storage costs, for example—have nothing to do with the value of the new car. In reality, the pertinent feature shared by all of the listed expenses is that they are incurred “in connection with” the acquisition of the new car—just like negative equity financing.
+ 
+The second paragraph in Official Comment 3 further supports the conclusion that financing the Prices’ negative equity gave rise to a purchase money security interest. That paragraph states that “[t]he concept of ‘purchase-money security interest’ requires a close nexus between the acquisition of collateral and the secured obligation.” N.C. Gen.Stat. § 25–9–103, Official Comment 3. Again, because paying off the Prices’ negative equity was integral to their acquisition of the new car, it would be difficult to conclude that the negative equity financing failed this “close nexus” requirement. See Graupner, 537 F.3d at 1302. The comment does point out a particular circumstance in which a “close nexus” does not exist: when the debtor first acquires property using unsecured credit and only later creates the security interest in the property to pay off the unsecured debt. See N.C. Gen.Stat. § 25–9–103, Official Comment 3. But that sort of staggered transaction did not take place here. To the contrary, Capital Mazda created its security interest in the new car simultaneously with its financing of the Prices’ negative equity.
+ 
+The Prices claim, however, that our interpretation of “purchase-money obligation” has no limitation—that if we find a “close nexus” here, then a “close nexus” will exist whenever a lender bundles an otherwise unrelated transaction with the purchase of a new car. This claim is hyperbolic. In reality, trading in an old car bears a close nexus to—and enables—the purchase of a new car because it allows the purchaser to utilize the value of the trade-in. And many persons who purchase new vehicles (perhaps as many as 38%, see Graupner, 537 F.3d at 1303) trade in old vehicles with negative equity, so they need to extinguish that negative equity to complete the transaction. The Prices present no comparable reason why people would fold their credit card or other debts into the purchase of a car, or why car dealers or lenders would be eager to permit them to do so. And in all events, transactions involving items other than automobiles would present very different circumstances from the ones before us here.
+ 
+[7] [8] Thus, interpreting “purchase-money obligation” to include debt relating to negative equity is unlikely to cause endless bundling of various obligations with the purchase of a car. And we therefore see no need to create artificial distinctions between negative equity financing and the other common components of motor vehicle transactions to ward off that implausible result. Rather, our recognition of the widespread inclusion of negative equity financing in new motor vehicle contracts is faithful to the UCC’s own guidance on interpreting its provisions: “[The UCC] must be liberally construed and applied to promote its underlying purposes and policies,” one of which is “to permit the continued expansion of commercial practices through custom, usage, and agreement of *628 the parties.” U.C.C. § 1–103(a); N.C. Gen.Stat. § 25–1–103(a); see In re Petrocci, 370 B.R. 489, 504–05 (Bankr.N.D.N.Y.2007). Because the natural reach of state law coincides with the prevalent commercial practice in this case, we conclude that negative equity financing gives rise to a purchase money security interest under the UCC—and, thus, under the hanging paragraph as well.5
+ 
+
+C.
+[9] This reading of the statute also coincides with Congress’s intent in enacting the hanging paragraph: to protect secured car lenders from having their claims bifurcated in Chapter 13. See Graupner, 537 F.3d at 1297–98 (collecting cases finding that Congress’s intent in the hanging paragraph was to protect car lenders from bifurcation). Adopting the Prices’ argument, on the other hand, would offend our obligation “to interpret statutory language in a manner that effectuates congressional intent.” Rux v. Republic of Sudan, 461 F.3d 461, 470 (4th Cir.2006). And Congress has clearly indicated that it enacted the hanging paragraph to “Giv[e] Secured Creditors Fair Treatment in Chapter 13.” Pub.L. No. 109–8, § 306, 119 Stat. 23, 80; see Fla. Dep’t of Revenue v. Piccadilly Cafeterias, Inc., 554 U.S. 33, 128 S.Ct. 2326, 2336, 171 L.Ed.2d 203 (2008) (noting that section headings “cannot substitute for the operative text of the statute” but are one “tool[ ] available for the resolution of a doubt about the meaning of a statute” (internal quotations omitted)). Because negative equity is so commonplace in motor vehicle financing, adopting the Prices’ approach would nullify the treatment that Congress intended for a large percentage of vehicle debts.
+ 
+When discussing congressional intent, the Prices argue that unsecured creditors “were the primary backers and beneficiaries of BAPCPA.” Brief for Appellees at 46. Therefore, they argue that a view of the hanging paragraph as an attempt to benefit car lenders is “simplistic and unsustainable.” Id. But while Congress undoubtedly did intend the BAPCPA to benefit unsecured creditors—by requiring those debtors with sufficient means to file under Chapter 13 rather than Chapter 7—this fact only strengthens our conclusion that the hanging paragraph itself meant to protect secured car lenders. Because secured lenders would generally fare worse under Chapter 13 than under Chapter 7, Congress sought to compensate them with specific provisions such as protection from bifurcation under the hanging paragraph. See David Gray Carlson, Cars and Homes in Chapter 13 After the 2005 Amendments to the Bankruptcy Code, 14 Am. Bankr.Inst. L.Rev. 301, 302–04 (2006) (noting that Congress intended to protect car lenders from bifurcation, and that “car lenders [were] undoubtedly strengthened in chapter 13 cases filed after ... the effective date of BAPCPA”). In short, the hanging paragraph was intended to protect secured creditors in one narrow area as part of a statute that generally favored their unsecured counterparts.
+ 
+Therefore, it simply vitiates congressional intent to read the hanging paragraph in a way that denies its protections to a large percentage of claims held by car lenders. In 2005, when the BAPCPA was enacted, up to 38% of new car sales included negative equity financing, up from 25% in 2003. Graupner, 537 F.3d at 1303 (citing FDIC *629 Supervisory Insights, The Changing Landscape of Indirect Automobile Lending, June 23, 2005). And negative equity can represent a substantial portion of the financing in these transactions—in the Prices’ contract, for example, negative equity constituted 17% of the total amount financed ($2,838 of the total of $16,901). See also In re Pajot, 371 B.R. 139, 153 (Bankr.E.D.Va.2007) (finding that negative equity in the four consolidated cases before the court made up between 17 and 32 percent of the total amounts financed), rev’d GMAC v. Horne, 390 B.R. 191 (E.D.Va.2008). Thus, given the realities of motor vehicle financing, carving out negative equity from the protection of the hanging paragraph “would have the effect of excluding a substantial number of lawful auto finance transactions that were industry practice when BAPCPA was enacted.” Graupner, 537 F.3d at 1303.
+ 
+Nevertheless, several amici argue that interpreting “purchase money security interest” to include negative equity will “make it more difficult for the chapter 13 debtor to retain his or her car.” Brief for Bankruptcy Professors as Amici Curiae Supporting Appellees at 3–4; see also Brief for National Association of Consumer Bankruptcy Attorneys as Amicus Curiae Supporting Appellees at 1–2 (arguing that the scope of the hanging paragraph “will determine whether many debtors are able to keep, or will have to surrender, their vehicles”). Wells Fargo counters that not protecting negative equity from bifurcation would make it much harder for consumers to buy cars, as sellers would be less likely to finance negative equity on trade-ins. Both arguments are necessarily speculative: while any change to bankruptcy law could have downstream effects on consumers, it is unclear exactly what those effects would be. And while both positions may well have elements of truth, it is for legislatures, not the courts, to balance them.
+ 
+In addition, amici argue that reading “purchase money security interest” too broadly could upset the careful balance that Congress struck in Chapter 13, or could affect state and federal loss allocation rules and possibly “create a disequilibrium between bankruptcy and other law.” Brief for Bankruptcy Professors as Amici Curiae Supporting Appellees at 5–6, 25–27. Again, while we respect these arguments, we conclude that they operate at too general a level for the issue before us. The provision in this case is a narrow one: protecting a particular debt held by a particular class of creditors in certain narrow circumstances. Within the context of a wholesale revision of bankruptcy law, Congress sought to re-balance the rights of secured and unsecured creditors by providing this specific protection. Our job is to interpret the hanging paragraph, not to look broadly at rules on loss allocation or at other areas of law. That is not to say these rules should not be carefully considered, but the argument seems to pertain more to the wisdom than the fact of what the Congress did.
+ 
+In sum, the interpretation espoused by the Prices would undermine Congress’s intent in that it would limit protection from bifurcation in a provision that was clearly intended to provide that protection. We see no reason—either in the hanging paragraph or in state law—to interpret the term “purchase money security interest” in a fashion that is so strikingly at odds with congressional intent.
+ 
+
+IV.
+[10] Because we hold that the entire debt in this case was secured by a purchase money security interest and that Wells Fargo’s claim was therefore protected from bifurcation by the hanging paragraph, we do not reach the Prices’ cross-appeal of the district court’s application of *630 the dual status rule.6 The judgment of the district court is accordingly reversed, and the case is remanded for further proceedings consistent with this opinion.
+ 
+REVERSED AND REMANDED
+ 
+All Citations
+562 F.3d 618, 61 Collier Bankr.Cas.2d 1422, Bankr. L. Rep. P 81,462, 68 UCC Rep.Serv.2d 786
+Footnotes
+
+1
+
+The Prices asserted that they owed only $17,869.05, but they did not file an objection to Wells Fargo’s proof of claim.
+
+2
+
+The full text of 11 U.S.C. § 506(a)(1) provides:
+An allowed claim of a creditor secured by a lien on property in which the estate has an interest, or that is subject to setoff under section 553 of this title, is a secured claim to the extent of the value of such creditor’s interest in the estate’s interest in such property, or to the extent of the amount subject to setoff, as the case may be, and is an unsecured claim to the extent that the value of such creditor’s interest or the amount so subject to setoff is less than the amount of such allowed claim.
+
+3
+
+The statute provides:
+(a) Definitions.—In this section:
+(1) “Purchase-money collateral” means goods or software that secures a purchase-money obligation incurred with respect to that collateral; and
+(2) “Purchase-money obligation” means an obligation of an obligor incurred as all or part of the price of the collateral or for value given to enable the debtor to acquire rights in or the use of the collateral if the value is in fact so used.
+(b) Purchase-money security interest in goods.—A security interest in goods is a purchase-money security interest:
+(1) To the extent that the goods are purchase-money collateral with respect to that security interest....
+N.C. Gen.Stat. § 25–9–103.
+
+4
+
+The comment provides in full:
+Subsection (a) defines “purchase-money collateral” and “purchase-money obligation.” These terms are essential to the description of what constitutes a purchase-money security interest under subsection (b). As used in subsection (a)(2), the definition of “purchase-money obligation,” the “price” of collateral or the “value given to enable” includes obligations for expenses incurred in connection with acquiring rights in the collateral, sales taxes, duties, finance charges, interest, freight charges, costs of storage in transit, demurrage, administrative charges, expenses of collection and enforcement, attorney’s fees, and other similar obligations.
+The concept of “purchase-money security interest” requires a close nexus between the acquisition of collateral and the secured obligation. Thus, a security interest does not qualify as a purchase-money security interest if a debtor acquires property on unsecured credit and subsequently creates the security interest to secure the purchase price.
+N.C. Gen.Stat. § 25–9–103, Official Comment 3.
+
+5
+
+Gap insurance is tied just as closely as negative equity financing to the purchase of a new car (if not more so), so the same reasoning leads us to conclude that the gap insurance in the Prices’ contract also gave rise to a purchase money security interest under state law and the hanging paragraph. See, e.g., In re Weiser, 381 B.R. 263, 270–71 (Bankr.W.D.Mo.2007); In re Spratling, 377 B.R. 941, 946 (Bankr.M.D.Ga.2007).
+
+6
+
+Although we do not reach the application of the dual status rule, we note that the plain language of the hanging paragraph requires us to treat the debt as a single entity. The paragraph refers to “the debt” and “the claim,” not to “any portion of” the debt. See In re Look, 383 B.R. 210, 220–21 (Bankr.D.Me.2008). Therefore, it would be improper to partition the debt into purchase money and non-purchase money components, because Congress plainly knew how to add language such as “any portion of” when it wished. See, e.g., 11 U.S.C. § 365(j). In addition, applying the dual status rule would impose a real evidentiary burden on bankruptcy courts, in part because it would require courts to “determine on a case by case basis [whether] certain transaction details are ... clearly articulated enough.” In re Munzberg, 388 B.R. 529, 546 n. 13 (Bankr.D.Vt.2008) (internal quotation omitted).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (5)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Disagreed With by
+1.  In re Penrod 
+611 F.3d 1158 , 9th Cir.(Cal.)
+BANKRUPTCY - Claims. Creditor did not have purchase money security interest in negative equity of debtor’s trade-in.
+July 16, 2010
+Case
+
+—
+
+Declined to Follow by
+2.  In re Whipple
+417 B.R. 86 , Bkrtcy.C.D.Ill.
+BANKRUPTCY - Plans. Court applies uniform federal definition in case under “hanging paragraph.”
+Sep. 21, 2009
+Case
+
+—
+
+Declined to Follow by
+ 3.  In re White
+417 B.R. 102 , Bkrtcy.S.D.Ind.
+BANKRUPTCY - Claims. Amount of negative trade-in financed as part of new vehicle purchase did not result in purchase-money security interest.
+Sep. 29, 2009
+Case
+
+—
+
+Declined to Extend by
+4.  In re Circuit City Stores, Inc.
+432 B.R. 225 , Bkrtcy.E.D.Va.
+BANKRUPTCY - Claims. Goods were “received” by debtor outside twenty-day “lookback” period of administrative expense provision.
+Apr. 08, 2010
+Case
+
+—
+
+Distinguished by
+5.  In re Miller
+431 B.R. 308 , 10th Cir.BAP (Kan.)
+BANKRUPTCY - Claims. Gap insurance charges included in vehicle sales contract were not part of Chapter 13 creditor’s purchase money security interest.
+Nov. 19, 2009
+Case
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+

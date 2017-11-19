@@ -1,0 +1,376 @@
+
+
+
+
+
+U.S. ex rel. Jones v. Collegiate Funding Services, Inc.
+United States Court of Appeals, Fourth Circuit. | March 14, 2012 | 469 Fed.Appx. 244 | 2012 WL 835747
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Not Followed on State Law Grounds State ex rel. Bartlett v. Miller, Cal.App. 2 Dist., January 19, 2016
+
+standard Citation:
+
+U.S. ex rel. Jones v. Collegiate Funding Servs., Inc., 469 F. App’x 244 (4th Cir. 2012)
+
+All Citations:
+
+469 Fed.Appx. 244, 2012 WL 835747
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Virginia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:57 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Not Followed on State Law Grounds State ex rel. Bartlett v. Miller, Cal.App. 2 Dist., January 19, 2016
+469 Fed.Appx. 244
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of Appeals 4th Cir. Rule 32.1.
+United States Court of Appeals,
+Fourth Circuit.
+UNITED STATES of America ex rel. Lenora JONES and Patricia J. Willoughby, Plaintiff—Appellant,
+v.
+COLLEGIATE FUNDING SERVICES, INC.; Collegiate Funding Services, LLC; CFS–Suntech Servicing, LLC; JP Morgan Chase & Company, Defendants—Appellees.
+No. 11–1103.
+|
+Argued: Dec. 7, 2011.
+|
+Decided: March 14, 2012.
+Synopsis
+Background: Former employees, as relators, brought qui tam action against student loan lender and servicing company, alleging claims under False Claims Act (FCA). The United States District Court for the Eastern District of Virginia, Henry E. Hudson, J., 2011 WL 129842, adopted Report and Recommendation of Dennis W. Dohnal, United States Magistrate Judge, 2010 WL 5572825, and dismissed action. Relators appealed.
+ 
+Holdings: The Court of Appeals, Davis, Circuit Judge, held that:
+ 
+[1] relators based their allegations on public disclosures, thereby precluding claims under public disclosure bar found in FCA, and
+ 
+[2] relators failed to plead fraud claims with requisite particularity.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+United StatesPublic Disclosure Bar
+
+
+393United States
+393IVFalse Claims
+393k1269Jurisdictional Bars
+393k1271Public Disclosure Bar
+393k1271(1)In general
+(Formerly 393k122)
+
+
+Relators based their allegations in qui tam action against student loan lender, concerning loans made as a result of unlawful inducements and deceptive exit counseling, on public disclosures, thereby precluding claims under public disclosure bar found in False Claims Act (FCA); scope of relators’ prior employment with lender did not establish or plausibly suggest access kind of information upon which their allegations were based, and even partial reliance on public disclosure barred qui tam action. 31 U.S.C.A. § 3730(e)(4).
+5 Cases that cite this headnote
+
+
+
+[2]
+
+Federal Civil ProcedureFraud, mistake and condition of mind
+
+
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(A)Pleadings in General
+170Ak633Certainty, Definiteness and Particularity
+170Ak636Fraud, mistake and condition of mind
+
+
+Relators, as former employees of student loan lender, failed to allege false certification of claims for government reimbursement to government with requisite particularity, as required under Federal Rules of Civil Procedure’s heightened pleading standard for fraud claims; while employed by lender, relators never services or processed any consolidated loans, provided any post-consolidation customer service, or had access to information regarding claims for government information submitted by lender, and relators alleged only broad inferential claim that but-for the certifications, the loans would not have been disbursed. 31 U.S.C.A. § 3730(e)(4); Fed.Rules Civ.Proc.Rule 9(b), 28 U.S.C.A.
+3 Cases that cite this headnote
+
+
+
+*245 Appeal from the United States District Court for the Eastern District of Virginia, at Richmond. Henry E. Hudson, District Judge. (3:07–cv–00290–HEH).
+Attorneys and Law Firms
+ARGUED: Joe Bradley Pigott, Pigott & Johnson, PA, Jackson, Mississippi, for Appellant. John Donley Adams, McGuirewoods, LLP, Richmond, Virginia, for Appellees. ON BRIEF: M. Bryan Slaughter, Michiehamlett PLLC, Charlottesville, Virginia, for Appellant. J. William Boland, Jeremy S. Byrum, McGuirewoods, LLP, Richmond, Virginia; Jonathan A. Vogel, McGuirewoods, LLP, Charlotte, North Carolina, for Appellees.
+Before KING, GREGORY, and DAVIS, Circuit Judges.
+Opinion
+Affirmed by unpublished opinion. Judge DAVIS wrote the opinion, in which Judge KING and Judge GREGORY joined.
+Unpublished opinions are not binding precedent in this circuit.
+DAVIS, Circuit Judge:
+
+**1 In this appeal, we are urged to hold that the district court erred in its dismissal with prejudice, pursuant to Fed.R.Civ.P. 12(b)(1), (b)(6) and 9(b), of Appellants’ myriad claims under the False Claims Act, 31 U.S.C.A. §§ 3729–3732 (West 2003 & Supp.2011)(FCA).1 Finding no error, we affirm.
+ 
+
+*246 I.
+Appellants–Relators Lenora Jones and Patricia J. Willoughby (the Relators) are former employees of Collegiate Funding Services, Inc. (CFS).2 They allege that CFS violated various provisions of the FCA in the course of its routine business practices. CFS is a major student loan lender and servicing company that provides a variety of federal student loan products, loan services, and school services as a participant in the Federal Family Education Loan Program (FFELP). The FFELP was established by the Higher Education Act (HEA), 20 U.S.C. §§ 1071 et seq., and is administered by the federal Department of Education (DoEd). The Eighth Circuit explained the operation of the FFELP in U.S. ex rel. Vigil v. Nelnet, Inc., 639 F.3d 791, 795 (8th Cir.2011) (footnotes omitted):
+ 
+Under the FFELP, DoEd pays claims submitted by eligible private lenders for interest-rate subsidies and special allowances granted on behalf of student borrowers. See 20 U.S.C. §§ 1078(a)(1), 1087–1; 34 C.F.R. § 682.300, .302. DoEd also reduces private lenders’ risk of loan defaults by entering into guaranty agreements with Guaranty Agencies who, in turn, insure Lenders against their potential default losses on student loans. See 20 U.S.C. §§ 1078(b)–(c), 1080; 34 C.F.R. § 682.100(b)(1)....
+The practices of private Lenders and Servicers are heavily regulated, and their participation in the FFELP is conditioned on compliance with detailed DoEd regulations.
+The applicable regulations provide for withdrawal of eligible lender status if, inter alia, a lender (1) offers direct or indirect inducements to secure loan applications, 20 U.S.C. § 1085(d)(5)(A); (2) engages in fraudulent or misleading advertising, 20 U.S.C. § 1085(d)(5)(I);3 or (3) fails to afford exit counseling by schools to borrowers that includes repayment and indebtedness information, 20 U.S.C. § 1092(b).
+The Relators worked as telemarketing solicitors for CFS, making and receiving calls from existing and potential student loan borrowers about consolidation loan products. After leaving CFS, Willoughby worked for various other lenders, as well.
+ 
+The Relators’ Original Complaint, filed in the United States District Court for the Northern District of Illinois, alleged that CFS submitted false claims to the federal government in connection with three distinct courses of conduct that violated federal loan regulations. First, CFS “offered and paid, to financial aid units within post-secondary education institutions ... payments *247 and other inducements in order to secure applications for [federal] loans.” J.A. 27. Second, CFS “engaged in misleading advertising in the form of direct mail solicitations,” which were designed to create the perception that the mailings were “official communications from the Federal Government.” J.A. 28. Third, CFS solicited consolidation loans in violation of the “single holder rule,” which provides that loans may not be consolidated by a lender who does not already hold at least one of the student’s loans that will be part of the consolidation.
+ 
+**2 The Relators asserted that in the course of engaging in the unlawful loan processing conduct described above, CFS regularly submitted claims, or caused claims to be submitted, to the DoEd in order to obtain interest payment subsidies, special allowances, and guaranty payments occasioned by loan payment defaults. The DoEd requires that all such submissions for payment be accompanied by a certification that the loan at issue conforms to all federal regulations.4 The Relators alleged that CFS therefore violated the FCA when it submitted claims to the government for interest, allowances, and guaranty payments with certification of compliance with FFELP regulations, when it had in fact engaged in unlawful practices to obtain the underlying loans. Specifically, the Relators alleged four distinct counts under the FCA: (1) presenting false claims; (2) causing false certifications and other statements to be used to get false claims paid and approved; (3) conspiring to get false claims allowed and paid; and (4) causing false certifications and other statements used to avoid obligations to pay the government.
+ 
+Almost four months later, after the case had been transferred from the Northern District of Illinois to the Eastern District of Virginia, the Relators filed an Amended Complaint. The Amended Complaint alleged four “patterns of CFS violations” of federal loan regulations. J.A. 45. These alleged “patterns” included the following practices, some of which differed significantly from the allegations in the Original Complaint: (1) that CFS provided inducements to secure and maintain preferred lender status, rather than to increase mere loan volume; (2) that CFS provided on-line, rather than in-person exit counseling to students, which was misleading and inadequate under the statutory requirements for counseling; (3) that CFS engaged in misleading advertising; and (4) that CFS’s own recruiters had been induced to increase application volume through per-application bonuses. The Amended Complaint alleged that for each pattern, if the government had been aware of the regulatory violations, no interest, guaranty, or special allowance payments would have been made, and CFS would have been obliged to repay any federal funds received because they would not have qualified as an “eligible lender” under the FFELP. See, e.g., J.A. 50 (“If Guaranty Agency or DoEd representatives had known the truth of such violations, no such claims or funds would have been paid to CFS. If DOEd representatives had known of the truth of such violations, CFS would have been obligated to re-pay funds *248 of the United States received since the time that CFS would have been found not to have been an eligible lender pursuant to 20 U.S.C. § 1085(d)(5).”).
+ 
+The Amended Complaint specifically alleged 21 separate counts of FCA violations arising out of CFS’s unlawful conduct, rather than the original four counts. The first 15 counts alleged that CFS and its loan servicing company had, in violation of 31 U.S.C. § 3729(a)(2) (2006), caused false statements to be used to get insurance guaranty payments and claims paid for loans made as a result of the following deviations from prescribed conduct: (1) unlawful inducements (Counts 1–3); (2) deceptive exit counseling (Counts 4–6); (3) deceptive direct mail solicitation (Counts 7–9); (4) bonus-compensated recruiters (Counts 10–12); and (5) violations of the single holder rule (Counts 13–15). The Amended Complaint also alleged that CFS directly presented false claims related to unlawfully made loans, namely, for insurance guaranty payments (Count 16) and loan interest and special allowance payments (Count 17), in violation of 31 U.S.C. § 3729(a)(1) (2006). In addition, the Amended Complaint alleged in separate counts that CFS had conspired to get false claims paid for (1) insurance guaranty payments (Count 18) and (2) loan interest and special allowance payments (Count 19), in violation of 31 U.S.C. § 3729(a)(3) (2006). Finally, the Amended Complaint alleged that CFS had caused false certifications and other statements to be used to avoid obligatory repayment of government insurance payments (Count 20) and government interest and special allowance payments (Count 21), in violation of 31 U.S.C. § 3729(a)(7) (2006) (making, using, or causing a false claim to be used “to conceal, avoid, or decrease an obligation to pay or transmit money or property to the Government”).5
+ 
+**3 CFS filed a motion to dismiss the Amended Complaint in its entirety. First, CFS argued that the court lacked subject matter jurisdiction over all counts except Counts 10–12 (concerning bonus-compensated recruiters) under the “public disclosure bar” of the FCA. Second, CFS argued that all of the counts suffered from inadequate particularity under Fed.R.Civ.P. 9(b), and therefore failed to state a claim upon which relief could be granted under Fed.R.Civ.P. 12(b)(6).
+ 
+The FCA public disclosure bar, 31 U.S.C. § 3730(e)(4) (2006),6 provided at the time that:
+ 
+(A) No court shall have jurisdiction over an action under this section based upon the public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government Accounting Office report, hearing, audit, or investigation, or from the news media, unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
+(B) For purposes of this paragraph, “original source” means an individual who has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government *249 before filing an action under this section which is based on the information.
+To support this ground for dismissal, CFS submitted 38 exhibits. The exhibits included newspaper and internet articles concerning investigations into student lender business practices, CFS’s publicly available filings with the Securities and Exchange Commission (SEC), and the complaint filed in United States ex rel. Vigil (another FCA case brought by the Relators’ attorneys, which asserted similar claims against another lender on behalf of other Relators).7 CFS also submitted a chart comparing language from these publicly-available documents with the specific language of the Amended Complaint to show that the Relators’ claims alleged conduct that had in fact been made public prior to the allegations made in this case.
+ 
+In opposing the Motion to Dismiss, the Relators filed affidavits attesting that they had not read any of the publicly-available documents submitted by CFS before filing their lawsuit, and they had not resided in any of the cities where news media producing the coverage were based. In addition, the Relators submitted a copy of the government’s amicus curiae brief in Ortho Biotech Products v. U.S. ex rel. Chinyelu Duxbury, ––– U.S. ––––, 130 S.Ct. 3454, 177 L.Ed.2d 1054 (2010) (denying cert.), in which the government urged a liberal construction of pleading requirements for FCA complaints. Finally, the Relators submitted a number of other documents intended to show that they and their then counsel had no knowledge of the news coverage or of the publicly-available documents in question,8 and a 2006 letter from prior counsel to an Assistant United States Attorney in which he set out a theory of FCA liability for CFS regarding their eligible lender status.
+ 
+**4 The Motion to Dismiss was considered initially by a magistrate judge, who conducted an evidentiary hearing and thereafter prepared a Report and Recommendation (R & R) for the district judge. The R & R recommended that Counts 1–6 and *250 16–19 be dismissed for lack of subject matter jurisdiction under the public disclosure bar, and that Counts 7–12 and 20–21 be dismissed for failure to state a claim. (Counts 13–15 were dismissed voluntarily by the Relators.) The public disclosure bar applied to the former counts, the R & R explained, because the Relators failed to show any actual direct knowledge (acquired in the course of their employment as customer service representatives) of the preferred lender program, exit counseling programs, or alleged kickback arrangements between CFS and various schools. This “lack of detail in the Relators’ affidavits” and “insufficient revelations of counsel” concerning when counsel learned of certain news reports from the original attorney for the Relators constituted a failure to overcome the public disclosure bar. J.A. 736. In determining that the public disclosure bar applied, the R & R concluded that forms filed with the SEC by CFS were administrative reports for the purposes of the FCA. As to the “original source” exception to the public disclosure bar, the R & R found that the Relators’ “lack of convincing evidence of ‘direct and independent knowledge’ ... weighs against their credibility.” J.A. 739.
+ 
+The R & R found that the court had subject matter jurisdiction over Counts 7–9, relating to direct mail solicitation to consolidate federal loans, because the Relators had provided “unrefuted and credible” assertions that while they were employed at CFS they handled calls from prospective borrowers who had received the mailings, and they had been trained to tell callers that CFS was “licensed and backed by the federal government.” J.A. 738. Nevertheless, the R & R recommended dismissal of these counts for failure to state a claim.
+ 
+Addressing the adequacy of the pleadings for Counts 7–12, all of which alleged that CFS caused false statements or certifications to be used (in violation of 31 U.S.C. § 3729(a)(2) (2006)), the R & R noted that “[t]he only details [pled] relate to asserted violations of the HEA and DOED regulations—not to the submissions of false claims subject to those regulations.” J.A. 744. Because the Relators had no personal knowledge of any particular claims submitted for defaulted loans, and had failed to provide “[any] details of the claims process” such as “specific defaults, payments, dates, or other indicia from which a specific claim can be inferred to have been submitted,” they had failed to state a claim with sufficient particularity. J.A. 745–46; 743. The R & R also noted that a false claim concerning a government-insured loan is material only when the loan has gone into default and a claim is in fact submitted (i.e., the insurance payout has been triggered). Here, no specific allegation regarding a particular loan had been made.9
+ 
+**5 Finally, the R & R recommended denying leave to amend the Amended Complaint because the “Relators candidly admit that they do not possess the information that is necessary” for a particularized allegation about false claims submitted to the federal government by CFS. J.A. 746.
+ 
+The Relators filed timely exceptions to the R & R, and submitted supplemental affidavits attesting to additional facts concerning their direct knowledge of CFS’s practices. Relator Willoughby asserted that as a CFS customer service representative she had received calls from students *251 who were using the exit counseling software alleged to be misleading; that she learned through her work with other lenders after leaving CFS that the company designed its software to be misleading; that CFS had an agreement with Norfolk State University to be an exclusive endorsed provider of consolidation loans through the alumni association, which in return received payments per loan application;10 and that she had contacted CFS about the application kickbacks through alumni groups and was referred to an unnamed representative who would be able to provide her more information about these arrangements.
+ 
+Relator Jones also submitted a supplemental affidavit. She asserted that as an employee of CFS she had access to the National Student Loan Data System, which indicates the status of each federal loan (i.e., whether the loan was in default and therefore presumptively eligible for federal guaranty payments). In addition, Jones attested that she, Willoughby, and their legal counsel had met with representatives of the Department of Justice and DoEd on July 13, 2007 (in the interim between the filing the Original and Amended Complaints) to discuss their claims.
+ 
+The district court overruled the Relators’ exceptions to the R & R and granted the motion to dismiss. United States ex rel. Jones v. Collegiate Funding Servs., Inc., No. 3:07–cv–290, 2011 WL 129842 (E.D.Va. Jan.12, 2011). First, the court addressed the Relators’ assertion that the R & R unfairly “proceeded from a false dichotomy ... that if [their] knowledge was not derived from their employment, then it must have been derived from prior public disclosures.” Id. at *5. The district court found this assertion lacked merit in light of the fact that the magistrate judge “appropriately considered” Relator Willoughby’s work in the student loan industry generally. Id. at *7. The court also declined to consider the supplemental affidavits, as they were untimely filed.
+ 
+Second, the court turned to the Relators’ contention that SEC filings by CFS were not “administrative reports” for purposes of the public disclosure bar and thus should be disregarded in assessing the dismissal motion. The court reasoned that administrative reports are defined not by government authorship, but government receipt, public availability, and the use of a particular document for the government’s own investigative or analytical purposes. Finding that the SEC filings met each of these requirements, the district court concluded it was proper to consider the documents as administrative reports under the public disclosure bar.
+ 
+**6 Third, the court addressed the Relators’ broad contention that their allegations concerning preferred lender inducements and deceptive exit counseling were not actually derived from public disclosures. Acknowledging that not “every relator in a qui tam action must affirmatively establish the source of his or her knowledge,” the court listed the publicly disclosed information for both patterns of conduct alleged in Counts 1–6 and found that the Relators failed to provide adequate evidence of their “logical access” to the information within their employment as an alternative explanation for the source of their allegations. Id. at *11.
+ 
+*252 The evidence cited included SEC filings by CFS in which the company touted being on more than 500 preferred lender lists, documentation of then-New York Attorney General Andrew Cuomo’s investigation into possibly illegal activity by student lenders to secure preferred lender status, and a New York Times article published days before the filing of the Relators’ Original Complaint in which JP Morgan was named as a target of that investigation.
+ 
+The district court also cited articles published on May 8, 2007, in USA Today and the Wall Street Journal that “disclosed that JP Morgan Chase had entered into preferred-lender deals with alumni associations.” Id. at *12. While these disclosures were made after the filing of the Original Complaint, the court found that they were relevant because they preceded the filing of the Amended Complaint, in which the Relators first made allegations regarding alumni associations (instead of or in addition to, financial aid offices).
+ 
+Regarding public disclosures related to the second pattern of conduct, deceptive exit counseling, the district court cited CFS’s SEC filings about their exit counseling software products, and a New York Times article specifically mentioning that the CFS software directed student borrowers to their consolidation loan products. In addition, the court noted that during the period between the filing of the Original and Amended Complaints, two publicly disclosed reports referred to CFS’s exit counseling software; one of these reports indicated that prohibited marketing was included in the counseling.
+ 
+The court observed that the Relators’ Original Complaint made no mention of online exit counseling at all, yet the Amended Complaint included 17 paragraphs concerning online exit counseling, which had in the interim been disclosed or referred to in various publications. The court concluded that the public disclosures concerning inducements and online exit counseling were therefore “far more than coincidental.” Id. at *10.
+ 
+The district court then turned to the “original source” exception to the public disclosure bar, pursuant to which a Relator may proceed despite publicly available knowledge if he or she is an “original source” of the information on which an FCA claim is based. 31 U.S.C. § 3730(e)(4)(A) (2006). Under the terms of the statute in effect at the time, an original source was defined by two elements: “direct and independent knowledge” of the information, and voluntary provision of the information to the government before filing an action under the FCA that is based on that information. 31 U.S.C. § 3730(e)(4)(B) (2006). The district court adopted the finding in the R & R that the “Relators’ affidavits do not evidence independent knowledge of the allegations in the Amended Complaint.” Jones, 2011 WL 129842 at *12. Subject matter jurisdiction for Count 1–6 was therefore lacking and a determination of the second element, whether the Relators had provided the government with their information, was unnecessary.
+ 
+**7 The district court then considered whether it had subject matter jurisdiction over the direct mail solicitation allegations (Counts 7–9). The court adopted the R & R finding that the Relators’ personal experience as customer service representatives supported their independent knowledge of CFS’s conduct. As to CFS’s challenge to subject matter jurisdiction for Counts 20–21, conspiracy to cause false statements and certifications to be used to avoid repayment obligations, the district court again adopted the findings in the R & R that these counts were independent of the other counts and jurisdiction was therefore *253 proper. Finally, the court rejected the R & R finding that subject matter jurisdiction was lacking for Counts 16–19, finding instead that, as with Counts 20 and 21, the bases for these allegations was independent of the invalidated counts.
+ 
+To summarize, the district court dismissed Counts 1–6 for lack of subject matter jurisdiction under the public disclosure bar, finding inadequate evidence of Relators’ independent knowledge of CFS’s conduct. On the other hand, the court found the existence of subject matter jurisdiction over the remaining counts, Counts 7–12 (alleging violations of § (a)(2)), and Counts 16–21 (alleging violations of §§ (a)(1),(3),(7)), as to which the Relators had satisfied their burden to show their access to independent, first-hand bases for the allegations.11
+ 
+Having found jurisdiction over Counts 7–12 and 16–21, the district court then turned to the issue of whether these counts met the heightened pleading requirements of Fed.R.Civ.P. 9(b). In the court’s view, the Relators “maintain[ed] that they satisfied Rule 9(b) by attaching a blank FFELP claim form and describing Defendants’ alleged HEA violations.” Id. at *15. The court ruled this submission inadequate for two reasons: (1) the Relators did not allege the involvement of any third party claimants (analogous to subcontractors) and thus there was no basis for an allegation that CFS “used or caused to be used a false certification ... to get a false or fraudulent claim paid by the government,” 31 U.S.C. § 3729(a)(2); and (2) any certifications by CFS would be false only upon submission to the government and a blank form was not evidence of submission of any actual claim for federal payment by the company.
+ 
+As for the Relators’ argument that they were not required to “particularize dates and amounts of individual claims” because they were alleging a fraudulent scheme rather than specific events, Jones, 2011 WL 129842 at *17, and accepting that Rule 9(b) can be satisfied by allegations of a scheme, the court ruled that the Relators had not alleged facts showing that false claims had in fact been submitted by CFS and had “not allege[d] any instances of payment by the government, instances of default, or any other facts from which the Court could infer that Defendants actually submitted any false statements.” Id. at *18. Certification forms were relevant only to a specific loan, the court noted, and thus did not assert compliance with federal loan regulations generally, as to other or all loans by the lender. In addition, a blank form was merely evidence that CFS could submit a false claim, not evidence that it did do so. The allegations regarding submitted claims were therefore “naked assertion,” the court concluded, and as such were merely speculative.12 Id. at *19.
+ 
+*254 **8 The court’s final order thus dismissed Counts 1–6 for lack of subject matter jurisdiction and Counts 7–12 and 16–21 for failure to state claim. The Relators have timely appealed.
+ 
+
+II.
+This case comes to us under somewhat ironic circumstances, in that the district court found that some of the allegations of fraud brought by the Relators, if meritorious, were too widely known to support their claims, and some of the allegations were too opaque and lacking specificity. We first consider the propriety of the dismissal of some claims based on the public disclosure bar. Next, we consider whether the district court erred in dismissing any one or more claims for failure to state a claim. For the reasons set forth herein, we discern no error in the court’s analysis.
+ 
+
+A.
+The Relators argue first that the district court erred in determining that they actually based the allegations in Counts 1–6 of the Amended Complaint, concerning loans made as a result of unlawful inducements and deceptive exit counseling, on public disclosures. The determination of an actual basis for an FCA allegation is a finding of fact, reviewed for clear error. United States ex rel. Vuyyuru v. Jadhav, 555 F.3d 337, 348 (4th Cir.2009). “[A] relator’s action is ‘based upon’ a public disclosure of allegations only where the relator has actually derived from that disclosure the allegations upon which his [or her] qui tam action is based.” United States ex rel. Siller v. Becton Dickinson & Co., 21 F.3d 1339, 1348 (4th Cir.1994).13 The public disclosure bar “encompasses actions even partly based upon prior public disclosures.” Vuyyuru, 555 F.3d at 351. Once a motion to dismiss on jurisdictional grounds is filed, the relator “[bears] the burden of proving by a preponderance of the evidence” that the allegations are not based upon public disclosures. Id. at 348 (citing Rockwell Int’l Corp. v. United States, 549 U.S. 457, 468, 127 S.Ct. 1397, 167 L.Ed.2d 190 (2007)). Moreover, “when a plaintiff files a complaint in federal court and then voluntarily amends the complaint, courts look to the amended complaint to determine jurisdiction.” Rockwell, 549 U.S. at 473–74, 127 S.Ct. 1397.
+ 
+At the time of the Relators’ Complaints, the FCA’s public disclosure bar provided:
+(A) No court shall have jurisdiction over an action under this section based upon the public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government Accounting Office report, hearing, audit, or investigation, or from the news media, unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
+(B) For purposes of this paragraph, ‘original source’ means an individual who has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government before filing an action under this section which is based on the information.
+*255 **9 31 U.S.C. 3730(e)(4) (2006).14 The Relators argue that under the plain language of the statute and precedent in this circuit, the public disclosure bar applies only where an FCA claim is actually based upon publicly disclosed information, and those disclosures specifically set out conduct by the particular defendant. They assert that neither requirement obtains in this case because they have submitted sworn affidavits that they did not read any of the publically-available documents in question and, in any event, the publicly-available documents themselves fail to set out allegations against the defendants named in this case.
+ 
+Appellees respond by emphasizing that CFS’s parent, JPMorgan Chase, was in fact named in news coverage of New York Attorney General Cuomo’s investigations, and that the various news reports and SEC filings available before the Original and Amended Complaints provided enough information for the Relators to build their claims. They urge us to consider the public disclosures together, rather than discretely as to a particular allegation, and assert that the Relators do not, and cannot, argue that under such a holistic approach their claims avoid the public disclosure bar.
+ 
+[1] In light of the evidence adduced in the hearing before the magistrate judge below and the justified findings adopted by the district court based thereon, we are unable to conclude that the district court committed clear error in finding that the Relators’ claims were actually based upon public disclosures.
+ 
+The Relators argue that public accounts of general industry behavior, without specific allegations concerning CFS, are insufficient to provide a basis for specific claims against a particular defendant. They rely primarily on an unpublished Seventh Circuit decision, United States ex rel. Baltazar v. Warden & Advanced Healthcare Assoc., 635 F.3d 866 (7th Cir.2011), for the proposition that reports of a high rate of fraud within an industry should not bar specific FCA actions against individual wrongdoers. The publically-available information underlying this case, however, does not establish merely an industry-wide set of allegations. The district court cited a published report that CFS was involved in the Cuomo probe, and CFS’s own claim that its business model included special inducement arrangements with schools for access to student borrowers. While relators are not required to affirmatively prove the source of their information for FCA allegations, as the district court noted, mere denial of knowledge of public disclosures does not satisfy the burden established by Vuyyuru.
+ 
+*256 In their affidavits, the Relators aver that their employment with CFS and in the student loan industry provides the sole source of their allegations, yet the scope of their employment—by their own description—does not establish or plausibly suggest access to the kind of information upon which their allegations are based. In addition, as noted above, under Vuyyuru, even partial reliance on public disclosure bars a qui tam action. Faced with evidence of public disclosures and no reasonably inferable sources other than these documents (and in light of the apparent pattern of litigation by the Relators’ initial counsel in similar cases), the district court did not clearly err in concluding that the Relators failed to establish that Counts 1–6 of the Amended Complaint were not actually based, in whole or in part, on public disclosures.15
+ 
+
+B.
+**10 As a distinct component of their arguments concerning the public disclosure bar, the Relators challenge the district court’s determination that SEC filings by CFS were “administrative reports” for purposes of the public disclosure bar. See 31 U.S.C. § 3730(e)(4)(A). They note that, “In the end ... the District Court acknowledged that ‘the applicability of the public disclosure bar in this case does not turn on whether CFS’s SEC filings are ‘administrative reports.’ ” Appellants’ Br. 28. Because the district court did consider SEC reports in its analysis, however, we take this opportunity to address the issue.
+ 
+The Relators point to Graham County Soil & Water Conservation Dist. v. United States ex rel. Wilson, 559 U.S. 280, ––––, 130 S.Ct. 1396, 1402, 176 L.Ed.2d 225 (2010), for the rule that “administrative” in the FCA context relates to “the activities of governmental agencies,” and they argue that, consequently, a document merely received by an agency cannot constitute an administrative report. But as the district court noted, under Graham County, “It is the fact of ‘public disclosure’—not Federal Government creation or receipt—that is the touchstone of [the public disclosure bar].” Id. at 1405. The court went on to reason that because documents created by private parties constituted materials of “administrative hearings” for the FCA, under United States ex rel. Grayson v. Advanced Management Tech., 221 F.3d 580 (4th Cir.2000), privately-created SEC filings can also constitute an administrative report.
+ 
+We find this reasoning unpersuasive in the context of this case. Hearings are, by general definition, forums in which parties present and submit privately prepared documents in support of their positions on a particular question; reports, on the other *257 hand, are generally distinguishable as products of official activity of some kind. The context for an administrative hearing and report are sufficiently unique that a rule for the former would not necessarily apply to the latter.
+ 
+We are satisfied, nonetheless, that the SEC filings by CFS were reasonably determined to be administrative reports because they were submitted under the SEC’s administrative regulatory requirements of the company. Forms 8–K and S–1 are mandatory filings for all publicly traded companies. See, e.g., 17 C.F.R. §§ 240.13a–11, 229.101. While these documents were not authored by the SEC or created under their supervision, they were produced at the request of and were made public by the SEC in the course of carrying out its activities as a federal agency.
+ 
+In the context of ruling that state and local agencies are “administrative” for the purposes of the public disclosure bar, the Supreme Court has noted that statutory construction of the FCA should be guided by the likelihood that a disclosure will “put the Government on notice of a potential fraud .... Congress passed the public disclosure bar to bar a subset of those suits that it deemed unmeritorious or downright harmful .... The statutory touchstone, once again, is whether the allegations of fraud have been [publicly disclosed].” Graham County, 130 S.Ct. at 1404, 1409, 1410. Here, the SEC forms in question were requested, received, made public, and presumably included in any corporate profiles compiled by the agency. While such a report does not necessarily alert federal agencies to wrongdoing, it certainly provides easily accessible notice of the transactions between CFS and its customers from which an investigation could have begun or developed. Because the SEC filings in question comport with the FCA purposes set out in Graham County, we find that they are administrative reports for the purposes of the public disclosure bar, and were properly considered by the court below in the mix of publically available information on the basis of which, in whole or in part, the Relators’ claims are based.
+ 
+
+C.
+**11 The final issue on appeal is whether the district court erred in dismissing Counts 7–12 and 16–21 for lack of particularity under Fed.R.Civ.P. 9(b). Dismissal under Rule 9(b) “is treated as a failure to state a claim under Rule 12(b)(6).” Harrison v. Westinghouse Savannah River Co., 176 F.3d 776, 783 n. 5 (4th Cir.1999). “This Court reviews de novo a district court’s dismissal for failure to state a claim[.]” Id.
+In determining whether the order was proper, the appellate court accepts as true all of the well-pleaded allegations and views the complaint in the light most favorable to the non-moving party. Mylan Labs., Inc. v. Matkari, 7 F.3d 1130, 1134 (4th Cir.1993). It then determines whether a “plausible claim for relief” has been made. Ashcroft v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009).
+LeSueur–Richmond Slate Corp. v. Fehrer, 666 F.3d 261, 264 (4th Cir.2012).
+ 
+To briefly recap the theory of the Relators’ FCA claims, they assert that CFS habitually violated the regulations of the FFELP, and thus all certifications of compliance with FFELP for loans obtained or serviced unlawfully were false. When these certifications were submitted to the federal government in support of claims for interest subsidy, insurance guaranty, or special allowance payments, the submissions were therefore false claims under the FCA.
+ 
+*258 As an initial matter, we observe that there seems to have been some confusion below as to which category of loans by CFS the Relators alleged were in fact related to false claims. The Relators apparently raised an objection before the district court that the magistrate judge misunderstood their claims to extend to all loans made or serviced by CFS. They sought to clarify that they claimed only the loans “subject to inducement promises and payments” resulted in false claims; the R & R itself, however, noted that Relators’ claims were limited to certifications for loans that actually went into default (and were therefore eligible for guaranty payments).
+ 
+The Amended Complaint alleges the making and presentation of, and conspiracy to make or present, false claims for payments related to disbursed consolidation loans (Counts 8, 9, 11, 12, 17, 19, 21) and defaulted consolidation loans (Counts 7, 10, 16, 17, 20). An adequately particular claim under Rule 9(b) related to these two categories could ostensibly be different—allegations of claims for special allowance and interest payments on a general class of disbursed loans that were accompanied by a false certificate of compliance do not suffice as particularized claims related to defaulted loans, for which insurance guaranty payments have been made by the government. Without detailing a separate analysis for each count, the district court concluded that merely providing blank certification forms together with allegations that all loans made or serviced as a result of unlawful conduct resulted in false claims was inadequate under Rule 9(b) for all the counts over which subject matter jurisdiction was proper.
+ 
+**12 Before us on appeal, the Relators now argue that they did not rely merely on blank certification forms to satisfy their pleading allegation of false claims. They explain that their claims set out allegations that, taken together, adequately support the inference that false claims were actually presented to the federal government.16
+ 
+Federal Rule of Civil Procedure 9(b) sets out a heightened pleading standard for fraud:
+In alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake. Malice, intent, knowledge, and other conditions of a person’s mind may be alleged generally.
+“[T]he ‘circumstances’ required to be pled with particularity under Rule 9(b) are ‘the time, place, and contents of the false representations, as well as the identity of the person making the misrepresentation and what he obtained thereby.’ ” Harrison, 176 F.3d at 784 (citation omitted). In Harrison, we noted with approval that “[t]he Fifth Circuit has emphasized that liability for a false certification will lie only if compliance with the statutes or regulations was a prerequisite to gaining a benefit, and the defendant affirmatively certified such compliance.” Id. at 787.
+ 
+[2] Because false certification is critical to all the relevant counts in question here, providing the basis for all the allegedly submitted claims being legally “false,” the initial question for all counts is whether the Relators’ allegations of false certification are adequately particular.17 We *259 agree with the district court that each remaining count fails on this ground. As the district court observed, the “Relators neither serviced nor processed any consolidated loans, provided any post-consolidation customer service, or had access to information regarding claims for government reimbursement submitted by CFS.” Jones, 2011 WL 129842 at *19. In Harrison, by contrast, the Relator alleged personal knowledge of the certification process, and of the misrepresentations made in the allegedly false certification (which resulted in a subcontractor in fact being retained for work that the Relator had personal knowledge of). Harrison, 176 F.3d at 781–82.
+ 
+Similarly, in United States ex rel. Grubbs v. Kanneganti, 565 F.3d 180, 191–92 (5th Cir.2009), the Fifth Circuit found adequate particularity in the allegations of a claim where the Relator’s allegations of false statements “made to get a claim paid” included dates and recollections of face-to-face meetings with alleged falsifiers and dates of billing falsification by a particular doctor. See also United States ex rel. Lusby v. Rolls–Royce Corp., 570 F.3d 849, 853–54 (7th Cir.2009) (finding adequate particularity under Rule 9(b) where a Relator provided evidence of specific parts shipped on specific dates, and details of payment, even where the company’s claim submitted to the government were not provided).
+ 
+Here, the Relators allege only the broad inferential claim that but-for the certifications, the loans would not have been disbursed. They have made no allegation as to any particular transactions between CFS and the government in which the certifications were material, nor do they name or identify any employee who (knowingly or not) completed a false certification form. In light of the complete absence of any particularity as to their allegations, we agree with the district court that the Relators fail to meet the requirements of Rule 9(b) and their claims were properly dismissed.
+ 
+
+III.
+**13 For the foregoing reasons, we discern no error in the district court’s dismissal for lack of subject matter jurisdiction Counts 1–6 of the Amended Complaint under the public disclosure bar of the FCA. Furthermore, we discern no error in the district court’s dismissal of Counts 7–12 and Counts 16–21 for failure to state a claim under Fed.R.Civ.P. 9(b), 12(b)(6). Accordingly, the judgment of the district court is
+ 
+AFFIRMED.
+ 
+All Citations
+469 Fed.Appx. 244, 2012 WL 835747
+Footnotes
+
+1
+
+We indicate throughout, where relevant, the provisions of the FCA that were in effect at the time this case was initiated.
+
+2
+
+The named defendants were Collegiate Funding Services, Inc. (the parent company); Collegiate Funding Services, LLC (a CFS subsidiary) (CFS, LLC); CFS–Suntech Servicing, LLC (a CFS, LLC subsidiary); and JPMorgan Chase & Co. (purchaser of CFS in late 2005 or early 2006). As noted by the district court, the Complaint “often refers to CFS generally, without distinguishing between the several Defendants.” United States ex rel. Jones v. Collegiate Funding Services, No. 3:07–cv–00290–HEH, 2011 WL 129842, at *3 (E.D.Va. Jan.12, 2011). The record indicates that in 2009, CFS, Inc., and CFS–Suntech Servicing, LLC, were sold to ACS Education Services, Inc., and now go by the new respective names of “Education Services Company” and “ACS Education Loan Services, LLC.” Because none of the issues before us turn on the particular identities of the defendants, we refer to them collectively as CFS.
+
+3
+
+While the current provision concerning disqualification of eligible lender status was revised in 2008 to provide further detail of prohibited conduct, it is substantively the same as the provision in effect at the time the instant case was filed.
+
+4
+
+The blank certification form submitted by the Relators with their Original Complaint states as follows, in part, in small type at the bottom:
+By submitting this claim to the guarantor for reimbursement, the lender/holder certifies, to the best of its knowledge, that the information in this claim is true and accurate and that the loan(s) included in the claim was (were) made, disbursed (including remittance of origination fees) and serviced in compliance with all federal regulations and appropriate guarantor rules.
+J.A. 113.
+
+5
+
+In 2009, the FCA was amended and these provisions are now found at 31 U.S.C.A. § 3729(a)(1).
+
+6
+
+As part of the Patient Protection and Affordable Care Act of 2010, the public disclosure provision was also revised and now provides that courts “shall dismiss” an action “if substantially the same allegations or transactions as alleged in the action or claim were publicly disclosed ... unless the person bringing the action is an original source of the information.” 31 U.S.C.A. § 3730(e)(4)(A).
+
+7
+
+Two of the exhibits submitted by CFS clearly were not in the public domain: (1) a declaration by a CFS employee regarding the company’s training of customer service representatives such as the Relators, and (2) a table listing five similar qui tam actions against other student lenders that had all been filed by the Relators’ original counsel, Tim Matusheski, Esq., and dismissed on various grounds. These cases include United States ex rel. Lopez v. Strayer Educ. Inc., 698 F.Supp.2d 633 (E.D.Va.2010) (dismissed under the public disclosure bar); Schultz v. Devry, Inc., No. 07–c–5425, 2009 WL 562286 (N.D.Ill. Mar.4, 2009) (dismissed under the public disclosure bar); United States ex rel. Fuhr v. Corinthian Colleges, Inc., No. cv–07–1157–ag–cw (C.D.Cal. Aug. 24, 2009) (dismissed under the FCA’s first-to-file bar; appeal voluntarily withdrawn); United States ex rel. Batiste v. SLM Corp., 659 F.3d 1204 (D.C.2011) (affirming dismissal under first-to-file bar); United States ex rel. Vigil v. Nelnet, Inc., 639 F.3d 791 (8th Cir.2011) (affirming dismissal for failure to state a claim).
+
+8
+
+These documents included: (1) a “Dear Colleague” letter from the DoEd warning colleges that lender inducements to schools violate the HEA and that the consequences for such conduct might include rescission of eligible lender status and loss of benefits on particular loans; (2) an affidavit from the Relators’ counsel of record, Brad Pigott, Esq., averring that co-counsel, Timothy Matusheski, Esq., engaged his services because of his FCA expertise and that Pigott did not read, use, rely on, or possess any of the public disclosures offered by CFS; (3) a fax dated May 12, 2008, of the Wall Street Journal article “J.P. Morgan to Stop Alumni Deals,” sent to Pigott from Matusheski; and (4) a letter from Mr. Pigott to the assigned magistrate judge explaining that Pigott did not know the CFS document comprising SEC filing Form 8–K (2005) had been filed with the agency and understood it to be a “confidential investor” presentation at the time it was cited in the Amended Complaint.
+
+9
+
+The R & R concluded that it was unnecessary to determine whether the allegedly false certifications were material to federal payments to CFS because the fraud allegations themselves lacked particularity.
+
+10
+
+The evidence for this prior, independent knowledge of the kickback scheme is a 2006 email in which Willoughby shared the information with a financial aid director. Willoughby, working as a private consultant, had contacted the financial aid director to offer payments on behalf of her own clients and when she was rebuffed on the ground that such payments violated the HEA, she retorted that, “If it is [illegal to donate payments per loan], CFS is in BIG trouble.” J.A. 778.
+
+11
+
+As noted above, Relators voluntarily dismissed Counts 13–15.
+
+12
+
+The district court also briefly addressed the government’s submission of a Statement of Interest, which articulated its understanding of the particularity standard for FCA claims. The Statement asserted that “where liability does not depend on anything specific in the defendants’ claims themselves as the basis for alleging that they were false, and instead relies on the general principle that a defendant’s false representations prior to submission of claims and/or failure to comply with contractual promises can render the defendant’s subsequent claims payment false,” no specific allegations of a particular claim are required. United States’ Statement of Interest at 3, United States ex rel. Jones v. Collegiate Funding Services, 2011 WL 129842 (E.D.Va. Jan.12, 2011)(No. 3:07–cv–00290–HEH). The court noted that it agreed with the government as to the applicable pleading standard, and was ruling only that the Relators had failed to meet it.
+
+13
+
+For much of the time that the FCA language of 2007 was in effect, this circuit’s subjective “actual reliance” rule differed from that of the majority of circuits, which held that an objective standard (in which a factual overlap of relator allegations and public disclosures, regardless of actual reliance, triggers the bar) is proper. See Jones, 2011 WL 129842, at *5 (noting that the Second, Third, Sixth, Seventh, Eighth, Ninth, Tenth, and Eleventh Circuits all applied an objective rule of public disclosure for the provision in effect in 2007).
+
+14
+
+In 2010, these provisions were amended. Section 3730(e)(4) now provides:
+(A) The court shall dismiss an action or claim under this section, unless opposed by the Government, if substantially the same allegations or transactions as alleged in the action or claim were publicly disclosed—
+(i) in a Federal criminal, civil, or administrative hearing in which the Government or its agent is a party;
+(ii) in a congressional, Government Accountability Office, or other Federal report, hearing, audit, or investigation; or
+(iii) from the news media, unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
+(B) For purposes of this paragraph, “original source” means an individual who either (i) prior to a public disclosure under subsection (e)(4)(a), has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the Government before filing an action under this section.
+31 U.S.C. § 3730(e)(4).
+
+15
+
+The district court found that the allegations in Counts 7–9, concerning deceptive mailings designed to mislead borrowers into believing that CFS was a government entity, were not made in actual reliance on public disclosures and were therefore within the subject matter jurisdiction of the court. While the counts were dismissed nonetheless under Rule 9(b), CFS urges us to reverse the district court’s finding by “abandoning” the actual reliance rule of Siller and adopting the majority rule in which allegations “substantially similar” to public disclosures are barred. Apart from the fact that a panel of this court is not free to disregard binding circuit precedent, see United States v. Collins, 415 F.3d 304, 311 (4th Cir.2005), such a step is unnecessary, as the 2010 amendment of the FCA explicitly incorporates the substantially similar standard: “The court shall dismiss an action or claim under this section, unless opposed by the Government, if substantially the same allegations or transactions in the action were publicly disclosed.” 31 U.S.C. § 3730(e)(4). When the instant case was initiated, however, the provision barred actions “based on” public disclosures and thus Siller’s reasoning properly applies to the language in effect at the time, and the district court correctly applied circuit precedent.
+
+16
+
+Their argument on this point appears limited, however, to claims related to loan defaults, i.e., Counts 7, 10, 16, 18, and 20; the Relators do not directly address the district court’s dismissal of the counts relating to interest and special allowance payments on loans that were disbursed but never entered default, i.e., Counts 8, 9, 11, 12, 17, 19, and 21.
+
+17
+
+The district court focused on the alleged (a)(2) violations (false statements), finding that certification was not alleged with adequate particularity even under a “fraudulent scheme” claim, and that the Relators failed to offer facts supporting the inference that any claims were actually submitted. J.A. 900–9. The other alleged violations, under (a)(1), (a)(3), and (a)(7), were not addressed directly, presumably because the false claims alleged therein are also based on the assertion of false certification.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Not Followed on State Law Grounds
+1.  State ex rel. Bartlett v. Miller 
+197 Cal.Rptr.3d 673 , Cal.App. 2 Dist.
+GOVERNMENT - Property. Country club’s failure to escheat unclaimed initiation deposits was not within disclosure bar to qui tam claims.
+Jan. 19, 2016
+Case
+
+1
+
+
+
+
+Fed.Appx.
+
+

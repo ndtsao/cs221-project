@@ -1,0 +1,167 @@
+
+
+ 
+
+
+Caraccioli v. Facebook, Inc.
+United States Court of Appeals, Ninth Circuit. | June 6, 2017 | --- Fed.Appx. ---- | 2017 WL 2445063
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Caraccioli v. Facebook, Inc., No. 16-15610, 2017 WL 2445063 (9th Cir. June 6, 2017)
+
+All Citations:
+
+--- Fed.Appx. ----, 2017 WL 2445063, 45 Media L. Rep. 2082
+
+Search Details
+
+Search Query:
+
+adv: NAME(”facebook”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:48 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+2017 WL 2445063
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+Franco CARACCIOLI, Plaintiff-Appellant,
+v.
+FACEBOOK, INC., a Delaware corporation, Defendant-Appellee.
+No. 16-15610
+|
+Submitted May 24, 2017*
+|
+Filed June 6, 2017
+Synopsis
+Background: Social networking website user brought action against website operator, alleging that someone posted private images and videos of him to another account on the website without his consent and asserting claims for defamation, libel, intrusion upon seclusion, public disclosure of private acts, false light, intentional infliction of emotional distress, negligent infliction of emotional distress, breach of contract, negligent supervision and retention, and violation of California’s Unfair Competition Law (UCL). The United States District Court for the Northern District of California, No. 5:15-cv-04145-EJD, Edward J. Davila, J., 167 F.Supp.3d 1056, dismissed action. User appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] Communications Decency Act (CDA) protected operator from liability for user’s defamation, libel, false light, public disclosure of private facts, intrusion upon seclusion, intentional and negligent infliction of emotional distress, negligent supervision and retention, and UCL claims, and
+ 
+[2] terms of service for social networking website barred user’s breach of contract and UCL claims.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+DamagesPrivilege or immunity;  exercise of legal rights
+Libel and SlanderBy others in general
+TelecommunicationsPersons and entities liable;  immunity
+TortsDefenses in general
+
+
+115Damages
+115IIIGrounds and Subjects of Compensatory Damages
+115III(A)Direct or Remote, Contingent, or Prospective Consequences or Losses
+115III(A)2Mental Suffering and Emotional Distress
+115k57.49Privilege or immunity;  exercise of legal rights
+237Libel and Slander
+237IWords and Acts Actionable, and Liability Therefor
+237k26Repetition
+237k28By others in general
+372Telecommunications
+372VIIIComputer Communications
+372k1339Civil Liabilities;  Illegal or Improper Purposes
+372k1344Persons and entities liable;  immunity
+379Torts
+379IVPrivacy and Publicity
+379IV(B)Privacy
+379IV(B)3Publications or Communications in General
+379k355Defenses in general
+
+
+Communications Decency Act (CDA) protected social networking website operator from liability for website user’s state law claims for, inter alia, defamation, invasion of privacy, and intentional and negligent infliction of emotional distress that arose from operator’s refusal to remove private images and videos of user posted by third party; operator’s role as republisher of material posted by third party was basis for user’s claims, and operator did not become the information content provider under the CDA by reviewing the contents of the suspect account and deciding not to remove it. Communications Act of 1934 § 230, 47 U.S.C.A. § 230(c)(1); Cal. Bus. & Prof. Code § 17200 et seq.
+Cases that cite this headnote
+
+
+
+[2]
+
+Copyrights and Intellectual PropertyContracts
+
+
+99Copyrights and Intellectual Property
+99IIIntellectual Property
+99k107Contracts
+
+
+Terms of service for social networking website barred website user’s breach of contract claim under California law and claim under California’s Unfair Competition Law (UCL) to the extent it was premised on alleged breach of contract against website operator arising from operator’s refusal to remove private images and videos of user posted by third party; terms of service expressly disclaimed operator’s responsibility for the content published by third parties. Cal. Bus. & Prof. Code § 17200 et seq.
+Cases that cite this headnote
+
+
+
+Appeal from the United States District Court for the Northern District of California, Edward J. Davila, District Judge, Presiding, D.C. No. 5:15-cv-04145-EJD
+Attorneys and Law Firms
+Franco Caraccioli, Pro Se
+Ryan M. Spear, Eric D. Miller, Perkins Coie LLP, Seattle, WA, for Defendant-Appellee
+Before: THOMAS, Chief Judge, and SILVERMAN and RAWLINSON, Circuit Judges.
+
+
+MEMORANDUM**
+*1 Franco Caraccioli appeals pro se from the district court’s judgment dismissing his diversity action alleging various state law claims arising from Facebook, Inc.’s refusal to remove private images and videos of Caraccioli posted on Facebook’s website by a third party. We have jurisdiction under 28 U.S.C. § 1291. We review de novo a district court’s dismissal under Federal Rule of Civil Procedure 12(b)(6). Cervantes v. Countrywide Home Loans, Inc., 656 F.3d 1034, 1040 (9th Cir. 2011). We affirm.
+ 
+[1]The district court properly dismissed Caraccioli’s defamation, libel, false light, public disclosure of private facts, intrusion upon seclusion, intentional and negligent infliction of emotional distress, negligent supervision and retention, and California’s Unfair Competition Law (“UCL”) claims because the basis for each of these claims is Facebook’s role as a “republisher” of material posted by a third party, and the claims are, therefore, barred by the Communications Decency Act (“CDA”). See 47 U.S.C. § 230(c)(1); Barnes v. Yahoo!, Inc., 570 F.3d 1096, 1100-01 (9th Cir. 2009) (§ 230(c)(1) of the CDA “protects from liability (1) a provider or user of an interactive computer service (2) whom a plaintiff seeks to treat, under a state law cause of action, as a publisher or speaker (3) of information provided by another information content provider”). Contrary to Caraccioli’s argument, Facebook did not become the “information content provider” under § 230(c)(1) merely by virtue of reviewing the contents of the suspect account and deciding not to remove it. See Fair Hous. Council of San Fernando Valley v. Roommates.com, LLC, 521 F.3d 1157, 1170 (9th Cir. 2008) (en banc) (explaining that “determin[ing] whether or not to prevent [the] posting” of third-party material online is “precisely the kind of activity” covered by the CDA); Carafano v. Metrosplash.com, Inc., 339 F.3d 1119, 1122 (9th Cir. 2003) (explaining that through § 230(c)(1), “Congress granted most Internet services immunity from liability for publishing false or defamatory material so long as the information was provided by another party.”)
+ 
+[2]The district court properly dismissed Caraccioli’s breach of contract claim and UCL claim, to the extent it was premised on an alleged breach of contract, because these claims are barred by Facebook’s terms of service, which expressly disclaim Facebook’s responsibility for the content published by third parties. See Maybe Block v. eBay, Inc., 747 F.3d 1135, 1138 (9th Cir. 2014) (“If a contract is reduced to writing, the intention of the parties is to be ascertained from the writing alone, the words being interpreted in their ordinary and popular sense, provided that the language is clear and explicit, and does not involve an absurdity.” (citations omitted)). We reject as without merit Caraccioli’s argument that Facebook’s terms of service are unconscionable. See AT & T Mobility LLC v. Concepcion, 563 U.S. 333, 340, 131 S.Ct. 1740, 179 L.Ed.2d 742 (2011) (explaining that under California law, “[a] finding of unconscionability requires a procedural and a substantive element, the former focusing on oppression or surprise due to unequal bargaining power, the latter on overly harsh or one-sided results” (citation omitted)).
+ 
+*2 The district court did not abuse its discretion in denying Caraccioli’s motion for leave to amend because amendment would be futile. See Cervantes, 656 F.3d at 1041 (setting forth standard of review and explaining that dismissal without leave to amend is proper when amendment would be futile).
+ 
+We do not consider matters not specifically and distinctly raised and argued in the opening brief, or arguments and allegations raised for the first time on appeal. See Padgett v. Wright, 587 F.3d 983, 985 n.2 (9th Cir. 2009).
+ 
+AFFIRMED.
+ 
+All Citations
+--- Fed.Appx. ----, 2017 WL 2445063, 45 Media L. Rep. 2082
+Footnotes
+
+*
+
+The panel unanimously concludes this case is suitable for decision without oral argument. See Fed. R. App. P. 34(a)(2). Caraccioli’s request for oral argument, set forth in his opening brief, is denied.
+
+**
+
+This disposition is not appropriate for publication and is not precedent except as provided by Ninth Circuit Rule 36-3.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

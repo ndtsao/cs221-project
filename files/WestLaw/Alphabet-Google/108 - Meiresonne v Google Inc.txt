@@ -1,0 +1,285 @@
+
+
+ 
+
+
+Meiresonne v. Google, Inc.
+United States Court of Appeals, Federal Circuit. | March 7, 2017 | 849 F.3d 1379 | 2017 WL 900036
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Meiresonne v. Google, Inc., 849 F.3d 1379 (Fed. Cir. 2017)
+
+All Citations:
+
+849 F.3d 1379, 121 U.S.P.Q.2d 1797
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+849 F.3d 1379
+United States Court of Appeals,
+Federal Circuit.
+Michael MEIRESONNE, Appellant
+v.
+GOOGLE, INC., Appellee
+2016-1755
+|
+Decided: March 7, 2017
+Synopsis
+Background: Challenger filed petition for inter partes review of patent for system whereby user could identify supplier of goods or services over the Internet. The Patent Trial and Appeal Board, Perry, Administrative Patent Judge, 2016 WL 280103, ruled claims unpatentable as obvious over prior art. Patentee appealed.
+ 
+[Holding:] The Court of Appeals, Moore, Circuit Judge, held that substantial evidence supported Board’s finding that prior art did not teach away from claimed combination of descriptive text with rollover viewing area for search results.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (8)
+
+
+[1]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+Court of Appeals reviews the Patent Trial and Appeal Board’s legal conclusions de novo and its factual findings for substantial evidence, which is such evidence as a reasonable mind might accept as adequate support for the finding. 28 U.S.C.A. § 1295(a)(4)(A).
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)4Evidence and Determination
+291k800Questions of law or fact
+
+
+Obviousness of a patent claim is a question of law based on underlying facts. 35 U.S.C.A. § 103.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)4Evidence and Determination
+291k800Questions of law or fact
+
+
+In determining a patent claim’s obviousness, what the prior art teaches, whether a person of ordinary skill in the art would have been motivated to combine references, and whether a reference teaches away from the claimed invention are questions of fact. 35 U.S.C.A. § 103.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsCombination of Elements
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k682Prior Art and Relation of Claimed Invention Thereto
+291k696Combination of Elements
+291k696(1)In general
+
+
+Patent claim’s combination of known elements is likely to be obvious when it yields predictable results. 35 U.S.C.A. § 103.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsTeaching away from prior art reference
+PatentsLevel of Ordinary Skill in the Art
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k682Prior Art and Relation of Claimed Invention Thereto
+291k686Teaching away from prior art reference
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k697Level of Ordinary Skill in the Art
+291k698In general
+
+
+Obviousness of patent claim may be defeated if the prior art indicates that the invention would not have worked for its intended purpose or otherwise teaches away from the invention, which means that a person of ordinary skill, upon reading the reference, would be discouraged from following the path set out in the reference, or would be led in a direction divergent from the path that was taken in the claim, but a reference that merely expresses a general preference for an alternative invention but does not criticize, discredit, or otherwise discourage investigation into the claimed invention does not teach away. 35 U.S.C.A. § 103.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)3Particular Fields of Invention
+291k751Computers and Software
+291k755Business methods;  Internet applications
+
+
+Substantial evidence supported finding of Patent Trial and Appeal Board, in support of obviousness determination in inter partes review, that prior art did not teach away from claimed combination of descriptive text with rollover viewing area for search results in patent for system whereby user could identify supplier of goods or services over the Internet; one prior art reference taught links and text descriptions and other reference taught links and rollover viewing area, and although references taught graphical rather than text previews and need to supplement text descriptions, they did not indicate that inclusion of descriptive text would detract from goal of using rollover viewing area to peruse data more quickly than previous methods. 35 U.S.C.A. § 103.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,271,840. Cited as Prior Art.
+Cases that cite this headnote
+
+
+
+[8]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 8,156,096. Unpatentable.
+Cases that cite this headnote
+
+
+
+*1380 Appeal from the United States Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2014–01188.
+Attorneys and Law Firms
+MARK A. JOTANOVIC, Brooks Kushman PC, Southfield, MI, argued for appellant. Also represented by THOMAS A. LEWRY, WILLIAM G. ABBATT, JOHN S. LEROY.
+GREGORY A. CASTANIAS, Jones Day, Washington, DC, argued for appellee. Also represented by ISRAEL SASHA MAYERGOYZ, Chicago, IL; KRISTA SCHWARTZ, San Francisco, CA.
+Before Prost, Chief Judge, Lourie, and Moore, Circuit Judges.
+Opinion
+Moore, Circuit Judge.
+
+Michael Meiresonne appeals from the final inter partes review (“IPR”) decision of the U.S. Patent and Trademark Office’s Patent Trial and Appeal Board (“Board”) holding that claims 16, 17, 19, and 20 of U.S. Patent No. 8,156,096 (the “ ‘096 patent”) are unpatentable under 35 U.S.C. § 103. For the reasons discussed below, we affirm.
+ 
+
+BACKGROUND
+Mr. Meiresonne is the sole inventor of the ’096 patent, titled “Supplier Identification and Locator System and Method.” The specification discloses a “system whereby a user can identify a supplier of goods or services over the Internet.” ’096 patent at 2:55–57. It teaches a directory website that contains (1) a plurality of links to supplier websites, (2) “a supplier descriptive portion” located near a corresponding supplier link, (3) “a descriptive title portion” describing the class of goods or services listed on the website, and (4) “a rollover window that displays information” about at least one of the suppliers corresponding to a link. Id. at 2:57–3:3.
+ 
+Claim 19 is representative:
+A computer system including a server comprising:
+at least one web site stored on the server and accessible by a user via the Internet, wherein the web site comprises:
+*1381 a home page on the server accessible by the user using a computer via the Internet wherein the home page comprises an input receiving area and wherein a user inputs keyword search term information into the input receiving area;
+a keyword results displaying web page that comprises:
+a listing of a plurality of related subject matter links to web sites that are also related to the keyword search term information inputted into the input receiving area;
+a plurality of descriptive portions, wherein each descriptive portion is an associated descriptive portion that is adjacent to and associated by the user with an associated related subject matter link, which is one of the plurality of related subject matter links; and
+a rollover viewing area that individually displays information corresponding to more than one of the related subject matter links in the same rollover viewing area when the user’s cursor is at least substantially over any of the links, at least substantially over a link’s descriptive portion, or substantially adjacent [sic] the corresponding descriptive portion and wherein the rollover viewing area is located substantially adjacent to the plurality of related subject matter links.
+’096 patent at 11:18–12:19 (emphasis added).
+ 
+Google petitioned for IPR of claims 16, 17, 19, and 20 of the ’096 patent. The Board instituted review of the four claims under 35 U.S.C. § 103 based on a combination of the 1997 book “World Wide Web Searching for Dummies, 2nd Edition” by Brad Hill (“Hill”) and U.S. Patent No. 6,271,840 (“Finseth”).
+ 
+Hill describes the user interfaces for several popular search engines in the 1990s, including Lycos and Yahoo!. The depicted user interfaces include a list of web links along with an abstract of accompanying text describing the website at the associated link. Specifically, Hill teaches:
+An Abstract is a one-paragraph description of the site. Don’t expect a ton of information from these abstracts because the Lycos staff doesn’t write them. Sometimes they’re about as informative as a paragraph full of gibberish. Other abstracts can prove more useful—and you can always get the story straight from the horse’s mouth by clicking on the link to visit the actual site.
+J.A. 1603.
+ 
+Finseth teaches a visual index for a graphical search engine that provides “graphical output from search engine results or other URL lists.” In the background section of the specification, Finseth notes:
+One of the great drawbacks of current search engines is the output that they provide to the user. Often, such results are in the form of a list of hyperlinks with a cursory, if not cryptic, excerpt of initial text present on the web page. Few, if any, search engine interfaces provide means by which to gauge graphically the contents of the web page. Such review or perusal of some summary form of a web page, even if cursory, provides a significant amount of information as the form in which graphical information is presented often indicates to a significant degree its content.
+J.A. 1632 at 1:54–63. In order to “provide a better and quicker review of search engine *1382 results and/or URL list information,” Finseth teaches a “means by which thumbnail or other representational graphic information can accompany hyperlinks that result at the end of a search engine search.” Id. at 2:26–31; J.A. 1633 at 3:8–10.
+ 
+The Board held claims 16, 17, 19, and 20 of the ’096 patent unpatentable under 35 U.S.C. § 103 based on the combined teachings of Hill and Finseth. It found that Hill discloses all limitations of claim 19 except for the “rollover viewing area” limitation, which it found disclosed by Finseth. While the Board recognized that Finseth refers to descriptive text as “cursory” and indicates that a graphical preview is more useful than plain text, it nonetheless found that a person of ordinary skill in the art would not have read Finseth to teach away from the solution of the ’096 claims. Mr. Meiresonne appeals. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(4)(A).
+ 
+
+DISCUSSION
+[1] [2] [3]We review the Board’s legal conclusions de novo and its factual findings for substantial evidence. In re Gartside, 203 F.3d 1305, 1316 (Fed. Cir. 2000). A finding is supported by substantial evidence if a reasonable mind might accept the evidence as adequate support for the finding. Consol. Edison Co. v. NLRB, 305 U.S. 197, 229, 59 S.Ct. 206, 83 L.Ed. 126 (1938). Obviousness is a question of law based on underlying facts. Apple Inc. v. Samsung Elecs. Co., 839 F.3d 1034, 1047 (Fed. Cir. 2016) (en banc). What the prior art teaches, whether a person of ordinary skill in the art would have been motivated to combine references, and whether a reference teaches away from the claimed invention are questions of fact. Id. at 1047–48; In re Mouttet, 686 F.3d 1322, 1330 (Fed. Cir. 2012).
+ 
+[4] [5]A combination of known elements is likely to be obvious when it yields predictable results. KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 416, 127 S.Ct. 1727, 167 L.Ed.2d 705 (2007). Obviousness may be defeated if the prior art indicates that the invention would not have worked for its intended purpose or otherwise teaches away from the invention. DePuy Spine, Inc. v. Medtronic Sofamor Danek, Inc., 567 F.3d 1314, 1326 (Fed. Cir. 2009). A reference teaches away “when a person of ordinary skill, upon reading the reference, would be discouraged from following the path set out in the reference, or would be led in a direction divergent from the path that was taken” in the claim. Galderma Labs., L.P. v. Tolmar, Inc., 737 F.3d 731, 738 (Fed. Cir. 2013). A reference that “merely expresses a general preference for an alternative invention but does not criticize, discredit, or otherwise discourage investigation into” the claimed invention does not teach away. Id.
+ 
+[6]The sole issue before us is whether Hill and Finseth teach away from the invention of the ’096 patent, which combines descriptive text with a rollover viewing area. The parties agree that Hill teaches links and text descriptions and Finseth teaches links and a rollover viewing area. Mr. Meiresonne argues that Hill and Finseth teach away from the combination of descriptive text and a rollover viewing area because both prior art references disparage and criticize the use of descriptive text. He argues that Finseth’s solution to the “cursory, if not cryptic” descriptive text was abandoning and replacing textual descriptions with graphical previews. He also notes that Hill describes the abstract text as “gibberish” and advocates “visit[ing] the actual site” instead of reading the unreliable abstract text.
+ 
+*1383 Reviewing both references, we conclude that substantial evidence supports the Board’s fact finding that the prior art does not teach away from the claimed combination. Though Finseth teaches graphical previews in a rollover window, it never implies that text and graphics are mutually exclusive or advocates abandoning text descriptions wholesale. The words “replace” and “unreliable,” used repeatedly in Mr. Meiresonne’s briefs to explain how the references teach away from the ’096 invention, are completely absent from Finseth. Instead, Finseth explains that thumbnail images of websites are highly desirable in order to more “quickly filter through the vast information available from the simplest of searches,” J.A. 1632 at 2:15–17, and the addition of graphical previews makes web browsing “easier and more useful, even for the novice,” J.A. 1636 at 10:40–44.
+ 
+The fact that Finseth describes descriptive text as “[o]ften[ ] ... cursory, if not cryptic” does not automatically convert the reference to one that teaches away from combining text descriptions with a rollover window. This description implies only that text descriptions may be incomplete or insufficient to fully understand the content. Finseth does not say or imply that text descriptions are “unreliable,” “misleading,” “wrong,” or “inaccurate,” which might lead one of ordinary skill in the art to discard text descriptions completely. The word “cursory” implies that the information is accurate but could use supplementation—it does not demand replacement. Finseth also describes the graphical thumbnails in its claimed invention as “cursory,” but notes that they still “provide[ ] a significant amount of information as the form in which graphical information is presented often indicates to a significant degree its content.” J.A. 1632 at 1:59–63.
+ 
+Similarly, Hill’s description of website abstracts as “[s]ometimes ... as informative as a paragraph of gibberish” does not amount to promoting abandonment of text descriptions. The very next sentence acknowledges that “[o]ther abstracts can prove more useful.” J.A. 1603. While Hill teaches that a user should not “expect a ton of information” from the text, it never advocates abandoning text wholesale—it merely encourages supplementing the text by visiting the website itself. Id.
+ 
+This case is unlike previous cases in which we affirmed lower tribunal findings that prior art references taught away from the invention. In DePuy Spine, for example, the prior art taught that the addition of a rigid screw to the prior art spinal assembly would have eliminated or reduced the device’s desired “shock absorber” effect, thereby rendering the device inoperative for its intended purpose. 567 F.3d at 1326–27. In that case, the prior art reference expressed a concern for failure of the assembly and stated that the shock absorber effect “decrease[d] the chance of failure of the screw or the bone-screw interface.” Id. at 1327 (internal quotation marks omitted). The prior art depicted a “causal relationship between rigidity and screw failure,” which supported the finding that it taught away from using rigid screws. Id.
+ 
+Here, neither Hill nor Finseth indicates that inclusion of descriptive text would detract in any way from Finseth’s goal of using a rollover viewing area to peruse data “much faster” than previous methods and “determin[ing] which web pages would be of most interest to the user.” J.A. 1636 at 10:31–47. Finseth does not express concern that text descriptions would hinder the goal of communicating information about website links to a person browsing *1384 the internet. Instead it encourages the addition of graphical previews to known systems to “mak[e] the Internet even more advantageous than before.” Id. at 10:40–42. Text descriptions—even if cursory or cryptic—and graphical previews both help a user to determine whether a link is relevant to the information he is looking for. And nothing in either reference indicates that descriptive text would render Finseth’s rollover area inoperative for its intended purpose.
+ 
+Whether the prior art references teach away is not a question that we review de novo. The Board found that the references do not teach away from combining text descriptions with a rollover window, and we review that finding for substantial evidence. The Board’s fact finding that these prior art references do not teach away from combining text descriptions with additional information in a rollover viewing area is supported by substantial evidence.
+ 
+
+CONCLUSION
+For the foregoing reasons, we affirm the Board’s conclusion that claims 16, 17, 19, and 20 of the ’096 patent are unpatentable under 35 U.S.C. § 103 based on the teachings of Hill and Finseth.
+ 
+AFFIRMED
+ 
+All Citations
+849 F.3d 1379, 121 U.S.P.Q.2d 1797
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

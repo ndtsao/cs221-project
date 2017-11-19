@@ -1,0 +1,520 @@
+
+
+ 
+
+
+SimpleAir, Inc. v. Sony Ericsson Mobile Communications AB
+United States Court of Appeals, Federal Circuit. | April 1, 2016 | 820 F.3d 419 | 2016 WL 1274445
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+SimpleAir, Inc. v. Sony Ericsson Mobile Commc’ns AB, 820 F.3d 419 (Fed. Cir. 2016)
+
+All Citations:
+
+820 F.3d 419, 118 U.S.P.Q.2d 1451
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+820 F.3d 419
+United States Court of Appeals,
+Federal Circuit.
+SIMPLEAIR, INC., Plaintiff–Appellee
+v.
+SONY ERICSSON MOBILE COMMUNICATIONS AB, Defendant
+Google Inc., Defendant–Appellant.
+SimpleAir, Inc., Plaintiff–Appellee
+v.
+Google Inc., Defendant–Appellant
+Motorola Mobility LLC, Sony Ericsson Mobile Communications (USA), Inc., Microsoft Corporation, Defendants.
+Nos. 2015–1251, 2015–1253.
+|
+April 1, 2016.
+Synopsis
+Background: Patentee brought action against provider of “cloud”-based messenger services, alleging infringement of claims in patent for system and method for data communication connecting online networks with online and offline computers. After a jury determined that none of the asserted claims were invalid, and that provider’s services infringed each of the asserted claims, the United States District Court for the Eastern District of Texas, Rodney Gilstrap, J., 70 F.Supp.3d 747, denied provider’s motion for judgment as a matter of law, and upheld, 77 F.Supp.3d 569, a $85 million damages award following a separate jury trial. Provider appealed.
+ 
+Holdings: The Court of Appeals, Wallach, Circuit Judge, held that:
+ 
+[1] district court incorrectly construed “whether said devices are online or offline from a data channel associated with each device” and
+ 
+[2] district court incorrectly construed “data channel.”
+ 
+Reversed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (15)
+
+
+[1]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+Federal Circuit Court of Appeals reviews the grant or denial of a motion for judgment as a matter of law under the law of the regional circuit in which the appeal from the district court would usually lie.
+Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+
+
+The Fifth Circuit Court of Appeals reviews the grant or denial of judgment as a matter of law de novo.
+Cases that cite this headnote
+
+
+
+[3]
+
+Federal Civil ProcedureEvidence
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(E)Notwithstanding Verdict;  Judgment as Matter of Law
+170Ak2608Evidence
+170Ak2608.1In general
+
+
+Under Fifth Circuit law, if there is substantial evidence opposed to judgment as a matter of law, it should be denied.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsQuestions of law or fact
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1848Questions of law or fact
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+The ultimate construction of patent claim language is a question of law reviewed de novo, based upon underlying factual determinations reviewed for clear error.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+When the district court reviews only evidence intrinsic to a patent, that is, the patent claims and specifications, along with the patent’s prosecution history, the judge’s determination as to claim construction will amount solely to a determination of law, and the Court of Appeals will review that construction de novo.
+1 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+If a district court resolves factual disputes over evidence extrinsic to a patent, the Court of Appeals reviews for clear error those factual findings that underlie a district court’s claim construction; it is not enough that the district court may have heard extrinsic evidence during a claim construction proceeding, as the district court must have actually made a factual finding in order to trigger deferential review.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsInfringement or noninfringement
+PatentsRemand;  mandate
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1974Determination and Disposition of Cause
+291k1976Remand;  mandate
+
+
+Where a patent infringement verdict relies on an incorrect claim construction, and no reasonable jury could have found infringement under the proper claim construction, the Court of Appeals may reverse the district court’s determination with respect to judgment as a matter of law without remand.
+1 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsConstruction to give validity and effect to patent and claims
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1318Construction to give validity and effect to patent and claims
+
+
+Interpretations that render some portion of patent claim language superfluous are disfavored; the preference for giving meaning to all terms, however, is not an inflexible rule that supersedes all other principles of claim construction.
+2 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+
+
+Patent claims must always be read in light of the specification.
+2 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsContext
+PatentsSpecifications and Drawings;  Written Description
+PatentsState of the art
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1320Context
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1341State of the art
+
+
+Patent claims must be given meaning consistent with how they would have been understood at the time of invention by a person having ordinary skill in the art; the person of ordinary skill in the art is deemed to read the claim term not only in the context of the particular claim in which the disputed term appears, but in the context of the entire patent, including the specification.
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsLanguage of claims in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1316Language of claims in general
+
+
+The patent construction that stays true to the claim language and most naturally aligns with the patent’s description of the invention will be, in the end, the correct construction.
+Cases that cite this headnote
+
+
+
+[12]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+
+
+Term “whether said devices are online or offline from a data channel associated with each device,” as used in patent for system and method for data communication connecting online networks with online and offline computers, meant whether said devices are or are not connected to the internet, or some other online service, via a data channel associated with each device.
+Cases that cite this headnote
+
+
+
+[13]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+
+
+Term “data channel,” as used in patent for system and method for data communication connecting online networks with online and offline computers, meant any path between the remote computing device and the internet, or some other online service, that does not include the attached receiver.
+Cases that cite this headnote
+
+
+
+[14]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,021,433. Cited.
+Cases that cite this headnote
+
+
+
+[15]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 7,035,914. Construed and Valid and Not Infringed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*421 Gregory Dovel, Dovel & Luner, LLP, Santa Monica, CA, argued for plaintiff-appellee. Also represented by John Jeffrey Eichmann.
+Charles Kramer Verhoeven, Quinn Emanuel Urquhart & Sullivan, LLP, San Francisco, CA, argued for defendant-appellant. Also represented by Carl G. Anderson; Daryl Joseffer, King & Spalding LLP, Washington, DC; Adam Conrad, Charlotte, NC.
+Before MOORE, REYNA, and WALLACH, Circuit Judges.
+Opinion
+WALLACH, Circuit Judge.
+
+Plaintiff–Appellee SimpleAir, Inc. (“SimpleAir”) filed this patent infringement action against Defendant–Appellant Google Inc. (“Google”) in 2011, alleging that Google’s Cloud Messenger and Cloud to Device Messenger services (collectively, “Google’s Cloud Messenger Services”) infringe independent claim 1 and dependent claims 2, 3, 7, and 22 (the “asserted claims”) of U.S. Patent No. 7,035,914 (the “′914 patent”). A jury determined none of the asserted claims was invalid, and that Google’s Cloud Messenger Services infringed each of the asserted claims. A separate damages trial resulted in a jury award of $85 million to SimpleAir. See J.A. 1.
+ 
+The United States District Court for the Eastern District of Texas denied Google’s motions for judgment as a matter of law (“JMOL”) with respect to invalidity, infringement, and damages. On appeal to this court, Google asserts the claim term “a data channel” is indefinite under the Supreme Court’s intervening decision in Nautilus, Inc. v. Biosig Instruments, Inc., –––U.S. ––––, 134 S.Ct. 2120, 189 L.Ed.2d 37 (2014), or alternatively, that Google does not infringe under the correct construction of “a data channel.” Google also challenges the district court’s constructions of “transmission gateway” and “parsing said data with parsers,” its application of the law of joint infringement, and the damages award.
+ 
+For the reasons set forth below, we determine the district court erred in its constructions of “a data channel” and “whether said devices are online or offline from a data channel associated with each device,”1 and conclude that no reasonable jury could find infringement under the correct constructions. We therefore vacate the jury verdicts and associated district court orders and judgments, and remand with instructions to enter judgment of non-infringement in favor of Google.
+ 
+
+BACKGROUND
+The ′914 patent is entitled “A System and Method for Transmission of Data” and *422 claims priority to 1996. In the “Summary of the Invention” section, the ′914 patent explains “the present invention ... provides a system and method for data communication connecting on-line networks with on-line and off-line computers.” ′914 patent col. 2 ll. 51–54 (emphasis added); see also id. col. 3 ll. 26–31 (Information is sent to “connected and non-connected computing devices thereby extending the reach of existing information sources, such as Internet and on-line services.” (emphasis added)), col. 6 ll. 42–44 (similar).
+ 
+Specifically, the invention involves the wireless broadcasting of “notification centric information,” id. col. 2 ll. 55–56, such as a notification alerting a user that an email message has been received, id. col. 2 ll. 24–26. Figure 1 of the ′914 patent is reproduced below:
+ 
+
+​
+Id. fig.1. As illustrated in Figure 1, the notification information may be
+wirelessly broadcast on a nationwide basis to wireless receiving devices 32 which are connected to personal computers 14 or other computing devices. Upon receipt of the information at the personal computer 14, the user is notified through different multimedia viewers 20 that there is an incoming message.... Included with the broadcast that is wirelessly sent to the user is the Internet address and location of the detail of that message. By clicking on a button within the multimedia viewer 20 that notified the user that a message came in, the present invention will automatically make a wired connection to the information source 12 utilizing the user’s preferred online browser which will direct the user to the particular location on the Internet service provider where the user can receive detailed information.
+Id. col. 5 l. 56–col. 6 l. 4 (emphases added). The “wireless broadcast network, includ[es] but [is] not limited to ... a paging network,” “satellite,” and “cellular and other developing wireless technologies.” Id. col. 9 ll. 17–21.
+The patent explains that “third party developers can write different types of multimedia viewers which can easily be downloaded to the user system.” Id. col. 3 ll. 15–17. The message associated with the notification centric information is transmitted “to the user interface alert panel causing an animated icon to fly to the alert panel notifying a user that a new message *423 has arrived. Upon clicking the icon, the appropriate viewer is launched. Users can then display the context of the data on their computers.” Id. col. 3 ll. 35–39. According to the invention, “users can control which categories of information received from the broadcast network are processed and which are discarded. For example, if a user were not interested in sports, all sports information categories, such as baseball, football, golf, etc. can be selected for discarding.” Id. col. 21 ll. 52–57. Users can also select specific subcategories, such as “specific teams for sports” or specific stock quotes, about which they wish to receive information. Id. col. 21 ll. 65–67.
+ 
+Figure 11 of the ′914 patent illustrates a user interface that can be used in connection with the invention:
+ 
+
+​
+Id. fig.11; see also id. col. 4 ll. 42–44 (describing Figure 11). The patent explains that “remote control 54 ... provides a user interface for opening, closing and controlling viewers....” Id. col. 29 ll. 2–4. The viewers “are the means by which data received from the broadcast network is displayed to the user,” and can include “graphics, data, sound files, and launch icons.” Id. col. 29 ll. 13–14, 19–20. “The remote control 54 is launched through the user interface alert panel 50.” Id. col. 29 ll. 9–10.
+*424 The only asserted independent claim of the ′914 patent is claim 1, which recites:
+A method for transmitting data to selected remote devices, comprising the steps of:
+transmitting data from an information source to a central broadcast server;
+preprocessing said data at said central broadcast server, further comprising the step of:
+parsing said data with parsers corresponding to said central broadcast server;
+transmitting said data to an information gateway for building data blocks and assigning addresses to said data blocks;
+transmitting said data blocks from said information gateway to a transmission gateway for preparing said data block[s2] for transmission to receivers;
+ 
+transmitting preprocessed data to receivers communicating with said devices; and
+instantaneously notifying said devices of receipt of said preprocessed data whether said [computing3] devices are online or offline from a data channel associated with each device.
+Id. col. 33 ll. 16–35 (emphases added). Dependent claims 2, 3, 7, and 22 are also asserted. The district court considered the terms “parsing said data with parsers,” “transmission gateway,” and “data channel,” found them sufficiently definite, and construed them.
+ 
+A jury found Google infringed the asserted claims as construed. Google then moved for JMOL with respect to invalidity, non-infringement, and damages, which the district court denied. On appeal, Google argues “the term ‘a data channel’ renders all claims indefinite, or in the alternative, under a correct construction Google does not infringe.” Appellant’s Br. 22 (capitalization omitted). Google also asserts that “under this court’s precedents on joint infringement, Google does not infringe as a matter of law” because the recited step of “instantaneously notifying” is “performed by transceiver chips within mobile devices,” because those transceiver chips are built and operated by third parties, and because Google does not direct or control others in performing the “instantaneously notifying” step. Id. at 42–43, 50 (capitalization and quotation marks omitted). In addition, Google challenges the $85 million damages award, claiming it “is ‘grossly excessive,’ ‘clearly not supported by the evidence,’ and ‘based only on speculation or guesswork.’ ” Id. at 54 (quoting Lucent Tech., Inc. v. Gateway, Inc., 580 F.3d 1301, 1310 (Fed.Cir.2009)). This court has jurisdiction under 28 U.S.C. § 1295(a)(1) (2012).
+ 
+
+DISCUSSION
+I. Standard of Review and Legal Standards
+[1] [2] [3] We review the grant or denial of a motion for JMOL under the law of the regional circuit in which the appeal from the district court would usually lie, in this case the Fifth Circuit. Summit Tech., Inc. v. Nidek Co., 363 F.3d 1219, 1223 (Fed.Cir.2004). The Fifth Circuit reviews the grant or denial of JMOL de novo. Med. Care Am., Inc. v. Nat’l Union Fire Ins. Co., 341 F.3d 415, 420 (5th Cir.2003). “If there is substantial evidence opposed to [JMOL], ... [it] should be denied.” Id. (first alteration *425 in original) (internal quotation marks and footnote omitted). We have interpreted the Fifth Circuit’s standard to mean the jury’s determination must be supported by substantial evidence. See ACCO Brands, Inc. v. ABA Locks Mfr. Co., 501 F.3d 1307, 1312 (Fed.Cir.2007).
+ 
+[4] [5] [6] The ultimate construction of claim language is a question of law reviewed de novo, based upon underlying factual determinations reviewed for clear error. Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 837–39, ––– L.Ed.2d –––– (2015). “[W]hen the district court reviews only evidence intrinsic to the patent (the patent claims and specifications, along with the patent’s prosecution history), the judge’s determination [as to claim construction] will amount solely to a determination of law, and the Court of Appeals will review that construction de novo.” Id. at 841. “If, on the other hand, a district court resolves factual disputes over evidence extrinsic to the patent, we ‘review for clear error those factual findings that underlie a district court’s claim construction.’ ” Cardsoft, LLC v. VeriFone, Inc., 807 F.3d 1346, 1350 (Fed.Cir.2015) (quoting Teva, 135 S.Ct. at 842). “[I]t is not enough that the district court may have heard extrinsic evidence during a claim construction proceeding—rather, the district court must have actually made a factual finding in order to trigger Teva’s deferential review.” Id.
+ 
+[7] Where an infringement verdict relies on an incorrect claim construction, and no reasonable jury could have found infringement under the proper claim construction, this court may reverse the district court’s determination with respect to JMOL without remand. Finisar Corp. v. DirecTV Grp., Inc., 523 F.3d 1323, 1333 (Fed.Cir.2008).
+ 
+
+II. The District Court Erred in Construing “A Data Channel”
+The final step of independent claim 1 of the ′914 patent recites “instantaneously notifying said [remote] devices of receipt of said preprocessed data whether said devices are online or offline from a data channel associated with each device.” ′914 patent col. 33 ll. 32–35 (emphasis added). The italicized language was added in a 2004 amendment (i.e., eight years after the 1996 priority date), and the patent’s written description does not include the term “data channel.” The written description also contains only one instance of the word “channel[ ],” see id. col. 10 l. 19, which, the parties agree, is used in an unrelated context.
+ 
+On appeal, Google notes the invention embodied in the ′914 patent “is directed to transmitting information to a remote computer whether the computer is online or offline.” Appellant’s Br. 28. Whether a computer is online or offline, Google posits, can be understood by reference to Figure 1 of the ′ 914 patent. Id. at 6. A computer is “online,” in Google’s view, when wired connection 24 connects the computer 14 to information sources 12, and offline when it does not. See ′914 patent col. 31 ll. 29–30. Google provides the following annotated illustration of its interpretation of Figure 1.
+ 
+
+​
+*426 Appellant’s Br. 6.
+To allow the transmission of information when the computer is offline, Google continues, the patent discloses the use of an alternative communication path through a receiver 32, which can be seen at the lower right of Figure 1. Id. Google provides the following annotated illustration of Figure 1 to illustrate its view of this alternate path:
+ 
+
+​
+*427 Id. at 7. Thus, Google interprets the term “online or offline from a data channel associated with each device” of claim 1 to refer to the left path (24) in Figure 1, while the right path of Figure 1, in which information is transmitted via receiver 32, provides an “alternative path that is the crux of the alleged invention.” Id. at 29; see also J.A. 134 (explaining Google’s interpretation of Figure 1).4
+Google argues that a “[data] channel must be a path that does not include the attached receiver,” Appellant’s Br. 26–27 (internal quotation marks and citation omitted), because the claim recites “notifying said devices ... whether said devices are online or offline from a data channel associated with each device,” ′914 patent col. 33 ll. 32–35 (emphasis added). According to Google, “whatever communication path the devices ‘are online or offline from’ must be different from the communication path the receivers use to notify the devices” because, if a path were capable of transmitting information to a device, the device would not be “offline” from that particular path. Appellant’s Br. 27–28.
+ 
+SimpleAir interprets claim 1 differently. Whereas Google focuses on the phrase “whether said devices are online or offline from a data channel associated with each device,” see, e.g., id. at 2, 10, 16, 26, SimpleAir focuses attention on “data channel” that appears within this phrase, see, e.g., Appellee’s Br. 4, 9, 12, 15, 22. SimpleAir asserts “[t]he term ‘data channel’ was a well-understood term with different meanings depending on context,” and that in the ′914 patent “it was used in the context of Internet broadcasting.’ ” Id. at 10. SimpleAir explains that “in the context of Internet broadcasting (which borrowed terminology from television broadcasting), ‘data channel’ meant a path for viewing a category of information from an online provider.” Id. at 12 (citation omitted).
+ 
+SimpleAir thus views “data channel” as analogous to a television channel such that users can “ ‘tune in to the relevant channel ... [which is] accessed by specialized software *428 on the user’s remote computing device.’ ” Id. (quoting J.A. 10207–08 (declaration of SimpleAir expert Dr. James Knox)). Under SimpleAir’s interpretation of the claim language, the “remote devices” of claim 1 “have one or more ‘data channels’ ‘associated with’ [them] (i.e., ‘associated’ by installed software).” Id. (quoting J.A. 2272–73 (testimony of Dr. Knox)). SimpleAir supports its interpretation by reference to the specification, which states that “ ‘[a] user can register and subscribe to receive broadcasts’ ” of “data feeds,” id. (quoting ′914 patent col. 8 ll. 31–32, col. 7 ll. 54–56), and asserts that “data feed” is another way to convey the concept of “data channel,” id. at 16–17. As SimpleAir sees it, a “data channel” is “ ‘not merely a connection to the Internet’ but instead a connection to a ‘category or subcategory of information that is provided by an information source.’ ” Id. at 14–15 (quoting J.A. 136–37, 140 (Memorandum Opinion and Order Regarding Claim Construction)); see also id. at 18–19 (asserting that “a device that is merely connected to a ‘communication channel or path’ (as Google’s first premise asserts) is not online to a data channel”).
+ 
+SimpleAir disagrees with Google’s assertion that the data channel that a device is “online or offline from” must refer to the left path (24) in Figure 1. Instead, SimpleAir explains that a device could connect to both an information source and a central broadcast server via a receiver (rather than, for example, wired connection 24). It offers the following illustration:
+ 
+
+​
+Id. at 20. A device could be “offline from a data channel associated with each device,” SimpleAir explains, while still receiving notifications from a central broadcast server:
+
+​
+*429 Id. at 21.
+The district court found SimpleAir’s position more persuasive and construed “data channel” as “one or more communication channels or paths for accessing or viewing a category or subcategory of information that is provided by an information source over a communications network.” J.A. 137. In concluding that “a data channel is not merely a network connection or path between the computing device and the Internet,” J.A. 136, the district court relied on discussion of “data feeds” in the written description of U.S. Patent No. 6,021,433 (the “′433 patent”), a continuation application of which led to the ′ 914 patent.5 It concluded SimpleAir’s positions were supported by the specification and claim language.
+ 
+The district court construed the larger phrase—“whether said devices are online or offline from a data channel associated with each device”—to mean “whether the remote computing devices are or are not connected via the Internet or another online service to a data channel associated with each computing device at the time the preprocessed data is received by the receivers.” J.A. 140 (emphases added). The court explained that “constru[ing] the data channel to merely be the device’s connection to the Internet” would “render the additional language [i.e., ‘from a data channel associated with each device’] redundant.” J.A. 139.
+ 
+[8] The district court’s construction is incorrect. It is true that “interpretations that render some portion of the claim language superfluous are disfavored.” Power Mosfet Techs., L.L.C. v. Siemens AG, 378 F.3d 1396, 1410 (Fed.Cir.2004); see also Merck & Co. v. Teva Pharm. USA, Inc., 395 F.3d 1364, 1372 (Fed.Cir.2005) (“A claim construction that gives meaning to all the terms of the claim is preferred over one that does not do so.” (citations omitted)). The preference for giving meaning to all terms, however, is not an inflexible rule that supersedes all other principles of claim construction. See Power Mosfet, 378 F.3d at 1410.
+ 
+[9] [10] [11] As we have explained, “[c]laims must always be read in light of the specification.” *430 Phillips v. AWH Corp., 415 F.3d 1303, 1315 (Fed.Cir.2005) (en banc) (quoting In re Fout, 675 F.2d 297, 300 (CCPA 1982)); see also id. (“The specification is ... the primary basis for construing the claims.” (internal quotation marks and citation omitted)). In addition, claims must be given meaning consistent with how they would have been understood at the time of invention by a person having ordinary skill in the art (“PHOSITA”). Id. at 1313 (citing Innova/Pure Water, Inc. v. Safari Water Filtration Sys., Inc., 381 F.3d 1111, 1116 (Fed.Cir.2004)). “Importantly, the person of ordinary skill in the art is deemed to read the claim term not only in the context of the particular claim in which the disputed term appears, but in the context of the entire patent, including the specification.” Id. “The construction that stays true to the claim language and most naturally aligns with the patent’s description of the invention will be, in the end, the correct construction.” Id. at 1316 (quoting Renishaw PLC v. Marposs Societa’ per Azioni, 158 F.3d 1243, 1250 (Fed.Cir.1998)).
+ 
+The patent explains that, at the time of invention (i.e., 1996), computer users could connect to information sources such as the Internet using a modem. ′914 patent col. 3 ll. 30–31, col. 7 ll. 27–28. Modems were known to enable communication over telephone lines. Id. col. 10 ll. 55–56, col. 11 l. 9. Referring to drawing numbers that are used in Figure 1, the written description explains that the invention allows for “information ... from information sources 12” to be “transmitted wirelessly ... to personal computers 14” and “can also be sent simultaneously via a wired connection to the same personal computers 14 ... having Internet/World Wide Web access (direct or via on-line service providing Internet and Web access).” Id. col. 20 ll. 53–62; see also id. col. 3 ll. 59–67 (providing, in the Summary of the Invention section, identical language but without reference to drawing numbers).
+ 
+By transmitting information wirelessly via the central broadcast server, id. col. 6 ll. 40–41, “the present invention ” enables “remote computer 14 [to] receive information instantly—even while it is off-line (i.e., not connected to the Internet or some other on-line service),” id. col. 7 ll. 4–7(emphases added). “Thus, a user has the ability to receive ‘on-line’ information even when the user is ‘off-line.’ ” Id. col. 7 ll. 7–9. Once the notification information is received, the user can then “instantaneously retrieve further detailed information,” id. col. 2 ll. 57–58, facilitated by “[w]irelessly broadcasted URL’s [sic], associated with the data, [that] are embedded in data packets and provide an automated wired or wireless connection back to the information source for obtaining detailed data,” id. col. 3 ll. 1–5; see also id. col. 6 ll. 55–59 (referring to “(URL’s) 22,” which are situated on path 24 in Figure 1). The patent explains that connection 24 may be “wired or wireless” and may be “either through a modem, TC[P]/IP or LAN-type connection.” Id. col. 31 ll. 36–37.
+ 
+[12] In light of this context, a PHOSITA at the time of invention would understand that a key aspect of the invention is the ability of a remote device to receive notifications even when it is not connected to the Internet by traditional means. See also id. col. 2 ll. 51–54 (“[T ]he present invention ... provides a system and method for data communication connecting on-line networks with on-line and off-line computers.” (emphases added)). Therefore, the claim term “whether said devices are online or offline from a data channel associated with each device” is properly construed to mean “whether said devices are or are not connected to the Internet (or some other online service) via a data channel associated with each device.”
+ 
+*431 [13] Moreover, it is evident that the invention contemplates the use of two distinct paths, such that the data channel from which the device is offline must be different from the communication path used to receive notifications. See, e.g., id. fig.1; id. col. 2 ll. 28–40 (“[E]xisting wireless broadcast networks suffer from inevitable [data] degradation.”), col. 2 ll. 43–46 (indicating the invention addresses data degradation by “combin [ing] the benefits of ... wireless and wired on-line services”). Thus, “data channel” is properly construed to mean “any path between the remote computing device and the Internet (or some other online service) that does not include the attached receiver.”
+ 
+The references in the ′914 patent to “data feeds” do not suggest a different construction. The district court and SimpleAir would equate “data feeds” with “data channel[s],” but this interpretation is implausible. See J.A. 136; Appellee’s Br. 12, 16. The written description shows the “data feeds” as being provided from information sources 12 to central broadcast server 34. ′914 patent fig.1, col. 6 l. 18; see also id. col. 3 ll. 26–30 (using similar language but without including drawing numbers), col. 6 ll. 38–44 (“[D]ata parsed from ... data feeds 16 from existing information sources 12 is wirelessly transmitted by the central broadcast server 34 ... to ... non-connected computing devices 14.”), col. 7 ll. 54–57 (“[I]nformation sources 12, such as the Internet, ... provide data feeds ... to a network of servers 33 in the central broadcast server 34.”), col. 8 ll. 5–6 (“[I]nformation sources 12 provide data feeds to the central broadcast server 34.”).
+ 
+Each of these cited portions of the written description shows that the data feeds are provided to the central broadcast server, not directly to the remote device. The term “data feeds” is therefore properly understood to refer to the first step of claim 1, i.e., “transmitting data from an information source to a central broadcast server,” not the final step, which includes the “data channel” term. Id. col. 33 ll. 18–19, 32–35.
+ 
+Moreover, when the patentee amended the patent in 2004, it chose to use the term “data channel,” which does not appear in the patent’s written description, rather than the term “data feed,” which does. The term “data feed” is also used in certain dependent claims. See id. col. 37 ll. 59–63. The choice to use “data channel” in claim 1 rather than “data feed,” notwithstanding use of the latter elsewhere in the patent, lends further support to our conclusion that “data feed” does not carry the same meaning as “data channel.” See Bd. of Regents of the Univ. of Tex. Sys. v. BENQ Am. Corp., 533 F.3d 1362, 1371 (Fed.Cir.2008) (“Different claim terms are presumed to have different meanings.” (citation omitted)).
+ 
+In light of the foregoing, we reverse the district court’s constructions of “data channel” and “whether said computing devices are online or offline from a data channel associated with each device.” Google asserts that if these terms are construed such that “data channel” is “a path different from a path through the receiver,” Google does not infringe because its “accused system sends messages over the same communication path as other Internet data—it does not use a separate path.” Appellant’s Br. 27, 30; see also id. at 30 (“SimpleAir cannot show infringement because the accused products receive Internet data exclusively via the receiver.”). SimpleAir does not contest this assertion on appeal. In light of Google’s uncontested assertion, we conclude “no reasonable jury could have found infringement under the proper claim construction,” Finisar, 523 F.3d at 1333, and remand to the district *432 court with instructions to enter judgment of no infringement.
+ 
+
+III. Indefiniteness
+The Supreme Court has instructed that “a patent is invalid for indefiniteness if its claims, read in light of the specification delineating the patent, and the prosecution history, fail to inform, with reasonable certainty, those skilled in the art about the scope of the invention.” Nautilus, 134 S.Ct. at 2124. Google asserts “the term ‘a data channel’ renders all claims indefinite” under Nautilus because “the patent does not explain what ‘offline from a data channel’ means.” Appellant’s Br. 22–23 (capitalization omitted). It further notes that “the claim construction order relied on specification passages that do not speak to the meaning of ‘data channel.’ ” Id. at 24 (capitalization omitted). We have already discussed these asserted omissions and explained why a PHOSITA, reading the claims in light of the specification, would be reasonably certain as to the scope of the invention. The challenged claim language (“whether said devices are online or offline from a data channel associated with each device”) is sufficiently definite under the Nautilus standard.
+ 
+
+IV. Conclusion
+For these reasons, we: (1) reverse the district court’s constructions of “data channel” and “whether said computing devices are online or offline from a data channel associated with each device”; (2) vacate the jury verdicts and associated orders and judgments of the district court that are based upon its incorrect constructions; and (3) remand with instructions to enter judgment of non-infringement in favor of Google.
+ 
+REVERSED–IN–PART, VACATED–IN–PART, AND REMANDED
+ 
+
+COSTS
+Appellee shall pay court costs to appellant.
+ 
+All Citations
+820 F.3d 419, 118 U.S.P.Q.2d 1451
+Footnotes
+
+1
+
+Because construction of these terms resolves the dispute, we do not reach Google’s assertions of error with respect to the terms “transmission gateway” and “wireless gateway.” See Uship Intellectual Props., LLC v. United States, 714 F.3d 1311, 1313 n. 1 (Fed.Cir.2013) ( “Because construction of Validating’ resolves this case, we need not reach the parties’ arguments with regard to ‘storing.’ ”).
+
+2
+
+A Certificate of Correction, dated October 14, 2008, replaced the word “block” with the word “blocks.”
+
+3
+
+A Certificate of Correction, dated October 14, 2008, deleted the word “computing.”
+
+4
+
+The distinction between the two paths described in the invention is important, Google explains, “because the accused mobile devices use the same path through the receiver to receive messages as well as other Internet data.” Appellant’s Br. 16–17 (emphasis added).
+
+5
+
+The exact language from the ′433 patent relied upon by the district court also appears in the ′914 patent. See J.A. 136.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

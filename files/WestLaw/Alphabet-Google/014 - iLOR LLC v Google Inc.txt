@@ -1,0 +1,441 @@
+
+
+
+
+
+iLOR, LLC v. Google, Inc.
+United States Court of Appeals, Federal Circuit. | December 11, 2008 | 550 F.3d 1067 | 2008 WL 5171554
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Crown Packaging Technology, Inc. v. Rexam Beverage Can Co., Fed.Cir.(Del.), March 17, 2009
+
+standard Citation:
+
+iLOR, LLC v. Google, Inc., 550 F.3d 1067 (Fed. Cir. 2008)
+
+All Citations:
+
+550 F.3d 1067, 89 U.S.P.Q.2d 1097
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Kentucky
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Crown Packaging Technology, Inc. v. Rexam Beverage Can Co., Fed.Cir.(Del.), March 17, 2009
+550 F.3d 1067
+United States Court of Appeals,
+Federal Circuit.
+ILOR, LLC, Plaintiff–Appellant,
+v.
+GOOGLE, INC., Defendant–Appellee.
+No. 2008–1178.
+|
+Dec. 11, 2008.
+Synopsis
+Background: Patent assignee filed action against competitor alleging infringement of patent directed toward method for adding user selectable function to hyperlink. The United States District Court for the Eastern District of Kentucky, Joseph M. Hood, Senior District Judge, 2007 WL 4259586,denied assignee’s motion for preliminary injunction on particular claim and granted summary judgment of noninfringement on that claim. Assignee appealed.
+ 
+Holdings: The Court of Appeals, Linn, Circuit Judge, held that:
+ 
+[1] dismissal of “action” only disposed of assignee’s half of case;
+ 
+[2] district court did not certify its grant of summary judgment for immediate appeal;
+ 
+[3] as matter of first impression, bare recitation of the “no just cause for delay” standard of the rule governing entry of a final judgment as to one or more, but fewer than all, claims or parties is not sufficient, by itself, to properly certify an issue for immediate appeal; and
+ 
+[4] phrase, “the toolbar being displayable based on a location of a cursor in relation to a hyperlink,” properly was limited to toolbars that were automatically displayed based on location of cursor without further user action.
+ 
+Affirmed in part and dismissed in part.
+ 
+
+
+West Headnotes (10)
+
+
+[1]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5)
+
+
+Patent claim construction is a question of law over which plenary review is exercised.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(1)In general
+(Formerly 291k324.54)
+
+
+A district court’s decision granting, denying, or modifying an injunction in a patent case is reviewed for abuse of discretion.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsDetermination of question of jurisdiction
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(B)Appellate Jurisdiction and Procedure in General
+170Bk3252Determination of question of jurisdiction
+(Formerly 170Bk542)
+
+
+Every federal appellate court has a special obligation to satisfy itself of its own jurisdiction. U.S.C.A. Const. Art. 3, § 1 et seq.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsOrders relating to injunctions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1952Decisions Reviewable
+291k1955Finality
+291k1955(5)Orders relating to injunctions
+(Formerly 291k324.2)
+
+
+District court’s dismissal of “action,” within context of order in patent infringement case stating that “this action be, and the same hereby is, DISMISSED WITH PREJUDICE AND STRICKEN FROM THE ACTIVE DOCKET,” after court’s denial of preliminary injunction to patent assignee and grant of summary judgment of noninfringement on one claim and dismissal of remainder of claims of plaintiff assignee with prejudice, only disposed of assignee’s half of case, but it did not dispose of counterclaims of defendant competitor, and thus noninfringement decision was not final appealable order, since counterclaims had not been implicated. Fed.Rules Civ.Proc.Rule 56, 28 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsFinality
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1952Decisions Reviewable
+291k1955Finality
+291k1955(1)In general
+(Formerly 291k324.2)
+
+
+District court’s statement, that its “Order is FINAL AND APPEALABLE and THERE IS NO JUST CAUSE FOR DELAY,” did not certify for immediate appeal its grant of summary judgment that accused product did not infringe particular claim of patent, and sua sponte dismissal of remaining claims, and thus noninfringement issue was not reviewable on appeal of court’s denial of preliminary injunction to patent assignee, since order did not cite to governing rule or set forth circumstances justifying immediate appeal of decision and sensible reason could not be discerned from record to justify immediate review of decision, instead of in connection with final judgment. Fed.Rules Civ.Proc.Rules 54(b), 56, 28 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+Whether an order in a patent case is sufficient to confer appellate jurisdiction under the rule governing entry of a final judgment as to one or more, but fewer than all, claims or parties is a question of Federal Circuit law. Fed.Rules Civ.Proc.Rule 54(b), 28 U.S.C.A.
+10 Cases that cite this headnote
+
+
+
+[7]
+
+Federal CourtsMultiple parties
+Federal CourtsMultiple claims
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)4Certification and Leave to Appeal
+170Bk3372Particular Actions and Rulings
+170Bk3374Multiple parties
+(Formerly 170Bk660.10)
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)4Certification and Leave to Appeal
+170Bk3372Particular Actions and Rulings
+170Bk3376Multiple claims
+(Formerly 170Bk660.20)
+
+
+The bare recitation of the “no just cause for delay” standard of the rule governing entry of a final judgment as to one or more, but fewer than all, claims or parties is not sufficient, by itself, to properly certify an issue for immediate appeal; rather, it must be apparent, either from the district court’s order, or from the record itself, that there is a sound reason to justify departure from the general rule that all issues decided by the district court should be resolved in a single appeal of a final judgment. Fed.Rules Civ.Proc.Rule 54(b), 28 U.S.C.A.
+16 Cases that cite this headnote
+
+
+
+[8]
+
+Federal CourtsOn separate appeal from interlocutory judgment or order
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)1In General
+170Bk3543Questions Considered
+170Bk3546Interlocutory, Collateral, and Supplementary Proceedings and Questions;  Pendent Appellate Jurisdiction
+170Bk3546(3)On separate appeal from interlocutory judgment or order
+(Formerly 170Bk770)
+
+
+Under limited circumstances in conjunction with the consideration of the denial of a request for preliminary injunctive relief, an appellate court may exercise discretion, under the doctrine of appellate pendent jurisdiction, to review other interlocutory orders, which ordinarily would be nonappealable standing alone.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+(Formerly 291k101(3))
+
+
+Phrase, “the toolbar being displayable based on a location of a cursor in relation to a hyperlink,” in patent directed toward method for adding user selectable function to hyperlink, properly was limited to toolbars that were automatically displayed based on location of cursor without further user action.
+1 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,206,839. Not Infringed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1068 David E. Schmit, Frost Brown Todd LLC, of Cincinnati, OH, argued for plaintiff-appellant.
+Frank E. Scherkenbach, Fish & Richardson P.C., of Boston, MA, argued for *1069 defendant-appellee. With him on the brief were Kurt L. Glitzenstein, and John A. Dragseth, of Minneapolis, MN. Of counsel was Shelley K. Mack, of Redwood City, California.
+Before MAYER, LINN, and MOORE, Circuit Judges.
+Opinion
+LINN, Circuit Judge.
+
+iLOR, LLC (“iLOR”) appeals from a judgment of the U.S. District Court for the Eastern District of Kentucky, iLOR, LLC v. Google, Inc., No. 5:07–CV–109, Doc. 71, 2007 WL 4259586 (E.D.Ky. Nov. 30, 2007), which dismissed the “action” with prejudice after the district court denied iLOR’s motion for preliminary injunctive relief on claim 26 of U.S. Patent No. 7,206,839 (“the ′839 patent”) and granted Google, Inc.’s (“Google’s”) motion for summary judgment of noninfringement of that claim, iLOR, LLC v. Google, Inc., No. 5:07–CV–109, Doc. 70, 2007 WL 4259586 (E.D.Ky. Nov. 30, 2007) (“Decision ”). As a threshold matter, the finality of the judgment, which controls the scope of our review, is at issue. We conclude that the judgment is not final, and as a result, we exercise jurisdiction only over the district court’s denial of preliminary injunctive relief. On the merits, we conclude that the district court correctly construed the sole claim limitation at issue, and did not abuse its discretion by denying iLOR’s motion for preliminary injunctive relief because noninfringement was undisputed under that construction. Thus, we affirm the district court’s denial of injunctive relief and dismiss the remaining issues raised in this appeal, which relate to matters that remain before the district court.
+ 
+
+I. BACKGROUND
+iLOR is the assignee of the ′839 patent, which is directed to a “method for adding a user selectable function to a hyperlink.” As stated in the abstract, the method described in the claims “permits the user to interact with a hyperlink in a variety of ways without necessarily having to open and/or follow the hyperlink.” Claim 26, the only claim at issue in this appeal, recites:
+ 
+A method for enhancing a hyperlink, comprising:
+providing a user-selectable link enhancement for a toolbar, the toolbar being displayable based on a location of a cursor in relation to a hyperlink in a first page in a first window of an application, wherein said first page is associated with a first uniform resource locator (URL), wherein said hyperlink is associated with a second URL and a second page, wherein said user-selectable link enhancement is adapted to display a graphical element based on said first URL;
+receiving an indication of a first user selection of said link enhancement; and
+as a result of said first user selection,
+capturing said first URL associated with said first page; and
+displaying a graphical element, said graphical element associated with said captured first URL, said graphical element adapted to cause said first page to be displayed as a result of a second user selection of said graphical element.
+ 
+iLOR sued Google alleging that Google’s “Google Notebook” product infringed the ′839 patent. Google counterclaimed, seeking a declaratory judgment of noninfringement, invalidity, and unenforceability of the ′839 patent. iLOR subsequently moved for a preliminary injunction. Relying only on claim 26, iLOR requested that Google be enjoined from using or inducing others to use Google Notebook in a way that infringed that claim. Google filed a cross- *1070 motion in response for summary judgment of noninfringement. In the course of resolving these motions, the district court focused, as the parties did, only on claim 26. The only disputed limitation of that claim was “the toolbar being displayable based on a location of a cursor in relation to a hyperlink,” which the district court construed to require that the “toolbar is ‘automatically displayed’ upon the placement of the cursor in proximity to a hyperlink with no further action on the part of a user.” Decision at 14. Because it was undisputed that Google Notebook does not automatically display its toolbar, but instead requires the user to right-click on the hyperlink to display the toolbar, the district court granted Google’s motion for summary judgment of noninfringement and denied iLOR’s motion for preliminary injunction. Id. at 20–21.
+ 
+In the decision resolving these motions, the district court also sua sponte ordered “that [iLOR’s] claims pending against [Google] in this matter shall be and the same hereby are dismissed with prejudice.” Id. at 21 (emphasis omitted). Contemporaneously with entry of the decision, the district court also entered the judgment, which reads, in full:
+In accordance with the Order of even date and entered contemporaneously herewith,
+IT IS HEREBY ORDERED:
+(1) That this action be, and the same hereby is, DISMISSED WITH PREJUDICE AND STRICKEN FROM THE ACTIVE DOCKET.
+(2) That all pending motions be, and the same hereby are, DENIED AS MOOT.
+(3) That all scheduled proceedings be, and the same hereby are, CONTINUED GENERALLY.
+(4) That this Order is FINAL AND APPEALABLE and THERE IS NO JUST CAUSE FOR DELAY.
+ 
+iLOR timely appealed from the district court’s decision and judgment.
+ 
+
+II. DISCUSSION
+A. Standard of Review
+[1] Claim construction is a question of law, see Markman v. Westview Instruments, Inc., 52 F.3d 967, 970–71 (Fed.Cir.1995) (en banc), aff’d, 517 U.S. 370, 116 S.Ct. 1384, 134 L.Ed.2d 577 (1996), over which we exercise plenary review. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc).
+ 
+[2] A district court’s decision granting, denying, or modifying an injunction in a patent case is reviewed for abuse of discretion. Lab. Corp. of Am. Holdings v. Chiron Corp., 384 F.3d 1326, 1331 (Fed.Cir.2004).
+ 
+
+B. Analysis
+1. Jurisdiction
+[3] [4] “Federal courts are not courts of general jurisdiction; they have only the power that is authorized by Article III of the Constitution and the statutes enacted by Congress pursuant thereto. For that reason, every federal appellate court has a special obligation to ‘satisfy itself ... of its own jurisdiction....’ ” Bender v. Williamsport Area Sch. Dist., 475 U.S. 534, 541, 106 S.Ct. 1326, 89 L.Ed.2d 501 (1986) (citations omitted). Thus, before reaching the parties’ arguments, we must first address the scope of our jurisdiction, which depends on how the judgment is construed. iLOR contends that the judgment disposes of all claims and counterclaims and therefore is final. Thus, according to iLOR, we have jurisdiction under 28 U.S.C. § 1295(a)(1) *1071 to address all issues raised below, including the district court’s grant of summary judgment of noninfringement and the district court’s sua sponte dismissal of its remaining claims. Alternatively, iLOR argues that if it does not dispose of Google’s counterclaims, the judgment certifies the decision for immediate appeal under Federal Rule of Civil Procedure 54(b), and consequently vests us with jurisdiction to consider—in addition to the denial of the preliminary injunction—the grant of summary judgment of noninfringement and the dismissal of iLOR’s remaining claims. Google contends that the judgment neither disposes of its counterclaims nor meets the requirements under Rule 54(b) to certify the decision for immediate appeal. Thus, according to Google, our jurisdiction is limited under 28 U.S.C. § 1292(a)(1) to the district court’s denial of preliminary injunctive relief.
+ 
+We agree with Google. We do not interpret the judgment to dispose of Google’s counterclaims or to certify the decision for immediate appeal under Rule 54(b). iLOR’s contention that the judgment dismisses Google’s counterclaims rests largely on its argument that the judgment’s dismissal of the “action” necessarily encompasses all claims at issue in the case—both iLOR’s claims and Google’s counterclaims. For this contention iLOR relies upon our decision in Walter Kidde Portable Equipment, Inc. v. Universal Security Instruments, Inc., 479 F.3d 1330 (Fed.Cir.2007). iLOR’s reliance on Walter Kidde in this case is misplaced.
+ 
+In Walter Kidde, we addressed the propriety of a district court’s grant of a plaintiff’s motion to voluntarily dismiss pursuant to Rule 41(a)(2) over the objection of a defendant who had filed counterclaims. The plaintiff in Walter Kidde had filed a Rule 41(a)(2) motion to dismiss the “action” so that it could correct a jurisdictional deficiency and refile the case. Walter Kidde, 479 F.3d at 1334. The defendant objected and requested dismissal with prejudice or without prejudice but with conditions. Id. The district court dismissed the “action” without prejudice, and without further comment on the nature of the dismissal. Id. at 1334, 1335. Because the district court’s order did not explicitly address the defendant’s counterclaims, the defendant argued on appeal that the judgment was not final and thus not appealable. We disagreed, stating that “[t]he term ‘action’ encompasses the entire proceedings in the district court, signifying that the order of dismissal terminated [the defendant’s] counterclaims.” Id. at 1335.
+ 
+iLOR appears to contend that following Walter Kidde, a district court’s use of the word “action” robotically signifies all claims, counterclaims, cross-claims, etc., regardless of the context in which that word is used. Walter Kidde did not go so far. Indeed, our primary citation for the proposition that “action” included the defendant’s counterclaims was a Second Circuit case which stated that “[t]he word ‘action,’ without more, is arguably broad enough to encompass any type of judicial proceeding, including counterclaims.” See Local Union No. 38, Sheet Metal Workers’ Int’l Ass’n AFL–CIO v. Pelella, 350 F.3d 73, 81 (2d Cir.2003) (emphases added, citation omitted). We agree that the word “action,” without further explanation, may generally be used to denote the entire judicial proceeding, including counterclaims. Thus, in Walter Kidde, where the parties disputed whether the entire proceeding could be dismissed under Rule 41 in light of the existence of those counterclaims, it was clear when the district court granted the motion to dismiss the “action” that the “action” included both the plaintiff’s claims and the defendant’s counterclaims.
+ 
+*1072 But the context in which the word “action” is used cannot be ignored. The district court’s decision, which grants summary judgment of noninfringement of claim 26 and dismisses the remainder of iLOR’s claims with prejudice, clearly disposes of iLOR’s half of the case. But it does not dispose of, or mention, Google’s counterclaims. This is unremarkable, because the counterclaims were not implicated in assessing the propriety of iLOR’s motion for preliminary injunction or Google’s motion for summary judgment of noninfringement. The judgment was entered contemporaneously with and for the purpose of effectuating the district court’s decision. Because the judgment makes no mention of Google’s counterclaims, we interpret “action” in the context of this case to encompass only iLOR’s causes of action. Perhaps the district court thought it was unnecessary to reach Google’s counterclaims due to the decision, or perhaps it was unaware that the counterclaims were pending. That is unclear. What is clear, however, is that neither the decision nor the judgment gives any indication that the district court intended to address or dismiss Google’s counterclaims. Since the district court would have clearly abused its discretion by sua sponte dismissing Google’s counterclaims, see Catz v. Chalker, 142 F.3d 279, 286 (6th Cir.1998) (permitting sua sponte dismissals only where the parties have had ample notice of the court’s intent to dismiss or have had an opportunity to address the issues raised by the dismissal), we decline to interpret the judgment to do so.
+ 
+[5] [6] [7] Alternatively, iLOR argues that even if Google’s counterclaims remain pending, the district court certified the decision for immediate appeal under Rule 54(b), thereby rendering it reviewable. Rule 54(b) provides that “the court may direct entry of a final judgment as to one or more, but fewer than all, claims or parties only if the court expressly determines that there is no just reason for delay.” Whether an order is sufficient to confer appellate jurisdiction under Rule 54(b) is a question of Federal Circuit law. See Storage Tech. Corp. v. Cisco Sys., Inc., 329 F.3d 823, 830 (Fed.Cir.2003). While we have never directly addressed the question, the consensus view, which we hereby adopt, is that the bare recitation of the “no just reason for delay” standard of Rule 54(b) is not sufficient, by itself, to properly certify an issue for immediate appeal. See 10 James Wm. Moore et al., Moore’s Federal Practice § 54.23[2] (3d ed. 2008) (“[T]he rule calls for the exercise of the court’s discretion and if that exercise is to be subject to meaningful appellate review, the court of appeals must be informed of the basis for the court’s certification of the judgment. The district court should not simply declare that there is ‘no just reason for delay,’ but should set forth the justification for that determination.”); see also Corrosioneering, Inc. v. Thyssen Envtl. Sys., Inc., 807 F.2d 1279, 1282 (6th Cir.1986) (“[T]o avoid a finding of abuse of discretion ... a district court should do more than just recite the Rule 54(b) formula of ‘no just reason for delay.’ ”). Rather, it must be apparent, either from the district court’s order or from the record itself, that there is a sound reason to justify departure from the general rule that all issues decided by the district court should be resolved in a single appeal of a final judgment. Cf. Ebrahimi v. City of Huntsville Bd. of Educ., 114 F.3d 162, 166–67 (11th Cir.1997) (“[W]hen a sound basis for the certification is not obvious and the district court merely repeats the language of the Rule or frames its certification in conclusory terms, we have little choice but to dismiss the appeal for lack of a final judgment.”).
+ 
+*1073 [8] The judgment here neither cites Rule 54(b) nor sets forth the circumstances justifying immediate appeal of the decision; it merely states that there is no just cause for delay. Nor can we discern from the record a sensible reason to justify review of the decision now, instead of in connection with the final judgment. For these reasons, we do not have jurisdiction pursuant to Rule 54(b) to review the district court’s decision granting summary judgment and sua sponte dismissing the remainder of iLOR’s claims. Because there is neither a final judgment nor an appealable judgment under Rule 54(b), we limit our review to the district court’s denial of preliminary injunctive relief.1 See 28 U.S.C. § 1292(a)(1).
+ 
+
+2. Preliminary Injunction
+[9] The district court construed the “displayable” limitation to require that the “toolbar is ‘automatically displayed’ upon the placement of the cursor in proximity to a hyperlink with no further action on the part of a user.” Decision at 14. Based on its construction of this limitation, the district court concluded that iLOR could not demonstrate a reasonable likelihood of success on the merits and accordingly denied its motion for preliminary injunction. Id. at 21. iLOR argues that the specification and prosecution history do not support the district court’s construction of the “displayable” limitation. According to iLOR, “displayable” means that “the toolbar can become visible (but doesn’t necessarily in fact become visible) when the cursor is positioned in a certain relationship to the enhanced hyperlink, regardless of whether additional user action ... is necessary to cause the toolbar to actually display,” Appellant’s Br. at 12, and that under this construction of the term it is entitled to a preliminary injunction. Google counters that the claim language, the specification, and the prosecution history all support the district court’s construction, thus rendering noninfringement (and lack of likelihood of success on the merits) undisputed.
+ 
+We agree with the district court that “the toolbar being displayable based on a location of a cursor in relation to a hyperlink” is properly limited to toolbars that are automatically displayed based on the location of the cursor without further user action. The language of the claim itself suggests that the toolbar is automatically displayed, as opposed to requiring some further action on the part of the user. The claim recites, “the toolbar being displayable based on a location of a cursor in relation to a hyperlink.” (emphasis added). While iLOR contends that the emphasized language is merely a necessary, as opposed to a sufficient, condition for display of the toolbar, the claim language does not provide any indication that the display is “based in part” on the cursor position, nor does either the claim language or the specification illustrate any other condition which, along with the cursor position, may cause display of the toolbar. Assuming for the sake of argument, however, that the language of the claim is ambiguous as to whether further user action is contemplated, such ambiguity is eliminated when the *1074 claim language is viewed in light of the specification and prosecution history.
+ 
+The abstract of the ′839 patent, for example, provides that “[w]hen the cursor has remained near the hyperlink for a predetermined time period, a toolbar is displayed containing one or more link enhancements that the user may select.” (emphasis added). Similarly, the specification states that:
+The Enhanced Hyperlink toolbar may be designed to appear when a user “mouses-over” a hyperlink. Alternatively, the toolbar may display with the page or the toolbar may appear when the cursor or pointer is in a predetermined area around the hyperlink. Preferably the toolbar is presented to the user instantly on mouse-over, or after the user keeps the mouse pointer on the hyperlink (or banner ad) for a predetermined time, for example one to three seconds. A short time delay prevents the browser from becoming jumbled with too much information if the user simply desires to click through on any given hyperlink.
+′839 patent, col. 3, l. 60—col. 4, l. 3; see also id., col. 5, ll. 35–41 (“[T]he user selects a hyperlink in block 102 by moving a cursor either ‘over’ or near a hyperlink that the user wishes to select. When the cursor is ‘over’ or near a hyperlink, the program displays a toolbar which illustrates the link enhancements available for that particular hyperlink in block 104.”); id., col. 7, ll. 37–42 (similar); id., col. 8, ll. 10–20 (similar). The specification does not disclose any embodiment in which the user must further act in order to display the toolbar, such as by right-clicking. iLOR disagrees, pointing to the excerpts above and contending that by requiring the cursor to remain proximate to the hyperlink for a predetermined time, the embodiment contemplates “further user action.” We disagree. At best, the specification demonstrates that user inaction upon placing the cursor near the hyperlink may cause the toolbar to display. There is nothing in the specification, however, that indicates that some further action, such as right-clicking, is required to display the toolbar.
+ 
+The prosecution history of the ′839 patent confirms that iLOR contemplated display of the toolbar without further user action. During prosecution of the ′839 patent’s parent application, iLOR distinguished a prior art reference (“Newfield” or “the Newfield reference”) on the basis that it required further user action for display, not merely locating the cursor proximate to the hyperlink:
+Newfield does not teach detecting a cursor in proximity to a hyperlink. Instead, Newfield teaches that a user must click on or select a hyperlink to access the breadth-first search system of Newfield. In contrast, the present invention detects a cursor in proximity to the hyperlink. Therefore Newfield does not teach detecting a cursor in proximity to a hyperlink.
+J.A. at 641 (emphasis in original, citation omitted). iLOR contends that these arguments are inapplicable to claim 26 because it describes different aspects of the invention than the claims at issue during prosecution of the parent application.
+ 
+We disagree that these representations are inapplicable to claim 26. The arguments made above were made to distinguish claims that contained, inter alia, limitations relating to “detecting a cursor in proximity to said hyperlink” and “displaying a graphical toolbar in proximity to said cursor while said cursor is in proximity to said hyperlink.” Id. at 634, 640. Notably, these limitations are present in independent claims 1 and 9 of the ′ 839 patent, and iLOR appears to concede that the arguments made during prosecution of the parent application are applicable to these *1075 claims. See Appellant’s Br. at 49 & n. 24. When iLOR added claim 26 during prosecution, it argued that the claim was “similar to” and “allowable for at least the same reasons” as the pending claims, including claims 1 and 9. iLOR’s representation that this newly added claim was similar to the pending claims, and its contemporaneous failure to put the examiner on notice that it was attempting to capture previously surrendered subject matter, renders the representations it made with respect to the Newfield reference applicable to claim 26. See Hakim v. Cannon Avent Group, PLC, 479 F.3d 1313, 1317–18 (Fed.Cir.2007). These representations confirm that the claims, including claim 26, contemplate display of the toolbar without further user action.
+ 
+The parties do not dispute the denial of preliminary injunctive relief if the district court’s construction of the “displayable” limitation is sustained. Thus, we affirm the district court’s denial of injunctive relief.2
+ 
+
+III. CONCLUSION
+For the foregoing reasons, we affirm the district court’s denial of preliminary injunctive relief and dismiss the remaining issues raised in this appeal, which relate to matters that remain before the district court.3
+ 
+AFFIRMED–IN–PART and DISMISSED–IN–PART
+ 
+
+COSTS
+No costs.
+ 
+All Citations
+550 F.3d 1067, 89 U.S.P.Q.2d 1097
+Footnotes
+
+1
+
+We recognize that under limited circumstances in conjunction with the consideration of the denial of a request for preliminary injunctive relief, we may exercise discretion, under the doctrine of appellate pendent jurisdiction, to review other interlocutory orders, which ordinarily would be nonappealable standing alone. See Intermedics Infusaid, Inc. v. Regents of the Univ. of Minn., 804 F.2d 129, 134 (Fed.Cir.1986); see also Procter & Gamble Co. v. Kraft Foods Global, Inc., No.2008–1105, 549 F.3d 842, 849, slip. op. at 6, 2008 WL 5101824 (Fed.Cir. Dec. 5, 2008). The parties in this case have not requested us to exercise such discretion, and we decline to do so sua sponte.
+
+2
+
+While we do not address the district court’s grant of summary judgment of noninfringement, we note that the claim construction we affirm herein was the basis for that decision, there being no dispute over infringement of claim 26 under that claim construction.
+
+3
+
+Because we exercise jurisdiction only over the matters discussed above, we do not address the district court’s sua sponte dismissal of iLOR’s remaining claims in this appeal. Nevertheless, we suggest that the district court may wish to reconsider that determination in light of the Sixth Circuit’s prohibition against sua sponte dismissals except in limited circumstances. See Catz, 142 F.3d at 286.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (2)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  Crown Packaging Technology, Inc. v. Rexam Beverage Can Co. 
+559 F.3d 1308 , Fed.Cir.(Del.)
+PATENTS - Industrial Equipment. Marking requirement did not apply when only method claims were asserted in patent infringement action.
+Mar. 17, 2009
+Case
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+2.  Otsuka Pharmaceutical Co., Ltd. v. Zydus Pharmaceuticals USA, Inc. 
+314 F.R.D. 372 , D.N.J.
+PATENTS - Judgment. Certification of stipulated judgments of noninfringement of compound and method of use patents covering aripiprazole product as final judgments was warranted.
+Apr. 12, 2016
+Case
+
+5
+
+
+
+
+6
+
+
+
+
+7
+
+
+
+
+F.3d
+
+

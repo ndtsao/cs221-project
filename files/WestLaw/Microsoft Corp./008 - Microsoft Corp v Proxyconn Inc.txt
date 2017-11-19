@@ -1,0 +1,633 @@
+
+
+
+
+
+Microsoft Corp. v. Proxyconn, Inc.
+United States Court of Appeals, Federal Circuit. | June 16, 2015 | 789 F.3d 1292 | 2015 WL 3747257
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Red Flag - Severe Negative Treatment
+ Overruled by Aqua Products, Inc. v. Matal, Fed.Cir., October 4, 2017
+
+standard Citation:
+
+Microsoft Corp. v. Proxyconn, Inc., 789 F.3d 1292 (Fed. Cir. 2015)
+
+All Citations:
+
+789 F.3d 1292, 115 U.S.P.Q.2d 1198
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Red Flag - Severe Negative Treatment
+ 	Overruled by Aqua Products, Inc. v. Matal, Fed.Cir., October 4, 2017
+789 F.3d 1292
+United States Court of Appeals,
+Federal Circuit.
+MICROSOFT CORPORATION, Appellant
+v.
+PROXYCONN, INC., Cross–Appellant
+v.
+Michelle K. Lee, Director, U.S. Patent and Trademark Office, Intervenor.
+Nos. 2014–1542, 2014–1543.
+|
+June 16, 2015.
+Synopsis
+Background: The Patent and Trademark Office, Patent Trial and Appeal Board, concluded in inter partes review, 2012 WL 10703131, 2013 WL 8563776, 2013 WL 6327750, and 2014 WL 721998, of patent relating to system for increasing speed of data access in packet-switched network that all challenged claims except one were unpatentable as anticipated or obvious. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Prost, Chief Judge, held that:
+ 
+[1] Patent and Trademark Office permissibly adopted “broadest reasonable interpretation” standard for use in inter partes review proceedings;
+ 
+[2] phrase, “two other computers,” was limited to sender-receiver and computer-receiver;
+ 
+[3] terms, “sender/computer” and “receiver/computer,” were not broad enough to include intermediary gateway and caching computers;
+ 
+[4] phrase, “searching for data with the same digital digest in said network cache memory,” meant identifying, from among a set of data objects, data object with matching digital digest;
+ 
+[5] prior art protocol anticipated claim in patent; and
+ 
+[6] Board permissibly denied patentee’s motion to amend.
+ 
+Affirmed in part, reversed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (19)
+
+
+[1]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+As a general matter, the Court of Appeals reviews the conclusions of law by the Patent Trial and Appeal Board de novo and its findings of fact for substantial evidence.
+6 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+Court of Appeals reviews the ultimate patent claim constructions by the Patent Trial and Appeal Board de novo and its underlying factual determinations involving extrinsic evidence for substantial evidence.
+24 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsInter partes review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1262Inter partes review
+
+
+De novo review applied to patent claim constructions made by Patent Trial and Appeal Board in inter partes review of patent relating to system for increasing speed of data access in packet-switched network, since intrinsic record fully determined proper construction; court did not need to consider Board’s findings on extrinsic evidence to extent that Board considered such evidence when construing the claims because intrinsic record was clear.
+23 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsInter partes review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1262Inter partes review
+
+
+Patent and Trademark Office permissibly adopted “broadest reasonable interpretation” standard for use in inter partes review proceedings. 37 C.F.R. § 42.100(b).
+6 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+
+
+Patent claims always should be read in light of the specification and teachings in the underlying patent.
+3 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsRejection and Amendment of Claims;  Prosecution History
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+
+
+Patent and Trademark Office should consult the patent’s prosecution history in proceedings in which the patent has been brought back to the agency for a second review.
+2 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsClaims and Limitations;  Language of Patent
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1315In general
+
+
+Even under the broadest reasonable interpretation, the construction of patent claims by the Patent Trial and Appeal Board cannot be divorced from the specification and the record evidence, and it must be consistent with the one that those skilled in the art would reach; a construction that is unreasonably broad and that does not reasonably reflect the plain language and disclosure will not pass muster. 37 C.F.R. § 42.100(b).
+13 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+
+
+Phrase “two other computers,” in patent relating to system for increasing speed of data access in packet-switched network, was limited to sender-receiver and computer-receiver.
+Cases that cite this headnote
+
+
+
+[9]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+
+
+Terms “sender/computer” and “receiver/computer,” in patent relating to system for increasing speed of data access in packet-switched network, were not broad enough to include intermediary gateway and caching computers, since, among other things, language of specification consistently referred to sender/computer, receiver/computer, gateway, and caching computers as separate and independent components of overall system, figures of patent separately identified and numbered each component of system, and patent did not indicate that gateway and caching computer were same as, or could be subsumed within, sender/computer and receiver/computer.
+Cases that cite this headnote
+
+
+
+[10]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+
+
+Phrase “searching for data with the same digital digest in said network cache memory,” in patent relating to system for increasing speed of data access in packet-switched network, meant identifying, from among a set of data objects, data object with matching digital digest; searching step required ability to identify particular data object with same digital digest from set of potentially many data objects stored in network cache memory.
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsData processing
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)2Particular Fields of Invention
+291k531Computers and Software
+291k533Data processing
+
+
+Download requests that client in prior art protocol for efficient replication of data over the internet sent to server after receiving index from server and comparing it to local index met “receiving a response signal” limitation of claim in patent relating to system for increasing speed of data access in packet-switched network, and thus prior art protocol anticipated claim in patent; prior art client either sent GET request when content identifiers were not up to date, differential GET request when some, but not all, of content identifiers were up to date, or no request when all content identifiers were up to date which corresponded to “response signal containing a positive, partial, or negative indication signal” recited in claim. 35 U.S.C.A. § 102.
+Cases that cite this headnote
+
+
+
+[12]
+
+PatentsInter partes review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1262Inter partes review
+
+
+Patent Trial and Appeal Board permissibly denied patentee’s motion during inter partes review (IPR) to amend claims for failure to establish patentability over prior art reference that Board did not rely on when instituting review of those particular claims, where patentee had been given adequate notice and opportunity to present arguments distinguishing that reference during IPR. 35 U.S.C.A. § 316(a)(9); 37 C.F.R. §§ 42.20(c), 42.121(a)(2).
+6 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+Court of Appeals sets aside actions of the Patent Trial and Appeal Board that are arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law, and sets aside factual findings that are unsupported by substantial evidence. 5 U.S.C.A. § 706.
+5 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+Court of Appeals accepts the interpretation of Patent and Trademark Office regulations unless that interpretation is plainly erroneous or inconsistent with the regulation.
+2 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsInter partes review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1262Inter partes review
+
+
+The general regulation setting forth the patentee’s burden to establish that it is entitled to its requested relief and the more specific regulation setting forth particular requirements regarding the amendment process are applicable to motions to amend filed during inter partes review. 37 C.F.R. §§ 42.20(c), 42.121(a)(2).
+Cases that cite this headnote
+
+
+
+[16]
+
+Administrative Law and ProcedureDuty to make
+
+
+15AAdministrative Law and Procedure
+15AIVPowers and Proceedings of Administrative Agencies, Officers and Agents
+15AIV(C)Rules, Regulations, and Other Policymaking
+15Ak389Duty to make
+
+
+The choice between rulemaking and adjudication lies in the first instance within the agency’s discretion.
+Cases that cite this headnote
+
+
+
+[17]
+
+PatentsInter partes review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1262Inter partes review
+
+
+Patent Trial and Appeal Board could reject substitute claim during inter partes review on basis of prior art that was of record, but was not cited against original claim in institution decision, as long as patentee was not taken by surprise by Board’s reliance on entirely new reference and was given adequate notice and opportunity to present arguments distinguishing that reference. 37 C.F.R. §§ 42.20(c), 42.121(a)(2).
+1 Cases that cite this headnote
+
+
+
+[18]
+
+PatentsInter partes review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1262Inter partes review
+
+
+Requiring the patentee to establish that its substitute claims are patentable over the prior art of record does not run afoul of the regulation that sets forth particular requirements regarding the amendment process during inter partes review. 37 C.F.R. § 42.121(a)(2)(i).
+6 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,757,717. Construed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1295 John D. Vandenberg, Klarquist Sparkman, LLP, Portland, OR, argued for appellant. Also represented by Stephen J. Joncus, Carla Todenhagen.
+Bryan K. Wheelock, Harness, Dickey & Pierce, PLC, St. Louis, MO, argued for cross-appellant. Also represented by Matthew L. Cutler.
+Nathan K. Kelly, United States Patent and Trademark Office, Office of the Solicitor, Alexandria, VA, for intervenor. Also represented by Robert J. McManus, Scott Weidenfeller.
+Before PROST, Chief Judge, LOURIE, Circuit Judge, and GILSTRAP, District Judge.*
+Opinion
+PROST, Chief Judge.
+
+This appeal arises from the inter partes review (“IPR”) of U.S. Patent No. 6,757,717 (“′717 patent”) owned by Proxyconn, Inc. (“Proxyconn”). The United States Patent and Trademark Office, Patent Trial and Appeal Board (“Board”) concluded that all of the challenged claims except claim 24 were unpatentable as anticipated under 35 U.S.C. § 102 alone or additionally as obvious under 35 U.S.C. § 103. See Microsoft Corp. v. Proxyconn, Inc., IPR2012–00026 and IPR2013–00109, Paper No. 73 (PTAB Feb. 19, 2014) (“Board Decision ”). Microsoft Corporation (“Microsoft”) appeals the Board’s determination that claim 24 is patentable. Proxyconn cross-appeals, challenging the Board’s use of the broadest reasonable interpretation standard of claim construction during IPRs, its unpatentability determinations, and its denial of Proxyconn’s motion to amend. Then–Deputy Director, now Director, of the United States Patent and Trademark Office (“Director”) intervened for the limited purpose of addressing the Board’s use of the broadest reasonable interpretation standard and its denial of Proxyconn’s motion to amend. For the reasons stated below, we affirm-in-part, reverse-in-part, and vacate-in-part and remand for proceedings consistent with this opinion.
+ 
+
+BACKGROUND
+The ′717 patent relates to a system for increasing the speed of data access in a packet-switched network. ′717 patent col. 1 ll. 12–15. The invention makes use of “digital digests” that act as short digital fingerprints for the content of their corresponding documents. Id. at col. 2 ll. 9–13. By communicating the smaller digital digests in place of the documents themselves, the invention reduces the redundant transmission of data throughout the network. Id. at col. 2 ll. 17–25.
+ 
+The ′717 patent discloses several embodiments. The most basic embodiment is depicted in Figure 4, shown below.
+ 
+
+​
+*1296 In this embodiment, the receiver/computer (46) sends a request for data to the sender/computer (42). The sender/computer calculates a digital digest on the data stored in its memory and transmits the digest to the receiver/computer. The receiver/computer then searches its own memory for data with the same digest. If it finds such data, it uses that data as if it were received from the sender/computer and issues a positive indication signal to the sender/computer, completing the transaction. If the receiver/computer does not find such data, it sends a negative indication to the sender/computer, prompting the sender/computer to transmit the actual data to the receiver/computer. Id. at col. 7 ll. 18–36, 51–67.
+In another embodiment, depicted in Figure 11 shown below, the network additionally interposes intermediaries, such as a gateway computer and a caching computer, between the sender/computer and receiver/computer.
+ 
+
+​
+In this embodiment, the gateway (60) intercepts a digital digest sent from the sender/computer (42) to the receiver/computer (46), saves it in its memory, and passes it unchanged to the receiver/computer. If the gateway then intercepts a negative signal from the receiver/computer, the caching computer (62) searches for data with the same digital digest in its network cache memory. If that digest is found, the gateway sends the data to the *1297 receiver/computer, changes the indication signal to positive, and then passes the indication signal on to the sender/computer. Id. at col. 8 l. 57–col. 9 l. 24.
+The ′717 patent concludes with 34 claims directed to systems and methods for increasing data access in a packet-switched network.
+ 
+Microsoft filed two separate IPR petitions on the ′717 patent, each challenging different claims. The Board joined the two proceedings and granted review of certain of Microsoft’s challenges to the patentability of claims 1, 3, 6, 7, 9–12, 14, and 22–24. During the proceedings, Proxyconn filed a motion to amend, seeking to substitute (among others) new claims 35 and 36 for claims 1 and 3, respectively. In its final written decision, the Board determined that claims 1, 3, 6, 7, 9–12, 14, 22, and 23 were unpatentable under § 102, that claims 1, 3, and 10 were additionally unpatentable under § 103, but that claim 24 had not been shown to be unpatentable. The Board also denied Proxyconn’s motion to amend, concluding, inter alia, that Proxyconn did not meet its burden of establishing that it was entitled to the amended claims, and rejecting Proxyconn’s argument that it did not need to establish patentability over a reference that was not part of the original bases of unpatentability for which review of claims 1 and 3 was instituted.
+ 
+Both parties appealed from the Board’s decision, and the Director intervened. We have jurisdiction under 28 U.S.C. § 1295(a)(4)(A).
+ 
+
+DISCUSSION
+[1] [2] As a general matter, we review the Board’s conclusions of law de novo and its findings of fact for substantial evidence. See In re Gartside, 203 F.3d 1305, 1316 (Fed.Cir.2000). In Teva Pharmaceuticals U.S.A., Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, ––– L.Ed.2d –––– (2015), the Supreme Court clarified the standards of review for claim construction. Pursuant to Teva’s framework and our review of Board determinations, we review the Board’s ultimate claim constructions de novo and its underlying factual determinations involving extrinsic evidence for substantial evidence. See Teva, 135 S.Ct. at 841–42.
+ 
+[3] In this case, because the intrinsic record fully determines the proper construction, we review the Board’s claim constructions de novo. Teva, 135 S.Ct. at 840–42. To the extent the Board considered extrinsic evidence when construing the claims, we need not consider the Board’s findings on that evidence because the intrinsic record is clear. See Phillips v. AWH Corp., 415 F.3d 1303, 1318 (Fed.Cir.2005) (en banc).
+ 
+
+I
+[4] Proxyconn’s threshold challenge to the Board’s actions is that the broadest reasonable interpretation standard of claim construction should not apply during IPRs. Proxyconn argues that the U.S. Patent and Trademark Office (“PTO”) exceeded its authority in promulgating 37 C.F.R. § 42.100(b), and that the broadest reasonable interpretation is inappropriate during IPRs in light of the patentee’s limited ability to amend its claims.
+ 
+Proxyconn’s argument is foreclosed by our decision in In re Cuozzo Speed Techs., LLC, 778 F.3d 1271 (Fed.Cir.2015), rendered after the briefing in this case began. In Cuozzo, this court held that the broadest reasonable interpretation standard in IPRs “was properly adopted by PTO regulation.” Id. at 1282. Because we are bound by the decision in Cuozzo, we must therefore reject Proxyconn’s argument that the Board legally erred in using the broadest reasonable interpretation standard during IPRs.
+ 
+*1298 [5] [6] [7] That is not to say, however, that the Board may construe claims during IPR so broadly that its constructions are unreasonable under general claim construction principles. As we have explained in other contexts, “[t]he protocol of giving claims their broadest reasonable interpretation ... does not include giving claims a legally incorrect interpretation.” In re Skvorecz, 580 F.3d 1262, 1267 (Fed.Cir.2009); see also In re Suitco Surface, Inc., 603 F.3d 1255, 1260 (Fed.Cir.2010) (“The broadest-construction rubric coupled with the term ‘comprising’ does not give the PTO an unfettered license to interpret claims to embrace anything remotely related to the claimed invention.”). Rather, “claims should always be read in light of the specification and teachings in the underlying patent.” Suitco, 603 F.3d at 1260. The PTO should also consult the patent’s prosecution history in proceedings in which the patent has been brought back to the agency for a second review. See Tempo Lighting Inc. v. Tivoli LLC, 742 F.3d 973, 978 (Fed.Cir.2014). Even under the broadest reasonable interpretation, the Board’s construction “cannot be divorced from the specification and the record evidence,” In re NTP, Inc., 654 F.3d 1279, 1288 (Fed.Cir.2011), and “must be consistent with the one that those skilled in the art would reach,” In re Cortright, 165 F.3d 1353, 1358 (Fed.Cir.1999). A construction that is “unreasonably broad” and which does not “reasonably reflect the plain language and disclosure” will not pass muster. Suitco, 603 F.3d at 1260.
+ 
+With these principles in mind, we now turn to the three claim constructions challenged by the parties in this appeal.
+ 
+
+II
+A
+[8] Proxyconn challenges the Board’s construction of the phrase “gateway ... connected to said packet-switched network in such a way that network packets sent between at least two other computers” recited in claim 6, and incorporated into dependent claims 7 and 9. Representative claim 6 reads:
+6. A system for data access in a packet-switched network, comprising:
+a gateway including an operating unit, a memory and a processor connected to said packet-switched network in such a way that network packets sent between at least two other computers pass through it;
+a caching computer connected to said gateway through a fast local network, wherein said caching computer includes an operating unit, a first memory, a permanent storage memory and a processor;
+said caching computer further including a network cache memory in its permanent storage memory, means for a digital digest and means for comparison between a digital digest on data in its network cache memory and a digital digest received from said packet-switched network through said gateway.
+′717 patent col. 10 l. 64–col. 11 l. 12 (emphases added).
+ 
+Before the Board, Proxyconn contended that the term “two other computers” referred only to the sender/computer and the receiver/computer. Microsoft contended that there was no limitation on the phrase “two other computers,” and that those two other computers could be any two computers connected on the network to the gateway, including the caching computer. The Board agreed with Microsoft, concluding that the “two other computers” were not limited just to the sender/computer and the receiver/computer. The Board then concluded that claims 6, 7, and 9 were anticipated by the “DRP” reference.
+ 
+*1299 The Board erred in concluding that the “two other computers” could include the caching computer. Beginning with the language of the claims, claim 6 recites a system comprising a gateway, a caching computer, and “two other computers.” ′717 patent col. 10 l. 54–col. 11 l. 12. Not only are the “two other computers” recited independently from, and in addition to, the gateway and caching computers, the word “other” denotes a further level of distinction between those two computers and the specific gateway and caching computers recited separately in the claim.
+ 
+The specification confirms that the phrase “two other computers” is limited to the sender/receiver and computer/receiver. Other than in claim 6 itself, the phrase “two other computers” is used three times in the specification, each time as part of the embodiment containing the gateway and caching computer intermediaries. Id. at col. 2 ll. 43–57, col. 3 ll. 12–26, col. 8 l. 57–col. 9 l. 9. And in each instance where it is used, the phrase “two other computers” describes components that are separate and distinct from the gateway and the caching computer. Id.
+ 
+For example, the specification states: “Gateway 60 is connected to a wide-area packet-switched network in such a way that network packets sent between at least two other computers 42 and 46 pass through the gateway 60. The caching computer 62 uses a part of its permanent storage memory for network cache memory 66.” Id. at col. 8 l. 64–col. 9 l. 1 (emphases added). As shown in referenced Figure 11, the “two other computers 42 and 46” in this passage are the sender/computer and receiver/computer, respectively. Read together with labeled Figure 11, this portion of the specification makes clear that the gateway, the caching computer, and the “two other computers” are each separate and distinct components of the overall system. The Board’s construction, which expands the “two other computers 42 and 46” to include the separately identified caching computer, is unreasonably broad in light of the language of the claims and specification.
+ 
+Because the Board’s determination that claims 6, 7, and 9 were unpatentable was based on an unreasonably broad construction of the term “gateway ... between at least two other computers,” we vacate the Board’s findings of unpatentability of claims 6, 7, and 9 and remand for proceedings consistent with this opinion.
+ 
+
+B
+[9] Along similar lines, Proxyconn also challenges the Board’s construction of the terms “sender/computer” and “receiver/computer” in independent claims 1, 10, and 22, and incorporated into dependent claims 3 and 23. Representative claim 1 reads:
+1. A system for data access in a packet-switched network, comprising:
+a sender/computer including an operating unit, a first memory, a permanent storage memory and a processor and a remote receiver/computer including an operating unit, a first memory, a permanent storage memory and a processor, said sender/computer and said receiver/computer communicating through said network;
+said sender/computer further including means for creating digital digests on data;
+said receiver/computer further including a network cache memory and means for creating digital digests on data in said network cache memory; and
+said receiver/computer including means for comparison between digital digests.
+′717 patent col. 10 ll. 31–45 (emphases added).
+ 
+*1300 The Board construed “sender/computer” to mean a computer that sends data and “receiver/computer” to mean a computer that receives data, and further determined that both terms were broad enough to encompass intermediaries. The Board then concluded that claims 1, 3, 10, 22, and 23 were anticipated by the “Santos” reference and that claims 1, 3, and 10 were additionally rendered obvious by the “Yohe” and “Perlman” references. Proxyconn argues on appeal, as it did before the Board, that the terms “sender/computer” and “receiver/computer” should be limited to just those two computers; they should not be construed as encompassing the separate intermediary gateway and caching computers. Microsoft disagrees, arguing that the ′717 patent does not limit either term to a single machine or a single function.
+ 
+The Board erred in concluding that the terms “sender/computer” and “receiver/computer” were broad enough to include the intermediary gateway and caching computers for similar reasons as explained above. The language of the specification consistently refers to the sender/computer, receiver/computer, gateway, and caching computers as separate and independent components of an overall system. The figures of the ′717 patent separately identify and number each component of the system. And nowhere does the ′717 patent indicate that the gateway and caching computer are the same as, or can be subsumed within, the sender/computer and receiver/computer.
+ 
+It is true, as Microsoft and the Board point out, that Figure 4 describes a system wherein the receiver/computer can perform its own caching, calculating, and comparing functions. See ′717 patent col. 7 ll. 27–37. But the mere fact that the receiver/computer can perform those functions in the invention’s most basic embodiment does not mean that the claim term “receiver/computer” is the same as, or is broad enough to include, the separately identified “gateway” and “caching computer” that are associated only with the invention’s more complicated Figure 11 embodiment. To the contrary, each time the terms “gateway” and “caching computer” are used in the ′717 patent, they are differentiated from the “sender/computer” and “receiver/computer.”
+ 
+The Board’s reliance on the specification’s statement that the gateway may be “integrally formed with the caching computer,” id. at col. 9 ll. 6–8, is misplaced. The cited sentence merely explains that the gateway and the caching computer can be integrated together; it says nothing about integration of those intermediaries with the sender/computer and receiver/computer. Nor was the Board correct in basing its constructions on an observation that the described computers may or may not be located in separate housings. The patent does not use the word housing at all, much less give any indication that the proper construction of “sender/computer” and “receiver/computer” depends on the physical location of the claimed computers. Stated simply, the Board’s construction of “sender/computer” and “receiver/computer” to include the intermediary gateway and caching computers does not reasonably reflect the language and disclosure of the ′717 patent.
+ 
+Because the Board’s determination that claims 1, 3, 10, 22, and 23 were unpatentable was based on an unreasonably broad construction of the terms “sender/computer” and “receiver/computer,” we vacate the Board’s findings of unpatentability of claims 1, 3, 10, 22, and 23 and remand for proceedings consistent with this opinion.
+ 
+
+C
+[10] For its part, Microsoft challenges the Board’s construction of the phrase *1301 “searching for data with the same digital digest in said network cache memory” in independent claim 22, and incorporated in dependent claim 24. Claim 22 reads:
+22. A method for increased data access performed by a receiver/computer in a packet-switched network, said receiver/computer including an operating unit, a first memory, a permanent storage memory, a processor and a network cache memory, said method comprising the steps of:
+receiving a message containing a digital digest from said network;
+searching for data with the same digital digest in said network cache memory,
+if data having the same digital digest as the digital digest received is not uncovered, forming a negative indication signal and transmitting it back through said network; and
+creating a digital digest for data received from said network cache memory.
+′717 patent col. 12 ll. 30–45 (emphasis added). Claim 24 adds an additional requirement that is not at issue in this appeal.
+ 
+Before the Board, Microsoft contended that the ′717 patent equates “search” with “check for,” and that the searching step of claim 22 means comparing only two individual digest values against one another to determine whether they match. Proxyconn contended that the searching step instead means identifying, from among a set of data objects, a data object with the matching digital digest. The Board agreed with Proxyconn, concluding that the searching step required the ability to identify a particular data object with the same digital digest from a set of potentially many data objects stored in the network cache memory. The Board then concluded that claim 24, which depends from claim 22, was not rendered invalid by the Yohe and/or Perlman references.
+ 
+The Board correctly construed the phrase “searching for data with the same digital digest in said network cache memory.” Although the word “searching” is not defined in the ′717 patent, it is used several times throughout the specification. For example, the ′717 patent states that the receiver/computer “searches its network cache memory 48 for data with the same digest.” ′717 patent col. 7 ll. 56–57. This sentence makes clear that the action of “searching” is performed on the entire network cache memory, not just on a single data object. The patent further explains that the action of “searching” can be performed on multiple, different memory storages: the “receiver/computer 46 may search not only in its network cache memory 48, but also in predefined locations in its permanent storage memory.” Id. at col. 8 ll. 50–53. Not only does the specification use the term “searching” to mean checking amongst a set of data objects, it also uses the term “searching” in a way that is distinct from the term “comparing,” the latter of which is used to describe the action of checking one digital digest against another: “The receiver/computer also has comparison means 54 for comparing between such a calculated digital digest and a digital digest received from the network.” Id. at col. 7 ll. 34–37. Microsoft’s proposed construction, which would essentially equate “searching” with “comparing,” would render the additional “comparing” language in the specification meaningless.
+ 
+On appeal, Microsoft argues that Figure 5, which uses the term “check for,” supports its construction. Even if Microsoft is correct that Figure 5’s “check for” language corresponds to the “searching” step, Microsoft has not explained why “check for” means something other than looking among a set of data objects. Indeed, other figures in the patent use the words “search for” and “look for” to describe the searching step. See Figs. 8, 12, 15. Microsoft’s *1302 reliance on Figure 5 is therefore misplaced.
+ 
+Microsoft additionally argues that the Board’s construction is wrong because it would not make sense for the receiver/computer to compare a digest for a target data object (e.g., a legal brief) to digests of data objects unrelated to that target data object (e.g., a lunch menu). According to Microsoft, “the patent’s algorithm requires only a single digest-to-digest comparison operation.” Appellant’s Br. 9, ECF No. 19. But this argument suffers from the same flaw described above: “comparing” is not the same as “searching.” Microsoft acknowledges this point in its brief, stating: “the ‘search’ for a matching data object ends with a comparison between a single pair of digests.’ ” Id. at 10. While it may true that the searching process ends with the comparison between the two target data objects, neither the claims nor specification limit the “searching” step to that final comparison. Based on the clear language of the specification, the Board was correct in concluding that the broadest reasonable interpretation of “searching for data with the same digital digest in said network cache memory” includes searching in a set of potentially many data objects.1
+ 
+On appeal, Microsoft’s only argument for reversing the Board’s determination on claim 24 is that the Board’s construction of claim 22’s “searching” limitation was wrong. Because we agree with the Board’s construction, and because Microsoft does not alternatively argue that claim 24 is unpatentable even under the correct construction, we affirm the Board’s determination that claim 24 is patentable.
+ 
+
+III
+[11] Having vacated and remanded the Board’s patentability determinations with respect to claims 1, 3, 6, 7, 9–10, 22, and 23, and affirmed the Board’s patentability determination with respect to claim 24, the only patentability determinations left for us to address are those relating to claims 11, 12, and 14.
+ 
+The Board concluded that claims 11, 12, and 14 were anticipated by the DRP reference. DRP describes a protocol for the efficient replication of data over the internet. DRP explains that the inefficiency of downloading the same data more than once can be avoided through the use of “content identifiers” uniquely associated with individual pieces of data. The content identifiers are compiled into an index, which serves as a snapshot of the state of a set of files at any given time, and which is retrieved by a client using a normal “GET” request. After a client’s initial data download, a client can update content by downloading a new version of the index and comparing it against the previous versions of the index. Because each file entry in the index has a content identifier, the client can determine which files have changed and thus need to be downloaded in order to bring the client up to date.
+ 
+On appeal, Proxyconn argues that DRP does not disclose “receiving a response signal” recited in independent claim 11, and incorporated into dependent claims 12 and 14. Representative claim 11 reads:
+11. A method performed by a sender/computer in a packet-switched network for increasing data access, said sender/computer including an operating unit, a first memory, a permanent storage memory and a processor and said sender/computer being operative to transmit data to a receiver/computer, the method comprising the steps of:
+*1303 creating and transmitting a digital digest of said data from said sender/computer to said receiver/computer;
+receiving a response signal from said receiver/computer at said sender/computer, said response signal containing a positive, partial or negative indication signal for said digital digest, and
+if a negative indication signal is received, transmitting said data from said sender/computer to said receiver/computer.
+′717 patent col. 11 ll. 34–48 (emphasis added).
+ 
+In particular, Proxyconn argues that because the DRP protocol is client-driven (e.g., because DRP’s client determines which files it needs to download to bring itself up to date), there is no disclosure that DRP’s server “understands whether the files downloaded by the client are related to an index previously downloaded by the client, or not.” Cross–Appellant’s Br. 55, ECF No. 22. According to Proxyconn, “the file download by the client is not linked to a prior index download, and therefore CANNOT be considered a ‘response’ ” as required by claim 11. Id.
+ 
+Proxyconn’s argument fails for the simple reason that nothing in claim 11 requires that the sender/computer “understand” whether a request from the receiver/computer is correlated with a previous transmission. As Microsoft points out, once the receiver/computer in the ′717 patent is unable to find a matching digital digest and sends a negative indication to the sender/computer, “all that’s needed from the server is to transmit the desired file, whether or not it ‘understands’ what led the receiver to send that negative indication.” Appellant’s Resp. and Reply Br. 22, ECF No. 28.
+ 
+We agree with the Board that the download requests that DRP’s client sends to the server after receiving the index from the server and comparing it to the local index meets the “receiving a response signal” limitation of claim 11. As the Board explained, the DRP client either sends a GET request (when none of the content identifiers are up to date), a differential GET request (when some, but not all, of the content identifiers are up to date), or no request (when all content identifiers are up to date). These three types of requests correspond to the “response signal containing a positive, partial, or negative indication signal” recited in claim 11. For these reasons, we conclude that the Board did not err in concluding that DRP anticipates claims 11, 12, and 14 of the ′717 patent.
+ 
+
+IV
+Finally, Proxyconn challenges the Board’s denial of its motion to amend claims 1 and 3.2 Before reaching the merits of Proxyconn’s arguments, we first discuss the legal framework governing amendments during IPRs.
+ 
+
+A
+Through enactment of the America Invents Act (“ALA”), Congress created the new IPR proceeding for the purpose of “providing quick and cost effective alternatives to litigation.” H.R.Rep. No. 112–98, pt. 1, at 48 (2011), 2011 U.S.C.C.A.N. 67, 78. The AIA conveys certain authority to the PTO to “prescribe regulations” “governing inter partes review” and to “set[ ] forth standards and procedures for allowing the patent owner to move to amend the patent.” 35 U.S.C. § 316(a)(4), (a)(9). With respect to amendments in particular, *1304 the statute provides that “the patent owner may file 1 motion to amend the patent” and that such amendment “may not enlarge the scope of the claims of the patent or introduce new matter.” Id. § 316(d)(1), (d)(3). The statute also provides that the Director shall, upon final determination, “incorporate[ ] in the patent ... any new or amended claim determined to be patentable.” Id. § 318(b).
+ 
+Relying on the authority granted by the AIA, the PTO has promulgated two regulations that are relevant to this appeal. First is 37 C.F.R. § 42.20, which applies generally to motions practice. Section 42.20 requires that any “[r]elief, other than a petition requesting the institution of a trial, must be requested in the form of a motion” and that “[t]he moving party has the burden of proof to establish that it is entitled to the requested relief.” § 42.20(a), (c). Second is 37 C.F.R. § 42.121, which imposes specific requirements on the amendment process. Section 42.121(a)(2) provides that: “A motion to amend may be denied where: (i) The amendment does not respond to a ground of unpatentability involved in the trial; or (ii) The amendment seeks to enlarge the scope of the claims of the patent or introduce new subject matter.”
+ 
+In addition to these two regulations, a six-member panel of the Board has also issued a decision called Idle Free Systems, Inc. v. Bergstrom, Inc., IPR2012–00027, 2013 WL 5947697 (PTAB June 11, 2013). In Idle Free, the panel stated that it was providing “a general discussion of several important requirements for a patent owner’s motion to amend claims.” Id. at *1. Relying on § 42.20(c), the Idle Free decision requires that, in motions to amend during IPRs:
+A patent owner should identify specifically the feature or features added to each substitute claim, as compared to the challenged claim it replaces, and come forward with technical facts and reasoning about those feature(s), including construction of new claim terms, sufficient to persuade the Board that the proposed substitute claim is patentable over the prior art of record, and over prior art not of record but known to the patent owner. The burden is not on the petitioner to show unpatentability, but on the patent owner to show patentable distinction over the prior art of record and also prior art known to the patent owner. Some representation should be made about the specific technical disclosure of the closest prior art known to the patent owner, and not just a conclusory remark that no prior art known to the patent owner renders obvious the proposed substitute claims.
+A showing of patentable distinction can rely on declaration testimony of a technical expert about the significance and usefulness of the feature(s) added by the proposed substitute claim, from the perspective of one with ordinary skill in the art, and also on the level of ordinary skill, in terms of ordinary creativity and the basic skill set. A mere conclusory statement by counsel, in the motion to amend, to the effect that one or more added features are not described in any prior art, and would not have been suggested or rendered obvious by prior art, is on its face inadequate.
+Id. at *4–5.
+ 
+The Idle Free decision has been designated as “informative.” According to the Board’s operating procedures, informative decisions are “not binding authority,” but are designated as informative in order to provide “Board norms on recurring issues,” “guidance on issues of first impression,” and “guidance on Board rules and practices.” See Patent Trial and Appeal Board, Standard Operating Procedure 2 (Revision 9), at 3 (¶ IV.A–B), available at *1305 http://www.uspto.gov/sites/default/files/documents/sop2–revision–9–dated–9–22–2014.pdf. The Board has frequently cited to Idle Free when denying motions to amend during IPRs. See, e.g., The Scotts Co. v. Encap, LLC, IPR2013–00110, 2014 WL 2886290, at *18–20 (PTAB June 24, 2014); Ecowater Sys., LLC v. Culligan Int’l Co., IPR2013–0155, 2014 WL 2903758, at *18 (PTAB June 24, 2014); Adidas AG v. Nike, Inc., IPR2013–00067, 2014 WL 1713368, at *17–18 (PTAB Apr. 28, 2014).
+ 
+
+B
+[12] We turn now to the events of this case. During the IPR, Proxyconn sought to amend the ′717 patent by replacing challenged claims 1 and 3 with substitute claims 35 and 36, respectively. In its opposition, Microsoft argued, inter alia, that the substitute claims were unpatentable for anticipation by DRP. DRP was not one of the references over which the PTO originally instituted review of claims 1 and 3. It was, however, used both as an anticipation and an obviousness reference over which the PTO instituted review of claims 6, 7, 9, 11, 12, and 14. In its reply, Proxyconn argued that because DRP was not one of the references over which the PTO had instituted review of claims 1 and 3, the Board exceeded its authority under § 42.121(a)(2)(i) to deny substitute claims 35 and 36 for failure to “respond to a ground of unpatentability involved in the trial.” Proxyconn did not otherwise argue that substitute claims 35 and 36 were patentable over DRP.
+ 
+In its final written decision, the Board denied Proxyconn’s motion to amend claims 1 and 3 for two reasons.3 First, citing § 42.20(c) and Idle Free, the Board held that Proxyconn failed to meet its burden of establishing patentability of the substitute claims. In particular, the Board stated:
+ 
+Proxyconn has not proffered sufficient arguments or evidence to establish a prima facie case for the patentability of claims 35–41. For example, Proxyconn has not: (i) construed the newly added claim terms; (h) addressed the manner in which the claims are patentable generally over the art; (iii) identified the closest prior art known to it; (iv) addressed the level of ordinary skill in the art at the time of the invention; or (v) discussed how such a skilled artisan would have viewed the newly recited elements in claims 35–41 in light of what was known in the art. Instead, Proxyconn attempts to distinguish claims 35–41 only from the prior art for which we instituted review of corresponding claims 1, 3, 6, 10. 11. 22, and 23. Mot. Amend 4–15. Consequently, Proxyconn has failed to establish a prima facie case for the patentability of claims 35–41.
+Board Decision at 55.
+Second, the Board rejected Proxyconn’s argument that § 42.121(2)(a)(i) precluded the Board from relying on the DRP reference. Again citing § 42.20(c), the Board stated that “Proxyconn carries the burden of proof with respect to the patentability of its proposed claims” and that “Microsoft [was] entitled” to rely on DRP. Id. at 56. Because “Proxyconn provide[d] no evidence to counter Microsoft’s contentions that DRP anticipate[d] [claims 35 and 36],” the Board denied Proxyconn’s motion. Id.
+ 
+On appeal, Proxyconn argues that § 42.121(a)(2) provides a complete list of the bases for which the Board can deny a motion to amend. According to Proxyconn, *1306 the Board exceeded its own regulation by imposing the additional requirements of Idle Free and by relying on the DRP reference. The Director defends the Board’s actions, arguing that § 42.121(a)(2) is not exhaustive. According to the Director, a patentee seeking to amend its claims during IPRs must meet both the “procedural requirements” of § 42.121(a)(2) as well as the “substantive burden” imposed by § 42.20(c), as it has been interpreted through adjudicative Board decisions like Idle Free. Intervenor’s Resp. Letter 2, ECF No. 50.
+ 
+[13] [14] This appeal, therefore, presents the question of whether the Board permissibly relied on the requirements of Idle Free and the DRP reference in denying Proxyconn’s motion to amend. We review Board decisions using the standards set forth in the Administrative Procedure Act, 5 U.S.C. § 706. In re Sullivan, 362 F.3d 1324, 1326 (Fed.Cir.2004). “Under that statute, we set aside actions of the Board that are arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law, and set aside factual findings that are unsupported by substantial evidence.” Id. “We accept the Board’s interpretation of Patent and Trademark Office regulations unless that interpretation is ‘plainly erroneous or inconsistent with the regulation.’ ” Id. (quoting Eli Lilly Co. v. Bd. of Regents of the Univ. of Wash., 334 F.3d 1264, 1266 (Fed.Cir.2003)); see also Auer v. Robbins, 519 U.S. 452, 461–62, 117 S.Ct. 905, 137 L.Ed.2d 79 (1997); In re Garner, 508 F.3d 1376, 1378 (Fed.Cir.2007).
+ 
+
+C
+[15] At the threshold, we agree with the Director that § 42.121(a)(2) is not an exhaustive list of grounds upon which the Board can deny a motion to amend. In the ALA, Congress gave the PTO authority to “prescribe regulations” “governing inter partes review” and to “set[ ] forth standards and procedures for allowing the patent owner to move to amend the patent.” § 316(a)(4), (a)(9). Congress also provided that, upon final decision, the Director should incorporate only those amended claims that are “determined to be patentable.” § 318(b). Given these directives, the PTO promulgated both the general regulation setting forth the patentee’s burden to establish it is entitled to its requested relief, § 42.20, as well as the more specific regulation setting forth particular requirements regarding the amendment process, § 42.121. Both regulations are plainly applicable to motions to amend filed during IPRs, and Proxyconn does not argue that the PTO acted outside its statutory authority in promulgating either one.
+ 
+What Proxyconn does challenge is the Board’s interpretation of those regulations as permitting it to deny Proxyconn’s motion to amend claims 1 and 3 for failure to establish patentability over DRP—a reference that the Board did not rely on when instituting review of those particular claims. The Director responds that its authority to do so comes from § 42.20(c), as it has been interpreted in Idle Free—namely, as requiring the patentee “to show patentable distinction [of the substitute claims] over the prior art of record.” Idle Free, 2013 WL 5947697, at *4. According to the Director, it is permissible for the PTO to use adjudicative Board decisions like Idle Free, rather than traditional notice and comment rule-making, to set forth all the conditions that a patentee must meet in order to satisfy its burden of amendment under § 42.20(c).
+ 
+Some question the wisdom of the PTO’s approach. Since IPRs were created, they have rapidly become a popular vehicle for challenging the validity of issued patents. See Patent Trial and Appeal Board AIA Progress, available at http:// www.uspto. *1307 gov/sites/default/files/documents/aia_statistics_05–14–2015. pdf (reporting 2,894 IPR petitions received as of May 14, 2015). Patentees who wish to make use of the statutorily provided amendment process deserve certainty and clarity in the requirements that they are expected to meet. A fluid, case-based interpretation by the PTO of its own regulations risks leaving interested members of the public in a state of uncertainty, without ascertainable standards and adequate notice to comply.
+ 
+[16] Despite such concerns, we recognize that “the choice between rulemaking and adjudication lies in the first, instance within the [agency’s] discretion.” NLRB v. Bell Aerospace Co. Div. of Textron, 416 U.S. 267, 294, 94 S.Ct. 1757, 40 L.Ed.2d 134 (1974). The Director argues that adjudication is appropriate here because the PTO “has not ‘had sufficient experience with [motions to amend] to warrant rigidifying its tentative judgment into a hard and fast rule’ ” and that the PTO “thus ‘must retain power to deal with [such motions] on a case-by-case basis if the administrative process is to be effective.’ ” Intervenor’s Resp. Letter 3, ECF No. 50 (alterations in original) (quoting SEC v. Chenery Corp., 332 U.S. 194, 202–03, 67 S.Ct. 1760, 91 L.Ed. 1995 (1947)). Because there is merit to these arguments, we cannot say that the PTO has abused its discretion in choosing adjudication over rulemaking.
+ 
+Nor can we say that the Board’s interpretation of § 42.20(c) in Idle Free—requiring the patentee to “show patentable distinction [of the substitute claims] over the prior art of record,” Idle Free, 2013 WL 5947697, at *4—is plainly erroneous or inconsistent with the regulation or governing statutes.4 The legal framework provides that a patentee must “move to amend the patent,” § 316(a)(9), that the Director should incorporate only those amended claims that are “determined to be patentable,” § 318(b), and that the patentee has the burden to “establish that it is entitled to the requested relief,” § 42.20(c).
+ 
+[17] The Board has reasonably interpreted these provisions as requiring the patentee to show that its substitute claims are patentable over the prior art of record, at least in the circumstances in this case. First, nothing in the statute or regulations precludes the Board from rejecting a substitute claim on the basis of prior art that is of record, but was not cited against the original claim in the institution decision. Second, the very nature of IPRs makes the Board’s interpretation appropriate. During IPRs, once the PTO grants a patentee’s motion to amend, the substituted claims are not subject to further examination. Moreover, the petitioner may choose not to challenge the patentability of substitute claims if, for example, the amendments narrowed the claims such that the petitioner no longer faces a risk of infringement. If the patentee were not required to establish patentability of substitute claims over the prior art of record, an amended patent could issue despite the *1308 PTO having before it prior art that undermines patentability. Such a result would defeat Congress’s purpose in creating IPR as part of “a more efficient and streamlined patent system that will improve patent quality and limit unnecessary and counterproductive litigation costs.” H.R.Rep. No. 112–98, pt. 1, at 40 (2011), 2011 U.S.C.C.A.N. 67, 69.
+ 
+[18] Proxyconn argues that the Board’s actions are in conflict with § 42.121(a)(2)(i). But Proxyconn confuses requirements governing permissible reasons for seeking amendment versus those governing what must ultimately be shown of amended claims. Section 42.121(a)(2)(i) simply requires that a patentee’s amendment be made in order to “respond to a ground of unpatentability involved in the trial,” and not for some other reason. As the PTO explained, this rule is meant to “enhance efficiency of review proceedings.... [A]ny amendment that does not respond to a ground of unpatentability most likely would cause delay, increase the complexity of the review, and place additional burdens on the petitioner and the Board.” Changes to Implement Inter Partes Review Proceedings, Post–Grant Review Proceedings, and Transitional Program for Covered Business Method Patents, 77 Fed.Reg. 48,680, 48,705 (Aug. 14, 2012). Assuming an amendment is appropriately responsive to the grounds of unpatentability involved in the trial, the patentee must still go on to show that it is entitled to its substitute claim. The PTO explained this as well, stating that a motion to amend “will be entered so long as it complies with the timing and procedural requirements” but “even if entered, will not result automatically in entry of the proposed amendment into the patent.” Id. at 48,690. Requiring the patentee to establish that its substitute claims are patentable over the prior art of record does not run afoul of § 42.121(a)(2)(i).
+ 
+Proxyconn also argues that the Board’s interpretation and reliance on DRP was “fundamentally unfair” because Proxyconn was unable to defend substitute claims 35 and 36 against that reference. Cross–Appellant’s Resp. Letter 2, ECF No. 51. We reject that argument. Although DRP was not one of the original references for which review of claims 1 and 3 was instituted, it was very much a part of the entire proceedings. In particular, it was relied on by the Board for instituting review of six closely related claims. And after Microsoft filed an opposition brief arguing that substitute claims 35 and 36 were invalid over DRP, Proxyconn had the opportunity to distinguish those claims from DRP in its reply brief but simply chose not to do so. Lastly, at the oral hearing, the Board explained to Proxyconn that Proxyconn was required to demonstrate the patentability of substitute claims 35 and 36 over the DRP reference. This is not a case in which the patentee was taken by surprise by the Board’s reliance on an entirely new reference or was not given adequate notice and opportunity to present arguments distinguishing that reference. Rather, this is a case where the prior art relied on by the Board was front and center throughout the course of the proceedings.
+ 
+For all of these reasons, we conclude that the Board acted permissibly in requiring Proxyconn to establish the patentability of substitute claims 35 and 36 over the DRP reference. And based on Proxyconn’s failure to do so, we affirm the Board’s denial of Proxyconn’s motion to amend claims 1 and 3.
+ 
+
+V
+For the foregoing reasons, we reverse the Board’s constructions of the term “gateway ... between at least two other computers” in claims 6, 7, and 9 and the terms “sender/computer” and “receiver *1309 /computer” in claims 1, 3, 10, 22, and 23, and therefore vacate and remand its unpatentability determinations of those claims. We affirm the Board’s construction of the “searching” limitation in claim 22, the Board’s determination that claim 24 is patentable, and the Board’s conclusion that DRP anticipates claims 11, 12, and 14. We also affirm the Board’s denial of Proxyconn’s motion to amend claims 1 and 3.
+ 
+AFFIRM–IN–PART, REVERSE–IN–PART, VACATE–IN–PART, AND REMAND
+ 
+
+COSTS
+Each party shall bear its own costs.
+ 
+All Citations
+789 F.3d 1292, 115 U.S.P.Q.2d 1198
+Footnotes
+
+*
+
+Honorable Rodney Gilstrap, District Judge, United States District Court for the Eastern District of Texas, sitting by designation.
+
+1
+
+We would reach the same result if we were to apply the traditional claim construction framework set forth in Phillips, 415 F.3d 1303.
+
+2
+
+Proxyconn’s motion sought to amend a number of other claims as well. But because Proxyconn’s appeal challenges only the Board’s denial of its motion with respect to claims 1 and 3, we review the Board’s actions regarding these two claims only.
+
+3
+
+With respect to claim 3, the Board also denied Proxyconn’s motion on grounds that substitute claim 36 impermissibly enlarged the scope of claim 3 in violation of 35 U.S.C. § 316(d)(3). Because we resolve this case on other grounds, we do not review this additional basis for the Board’s denial of Proxyconn’s motion.
+
+4
+
+Importantly, this case does not call on us to decide whether every requirement announced by the Board in Idle Free constitutes a permissible interpretation of the PTO’s regulations. The Idle Free decision is not itself before us, and we resolve this case only with respect to the Board’s having faulted Proxyconn for “attempt[ing] to distinguish claims [35 and 36] only from the prior art for which we instituted review of corresponding claims [1 and 3]” and, ultimately, for “fail[ing] to establish by a preponderance of evidence that [claims 35 and 36] are patentable over DRP.” Board Decision at 55–56. We do not address the other requirements of Idle Free that the Board relied upon. Nor do we address, for example, Idle Free’s requirement that the patentee to show patentable distinction over all “prior art known to the patent owner.” Idle Free, 2013 WL 5947697, at *4.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,247 @@
+
+
+
+
+
+In re Google Inc.
+United States Court of Appeals, Federal Circuit. | October 9, 2014 | 588 Fed.Appx. 988 | 2014 WL 5032336
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by In re Dell Inc., Fed.Cir.(Tex.), January 7, 2015
+
+standard Citation:
+
+In re Google Inc., 588 F. App’x 988 (Fed. Cir. 2014)
+
+All Citations:
+
+588 Fed.Appx. 988
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by In re Dell Inc., Fed.Cir.(Tex.), January 7, 2015
+588 Fed.Appx. 988
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+In re GOOGLE INC., Samsung Electronics Co., Ltd., Samsung Electronics America, Inc., and Samsung Telecommunications America, LLC, Petitioners.
+In re HTC Corporation and HTC America, Inc., Petitioners.
+In re Asustek Computer, Inc. and Asus Computer International, Inc., Petitioners.
+In re LG Electronics, Inc., LG Electronics U.S.A., Inc. and LG Electronics Mobilecomm U.S.A., Inc., Petitioners.
+In re ZTE Corporation and ZTE (USA) Inc., Petitioners.
+Nos. 2014–147, 2014–148, 2014–149, 2014–150, 2014–151.
+|
+Oct. 9, 2014.
+Synopsis
+Background: Patentee commenced action against competitors, alleging infringement of patents directed toward software functionalities implemented on general-purpose computing device. The United States District Court for the Eastern District of Texas, J. Rodney Gilstrap, J., 2014 WL 2965880, 2014 WL 3735831, 2014 WL 3786206, and 2014 WL 3795450, denied competitors’ motions to stay proceedings or transfer the actions to California. Competitors petitioned for a writ of mandamus.
+ 
+Holding: The Court of Appeals, O’Malley, Circuit Judge, held that district court clearly abused its discretion.
+ 
+Petitions granted.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Federal CourtsIntellectual property
+
+
+170BFederal Courts
+170BXIXExclusive, Concurrent, and Conflicting Jurisdiction as Between Federal Courts
+170BXIX(C)Pendency and Scope of Prior Proceedings;  First-Filed Rule
+170Bk3934Particular Cases, Contexts, and Questions
+170Bk3943Intellectual property
+
+
+Decisions of District Court in Eastern District of Texas to deny competitors’ motions for stay of patent infringement proceedings in favor of declaratory judgment action in Northern District of California was clear abuse of discretion, since decisions frustrated comity doctrine; there would be substantial similarity involving infringement and invalidity issues in all the suits, substantial savings of litigation resources could be expected in that “major premises” being litigated in Texas actions likely would be mooted or at least advanced, and comparative convenience of both venues for resolving the matter pointed firmly in direction of Northern District of California. 28 U.S.C.A. § 2201.
+7 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,838,551, US Patent 6,037,937, US Patent 6,128,298, US Patent 6,333,973, US Patent 6,463,131, US Patent 6,765,591, US Patent 6,937,572. Cited.
+Cases that cite this headnote
+
+
+
+*988 On Petition for Writ of Mandamus to the United States District Court for the Eastern District of Texas in Nos. 2:13–cv–00894–JRG, 2:13–cv–00900–JRG, 2:13–cv–00895–JRG, 2:13–cv–00898–JRG and 2:13–cv–00901–JRG, Judge J. Rodney Gilstrap.
+Attorneys and Law Firms
+Charles Kramer Verhoeven, Amy H. Candido, Kristin J. Madigan, Sean S. Pak, Esq., Quinn Emanuel Urquhart & Sullivan, LLP, San Francisco, CA, Patrick D. Curran, Kathleen M. Sullivan, Quinn Emanuel Urquhart & Sullivan, LLP, New York, NY, for Petitioners.
+Before O’MALLEY, WALLACH, and HUGHES, Circuit Judges.
+
+
+ON PETITION
+ORDER
+O’MALLEY, Circuit Judge.
+These petitions for a writ of mandamus from orders of the United States District *989 Court for the Eastern District of Texas denying motions for a stay of proceedings or, alternatively, transfer of venue put forth similar arguments that require us to determine how these related cases should proceed.
+ 
+
+BACKGROUND
+These petitions arise out of five complaints filed by Rockstar Consortium U.S. LP and Mobilestar Technologies, LLC (“Respondents”), in the Eastern District of Texas naming as defendants Samsung Electronics Co., Ltd. et al. (“Samsung”), ASUS Computer International, Inc. et al. (“ASUS”), ZTE Corporation et al., HTC Corporation et al., and LG Electronics, Inc. et al. (along with Google, Inc. (“Google”) referred to collectively as “Petitioners”).
+ 
+With the exception of ASUS, which was not accused of infringing U.S. Patent No. 6,333,973 (the “′973 patent”), the complaints assert infringement of seven patents: U.S. Patent Nos. 5,838,551 (the “′551 patent”); the ′973 patent; 6,128,298; 6,037,937 (the “′937 patent”); 6,463,131 (the “′131 patent”); 6,765,591 (the “′591 patent”); and 6,937,572. Except for the ′ 551 patent, the patents are largely directed to software functionalities implemented on a general-purpose computing device.
+ 
+Though Google was not initially named as a party in any of these actions, it supplied each defendant with operating system software (“Android”) used in the accused devices and all six complaints alleged infringement based on certain “mobile communication devices having a version (or an adaption thereof) of Android operating system.” See, e.g., Complaint at 5, Rockstar Consortium U.S. LP v. Samsung Elecs. Co., Ltd., No. 2:13–cv–00900 (E.D.Tex. Oct. 31, 2013), ECF No. 1.
+ 
+On December 23, 2013, Google filed a complaint in the Northern District of California, stating that “Rockstar’s litigation campaign has placed a cloud on Google’s Android platform” and “threatened Google’s business and relationships with its customers and partners, as well as its sales of Nexus-branded Android devices[.]” Complaint at 2, Google Inc. v. Rockstar Consortium U.S. LP, No. 4:13–cv–05933 (“California Action ”) (N.D.Cal. Dec. 23, 2013), ECF No. 1.
+ 
+Google’s complaint sought a declaration that “any version of Google’s Android platform” and its own devices, the Nexus 5, Nexus 7, and Nexus 10, “do not infringe” the seven patents. Id. at 6, 13. In response to the complaint, Respondents counterclaimed, seeking a judgment that Google’s Nexus line of products infringed all seven of the patents at issue in the Texas actions. Google answered those charges by alleging that all seven patents were invalid and unenforceable.
+ 
+Shortly thereafter, Respondents amended their complaint against Samsung in the Eastern District of Texas to include Google as a defendant. As amended, Respondents’ complaint alleged that Samsung infringed all seven patents and that Google infringed the ′937, ′131, and ′591 patents.
+ 
+Respondents also moved to transfer or dismiss the California action. On April 17, 2014, the Northern District of California denied that motion, finding that “[t]he vast majority of the claims brought in the [Texas] actions appear to be targeted specifically at Android features,” “the determination of the infringement issues here would likely be dispositive of the other cases,” and the Northern District of California would be more convenient to try the matter. California Action, slip op. at 22 n. 10, 24, 28 (N.D.Cal. Apr. 17, 2014).
+ 
+Citing the Northern District of California’s decision, Petitioners asked the Eastern *990 District of Texas to stay proceedings or transfer the actions to California, arguing that proceeding with Respondents’ infringement actions would result in wasteful and duplicative litigation. The Eastern District of Texas disagreed with Petitioners and denied their motions.1 These petitions followed.
+ 
+
+DISCUSSION
+The Supreme Court has repeatedly observed that under the doctrine of comity, when cases involving substantially overlapping issues are pending before two federal district courts, there is a strong preference to avoid duplicative litigation. Colo. River Water Conservation Dist. v. United States, 424 U.S. 800, 817, 96 S.Ct. 1236, 47 L.Ed.2d 483 (1976); Kerotest Mfg. Co. v. C–O–Two Fire Equip. Co., 342 U.S. 180, 183, 72 S.Ct. 219, 96 L.Ed. 200 (1952). That rule reflects an elementary principle of “wise judicial administration.” Id.
+ 
+Those principles apply with full force here. Respondents themselves have asserted that the proceedings involve substantially the same controversy. See Motion to Dismiss at 19, California Action, (N.D.Cal. Jan. 23, 2014), ECF No. 20 (“Entertaining duplicative suits here ‘would serve no purpose of judicial administration and would risk inconsistent rulings....’ ”); id. at 17 (“Google’s complaint ... is effectively duplicative of the first-filed Texas Actions.”).
+ 
+Given these facts, it is clear that there was no need to proceed with the five Texas actions because the one California action may suffice. Such circumstances present a classic case for a stay: The only potential results of adjudicating these cases in parallel fashion would be the Texas and California courts agree on the major issues of the litigation, thus producing wasteful and unnecessary litigation, or the courts disagree, thus producing conflicting decisions. Cf. Merial Ltd. v. Cipla Ltd., 681 F.3d 1283, 1299 (Fed.Cir.2012) (The purpose of the rule is to “avoid conflicting decisions and promote judicial efficiency.”).
+ 
+In concluding otherwise, the Eastern District of Texas relied heavily on each defendant mobile phone manufacturer’s ability to modify and customize the Android platform to its own particular purpose. In fact, however, Respondents provided nearly identical infringement contentions to all defendants that rely almost exclusively on the underlying functionalities provided in the base Android source code provided by Google. Thus, the record strongly suggests there will be substantial similarity involving the infringement and invalidity issues in all the suits.
+ 
+This significant overlap undermines the district court’s main premise in rejecting a stay—that each defendant mobile phone manufacturer’s ability to modify and customize the Android platform to its own particular purposes “place [d] these suits far outside the usual ‘customer-suit exception.’ ” See, e.g., Rockstar Consortium U.S. LP v. ASUSTeK Computer, Inc., No. 2:13–cv–894, 2014 WL 3735831, slip op. at 9 (E.D.Tex. Jul. 28, 2014); see also Respondents’ Opposition to Google and Samsung’s Petition at 16–17 (arguing that a stay was not warranted because the manufacturers should not be considered “mere resellers” of Google).2
+ 
+*991 The way to avoid wasted resources is not through such a “mechanical solution” or “precise rule.” Colo. River, 424 U.S. at 817, 96 S.Ct. 1236; Kerotest Mfg., 342 U.S. at 183, 72 S.Ct. 219. It is instead through a flexible approach, including staying proceedings if the other suit is so closely related that substantial savings of litigation resources can be expected. Here, it is clear that staying proceedings in Texas will likely further these objectives by mooting or at least advancing the “major premises” being litigated in the Texas actions. Katz v. Lear Siegler, Inc., 909 F.2d 1459, 1464 (Fed.Cir.1990).
+ 
+Wise judicial administration must also take into consideration the comparative convenience of both venues for resolving the matter. See Futurewei Techs., Inc. v. Acacia Research Corp., 737 F.3d 704, 708 (Fed.Cir.2013) (“Justification for an exception may be found in ‘the convenience and availability of witnesses, [the] absence of jurisdiction over all necessary or desirable parties....’ ” (quoting Genentech, Inc. v. Eli Lilly & Co., 998 F.2d 931, 938 (Fed.Cir.1993))).
+ 
+Here, those considerations point firmly in the direction of the Northern District of California. As that court explained, “Google’s Android products, the target of this infringement action, were designed and created here,” “[m]any of the witnesses who can testify to the design and development of the accused Android platform’s features reside near Google’s headquarters in Mountain View, California,” and “Defendants do not name any witnesses in Texas essential to the suit.” California Action, slip op. at 22–25 (N.D.Cal. Apr. 17, 2014).
+ 
+Google further filed a declaration that its records regarding the Android platform are predominantly based in its headquarters in the Northern District of California. As we noted in In re Genentech, Inc., “[i]n patent infringement cases, the bulk of the relevant evidence usually comes from the accused infringer ... [and thus] ... the place where the defendants’ documents are kept weighs in favor of transfer to that location.” 566 F.3d 1338, 1345 (Fed.Cir.2009) (citation omitted). Here the record does not suggest otherwise.
+ 
+Respondents point out that they maintain an office in Plano, Texas. But they do not dispute that their primary operations are run out of Canada. Moreover, the only prospective employee witnesses that Respondents name from Plano work as counsel for Respondents, and are thus entitled to little consideration in a convenience calculus. See In re Horseshoe Entm’t, 337 F.3d 429, 434 (5th Cir.2003); Solomon v. Cont’l Am. Life Ins. Co., 472 F.2d 1043, 1047 (3d Cir.1973); Jack C. Keir, Inc. v. Life Office Mgmt. Ass’n, Inc., No. 92–6163, 1993 WL 283902, at *2 (E.D.Pa. July 27, 1993) (same for in-house counsel).
+ 
+Given the convenience of the Northern District of California and benefits of staying the Texas proceedings, it makes no difference whether it would have been easier to consolidate all of the actions in Texas, as suggested by the Eastern District of Texas in its practical problems analysis. That reasoning simply ignores the justifications for a stay and cannot, in our view, sustain the obvious waste of resources inherent in allowing both actions to proceed in parallel fashion.
+ 
+Because the Eastern District of Texas’ orders frustrate the comity doctrine, requiring two federal district courts and the parties to expend resources to resolve substantially similar claims and issues, the *992 district court’s decisions to deny the petitioners’ motions for a stay of proceedings was a clear abuse of discretion under applicable governing standards, and, in our view, worthy of correction by way of mandamus relief. See Cheney v. U.S. Dist. Court, 542 U.S. 367, 380–81, 124 S.Ct. 2576, 159 L.Ed.2d 459 (2004) (when a petitioner has no alternative way of seeking the relief requested a court may grant mandamus in its discretion when it concludes that the district court “clearly abuses its discretion.”).
+ 
+Accordingly,
+ 
+IT IS ORDERED THAT:
+ 
+The petitions for a writ of mandamus are granted to the extent that the orders denying the motions to stay are vacated, and the Eastern District of Texas is ordered to stay proceedings pending the outcome of the declaratory judgment action in the Northern District of California.
+ 
+All Citations
+588 Fed.Appx. 988
+Footnotes
+
+1
+
+On the same day the Eastern District of Texas denied Google and Samsung’s motion, it allowed Respondents to amend their complaint to allege infringement of all seven patents against Google.
+
+2
+
+We are also unpersuaded by Respondents’ argument that, despite not initially naming Google as a defendant, their actions are entitled to precedence under a first-filed designation since their complaints in Texas were filed before the California action, because, as the Supreme Court noted in rejecting a similar argument in Kerotest Manufacturing, “the equities of the situation do not depend on this argument.” 342 U.S. at 186 n. 6, 72 S.Ct. 219.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (3)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  In re Dell Inc. 
+600 Fed.Appx. 728 , Fed.Cir.(Tex.)
+Background: Manufacturers of electronic devices moved to stay patent infringement proceedings and transfer venue. The United States District Court for the Eastern District of...
+Jan. 07, 2015
+Case
+
+—
+
+Distinguished by
+2.  Cellular Communications Equipment LLC v. HTC Corporation 
+2015 WL 11118110 , E.D.Tex.
+Before the Court are Defendants’ Motions to Dismiss for Failure to State a Claim (Cause No. 6:13-cv-507, Docket Nos. 109, 110, 111, 112, 113, 114; Cause No. 6:14-cv-251, Docket No....
+Mar. 27, 2015
+Case
+
+1
+
+
+
+
+Fed.Appx.
+
+Distinguished by
+3.  Infogation Corp. v. ZTE Corporation
+2016 WL 9525235 , S.D.Cal.
+On November 21, 2016, Defendants ZTE (USA), Inc., HTC, and Huawei, each filed a motion to stay Plaintiff InfoGation Corp.’s patent infringement action. (16-cv-1901-Doc. No. 30;...
+Dec. 21, 2016
+Case
+
+1
+
+
+
+
+Fed.Appx.
+
+

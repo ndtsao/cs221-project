@@ -1,0 +1,788 @@
+
+
+
+
+
+Interval Licensing LLC v. AOL, Inc.
+United States Court of Appeals, Federal Circuit. | September 10, 2014 | 766 F.3d 1364 | 2014 WL 4435871
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Sonix Technology Co., Ltd. v. Publications International, Ltd., Fed.Cir.(Ill.), January 5, 2017
+
+standard Citation:
+
+Interval Licensing LLC v. AOL, Inc., 766 F.3d 1364 (Fed. Cir. 2014)
+
+All Citations:
+
+766 F.3d 1364, 112 U.S.P.Q.2d 1188
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Sonix Technology Co., Ltd. v. Publications International, Ltd., Fed.Cir.(Ill.), January 5, 2017
+766 F.3d 1364
+Editor’s Note: Additions are indicated by Text and deletions by Text.
+United States Court of Appeals,
+Federal Circuit.
+INTERVAL LICENSING LLC, Plaintiff–Appellant,
+v.
+AOL, INC., Defendant–Appellee,
+and
+Apple, Inc., Defendant–Appellee,
+and
+Google, Inc., Defendant–Appellee,
+and
+Yahoo! Inc., Defendant–Appellee.
+Nos. 2013–1282, 2013–1283, 2013–1284, 2013–1285.
+|
+Sept. 10, 2014.
+|
+Rehearing En Banc Denied Dec. 18, 2014.
+Synopsis
+Background: Patentee brought action against alleged infringers, claiming infringement of its patents directed to an attention manager for occupying the peripheral attention of a person in the vicinity of a display device. The United States District Court for the Western District of Washington, Marsha J. Pechman, J., 2013 WL 792791, construed patent terms and found the patents invalid. The patentee appealed.
+ 
+Holdings: The Court of Appeals, Chen, Circuit Judge, held that:
+ 
+[1] the patent phrase “unobtrusive manner that does not distract a user” was indefinite;
+ 
+[2] the term “attention manager” meant a system that displays images to a user either when the user is not engaged in a primary interaction or in an area of the display screen that is not used by the user’s primary activity; and
+ 
+[3] the term “instructions” meant a statement that specifies a function to be performed by a system.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (14)
+
+
+[1]
+
+PatentsParticularity and distinctness
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k817Particularity and distinctness
+(Formerly 291k101(6))
+
+
+A claim fails to satisfy the statutory requirement to particularly point out and distinctly claim the subject matter which the applicant regards as the invention and is thus invalid for indefiniteness if its language, when read in light of the specification and the prosecution history, fails to inform, with reasonable certainty, those skilled in the art about the scope of the invention. 35 U.S.C.A. § 112.
+132 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+Court of Appeals reviews the district court’s determination that a patent term is indefinite de novo.
+15 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsAmbiguity, Uncertainty, or Indefiniteness
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k816In general
+(Formerly 291k101(6))
+
+
+Although absolute or mathematical precision is not required to satisfy the definiteness requirement for a term-of-degree phrase in a patent claim, it is not enough to identify some standard for measuring the scope of the phrase. 35 U.S.C.A. § 112.
+77 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k822Particular products or processes
+(Formerly 291k101(6))
+
+
+The phrase “unobtrusive manner that does not distract a user,” in patents directed to an attention manager for occupying the peripheral attention of a person in the vicinity of a display device, failed to inform those skilled in the art about the scope of the invention with reasonable certainty, and thus, patent claims that depended on that phrase were invalid for indefiniteness, where the phrase had too uncertain a relationship to the patents’ embodiments to provide definition, and an example in the patents’ specification was not an exclusive definition of the phrase. 35 U.S.C.A. § 112.
+83 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsAmbiguity, Uncertainty, or Indefiniteness
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k816In general
+(Formerly 291k101(6))
+
+
+On an allegation of indefiniteness, a term of degree fails to provide sufficient notice of its scope if it depends on the unpredictable vagaries of any one person’s opinion. 35 U.S.C.A. § 112.
+25 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+Court of Appeals reviews patent claim construction de novo.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsState of the art
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1341State of the art
+(Formerly 291k161)
+
+
+The words of a patent claim are generally given their ordinary and customary meaning, which is the meaning that the term would have to a person of ordinary skill in the art in question at the time of the invention.
+18 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+(Formerly 291k167(1))
+
+
+Claim language in a patent must be viewed in light of the specification, which is the single best guide to the meaning of a disputed term.
+8 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsExtrinsic Evidence
+PatentsRejection and Amendment of Claims;  Prosecution History
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1344Extrinsic Evidence
+291k1345In general
+(Formerly 291k159)
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+(Formerly 291k168(2.1))
+
+
+In addition to consulting a patent’s specification, a court may also consider the prosecution history and any relevant extrinsic evidence, in resolving the meaning of a disputed patent term.
+11 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsElectricity and Electronics
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1399In general
+(Formerly 291k101(2))
+
+
+Term “attention manager,” in a patent directed to an attention manager for occupying the peripheral attention of a person in the vicinity of a display device, meant a system that displays images to a user either when the user is not engaged in a primary interaction or in an area of the display screen that is not used by the user’s primary activity.
+6 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsElectricity and Electronics
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1399In general
+(Formerly 291k101(2))
+
+
+Term “instructions,” in a patent directed to an attention manager for occupying the peripheral attention of a person in the vicinity of a display device, meant a statement that specifies a function to be performed by a system.
+3 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsDetermination and Disposition of Cause
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1974Determination and Disposition of Cause
+291k1975In general
+(Formerly 291k324.60)
+
+
+In the interest of judicial economy, the Court of Appeals has the discretion to review a non-dispositive patent claim construction if the Court believes that the construction may become important on remand.
+1 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,034,652. Construed and Ruled Invalid in Part.
+Cases that cite this headnote
+
+
+
+[14]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,788,314. Invalid in Part.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1365 Thomas C. Goldstein, Goldstein & Russell, PC, of Washington, DC, argued for plaintiff-appellant. Of counsel on the brief were Michael Heim, Nathan J. Davis, and Douglas R. Wilson, Heim, Payne & Chorush LLP, of Houston, TX; Justin A. Nelson, Susman Godfrey L.L.P., of Seattle, WA, and Max L. Tribble, Jr., of Houston, TX.
+*1366 J. Michael Jakes, Finnegan, Henderson, Farabow, Garrett & Dunner, LLP, of Washington, DC, argued for all defendants-appellees. With him on the brief were Gerald F. Ivey, Cortney S. Alexander, Robert L. Burns, II, and Erik R. Puknys, for AOL Inc.; Elizabeth Day, David Alberti, and Marc C. Belloli, Feinberg Day Alberti & Thompson LLP, of Menlo Park, CA, and Brian Berliner, O’Melveny & Myers, LLP, of Los Angeles, CA, for Apple Inc.; Warren S. Heit, Carmen Lo, and Wendi R. Schepler, White & Case LLP, of Palo Alto, CA, and Kevin McGann and Dimitrios T. Drivas, of New York, NY, for Google Inc.; and Deanne Maynard, Morrison & Foerster LLP, of Washington, DC, and Michael A. Jacobs and Matthew I. Kreeger, of San Francisco, CA, for Yahoo! Inc.
+Before TARANTO and CHEN, Circuit Judges.*
+Opinion
+CHEN, Circuit Judge.
+
+Interval Licensing LLC (“Interval”) appeals from four stipulated final judgment orders of the United States District Court for the Western District of Washington.1 Each order granted: (1) final judgment of invalidity of claims 4–8, 11, 34, and 35 of U.S. Patent 6,034,652 (“the ′652 patent”) and claims 1–4 and 7–15 of U.S. Patent 6,788,314 (“the ′314 patent”), based on the court’s determination that those claims are indefinite; and (2) final judgment of non-infringement of claims 15–18 of the ′652 patent, based on the court’s claim construction of the phrase “during operation of an attention manager.” While we agree with the court’s indefiniteness determination, we do not agree with the court’s construction of “attention manager” and thus modify that construction. Additionally, we modify the court’s construction of the term “instructions.” For the reasons set forth below, we affirm the judgments of invalidity, vacate the judgments of non-infringement, and remand for further proceedings.
+ 
+
+BACKGROUND
+The ′652 and ′314 patents are directed to an “attention manager for occupying the peripheral attention of a person in the vicinity of a display device.” The patents, which share a common specification, describe a system that acquires data from a content provider, schedules the display of the content data, generates images from the content data, and then displays the images on a device. The patents explain that the term “image” is used “broadly here to mean any sensory stimulus that is produced from the set of content data, including, for example, visual imagery (e.g., moving or still pictures, text, or numerical information) and audio imagery (i.e., sounds).” ′652 patent, 6:60–64. The content data presented in the images are “virtually limitless,” and may include advertisements, video nature scenes, and radio talk shows. Id. at 7:26–38. As for the users of the attention manager, the patents contemplate that the system will typically occupy the attention of human users, but may also be used to occupy the attention of dogs, cats, and parrots. See id. at 29:32–40. The primary issues raised on appeal center on the manner in which the patented invention displays content data— *1367 specifically, how the attention manager displays “images” so as to attract the peripheral attention of the user.
+ 
+To engage the “peripheral attention” of a user in “the vicinity of a display device,” the attention manager “[g]enerally ... makes use of ‘unused capacity’ of the display device.” Id. at 2:3–9. The specification discloses two primary approaches to utilizing “unused capacity.” First, the specification describes a “screen saver embodiment” that displays images “automatically after detection of an idle period” or after activation of the screen saver by the user. Id. at 3:19–22, 9:24–36. The patents use screen savers—typically used for preventing screen burnout and for “aesthetic or entertainment value”—for the purpose of “display[ing] content from a remote location via a computer network.” Id. at 1:39–67. The screen saver embodiment may be employed “while a primary interaction is ongoing, but during inactive periods (i.e., when the user is not engaged in an intensive interaction with the apparatus).” Id. at 6:35–38.
+ 
+Second, the specification describes a wallpaper embodiment. “Wallpaper,” the specification explains, is “a pattern generated in the background portions on a computer display screen.” Id. at 1:51–52. The patents’ “wallpaper embodiment” displays images “while the user is engaged in a primary interaction with the apparatus, which primary interaction can result in the display of an image or images in addition to the image or images generated from the set of content data.” Id. at 3:25–31. The wallpaper embodiment makes use of the “unused” spatial capacity of a screen, displaying information in areas not used by the user’s primary interaction. Id. at 6:38–51.
+ 
+On August 27, 2010, Interval sued AOL Inc., Apple Inc., Google Inc., and Yahoo! Inc. (the “Defendants”) in the Western District of Washington, alleging infringement of four patents, including the ′652 and ′314 patents. Interval’s suit alleged that the Defendants infringe the patents through products and software that use “pop-up” notifications to present information to users. In early 2011, two of the Defendants filed a request for ex parte reexamination of the ′652 patent, while another defendant filed a request for inter partes reexamination of the ′314 patent. The district court stayed the litigation pending the USPTO’s reexaminations. Examiners found the asserted claims of both patents to be patentable in view of the cited prior art.2 The district court then lifted the stay with respect to the ′652 and ′314 patents, proceeding to claim construction.
+ 
+Of the twenty-five claims Interval asserted in the ′652 and ′314 patents, all but four contain or depend on the phrase “in an unobtrusive manner that does not distract a user.” Claim 1 of the ′314 patent is representative:
+A method for engaging the peripheral attention of a person in the vicinity of a display device, comprising the steps of:
+providing one or more sets of content data to a content display system associated with the display device and located entirely in the same physical location as the display device;
+*1368 providing to the content display system a set of instructions for enabling the content display system to selectively display, in an unobtrusive manner that does not distract a user of the display device or an apparatus associated with the display device from a primary interaction with the display device or apparatus, an image or images generated from a set of content data; and
+auditing the display of sets of content data by the content display system;
+wherein the one or more sets of content data are selected from a plurality of sets of content data, each set being provided by an associated content provider, wherein each associated content provider is located in a different physical location than at least one other content provider and each content provider provides its content data to the content display system independently of each other content provider and without the content data being aggregated at a common physical location remote from the content display system prior to being provided to the content display system, and wherein for each set the respective content provider may provide scheduling instructions tailored to the set of content data to control at least one of the duration, sequencing, and timing of the display of said image or images generated from the set of content data.
+′314 patent, 29:53–30:18 (emphasis added).
+ 
+Although all of the asserted claims in the ′314 patent depend on the “unobtrusive manner” language, four of the asserted claims in the ′652 patent do not. Representative claim 15 recites:
+A computer readable medium encoded with one or more computer programs for enabling acquisition of a set of content data and display of an image or images generated from the set of content data on a display device during operation of an attention manager, comprising:
+acquisition instructions for enabling acquisition of a set of content data from a specified information source;
+user interface installation instructions for enabling provision of a user interface that allows a person to request the set of content data from the specified information source;
+content data scheduling instructions for providing temporal constraints on the display of the image or images generated from the set of content data, wherein the content data scheduling instructions further comprise sequencing instructions that specify an order in which the images generated from a set of content data are displayed; and
+display instructions for enabling display of the image or images generated from the set of content data.
+′652 patent, 32:37–58 (emphasis added).
+ 
+In its claim construction order, the district court found that “the terms ‘in an unobtrusive manner’ and ‘does not distract’ a user, whether used together or separately,”3 are indefinite. Interval Licensing, *1369 LLC v. AOL, Inc., C10–1385MJP, 2013 WL 792791, at *3 (W.D.Wash. Feb. 28, 2013). After reviewing the claim language, the written description, and the prosecution history, the district court offered two primary reasons for holding the claim language indefinite: (1) “because the patents fail to provide an objective standard by which to define the scope of [the ‘unobtrusive manner’ phrase]”; and (2) “because the determination of whether an accused product would meet the claim limitations depends on its usage in changing circumstances.” Id. at *5.
+ 
+The district court also construed several disputed claim terms. Relevant here, the court construed the term “attention manager” as limited to the specific screensaver and wallpaper embodiments. See id. at *10–11 (adopting Defendants’ construction of “a system that displays images to a user either when the program detects that the user is not engaged in a primary interaction or as a background of the computer screen”). The court also adopted the Defendants’ construction of “instructions,” a term which appears in many of the asserted claims. See id. at *15–16 (construing “instructions” as “a statement in a programming language that specifies a function to be performed by a system”).
+ 
+Based on the claim construction order, the parties stipulated that twenty-one claims in both patents were invalid as indefinite, and that claims 15–18 of the ′652 patent were not infringed by the Defendants. On February 18, 2013, the district court issued final judgment orders to that effect, which Interval timely appeals. Interval asks us to reverse the district court’s holding that the claim phrase “in an unobtrusive manner that does not distract a user” is indefinite,4 vacate the court’s construction of “attention manager,” and clarify the court’s construction of “instructions.”
+ 
+We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+I. Indefiniteness
+[1] [2] A patent must “conclude with one or more claims particularly pointing out and distinctly claiming the subject matter which the applicant regards as [the] invention.” 35 U.S.C. § 112, ¶ 2 (2006).5 A claim fails to satisfy this statutory requirement and is thus invalid for indefiniteness if its language, when read in light of the specification and the prosecution history, “fail[s] to inform, with reasonable *1370 certainty, those skilled in the art about the scope of the invention.” Nautilus, Inc. v. Biosig Instruments, Inc., ––– U.S. ––––, 134 S.Ct. 2120, 2124, 189 L.Ed.2d 37 (2014). We review the district court’s indefiniteness determination here de novo. See Wellman, Inc. v. Eastman Chem. Co., 642 F.3d 1355, 1365 (Fed.Cir.2011); Young v. Lumenis, Inc., 492 F.3d 1336, 1344 (Fed.Cir.2007).6
+ 
+
+A
+After the present appeal was argued, the Supreme Court issued its opinion in Nautilus, Inc. v. Biosig Instruments, Inc., which addressed our use of the expressions “insolubly ambiguous” and “amenable to construction” in applying § 112, ¶ 2. The Court explained that the statute’s definiteness requirement calls for a “delicate balance.” Nautilus, 134 S.Ct. at 2128 (quoting Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., Ltd., 535 U.S. 722, 731, 122 S.Ct. 1831, 152 L.Ed.2d 944 (2002)). The definiteness standard “must allow for a modicum of uncertainty” to provide incentives for innovation, but must also require “clear notice of what is claimed, thereby appris[ing] the public of what is still open to them.” Id. at 2128, 2129 (internal citations omitted). In light of that balance, the Court characterized our “insolubly ambiguous” and “amenable to construction” expressions as “more amorphous than the statutory definiteness requirement allows.” Id. at 2131. What the statute requires, the Court clarified, “is that a patent’s claims, viewed in light of the specification and prosecution history, inform those skilled in the art about the scope of the invention with reasonable certainty.” Id. at 2129.
+ 
+The key claim language at issue in this appeal includes a term of degree (“unobtrusive manner”). We do not understand the Supreme Court to have implied in Nautilus, and we do not hold today, that terms of degree are inherently indefinite. Claim language employing terms of degree has long been found definite where it provided enough certainty to one of skill in the art when read in the context of the invention. See, e.g., Eibel Process Co. v. Minnesota & Ontario Paper Co., 261 U.S. 45, 65–66, 43 S.Ct. 322, 67 L.Ed. 523 (1923) (finding “substantial pitch” sufficiently definite because one skilled in the art “had no difficulty ... in determining what was the substantial pitch needed” to practice the invention). As the Supreme Court recognized in Nautilus, “absolute precision” in claim language is “unattainable.” 134 S.Ct. at 2129; see also Enzo Biochem, Inc. v. Applera Corp., 599 F.3d 1325, 1335 (Fed.Cir.2010) (holding that the claim phrase “not interfering substantially” was not indefinite even though the construction “define[d] the term without reference to a precise numerical measurement”); Invitrogen Corp. v. Biocrest Mfg., L.P., 424 F.3d 1374, 1384 (Fed.Cir.2005) (“[A] patentee need not define his invention with mathematical precision in order to comply with the definiteness requirement.”).
+ 
+[3] Although absolute or mathematical precision is not required, it is not enough, as some of the language in our prior cases may have suggested, to identify “some standard for measuring the scope of the *1371 phrase.” See Appellant’s Br. 31 (quoting Datamize, LLC v. Plumtree Software, Inc., 417 F.3d 1342, 1351 (Fed.Cir.2005)). The Supreme Court explained that a patent does not satisfy the definiteness requirement of § 112 merely because “a court can ascribe some meaning to a patent’s claims.” Nautilus, 134 S.Ct. at 2130. The claims, when read in light of the specification and the prosecution history, must provide objective boundaries for those of skill in the art. See id. at 2130 & n. 8 (indicating that there is an indefiniteness problem if the claim language “might mean several different things and ‘no informed and confident choice is available among the contending definitions’ ”) (quoting Every Penny Counts, Inc. v. Wells Fargo Bank, N.A., 4 F.Supp.3d 1286, 1291, 2014 WL 869092, at *4 (M.D.Fla. Mar. 5, 2014)); see also Halliburton Energy Servs., Inc. v. M–I LLC, 514 F.3d 1244, 1251 (Fed.Cir.2008) (“The fact that [the patent holder] can articulate a definition supported by the specification ... does not end the inquiry. Even if a claim term’s definition can be reduced to words, the claim is still indefinite if a person of ordinary skill in the art cannot translate the definition into meaningfully precise claim scope.”).
+ 
+
+B
+[4] [5] The patents’ “unobtrusive manner” phrase is highly subjective and, on its face, provides little guidance to one of skill in the art. Although the patented invention is a system that displays content, the claim language offers no objective indication of the manner in which content images are to be displayed to the user. As the district court observed, “whether something distracts a user from his primary interaction depends on the preferences of the particular user and the circumstances under which any single user interacts with the display.” Interval, 2013 WL 792791, at *4. The lack of objective boundaries in the claim language is particularly troubling in light of the patents’ command to read “the term ‘image’ ... broadly to mean any sensory stimulus that is produced from the set of content data,” including sounds and video. ′652 patent, 6:60–64. The patents contemplate a variety of stimuli that could impact different users in different ways. As we have explained, a term of degree fails to provide sufficient notice of its scope if it depends “on the unpredictable vagaries of any one person’s opinion.” Datamize, 417 F.3d at 1350.
+ 
+Where, as here, we are faced with a “purely subjective” claim phrase, we must look to the written description for guidance. Id. at 1351; see also Chimie v. PPG Indus., Inc., 402 F.3d 1371, 1377 (Fed.Cir.2005). We find, however, that sufficient guidance is lacking in the written description of the asserted patents.
+ 
+
+i
+Interval contends that the “unobtrusive manner” phrase is sufficiently defined through its relationship to one of the two primary embodiments. The phrase, Interval maintains, is tied exclusively to the wallpaper embodiment, thus informing those of skill in the art that “unobtrusive” has only a spatial meaning in the context of the patents. “Because the district court failed to appreciate that the language describing display ‘in an unobtrusive manner that does not distract a user’ is tied to specific type of display described in the specification,” Interval argues, the district court “improperly divorced its analysis from the context of the written description and incorrectly focused on irrelevant hypotheticals....” Appellant’s Br. 23.
+ 
+We do not agree with Interval that it is reasonably clear that the “unobtrusive manner” language is tied to a specific type of display. Although Interval identifies *1372 portions of the specification that appear to use the “unobtrusive manner” phrase in conjunction with the wallpaper embodiment, see ′652 patent, 2:12–19, 13:11–14, other portions of the specification suggest that the phrase may also be tied to the screen saver embodiment.
+According to one aspect of the invention, an attention manager engages the peripheral attention of a person in the vicinity of a display device of an apparatus by acquiring one or more sets of content data from a content providing system and selectively displaying on the display device, in an unobtrusive manner that does not distract a user of the apparatus from a primary interaction with the apparatus, an image or images generated from the set of content data. According to a further aspect of the invention, the selective display of the image or images begins automatically after detection of an idle period of predetermined duration (the “screen saver embodiment”). This aspect can be implemented, for example, using the screen saver API (application program interface) that is part of many operating systems. According to another further aspect of the invention, the selective display of an image or images occurs while the user is engaged in a primary interaction with the apparatus, which primary interaction can result in the display of an image or images in addition to the image or images generated from the set of content data (the “wallpaper embodiment”).
+Id. at 3:11–31 (emphases added).
+ 
+The specification here suggests that possibly both the screen saver and wallpaper embodiments are “further aspects” of an attention manager that displays content “in an unobtrusive manner that does not distract a user of the apparatus from a primary interaction with the apparatus.” Although Interval disputes this reading, we find that the specification is at best muddled, leaving one unsure of whether the “unobtrusive manner” phrase has temporal dimensions as well as spatial dimensions. The hazy relationship between the claims and the written description fails to provide the clarity that the subjective claim language needs. See Datamize, 417 F.3d at 1352 (holding claim term “aesthetically pleasing” indefinite because, even though the preferred embodiment provided “examples of aesthetic features of screen displays that can be controlled by the authoring system,” the specification did not indicate “what selection of these features would be ‘aesthetically pleasing’ ”); In re Hammack, 57 CCPA 1225, 427 F.2d 1378, 1381–82 (1970) (finding claims invalid for indefiniteness where claims “serv[ed] as a shadowy framework upon which are located words lacking in precise referents in the specification” (internal quotations omitted)).
+ 
+The prosecution history further illustrates the difficulty in pinning down the relationship between the written description and the “in an unobtrusive manner that does not distract the user” claim phrase. The statements of Interval, and the responses of the USPTO, reflect considerable uncertainty about which embodiments were tied to the “unobtrusive manner” language. During prosecution in 1998, Interval relied on a different reading than the one it offers now, stating that “[t]he display of images in an unobtrusive manner in a system as recited in Claim 1 can be implemented by, for example, displaying images during an inactive period (e.g., when the user has not interacted with the apparatus for a predetermined period of time) of a primary interaction with the apparatus (the ‘screensaver embodiment’).” J.A. 985. Interval points out, however, that the examiner appeared *1373 not to share Interval’s initial understanding: later in the prosecution, the examiner discussed the “unobtrusive manner” limitation in conjunction with the wallpaper embodiment but not the screen saver embodiment. J.A. 1073.
+ 
+The USPTO expressed a similar understanding during reexaminations of the ′652 and ′314 patents, with examiners finding that the specification links the “unobtrusive manner” language to the wallpaper embodiment, excluding the screensaver embodiment. See J.A. 1090–91, 1311. But in a recent decision addressing the scope and validity of the ′314 patent, the Patent Trial and Appeal Board disagreed with the examiner. Apple, Inc. v. Interval Licensing LLC, No. 2013–005424, 2014 WL 1322685 (Patent Tr. & App. Bd. Apr. 1, 2014).7 The Board concluded that, in light of “the ambiguous nature” of the specification, “the claim term ‘unobtrusive manner’ includes the screensaver embodiment.” Id. at *7.8
+ 
+After reviewing the specification and prosecution history, we find that the “unobtrusive manner” phrase has too uncertain a relationship to the patents’ embodiments. Contrary to Interval’s suggestion, the wallpaper embodiment does not provide a reasonably clear and exclusive definition, leaving the facially subjective claim language without an objective boundary.
+ 
+
+ii
+In the alternative, Interval suggests that if we are not persuaded that the wallpaper embodiment defines the “unobtrusive manner” phrase, then we must at least adopt a “narrow example” from the specification. That example lies in the Summary of the Invention, which explains that information can be presented “in an unobtrusive manner that does not distract the user from the primary interaction with the apparatus (e.g., the information is presented in areas of a display screen that are not used by displayed information associated with the primary interaction with the apparatus ).” ′652 patent, 2:15–19 (emphasis added).
+ 
+We recognize that a patent which defines a claim phrase through examples may satisfy the definiteness requirement. See, e.g., Enzo Biochem, 599 F.3d at 1336 (holding that “not interfering substantially” is sufficiently definite because one of skill in the art could use “the examples in the specification to determine whether interference with hybridization is substantial”). In this case, however, we decline to cull out a single “e.g.” phrase from a lengthy written description to serve as the exclusive definition of a facially subjective claim term. See Nautilus, 134 S.Ct. at 2130 (disfavoring “post hoc” efforts to “ascribe some meaning to a patent’s claims”).
+ 
+Had the phrase been cast as a definition instead of as an example—if the phrase had been preceded by “i.e.” instead of “e.g.”—then it would help provide the clarity that the specification lacks. But as the specification is written, we agree with the *1374 district court that a person of ordinary skill in the art would not understand the “e.g.” phrase to constitute an exclusive definition of “unobtrusive manner that does not distract a user.” See Interval, 2013 WL 792791, at *4. With this lone example, a skilled artisan is still left to wonder what other forms of display are unobtrusive and non-distracting. What if a displayed image takes up 20% of the screen space occupied by the primary application with which the user is interacting? Is the image unobtrusive? The specification offers no indication, thus leaving the skilled artisan to consult the “unpredictable vagaries of any one person’s opinion.” See Datamize, 417 F.3d at 1350. Such ambiguity falls within “the innovation-discouraging ‘zone of uncertainty’ against which [the Supreme Court] has warned.” Nautilus, 134 S.Ct. at 2130 (internal citation omitted).
+ 
+In sum, the “unobtrusive manner that does not distract a user” phrase, when viewed in light of the specification and prosecution history, fails to “inform those skilled in the art about the scope of the invention with reasonable certainty.” See id. at 2129. The claims that depend on that phrase are thus invalid for indefiniteness.
+ 
+
+II. Claim Construction
+[6] [7] [8] [9] We review claim construction de novo. Lighting Ballast Control LLC v. Philips Elecs. N. Am. Corp., 744 F.3d 1272, 1276–77 (Fed.Cir.2014) (en banc); Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1451 (Fed.Cir.1998) (en banc). The words of a claim “are generally given their ordinary and customary meaning,” which is the “meaning that the term would have to a person of ordinary skill in the art in question at the time of the invention.” Phillips v. AWH Corp., 415 F.3d 1303, 1312–13 (Fed.Cir.2005) (en banc) (internal citations omitted). Claim language must be viewed in light of the specification, which is “the single best guide to the meaning of a disputed term.” Id. at 1315 (quoting Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582 (Fed.Cir.1996)). In addition to consulting the specification, we may also consider the prosecution history and any relevant extrinsic evidence. Id. at 1315–17.
+ 
+
+A. Construction of “Attention Manager”
+[10] As discussed in the Background, supra, the phrase “attention manager” appears in claims 15–18 of the ′652 patent. In its claim construction order, the district court adopted the Defendants’ proposed construction: “a system that displays images to a user either when the program detects that the user is not engaged in a primary interaction or as a background of the computer screen.” Interval, 2013 WL 792791, at *11. The court explained that it relied on “the only description in the specification that gives objective boundaries to the scope of this limitation: the ‘screensaver’ and ‘wallpaper’ embodiments.” Id.
+ 
+In contrast to the “in an unobtrusive manner that does not distract a user” phrase, there is no uncertainty about the definitional relationship between the claim term “attention manager” and the written description. The patented invention is a self-coined “attention manager.” No one disputes that the “attention manager” is defined by all of the disclosed embodiments. What is in dispute, and what we must consider in reviewing the construction of “attention manager,” is whether the district court read the embodiments too narrowly and thus improperly limited the scope of the claim term.
+ 
+Interval proposes modifying the claim construction as follows:
+a system that displays images to a user either when the program detects that *1375 the user is not engaged in a primary interaction or as  a background of the computer screen an area of the display screen that is not substantially used by the user’s primary activity.
+See Appellant’s Br. 53.
+ 
+With regard to the first proposed modification—the removal of “the program detects that” phrase—Interval argues that the district court mistakenly limited the screen saver to a single mode of operation. Interval notes that the specification describes two ways of activating the screen saver: (1) through the detection of an idle period or, alternatively, (2) through direct user activation. See ′652 patent, 9:21–36. In response, the Defendants suggest that the system still “detects” user activation even in the alternative embodiment, and that the district court’s inclusion of “detects” is thus consistent with the patents’ description of the screen saver. Although the Defendants’ reading is plausible, we think that Interval’s reading better conforms to the distinction drawn between “detection” and “user-activation” in the written description. We therefore agree with Interval that the phrase “the program detects that” should be removed from the construction.
+ 
+With regard to the second proposed modification—the replacement of “a background of the computer screen” with “as an area of the display screen that is not substantially used by the user’s primary activity”—Interval argues that its change is faithful to a “lexicographical definition” in the specification of the ′652 patent. Appellant’s Br. 53 (citing Phillips, 415 F.3d at 1321). Interval faults the district court for basing its construction on a general definition of “wallpaper” in the specification. See ′652 patent, 1:50–52 (describing wallpaper as “a pattern generated in the background portions on a computer display”). Instead, Interval urges, the construction should be based on an express definition of “wallpaper embodiment”:
+According to another further aspect of the invention, the selective display of an image or images occurs while the user is engaged in a primary interaction with the apparatus, which primary interaction can result in the display of an image or images in addition to the image or images generated from the set of content data (the “wallpaper embodiment”).
+Id. at 3:25–31.
+ 
+We agree with Interval that the wallpaper embodiment of the attention manager should not be strictly limited to the “background” of a computer screen, and we agree that the specification’s description of the embodiment should inform our construction. The district court’s construction suggests that displayed images must be integrated into the background display, similar to the “patterns” of the traditional wallpaper described in the background of the invention. See id. at 1:50–52. But the patents’ description of the wallpaper embodiment supports a broader reading. The patent describes the embodiment as making use of unused spatial capacity—that is, space in the display not used by the user’s primary interaction. See id. at 3:25–31, 6:45–51. The specification does not indicate that the images must be displayed as part of the background of the display device.
+ 
+We note, however, that Interval’s proposed modification (“an area of the display screen that is not substantially used by the user’s primary activity”) is not taken directly from the cited “lexicography.” Rather, the proposed language appears to be Interval’s interpretation of where the images will be displayed while the user is engaged in a primary interaction. Based on our reading of the specification, the attention manager is better construed as displaying images in areas “not used”— *1376 instead of “not substantially used”—by the user’s primary activity. The specification consistently describes how the attention manager makes use of “unused capacity.” Moreover, the specification twice contrasts a user’s “primary interaction with the apparatus” with the display of information in areas “not used” by the information associated with the primary interaction. See id. at 2:15–19, 6:43–45. The phrase “not substantially used,” by contrast, appears nowhere in the specification.
+ 
+In sum, with the exception of the addition of the word “substantially,” we agree with Interval’s proposed construction of “attention manager.” Accordingly, we adopt the following construction: “a system that displays images to a user either when the user is not engaged in a primary interaction or in an area of the display screen that is not used by the user’s primary activity.”
+ 
+
+B. Construction of “Instructions”
+[11] The district court construed “instructions” as “a statement in a programming language that specifies a function to be performed by a system.” Interval, 2013 WL 792791, at *15–16. Although the district court’s construction of “instructions” was not dispositive with respect to the final judgment of invalidity and non-infringement, Interval asks us to review that construction now. Specifically, Interval asks us to clarify that “instructions,” in the context of the patents, “may encompass ‘data’ ” and “need not be written ‘in a programming language.’ ” Appellant’s Br. 61–62.
+ 
+[12] In the interest of judicial economy, we have the discretion to review a non-dispositive claim construction if we believe that the construction may become important on remand. See Deere & Co. v. Bush Hog, LLC, 703 F.3d 1349, 1357 (Fed.Cir.2012); Advanced Software Design Corp. v. Fiserv, Inc., 641 F.3d 1368, 1378 (Fed.Cir.2011). Because we are vacating the judgment of non-infringement as to claims 15–18 of the ′652 patent, and because those claims include the term “instructions,” we take this opportunity to address the claim construction of that term.
+ 
+During claim construction, Interval argued that “instructions” should be construed to cover “data related to the accomplishment of a function.” J.A. 27. Relying principally on the distinction between “instructions” and “data” in the specification, the district court refused to adopt Interval’s construction. See Interval, 2013 WL 792791, at *15–16. We share the district court’s reading.
+ 
+Interval notes that the specification refers to certain “instructions” as “functional components,” ′652 patent, 14:49–53, which may be represented by “data.” Id. at 14:53–57 (“Each of the functional components are represented by a set of instructions and/or data. In particular, each of the instructions may include, if appropriate, data related to accomplishment of the functions associated with the set of instructions....”). Although Interval reads the cited portion of the specification as showing that data alone can constitute an “instruction,” we read the specification as maintaining a distinction between “instructions” and “data.” An instruction “may ... include data,” not consist of data; the instruction is not the data itself. As the district court observed, “[i]f ‘data’ is a type of ‘instructions,’ then the phrase ‘instructions and/or data’ would not make sense.” Interval, 2013 WL 792791, at *16. Moreover, the district court’s reading is consistent with extrinsic evidence suggesting that the distinction between “instructions” and “data” is widely recognized in the field of art. See J.A. 845 (“The distinction between program (instructions) and data is a *1377 fundamental one in computing.” (quoting Oxford Dictionary of Computing )). For these reasons, we decline Interval’s invitation to call into question the distinction between “instructions” and “data” in the district court’s construction.
+ 
+As for Interval’s concerns regarding the “in a programming language” phrase, we find that a modification to the construction is necessary. Although the district court carefully explained why the intrinsic evidence supported the exclusion of the word “data” from its construction, the court offered no direct explanation for its inclusion of the “in a programming language” limitation. The patents’ specification does not indicate that instructions must take the form of programming language statements. The source of that limitation is the IEEE Standard Dictionary of Electrical and Electronics Terms (6th ed.1996) ( “IEEE Dictionary”), which the Defendants relied on for their proposed construction. See J.A. 419, 484.
+ 
+The IEEE Dictionary includes five different definitions of “computer instruction,” with two definitions specifically directed towards “software” computer instructions. The Defendants based their construction on one of those two definitions: “A statement in a programming language, specifying an operation to be performed by a computer and the addresses or values of the associated operands; for example, Move A to B.” Id. at 484. The second definition, which the Defendants did not reference, reads: “Loosely, any executable statement in a computer program.” Id.
+ 
+We have recognized that technical dictionaries “can assist the court in determining the meaning of particular terminology to those of skill in the art of the invention.” Phillips, 415 F.3d at 1318. At the same time, we have cautioned against relying on dictionary definitions at the expense of a fair reading of the claims, which must be understood in light of the specification. See id. at 1321–22. Here, considering that the patents’ specification does not use “instructions” in relation to “programming language statements,” we find that the broader dictionary definition (“any executable statement in a computer program”) is preferable.
+ 
+Moreover, we share Interval’s concern that the “in a programming language” limitation will breed unnecessary uncertainty about whether “instructions” may take the form of object code. As Interval notes, one could argue that object code—which may consist of strings of 1’s and 0’s—is not a “programming language.” The IEEE Dictionary, however, defines “object code” as “[c]omputer instructions and data definitions in a form output by an assembler or a compiler.”
+ 
+In sum, the extrinsic source on which the district court relied suggests a broader construction of “instructions” than the court adopted. We conclude that a construction without the “in a programming language” phrase is both simpler and more accurate. Accordingly, we adopt the following construction: “a statement that specifies a function to be performed by a system.”
+ 
+
+CONCLUSION
+We hold that the claim phrase “in an unobtrusive manner that does not distract a user” is indefinite under 35 U.S.C. § 112, ¶ 2. Therefore, the district court correctly granted judgments of invalidity as to claims 4–8, 11, 34, and 35 of the ′652 patent and claims 1–4 and 7–15 of the ′314 patent. However, the district court erred in granting judgments of non-infringement as to claims 15–18 of the ′652 patent based on the erroneous claim construction of “attention manager.” We therefore affirm the judgments of invalidity, vacate the *1378 judgments of non-infringement, and remand to the district court for further proceedings consistent with this opinion.
+ 
+AFFIRMED–IN–PART, VACATED–IN–PART, AND REMANDED
+ 
+
+COSTS
+Each party shall bear its own costs.
+ 
+All Citations
+766 F.3d 1364, 112 U.S.P.Q.2d 1188
+Footnotes
+
+*
+
+Randall R. Rader, who retired from the position of Circuit Judge on June 30, 2014, did not participate in this decision.
+
+1
+
+Interval sued the four appellees for infringement in the district court. Due to complicated procedural reasons not relevant here, the court severed all of the claims and counterclaims into four cases, issuing separate final judgment orders of invalidity and non-infringement for each case. Interval appealed each order, and the four appeals were consolidated into the present appeal.
+
+2
+
+After the present appeal was argued, the Patent Trial and Appeal Board reversed the examiner’s decision of the inter partes reexamination of the ′314 patent. The Board rejected all of the asserted claims of the ′  314 patent as obvious, anticipated, or both. See Apple, Inc. v. Interval Licensing LLC, No. 2013–005424, 2014 WL 1322685, at *16 (Patent Tr. & App. Bd. Apr. 1, 2014). Interval has indicated that it intends to appeal the Board’s decision.
+
+3
+
+As Interval observes, much of the district court’s indefiniteness analysis treats “unobtrusive manner” and “does not distract a user” as distinct claim limitations. Interval argues that “[b]ecause the phrase is used as a whole repeatedly throughout the specification and claims ... all of the words of the phrase should be construed together.” Appellant’s Br. 28 n.5. We agree and evaluate the phrase accordingly in this opinion.
+
+4
+
+The district court separately addressed independent claim 4 of the ′652 patent, which uses the “unobtrusive manner” phrase in a means-plus-function limitation. See ′652 patent, 30:29–33 (claiming a “means for selectively displaying on the display device, in an unobtrusive manner that does not distract a user”). The court held that claim 4 and its dependent claims were indefinite because the specification does not disclose an algorithm that would constitute sufficient structure for accomplishing the recited function. Interval, 2013 WL 792791, at *9. Interval asks us to reverse that holding. However, because we affirm the district court’s determination that the “in an unobtrusive manner that does not distract a user” phrase is indefinite under 35 U.S.C. § 112, ¶ 2 for the reasons stated in this opinion, we find it unnecessary to address the district court’s additional determination that the means-plus-function claims are indefinite due to a lack of corresponding structure in the specification.
+
+5
+
+Paragraph 2 of 35 U.S.C. § 112 was replaced with newly designated § 112(b) when § 4(c) of the America Invents Act (“AIA”), Pub.L. No. 112–29, took effect on September 16, 2012. Because the applications resulting in the patents at issue in this case were filed before that date, we will refer to the pre-AIA version of § 112.
+
+6
+
+We note that the district court’s indefiniteness determination rests only on intrinsic evidence, and that there are no disputes about underlying questions of fact. Although the Defendants point to the testimony of Interval’s expert in support of their argument that the “unobtrusive manner” phrase is indefinite, see Appellee’s Br. 32, we find it unnecessary to rely on that testimony (or any other extrinsic evidence) to reach our conclusion. Like the district court, we find the claims indefinite based on the claims, the written description, and the prosecution history.
+
+7
+
+The Board’s decision was a response to an appeal from an inter partes reexamination. Per 37 C.F.R. § 1.906, the Board was limited to the question of whether the challenged claims should be rejected on the basis of prior art patents or printed publications. Neither the examiner nor the Board could address claim definiteness. The claims were given “their broadest reasonable construction” during reexamination. In re Am. Acad. Of Sci. Tech Ctr., 367 F.3d 1359, 1364 (Fed.Cir.2004).
+
+8
+
+At the hearing before the Board, counsel for Interval acknowledged the lack of clarity in column 3 of the specification: “I would say in this summary location within the specification [the drafters] were a little bit less precise, a little bit sloppy here ... it might seem less precise or even possibly contradictory.... My point is simply that at best it’s ambiguous.” Id. at *6 (internal citations omitted).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (14)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Thought, Inc. v. Oracle Corporation 
+2014 WL 5408179 , N.D.Cal.
+The parties ask the Court to construe 19 terms from the seven patents asserted in this case. As explained by plaintiff Thought’s expert, Hosagrahar Jagadish, Ph.D., the patents in...
+Oct. 22, 2014
+Case
+
+—
+
+Distinguished by
+ 2.  DDR Holdings, LLC v. Hotels.com, L.P.
+773 F.3d 1245 , Fed.Cir.(Tex.)
+PATENTS - Computers and Electronics. Asserted claims of patent relating to e-commerce system were invalid as anticipated.
+Dec. 05, 2014
+Case
+
+—
+
+Distinguished by
+ 3.  Ameritox, Ltd. v. Millennium Health, LLC 
+88 F.Supp.3d 885 , W.D.Wis.
+PATENTS - Medical Devices and Procedures. Patent related to method for quantifying at least one metabolite in at least one biological sample was invalid for lack of enablement.
+Feb. 19, 2015
+Case
+
+1
+
+
+
+
+F.3d
+
+Distinguished by
+4.  Effective Exploration, LLC v. Pennsylvania Land Holdings Company, LLC
+2015 WL 12753785 , W.D.Pa.
+I. Parties and Patents-in-Suit.–––– II. Referral to Special Master.–––– III. Parties’ Submissions .–––– IV. Agreed Terms .–––– V. Disputed Terms and Summary of Recommendations.––––...
+May 08, 2015
+Case
+
+—
+
+Distinguished by
+ 5.  Unwired Planet LLC v. Google Inc. 
+111 F.Supp.3d 1120 , D.Nev.
+Background:  Owner of patent related to a method and system for displaying recursively images on a display screen of a mobile device, wherein the images are of larger dimensions...
+May 26, 2015
+Case
+
+1
+
+
+
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+6.  OpenTV, Inc. v. Apple, Inc. 
+2015 WL 3544845 , N.D.Cal.
+Plaintiffs OpenTV, Inc. and Nagravision, S.A. filed this patent infringement action against Defendant Apple, Inc. The parties seek construction of eight claim terms found in three...
+June 05, 2015
+Case
+
+1
+
+
+
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+ 7.  Veracode, Inc. v. Appthority, Inc. 
+137 F.Supp.3d 17 , D.Mass.
+PATENTS - Computers and Electronics. Patent for decompiling machine code that was directed at abstract computer science principle possessed sufficient inventive concept to be...
+Sep. 30, 2015
+Case
+
+1
+
+
+
+
+3
+
+
+
+
+7
+
+
+
+
+F.3d
+
+Distinguished by
+8.  Legacy Separators LLC v. Halliburton Energy Services Inc 
+2016 WL 3017140 , S.D.Tex.
+This case is before the Court for construction of disputed claim terms in United States Patent No. 8,424,597 (“the ‘597 Patent  ”). The Court conducted a hearing pursuant to...
+May 26, 2016
+Case
+
+4
+
+
+
+
+10
+
+
+
+
+F.3d
+
+Distinguished by
+9.  Card-Monroe Corp. v. Tuftco Corp.
+2016 WL 3212085 , E.D.Tenn.
+On October 7, 2014, Card-Monroe Corp. (’’CMC’’) filed a Complaint (Doc. 1) against Tuftco Corp. (’’Tuftco’’) alleging infringement of three patents (the ‘’Patents’’): United States...
+June 09, 2016
+Case
+
+—
+
+Distinguished by
+ 10.  Marical, Inc. v. Cooke Aquaculture Inc. 
+2016 WL 3676152 , D.Me.
+In this action, Plaintiffs and Counter-claim Defendants Marical Inc., Europharma AS, and Europharma Inc. Canada (“Plaintiffs”), allege that Defendants and Counter-claim Plaintiffs...
+July 06, 2016
+Case
+
+5
+
+
+
+
+F.3d
+
+Distinguished by
+ 11.  ABS Global, Inc. v. Inguran, LLC 
+2016 WL 3963246 , W.D.Wis.
+This lawsuit arises out of the breakdown of a now ten-year business relationship between plaintiff ABS Global, Inc. (“ABS”) and defendant/counterclaimant Inguran, LLC d/b/a Sexing...
+July 21, 2016
+Case
+
+1
+
+
+
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+ 12.  Sonix Technology Co., Ltd. v. Publications International, Ltd.  
+844 F.3d 1370 , Fed.Cir.(Ill.)
+PATENTS - Computers and Electronics. Phrase ”visually negligible” in patent for method to encode information on surface of object that was visually negligible was not indefinite.
+Jan. 05, 2017
+Case
+
+1
+
+
+
+
+4
+
+
+
+
+5
+
+
+
+
+F.3d
+
+Distinguished by
+13.  National Steel Car Limited v. Freightcar America, Inc. 
+2017 WL 2480709 , N.D.Ill.
+Plaintiff National Steel Car Limited, Inc. sued defendant FreightCar America, Inc. for patent infringement. The asserted patents are U.S. Patent No. 7,434,519; U.S. Patent No....
+June 08, 2017
+Case
+
+5
+
+
+
+
+F.3d
+
+Distinguished by
+14.  Evonik Degussa GmbH v. Materia, Inc. 
+2017 WL 3476702 , D.Del.
+Background:  Following jury finding for patent owner on invalidity and award of damages for infringement of patent related to the facilitation of chemical reactions, particularly...
+Aug. 10, 2017
+Case
+
+1
+
+
+
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+

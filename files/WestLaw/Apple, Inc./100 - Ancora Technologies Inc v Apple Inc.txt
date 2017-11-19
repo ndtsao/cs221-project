@@ -1,0 +1,351 @@
+
+
+
+
+
+Ancora Technologies, Inc. v. Apple, Inc.
+United States Court of Appeals, Federal Circuit. | March 3, 2014 | 744 F.3d 732 | 2014 WL 803104
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Telebrands Corp. v. Tinnus Enterprises, LLC, Patent Tr. &amp; App. Bd., December 30, 2016
+
+standard Citation:
+
+Ancora Techs., Inc. v. Apple, Inc., 744 F.3d 732 (Fed. Cir. 2014)
+
+All Citations:
+
+744 F.3d 732, 109 U.S.P.Q.2d 2135
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Telebrands Corp. v. Tinnus Enterprises, LLC, Patent Tr. &amp; App. Bd., December 30, 2016
+744 F.3d 732
+United States Court of Appeals,
+Federal Circuit.
+ANCORA TECHNOLOGIES, INC., Plaintiff–Appellant,
+v.
+APPLE, INC., Defendant–Cross Appellant.
+2013–1378, 2013–1414.
+|
+March 3, 2014.
+|
+Rehearing and Rehearing En Banc Denied June 5, 2014.
+Synopsis
+Background: Patentee brought action against competitor for infringement of patent for method of preventing use of unauthorized software. The United States District Court for the Northern District of California, Yvonne Gonzalez Rogers, J., 2012 WL 6738761, construed claims and granted summary judgment of non-infringement. Parties appealed.
+ 
+Holdings: The Court of Appeals, Taranto, Circuit Judge, held that:
+ 
+[1] term “patent” meant both operating systems and the applications that run on them, and
+ 
+[2] terms “volatile memory” and “nonvolatile memory” were not invalid for indefiniteness.
+ 
+Affirmed in part, reversed in part, and remanded.
+ 
+
+
+West Headnotes (7)
+
+
+[1]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+Patent claim construction and indefiniteness are matters of law that the Court of Appeals reviews de novo.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsContext
+PatentsContemporaneous construction
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1320Context
+(Formerly 291k157(1))
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1343Contemporaneous construction
+(Formerly 291k162)
+
+
+Patent claim term should be given its ordinary meaning in the pertinent context, unless the patentee has made clear its adoption of a different definition or otherwise disclaimed that meaning.
+7 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+(Formerly 291k101(11))
+
+
+“Program,” in patent for method of preventing use of unauthorized software programs, meant both operating systems and the applications that run on them, as well as other types of computer programs.
+1 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsAmbiguity, Uncertainty, or Indefiniteness
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k816In general
+(Formerly 291k101(6))
+
+
+Patent claim must be sufficiently definite to inform the public of the bounds of the protected invention, i.e., what subject matter is covered by the exclusive rights of the patent. 35 U.S.C.A. § 112(b).
+6 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k822Particular products or processes
+(Formerly 291k101(6))
+
+
+Terms “volatile memory” and “nonvolatile memory,” in patent for method of preventing use of unauthorized software programs, were not invalid for indefiniteness; terms had ordinary meaning that was clear, settled, and objective in content, patent specification nowhere purported to define terms differently or disclaim their ordinary meaning, and prosecution history further confirmed that patentee had not displaced terms’ ordinary meaning. 35 U.S.C.A. § 112(b).
+3 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsPlain, ordinary, or customary meaning in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1317Plain, ordinary, or customary meaning in general
+(Formerly 291k157(1))
+
+
+Clear ordinary meaning of patent claim term is not properly overcome, and a relevant reader would not reasonably think it overcome, by a few passing references that do not amount to a redefinition or disclaimer.
+5 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,411,941. Construed and Ruled Valid.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*733 John S. Leroy, Brooks Kushman P.C., of Southfield, MI, argued for plaintiff-appellant. With him on the brief were Mark A. Cantor, Marc Lorelli, and John P. Rondini.
+Deanne E. Maynard, Morrison & Foerster LLP, of Washington, DC, argued for defendant-cross appellant. With her on the brief were Brian R. Matsui and Natalie R. Ram, of Washington, DC; Michael A. Jacobs, Richard S.J. Hung, and Francis C. Ho, of San Francisco, CA; and Bita Rahebi, of Los Angeles, CA.
+Before RADER, Chief Judge, TARANTO, and CHEN, Circuit Judges.
+Opinion
+TARANTO, Circuit Judge.
+
+Ancora Technologies, Inc., owns U.S. Patent No. 6,411,941, which claims methods for verifying that a software program on a computer is not there without authorization, but is licensed to be there. In December 2010, Ancora sued Apple Inc., alleging that products running Apple’s iOS operating system infringed the ′941 patent. The United States District Court for the Northern District of California construed the claims. Ancora Techs., Inc. v. Apple Inc., 11–CV–06357, 2012 WL 6738761 (N.D.Cal. Dec. 31, 2012). Ancora stipulated to summary judgment of non-infringement under the district court’s construction of the claim term “program.” The district court subsequently entered final judgment dismissing all claims and counterclaims. Ancora appeals the district court’s construction of “program,” while Apple cross-appeals the district court’s holding that the terms “volatile memory” and “non-volatile memory” are not indefinite. We affirm in part, reverse in part, and remand.
+ 
+
+BACKGROUND
+The ′941 patent, entitled “Method of Restricting Software Operation within a License Limitation,” describes a method of preventing unauthorized software use by checking whether a software program is operating within a license and stopping the program or taking other remedial action if it is not. The specification states that methods for checking license coverage of software were known in the art at the time the inventors applied for the ′941 patent. But some of those methods were vulnerable to hacking, the specification observes, while others were expensive and inconvenient to distribute. ′941 patent, col. 1, lines 19–32.
+ 
+The specification describes a method that it says overcomes those problems. In particular, it discloses using the memory space associated with the computer’s basic input/output system (BIOS), rather than other memory space, to store appropriately encrypted license information to be used in the verification process. See, e.g., id., col. 1, line 46, through col. 2, line 5; id., col. 4, lines 45–48; id., col. 5, lines 19–24. It states that, while the contents of the BIOS memory space may be modified, the level of programming expertise needed to do so is unusually high, and the risk of accidentally damaging the BIOS and thereby rendering the computer inoperable “is too high of a risk for the ordinary software hacker to pay.” Id., col. 3, lines 4–14. Thus, the inventors stated that their method makes use of the existing computer hardware (eliminating the expense and inconvenience of using additional *734 hardware), while storing the verification information in a space that is harder and riskier for a hacker to tamper with than storage areas used by earlier methods.
+ 
+Claim 1, the only independent claim Ancora asserts, is representative:
+1. A method of restricting software operation within a license for use with a computer including an erasable, non-volatile memory area of a BIOS of the computer, and a volatile memory area; the method comprising the steps of:
+selecting a program residing in the volatile memory,
+using an agent to set up a verification structure in the erasable, non-volatile memory of the BIOS, the verification structure accommodating data that includes at least one license record,
+verifying the program using at least the verification structure from the erasable nonvolatile memory of the BIOS, and
+acting on the program according to the verification.
+Id., col. 6, line 59, through col. 7, line 4.
+ 
+The parties have not meaningfully disagreed about the ordinary meaning of the claim terms at issue on appeal: “program,” “volatile memory,” and “non-volatile memory.” But Apple has relied on examples in the specification, as well as statements by the applicants and the examiner during prosecution, to argue that the terms do not have those ordinary meanings in this patent. Specifically, Apple has argued that the term “program” (which is to be verified for authorization under a license) is limited to an application program, i.e., one that relies on an operating system in order to run, thus excluding an operating system itself. Apple also has argued that the terms “volatile memory” and “non-volatile memory” are indefinite because an example given in the specification is irreconcilable with the ordinary meaning of the terms. The district court agreed with Apple on the first point (finding non-infringement on that basis) but disagreed with Apple on the second (rejecting invalidity for indefiniteness on that basis). Both sides appeal. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+[1] Claim construction and indefiniteness are matters of law that this court reviews de novo. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1451 (Fed.Cir.1998); Praxair, Inc. v. ATMI, Inc., 543 F.3d 1306, 1319 (Fed.Cir.2008).
+ 
+
+A
+[2] [3] Ancora challenges the district court’s conclusion that the term “program” is limited to application programs, thereby excluding operating systems from the class of programs that the claimed method checks for authorization under a license. We agree with Ancora. A claim term should be given its ordinary meaning in the pertinent context, unless the patentee has made clear its adoption of a different definition or otherwise disclaimed that meaning. See, e.g., Thorner v. Sony Computer Entm’t Am. LLC, 669 F.3d 1362, 1365 (Fed.Cir.2012). There is no reason in this case to depart from the term’s ordinary meaning.
+ 
+Apple nowhere seriously disputes that the ordinary meaning of the word “program” in the computer context encompasses both operating systems and the applications that run on them (as well as other types of computer programs). And the district court explained that, although the term “program” may have many different meanings depending on the context, “to a computer programmer” a program is merely a “set of instructions” for a computer. *735 Ancora, 2012 WL 6738761, at *7. That clear meaning governs here, we conclude, because there is nothing sufficient to displace it.
+ 
+The claims themselves point against a narrowing of the term “program” to application programs. Claim 1 recites a “method of restricting software operation” (if license coverage of the software cannot be verified) and refers to the restricted software simply as a “program.” ′941 patent, col. 6, line 59, through col. 7, line 4. In contrast, independent claim 18, which is not asserted here, recites a “method for accessing an application software program” and then repeatedly refers to the “application software program.” Id., col. 8, lines 31–52 (emphases added). Although claim 18 is not a dependent claim, and claim differentiation as an interpretive principle is often of limited importance, the difference in terminology tends to reinforce, rather than undermine, adoption of the broad ordinary meaning of “program” by itself.
+ 
+Nothing in the specification clearly narrows the term “program.” The general disclosure in the specification refers to the to-be-verified software as a “software program,” “software,” or a “program,” without limiting the subject matter to particular types of programs. See, e.g., id., col. 1, lines 7, 40; id., col. 2, lines 63, 66. The only instances in which the specification discusses using the claimed invention to verify application programs are found in examples that the specification makes clear are not limiting. See, e.g., id., col. 1, line 45 (characterizing the example at col. 1, line 46, through col. 2, line 59, as “a specific non-limiting example”); id., col. 3, line 33 (describing a “preferred embodiment”); id., col. 4, line 66 (characterizing the preferred embodiment described in columns 5 and 6 as a “non-limiting example only”). Such examples are “not sufficient to redefine the term ... to have anything other than its plain and ordinary meaning.” IGT v. Bally Gaming Int’l, Inc., 659 F.3d 1109, 1118 (Fed.Cir.2011). Thus, nothing in the specification would lead one of ordinary skill in the art to understand that the claims use “program” in a sense narrower than its ordinary meaning.
+ 
+The prosecution history requires more extended discussion, but it too does not require a meaning that substitutes for the ordinary one. In reading the prosecution history, it is important to keep in mind the distinction between a program whose coverage by a license is being checked and a piece of software that embodies the patent’s claimed method of checking. The term “program” in the claims refers exclusively to the to-be-verified program. Indeed, neither the specification nor the claims use the term “program” to refer to software (a set of instructions) that, when run, performs the claimed verification steps, instead referring to the invention as a “method,” “system,” or, in one instance, a “license verifier application.” See, e.g., ′941 patent, col. 1, lines 6–8; id., col. 2, line 14.
+ 
+The prosecution-history statements that Apple cites are focused on the verifying software, not clearly (or in any event relevantly) on the to-be-verified program, and so cannot support Apple’s narrowing argument. Specifically, the applicants distinguished their invention over a combination of two references: one disclosed storage in the BIOS memory area by the BIOS software itself; the other disclosed software implemented in or through an operating system. The applicants explained that their invention differed from the prior art in that it both operated as an application running through an operating system and used the BIOS level for data storage and retrieval—a combination that was not previously *736 taught and that an ordinarily skilled application writer would not employ:
+[T]here is no suggestion or motivation to combine Misra and Ewertz in the manner suggested in the Office Action. BIOS is a configuration utility. Software license management applications, such as the one of the present invention, are operating system (OS) level programs.... [W]hen BIOS is running, the computer is in a configuration mode, hence OS is not running. Thus, BIOS and OS level programs are normally mutually exclusive.
+...
+[T]he present invention proceeds against conventional wisdom in the art. Using BIOS to store application data such as that stored in Misra’s local cache for licenses is not obvious. The BIOS area is not considered a storage area for computer applications. An ordinary skilled artisan would not consider the BIOS as a storage medium to preserve application data for at least two reasons.
+First, ... [a]n ordinary person skilled in the art makes use of OS features to write data to storage mediums. There is no OS support whatsoever to write data to the system BIOS. Therefore, an ordinary person skilled in the art would not consider the BIOS as a possible storage medium....
+Second, no file system is associated with the BIOS.... This is further evidence that OS level application programmers would not consider the BIOS as a storage medium for license data.
+Amendment dated Feb. 5, 2002, at 6–7, in Appl. No. 09/164,777 (emphasis added).
+ 
+The reference to the invention as a “license management application[ ]” and the identification of persons of ordinary skill in the relevant art as “application programmers” who “make[ ] use of OS features” demonstrate that the applicants understood that their claimed methods would be implemented as application software, rather than lower-level system software. But those representations, made in distinguishing prior art, concerned software that implemented the invented method. The to-be-verified software is different from the verifying software. The statements from the prosecution history on which Apple relies do not say that the program being verified must be an application program. Even the reference to “application data” in describing Misra, even if read to refer to data about a to-be-verified program (which is not clear), does not distinguish Misra, or limit the present claims, on that basis.1
+ 
+Other prosecution statements cited by Apple no more establish the narrowing it urges. Although Apple makes much of language about storing “application data” in the BIOS area, Amendment dated Feb. 5, 2002, at 7, nothing in the applicants’ statements indicates that the “application” in question is the to-be-verified software, as opposed to the verifying software; and in any event, the language does not rise to the level of a disclaimer regarding nature of the to-be-verified software. Likewise, although the examiner stated in his reasons for allowance that “the closest prior art systems, singly or collectively, do not teach licensed programs running at the OS level interacting with a program verification structure stored in the BIOS,” Notice of Allowability dated Feb. 20, 2002, at 4, in Appl. No. 09/164,777, that statement is at worst a slip: under the claims, it is indisputably *737 the verifying software that interacts with the verification structure. In any event, the statement is not the applicants’ statement. See Salazar v. Procter & Gamble Co., 414 F.3d 1342, 1345 (Fed.Cir.2005) (remarks in the examiner’s statement of reasons for allowance insufficient to limit claim scope). And, as quoted above, the applicants were clear that the OS-level language referred to the verifying software.
+ 
+Nor, finally, did the applicants represent in the prosecution history, or elsewhere, that verification must occur before the to-be-verified program is loaded (so that software for performing verification that depended on a running operating system could not verify the operating system). To the contrary, the first step in claim 1 is “selecting a program residing in the volatile memory,” ′941 patent, col. 6, line 63, and the examiner understood that “software would have to be loaded a priori in order to reside in volatile memory.” Office Action dated Jan. 15, 2002, at 3, in Appl. No. 09/164,777 (emphasis added). The specification does describe an embodiment in which the verifying software is “a priori running in the computer” when a to-be-verified program is loaded into memory. ′941 patent, col. 2, lines 14–15. But that is part of what is merely a “non-limiting example” that is “by no means binding.” Id., col. 1, line 45; id., col. 2, line 61.
+ 
+We conclude that the district court erred in construing “program” to mean “a set of instructions for software applications that can be executed by a computer.” Ancora, 2012 WL 6738761, at *10 (emphasis added).
+ 
+
+B
+[4] [5] In its cross-appeal, Apple challenges the district court’s rejection of its contention that the claims at issue are invalid because the terms “volatile memory” and “nonvolatile memory” are indefinite. Under what is now 35 U.S.C. § 112(b), a claim must be “sufficiently definite to inform the public of the bounds of the protected invention, i.e., what subject matter is covered by the exclusive rights of the patent.” Halliburton Energy Servs., Inc. v. M–I LLC, 514 F.3d 1244, 1249 (Fed.Cir.2008). The Supreme Court currently is considering how to refine the formulations for applying the definiteness requirement. See Nautilus, Inc. v. Biosig Instruments, Inc., ––– U.S. ––––, 134 S.Ct. 896, 187 L.Ed.2d 702 (2014). In this case, we think that we can reject the indefiniteness challenge without awaiting the Court’s clarification. However other circumstances may be evaluated, it suffices to reject the challenge in this case that the claim language and the prosecution history leave no reasonable uncertainty about the boundaries of the terms at issue, even considering certain aspects of the specification that could engender confusion when read in isolation.
+ 
+Most importantly, there is no dispute that the terms “volatile memory” and “non-volatile memory” have a meaning that is clear, settled, and objective in content. Both parties and the district court agreed that, as a general matter, “[t]o one of ordinary skill in the art, a volatile memory is memory whose data is not maintained when the power is removed and a non-volatile memory is memory whose data is maintained when the power is removed.” Ancora, 2012 WL 6738761, at *4. That meaning leaves the relevant public with a firm understanding of the scope of the claim terms, unless something exceptional sufficiently supplants that understanding. Apple argues that the specification does so. We conclude otherwise.
+ 
+Apple’s argument rests on the fact that, three times, the specification uses language *738 referring to a hard disk as an example of volatile memory. ′941 patent, col. 1, line 21; id., col. 3, line 9; id., col. 4, line 53. All sides agree that a hard disk maintains data when the power is removed and for that reason is not normally referred to as “volatile memory.” Apple contends that because “a hard disk is a quintessential example of non-volatile memory” and “the specification does not explain how a hard disk can fall into the category of volatile memory ... or what characteristics differentiate volatile from non-volatile memory ... a person of ordinary skill would not know what falls within the scope of the claims.” Cross–Appellant Br. at 38.
+ 
+[6] We are not persuaded that Apple’s conclusion is properly drawn from the passages on which it relies. To begin with, the terms at issue have so clear an ordinary meaning that a skilled artisan would not be looking for clarification in the specification. There is no facial ambiguity or obscurity in the claim term. Moreover, the specification nowhere purports to set out a definition for “volatile” or “non-volatile” memory, and nothing in it reads like a disclaimer of the clear ordinary meaning. Under our claim-construction law, a clear ordinary meaning is not properly overcome (and a relevant reader would not reasonably think it overcome) by a few passing references that do not amount to a redefinition or disclaimer.
+ 
+In this case, moreover, a skilled artisan would appreciate that the passages at issue have a possible meaning that is not (what would be surprising) starkly irreconcilable with the clear meaning of “volatile” and “non-volatile” memory, which are the claim terms. (The claims do not mention a hard disk at all, and the only specific example of “volatile” memory set out in the claims is Random Access Memory (RAM), ′941 patent, col. 8, lines 1–2, which all agree is “volatile” in the ordinary sense.) As the district court observed, it is well known that a computer’s hard disk is routinely used as “virtual” memory to provide temporary storage when there is insufficient RAM to complete an operation, Ancora, 2012 WL 6738761, at *5, in which case (it is undisputed) the data become inaccessible through the usual means once power is removed (even if the data can still be found on the hard disk by more sophisticated means), Cross–Appellant Br. at 50; J.A. 1672. This explanation for the otherwise-perplexing example of a hard disk as “volatile” memory finds support in the specification’s statement that “the volatile memory is a RAM e.g. hard disk and/or internal memory of the computer.” ′941 patent, col. 4, lines 53–54 (emphasis added). Although oddly phrased, the reference to a “hard disk” as an example of RAM suggests that the patentee meant to refer to the hard disk only in its capacity as supplemental memory in conjunction with the main RAM—rather than to assert, in a passing and indirect manner, a meaning sharply in conflict with clear usage.
+ 
+For those reasons, under the demanding standards for displacing as clear an ordinary meaning as exists in this case, we doubt that an ordinarily skilled artisan could have a reasonable uncertainty about the governing scope of the claims—even before completing the claim-meaning inquiry by examining the prosecution history. And the inquiry must, in fact, continue: an ordinarily skilled artisan must consult the prosecution history to confirm the proper understanding of a claim term’s meaning, especially if other aspects of the inquiry raise questions. See, e.g., Ecolab, Inc. v. Envirochem, Inc., 264 F.3d 1358, 1366 (Fed.Cir.2001) (“[T]he prosecution history ... should always be consulted to construe the language of the claims.”); Texas Instruments Inc. v. U.S. *739 Int’l Trade Comm’n, 871 F.2d 1054, 1063 (Fed.Cir.1989) (“The public ... must look to both the patent specification and the prosecution history, especially where there is doubt concerning the scope of the claims.”). And here, the prosecution history eliminates any reasonable basis for thinking that the patent has adopted a meaning different from the clear ordinary one.
+ 
+During prosecution, the examiner stated, in a June 22, 2001 office action, that he was “relying on the standard definition of ‘non-volatile’ memory as memory that is maintained even when the power is removed from the storage system” in rejecting the claims as anticipated. Office Action dated Jun. 22, 2001, at 3, in Appl. No. 09/164,777. In the same office action, the examiner rejected the claims for indefiniteness because of the specification references to a hard disk as volatile. Id. at 5–6. The applicants responded by amending the claims to restrict the covered non-volatile memory to a memory area of the computer BIOS and did not dispute the examiner’s understanding of “volatile” and “non-volatile” memory in their ordinary meaning (for the anticipation rejection). Amendment dated Nov. 14, 2001, in Appl. No. 09/164,777. The examiner was clearly satisfied both as to anticipation and as to indefiniteness, even though the amended claim still referred to “volatile” memory standing alone (and “non-volatile” areas associated with the BIOS), because he allowed the amended claims.
+ 
+Depending on important details, this kind of sequence has sometimes sufficed for inference of a disclaimer of an otherwise-clear meaning. See, e.g., Biogen Idec, Inc. v. GlaxoSmithKline LLC, 713 F.3d 1090, 1097 n. 6 (Fed.Cir.2013) (disclaimer arose where the applicants “let[ ] stand an examiner’s narrow characterization of a claim term” and “adopt[ed] ... that characterization to overcome the examiner’s ... rejection”). Here the question asked of the prosecution history is much more modest: does it confirm the clear ordinary meaning by resolving any doubts about whether the patentee had displaced that meaning in the specification? We think that the natural meaning of the prosecution history—including satisfaction as to definiteness upon making an amendment that effectively made clear the applicants’ acceptance of the ordinary meaning—is just that confirmation.
+ 
+Apple invokes a portion of Allen Engineering Corp. v. Bartell Industries, Inc., 299 F.3d 1336, 1349 (Fed.Cir.2002), that involved the requirement of 35 U.S.C. § 112(b) (formerly § 112, ¶ 2) that the claim must claim what the “applicant regards as his invention.” That requirement is distinct from the same provision’s requirement that the claim be sufficiently clear to be definite. See Allen, 299 F.3d at 1348; Solomon v. Kimberly–Clark Corp., 216 F.3d 1372, 1377, 1379 (Fed.Cir.2000); In re Knowlton, 481 F.2d 1357, 1366 n. 7 (CCPA 1973). In any event, this case is unlike Allen, where the patentee agreed that the claim language did not match what he regarded as his invention, as the intrinsic record unambiguously showed, and this court denied the patentee’s request to reject the claim language’s clear, ordinary meaning. Here, Ancora embraces the claim language’s clear, ordinary meaning, and for the reasons we have explained, we do not think that the specification and prosecution history establish that the applicants regarded their invention as something contrary to that meaning.
+ 
+Accordingly, the district court was correct to reject Apple’s challenge to “volatile memory” and “non-volatile memory” as indefinite.
+ 
+
+*740 CONCLUSION
+For the foregoing reasons, we reverse the district court’s construction of “program” as limited to application programs, affirm the court’s conclusion that the terms “volatile memory” and “non-volatile memory” are not indefinite, and remand.
+ 
+No costs.
+ 
+AFFIRMED IN PART, REVERSED IN PART, AND REMANDED.
+ 
+All Citations
+744 F.3d 732, 109 U.S.P.Q.2d 2135
+Footnotes
+
+1
+
+We do not have before us a contention that the verification software must be an “application.” We do not address whether such a contention matters in this case or has been preserved.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Telebrands Corp. v. Tinnus Enterprises, LLC  
+2016 WL 7985419 , Patent Tr. & App. Bd.
+PATENTS - Science and Technology. Claims in patent related to system and method for filling containers with fluids were unpatentable for indefiniteness.
+Dec. 30, 2016
+Administrative Decision
+
+2
+
+
+
+
+3
+
+
+
+
+F.3d
+
+

@@ -1,0 +1,882 @@
+
+
+
+
+
+Gutierrez v. Wells Fargo Bank, NA
+United States Court of Appeals, Ninth Circuit. | December 26, 2012 | 704 F.3d 712 | 2012 WL 6684748
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Extend by Allen v. Similasan Corporation, S.D.Cal., August 7, 2013
+
+standard Citation:
+
+Gutierrez v. Wells Fargo Bank, NA, 704 F.3d 712 (9th Cir. 2012)
+
+All Citations:
+
+704 F.3d 712, 12 Cal. Daily Op. Serv. 14,031, 2012 Daily Journal D.A.R. 17,252
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:01 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Extend by Allen v. Similasan Corporation, S.D.Cal., August 7, 2013
+704 F.3d 712
+United States Court of Appeals,
+Ninth Circuit.
+Veronica GUTIERREZ; Erin Walker; William Smith, individually and on behalf of all others similarly situated, Plaintiffs–Appellees,
+v.
+WELLS FARGO BANK, NA, Defendant–Appellant.
+Veronica Gutierrez; Erin Walker; William Smith, individually and on behalf of all others similarly situated, Plaintiffs–Appellees,
+v.
+Wells Fargo Bank, NA, Defendant–Appellant.
+Veronica Gutierrez; Erin Walker, Plaintiffs–Appellants,
+and
+William Smith, individually and on behalf of all others similarly situated, Plaintiff,
+v.
+Wells Fargo Bank, NA, Defendant–Appellee.
+Nos. 10–16959, 10–17468, 10–17689.
+|
+Argued and Submitted May 15, 2012.
+|
+Filed Dec. 26, 2012.
+Synopsis
+Background: Customers brought class action against bank, alleging that its overdraft fee collection practices were unfair and fraudulent in violation of California’s Unfair Competition Law (UCL). The United States District Court for the Northern District of California, William Haskell Alsup, J., 730 F.Supp.2d 1080, granted judgment for customers after bench trial, and denied reconsideration, 2010 WL 4072240. Bank appealed.
+ 
+Holdings: The Court of Appeals, McKeown, Circuit Judge, held that:
+ 
+[1] on issue of first impression, bank was not entitled to demand arbitration on appeal despite intervening Supreme Court precedent;
+ 
+[2] “good faith” limitation applied through “unfair” prong of UCL was preempted by National Bank Act (NBA) when applied in manner that prevented or significantly interfered with national bank’s federally authorized power to choose posting method;
+ 
+[3] NBA preempted “fraudulent” prong of California Unfair Competition Law from imposing liability based on national bank’s failure to disclose its chosen posting method;
+ 
+[4] NBA did not preempt claim challenging its overdraft fee collection practices of posting debit-card transactions in order from highest to lowest dollar amount as fraudulent in violation of UCL;
+ 
+[5] customers actually relied on bank’s allegedly misleading statements regarding its posting method;
+ 
+[6] questions of law or fact common to class members predominated; and
+ 
+[7] bank’s overdraft fee collection practices were fraudulent in violation of UCL.
+ 
+Affirmed in part, reversed in part, and remanded.
+ 
+
+
+West Headnotes (18)
+
+
+[1]
+
+Antitrust and Trade RegulationPurpose and construction in general
+Antitrust and Trade RegulationNature and Elements
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(A)In General
+29Tk126Constitutional and Statutory Provisions
+29Tk128Purpose and construction in general
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(A)In General
+29Tk133Nature and Elements
+29Tk134In general
+
+
+California’s Unfair Competition Law governs anti-competitive business practices as well as injuries to customers, and has as a major purpose the preservation of fair business competition. West’s Ann.Cal.Bus. & Prof.Code § 17200.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+Alternative Dispute ResolutionPresentation and reservation of grounds for review
+
+
+25TAlternative Dispute Resolution
+25TIIArbitration
+25TII(D)Performance, Breach, Enforcement, and Contest
+25Tk204Remedies and Proceedings for Enforcement in General
+25Tk213Review
+25Tk213(4)Presentation and reservation of grounds for review
+
+
+Bank was not entitled on appeal to demand arbitration against consumer under permissive arbitration clause, despite intervening Supreme Court precedent, where applicability of right was not clear-cut, claim was first asserted on appeal following trial, arbitration previously had not been demanded or raised as defense, ordering arbitration post-appeal would have severely prejudiced consumer due to resources expended, purposes of FAA would have been frustrated, and contractual purpose would not have been served.
+Cases that cite this headnote
+
+
+
+[3]
+
+Alternative Dispute ResolutionConstitutional and statutory provisions and rules of court
+
+
+25TAlternative Dispute Resolution
+25TIIArbitration
+25TII(A)Nature and Form of Proceeding
+25Tk114Constitutional and statutory provisions and rules of court
+
+
+The central purpose of the Federal Arbitration Act (FAA) is to ensure that private agreements to arbitrate are enforced according to their terms. 9 U.S.C.A. § 1 et seq.
+4 Cases that cite this headnote
+
+
+
+[4]
+
+Alternative Dispute ResolutionValidity
+
+
+25TAlternative Dispute Resolution
+25TIIArbitration
+25TII(B)Agreements to Arbitrate
+25Tk131Requisites and Validity
+25Tk134Validity
+25Tk134(1)In general
+
+
+Although the savings clause in the Federal Arbitration Act (FAA) permits agreements to arbitrate to be invalidated by generally applicable contract defenses, such as fraud, duress, or unconscionability, it does not allow defenses that apply only to arbitration or that derive their meaning from the fact that an agreement to arbitrate is at issue. 9 U.S.C.A. § 2.
+11 Cases that cite this headnote
+
+
+
+[5]
+
+Alternative Dispute ResolutionWaiver or Estoppel
+
+
+25TAlternative Dispute Resolution
+25TIIArbitration
+25TII(D)Performance, Breach, Enforcement, and Contest
+25Tk177Right to Enforcement and Defenses in General
+25Tk182Waiver or Estoppel
+25Tk182(1)In general
+
+
+Waiver of a right to arbitration requires: (1) knowledge of an existing right to compel arbitration; (2) acts inconsistent with that existing right; and (3) prejudice to the party opposing arbitration resulting from such inconsistent acts.
+Cases that cite this headnote
+
+
+
+[6]
+
+Antitrust and Trade RegulationPreemption
+Banks and BankingDeposits in general
+StatesTrade Regulation;  Monopolies
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(A)In General
+29Tk132Preemption
+52Banks and Banking
+52IVNational Banks
+52k263Deposits in general
+360States
+360IPolitical Status and Relations
+360I(B)Federal Supremacy;  Preemption
+360k18.83Trade Regulation;  Monopolies
+360k18.84In general
+
+
+“Good faith” limitation applied through “unfair” prong of California’s Unfair Competition Law was preempted by National Bank Act (NBA) when applied in manner that prevented or significantly interfered with national bank’s federally authorized power to choose posting method; federal law authorized national banks to establish posting order as part and parcel of setting fees, which was pricing decision, and state law could not be applied in way that interfered with that enumerated and incidental power of national banks. 12 U.S.C.A. §§ 24, 93a; 12 C.F.R. § 7.4002(b); West’s Ann.Cal.Bus. & Prof.Code § 17200; West’s Ann.Cal.Com.Code § 4303(b).
+22 Cases that cite this headnote
+
+
+
+[7]
+
+Banks and BankingPower to control and regulate
+StatesBanking and financial or credit transactions
+
+
+52Banks and Banking
+52IVNational Banks
+52k233Power to control and regulate
+360States
+360IPolitical Status and Relations
+360I(B)Federal Supremacy;  Preemption
+360k18.19Banking and financial or credit transactions
+
+
+When analyzing preemption under the National Bank Act, a court ask whether the state law prevents or significantly interferes with the national bank’s exercise of its powers. 12 U.S.C.A. § 1 et seq.
+15 Cases that cite this headnote
+
+
+
+[8]
+
+Banks and BankingPower to control and regulate
+Banks and BankingRegulation and supervision in general
+StatesBanking and financial or credit transactions
+
+
+52Banks and Banking
+52IVNational Banks
+52k233Power to control and regulate
+52Banks and Banking
+52IVNational Banks
+52k235Regulation and supervision in general
+360States
+360IPolitical Status and Relations
+360I(B)Federal Supremacy;  Preemption
+360k18.19Banking and financial or credit transactions
+
+
+Although states cannot exercise “visitorial” oversight over national banks, state laws of general application continue to apply to national banks when doing so does not prevent or significantly interfere with the national bank’s exercise of its powers.
+Cases that cite this headnote
+
+
+
+[9]
+
+Banks and BankingBanking powers
+
+
+52Banks and Banking
+52IVNational Banks
+52k258Banking powers
+
+
+Under the National Bank Act, the incidental powers reserved for national banks are not limited to activities deemed essential to the exercise of enumerated powers but include activities closely related to banking and useful in carrying out the business of banking. 12 U.S.C.A. § 1 et seq.
+6 Cases that cite this headnote
+
+
+
+[10]
+
+Banks and BankingDeposits in general
+
+
+52Banks and Banking
+52IVNational Banks
+52k263Deposits in general
+
+
+Whether national bank’s internal decision-making processes regarding posting orders complied with “safe and sound banking principles” under Office of Comptroller of the Currency (OCC) regulation was inquiry that fell squarely within OCC’s supervisory powers. 12 U.S.C.A. § 1 et seq.; 12 C.F.R. § 7.4002(b)(2).
+4 Cases that cite this headnote
+
+
+
+[11]
+
+Antitrust and Trade RegulationPreemption
+Banks and BankingDeposits in general
+StatesTrade Regulation;  Monopolies
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(A)In General
+29Tk132Preemption
+52Banks and Banking
+52IVNational Banks
+52k263Deposits in general
+360States
+360IPolitical Status and Relations
+360I(B)Federal Supremacy;  Preemption
+360k18.83Trade Regulation;  Monopolies
+360k18.84In general
+
+
+National Bank Act preempted “fraudulent” prong of California Unfair Competition Law from imposing liability based on national bank’s failure to disclose its chosen posting method, since imposing liability would have been tantamount to state regulation of disclosure requirements. 12 C.F.R. §§ 7.4007(b)(3), 34.4(a)(9); West’s Ann.Cal.Bus. & Prof.Code § 17203.
+8 Cases that cite this headnote
+
+
+
+[12]
+
+Antitrust and Trade RegulationPreemption
+Banks and BankingDeposits in general
+StatesTrade Regulation;  Monopolies
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(A)In General
+29Tk132Preemption
+52Banks and Banking
+52IVNational Banks
+52k263Deposits in general
+360States
+360IPolitical Status and Relations
+360I(B)Federal Supremacy;  Preemption
+360k18.83Trade Regulation;  Monopolies
+360k18.84In general
+
+
+National Bank Act did not preempt customers’ class action against bank challenging its overdraft fee collection practices of posting debit-card transactions in order from highest to lowest dollar amount as fraudulent in violation of California’s Unfair Competition Law; interpretive letters written by Office of Comptroller of Currency (OCC) recognized that state law regulated conduct at issue in customers’ action, and bank did not articulate how abiding by Unfair Competition Law’s prohibition of misleading statements would significantly interfere with its ability to engage in the business of banking. 12 C.F.R. §§ 7.4007(b)(2), 34.4(a)(9); West’s Ann.Cal.Bus. & Prof.Code § 17203.
+9 Cases that cite this headnote
+
+
+
+[13]
+
+Antitrust and Trade RegulationPreemption
+Banks and BankingPower to control and regulate
+StatesBanking and financial or credit transactions
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(A)In General
+29Tk132Preemption
+52Banks and Banking
+52IVNational Banks
+52k233Power to control and regulate
+360States
+360IPolitical Status and Relations
+360I(B)Federal Supremacy;  Preemption
+360k18.19Banking and financial or credit transactions
+
+
+As a non-discriminating state law of general applicability that does not conflict with federal law, frustrate the purposes of the National Bank Act, or impair the efficiency of national banks to discharge their duties, the Unfair Competition Law’s prohibition on misleading statements under the fraudulent prong of the statute is not preempted by the National Bank Act. 12 U.S.C.A. § 1 et seq.; West’s Ann.Cal.Bus. & Prof.Code § 17203.
+3 Cases that cite this headnote
+
+
+
+[14]
+
+Banks and BankingPower to control and regulate
+StatesBanking and financial or credit transactions
+
+
+52Banks and Banking
+52IVNational Banks
+52k233Power to control and regulate
+360States
+360IPolitical Status and Relations
+360I(B)Federal Supremacy;  Preemption
+360k18.19Banking and financial or credit transactions
+
+
+Where federal laws do not cover a bank’s actions, states are permitted to regulate the activities of national banks where doing so does not prevent or significantly interfere with the national bank’s or the national bank regulator’s exercise of its powers.
+Cases that cite this headnote
+
+
+
+[15]
+
+Antitrust and Trade RegulationFinance and banking in general;  lending
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(C)Particular Subjects and Regulations
+29Tk209Finance and banking in general;  lending
+
+
+Customers actually relied on bank’s allegedly misleading statements regarding its posting method, as required to establish standing to seek class-wide relief on claim that those statements were fraudulent in violation of California’s Unfair Competition Law, where bank stated that “[e]ach purchase is automatically deducted from your primary checking account,” customers naturally assumed that debit-card transactions would post chronologically, but customers did not know of bank’s overdraft fee collection practices of posting debit-card transactions in order from highest to lowest dollar amount until they incurred hefty fees for having overdrawn their checking accounts. West’s Ann.Cal.Bus. & Prof.Code § 17203.
+5 Cases that cite this headnote
+
+
+
+[16]
+
+Federal Civil ProcedureConsumers, purchasers, borrowers, and debtors
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(D)Class Actions
+170AII(D)3Particular Classes Represented
+170Ak182.5Consumers, purchasers, borrowers, and debtors
+
+
+A class representative proceeding on a claim of misrepresentation as the basis of his or her California Unfair Competition Law (UCL) action must demonstrate actual reliance on the allegedly deceptive or misleading statements, in accordance with well-settled principles regarding the element of reliance in ordinary fraud actions. West’s Ann.Cal.Bus. & Prof.Code § 17203.
+6 Cases that cite this headnote
+
+
+
+[17]
+
+Federal Civil ProcedureConsumers, purchasers, borrowers, and debtors
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(D)Class Actions
+170AII(D)3Particular Classes Represented
+170Ak182.5Consumers, purchasers, borrowers, and debtors
+
+
+Questions of law or fact common to class members predominated over any questions affecting only individual members, on claim against bank alleging that its overdraft fee collection practices were fraudulent in violation of California’s Unfair Competition Law, where class members had been exposed to misleading marketing materials due to their pervasive nature and likely relied on them; bank’s speculation that some class members would have engaged in same conduct irrespective of alleged misrepresentation did not meet its burden of demonstrating that individual reliance issues predominated because it was unlikely that any class member would prefer to incur multiple overdraft fees. Fed.Rules Civ.Proc.Rule 23(b)(3), 28 U.S.C.A.; West’s Ann.Cal.Bus. & Prof.Code § 17203.
+7 Cases that cite this headnote
+
+
+
+[18]
+
+Antitrust and Trade RegulationFinance and banking in general;  lending
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(C)Particular Subjects and Regulations
+29Tk209Finance and banking in general;  lending
+
+
+Bank’s overdraft fee collection practices were fraudulent in violation of California’s Unfair Competition Law, where bank had affirmatively reinforced expectation that transactions were covered in sequence made while obfuscating its contrary practice of posting transactions in high-to-low order to maximize number of overdrafts assessed on customers. West’s Ann.Cal.Bus. & Prof.Code § 17203.
+7 Cases that cite this headnote
+
+
+
+West Codenotes
+Limited on Preemption Grounds
+West’s Ann.Cal.Bus. & Prof.Code § 17200
+Attorneys and Law Firms
+*715 Jordan Elias, Richard M. Heimann, Roger N. Heller, Michael W. Sobol (argued), and Alison M. Stocking, Lieff Cabraser Heimann & Bernstein, LLP, San Francisco, CA; Jae K. Kim and Richard D. McCune, McCune & Wright, LLP, Redlands, CA, for Plaintiffs–Appellees.
+Robert A. Long, Jr. (argued), Mark William Mosier, Keith A. Noreika, and Stuart C. Stock, Covington & Burling LLP, Washington, D.C.; David M. Jolley and Sonya D. Winner, Covington & Burling, LLP, San Francisco, CA; Emily Johnson Henn, Covington & Burling LLP, Redwood Shores, CA, for Defendant–Appellant.
+Julia B. Strickland, Lisa M. Simonetti, and David W. Moon, Stroock & Stroock & Lavan LLP, Los Angeles, CA, for Amici Curiae American Bankers Association and California Bankers Association.
+Nina F. Simon, Washington, D.C., for Amici Curiae Center for Responsible Lending, Consumer Federation of America, California Reinvestment Coalition, and Law Foundation of Silicon Valley.
+Appeal from the United States District Court for the Northern District of California, William Alsup, District Judge, Presiding. 3:07–cv–05923–WHA.
+Before: SIDNEY R. THOMAS, M. MARGARET McKEOWN, and WILLIAM A. FLETCHER, Circuit Judges.
+
+
+OPINION
+McKEOWN, Circuit Judge:
+Bank fees, like taxes, are ubiquitous. And, like taxes, bank fees are unlikely to go away any time soon. The question we *716 consider here is the extent to which overdraft fees imposed by a national bank are subject to state regulation.
+ 
+At issue is a bookkeeping device, known as “high-to-low” posting, which has the potential to multiply overdraft fees, turning a single overdraft into many such overdrafts. The revenue from overdraft fees is massive. Between 2005 and 2007, Wells Fargo Bank (“Wells Fargo”) assessed over $1.4 billion in overdraft fees. Disturbed by the number of overdrafts caused by small, everyday debit-card purchases, Veronica Gutierrez and Erin Walker (collectively “Gutierrez”) sued Wells Fargo under California state law for engaging in unfair business practices by imposing overdraft fees based on the high-to-low posting order and for engaging in fraudulent business practices by misleading clients as to the actual posting order used by the bank.
+ 
+The district court found that “the bank’s dominant, indeed sole, motive” for choosing high-to-low posting “was to maximize the number of overdrafts and squeeze as much as possible out of what it called its ‘ODRI customers’ (overdraft/returned item).” The district court also found that Wells Fargo had “affirmatively reinforced the expectation that transactions were covered in the sequence [the purchases were] made while obfuscating its contrary practice of posting transactions in high-to-low order to maximize the number of overdrafts assessed on customers.” The court issued a permanent injunction against “high-to-low” posting and ordered $203 million in restitution. On appeal, Wells Fargo seeks refuge from state law on the ground of federal preemption. It also challenges the district court’s factual and legal findings. We conclude that federal law preempts state regulation of the posting order as well as any obligation to make specific, affirmative disclosures to bank customers. Federal law does not, however, preempt California consumer law with respect to fraudulent or misleading representations concerning posting. As a consequence, we affirm in part, reverse in part, and remand for further proceedings.
+ 
+
+BACKGROUND1
+“Posting” is the procedure banks use to process debit items presented for payment against accounts. During the wee hours after midnight, the posting process takes all debit items presented for payment during the preceding business day and subtracts them from the account balance. These items are typically debit-card transactions and checks. If the account balance is sufficient to cover all items presented for payment, there will be no overdrafts, regardless of the bookkeeping method used. If, however, the account balance is insufficient to cover every debit item, then the account will be overdrawn. When an account is overdrawn, the posting sequence can have a dramatic effect on the number of overdrafts incurred by the account (even though the total sum overdrawn will be exactly the same). The number of overdrafts drives the amount of overdraft fees.
+ 
+Before April 2001, Wells Fargo used a low-to-high posting order. Under this system, the bank posted settlement items from lowest-to-highest dollar amount. Low-to-high posting paid as many items as the account balance could cover and thus minimized the number of overdrafts. Beginning in April of 2001, Wells Fargo did an about-face in California and began posting debit-card purchases in order of highest-to-lowest *717 dollar amount. This system had the immediate effect of maximizing the number of overdrafts. The customer’s account was now depleted more rapidly than would be the case if the bank posted transactions in low-to-high order or, in some cases, chronological order.
+ 
+As an illustration, consider a customer with $100 in his account who uses his debit-card to buy ten small items totaling $99, followed by one large item for $100, all of which are presented to the bank for payment on the same day. Under chronological posting or low-to-high posting, only one overdraft would occur because the ten small items totaling $99 would post first, leaving $1 in the account. The $100 charge would then post, causing the sole overdraft. Using high-to-low sequencing, however, these purchases would lead to ten overdraft events because the largest item, $100, would be posted first—depleting the entire account balance—followed by the ten transactions totaling $99. Overdraft fees are based on the number of withdrawals that exceed the balance in the account, not on the amount of the overdraft. When high-to-low sequencing is used, the fees charged by the bank for the overdrafts can dramatically exceed the amount by which the account was actually overdrawn. For example, Gutierrez incurred $143 in overdraft fees as a consequence of a $49 overdraft, and Erin Walker incurred $506 in overdraft fees for exceeding her account balance by $120.
+ 
+Gutierrez claims that Wells Fargo made the switch to high-to-low processing in order to increase the amount of overdraft fees by maximizing the number of overdrafts. The bank amplified the effect of its fee maximization plan, which it named “Balance Sheet Engineering,” through several related practices that are not at issue here.
+ 
+[1] California’s Unfair Competition Law allows individual plaintiffs to bring claims for unfair, unlawful, or fraudulent business practices. Cal. Bus. & Prof.Code § 17200.2 Although remedies under the Unfair Competition Law are limited to injunctive relief and restitution, the law’s scope is “sweeping.” Cel–Tech Commc’ns, Inc. v. Los Angeles Cellular Tel. Co., 20 Cal.4th 163, 180, 83 Cal.Rptr.2d 548, 973 P.2d 527 (1999). Gutierrez sued on behalf of a class, alleging independent violations of both the law’s “unfair” and “fraudulent” prongs. Gutierrez alleged that Wells Fargo’s “resequencing” practices are unfair because they contradict the legislative policy expressed in California Commercial Code § 4303(b) 1992 Amendment cmt. 7, which provides that “items may be accepted, paid, certified, or charged to the indicated account of its customer in any order” so long as the bank “act[s] in good faith” and not “for the sole purpose of increasing the amount of returned check fees charged to the customer.”3 Id.
+ 
+*718 The district court certified a class of “all Wells Fargo customers from November 15, 2004 to June 30, 2008, who incurred overdraft fees on debit-card transactions as a result of the bank’s practice of sequencing transactions from highest to lowest.” After a two-week bench trial, the district court issued a comprehensive 90–page decision and found that Wells Fargo’s “decision to post debit-card transactions in high-to-low order was made for the sole purpose of maximizing the number of overdrafts assessed on its customers.” The court also concluded that Wells Fargo led customers “to expect that the actual posting order of their debit-card purchases would mirror the order in which they were transacted” while hiding its actual practice of posting transactions in high-to-low order so that the bank could “maximiz[e] the number of overdrafts assessed on customers.”
+ 
+The district court rejected Wells Fargo’s numerous defenses—federal preemption pursuant to various statutes and regulations, Gutierrez’s lack of standing, and the impropriety of class certification—and held Wells Fargo’s actions to be both unfair and fraudulent under the Unfair Competition Law. As a remedy, the court entered a permanent injunction requiring Wells Fargo to “cease its practice of posting in high-to-low order for all debit-card transactions” and “either reinstate a low-to-high posting method or use a chronological posting method (or some combination of the two methods) for debit-card transactions.” It also imposed various related disclosure requirements. In addition to injunctive relief, the district court ordered Wells Fargo to pay $203 million in restitution. Both parties appealed. Wells Fargo’s appeal focuses on its preemption argument and on the merits of Gutierrez’s Unfair Competition Law claims. Gutierrez’s cross-appeal is directed to the district court’s denial of prejudgment interest and punitive damages.
+ 
+
+ANALYSIS
+I. ARBITRATION
+[2] As a threshold matter, we consider whether this dispute should be arbitrated. Although the contract between the parties contained a permissive arbitration clause, neither party requested arbitration, and consequently the district court did not consider the issue. On appeal, Wells Fargo seeks to compel arbitration and claims that its enforceable right to arbitration did not mature until the Supreme Court’s 2011 decision in AT&T Mobility LLC v. Concepcion, ––– U.S. ––––, 131 S.Ct. 1740, 179 L.Ed.2d 742 (2011). Wells Fargo asks us to vacate the judgment and remand so that the district court can dismiss the case or stay it pending arbitration. Gutierrez argues that Wells Fargo has waived any claim to arbitration.
+ 
+After considering the terms of the arbitration agreement, the conduct of the parties, and the course of the litigation, along with the traditional benchmarks regarding waiver of arbitration and the purpose of the Federal Arbitration Act (“FAA”), we conclude that the district court judgment should not be vacated on the basis of Concepcion. To do so at this stage would undermine the parties’ agreement regarding arbitration, severely prejudice Gutierrez *719 and the certified class members, and result in a waste of judicial resources. This is an unusual, perhaps sui generis, case in which the specific circumstances counsel this result.
+ 
+In Concepcion, the Supreme Court held that the FAA preempted California’s Discover Bank rule, id. at 1753, which rendered class-wide arbitration waivers unenforceable if it was “alleged that the party with the superior bargaining power has carried out a scheme to deliberately cheat large numbers of consumers out of individually small sums of money,” Discover Bank v. Superior Court, 36 Cal.4th 148, 162–63, 30 Cal.Rptr.3d 76, 113 P.3d 1100 (2005).
+ 
+[3] [4] The central purpose of the FAA “is to ensure that ‘private agreements to arbitrate are enforced according to their terms.’ ” Stolt–Nielsen S.A. v. AnimalFeeds Int’l Corp., 559 U.S. 662, 130 S.Ct. 1758, 1773, 176 L.Ed.2d 605 (2010) (quoting Volt Info. Sci., Inc. v. Bd. of Trs. of Leland Stanford Junior Univ., 489 U.S. 468, 479, 109 S.Ct. 1248, 103 L.Ed.2d 488 (1989)). Section 2 of the FAA provides that an agreement to arbitrate “shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.” 9 U.S.C. § 2. Although the FAA’s savings clause “permits agreements to arbitrate to be invalidated by generally applicable contract defenses, such as fraud, duress, or unconscionability,” it does not allow “defenses that apply only to arbitration or that derive their meaning from the fact that an agreement to arbitrate is at issue.” Concepcion, 131 S.Ct. at 1746 (citation and internal quotation marks omitted). In Concepcion, the Court struck down the Discover Bank rule because it was applied in a manner that disfavored arbitration and interfered with the enforcement of private arbitration agreements, thus standing “as an obstacle to the accomplishment and execution of the full purposes and objectives of Congress.” Id. at 1753 (quotation marks and citation omitted).
+ 
+The effect of Concepcion, as intervening Supreme Court law, on a judgment on appeal after trial, is an issue of first impression. The mine run of cases claiming waiver of arbitration stem from situations where, before trial, a party belatedly asserts a clear right to arbitration. See, e.g., Cox v. Ocean View Hotel Corp., 533 F.3d 1114, 1123–26 (9th Cir.2008) (declining to find that defendant’s initial refusal to arbitrate employee’s complaints constituted waiver of right to arbitrate subsequent legal action). But we have not found, nor have the parties cited, any cases involving waiver of a permissive arbitration right where the applicability of the right was not clear-cut, arbitration was never demanded, and the claim was first asserted on appeal following trial.
+ 
+Our analysis begins with the Customer Account Agreement (“CAA”) between Wells Fargo and the class members, which provides:
+Either of us may submit a dispute to binding arbitration at any reasonable time notwithstanding that a lawsuit or other proceeding has been commenced. If either of us fails to submit to binding arbitration following a lawful demand, the one who fails to submit bears all costs and expenses incurred by the other compelling arbitration.
+The CAA further states that “[e]ach of us agrees that any arbitration we have shall not be consolidated with any other arbitration and shall not be arbitrated on behalf of others without the consent of each of us.”4
+ 
+*720 This arbitration clause stands in contrast to the mandatory arbitration provision found in many consumer contracts, such as the provision in Concepcion. To begin, it is a permissive clause in which either party may demand arbitration. The penalty for failing to consent to arbitration upon demand is bearing the costs involved in compelling arbitration. Four points stand out: 1) an arbitration demand is required; 2) the agreement contemplates that the parties may decide to remain within the judicial system to settle their disputes; 3) the agreement permits class arbitration on consent; and 4) any demand for arbitration must be made within a “reasonable time.”
+ 
+The procedural posture of this case is reflective of the parties’ intentions and expectations. Notably, Wells Fargo never made a demand for arbitration, raised it as a defense, or even mentioned it until after the Concepcion decision, at which point the trial was over and the district court had issued its judgment. Although the FAA allows for interlocutory appeals of orders denying motions to compel arbitration, see 9 U.S.C. § 16(a)(1)(B), unlike the defendant in Concepcion, Wells Fargo undertook no such tack. See 131 S.Ct. at 1744–45; see also Franceschi v. Hosp. Gen. San Carlos, Inc., 420 F.3d 1, 4 (1st Cir.2005) (arbitration right is forfeited where no interlocutory appeal was filed because “it would prejudice plaintiffs to have a full trial and then determine by a post-trial appeal that the whole matter should have been arbitrated and so [should] start again” (internal quotation marks omitted)).
+ 
+The timing of the arbitration demand is informative. The certiorari petition in Concepcion was filed on January 25, 2010, three months before the bench trial began in April 2010. Petition for Writ of Certiorari, Concepcion, 131 S.Ct. 1740 (No. 09–893). On May 24, 2010, the Supreme Court accepted review. AT & T Mobility LLC v. Concepcion, ––– U.S. ––––, 130 S.Ct. 3322, 176 L.Ed.2d 1218 (2010). At that stage, final argument in the district court was more than a month away, no decision had been issued, and the parties were exchanging proposed findings. The arbitration issue was, however, squarely before the Supreme Court. The district court’s decision was not issued until August 2010. Even in that interim period, Wells Fargo was silent as to arbitration and did not seek a stay pending the Supreme Court’s decision in Concepcion. Instead, Wells Fargo proceeded full steam ahead with this litigation in federal court. Only in April 2011, after an unfavorable result in the district court and the Supreme Court opinion did Wells Fargo seek to vacate the district court’s judgment via a motion to compel arbitration filed with this court. The Appellate Commissioner denied the motion without prejudice to renewing the arguments in the brief on cross-appeal. See Order, July 15, 2011.
+ 
+Gutierrez argues that Wells Fargo “was driven by its preference to litigate this case in federal court in order to obtain favorable rulings from the district court on federal preemption and other issues.” The record is devoid of Wells Fargo’s motives for its chosen course of action, although Wells Fargo offered only argument, not evidence or declarations, as to the rationale for its litigation strategy. We make no judgment about Wells Fargo’s motives.
+ 
+[5] Against this background, we consider Gutierrez’s argument that Wells Fargo waived any rights to arbitration given the belated nature of its request. For such a waiver to occur, there must be: “(1) knowledge of an existing right to compel arbitration; (2) acts inconsistent with that *721 existing right; and (3) prejudice to the party opposing arbitration resulting from such inconsistent acts.” Fisher v. A.G. Becker Paribas Inc., 791 F.2d 691, 694 (9th Cir.1986).
+ 
+Wells Fargo claims that any “existing right” arose only after Concepcion and thus it did not act inconsistently with that “existing right” because it would have been futile to seek arbitration earlier. See Fisher, 791 F.2d at 695. The futility of an arbitration demand, however, is not clear cut here. In contemporaneous consumer litigation, litigants did succeed in compelling arbitration despite the existence of the Discover Bank rule. See, e.g., Dalie v. Pulte Home Corp., 636 F.Supp.2d 1025, 1027 (E.D.Cal.2009) (recognizing that “under California law a class action waiver is only unenforceable in a narrow set of circumstances”); McCabe v. Dell, Inc., No. CV 06–7811, 2007 WL 1434972, at *3–4 (C.D.Cal. Apr. 12, 2007) (compelling arbitration after finding the arbitration clause enforceable under California law); Galbraith v. Resurgent Capital Servs., No. CIV S 05–2133, 2006 WL 2990163, at *2 (E.D.Cal. Oct. 19, 2006) (same). Especially because the CAA did not prohibit class arbitration, a motion to compel arbitration was not inevitably futile under the prescribed case-by-case analysis. See Douglas v. U.S. Dist. Court for Cent. Dist. of Cal., 495 F.3d 1062, 1068 (9th Cir.2007) (whether arbitration can be compelled “depends on the facts and circumstances developed during the course of litigation”).
+ 
+Given the differing circumstances in our case and Fisher with respect to the first two prongs of Fisher, we focus on prejudice. We reject Wells Fargo’s attempt to collapse all three Fisher prongs into one. Adopting this course would ignore the procedural posture of the case and also the court’s approach in Fisher, which laid out the waiver analysis. Although Fisher held that the defendant there had not acted inconsistently with an existing right, it went on to discuss the prejudice that the Fishers would suffer if the court were to order arbitration. See 791 F.2d at 698–99. We do the same.
+ 
+Ordering arbitration post-appeal would severely prejudice Gutierrez. The CAA requires the demand to be made at a “reasonable time.” The series of dispositive motions, voluminous discovery, preparation for trial, two-week bench trial, post-trial briefing, and appellate proceedings amply demonstrate the resources both the parties and the courts have already expended, all of which would be undone if arbitration is now required. The prejudice to Gutierrez and the class stemming from Wells Fargo’s invocation of arbitration five years into this litigation—time, expense, delay and uncertainty—is apparent. See Nat’l Found. for Cancer Research v. A.G. Edwards & Sons, Inc., 821 F.2d 772, 776 (D.C.Cir.1987) (“To give [defendant] a second bite at the very questions presented to the court for disposition squarely confronts the policy that arbitration may not be used as a strategy to manipulate the legal process.”).
+ 
+Independent of the Fisher analysis, arbitration at this juncture would frustrate the purposes of the FAA. “The overarching purpose of the FAA, evident in the text of §§ 2, 3, and 4, is to ensure the enforcement of arbitration agreements according to their terms so as to facilitate streamlined proceedings.” Concepcion, 131 S.Ct. at 1748. Far from facilitating streamlined proceedings, sending this case to arbitration post-appeal would be wholly duplicative and lead to further delay and expense for both parties.
+ 
+Nor would arbitration at this late stage serve any contractual purpose. The CAA calls for all claims to be resolved through either litigation or arbitration, if timely *722 demanded by one of the parties. Because the CAA does not require arbitration, Gutierrez’s prejudice is in no way self-inflicted. Ordering arbitration would undercut her contractual expectations, be inconsistent with the parties’ agreement, and contradict their conduct throughout the litigation. See Concepcion, 131 S.Ct. at 1752 (“Arbitration is a matter of contract, and the FAA requires courts to honor parties’ expectations.”). Because we reject Wells Fargo’s belated effort to invoke arbitration, we proceed to the parties’ remaining arguments.
+ 
+
+II. FEDERAL PREEMPTION
+[6] We next consider whether the National Bank Act of 1864, 13 Stat. 99 (codified at 12 U.S.C. § 1 et seq.), preempts application of California’s Unfair Competition Law. Consistent with the principles of federalism, the United States has a “dual banking system.” See, e.g., Atherton v. F.D.I.C., 519 U.S. 213, 221–23, 117 S.Ct. 666, 136 L.Ed.2d 656 (1997). During the first century of the nation’s existence, “state-chartered banks were the norm and federally chartered banks an exception.” Id. at 221, 117 S.Ct. 666. After the Civil War, Congress passed the National Bank Act to ensure that national and state banks could coexist on a basis of “competitive equality.” First Nat’l Bank of Logan, Utah v. Walker Bank & Trust Co., 385 U.S. 252, 261, 87 S.Ct. 492, 17 L.Ed.2d 343 (1966). The Act vests nationally chartered banks with enumerated powers, such as the power to make contracts, to receive deposits, and to make loans, together with “all such incidental powers as shall be necessary to carry on the business of banking.” 12 U.S.C. § 24 (Third, Seventh). In addition to the National Bank Act, the activities of national banks are governed by related regulations promulgated by the Office of the Comptroller of the Currency (the “OCC”). See 12 U.S.C. §§ 24, 93a, 371(a).
+ 
+[7] [8] In analyzing preemption, we ask whether the state law “prevent[s] or significantly interfere[s] with the national bank’s exercise of its powers.” Barnett Bank of Marion Cnty., N.A. v. Nelson, 517 U.S. 25, 33, 116 S.Ct. 1103, 134 L.Ed.2d 237 (1996). Although states cannot exercise “visitorial” oversight over national banks, state laws of general application continue to apply to national banks when “doing so does not prevent or significantly interfere with the national bank’s exercise of its powers.” Id. at 33, 116 S.Ct. 1103; see also Watters v. Wachovia Bank, N.A., 550 U.S. 1, 11, 127 S.Ct. 1559, 167 L.Ed.2d 389 (2007) (“Federally chartered banks are subject to state laws of general application in their daily business to the extent such laws do not conflict with the letter or purposes of the NBA.”). As the Supreme Court explained in Cuomo v. Clearing House Ass’n, LLC, 557 U.S. 519, 530, 129 S.Ct. 2710, 174 L.Ed.2d 464 (2009), this balance of authority preserves “a regime of exclusive administrative oversight by the Comptroller while honoring in fact rather than merely in theory Congress’s decision not to pre-empt substantive state law. This system echoes many other mixed state/federal regimes in which the Federal Government exercises general oversight while leaving state substantive law in place.” Indeed, “[s]tates ... have always enforced their general laws against national banks.” Id. at 534, 129 S.Ct. 2710.
+ 
+Against the framework of extensive federal statutory and regulatory oversight of national banks, the question is whether Wells Fargo’s implementation of high-to-low posting is subject to California’s Unfair Competition Law, a consumer protection statute of general applicability. Cal. Bus. & Prof.Code § 17200. We do not tackle the Unfair Competition Law generally *723 vis-a-vis federal banking regulation. Rather, reviewing de novo, we analyze each Unfair Competition Law claim separately, Martinez v. Wells Fargo Home Mortg., Inc., 598 F.3d 549, 553 (9th Cir.2010), though as a practical matter, the remedy ordered by the district court boils down to a complete prohibition on the high-to-low-sequencing method.
+ 
+
+A. UNFAIR BUSINESS PRACTICES AND HIGH–TO–LOW POSTING
+The district court deemed Wells Fargo’s high-to-low posting method an unfair practice in violation of the Unfair Competition Law because it was imposed in bad faith, in contravention of the policy reflected in California Commercial Code § 4303(b).5 In terms of remedy, the district court permanently enjoined Wells Fargo’s use of high-to-low posting. The court ordered Wells Fargo to “either reinstate a low-to-high posting method or use a chronological posting method (or some combination of the two methods).” With respect to disclosures, the court required “all agreements, disclosures, websites, online banking statements, and promotional materials” to conform to the new posting system. Finally, the court ordered $203 million in restitution because it found that Wells Fargo acted in bad faith when it decided to post debit-card transactions in high-to-low order. The appeal of this claim turns on whether state law can dictate Wells Fargo’s choice of posting method. We hold that it cannot.
+ 
+[9] Under the National Bank Act, key powers of national banks include the authority to receive deposits, as well as “all such incidental powers as shall be necessary to carry on the business of banking.” 12 U.S.C. § 24 (Seventh). The deposit and withdrawal of funds “are services provided by banks since the days of their creation. Indeed, such activities define the business of banking.”6 Bank of Am. v. City and Cnty. of San Francisco, 309 F.3d 551, 563 (9th Cir.2002). Both the “business of banking” and the power to “receiv[e] deposits” necessarily include the power to post transactions—i.e., tally deposits and withdrawals—to determine the balance in the customer’s account. See 12 U.S.C. § 24 (Seventh).
+ 
+The ability to choose a method of posting transactions is not only a useful, but also a necessary, component of a posting process that is integrally related to the receipt of deposits. Designation of a posting method falls within the type of overarching federal banking regulatory power that is “not normally limited by, but rather ordinarily pre-empt[s], contrary state law.” Watters, 550 U.S. at 12, 127 S.Ct. 1559 (quotation marks omitted).
+ 
+In addition to the broad power vested by statute, federal banking regulations adopted by the OCC specifically delegate *724 to banks the method of calculating fees. 12 C.F.R. § 7.4002(b). As the agency charged with administering the National Bank Act, the OCC has primary responsibility for the surveillance of the “business of banking” authorized by the National Bank Act. NationsBank of N.C., N.A. v. Variable Annuity Life Ins. Co., 513 U.S. 251, 256, 115 S.Ct. 810, 130 L.Ed.2d 740 (1995). The OCC is authorized to define the “incidental powers” of national banks beyond those specifically enumerated. See 12 U.S.C. § 93a (authorizing the OCC “to prescribe rules and regulations to carry out the responsibilities of the office”).
+ 
+The OCC has interpreted these incidental powers to include the power to set account terms and the power to charge customers non-interest charges and fees, such as the overdraft fees at issue here. 12 C.F.R. § 7.4002(a).7 More specifically, the OCC has determined that “[t]he establishment of non-interest charges and fees, their amounts, and the method of calculating them are business decisions to be made by each bank, in its discretion, according to sound banking judgment and safe and sound banking principles.” 12 C.F.R. § 7.4002(b)(2) (emphasis added).
+ 
+OCC letters interpreting § 7.4002 specifically consider high-to-low posting and associated overdraft fees to be a “pricing decision authorized by Federal law” within the power of a national bank. OCC Interpretive Letter No. 916, 2001 WL 1285359, at *2 (May 22, 2001); see also OCC Interpretive Letter No. 997, 2002 WL 32872368, at *3 (Apr. 15, 2002); OCC Interpretive Letter No. 1082, 2007 WL 5393636, at *2 (May 17, 2007). The OCC has opined that “a bank’s authorization to establish fees pursuant to 12 C.F.R. 7.4002(a) necessarily includes the authorization to decide how they are computed.” OCC Interpretive Letter No. 916, 2001 WL 1285359, at *2 (May 22, 2001). Accordingly, the OCC has determined that a national bank “may establish a given order of posting as a pricing decision pursuant to section 24 (seventh) and section 7.4002.” Id. In sum, federal law authorizes national banks to establish a posting order as part and parcel of setting fees, which is a pricing decision.
+ 
+[10] The district court held that the bank’s determination of posting order did not constitute a pricing decision because Wells Fargo did not follow the four factor decision making process for safe and sound banking principles mandated by the OCC. 12 C.F.R. § 7.4002(b).8 The National Bank Act gives to the OCC the exclusive authority to exercise visitorial oversight over national banks, and it entrusts the OCC with the supervision of national banks’ activities that are authorized by federal law. 12 U.S.C. § 484(a); 12 C.F.R. § 7.4000; see also Cuomo, 557 U.S. at 524, 129 S.Ct. 2710. Whether Wells Fargo’s internal decision-making processes regarding posting orders complied with the “safe and sound banking principles” under § 7.4002(b)(2) is an inquiry that falls *725 squarely within the OCC’s supervisory powers. The district court’s findings with regard to Wells Fargo’s compliance with the OCC regulation, then, are both “inapposite to the issue of preemption” and “fruitless.” Martinez, 598 F.3d at 556 n. 8 (citing Watters, 550 U.S. at 13, 127 S.Ct. 1559). In Martinez, we addressed whether Wells Fargo had followed safe and sound banking principles in making a pricing decision and emphasized that the determination of the bank’s compliance with these principles “is within the exclusive purview of the OCC.” Id.
+ 
+Wells Fargo’s decision to resequence the posting order falls within the OCC’s definition of a pricing decision authorized by federal law. The district court is not free to disregard the OCC’s determinations of what constitutes a legitimate pricing decision, nor can it apply state law in a way that interferes with this enumerated and incidental power of national banks.
+ 
+The restriction that the district court imposed on posting is akin to the fee restriction addressed in the Eleventh Circuit’s recent preemption ruling. See Baptista v. JPMorgan Chase Bank, N.A., 640 F.3d 1194, 1197 (11th Cir.2011). The court in Baptista held that a state statute that disallowed banks from charging non-customers for cashing a check was preempted because it significantly reduced the banks’ latitude in deciding how to charge fees. Id. at 1197–98. The same logic applies here.
+ 
+We hold that a “good faith” limitation applied through California’s Unfair Competition Law is preempted when applied in a manner that prevents or significantly interferes with a national bank’s federally authorized power to choose a posting order. See Barnett, 517 U.S. at 37, 116 S.Ct. 1103 (state statute could not bar small town national banks from selling insurance where federal statute gave the banks such authority); Bank of Am., 309 F.3d at 561–64 (federal regulations allowing banks to collect non-interest charges preempted a local law governing what ATM fees a bank could charge). The federal court cannot mandate the order in which Wells Fargo posts its transactions. Therefore, we vacate the permanent injunction and the $203 million restitution award. The district court premised both of these remedies on only a violation of the “unfair” business practice prong of the Unfair Competition Law tethered to the “good faith” requirement of California Commercial Code § 4303(b).
+ 
+
+B. FRAUDULENT BUSINESS PRACTICES AND WELLS FARGO’S REPRESENTATIONS
+[11] The district court found not only a violation of the “unfair” prong of the Unfair Competition Law with regard to the posting order, but also a violation of the “fraudulent” prong of the Unfair Competition Law with regard to Wells Fargo’s representations about posting. The Unfair Competition Law authorizes injunctive relief and restitution as remedies against a person or entity engaging in unfair competition, including fraudulent business practices. Cal. Bus. & Prof.Code § 17203; see also Cel–Tech Commc’ns, Inc., 20 Cal.4th at 180, 83 Cal.Rptr.2d 548, 973 P.2d 527 (each of the three Unfair Competition Law prongs constitutes a separate and independent cause of action). The district court faulted Wells Fargo both for its failure to disclose the effects of high-to-low posting and for its misleading statements. The district court concluded that Wells Fargo “did not tell customers that frequent use of a debit-card for small-valued purchases could result in an avalanche of overdraft fees for each of those purchases due to the high-to-low posting order.” Instead, Wells Fargo “directed misleading propaganda at the class that likely led class members to *726 expect that the actual posting order of their debit-card purchases would mirror the order in which they were transacted.”
+ 
+We have determined that the district court’s injunction ordering a particular kind of posting and ordering $203 million in restitution under the “unfair” prong of California’s Unfair Competition Law is preempted. The question arises whether we need to address preemption under the “fraudulent” prong as well. We conclude that we do because, on remand, the district court may determine that appropriate relief is available to the extent a claim for fraudulent misrepresentation is not preempted.
+ 
+The requirement to make particular disclosures falls squarely within the purview of federal banking regulation and is expressly preempted: “A national bank may exercise its deposit-taking powers without regard to state law limitations concerning,” among other things, “disclosure requirements.” 12 C.F.R. § 7.4007(b)(3). In Martinez, plaintiffs’ claim that the bank “engaged in ‘fraudulent’ practices by failing to disclose actual costs of its underwriting and tax services” was expressly preempted by the OCC regulation preempting state disclosure requirements in real estate transactions. Martinez, 598 F.3d at 554, 557; see also 12 C.F.R. § 34.4(a)(9). Similarly, the Unfair Competition Law cannot impose liability simply based on the bank’s failure to disclose its chosen posting method. See Rose v. Chase Bank USA, N.A., 513 F.3d 1032, 1038 (9th Cir.2008) (the National Bank Act preempts affirmative disclosure requirements of a California statute, insofar as those requirements apply to national banks); Parks v. MBNA Am. Bank, N.A., 54 Cal.4th 376, 386–87, 142 Cal.Rptr.3d 837, 278 P.3d 1193 (2012) (state law directed at credit card issuers, which prescribed specific disclosures on convenience checks, was preempted). Imposing liability for the bank’s failure to sufficiently disclose its posting method leads to the same result as mandating specific disclosures. Both remedies are tantamount to state regulation of disclosure requirements.
+ 
+[12] [13] We turn now to the different question of state law liability based on Wells Fargo’s misleading statements about its posting method. Notably, the Unfair Competition Law itself does not impose disclosure requirements but merely prohibits statements that are likely to mislead the public. As a non-discriminating state law of general applicability that does not “conflict with federal law, frustrate the purposes of the National Bank Act, or impair the efficiency of national banks to discharge their duties,” the Unfair Competition Law’s prohibition on misleading statements under the fraudulent prong of the statute is not preempted by the National Bank Act. Bank of Am., 309 F.3d at 561.
+ 
+Wells Fargo’s position—that § 7.4007(b)(2) dictates preemption—is conclusively undercut by the OCC itself, which, far from concluding that the Unfair Competition Law is expressly preempted under its regulations, “has specifically cited [California’s Unfair Competition Law] in an advisory letter cautioning banks that they may be subject to such laws that prohibit unfair or deceptive acts or practices.” Martinez, 598 F.3d at 555. The advisory letter warns that the “consequences of engaging in practices that may be unfair or deceptive under federal or state law can include litigation, enforcement actions, monetary judgments, and harm to the institution’s reputation.” OCC Advisory Letter, Guidance on Unfair or Deceptive Acts or Practices, 2002 WL 521380, at *1 (Mar. 22, 2002). The OCC recognizes that state laws that withstand preemption “typically do not regulate the *727 manner or content of the business of banking authorized for national banks, but rather establish the legal infrastructure that makes practicable the conduct of that business.” Bank Activities and Operations, 69 Fed.Reg.1904, 1913 (Jan. 13, 2004). By prohibiting fraudulent business practices, the Unfair Competition Law does exactly that—it establishes a legal infrastructure.
+ 
+[14] Although Wells Fargo insists that a state law prohibiting misleading statements necessarily touches on “checking accounts,” such an expansive interpretation—with no limiting principle—“would swallow all laws.” Aguayo v. U.S. Bank, 653 F.3d 912, 925 (9th Cir.2011). We recently declined a bank’s invitation to interpret the term “lending operations” expansively because “every action by the bank, due to the nature of its business, affects its ability to attract, manage, and disburse capital, and could be said to ‘affect’ its lending operations.” Id. California’s prohibition of misleading statements does not significantly interfere with the bank’s ability to offer checking account services, choose a posting method, or calculate fees. Nor does the Unfair Competition Law mandate the content of any nonmisleading and nonfraudulent statements in the banking arena. On the flip side, the National Bank Act and other OCC provisions do not aid Wells Fargo, as neither source regulates deceptive statements vis-a-vis the bank’s chosen posting method. Where, as here, federal laws do not cover a bank’s actions, states “are permitted to regulate the activities of national banks where doing so does not prevent or significantly interfere with the national bank’s or the national bank regulator’s exercise of its powers.” Watters, 550 U.S. at 12, 127 S.Ct. 1559; see also Gibson v. World Sav. & Loan Ass’n, 103 Cal.App.4th 1291, 1299, 128 Cal.Rptr.2d 19 (2002) (the “state cannot dictate to the Bank how it can or cannot operate, but it can insist that, however the Bank chooses to operate, it do so free from fraud and other deceptive business practices”).
+ 
+Other than an argument regarding the cost of modifying its published materials, Wells Fargo does not articulate how abiding by the Unfair Competition Law’s prohibition of misleading statements would prevent or significantly interfere with its ability to engage in the business of banking. Wells Fargo’s inability to demonstrate a significant interference is unsurprising—the district court found that when it chose to, the bank could accurately explain the posting process to customers: “Wells Fargo provided its tellers and phone-bank employees with a clear script to respond to customers who protested after receiving multiple overdraft fees caused by high-to-low resequencing. These explanations were in plain English.” The limitation on fraudulent representations in California’s Unfair Competition Law does not subject Wells Fargo’s ability to receive deposits, to set account terms, to implement a posting method, or to calculate fees to surveillance under a rival oversight regime, nor does it stand as an obstacle to the accomplishment of the National Bank Act’s purposes. See Barnett, 517 U.S. at 31, 116 S.Ct. 1103. In Martinez, we expressed the principle that controls here: “State laws of general application, which merely require all businesses (including national banks) to refrain from fraudulent, unfair, or illegal behavior, do not necessarily impair a bank’s ability to exercise its ... powers.” 598 F.3d at 555. Accordingly, we hold that Gutierrez’s claim for violation of the fraudulent prong of the Unfair Competition Law by making misleading misrepresentations with regard to its posting method is not preempted, and we affirm the district court’s finding to this extent. Consistent with the foregoing, the district court may provide injunctive relief *728 and restitution against Wells Fargo. Although the court cannot issue an injunction requiring the bank to use a particular system of posting or requiring the bank to make specific disclosures, it can enjoin the bank from making fraudulent or misleading representations about its system of posting in the future. Restitution is available for past misleading representations. We make no judgment as to whether it is warranted here. On remand, the district court will be in a position to determine whether, subject to the limitations in this opinion, restitution is justified by the pleadings and the evidence in this case.
+ 
+
+III. REMAINING ISSUES
+Finally, we consider Wells Fargo’s challenge to standing, class certification, and the finding that Wells Fargo made misleading statements. Upon reviewing the trial record and the district court’s extensive findings, we conclude that the district court did not err. See Lyon v. Gila River Indian Cmty., 626 F.3d 1059, 1071 (9th Cir.2010) (the district court’s conclusions of law are reviewed de novo and its findings of fact are reviewed for clear error).
+ 
+
+A. STANDING
+[15] [16] To establish standing to seek class-wide relief for fraud-based Unfair Competition Law claims, the named plaintiffs must prove “actual reliance” on the misleading statements. Specifically, “a class representative proceeding on a claim of misrepresentation as the basis of his or her UCL action must demonstrate actual reliance on the allegedly deceptive or misleading statements, in accordance with well-settled principles regarding the element of reliance in ordinary fraud actions.” In re Tobacco II Cases, 46 Cal.4th 298, 306, 93 Cal.Rptr.3d 559, 207 P.3d 20 (2009).
+ 
+The district court found that Gutierrez and Walker read portions of the “Welcome Jacket,” “which stated that ‘[e]ach purchase is automatically deducted from your primary checking account.’ ” The district court next found that Gutierrez and Walker each “relied upon the bank’s misleading marketing materials that reinforced her natural assumption that debit-card transactions would post chronologically.” The district court determined that both Gutierrez and Walker were misled by Wells Fargo’s statements because the extent of the falsity of the statements was not known to either of them until they incurred hefty fees for having overdrawn their checking accounts. These findings are well supported by the evidence and are not clearly erroneous. Gutierrez and Walker therefore have standing. See Bates v. United Parcel Serv., Inc., 511 F.3d 974, 985 (9th Cir.2007) (en banc) (“In a class action, standing is satisfied if at least one named plaintiff meets the requirements.”).9
+ 
+
+B. CLASS CERTIFICATION
+[17] Next, class certification under Fed.R.Civ.P. 23(b)(3) requires that “questions of law or fact common to class members predominate over any questions affecting only individual members.” With respect to marketing materials, the district court found that:
+A Wells Fargo marketing theme was that debit-card purchases were “immediately” or “automatically” deducted from an account. This likely led the class to believe: (1) that the funds would be deducted from their checking accounts in the order transacted, and (2) that the *729 purchase would not be approved if they lacked sufficient available funds to cover the transaction. This language was present on Wells Fargo’s website (TX 129), on Wells Fargo’s Checking, Savings and More brochures from 2001 and 2005 (TX 88, 89), and Wells Fargo’s New Account Welcome Jacket from 2004 (TX 82).
+The pervasive nature of Wells Fargo’s misleading marketing materials amply demonstrates that class members, like the named plaintiffs, were exposed to the materials and likely relied on them. See Tobacco II, 46 Cal.4th at 312, 93 Cal.Rptr.3d 559, 207 P.3d 20 (to establish fraud under the Unfair Competition Law, plaintiffs must show “that members of the public are likely to be deceived”). In addition, the district court found that Wells Fargo knew that “new accounts generate the bulk of OD [overdraft] revenue.” Wells Fargo’s speculation—that “some class members would have engaged in the same conduct irrespective of the alleged misrepresentation”—does not meet its burden of demonstrating that individual reliance issues predominate. Unlike McLaughlin v. Am. Tobacco Co., 522 F.3d 215, 223 (2d Cir.2008) (partially abrogated on other grounds by Bridge v. Phoenix Bond & Indem. Co., 553 U.S. 639, 128 S.Ct. 2131, 170 L.Ed.2d 1012 (2008)), where individual class members could have had different motives for choosing “light” cigarettes, we are hard pressed to agree that any class member would prefer to incur multiple overdraft fees.
+ 
+
+C. MISLEADING STATEMENTS
+[18] Finally, the district court’s finding that Wells Fargo made misleading statements is amply supported by the court’s factual findings. Wells Fargo told customers that “[c]heck card and ATM transactions generally reduce the balance in your account immediately” and that “the money comes right out of your checking account the minute you use your debit-card.” The bank also misleadingly admonished customers to “[r]emember that whenever you use your debit-card, the money is immediately withdrawn from your checking account. If you don’t have enough money in your account to cover the withdrawal, your purchase won’t be approved.” According to the district court,
+the “account activity” information provided to customers through online banking—a service made available to all Wells Fargo depositors—displayed “pending” debit-card transactions in chronological order (i.e., the order in which the transactions were authorized by Wells Fargo). When it came time to post them during the settlement process, however, the same transactions were not posted in chronological order but were posted in high-to-low order.
+The findings go on:
+Misleading marketing materials promoted the same theme of chronological subtraction. A number of Wells Fargo marketing materials, including the Wells Fargo Welcome Jacket that was customarily provided to all customers who opened a consumer checking account, contained misleading representations regarding how debit-card transactions were processed. Specifically, these various materials—covered in detail in the findings of fact—communicated that debit-card POS purchases were deducted “immediately” or “automatically” from the user’s checking account.... Such representations would lead reasonable consumers to believe that the transactions would be deducted from their checking accounts in the sequence transacted.
+Based on these findings, the district court concluded that “Wells Fargo affirmatively reinforced the expectation that transactions *730 were covered in the sequence made while obfuscating its contrary practice of posting transactions in high-to-low order to maximize the number of overdrafts assessed on customers.” Wells Fargo’s alternate interpretation of the word “automatically” is insufficient to render the district court’s findings clearly erroneous. Accordingly, the district court’s holding that Wells Fargo violated the Unfair Competition Law by making misleading statements likely to deceive its customers is affirmed.
+ 
+
+CONCLUSION
+Given the terms of the arbitration agreement and the parties’ conduct throughout litigation, the Supreme Court’s decision in Concepcion does not require that this dispute be arbitrated at this late stage—post-trial, post-judgment, and post-appeal. As to preemption, we hold that a national bank’s decision to post payments to checking accounts in a particular order is a federally authorized pricing decision. The National Bank Act preempts the application of the unfair business practices prong of California’s Unfair Competition Law to dictate a national bank’s order of posting. See 12 U.S.C. § 24; 12 C.F.R. § 7.4002. Similarly, both the imposition of affirmative disclosure requirements and liability based on failure to disclose are preempted by 12 U.S.C. § 24 and 12 C.F.R. § 7.4007. The National Bank Act, however, does not preempt Gutierrez’s claim for affirmative misrepresentations under the “fraudulent” prong of the Unfair Competition Law.
+ 
+Although the injunctive relief ordered by the district court is based on both the unfair and fraudulent prongs of the Unfair Competition Law, the injunction is vacated because each of its terms dictates relief relating to the posting order, which is preempted. The restitution order, which is predicated on liability for Wells Fargo’s choice of posting method and thus also preempted, is vacated as well. The district court’s finding of liability for Wells Fargo’s violations of the “fraudulent” prong of California’s Unfair Competition Law is affirmed, and we remand for the district court to determine what relief, if any, is appropriate and consistent with this opinion.10
+ 
+AFFIRMED in part, REVERSED in part, and REMANDED. Each party shall pay its own fees on appeal.
+ 
+All Citations
+704 F.3d 712, 12 Cal. Daily Op. Serv. 14,031, 2012 Daily Journal D.A.R. 17,252
+Footnotes
+
+1
+
+This background is drawn from the district court’s Findings of Fact and Conclusions of Law After Bench Trial.
+
+2
+
+Section 17200 of the California Business and Professions Code provides that “unfair competition shall mean and include any unlawful, unfair or fraudulent business act or practice.” The California Supreme Court has held that the law’s coverage is sweeping, encompassing “anything that can properly be called a business practice and that at the same time is forbidden by law.” Rubin v. Green, 4 Cal.4th 1187, 1200, 17 Cal.Rptr.2d 828, 847 P.2d 1044 (1993). It governs “anti-competitive business practices as well as injuries to consumers, and has as a major purpose the preservation of fair business competition.” Cel–Tech Commc’ns, Inc. v. Los Angeles Cellular Tel. Co., 20 Cal.4th 163, 180, 83 Cal.Rptr.2d 548, 973 P.2d 527 (1999) (citation and internal quotation marks omitted).
+
+3
+
+The district court held that proof of an unfair business practice under § 17200 requires an unfair policy or practice tethered to a legislatively declared policy or the demonstration of an actual or threatened impact on competition. As described above, Gutierrez “tethered” the claim to the legislative comment expressed in California Commercial Code § 4303(b). The extent to which claims brought under the Unfair Competition Law must be tethered to a legislatively declared policy is a question of debate in California courts that need not be addressed here. See Davis v. HSBC Bank Nevada, N.A., 691 F.3d 1152, 1169–70 (9th Cir.2012); Durell v. Sharp Healthcare, 183 Cal.App.4th 1350, 1364–65, 108 Cal.Rptr.3d 682 (2010).
+
+4
+
+We assume without deciding that the arbitration agreement is valid and that the dispute is within the scope of the arbitration agreement. Neither issue is on appeal.
+
+5
+
+The commentary to § 4303 explains that:
+Subsection (b) provides that a payor bank may accept or pay items in any order.... The only restraint on the discretion given to the payor bank under subsection (b) is that the bank act in good faith. For example, the bank could not properly follow an established practice of maximizing the number of returned checks for the sole purpose of increasing the amount of returned check fees charged to the customer.
+Cal. Com.Code § 4303, 1992 Amendment cmt. 7.
+
+6
+
+The incidental powers reserved for national banks are “not limited to activities deemed essential to the exercise of enumerated powers but include activities closely related to banking and useful in carrying out the business of banking.” Bank of Am. v. City and Cnty. of San Francisco, 309 F.3d 551, 562 (9th Cir.2002); see also 12 C.F.R. § 7.4007(a) (“A national bank may receive deposits and engage in any activity incidental to receiving deposits.”).
+
+7
+
+Section 7.4002(a) provides that a “national bank may charge its customers non-interest charges and fees, including deposit account service charges.” 12 C.F.R. § 7.4002(a).
+
+8
+
+Section 7.4002(b) provides that:
+[a] national bank establishes non-interest charges and fees in accordance with safe and sound banking principles if the bank employs a decision-making process through which it considers the following factors, among others: (i) The cost incurred by the bank in providing the service; (ii) The deterrence of misuse by customers of banking services; (iii) The enhancement of the competitive position of the bank in accordance with the bank’s business plan and marketing strategy; and (iv) The maintenance of the safety and soundness of the institution.
+12 C.F.R. § 7.4002(b).
+
+9
+
+Gutierrez’s and Walker’s harm was not all caused by their lack of oversight of their own account balances. The misunderstanding that Wells Fargo’s misleading statements sowed among customers about its posting scheme was a significant cause of the magnitude of the harm experienced by Gutierrez and Walker.
+
+10
+
+In light of the decision to vacate the restitution award, we do not reach the parties’ arguments as to the amount of restitution awarded, prejudgment interest, and punitive damages.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (12)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Declined to Extend by
+1.  Allen v. Similasan Corporation 
+2013 WL 12061830 , S.D.Cal.
+On June 3, 2013, Plaintiff Lainie Rideout (’’Plaintiff’’) filed a motion for reconsideration of the Court’s May 14, 2013 Order (’’May 14, 2013 Order’’) granting Defendant...
+Aug. 07, 2013
+Case
+
+—
+
+Declined to Extend by
+2.  In re Checking Account Overdraft Litigation MDL No. 2036 
+2014 WL 12557839 , S.D.Fla.
+THIS CAUSE comes before the Court upon Defendant Capital One’s Motion for Judgment on the Pleadings (DE #3680). Therein, Capital One seeks judgment in its favor, arguing that each...
+June 24, 2014
+Case
+
+6
+
+
+
+
+7
+
+
+
+
+12
+
+
+
+
+F.3d
+
+Distinguished by
+3.  Riensche v. Cingular Wireless LLC 
+2013 WL 951012 , W.D.Wash.
+THIS MATTER comes before the Court on Defendants’ motions to compel arbitration in these companion cases, C06–1325TSZ, docket no. 193, and C09–106TSZ, docket no. 83. Having...
+Mar. 12, 2013
+Case
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+4.  Jacobs v. FirstMerit Corp. 
+2013 WL 5445302 , Ohio App. 11 Dist.
+FINANCE AND BANKING - Banks. Bank customers’ fraud claim regarding overdraft charge imposition was proper for class certification.
+Sep. 30, 2013
+Case
+
+12
+
+
+
+
+15
+
+
+
+
+F.3d
+
+Distinguished by
+ 5.  In re Checking Account Overdraft Litigation
+2013 WL 5774287 , S.D.Fla.
+THIS CAUSE comes before the Court upon Plaintiffs’ Motion for Summary Judgment as to Certain Affirmative Defenses (DE # 2997), and Defendant BancorpSouth Bank’s (’’BancorpSouth’’...
+Oct. 24, 2013
+Case
+
+—
+
+Distinguished by
+ 6.  In re HSBC BANK, USA, N.A., Debit Card Overdraft Fee Litigation 
+1 F.Supp.3d 34 , E.D.N.Y.
+COMMERCIAL LAW - Contracts. Customers stated claims against bank for breach of covenant of good faith and fair dealing under New York and California law.
+Mar. 05, 2014
+Case
+
+6
+
+
+
+
+11
+
+
+
+
+12
+
+
+
+
+F.3d
+
+Distinguished by
+7.  Feld v. Apple Bank for Sav.
+984 N.Y.S.2d 319 , N.Y.A.D. 1 Dept.
+COMMERCIAL LAW - Unfair Practices. Bank did not misrepresent checking account balances, so as to violate deceptive acts and practices statute.
+Apr. 17, 2014
+Case
+
+12
+
+
+
+
+15
+
+
+
+
+18
+
+
+
+
+F.3d
+
+Distinguished by
+8.  Herskowitz v. Apple, Inc.
+301 F.R.D. 460 , N.D.Cal.
+E-COMMERCE - Class Actions. Court denied motion to certify class action against Apple.‐
+Aug. 07, 2014
+Case
+
+17
+
+
+
+
+F.3d
+
+Distinguished by
+ 9.  Hanjy v. Arvest Bank 
+94 F.Supp.3d 1012 , E.D.Ark.
+FINANCE AND BANKING - Banks. Bank customers’ breach of contract claims against bank were not preempted by federal law.
+Mar. 31, 2015
+Case
+
+6
+
+
+
+
+11
+
+
+
+
+18
+
+
+
+
+F.3d
+
+Distinguished by
+10.  Phillips v. Bank of America
+186 Cal.Rptr.3d 434 , Cal.App. 2 Dist.
+Background:  Trustees of minor beneficiaries’ Coogan trusts containing proceeds from artistic or creative services brought class action against bank for breach of contract, breach...
+Apr. 27, 2015
+Case
+
+6
+
+
+
+
+F.3d
+
+Distinguished by
+11.  Willick v. Napoli Bern Ripka & Associates, LLP
+2015 WL 12765469 , C.D.Cal.
+Pending before the Court is Defendants Napoli Bern Ripka & Associates, LLP, Napoli Bern Ripka Shkolnik & Associates, LLP, Napoli Bern Ripka Shkolnik, LLP, Napoli Bern Ripka, LLP,...
+Aug. 20, 2015
+Case
+
+—
+
+Distinguished by
+12.  Okada v. Nevada Property 1, LLC
+2015 WL 5458799 , D.Nev.
+Nevada Property 1, LLC (NP1) moves to compel (# 39) Donald Okada to arbitrate the claims he has brought against NP1, pursuant to an arbitration clause in the Condominium Unit...
+Sep. 17, 2015
+Case
+
+4
+
+
+
+
+F.3d
+
+

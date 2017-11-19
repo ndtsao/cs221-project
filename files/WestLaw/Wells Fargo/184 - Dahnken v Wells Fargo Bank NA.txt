@@ -1,0 +1,118 @@
+
+
+ 
+
+
+Dahnken v. Wells Fargo Bank, NA
+United States Court of Appeals, Ninth Circuit. | July 19, 2017 | --- Fed.Appx. ---- | 2017 WL 3049552
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Dahnken v. Wells Fargo Bank, NA, No. 14-15424, 2017 WL 3049552 (9th Cir. July 19, 2017)
+
+All Citations:
+
+--- Fed.Appx. ----, 2017 WL 3049552
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:06 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+2017 WL 3049552
+Only the Westlaw citation is currently available.
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+Richard DAHNKEN, Plaintiff-Appellant,
+v.
+WELLS FARGO BANK, NA, Trustee of Wamu Mortgage Pass-Through Certificates, Series 2005-PR4; JPMorgan Chase Bank, N.A.; Mortgage Electronic Registration Systems, Inc., Defendants-Appellees.
+No. 14-15424
+|
+Submitted February 15, 2017* San Francisco, California
+|
+Filed July 19, 2017
+Appeal from the United States District Court for the Northern District of California, Phyllis J. Hamilton, District Judge, Presiding, D.C. No. 4:13-cv-02838-PJH
+Attorneys and Law Firms
+Charles Thomas Marshall, Charles T. Marshall, Attorney at Law, San Diego, CA, for Plaintiff-Appellant
+Daniel T. Rockey, Holme Roberts & Owen LLP, San Francisco, CA, Joseph James Poppen, Attorney, Bryan Cave LLP, San Francisco, CA, for Defendants-Appellees
+Before: GOULD and BERZON, Circuit Judges and GARBIS,** District Judge.
+
+
+MEMORANDUM***
+*1 In 2005, Appellant Richard Dahnken (“Dahnken”) obtained a $346,000 home loan, evidenced by a promissory note and secured by a deed of trust recorded against the property. Mortgage Electronic Registration Systems, Inc. (“MERS”) was designated the nominee for the lender and its successors and assigns, beneficiary of the deed of trust, and holder of legal title to the loan. Through a series of assignments, the loan was securitized into a mortgage-backed securities pool that qualified as a Real Estate Mortgage Investment Conduit (“REMIC”) in accordance with the Internal Revenue Code. JPMorgan Chase Bank (“Chase”) ultimately became the servicer for the loan.
+ 
+Dahnken stopped making payments on the loan beginning September 2008. Before a scheduled foreclosure sale, he filed this lawsuit in June 2013, asserting ten causes of action against Chase, MERS, and Wells Fargo Bank, NA (“Wells Fargo”) as trustee of the securities trust. The district court dismissed Dahnken’s amended complaint with prejudice. We have jurisdiction under 28 U.S.C. § 1291, and we affirm.
+ 
+1. The district court did not err in dismissing Dahnken’s wrongful foreclosure claim for failing to state a claim under Federal Rule of Civil Procedure 12(b)(6). Dahnken alleged that none of the named Defendants had standing to enforce his mortgage loan because of failures with the assignments.
+ 
+First, Dahnken’s challenges to MERS’ assignments have no merit. MERS was acting as the lender’s nominee when it assigned the interest in the deed of trust, so the assignment was valid. See Fontenot v. Wells Fargo Bank, N.A., 198 Cal.App.4th 256, 129 Cal.Rptr.3d 467, 479-80 (2011) (disapproved of on other grounds by Yvanova v. New Century Mortg. Corp., 62 Cal.4th 919, 199 Cal.Rptr.3d 66, 365 P.3d 845, 859 n.13 (2016)). Further, even if MERS lacked authority to transfer the note, the assignment merely substituted one creditor for another and did not change Dahnken’s obligations, so Dahnken cannot show the prejudice necessary to challenge foreclosure. Id. at 481.
+ 
+Dahnken also argued that the attempted securitization failed because the assignment to Wells Fargo was after the closing date of the trust. The weight of authority now holds that an untimely assignment to a securitized trust, made after the securitized trust’s closing date, is not void but merely voidable. See, e.g., Turner v. Wells Fargo Bank NA, 859 F.3d 1145, 1149-51 (9th Cir. 2017).
+ 
+Finally, Dahnken’s allegation that the assignment was robo-signed does not result in a void assignment. An unauthorized signature is subject to ratification, so the assignment would therefore, be voidable, not void. Cal. Com. Code § 3403(a); Mendoza v. JPMorgan Chase Bank, N.A., 6 Cal.App.5th 802, 212 Cal.Rptr.3d 1, 14 (2016).
+ 
+Under California law, a borrower cannot bring an action challenging the assignment of a loan or deed of trust from one lender or loan-servicer to another unless that assignment was void rather than merely voidable. Turner, 859 F.3d at 1149-51  (citing Yvanova, 199 Cal.Rptr.3d 66, 365 P.3d at 861). Therefore, Dahnken lacked the authority to challenge the assignments, and his claim for wrongful disclosure fails.
+ 
+*2 2. Dahnken’s claims for quiet title and restitution similarly fail. Dahnken did not plausibly allege superior title in his property over Chase and Wells Fargo. Nor did Dahnken allege that he had paid his debt, which is a necessary prerequisite to quiet title to the property. Lueras v. BAC Home Loans Servicing, LP, 221 Cal.App.4th 49, 163 Cal.Rptr.3d 804, 835-36 (2013). Also, Dahnken made no plausible allegation of any payments he made not being properly credited to the loan or unjustly enriching Chase or Wells Fargo. Dunkin v. Boskey, 82 Cal.App.4th 171, 98 Cal.Rptr.2d 44, 62–63 (2000).
+ 
+3. The district court did not err in dismissing Dahnken’s claims of California Civil Code violations. Dahnken alleged that defendants violated Cal. Civ. Code § 2924.17 based on a Notice of Trustee’s Sale that was issued by the trustee on behalf of Wells Fargo. Section 2924.17 applies to a mortgage servicer, which is defined in § 2920.5 to specifically exclude a trustee. Dahnken’s claims against defendants are, therefore, inapplicable, since the notice was issued by the trustee, not by defendants.
+ 
+Dahnken also alleged a violation of Cal. Civ. Code § 2934a(a)(1)(A) based on Chase not having the power to substitute a trustee. As discussed above, Dahnken’s allegations with regard to the validity of MERS assignments have no merit. Further, Chase recorded the substitution of trustee, so the Civil Code’s procedural requirements were satisfied. See Cal. Civ. Code § 2934a(d) (recorded substitution of trustee constitutes conclusive evidence of the authority of the substituted trustee).
+ 
+4. Dahnken did not raise any legal argument challenging the district court’s ruling denying him leave to file a second amended complaint, so Dahnken failed to preserve the issue for appeal. See D.A.R.E. Am. v. Rolling Stone Magazine, 270 F.3d 793, 793 (9th Cir. 2001) (“A bare assertion of an issue does not preserve a claim, particularly when, as here, a host of other issues are presented for review.” (citations omitted)). Further, after a previous opportunity to amend, Dahnken failed to cure the complaint’s defects, and there is no showing that further amendment would be successful.
+ 
+AFFIRMED.
+ 
+All Citations
+--- Fed.Appx. ----, 2017 WL 3049552
+Footnotes
+
+*
+
+The panel unanimously concludes this case is suitable for decision without oral argument. See Fed. R. App. P. 34(a)(2).
+
+**
+
+The Honorable Marvin J. Garbis, United States District Judge for the District of Maryland, sitting by designation.
+
+***
+
+This disposition is not appropriate for publication and is not precedent except as provided by Ninth Circuit Rule 36-3.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

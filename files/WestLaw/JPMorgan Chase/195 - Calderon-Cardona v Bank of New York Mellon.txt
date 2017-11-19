@@ -1,0 +1,369 @@
+
+
+
+
+
+Calderon-Cardona v. Bank of New York Mellon
+United States Court of Appeals, Second Circuit. | October 23, 2014 | 770 F.3d 993 | 2014 WL 5368880
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Gates v. Syrian Arab Republic, N.D.Ill., November 6, 2014
+
+standard Citation:
+
+Calderon-Cardona v. Bank of New York Mellon, 770 F.3d 993 (2d Cir. 2014)
+
+All Citations:
+
+770 F.3d 993
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Gates v. Syrian Arab Republic, N.D.Ill., November 6, 2014
+770 F.3d 993
+United States Court of Appeals,
+Second Circuit.
+Ruth CALDERON–CARDONA; Ruth Calderon–Cardona, in her capacity as personal representative of The Estate of Eladia Cardona–Rosario; Luz Calderon–Cardona; Louis Calderoncardona; Gloria Calderon–Cardona; Jose Raul Calderon–Cardona; Ana Delia Calderon–Cardona; Hilda Calderon–Cardona; Salvador Calderon–Martinez; Angel Calderonguzman in his capacity as personal representative of The Estate of Miguel Calderon–Cardona; Miguel Calderonguzman in his capacity as personal representative of The Estate of Miguel Calderon–Cardona; Angel Luis Ramirez–Colon in his capacity as personal representative of The Estate of Pablo Tirado–Ayala; and Antonia Ramirezfiero, Petitioners–Appellants,
+v.
+The BANK OF NEW YORK MELLON, HSBC, Standard Chartered, Deutsche Bank Trust Company of the Americas, UBS AG, Citibank, N.A., Bank of China, Consolidated–Defendants–Appellees,
+JPMorgan Chase Bank, N.A., Intesa Saopaolo, Respondents–Appellees.*
+No. 12–0075.
+|
+Argued Feb. 11, 2013.
+|
+Decided Oct. 23, 2014.
+Synopsis
+Background: Families and victims of a terrorist attack in Israel sought to satisfy a judgment entered pursuant to Foreign Sovereign Immunities Act (FSIA) against the Democratic Republic of North Korea and its main intelligence agency, 723 F.Supp.2d 441, by seizing accounts at the respondent banks that contained funds blocked pursuant to sanctions imposed by the U.S. Government against North Korea. The United States District Court for the Southern District of New York, Cote, J., 867 F.Supp.2d 389, granted judgment for respondents. Petitioners appealed.
+ 
+Holdings: The Court of Appeals, Hall, Circuit Judge, held that:
+ 
+[1] on matter of first impression, an electronic fund transfer (EFT) blocked midstream is “property of a foreign state” or “the property of an agency or instrumentality of such a state,” subject to attachment under the FSIA, only where either the state itself or an agency or instrumentality thereof, such as a state-owned financial institution, transmitted the EFT directly to the bank where the EFT is held pursuant to the block;
+ 
+[2] remand was required for parties to conduct discovery; and
+ 
+[3] Presidential waiver effectively rendered FSIA attachment remedy unavailable.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (8)
+
+
+[1]
+
+International LawProperty of sovereign
+
+
+221International Law
+221k10.29Actions Against Sovereign or Instrumentality
+221k10.35Property of sovereign
+
+
+An electronic fund transfer (EFT) blocked midstream is “property of a foreign state” or “the property of an agency or instrumentality of such a state,” subject to attachment under the Foreign Sovereign Immunities Act, only where either the state itself or an agency or instrumentality thereof, such as a state-owned financial institution, transmitted the EFT directly to the bank where the EFT is held pursuant to the block. 28 U.S.C.A. § 1610(g).
+11 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsEnforcement of judgment
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3604Judgment
+170Bk3604(6)Enforcement of judgment
+
+
+De novo review applied to issue of whether electronic fund transfers (EFTs) blocked in United States banks pursuant to sanctions regimes imposed upon North Korea by United States government were “property of” North Korea or “the property of an agency or instrumentality of” North Korea, and thus whether attachment of the EFTs under Foreign Sovereign Immunities Act was possible. 28 U.S.C.A. § 1610(g).
+2 Cases that cite this headnote
+
+
+
+[3]
+
+Creditors’ RemediesFinancial institutions and intermediaries
+Searches and SeizuresItems subject to seizure in general;  nexus
+
+
+108HCreditors’ Remedies
+108HIIProperty or Other Subject Matter Which Creditors May Reach
+108HII(C)Ownership or Possession of Subject Matter
+108Hk72Subject Matter Held by Persons Other Than Debtor
+108Hk78Financial institutions and intermediaries
+(Formerly 44k63 Attachment)
+349Searches and Seizures
+349IIn General
+349k30Items subject to seizure in general;  nexus
+
+
+Whether midstream electronic fund transfers (EFTs) may be attached or seized depends upon the nature and wording of the statute pursuant to which attachment and seizure is sought.
+Cases that cite this headnote
+
+
+
+[4]
+
+Federal CourtsExecution and enforcement
+
+
+170BFederal Courts
+170BXVState or Federal Laws as Rules of Decision;  Erie Doctrine
+170BXV(B)Application to Particular Matters
+170Bk3022Procedural Matters
+170Bk3045Judgment;  Orders
+170Bk3045(7)Execution and enforcement
+
+
+When Congress has not created any new property rights, but merely attaches consequences, federally defined, to rights created under state law, a federal court applying federal law must look to state law to define the rights the judgment debtor has in the property the creditor seeks to reach.
+6 Cases that cite this headnote
+
+
+
+[5]
+
+International LawProperty of sovereign
+
+
+221International Law
+221k10.29Actions Against Sovereign or Instrumentality
+221k10.35Property of sovereign
+
+
+Congress provided under the Foreign Sovereign Immunities Act that “property” of a foreign state is subject to execution, and absent any indication that Congress intended a special definition of the term, “property” interests are ordinarily those created and defined by state law. 28 U.S.C.A. § 1610(g).
+2 Cases that cite this headnote
+
+
+
+[6]
+
+Banks and BankingTransmission of money or credit in general
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(F)Exchange, Money, Securities, and Investments
+52k188.5Transmission of money or credit in general
+
+
+Under the New York Uniform Commercial Code (UCC), the only entity with a property interest in an electronic fund transfer (EFT) while it is midstream is the entity immediately preceding the bank “holding” the EFT in the transaction chain; in the context of a blocked transaction, this means that the only entity with a property interest in the stopped EFT is the entity that passed the EFT on to the bank where it presently rests. N.Y.McKinney’s Uniform Commercial Code §§ 4A–502(d), 4–A–503.
+6 Cases that cite this headnote
+
+
+
+[7]
+
+Federal CourtsNeed for further evidence, findings, or conclusions
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(L)Determination and Disposition of Cause
+170Bk3779Directing New Trial or Other Proceedings Below;  Remand
+170Bk3785Need for further evidence, findings, or conclusions
+
+
+Record contained little to no evidence of whether entities that transmitted electronic fund transfers (EFTs) to respondent banks were agencies or instrumentalities of North Korea, and thus remand was required for parties to conduct discovery aimed at resolving those factual issues, in proceeding to satisfy judgment entered pursuant to Foreign Sovereign Immunities Act (FSIA) against Democratic Republic of North Korea and its main intelligence agency, since determination could not be made as to whether EFTs were properly attachable without knowing nature of those entities. 28 U.S.C.A. § 1610(g).
+Cases that cite this headnote
+
+
+
+[8]
+
+International LawProperty of sovereign
+
+
+221International Law
+221k10.29Actions Against Sovereign or Instrumentality
+221k10.35Property of sovereign
+
+
+Presidential waiver by valid executive order of provision for “any property with respect to which financial transactions are prohibited or regulated” under the Trading with the Enemy Act (TWEA) or International Emergency Economic Powers Act (IEEPA) to be subject to execution or attachment to satisfy judgment which was obtained under terrorism exception outlined in Foreign Sovereign Immunities Act (FSIA) effectively rendered that attachment remedy unavailable to families and victims of terrorist attack in Israel against Democratic Republic of North Korea and its main intelligence agency. 28 U.S.C.A. § 1610(f)(1).
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*995 Robert J. Tolchin and Meir Katz, The Berkman Law Office, LLC, Brooklyn, NY, for Petitioners–Appellants.
+Howard B. Levi and J. Kelly Nevling, Jr., Levi Lubarsky & Feigenbaum LLP, New York, NY, for JPMorgan Chase Bank, N.A. and Bank of New York Mellon Trust Co., N.A.
+Jennifer G. Newstead, Davis Polk & Wardwell LLP, New York, New York, for Intesa Saopaolo.
+Paul Kenneth Stecker, Phillips Lyle LLP, Buffalo, New York, for HSBC.
+Barry J. Glickman, Zeichner Ellman & Krause LLP, New York, New York, for Standard Chartered Bank.
+Sharon L. Schneier, Davis Wright Tremaine LLP, New York, New York, for UBS AG and Citibank, N.A.
+Lanier Saperstein, Dorsey & Whitney LLP, New York, New York, for Bank of China.
+Mark Putnam Gimbel, Covington & Burling, LLP, New York, NY, for Deutsche Bank Trust Company Americas.
+David S. Jones, United States Attorney’s Office for the Southern District of New York, New York, NY, for the United States of America.
+Neal M. Sher, Esq., New York, NY, for The Heiser Judgment Creditors.
+Liviu Vogel, Salon Marrow Dyckman Newman Broudy LLP, New York, NY, for The Peterson Judgment Creditors.
+Keith Martin Fleischman, The Fleischman Law Firm, New York, NY, for The Valore Judgment Creditors.
+Suzelle M. Smith, Howarth & Smith, Los Angeles, CA, for Jeremy Levin and Lucille Levin.
+Before: HALL, LYNCH, and CARNEY, Circuit Judges.
+Opinion
+HALL, Circuit Judge:
+
+Before us on appeal is a matter of first impression regarding the interpretation of § 201 of the Terrorism Risk Insurance Act of 2002 (codified at 28 U.S.C. § 1610 note) (“TRIA”) and §§ 1610(f)(1) and 1610(g) of the Foreign Sovereign Immunities Act (“FSIA”) (codified at 28 U.S.C.). The petitioners are family members of victims of state sponsored terrorism. They seek to enforce their 2010 judgment (“the underlying judgment”) obtained against the Democratic People’s Republic of Korea (“North Korea”) by attaching the blocked assets of that state pursuant to TRIA § 201 and FSIA §§ 1610(f)(1) and 1610(g). In particular, the petitioners seek to satisfy their judgments from electronic fund transfers (“EFTs”) blocked in United States banks pursuant to the sanctions regimes imposed *996 upon North Korea by the United States government.1 The banks at which the EFTs are blocked oppose turning over the value of the EFTs to petitioners. The questions raised on appeal are whether petitioners are precluded from recovering because North Korea’s designation as a state sponsor of terrorism was revoked in 2008, prior to the entry of the underlying judgment, and whether the EFTs sought to be attached are the property of North Korea, or of its agencies or instrumentalities, and therefore properly subject to execution to satisfy a judgment against North Korea.
+ 
+
+BACKGROUND
+A. Underlying Judgment
+The petitioners are family members and estate representatives of two American citizens, Carmelo Calderon–Molina and Pablo Tirado–Ayala, who were victims of a terrorist attack in Israel on May 30, 1972. The attack was carried out by terrorists affiliated with the Japanese Red Army and the Popular Front for the Liberation of Palestine.
+ 
+On March 28, 2008, the victims’ families and estate representatives commenced suit against North Korea and the North Korean Cabinet General Intelligence Bureau in the United States District Court for the District of Puerto Rico under FSIA § 1605A, alleging that North Korea and the North Korean Cabinet General Intelligence Bureau “provided material support to the terrorists by supplying them with the armaments used to carry out the attack.” Calderon–Cardona v. JPMorgan Chase Bank, N.A., 867 F.Supp.2d 389, 392 (S.D.N.Y.2011). When the suit was filed, North Korea was designated by the United *997 States Department of State (“State Department”) as a state sponsor of terrorism under § 6(j) of the Export Administration Act of 1979. North Korea and the North Korean Cabinet General Intelligence Bureau defaulted, and on August 5, 2010, the district court entered judgment for the petitioners awarding compensatory damages in the amount of $78 million and punitive damages in the amount of $300 million. See Calderon–Cardona v. Democratic People’s Republic of Korea, 723 F.Supp.2d 441, 460–85 (D.P.R.2010). The petitioners’ judgment remains unsatisfied.
+ 
+By order dated October 11, 2008, while petitioners’ § 1605A action was pending, the State Department rescinded North Korea’s status as a state sponsor of terrorism. Rescission of Determination Regarding North Korea, 73 Fed.Reg. 63,540 (Oct. 24, 2008). Then–Secretary of State Condoleezza Rice did so in accordance with a Presidential Report issued on June 26, 2008, which was the end-result of negotiations with North Korea regarding its development of nuclear technologies.
+ 
+
+B. Judgment Collection and Proceedings Before the District Court
+In an attempt to collect on the judgment, petitioners registered it in the Southern District of New York pursuant to 28 U.S.C. § 1963 on October 8, 2010. Seeking to locate North Korean assets, the petitioners then served a subpoena on the Office of Foreign Assets Control (“OFAC”) of the Department of the Treasury requesting the identities of financial institutions holding assets that are blocked as a result of sanctions against North Korea and information regarding other property of North Korea. OFAC, in response, produced a list of “the financial institutions that have reported to OFAC that they are holding assets blocked pursuant to sanctions against North Korea.” Having identified a number of these institutions and subpoenaed them for information about such accounts and their value, the petitioners subsequently requested orders for turnover pursuant to Federal Rule of Civil Procedure 69 and New York Civil Practice Law Rules 5225(b) and 5227 seeking to enforce their judgment by attaching the blocked funds pursuant to TRIA § 201, FSIA § 1610(f)(1), and FSIA § 1610(g). Respondent financial institutions opposed the petitions.
+ 
+The district court denied the petitions for turnover, concluding that petitioners failed to demonstrate entitlement to relief under TRIA § 201 and FSIA § 1610(g). The court held first that North Korea did not qualify as a “terrorist party” as required by TRIA § 201. It then concluded that even if North Korea qualified as a “terrorist party,” the blocked assets held by the respondents are not “owned by” North Korea for purposes of TRIA or FSIA § 1610(g). Finally, it concluded that petitioners could not rely on FSIA § 1610(f)(1) to support their turnover petitions because that section had been waived by the President of the United States.
+ 
+
+DISCUSSION
+A. Applicable Law
+The Foreign Sovereign Immunities Act is the sole basis for obtaining jurisdiction over a foreign state in federal court. FSIA provides that “a foreign state shall be immune from the jurisdiction of the courts of the United States and of the States except as provided in sections 1605 to 1607 of this chapter.” 28 U.S.C. § 1604 (1988). Thus, if a defendant is a foreign state within the meaning of FSIA, that defendant is not subject to the jurisdiction of the United States Courts unless one of the exceptions in the Act applies.
+ 
+*998 In 1996, Congress amended FSIA to include a terrorism exception, codified at 28 U.S.C. § 1605(a)(7), in order to “give American Citizens an important economic and financial weapon against ... outlaw states” that sponsor terrorism by providing “safe havens, funding, training, supplying weaponry, medical assistance, false travel documentation, and the like.” H.R.Rep. No. 104–383, at 62 (1995). This section was subsequently repealed, and Congress enacted § 1605A in its place. See Pub.L. 110–181, Div. A, § 1083, Jan. 28, 2008, 122 Stat. 341 (repealing 28 U.S.C. § 1605(a)(7) and creating 28 U.S.C. § 1605A); 28 U.S.C. § 1605A(a)(2)(A)(i)(l ) (“The court shall hear a claim under this section if ... the foreign state was designated as a state sponsor of terrorism” by the State Department). To the extent relevant to this case, § 1605A provides for the same exceptions to foreign sovereign immunity as the repealed section.
+ 
+FSIA also has several sections which address the type of foreign property that can be attached by judgment creditors. Generally, property of a foreign sovereign is immune from attachment. See 28 U.S.C. § 1609. Exceptions are, however, provided by 28 U.S.C. § 1610(f)(1)(A), TRIA § 201(a), and 28 U.S.C. § 1610(g).
+ 
+
+1. 28 U.S.C. § 1610(f)(1)(A)
+28 U.S.C. § 1610(f)(1)(A) provides that “any property with respect to which financial transactions are prohibited or regulated” under the Trading with the Enemy Act (“TWEA”), or the International Emergency Economic Powers Act (“IEEPA”) can be subject to execution or attachment to satisfy a judgment which was obtained under the terrorism exception outlined in § 1605A. See 28 U.S.C. § 1610(f)(1)(A) (“[S]hall be subject to execution or attachment in aid of execution of any judgment relating to a claim for which a foreign state (including any agency or instrumentality or such state) claiming such property is not immune under section 1605(a)(7) ... or section 1605A”). Also in § 1610(f), however, Congress authorized the President to “waive” section 1610(f)(1) “in the interest of national security.” 28 U.S.C. § 1610(f)(3). President Clinton waived § 1610(f)(1)’s attachment remedy entirely, effectively preventing judgment creditors from collecting pursuant to § 1610(f)(1). See Presidential Determination 2001–03, 65 Fed.Reg. 66,483 (Oct. 28, 2000). This waiver, which no president has rescinded, effectively rendered the attachment remedy under § 1610(f)(1) unavailable to plaintiffs.
+ 
+
+2. TRIA
+In an effort to aid victims of terrorism to satisfy their judgments Congress in 2002 enacted TRIA which is not subject to presidential waivers issued under 28 U.S.C. § 1610(f). See Pub.L. No. 107–297, 116 Stat. 2322 (2002), reprinted in relevant part at 28 U.S.C. § 1610 note; H.R.Rep. No. 107–779, at 27 (2002), 2002 U.S.C.C.A.N. 1430 (Conf.Rep.); Ministry of Def. & Support for the Armed Forces of the Islamic Republic of Iran v. Elahi, 556 U.S. 366, 386, 129 S.Ct. 1732, 173 L.Ed.2d 511 (2009) (“Congress placed the ‘notwithstanding’ clause in § 201(a) ... to eliminate the effect of any Presidential waiver issued under 28 U.S.C. § 1610(f) prior to the date of the TRIA’s enactment.”). Specifically, TRIA authorizes plaintiffs holding a judgment against a terrorist party to attach blocked assets of the terrorist party or any agency or instrumentality of the terrorist party. See TRIA § 201(a). The statute provides that:
+Notwithstanding any other provision of law, and except as provided in subsection (b), in every case in which a person has obtained a judgment against a terrorist party on a claim based on an act *999 of terrorism, or for which a terrorist party is not immune under [28 U.S.C. § 1605(a)(7) ], the blocked assets of that terrorist party (including the blocked assets of any agency or instrumentality of that terrorist party) shall be subject to execution or attachment in the aid of execution in order to satisfy such judgment to the extent of any compensatory damages for which such terrorist party has been adjudged liable.
+TRIA § 201(a) (emphasis supplied). On August 10, 2012, Congress amended TRIA and added language indicating that it is applicable to section 1605A judgment holders. See Iran Threat Reduction and Syrian Human Rights Act of 2012, Pub.L. No. 112–158, § 502(e) (Aug. 10, 2012).
+ 
+
+3. 28 U.S.C. § 1610(g)
+Subsequent to the enactment of TRIA, in 2008, Congress also enacted 28 U.S.C. § 1610(g), which authorizes attachment remedies for plaintiffs seeking to satisfy a judgment obtained under § 1605A. See 28 U.S.C. § 1610(g)(1) (allowing attachment of property of a foreign state “against which a judgment is entered under section 1605A”). Section 1610(g) not only allows attachment of property of a foreign state but also property of an agency or instrumentality “that is a separate juridical entity or is an interest held directly or indirectly in a separate juridical entity.” Id. § 1610(g)(1). Attachment is allowed even if the property is regulated under TWEA or IEEPA. Section 1610(g), however, does not “supersede the authority of a court to prevent appropriately the impairment of an interest held by a person who is not liable in the action giving rise to a judgment in property.” Id. § 1610(g)(3).
+ 
+
+B. Issues for Review
+On appeal petitioners argue pursuant to TRIA § 201, 28 U.S.C. § 1610(g), and 28 U.S.C. § 1610(f)(1)(A) that they are entitled to execute against the blocked EFTs, which they claim belong to North Korea. As we explain below, petitioners’ arguments with regard to TRIA and 28 U.S.C. § 1610(f)(1)(A) lack merit. Additional discovery is required, however, to determine whether attachment of some of the EFTs is permissible under 28 U.S.C. § 1610(g).
+ 
+
+1. TRIA § 201
+Pursuant to TRIA, assets are attachable when “a person has obtained a judgment against a terrorist party on a claim based on an act of terrorism.” TRIA § 201(a). Here, the statutory text of TRIA unambiguously requires that there (1) be a judgment, (2) against a terrorist party, and (3) the claim underlying the judgment be based on an act of terrorism. See United States v. Santos, 541 F.3d 63, 67 (2d Cir.2008) (“When a court determines that the language of a statute is unambiguous, its inquiry is complete.”). While plaintiffs have a judgment against North Korea that is based on an act of terrorism, that judgment was not entered against a terrorist party. As the district court correctly observed, a foreign state is a “terrorist party” for purposes of TRIA § 201(d) when it is “ ‘designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 ... or Section 620A of the Foreign Assistance Act of 1961.’ ” Calderon–Cardona, 867 F.Supp.2d at 394 (quoting TRIA § 201(d)). North Korea was no longer designated a state sponsor of terrorism as of October 11, 2008. The underlying judgment was entered against North Korea on August 5, 2010, nearly two years later. At the time the judgment below was entered, therefore, because North Korea was not a state sponsor of terrorism, it was not a “terrorist party” within the meaning of TRIA. The underlying judgment, consequently, *1000 was not a judgment against a terrorist party at the time it issued.
+ 
+Petitioners’ contention that a state’s previous, but now lifted, designation as a state sponsor of terrorism satisfies TRIA § 201(a)’s requirement that the judgment be entered against a “terrorist party” is unpersuasive. Although interpreting “a judgment against a terrorist party on a claim based on an act of terrorism” to include only judgments entered against a party that was a designated state sponsor of terrorism when the judgment was entered appears the more natural reading, petitioners’ interpretation of the language as applying where the party against whom judgment was entered was a state sponsor of terrorism when the terrorist act was committed or when the action was commenced has at least some plausibility. The statutory context, however, makes clear that Congress intended the former meaning. In other parts of FSIA, when Congress has intended that a former state sponsor of terrorism be denied sovereign immunity for wrongs done during the time it was so designated, Congress has done so expressly. For example, in creating the private right of action against foreign states under FSIA § 1605A(c) Congress expressly included states that were formerly designated as state sponsors of terrorism. FSIA § 1605A(c) (“A foreign state that is or was a state sponsor of terrorism ... shall be liable.”). It would be discordant to hold that Congress believed it needed to provide expressly that a former state sponsor of terrorism could be held liable in one part of FSIA, but that it only needed to do so impliedly in a later-enacted statute it codified as a note to FSIA. See Food & Drug Admin. v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 133, 120 S.Ct. 1291, 146 L.Ed.2d 121 (2000) (“A court must therefore interpret [a] statute as a symmetrical and coherent regulatory scheme and fit, if possible, all parts into an harmonious whole.” (internal citation and quotation marks omitted)). Accordingly, because their judgment was not issued against a terrorist party, petitioners may not attach the EFTs at issue pursuant to TRIA § 201(a).
+ 
+
+2. FSIA § 1610(g)
+Section 1610(g) is not limited in the same way as TRIA § 201(a). Under § 1610(g),
+the property of a foreign state against which a judgment is entered under section 1605A, and the property of an agency or instrumentality of such a state, including property that is a separate juridical entity or is an interest held directly or indirectly in a separate juridical entity, is subject to attachment in aid of execution, and execution, upon that judgment.
+28 U.S.C. § 1610(g)(1). Because, as noted, a “judgment ... under § 1605A” expressly includes judgments against foreign nations formerly, but not currently, designated as state sponsors of terrorism, the fact that North Korea no longer has that designation does not bar attachment of North Korea’s property, or that of its agents and instrumentalities, under § 1610(g).
+ 
+[1] [2] Whether attachment of the EFTs under § 1610(g) is possible turns, instead, on whether the blocked EFTs at issue are “property of” North Korea or “the property of an agency or instrumentality of” North Korea. We review these legal questions de novo. Shipping Corp. of India Ltd. v. Jaldhi Overseas Pte Ltd., 585 F.3d 58, 66–67 (2d Cir.2009) (reviewing de novo the “threshold issue of whether EFTs are indeed ‘defendant’s’ property”); see also Salve Regina Coll. v. Russell, 499 U.S. 225, 231, 111 S.Ct. 1217, 113 L.Ed.2d 190 (1991) (holding that “a court of appeals *1001 should review de novo a district court’s determination of state law”).
+ 
+[3] [4] [5] “[W]hether or not midstream EFTs may be attached or seized depends upon the nature and wording of the statute pursuant to which attachment and seizure is sought.” Export–Import Bank of U.S. v. Asia Pulp & Paper Co., 609 F.3d 111, 116 (2d Cir.2010). Congress has not defined the type of property interests that may be subject to attachment under FSIA § 1610(g).2 In particular, FSIA § 1610(g) is silent as to what interest in property the foreign state, or agency or instrumentality thereof, must have in order for that property to be subject to execution. Because of the absence of any definition of the property rights identified in the statutory text, we hold that FSIA § 1610(g) does not preempt state law applicable to the execution of judgments in this case. Moreover, given this gap in the contours of the legislation, we cannot infer that Congress intended merely to leave a void. We therefore apply the general rule in this Circuit that when Congress has not created any new property rights, but “merely attaches consequences, federally defined, to rights created under state law,” we must look to state law to define the “rights the [judgment debtor] has in the property the [creditor] seeks to reach.” Asia Pulp, 609 F.3d at 117 (first alteration in original) (internal quotation marks omitted). In short, Congress provided that “property” of a foreign state is subject to execution, and absent any indication that Congress intended a special definition of the term, “property” interests are ordinarily those created and defined by state law.
+ 
+[6] In this Circuit, two cases in particular interpret New York law delineating the property interests held by parties to an EFT that is intercepted midstream. In Asia Pulp and Jaldhi, we dealt with the interpretation of Article 4 of the New York Uniform Commercial Code (“NY UCC”), which governs EFTs held in New York banks. See N.Y. U.C.C. Law Ch. 38, Art. 4–A; Asia Pulp, 609 F.3d at 118 (Article 4–A was “enacted to provide a comprehensive body of law that defines the rights and obligations that arise from wire transfers” (internal quotation marks omitted)). Looking to both the text of N.Y. UCC § 4–A–503 and the official commentaries to that statute, we determined in Jaldhi that under New York law “EFTs are neither the property of the originator nor the beneficiary while briefly in the possession of an intermediary bank.” Jaldhi, 585 F.3d at 71. In Asia Pulp we explained that this was so because “wire transfers, which include EFTs, are a unique type of transaction to which ordinary rules do not necessarily apply.” Asia Pulp, 609 F.3d at 118. Because EFTs function as a chained series of debits and credits between the originator, the originator’s bank, any intermediary banks, the beneficiary’s bank, and the beneficiary, “the only party with a claim against an intermediary bank is the sender to that bank, which is typically the originator’s bank.” Id. at 119–20 (quoting Permanent Editorial Board for the Uniform *1002 Commercial Code Commentary No. 16 §§ 4A–502(d) and 4A–503, at 3 (2009)). Put another way, under the N.Y. UCC’s statutory scheme, the only entity with a property interest in an EFT while it is midstream is the entity immediately preceding the bank “holding” the EFT in the transaction chain. In the context of a blocked transaction, this means that the only entity with a property interest in the stopped EFT is the entity that passed the EFT on to the bank where it presently rests. We therefore hold that an EFT blocked midstream is “property of a foreign state” or “the property of an agency or instrumentality of such a state,” subject to attachment under 28 U.S.C. § 1610(g), only where either the state itself or an agency or instrumentality thereof (such as a state-owned financial institution) transmitted the EFT directly to the bank where the EFT is held pursuant to the block.
+ 
+[7] Because the district court’s opinion issued prior to discovery relating to the details of the entities involved in the transaction chains of the EFTs at issue in this case, the record contains little to no evidence of whether the entities that transmitted the EFTs to the respondent banks were agencies or instrumentalities of North Korea. Without knowing the nature of those entities, we cannot determine whether the EFTs are properly attachable. Remand is therefore required for the parties to conduct discovery aimed at resolving the factual issues surrounding whether the entities that transmitted the EFTs to the respondent banks were agencies or instrumentalities of North Korea. Accord Palestine Monetary Auth. v. Strachman, 62 A.D.3d 213, 873 N.Y.S.2d 281 (App.Div. 1st Dep’t 2009) (remanding for additional discovery where it was not known whether the bank that transmitted the EFT to the bank that was holding the EFT was controlled by a foreign government against which judgment was sought).
+ 
+
+3. FSIA § 1610(f)(1)
+[8] As for FSIA § 1610(f)(1), we hold that petitioners’ claim for relief pursuant to that statutory provision is without merit for the simple reason that a party’s right to proceed under that section was eliminated by a valid executive order that no subsequent presidential administration has rescinded. See Presidential Determination 2001–03, 65 Fed.Reg. 66,483, 2000 WL 34508240 (Oct. 28, 2000).
+ 
+
+CONCLUSION
+We have reviewed the parties’ additional arguments and find them unavailing. In light of the foregoing analysis, the judgment of the District Court is affirmed in part with respect to its holdings that the EFTs cannot be attached pursuant to TRIA § 201 and FSIA § 1610(f)(1), and is vacated and remanded in part for further proceedings to determine whether the EFTs may be attached pursuant to FSIA § 1610(g).
+ 
+All Citations
+770 F.3d 993
+Footnotes
+
+*
+
+The Clerk of Court is respectfully directed to amend the caption to conform to that above.
+
+1
+
+By way of background, an EFT is a transfer of money using electronic technology rather than paper transactions. We explained the operation of EFTs in Shipping Corp. of India Ltd.v. Jaldhi Overseas Pte Ltd., 585 F.3d 58 (2d Cir.2009) as follows,
+An EFT is nothing other than an instruction to transfer funds from one account to another. When the originator and the beneficiary each have accounts in the same bank that bank simply debits the originator’s account and credits the beneficiary’s account. When the originator and beneficiary have accounts in different banks, the method for transferring funds depends on whether the banks are members of the same wire transfer consortium. If the banks are in the same consortium, the originator’s bank debits the originator’s account and sends instructions directly to the beneficiary’s bank upon which the beneficiary’s bank credits the beneficiary’s account. If the banks are not in the same consortium—as is often true in international transactions—then the banks must use an intermediary bank. To use an intermediary bank to complete the transfer, the banks must each have an account at the intermediary bank (or at different banks in the same consortium). After the originator directs its bank to commence an EFT, the originator’s bank would instruct the intermediary to begin the transfer of funds. The intermediary bank would then debit the account of the bank where the originator has an account and credit the account of the bank where the beneficiary has an account. The originator’s bank and the beneficiary’s bank would then adjust the accounts of their respective clients. See Amicus Br. 9–11.
+To more concretely illustrate the circumstances of the instant case, consider the following example: ABC Shipping wants to transfer $100 to XYZ Overseas. ABC has an account at India National Bank, and XYZ has an account at Bank of Thailand. India National Bank and Bank of Thailand do not belong to the same consortium, but each has an account at New York Bank. To begin the transfer, ABC instructs India National Bank to transfer $100 to XYZ’s account at Bank of Thailand. India National Bank then debits ABC’s account and forwards the instruction to New York Bank. New York Bank then debits India National’s account and credits Bank of Thailand’s account. Bank of Thailand then credits XYZ’s account, thereby completing the transfer.
+Id. at 60 n. 1.
+
+2
+
+This lack of definition is apparent in the myriad approaches taken by district courts tasked with interpreting TRIA’s and FSIA § 1610(g)’s provisions allowing execution upon the assets “of” a terrorist state. See, e.g., Estate of Heiser v. Islamic Republic of Iran, 885 F.Supp.2d 429, 443 (D.D.C.2012) (holding that both TRIA § 201 and FSIA § 1610(g) “require plaintiffs to prove some terrorist state ownership in order to attach and execute on property” and finding that ownership interest through federal interstitial rule making); see also, e.g., Bennett v. Islamic Republic of Iran, 927 F.Supp.2d 833, 845–46 (N.D.Cal.2013) (applying California law defining property subject to enforcement of a money judgment, and allowing attachment of blocked assets where instrumentality of Iran held at least a beneficial interest in those assets.).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Gates v. Syrian Arab Republic  
+2014 WL 5784859 , N.D.Ill.
+The Baker Plaintiffs’ Rule 60(b) motion is denied. The Wyatt Plaintiffs’ motion to stay is denied. The Court’s October 22, 2014 order (Dkt. No. 287) remains in effect. On June...
+Nov. 06, 2014
+Case
+
+6
+
+
+
+
+F.3d
+
+

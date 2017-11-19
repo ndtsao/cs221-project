@@ -1,0 +1,201 @@
+
+
+ 
+
+
+Crawford v. JP Morgan Chase Bank, NA
+United States Court of Appeals, Sixth Circuit. | June 2, 2011 | 425 Fed.Appx. 445 | 2011 WL 2173654
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Opinion
+All Citations
+
+standard Citation:
+
+Crawford v. JP Morgan Chase Bank, NA, 425 F. App’x 445 (6th Cir. 2011)
+
+All Citations:
+
+425 Fed.Appx. 445, 2011 WL 2173654, 74 UCC Rep.Serv.2d 860
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Michigan
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+425 Fed.Appx. 445
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Sixth Circuit Rule 28. (Find CTA6 Rule 28)
+United States Court of Appeals,
+Sixth Circuit.
+Betty CRAWFORD, aka Betty Sampson, Plaintiff–Appellant,
+v.
+JP MORGAN CHASE BANK, NA, Defendant–Appellee.
+No. 09–1973.
+|
+June 2, 2011.
+Synopsis
+Background: Payee designated on dishonored cashier’s check brought state-court action against bank, asserting claims under Michigan’s version of Uniform Commercial Code (UCC). After bank removed action and moved to dismiss, payee amended complaint to add claims for breach of contract and promissory estoppel. The United States District Court for the Eastern District of Michigan, 2009 WL 1913415, dismissed complaint for failure to state claim. Payee appealed.
+ 
+[Holding:] The Court of Appeals, Alice M. Batchelder, Chief Judge, held that payee’s taking of cashier’s check in exchange for original check operated to discharge any obligation owed on original check.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Banks and BankingIssue and payment of drafts
+Bills and NotesEffect of maturity, dishonor, or protest
+PaymentPayment by Checks
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(F)Exchange, Money, Securities, and Investments
+52k189Issue and payment of drafts
+56Bills and Notes
+56VINegotiability
+56k173Effect of maturity, dishonor, or protest
+294Payment
+294IRequisites and Sufficiency
+294k20Payment by Checks
+294k21In general
+
+
+Under Michigan law, payee’s taking of cashier’s check issued by bank in exchange for original check presented by payee for payment operated to discharge any obligation that anyone, including issuer of original check and bank, might owe to payee on original check, regardless of whether payment was subsequently made on cashier’s check. M.C.L.A. § 440.3310(1).
+Cases that cite this headnote
+
+
+
+[2]
+
+Banks and BankingIssue and payment of drafts
+EstoppelFuture events;  promissory estoppel
+Implied and Constructive ContractsUnjust enrichment
+PaymentPayment by Checks
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(F)Exchange, Money, Securities, and Investments
+52k189Issue and payment of drafts
+156Estoppel
+156IIIEquitable Estoppel
+156III(B)Grounds of Estoppel
+156k82Representations
+156k85Future events;  promissory estoppel
+205HImplied and Constructive Contracts
+205HINature and Grounds of Obligation
+205HI(A)In General
+205Hk2Constructive or Quasi Contracts
+205Hk3Unjust enrichment
+294Payment
+294IRequisites and Sufficiency
+294k20Payment by Checks
+294k21In general
+
+
+Under Michigan law, discharge of bank’s obligations on check resulting from payee’s taking of cashier’s check in exchange precluded payee’s common-law claims, including breach of contract, promissory estoppel, and unjust enrichment, relating to check. M.C.L.A. § 440.3310.
+1 Cases that cite this headnote
+
+
+
+*446 On Appeal from the United States District Court for the Eastern District of Michigan.
+Before: BATCHELDER, Chief Judge; ROGERS and KETHLEDGE, Circuit Judges.
+Opinion
+ALICE M. BATCHELDER, Chief Judge.
+
+**1 This is an appeal from the district court’s dismissal of the plaintiff’s complaint pursuant to Federal Rule of Civil Procedure 12(b)(6). Because we find that the plaintiff has failed to state a claim upon which relief may be granted, we AFFIRM.
+ 
+
+I.
+On or about August 12, 2002,1 Janet Sparks issued a check from Entech Personal Services Inc. (Troy, Mich.) to Betty Sampson (now Betty Crawford, plaintiff) in the amount of $200,000 (this is the “Original Check”). The Original Check was drawn on an account at Bank One (now JP Morgan Chase, or “Chase”). Crawford was and is a Florida resident and Sparks’s sister. The record contains no explanation of the circumstances surrounding the issuance of the Original Check.
+ 
+On that same day, Crawford took the Original Check to a Chase branch in Bloomfield Hills, Michigan, and presented it for payment. Chase determined that funds were available in Entech’s account, honored the Original Check, and issued a $200,000 cashier’s check (“the Cashier’s Check”) made payable to Crawford. Crawford then returned home to Florida and, on August 21, 2002, attempted to deposit the Cashier’s Check in her local bank. The record contains no explanation of why Crawford had immediately converted the Original Check into the Cashier’s Check.
+ 
+Meanwhile, on August 19, 2002, Entech had been subjected to involuntary bankruptcy,2 and requested that Chase stop payment on the Original Check and the Cashier’s Check. Chase credited $200,000 back to Entech’s account and stopped payment *447 on the Cashier’s Check. When Crawford’s local (Florida) bank on August 24 or 26, 2002, presented the Cashier’s Check to Chase for payment through the interbank system, Chase dishonored it and it was returned unpaid.
+ 
+Although the Cashier’s Check was dishonored in August 2002, Crawford did not sue to obtain payment for almost six years. Crawford filed her first complaint in Oakland County (Mich.) Circuit Court on May 22, 2008, asserting four causes of action against Chase, all premised on provisions of the Uniform Commercial Code (UCC) as adopted in Michigan. Chase removed the case to federal court on diversity grounds on June 20, 2008, and moved to dismiss under Federal Rule of Civil Procedure 12(b)(6). Crawford amended her complaint to add common law claims for breach of contract and promissory estoppel, and a violation of the Expedited Funds Availability Act (EFAA), 12 U.S.C. § 4001.
+ 
+The district court held oral argument on February 24, 2009, at which time Crawford dismissed the EFAA claim because it was barred by the EFAA’s statute of limitations. On March 11, 2009, Crawford moved for leave to amend her first amended complaint to add a common law claim of unjust enrichment. Chase opposed the motion on the ground that the claim would be futile.
+ 
+On June 30, 2009, the district court dismissed Crawford’s complaint. The district court held that, pursuant to M.C.L. § 440.3301 (i.e., UCC § 3–301), Crawford was not entitled to enforce3 the Original Check against Chase because she was not in possession of the Original Check, nor could she satisfy the statutory requirements for a “person not in possession who is entitled to enforce the instrument,” see M.C.L. § 440.3309 (i.e., UCC § 3–309).4 The district court also held, in the alternative, that even if Crawford could satisfy § 440.3309, Chase had discharged its obligations on the Original Check by issuing the Cashier’s Check. The district court further held that any claims based on the Cashier’s Check were time barred by the three-year statute of limitations that applies to enforcement of cashier’s checks, a portion of the opinion that Crawford does not contest on appeal. Finally, the district court held that the UCC preempts common law claims for breach of contract, promissory estoppel, and unjust enrichment. The district court dismissed the complaint.
+ 
+
+II.
+**2 We conduct a de novo review of a district court’s dismissal pursuant to Rule 12(b)(6). Mezibov v. Allen, 411 F.3d 712, 716 (6th Cir.2005). We construe the complaint in a light most favorable to the nonmoving party and accept all plausible, well-pled factual allegations as true. Bell Atl. Corp. v. Twombly, 550 U.S. 544, 556, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007). “To state a valid claim, a complaint must contain direct or inferential allegations respecting all the material elements under some viable legal theory.” Commercial *448 Money Ctr., Inc. v. Ill. Union Ins. Co., 508 F.3d 327, 336–37 (6th Cir.2007).
+ 
+We accept Crawford’s factual allegations as true. We will also assume (without deciding) that Chase accepted the Original Check from Crawford and that Crawford has a statutory right to enforce the Original Check against Chase. Given these facts and assumptions, the dispositive question in this appeal is a purely legal one: whether Chase’s issuance of the Cashier’s Check served as payment-on-presentation that fulfilled and discharged any and all underlying obligations on the Original Check.
+ 
+[1] “Unless otherwise agreed, if a certified check, cashier’s check, or teller’s check is taken for an obligation, the obligation is discharged to the same extent discharge would result if an amount of money equal to the amount of the instrument were taken in payment of the obligation.” M.C.L. § 440.3310(1). Crawford gave the Original Check to Chase and took the Cashier’s Check (of equal value) in return. Crawford’s taking of the Cashier’s Check operated to discharge any obligation that anyone (e.g., Entech, Chase, etc.) might owe to her on the Original Check. See id.
+ 
+Crawford argues that—prior to her presenting the Original Check at the Chase branch—Chase did not owe her any “pre-existing obligation” and, therefore, the Cashier’s Check was not “taken for an obligation” because Chase did not have any obligation to “discharge” when it issued the Cashier’s Check to her. Under this theory, § 440.3310(1) is inapplicable and Chase’s obligation to Crawford remains. This is incorrect. Crawford took the Cashier’s Check in exchange for the Original Check; i.e., an “obligation” to pay the amount of the Original Check. There is no provision in § 440.3310 that the issuance of a cashier’s check discharges only pre-existing obligations.
+ 
+Crawford also argues that, even if § 440.3310(1) applies, discharge of the obligation is not accomplished until the bank makes “a separate act of payment”; i.e., follows through with the transfer of funds represented by the cashier’s check. This too is incorrect. Section 440.3310 does not require a further act of payment on a cashier’s check in order to discharge the underlying obligation. Quite the contrary, “the obligation is discharged to the same extent discharge would result if an amount of money equal to the amount of the instrument were taken in payment of the obligation.” Id. (emphasis added). See also 2 James J. White & Robert S. Summers, Uniform Commercial Code § 20–4 at 350 (5th ed.2008) (rejecting the argument Crawford urges).
+ 
+**3 Chase points out that Crawford could have redeemed the Original Check for cash, but did not. She could have sued Chase to enforce the Cashier’s Check and, if she had done so within the three-year statute of limitations, she would have had a colorable claim. She did not do so.
+ 
+Crawford cannot sue Chase on the Original Check because Chase’s obligation stemming from the Original Check was discharged by Crawford’s taking the Cashier’s Check. Crawford cannot sue Chase on the Cashier’s Check because the three-year statute of limitations has expired.
+ 
+[2] Furthermore, because Chase’s obligations stemming from the Original Check have been discharged, Crawford cannot state a viable claim for any other (i.e., common law) causes of action relating to that check. That is, Crawford cannot state any claim based on the Original Check.
+ 
+
+*449 III.
+Because we find that the plaintiff has failed to state any claim upon which relief can be granted, we AFFIRM the judgment of the district court.
+ 
+All Citations
+425 Fed.Appx. 445, 2011 WL 2173654, 74 UCC Rep.Serv.2d 860
+Footnotes
+
+1
+
+While both parties and the district court stated that this was August 2, 2002, we conclude from our review of the record that August 2 is almost certainly a typographical error that has been reproduced unchecked throughout the course of these proceedings. The Original Check is dated Friday, August 9, 2002; the Cashier’s Check is dated Monday, August 12, 2002; and all parties have acknowledged that Crawford received the Original Check from Sparks and redeemed it for the Cashier’s Check at the Chase branch on the same day, most likely August 12, 2002.
+
+2
+
+According to the E.D. Michigan Bankruptcy Court docket, Entech’s bankruptcy case was terminated on October 15, 2002. See In re Entech Personal Servs., Inc., No. 02–bk–59054 (E.D.Mich.Bankr.2002).
+
+3
+
+The district court used the term “standing” in reference to Crawford’s statutory “right to enforce” the Original Check. While the district court’s intention was clear, this is not a question of constitutional or Article III “standing” and need not—indeed cannot—be analyzed as such. We have, therefore, refrained from using the term “standing” in this analysis and are not required to proceed as we would be if this were truly a question of “standing.”
+
+4
+
+The district court also explained that Crawford could not satisfy the requirements for “payment or acceptance by mistake,” M.C.L. § 440.3418(4). This was never actually at issue and Crawford does not press it on appeal.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

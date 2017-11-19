@@ -1,0 +1,218 @@
+
+
+ 
+
+
+In re Canoco Inc.
+United States Court of Appeals, Fifth Circuit. | April 14, 2009 | 323 Fed.Appx. 306 | 2009 WL 997068
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+In re Canoco Inc., 323 F. App’x 306 (5th Cir. 2009)
+
+All Citations:
+
+323 Fed.Appx. 306, 2009 WL 997068
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Louisiana
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:19 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+323 Fed.Appx. 306
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Fifth Circuit Rules 28.7, 47.5.3, 47.5.4. (Find CTA5 Rule 28 and Find CTA5 Rule 47)
+United States Court of Appeals,
+Fifth Circuit.
+In the Matter of: CANOCO INC.; Merfin Inc.; Minora Corporation Inc., Debtors.
+Avram Cimerring, Appellant
+v.
+ORIX Capital Markets, LLC, as special servicer for Wells Fargo Bank NA, Trustee, also known as Wells Fargo Bank NA, as trustee for certificate holders under that certain pooling service agreement dated and effective 11/1/99, related to the mortgage pass-through certificates series 1999-C1, Appellee.
+Nos. 08-30341, 08-30343.
+|
+April 14, 2009.
+Synopsis
+Background: In Chapter 11 bankruptcy proceeding, the United States District Court for the Western District of Louisiana affirmed the bankruptcy court’s determination that deficiency judgment against husband of debtors’ owner arising from his guarantee of a defaulted mortgage was entitled to res judicata effect and that mortgage trust’s claim was subordinate to both secured and unsecured creditors. Husband appealed.
+ 
+Holdings: The Court of Appeals, Edith H. Jones, Chief Judge, held that:
+ 
+[1] bankruptcy court had authority to grant summary judgment in contested matter;
+ 
+[2] deficiency judgment was entitled to res judicata effect under Virginia law; and
+ 
+[3] husband did not have standing to assert rights of unrelated parties on appeal.
+ 
+Affirmed in part, and dismissed in part.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+BankruptcyNature and Form;  Adversary Proceedings
+BankruptcyJudgment or Order
+
+
+51Bankruptcy
+51IICourts;  Proceedings in General
+51II(B)Actions and Proceedings in General
+51k2156Nature and Form;  Adversary Proceedings
+51Bankruptcy
+51IICourts;  Proceedings in General
+51II(B)Actions and Proceedings in General
+51k2164Judgment or Order
+51k2164.1In General
+
+
+Bankruptcy court had authority to grant summary judgment in contested matter, which was created when husband of Chapter 11 debtors’ owner objected to creditor’s proof of claim. Fed.Rules Bankr.Proc.Rule 9014, 11 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+BankruptcyApplication of State or Federal Law in General
+
+
+51Bankruptcy
+51IIn General
+51I(A)In General
+51k2002Application of State or Federal Law in General
+
+
+Virginia preclusion law applied to deficiency judgment against husband of Chapter 11 debtors’ owner rendered in Virginia state court. 28 U.S.C.A. § 1738.
+Cases that cite this headnote
+
+
+
+[3]
+
+JudgmentBankruptcy
+
+
+228Judgment
+228XVIIForeign Judgments
+228k828Effect of Judgments of State Courts in United States Courts
+228k828.21Particular Federal Proceedings
+228k828.21(2)Bankruptcy
+
+
+Deficiency judgment arising from guarantee of a defaulted mortgage rendered in Virginia state court, which judgment debtor did not appeal, was a “final judgment” under Virginia law for res judicata purposes.
+Cases that cite this headnote
+
+
+
+[4]
+
+JudgmentBankruptcy
+
+
+228Judgment
+228XVIIForeign Judgments
+228k828Effect of Judgments of State Courts in United States Courts
+228k828.21Particular Federal Proceedings
+228k828.21(2)Bankruptcy
+
+
+Deficiency judgment arising from guarantee of a defaulted mortgage rendered in Virginia state court was a “final judgment” under Virginia law for res judicata purposes, notwithstanding highest state court’s grant of appeal from denial of motion to set aside the judgment, given its ultimate denial of relief.
+Cases that cite this headnote
+
+
+
+[5]
+
+BankruptcyRight of Review and Persons Entitled;  Parties;  Waiver or Estoppel
+
+
+51Bankruptcy
+51XIXReview
+51XIX(B)Review of Bankruptcy Court
+51k3771Right of Review and Persons Entitled;  Parties;  Waiver or Estoppel
+
+
+Husband of Chapter 11 debtors’ owner lacked standing to assert rights of unrelated parties on appeal from district court’s affirmance of bankruptcy court orders.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*307 Curtis Ray Shelton, Karen P. Thomason, Ayres, Warren, Shelton & Williams, Shreveport, LA, for Appellant.
+David R. Taggart, Lemle & Kelleher LLP, for Appellee.
+Appeal from the United States District Court for the Western District of Louisiana, USDC No. 5:07-CV-670.
+Before JONES, Chief Judge, JOLLY, Circuit Judge, and MONTALVO, District Judge.*
+Opinion
+EDITH H. JONES, Chief Judge:**
+
+**1 To date Avram Cimerring has not made a payment on the approximately $6.6 million, plus interest, he owes on a 2003 Virginia deficiency judgment arising from his guarantee of a defaulted mortgage. The mortgage is held in a securitized pool of mortgages for which Wells Fargo is the trustee and ORIX is the special servicer. Part of ORIX’s duties in that role is to collect on defaulted loans. To this end, ORIX attempted to collect on this judgment by suing Cimerring, his wife, Cindy, and three entities wholly owned by Cindy Cimerring in Louisiana court. The three entities, Canoco, Inc., Minora Corporation, Inc., and Merfin, Inc. (Debtors), filed Chapter 11 consolidated bankruptcy cases in the Western District of Louisiana in July 2006, and the state court litigation was stayed.
+ 
+*308 ORIX filed a proof of claim on behalf of the Trust in the bankruptcy proceedings. Avram Cimerring objected and moved for summary judgment. The Trust filed a cross motion for summary judgment. Cimerring argued that the judgment against him is not res judicata and asserted various reasons why the judgment should be disregarded or reduced. Treating these motions as a contested matter, the bankruptcy court allowed the Trust’s claim, granted its motion for summary judgment, and denied Cimerring’s motion for summary judgment in three identical orders numbered 229, 230, and 231. The court ruled the judgment against Cimerring is res judicata and, alternatively, that his arguments regarding why he is not liable on the judgment are wrong on the merits. Cimerring appeals these three orders in the appeal numbered 08-30341.
+ 
+The Debtors and the first mortgagee also filed objections. In an additional order numbered 226, the bankruptcy court granted in part and denied in part these objections, subordinating the Trust’s claim to both secured and unsecured creditors and estimating the claim’s value for voting purposes during plan confirmation. Cimerring also appeals this order in the appeal numbered 08-30343.
+ 
+[1] On appeal, the district court affirmed both of these orders on the grounds stated orally by the bankruptcy court. In appeal No. 08-30341, Cimerring raises, in essence, four issues. We need address only two issues, however, because we do not reach the other two merits-related contentions. First, he argues that the bankruptcy court did not have the authority to grant summary judgment outside of an adversary proceeding. We review the bankruptcy court’s application of the bankruptcy rules for harmless error. In re Tex. Extrusion Corp., 844 F.2d 1142, 1153-54 (5th Cir.1988).
+ 
+The bankruptcy court did not err. Cimerring’s objection to the Trust’s proof of claim, although it did not initiate an adversary proceeding, created a contested matter under Bankruptcy Rule 9014. See Notes to Bankr.R. 3007. Bankruptcy courts can render summary judgment in contested matters. Bankr.R. 9014(c) (incorporating Bankr.R. 7056).
+ 
+[2] Second, Cimerring asserts that the Virginia judgment is not res judicata against him. If it is not res judicata against him, the judgment would not be preclusive against the debtors. We apply the same standards of review the district court applied to the bankruptcy court’s ruling by reviewing factual findings for clear error and questions of law de novo. In re OCA, Inc., 551 F.3d 359, 366 (5th Cir.2008). Federal courts apply the preclusion law of the state that rendered judgment. Marrese v. Am. Acad. of Orthopaedic Surgeons, 470 U.S. 373, 380, 105 S.Ct. 1327, 1332, 84 L.Ed.2d 274 (1985); Conn. Bank of Commerce v. Republic of Congo, 309 F.3d 240, 248 (5th Cir.2002); see 28 U.S.C. § 1738. Accordingly, Virginia preclusion law applies to the deficiency judgment against Cimerring rendered in a Virginia state court. Under Virginia law, a judgment is res judicata if “the prior adjudication was between the same parties or their privies and a valid final judgment was entered which resolved the claim on its merits.” Waterfront Marine Constr., Inc. v. N. End 49ers Sandbridge Bulkhead Groups A, B, and C, 251 Va. 417, 468 S.E.2d 894, 902 (1996).
+ 
+**2 [3] On June 26, 2002, a Virginia court found Cimerring personally liable on the defaulted mortgage. On February 18, 2003, the court entered a deficiency judgment, which Cimerring did not appeal. This was a final judgment on the merits, and under Virginia law, a judgment, when *309 entered and no appeal is taken, is conclusive even if erroneous. Patterson v. Saunders, 194 Va. 607, 74 S.E.2d 204, 207 (1953); Slagle v. Slagle, 11 Va.App. 341, 398 S.E.2d 346, 349 (1990).
+ 
+[4] Under certain circumstances, final judgments may be set aside. See Charles v. Precision Tune, Inc., 243 Va. 313, 414 S.E.2d 831 (1992). In September 2005, Cimerring filed a separate suit in Virginia seeking to set aside the deficiency judgment, and on May 3, 2006, the trial court denied relief. Cimerring’s appeal to the Virginia Supreme Court was granted and a decision was still pending when the bankruptcy court ruled in February 2007. Cimerring claims this granted appeal renders the original judgment not final. He is wrong, because a judgment is entitled to preclusive effect until it is set aside. Mayes v. Mann, 164 Va. 584, 180 S.E. 425, 430 (1935) cited in 8B Michie’s Jurisprudence, Former Adjudication or Res Judicata § 10, (2007). In any event, on September 14, 2007, the Virginia Supreme Court denied Cimerring relief in an unpublished order.
+ 
+[5] The original deficiency judgment is therefore unquestionably res judicata against Cimerring. Consequently, we affirm the district court’s affirmance of the bankruptcy court’s orders numbered 229, 230, and 231 appealed in this court’s No. 08-30341. Because res judicata protects even erroneous judgments, we decline to address yet another attempt to set aside this deficiency judgment, and accordingly, we do not address Cimerring’s substantive arguments regarding the judgment’s alleged infirmity.
+ 
+In the appeal numbered 08-30343, Cimerring appeals the order numbered 226, in which the bankruptcy court ruled on objections to claims filed by the Debtors and the first mortgagee and ORIX’s opposition to those objections. Cimerring does not have standing to assert the rights of these unrelated parties. See Bonds v. Tandy, 457 F.3d 409, 416 n. 11 (5th Cir.2006). Consequently, the appeal numbered 08-30343 is dismissed for lack of jurisdiction.
+ 
+For the foregoing reasons, the appeal numbered 08-30341 is AFFIRMED and the appeal numbered 08-30343 is DISMISSED.
+ 
+All Citations
+323 Fed.Appx. 306, 2009 WL 997068
+Footnotes
+
+*
+
+United States District Judge, Western District of Texas, sitting by designation.
+
+**
+
+Pursuant to 5TH CIR. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5TH CIR. R. 47.5.4.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

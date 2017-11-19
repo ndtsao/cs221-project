@@ -1,0 +1,159 @@
+
+
+ 
+
+
+Classic Cheesecake Company, Inc. v. JPMorgan Chase Bank, N.A.
+United States Court of Appeals, Seventh Circuit. | October 17, 2008 | 546 F.3d 839 | 2008 WL 4601462
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Classic Cheesecake Co., Inc. v. JPMorgan Chase Bank, N.A., 546 F.3d 839 (7th Cir. 2008)
+
+All Citations:
+
+546 F.3d 839
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Indiana
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+546 F.3d 839
+United States Court of Appeals,
+Seventh Circuit.
+CLASSIC CHEESECAKE COMPANY, INC., et al., Plaintiffs–Appellants,
+v.
+JPMORGAN CHASE BANK, N.A., Defendant–Appellee.
+No. 07–3910.
+|
+Argued Sept. 25, 2008.
+|
+Decided Oct. 17, 2008.
+|
+Rehearing Denied Nov. 4, 2008.
+Synopsis
+Background: Baking company and its shareholders brought action against bank alleging it breached an oral agreement to make a small business loan. The United States District Court for the Southern District of Indiana, William T. Lawrence, J., 2005 WL 5830400, granted bank’s motion to dismiss. Plaintiffs appealed.
+ 
+Holding: The Court of Appeals, Posner, Circuit Judge, held that bank’s alleged conduct did not inflict an “unjust and unconscionable injury and loss,” so as to trump bank’s statute of frauds defense.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Frauds, Statute OfWaiver of Bar of Statute;  Estoppel
+
+
+185Frauds, Statute Of
+185IXOperation and Effect of Statute
+185k144Waiver of Bar of Statute;  Estoppel
+
+
+Under Indiana law, bank’s alleged conduct in breaching oral promise to make small business loan to baking company did not inflict an “unjust and unconscionable injury and loss” on the baking company, so as to trump the bank’s defense based on the statute of frauds, even though one of company’s principals relied on oral promise in paying off a student loan; bank made no money and gained no other advantage in making the alleged promise, duration of reliance was at most two and a half months, and principal’s reliance in paying off student loan only cured a delinquency somewhat earlier than principal would otherwise have been forced to do. West’s A.I.C. § 26–2–9–5.
+8 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*840 Steven T. Fulk (argued), Fulk & Associates, Indianapolis, IN, for Plaintiffs–Appellants.
+Alan S. Brown (argued), Locke Reynolds, Indianapolis, IN, for Defendant–Appellee.
+Before POSNER, FLAUM, and EVANS, Circuit Judges.
+Opinion
+POSNER, Circuit Judge.
+
+This appeal requires us to interpret a gloss that the Indiana courts have placed on their state’s statute of frauds: an oral agreement that the statute of frauds would otherwise render unenforceable creates a binding contract if failing to enforce the agreement would produce an “unjust and unconscionable injury and loss.” E.g., Brown v. Branch, 758 N.E.2d 48, 52 (Ind.2001). The issue arises from the plaintiffs’ supplemental claims, 28 U.S.C. § 1367, which are based on Indiana law. The federal claim on which the district court’s jurisdiction was originally based, a claim based on the Equal Credit Opportunity Act, 15 U.S.C. §§ 1691 et seq., was resolved in the plaintiffs’ favor but gave them only modest relief. The appeal challenges the court’s dismissal under Rule 12(b)(6) of the supplemental claims.
+ 
+Classic Cheesecake, a bakery company, managed to interest several hotels and casinos in Las Vegas in buying its products. To serve these new customers Classic needed additional capital—capital to establish a distribution center in Las Vegas, to hire employees to staff it, and to buy additional equipment. On July 27, 2004, principals of Classic visited a local office of the defendant bank and made a pitch to a vice president named Dowling for a loan that would be partially guaranteed by the Small Business Administration and therefore would have to be approved by that agency. They emphasized to Dowling that time was of the essence.
+ 
+Dowling asked them for tax returns, accounts receivable, and other documentation in support of the loan application, and having received the documents she orally assured Classic’s principals (according to Classic) that the loan would be approved, provided that student loans of one of the principals were paid off—a condition on which the Small Business Administration insisted because the loans had been financed in part by the federal government and were in default. On September 17 Dowling told Classic that the loan was a “go,” and three days later one of Classic’s principals asked Dowling to request that letters from the student loan agencies confirming that the loans had been repaid be sent directly to Dowling “to speed up the confirmation process.” So Classic knew that Dowling’s saying the loan was “a go” did not mean that the loan had been approved. But it seemed likely that it would be.
+ 
+*841 Yet in an email to Dowling on August 19, Dowling’s superior at the bank had told her “I am still declining this request [Classic’s request for a loan] primarily based on the following issues/concerns”—and he mentioned excessive leverage, lack of an established earnings record, inadequate cash flow, undercapitalization, insufficient revenues, too much reliance on projections, and “serious delinquencies and derogatory public record of guarantor” (referring to the principal who had defaulted on her student loans). He added that he had discussed the matter with the SBA and “the same issues/concerns as identified above prevailed.”
+ 
+Although the email was a downer, it did not flatly turn down the loan request, and Dowling must have expected that it would be approved, perhaps with modifications, eventually—for what had she to gain from stringing Classic along if she knew the loan would never be approved? But she may have exaggerated her confidence in the loan’s eventual approval to prevent Classic from shopping elsewhere, though the plaintiffs do not allege that.
+ 
+Not only did Dowling not share the contents of the discouraging email with Classic, but she continued to make verbal assurances that the loan would be approved. The plaintiffs must have been shocked when on October 12 she told them that the loan had been turned down. (As reasons she gave the concerns that her superior had expressed in the August email.) Classic claims that it and the other plaintiffs (the company’s principals plus an affiliate) lost more than $1 million because of the bank’s breach of what Classic deems an oral promise to make the loan. It claims that the breach delayed it from seeking loans elsewhere for a critical two and a half months and that as a result of the delay it and the other plaintiffs incurred in the aggregate a loss of more than $1 million. We’ll assume the loss consisted entirely of costs incurred in reliance on the loan’s being approved, although some of it undoubtedly consisted of consequential damages that could not be recovered in a suit for breach of contract consistently with the doctrine of Hadley v. Baxendale, 9 Exch. 341, 156 Eng. Rep. 145 (1854). That is true of the tax penalties that the plaintiffs had to pay because the loss allegedly due to the delay in obtaining a loan drained them of the cash they needed to pay their taxes, and it is even truer of the emotional distress they claim to have suffered as a result of the delay and ensuing financial loss.
+ 
+The Indiana statute of frauds requires that agreements to lend money be in writing. Ind.Code § 26–2–9–5. The oral agreement alleged by Classic contained a promise by the bank on which Classic relied (whether reasonably is another question). But to allow the statute of frauds to be circumvented by basing a suit to enforce an oral promise on promissory estoppel rather than breach of contract would be a facile mode of avoidance indeed. Someone who wanted to enforce an oral promise otherwise made unenforceable by the statute of frauds would need only to incur modest costs in purported reliance on the promise—something easy, if risky, to do, as a premise for seeking to enforce an oral promise that may not have been made or may have been misunderstood.
+ 
+The plaintiffs also charge that Dowling’s assurance that the loan was “a go” when she knew it had been at least tentatively rejected was fraudulent, and therefore tortious. Courts resist efforts by a plaintiff to get around limitations imposed by contract law by recasting a breach as a tort; a recent example is Extra Equipamentos E Exportação Ltda. v. Case Corp., 541 F.3d 719, 724–25 (7th Cir.2008). With specific reference to efforts to get around the statute *842 of frauds, the Indiana Court of Appeals has explained that “the substance of an action, rather than its form, controls whether a particular statute has application in a particular lawsuit.... Regardless of whether the present cause of action is labeled as a breach of contract, misrepresentation, fraud, deceit, [or] promissory estoppel, its substance is that of an action upon an agreement by a bank to loan money. Therefore, the Statute of Frauds applies.” Ohio Valley Plastics, Inc. v. National City Bank, 687 N.E.2d 260, 263–64 (Ind.App.1997). So the plaintiffs are remitted to their remedies under the law of contracts, as they seem to concede, for their briefs do not argue that fraud is an independent ground for negating a defense based on the statute of frauds.
+ 
+And so the question becomes whether the bank’s conduct could have been found to inflict an “unjust and unconscionable injury and loss” and so trump the bank’s defense based on the statute of frauds. To answer the question requires us to explore the provenance of a phrase at once vague (what does “unjust and unconscionable” mean?) and redundant (how does “injury” differ from “loss”?).
+ 
+The statute of frauds has long been controversial. The Farnsworth treatise says that “it has been the subject of constant erosion.” 2 E. Allan Farnsworth, Farnsworth on Contracts § 6.1, p. 107 (3d ed.2004). The particular erosive process that culminates in the doctrine of “unjust and unconscionable injury and loss” began—where else?—in an opinion by Justice Traynor, Monarco v. Lo Greco, 35 Cal.2d 621, 220 P.2d 737 (1950), that allowed the statute of frauds to be circumvented by a claim of promissory estoppel. (Even before then, the statute of frauds could be circumvented by equitable estoppel, but that required a misrepresentation concerning the statute of frauds itself, as where one party assured the other that no writing was necessary, or promised not to plead the statute of frauds in the event of a lawsuit. 2 Farnsworth, supra, § 6.12, p. 203.) Importantly, however, Justice Traynor limited the use of promissory estoppel to defeat the statute of frauds: only if “either an unconscionable injury or unjust enrichment would result from refusal to enforce” an oral promise would a defense based on the statute of frauds be negated. 220 P.2d at 741.
+ 
+The Monarco opinion, like so many of Justice Traynor’s innovations, caught on. 2 Farnsworth, supra, § 6.12, p. 206. Eventually it was picked up—and expanded—by the Restatement (Second) of Contracts (1981), which in section 139(1) allows promissory estoppel to defeat the statute of frauds “if injustice can be avoided only by enforcement of the [oral] promise.” This notably loose formulation has been influential too, 2 Farnsworth, supra, § 6.12, pp. 206–13—but not in Indiana. “Indiana courts have declined to embrace § 139 [of the Restatement ], but have recognized the possibility of relief for ‘injustice’ in limited circumstances, while defining it much more narrowly than in § 139.” Coca–Cola Co. v. Babyback’s Int’l, Inc., 841 N.E.2d 557, 569 (Ind.2006).
+ 
+Indiana’s formula is as follows:
+In order to establish an estoppel to remove the case from the operation of the Statute of Frauds, the party must show [ ] that the other party’s refusal to carry out the terms of the agreement has resulted not merely in a denial of the rights which the agreement was intended to confer, but the infliction of an unjust and unconscionable injury and loss.
+In other words, neither the benefit of the bargain itself, nor mere inconvenience, incidental expenses, etc. short of a reliance injury so substantial and independent *843 as to constitute an unjust and unconscionable injury and loss are sufficient to remove the claim from the operation of the Statute of Frauds.
+Id., quoting Brown v. Branch, supra, 758 N.E.2d at 52, which in turn was quoting Whiteco Industries, Inc. v. Kopani, 514 N.E.2d 840, 845 (Ind.App.1987).
+ 
+The formula itself—“unjust and unconscionable injury and loss”—does not tell us much, and it has not been further elaborated by the Indiana courts. Comparison with Justice Traynor’s formula—“either an unconscionable injury or unjust enrichment”—deepens the mystery. The Traynor formula suggests two grounds for getting around the statute of frauds: unjust gain to the promisor or “unconscionable” injury to the promisee. The former seems the solider ground but is omitted in the Indiana formulation unless the “unjust” in “unjust ... injury” should be understood as shorthand for unjust enrichment—but that would imply, contrary to the second paragraph of the formulation in Babyback’s, that the rule is inapplicable if there is no gain to the party pleading the statute of frauds. In both formulas, the word “unconscionable” is confusing rather than clarifying, since if it is meant to invoke the doctrine of unconscionability it would duplicate unjust enrichment in the Traynor formula and contradict the second paragraph in the Indiana formula.
+ 
+We can at least set aside any issue of unjust enrichment in this case. The bank made no money in its dealings with Classic and gained no other advantage; all it gained was this lawsuit against it. And anyway, to invoke the doctrine of unconscionability Classic would have to show that it had been taken advantage of because of its obvious ignorance or desperate circumstances, e.g., Weaver v. American Oil Co., 257 Ind. 458, 276 N.E.2d 144, 146 (1971), and there is nothing like that here. The bank was not trying to drive a hard bargain with Classic—it insisted on no unreasonable terms. And though a small business, Classic is not a hapless consumer, poor tenant, or mom and pop grocery store. It wanted a bank loan not to stave off disaster but to finance an expansion of its business to take advantage of an exciting business opportunity. Insistence on the repayment of the student loans that one of its principals had defaulted on (yet was capable of repaying, as events showed) was hardly unconscionable and anyway came from the Small Business Administration rather than from the bank. All else aside, the doctrine of unconscionability is a defense to the enforcement of a contract, see, e.g., id., and the bank is not trying to enforce a contract; it denies there was a contract.
+ 
+We can get some help from the case law. In Monarco, the fons et origo of the doctrine that the Indiana courts call “unjust and unconscionable injury and loss,” there was both a big loss and unjust enrichment. When the plaintiff reached 18 and wanted to leave home and make his own way in the world, his mother and stepfather promised him that if he stayed and worked on the family farm they would leave almost all their property (which was in joint tenancy) to him. He stayed, and worked hard, receiving in exchange only room and board and spending money. The farm prospered. But when the stepfather died 20 years later, he left his half interest in the farm to his own grandson. 220 P.2d at 738–39. The element of unjust enrichment lay in the fact that the plaintiff had worked the farm for slight compensation for 20 years (giving up among other things the opportunity to obtain an education beyond high school) in the expectation that he would be well compensated when either his mother or his stepfather died. The farm had done well, in part no doubt because of *844 the plaintiff’s undercompensated efforts—his “sweat equity.” So the grandson was indeed unjustly enriched. The plaintiff’s having the rug pulled out from under him after working for 20 years for slight remuneration faintly echoed Laban’s fraud on his son-in-law Jacob. After promising the hand of his younger daughter, Rachel, to Jacob in marriage in return for seven years’ service to him, Laban tricked Jacob—whose work had enriched Laban—into marrying Laban’s elder daughter, Leah, instead. Jacob was compelled to serve Laban for another seven years in order to be permitted to marry Rachel. As in Monarco, there was both unjust enrichment of the oral promisor and heavy loss to the promisee—seven more years of unpaid labor.
+ 
+Only two cases (one a federal district court diversity case governed by Indiana law) have allowed a claim based on the Indiana formula to survive a motion for summary judgment, though in neither case did the plaintiff ultimately prevail. In three other cases—Hardin v. Hardin, 795 N.E.2d 482, 487–88 (Ind.App.2003); Tincher v. Greencastle Federal Savings Bank, 580 N.E.2d 268, 272–74 (Ind.App.1991), and Tipton County Farm Bureau Cooperative Ass’n v. Hoover, 475 N.E.2d 38, 41–42 (Ind.App.1985)—Indiana courts allowed a statute of frauds defense to be overcome by simple, unadorned promissory estoppel, but the Indiana Supreme Court disapproved those decisions in Babyback’s. 841 N.E.2d at 569–70.
+ 
+In the diversity case, Madison Tool & Die, Inc. v. ZF Sachs Automotive of America, Inc., 2007 WL 2286130 (S.D.Ind. Aug.7, 2007), the defendant orally agreed to make the plaintiff its auto parts supplier. To induce the plaintiff to retool its facilities so that it could supply the parts, the defendant announced that it was not working with any other suppliers and would therefore need the plaintiff to begin production within 30 days. So the plaintiff went out and bought a special machine for $415,000 to produce the parts for the defendant. The plaintiff made test parts for the defendant with the new machine, but rather than ordering any parts the defendant assured the plaintiff for three years that it would begin ordering parts soon. Yet it never did, and at the end of the period declared that it would not be using the plaintiff as a supplier after all.
+ 
+In the other case, Keating v. Burton, 545 N.E.2d 35 (Ind.App.1989), the defendant orally agreed to hire the plaintiff as a full-time employee with an option to purchase 49 percent of the defendant’s company after three years of employment. In reliance on the agreement the plaintiff went to work for the defendant and claimed to have shut down his own company, which had been growing. (The court eventually found that the plaintiff had not abandoned his business entirely. But for purposes of getting a fix on Indiana law, all that matters is the evidence that was before the court when it decided not to grant summary judgment to the defendant.) After the plaintiff had been working for the defendant’s company for a year and a half, the defendant so limited the plaintiff’s responsibilities that he quit.
+ 
+These cases are not as dramatic as Monarco or Genesis 29 and do not involve (so far as appears) substantial gain to the (oral) promisor. But there is a family resemblance, which helps us to understand the scope and operation of the Indiana formula as elaborated in the second paragraph of the indented quotation from Babyback’s and as paraphrased in Spring Hill Developers, Inc. v. Arthur, 879 N.E.2d 1095, 1103 (Ind.App.2008), as follows: the “injury must be not only (1) independent from the benefit of the bargain and resulting incidental expenses and *845 inconvenience, but also (2) so substantial as to constitute an unjust and unconscionable injury.” The benefit of the bargain would be what the promisee hoped to gain from the promise, which in Madison would have been the profit from selling auto parts to the defendant and in Keating the 49 percent share of the defendant’s company. The plaintiffs lost those expectancies of course, but they suffered other losses as well—the cost of the machine in Madison that the plaintiff would not have bought had it not been for the oral promise and in Keating the plaintiff’s alleged loss of his company. And those losses were significant in relation to the plaintiffs’ net worth, satisfying the second part of the Indiana formula.
+ 
+But what these cases really show is the mercury-like slipperiness of the Indiana formula, as of the Monarco formula as well. The “benefit of the bargain” is contract-speak for the expected profit from performing a contract; the “independent” loss of which the Spring Hill opinion spoke is the reliance loss—the expenses a party incurs to perform the contract. The plaintiff in Madison incurred the expense of the machine in reliance on the defendant’s promise, and likewise with the plaintiff’s giving up his business in Keating. A promise plus a reliance loss is what you need for promissory estoppel, yet the Indiana Supreme Court refused in Babyback’s to endorse a general exception to the statute of frauds for promissory estoppel. 841 N.E.2d at 568–70; see Spring Hill Developers, Inc. v. Arthur, supra, 879 N.E.2d at 1100–04. So the whole weight of the doctrine of “unjust and unconscionable injury and loss” falls on the gravity of the injury, and the decisive distinction between Monarco, Madison, and Keating (and for that matter Jacob’s grievance) on the one hand and the present case on the other hand is simply the duration of the injury in those cases relative to this one: 20 years, 3 years, 1.5 years, and 7 years (Jacob’s case), versus in our case at most 2.5 months but more likely 3.5 weeks—the time that elapsed between Dowling’s telling Classic on September 17 that the deal was a “go” and on October 12 that the loan application had been rejected. The more protracted the period during which reliance costs are being incurred, the stronger the inference that the oral promise was as the plaintiff represents it to be; for had there been no promise the plaintiff’s conduct—his immense reliance cost relative to his resources—would have been incomprehensible.
+ 
+Remember that the objection to placing promissory estoppel outside the statute of frauds is that it is too easy for a plaintiff to incur reliance costs in order to bolster his claim of an oral promise. The objection is attenuated if the reliance is so extensive that it is unlikely that the plaintiff would have undertaken it (buying an expensive specialized machine or giving up a growing company) merely to bolster a false claim. He might of course have misunderstood the “promisor” or been gambling on getting a contract, but courts seem not to think those possibilities likely enough to warrant a sterner rule. The compromise that the courts strike between the value of protecting reasonable reliance and the policy that animates the statute of frauds is to require a party that wants to get around the statute of frauds to prove an enhanced promissory estoppel, and the enhancement consists of proving a kind or amount of reliance unlikely to have been incurred had the plaintiff not had a good-faith belief that he had been promised remuneration.
+ 
+This seems to us a better understanding of the “unjust and unconscionable” rule than ascribing it to judicial indignation at dishonorable behavior by promisors. It is a strength rather than a weakness of contract law that it generally eschews a moral *846 conception of transactions. Liability for breach of contract is strict, rather than based (as tort liability generally is) on fault; punitive damages are unavailable even for deliberate breaches (and again note the contrast with tort law); and specific performance is exceptional—and when the only remedy for a breach of contract is compensatory damages, a promisor has in effect an option to perform or pay damages rather than a duty to perform (the duty the civil law expresses by the phrase pacta sunt servanda ). Even such contract doctrines as “good faith,” “best efforts,” and “duress,” which have a moral ring, seem aimed not at vindicating the moral law but at protecting each party to a contract from the other party’s taking advantage of a temporary monopoly (not in an antitrust sense) that contracts often create when the performance of the parties is not simultaneous. See, e.g., Professional Service Network, Inc. v. American Alliance Holding Co., 238 F.3d 897, 900–01 (7th Cir.2001); Market Street Associates Limited Partnership v. Frey, 941 F.2d 588, 594–97 (7th Cir.1991). To give just one example, when a seller grants an exclusive dealership the dealer is obliged to use his best efforts to promote the seller’s product because the seller has bound himself by the grant of exclusivity not to create a competing dealership and thus has placed himself in the dealer’s power for the duration of the contract. A best-efforts clause, which contract law reads into exclusive dealerships, Wood v. Duff–Gordon, 222 N.Y. 88, 118 N.E. 214 (1917) (Cardozo, J.), protects the seller from the dealer’s exploiting the position that the exclusivity conferred (because it has eliminated competition from other dealers) by failing to promote the seller’s product vigorously.
+ 
+Even though the behavior of the defendants in Monarco and the other cases we have discussed may well shock the conscience, the outcomes of those cases are defensible on the practical ground of protecting reasonable reliance in situations (and this is key) in which the contention that the reliance was induced by an oral promise is credible. The formulas the cases use to describe these situations, however, are not illuminating. Holmes warned that “the law is full of phraseology drawn from morals, and by the mere force of language continually invites us to pass from one domain to the other without perceiving it, as we are sure to do unless we have the boundary constantly before our minds.” O.W. Holmes, “The Path of the Law,” 10 Harv. L.Rev. 457, 459–60 (1897). Ruminating on the meaning of “unjust” and “unconscionable” will not separate the cases we have discussed from this case; reflection on reliance will.
+ 
+The duration of reliance in the present case was much shorter than in the other cases that we have discussed, and the reliance is more easily imagined as based on hope than on a promise. And not all of it could be considered reasonable reliance, which is the only kind that can support a claim of promissory estoppel and a fortiori an invocation of the enhanced promissory-estoppel doctrine of the Indiana cases. The only reasonable reliance that the plaintiffs placed on Dowling’s assurances was to cure (for less than $20,000) a delinquency somewhat earlier than they would otherwise have been forced to do. For the plaintiffs to treat the bank loan as a certainty because they were told by the bank officer whom they were dealing with that it would be approved was unreasonable, especially if, as the plaintiffs’ damages claim presupposes, the need for the loan was urgent. Rational businessmen know that there is many a slip ‘twixt cup and lips, that a loan is not approved until it is approved, that if a bank’s employee tells you your loan application will be approved that is not the same as telling you it has *847 been approved, and that if one does not have a loan commitment in writing yet the need for the loan is urgent one had better be negotiating with other potential lenders at the same time. The level of reliance that could be thought to have been reasonable in this case was not comparable to that involved in the other cases. In the end, this case turns out to be a routine promissory estoppel case, and that is not enough in Indiana to defeat a defense of statute of frauds.
+ 
+AFFIRMED.
+ 
+All Citations
+546 F.3d 839
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

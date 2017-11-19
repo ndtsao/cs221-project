@@ -1,0 +1,134 @@
+
+
+ 
+
+
+Kelley v. Microsoft Corp.
+United States Court of Appeals, Ninth Circuit. | September 14, 2010 | 395 Fed.Appx. 431 | 2010 WL 3556196
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Kelley v. Microsoft Corp., 395 F. App’x 431 (9th Cir. 2010)
+
+All Citations:
+
+395 Fed.Appx. 431, 2010 WL 3556196
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+395 Fed.Appx. 431
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Ninth Circuit Rule 36-3. (Find CTA9 Rule 36-3)
+United States Court of Appeals,
+Ninth Circuit.
+Dianne L. KELLEY; Kenneth Hansen; Jim Walters; Matt Morales; Russell Hall; Don Schroder, Plaintiffs-Appellants,
+v.
+MICROSOFT CORPORATION, a Washington Corporation, Defendant-Appellee.
+No. 09-35699.
+|
+Argued and Submitted Aug. 3, 2010.
+|
+Filed Sept. 14, 2010.
+Synopsis
+Background: Consumers brought putative class action against software corporation, alleging misrepresentations and omissions in pre-release marketing of operating system. The United States District Court for the Western District of Washington, Marsha J. Pechman, J., 2009 WL 973368, denied consumers’ motion for narrowed class certification. Consumers appealed.
+ 
+Holding: The Court of Appeals held that district court failed properly to conduct predominance inquiry.
+ 
+Affirmed in part, reversed in part, and remanded.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Federal Civil ProcedureConsumers, purchasers, borrowers, and debtors
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(D)Class Actions
+170AII(D)3Particular Classes Represented
+170Ak182.5Consumers, purchasers, borrowers, and debtors
+
+
+District court abused its discretion in finding that putative class of consumers suing software corporation failed to meet certification requirements under federal rules by failing properly to conduct predominance inquiry; court erroneously relied upon its conclusion that claims involving deceptive practices brought under Washington Consumer Protection Act (CPA) required individualized proof of proximate causation. Fed.Rules Civ.Proc.Rule 23(b)(3), 28 U.S.C.A.; West’s RCWA 19.86.010 et seq.
+7 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*431 Ian S. Birk, William C. Smart, Keller Rohrback LLP, Jeffrey Morgan Thomas, I, Esquire, Jeffrey Iver Tilden, Esquire, Mark A. Wilner, Esquire, Gordon Tilden Thomas & Cordell LLP, Seattle, WA, for Plaintiffs-Appellants.
+Charles B. Casper, Montgomery, McCracken, Walker & Rhoads, LLP, Phildelphia, PA, Cassandra Lynn Kinkead, Esquire, Stephen M. Rummage, Esquire, Charles S. Wright, Davis Wright Tremaine LLP, Seattle, WA, for Defendants-Appellees.
+Appeal from the United States District Court for the Western District of Washington, Marsha J. Pechman, District Judge, Presiding. D.C. No. 2:07-cv-00475-MJP.
+*432 Before: CANBY, THOMPSON and BERZON, Circuit Judges.
+
+
+MEMORANDUM*
+**1 This action involves alleged misrepresentations and omissions in Microsoft Corporation’s (“Microsoft”) pre-release marketing of its Windows Vista operating system. Plaintiffs-Appellants Dianne Kelley, Kenneth Hansen, Jim Walters, Matt Morales, Russell Hall, and Don Schroder (collectively referred to as “Plaintiffs”) appeal the denial of their motion for narrowed class certification of two classes proposed after the district court decertified their original class. The district court held that the putative classes failed to meet the predominance requirement of Federal Rule of Civil Procedure 23(b)(3). We review the certification decision for abuse of discretion. See Yokoyama v. Midland Nat’l Life Ins. Co., 594 F.3d 1087, 1090-91 (9th Cir.2010); In re Wells Fargo Home Mortg. Overtime Pay Litig., 571 F.3d 953, 957 (9th Cir.2009). We affirm in part, reverse in part, and remand for further proceedings.
+ 
+The district court failed properly to conduct the predominance inquiry under Rule 23(b)(3). To certify a class under Rule 23(b)(3), a district court must, inter alia, “determine whether common or individual issues predominate in a given case.” Dukes v. Wal-Mart Stores, Inc., 603 F.3d 571, 593 (9th Cir.2010) (en banc) (internal quotation marks omitted). “[T]he main concern in the predominance inquiry ... [is] the balance between individual and common issues.” In re Wells Fargo, 571 F.3d at 959. Here, the district court relied exclusively on its conclusion that claims involving deceptive practices brought under the Washington Consumer Protection Act (“CPA”), Wash. Rev.Code § 19.86.010 et seq., require individualized proof of proximate causation to find that “the predominant questions [in this putative class action] would relate to Plaintiffs’ subjective understanding of the Express Upgrade program and their individual belief in Microsoft’s Vista advertising campaign.” The district court failed to consider, or to balance against the issues requiring individualized proof, any questions of law or fact common to the Express Upgrade class members, despite identifying several such questions in the Rule 23(a)(2) commonality analysis in its February 2008 certification order.1 See In re Wells Fargo, 571 F.3d at 959 (holding that it is reversible error to “rely[ ] on [one factor] to the near exclusion of other factors relevant to the predominance inquiry”).
+ 
+In addition, contrary to the district court’s supposition, the Express Upgrade class members’ understanding of the Express Upgrade program and knowledge of Microsoft’s Vista advertising campaign is amenable to class-wide treatment in some respects. For instance, common questions exist regarding the extent of the consumer education efforts that Microsoft allegedly controlled through its Windows Vista Capable marketing program. Further, this case is unlike instances where the alleged misrepresentation goes to only one feature of the product and there are numerous reasons why a consumer might use the product other than the feature misrepresented. See Poulos v. Caesars World, Inc., 379 F.3d 654, 665, 667 (9th Cir.2004). The allegedly fundamental aspects of the product sought through the Express Upgrade *433 program are largely encompassed within the alleged misrepresentation-namely, that a computer labeled “Vista Capable” and upgradeable to Windows Vista Home Basic could run “Vista.” Cf. id. at 665 (noting the “unique nature of gambling transactions” and holding that “gambling is not a context in which [the court] can assume that potential class members are always similarly situated”).
+ 
+**2 Finally, the district court did not consider whether other elements of a CPA claim present questions of law or fact common or individual to the class members, and what effect those questions, if any, have on the Rule 23(b)(3) predominance inquiry. For instance, the district court did not determine whether the allegedly deceptive practice affects the public interest, which itself involves consideration of several factors. See, e.g., Panag v. Farmers Ins. Co. of Wash., 166 Wash.2d 27, 204 P.3d 885, 889 (2009).
+ 
+Accordingly, we reverse the district court’s denial of class certification and remand to the district court for further certification proceedings consistent with this disposition. We stress that by doing so, we express no view concerning whether on a proper analysis, the denial of class certification would be within the district court’s discretion.
+ 
+The district court did not err in concluding that the claims asserted by the proposed Windows Driver Device Model (“WDDM”) class are best characterized as primarily involving allegations of affirmative misrepresentations, and not material omissions. Plaintiffs argue that the WDDM class definition’s explicit reference to persons who purchased a personal computer (“PC”) certified by Microsoft as “Vista Capable” is to identify WDDM class members only. Even so, the argument underlying the WDDM class’ claims is that Microsoft affirmatively marketed certain PCs as Vista Capable even though they could not support WDDM, a display driver allegedly required to operate Vista. Additionally, regardless of whether Microsoft’s alleged knowing failure to reveal that pre-launch Vista Capable PCs could not support WDDM is a deceptive act or practice under the CPA, the failure to disclose that information is relevant only insofar as Microsoft also represented that Vista Capable PCs were in fact capable of running a version of Vista. Plaintiffs’ complaint is instructive on this issue, as it contains allegations based on both affirmative misrepresentations and omissions. The WDDM class’ claims are therefore not “base[d] ... only on what [Microsoft allegedly] did not disclose,” but rather “as much on what [was said] as what [wa]s purportedly [left out].” Poulos, 379 F.3d at 667. Accordingly, we affirm the district court’s denial of certification of the WDDM class on the theory that the WDDM class is entitled to a presumption of reliance.
+ 
+AFFIRMED in part, REVERSED in part, and REMANDED for further proceedings.
+ 
+All Citations
+395 Fed.Appx. 431, 2010 WL 3556196
+Footnotes
+
+*
+
+This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36-3.
+
+1
+
+Cases alleging consumer fraud and involving questions affecting individual class members are not categorically precluded from class treatment. See Amchem Prods., Inc. v. Windsor, 521 U.S. 591, 625, 117 S.Ct. 2231, 138 L.Ed.2d 689 (1997); cf. Wolin v. Jaguar Land Rover N. Am., LLC, 617 F.3d 1168, 1173-74 (9th Cir.2010).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

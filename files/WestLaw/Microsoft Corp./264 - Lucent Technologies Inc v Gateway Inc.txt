@@ -1,0 +1,614 @@
+
+
+
+
+
+Lucent Technologies, Inc. v. Gateway, Inc.
+United States Court of Appeals, Federal Circuit. | May 8, 2008 | 525 F.3d 1200 | 2008 WL 1970225
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Liberty Ammunition, Inc. v. United States, Fed.Cir., August 26, 2016
+
+standard Citation:
+
+Lucent Techs., Inc. v. Gateway, Inc., 525 F.3d 1200 (Fed. Cir. 2008)
+
+All Citations:
+
+525 F.3d 1200, 87 U.S.P.Q.2d 1001
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Liberty Ammunition, Inc. v. United States, Fed.Cir., August 26, 2016
+525 F.3d 1200
+United States Court of Appeals,
+Federal Circuit.
+LUCENT TECHNOLOGIES, INC., Plaintiff/Counterclaim Defendant–Appellant,
+and
+Lucent Technologies Guardian I LLC, Counterclaim Defendant,
+and
+Multimedia Patent Trust, Plaintiff/Counterclaim Defendant,
+v.
+GATEWAY, INC., Gateway Country Stores LLC, Gateway Companies, Inc., Cowabunga Enterprises, Inc., and Gateway Manufacturing LLC, Defendants/Counterclaimants,
+and
+Dell Inc., Defendant/Counterclaimant–Appellee,
+and
+Microsoft Corporation, Defendant/Counterclaimant–Cross Appellant.
+Nos. 2007–1334, 2007–1337, 2007–1376.
+|
+May 8, 2008.
+Synopsis
+Background: Owner of patent relating to a communications protocol and a patent relating to digitizing, or encoding, speech brought infringement action against competitors. After consolidating the cases, the United States District Court for the Southern District of California, Rudi M. Brewster, Senior District Judge, 2007 WL 925354, 2007 WL 925359,granted summary judgment of non-infringement on both patents. Owner appealed.
+ 
+Holdings: The Court of Appeals, Prost, Circuit Judge, held that:
+ 
+[1] district court erred in construing “terminal device” in patent relating to a communications protocol;
+ 
+[2] genuine issue of material fact as to whether accused devices infringed “transmitting” step of claims of patent relating to a communications protocol precluding summary judgment;
+ 
+[3] term “each successive iteration including the steps of,” in patent relating to digitizing, or encoding, speech, required that all steps following the clause performed in forming each pulse; and
+ 
+[4] prosecution history estoppel barred owner from asserting infringement under the doctrine of equivalents.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+Lourie, Circuit Judge, filed an opinion dissenting in part.
+ 
+
+
+West Headnotes (13)
+
+
+[1]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+Patent claim construction is a question of law which an appellate court reviews de novo.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsProsecution history estoppel
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(14)Prosecution history estoppel
+(Formerly 291k324.5)
+
+
+In determining the meaning of a disputed claim limitation in a patent, an appellate court looks primarily to the intrinsic evidence including the claim language, written description, and prosecution history.
+19 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+(Formerly 291k101(2))
+
+
+Term “terminal device,” in patent relating to a communications protocol facilitating the exchange of information between a host processor and a terminal device, meant a computing device such as a data terminal, workstation, portable computer, or smart phone that enables a user to communicate with a host processor, manages the actual positioning of objects on its associated display itself, and manages its internal memory with the assistance of the host processor.
+4 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsRejection and Amendment of Claims;  Prosecution History
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+(Formerly 291k168(2.1))
+
+
+A clear and unmistakable disavowal of scope during prosecution of a patent may affect the construction of a claim term.
+14 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  products and devices
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1935Particular Cases
+291k1935(1)In general;  products and devices
+(Formerly 291k323.2(3))
+
+
+Genuine issue of material fact existed as to whether accused devices infringed “transmitting” step of claims of patent relating to a communications protocol facilitating the exchange of information between a host processor and a terminal device, precluding summary judgment in infringement action.
+3 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+(Formerly 291k101(11))
+
+
+Term “each successive iteration including the steps of,” in patent relating to digitizing, or encoding, speech, required that all of the steps following the clause each be performed in forming each pulse.
+7 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsClaims and Limitations;  Language of Patent
+PatentsConstruction to give validity and effect to patent and claims
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1315In general
+(Formerly 291k165(3))
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1318Construction to give validity and effect to patent and claims
+(Formerly 291k157(2))
+
+
+While it is true that a court may construe patent claims to sustain their validity when the claims are amenable to more than one reasonable construction; when the claims are susceptible to only one reasonable construction, a court will construe the claims as the patentee drafted them.
+25 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsFurniture and household appliances
+PatentsLaches and estoppel
+PatentsLaches and estoppel
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1665Furniture and household appliances
+(Formerly 291k168(2.1))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1812Presumptions and Burden of Proof
+291k1819Laches and estoppel
+(Formerly 291k168(2.1))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1833Laches and estoppel
+(Formerly 291k312(1.6))
+
+
+More than tangential relationship existed between reason for narrowing amendment requiring pitch calculation and removal during pulse forming iterative loop in patent relating to digitizing, or encoding, speech, and accused equivalent, which determined pitch redundancy outside the iterative process for forming each loop, and therefore prosecution history estoppel barred patent owner from asserting infringement under the doctrine of equivalents, as owner could not rebut Festo presumption that owner surrendered all territory between the original claim limitation and the amended claim limitation following narrowing amendment.
+2 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsLaches and estoppel
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1812Presumptions and Burden of Proof
+291k1819Laches and estoppel
+(Formerly 291k312(1.6))
+
+
+Narrowing the claims of a patent in response to a rejection during prosecution creates a presumption that the applicant surrendered the territory between the original claims and the amended claims.
+3 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsLaches and estoppel
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1833Laches and estoppel
+(Formerly 291k312(1.6))
+
+
+In determining whether a patentee can rebut the Festo presumption that patentee surrendered all territory between the original claim limitation and the amended claim limitation following narrowing amendment made during prosecution history for a substantial reason relating to patentability, under the tangential exception, the focus is on the patentee’s objectively apparent reason for the narrowing amendment, and the inquiry is whether the reason for the narrowing amendment is peripheral, or not directly relevant, to the alleged equivalent.
+4 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 4,472,832, US Patent 5,345,553. Cited.
+Cases that cite this headnote
+
+
+
+[12]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 4,701,954. Not Infringed.
+Cases that cite this headnote
+
+
+
+[13]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,649,131. Construed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1202 John M. Desmarais, Kirkland & Ellis LLP, of New York, NY, argued for plaintiff/counterclaim defendant-appellant, Lucent Technologies, Inc. With him on the brief were Robert A. Appleby and Jeanne M. Heffernan, of New York, NY, Ephraim D. Starr, of Los Angeles, CA.
+Joel M. Freed, McDermott Will & Emery LLP, of Washington, DC, argued for defendant/counterclaimant-appellee, Dell Inc. With him on the brief were Natalia V. Blinkova, and Leonard D. Conapinski, of Chicago, IL. Of counsel on the brief was Joseph A. Micallef, Arnold & Porter LLP, of Washington, DC. Of counsel were Matthew N. Bathon and Ali R. Sharifahmadian, Arnold & Porter LLP, of Washington, DC.
+John W. Thornburgh, Fish & Richardson, P.C., of San Diego, CA, argued for defendant/counterclaimant-cross appellant, Microsoft Corporation. With him on the brief were John E. Gartman, and John A. Dragseth, of Minneapolis, MN. Of counsel was Juanita R. Brooks, of San Diego, CA. Of counsel on the brief was Stephen P. McGrath, Microsoft Corporation, of Redmond, WA.
+Before LOURIE, LINN, and PROST, Circuit Judges.
+Opinion
+Opinion for the court filed by Circuit Judge PROST. Opinion dissenting-in-part filed by Circuit Judge LOURIE.
+
+PROST, Circuit Judge.
+
+This is a patent case pertaining to alleged infringement by Microsoft Corp. (“Microsoft”) and Dell Inc. (“Dell”) of two patents, *1203 U.S. Patent No. 5,649,131 (“the ′131 patent”) and U.S. Patent No. 4,701,954 (“the ′ 954 patent”), owned by Lucent Technologies Inc. (“Lucent”). The United States District Court for the Southern District of California granted summary judgment of non-infringement of the ′131 patent, Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–C–V–2060, 03–CV–0699, 03–CV–1108, 2007 WL 925359 (S.D.Cal. Mar. 8, 2007), and the ′954 patent, Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, 2007 WL 925354 (S.D.Cal. Mar. 6, 2007). Lucent appeals the district court’s construction of the term “terminal device” in the ′131 patent and construction of the phrase “each successive iteration including the steps of” in the ′954 patent, and its finding of non-infringement based thereon.1 Because we find that the district court erred in its construction of “terminal device,” we vacate its grant of summary judgment of non-infringement of the ′131 patent and remand for further proceedings. We affirm the court’s construction of “each successive iteration including the steps of” and its grant of summary judgment of non-infringement of the ′954 patent.
+ 
+
+I
+The two patents at issue relate to very different technologies. The invention disclosed in the ′131 patent is a communications protocol that facilitates the exchange of information between a host processor and a terminal device. ′ 131 patent, col. 1, ll. 4–13. A host processor is a computer that communicates with multiple users to provide services such as transaction processing (e.g., online banking services) or database access. A user accessing the services provided by the host processor communicates with that host processor through a terminal device such as a portable computer, workstation, or smart phone. The claims of the ′131 patent are directed to methods for exchanging messages between a host processor and a terminal device. Claim 1 is representative:
+A method of operating a host processor communicating with a terminal device, said method comprising the steps of
+assigning an identifier to a respective one of a plurality of input object types, and
+transmitting said identifier and its respective input object type to said device, wherein said plurality of object types includes at least two of the object types choice, entry, text, and image.
+’131 patent, claim 1 (emphasis added).2
+ 
+On March 2, 2004, the District Court for the Southern District of California issued an amended claim construction order, construing the claim terms in the ′ 131 patent. Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108 (S.D.Cal. Mar. 2, 2004). Of relevance here, the court construed the term “terminal device” to mean:
+[A] computing device such as a data terminal, workstation, portable computer, or smart phone that enables a user to communicate with a host processor. It manages its associated display itself and manages its internal memory with the assistance of the host processor.
+Id., slip op. at 4 (emphasis added).
+ 
+Three years later, the district court granted Dell and Microsoft’s (“defendants”) *1204 motion for summary judgment of non-infringement of the ′131 patent. Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, 2007 WL 925359 (S.D.Cal. Mar. 8, 2007). In its order on summary judgment, the court explained that its prior construction of the term “terminal device” was based on the specification and the prosecution history. Id. at *2. In particular, the court stated that it relied on the summary of the invention and certain statements made during prosecution distinguishing the prior art Busboom patent as the basis for its construction of the term. Id. The court went on to state that although the specification indicates that the host computer may provide attributes that control display on the terminal device, none of the attributes control the location of objects on the display. Id. After reviewing the specification and the prosecution history, the court then refined its definition of “terminal device” to “exclude [ ] arrangements where the host processor controls the positioning of objects on the display of the terminal device.” Id. The court found that, in the accused devices, the host processors (web servers) participate in determining the location of objects on the display of the terminal device (computer). Id. Accordingly, the court granted the defendants’ motion for summary judgment of no literal infringement.3 Id. at *3. The court also granted the defendants’ motion for summary judgment of no infringement under the doctrine of equivalents because Lucent had failed to bring forth any evidence to support its infringement contentions; and, the court granted the defendants’ motion for summary judgment of no indirect infringement because there was no direct infringement. Id. at *3.
+ 
+The invention disclosed in the ′954 patent relates to digitizing—or encoding—speech. Specifically, the claims are directed to methods of compressing speech by removing redundant pitch information. Claim 6 is representative:
+A method for producing a speech message comprising:
+receiving a sequence of speech message time frame [4] signals ... and
+ 
+generating a speech pattern ... the first coded excitation signal for said frame being formed by the steps of:
+partitioning a speech pattern ...
+generating a set of predictive parameters ...
+producing a signal ... and
+generating a multipulse excitation code having a sequence of n =1, 2, ..., N pulses for each successive time frame to provide prescribed coded speech pattern quality where N is substantially independent of the pitch of the speech pattern by iteratively forming a sequence of pulses for said time frame, each pulse having a magnitude *1205 β and a location m within the frame in successive iterations and each successive iteration including the steps of:
+combining said time frame predictive parameter signals with said time frame predictive residual signals to from a signal y(n) corresponding to the time frame speech pattern portion, [step 1]
+combining the excitation pulse sequence of the preceding iteration with said time frame predictive parameter signals to form a signal z(n) corresponding to the contribution of the preceding iteration excitation pulse sequence to the time frame speech pattern portion, [step 2]
+forming a signal representative of the differences between said signal y(n) corresponding to the time frame speech pattern portion and said signal z(n) corresponding to the contribution of the preceding iteration excitation pulse sequence to the time frame speech pattern portion, [step 3]
+comparing the current time frame signal representative of the differences between said signal y(n) corresponding to the time frame speech pattern portion and said signal z(n) corresponding to the contribution of the preceding iteration excitation pulse sequence to the time frame speech pattern portion of the current time frame with the signal of prescribed preceding time frames representative of the differences between said signal y(n) corresponding to the preceding time frame speech pattern portion and said signal z(n) corresponding to the contribution of the preceding iteration excitation pulse sequence to the preceding time frame speech pattern portion to generate a signal yp(n) representative of speech pattern portions of said preceding time frames having a predetermined degree of similarity to the speech pattern portion of the time frame, [step 4] and
+producing an excitation pulse of magnitude β and location m for the present iteration responsive to the differences between said speech pattern portion representative signal y(n) and the sum of said signal representative of the contribution of the preceding iteration excitation pulse sequence to the time frame speech pattern portion and said signal yp(n) representative of similar speech pattern portions of said preceding time frames. [step 5]
+’954 patent, claim 6 (emphases added).
+On April 15, 2004, the district court issued a claim construction order, construing the claim terms in the ′954 patent. Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108 (S.D.Cal. Apr.15, 2004). Of significance to this dispute, the court construed the phrase “each successive iteration including the steps of” to require that “all of the steps following this clause [steps 1–5] must each be performed in forming each pulse.” Id., slip op. at 7.
+ 
+On January 12, 2007, the district court issued an order granting Lucent’s motion for summary judgment precluding Microsoft from asserting laches and/or equitable estoppel as an affirmative defense against Lucent with respect to the ′954 patent. Lucent Techs., Inc. v. Gateway, Inc., 470 F.Supp.2d 1187 (S.D.Cal.2007). Thereafter, on March 6, 2007, the district court granted the defendants’ motion for summary judgment of non-infringement with respect to the ′954 patent. Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, 2007 WL 925354 (S.D.Cal. Mar. 6, 2007). The court clarified that its claim construction required *1206 that each of the five steps actually be performed during each pulse forming iteration, and did not allow for an interpretation where one or more of the step(s) is performed in one pulse-forming iteration and then the results of the step(s) are used in subsequent iterations. Id. at *3. Because Lucent had presented no evidence that the accused devices performed each of the five steps in performing each pulse, the court granted the defendants’ motion for summary judgment of no literal infringement. Id. The court also concluded that Lucent could not prevail on its claim of infringement under the doctrine of equivalents because the patentee had narrowed the claims during prosecution for reasons relating to patentability and Lucent did not successfully rebut the presumption of surrender under the tangential exception. Id. at *5–7. The court, therefore, granted the defendants’ motion for summary judgment of no infringement under the doctrine of equivalents. Id. at *7.
+ 
+Lucent appeals the district court’s construction of the two claim terms, one in each patent, and the court’s grant of the defendants’ motion for summary judgment of non-infringement with respect to each patent. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+II
+[1] [2] We review a district court’s grant of summary judgment de novo. Innogenetics, N.V. v. Abbott Labs., 512 F.3d 1363, 1378 (Fed.Cir.2008). Claim construction is a question of law which we review de novo. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc). In determining the meaning of a disputed claim limitation, we look primarily to the intrinsic evidence including the claim language, written description, and prosecution history. Phillips v. AWH Corp., 415 F.3d 1303, 1312–17 (Fed.Cir.2005) (en banc).
+ 
+
+III
+[3] With regard to the ′131 patent, Lucent agrees that the first sentence of the district court’s construction of the term “terminal device”—i.e., “a computing device such as a data terminal, workstation, portable computer, or smart phone that enables a user to communicate with a host processor”—is correct. Lucent avers, however, that the district court erred in further defining “terminal device” to be a computing device that “manages its associated display itself” and to “exclude[ ] arrangements where the host processor controls the positioning of objects on the display of the terminal device.”5
+ 
+
+A
+The claims themselves do not define the term “terminal device.” The claims are directed to a “method of operating a host processor communicating with a terminal device,” and the method steps include assigning an identifier to an object and transmitting the identifier and object to the terminal device. There is nothing in the claims to suggest a construction requiring that the terminal device manage its associated display itself and to exclude control by the host processor of the positioning of objects on the terminal display. If anything, the claims suggest that the host processor plays some role in controlling the display of objects by the terminal device. We, therefore, look to the specification to aid in construing the term.
+ 
+
+*1207 B
+Lucent contends that the Abstract of the ′131 patent defines “terminal device” broadly to encompass a workstation, smartphone, or portable computer, and further provides that the host processor plays a role in controlling the display of objects on the terminal device. The defendants, in contrast, argue that the Abstract indicates that the terminal device is solely responsible for object display.
+ 
+The Abstract recites:
+The invention is directed to a communications protocol which facilitates the exchange of interface information between a host processor and a terminal, such as a workstation, smart phone, portable computer etc., by associating an object that is to be displayed on the terminal display with a particular identifier, and by associating input information entered in response to a user manipulating a displayed object with the associated object identifier, rather than the location of the displayed object. Accordingly, a host processor may specify relative rather than specific attributes for an object that is to be displayed on a terminal display, thereby leaving it up to the terminal to display an object in accord with its own capabilities.
+′131 patent, Abstract (emphases added).
+ 
+We agree with Lucent that the Abstract does not support the district court’s construction of “terminal device.” Although the Abstract indicates that it is the terminal device that ultimately displays the objects and it does so “in accord with its own capabilities,” the Abstract also indicates that the host processor plays a role in specifying at least relative information for object display on the terminal device. Thus, the Abstract does not compel a definition of “terminal device” limited to a device that “manages its associated display itself,” and it does not compel a definition that “excludes arrangements where the host processor controls the positioning of objects on the terminal display.”
+ 
+Lucent further argues that the Summary of the Invention defines “terminal device” by way of example to include a computer terminal, workstation, or smartphone. To the extent that the Summary of the Invention suggests that the terminal device exercises sole control over its display, Lucent contends that such control is limited to control over the form of objects, and not control over their location (i.e., placement and arrangement) or other appearance characteristics. The defendants, in contrast, argue that the Summary of the Invention clearly indicates that the terminal device exercises sole control over the display of objects.
+ 
+The Summary of the Invention provides:
+Based on the foregoing, we have recognized that there is a need for a communications protocol that is independent of the host transaction processor as well as the operating characteristics of different types of terminals, workstations and/or so-called smart phones that the host might communicate with. Thus, an advancement in the an [sic] is achieved by providing a communications protocol for exchanging application interface information between a host computer and user terminal, workstation or smartphone, in which the host, in accord with an aspect of the invention, associates different types of objects with respective identifiers and then transmits an object type and its associated identifier to the terminal device. The terminal device, in turn and in accord with an aspect of the invention, displays the object in a form determined solely by the terminal device but in accordance with respective predefined policies. If a user manipulates a displayed object type then, in *1208 accord with an aspect of the invention, data representative of such manipulation is generated and transmitted with the associated object identifier to the host processor.
+Id., col. 2, ll. 7–26 (emphases added).
+ 
+We agree with Lucent that the Summary of the Invention does not support the district court’s claim construction. The Summary of the Invention explains that the invention is a communications protocol between the host processor and the terminal device that functions independent of the operating characteristics of a specific terminal device. This is in contrast to the prior art, which, as discussed in the Background of the Invention, required that the host initially request the identity of the computer terminal and then format the display commands to suit the particular computer terminal. Id., col. 1, ll. 19–27. In context, it is clear that there is an exchange between the host processor and the terminal device, and that the host processor associates identifiers with objects to assist in controlling display. Although the Summary of the Invention indicates that the terminal device may exercise control over the form of objects, it is silent with respect to other aspects of display, including the placement or location of objects. Even with regard to object form, the control by the terminal device is limited by predefined policies, presumably originating from the host processor.6 Moreover, control of object form by the terminal device is “in accord with an aspect of the invention,” and not necessarily required in all embodiments of the invention. Hence, the Summary of the Invention does not support a construction of “terminal device” to require that the device “manage[ ] its associated display itself,” and certainly does not require exclusion of “arrangements where the host processor controls the positioning of objects on the display of the terminal device.”
+ 
+In support of the district court’s claim construction, the defendants rely primarily on a preferred embodiment directed to smartphones in the Detailed Description for support for the district court’s construction of “terminal device.” In particular, the defendants cite the following passage from the Detailed Description:
+A station set, such as station set 10 (FIG.1) may have one or more limitations, namely, the size of its associated display and internal memory. In accord with the principles of the invention, a terminal that is communicating with transaction processor 200 manages its associated display itself, and manages its internal memory with the assistance of processor 200. In particular, during the exchange of session and connected messages, station set 10 sends a value defining a “chunksize” to processor 200, in which the “chunksize” value is indicative of the number of characters that can be displayed at one time on the station set 10 display.
+Id., col. 6, l. 59–col. 7, l. 2 (emphasis added). This passage, according to the defendants, expressly requires the terminal device to “manage[ ] its associated display itself.” Such control must be absolute, according to the defendants, to distinguish from internal memory, which is controlled *1209 with the assistance of the host processor. Further, the defendants argue, the language “[i]n accord with the principles of the invention” indicates that the cited portion of the Detailed Description does not pertain only to the smartphone preferred embodiment, but is applicable to the invention as a whole.
+ 
+Lucent responds that this portion of the specification relates to chunksize, i.e., “the number of characters that can be displayed at one time on the station set 10 display,” which affects the amount of text needed to be stored in memory at any one time, not object positioning. Lucent further argues that this is an illustrative embodiment directed only to smartphones and does not disavow other ways of performing the invention. In addition, Lucent contends, the phrase “manages its associated display itself,” if read in the context of the rest of the specification, means that the terminal device has only some control over its display.
+ 
+We disagree with Lucent that this passage concerns only chunksize. The passage states both that the terminal device manages its display itself and that it manages its internal memory with the assistance of the host processor. The succeeding discussion of chunksize details only the management of internal memory. We agree with Lucent that the smartphone in the Detailed Description is merely a preferred embodiment but disagree that it cannot be considered in interpreting the meaning of the claims. Nevertheless, the precise meaning of “manages its associated display itself” can best be gleaned from a review of the remainder of the Detailed Description.
+ 
+Lucent argues that the Detailed Description discusses numerous attributes that enable the host processor to modify the appearance of an object and to direct the arrangement and placement of objects on the terminal display. For example, Lucent points to the discussion of the REGION object, which allows the host processor to partition the terminal display into regions for the display of objects. According to Lucent, the host processor may use the REGION object in combination with certain attributes to establish the relative placement of objects in relation to a region or to each other. Lucent avers that the host processor uses positioning attributes to organize the relative layout of objects; then, the terminal device creates the objects and displays them on its terminal display. In other words, Lucent explains, the host processor controls relative placement of objects, even if the terminal device determines the actual location of objects.
+ 
+The defendants contend that the REGION object is not characteristic of, or a necessary part of, the invention. Further, the defendants argue, even with respect to the REGION object, the Detailed Description provides that “the way in which a display is actually partitioned into such regions is under the control of the station set or computer terminal, e.g., station 10.” Id., col. 8, ll. 16–18. According to the defendants, the host processor only controls whether or not there are regions, not the partitioning of regions or the placement of objects within regions.
+ 
+We agree with Lucent that the Detailed Description indicates a role for the host processor in the control of how and where objects are displayed on the terminal device. Even though the host processor does not maintain total control over object display, as in the prior art, the host processor still plays a role in controlling object display, including relative positioning of objects. The Detailed Description provides that the host processor may designate various objects types and/or attributes t34–36 ( “[E]ach such object type is *1210 associated with a set of properties that is used to determine how the associated object type is to be displayed.”); id., col. 5, ll. 45–48 (“[T]he attributes field associated with an object is a set of boolean values arranged in a bit-map field that control the presentation characteristics of an associated object.”). For example, the HIDE attribute controls the visibility of an object on the display, id., col. 5, ll. 48–50, and the DEFAULT attribute controls whether certain objects are highlighted or not. Id., col. 5, l. 65–col. 6, l. 5. The Detailed Description also provides that the host processor exercises control over how the terminal device displays text. In particular, the WORDWRAP attribute specifies that a displayed line end on a full word, whereas the PROMPT attribute specifies that text may be truncated at the end of a line. Id., col. 7, ll. 29–33.
+ 
+In addition, the Detailed Description provides that the host processor may control the relative positioning of objects. For example, the Growable attribute specifies that, if there is extra space on the display, the associated object should be moved up, whereas the Shrinkable attribute specifies the reverse. Id., col. 7, ll. 50–54. Finally, the host processor may use the REGION object to organize its access to the display and to partition a display into regions for the display of objects. Id., col. 8, ll. 5–18. Although the Detailed Description also indicates that the terminal device controls how a display is actually partitioned, the statement must be read in the context of the entire paragraph which clearly states that the host processor may use the REGION object to control partitioning. Further, the REGION object may be associated with certain attributes, namely, the Horizontal, Outer, and Up attributes, which control the orientation or direction of placement of the objects on the display. Id., col. 8, ll. 33–59.
+ 
+Accordingly, the definition ascribed by the district court to the term “terminal device” is in conflict with the teachings of the Detailed Description, which clearly indicates a role for the host processor in controlling the appearance of objects on the display and controlling at least the relative positioning of objects on the display. Therefore, we find a lack of support in the specification for the district court’s definition of “terminal device” to require that the device “manage[ ] its associated display itself” and to specifically exclude “arrangements where the host processor controls the positioning of objects on the display of the terminal device.”
+ 
+
+C
+Finally, in further support of the district court’s claim construction, the defendants argue that the prosecution history contains a clear disavowal of control by the host processor over the location of objects on the terminal display. During prosecution, the examiner rejected the claims under 35 U.S.C. § 102(e) over Busboom (U.S. Patent No. 5,345,553). Specifically, the examiner stated that Busboom teaches associating an identifier with an object and transmitting the identifier and the associated object to the terminal device, as per the claimed invention.
+ 
+In response to the rejection, the applicants distinguished the claimed invention from Busboom by arguing:
+[I]n contradistinction to the claimed invention, the Busboom apparatus specifies the location at which an object is to be displayed on a display. This is clearly demonstrated by the above example illustrating how the host computer specifically specifies the display location of the so-called edit mask position. That is, in the above example discussed in Busboom, the semicolon (;) is displayed *1211 at position 5 and a hyphen (-) is positioned at position 9.
+In contrast, a host computer in the claimed invention does not specify where an object type is to be displayed on the display of a terminal. The reason for this is that it is the terminal and not the host computer which decides where an object is to be displayed on the terminal display. Thus, in accord with the invention, all that the host needs to do is to transmit an object type and an independent identifier assigned to the object to the terminal. Thereafter, the host terminal may cause the object type to be displayed on the terminal display by transmitting the assigned identifier to the terminal. The terminal, in response thereto, displays the object on the display at a location selected by the terminal itself.
+(Emphases added.)
+ 
+The defendants contend that, in distinguishing over Busboom, the applicants argued that the terminal device in the claimed invention determines by itself the location of displayed objects without the assistance of the host processor, and thus the applicants disclaimed control of object location by the host processor. Moreover, according to the defendants, the disclaimer by the applicants was unqualified, disclaiming all host processor control over object positioning, not just some control.
+ 
+Lucent responds that the applicants’ arguments were not directed to defining the term “terminal device,” but simply to distinguishing the claimed method from that disclosed in Busboom. Further, Lucent avers, the cited prosecution history reveals that the applicants recognized that the host processor in Busboom, like the prior art disclosed in the Background of the Invention, used precise knowledge of the terminal display to specify the actual location where objects were to appear. According to Lucent, therefore, in distinguishing from Busboom, the applicants were only disclaiming control of actual object location by the host processor, not relative positioning of objects.
+ 
+[4] “[A] clear and unmistakable disavowal of scope during prosecution” may affect the construction of a claim term. Purdue Pharma L.P. v. Endo Pharms., Inc., 438 F.3d 1123, 1136 (Fed.Cir.2006); Rexnord Corp. v. Laitram Corp., 274 F.3d 1336, 1343 (Fed.Cir.2001). We agree with Lucent that the cited prosecution history does not contain a clear disavowal of any control by the host processor over object location. The first paragraph of the argument made during prosecution indicates that the applicants recognized that Busboom disclosed control of actual object locations (“the semicolon (;) is displayed at position 5 and a hyphen (-) is positioned at position 9”) by the host processor. In contradistinction, the applicants argue that the host processor of the claimed invention exercises no such control. We cannot conclude from this prosecution history that the applicants disclaimed control over relative positioning of objects by the host processor. In fact, in the second paragraph of the prosecution argument, the applicants note that the host processor of the claimed invention “transmit[s] an object type and an independent identifier assigned to the object” to the terminal device, consistent with the notion that the host processor exercises some control over object display.
+ 
+Moreover, these statements by the applicants must be read in the context of its overall argument distinguishing the claimed method from the method disclosed in Busboom. Notably, the applicants go on to distinguish over Busboom by pointing out that Busboom does not disclose associating an object type with an identifier as is expressly required by the first *1212 step of the method of operating a host processor of claim 1. Therefore, the arguments made by the applicants during prosecution clearly distinguish the claimed method from that of Busboom, but do not constrain the definition of “terminal device,” as urged by the defendants. In sum, we find no clear disavowal in the prosecution history of all control by the host processor of object appearance and positioning on the terminal display.
+ 
+
+D
+Because we find that the specification clearly supports a role for the host processor in control of object display, including the relative positioning of objects, we conclude that the district court erred in its construction of “terminal device” to require that the device “manage[ ] its associated display itself” and, more particularly, to exclude “arrangements where the host processor controls the positioning of objects on the terminal display.” Instead, we find that the proper construction of the term “terminal device” is as follows:
+A computing device such as a data terminal, workstation, portable computer, or smart phone that enables a user to communicate with a host processor. It manages the actual positioning of objects on its associated display itself and manages its internal memory with the assistance of the host processor.
+In light of our modification of the construction of the term “terminal device,” we vacate the district court’s grant of summary judgment of non-infringement and remand the case for a determination of infringement based on the revised construction of the claims of the ′131 patent.
+ 
+
+E
+[5] Dell argues that even if we reverse the district court’s construction of “terminal device” and vacate its grant of summary judgment of non-infringement based on that claim limitation, we should then reverse the district court’s denial of summary judgment that the accused devices do not infringe the “transmitting” step of the claims of the ′131 patent.7 The court construed the phrase “transmitting said identifier and its respective input object type to said device” to mean “transmitting information directly to the device without first transmitting it to a site processor which then retransmits it.” Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, slip op. at 5 (S.D.Cal. Mar.2, 2004). Dell does not appeal the court’s claim construction. Instead, Dell argues that the accused devices do not infringe the claims because they transmit information to intermediate nodes or processors, and not directly to the terminal device as required by the court’s claim construction. Lucent responds that the intermediate processors in the accused devices do not constitute “site processors” and, therefore, the accused devices do infringe the claims of the ′ 131 patent.
+ 
+After reviewing the briefs and hearing oral argument on this issue, the district court found that Lucent raised genuine issues of material fact with respect to whether the accused devices met this claim *1213 limitation, thereby precluding resolution of the issue on summary judgment. Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, 2007 WL 925359, at *3 (S.D.Cal. Mar. 8, 2007). We agree with the district court that this issue is not amenable to resolution on summary judgment and is best resolved after weighing the evidence with respect to infringement presented by the parties. Accordingly, we decline to reverse the district court’s denial of summary judgment of non-infringement based on the “transmitting” step.
+ 
+
+IV
+[6] We next turn to the ′954 patent. The district court construed the phrase “each successive iteration including the steps of” to require that “all of the steps following this clause [steps 1–5] must each be performed in forming each pulse.” Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, slip op. at 7 (S.D.Cal. Apr.15, 2004). Lucent argues that the court erred in its construction. According to Lucent, only step 5 needs to be performed in forming each pulse, whereas steps 1–4 may be performed only once per frame.
+ 
+
+A
+We begin with the claim language itself. Lucent argues that the term “including” need not be interpreted to mean “comprising” because dictionary definitions suggest that it may also mean “considering” or “involving as a factor.” Therefore, according to Lucent, a reasonable interpretation of the claim does not require that all of steps 1–5 be performed in each pulse-producing iteration. Rather, it contends that the phrase “including the steps of” may be read to mean that performance of steps 1–4 can occur outside the pulse loop provided that the results of those steps are used in the calculation of pulses in step 5. Lucent further argues that one of ordinary skill in the art would understand that the frame-based parameters, y(n), z(n) and yp(n), change only with each successive iteration of frames and not pulses, and thus the value obtained for each of steps 1–4 would not change with each pulse. Thus, according to Lucent, one of skill in the art would read the claim to mean that only step 5 need be recalculated during each pulse-forming loop based on the values obtained from steps 1–4 at the beginning of each frame.
+ 
+The defendants, on the other hand, argue that the ordinary and plain meaning of the claim supports the district court’s claim construction. According to the defendants, the claim expressly requires “iteratively forming” N pulses in N “successive iterations,” and requires that “each successive iteration” include the five steps. Hence, defendants argue, the claim language requires pulse-forming iterations, not frame-based iterations. The defendants contend that Lucent’s proposed construction that only step 5, and not steps 1–4, needs to be performed during each pulse-forming iteration is contrary to the express language of the claim. In fact, the defendants point out that step 5 recites, “producing an excitation pulse of magnitude β and location m for the present iteration.” The defendants further contend that Lucent’s strained interpretation of “including” is inconsistent with this court’s routine treatment of “including” as an equivalent of “comprising.”
+ 
+We agree with the defendants that the claim language clearly supports the district court’s claim construction requiring performance of all of steps 1–5 during each pulse-forming iteration. Representative claim 6 recites a series of steps for forming an excitation signal for each time frame, the last of which is “generating a multipulse *1214 excitation code having a sequence of n=1, 2, ..., N pulses for each time frame ... by iteratively forming a sequence of pulses for said time frame.” Hence, the generation of the multipulse excitation code clearly involves pulse-forming iterations. The claim then recites “each successive iteration including the steps of,” followed by steps 1–5.
+ 
+This court has consistently interpreted “including” and “comprising” to have the same meaning, namely, that the listed elements (i.e., method steps) are essential but other elements may be added. Amgen Inc. v. Hoechst Marion Roussel, Inc., 314 F.3d 1313, 1344–45 (Fed.Cir.2003); see also CIAS, Inc. v. Alliance Gaming Corp., 504 F.3d 1356, 1361 (Fed.Cir.2007). Therefore, the claim language supports the district court’s construction of the phrase to require each of steps 1–5 to be performed during each pulse-forming iteration. It is irrelevant that steps 1–4 need not be recalculated during each pulse (since the values obtained would not vary between pulses). The claim language expressly requires recalculation during each pulse. We find no merit in Lucent’s attempt to parse the actual performance of steps 1–4 from the use of values derived from steps 1–4 during pulse formation. The claim language clearly requires performance of each of the method steps, not just the use of values from those steps. Because the claims of the patent “provide substantial guidance as to the meaning of ... claim terms,” Phillips, 415 F.3d at 1314, we find that, here, the language of the claims strongly supports the district court’s claim construction.
+ 
+
+B
+Lucent does not contend that the claim term was expressly defined otherwise in the specification. Instead, Lucent argues that the sole embodiment described in the ′954 patent specification performs steps 1–4 only during each frame-base iteration, and not in producing each pulse. According to Lucent, Figure 3 illustrates the overall process for each time frame. Step 1 occurs in Box 305 and steps 2–4 occur in Box 306—which is reproduced in more detail in Figure 4—while the pulse loop does not begin until after Box 307. Lucent contends that the sample Fortran source code, attached as Appendix A, lends further support to performance of steps 1–4 only during each frame-based iteration. Thus, according to Lucent, the specification, the figures and the attached source code all support a method in which steps 1–4 are performed only once during each successive iteration of the frame loop, and not during each successive iteration of the pulse loop. This is strong evidence, according to Lucent, that the district court’s claim construction is incorrect. Lucent relies on Vitronics Corp. v. Conceptronic, Inc. for the proposition that a claim construction that excludes the preferred embodiment “is rarely, if ever correct and would require highly persuasive evidentiary support....” 90 F.3d 1576, 1583 (Fed.Cir.1996).
+ 
+Dell concedes that there is no support in the specification for the construction adopted by the district court, but argues that the claims are clear as to the meaning of the phrase and that there is no need to resort to the specification. Microsoft asserts, in contrast, that the specification does provide support for performance of steps 1–5 (calculation and removal of redundant pitch information) during each pulse-forming iteration. According to Microsoft, Figure 1 depicts the invention broadly, whereas Figure 2, which is further illustrated in Figures 3 and 4, depicts only one aspect of the invention. Figure 1, Microsoft argues, depicts calculating and removing pitch during each pulse- *1215 forming iteration. Specifically, Microsoft avers, pitch calculation (steps 1–4) occurs in Box 140 and pitch removal (step 5) occurs in Box 125, both of which are part of the pulse-forming iteration. Even assuming that the district court’s claim construction is not supported by the embodiment disclosed in the specification, Dell and Microsoft both argue that although a claim construction that excludes a preferred embodiment is rarely correct, it may be correct when the claim is plain on its face.
+ 
+Responding to this argument, Lucent asserts, in its reply brief, that the description of the operation of Figures 2–4 in the specification refers to the description of Figure 1, indicating that all of the figures describe the same embodiment. Lucent further argues that the specification indicates that Box 140 in Figure 1 produces the frame-based quantities z(n), yp(n), γ, M *, which are the same values depicted in Box 306 in Figure 3. Further, Lucent notes that magnitude β and location m are calculated in Box 327 in Figure 3, and Box 328 indicates that the output is sent to “Predictive Filter 123,” which is depicted in Figure 1. Finally, Lucent points out that calculation of v(n) is depicted in Box 340 in Figure 3 and this value enters the next frame-based iteration. The value v(n) is depicted in Figure 1 as entering Box 140, indicating that Box 140 is part of the frame-loop, and not the pulse-loop as suggested by Microsoft.
+ 
+[7] We agree with Lucent that all of the figures describe the same embodiment, in which calculation of pitch redundancy (steps 1–4) is performed outside the pulse-forming loop. Therefore, the district court’s construction of the phrase “each successive iteration including the steps of” is not supported by the sole embodiment described in the specification. Nevertheless, the claim language clearly supports the district court’s claim construction. This court has repeatedly held that courts may not redraft claims to cure a drafting error made by the patentee, whether to make them operable or to sustain their validity.8 Chef Am., Inc. v. Lamb–Weston, Inc., 358 F.3d 1371, 1373 (Fed.Cir.2004); Allen Eng’g Corp. v. Bartell Indus., Inc., 299 F.3d 1336, 1349 (Fed.Cir.2002); Process Control Corp. v. HydReclaim Corp., 190 F.3d 1350, 1357 (Fed.Cir.1999); Quantum Corp. v. Rodime, PLC, 65 F.3d 1577, 1584 (Fed.Cir.1995); Hoganas v. Dresser Indus., Inc., 9 F.3d 948, 951 (Fed.Cir.1993). To do so “would unduly interfere with the function of claims in putting competitors on notice of the scope of the claimed invention.” Hoganas, 9 F.3d at 951. While it is true that we may construe claims to sustain their validity when the claims are amenable to more than one reasonable construction; when the claims are susceptible to only one reasonable construction, we will construe the claims as the patentee drafted them. Process Control, 190 F.3d at 1356–57; see also Elekta Instrument S.A. v. O.U.R. Scientific Int’l, Inc., 214 F.3d 1302, 1309 (Fed.Cir.2000) ( “[H]aving concluded that the amended claim is susceptible of only one reasonable construction, we cannot construe the claim differently from its plain meaning in order to preserve its validity....”). Indeed, we have limited application of the maxim that claims should be construed to preserve their validity to situations in which we conclude, after reviewing all the intrinsic evidence, that the claim language is ambiguous. Phillips, 415 F.3d at 1327. However, where we conclude that the claim language *1216 is unambiguous, we have construed the claims to exclude all disclosed embodiments. Chef Am., 358 F.3d at 1373–74; Elekta Instrument, 214 F.3d at 1308–09. In this case, the claim language expressly requires execution of steps 1–5 during each pulse-forming iteration and the specification does not redefine the claim term to have an alternative meaning.
+ 
+
+C
+The construction by the district court is also supported by the prosecution history. As noted by the defendants, during prosecution, the applicant amended the claims to avoid certain prior art. The original claims did not contain a pulse-forming iteration, but rather only a series of steps performed during each successive frame. The examiner rejected the claims under 35 U.S.C. § 103 as obvious over several references and under the judicially created doctrine of obviousness-type double patenting as obvious over U.S. Patent No. 4,472,832 in view of several references. Thereafter, the applicant amended the claims to add the 5–step pulse iteration, which performs both pitch calculation and pitch removal. In amending the claims, the applicant explained:
+Unlike the teaching of the cited references combined with patent 4,472,832, the instant invention as clearly set forth in the amended claims does not analyze the already formed multipulse sequence of several frames to find redundancies therein but rather determines frame-to-frame redundancies while the multipulse sequence is being formed. Claim 1, [as] amended, for example, clearly sets forth that the formation of the similarity signal yp(n) is performed on speech pattern derived signals and not from the incomplete frame multipulse sequence and producing of an excitation pulse of magnitude β and location m for the present iteration is responsive to the differences between said speech pattern portion representative signal y(n) and the sum of said signal representative of the contribution of the preceding iteration excitation pulse sequence to the time frame speech pattern portion and said signal yp(n) representative of similar speech pattern portions of said preceding time frames. Both of these steps are performed during the iteration for forming each pulse of the multipulse sequence. None of the [prior art] suggest[ ] pitch redundancy removal in the iterative process of forming multipulse sequences as in the instant invention.
+(Emphases added.)
+ 
+Lucent argues that one of skill in the art would understand this passage from the prosecution history to mean only that the similarity signal yp(n) is taken into account in forming each pulse, not that it is recalculated during each pulse. Lucent further asserts that the applicant later explained to the examiner that “the boxes and the interrelations of the signals applied thereto as described in the specification and the flow charts” distinguished the invention from the prior art. Therefore, in clarifying the claimed invention, Lucent avers that the applicants incorporated by reference Figures 3 and 4, which depict steps 1–4 occurring outside the pulse-forming iteration.
+ 
+We agree with the defendants that this passage from the prosecution history clearly shows that the applicant relied on both pitch calculation and pitch removal during the pulse-forming iteration to distinguish over the prior art. First, this passage clearly indicates that, in the claimed invention, redundancies are determined while the multipulse sequence is being formed, in contrast to the prior art, in which redundancies are calculated frame-by-frame. Further, the passage *1217 specifically refers to two steps—formation of the similarity signal yp(n) (step 4) and production of an excitation pulse of magnitude β and location m (step 5)—and states that both of the steps are performed during the pulse-forming iteration. Such a clear disavowal cannot be overlooked merely because the applicant made an oblique reference to the flow charts in the specification. Thus, the prosecution history reaffirms the clear language of the claims. Accordingly, we find no error in the district court’s construction of the phrase “each successive iteration including the steps of,” even though it excludes the only disclosed embodiment. We conclude, therefore, that the district court correctly construed the phrase to require that “all of the steps following this clause must each be performed in forming each pulse.”
+ 
+
+D
+[8] Under the district court’s claim construction, Lucent does not dispute that there is no literal infringement by the accused products because, as the district court found, they “perform a method where steps 1–4 are performed outside the iterative loop for forming each pulse.” Lucent Techs. Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, 2007 WL 925354, at *7 (S.D.Cal. Mar. 6, 2007).9
+ 
+Lucent, however, appeals the district court’s holding of noninfringement of the ′954 patent under the doctrine of equivalents, finding that Lucent had failed to rebut the presumption of amendment-based prosecution history estoppel. Lucent avers that this case fits into the tangential exception. Specifically, Lucent argues that the accused equivalent differs from the claimed invention in that steps 1–4 (determining redundancies) are performed once per frame as opposed to once per pulse. This difference, Lucent submits, is unrelated to the rationale for the amendment, which was to distinguish the claimed invention from the prior art based only on the performance of step 5 (removing redundancies) during each pulse-forming iteration as opposed to during each frame-based iteration. According to Lucent, the fact that the asserted equivalent is the only embodiment disclosed in the ′954 patent is highly persuasive evidence of tangentiality.
+ 
+The defendants respond that because the claim language requiring performance of steps 1–5 during each pulse was added by amendment to distinguish from the prior art, there can be no infringement under the doctrine of equivalents. They contend that the tangential exception does not apply because the rationale for the amendment, requiring pitch calculation and removal during the pulse forming iterative loop, bears more than a tangential relationship to the accused equivalent, which removes pitch outside the pulse-forming iterative loop.
+ 
+[9] We agree with the defendants that the district court did not err in holding that infringement under the doctrine of equivalents is barred by prosecution history estoppel. The applicant amended the claims in response to a rejection during *1218 prosecution to require performance of steps 1–5 during each pulse-forming iteration. Narrowing the claims in response to a rejection during prosecution creates a presumption that the applicant surrendered the territory between the original claims and the amended claims. Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., 535 U.S. 722, 740, 122 S.Ct. 1831, 152 L.Ed.2d 944 (2002). Therefore, the applicant surrendered methods wherein pitch calculation (steps 1–4) and/or pitch removal (step 5) are performed outside the pulse-forming iteration. It is not relevant to the determination of the scope of the surrender that the applicant did not need to amend the claims to require performance of steps 1–4 during each pulse-forming iteration in order to overcome the prior art. Norian Corp. v. Stryker Corp., 432 F.3d 1356, 1361–62 (Fed.Cir.2005).
+ 
+[10] In determining whether the patentee can rebut the Festo presumption of surrender under the tangential exception, the focus is on the “patentee’s objectively apparent reason for the narrowing amendment,” and the inquiry is “whether the reason for the narrowing amendment is peripheral, or not directly relevant, to the alleged equivalent.” Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., 344 F.3d 1359, 1369 (Fed.Cir.2003) (en banc). Here, the applicant amended the claims to overcome prior art that disclosed redundancy removal during frame-based iterations. In amending the claims, the applicant added a five-step iterative process for determining and removing redundancies during the pulse-forming loop. The applicant argued that the claimed invention was distinguishable from the prior art based on the performance of both pitch calculation and pitch removal during each pulse-forming iteration. Thus, the purpose for the amendment is not unrelated to the alleged equivalent, which determines pitch redundancy outside the iterative process for forming each loop. There is clearly more than a tangential relationship between the reason for the amendment and the accused equivalent. Accordingly, we hold that the district court did not err in holding that Lucent was barred by prosecution history estoppel from asserting infringement under the doctrine of equivalents.10
+ 
+
+V
+For the foregoing reasons, we reverse the district court’s construction of the term “terminal device” in the ′131 patent and vacate its grant of summary judgment of no infringement with respect to the ′131 patent by defendants’ accused products. We affirm the district court’s construction of the phrase “each successive iteration including the steps of” in the ′954 patent and its grant of summary judgment of no literal infringement and no infringement under the doctrine of equivalents with respect to the ′954 patent by defendants’ accused products. We remand the case to the district court for further proceedings consistent with this opinion.
+ 
+
+COSTS
+No costs.
+ 
+AFFIRMED–IN–PART, VACATED–IN–PART, and REMANDED.
+ 
+
+*1219 LOURIE, Circuit Judge, dissenting in part.
+
+I join the court’s opinion with respect to the issues related to the ′954 patent and the cross-appeal. However, I respectfully dissent from the majority’s conclusion that the district court erred in construing the “terminal device” limitation of the ′131 patent. In light of the specification and the prosecution history of the ′131 patent, I would affirm the district court’s construction of “terminal device” and thus its grant of summary judgment of noninfringement for the ′131 patent.
+ 
+The district court construed “terminal device” as “a computing device such as a data terminal, workstation, portable computer, or smart phone that enables a user to communicate with a host processor,” and Lucent does not challenge that portion of the construction. The court also stated as part of the construction that a “terminal device” “manages its associated display itself and manages its internal memory with the assistance of the host processor,” and Lucent argues that this portion of the construction is inconsistent with the specification.
+ 
+The majority here holds that the abstract, the summary of the invention, the written description, and the prosecution history justify reversal. I do not agree.
+ 
+While the majority concludes that the abstract of the ′131 patent does not “compel” the construction adopted by the district court, the abstract clearly supports that construction. The abstract states that “a host processor may specify relative rather than specific attributes for an object that is to be displayed on a terminal display, thereby leaving it up to the terminal to display an object in accord with its own capabilities.” ′131 patent (emphases added). The abstract uses the general term “attributes” without indicating whether or not those attributes relate to the size and location of objects on a terminal’s display. More importantly, in the same sentence referencing “relative” attributes, the patentees emphasized that it is the terminal which exercises control over the display of objects identified by the host. The other portions of the patent specification continue this emphasis on the terminal’s control of its own display.
+ 
+The ′131 patent states in the “Summary of the Invention” that after the “host computer” transmits “an object type” to the “terminal device,” the “terminal device, in turn and in accord with an aspect of the invention, displays the object in a form determined solely by the terminal device but in accordance with respective predefined policies.” ′131 patent col.2 ll.12–22 (emphasis added). The inventors made clear that the “terminal device” manages its own display, and, in particular, the size that the objects will take on the “terminal device” display. This message is repeated later in the specification in the passage that the district court quoted as part of its construction: “In accord with the principles of the invention, a terminal that is communicating with the transaction processor 200 manages its associated display itself, and manages its internal memory with the assistance of processor 200.” ′131 patent col.6 ll.61–65 (emphasis added). By the inventors’ own admission, this statement relates to the “principles of the invention” as a whole, not just a preferred embodiment.
+ 
+The description of the “BITMAP object” in the specification referenced by Lucent is not to the contrary. The specification describes using the “BITMAP object” to transmit images such as a logo in combination with “Growable” or “Shrinkable” attributes that the host sends to the terminal device as part of the command to create the “BITMAP object.” ′131 patent col.7 ll.34–61. However, the specification makes *1220 clear that these optional commands only tell the terminal device to scale a picture, defined by a “bitstream” of “pixels,” up or down to fit the portion of the display allocated to the picture by the terminal device itself. Id. The host does not specify how much space on the display the terminal device will use for the picture or where on the display that space will be.
+ 
+Lucent’s reliance on the specification’s description of the “REGION object” I find similarly unpersuasive. First, the specification describes the use of this object as optional. ′131 patent col.8 ll.5–8 (“program running on transaction processor 200 may use the REGION object”). Even within the description of the “REGION object,” the specification severely limits the input from the host processor: “It is to be understood, however, that the way in which a display is actually partitioned into such regions is under the control of the [exemplary terminal device].” Id. at col.8 ll.15–18. The “REGION object” only allows the host to specify that objects grouped within a region should be displayed horizontally (i.e., in a row) or vertically (i.e., in a column), but, even then, specification of a secondary direction is allowed because the number of objects in the specified group may not be capable of display in the primary direction. Id. at col.8 ll.5–59. Thus, even the relative control that may be exercised over the positioning of objects on the terminal device’s display is limited. The specification further describes that by creating a hierarchy of “dummy regions,” the host may exercise modest control over the relative placement of objects with respect to one another (e.g., two objects will share in an unspecified manner a space of unspecified size beneath another object of unspecified size). Id. at col. 11 ll.7–40.
+ 
+However, the inventors gave up even this very limited form of control over the terminal device’s display during prosecution. “Importantly, the person of ordinary skill in the art is deemed to read the claim term not only in the context of the particular claim in which the disputed term appears, but in the context of the entire patent, including the specification.” Phillips v. AWH Corp., 415 F.3d 1303, 1313 (Fed.Cir.2005) (en banc). “[T]he prosecution history can often inform the meaning of the claim language by demonstrating how the inventor understood the invention and whether the inventor limited the invention in the course of prosecution, making the claim scope narrower than it would otherwise be.” Id. at 1317. In arguing to overcome the examiner’s rejection under 35 U.S.C. § 102(e), the inventors contrasted their invention with that of the prior art Busboom patent:
+In contrast, a host computer in the claimed invention does not specify where an object type is to be displayed on the display of a terminal. The reason for this is that it is the terminal and not the host computer which decides where an object is to be displayed on the terminal display.
+J.A. at A00907 (emphases added). The inventors emphasized the host processor’s lack of participation in the control of the terminal device’s display in order to overcome Busboom. They did not argue that the amount of control exercised by the host processor in their invention differed from the amount of control exercised by the host in the Busboom patent. Instead, they made the broad and simple statement that in their invention the host processor does not specify where objects are located on the terminal display. The public was entitled to rely on that statement in understanding the scope of their invention. It is disingenuous for the inventors to say now that allowing the host processor to specify some limited relative positioning was an important aspect of their invention that *1221 they did not intend to surrender when they made absolutely no effort to provide such clarity in the prosecution of their patent.
+ 
+Thus, I would affirm the district court’s construction of the “terminal device” limitation and thus its grant of summary judgment of noninfringement of the ′131 patent.
+ 
+All Citations
+525 F.3d 1200, 87 U.S.P.Q.2d 1001
+Footnotes
+
+1
+
+Prior to oral argument, Lucent and Gateway entered into a confidential settlement agreement. Thereafter, the parties filed a joint motion for voluntary dismissal of Appeal No.2007–1336 and dismissal of Gateway as an appellee in Appeal No.2007–1334.
+
+2
+
+Although the term “terminal device” appears in the preamble of the claim, it is referenced in the body of the claim and the parties do not dispute that it is a limitation.
+
+3
+
+Although the court found that there was no genuine issue of material fact with respect to whether the accused devices met the “terminal device limitation,” the court concluded that Lucent had raised a genuine issue of material fact with respect to whether the accused devices met other claim limitations, including the requirement of a terminal device that it “manage[ ] its internal memory with the assistance of the host processor,” the limitation “transmitting said identifier and its respective input object type to said device,” and the limitation “assigning an identifier.” Lucent Techs., Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, 2007 WL 925359, at *3 (S.D.Cal. Mar. 8, 2007). The court, however, did not need to resolve those factual issues since it determined that there was no literal infringement because the accused devices did not satisfy the requirement of a terminal device that “it manage[ ] its associated display itself.” Id.
+
+4
+
+Speech can be divided into a series of successive “frames.” Each “frame” of speech, in turn, consists of multiple “pulses.”
+
+5
+
+Lucent does not contest, and the parties do not dispute, the portion of the court’s claim construction requiring that the terminal device “manage[ ] its internal memory with the assistance of the host processor.”
+
+6
+
+Such an interpretation is supported by the Detailed Description, which states:
+Processor 200 then begins transmitting (“downloading”) a series of objects. These objects are interpreted by station set 10 in accordance with a set of predefined specifications, or policies, relating to the way different types of objects (or symbols) should be presented to the user, i.e., displayed on display 12.
+′131 patent, col. 3, ll. 53–58. Hence, the terminal device must follow predefined policies, which specify how objects are to be displayed.
+
+7
+
+The parties appear to agree that the host processors (web servers) in the accused devices participate in determining the relative location of objects displayed by the terminal devices (client computers). In its order on summary judgment, however, the district court concluded that Lucent had raised a genuine issue of material fact with respect to whether the accused devices met other claim limitations, including the “transmitting” step. See supra note 1. The court did not resolve those factual issues because it found no literal infringement by the accused devices since they did not meet the requirement of a “terminal device” that “it manage[ ] its associated display itself.” Id.
+
+8
+
+The exception to this rule is when there is an obvious administrative or typographical error not subject to reasonable debate. Hoffer v. Microsoft Corp., 405 F.3d 1326, 1331 (Fed.Cir.2005).
+
+9
+
+Although Microsoft also contends that the accused devices do not literally infringe the claims because they remove pitch outside the pulse-forming iteration, the district court found that the defendants had admitted otherwise. Lucent Techs. Inc. v. Gateway, Inc., Nos. 02–CV–2060, 03–CV–0699, 03–CV–1108, 2007 WL 925354, at *5 n. 3 (S.D.Cal. Mar. 6, 2007) (“Defendants do not dispute that the accused codecs perform step 5 in the iteration....”). Nevertheless, we need not reach whether the accused devices perform step 5 during the pulse-forming iteration, since we find that the accused devices do not infringe steps 1–4.
+
+10
+
+Because we find no error in the district court’s claim construction and holding of no literal infringement and no infringement under the doctrine of equivalents, we need not consider Microsoft’s cross-appeal of the district court’s grant of summary judgment in the ′954 patent of no laches and no equitable estoppel. There is, however, some question whether it was even a proper cross-appeal. See Symantec Corp. v. Computer Associates Intern., Inc., 522 F.3d 1279, 1293–94 (Fed.Cir.2008).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

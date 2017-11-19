@@ -1,0 +1,160 @@
+
+
+ 
+
+
+Checker Cab Philadelphia, Inc. v. Uber Technologies, Inc.
+United States Court of Appeals, Third Circuit. | May 25, 2017 | 689 Fed.Appx. 707 | 2017 WL 2297618
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Checker Cab Philadelphia, Inc. v. Uber Techs., Inc., 689 F. App’x 707 (3d Cir. 2017)
+
+All Citations:
+
+689 Fed.Appx. 707
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Pennsylvania
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+689 Fed.Appx. 707
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of Appeals 3rd Cir. App. I, IOP 5.1, 5.3, and 5.7.
+United States Court of Appeals,
+Third Circuit.
+CHECKER CAB PHILADELPHIA, INC., trading as 215-Get-A-Cab; AF Taxi, Inc.; AG Taxi, Inc.; AGB Trans, Inc.; ATS Cab, Inc.; Batyam Cab Company; Bond Taxi, Inc. : BSP Trans, Inc.; DB Taxicab Co.; DG Cab, Inc.; Dr Cab, Inc.; Fad Trans, Inc.; GA Cab, Inc.; GD Cab, Inc.; Global CAB, Inc.; GN Trans, Inc.; God Bless America Trans, Inc.; Gor Trans, Inc.; Grace Trans, Inc.; IA Trans Co., Inc.; IL Trans, Inc.; Jane Cab Company; Jaydan, Inc.; KB Trans, Inc.; L&M Taxi, Inc.; LAN Trans, Co.; LMB Taxi, Inc.; MAF Trans, Inc.; MDS Trans, Inc.; MG Trans Co, Inc.; MO Taxi, Inc.; Noble Cab, Inc.; RAV Trans, Inc.; RD CAB, Inc.; SAJ Trans, Inc.; SF Taxi, Inc.; Society Taxi, Inc.; SS Taxi Cab, Inc.; Steele Taxi, Inc.; TGIF Trans, Inc.; V&S Taxi, Inc.; VAL Trans, Inc.; VB Trans, Inc.; VSM Trans, Inc., Appellants
+v.
+UBER TECHNOLOGIES, INC.; Travis Kalanick; Jon Feldman; Rasier, LLC; Gegen, LLC; Google Ventures, LLC; Igor Khmil; Lee Rudakewych; William E. Smith; Shahrair Chowdhury; Jean Litard Jean-Phillippe; Felipe Israel Munoz Moreno; Pharide Ernest Roufai; Isfandiyor Thusanov; George Robert Holmes, Jr.; Jonathon M. Brannan; Felix A. Delahoz; Raymond Reyes; Victor Abiodun Fakolujo; Timothy Judelsohn; David A. Bieker; Warqar Y. Grumman; Zaye El Bey
+No. 16-3301
+|
+Argued on April 27, 2017
+|
+(Opinion filed: May 25, 2017)
+Synopsis
+Background: Taxicab companies brought action against ride-share provider, asserting an unfair competition claim based on provider’s alleged violation of state regulations regarding licensure for commercial transportation. The United States District Court for the Eastern District of Pennsylvania, Nitza I. Quiñones Alejandro, J., 2016 WL 950934, dismissed the action. Taxicab companies appealed.
+ 
+[Holding:] The Court of Appeals, Rendell, Circuit Judge, held that taxicab companies failed to state a plausible unfair competition claim.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Antitrust and Trade RegulationMiscellaneous particular practices
+
+
+29TAntitrust and Trade Regulation
+29TIIUnfair Competition
+29TII(A)In General
+29Tk54Miscellaneous particular practices
+
+
+Taxicab companies’ allegations that ride-share provider had engaged in unfair competition by violating regulations regarding the licensure for commercial transportation were insufficient to state a plausible unfair competition claim under Pennsylvania law, since allegations did not involve some accusation of passing off of one’s own product as another, or a false or dishonest statement, or tortious interference with contract, or intellectual property theft. 66 Pa. Cons. Stat. Ann. § 3309.
+Cases that cite this headnote
+
+
+
+On Appeal from the United States District Court for the Eastern District of Pennsylvania, (District Court No.: 2-14-cv-07265), District Judge: Honorable Nitza I. Quiñones Alejandro
+Attorneys and Law Firms
+Michael S. Henry, Esquire [ARGUED], Salaman Henry, 100 South Broad Street, Land Title Building, Suite 650, Philadelphia, PA 19110 Counsel for Appellant
+Raymond A. Cardozo, Esquire [ARGUED], David J. de Jesus, Esquire, Reed Smith, 101 Second Street, Suite 1800, San Francisco, CA 94105, Shannon E. McClure, Esquire, Carolyn P. Short, Esquire, Reed Smith, 1717 Arch Street, Three Logan Square, Suite 3100, Philadelphia, PA 19103 Counsel for Appellees Uber Technologies, Inc., Travis Kalanick, Jon Feldman, Rasier, LLC, Gegen, LLC
+David P. Temple, Esquire, Gallagher & Turchi, 1760 Market Street, Suite 1100, Philadelphia, PA 19103 Counsel for Appellee Igor Khmil
+*709 Before: McKEE, VANASKIE and RENDELL, Circuit Judges
+
+
+OPINION*
+
+RENDELL, Circuit Judge:
+Plaintiffs, taxicab companies and their dispatch service (“Checker”), pleaded in the District Court that Uber Technologies, Inc. (“Uber”) had engaged in “unfair competition” by violating regulations regarding the licensure for commercial transportation.1 JA 106. The District Court granted Uber’s motion to dismiss the unfair competition claim,2 because Plaintiffs could not raise an unfair competition claim “premised on alleged violations of local laws and regulations, particularly where these statutes and regulations do not themselves provide private causes of action.” JA 10. On appeal, Checker argues the District Court erred, because it claims that Pennsylvania does in fact grant a private cause of action for enforcement of licensing regulations.3
+ 
+We need not consider whether state statute grants a private cause of action for enforcement of taxi licensing regulations, because Count One—the only Claim raised on appeal—was based solely on the Pennsylvania state law of unfair competition, not on any statutory private right of action. Whatever the breadth of unfair competition in Pennsylvania, state law clearly does not contemplate that violation of licensing regulations constitutes “unfair competition.” Thus, the District Court properly dismissed Checker’s unfair competition claim.
+ 
+We have noted that the contours of Pennsylvania unfair competition law are not entirely clear. See Granite State Ins. Co. v. Aamco Transmissions, Inc., 57 F.3d 316, 319 (3d Cir. 1995); see also Giordano v. Claudio, 714 F.Supp.2d 508, 521 (E.D. Pa. 2010). But all unfair competition claims recognized by Pennsylvania courts involve some accusation of “passing off” of one’s own product as another, or a false or dishonest statement, or tortious interference with contract, or intellectual property theft. See Peek v. Whittaker, 2014 WL 2154965, at *10 (W.D. Pa. May 22, 2014) (“[Unfair competition] contextually is limited to claims designed to protect a business from another’s misappropriation of its business organization or its expenditure of labor, skill, or money....” (quotation and citation omitted)); see also Granite State, 57 F.3d at 319.4 Here, Checker has only *710 alleged violation of state licensing regulations for taxi cabs as unfair competition. This in no way resembles the unfair competition claims recognized by Pennsylvania courts.5
+ 
+Unsurprisingly, Checker urges that we expand the definition of unfair competition. More specifically, it argues that we should “forecast” that the Pennsylvania Supreme Court would embrace a Restatement (Third) of Unfair Competition (1995) definition. It claims that the Restatement (Third) definition would bring the alleged regulatory violations under the umbrella of unfair competition.6
+ 
+We disagree that the Supreme Court would embrace the Restatement (Third) of Unfair Competition as setting forth the Pennsylvania law. The Pennsylvania Supreme Court has in fact said it is “difficult to imagine a modern court simply adopting something so broad-based and legislative in character as an outside organization’s Restatement of Law.” Tincher v. Omega Flex, Inc., 628 Pa. 296, 104 A.3d 328, 353 (2014). Furthermore, no Pennsylvania appellate court has embraced a Restatement (Third) definition of unfair competition. See Bldg. Materials Corp. of Am. v. Rotter, 535 F.Supp.2d 518, 526 n.4 (E.D. Pa. 2008).
+ 
+Because Checker’s claims—rooted in alleged violations of state regulatory statutes—fundamentally differ from those sounding in unfair competition, we will uphold the ruling of the District Court.7 We find this result not only compelled by precedent, but, like other courts before us, preferable to having “federal judges ... interpret[ing] and enforc[ing] municipal regulations” regarding taxi licensure. Dial a Car, Inc. v. Trans., Inc., 82 F.3d 484, 490 (D.C. Cir. 1996) (emphasis omitted).
+ 
+Accordingly, we will affirm.
+ 
+All Citations
+689 Fed.Appx. 707
+Footnotes
+
+*
+
+This disposition is not an opinion of the full Court and pursuant to I.O.P. 5.7 does not constitute binding precedent.
+
+1
+
+Checker also raised RICO and Lanham Act claims.
+
+2
+
+The District Court granted the motion to dismiss Checker’s RICO claims and some of the Lanham Act Claims, but denied the motion to dismiss other Lanham Act claims. The parties subsequently stipulated to dismiss the remaining Lanham Act claims, and the District Court judge approved the stipulation.
+
+3
+
+Checker argues that 66 Pa. C.S. § 3309 grants it a private right of action.
+
+4
+
+The unfair competition cases Checker cites for support primarily involve instances of theft or misappropriation of property. See Ettore v. Philco Television Broad. Corp., 229 F.2d 481, 490 (3d Cir. 1956); Pottstown Daily News Publ’g Co. v. Pottstown Broad. Co., 411 Pa. 383, 192 A.2d 657, 663 (1963); Waring v. WDAS Broad. Station, 327 Pa. 433, 194 A. 631, 640 (1937); Babiarz v. Bell Atlantic-Pennsylvania, Inc., 2001 WL 1808554, at *9–10 (Pa. Com. Pl. July 10, 2001). The Pennsylvania cases outside this paradigm primarily involve false or misleading statements about a competitor. Carl A. Colteryahn Dairy, Inc. v. Schneider Dairy, 415 Pa. 276, 203 A.2d 469, 473 (1964); Lakeview Ambulance & Med. Servs. v.Gold Cross Ambulance Servs., Inc., 1995 WL 842000, at *2–3 (Pa. Com. Pl. Oct. 18, 1995). Contrary to Checker’s assertion, Appeal of Douglass, 12 A. 835 (Pa. 1888) and Horn’s Motor Exp. v. PA Pub. Util. Comm’n, 148 Pa.Super. 485, 26 A.2d 346 (1942) were not unfair competition cases.
+
+5
+
+Checker argues that the District Court erred in noting that unfair competition law in Pennsylvania is the “equivalent of a federal Lanham Act claim.” Checker Cab Philadelphia, Inc. v. Uber Techs., Inc., 2016 WL 950934, at *4 n.10 (E.D. Pa. March 7, 2016). While that may be somewhat imprecise, we need not engage in comparison for purposes of this opinion.
+
+6
+
+Pressed at oral argument as to which provision of the Restatement Uber violated, Checker pointed to the “catch-all” provision of Section 1(a) of the Restatement, which states there is liability for “acts or practices of [an] actor determined to be actionable as an unfair method of competition.” In its brief, Checker further highlights Section 1 cmt. g, which states that an “act or practice is likely to be judged unfair only if it ... otherwise conflicts with principles of public policy recognized by statute or common law.” Also, Checker directs us to Comment (a) under Section 1 of the Restatement. We need not determine whether the Restatement would consider defendants’ alleged conduct unfair competition, for, as explained above, Pennsylvania has not adopted the Restatement (Third) of Unfair Competition.
+
+7
+
+Checker claims the District Court abused its discretion in denying it leave to file a second amended complaint. But, as Checker conceded at oral argument, it only motioned to amend its complaint if the District Court granted reconsideration. Because the District Court did not grant the motion for reconsideration, it did not err in refusing to allow Checker to amend its complaint.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

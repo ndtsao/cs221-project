@@ -1,0 +1,158 @@
+
+
+ 
+
+
+Microsoft Corp. v. Motorola, Inc.
+United States Court of Appeals, Federal Circuit. | May 5, 2014 | 564 Fed.Appx. 586 | 2014 WL 1760369
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Opinion
+All Citations
+
+standard Citation:
+
+Microsoft Corp. v. Motorola, Inc., 564 F. App’x 586 (Fed. Cir. 2014)
+
+All Citations:
+
+564 Fed.Appx. 586
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+564 Fed.Appx. 586
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+MICROSOFT CORPORATION, A Washington Corporation, Plaintiff–Appellee,
+v.
+MOTOROLA, INC., General Instrument Corporation and Motorola Mobility LLC, Defendants–Appellants.
+Motorola Mobility, Inc. and General Instrument Corporation, Plaintiffs–Appellants,
+v.
+Microsoft Corporation, A Washington Corporation, Defendant–Appellee.
+No. 2014–1089.
+|
+May 5, 2014.
+Synopsis
+Background: Software developer brought action alleging that patentee improperly refused to offer it licenses for use of its foreign and domestic standard essential patents on reasonable and non-discriminatory (RAND) terms. After case was consolidated with patentee’s patent infringement action, the United States District Court for the Western District of Washington, James L. Robart, J., 2013 WL 6000017, entered judgment in developer’s favor, and patentee appealed. Developer moved to transfer appeal.
+ 
+Holding: The Court of Appeals, Lourie, Circuit Judge, held that law of the case doctrine required that Federal Circuit transfer appeal to Ninth Circuit.
+ 
+Motion granted.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Federal CourtsOther particular cases, contexts, and questions
+PatentsEffect of adjudications of courts of foreign countries
+
+
+170BFederal Courts
+170BXIXExclusive, Concurrent, and Conflicting Jurisdiction as Between Federal Courts
+170BXIX(D)Transfer and Certification of Cases
+170Bk3973Other particular cases, contexts, and questions
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)9Operation and Effect of Decision
+291k2025Rule of Comity
+291k2029Effect of adjudications of courts of foreign countries
+(Formerly 291k327(21))
+
+
+Determination of Ninth Circuit Court of Appeals that it, rather than Federal Circuit, had jurisdiction over patentee’s appeal of district court order granting software developer’s motion for preliminary injunction prohibiting patentee from enforcing injunctive relief it had obtained in German patent infringement action was not clearly erroneous, and thus law of the case doctrine required that Federal Circuit transfer to Ninth Circuit appeal from final judgment in developer’s favor in developer’s action alleging that patentee improperly refused to offer it licenses for use of its standard essential patents on reasonable and non-discriminatory (RAND) terms, even though district court had consolidated case with patentee’s infringement suit against developer, where Ninth Circuit was aware of consolidation of cases when it determined that it had authority over case, consolidation did not merge suits into single case, and requested relief in developer’s complaint plausibly supported Ninth Circuit’s conclusion that matter did not arise under patent laws. 28 U.S.C.A. §§ 1295(a)(1), 1338(a).
+2 Cases that cite this headnote
+
+
+
+*587 Appeal from the United States District Court for the Western District of Washington in Nos. 2:10–cv–01823–JLR and 2:11–cv–00343–JLR, James L. Robart, Judge.
+Before LOURIE, DYK, and REYNA, Circuit Judges.
+
+
+ON MOTION
+LOURIE, Circuit Judge.
+
+ORDER
+Microsoft Corporation (“Microsoft”) moves to transfer this appeal to the United States Court of Appeals for the Ninth Circuit. Motorola, Inc., Motorola Mobility LLC, and General Instrument Corp. (collectively, “Motorola”) oppose the motion. For the following reasons, we grant the motion.
+ 
+
+I.
+Pursuant to the common patent policies of the International Telecommunications Union (“ITU”) and Institute of Electrical and Electronics Engineers Standards Association (“IEEE”), Motorola declared that it was willing to negotiate a license for use of its foreign and domestic patents that embody certain video coding and wireless local area network standards on a non-discriminatory basis on reasonable (“RAND”) terms.
+ 
+In October 2010, Motorola offered to license those standard-essential patents to Microsoft at a proposed royalty rate. Microsoft rejected the offer, and filed suit against Motorola in the United States District Court for the Western District of Washington asserting that Motorola’s licensing proposal was unreasonable and in breach of its RAND obligations. Microsoft further sought a declaration that it *588 was entitled to a license to those foreign and domestic patents on RAND terms.
+ 
+The day after the filing of Microsoft’s complaint, Motorola initiated its own suit against Microsoft in the United States District Court for the Western District of Wisconsin, seeking damages and other appropriate relief for patent infringement of U.S. patents subject to its RAND commitments. Citing the relatedness of the infringement case and contract case, the Western District of Wisconsin transferred Motorola’s patent infringement action to the Western District of Washington pursuant to 28 U.S.C. § 1404(a).
+ 
+After Motorola’s action was transferred, the Western District of Washington denied a motion to dismiss Motorola’s patent infringement claims and re-file those claims as compulsory counterclaims in Microsoft’s contract case. It noted that “the essential facts are not so intertwined and logically connected that considerations of judicial economy and fairness dictate that the issues be resolved in one lawsuit.” However, the court consolidated the actions “for all purposes” pursuant to Fed.R.Civ.P. 42(a) in view of its conclusion that “at least some common questions of law or fact, and the interests of judicial economy will be served by consolidation.”
+ 
+While the U.S. proceedings unfolded, the Mannheim Regional Court in Germany enjoined the sale of Microsoft’s Xbox gaming system and certain Microsoft Windows products in Germany, finding those products infringed Motorola’s European standard setting patents and that Microsoft could not enforce the ITU and IEEE patent policy agreements. Soon after that ruling, the Western District of Washington enjoined Motorola from enforcing the German court’s injunction on the grounds that the U.S. and German actions involved the same issues and Microsoft’s contract action could resolve whether injunctive relief is an appropriate remedy with respect to infringement of Motorola’s U.S. and European standard essential patents.
+ 
+Motorola appealed the district court’s preliminary injunction ruling to the Ninth Circuit. While acknowledging that Motorola’s patent claims had been consolidated with Microsoft’s action, because it concluded Microsoft’s complaint sounded in contract, the Ninth Circuit found that it had jurisdiction over the case. In exercising that jurisdiction the Ninth Circuit affirmed the injunction, concluding that it would not be legally erroneous to find that Motorola’s RAND commitments constituted a legally enforceable contract.
+ 
+Following the Ninth Circuit’s injunction ruling, the district court resolved Microsoft’s breach of contract claim in two phases. First, the district court conducted a bench trial to determine the appropriate RAND royalties for two sets of U.S. and European patents. The court then conducted a jury trial on Microsoft’s breach of contract claims. After the jury rendered a verdict in favor of Microsoft, the district court entered judgment pursuant to Rule 54(b) of the Federal Rules of Civil Procedure, and Motorola filed a notice of appeal naming this court as the court to which it was seeking review. Microsoft now moves to transfer the case to the Ninth Circuit.
+ 
+
+II.
+This court has jurisdiction to decide an appeal from a final decision of a district court “if the jurisdiction of that court was based, in whole or in part, on section 1338.” 28 U.S.C. § 1295(a)(1). Section 1338 provides that the federal district courts have exclusive jurisdiction over “any civil action arising under any Act of Congress relating to patents.” 28 U.S.C. § 1338(a).
+ 
+*589 The Supreme Court has held that in order to demonstrate that a case is one “arising under” patent law, the plaintiff must “set up some right, title or interest under the patent laws, or at least make it appear that some right or privilege will be defeated by one construction, or sustained by the opposite construction of these laws.” Christianson v. Colt Indus. Operating Corp., 486 U.S. 800, 807–08, 108 S.Ct. 2166, 100 L.Ed.2d 811 (1988).
+ 
+In its injunction ruling, the Ninth Circuit rejected the position that this court had jurisdiction over the matter based on its view that Microsoft’s complaint sounds in contract. Microsoft Corp. v. Motorola, Inc., 696 F.3d 872, 881 (9th Cir.2012) (“The Federal Circuit has jurisdiction over an interlocutory appeal only if it would have jurisdiction over a final appeal in the case under 28 U.S.C. § 1295. 28 U.S.C. § 1292(c)(1). Microsoft’s complaint sounds in contract and invokes the district court’s diversity jurisdiction....”).
+ 
+Motorola acknowledges that, as a general matter, the jurisdictional decision of a coordinate court is the law of the case. Christianson, 486 U.S. at 816, 108 S.Ct. 2166. But it says that here, “neither party nor the Ninth Circuit realized the implications of the consolidation of Motorola’s patent infringement claim with Microsoft’s contract claim” at the earlier stages of this litigation. Opposition to Transfer at 19. However, this argument finds no support in the Ninth Circuit’s decision, which makes clear that it was aware of the consolidation of the cases when it determined that it rather than this court had authority over the case. See Microsoft, 696 F.3d at 878.
+ 
+Nor are we persuaded by Motorola’s argument that the Ninth Circuit’s preliminary assessment of the merits issues justifies reconsidering its jurisdictional ruling. See Opposition to Transfer at 20 (“[T]he Ninth Circuit addressed the narrow issue of whether the district court abused its discretion in issuing the anti-suit injunction, expressly reserving any determination on the merits.”). The issue of whether this court or the appropriate regional circuit has appellate jurisdiction is defined by looking to the complaint. See Christianson, 486 U.S. at 808, 108 S.Ct. 2166 (well–pleaded complaint rule governs). Thus, the preliminary nature of the merits issues before the Ninth Circuit carry no consequence.
+ 
+Under the law of the case doctrine, we must adhere to a coordinate court’s jurisdictional ruling unless there is a showing of “extraordinary circumstances such as where the initial decision was clearly erroneous and would work a manifest injustice.” Christianson, 486 U.S. at 817, 108 S.Ct. 2166; see also id. at 819, 108 S.Ct. 2166 (“Under law-of the-case principles, if the transferee court can find the transfer decision plausible, its jurisdictional inquiry is at an end.”). Here, there is no manifest justice. Nor is there a “clearly erroneous” result. The requested relief in Microsoft’s complaint plausibly supports the Ninth Circuit’s conclusion that this matter does not arise under the patent laws.
+ 
+Motorola contends that the cases arise at least in part under § 1338 based on the district court’s consolidation of Microsoft’s contract action with its patent infringement action. In fact, however, it appears that the district court merely consolidated the cases for purposes of judicial economy. The patent infringement complaint is not part of this appeal, not having been decided by the district court. Under such circumstances, it is plausible to conclude, as the Ninth Circuit seems to have done here, that the act of “consolidation d[id] not merge the suits into a single cause, or change the rights of the parties.” Johnson v. Manhattan Ry., 289 U.S. 479, 496–97, 53 S.Ct. 721, 77 L.Ed. 1331 (1933); see *590 also Cole v. Schenley Indus., Inc., 563 F.2d 35, 38 (2d Cir.1977) (when complaints are consolidated a court must still consider the jurisdictional basis of each complaint separately).
+ 
+While we have considered Motorola’s other arguments, because we conclude that the Ninth Circuit’s decision was, at a minimum, plausible, we grant the motion to transfer.
+ 
+Accordingly,
+ 
+IT IS ORDERED THAT:
+ 
+The motion is granted to the extent that the appeal and any pending motions are transferred to the United States Court of Appeals for the Ninth Circuit pursuant to 28 U.S.C. § 1631.
+ 
+All Citations
+564 Fed.Appx. 586
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

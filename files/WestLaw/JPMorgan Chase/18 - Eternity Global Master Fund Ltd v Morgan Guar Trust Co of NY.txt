@@ -1,0 +1,864 @@
+
+
+
+
+
+Eternity Global Master Fund Ltd. v. Morgan Guar. Trust Co. of N.Y.
+United States Court of Appeals, Second Circuit. | July 9, 2004 | 375 F.3d 168 | 2004 WL 1534169
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Called into Doubt by In re Caremerica, Inc., Bankr.E.D.N.C., July 23, 2009
+
+standard Citation:
+
+Eternity Glob. Master Fund Ltd. v. Morgan Guar. Tr. Co. of N.Y., 375 F.3d 168 (2d Cir. 2004)
+
+All Citations:
+
+375 F.3d 168
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:57 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Called into Doubt by In re Caremerica, Inc., Bankr.E.D.N.C., July 23, 2009
+375 F.3d 168
+United States Court of Appeals,
+Second Circuit.
+ETERNITY GLOBAL MASTER FUND LIMITED, Plaintiff–Appellant,
+v.
+MORGAN GUARANTY TRUST COMPANY OF NEW YORK and JPMorgan Chase Bank, Defendants–Appellees,
+No. 03–7652.
+|
+Argued: Feb. 12, 2004.
+|
+Decided: July 9, 2004.
+Synopsis
+Background: Investor who entered into credit default swap (CDS) transactions with bank sued for breach of contract, breach of the obligation of good faith and fair dealing, fraud and negligent misrepresentation. The United States District Court for the Southern District of New York, Lawrence M. McKenna, J., 2003 WL 21305355, dismissed the claims, and investor appealed.
+ 
+Holdings: The Court of Appeals, Jacobs, Circuit Judge, held that:
+ 
+[1] ambiguity existed as to whether Argentina’s voluntary debt exchange, allowing investors to exchange unsecured bonds for lower-interest secured loans, qualified as a restructuring credit event so as to trigger for bank’s obligation to investor to settle swaps under CDS contracts, and therefore investor stated breach of contract claim;
+ 
+[2] investor claiming that bank fraudulently induced it to enter into CDS transactions failed to adequately plead scienter; and
+ 
+[3] bank’s alleged misrepresentations to investor, that investor would be able to sell its positions in bank-arranged CDS transactions and that bank would help it to do so, did not give rise to a claim for negligent misrepresentation.
+ 
+Affirmed in part and reversed and remanded in part.
+ 
+
+
+West Headnotes (14)
+
+
+[1]
+
+ContractsExistence of ambiguity
+
+
+95Contracts
+95IIConstruction and Operation
+95II(A)General Rules of Construction
+95k143Application to Contracts in General
+95k143(2)Existence of ambiguity
+
+
+An ambiguity exists under New York law where the terms of a contract could suggest more than one meaning when viewed objectively by a reasonably intelligent person who has examined the context of the entire integrated agreement and who is cognizant of the customs, practices, usages and terminology as generally understood in the particular trade or business.
+45 Cases that cite this headnote
+
+
+
+[2]
+
+ContractsGrounds of action
+
+
+95Contracts
+95VIActions for Breach
+95k326Grounds of action
+
+
+To make out a viable claim for breach of contract under New York law a complaint need only allege (1) the existence of an agreement, (2) adequate performance of the contract by the plaintiff, (3) breach of contract by the defendant, and (4) damages.
+272 Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsSubstance or procedure;  determinativeness
+
+
+170BFederal Courts
+170BXVState or Federal Laws as Rules of Decision;  Erie Doctrine
+170BXV(A)In General
+170Bk3005Substance or procedure;  determinativeness
+(Formerly 170Bk373)
+
+
+Where a federal court is sitting in diversity, it applies the substantive law of the forum state.
+6 Cases that cite this headnote
+
+
+
+[4]
+
+ContractsIntention of Parties
+
+
+95Contracts
+95IIConstruction and Operation
+95II(A)General Rules of Construction
+95k147Intention of Parties
+95k147(1)In general
+
+
+Under New York law, contracts are construed in accord with the parties’ intent.
+92 Cases that cite this headnote
+
+
+
+[5]
+
+ContractsLanguage of Instrument
+EvidenceGrounds for admission of extrinsic evidence
+
+
+95Contracts
+95IIConstruction and Operation
+95II(A)General Rules of Construction
+95k151Language of Instrument
+95k152In general
+157Evidence
+157XIParol or Extrinsic Evidence Affecting Writings
+157XI(D)Construction or Application of Language of Written Instrument
+157k448Grounds for admission of extrinsic evidence
+
+
+Under New York law, if an agreement is complete, clear and unambiguous on its face, it must be enforced according to the plain meaning of its terms; if the contract is ambiguous, extrinsic evidence may be considered to ascertain the correct and intended meaning of a term or terms.
+70 Cases that cite this headnote
+
+
+
+[6]
+
+Federal Civil ProcedureContract cases in general
+
+
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(L)Judgment on the Pleadings
+170AVII(L)2Particular Cases
+170Ak1063Contract cases in general
+
+
+Under New York law, unless for some reason an ambiguity must be construed against the plaintiff, a claim predicated on a materially ambiguous contract term is not dismissible on the pleadings.
+69 Cases that cite this headnote
+
+
+
+[7]
+
+ContractsMoney, investments, and securities
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k193Money, investments, and securities
+
+
+Ambiguity existed under New York law as to whether Argentina’s voluntary debt exchange, allowing investors to exchange unsecured bonds for lower-interest secured loans, qualified as a restructuring credit event so as to trigger bank’s obligation to investor to settle swaps under credit default swap (CDS) contracts; thus, investor stated breach of contract claim against bank.
+9 Cases that cite this headnote
+
+
+
+[8]
+
+FraudElements of Actual Fraud
+
+
+184Fraud
+184IDeception Constituting Fraud, and Liability Therefor
+184k2Elements of Actual Fraud
+184k3In general
+
+
+To state a claim for fraudulent misrepresentation under New York law, a plaintiff must show that (1) the defendant made a material false representation, (2) the defendant intended to defraud the plaintiff thereby, (3) the plaintiff reasonably relied upon the representation, and (4) the plaintiff suffered damage as a result of such reliance.
+89 Cases that cite this headnote
+
+
+
+[9]
+
+Federal Civil ProcedureFraud, mistake and condition of mind
+
+
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(A)Pleadings in General
+170Ak633Certainty, Definiteness and Particularity
+170Ak636Fraud, mistake and condition of mind
+
+
+Fraud must be pled with particularity, which requires that the plaintiff (1) detail the statements or omissions that the plaintiff contends are fraudulent, (2) identify the speaker, (3) state where and when the statements (or omissions) were made, and (4) explain why the statements or omissions are fraudulent. Fed.Rules Civ.Proc.Rule 9(b), 28 U.S.C.A.
+119 Cases that cite this headnote
+
+
+
+[10]
+
+Banks and BankingTorts
+Federal Civil ProcedureFraud, mistake and condition of mind
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(A)Banking Franchises and Powers, and Their Exercise in General
+52k100Torts
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(A)Pleadings in General
+170Ak633Certainty, Definiteness and Particularity
+170Ak636Fraud, mistake and condition of mind
+
+
+Investor claiming that bank fraudulently induced it to enter into credit default swap (CDS) transactions failed to adequately plead scienter; there was no allegation of facts showing that bank had both motive and opportunity to commit fraud, or that it had engaged in any conscious misbehavior or recklessness, and fact that bank, which allegedly represented that it would provide access to a liquid secondary market that would enable investor to divest the contracts prior to termination, could not arrange to market the CDSs did not support an inference that bank knew or believed that no such market existed eight months earlier. Fed.Rules Civ.Proc.Rule 9(b), 28 U.S.C.A.
+28 Cases that cite this headnote
+
+
+
+[11]
+
+FraudStatements recklessly made;  negligent misrepresentation
+
+
+184Fraud
+184IDeception Constituting Fraud, and Liability Therefor
+184k8Fraudulent Representations
+184k13Falsity and Knowledge Thereof
+184k13(3)Statements recklessly made;  negligent misrepresentation
+
+
+Under New York law, words as well as acts may serve as the premise for a negligent misrepresentation action.
+2 Cases that cite this headnote
+
+
+
+[12]
+
+FraudStatements recklessly made;  negligent misrepresentation
+
+
+184Fraud
+184IDeception Constituting Fraud, and Liability Therefor
+184k8Fraudulent Representations
+184k13Falsity and Knowledge Thereof
+184k13(3)Statements recklessly made;  negligent misrepresentation
+
+
+Because casual statements and contacts are prevalent in business, in the commercial context, liability under New York law for negligent misrepresentation is imposed only on those persons who possess unique or specialized expertise, or who are in a special position of confidence and trust with the injured party such that reliance on the negligent misrepresentation is justified.
+35 Cases that cite this headnote
+
+
+
+[13]
+
+FraudStatements recklessly made;  negligent misrepresentation
+
+
+184Fraud
+184IDeception Constituting Fraud, and Liability Therefor
+184k8Fraudulent Representations
+184k13Falsity and Knowledge Thereof
+184k13(3)Statements recklessly made;  negligent misrepresentation
+
+
+Under New York law, to give rise to liability for negligent misrepresentation, an alleged misrepresentation must be factual and not promissory or related to future events.
+35 Cases that cite this headnote
+
+
+
+[14]
+
+Banks and BankingTorts
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(A)Banking Franchises and Powers, and Their Exercise in General
+52k100Torts
+
+
+Bank’s alleged misrepresentations to investor, that investor would be able to sell its positions in bank-arranged credit default swap (CDS) transactions and that bank would help it to do so, did not give rise to a claim for negligent misrepresentation under New York law where there was no allegation of special relationship of trust between the parties and where investor failed to allege any facts suggesting that its purported reliance on bank’s representations about the liquidity of CDS contracts written on Argentine debt was justified; investor was aware that there was a secondary market for credit default swaps, and that the market for any particular swap was chancy.
+15 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*170 James S. Renard (William A. Brewer III, Daniel L. Brown, and Steven M. Reiness on the brief) Bickel & Brewer, New York, N.Y. for Appellant.
+Nancy E. Schwarzkopf, J.P. Morgan Chase Legal Department, New York, N.Y. (Charles A. Gall, James W. Bowen, Jenkens & Gilchrist, Dallas, TX on the brief) for Appellees.
+Before: JACOBS, SACK and RAGGI, Circuit Judges.
+Opinion
+JACOBS, Circuit Judge.
+
+Plaintiff–Appellant Eternity Global Master Fund Limited (“Eternity” or “the Fund”) purchased credit default swaps (“CDSs” or “the CDS contracts”) from Defendants–Appellees Morgan Guaranty Trust Company of New York and JPMorgan Chase Bank (collectively, “Morgan”) in October 2001. Eternity appeals from a final judgment entered in the United States District Court for the Southern District of New York (McKenna, J.), dismissing with prejudice its complaint alleging breach of contract, fraud, and negligent misrepresentation by Morgan in connection with the CDSs. The CDS contracts were written on the sovereign bonds of Argentina and would be “triggered” upon the occurrence of a “credit event,” such that if Argentina restructured or defaulted on that debt, Eternity would have the right to put to Morgan a stipulated amount of the bonds for purchase at par value.
+ 
+In late November 2001, the government of the Republic of Argentina, in the grip of economic crisis, initiated a “voluntary debt exchange” in which bondholders had the option of turning in their bonds for secured loans on terms less favorable except that the loans were secured by certain Argentine federal tax revenues. Eternity informed Morgan that the voluntary debt exchange was a credit event that triggered *171 Morgan’s obligations under the CDS contracts. Morgan disagreed.
+ 
+In February 2002, Eternity filed suit alleging breach of contract and fraudulent and negligent misrepresentation. Morgan moved to dismiss for failure to state a claim pursuant to Federal Rule of Civil Procedure (“Rule”) 12(b)(6). In an unreported decision, the district court preserved Eternity’s contract claim but dismissed the misrepresentation claims for want of the particularity required by Rule 9(b). Eternity Global Master Fund Ltd. v. Morgan Guar. Trust Co., No. 02 Civ. 1312, 2002 WL 31426310, at *5–7 (S.D.N.Y. Oct. 29, 2002) (“Eternity I ”). Eternity amended its complaint in an effort to redress the deficiencies noted by the district court; and Morgan again moved to dismiss. The district court again held that Eternity’s misrepresentation claims were insufficiently pled and went on to reconsider its ruling on the breach of contract claim. Upon reconsideration, the court held that the claim failed as a matter of law. Eternity Global Master Fund Ltd. v. Morgan Guar. Trust Co., No. 02 Civ. 1312, 2003 WL 21305355, at *2–6 (S.D.N.Y. June 5, 2003) (“Eternity II ”).
+ 
+On appeal, Eternity challenges the dismissal of its claims. For the reasons set forth below, we affirm the dismissal of the fraudulent and negligent misrepresentation claims but reverse the dismissal of the contract claim and remand for further proceedings.
+ 
+
+BACKGROUND
+On behalf of its investors, Eternity trades in global bonds, equities and currencies, including emerging-market debt. During the relevant period, Eternity’s investment portfolio included short-term Argentine sovereign and corporate bonds. In emerging markets such as Argentina, a significant credit risk is “country risk,” i.e., “the risk that economic, social, and political conditions and events in a foreign country will adversely affect an institution’s financial interests,” including “the possibility of nationalization or expropriation of assets, government repudiation of external indebtedness, ... and currency depreciation or devaluation.”1 Credit risk can be managed, however.2 Banks, investment funds and other institutions increasingly use financial contracts known as “credit derivatives” to mitigate credit risk.3 In October 2001, in light of Argentina’s rapidly deteriorating political and economic prospects, Eternity purchased CDSs to hedge the credit risk on its in-country investments.
+ 
+
+I
+By way of introduction, we briefly review the terminology, documentation, and structure of Eternity’s credit default swaps.
+ 
+
+A. Terminology
+A credit default swap is the most common form of credit derivative, i.e., “[a] *172 contract which transfers credit risk from a protection buyer to a credit protection seller.”4 Protection buyers (here, Eternity) can use credit derivatives to manage particular market exposures and return-on-investment5; and protection sellers (here, Morgan) generally use credit derivatives to earn income and diversify their own investment portfolios.6 Simply put, a credit default swap is a bilateral financial contract in which “[a] protection buyer makes[ ] periodic payments to ... the protection seller, in return for a contingent payment if a predefined credit event occurs in the reference credit,” i.e., the obligation on which the contract is written.7
+ 
+Often, the reference asset that the protection buyer delivers to the protection seller following a credit event is the instrument that is being hedged.8 But in emerging markets, an investor may calculate that a particular credit risk “is reasonably correlated with the performance of [the sovereign] itself,”9 so that (as here) the investor may seek to isolate and hedge country risk with credit default swaps written on some portion of the sovereign’s outstanding debt.10
+ 
+In many contexts a “default” is a simple failure to pay; in a credit default swap, it references a stipulated bundle of “credit events” (such as bankruptcy, debt moratoria,11 and debt restructurings) that will trigger the protection seller’s obligation to “settle” the contract via the swap mechanism agreed to between the parties.12 The entire bundle is typically made subject to a materiality threshold.13 The occurrence of a credit event triggers the “swap,” i.e., the protection seller’s obligation to pay on the contract according to the settlement mechanism. “The contingent payment can be *173 based on cash settlement ... or physical delivery of the reference asset, in exchange for a cash payment equal to the initial notional [i.e., face] amount [of the CDS contract].”14 A CDS buyer holding a sufficient amount of the reference credit can simply tender it to the CDS seller for payment; but ownership of the reference credit prior to default is unnecessary. If a credit event occurs with respect to the obligation(s) named in a CDS, and notice thereof has been given15 (and the CDS buyer has otherwise performed), the CDS seller must settle. Liquidity in a secondary market increases the usefulness of a CDS as a hedging tool, though the limited depth of that market “can make it difficult to offset ... positions prior to contract maturity.”16
+ 
+
+B. Documentation
+[1] The principal issue dividing the parties is whether the CDS contracts at issue are ambiguous in any material respect. “An ambiguity exists where the terms of a contract could suggest ‘more than one meaning when viewed objectively by a reasonably intelligent person who has examined the context of the entire integrated agreement and who is cognizant of the customs, practices, usages and terminology as generally understood in the particular trade or business.’ ” Alexander & Alexander Servs., Inc. v. These Certain Underwriters at Lloyd’s, London, 136 F.3d 82, 86 (2d Cir.1998) (quoting Lightfoot v. Union Carbide Corp., 110 F.3d 898, 906 (2d Cir.1997)).
+ 
+In this case, we assess ambiguity in the disputed CDS contracts by looking to (i) the terms of the three credit default swaps; (ii) the terms of the International Swaps and Derivatives Association’s (“ISDA” or “the Association”) “Master Swap Agreement,” on which those swaps are predicated, (iii) ISDA’s 1999 Credit Derivatives Definitions—which are incorporated into the disputed contracts; and (iv) the background “customs, practices, [and] usages” of the credit derivatives trade, id. Because customs and usages matter, and because documentation promulgated by the ISDA was used by the parties to this dispute, we briefly review some relevant background.
+ 
+The term “derivatives” references “a vast array of privately negotiated over-the counter ... and exchange traded transactions,” including interest-rate swaps, currency swaps, commodity price swaps and credit derivatives—which include credit default swaps.17 A derivative is a bilateral contract that is typically negotiated by phone and followed by an exchange of confirmatory faxes that constitute the contract but do not specify such terms as events of default, representations and warranties, covenants, liquidated damages, and choice of law.18 These (and other) terms are typically found in a “Master Swap Agreement,” which, prior to standardization efforts that began in the mid–1980s, “took the form of separate 15–to 25– *174 page agreements for each transaction.”19
+ 
+Documentation of derivatives transactions has become streamlined, chiefly through industry adherence to “Master Agreements” promulgated by the ISDA. In 1999, Eternity and Morgan entered the ISDA Multicurrency–Cross Border Master Agreement, which governs, inter alia, the CDS transactions disputed on appeal. Each disputed CDS also incorporates the 1999 ISDA Credit Derivatives Definitions, the Association’s first attempt at a comprehensive lexicon governing credit derivatives transactions.20 Last year, due to the rapid evolution of “ISDA documentation for credit default swaps,” the Association began market implementation of the 2003 Credit Derivatives Definitions,21 which evidently constitutes a work in progress. See note 28, infra.
+ 
+
+C. Eternity’s Credit Default Swaps
+Eternity’s Global Master Fund is managed by HFW Capital, L.P., including its Chief Investment Officer, Alberto Franco. In 2001, Franco engaged Morgan to facilitate Eternity’s participation in the Argentine corporate debt market. Fearing that a government debt crisis would impair the value of Eternity’s Argentine investments, Franco sought to hedge using credit default swaps written on Argentine sovereign bonds. In October 2001, the Fund entered into three such contracts. Each CDS incorporated (i) the ISDA Master Swap Agreement, and (ii) the 1999 ISDA Definitions. The total value of the contracts was $14 million, as follows:
+ 
+
+ 
+
+CDS Entry Date
+ 
+
+Termination Date
+ 
+
+Value
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+ 
+
+October 17, 2001
+ 
+
+October 22, 2006
+ 
+
+$ 2 million
+ 
+
+lines
+ 
+
+ 
+ 
+
+October 19, 2001
+ 
+
+December 17, 2001
+ 
+
+$ 3 million
+ 
+
+ 
+
+ 
+ 
+
+October 24, 2001
+ 
+
+March 31, 2002
+ 
+
+$ 9 million
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Total Value:
+ 
+
+ 
+
+$14 million
+ 
+
+ 
+
+
+Except as to value and duration, the terms were virtually identical, as follows:
+(i) Eternity would pay Morgan a fixed periodic fee tied to the notional value of each respective credit default swap.
+(ii) The swaps would be triggered upon occurrence of any one of four credit events—as defined by the 1999 ISDA Credit Derivative Definitions—with respect to the Argentine sovereign bonds: Failure to pay, Obligation Acceleration, Repudiation/Moratorium, and Restructuring.
+(iii) Each CDS called for physical settlement following a credit event, specifically:
+(a) Upon notification (by either party to the other) of a credit event, and confirmation via two publicly available sources of information (e.g., the Wall Street Journal), and
+(b) delivery to Morgan of the requisite amount of Argentine sovereign bonds,
+(c) Morgan would pay Eternity par value for the obligations tendered.
+It is alleged (and we therefore assume) that Eternity entered the swaps in reliance on Morgan’s representations that it would provide access to a liquid secondary market that would enable the Fund to divest the contracts prior to termination.
+ 
+*175 The parties dispute whether any of certain actions taken by Argentina with respect to its debt obligations in November and December 2001 constituted a credit event. The district court thought not, and dismissed Eternity’s contract claim at the pleading stage. Eternity II, 2003 WL 21305355, at *4–6. With the background and structure of the disputed CDS contracts in mind, we turn to Eternity’s principal allegations.
+ 
+
+II
+Because we assume plaintiff’s factual allegations to be true on review of a motion to dismiss pursuant to Rule 12(b)(6), DeMuria v. Hawkes, 328 F.3d 704, 706 (2d Cir.2003), the facts relating to Argentina’s financial collapse are taken from Eternity’s Second Amended Complaint and any documents upon which it relies, see Rothman v. Gregor, 220 F.3d 81, 88–89 (2d Cir.2000) (citations omitted).
+ 
+The contracts at issue were signed in October 2001. By then, international financial markets had been speculating for months that Argentina might default on its $132 billion in government and other public debt. At an August 2001 meeting of bondholders in New York, Morgan acknowledged the possibility of a sovereign-debt default and advised that it was working with the Argentine government on restructuring scenarios. On October 31, 2001—after the effective date of the swap contracts at issue on this appeal—Morgan sent Eternity a research report noting that there was a “high implied probability of [a] restructuring” in which bondholders would likely receive replacement securities with a less-favorable rate of return. One day later, Argentine President Fernando de la Rua asked sovereign-bond holders to accept lower interest rates and longer maturities on approximately $95 billion of government debt.
+ 
+On November 19, 2001, the Argentine government announced that a “voluntary debt exchange” would be offered to sovereign-bond holders. According to various public decrees, willing bondholders could exchange their obligations for secured loans that would pay a lower rate of return over a longer term, but that would be secured by certain federal tax revenues. So long as the government made timely payments on the loans, the original obligations would be held in trust for the benefit of Argentina22; if the government defaulted, however, bondholders would have recourse to the original obligations, which were to “remain effective” for the duration of their life-in-trust. From late November through early December 2001, billions of dollars in sovereign bonds were exchanged for the lower-interest loans.
+ 
+The complaint alleges that the debt exchange amounted to a default because local creditors had no choice but to participate, and that the financial press adopted that characterization. On November 8, 2001 Eternity served the first of three notices on Morgan asserting that the planned debt exchange was a restructuring credit event as to all three CDS contracts; but Morgan demurred.
+ 
+On December 24, newly-installed interim President Adolfo Rodriguez Saa—appointed by the Argentine Congress on December 23 to replace President de la Rua—announced a public-debt moratorium. On December 27, Morgan notified Eternity that the moratorium constituted a credit event and subsequently settled the outstanding $2 million and $9 million credit default swaps (otherwise set to terminate on October 22, 2006 and March 31, 2002, respectively). According to Morgan, the *176 third swap (valued at $3 million) had expired without being triggered, on December 17, 2001.
+ 
+It is undisputed that the December 24 public-debt moratorium was a trigger of Eternity’s outstanding swaps; in Eternity’s view, however, the voluntary debt exchange had triggered Morgan’s settlement obligations as early as November 8, 2001, as the Fund had been insisting throughout November and December of that year. In that same period, Eternity asked Morgan to liquidate the swaps on a secondary market. Notwithstanding Morgan’s representations in February 2001 regarding the existence of a secondary market for the CDSs, it refused to quote Eternity any secondary-market pricing, though it did offer to “unwind” the contracts by returning the premiums Eternity had paid from October through November 2001.
+ 
+
+III
+On February 19, 2002, Eternity commenced this action alleging breach of contract and fraudulent and negligent misrepresentation. An amended complaint was filed three months later. Morgan moved against the amended complaint pursuant to Rules 9(b) and 12(b)(6). In support of the motion, Morgan made voluminous submissions, including the relevant CDS contracts, the 1999 ISDA Credit Derivatives Definitions, and English translations of portions of relevant Argentine public decrees. In an unreported decision, Judge McKenna ruled that Eternity had stated a claim for breach of contract, but that the misrepresentation claims had not been pleaded with the requisite particularity and dismissed those claims with leave to replead. Eternity I, 2002 WL 31426310, at *3–6.
+ 
+On November 15, 2002, Eternity filed a second amended complaint, primarily to supplement facts bearing on its misrepresentation claims. Morgan again moved to dismiss. In June 2003, the district court ruled: (i) that Eternity again failed to plead fraud and negligent misrepresentation with the necessary particularity; and (ii) upon reconsideration of its prior contrary decision, that Eternity also failed to state a claim for breach of contract. Eternity II, 2003 WL 21305355, at *2–6.
+ 
+Judge McKenna dismissed the contract claim on the ground that Argentina’s voluntary debt exchange was not a restructuring credit event, as a matter of law. Id. at *5–6. The misrepresentation claims failed for want of particularity, Eternity having failed to allege facts to show that, as of the time Eternity entered the CDS contracts, Morgan knew or should have known that no secondary market would be available if Eternity decided (as it did) to liquidate its position. See id. at *3–4. This appeal followed.
+ 
+For the reasons set out below, we (i) reverse the district court’s dismissal of Eternity’s contract claim and remand for further proceedings; and (ii) affirm the dismissal of the claims for fraudulent and negligent misrepresentation.
+ 
+
+DISCUSSION
+We review de novo a grant of dismissal pursuant to Rule 12(b)(6), Citibank, N.A. v. K–H Corp., 968 F.2d 1489, 1494 (2d Cir.1992), “accepting as true the complaint’s factual allegations and drawing all inferences in the plaintiff’s favor,” DeMuria, 328 F.3d at 706.
+ 
+This Court has held that “the office of a motion to dismiss is merely to assess the legal feasibility of the complaint, not to assay the weight of the evidence which might be offered in support thereof.” Geisler v. Petrocelli, 616 F.2d 636, 639 (2d Cir.1980). “[A] complaint should not be dismissed for insufficiency unless it appears *177 to a certainty that plaintiff is entitled to no relief under any state of facts which could be proved in support of the claim.” Id. (discussing Conley v. Gibson, 355 U.S. 41, 45, 78 S.Ct. 99, 2 L.Ed.2d 80 (1957)). The indulgent standard evident in these precedents is codified in Rule 8, which requires no more than “a short and plain statement of [a] claim showing that the pleader is entitled to relief.” Fed.R.Civ.P. 8(a)(2). With the exception of claims for fraud and mistake—which under Rule 9(b) must be pled with particularity—the sufficiency of a complaint is judged by the “liberal system of ‘notice pleading’ set up by the Federal Rules.” Leatherman v. Tarrant County Narcotics Intel. and Coord. Unit, 507 U.S. 163, 168, 113 S.Ct. 1160, 122 L.Ed.2d 517 (1993). At the pleading stage, then, “[t]he issue is not whether a plaintiff will ultimately prevail but whether the claimant is entitled to offer evidence to support the claims.” York v. Ass’n of the Bar, 286 F.3d 122, 125 (2d Cir.2002) (citation and internal quotation marks omitted; alteration in original).
+ 
+
+I
+[2] To make out a viable claim for breach of contract a “complaint need only allege (1) the existence of an agreement, (2) adequate performance of the contract by the plaintiff, (3) breach of contract by the defendant, and (4) damages.” Harsco Corp. v. Segui, 91 F.3d 337, 348 (2d Cir.1996). Eternity alleges: (1) that the CDS contracts are valid agreements; (2) that the Fund satisfied its contractual obligations to Morgan, i.e.,
+(a) paid its premiums;
+(b) supplied the requisite notification and public information following the announcement of the voluntary debt exchange; and
+(c) signaled its willingness to tender the necessary sovereign bonds;
+(3) that Morgan’s refusal to settle the swaps was a breach of contract; and (4) that the Fund was damaged as a result of Morgan’s breach—by the loss of the $3 million owed under the CDS that expired prior to the public-debt moratorium announced December 24, 2001, and by consequential damages arising from Morgan’s refusal to settle the other swaps in November 2001.
+ 
+The district court concluded that these pleadings were insufficient on the ground that the plain meaning of the CDS contracts conveyed the parties’ unambiguous intention to exclude the voluntary debt exchange from the bundle of government actions that could qualify as a restructuring credit event. Eternity II, 2003 WL 21305355, at *4–6. We disagree.
+ 
+[3] [4] [5] [6] The question is whether at this stage it can be decided as a matter of law that the voluntary debt exchange was not a “restructuring credit event” covered by the Fund’s CDS contracts with Morgan. Resolution of that issue turns on what the CDS contracts say. Under New York law,23 “[t]he fundamental, neutral precept of contract interpretation is that agreements are construed in accord with the parties’ intent.” Greenfield v. Philles Records, Inc., 98 N.Y.2d 562, 569, 750 N.Y.S.2d 565, 780 N.E.2d 166 (2002). Typically, the best evidence of intent is the contract itself; if an agreement is “complete, clear and unambiguous on its face[, it] must be enforced according to the plain meaning of its terms.” Id. If the contract *178 is ambiguous, extrinsic evidence may be considered “to ascertain the correct and intended meaning of a term” or terms. Alexander & Alexander, 136 F.3d at 86. “[A]mbiguity exists where a contract term could suggest more than one meaning when viewed objectively by a reasonably intelligent person who has examined the context of the entire integrated agreement and who is cognizant of the customs, practices, usages and terminology as generally understood in the particular trade or business.” World Trade Ctr. Props., L.L.C. v. Hartford Fire Ins. Co., 345 F.3d 154, 184 (2d Cir.2003) (internal quotation marks omitted). “Whether or not a writing is ambiguous is a question of law to be resolved by the courts.” W.W.W. Assocs., Inc. v. Giancontieri, 77 N.Y.2d 157, 162, 565 N.Y.S.2d 440, 566 N.E.2d 639 (1990). Unless for some reason an ambiguity must be construed against the plaintiff, a claim predicated on a materially ambiguous contract term is not dismissible on the pleadings.
+ 
+Ambiguity in a contract is the inadequacy of the wording to classify or characterize something that has potential significance. “[A] contract may be ambiguous when applied to one set of facts but not another,” World Trade Ctr. Props., 345 F.3d at 184 (internal quotation marks and citation omitted); if a contract is ambiguous as applied to a particular set of facts, a court has insufficient data to dismiss a complaint for failure to state a claim. With respect to the CDS contracts at issue, certain intentions are unambiguous: Eternity and Morgan intended that a restructuring of Argentine sovereign debt would be a credit event triggering Morgan’s obligations to settle the CDS contracts, and that the 1999 Definitions would govern whether a particular step taken by Argentina was a restructuring credit event. But resolution of the dispositive question—whether the parties intended that an event such as the voluntary debt exchange would qualify as a restructuring credit event—is not possible at this early stage of the litigation.
+ 
+In support of its motion to dismiss, Morgan submitted, inter alia, the 1999 ISDA Credit Derivatives Definitions and English translations of portions of certain Argentine decrees purporting to explain the mechanics of the government’s debt exchange program.
+ 
+
+A. The 1999 ISDA Definition of “Restructuring” and the Terms of Argentina’s Voluntary Debt Exchange
+[7] By their terms, Eternity’s credit default swaps could be triggered by any of four credit events: Failure to Pay, Obligation Acceleration, Repudiation/Moratorium, and Restructuring. To flesh out these terms, Eternity and Morgan incorporated by reference the 1999 ISDA Credit Derivatives Definitions. Eternity concedes that Argentina’s voluntary debt exchange is a credit event only if it qualifies as a restructuring under § 4.7 of the 1999 Definitions:
+“Restructuring” means that, with respect to one or more Obligations, including as a result of an Obligation Exchange, ... any one or more of the following events occurs, is agreed between the Reference Entity or a Governmental Authority and the holder or holders of such Obligation or is announced (or otherwise decreed) by a Reference Entity or a Governmental Authority in a form that is binding upon a Reference Entity, and such event is not provided for under the terms of such Obligation in effect as of the later of the Trade Date and the date as of which such obligation is issued or incurred:
+(i) a reduction in the rate or amount of interest payable or the amount of scheduled interest accruals;
+*179 (ii) a reduction in the amount of principal or premium payable at maturity or at scheduled redemption dates;
+(iii) a postponement or other deferral of a date or dates for either (A) the payment or accrual of interest or (B) the payment of principal or premium;
+(iv) a change in the ranking in priority of payment of any Obligation, causing the subordination of such Obligation; or
+(v) any change in the currency or composition of any payment of interest or principal.
+ISDA, 1999 Credit Derivatives Definitions § 4.7(a) (1999) (emphasis added) (“1999 Definitions ”). The “obligations” relevant to Eternity’s credit default swaps are Argentine sovereign bonds.
+ 
+The basic terms of the voluntary debt exchange are undisputed. Presidential Decree 1387, released November 1, 2001, declares at Title II (“Reduction of the Cost of Argentine Government Debt”), Article 17:
+[T]he MINISTRY OF ECONOMY is instructed to offer on voluntary terms the possibility of exchanging Argentine government debt for Secured Loans or Secured Argentine Government Bonds, provided that the collateral offered or the change in debtor allows the Argentine Government to obtain lower interest rates for the Argentine or Provincial Government Sector.
+(emphasis added). The class of “government debt” referred to in Article 17 includes the sovereign bonds on which the disputed CDS contracts are written. Thus holders of those bonds were eligible to participate in the government’s exchange program.
+ 
+Under Article 20 of Decree 1387, any exchange would be carried out
+at par value at a ratio of ONE (1) to ONE (1) in the same currency as the exchanged[, i.e., originally held] obligation was denominated, provided that the interest rate on the Secured Loan for which each government debt transaction is exchanged is at least THIRTY PERCENT (30%) less than that established in the instrument submitted for exchange, per the terms of issue.
+(emphasis added). Under Article 22, the Ministry of the Economy was “authorized to appropriate funds belonging to the Nation,” i.e., certain federal tax revenues, “for up to the sum required to honor” the loans or other secured instruments for which any “original” sovereign-debt obligations would be exchanged.
+ 
+On November 28, 2001, the Ministry of Economy issued Resolution 767 (“Government Debt”), which delineated the “exchange mechanism” contemplated in Decree 1387. Under Resolution 767, sovereign-debt holders would have until 3 p.m. on November 30, 2001 to submit “Offers of Exchange” to certain designated financial institutions. Between that date and December 3, the government would decide which offers it would accept, after which the bondholders so selected would have until December 7 to tender eligible securities. The exchanges would be “settled” on December 12, when former bondholders would receive the secured loans.
+ 
+On December 12, the government approved (i) a “Secured Loan Agreement” to govern the new obligations, and (ii) a “Trust Agreement” governing the disposition of the original bonds. The Trust Agreement provides that any bonds exchanged for secured loans would be placed in trust for the benefit of the Republic of Argentina. The complaint alleges that as of December 6–7, 2001, holders of approximately $50 billion in Argentine sovereign debt had tendered their bonds.
+ 
+
+*180 B. The Voluntary Debt Exchange as a Restructuring Credit Event
+Eternity contends that Argentina’s voluntary debt exchange qualifies as a restructuring credit event in four ways: (i) as an obligation exchange under § 4.9 of the 1999 Definitions that constituted a “restructuring” under § 4.7; and even if not an obligation exchange, as an (ii) extension, and/or (iii) deferral, and/or (iv) subordination of the original obligations such that those obligations were restructured within the meaning of § 4.7. Morgan counters, and the district court agreed, that the voluntary debt exchange was not a restructuring within the meaning of the CDS contracts because it was not an obligation exchange, nor did it affect the payment, value, or priority of the original obligations. Eternity II, 2003 WL 21305355, at *4–6.
+ 
+
+(i) The voluntary debt exchange as an “Obligation Exchange”
+Under the 1999 Definitions, an “Obligation Exchange” is “the mandatory transfer ... of any securities, obligations or assets to holders of Obligations in exchange for such Obligations. When so transferred, such securities, obligations or assets will be deemed to be Obligations.” 1999 Definitions, supra, § 4.9 (emphasis added). Section 4.7 states that an “Obligation Exchange” can qualify as a restructuring, id. § 4.7(a), and further provides:
+If an Obligation Exchange has occurred, the determination as to whether one of the events described under Section 4.7(a)(i) to (v) has occurred will be based on a comparison of the terms of the Obligation immediately before such Obligation Exchange and the terms of the resulting Obligation immediately following such Obligation Exchange.
+Id. § 4.7(c) (emphases added). Thus if the voluntary debt exchange is an “Obligation Exchange,” then it is a restructuring if the terms of the Secured Loans—as compared with the terms of the exchanged sovereign bonds—indicate that “one of the events [that constitutes a restructuring under § 4.7] has occurred.” Id. Morgan concedes that such a comparison would show that the voluntary debt exchange was a restructuring credit event: The secured loans undeniably provide a lower return over a longer maturity than the original bonds, two features that qualify as restructuring occurrences under § 4.7. See id. § 4.7(a)(i), (iii).
+ 
+Morgan argues, however, that because § 4.9 of the 1999 Definitions states that an “Obligation Exchange” is a “mandatory transfer” of one set of obligations for another, and because participation in the government’s debt exchange program was “voluntary,” a comparison of the two instruments is irrelevant.
+ 
+The term “mandatory transfer” as it appears in § 4.9 of the ISDA definitions is not self-reading, and is therefore ambiguous if it could suggest more than one meaning when viewed objectively, in the context of each CDS agreement and the “customs, practices, [and] usages ... as generally understood” in the credit derivatives trade. World Trade Ctr. Props., 345 F.3d at 184. Morgan makes the intuitively appealing argument that a “mandatory transfer” cannot be an exchange offered on “voluntary terms.” The district court was persuaded by this argument, citing Black’s Law Dictionary:
+Argentina’s [voluntary debt] exchange program cannot qualify as “mandatory.” Eternity made a choice. Along with “a substantial portion” of holders of those Argentine obligations, Eternity chose to exchange the obligations for lower-interest secured loans. (Second Am. Compl. ¶¶ 38–39, 61.).... Despite Eternity’s attempt to argue that “mandatory” *181 should be read to encompass situations that are “economically coercive,” the plain meaning of the term “mandatory” does not permit such a finding. The term “mandatory” is defined by Black’s Law Dictionary (7th Ed.1999) as “[o]f, relating to, or constituting a command” or “required.” The choice made by Eternity may have been unpalatable, but that does not make it mandatory.
+Eternity II, 2003 WL 21305355, at *5. A dictionary definition, however, does not take into account what “mandatory transfer” means in the context of a particular industry.
+ 
+Eternity makes the less obvious but plausible argument that to credit-risk protection buyers such as itself, a “mandatory transfer” includes any obligation exchange achieved by “economic coercion,” regardless of its classification as “voluntary” or “mandatory” by the initiating party. According to Black’s, “economic coercion” is “[c]onduct that constitutes improper use of economic power to compel another to submit to the wishes of one who wields it.” Black’s Law Dictionary 252 (7th ed.1999). Assuming that the government’s debt exchange was economically coercive, “voluntary” participation by the “coerced” bondholders appears to resemble “mandatory” action. At the same time, from Argentina’s perspective, the exchange may have been voluntary in fact, i.e., the government may have had the intention to honor its debt obligations to nonparticipants without delay or reduction. But Argentina’s characterization—which is self-serving—does not control, particularly when one considers Eternity’s allegation that Morgan was an architect of the debt exchange. A proper interpretation of the CDS contracts must be drawn from the contract language and, where necessary, from other indicia of the parties’ intent. Section 4.9 is silent as to whose perspective dictates whether an obligation exchange has occurred (e.g., the issuer or the holder, or the investment press or community), and the parties’ competing interpretations are plausible. We cannot resolve that ambiguity at this stage, as the district court took no submissions on the customs and usages of the credit derivatives industry, and the parties point us to no definitive source that resolves the difficulty.
+ 
+Although the CDS contracts are silent on the precise meaning of “mandatory transfer,” the ISDA has not ignored the issue. In its complaint, Eternity refers to a draft “User’s Guide” to the 1999 Definitions, publication of which appears to have been tabled indefinitely.24 The draft guide *182 explained that the “reference to ‘mandatory transfer’ in [the] definition of [‘Obligation Exchange’] ... should be read as clarifying rather than restricting the Restructuring definition and should not be read to mean that the optional exchange of Obligations for other assets cannot constitute a Restructuring.” The User’s Guide to the 1999 Definitions was never formally promulgated, but it does indicate that, (at least) as of the time Eternity purchased the credit default swaps, the meaning of “mandatory transfer” was perhaps more open-ended than Morgan contends.
+ 
+Finally, in drawing its conclusion that the voluntary debt exchange was not an obligation exchange, the district court appears to have relied on its observation that Eternity “made a choice ” to participate in the voluntary debt exchange. Eternity II, 2003 WL 21305335, at *5 (emphasis added). Any such reliance was misplaced. Whether Eternity actually owned Argentina’s sovereign bonds (and whether it chose to participate in the government’s debt swap if it did) is irrelevant to whether the exchange was a restructuring credit event under the disputed CDS contracts. The swaps were triggered if the government defaulted on its own debt obligations, i.e., upon the occurrence of a “credit event” with respect to those obligations as a class. The CDS contracts did not require or contemplate that the credit protection buyer (here, Eternity) would hold the reference bonds except as may become necessary to exercise the put. Thus, if the Argentine government’s voluntary debt exchange was a restructuring within the meaning of the 1999 Definitions, the CDS contracts were triggered; any election Eternity might have made with respect to its own bond holdings does not matter.
+ 
+We go on to consider Eternity’s arguments that the government’s debt exchange was a restructuring even if it was not an obligation exchange.
+ 
+
+(ii) The effect of the voluntary debt exchange on Argentina’s original debt obligations
+Under the 1999 Definitions, a restructuring credit event occurs when any one of five enumerated events “occurs, is agreed [to] ... or is announced” with respect to an “obligation” upon which a credit default swap is written. 1999 Definitions, supra, § 4.7(a). These include:
+(i) a reduction in the rate of payable interest or principal on the obligation, id. § 4.7(a)(i)-(ii);
+(ii) a postponement of payment on interest or principal, id. § 4.7(a)(iii); and
+(iii) a subordination of the obligation that did not exist prior to the occurrence of the restructuring credit event, id. § 4.7(a)(iv).
+Eternity contends that each of these three events “occurred” with respect to certain classes of Argentine sovereign bonds as a consequence of the government’s voluntary debt exchange.
+ 
+The district court held that “under the terms of the ‘voluntary debt exchange,’ the obligations submitted into the Trust ... themselves remained unchanged.” Eternity II, 2003 WL 21305355, at *5. That observation may be sound as far as it goes. But § 4.7 provides that a restructuring results if any event defined in the section “occurs” with respect to “one or more obligations.” Thus, the proper inquiry is whether the debt exchange caused a restructuring to occur with respect to any of the Argentine sovereign bonds.25 For the *183 purpose of this analysis, it is useful to consider separately the impact of the debt exchange on obligations that were exchanged pursuant to the government’s “voluntary” offer (participating obligations), and on those retained by sovereign-bond holders who elected to forgo the government’s program (nonparticipating obligations). To negative the possibility that there was a restructuring credit event, it must be clear that none of the “events” described in §§ 4.7(a)(i)-(v) occurred with respect either to the participating obligations or to the nonparticipating obligations.
+ 
+
+(a) Participating Obligations
+Participating obligations were ultimately deposited with the Central Bank of the Republic of Argentina pursuant to Article 23 of Presidential Decree 1387, issued November 1, 2001. Six weeks later, Presidential Decree 1646 approved both a Secured Loan Agreement to govern the terms of the loans that would replace the bonds tendered in the exchange, and a Trust Agreement that governed the status of obligations so tendered. Eternity contends that a restructuring credit event occurred with respect to tendered obligations because their terms were extended and/or payment was suspended for the duration of their life-in-trust.
+ 
+Maturity Extension. On November 28, 2001 the Ministry of Economy promulgated Resolution 767 which, inter alia, defined the sovereign bonds eligible to participate in the voluntary exchange and, at Annex II, delineated the “exchange mechanism” for those securities, including the provision that “[e]ligible Securities whose total or partial original maturity is prior to December 31, 2010 shall receive secured loans that will extend the average life of the Eligible Security by 3 years.” (emphasis added). Morgan does not directly respond to Eternity’s contention that this wording extends the maturity of certain debt obligations within the class referenced in the disputed CDS contracts. This provision creates a question of fact as to whether the three-year extension constitutes a restructuring credit event under § 4.7(iii) of the 1999 Definitions.
+ 
+Suspension of Payment. Under the terms of the voluntary debt exchange (primarily laid down in Decree 1646), participating obligations were placed in trust. The Trust Agreement named Caja de Valores as trustee and provided that the government of Argentina would “acquire Participation Certificates in the ... Trust, the underlying assets of which are the Argentine government debt securities” that participated in the exchange. By virtue of its participation, the Republic of Argentina was the “Original Beneficiary” of the trust. Decree 1646 further provided that “for purposes of determining the outstanding amount of Argentine government debt or of determining the national debt ceiling, ... [tendered obligations] shall not be included in such calculations for so long as the Argentine Federal Government is the Beneficiary of any payments made in this regard.” This provision implements Decree 1506, promulgated November 22, 2001, which amended Decree 1387 to provide that any obligations placed in trust pursuant to the voluntary debt exchange would be excluded from the calculation of Argentina’s national debt. According to Decree 1506:
+Such an arrangement [was] called for because, even when securities subject to exchange are held [in the manner contemplated] *184 ... it is the Argentine Federal Government that is the beneficiary of the economic rights thereby granted, with the liabilities thus becoming confused with the credits and offsetting same, inasmuch as the creditors of the ARGENTINE REPUBLIC can under no circumstances make simultaneous claims to credit rights that are granted by government securities in addition to those granted by Secured Loans substituting same.
+(emphasis added).
+ 
+Eternity contends that these provisions suspended Argentina’s liability on the bonds held in trust because (i) former bondholders could not enforce the original instruments while they were held in trust; and (ii) Argentina’s role as both beneficiary and obligor on the trust assets suspended, at least temporarily, any enforceable legal obligation created by those debt instruments. We think that there is a question, at least on the present record, as to whether this trust mechanism constituted “postponement or other deferral of a date or dates for payment of those obligations,” within the meaning of § 4.7(a)(iii).
+ 
+Morgan identifies three provisions of the Trust Agreement as support for its contention that the voluntary debt exchange did not affect Argentina’s sovereign-debt obligations in any of the ways contemplated in § 4.7. Two of the three provisions refer directly or indirectly to a Secured Loan Agreement, a copy of which has been furnished to us, apparently from a website; but Morgan’s otherwise voluminous submissions do not include a translation into English. That omission frustrates a complete analysis because we are left to guess whether, given the Trust Agreement’s repeated references to particular provisions of the Loan Agreement, the latter has any bearing on the debt obligations placed in trust.
+ 
+Moreover, the language cited to establish the continued effectiveness of Argentine bonds placed in trust is indefinite. Under Section C of the Trust Agreement’s “Whereas” clause:
+In accordance with the provisions of Article Ten of the Loan Agreement, an essential condition of same is that the Securities remain effective, with respect to both the economic and political rights of same, in such a manner that, under certain circumstances, their owners can recover fee simple thereof, all until such time as the Secured Loans have been settled ....
+(emphases added). The economic and political rights of tendered obligations remain effective “in such a manner that, under certain circumstances” they can be recovered in fee simple. But it is wholly unclear what “such a manner” might mean on this record, or in what “circumstances” recovery would be allowed, or what it means for the bonds to “remain effective” when (under Decree 1506) they cannot be enforced by the former bondholders. In any case, it appears that tendered obligations “remain effective” only insofar as may be necessary to fulfill the contingency that former bondholders may one day have a right to reclaim their original obligations. Whether this qualified and contingent effectiveness constitutes a restructuring credit event is a question that cannot be resolved on the pleadings.
+ 
+Morgan also invokes Section 2.1.3 of the Trust agreement, which provided that the transfer of sovereign bonds to the trust “shall include assignment of all present and future economic rights” of those obligations. This seemingly unqualified transfer may bear on the “effectiveness” of the obligations once they are part of the trust corpus, but that conclusion cannot be drawn from the text. Indeed, the “Whereas” clause relied on by Morgan explicitly *185 contemplates that the effectiveness of the assets in trust will be less than their effectiveness in the hands of the original creditors—regardless of the mechanics of the transfer itself.
+ 
+Finally, Morgan points to section 3.1 of the Trust Agreement, which directs the trustee to
+collect principal and interest payments due with respect to the Trust Assets and pari passu shall pay with such amounts payments due under the Participation Certificates [held by the Republic of Argentina], until such time as the Participation Certificates are fully amortized, except upon the occurrence [of a default as defined in the Secured Loan Agreement].
+(emphases added). The force of Morgan’s argument is blunted by the absence of the Secured Loan Agreement; nonetheless, the quoted language begs the question: If, as Eternity contends, the government’s legal obligation to make bond payments was suspended or postponed when Argentina became the trust beneficiary of assets on which it was obligated to pay, were any interest payments actually “due” on the original obligations?
+ 
+
+(b) Nonparticipating obligations
+Eternity alleges that at some point during the voluntary debt exchange process, Argentina’s Economy Minister announced that the “restructured loans held domestically will have the highest priority for payment.” According to Eternity, this announcement “effectively” subordinated the original obligations to the secured loans, and was thus a credit event under § 4.7, which includes “a change in the ranking in priority of payment of any Obligation, causing the subordination of such Obligation.” 1999 Definitions § 4.7(a)(iv). Morgan disagrees, primarily on the ground that there is “no language in the Domestic Exchange that changes the rank in priority of payment on the existing Obligations.” Appellees’ Br. at 33.
+ 
+At the pleading stage, Eternity was required to furnish a “short and plain” statement of its claim for breach of contract. Fed.R.Civ.P. 8(a)(2). The allegations concerning subordination, which recite the ISDA definition as well as the official statement referenced above, are both short and plain. Section 4.7(a)(iv) of the 1999 Definitions, which says that “subordination” is a reduction “in the ranking in priority of payment of any Obligation,” does not in terms exclude policy declarations such as the one allegedly announced by Argentina’s Economy Minister. True, “subordination” may denote more limited circumstances, such as a formal, contractual subordination of a particular debt. But that reading is not compelled by the wording of § 4.7(a)(iv).
+ 
+The ISDA promulgated a “Restructuring Supplement” to the 1999 Definitions in April 2001 which included § 2.30(b) (“Pari Passu Ranking; Section 4.7(a)(iv)”), a provision that speaks directly to the definition of “subordination” under § 4.7(a)(iv):
+For purposes of Sections [sic] 4.7(a)(iv), “a change in the ranking in priority of payment of any Obligation, causing the subordination of such Obligation,” means only the following: an amendment to the terms of such Obligation or other contractual arrangement pursuant to which the requisite percentage of holders of such Obligations (“Subordinated Holders”) agree that, upon the liquidation, dissolution, reorganization or winding up of the Reference Entity, claims of holders of any other Obligations will be satisfied prior to the claims of Subordinated Holders. For the avoidance of doubt, the provision of collateral, credit support or credit enhancement with respect to any obligation *186 will not, of itself, constitute a change in the ranking in priority of payment of any Obligation causing the subordination of such Obligation.26
+ 
+The Eternity/Morgan CDS contracts incorporate the 1999 Definitions, but do not appear to incorporate the Restructuring Supplement, which must be invoked specifically.27 If the Supplement had been included, the subordination issue would likely be settled (in Morgan’s favor); but the version of § 4.7(a)(iv) in use here is insufficiently clear as to whether subordination can be effected by policy statements such as the one cited by Eternity.28 Eternity and Morgan will have to resolve the issue in discovery or, if necessary, before a trier of fact.
+ 
+
+II
+Eternity alleges fraudulent and negligent misrepresentation as to whether a secondary market would be available for credit default swaps written on Argentine sovereign debt. The chief allegation is that Morgan represented “[i]n at least one telephone call ... in approximately February, 2001” (i) that a secondary market existed for Argentine credit default swaps; (ii) that Eternity would be able to divest its positions in such a market, (iii) that Morgan would assist Eternity in such a liquidation, and that (iv) Morgan failed to provide secondary-market pricing for the swaps on five to six occasions in October and November 2001.
+ 
+
+A. Fraud
+[8] [9] To state a claim for fraudulent misrepresentation under New York law “a plaintiff must show that (1) the defendant made a material false representation, (2) the defendant intended to defraud the plaintiff thereby, (3) the plaintiff reasonably relied upon the representation, and (4) the plaintiff suffered damage as a result *187 of such reliance.” Banque Arabe et Internationale D’Investissement v. Md. Nat’l Bank, 57 F.3d 146, 153 (2d Cir.1995). Fraud must be pled with particularity, Fed.R.Civ.P. 9(b), which requires that the plaintiff “(1) detail the statements (or omissions) that the plaintiff contends are fraudulent, (2) identify the speaker, (3) state where and when the statements (or omissions) were made, and (4) explain why the statements (or omissions) are fraudulent.” Harsco, 91 F.3d at 347.
+ 
+[10] We agree with the district court that Eternity fails adequately to plead scienter.29 See Eternity II, 2003 WL 21305355, at *2–3. Although “[m]alice, intent, knowledge and other condition of mind of a person may be averred generally,” Fed R. Civ. P. 9(b), this leeway is not a “license to base claims of fraud on speculation and conclusory allegations.” Acito v. IMCERA Group, Inc., 47 F.3d 47, 52 (2d Cir.1995) (internal quotation marks and citation omitted). “[P]laintiffs must allege facts that give rise to a strong inference of fraudulent intent,” which may be established “either (a) by alleging facts to show that defendants had both motive and opportunity to commit fraud, or (b) by alleging facts that constitute strong circumstantial evidence of conscious misbehavior or recklessness.” Id. (quoting Shields v. Citytrust Bancorp, Inc., 25 F.3d 1124, 1128 (2d Cir.1994)).
+ 
+Eternity asserts that Morgan knew that its representations about a secondary market were false when they were made eight months prior to Eternity’s purchase of the disputed credit default swaps. But what is lacking are “particularized facts to support the inference that the defendants acted recklessly or with fraudulent intent.” Shields, 25 F.3d at 1129. The fact that Morgan could not arrange to market the CDSs in October and November 2001 does not support an inference that Morgan knew or believed that no such market existed eight months earlier. We have repeatedly held that such conclusory allegations do not satisfy Rule 9(b).
+ 
+
+B. Negligent Misrepresentation
+[11] [12] [13] It is well-settled under New York law that “words as well as acts may serve as the premise for a negligence action.” Heard v. City of New York, 82 N.Y.2d 66, 73, 603 N.Y.S.2d 414, 623 N.E.2d 541 (1993). But misstatements are actionable only if the defendant is “under a duty to the plaintiff to exercise reasonable care in giving the information, and plaintiffs’ reliance upon the information [is] foreseeable.” Id. at 74, 603 N.Y.S.2d 414, 623 N.E.2d 541. There “ ‘must be knowledge or its equivalent’ ” on the defendant’s part “ ‘that the information is desired for a serious purpose,’ ” that the plaintiff intends to “ ‘rely and act upon it,’ ” and that if the information “ ‘is false or erroneous,’ ” he will suffer injury. Id. (quoting Int’l Prods. Co. v. Erie R.R. Co., 244 N.Y. 331, 338, 155 N.E. 662 (1927)). Because “ ‘casual’ statements and contacts” are prevalent in business, liability in the commercial context is “imposed only on those persons who possess unique or specialized expertise, or who are in a special position of confidence and trust with the injured party such that reliance on the negligent misrepresentation is justified.” Kimmell v. Schaefer, 89 N.Y.2d 257, 263, 652 N.Y.S.2d 715, 675 N.E.2d 450 (1996); see also Hydro Investors, Inc. v. Trafalgar Power Inc., 227 F.3d 8, 21 (2d Cir.2000) (using a slightly different formulation). As in the case of fraud, an alleged misrepresentation must be factual and not “promissory or *188 related to future events.” Hydro Investors, 227 F.3d at 20.
+ 
+[14] The district court ruled, and we agree, that Morgan’s representations as to (i) Eternity’s ability to liquidate the credit default swaps at some future time, and (ii) Morgan’s ability to assist Eternity in such a liquidation, cannot support a claim for negligent misrepresentation because they are promissory representations about future events. See Eternity I, 2002 WL 31426310, at *6–7; Eternity II, 2003 WL 21305355, at *3–4. Eternity’s further claim—that Morgan represented that a secondary market existed for Argentine credit default swaps—is not vulnerable to the same objection. The district court rejected this claim on the ground that the allegations were sparse, conclusory, and unspecific, and thus failed the particularity requirements of Rule 9(b). Eternity II, 2003 WL 21305355, at *3–4. We agree with the district’s court’s characterization, but Rule 9(b) may or may not apply to a state law claim for negligent misrepresentation. District court decisions in this Circuit have held that the Rule is applicable to such claims, see id. at *4 (citing cases), but this Court has not adopted that view, and we see no need to do so here because Eternity’s claim fails under the liberal pleading standards of Rule 8 and, a fortiori, the strictures of Rule 9(b).
+ 
+The New York Court of Appeals held in Kimmell that a claim of negligent misrepresentation can succeed only where reliance on the alleged misrepresentation is justified, and that
+[i]n determining whether justifiable reliance exists in a particular case, a fact finder should consider whether the person making the representation held or appeared to hold unique or special expertise; whether a special relationship of trust or confidence existed between the parties; and whether the speaker was aware of the use to which the information would be put and supplied it for that purpose.
+Kimmell, 89 N.Y.2d at 263–64, 652 N.Y.S.2d 715, 675 N.E.2d 450. This Court has held that a “sparsely pled” special relationship of trust or confidence is not fatal to a claim for negligent misrepresentation where “the complaint emphatically alleges the other two factors enunciated in Kimmell.” Suez Equity Investors, L.P. v. Toronto–Dominion Bank, 250 F.3d 87, 103 (2d Cir.2001). Suez Investors thus suggests that where, as here, a “special relationship” is nowhere pled, and the allegations with respect to the other Kimmell factors are soft, a claim for negligent misrepresentation is dismissible under Rule 12(b)(6).
+ 
+The district court observed in Eternity I that the Fund’s complaint lacks “any allegation of a special relationship of trust between the parties. It appears to have been a typical arm’s length business transaction.” Eternity I, 2002 WL 31426310, at *7 (internal quotation marks omitted). Judge McKenna concluded nevertheless that Eternity’s allegations with respect to the other Kimmell prongs-Morgan’s expertise in the credit derivatives markets and its knowledge of Eternity’s intended use of the misrepresented information—brought the case within Suez Investors. See id. We disagree. In Suez Investors, this Court found that
+plaintiff’s complaint implie[d] a relationship between the parties that extended beyond the typical arms length business transaction [because] defendants initiated contact with plaintiffs, induced them to forbear from performing their own due diligence, and repeatedly vouched for the veracity of the allegedly deceptive information.
+250 F.3d at 103. Eternity makes no similar allegations, and the complaint suggests *189 that the Fund was itself sophisticated about credit default swaps.
+ 
+According to its complaint, “Eternity turned to Morgan,” 2d Am. Compl. ¶ 16, to facilitate its investment strategy in Argentina, which included “sophisticated hedging techniques,” id. ¶ 7. Eternity’s Alberto Franco was “an experienced trader in securities and derivatives,” who had worked at Bankers Trust, where he “developed strategies for minimizing the risk of investing in the securities of Latin American corporations ... [including] offsetting the risk of such securities with transactions in credit derivatives.” Id. ¶¶ 8–9. These descriptions, taken directly from Eternity’s second amended complaint, indicate that the Fund was sophisticated about the credit derivatives transactions it was contemplating, was not dissuaded from due diligence, and had the capacity to conduct it. Moreover, the misrepresentation alleged was made in a single phone call in February 2001, eight months before Eternity signed the disputed CDS contracts, in the context of an express disclaimer of any commitment to unwind the CDS transactions.30
+ 
+Eternity does allege that Morgan held itself out as an expert in credit derivatives, and that Morgan was made aware of the possibility that Eternity might want to liquidate through a secondary market. But these allegations must be viewed against the backdrop of the specific transactions Eternity and Morgan undertook. Eternity’s complaint acknowledges that
+although the credit swap market is large, there is no substantial liquidity or after-market trading for any particular swap. The terms of the swaps are often unique and their value is often dependent upon the credit of one or both parties thereto. For example, swaps are generally transferable, but opportunities for third party transfers can be scarce due to the unique nature of each credit swap.
+2d Am. Compl. ¶ 20 (emphases added). The New York Court of Appeals has observed that a relationship sufficiently special to justify reliance (and a subsequent action for negligent misrepresentation) may arise when a person “wholly without knowledge seek[s] assurances from one with exclusive knowledge.” Heard, 82 N.Y.2d at 75, 603 N.Y.S.2d 414, 623 N.E.2d 541. Reliance is less plausible when the defendant is not “imparting exclusive information,” and the plaintiff exhibits familiarity with the “hazards” inherent to a particular transaction. See id.
+ 
+As Eternity concedes, it was aware (i) that there is a secondary market for credit default swaps, and (ii) that the market for any particular swap is chancy. Absent any allegations suggesting that Morgan misrepresented the transferability of the specific credit default swaps at issue here—as opposed to statements about the general transferability of such instruments—the district court’s dismissal was correct. Eternity simply failed to allege any facts suggesting that its purported reliance on Morgan’s representations about the liquidity *190 of CDS contracts written on Argentine debt was justified. The “ ‘casual’ statements and contacts” cited by the Fund are insufficient to preserve its negligent misrepresentation claim from 12(b)(6) dismissal.
+ 
+
+CONCLUSION
+For the foregoing reasons, we affirm the judgment insofar as it dismissed Eternity’s claims premised on fraud and negligent misrepresentation. We reverse the judgment insofar as it dismissed Eternity’s claim for breach of contract, and remand for further proceedings consistent with this opinion, on the ground that certain material terms of the contracts cannot be found unambiguous on the basis of the pleadings alone.
+ 
+All Citations
+375 F.3d 168
+Footnotes
+
+1
+
+Office of the Comptroller of the Currency et. al., Interagency Statement: Country Risk 1 (2002), available at http:// www.occ.treas.gov/ftp/bulletin/2002–10a.pdf (Feb 22, 2002); see also Joyce A. Frost, Credit Risk Management from a Corporate Perspective, in Handbook of Credit Derivatives 89–96 (Jack Clark Francis et. al. eds., 1999) (“Frost”).
+
+2
+
+See generally Robert S. Neal & Douglas S. Rolph, An Introduction to Credit Derivatives, in Handbook of Credit Derivatives, supra, at 3, 4–10 (“Neal & Rolph”); Frost, supra, at 90–96.
+
+3
+
+See Bank for International Settlements: Committee on the Global Financial System, Credit Risk Transfer 10 (2003), available at http:// www.bis.org/publ/cgfs20.pdf (last visited June 21, 2004) (“CRT Study ”) (charting market-growth estimates by a wide range of institutions).
+
+4
+
+Office of the Comptroller of the Currency & Administrator of National Banks, OCC Bank Derivatives Report Fourth Quarter 2003 5 (2004), available at http://www.occ.treas.gov/ftp/ deriv/dq403.pdf (last visited June 21, 2004); see also Romain G. Ranciere, IMF Policy Discussion Paper: Credit Derivatives in Emerging Markets 3 (2001), available at http:// www.econ.upf.es/crei/people/ranciere/wpapers/imf.pdf (last visited July 7, 2004).
+
+5
+
+See CRT Study, supra, at 4, 9–16; see generally Satyajit Das, Credit Derivatives—Applications, in Credit Derivatives: Trading & Management of Credit & Default Risk 125–69 (Satyajit Das ed., 1998) (“Das”)
+
+6
+
+See Janet M. Tavakoli, Credit Derivatives: A Guide to Instruments and Applications 8–12 (1998); P. Vijaya Bhaskar & B. Mahapatra, Derivatives Simplified: An Introduction to Risk Management 154–55 (2003).
+
+7
+
+Frost, supra, at 90 (footnote omitted).
+
+8
+
+Id. at 91.
+
+9
+
+Das, supra, at 163.
+
+10
+
+See id. at 162–65.
+
+11
+
+Generally speaking, a debt moratorium is “[a]n order by a government making it lawful to defer payment of all or certain kinds of debts for a certain period of time beyond the original maturity, issued in order to prevent general bankruptcy or a collapse of credit by legally protecting debtors against their creditors in times of public danger.” Charles J. Woelfel, Encyclopedia of Banking & Finance 759 (10th ed.1994).
+
+12
+
+See Blythe Masters & Kelly Bryson, Credit Derivatives and Loan Portfolio Management, in Handbook of Credit Derivatives, supra, at 43, 47–49 (“Masters & Bryson”).
+
+13
+
+See id.; Michael L. Brosnan & Jimmy F. Barton, OCC 96–43: Credit Derivatives: Guidelines for National Banks, at http: // www.occ.treas.gov/ftp/bulletin/96–43.txt (last visited June 21, 2004) (“OCC Bulletin”). The materiality requirement “is designed to ensure that a credit event is not triggered by a technical (i.e., non-credit-related) default such as a disputed or late payment which is not likely to cause a material price deterioration in the reference entity’s obligations.” Blythe & Masters, supra, at 48.
+
+14
+
+Frost, supra, at 90.
+
+15
+
+If the protection buyer or seller believes that a credit event has occurred, each can inform the other party through a “credit event notice,” substantiated by two or more public sources of information, e.g., “internationally recognized news sources.” See Masters & Bryson, supra, at 48.
+
+16
+
+OCC Bulletin, supra; see also Neal & Rolph, supra, at 17.
+
+17
+
+Allen & Overy, An Introduction to the Documentation of OTC Derivatives 1 (2002), available at http:// www.isda.org/educat/pdf/documentation_of_derivatives.pdf (last visited June 21, 2004) (“Allen & Overy”).
+
+18
+
+Id. at 2.
+
+19
+
+Id. at 2–3.
+
+20
+
+ISDA, A Retrospective of ISDA’s Activities in 1999 10–11 (2000), available at http://www.isda.org/wwa/retrospective_1999_master.pdf (last visited June 21, 2004) (“1999 Retrospective ”).
+
+21
+
+ISDA, A Retrospective of ISDA’s Activities 2003–2004 18 (2004), available at http://www.isda.org/wwa/retrospective_2003–2004_master.pdf (last visited June 21, 2004).
+
+22
+
+The trust mechanism is discussed at section I.B.(ii), infra.
+
+23
+
+Where, as in this case, a federal court is sitting in diversity, it applies the substantive law of the forum state. Curley v. AMR Corp., 153 F.3d 5, 12 (2d Cir.1998) (citation omitted). The district court applied New York law to assess the viability of Eternity’s claims and neither party contests its application.
+
+24
+
+ISDA has published user’s guides for certain of its documentation, see Allen & Overy, supra, at 3–4, but the Association has not published a guide for the 1999 Credit Derivatives Definitions. In its 1999 annual report, the Association noted that “[w]ork on a user’s guide to the Definitions is well under way and should be completed by the end of the first quarter of 2000,” i.e., March 31, 2000. 1999 Retrospective, supra, at 11. The 2000 annual report, released March 2001, indicated that “[w]ork has also continued on the User’s Guide to the 1999 ISDA Credit Derivatives Definitions,” and that the guide would “be completed in 2001.” ISDA, A Retrospective of ISDA’s Activities in 2000 12 (2001), available at http://www.isda.org/wwa/retrospective_2000_master.pdf (last visited June 22, 2004). The project seems to have been abandoned in favor of the Association’s work on the “extensively revised 2003 Definitions” issued early last year. ISDA, A Retrospective of ISDA’s Activities in 2002 8 (2003), available at http://www.isda.org/wwa/retrospective_2001_master.pdf (last visited June 22, 2004). The ISDA’s annual reports reflect some difficulty reaching consensus on particular issues, including the definition of restructuring, and that such issues may have contributed to the delay in publication. See, e.g., ISDA, A Retrospective of ISDA’s Activities 2001 ii-iii, 16–17 (2002), available at http:// www.isda.org/wwa/retrospective_2002_master.pdf (last visited June 22, 2004). These developments may have some bearing on Eternity and Morgan’s intentions.
+
+25
+
+Section 4.7 is subject to any “materiality” threshold applicable to a particular credit default swap. See note 2, supra, and accompanying text. The $10 million materiality threshold in the Eternity CDS contracts does not appear to affect this analysis.
+
+26
+
+ISDA, Restructuring Supplement To the 1999 ISDA Credit Derivatives Definitions § 2.30(b) (2001), available at http:// www.isda.org/c_and_a/pdf/restructuring_supplement.pdf (May 11, 2001) (“Restructuring Supplement”).
+
+27
+
+The Supplement provides:
+Any or all of the following definitions and provisions may be incorporated into a document by wording in the document indicating that ... the document is subject to the 1999 ISDA Credit Derivatives Definitions (as published by the International Swaps and Derivatives Association, Inc. (“ISDA”)), as supplemented by the Restructuring Supplement (the “Definitions”).
+Restructuring Supplement, supra, at 1. The Eternity/Morgan CDS contracts contain no such language.
+
+28
+
+The ISDA’s Credit Derivatives Definitions seem to be evolving to meet unforeseen financial events. See, e.g., CRT Study, supra, at 18–20; Barclay T. Lieb, What’s A Default, DerivativesStrategy.com (April 2001) at http:// www.derivativesstrategy.com/magazine/archive/2001/0101fea2.asp (Last visited June 22, 2004). Commentators and financial institutions note that reaching a consensus on the scope of the restructuring credit event is difficult because of the divergent incentives of credit protection buyers and sellers. See CRT Study, supra, at 18–20; The swap’s emperor’s new clothes, The Economist, Feb. 8, 2001 (noting that “a constant tension exists between the sellers of protection, who want the terms of the contracts to be as narrow as possible, and the buyers, who want them to be wide”). And the Bank for International Settlements has observed that “the market is some distance from an agreed definition that would satisfy risk shedders and takers.” CRT Study, supra, at 20. This view is consistent with the ISDA’s preliminary assessment of the 2003 Credit Derivatives Definitions:
+[A new] choice available under the [2003] Definitions is to trade without Restructuring. This approach has gained support in several areas, and while not a document solution per se, demonstrates that the 2003 ... Definitions reflect another stage in the development of a market still in its relative infancy.
+2002 Retrospective, supra, at 8–9.
+
+29
+
+The district court discussed several other deficiencies in Eternity’s fraud allegations, which we also affirm. See Eternity I, 2002 WL 31426310, at *5–7.
+
+30
+
+The “Schedule to the ISDA Master Swap Agreement” between Eternity and Morgan, effective October 16, 1999, added Part 5, Section 3(g)(ii)(3), which provides that, “in respect of each Transaction under the [Master Swap] Agreement”:
+[Morgan] (a) is not acting as a fiduciary or financial, investment or commodity trading advisor for [Eternity]; (b) has not given to [Eternity] (directly or indirectly through any other person) any assurance, guaranty or representation whatsoever as to the merits (either legal, regulatory, tax, financial, accounting or otherwise) of that Transaction or any documentation related thereto; and (c) has not committed to unwind that transaction.
+(emphasis added).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (3)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Called into Doubt by
+ 1.  In re Caremerica, Inc. 
+409 B.R. 737 , Bkrtcy.E.D.N.C.
+BANKRUPTCY - Avoidance. Trustee’s allegations regarding origins of alleged preferences failed to satisfy plausibility standard.
+July 23, 2009
+Case
+
+6
+
+
+
+
+F.3d
+
+Distinguished by
+2.  IM Partners v. Debit Direct Ltd.
+394 F.Supp.2d 503 , D.Conn.
+INTERNATIONAL LAW - Process. Hague Convention did not preclude direct service of process on foreign defendants
+Sep. 29, 2005
+Case
+
+—
+
+Distinguished by
+3.  Greene v. Gerber Products Co. 
+2017 WL 3327583 , E.D.N.Y.
+COMMERCIAL LAW - Consumer Protection. Safe harbor provisions of New York consumer protection statutes were inapplicable to consumers’ claim against infant formula manufacturer.
+Aug. 02, 2017
+Case
+
+8
+
+
+
+
+12
+
+
+
+
+13
+
+
+
+
+F.3d
+
+

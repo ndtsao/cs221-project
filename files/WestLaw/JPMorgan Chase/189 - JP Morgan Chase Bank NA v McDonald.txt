@@ -1,0 +1,335 @@
+
+
+ 
+
+
+J.P. Morgan Chase Bank, N.A. v. McDonald
+United States Court of Appeals, Seventh Circuit. | July 25, 2014 | 760 F.3d 646 | 2014 WL 3673493
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+J.P. Morgan Chase Bank, N.A. v. McDonald, 760 F.3d 646 (7th Cir. 2014)
+
+All Citations:
+
+760 F.3d 646, 89 Fed.R.Serv.3d 312
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Illinois
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+760 F.3d 646
+United States Court of Appeals,
+Seventh Circuit.
+J.P. MORGAN CHASE BANK, N.A. and J.P. Morgan Securities, LLC, Plaintiffs–Appellants,
+v.
+Jeffrey B. McDONALD and Shelli A. McDonald, Defendants–Appellees.
+No. 13–2635.
+|
+Argued Dec. 9, 2013.
+|
+Decided July 25, 2014.
+Synopsis
+Background: Bank and its affiliated securities dealer brought action for declaratory and injunctive relief against two holders of investment accounts at bank and dealer, seeking to stop arbitration of account holders’ dispute with dealer and two bank employees, relating to losses in investment accounts at bank, and seeking declaration of bank’s nonliability. The United States District Court for the Northern District of Illinois, James B. Zagel, J., dismissed the claim for declaratory relief and dismissed the bank for lack of standing, and later dismissed the rest of the lawsuit based on failure to join bank employees as indispensable parties, 2013 WL 3270641. Band and dealer appealed.
+ 
+Holdings: The Court of Appeals, Hamilton, Circuit Judge, held that:
+ 
+[1] forum-selection clause of investment agreements for accounts at bank were applicable;
+ 
+[2] bank established injury in fact, as element for Article III standing; and
+ 
+[3] bank employees were not indispensable parties.
+ 
+Reversed and remanded.
+ 
+
+
+West Headnotes (10)
+
+
+[1]
+
+Federal Civil ProcedureIn general;  injury or interest
+Federal Civil ProcedureCausation;  redressability
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.2In general;  injury or interest
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.3Causation;  redressability
+
+
+Article III standing requires that the plaintiff establish an injury in fact caused by the defendant and redressable by the court. U.S.C.A. Const. Art. 3, § 2, cl. 1.
+5 Cases that cite this headnote
+
+
+
+[2]
+
+Federal Civil ProcedureIn general;  injury or interest
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.2In general;  injury or interest
+
+
+The required showing for Article III standing is not meant to be a difficult one, particularly at the pleading stage, but the injury in fact must be particular to the plaintiff and either actual or imminent. U.S.C.A. Const. Art. 3, § 2, cl. 1.
+5 Cases that cite this headnote
+
+
+
+[3]
+
+Alternative Dispute ResolutionAgreements to arbitrate
+
+
+25TAlternative Dispute Resolution
+25TIIArbitration
+25TII(I)Exchanges and Dealer Associations
+25Tk411Relations Between Customer-Investors and Broker-Dealers
+25Tk413Agreements to arbitrate
+
+
+The phrase “arising out of,” in forum-selection clause of investment account agreements between bank and two investors, which clause designated courts rather than arbitration as the forum, encompassed claims against two bank employees who managed the investment accounts at bank, relating to investment losses in the accounts, though investors also had investment accounts with a securities dealer affiliated with bank, investment agreements for those accounts required arbitration of disputes, bank employees were registered with Financial Industry Regulatory Authority (FINRA), and FINRA rules allowed investors to request arbitration of disputes with bank employees relating to investment accounts at dealer.
+1 Cases that cite this headnote
+
+
+
+[4]
+
+Alternative Dispute ResolutionPerformance, breach, enforcement, and contest of agreement
+
+
+25TAlternative Dispute Resolution
+25TIIArbitration
+25TII(I)Exchanges and Dealer Associations
+25Tk411Relations Between Customer-Investors and Broker-Dealers
+25Tk414Performance, breach, enforcement, and contest of agreement
+
+
+Bank, although it was not a party to the arbitration proceedings, established injury in fact, as element for Article III standing, in action for injunctive relief against two holders of investment accounts at bank, seeking to stop arbitration of account holders’ dispute with two bank employees who managed the accounts, relating to losses in accounts; bank alleged that arbitration proceeding would violate forum selection clause of investment account agreements, and investors’ alleged breach of forum selection clause constituted a legal injury to bank. U.S.C.A. Const. Art. 3, § 2, cl. 1.
+1 Cases that cite this headnote
+
+
+
+[5]
+
+ContractsBilateral contracts
+ContractsPlaintiffs in general
+
+
+95Contracts
+95IRequisites and Validity
+95I(A)Nature and Essentials in General
+95k1.6Bilateral contracts
+95Contracts
+95VIActions for Breach
+95k330Parties
+95k330(2)Plaintiffs in general
+
+
+Formation of a bilateral contract requires each party to take on one or more legally binding obligations in exchange for the other party doing the same, and when one party fails to honor its commitments, the other party to the contract suffers a legal injury sufficient to create standing even where that party seems not to have incurred monetary loss or other concrete harm.
+1 Cases that cite this headnote
+
+
+
+[6]
+
+ContractsAgreement as to place of bringing suit;  forum selection clauses
+
+
+95Contracts
+95IRequisites and Validity
+95I(F)Legality of Object and of Consideration
+95k127Ousting Jurisdiction or Limiting Powers of Court
+95k127(4)Agreement as to place of bringing suit;  forum selection clauses
+
+
+A contractual forum-selection clause may have figured centrally in the parties’ negotiations and may have affected how they set monetary and other contractual terms, and it may have been a critical factor in their agreement to do business together in the first place, and thus, in all but the most unusual cases, the interest of justice is served by holding parties to their bargain.
+2 Cases that cite this headnote
+
+
+
+[7]
+
+ContractsLegal remedies and proceedings
+Federal CourtsVenue Laid in Wrong Forum
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k206Legal remedies and proceedings
+170BFederal Courts
+170BXIIChange or Transfer of Venue
+170BXII(B)Venue Laid in Wrong Forum
+170Bk2921In general
+
+
+Where a contractual forum-selection clause is invoked by a contracting party that has been hauled into the wrong court, that party can move the court to dismiss or transfer the action to the appropriate venue.
+2 Cases that cite this headnote
+
+
+
+[8]
+
+ContractsLegal remedies and proceedings
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k206Legal remedies and proceedings
+
+
+A contractual forum-selection clause with a company would be worth little if it could be avoided by merely pursuing the company’s affiliate or its employees as individuals.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+Alternative Dispute ResolutionPerformance, breach, enforcement, and contest of agreement
+
+
+25TAlternative Dispute Resolution
+25TIIArbitration
+25TII(I)Exchanges and Dealer Associations
+25Tk411Relations Between Customer-Investors and Broker-Dealers
+25Tk414Performance, breach, enforcement, and contest of agreement
+
+
+Two employees of bank, who managed two investors’ accounts at bank, were not required parties in action by bank and its affiliated securities dealer for injunctive relief against investors, seeking to stop arbitration of account holders’ dispute with dealer and two bank employees, relating to losses in investment accounts at bank, though injunction might incidentally affect employees; bank and employees had identical interest in stopping arbitration, and that interest would be protected without employees’ participation in the action. Fed.Rules Civ.Proc.Rule 19(a)(1)(A, B), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[10]
+
+InjunctionScope of Relief in General
+
+
+212Injunction
+212IInjunctions in General;  Permanent Injunctions in General
+212I(A)Nature, Form, and Scope of Remedy
+212k1013Scope of Relief in General
+212k1014In general
+
+
+Courts limit the scope of injunctive relief to the case or controversy actually before them.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*648 David M. Lederkramer, Attorney, Proskauer Rose LLP, New York, NY, for Plaintiffs–Appellants.
+Samuel B. Edwards, Attorney, Shepherd, Smith, Edwards & Kantas, LLP, Houston, TX, for Defendants–Appellees.
+Before WILLIAMS, SYKES, and HAMILTON, Circuit Judges.
+Opinion
+HAMILTON, Circuit Judge.
+
+Businesses often seek to bind customers to arbitration agreements because they view arbitration as more efficient and predictable than going to court. In an unusual role reversal, this case features a large company trying its best to avoid arbitration with two of its former customers. That company, J.P. Morgan Chase Bank, has sued its former investment account holders, Jeffrey and Shelli McDonald, in federal district court to stop them from arbitrating a dispute against an affiliate of the Bank and two Bank employees, but not against the Bank.
+ 
+The district court dismissed the Bank’s case, finding (a) that the Bank lacked standing to block the arbitration to which it was not a party and (b) that the two Bank employees named in the arbitration were indispensable parties to the federal lawsuit. (One of the employees could not be joined without defeating the court’s diversity jurisdiction.) We reverse and remand. The Bank has standing to sue because the arbitration would violate a forum-selection clause in the relevant contract with the McDonalds. The McDonalds cannot avoid that forum-selection clause by the tactic of naming only an affiliate of the Bank and the two Bank employees as respondents in the arbitration. We also find that the two employees are not required parties to this federal lawsuit. Our decision should not be understood as touching the merits of the McDonalds’ substantive claims. This appeal is limited to forum selection.
+ 
+
+I. Factual and Procedural Background
+This case stems from investment losses the McDonalds suffered during the recent financial crisis. The couple opened two accounts with J.P. Morgan entities in July 2007: an investment account with J.P. Morgan Chase Bank itself (we call it “the Bank” here) and a brokerage account with J.P. Morgan Securities (“JPMS”), the Bank’s affiliated securities dealer. Different contracts governed the two accounts, and those contracts specified different means of resolving disputes about each account. Those differences control the outcome of this appeal.
+ 
+The Bank managed the money in the McDonalds’ investment account with the Bank itself, while the McDonalds directed the funds in their JPMS brokerage account. *649 By the end of 2008, the McDonalds had lost approximately $1.5 million, about a quarter of their initial nest egg. The losses came entirely from the investment account run by the Bank. The small portion of their money that the McDonalds held in their brokerage account with JPMS seems to have actually produced a profit.
+ 
+The McDonalds filed an arbitration demand in August 2011 alleging breach of fiduciary duty, self-dealing, and other forms of misrepresentation and mismanagement. They did not name the Bank as a respondent in the arbitration. Instead, they named only JPMS and two employees of the Bank, Erin Ohlms and John Perry, who set up and oversaw the McDonalds’ accounts. The McDonalds claimed that Ohlms and Perry ignored their stated investment goals by putting nearly all their money in an illiquid proprietary hedge fund from which they could not withdraw it until months after the financial markets plummeted in September 2008. The arbitration claim charged JPMS (not the Bank) with vicarious liability for failing to supervise its agents.
+ 
+The parties agree that arbitration is appropriate for disputes stemming from the McDonalds’ brokerage account with JPMS, which is registered with the Financial Industry Regulatory Authority, as are Ohlms and Perry for that matter. FINRA is an industry self-regulatory organization, and under its rules JPMS, Ohlms, and Perry were subject to arbitration at the McDonalds’ request. See FINRA Rule 12200, available at http://finra.complinet.com (“Parties must arbitrate a dispute” if customer requests arbitration and “dispute arises in connection with the business activities” of FINRA member or registered representative); see generally Aslin v. FINRA, Inc., 704 F.3d 475, 476 (7th Cir.2013) (describing scope and origins of FINRA’s authority). This obligation is reiterated in the contract governing the McDonalds’ JPMS brokerage account, which provided that disputes “arising out of or relating to” the account were to be arbitrated. That same section of the contract, however, began with a prominent warning that the arbitration language applied only to accounts held with JPMS and “not to any other account at JPMorgan Private Bank.” The Bank itself is not a member of FINRA and is not subject to its arbitration rules.
+ 
+The McDonalds’ separate investment account with the Bank was governed by a separate set of contracts. They did not provide for arbitration. They included a forum-selection clause. The clause stated that the parties would “submit to the exclusive jurisdiction of any federal or state court located in the county where the office holding my Account is situated for all legal proceedings arising out of this Agreement.” Because the account with the Bank was managed from Chicago, this language required the McDonalds to litigate any dispute concerning their account with the Bank in a state or federal court located in Cook County, Illinois.
+ 
+After the McDonalds made their demand for arbitration, the Bank sought to enforce the forum-selection clause by filing this suit against the McDonalds in federal district court in Chicago. JPMS was also a plaintiff, but Ohlms and Perry were not. If Perry were a plaintiff, he would have defeated diversity jurisdiction because he, like the McDonalds, is a citizen of Indiana. The Bank asked the district court for a declaration that it had not breached any duty to the McDonalds and was not liable for the losses to their account with JPMS. Both plaintiffs also sought an injunction prohibiting the McDonalds from pursuing their ongoing arbitration action against JPMS, Ohlms, and Perry.
+ 
+The district court initially granted a preliminary injunction blocking the arbitration. *650 Six months later, however, the district court dismissed the Bank’s claim for declaratory relief. The court found that any case or controversy between the Bank and the McDonalds over losses to the investment account was not sufficiently imminent or concrete to warrant a declaratory judgment. See MedImmune, Inc. v. Genentech, Inc., 549 U.S. 118, 127, 127 S.Ct. 764, 166 L.Ed.2d 604 (2007). At that time, the McDonalds had not brought an action against the Bank itself. They did so shortly afterward, in an Illinois state court, although that case has since been dismissed. The McDonalds have also sued JPMS, Ohlms, and Perry in an Indiana state court to compel arbitration. That case remains pending.
+ 
+After dismissing the Bank’s claim for declaratory relief, the court dismissed the Bank for lack of standing, finding that it could not seek to halt an arbitration to which it was not a party. The court then dismissed the rest of the lawsuit on the ground that the Bank and JPMS had failed to join Ohlms and Perry, who the court held were both required and indispensable parties under Federal Rule of Civil Procedure 19 because it could not enjoin the arbitration in their absence. The Bank and JPMS have appealed.
+ 
+
+II. Analysis
+A. Standing to Enforce the Forum–Selection Clause
+[1] [2] We begin with the issue of the Bank’s Article III standing to bring this suit. Standing requires that the plaintiff establish an “injury in fact” caused by the defendant and redressable by the court. Sprint Communications Co. v. APCC Servs., Inc., 554 U.S. 269, 273–74, 128 S.Ct. 2531, 171 L.Ed.2d 424 (2008). This showing is not meant to be a difficult one, particularly at the pleading stage, but the injury in fact must be particular to the plaintiff and either “actual or imminent.” Lujan v. Defenders of Wildlife, 504 U.S. 555, 560, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992). The district court reasoned that even if the McDonalds’ attempt to arbitrate with JPMS, Ohlms, and Perry violated their contract with the Bank, the Bank did not suffer any injury in fact because it was not itself named as a party to the arbitration.
+ 
+[3] Before considering this reasoning, we first address the McDonalds’ threshold argument that the arbitration did not concern a dispute “arising out of” their agreement with the Bank so that the forum-selection clause is not implicated at all and the Bank has suffered no injury. The McDonalds implausibly assert that the arbitration concerns only the respondents’ duties as FINRA members and is entirely unrelated to the investment account they held with the Bank. But the McDonalds’ FINRA claim concerns $1.5 million in losses in that account with the Bank. The phrase “arising out of” easily encompasses that dispute. See Abbott Labs. v. Takeda Pharm. Co., 476 F.3d 421, 424 (7th Cir.2007) (claim for breach of fiduciary duty arose out of parties’ contract); Omron Healthcare, Inc. v. Maclaren Exports Ltd., 28 F.3d 600, 603 (7th Cir.1994) (“all disputes the resolution of which arguably depend on the construction of an agreement ‘arise out of’ that agreement” for purposes of a forum-selection clause). The forum-selection clause controls where the McDonalds can bring their claim.
+ 
+[4] [5] The McDonalds’ attempt to arbitrate appears to have violated the clause of their contract with the Bank, and the Bank’s claim of the violation is enough to give the Bank standing to bring this action to enforce the clause. Formation of a bilateral contract requires each party to take on one or more legally binding obligations in exchange for the other party doing the same. When one party fails to *651 honor its commitments, the other party to the contract suffers a legal injury sufficient to create standing even where that party seems not to have incurred monetary loss or other concrete harm. E.g., Hydrite Chem. Co. v. Calumet Lubricants Co., 47 F.3d 887, 891 (7th Cir.1995) (noting that a victim of breach can sue for nominal damages); 3 E. Allan Farnsworth, Farnsworth on Contracts § 12.8, p. 189 (2004).
+ 
+[6] In this respect, breach of a forum-selection clause is no different from breach of other contractual provisions. See Northwestern Nat’l Ins. Co. v. Donovan, 916 F.2d 372, 375–76 (7th Cir.1990) (courts should “treat a forum selection clause basically like any other contractual provision” and enforce it, absent ordinary contract defenses such as fraud or mistake). As the Supreme Court recently emphasized, a forum-selection clause “may have figured centrally in the parties’ negotiations and may have affected how they set monetary and other contractual terms; it may, in fact, have been a critical factor in their agreement to do business together in the first place. In all but the most unusual cases, therefore, ‘the interest of justice’ is served by holding parties to their bargain.” Atlantic Marine Constr. Co. v. U.S. Dist. Court for Western Dist. of Texas, ––– U.S. ––––, 134 S.Ct. 568, 583, 187 L.Ed.2d 487 (2013); see also Carnival Cruise Lines, Inc. v. Shute, 499 U.S. 585, 595, 111 S.Ct. 1522, 113 L.Ed.2d 622 (1991). The Bank’s allegation that the McDonalds violated the terms of this bargain when they chose a forum other than a court in Cook County to litigate a dispute arising out of their account with the Bank is sufficient to give the Bank standing.
+ 
+In this case, the question is not one of abstract principle. The Bank has a very real financial interest in the arbitration for a simple reason. It will ultimately foot the bill. The Bank will have to indemnify its employees Ohlms and Perry for all costs resulting from the arbitration. This obligation is both written into the Bank’s bylaws and imposed externally by state statute, see 805 Ill. Comp. Stat. 5/8.75 (requiring indemnification where employee successfully defends suit; permitting it in other cases); Ind.Code § 23–1–37–13 (requiring indemnification for corporate directors and officers; permitting it for employees), as well as by background principles of agency law, see Admiral Oriental Line v. United States, 86 F.2d 201, 202 (2d Cir.1936) (L.Hand, J.); Restatement (Third) of Agency § 8.14 cmt. b (principal has duty to indemnify agent for “litigation-related expenses”).
+ 
+[7] The McDonalds accept the general proposition that a forum-selection clause can be invoked by a contracting party when that party itself has been hauled into the wrong court. The defendant in such cases can move the court to dismiss or transfer the action to the appropriate venue. See Atlantic Marine, 134 S.Ct. at 579–80; IFC Credit Corp. v. Aliano Bros. Gen. Contractors, Inc., 437 F.3d 606, 610 (7th Cir.2006). The McDonalds argue that their case is different because they are not seeking to force their contractual counterpart, the Bank, into the wrong forum. They have instead pursued other parties—employees and an affiliated company—who did not themselves sign the contract with the forum-selection clause.
+ 
+This distinction makes no difference to the Bank’s standing. As explained above, the dispute “arises out of” the investment account agreement with the Bank because that account was the source of the McDonalds’ financial losses. The McDonalds were contractually obligated to resolve that dispute in the proper forum.
+ 
+The Bank does not lose standing to enforce this obligation simply because other persons arguably played a role in the alleged breach. That will often be the case, *652 for example, in suits to enforce non-compete or exclusivity clauses, see, e.g., Outsource International, Inc. v. Barton, 192 F.3d 662, 665–66 (7th Cir.1999) (enforcing non-compete clause against former employee who started competing business and hired away former co-workers); Walgreen Co. v. Sara Creek Property Co., 966 F.2d 273, 274 (7th Cir.1992) (enjoining mall landlord’s lease with new commercial tenant that violated exclusivity clause), or suits to block the sale of land or unique goods that the defendant has promised to another buyer, see, e.g., Kalinowski v. Yeh, 9 Haw.App. 473, 847 P.2d 673, 676 (1993) (enforcing condominium sales contract despite seller having contracted with second buyer); R.L. Kimsey Cotton Co. v. Ferguson, 233 Ga. 962, 214 S.E.2d 360, 363 (1975) (ordering specific performance for sale of unique goods).
+ 
+[8] This case for standing is even stronger. A forum-selection clause with a company would be worth little if it could be avoided by merely pursuing the company’s affiliate or its employees as individuals. Our decision in American Patriot Insurance Agency, Inc. v. Mutual Risk Management, Ltd., 364 F.3d 884 (7th Cir.2004), makes clear that the McDonalds’ obligations could not be so easily avoided. That case involved a number of affiliated insurance companies that entered into a web of contracts with the plaintiff. The plaintiff sued some but not all of the insurers. We allowed the named defendants to enforce a forum-selection clause contained in one of the contracts even though none of the defendants were signatories to that particular document. The contracts, we explained, functioned as a package. If a plaintiff could “defeat a forum-selection clause by its choice of provisions to sue on, of legal theories to press, and of defendants to name in the suit,” then “such clauses would be empty.” Id. at 888; see also Frietsch v. Refco, Inc., 56 F.3d 825, 827–28 (7th Cir.1995); Hugel v. Corp. of Lloyd’s, 999 F.2d 206, 209–10 (7th Cir.1993). That reasoning is equally applicable here, where the Bank signed the particular contract at issue but was not itself named as a respondent in the McDonalds’ arbitration demand.
+ 
+The Second Circuit dealt with an even more closely analogous situation in Wachovia Bank, N.A. v. VCG Special Opportunities Master Fund, Ltd., 661 F.3d 164 (2d Cir.2011). VCG, a hedge fund, entered into a credit default swap with Wachovia Bank. VCG later initiated FINRA arbitration against a bank subsidiary, claiming the subsidiary had fraudulently induced it to make the deal. Wachovia Bank and its subsidiary sued to enforce a “non-reliance” clause in the bank’s contract with VCG prohibiting VCG from claiming reliance on representations by the subsidiary. VCG argued that the bank had no standing to enforce the clause because it was not itself named in the arbitration. Not surprisingly, the district court held, in reasoning adopted by the Second Circuit, that the bank had standing because “VCG deprived Wachovia Bank of the benefit of a bargained-for provision of their credit default swap agreement” when it sought to arbitrate against the subsidiary. Wachovia Bank v. VCG Special Opportunities Master Fund, Ltd., 888 F.Supp.2d 380, 383 (S.D.N.Y.2012), aff’d, 518 Fed.Appx. 44 (2d Cir.2013). This reasoning is sound and every bit as applicable to this contract between the McDonalds and the Bank.
+ 
+
+B. Bank Employees are Not Required Parties
+[9] The Bank and JPMS also challenge the district court’s decision to dismiss the rest of the suit under Federal Rule of Civil Procedure 12(b)(7) for failure to join Ohlms and Perry as plaintiffs under Rule 19. The court concluded that the two employees were required parties under *653 Rule 19(a) because it could not enjoin the arbitration against them absent their presence in the lawsuit, and thus could not “accord complete relief among existing parties.” Rule 19(a)(1)(A). Continuing on to Rule 19(b), the court determined that Ohlms and Perry were indispensable parties and thus the litigation should not be allowed to proceed without them. We do not reach the district court’s reasoning on Rule 19(b). We hold that Ohlms and Perry were not required parties under Rule 19(a).
+ 
+[10] Nothing prevented the district court from according complete relief between the parties before it in the form of an injunction against the McDonalds not to arbitrate any claim for losses to their account with the Bank. That such an injunction might incidentally affect persons who are not parties to this litigation (such as employees of the party) is of course unremarkable. The rule that courts limit the scope of injunctive relief to the case or controversy actually before them, see Hills v. Gautreaux, 425 U.S. 284, 293–94, 96 S.Ct. 1538, 47 L.Ed.2d 792 (1976) (sketching “basic limitations on the exercise of the equity power of the federal courts”); PepsiCo, Inc. v. Redmond, 54 F.3d 1262, 1272 (7th Cir.1995), will not be broken in this instance by an injunction preventing one party from violating its contractual obligation to the other party.
+ 
+A person may also be considered a required party if “that person claims an interest relating to the subject of the action” and that interest will either be endangered by going forward in her absence or else will threaten to whipsaw an existing party with inconsistent obligations. Rule 19(a)(1)(B). The district court did not cite these grounds in its opinion, and neither applies to Ohlms and Perry. To the extent the employees have an interest in the present lawsuit, it is identical to their employer’s: an end to the arbitration. This interest will therefore be protected whether or not the individual employees are parties to this suit. See Washington v. Daley, 173 F.3d 1158, 1167 (9th Cir.1999) (“As a practical matter, an absent party’s ability to protect its interest will not be impaired by its absence from the suit where its interest will be adequately represented by existing parties to the suit.”); see also Dixon v. Edwards, 290 F.3d 699, 714 (4th Cir.2002).
+ 
+Counsel for the McDonalds suggested at oral argument that the employees’ interests may differ from their employer’s in that Ohlms and Perry might prefer confronting the McDonalds in arbitration rather than in federal court. (The features of arbitration that make it attractive to corporate defendants facing consumer claimants are many and can include the presence of an industry representative among the arbiters, secrecy, limits on discovery and evidence, and speed.) But that is not the choice Ohlms and Perry face. If the arbitration is enjoined, they won’t have to arbitrate or litigate, at least in federal court. The sole forum in which Ohlms and Perry will have to appear is the parallel state court suit brought by the McDonalds in Indiana—where the employees, like their employer here, are fighting attempts to compel arbitration.
+ 
+In short, there is no reason the individual employees need to be named parties to this lawsuit between their employer and its customers. The McDonalds remain free to pursue claims concerning the losses to their investment account with the Bank, but they will have to do so in a state or federal court in Cook County. They can also seek arbitration of any claims they have arising from their brokerage account with JPMS. But under the terms of the separate contracts they signed with the separate companies—the Bank and JPMS—the McDonalds cannot confuse the two. The district court’s decisions dismissing *654 the Bank for lack of standing and dismissing the rest of the action for failure to join required and indispensable parties are REVERSED and the case is REMANDED for further proceedings consistent with this opinion, including possible reinstatement of injunctive relief against the arbitration demanded by the McDonalds.
+ 
+All Citations
+760 F.3d 646, 89 Fed.R.Serv.3d 312
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

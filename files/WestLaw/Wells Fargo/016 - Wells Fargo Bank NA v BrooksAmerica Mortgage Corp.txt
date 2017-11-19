@@ -1,0 +1,223 @@
+
+
+
+
+
+Wells Fargo Bank, N.A. v. BrooksAmerica Mortgage Corp.
+United States Court of Appeals, Second Circuit. | August 15, 2005 | 419 F.3d 107 | 2005 WL 1941386
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Bluetarp Financial, Inc. v. Eastern Materials Corp., D.Me., July 24, 2009
+
+standard Citation:
+
+Wells Fargo Bank, N.A. v. BrooksAmerica Mortg. Corp., 419 F.3d 107 (2d Cir. 2005)
+
+All Citations:
+
+419 F.3d 107, 57 UCC Rep.Serv.2d 980
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:06 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Bluetarp Financial, Inc. v. Eastern Materials Corp., D.Me., July 24, 2009
+419 F.3d 107
+United States Court of Appeals,
+Second Circuit.
+WELLS FARGO BANK, N.A., f/k/a Wells Fargo Bank Minnesota, N.A., Indenture Trustee, Plaintiff-Appellee,
+v.
+BROOKSAMERICA MORTGAGE CORPORATION and Michael Wayne Brooks, Defendants-Appellants.
+Docket No. 04-5306-CV(L), 04-5768(CON).
+|
+Argued: June 20, 2005.
+|
+Decided: Aug. 15, 2005.
+Synopsis
+Background: Assignee brought breach of contract suit and declaratory judgment action against equipment lessee to recover rental payments. The United States District Court for the Southern District of New York, Baer, J., 2004 WL 2072358, entered summary judgment for assignee. Lessee appealed.
+ 
+[Holding:] The Court of Appeals, Keenan, District Judge, held that good-faith, for-value assignee was entitled to enforce equipment lease containing hell or high water clause notwithstanding lessor’s default on its obligations.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+BailmentCompensation of Bailor for Use of Property
+
+
+50Bailment
+50k20Compensation of Bailor for Use of Property
+
+
+If finance lease contains hell or high water clause, lessee must make payments under New York law regardless of defective performance on part of lessor.
+12 Cases that cite this headnote
+
+
+
+[2]
+
+BailmentCompensation of Bailor for Use of Property
+
+
+50Bailment
+50k20Compensation of Bailor for Use of Property
+
+
+Under New York law, non-performance by the lessor is irrelevant to enforceability of payment provisions of equipment lease containing hell or high water clause, at least when the lessee was a sophisticated party and the party asserting the right to rental payments is a good-faith assignee. N.Y.McKinney’s Uniform Commercial Code § 9-403(c).
+14 Cases that cite this headnote
+
+
+
+[3]
+
+BailmentRights and Liabilities as to Third Persons
+
+
+50Bailment
+50k21Rights and Liabilities as to Third Persons
+
+
+Under New York law, good-faith, for-value assignee was entitled to enforce equipment lease that waived defenses against assignees and contained hell and high water clause that made lessee’s obligation to pay rent under equipment lease absolute and unconditional, notwithstanding lessor’s default on its obligations to pay purchase price for leased equipment, where lessee was a sophisticated party. N.Y.McKinney’s Uniform Commercial Code § 9-403(c).
+12 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*108 Steven D. Karlin, Platzer, Swergold, Karlin, Levine, Goldberg & Jaslow, New York, NY, for Defendants-Appellants.
+Robert A. Jaffe (Jeffrey S. Jacobovitz and Ellen Bass, on the brief), Kutak Rock LLP, Washington, DC, for Plaintiff-Appellee.
+Before: MINER and STRAUB, Circuit Judges, and KEENAN *,District Judge.
+Opinion
+KEENAN, District Judge.
+
+BrooksAmerica Mortgage Corporation (“BrooksAmerica”) and its principal officer, Michael Wayne Brooks (“Brooks”), appeal from the denial of their motion for summary judgment, and from the grant of the cross-motion for summary judgment of Wells Fargo Bank, N.A. (“Wells Fargo”). The United States District Court for the Southern District of New York (Baer, J.) awarded Wells Fargo all rental payments past due under an equipment lease, with pre-judgment interest thereon; all present and future rent payments as they become due and owing; and attorneys’ fees as provided under the lease. Appellants contend that the court erred in granting this relief and that it should properly have granted them summary judgment, dismissing the action. Because the district court was correct in holding the lease contract, and particularly the “hell or high water” clause contained therein, valid, we affirm.
+ 
+
+BACKGROUND
+Defendant-Appellant BrooksAmerica Mortgage Corp. (“BrooksAmerica”), in late 2000, found itself in need of capital. To obtain it, BrooksAmerica entered into a transaction (“Transaction”) with Terminal Marketing Co. (“Terminal”) pursuant to which BrooksAmerica would sell some of its computer equipment (“Equipment”) to Terminal for approximately $250,000, and *109 Terminal would, in turn, lease that equipment to BrooksAmerica for $9,827.66 per month for thirty-six months. At the end of the thirty-six months, BrooksAmerica would have the option to re-purchase the equipment for $101.
+ 
+On October 26, 2000, Michael Wayne Brooks (“Brooks”), as principal of BrooksAmerica, signed several documents to effect the Transaction. The first document was labeled a “Lease” and included two clauses that are of significance in this case. The first clause, known as a “hell or high water” clause, made BrooksAmerica’s obligation to make monthly payments “absolute and unconditional.” Contract ¶ 5. The second clause provided that the contract was assignable by Terminal without notice, and that an assignee’s rights “SHALL BE FREE FROM ALL DEFENSES, SETOFFS OR COUNTERCLAIMS WHICH LESSEE MAY BE ENTITLED TO ASSERT.” Contract ¶ 14 (emphasis in original).
+ 
+Brooks also signed a “Delivery and Acceptance Certificate” (“Certificate”), which stated that Terminal had “fully and satisfactorily performed all covenants and conditions required to be performed ... under the lease,” and reiterated BrooksAmerica’s assent to assignment of the lease, to the “absolute and unconditional” obligation to make monthly payments, and to the waiver of defenses against any assignee. At the same time, Brooks signed a Bill of Sale that transferred the equipment and all BrooksAmerica’s rights therein to Terminal. Brooks signed all these documents even though Terminal had not yet paid BrooksAmerica the $250,000 for the equipment.
+ 
+About one month later, in late November 2000, Terminal sold and assigned its interest in the lease to a related business entity, Terminal Finance Corporation II (“TFC II”), an entity formed for the sole purpose of facilitating transactions of this sort. Neither Terminal nor TFC II are parties to this action.
+ 
+TFC II borrowed the funds to purchase the lease from a group of investors, or noteholders, for whom Wells Fargo acts as indenture trustee, and assigned the lease to Wells Fargo. In all, the noteholders paid over $245,000 towards the purchase of the lease. Thus, Wells Fargo holds all rights and interests in the lease and in the equipment at issue in the Transaction.
+ 
+A few months elapsed, during which time, according to BrooksAmerica, additional negotiations took place even though the relevant documents had already been signed. However, BrooksAmerica did not receive payment from Terminal for the sale of the equipment. BrooksAmerica sent a check for the first and last months’ lease payments, but stopped payment on that check when the lump sum from Terminal did not materialize. It turns out that Terminal, shortly after executing the contract, ran out of money and ceased operations.
+ 
+When BrooksAmerica failed to make payments under the lease, Wells Fargo brought this breach of contract and declaratory judgment action against BrooksAmerica in New York State Supreme Court. BrooksAmerica then removed the case to the United States District Court for the Southern District of New York based on the court’s diversity jurisdiction. BrooksAmerica is a California corporation with its principal place of business in California; Michael Brooks is a resident of California; and Wells Fargo is a national bank with its principal place of business in Minnesota.
+ 
+The parties cross-moved for summary judgment. Wells Fargo contended that, based on the documents signed by Michael Brooks, Wells Fargo was entitled to all back payments on the lease, in addition to *110 all future payments, plus pre-judgment interest and attorneys’ fees. BrooksAmerica argued that the case should be dismissed. The district court granted Wells Fargo’s motion and denied BrooksAmerica’s motion. This appeal followed.
+ 
+
+DISCUSSION
+We begin by noting our agreement with the thoughtful and well-reasoned opinion of the district court. We write only to confirm that, under New York Law, “hell or high water” clauses are enforceable in the context presented here, i.e., by good faith assignees against sophisticated parties.1
+ 
+We review a district court’s grant of summary judgment de novo and to determine whether the court properly concluded that there was no genuine issue of material fact so that the moving party was entitled to judgment as a matter of law. Miller v. Wolpoff & Abramson, L.L.P., 321 F.3d 292, 300 (2d Cir.2003). Likewise, the interpretation of a contract is reviewed de novo. See Rubens v. Mason, 387 F.3d 183, 188 (2d Cir.2004).
+ 
+[1] The hell or high water clause at issue here makes BrooksAmerica’s obligation to pay rent absolute and unconditional. In the context of a finance lease containing a hell or high water clause, the lessee must make payments regardless of defective performance on the part of the lessor, that is, “come hell or high water.” See 19 Richard A. Lord, Williston on Contracts § 53:28 (4th ed.2004) (hereinafter “Williston”). At the district level, “[c]ourts have uniformly given full force and effect to ‘hell and high water’ clauses in the face of various kinds of defaults by the party seeking to enforce them.” In re O.P.M. Leasing Servs., Inc., 21 B.R. 993, 1006-07 (Bankr.S.D.N.Y.1982). Likewise, the Tenth Circuit has held that, in the absence of fraud, the lessor’s performance, or any other fact that a lessee might submit in opposition to summary judgment, is irrelevant. See Colo. Interstate Corp. v. CIT Group Equip. Fin., Inc., 993 F.2d 743, 749 (10th Cir.1993); O.P.M., 21 B.R. at 1007; Williston § 53.28.
+ 
+[2] BrooksAmerica’s attempt to frame the issue as one of Terminal’s non-performance, such that BrooksAmerica’s obligations under the lease never arose at all, is unavailing. Non-performance by the lessor is irrelevant, at least when the lessee was a sophisticated party and the party asserting the right to rental payments is a good-faith assignee. See N.Y. U.C.C. § 9-403(c) (an agreement by parties that the contract can be assigned free of any defenses which an account-debtor may have against the assignor is enforceable by a good-faith, for-value assignee against ordinary defenses, not including fraud, duress, or the like); § 3-305(a) (generally, setting forth rights of a holder in due course).2
+ 
+[3] BrooksAmerica does not dispute that Wells Fargo purchased the lease assignment in good faith and for value. Moreover, as a certified mortgage broker with over twenty years’ experience, Michael Brooks is a sophisticated businessman who willingly executed an unambiguous contract and accompanying documents. This Court will not bail him and BrooksAmerica out just because they are now unhappy with the contract. See John Hancock Mut. Life Ins. Co. v. Amerford *111 Intern. Corp., 22 F.3d 458, 462 (2d Cir.1994). Their dissatisfaction is more properly aimed at Terminal, the alleged wrongdoer.
+ 
+
+CONCLUSION
+For the foregoing reasons, we affirm the district court’s grant of Wells Fargo’s motion, and denial of BrooksAmerica’s cross-motion, for summary judgment.
+ 
+All Citations
+419 F.3d 107, 57 UCC Rep.Serv.2d 980
+Footnotes
+
+1
+
+The parties agree that New York law, which is designated in the contract, applies in this case.
+
+2
+
+Given the facts of this case, we need not reach the issue of whether, under New York Law, “hell or high water” clauses are enforceable in all circumstances.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Bluetarp Financial, Inc. v. Eastern Materials Corp. 
+2009 WL 2242617 , D.Me.
+In this dispute arising out of defendant Eastern Materials Corporation’s (“Eastern’s”) nonpayment of sums that plaintiff BlueTarp Financial, Inc. (“BlueTarp”) contends are due it...
+July 24, 2009
+Case
+
+1
+
+
+
+
+2
+
+
+
+
+3
+
+
+
+
+F.3d
+
+

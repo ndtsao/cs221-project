@@ -1,0 +1,208 @@
+
+
+
+
+
+Breslow v. Wells Fargo Bank, N.A.
+United States Court of Appeals, Eleventh Circuit. | June 9, 2014 | 755 F.3d 1265 | 2014 WL 2565984
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Legg v. Quicken Loans, Inc., S.D.Fla., February 25, 2015
+
+standard Citation:
+
+Breslow v. Wells Fargo Bank, N.A., 755 F.3d 1265 (11th Cir. 2014)
+
+All Citations:
+
+755 F.3d 1265, 60 Communications Reg. (P&F) 934, 24 Fla. L. Weekly Fed. C 1405
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Florida
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:06 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Legg v. Quicken Loans, Inc., S.D.Fla., February 25, 2015
+755 F.3d 1265
+United States Court of Appeals,
+Eleventh Circuit.
+Lynn BRESLOW, individually and on behalf of “R.B.,” a minor, Plaintiff–Appellee,
+v.
+WELLS FARGO BANK, N.A., a national bank, d.b.a. Wachovia Bank N.A., Defendant–Appellant.
+No. 12–14564.
+|
+June 9, 2014.
+Synopsis
+Background: Cell phone subscriber, both individually and on behalf of minor son who used cell phone in question, brought suit against bank for autodialing cell phone number in alleged violation of provision of the Telephone Consumer Protection Act (TCPA). The United States District Court for the Southern District of Florida, No. 1:11–cv–22681–RNS, Robert N. Scola, Jr., J., 857 F.Supp.2d 1316, granted plaintiffs’ motion for partial summary judgment, and bank appealed.
+ 
+Holding: The Court of Appeals held that bank violated the TCPA.
+ 
+Affirmed.
+ 
+Opinion, 2014 WL 2523091, vacated and superseded.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+TelecommunicationsIllegal or improper purposes
+
+
+372Telecommunications
+372IVWireless and Mobile Communications
+372k1053Illegal or improper purposes
+
+
+Bank that autodialed cell phone number with consent of individual to whom that number had previously been assigned, but without consent of current user of that cell phone number or his mother, the subscriber who paid bills associated with that number, thereby violated provision of the Telephone Consumer Protection Act (TCPA) that prohibited the autodialing of cell phone numbers except with express prior consent of the “called party”; “called party,” within meaning of this TCPA exception, was not the intended recipient of phone calls, i.e., the individual to whom cell phone number had previously been assigned, but subscriber or her son. Telephone Consumer Protection Act of 1991, § 3(a), 47 U.S.C.A. § 227(b)(1)(A).
+22 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1265 Scott David Owens, Owens Law Office, Hallandale, FL, for Plaintiff–Appellee.
+Jan T. Chilton, Severson & Werson, San Francisco, CA, Elliot Aaron Hallak, Amy Rubin, Fox Rothschild, LLP, West Palm Beach, FL, Scott James Hyman, Eric J. Troutman, Severson & Werson, APC, Irvine, CA, for Defendant–Appellant.
+*1266 Appeal from the United States District Court for the Southern District of Florida. D.C. Docket No. 1:11–cv–22681–RNS.
+Before TJOFLAT and WILSON, Circuit Judges, and PROCTOR,* District Judge.
+Opinion
+PER CURIAM:
+
+On the Court’s own motion, we vacate the original opinion in this case, issued on June 5, 2014, and substitute the following opinion in its place.
+ 
+The Telephone Consumer Protection Act of 1991 (“TCPA”), Pub.L. No. 102–243, 105 Stat. 2394, makes it unlawful to make any call using an automatic telephone dialing system (an “autodial system”) to a cellular telephone without the prior express consent of the “called party.” 47 U.S.C. § 227(b)(1)(A)(iii) (2006).1 In this case, which comes to us on interlocutory appeal, we are asked to determine the proper interpretation of the term “called party.”
+ 
+The facts of this case are straightforward and for the most part undisputed. Wells Fargo made multiple calls2 using an autodial system to a cell phone number assigned to Lynn Breslow. Breslow did not consent to Wells Fargo’s use of an autodial system to call the number. Although Breslow was the named account holder for the cell phone number, she was not the primary user of the phone. The cell phone was used exclusively by her minor child, “R.B.”3
+ 
+On August 11, 2011, Breslow, individually and on behalf of “R.B.,” filed suit in the District Court for the Southern District of Florida, alleging that Wells Fargo violated the TCPA’s prohibition on autodialing cell phones without the express consent of the called party.4 Following discovery, Breslow filed a motion for partial summary judgment on the issue of Wells Fargo’s liability. In response, Wells Fargo also filed a motion for summary judgment. It accompanied its motion with an affidavit of one of its employees, who stated that Wells Fargo had called the cell phone number *1267 used by R.B. to collect a debt from a former customer who had listed the phone number on a Wells Fargo account application. The affidavit further stated that Wells Fargo was unaware that the cell phone number was no longer assigned to the former customer and that the former customer never revoked his consent or requested that Wells Fargo cease calling the number. Wells Fargo argued that this former customer—the intended recipient of the autodial call—was the “called party” for purposes of § 227, and because he had consented to being called via automatic dialing system, the TCPA’s prohibition did not apply.
+ 
+The District Court concluded that the “ ‘called party’ for purposes of [47 U.S.C.] § 227(b)(1)(A)(iii) was not [the] Former Customer, but the Plaintiffs,” Breslow and R.B. Accordingly, the court granted partial summary judgment in their favor. Wells Fargo then sought a certification for interlocutory appeal, see 28 U.S.C. § 1292(b),5 which this court granted on the issue of the proper meaning of the term “called party.”6
+ 
+During the pendency of this appeal, another panel of this court, faced with the same question, concluded in a published opinion that “called party,” for purposes of § 227(b)(1)(A)(iii), means the subscriber to the cell phone service. See Osorio v. State Farm Bank, F.S.B., 746 F.3d 1242, 1251 (11th Cir.2014). That panel rejected the defendant’s contention that called party could mean intended recipient. Id. at 1252.
+ 
+“[I]t is the firmly established rule of this Circuit that each succeeding panel is bound by the holding of the first panel to address an issue of law, unless and until that holding is overruled en banc, or by the Supreme Court.” United States v. Hogan, 986 F.2d 1364, 1369 (11th Cir.1993) (en banc). Because Breslow, the subscriber to the cell phone service, did not consent to Wells Fargo’s calling via audial system, she is entitled to partial summary judgment.
+ 
+The District Court’s grant of partial summary judgment is, accordingly,
+ 
+AFFIRMED.
+ 
+All Citations
+755 F.3d 1265, 60 Communications Reg. (P&F) 934, 24 Fla. L. Weekly Fed. C 1405
+Footnotes
+
+*
+
+The Honorable R. David Proctor, District Judge, United States District Court for the Northern District of Alabama, sitting by designation.
+
+1
+
+Section 227(b)(1) provides, in pertinent part:
+It shall be unlawful for any person within the United States, or any person outside the United States if the recipient is within the United States—
+(A) to make any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice—
+...
+(iii) to any telephone number assigned to a paging service, cellular telephone service, specialized mobile radio service, or other radio common carrier service, or any service for which the called party is charged for the call....
+
+2
+
+The exact number of phone calls remains in dispute but is irrelevant to the resolution of the appeal. The District Court found that at least two calls were made, and Breslow contends as many as 1,400 calls were made to the cell phone number.
+
+3
+
+The record does not establish whether R.B. consented to Wells Fargo’s calling via autodial system.
+
+4
+
+The TCPA creates a private right of action for violations of the prohibition on autodialing. 47 U.S.C. § 227(b)(3). Successful plaintiffs are entitled to an injunction, id. § 227(b)(3)(A), actual losses caused by the violation or $500 for each violation (whichever is greater), id. § 227(b)(3)(B), or both injunctive relief and money damages id. § 227(b)(3)(C). “If the court finds that the defendant willfully or knowingly violated this subsection or the regulations prescribed under this subsection, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B)....” Id. § 227(b)(3).
+
+5
+
+28 U.S.C. § 1292(b) (2006) provides
+When a district judge, in making in a civil action an order not otherwise appealable under this section, shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing in such order. The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its discretion, permit an appeal to be taken from such order, if application is made to it within ten days after the entry of the order
+
+6
+
+“We review the district court’s grant[ ] of partial summary judgment ... de novo, reviewing all facts and reasonable inferences in the light most favorable to the nonmoving party, and applying the same standard as the district court.” Allison v. McGhan Med. Corp., 184 F.3d 1300, 1306 (11th Cir.1999).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (2)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  Gesten v. Stewart Law Group, LLC
+67 F.Supp.3d 1356 , S.D.Fla.
+ENERGY AND UTILITIES - Telecommunications. Consumer had private right of action against debt collector for violation of Telephone Consumer Protection Act (TCPA).
+Dec. 19, 2014
+Case
+
+1
+
+
+
+
+F.3d
+
+Distinguished by
+ 2.  Legg v. Quicken Loans, Inc. 
+2015 WL 897476 , S.D.Fla.
+This matter is before the Court on Defendant’s Motion to Dismiss (ECF No. 10). Plaintiff filed a response in opposition to the motion (ECF No. 15) and Defendant replied (ECF No....
+Feb. 25, 2015
+Case
+
+1
+
+
+
+
+F.3d
+
+

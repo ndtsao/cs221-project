@@ -1,0 +1,521 @@
+
+
+
+
+
+Apple Inc. v. Samsung Electronics Co., Ltd.
+United States Court of Appeals, Federal Circuit. | October 11, 2012 | 695 F.3d 1370 | 2012 WL 4820601
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Complex Systems, Inc. v. ABN AMRO Bank N.V., S.D.N.Y., May 9, 2014
+
+standard Citation:
+
+Apple Inc. v. Samsung Elecs. Co., 695 F.3d 1370 (Fed. Cir. 2012)
+
+All Citations:
+
+695 F.3d 1370, 104 U.S.P.Q.2d 1401
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Complex Systems, Inc. v. ABN AMRO Bank N.V., S.D.N.Y., May 9, 2014
+695 F.3d 1370
+United States Court of Appeals,
+Federal Circuit.
+APPLE INC., Plaintiff–Appellee,
+v.
+SAMSUNG ELECTRONICS CO., LTD., Samsung Electronics America, Inc., and Samsung Telecommunications America, LLC, Defendants–Appellants.
+No. 2012–1507.
+|
+Oct. 11, 2012.
+|
+Rehearing En Banc Denied Jan. 31, 2013.
+Synopsis
+Background: Patentee sued competitor for allegedly infringing four patents related to smartphone features. Patentee moved for preliminary injunction against manufacture, use, sales, offers to sell, and importation of accused smartphones. The United States District Court for the Northern District of California, Lucy H. Koh, J., 877 F.Supp.2d 838, 2012 WL 2572037, granted motion. Competitor appealed.
+ 
+Holdings: The Court of Appeals, Prost, Circuit Judge, held that:
+ 
+[1] district court abused its discretion in determining that patentee sufficiently established causal nexus between alleged irreparable harm and alleged infringement of patented unified search feature, and
+ 
+[2] district court abused its discretion in determining that patentee established likelihood of success on the merits of its claim that accused phones satisfied limitation for unified search feature that recited “a plurality of modules ... wherein ... each heuristic module ... employs a different, predetermined heuristic algorithm.”
+ 
+Reversed and remanded.
+ 
+
+
+West Headnotes (13)
+
+
+[1]
+
+Federal CourtsPreliminary injunction;  temporary restraining order
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3616Injunction
+170Bk3616(2)Preliminary injunction;  temporary restraining order
+(Formerly 170Bk815, 170Bk776)
+
+
+On an appeal from the grant of a preliminary injunction, Court of Appeals reviews the district court’s legal rulings de novo and its ultimate decision to grant a preliminary injunction for abuse of discretion.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsGrounds in general;  multiple factors
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1877Grounds in general;  multiple factors
+(Formerly 291k294)
+
+
+A patentee seeking a preliminary injunction in an infringement action must establish that he is likely to succeed on the merits, that he is likely to suffer irreparable harm in the absence of preliminary relief, that the balance of equities tips in his favor, and that an injunction is in the public interest.
+8 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+Patentee seeking preliminary injunction in infringement action must make a clear showing that it is at risk of irreparable harm, which entails showing a likelihood of substantial and immediate irreparable injury.
+10 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+In a patent infringement action where the accused product includes many features of which only one, or a small minority, infringe, a finding that the patentee will be at risk of irreparable harm does not alone justify preliminary injunctive relief; rather, the patentee must also establish that the harm is sufficiently related to the infringement.
+9 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+To satisfy the irreparable harm factor in a patent infringement suit, a patentee seeking a preliminary injunction must establish both of the following requirements: (1) that absent an injunction, it will suffer irreparable harm; and (2) that a sufficiently strong causal nexus relates the alleged harm to the alleged infringement.
+54 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+On motion for preliminary injunction against the sale of accused smartphones, district court abused its discretion in determining that patentee sufficiently established causal nexus between alleged irreparable harm and alleged infringement of patented unified search feature; no evidence directly tied consumer demand for accused smartphones to allegedly infringing search feature, and evidence that consumers liked patentee’s phone in part because its search results were comprehensive did not show that the allegedly infringing search feature drove consumer demand for the accused phones.
+13 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+When determining whether a patentee seeking a preliminary injunction in an infringement action has satisfied the irreparable harm factor, although the inquiries into irreparable harm and the causal nexus between the alleged harm and the alleged infringement may be separated for ease of analysis, they are inextricably related concepts; the causal nexus inquiry informs whether the allegations of harm are pertinent to the injunctive relief analysis, or whether the patentee seeks to leverage its patent for competitive gain beyond that which the inventive contribution and value of the patent warrant.
+52 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+When determining whether a patentee seeking a preliminary injunction against the sale of an accused product has satisfied the irreparable harm factor, the relevant question for the causal nexus inquiry is not whether there is some causal relationship between the asserted injury and the infringing conduct, but to what extent the harm resulting from selling the accused product can be ascribed to the infringement.
+7 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+When determining whether a patentee seeking a preliminary injunction against the sale of an accused product has satisfied the irreparable harm factor, it is not enough for the patentee to establish some insubstantial connection between the alleged harm and the infringement and check the causal nexus requirement off the list; rather, the patentee must show that the infringing feature drives consumer demand for the accused product.
+25 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsBalance of hardships;  irreparable injury
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1884Balance of hardships;  irreparable injury
+(Formerly 291k300)
+
+
+When determining whether a patentee will suffer irreparable harm in the absence of a preliminary injunction against the sale of an accused product, the requirement to establish a causal nexus between the alleged harm and the alleged infringement is not satisfied simply because removing an allegedly infringing component would leave a particular feature, application, or device less valued or inoperable.
+26 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsEstablishment of infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1874Preliminary or Temporary Injunctions
+291k1881Establishment of infringement
+(Formerly 291k298)
+
+
+On motion for preliminary injunction against sale of accused smartphones, district court abused its discretion in determining that patentee established likelihood of success on the merits of its claim that accused phones satisfied limitation for unified search feature that recited “a plurality of modules ... wherein ... each heuristic module corresponds to a respective area of search and employs a different, predetermined heuristic algorithm;” accused search feature contained a module that district court found did not use heuristics at all.
+3 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+(Formerly 291k101(2))
+
+
+“Each” in smartphone patent claim limitation for unified search feature that recited “a plurality of modules ... wherein ... each heuristic module corresponds to a respective area of search and employs a different, predetermined heuristic algorithm,” modified “heuristic modules,” not “plurality of modules.”
+3 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 8,086,604. Construed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1372 Mark A. Perry, Gibson, Dunn & Crutcher LLP, of Washington, DC, CA, argued for the plaintiff-appellee. With him on the brief were, Josh A. Krevitt and H. Mark Lyon, of Palo Alto, California. of counsel on the brief were Harold J. McElhinny, Michael A. Jacobs, Richard S.J. Hung And Brian R. Matsui, Morrison & Foerster, LLP, of San Francisco, California.
+John Quinn, Quinn Emanuel Urquhart & Sullivan, LLP, of Los Angeles, CA, argued for the defendants-appellants. On the brief were William C. Price, Patrick M. Shields and Derek L. Shaffer; and Charles K. Verhoeven, Kevin P.B. Johnson and Victoria F. Maroulis, of Redwood Shores, California.
+Kevin X. McGann, White & Case, LLP, of New York City, for amicus curiae, Google Inc. With him on the brief was Christopher J. Glancy.
+Jonathan N. Zerger, Shook, Hardy & Bacon L.L.P., of Kansas City, Missouri, for amicus curiae, Sprint Spectrum, L.P. With him on the brief was Angel D. Mitchell.
+Before PROST, MOORE, and REYNA, Circuit Judges.
+Opinion
+PROST, Circuit Judge.
+
+Samsung Electronics Company, Ltd., Samsung Electronics America, Inc., and Samsung Telecommunications America, LLC (collectively, “Samsung”) appeal from the district court’s order granting Apple, Inc., a preliminary injunction and enjoining Samsung from selling its Galaxy Nexus smartphone. Because the district court abused its discretion in entering an injunction, we reverse and remand.
+ 
+
+BACKGROUND
+On February 8, 2012, Apple brought suit against Samsung, alleging that Samsung’s Galaxy Nexus smartphone infringes eight patents, including U.S. Patent No. 8,086,604 (“′604 patent”), which is the only patent at issue in this appeal. Asserted independent claim 6 of the ′604 patent is directed to an apparatus for “unified search” that uses heuristic modules to search multiple data storage locations. Unified search refers to the ability to access information on more than one data storage location through a single interface. For example, a device equipped with unified search allows the user to search the local memory of the device as well as the Internet by entering a single search query.
+ 
+The apparatus disclosed in claim 6 recites a specific and particular implementation of unified search that uses modules to conduct the search. For the purpose of this appeal, we assume that a search module is a software program or subroutine that employs a particular search algorithm. According to claim 6, when the user inputs a search query in the unified search interface, the query is submitted to different heuristic modules, each of which is assigned a predetermined search area. *1373 The search results that are returned by the search modules are then gathered (and perhaps further filtered) and displayed to the user. Claim 6 recites:
+6. An apparatus for locating information in a network, comprising:
+an interface module configured to receive an inputted information descriptor from a user-input device;
+a plurality of heuristic modules configured to search for information that corresponds to the received information descriptor, wherein:
+each heuristic module corresponds to a respective area of search and employs a different,
+predetermined heuristic algorithm corresponding to said respective area, and the search areas include storage media accessible by the apparatus; and
+a display module configured to display one or more candidate items of information located by the plurality of heuristic modules on a display device.
+′604 patent col.8 11.26–41 (emphases added).1
+ 
+Apple alleges that the Quick Search Box (“QSB”), which is the unified search application of Samsung’s Galaxy Nexus, infringes claim 6. QSB is a feature of Android, an open-source mobile software platform developed by Google, Inc. Any software developer may use Android to create applications for mobile devices, and any handset manufacturer can install Android on a device. Galaxy Nexus is only one of more than 300 Android smartphones available on the market. The release of the allegedly infringing version of the Android platform predates the release of the Galaxy Nexus, but Google, Inc. is not a defendant in this suit.
+ 
+Along with the complaint, Apple also filed a motion for a preliminary injunction, seeking to enjoin the sales of the Galaxy Nexus. Four of the eight asserted patents formed the basis of Apple’s request for relief. The district court found that Apple’s allegations with regard to three of the patents did not justify granting Apple’s motion. It determined, however, that an injunction should issue based on the alleged infringement of the ′604 patent. Accordingly, on June 29, 2012, the district court enjoined the sales of Galaxy Nexus. Samsung moved the district court to stay the injunction pending appeal, but the district court denied its request. Samsung appealed. At the outset, this court granted Samsung’s motion for a temporary stay of the injunction, expedited the appeal, and in that light held in abeyance Samsung’s subsequent motion for a stay pending appeal. We exercise jurisdiction pursuant to 28 U.S.C. §§ 1292(c)(1) and 1295(a)(1).
+ 
+
+STANDARD OF REVIEW
+[1] On an appeal from the grant of a preliminary injunction, we must review the district court’s legal rulings de novo and its ultimate decision to grant a preliminary injunction for abuse of discretion. Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal, 546 U.S. 418, 428, 126 S.Ct. 1211, 163 L.Ed.2d 1017 (2006); McCreary Cnty. v. Am. Civil Liberties Union of Ky., 545 U.S. 844, 867, 125 S.Ct. 2722, 162 L.Ed.2d 729 (2005).
+ 
+
+DISCUSSION
+[2] “A plaintiff seeking a preliminary injunction must establish that he is likely to succeed on the merits, that he is likely to suffer irreparable harm in the absence of preliminary relief, that the balance of *1374 equities tips in his favor, and that an injunction is in the public interest.” Winter v. Natural Res. Def. Council, Inc., 555 U.S. 7, 20, 129 S.Ct. 365, 172 L.Ed.2d 249 (2008) (citation omitted). These traditional four factors “apply with equal force to disputes arising under the Patent Act.” eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388, 391, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006). The parties dispute the district court’s decision to grant injunctive relief based on its analysis of the likelihood of success and irreparable harm factors. To the extent we deem necessary, we address these arguments below.
+ 
+
+I. Irreparable Harm
+[3] [4] [5] It is well established that as the party seeking emergency relief, Apple “must make a clear showing that it is at risk of irreparable harm, which entails showing a likelihood of substantial and immediate irreparable injury.” Apple, Inc. v. Samsung Electronics Co., 678 F.3d 1314, 1325 (Fed.Cir.2012) (hereinafter Apple I ) (citing Winter, 555 U.S. at 22, 129 S.Ct. 365; Weinberger v. Romero–Barcelo, 456 U.S. 305, 311, 102 S.Ct. 1798, 72 L.Ed.2d 91 (1982); O’Shea v. Littleton, 414 U.S. 488, 502, 94 S.Ct. 669, 38 L.Ed.2d 674 (1974)); see also Beacon Theatres, Inc. v. Westover, 359 U.S. 500, 506–507, 79 S.Ct. 948, 3 L.Ed.2d 988 (1959) (“The basis of injunctive relief in the federal courts has always been irreparable harm and inadequacy of legal remedies.”). But in cases such as this—where the accused product includes many features of which only one (or a small minority) infringe—a finding that the patentee will be at risk of irreparable harm does not alone justify injunctive relief. Rather, the patentee must also establish that the harm is sufficiently related to the infringement. Apple I, 678 F.3d at 1324. Thus, to satisfy the irreparable harm factor in a patent infringement suit, a patentee must establish both of the following requirements: 1) that absent an injunction, it will suffer irreparable harm, and 2) that a sufficiently strong causal nexus relates the alleged harm to the alleged infringement.
+ 
+[6] Here, Samsung challenges the district court’s decision on both grounds: it argues that it was abuse of discretion for the district court to find that Apple will be irreparably harmed in the absence of an injunction, and that Apple sufficiently established a causal nexus between the harm alleged and the infringing conduct. We hold that the district court abused its discretion in determining that Apple established a sufficient causal nexus. In that light, we do not address Samsung’s argument with respect to the sufficiency of Apple’s allegations of harm.
+ 
+[7] We initially point out, however, that although the irreparable harm and the causal nexus inquiries may be separated for the ease of analysis, they are inextricably related concepts. As this court recently explained:
+To show irreparable harm, it is necessary to show that the infringement caused harm in the first place. Sales lost to an infringing product cannot irreparably harm a patentee if consumers buy that product for reasons other than the patented feature. If the patented feature does not drive the demand for the product, sales would be lost even if the offending feature were absent from the accused product. Thus, a likelihood of irreparable harm cannot be shown if sales would be lost regardless of the infringing conduct.
+Apple I, 678 F.3d at 1324. In other words, it may very well be that the accused product would sell almost as well without incorporating the patented feature. And in that case, even if the competitive injury that results from selling the accused device *1375 is substantial, the harm that flows from the alleged infringement (the only harm that should count) is not. Thus, the causal nexus inquiry is indeed part of the irreparable harm calculus: it informs whether the patentee’s allegations of irreparable harm are pertinent to the injunctive relief analysis, or whether the patentee seeks to leverage its patent for competitive gain beyond that which the inventive contribution and value of the patent warrant.
+ 
+[8] [9] It only follows that the causal nexus analysis is not a true or false inquiry. The relevant question is not whether there is some causal relationship between the asserted injury and the infringing conduct, but to what extent the harm resulting from selling the accused product can be ascribed to the infringement. It is not enough for the patentee to establish some insubstantial connection between the alleged harm and the infringement and check the causal nexus requirement off the list. The patentee must rather show that the infringing feature drives consumer demand for the accused product. Id. Only viewed through the prism of the causal nexus analysis will the irreparable harm allegations reflect a realistic sense of what the patentee has at stake.
+ 
+Here, Apple’s evidence of causal nexus is limited. Apple has presented no evidence that directly ties consumer demand for the Galaxy Nexus to its allegedly infringing feature. Apple rather makes a case for nexus circumstantially, based on the popularity of an iPhone 4S application called Siri. Advertised by Apple as an “intelligent personal assistant,” Siri enables iPhone 4S users to speak their commands to the phone in a natural and conversational tone. There is no dispute that this highly popular feature is a significant source of consumer demand for the iPhone 4S. There is also no dispute, however, that the Galaxy Nexus does not have a feature equivalent to Siri. Apple nonetheless argues that establishing a causal nexus here is only a matter of connecting the dots. It points to evidence showing that the functionality of Siri depends in part on unified search, and that consumers often use Siri in ways that include looking for information. Apple further asserts that the unified search feature in Siri is the one disclosed in the ′ 604 patent, and that the claimed search feature is more comprehensive than the prior art. Thus, Apple appears to suggest that consumers must be at least in part attracted to the Galaxy Nexus because it too incorporates the unified search feature disclosed in the ′604 patent.
+ 
+The district court agreed with Apple’s theory and found that a sufficient showing of a causal nexus had been made. To begin with, the district court correctly observed that our case law does not present much guidance on how the causal nexus test should be applied. Quite appropriately, before analyzing the evidence, the district court first articulated the legal framework that it deemed applicable. It stated that “the requisite causal nexus ... can be established by showing either that the patented feature is an affirmative driver of consumer demand, or that [its] absence would suppress consumer demand.” Apple, Inc. v. Samsung Electronics Co., 877F.Supp.2d 838, 2012 WL 2572037, at *57 (N.D.Cal.2012). The district court also recited Apple’s argument that a causal nexus may be established by showing that removing the patented features will diminish the value or substantially interfere with the functionality of the accused device. Id. at ––––, 2012 WL 2572037, at *54. In determining that Apple’s evidence sufficiently satisfied these articulations of the causal nexus inquiry, the district court relied on Apple’s survey evidence regarding the popularity of Siri and the importance of search to its functionality and consumer *1376 demand. Id. at –––– – ––––, 2012 WL 2572037, at *55–56. It also took note of the deposition testimony of Apple’s expert witness, who stated:
+[A] lot of Siri’s value comes from its comprehensiveness and ... the claimed features of the ′604 are important to achieving that comprehensiveness. So there may well be other aspects of Siri such as its ability to do speaker independent speech recognition that’s very important or handle noisy microphones, but ... I think comprehensiveness is very ... important to the ... success of it as an interface and the ′604 patented features are very important to that comprehensiveness.
+Id. Based on that evidence, the district court agreed with Apple that “Siri is core to the functioning and sales of the iPhone not just because it hears requests, but because it delivers search results.” Id. at ––––, 2012 WL 2572037, at *56 (citation omitted). Because “the ′604 Patented feature is core to Siri’s functionality,” the district court reasoned, it is also “a but-for driver of demand.” Id.
+ 
+[10] We hold that the district court abused its discretion. To begin with, to the extent the district court endorsed Apple’s articulation of the causal nexus test, it erred as a matter of law. The causal nexus requirement is not satisfied simply because removing an allegedly infringing component would leave a particular feature, application, or device less valued or inoperable. A laptop computer, for example, will not work (or work long enough) without a battery, cooling fan, or even the screws that may hold its frame together, and its value would be accordingly depreciated should those components be removed. That does not mean, however, that every such component is “core” to the operation of the machine, let alone that each component is the driver of consumer demand. To establish a sufficiently strong causal nexus, Apple must show that consumers buy the Galaxy Nexus because it is equipped with the apparatus claimed in the ′604 patent—not because it can search in general, and not even because it has unified search.2
+ 
+The district court made no such determination. At best, the district court’s findings indicate that some consumers who buy the iPhone 4S like Siri because, among other things, its search results are comprehensive. That does not sufficiently suggest, however, that consumers would buy the Galaxy Nexus because of its improved comprehensiveness in search. More specifically, that an application may sell in part because it incorporates a feature does not necessarily mean that the feature would drive sales if sold by itself. To the contrary, here, the only pertinent evidence—Apple’s own survey evidence—shows that unified search is not one of the top five reasons consumers select Android smartphones. In this light, the causal link between the alleged infringement and consumer demand for the Galaxy Nexus is too tenuous to support a finding of irreparable harm.
+ 
+The district court cited three documents in support of its nexus finding, but they do not sufficiently show that the patented feature drives consumer demand. The first is an Android developer’s guide that states “[unified] [s]earch is a core user feature on Android.” J.A. 1555. This document is *1377 merely intended to inform software-developers of the usefulness of Android’s search capabilities in programming. That says too little about what draws consumers to the Galaxy Nexus. The other two documents are articles published in Internet blogs more than two years before the Galaxy Nexus even entered the market. In one, entitled “Google and Android Search Just Became Awesome,” one blogger predicts that the QSB “could help [Android phones] win new customers, even ones with iPhones.” J.A. 1557–58. That statement by itself at best reflects an individual belief that the QSB’s unified search feature is important to Android consumers. That does not suffice to establish a causal nexus. And, even this inference may read too much into the document because the author does not base his prediction on Samsung’s incorporation of a particular iPhone 4S feature into an Android phone. Rather, the author appears to believe that the allegedly infringing version of the QSB is indeed a superior search application compared to iPhones’ search functionality.3 The third and last document is an article published in a blog that contains “news and notes from the Google Mobile team.” J.A. 1621. The article simply explains and praises Android’s QSB feature but says nothing about consumer demand.
+ 
+This record does not permit the inference that the allegedly infringing features of the Galaxy Nexus drive consumer demand. There is therefore no need for us to review the district court’s assessment of Apple’s allegations of irreparable harm. Regardless of the extent to which Apple may be injured by the sales of the Galaxy Nexus, there is not a sufficient showing that the harm flows from Samsung’s alleged infringement. Thus, the district court abused its discretion in determining that the irreparable harm factor counsels in favor of entering an injunction.
+ 
+
+II. Likelihood of Success
+[11] Having held that the district court’s irreparable harm determination was an abuse of discretion, we would ordinarily refrain from addressing other issues. Here, however, it is in the interest of judicial economy that we address a limited aspect of the district court’s likelihood of success analysis that may become important on remand—claim construction. See Aspex Eyewear, Inc. v. Marchon Eyewear, Inc., 672 F.3d 1335, 1346–47 (Fed.Cir.2012) (addressing the district court’s claim construction in the interest of judicial economy); Advanced Software Design Corp. v. Fiserv, Inc., 641 F.3d 1368, 1378 (Fed.Cir.2011) (addressing claim construction because the “issue may become important during the proceedings on remand” even though it did not form the basis of the district court’s decision).
+ 
+The parties’ main dispute concerning the likelihood of success of Apple’s infringement claim turns on the meaning of a key limitation in claim 6, which recites “a plurality of modules ... wherein ... each heuristic module corresponds to a respective area of search and employs a different, predetermined heuristic algorithm.” Apple argued to the district court that this limitation is satisfied as long as the QSB contains at least two modules that employ different heuristic algorithms, even if there remain other heuristic modules whose heuristic algorithm is not unique. And, Apple argued that this limitation is in fact satisfied because the QSB contains three heuristic modules that are assigned a predetermined search area and employ different heuristic algorithms (each compared to the other two). Apple identified these three *1378 modules as (1) Google, which searches the Internet; (2) Browser, which searches the Internet browsing history; and (3) People, which searches the user’s contacts list.4 Samsung counter-argued that the key limitation of claim 6 requires that every heuristic module within the accused device use a unique heuristic algorithm. It also pointed out that the QSB contains other search modules besides the three that formed the basis of Apple’s infringement argument. Because Apple had only identified three of the QSB’s modules, and there is no indication that the heuristic algorithms employed by the remaining modules are also unique, Samsung argued that Apple could not establish a likelihood of success.
+ 
+The district court concluded that Apple had the better argument. It determined—and indeed the parties seem to have agreed—that under this court’s case law, the term “plurality” means “at least two,” or “simply the state of being plural.” Apple, 877 F.Supp.2d at ––––, 2012 WL 2572037, at *8 (citing ResQNet.com, Inc. v. Lansa, Inc., 346 F.3d 1374, 1382 (Fed.Cir.2003); York Prods., Inc. v. Cent. Tractor Farm & Family Ctr., 99 F.3d 1568, 1575 (Fed.Cir.1996)). It then reasoned:
+Claim 6 imposes a further limitation on the “plurality of heuristic modules,” requiring that “each heuristic module ... employs a different, predetermined heuristic algorithm.” Thus, the claim language supports Apple’s argument that the “each” requirement modifies “plurality of heuristic modules.” Consistent with Federal Circuit precedent, “each” of “a plurality of heuristic modules” means “each of at least two modules,” not “each of every module.” See ResQNet, 346 F.3d at 1382 (construing “each of a plurality of fields” to mean “each of at least two fields,” not “every field”).
+Apple, 877 F.Supp.2d at ––––, 2012 WL 2572037, at *8. Turning next to Apple’s factual allegations, the district court rejected Apple’s contention that Google uses heuristics at all. Nonetheless, it determined that the QSB is still likely to infringe because it contains at least two modules (Browser and People) that use different heuristic algorithms.
+ 
+[12] We hold that the district court’s determination that “each” modifies “plurality of heuristic modules” is erroneous because it contravenes the plain terms of the claim. The word “each” appears not before “plurality of modules,” but inside the “wherein” clause and before the phrase “heuristic modules.” The district court drew support for its construction from ResQNet. Apple, 877 F.Supp.2d at ––––, 2012 WL 2572037, at *8. But ResQNet in fact counsels the opposite conclusion. That case involved two different claims, one of which recited “each field,” the other one “each of a plurality of fields.” ResQNet, 346 F.3d at 1377. We thought “[t]his difference is significant” and thus construed the two claims separately, holding that the first claim meant “all fields,” the latter “at least two, but not all.” Id. at 1382. Here, the district court eliminated the very distinction that we deemed material in ResQNet by plucking “each” from where it appears and planting it before the phrase “plurality of modules.” That was error, and Apple’s reliance on ResQNet based on the assertion that it “involv[ed] almost identical claim language” is—at best—incorrect. Appellee’s Br. 46.
+ 
+*1379 Although Apple defends the district court’s finding that “each” modifies “plurality of modules,” it also seems to offer a competing construction. The argument is that claim 6 requires “a plurality” (just one) in which every module has a different heuristic algorithm (compared to the other modules within that plurality). Accordingly, as long as there is one such “one plurality”—i.e., at least two modules with different heuristic algorithms—the key limitation is satisfied. As to any remaining modules, Apple points out that claim 6 uses the open-ended term “comprising” in listing the limitations and concludes that the addition of other modules does not defeat a showing of infringement. In sum, since Browser and People are two modules with different heuristics, Apple contends that the disputed limitation is met, no matter what other modules and heuristic algorithms the QSB may include.
+ 
+We disagree. Apple’s argument essentially urges us to hold that “plurality” refers not to all but a subset of modules. As we pointed out, however, the district court has construed “plurality” to mean “at least two,” without any indication that the term refers to a hand-picked selection of a larger set. Nor do the parties seem to disagree with that construction, at least at this stage. Accordingly, despite the use of “comprising,” claim 6 is not amenable to the addition of other modules that do not use different heuristic algorithms because such addition would impermissibly wipe out the express limitation that requires every module to have a unique heuristic algorithm.
+ 
+In that light, the specification of the ′604 patent is also not helpful to Apple. The district court correctly noted that in one instance, the specification provides that modules are “associated” with heuristic algorithms, ′604 patent col.4 l.13, whereas in another it plainly states that “[t]he heuristics of each plug-in module is different.” Id. at col.5 ll.13–14. According to the district court, the difference in the choice of words shows that using different heuristic modules is only an option, not a limitation, in the claimed invention. We are not convinced that the distinction between “associated” and “different” is as strongly suggestive as the district court found and compels us to broaden the claim language beyond what its plain reading allows.
+ 
+Finally, the prosecution history of the ′604 patent also counsels against the district court’s proposed construction. In three sentences, Apple distinguished its invention from a prior art reference, referred to as “Andreoli”:
+[A]s described herein, Andreoli teaches that the processor can use the solution to a constraint satisfaction algorithm to formulate a search request and employ any appropriate combination of local and remote search operations. Andreoli does not describe, however, that each of the local and remote search operations employs a different heuristic algorithm to search an associated relevant area of search for information that corresponds to the search request, in accordance with amended claim 1 (emphasis added). That is, the algorithms described in Andreoli and referenced by the Office go to the formation of the search request and not to how the local and remote search operations employed by the processor perform a search of the repositories on the network.
+J.A. 1403 (emphasis added and citation omitted). The second sentence in this passage strongly suggests that every module within the claimed apparatus must use a different heuristic algorithm. The district court found that the rest of the passage gives context to the second sentence in a way that favors Apple. Apple accordingly argues that one can glean from the first *1380 sentence that the patent prosecutor distinguished Andreoli because it used a “constraint satisfaction algorithm,” not heuristics. We disagree. If Apple intended to distinguish Andreoli based on its algorithm type, then why did it not stop after the first sentence? Apple in effect invites us to hold that merely because one could have theoretically distinguished Andreoli based on its search algorithm, the prosecutor did not actually limit the claim any further. Apple, however, has distinguished Andreoli not just because the apparatus uses heuristics, but also because it employs different heuristic algorithms in different search areas. Thus, the prosecution history similarly does not help Apple show that it is likely to succeed in its infringement claim.5
+ 
+
+CONCLUSION
+We hold that the district court abused its discretion in enjoining the sales of the Galaxy Nexus.
+ 
+REVERSED AND REMANDED
+ 
+All Citations
+695 F.3d 1370, 104 U.S.P.Q.2d 1401
+Footnotes
+
+1
+
+Apple also asserts claim 19, which depends from claim 6. Because the parties do not discuss claim 19 separately, we too limit our analysis to claim 6.
+
+2
+
+During oral argument, counsel for Apple stated that nothing in the record shows that unified search may be implemented in a smartphone without infringing the ′604 patent. There is no such finding in the district court’s opinion, however, and we have no occasion to assess Apple’s assertion in the first instance on appeal. Nor do we address which party should have the burden of proof in this regard.
+
+3
+
+Interestingly, this article refers to the unified search functionality of the iPhone 3, which preceded the iPhone 4S and is not equipped with Siri.
+
+4
+
+To avoid confusion, all instances of “Google” refer to the QSB’s search module. We refer to the company as “Google, Inc.”
+
+5
+
+Samsung also argues that People and Browser do not alone infringe claim 6 because the preamble of claim 6 requires that the apparatus search a network, and yet these two modules only perform local searches. On this record, we do not see error in the district court’s determination, however, that the preamble of claim 6 is non-limiting. Thus, we reject Samsung’s alternative argument.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (3)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  American Beverage Corp. v. Diageo North America, Inc.
+2013 WL 4010825 , W.D.Pa.
+Pending before the court is the motion for reconsideration (ECF No. 126) filed by plaintiffs American Beverage Corporation (’’ABC’’) and Pouch Pack Innovations, LLC (’’PPi’’ and...
+Aug. 06, 2013
+Case
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+2.  Blackberry Limited v. Typo Products LLC 
+2014 WL 1318689 , N.D.Cal.
+Plaintiff BlackBerry Limited moves for a preliminary injunction barring defendant Typo Products LLC from selling its add-on keyboard for the iPhone which, BlackBerry alleges,...
+Mar. 28, 2014
+Case
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+ 3.  Complex Systems, Inc. v. ABN AMRO Bank N.V.  
+2014 WL 1883474 , S.D.N.Y.
+The story of this dispute is relatively simple, despite the fact that it has been litigated for almost six years. In 2007, defendant ABN AMRO Bank N.V. (’’ABN’’) sold some of its...
+May 09, 2014
+Case
+
+5
+
+
+
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+

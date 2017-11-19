@@ -1,0 +1,138 @@
+
+
+ 
+
+
+George v. Equifax Mortg. Services
+United States Court of Appeals, Second Circuit. | April 28, 2010 | 375 Fed.Appx. 76 | 2010 WL 1688689
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+George v. Equifax Mortg. Servs., 375 F. App’x 76 (2d Cir. 2010)
+
+All Citations:
+
+375 Fed.Appx. 76, 2010 WL 1688689
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+375 Fed.Appx. 76
+This case was not selected for publication in the Federal Reporter.
+United States Court of Appeals,
+Second Circuit.
+Charles GEORGE, Plaintiff-Appellant,
+v.
+EQUIFAX MORTGAGE SERVICES, Defendant-Appellee,
+Equifax Credit Bureau, Defendant-Cross-Defendant,
+Transunion Credit Bureau and Experian Credit Bureau, Defendants Cross-Defendants,
+JP Morgan Chase Manhattan Bank, Defendant Cross-Defendant Cross Claimant,
+Equifax Information Services, LLC, Defendant.
+No. 08-5365-cv.
+|
+April 28, 2010.
+Synopsis
+Background: Consumer brought pro se action under the Fair Credit Reporting Act (FCRA) against reseller of credit reports, alleging that defendant failed to conduct a reasonable reinvestigation of his consumer credit report and committed fraud by reporting false credit information. Defendant filed motion for summary judgment. The United States District Court for the Eastern District of New York, Dora L. Irizarry, J., 2008 WL 4425299, granted the motion, and plaintiff appealed.
+ 
+Holding: The Court of Appeals held that in determining that consumer had inadequately alerted reseller of his dispute before commencing this action, the district court erred in applying the rules that limit the imputation of a parent corporation’s knowledge to its subsidiary, as it was undisputed that reseller was a “division” of the credit reporting agency to which consumer purportedly gave notice, not a “subsidiary” of same, and different rules apply to whether a court may impute knowledge from one division of a corporation to another.
+ 
+Judgment affirmed in part and vacated in part, and action remanded.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Corporations and Business OrganizationsKnowledge of or Notice to Particular Corporate Principals
+
+
+101Corporations and Business Organizations
+101IXCorporate Powers and Liabilities
+101IX(B)Representation of Corporation by Corporate Principals
+101k2396Knowledge of or Notice to Corporate Principal as Affecting Corporation
+101k2401Knowledge of or Notice to Particular Corporate Principals
+101k2401(1)In general
+(Formerly 101k428(6))
+
+
+In determining that consumer had inadequately alerted reseller of credit reports of his dispute before commencing action for reseller’s alleged violation of the Fair Credit Reporting Act (FCRA), the district court erred in applying the rules that limit the imputation of a parent corporation’s knowledge to its subsidiary; it was undisputed that reseller was a “division” of the credit reporting agency to which consumer purportedly gave notice, not a “subsidiary” of same, and different rules apply to whether a court may impute knowledge from one division of a corporation to another. Consumer Credit Protection Act, § 602 et seq., as amended, 15 U.S.C.A. § 1681 et seq.
+Cases that cite this headnote
+
+
+
+*77 Appeal from a judgment of the United States District Court for the Eastern District of New York (Irizarry, J.).
+UPON DUE CONSIDERATION, it is hereby ORDERED, ADJUDGED, AND DECREED that the judgment of said District Court be and hereby is AFFIRMED in part and VACATED in part and the action is REMANDED for further proceedings consistent with this order.
+Attorneys and Law Firms
+Charles George, New York, NY, pro se.
+Barry Goheen, King & Spalding LLP, Atlanta, GA, for Appellees.
+PRESENT: DENNIS JACOBS, Chief Judge, GERARD E. LYNCH, Circuit Judge, JANE A. RESTANI*, Judge.
+
+
+*78 SUMMARY ORDER
+**1 Plaintiff-appellant Charles George appeals from a judgment of the United States District Court for the Eastern District of New York (Irizarry, J.) granting the motion for summary judgment by Equifax Mortgage Services (“EMS”) and denying George’s motion for sanctions pursuant to Fed.R.Civ.P. 11(b), his motion to strike, and his cross-motion for summary judgment. We assume the parties’ familiarity with the facts, proceedings below, and specification of appellate issues.
+ 
+For substantially the reasons stated by the district court, George’s motion for Rule 11 sanctions, his motion to strike, and his cross-motion for summary judgment were all properly denied.
+ 
+The district court granted summary judgment to EMS on the ground that George failed to demonstrate that he had disputed with EMS the credit information at issue before filing this action. See Casella v. Equifax Credit Info. Servs., 56 F.3d 469, 474 (2d Cir.1995) (“Prior to being notified by a consumer, a credit reporting agency generally has no duty to reinvestigate credit information.”). George had argued, as the district court acknowledged, “that he had notified Equifax [Information Services, LLC (“Equifax”) ] prior to initiating this lawsuit [in August 2005], and that EMS, as a division of Equifax, therefore should have knowledge of his notification. EMS ... was a division of Equifax.” George v. Equifax Mortg. Servs., 2008 WL 4425299, at *2, 2008 U.S. Dist. LEXIS 75785, at *6 (E.D.N.Y. Sept. 30, 2008).1
+ 
+However, in ruling that George’s “attempt to impute Equifax’s knowledge of his dispute to its subsidiary, EMS, fails as a matter of law,” the district court no longer referred to EMS as a “division of Equifax,” but rather as a “subsidiary.” Id. It is undisputed that “Appellee Equifax Mortgage Services ... is a division of Equifax Information Services LLC,” not a subsidiary. See Appellee’s Brief, Corporate Disclosure Statement (emphasis added). It was therefore error to apply here the rules that limit the imputation of a parent corporation’s knowledge to its subsidiary; the relevant question was whether a court can impute knowledge from one division of a corporation to another, a question to which different rules apply. Compare Bank of China v. NBM LLC, 359 F.3d 171, 179 (2d Cir.2004) (courts presume that an agent’s knowledge is imputed to the principal corporation) with 18B Am.Jur.2d Corporations § 1454 (notice to a parent constitutes notice to a subsidiary only under specific circumstances); see also Western Diversified Servs. v. Hyundai Motor Am., Inc., 427 F.3d 1269, 1276 (10th Cir.2005) (“[W]e see no reason in equity or otherwise to exempt [defendant corporation] from the general principle that an employee’s knowledge gained in the course and scope of the employment is imputed to the corporation, and, therefore, to all of its departments.”); D.C. Comics, Inc. v. Powers, 465 F.Supp. 843, 849 n. 8 (S.D.N.Y.1978) (“Before a parent’s knowledge will be imputed to its subsidiary, it must be shown that the parent’s employees informed of the infringement were under a duty to report that information to the subsidiary.”).
+ 
+**2 As this error underlies the determination that George had inadequately alerted EMS of his dispute before commencing this action, we must vacate in part and remand.
+ 
+*79 EMS briefly argues that there is another possible ground for summary judgment, specifically, the lack of proof of actual damages. We decline to decide that question in the first instance, and remand to the district court to consider whether this or any other alternative grounds support its grant of summary judgment.
+ 
+Accordingly, the judgment of the district court is hereby AFFIRMED in part and in part VACATED and REMANDED for further proceedings consistent with this order.
+ 
+All Citations
+375 Fed.Appx. 76, 2010 WL 1688689
+Footnotes
+
+*
+
+The Honorable Jane A. Restani, Chief Judge of the United States Court of International Trade, sitting by designation.
+
+1
+
+George also has argued that letters he wrote in June 2006 and August 2006 demonstrate that he contested his credit report prior to this action; as he commenced this suit in March 2006, these demonstrate no such thing.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

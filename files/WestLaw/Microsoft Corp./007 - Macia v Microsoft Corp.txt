@@ -1,0 +1,159 @@
+
+
+ 
+
+
+Macia v. Microsoft Corp.
+United States Court of Appeals, Second Circuit. | January 5, 2006 | 164 Fed.Appx. 17 | 2006 WL 41301
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Macia v. Microsoft Corp., 164 F. App’x 17 (2d Cir. 2006)
+
+All Citations:
+
+164 Fed.Appx. 17, 2006 WL 41301
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Vermont
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+164 Fed.Appx. 17
+This case was not selected for publication in the Federal Reporter.
+United States Court of Appeals,
+Second Circuit.
+Harland A. MACIA III, doing business as Catamount Software, Plaintiff-Counter-Defendant-Appellant-Cross-Appellee,
+v.
+MICROSOFT CORPORATION, Defendant-Counter-Claimant-Appellee-Cross-Appellant.
+Nos. 04-5582-cv, 04-5792-cv.
+|
+Jan. 5, 2006.
+Synopsis
+Background: Computer software developer sued competitor for infringement of its “PocketMoney” trademark. Following denial of cross-motions for summary judgment, 327 F.Supp.2d 278, the United States District Court for the District of Vermont, Sessions, J., 335 F.Supp.2d 507, conducted bench trial and granted competitor’s motion for judgment on partial findings.
+ 
+Holding: On appeal, the Court of Appeals held that competitor’s product name, which combined its senior mark with a descriptive phrase, was not infringing.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+TrademarksPhrases;  Slogans
+TrademarksInfringement in General
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1050Format or Components of Term or Mark
+382Tk1055Phrases;  Slogans
+382TTrademarks
+382TVIIIViolations of Rights
+382TVIII(A)In General
+382Tk1423Particular Cases, Practices, or Conduct
+382Tk1426Infringement in General
+
+
+Developer of “PocketMoney” software product could not hold competitor liable for trademark infringement under Lanham Act for marketing personal finance application under name of “Microsoft® Money for Pocket PC,” since latter name combined senior mark “Microsoft® Money” with descriptive phrase “for Pocket PC”; competitor’s application was preexisting and phrase “for Pocket PC” provided consumers with information about its potential uses. Lanham Trade-Mark Act, § 1 et seq., 15 U.S.C.A. § 1051 et seq.
+Cases that cite this headnote
+
+
+
+[2]
+
+TrademarksAlphabetical Listing
+
+
+382TTrademarks
+382TXITrademarks and Trade Names Adjudicated
+382Tk1800Alphabetical Listing
+
+
+Microsoft® Money for Pocket PC.
+Cases that cite this headnote
+
+
+
+[3]
+
+TrademarksAlphabetical Listing
+
+
+382TTrademarks
+382TXITrademarks and Trade Names Adjudicated
+382Tk1800Alphabetical Listing
+
+
+PocketMoney.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*18 Markus Brakhan, Brakhan Law Office, LLC, Jackson Hole, WY, for Appellant.
+John Thompson Brown, Wildman, Harrold, Allen & Dixon LLP (Michael R. LaPorte, Wildman Harrold, Allen & Dixon LLP, on the brief; Brien Jacobsen, Microsoft Corporation, Redmond, WA), Chicago, IL, for Appellee, of counsel.
+Present: Hon. SONIA SOTOMAYOR, Hon. RICHARD C. WESLEY, Circuit Judges, and Hon. LEWIS A. KAPLAN, District Judge.*
+
+
+SUMMARY ORDER
+**1 UPON DUE CONSIDERATION, it is hereby ORDERED, ADJUDGED, AND DECREED that the judgment of the United States District Court for the District of Vermont (Sessions, J.) is AFFIRMED.
+ 
+Plaintiff-appellant Harland A. Macia, III, doing business as Catamount Software (“Catamount”), appeals from a judgment on partial findings entered by the district court, pursuant to Federal Rule of Civil Procedure 52(c), in Microsoft Corporation’s (“Microsoft”) favor after the close of Catamount’s case in a bench trial. We assume the parties’ familiarity with the facts in this case, the relevant procedural history, and the issues on appeal.
+ 
+On appeal from a judgment on partial findings pursuant to Rule 52(c), we review the district court’s findings of fact for clear error and its conclusions of law de novo. See MacDraw, Inc. v. CIT Group Equip. Fin., Inc., 157 F.3d 956, 960 (2d Cir.1998). We see no error in the district court’s conclusion that Microsoft did not infringe Catamount’s trademark in the software “PocketMoney,” which runs on personal digital assistants (PDAs), by referring to its competing software for PDAs as “Microsoft® Money for Pocket PC.” Record evidence established that “Microsoft® Money” is a senior mark and that software compatible with Microsoft’s operating system *19 for PDAs is frequently identified with the phrase “for Pocket PC.”
+ 
+This Court has emphasized that trademark law is designed to protect against consumer confusion, but not to grant exclusivity that would deprive the consuming public of useful market information. See Virgin Enters. Ltd. v. Nawab, 335 F.3d 141, 147-48 (2d Cir.2003). Here, Microsoft is clearly entitled to use its senior mark. Moreover, if Microsoft could not identify its software as being “for Pocket PC,” its ability to describe its product to consumers would be impaired-“a wholly counterproductive result so far as consumers are concerned.” Am. Cyanamid Corp. v. Connaught Labs., Inc., 800 F.2d 306, 308 (2d Cir.1986) (citation omitted). The descriptive phrase “for Pocket PC” serves two identifying functions useful to consumers: (1) notifying them that the software is for PDAs rather than desktop or laptop computers, and (2) indicating to them that the software runs only on Microsoft’s operating system for PDAs. We conclude that Microsoft has not infringed Catamount’s rights in the mark “PocketMoney” by combining its senior mark with a descriptive phrase that informs consumers of the nature and use of its product. Because we conclude that Microsoft’s use of a senior mark in combination with a descriptive phrase imparting useful information to consumers does not entitle Catamount to relief, we need not discuss the Polaroid factors to determine the likelihood of confusion as to the origin of Catamount’s product in this reverse confusion case. See Polaroid Corp. v. Polarad Elecs. Corp., 287 F.2d 492, 495 (2d Cir.1961) (listing factors relevant in analyzing the likelihood of confusion in trademark violation cases).
+ 
+**2 We similarly find no error in the district court’s award of judgment on partial findings to Microsoft on Catamount’s state-law claims. Because Microsoft is entitled to use its senior mark in combination with a descriptive phrase indicating the operating system with which its software is compatible, Catamount is not entitled to relief on those claims.
+ 
+For the foregoing reasons, the judgment of the district court is AFFIRMED.
+ 
+All Citations
+164 Fed.Appx. 17, 2006 WL 41301
+Footnotes
+
+*
+
+The Honorable Lewis A. Kaplan, United States District Court for the Southern District of New York, sitting by designation.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

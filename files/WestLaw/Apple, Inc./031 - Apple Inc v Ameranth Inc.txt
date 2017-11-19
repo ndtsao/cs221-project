@@ -1,0 +1,683 @@
+
+
+ 
+
+
+Apple, Inc. v. Ameranth, Inc.
+United States Court of Appeals, Federal Circuit. | November 29, 2016 | 842 F.3d 1229 | 2016 WL 6958650
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Apple, Inc. v. Ameranth, Inc., 842 F.3d 1229 (Fed. Cir. 2016)
+
+All Citations:
+
+842 F.3d 1229, 120 U.S.P.Q.2d 1844
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+842 F.3d 1229
+United States Court of Appeals,
+Federal Circuit.
+APPLE, INC., Domino’s Pizza, Inc., Domino’s Pizza, LLC, Fandango, LLC, Opentable, Inc., Appellants
+v.
+AMERANTH, INC., Cross–Appellant
+Ameranth, Inc., Appellant
+v.
+Agilysys, Inc., Expedia, Inc., Fandango, LLC, Hotel Tonight, Inc., Hotwire, Inc., Hotels.com, L.P., Kayak Software Corporation, Live Nation Entertainment, Inc., Oracle Corporation, Orbitz, LLC, Opentable, Inc., Papa John’s USA, Inc., Stubhub, Inc., Ticketmaster, LLC, Travelocity.com Llp, Wanderspot LLC, Domino’s Pizza, Inc., Domino’s Pizza, LLC, Mobo Systems, Inc., Eventbrite, Inc., Best Western International, Inc., Hyatt Corporation, Marriott International, Inc., Starwood Hotels & Resorts Worldwide Inc., Usablenet, Inc., Apple, Inc., Hilton Resorts Corp., Hilton Worldwide, Inc., Hilton International Co., Appellees
+2015-1703
+|
+2015-1704
+|
+2015-1792
+|
+2015-1793
+|
+Decided: November 29, 2016
+Synopsis
+Background: Petitioners sought covered business method review of patents for information management and synchronous communications system for generating and transmitting menus. The Patent Trial and Appeal Board, 2015 WL 1324399, 2015 WL 1324400, and 2015 WL 1324401, determined that patents were unpatentable in part. Petitioners and patentee appealed. Director of Patent and Trademark Office (PTO) intervened, challenging court’s jurisdiction.
+ 
+Holdings: The Court of Appeals, Reyna, Circuit Judge, held that:
+ 
+[1] “menu” meant a list of options available to a user displayable on a computer;
+ 
+[2] claim preambles reciting “synchronous communications system” were not limiting so as to require central back-office server that communicated data updates to and from multiple client devices;
+ 
+[3] “central processing unit” meant computational and control unit of a computer;
+ 
+[4] Board’s determinations that patents were covered business method patents were supported by substantial evidence and were neither arbitrary nor capricious;
+ 
+[5] patent claims were directed to abstract idea of generating menus with certain features, and thus claims were patent-ineligible absent additional transformative elements;
+ 
+[6] claims lacked transformative elements, and thus were patent-ineligible; and
+ 
+[7] requirement that modified menu be linked to a specific customer at a specific table was not sufficiently transformative to render claims patentable.
+ 
+Affirmed in part and reversed in part.
+ 
+
+
+West Headnotes (19)
+
+
+[1]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+Court of Appeals reviews Patent Trial and Appeal Board’s legal conclusions de novo and its factual findings for substantial evidence, on appeal from Board’s decision on petition for covered business method review of patents. 28 U.S.C.A. § 1295(a)(4)(A).
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsScope of Review
+PatentsQuestions of law or fact
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1848Questions of law or fact
+
+
+Patent Trial and Appeal Board’s ultimate interpretation of a patent claim term is a legal conclusion reviewed de novo by Court of Appeals on appeal Board’s decision on petition for covered business method review of patents. 28 U.S.C.A. § 1295(a)(4)(A).
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+If the Patent Trial and Appeal Board makes subsidiary factual findings about extrinsic evidence that underlie its construction of a patent that is the subject of a petition for covered business method review, Court of Appeals reviews those factual findings for substantial evidence. 28 U.S.C.A. § 1295(a)(4)(A).
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+Court of Appeals reviews the Patent Trial and Appeal Board’s reasoning that patents are covered business method patents under the arbitrary and capricious standard, on appeal from Board’s decision on petition for covered business method review. 28 U.S.C.A. § 1295(a)(4)(A).
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsScope of Review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1137Scope of Review
+291k1138In general
+
+
+Court of Appeals reviews patent eligibility de novo, on appeal from Patent Trial and Appeal Board’s decision on petition for covered business method review of patent. 28 U.S.C.A. § 1295(a)(4)(A); 35 U.S.C.A. § 101.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+
+
+“Menu,” in patents for information management and synchronous communications system for generating and transmitting menus, meant a list of options available to a user displayable on a computer, contrary to patentee’s contention that “menu” should be construed as computer data representing collections of linked levels of choices or options intended for display in a graphical user interface; patentee’s proposed construction included features of menus that were already expressly recited in claims and would make those expressly recited features redundant.
+1 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsConstruction to give validity and effect to patent and claims
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1318Construction to give validity and effect to patent and claims
+
+
+Ideally, patent claim constructions give meaning to all of a claim’s terms.
+3 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+
+
+Claim preambles reciting “synchronous communications system,” in patents for information management and synchronous communications system for generating and transmitting menus, were not limiting so as to require central back-office server that communicated data updates to and from multiple client devices; nothing in patents’ specifications indicated that synchronous communication system was required to include central back-office server that communicated data updates with client devices, and person of ordinary skill in the art would not have understood the broad term “synchronous communications systems” to include only such system of back-office server and client devices.
+Cases that cite this headnote
+
+
+
+[9]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+
+
+“Central processing unit,” in patents for information management and synchronous communications system for generating and transmitting menus, meant computational and control unit of a computer; patentee contended that term should be construed to mean a central server, but such construction would include features that were already recited and would make those expressly recited features redundant, and patentee’s construction was not necessary to differentiate from another claim that recited “microprocessor,” as claims were not identical in scope and could use different terms that had same meaning.
+2 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsDecisions reviewable;  finality
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(E)Judicial Review or Intervention
+291k1132Decisions reviewable;  finality
+
+
+Court of Appeals has jurisdiction to review Patent Trial and Appeal Board’s decision that patents are covered business method patents and thus subject to Board’s review as such. 28 U.S.C.A. § 1295(a)(4)(A); 37 C.F.R. § 42.301(b).
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsPost-grant review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1263Post-grant review
+
+
+Patent Trial and Appeal Board’s determinations, that patents, for information management and synchronous communications system for generating and transmitting menus, were covered business method patents because they were not patents for technological inventions, were supported by substantial evidence and were neither arbitrary nor capricious; Board found that claimed inventions did not solve technical problem using technical solution, as they did not include recitations for addressing problem of how display or synchronize menus, but instead included descriptions about menu generation, while problem of restaurant ordering when customers wanted something unusual and unanticipated was more business problem than technical problem. 37 C.F.R. § 42.301(b).
+Cases that cite this headnote
+
+
+
+[12]
+
+PatentsExceptions to Eligibility;  Ineligible Subject Matter
+PatentsUse or operation of machine or apparatus as affecting process;  ‘machine or transformation‘ test
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k450Exceptions to Eligibility;  Ineligible Subject Matter
+291k451In general
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k455Use or operation of machine or apparatus as affecting process;  ‘machine or transformation‘ test
+
+
+To determine whether a claim is patent eligible, court must first determine whether the claims at issue are directed to a patent-ineligible concept, and if they are, court then considers the elements of each claim both individually and as an ordered combination to determine whether the additional elements transform the nature of the claim into a patent-eligible application. 35 U.S.C.A. § 101.
+3 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsLaws of nature, natural phenomena, and abstract ideas;  fundamental principles
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k450Exceptions to Eligibility;  Ineligible Subject Matter
+291k452Laws of nature, natural phenomena, and abstract ideas;  fundamental principles
+
+
+In determining whether patent claim at issue is directed to a judicial exception to patent eligibility, such as an abstract idea, court determines whether the claim focuses on a specific means or method that improves the relevant technology or is directed to a result or effect that itself is the abstract idea and merely invokes generic processes and machinery. 35 U.S.C.A. § 101.
+9 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k462Business methods;  Internet applications
+
+
+Claims, in patents for information management and synchronous communications system for generating and transmitting menus, were directed to abstract idea of generating menus with certain features, and thus claims were patent-ineligible absent additional transformative elements; patents did not recite a particular way of programming or designing software to create menus with the desired features, but instead merely claimed the resulting systems, and the claims were not directed to a specific improvement in the way computers operated. 35 U.S.C.A. § 101.
+6 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k462Business methods;  Internet applications
+
+
+Claims directed to abstract idea of generating menus, in patents for information management and synchronous communications system for generating and transmitting menus, lacked transformative elements, and thus claims were patent-ineligible; patents merely added conventional computer components, such as central processing unit, data storage device, and operating system, along with common software programming, to well-known business practices such as modification, downloading, and printing of menus. 35 U.S.C.A. § 101.
+4 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k462Business methods;  Internet applications
+
+
+Requirement that modified menu be linked to a specific customer at a specific table was not sufficiently transformative to render patentable those claims, in patents for information management and synchronous communications system for generating and transmitting menus, which were directed to abstract idea of generating menus with certain features; patent specification recited that hardware needed was typical and that programming steps were commonly known, and merely stated that user interface could permit linking of orders with customers with no disclosure of how this would be technologically implemented. 35 U.S.C.A. § 101.
+Cases that cite this headnote
+
+
+
+[17]
+
+PatentsEligible Subject Matter
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k441In general
+
+
+Generally, a claim that merely describes an effect or result dissociated from any method by which it is accomplished is not directed to patent-eligible subject matter. 35 U.S.C.A. § 101.
+1 Cases that cite this headnote
+
+
+
+[18]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k462Business methods;  Internet applications
+
+
+Requirements that menu be modified by handwriting capture or voice capture were not sufficiently transformative to render patentable those claims, in patent for information management and synchronous communications system for generating and transmitting menus, which were directed to abstract idea of generating menus with certain features; patent referred to existing handwriting- and voice-capture technologies without providing how these elements were to be technologically implemented. 35 U.S.C.A. § 101.
+1 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,384,850, US Patent 6,871,325, US Patent 6,982,733. Construed and Unpatentable.
+Cases that cite this headnote
+
+
+
+*1233 Appeals from the United States Patent and Trademark Office, Patent Trial and Appeal Board, in Nos. CBM2014–00013, CBM2014–00015, CBM2014–00016.
+Attorneys and Law Firms
+STANLEY JOSEPH PANIKOWSKI III, DLA Piper LLP (US), San Diego, CA, argued for all appellants in 2015–1703, –1704 and all appellees in 2015–1792, –1793. Apple, Inc., Eventbrite, Inc. also represented by ERIN GIBSON, ROBERT CHEN WILLIAMS; MARK D. FOWLER, East Palo Alto, CA; JAMES M. HEINTZ, Reston, VA.
+JONATHAN S. FRANKLIN, Norton Rose Fulbright US LLP, Washington, DC, argued for all appellants in 2015–1703, –1704 and all appellees in 2015–1792, –1793. Fandango, LLC, OpenTable, Inc., Expedia, Inc., Hotel Tonight, Inc., Hotwire, Inc., Hotels.com, L.P., Kayak Software Corporation, Live Nation Entertainment, Inc., Orbitz, LLC, Papa John’s USA, Inc., Stubhub, Inc., Ticketmaster, LLC, Travelocity.com LLP, Wanderspot LLC also represented by STEPHANIE DEBROW, GILBERT ANDREW GREENE, Austin, TX; RICHARD STEPHEN ZEMBEK, Houston, TX.
+JOHN WILLIAM OSBORNE, Osborne Law LLC, Cortlandt Manor, NY, argued for Ameranth, Inc. Also represented by MICHAEL D. FABIANO, Fabiano Law Firm, P.C., San Diego, CA.
+JOSEPH MATAL, Office of the Solicitor, United States Patent and Trademark Office, Alexandria, VA, argued for intervenor Michelle K. Lee. Also represented by THOMAS W. KRAUSE, SCOTT WEIDENFELLER.
+FRANK A. ANGILERI, Brooks Kushman PC, Southfield, MI, for Domino’s Pizza, Inc., Domino’s Pizza, LLC. Also represented by THOMAS W. CUNNINGHAM.
+ANTHONY NIMMO, Ice Miller LLP, Chicago, IL, for appellee Agilysys, Inc. in 2015–1792, –1793. Also represented by NICHOLAS R. MERKER.
+JARED BOBROW, Weil, Gotshal & Manges LLP, Redwood Shores, CA, for appellee Oracle Corporation in 2015–1792, –1793. Also represented by BRIAN CHANG.
+LOWELL D. MEAD, Cooley LLP, Palo Alto, CA, for appellee Mobo Systems, Inc. in 2015–1792, –1793.
+JOSEPH RICK TACHE, Greenberg Traurig LLP, Irvine, CA, for appellee Best Western International, Inc. in 2015–1792, –1793.
+LAURA BETH MILLER, Brinks Gilson & Lione, Chicago, IL, for appellee Hyatt Corporation in 2015–1792, –1793. Also represented by DAVID LINDNER.
+NICK G. SAROS, Jenner & Block LLP, Los Angeles, CA, for appellee Marriott International, Inc. in 2015–1792, –1793. Also represented by MICHAEL GLENN BABBITT, Chicago, IL.
+JOHN GUARAGNA, DLA Piper LLP (US), Austin, TX, for appellee Starwood Hotels & Resorts Worldwide Inc. in 2015–1792, –1793. Also represented by JAMES M. HEINTZ, Reston, VA; STANLEY JOSEPH PANIKOWSKI III, ROBERT CHEN WILLIAMS, San Diego, CA.
+ANDREW PETER ZAPPIA, LeClairRyan, A Professional Corporation, Rochester, NY, for appellee USABLENET, Inc. in 2015–1792, –1793.
+DAVID M. STEIN, Alston & Bird LLP, Los Angeles, CA, for appellees Hilton Resorts Corp., Hilton Worldwide, Inc., Hilton International Co. in 2015–1792, –1793.
+Before Reyna, Chen, and Stoll, Circuit Judges.
+Opinion
+*1234 Reyna, Circuit Judge.
+
+In this appeal, we review Patent Trial and Appeal Board decisions in three Covered Business Method (“CBM”) reviews. The decisions addressed the subject matter eligibility of certain claims of U.S. Patent No. 6,384,850 (“ ‘850 patent”), U.S. Patent No. 6,871,325 (“ ‘325 patent”), and U.S. Patent No. 6,982,733 (“ ‘733 patent”). For the reasons explained below, we affirm-in-part and reverse-in-part.
+ 
+
+BACKGROUND
+I. Patents
+Ameranth, Inc. (“Ameranth”) owns the patents, which disclose computer systems with hardware and software.1 The patent specifications disclose a first menu that has categories and items, and software that can generate a second menu from that first menu by allowing categories and items to be selected. Claim 1 in the ’850 patent recites:
+1. An information management and synchronous communications system for generating and transmitting menus comprising:
+a. a central processing unit,
+b. a data storage device connected to said central processing unit,
+c. an operating system including a graphical user interface,
+d. a first menu consisting of menu categories, said menu categories consisting of menu items, said first menu stored on said data storage device and displayable in a window of said graphical user interface in a hierarchical tree format,
+e. a modifier menu stored on said data storage device and displayable in a window of said graphical user interface,
+f. a sub-modifier menu stored on said data storage device and displayable in a window of said graphical user interface, and
+g. application software for generating a second menu from said first menu and transmitting said second menu to a wireless handheld computing device or Web page,
+wherein the application software facilitates the generation of the second menu by allowing selection of catagories [sic] and items from the first menu, addition of menu categories to the second menu, addition of menu items to the second menu and assignment of parameters to items in the second menu using the graphical user interface of said operating system, said parameters being selected from the modifier and sub-modifier menus.
+’850 patent col. 14 l. 48–col. 15 l. 11.
+ 
+Claim 1 of the ’325 patent and claim 1 of the ’733 patent are nearly identical to claim 1 of the ’850 patent. They differ only in that short phrases are added to the end of the claim: claim 1 of the ’325 patent additionally recites “wherein said second menu to [sic] applicable to a predetermined type of ordering” and claim 1 of the ’733 patent additionally recites “wherein said second menu is manually modified after generation.” ’325 patent col. 15 ll. 23–24; ’733 patent col. 15 l. 60–col. 16 l. 25.
+ 
+*1235 The patents describe a preferred embodiment of the invention for use in the restaurant industry. In that embodiment, a menu consists of categories such as appetizers and entrees, items such as chicken Caesar salad, modifiers such as dressing, and sub-modifiers such as Italian and blue cheese. See, e.g., ’850 patent col. 6 ll. 9–21.
+ 
+The menu can be configured on a desktop computer and then downloaded onto a handheld device. Id. at col. 6 ll. 22–24. The menu may be displayed to a user and then another menu may be generated “in response to and comprised of the selections made.” Id. at col. 13 ll. 52–61.
+ 
+
+​
+Figure 7, shown above, represents a point of sale interface for use in displaying the claimed menus in a preferred embodiment. Id. at col. 4 ll. 52–55.
+The specifications note that “ordering prepared foods has historically been done verbally, either directly to a waiter or over the telephone, whereupon the placed order is recorded on paper by the recipient or instantly filled.” ’850 patent col. 1 ll. 23–27; ’733 patent col. 1 ll. 31–34. They explain that the “unavailability of any simple technique for creating restaurant menus and the like for use in a limited display area wireless handheld device or that is compatible with ordering over the internet ha[d] prevented widespread adoption of computerization in the hospitality industry.” ’850 patent col. 2 ll. 40–45; ’733 patent col. 2 ll. 48–53.
+ 
+
+II. Procedural History
+Appellees in the 2015–1792 and 2015–1793 appeals (“Agilysys petitioners”) petitioned for CBM review of the ’325 patent and the ’850 patent. Appellants in the 2015–1703 and 2015–1704 appeals (“Apple petitioners”) petitioned for CBM review of the ’733 patent. The Apple petitioners and Agilysys petitioners are together referred to as “petitioners.”
+ 
+The Patent Trial and Appeal Board (“Board”) construed the claims, found that each patent met the statutory definition of “covered business method patent,” and instituted CBM reviews. In its final decisions, the Board found certain claims in *1236 each of the patents unpatentable under 35 U.S.C. § 101.2 Ameranth appeals these findings, making three arguments. Ameranth argues that the Board misconstrued the claims, that the patents are not CBM patents, and that the Board erred in its § 101 analysis for these claims.
+ 
+The Board also found that the Apple petitioners had not met their burden of showing that claims 3, 6–9, 11, and 13–16 of the ’733 patent were unpatentable under § 101. The Apple petitioners appeal these findings. They argue that these dependent claims cover well-known, conventional concepts that do not confer patent eligibility.
+ 
+The Director of the United States Patent and Trademark Office (“Patent Office”) has intervened. She argues that this court lacks jurisdiction to review the Board’s decision that the patents are CBM patents, and that all of the Board’s determinations were correct. We have jurisdiction under 28 U.S.C. § 1295(a)(4)(A).
+ 
+
+DISCUSSION
+[1] [2] [3] [4] [5]We review the Board’s legal conclusions de novo and its factual findings for substantial evidence. In re Roslin Inst. (Edinburgh), 750 F.3d 1333, 1335 (Fed. Cir. 2014). The “ultimate interpretation” of a claim term is a legal conclusion reviewed de novo. Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 841, –––L.Ed.2d –––– (2015). If the Board makes subsidiary factual findings about extrinsic evidence that underlie its construction, we review those factual findings for substantial evidence. Microsoft Corp. v. Proxyconn, Inc., 789 F.3d 1292, 1297 (Fed. Cir. 2015) (citing Teva, 135 S.Ct. at 841–42). We review the Board’s reasoning that the patents are CBM patents under the arbitrary and capricious standard. SightSound Techs., LLC v. Apple Inc., 809 F.3d 1307, 1315 (Fed. Cir. 2015). We review § 101 patent eligibility de novo. Roslin Inst., 750 F.3d at 1335.
+ 
+
+I. Claim Constructions
+Ameranth appeals the Board’s claim constructions, arguing that the Board’s CBM and § 101 determinations were “based on a misapprehension of the actually claimed subject matter.” –1792 Appellant’s Br. 5; –1703 Cross–Appellant’s Br. 8.
+ 
+During CBM review, the Board construes claims in an unexpired patent according to their broadest reasonable construction in light of the patent’s specification. 37 C.F.R. § 42.300(b); cf. Cuozzo Speed Techs., LLC v. Lee, ––– U.S. ––––, 136 S.Ct. 2131, 2142, 195 L.Ed.2d 423 (2016) (upholding the Patent Office regulation requiring the use of the broadest reasonable construction in the analogous context of inter partes review).
+ 
+
+A. Menu
+[6]Before the Board, Ameranth argued that the term “menu” should be construed as “computer data representing collections of linked levels of choices or options intended for display in a graphical user interface.” Agilysys, Inc. v. Ameranth, Inc., CBM2014–00015, 2015 WL 1324400, at *7–8 (P.T.A.B. Mar. 20, 2015) (“ ’850 Fin. Dec.”); Agilysys, Inc. v. Ameranth, Inc., CBM2014–00016, 2015 WL 1324401, at *9 (P.T.A.B. Mar. 20, 2015) (“ ’325 Fin. Dec.”); Apple, Inc. v. Ameranth, Inc., CBM2014–00013, 2015 WL 1324399, at *8–9 (P.T.A.B. Mar. 20, 2015) (“ ’733 Fin. Dec.”).
+ 
+*1237 The Board construed the term “menu” to be “a list of options available to a user displayable on a computer.” ’850 Fin. Dec. at *8; ’325 Fin. Dec. at *9; ’733 Fin. Dec. at *9.
+ 
+Ameranth argues that the Board’s construction is wrong because it does not include language stating that the claimed menus are hierarchical. Ameranth argues that the construction is inconsistent with language in the claims expressly reciting a hierarchical menu.
+ 
+[7]The Board was correct to not include in its construction of “menu” features of menus that are expressly recited in the claims. Ideally, claim constructions give meaning to all of a claim’s terms. Merck & Co. v. Teva Pharm. USA, Inc., 395 F.3d 1364, 1372 (Fed. Cir. 2005). Construing a claim term to include features of that term already recited in the claims would make those expressly recited features redundant.
+ 
+
+B. Synchronous Communications System
+[8]Before the Board, Ameranth argued that certain claim preambles reciting “synchronous communications system” were limiting.3 It argued that “a synchronous communication system requires a central back-office server that communicates data updates to and from multiple client devices.” ’850 Fin. Dec. at *6; ’325 Fin. Dec. at *7; ’733 Fin. Dec. at *7. In its final decisions, the Board declined to find these preambles limiting.4
+ 
+Ameranth argues that the Board erred when it declined to find these claim preambles limiting. We agree with the Board that nothing in the patents’ specifications indicates that a synchronous communication system is required to include a central back-office server that communicates data updates to and from multiple client devices. A person of ordinary skill in the art would not have understood the broad term “synchronous communications systems” to include only such systems. See Phillips v. AWH Corp., 415 F.3d 1303, 1313 (Fed. Cir. 2005) (en banc). The Board was correct in determining that the preamble recitations of “synchronous communications system” are not limiting.
+ 
+
+C. Central Processing Unit
+[9]Ameranth argued before the Board that the term “central processing unit” should be construed as “central server.” ’850 Fin. Dec. at *6–7; ’325 Fin. Dec. at *8–9; ’733 Fin. Dec. at *7–8. The Board instead construed the term as “the computational and control unit of a computer.” Id.
+ 
+On appeal, Ameranth argues that the Board erred in its construction. In support, Ameranth makes two main arguments.
+ 
+First, Ameranth argues that the recited central processing unit is not a generic central processing unit, but is instead a particular processing unit which, with application software, provides synchronized second menus across different devices in the system. It urges that the term “central processing unit” must be construed to include the functions ascribed to that unit in the claims, and that the central processing *1238 unit cannot be a generic processor. But, as noted above, construing a claim term to include features of that term that are already recited in the claims would make those expressly recited features redundant. Merck, 395 F.3d at 1372.
+ 
+Second, Ameranth argues that the Board’s construction is precluded by claim differentiation, as claim 5 of the ’733 patent expressly recites “microprocessor.” We disagree. This court has declined to apply the doctrine of claim differentiation where “the claims are not otherwise identical in scope.” Indacon, Inc. v. Facebook, Inc., 824 F.3d 1352, 1358 (Fed. Cir. 2016). Claim 5 of the ’733 patent is an independent claim, and Ameranth is correct that it recites “microprocessor” where other claims recite “central processing unit.” But claim 5 also differs from the other independent claims in many other ways, and so the claims “are not otherwise identical in scope.” In addition, “two claims with different terminology can define the exact same subject matter.” Curtiss–Wright Flow Control Corp. v. Velan, Inc., 438 F.3d 1374, 1380 (Fed. Cir. 2006). In other words, although claim 5 recites “microprocessor” and others recite “central processing unit,” this does not necessarily mean that the two terms must have a different meaning.
+ 
+The Board was correct in not construing the term “central processing unit” to refer only to particular processors with certain features. The Board’s construction used language from a definition of central processing unit from the Microsoft Computer Dictionary, 115 (4th Ed. 1999) (“the computational and control unit of a computer”). See, e.g., ’850 Fin. Dec. at *7. The Board’s construction was consistent with the use of the term “central processing unit” in the specifications. The patent specifications explain that “a typical workstation platform includes hardware such as a central processing unit (‘CPU’), e.g., a Pentium® microprocessor.” See ’850 patent col. 5 ll. 37–39; ’733 patent col. 6 ll. 52–54; see also ’850 patent col. 5 ll. 48–50 and ’733 patent col. 6 ll. 63–65.
+ 
+
+II. CBM Patents
+The Board decided that the patents are CBM patents. The Board first found that the patents meet the “financial product or service” component of the definition of CBM patents. See, e.g., Agilysys, Inc. v. Ameranth, Inc., CBM2014–00015, 2014 WL 1440416, at *7–8 (P.T.A.B. Mar. 26, 2014) (“ ’850 Inst. Dec.”). The Board then found that the patents did not fall within the “technological invention” exception of the definition. Id. at *6–7.
+ 
+[10]Ameranth appeals the Board’s decision that the patents are CBM patents.5 Ameranth does not appeal the Board’s “financial product or service” determination, but it argues that the patents fall within the exception for technological inventions.
+ 
+The term “covered business method patent” means “a patent that claims a method or corresponding apparatus for performing data processing or other operations used *1239 in the practice, administration, or management of a financial product or service, except that the term does not include patents for technological inventions.” Leahy–Smith America Invents Act, Pub. L. No. 112–29, § 18(d)(1), 125 Stat. 284, 331 (2011) (emphasis added). The Patent Office promulgated the following regulation defining technological inventions:
+In determining whether a patent is for a technological invention solely for purposes of the Transitional Program for Covered Business Methods (section 42.301(a)), the following will be considered on a case-by-case basis: whether the claimed subject matter as a whole recites a technological feature that is novel and unobvious over the prior art; and solves a technical problem using a technical solution.
+37 C.F.R. § 42.301(b).
+ 
+This court has noted that this regulation offers little towards understanding the meaning of the term “technological invention.” Versata, 793 F.3d at 1326. But determining whether these patents are a technological invention does not require this court to determine “the full sweep of the term.” Id. at 1327.
+ 
+The Board found that neither prong of 37 C.F.R. § 42.301(b) was satisfied. First, the Board found that the patents did not claim a technological feature that is novel and unobvious over the prior art. Agilysys, Inc. v. Ameranth Inc., CBM2014–00016, 2014 WL 1440421, at *7 (P.T.A.B. Mar. 26, 2014) (“ ‘325 Inst. Dec.”) at *7. The Board explained that the specifications disclosed that the hardware used in the claimed systems was “typical,” and that the programming steps were “commonly known.” See, e.g., ’325 Inst. Dec. at *7–8.6
+ 
+Second, the Board found that the claimed inventions did not solve a technical problem using a technical solution. Ameranth argued that its patents were solutions for various problems, and the Board determined that neither the solutions nor the problems were technical. For example, Ameranth had argued that the ’850 and ’325 patents “solv[ed] the problem of how to display and synchronize computerized menus on non-standard devices/interfaces.” ’325 Inst. Dec. at *8; ’850 Inst. Dec. at *8. The Board explained that the claims did not recite a solution to this problem, as they do not include recitations about how to display or synchronize the menus, but instead include descriptions about menu generation. Id. Similarly, Ameranth had argued that the ’733 patent was intended to solve a problem in restaurant ordering when customers wanted something unusual and unanticipated. ’733 Inst. Dec. at *9. The Board found that this was “more of a business problem than a technical problem.” Id.
+ 
+On appeal, Ameranth argues that the patents fall within the “technological inventions” exception because they recite technological features, including specific software which was distinctive over the prior art, and because the petitioners made no showing that these features were known or conventional.
+ 
+[11]We affirm the Board’s determinations that these are not patents for technological inventions. The Board’s determinations were supported by substantial evidence and are neither arbitrary *1240 nor capricious. We agree with the Board’s determination that these claims do not solve technical problems using technical solutions.
+ 
+Ameranth also contends that the Board’s analysis on this issue did not address Ameranth’s objective evidence of non-obviousness. It argues that “[f]ailure to consider such evidence was error given that the PTO Regulations require analysis of whether the claims recite a technological feature that is ‘unobvious over the prior art.’ ” –1792 Appellant’s Br. 20 (quoting 37 C.F.R. § 42.301); –1703 Cross–Appellant’s Br. 29 (same).
+ 
+We need not address this argument regarding whether the first prong of 37 C.F.R. § 42.301(b) was met, as we affirm the Board’s determination on the second prong of the regulation—that the claimed subject matter as a whole does not solve a technical problem using a technical solution.
+ 
+
+III. Section 101 Determinations
+A. Claims the Board Found Unpatentable
+The Board found certain claims unpatentable under § 101. Ameranth appeals these determinations.7
+ 
+[12]To determine whether a claim is eligible under § 101, we must “first determine whether the claims at issue are directed to a patent-ineligible concept.” Alice Corp. v. CLS Bank Int’l, ––– U.S. ––––, 134 S.Ct. 2347, 2355, 189 L.Ed.2d 296 (2014). If they are, we then “consider the elements of each claim both individually and ‘as an ordered combination’ to determine whether the additional elements ‘transform the nature of the claim’ into a patent-eligible application.” Id. (quoting Mayo Collaborative Servs. v. Prometheus Labs., Inc., ––– U.S. ––––, 132 S.Ct. 1289, 1297–98, 182 L.Ed.2d 321 (2012)).
+ 
+
+i. Step One
+At the first step, the Board determined that the claims in all three patents are directed to the abstract idea of “generating a second menu from a first menu and sending the second menu to another location.” ’850 Fin. Dec. at *11; ’325 Fin. Dec. at *18; ’733 Fin. Dec. at *12.
+ 
+Ameranth argues that the Board’s § 101 analysis changed slightly between the Board’s institution decisions and its final decisions. In the institution decisions, the Board described the patent claims as directed to generating a menu on a computer. ’325 Inst. Dec. at *14; ’850 Inst. Dec. at *14; ’733 Inst. Dec. at *9. In the final decisions, the Board added to this description, finding the patent claims are directed to the abstract idea of generating a second menu from a first menu and sending the second menu to another location. ’850 Fin. Dec. at *11; ’325 Fin. Dec. at *18; ’733 Fin. Dec. at *12.
+ 
+An abstract idea can generally be described at different levels of abstraction. As the Board has done, the claimed abstract idea could be described as generating menus on a computer, or generating a second menu from a first menu and sending the second menu to another location. It could be described in other ways, including, *1241 as indicated in the specification, taking orders from restaurant customers on a computer.
+ 
+The Board’s slight revision of its abstract idea analysis does not impact the patentability analysis. The Supreme Court has recognized that “all inventions ... embody, use, reflect, rest upon, or apply laws of nature, natural phenomena, or abstract ideas.” Alice, 134 S.Ct. at 2354 (quoting Mayo, 132 S.Ct. at 1293). But not all claims are directed to an abstract idea. See, e.g., Enfish, LLC v. Microsoft Corp., 822 F.3d 1327, 1334–36 (Fed. Cir. 2016); McRO, Inc. v. Bandai Namco Games Am. Inc., 837 F.3d 1299, 1316 (Fed. Cir. 2016).
+ 
+[13]The step one inquiry focuses on determining “whether the claim at issue is ‘directed to’ a judicial exception, such as an abstract idea.” McRO, Inc., 837 F.3d at 1312. We determine whether the claims “focus on a specific means or method that improves the relevant technology” or are “directed to a result or effect that itself is the abstract idea and merely invoke generic processes and machinery.” Id. at 1314.
+ 
+[14]We affirm the Board’s conclusion that the claims in these patents are directed to an abstract idea. The patents claim systems including menus with particular features. They do not claim a particular way of programming or designing the software to create menus that have these features, but instead merely claim the resulting systems. Id. Essentially, the claims are directed to certain functionality—here, the ability to generate menus with certain features. Alternatively, the claims are not directed to a specific improvement in the way computers operate. Cf. Enfish, 822 F.3d at 1335–36.
+ 
+
+ii. Step Two
+In the second step, the Board found that the recited central processing unit, data storage device, and operating system components were “typical” hardware elements. ’850 Fin. Dec. at *12; ’325 Fin. Dec. at *18; ’733 Fin. Dec. at *13. It found aspects of the recited menus were described as conventional in the specifications. ’850 Fin. Dec. at *12; ’325 Fin. Dec. at *19; ’733 Fin. Dec. at *13. The Board quoted language from the specifications stating that “the discrete programming steps are commonly known.” Id. The Board also stated that “[e]ven when the claim elements are considered as a combination, they add nothing that is not already present when the elements are considered separately.” ’850 Fin. Dec. at *13; ’325 Fin. Dec. at *20; ’733 Fin. Dec. at *14.
+ 
+With regard to step two, Ameranth argues broadly that none of the claims are directed to something conventional or routine. In addition, Ameranth identifies certain aspects of certain claims that it argues make those claims directed to patent-eligible subject matter.
+ 
+Specifically, first it points to the term “second menu is manually modified after generation” in claim 1 of the ’733 patent. One example the ’733 patent’s specification provides for this limitation is a restaurant server writing “with lemon” on a screen of an electronic device, after selecting “Iced Tea” from the screen. Col. 4 ll. 6–10. The Board explained that manual modification of a menu could also include printing the second menu and then writing on it with a pen. ’733 Fin. Dec. at *14. Citing specification support, the Board noted that menus were commonly printed on paper, and that it was known to use pens in the hospitality industry. ’733 Fin. Dec. at *14.
+ 
+Second, Ameranth points to the synchronization limitation in independent claims 4, 5, and 12 of the ’733 patent. For example, claim 4 recites in part that “data comprising the second menu is synchronized between *1242 the data storage device connected to the central processing unit and at least one other computing device.” ’733 patent col. 16 ll. 48–51. The Board explained that testimony from Ameranth during trial indicated that mere downloading could satisfy the synchronization limitation, and that the ’733 patent’s specification disclosed that the Windows CE® operating system included “built in synchronization between handheld devices, internet and desktop infrastructure.” ’733 Fin. Dec. at *16 (quoting ’733 patent col. 12 ll. 15–18).
+ 
+Third, Ameranth points to dependent claims 2 and 10 of the ’733 patent, which recite printing features. For example, claim 2 recites that “the modified second menu can be selectively printed on any printer directly from the graphical user interface of a hand-held device.” Ameranth claims that these printing limitations are tied to physical, real-world locations of printers, and thus are not abstract. The Board explained that the ’733 patent specification disclosed that menus commonly are printed on paper. ‘733 Fin. Dec. at *21.
+ 
+Fourth, Ameranth points to the recitation of types of ordering in claims 1 to 6 of the ’325 patent. Claim 1 of the ’325 patent includes a limitation that “wherein said second menu to [sic] applicable to a predetermined type of ordering.” ’325 patent col. 15 ll. 23–24. Claims 2 through 5 depend from claim 1 and recite specific types of ordering. For example, claim 2 recites “wherein the type of ordering is table-based customer ordering.” Claim 3 recites “wherein the type of ordering in [sic] drive-through customer ordering.”
+ 
+[15]The Board found that all four of these features were insignificant post-solution activity. ’733 Fin. Dec. at *14, 21; ’325 Fin. Dec. at *19, 21. We agree that these limitations are insignificant post-solution activities that do not support the invention having an “an inventive concept.” See, e.g., Mayo, 132 S.Ct. at 1294 (“[T]he prohibition against patenting abstract ideas cannot be circumvented by ... adding insignificant postsolution activity.”) (quoting Bilski v. Kappos, 561 U.S. 593, 610–11, 130 S.Ct. 3218, 177 L.Ed.2d 792 (2010) (quotation marks omitted)).
+ 
+The preferred embodiment of the claimed invention described in the specifications is a restaurant preparing a device that can be used by a server taking orders from a customer. The claimed invention replaces a server’s notepad or mental list with an electronic device programmed to allow menu items to be selected as a customer places an order. As noted above, the specifications describe the hardware elements of the invention as “typical” and the software programming needed as “commonly known.” The invention merely claims the addition of conventional computer components to well-known business practices.
+ 
+Finally, Ameranth argued in its briefing and at oral argument that programming the software to perform various parts of the claimed systems’ functionality was difficult, and that this difficulty indicates that the claims were not directed to an abstract idea. We disagree. The difficulty of the programming details for this functionality is immaterial because these details are not recited in the actual claims. The degree of difficulty in implementing an abstract idea in this circumstance does not itself render an abstract idea patentable.
+ 
+We affirm the Board’s conclusion in step two that the elements of the patents’ claims—both individually and when combined—do not transform the claimed abstract idea into a patent-eligible application of the abstract idea. The patents can readily be understood as adding conventional computer components to well-known business practices. *1243 Enfish, 822 F.3d at 1338. The Supreme Court and this court have repeatedly determined that such claims are invalid under § 101. Id.; see also Ultramercial, Inc. v. Hulu, LLC, 772 F.3d 709, 717 (Fed. Cir. 2014), cert. denied sub nom. Ultramercial, LLC v. WildTangent, Inc., ––– U.S. ––––, 135 S.Ct. 2907, 192 L.Ed.2d 929 (2015). It is not enough to point to conventional applications and say “do it on a computer.” Cf. Alice, 134 S.Ct. at 2358 (“Stating an abstract idea while adding the words ‘apply it with a computer’ ” is not enough for patent eligibility) (quoting Mayo, 132 S.Ct. at 1294).
+ 
+We affirm the Board’s determinations that claims 1–11 of the ’850 patent, claims 1–10 of the ’325 patent, and claims 1, 2, 4, 5, 10, and 12 of the ’733 patent are unpatentable under § 101.
+ 
+
+B. Claims the Board Found Patentable
+The Board found certain dependent claims were not unpatentable. The Apple petitioners appeal these determinations. We address first the dependent claims that involve linking orders to specific customers, and then those that involve handwriting and voice capture technologies.
+ 
+
+i. Linked Orders
+[16]The Apple petitioners appeal the Board’s determination that dependent claims 3 and 11 in the ’733 patent were not unpatentable. These claims require that the second menu, after being modified, can be linked to a specific customer at a specific table. Claim 3 recites “wherein the modified second menu can be linked to a specific customer at a specific table directly from the graphical user interface of a hand-held device.” ’733 patent col. 16 ll. 28–31. Claim 11 is similar. Id. at col. 17 ll. 27–30. The ’733 patent’s specification describes this feature in the restaurant embodiment as linking orders to specific customer positions at specific tables. Id. at col. 4 ll. 38–46.
+ 
+Ameranth argued to the Board that these claims were patentable because they recited “limitations that were unconventional or unique ‘in 2001 because the very capability of ... linking a particular order to a particular customer at a table was novel then and unique to mobility and wireless handhelds.’ ” ’733 Fin. Dec. at *21 (quoting Ameranth Response at 75). Ameranth argued “that Petitioner has not provided any evidence that establishes otherwise.” Id.
+ 
+The Board found that, while the Apple petitioners had argued that the claimed linking is a “classic example[ ] of manual tasks that cannot be rendered patent eligible merely by performing them with a computer,” that the Apple petitioners had not “provide[d] sufficient evidence to support [that] statement.” Id. (citations omitted). The Board found that the Apple petitioners had “provide[d] insufficient evidence to establish that a menu having the functionality to perform the claimed linking from a GUI on a hand-held device, was well-known or conventional and merely require[d] a general purpose computer.” Id.
+ 
+On appeal, the Apple petitioners again argue that these linking limitations are routine and conventional. It directs this court to the specification language which explains that the hardware needed was typical and that the programming steps were commonly known.
+ 
+Ameranth argues that the Apple petitioners have not shown that the linking limitations were conventional. It contends that the Board made a factual finding when it determined that the Apple petitioners had provided insufficient evidence to establish this. Ameranth argues that linking orders to specific customers at specific tables was an inventive feature.
+ 
+*1244 Ameranth’s arguments are further belied by the ’733 patent’s specification. In addition to expressly reciting that the hardware needed was typical and that the programming steps were commonly known, the specification merely states that the user interface could permit linking of orders with customers, with no disclosure of how this would be technologically implemented:
+[H]and-held devices can link the above innovations to individual customers at specific tables through a graphical user interface on the handheld screen that assigns each customer a number within a table. For example, table 20 might have 6 customers (1–6) and each customer has a different order, [sic] By enabling the linkage of the orders to specific customer positions within the table and accessible from the hand-held screen, the servers can easily track and link the specific orders to the specific customers.
+’733 patent col. 4 ll. 38–46. After reviewing this disclosure, we find no inventive method for implementing the claimed order linking.
+ 
+[17]Generally, a claim that merely describes an “effect or result dissociated from any method by which [it] is accomplished” is not directed to patent-eligible subject matter. Internet Patents Corp. v. Active Network, Inc., 790 F.3d 1343, 1348 (Fed. Cir. 2015). Here, the linked orders claim limitation calls for the desired result of associating a customer’s order with said customer, and does not attempt to claim any method for achieving that result. McRO, Inc., 837 F.3d at 1314.
+ 
+This analysis is confirmed by Ameranth’s concession at oral argument that, prior to its filing of the ’733 patent, restaurants were able to keep track of which customer at what table ordered what meal, to make sure that the right customer got their order of food. Oral Arg. at 23:35–24:06, http://www.cafc.uscourts.gov/oral-argumentrecordings. These claims cover the process of a restaurant server taking an order from a customer and keeping track of what customer placed that order, when done using a computer. We agree with the Apple petitioners that the claimed linking of orders to customers is a classic example of manual tasks that cannot be rendered patent eligible merely by performing them with a computer.
+ 
+These claims depend from independent claims which were found to be directed to unpatentable subject matter, as discussed above. Merely appending this preexisting practice to those independent claims does not make them patentable. It is an insignificant post-solution activity. We reverse the Board’s finding confirming the patentability of these claims.
+ 
+
+ii. Handwriting and Voice Capture
+[18]The Apple petitioners also appeal the Board’s determination that dependent claims 6–9 and 13–16 in the ’733 patent were not unpatentable. These claims depend from claims that recite either that the “said second menu is manually modified after generation,” or “wherein said second menu is manually modified by handwriting or voice recording.” ’733 patent, claims 1, 4, 5, and 12. As noted above, the Board found such recitation of general manual modification to be insignificant post-solution activity.
+ 
+Some of the dependent claims upheld by the Board specify that the manual modification involves handwriting or voice capture. For example, claim 6 recites “wherein the manual modification involves handwriting capture.” The other claims depend from these claims and require that the captured inputs be recognized and converted to text. For example, claim 7 depends from claim 6 and recites “wherein *1245 the handwriting capture involves handwriting recognition and conversion to text.”
+ 
+The Apple petitioners argued before the Board that “manual modification of a menu is a classic example of a manual task which cannot be rendered patent eligible merely by performing it with a computer.” ’733 Fin. Dec. at *22 (quoting Reply at 11). They also argued that none of the claims were directed to any specific software for accomplishing manual modification. Id.
+ 
+The Board found that the Apple petitioners had “fail[ed] to provide sufficient evidence that menus having handwriting capture or voice capture functionality were well-known or conventional at the time of the ’733 patent or require merely a general purpose computer.” Id.
+ 
+On appeal, the Apple petitioners argue that these limitations recite insignificant post-solution activity. We agree that these limitations do not serve to provide an inventive concept.
+ 
+The ’733 patent refers to the use of handwriting and voice capture technologies without providing how these elements were to be technologically implemented. Col. 3 l. 48–col. 4. l. 9; col. 4 ll. 18–22; id. at ll. 27–37. At oral argument, Ameranth conceded that it had not invented voice or handwriting capture technology, and that it was known at the time it filed its applications to use those technologies as ways of entering data into computer systems. Oral Arg. at 16:26–52.
+ 
+In any event, in Content Extraction, we found that a recitation of the use of “existing scanning and processing technology to recognize and store data from specific data fields such as amounts, addresses, and dates” did not amount to significantly more than the “abstract idea of recognizing and storing information from hard copy documents using a scanner and a computer.” Content Extraction & Transmission LLC v. Wells Fargo Bank, Nat’l Ass’n, 776 F.3d 1343, 1348 (Fed. Cir. 2014), cert. denied, ––– U.S. ––––, 136 S.Ct. 119, 193 L.Ed.2d 208 (2015). Here, Ameranth claims no more than the use of existing handwriting and voice capture technologies using a computer system.
+ 
+These claims depend from independent claims found to be directed to unpatentable subject matter, as is discussed above. Appending these preexisting technologies onto those independent claims does not make them patentable. We reverse the Board’s finding confirming the patentability of these claims.
+ 
+
+CONCLUSION
+For the reasons explained above, we affirm the Board’s decisions finding certain claims unpatentable under § 101, and we reverse the Board’s decisions confirming the patentability of certain claims under § 101. Claims 1–11 of the ’850 patent, claims 1–10 of the ’325 patent, and claims 1–16 of the ’733 patent are all unpatentable under § 101.
+ 
+AFFIRMED IN PART AND REVERSED IN PART
+ 
+
+COSTS
+No Costs.
+ 
+All Citations
+842 F.3d 1229, 120 U.S.P.Q.2d 1844
+Footnotes
+
+1
+
+The ’325 patent and ’850 patent have the same specifications. The ’325 patent issued from an application which was a continuation of the application that issued as the ’850 patent. The ’733 patent issued from an application which was a continuation-in-part of the application that issued as the ’850 patent. The ’733 patent’s specification is largely the same as the other patents, containing two additional figures and some additional description.
+
+2
+
+Specifically, the Board found that claims 1–11 of the ’850 patent, claims 1–10 of the ’325 patent, and claims 1, 2, 4, 5, 10, and 12 of the ’733 patent were all unpatentable under § 101.
+
+3
+
+The preambles of claim 1 of the ’850 patent, claims 1 and 7–9 of the ’325 patent, and claim 1 of the ’733 patent recite “[a]n information management and synchronous communications system for generating and transmitting menus.” The preambles of claims 4, 5, and 12 of the ’733 patent include similar language.
+
+4
+
+The Board later noted that the patent specifications disclose that Windows CE® was a “common GUI operating system” and included “built in synchronization between handheld devices, internet and desktop infrastructure.” ’733 Fin. Dec. at *16, 18, 20.
+
+5
+
+The Patent Office argues that this Court lacks jurisdiction to review this issue under In re Hiniker Co., 150 F.3d 1362 (Fed. Cir. 1998) and In re Cuozzo Speed Techs., LLC, 793 F.3d 1268, 1271 (Fed. Cir. 2015), aff’d sub nom. Cuozzo Speed Techs., LLC v. Lee, ––– U.S. ––––, 136 S.Ct. 2131, 195 L.Ed.2d 423 (2016). We disagree. In Versata DevelopmentGroup, Inc. v. SAP America, Inc., 793 F.3d 1306, 1323 (Fed. Cir. 2015), we held that we have jurisdiction to review this issue. This court’s Versata decision noted several reasons why this court’s holding in Cuozzo was not inconsistent with Versata. 793 F.3d at 1322. To the extent that 35 U.S.C. § 314(d) is analogous to 35 U.S.C. 324(e), the Supreme Court in Cuozzo stated that § 314(d) does not permit the Patent Office to “act outside its statutory limits.” 136 S.Ct. at 2141.
+
+6
+
+In the institution decisions, the Board stated that a patent need have only one claim directed to a covered business method to be eligible for CBM review. See, e.g., ’325 Inst. Dec. at *5. On that basis, it analyzed only one claim from each patent: claim 1 of the ’325 patent, claim 1 of the ’850 patent, and claim 12 of the ’733 patent. ’325 Inst. Dec. at *6–8;  ’850 Inst. Dec. at *7–8; Apple, Inc. v. Ameranth, Inc., CBM2014–00013, 2014 WL 1440408, at *8 (P.T.A.B. Mar. 26, 2014) (“ ’733 Inst. Dec.”).
+
+7
+
+Ameranth’s arguments on appeal are primarily directed to “the claims” or “claim 1” of the ’325 and ’850 patents and “the claims” or “claim 1” of the ’733 patent. Given this, and the fact that all three patents have nearly identical claims as their first claim, we address all the claims the Board found invalid under § 101 together. This is consistent with the Board’s § 101 analysis, which is quite similar for all three patents. Ameranth raised only a few arguments that apply to a subset of claims or patents, and those are addressed separately.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

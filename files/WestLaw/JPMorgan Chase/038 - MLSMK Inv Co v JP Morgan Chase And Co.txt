@@ -1,0 +1,179 @@
+
+
+ 
+
+
+MLSMK Inv. Co. v. JP Morgan Chase & Co.
+United States Court of Appeals, Second Circuit. | June 6, 2011 | 431 Fed.Appx. 17 | 2011 WL 2176152
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+MLSMK Inv. Co. v. JP Morgan Chase & Co., 431 F. App’x 17 (2d Cir. 2011)
+
+All Citations:
+
+431 Fed.Appx. 17, 2011 WL 2176152
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+431 Fed.Appx. 17
+This case was not selected for publication in the Federal Reporter.
+United States Court of Appeals,
+Second Circuit.
+MLSMK INVESTMENT COMPANY, Plaintiff–Appellant,
+v.
+JP MORGAN CHASE & COMPANY, JP Morgan Chase Bank, NA, Defendants–Appellees.
+No. 10–3040–cv.
+|
+June 6, 2011.
+Synopsis
+Background: Investor brought action under Racketeer Influenced and Corrupt Organizations Act (RICO) and state law alleging that financial services firm and affiliated bank participated in client’s racketeering enterprise by permitting client to deposit money in bank account and by then transferring that money to third parties at client’s direction after firm determined that client’s reported returns were false and illegitimate. The United States District Court for the Southern District of New York, Jones, J., 737 F.Supp.2d 137, granted defendants’ motion to dismiss. Investor appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] investor failed to plead fraud with requisite particularity on his commercial bad faith and aiding and abetting breach of fiduciary duty claims, and
+ 
+[2] investor failed to state a claim for negligence.
+ 
+Affirmed in part.
+ 
+Judgment dismissing RICO claim affirmed at 651 F.3d 268, 2011 WL 2640579.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+Federal Civil ProcedureFraud, mistake and condition of mind
+
+
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(A)Pleadings in General
+170Ak633Certainty, Definiteness and Particularity
+170Ak636Fraud, mistake and condition of mind
+
+
+Investor’s allegations that financial services firm and affiliated bank acquired actual knowledge of Ponzi scheme operated by one of their clients during a meeting with client were insufficient to support an inference that firm and bank had actual knowledge of their client’s Ponzi scheme, as required to plead fraud with requisite particularity, in support of investor’s commercial bad faith and aiding and abetting breach of fiduciary duty claims under New York law premised upon firm and bank’s actual knowledge of fraud, where neither the fact of the meeting nor the explanation of what was discussed therein amounted to anything more than speculation. Fed.Rules Civ.Proc.Rule 9(b), 28 U.S.C.A.
+6 Cases that cite this headnote
+
+
+
+[2]
+
+Banks and BankingTorts
+BrokersFraud of broker or his agent
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(A)Banking Franchises and Powers, and Their Exercise in General
+52k100Torts
+65Brokers
+65IVDuties and Liability to Principal
+65k34Fraud of broker or his agent
+
+
+Investor’s purely conclusory allegation that financial services firm and affiliated bank had actual knowledge of their client’s fraudulent Ponzi scheme was insufficient to support a cause of action for negligence under New York law.
+4 Cases that cite this headnote
+
+
+
+[3]
+
+Banks and BankingTorts
+BrokersFailure to act
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(A)Banking Franchises and Powers, and Their Exercise in General
+52k100Torts
+65Brokers
+65IVDuties and Liability to Principal
+65k29Failure to act
+
+
+Investor’s allegations that financial services firm and affiliated bank breached a duty to investor, as a non-customer, when they failed to “shut down” one of their client’s accounts in light of “erratic signs of withdrawal activity and transfers of money from overseas” was insufficient to form the basis of a negligence claim; investor failed to explain how isolated transfers of money, even of large sums, necessarily constituted “clear evidence” of misappropriation.
+10 Cases that cite this headnote
+
+
+
+*18 Appeal from a judgment of the United States District Court for the Southern District of New York (Jones, J.).
+ON CONSIDERATION WHEREOF, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of said district court be and hereby is AFFIRMED IN PART. We note at the outset, for the benefit of the parties and the district court, the possibility that the plaintiff may wish to seek further relief from the district court under Rule 60(b).
+Attorneys and Law Firms
+Howard Kleinhendler, Wachtel & Masyr, LLP, New York, NY, for appellant.
+Patricia M. Hynes (Andrew Rhys Davies, Laura R. Hall, of counsel), Allen & Overy LLP, New York, NY, for Appellees.
+Present: JOSEPH M. McLAUGHLIN, ROSEMARY S. POOLER, and ROBERT D. SACK, Circuit Judges.
+
+
+SUMMARY ORDER
+**1 Appellant appeals from a judgment of the district court (Jones, J.) granting Appellees’ motion to dismiss Appellant’s complaint, which asserted a cause of action under 18 U.S.C. § 1962(d) (“RICO”) as well as claims under New York law for aiding and abetting a breach of fiduciary duty, commercial bad faith, and negligence. With respect to all causes of action other than the negligence claims, the district court held in relevant part that Appellant had failed to state a claim because Appellant failed to allege facts giving rise to a strong inference of fraudulent intent and therefore failed to meet the heightened pleading standard under Federal Rule of Civil Procedure 9(b). With respect to the negligence claims, the district court held that Appellant failed to establish a fundamental element of the claims—that the Appellees owed it a duty of care.
+ 
+“A district court’s decision granting a motion to dismiss is subject to de novo review. As a matter of substance, to survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face.” Kuck v. Danaher, 600 F.3d 159, 162 (2d Cir.2010) (alteration, citation, and internal quotation marks omitted). Where, as here, allegations in a complaint sound in fraud, they must be pleaded with particularity. See Fed.R.Civ.P. 9(b). We may “affirm a district court decision on any grounds for which there is a record sufficient to permit conclusions of law, even grounds not relied upon by the district court.” In re Methyl Tertiary Butyl Ether Prods. Liab. Litig., 488 F.3d 112, 134 (2d Cir.2007) (internal quotation marks omitted).
+ 
+*19 A plaintiff alleging a RICO conspiracy based on predicate acts of mail or wire fraud must allege knowledge, in the form of the defendants’ knowing participation in a scheme to defraud. Chanayil v. Gulati, 169 F.3d 168, 170 (2d Cir.1999). We do not at this time, however, decide whether Appellant has met its pleading burden with regard to its RICO conspiracy claim. We retain jurisdiction over that claim and will address its viability in a separate decision to be issued shortly.
+ 
+Certain of Appellant’s other causes of action require actual knowledge before liability may be properly imposed.
+ 
+To state a claim for aiding and abetting breach of fiduciary duty under New York law, a plaintiff must show “breach by a fiduciary of a duty owed to plaintiff; defendant’s knowing participation in the breach; and damages.” SCS Commc’ns, Inc. v. Herrick Co., 360 F.3d 329, 342 (2d Cir.2004).
+ 
+Likewise, a claim of commercial bad faith requires that the bank have “actual knowledge of facts and circumstances that amount to bad faith, thus itself becoming a participant in a fraudulent scheme.” Prudential–Bache Sec., Inc. v. Citibank, N.A., 73 N.Y.2d 263, 275, 539 N.Y.S.2d 699, 536 N.E.2d 1118 (1989). “[A] transferee’s lapse of wary vigilance, disregard of suspicious circumstances which might have well induced a prudent banker to investigate and other permutations of negligence are not relevant considerations....” Getty Petroleum Corp. v. American Express Travel Related Servs. Co., 90 N.Y.2d 322, 331, 660 N.Y.S.2d 689, 683 N.E.2d 311 (1997).
+ 
+**2 [1] Here, Appellant has alleged that Appellees had actual knowledge of the Ponzi scheme operated by Bernard Madoff and facilitated that scheme by providing banking services to Madoff. Although Appellant was not a customer of Appellees, but rather was a customer of Madoff, Appellant seeks to hold Appellees liable for Madoff’s fraud based on allegations that Appellees acquired actual knowledge of that fraud during a meeting between Appellees and Madoff. About that meeting, which took place at an unknown date and at an unknown time, the complaint states as follows:
+They [Appellees] inquired about his cash flow, what percentage of his portfolio was leveraged and with whom he traded option contracts. Based on Madoff’s claim to be invested almost entirely in S & P 100 stocks while hedging with options, it was not plausible to Chase that Madoff could be generating substantial positive returns at a time when the S & P was down 30% and option liquidity was limited. However, as he did with all investors, Madoff would not disclose core information that fund managers typically discussed, such as percentages held in cash, and the amount of money borrowed against equity, or leveraged, in the account, and who were his option counter-parties.
+Importantly, the complaint makes the above allegations “on information and belief” and “according to standard industry practice.” As Appellant explained to the district court, no one ever told Appellant that a meeting took place between Madoff and Appellees. Rather, several “experts” Appellant describes as “trading people” explained to Appellant that such a meeting would have been standard for the industry. Thus, although the complaint sets forth with specificity certain details from the alleged meeting, neither the fact of the meeting nor the explanation of what was discussed therein amount to anything more than speculation. Without more, the allegations are insufficient to support an inference that Appellees had actual knowledge of Madoff’s scheme, and the commercial bad faith and aiding and abetting breach of fiduciary duty claims premised upon Appellees’ actual knowledge of fraud *20 must fail. See, e.g., Webb v. Goord, 340 F.3d 105, 111 (2d Cir.2003) (“The plaintiffs have not alleged, except in the most conclusory fashion, that any ... meeting of the minds occurred among any or all of the defendants. Their conspiracy allegation must therefore fail.”).
+ 
+[2] Appellant’s two negligence claims also fail. The first is premised on Appellees’ actual knowledge of Madoff’s fraud, which Appellant argues created a duty to investigate Madoff’s investments and investment vehicles. Because the allegation that Appellees had actual knowledge of Madoff’s fraud is purely conclusory, it is insufficient to support a cause of action for negligence. See Bell Atl. Corp. v. Twombly, 550 U.S. 544, 554, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007) (“[A] plaintiff’s obligation to provide the grounds of his entitlement to relief [under Rule 8(a)(2) ] requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do.” (brackets and internal quotation marks omitted)).
+ 
+**3 [3] Although Appellant’s second negligence claim is premised in part on actual knowledge, the claim also includes that Appellees breached a duty to Appellant when they failed to “shut down” Madoff’s account in light of “erratic signs of withdrawal activity and transfers of money from overseas.” To the extent that the latter allegations are separable from the allegations of actual knowledge, they too are insufficient to form the basis of a negligence claim.
+ 
+Banks generally do not owe non-customers a duty to protect them from fraud perpetrated by customers. See In re Terrorist Attacks on Sept. 11, 2001, 349 F.Supp.2d 765, 830 (S.D.N.Y.2005), aff’d, 538 F.3d 71 (2d Cir.2008). We have on occasion recognized a narrow exception to this rule that arises when a bank fails to act to safeguard trust funds on deposit in a fiduciary account after receiving “clear evidence” of misappropriation. See Lerner v. Fleet Bank, N.A., 459 F.3d 273, 295 (2d Cir.2006). However, this exception is inapplicable to the facts as pleaded in the complaint. Appellant has failed to explain how isolated transfers of money, even of large sums, necessarily constitutes “clear evidence” of misappropriation. As Appellees note, it is not unusual for money to be transferred into and out of investment accounts; investment advisors could not buy and sell securities on behalf of their clients if they did not transfer money to and from various accounts. Moreover, the complaint notes that the transfers coincided with a “downward freefall” in the financial markets, which would have made the “erratic” activity appear far less unusual than it might have appeared in a more stable economic climate. As a result, without more, these allegations do not have “enough heft to show that the pleader is entitled to relief.” Twombly, 550 U.S. at 557, 127 S.Ct. 1955 (alterations and internal quotation marks omitted). Accordingly, we hold that Appellant has failed to plead facts sufficient to make its right to relief plausible and its second negligence claim was properly dismissed.
+ 
+At oral argument, Appellant identified several pieces of evidence beyond the scope of the record—some of which were not available at the time of the district court’s decision—that it believes support its claim that Appellees had knowledge of Madoff’s fraud. We cannot and do not determine whether allegations of these facts would be sufficient to render the claims in Appellant’s complaint plausible. However, nothing in this order should be interpreted to prejudice any motion for relief from the district court’s judgment under Federal Rule of Civil Procedure 60(b) that Appellant may wish to file in that court.
+ 
+We have considered Appellant’s remaining contentions and find them to be without *21 merit for substantially the reasons stated by the district court. For the foregoing reasons, the judgment of the district court is AFFIRMED IN PART. The panel retains jurisdiction over the plaintiff’s RICO claim; the mandate affirming the district court’s judgment as to the plaintiff’s aiding and abetting breach of fiduciary duty, commercial bad faith, and two negligence claims SHALL ISSUE FORTHWITH. The parties are directed to notify the district court of our decision with respect to the RICO claim within 10 days of the date it issues.
+ 
+All Citations
+431 Fed.Appx. 17, 2011 WL 2176152
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

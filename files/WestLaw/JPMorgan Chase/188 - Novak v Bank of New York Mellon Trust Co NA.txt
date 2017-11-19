@@ -1,0 +1,178 @@
+
+
+ 
+
+
+Novak v. Bank of New York Mellon Trust Co., NA.
+United States Court of Appeals, First Circuit. | April 21, 2015 | 783 F.3d 910 | 2015 WL 1787621
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Novak v. Bank of New York Mellon Tr. Co., NA., 783 F.3d 910 (1st Cir. 2015)
+
+All Citations:
+
+783 F.3d 910
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Massachusetts
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+783 F.3d 910
+United States Court of Appeals,
+First Circuit.
+Lawrence P. NOVAK, Plaintiff, Appellant,
+v.
+The BANK OF NEW YORK MELLON TRUST CO., NA., as Successor to J.P. Morgan Chase Bank, as Trustee, on Behalf of Mortgage Loan Trust 2004–2 Asset–Backed Certificates 2004–2 f/k/a The Bank of New York Trust Co., and Select Portfolio Servicing, Inc., Defendants, Appellees.
+No. 13–2543.
+|
+April 21, 2015.
+Synopsis
+Background: Plaintiff filed state court action against defendants. After removal, the United States District Court for the District of Massachusetts, Nathaniel M. Gorton, J., 2013 WL 6328481, denied plaintiff’s motion to remand and dismissed complaint. Plaintiff appealed.
+ 
+[Holding:] The Court of Appeals held that defendant could remove state-court action to federal court after lawsuit was filed but before it was formally served.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+Removal of CasesParties entitled to remove in general
+Removal of CasesTime for Taking Proceedings
+
+
+334Removal of Cases
+334IIICitizenship or Alienage of Parties
+334k44Parties entitled to remove in general
+334Removal of Cases
+334VIProceedings to Procure and Effect of Removal
+334k78Time for Taking Proceedings
+334k79In General
+334k79(1)In general
+
+
+Defendant could remove state-court action to federal court after lawsuit was filed but before it was formally served. 28 U.S.C.A. § 1446(b)(1).
+4 Cases that cite this headnote
+
+
+
+[2]
+
+Removal of CasesTime for Taking Proceedings
+
+
+334Removal of Cases
+334VIProceedings to Procure and Effect of Removal
+334k78Time for Taking Proceedings
+334k79In General
+334k79(1)In general
+
+
+Service is generally not prerequisite for removal, and defendant may remove state-court action to federal court any time after lawsuit is filed but before statutorily-defined period for removal ends. 28 U.S.C.A. § 1446(b)(1).
+7 Cases that cite this headnote
+
+
+
+[3]
+
+StatutesStatute as a Whole;  Relation of Parts to Whole and to One Another
+
+
+361Statutes
+361IIIConstruction
+361III(E)Statute as a Whole;  Relation of Parts to Whole and to One Another
+361k1151In general
+
+
+It is cardinal principle of statutory construction that court must give effect, if possible, to every clause and word in statute.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*911 Lawrence P. Novak on brief, pro se.
+Peter F. Carr, II and Eckert Seamans Cherin & Mellott, LLC on brief for appellees.
+Before HOWARD, KAYATTA and BARRON, Circuit Judges.
+Opinion
+PER CURIAM.
+
+[1] [2] This appeal requires us to resolve a single question: whether a defendant may seek to remove a state-court action to federal court before being formally served. Construing the relevant statute, 28 U.S.C. § 1446(b)(1), the Supreme Court has held that a defendant’s statutory period to remove does not begin to run, and a defendant is not required to remove, until the defendant has been served. Murphy Bros., Inc. v. Michetti Pipe Stringing, Inc., 526 U.S. 344, 347–48, 119 S.Ct. 1322, 143 L.Ed.2d 448 (1999). Plaintiff–Appellant Lawrence Novak contends, however, that service is so essential to removal that a defendant is precluded from filing a notice of removal until after formal service of process. Because the statutory text and legislative history indicate otherwise, however, we reject Novak’s reading of the statute. Instead, we conclude that service is generally not a prerequisite for removal and that a defendant may remove a state-court action to federal court any time after the lawsuit is filed but before the statutorily-defined period for removal ends.1
+ 
+Invoking diversity jurisdiction, Defendant–Appellee Select Portfolio Servicing removed this action from Massachusetts  *912 state court to the United States District Court for the District of Massachusetts. At the time of removal, Novak had not yet served any of the defendants in this action, including Select Portfolio Servicing. The district court denied Novak’s motion to remand and dismissed the action pursuant to Federal Rule of Civil Procedure 12(b)(6). Novak now contends that removal was improper because Select Portfolio Servicing had not yet been formally served at the time that it sought to remove.2
+ 
+In 28 U.S.C. § 1446(b)(1) Congress has set forth the period during which a defendant may remove a pending action from state to federal court. That statute specifies that:
+The notice of removal of a civil action or proceeding shall be filed within 30 days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth the claim for relief upon which such action or proceeding is based, or within 30 days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
+28 U.S.C. § 1446(b)(1) (emphasis added). Congress thus created two alternative points at which to fix the defendant’s deadline for removing: one 30 days following receipt of the initial pleading, and the other 30 days following service of process at a time that the initial pleading has been filed in state court. In doing so, Congress accounted for variations in state law regarding whether the complaint must be included with service of the summons, with the goal of making certain that defendants would have access to the complaint before being required to file a notice of removal. Murphy Bros., 526 U.S. at 351, 119 S.Ct. 1322.
+ 
+Although Novak asserts that removal is not permissible before a defendant has been served, we think it is clear that a defendant generally need not wait until formal receipt of service to remove. There is no indication that, in using the phrase “within 30 days after,” Congress intended to prohibit a defendant from filing a notice of removal before having been formally served and before the 30–day clock has begun to run. Instead, the statute’s text, as illuminated by the surrounding provisions, and the legislative history both indicate that the statute’s reference to service is intended only to delineate the particular time when a defendant’s ability to remove expires.
+ 
+Beginning with the statutory language’s ordinary meaning, we note that “within” has various meanings. Cf. Tyler v. Cain, 533 U.S. 656, 662, 121 S.Ct. 2478, 150 L.Ed.2d 632 (2001). When coupled with “after” in the context of the removal statute, those meanings would have differing consequences. For example, “within” could be used to signify a specific, circumscribed time range. Webster’s New International Dictionary 2627 (3d ed.1993) (defining “within” as “during the course of” or “at any time during”). If used in that way, the phrase “within 30 days after [service]” would describe a bounded time range, beginning with service, both before and after which a defendant is unable to remove. Alternatively, if the term “within” is used to mean “before the end of” or “not longer in time than,” id., then the phrase “within *913 30 days after [service]” might simply define the specific point at which a case is no longer removable, but allow removal at any point up until that time.
+ 
+While either of these uses of “within ... after” might seem plausible, other portions of the removal statute make plain that the more open-ended use was the intended one. See Robinson v. Shell Oil Co., 519 U.S. 337, 341, 117 S.Ct. 843, 136 L.Ed.2d 808 (1997) (noting that the “plainness or ambiguity” of a statute’s language can be determined by “the specific context in which that language is used, and the broader context of the statute as a whole”). For one thing, we find it informative that a later subsection of § 1446 describes “the 30–day requirement of subsection (b)” using slightly modified language that tracks the more open-ended definition. See 28 U.S.C. § 1446(g) (“not later than 30 days after receiving, through service, notice of any such proceeding”). This locution counsels in favor of reading “within 30 days after” as indicating that a defendant can remove at any time before the removal period runs, including before the clock begins ticking.
+ 
+[3] Most tellingly, however, § 1446(b)(1) states that, of the two possible removal periods, a notice of removal must be filed during “whichever period is shorter.” Id. § 1446(b)(1). It is a “cardinal principle of statutory construction that we must give effect, if possible, to every clause and word of a statute.” Williams v. Taylor, 529 U.S. 362, 404, 120 S.Ct. 1495, 146 L.Ed.2d 389 (2000) (citation and internal quotation marks omitted). As Novak reads the statute, a defendant is precluded from removing before receiving service of process and, thus, before either 30–day clock begins to run. But his reading results in two time-bound removal periods of identical length: 30 days. Under that construction, the final clause of the subsection serves no purpose. To properly give effect to the phrase “whichever period is shorter,” then, we are compelled to interpret the removal “period” to run from the action’s inception and, accordingly, to read the statute to permit a defendant to file a notice of removal before receiving formal service.
+ 
+Legislative history supports our reading of the intended meaning of “within 30 days after.” The precursor to the current removal statute permitted a defendant to remove “at the time, or any time before ” the defendant was required to respond to the complaint under the applicable state law. 28 U.S.C. § 72 (1940) (repealed 1948) (emphasis added); see also Murphy Bros., 526 U.S. at 351, 119 S.Ct. 1322. Certainly, this wording more clearly indicated that removal was possible at any time after the state-law action was filed. But there is no indication that Congress intended to meaningfully change that possibility when it reworded the statute to take account of variations in state law. Indeed, both the House and the Senate reports suggest that Congress intended that the amended statute would continue only to set the time at which a defendant’s ability to remove expires and that a defendant may, but is not required to, file a notice of removal before the removal clock begins to run. See S.Rep. No. 81–303, at 6 (1949), reprinted in 1949 U.S.C.C.A.N. 1248, 1254 (noting that the measure reflects that “a defendant is not required to file his petition for removal until 20 days [now 30] after he has received (or it has been made available to him) a copy of the initial pleading filed by the plaintiff....” (emphasis added)); H.R.Rep. No. 81–352, at 14 (1949), reprinted in 1949 U.S.C.C.A.N. 1254, 1268 (noting that “the petition for removal need not be filed until 20 days [now 30] after the defendant has received a copy of the plaintiff’s initial pleading” (emphasis added)).
+ 
+*914 Ultimately, Novak does little beyond citing to Murphy Brothers for his claim that removal before service comes too early. Yet, in noting that service of process “is fundamental to any procedural imposition on a named defendant,” and thus interpreting § 1446(b)(1)’s first time period (removal following receipt of the initial pleading) to begin to run only once a defendant has been served, 526 U.S. at 350, 119 S.Ct. 1322, the Court gave no indication that a defendant was also prohibited from filing a notice of removal before service. We read the statute to contemplate otherwise. Our interpretation thus aligns with the decisions of other federal courts that have considered this question since Murphy Brothers. As far as we can tell, every one has concluded that formal service is not generally required before a defendant may file a notice of removal. See, e.g., La Russo v. St. George’s Univ. Sch. of Med., 747 F.3d 90, 97 (2d Cir.2014); Delgado v. Shell Oil Co., 231 F.3d 165, 177 (5th Cir.2000); Whitehurst v. Wal–Mart, 306 Fed.Appx. 446, 448 (11th Cir.2008); Sutler v. Redland Ins. Co., No. 12–10656–RWZ, 2012 WL 5240124, at *2 (D.Mass. Oct. 24, 2012) (collecting cases). And, because “Congress is presumed to be aware of an administrative or judicial interpretation of a statute and to adopt that interpretation when it re-enacts a statute without change,” Lorillard v. Pons, 434 U.S. 575, 580, 98 S.Ct. 866, 55 L.Ed.2d 40 (1978), we find it informative that Congress made no effort to cast aside this clear consensus among federal courts when it amended § 1446 in 2011 without making any substantive change to subsection (b)(1), see Federal Courts Jurisdiction and Venue Clarification Act of 2011, Pub.L. No. 11263, § 103, 125 Stat. 758, 760.3
+ 
+Because the defendant in this case was not precluded from removing before receiving service, we AFFIRM the judgment of the district court.
+ 
+All Citations
+783 F.3d 910
+Footnotes
+
+1
+
+Because Novak has not named a defendant who is a citizen of the forum state in this case, we need not consider, and do not decide, whether Select Portfolio Servicing’s notice of removal would have been proper under the forum-defendant rule, 28 U.S.C. § 1441(b)(2), had one of the defendants in this case been a forum defendant. See generally, Gentile v. Biogen Idec, Inc., 934 F.Supp.2d 313, 316–18 (D.Mass.2013) (discussing various courts’ approaches to pre-service removal under § 1441(b)(2)); Lothrop v. N. Am. Air Charter, Inc., No. 13–10235–DPW, 2013 WL 3863917, at *2 (D.Mass. July 11, 2013) (concluding that § 1441(b)(2) “create[s] only a narrow exception, in cases involving forum defendants, to the generally-accepted rule that ‘formal service is not required before a defendant can remove’ ” (citation omitted)).
+
+2
+
+This specific argument for remand was only belatedly included in a motion to amend Novak’s original motion to remand. We need not determine whether the district court erred in denying Novak’s motion to amend, however, because Novak’s legal argument fails on its merits. See Samaan v. St. Joseph Hosp., 670 F.3d 21, 27 (1st Cir.2012) (reviewing denial of a motion to remand de novo where the facts are not in dispute).
+
+3
+
+Notwithstanding this consensus, we recognize that the Supreme Court’s holding in Murphy Brothers means that a defendant must receive service before either of § 1446(b)(1)’s 30–day time periods are triggered. Although, as a practical matter, that holding may limit the universe of situations in which one period of removal is “shorter” than the other, examples remain. Suppose a plaintiff files an initial pleading in state court and serves the defendant with a summons five days later. Consistent with state law, however, the plaintiff does not include the initial pleading with that summons. Forty days after that, the plaintiff nevertheless formally provides the defendant with a copy of the complaint (or the defendant otherwise receives “the initial pleading setting forth the claim for relief”). The defendant might attempt to invoke the first clause of § 1446(b)(1) to argue that he was only required to remove within 30 days after receiving the complaint (a period that would end seventy days after the action was commenced). Yet, a “shorter” time period for removal would follow from applying the second clause of § 1446(b)(1)—requiring the defendant to have removed thirty days from service at a time that the “initial pleading has then been filed in court” (a period that would end thirty-five days after the action was commenced).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

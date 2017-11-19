@@ -1,0 +1,286 @@
+
+
+ 
+
+
+Gresham v. Wells Fargo Bank, N.A.
+United States Court of Appeals, Fifth Circuit. | March 21, 2016 | 642 Fed.Appx. 355 | 2016 WL 1127717
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Gresham v. Wells Fargo Bank, N.A., 642 F. App’x 355 (5th Cir. 2016)
+
+All Citations:
+
+642 Fed.Appx. 355
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+642 Fed.Appx. 355
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 5th Cir. Rules 28.7 and 47.5.
+United States Court of Appeals,
+Fifth Circuit.
+Larry GRESHAM, Plaintiff–Appellant
+v.
+WELLS FARGO BANK, N.A., Defendant–Appellee.
+No. 15–40748
+|
+Summary Calendar.
+|
+March 21, 2016.
+Synopsis
+Background: Mortgagor brought Texas state-court action against bank and its foreclosure counsel seeking to prevent foreclosure of property and alleging wrongful acceleration of loan, breach of contract, and negligence. Bank removed action. The United States District Court for the Eastern District of Texas, Richard A Schell, J., 2015 WL 1966721, granted defendants’ motion to dismiss. Mortgagor appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] denying mortgagor’s motion for leave to file second amended complaint was warranted, and
+ 
+[2] mortgagor did not adequately plead claims for trespass or for violation of regulations.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+Mortgages and Deeds of TrustPleading
+
+
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(E)Restraining Foreclosure
+266k1884Proceedings to Restrain Foreclosure
+266k1890Pleading
+(Formerly 266k413)
+
+
+Denying mortgagor’s motion for leave to file second amended complaint was warranted in suit brought against bank and its foreclosure counsel to prevent foreclosure, where motion itself was untimely under court’s scheduling order, mortgagor had already amended his complaint twice, he did not show good cause or otherwise attempt to explain his tardiness in seeking to amend again, he had not made any payment on his mortgage in over four years, his suit had been pending for over one year, and he sought to add same causes of action as in previous complaint, that bank failed to provide required pre-foreclosure notice.
+Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustTrespass
+
+
+266Mortgages and Deeds of Trust
+266VScope, Operation, and Effect of Transaction;  Rights, Duties, and Liabilities of Parties
+266V(C)Property Subject to or Affected by Transaction
+266V(C)5Injuries to Property
+266k1023Trespass
+266k1024In general
+(Formerly 266k206)
+
+
+Mortgagor did not plead any facts indicating that bank physically entered or caused another to physically enter property, and, under Texas law, mortgagor had no legally-cognizable interest in property at time of alleged trespass, precluding mortgagor’s Texas-law trespass claim against bank, even if bank had mortgagor’s homeowner’s insurance and electrical utilities cancelled on day of foreclosure sale.
+2 Cases that cite this headnote
+
+
+
+[3]
+
+Mortgages and Deeds of TrustParticular cases, contexts, and questions in general
+Mortgages and Deeds of TrustDuty to pursue foreclosure alternatives
+
+
+266Mortgages and Deeds of Trust
+266VScope, Operation, and Effect of Transaction;  Rights, Duties, and Liabilities of Parties
+266V(I)Modification
+266k1133Particular cases, contexts, and questions in general
+(Formerly 266k306)
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(B)Power and Right to Foreclose;  Grounds
+266k1725Duty to pursue foreclosure alternatives
+(Formerly 266k414)
+
+
+Mortgagor did not plead, nor was there any evidence, that he submitted complete loss mitigation application more than 37 days before foreclosure sale, precluding his claim that bank violated dual tracking rules barring bank from actively pursuing foreclosure while simultaneously considering mortgagor for loss mitigation options. 12 C.F.R. § 1024.41(g).
+12 Cases that cite this headnote
+
+
+
+[4]
+
+ActionStatutory rights of action
+Mortgages and Deeds of TrustConditions Precedent
+
+
+13Action
+13IGrounds and Conditions Precedent
+13k3Statutory rights of action
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(B)Power and Right to Foreclose;  Grounds
+266k1713Conditions Precedent
+266k1714In general
+(Formerly 266k414)
+
+
+Assuming that regulation requiring notice of delinquency prior to foreclosure provided private right of action, mortgagor did not plead sufficient facts or offer any evidence in support of claim that bank did not properly notify him of his delinquency and loss mitigation options, since nothing in regulation required bank to retrace these steps on basis of mortgagor’s continued delinquency. 12 C.F.R. § 1024.39.
+9 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*356 Bern Alan Mortberg, Esq., Plano, TX, for Plaintiff–Appellant.
+Richard A. Illmer, Esq., Justin Edward Allen, Esq., Husch Blackwell, L.L.P., Dallas, TX, Elizabeth Gabrielle Bloch, Esq., Husch Blackwell, L.L.P., Austin, TX, for Defendant–Appellee.
+Appeal from the United States District Court for the Eastern District of Texas. USDC No. 4:13–CV–711.
+Before HIGGINBOTHAM, ELROD and SOUTHWICK, Circuit Judges.
+Opinion
+PER CURIAM:*
+
+Appellant Larry Gresham defaulted on his loans from Appellee Wells Fargo Bank in 2010. In January 2011, Gresham filed suit in a Texas state court to prevent foreclosure upon property securing the debt, claiming wrongful acceleration, breach of contract, and negligence. The state court granted summary judgment to Wells Fargo in May 2013, and the bank reinstituted foreclosure proceedings. Two months later, Gresham sued Wells Fargo’s foreclosure counsel, later adding the bank, which removed the case to federal court. Gresham then filed an Emergency Application for a Temporary Restraining Order. Upon its denial, Wells Fargo foreclosed. Gresham amended his complaint, and Wells Fargo responded with a motions to Dismiss and for Summary Judgment, which the district court granted. Gresham appealed. We affirm, persuaded that Gresham has failed to state a claim upon which relief may be granted.
+ 
+
+I.
+We turn first to Gresham’s Motion for Leave to File Second Amended Complaint. In determining whether to grant the request to leave to amend, a district court may consider five factors: (1) undue delay, (2) bad faith or dilatory motive, (3) repeated failure to cure deficiencies by prior amendments, (4) undue prejudice to the opposing party, and (5) futility of the amendment.1 We review for abuse of discretion.2
+ 
+*357 [1] The court focused on two of these factors. First, it concluded that granting the motion would cause undue delay. The motion itself was untimely under the Court’s Scheduling Order. Gresham had already amended his complaint twice, and he did not show good cause or otherwise attempt to explain his tardiness in seeking to amend again. Meanwhile, Gresham had not made a payment on his mortgage in over four years, and this suit had been pending for over a year. The court reasonably found that another amendment would cause undue delay.
+ 
+Second, the court determined that the amendment would be futile. Gresham sought to add the same causes of action as the previous complaint; specifically, that Wells Fargo failed to provide the required pre-foreclosure notice.3 Such an amendment would be futile, the court concluded, because it had already held that the Wells Fargo gave Gresham proper notice of default.
+ 
+For these reasons, the district court did not abuse its discretion is denying Gresham’s Motion for Leave to File Second Amended Complaint.
+ 
+
+II.
+Gresham also appeals the district court’s grant of Wells Fargo’s Motion to Dismiss and Motion for Summary Judgment.4 Specifically, Gresham appeals the court’s dismissal with prejudice of his claims that (1) Wells Fargo trespassed on his property by having his home insurance canceled and his electricity turned off and (2) that Wells Fargo violated Consumer Finance Protection Bureau (“CFPB”) rules.5 To avoid dismissal under Rule 12(b)(6), “a complaint must contain sufficient factual matter, accepted as true, to ‘state a claim to relief *358 that is plausible on its face.’ ”6 We review de novo.7
+ 
+
+A.
+[2] We begin with Gresham’s claim of trespass to real property. He alleges that Wells Fargo had his homeowner’s insurance and electrical utilities cancelled on the day of the foreclosure sale. The district court concluded that, even if true, Gresham’s allegations did not support a claim for trespass. We agree.
+ 
+In order to state a plausible claim for trespass to real property, Gresham must establish the following elements: (1) the Gresham owned or had a lawful right to possess real property, (2) the Wells Fargo entered the Gresham’s land (or intentionally caused a third person to enter), and the entry was physical, intentional, and voluntary, and (3) the Wells Fargo’s trespass caused injury to the Gresham’s right of possession.8 Gresham’s claim fails to establish these elements. First, he did not plead any facts indicating that Wells Fargo physically entered nor caused another to physically enter his property.9 Without physical entry, there is no trespass. Second, Gresham had no legally cognizable interest in the property at the time of the alleged trespass. Under Texas law, a borrower becomes a tenant at sufferance following a foreclosure.10 A tenant at sufferance has neither legal interest nor insurable interest in the property.11 For these reasons, the district court properly found that Gresham failed to state a plausible claim for trespass.
+ 
+
+B.
+Gresham also appeals the district court’s dismissal of his claim that Wells Fargo violated CFPB rules concerning residential mortgages. These rules are codified in 12 C.F.R. §§ 1024, et seq., and became effective on January 10, 2014. Here, it is undisputed that Gresham defaulted in 2010, and that Wells Fargo’s November 2013 foreclosure proceeding was initiated before the CFPB rules became effective. The CFPB regulations do not apply retroactively.12 Nonetheless, Gresham argues that Wells Fargo was required to comply with the regulations between their effective date, January 10, 2014, and the date of foreclosure, April 1, 2014.
+ 
+[3] Specifically, Gresham claims that Wells Fargo violated the regulations with *359 respect to “dual tracking” at 12 C.F.R. § 1024.41 and “early intervention” at 12 C.F.R. § 1024.39. Dual tracking is the term given to situations in which the lender actively pursues foreclosure while simultaneously considering the borrower for loss mitigation options.13 Section 1024.41(g) prohibits dual tracking, and 1024.41(a) expressly provides for a private right of action in the event the lender violates the provision.14 However, Section 1024.41(g) only applies where “a servicer receives a complete loss mitigation application more than 37 days before a foreclosure sale.”15 Here, Gresham did not plead, nor is there any evidence, that he submitted a complete loss mitigation application more than 37 days before the April 1, 2014 foreclosure sale. The district court therefore correctly concluded that Gresham failed to put forth any factual content to support its claim that Wells Fargo violated dual tracking rules.
+ 
+[4] Gresham has similarly failed to state a claim in regards to Section 1024.39, which reads
+(a) Live contact. A servicer shall establish or make good faith efforts to establish live contact with a delinquent borrower not later than the 36th day of the borrower’s delinquency and, promptly after establishing live contact, inform such borrower about the availability of loss mitigation options if appropriate.
+(b) Written notice.
+(1) Notice required. Except as otherwise provided in this section, a servicer shall provide to a delinquent borrower a written notice with the information set forth in paragraph (b)(2) of this section not later than the 45th day of the borrower’s delinquency.
+Gresham claims that Wells Fargo did not properly give him notice of his delinquency and loss mitigation options under this section. Unlike Section 1024.41, Section 1024.39 does not explicitly convey a private right of action to borrowers.16 Even it did, Gresham failed to plead sufficient facts or offer any evidence in support of such claim. As the district court concluded, nothing in this section requires a servicer to retrace these steps on the basis of a borrower’s continued delinquency. The court therefore did not err in dismissing Gresham’s claims under the CFPB rules.
+ 
+We AFFIRM.
+ 
+All Citations
+642 Fed.Appx. 355
+Footnotes
+
+*
+
+Pursuant to 5th Cir. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5th Cir. R. 47.5.4.
+
+1
+
+Smith v. EMC Corp., 393 F.3d 590, 593 (5th Cir.2004).
+
+2
+
+Sigaran v. U.S. Bank Nat. Ass’n, 560 Fed.Appx. 410, 412 (5th Cir.2014) (citing Priester v. JP Morgan Chase Bank, N.A., 708 F.3d 667, 672 (5th Cir.2013)).
+
+3
+
+Gresham argues that the claim he sought to add dealt with a “separate and distinct” notice from the notice that the district court had already found to be sufficient. But he also concedes that Wells Fargo was aware of the claim he sought to add because he had raised it earlier in an Emergency Application for a Temporary Restraining Order against foreclosure in late March, 2014. A Magistrate Judge considered that Emergency Application and determined that the service of the requisite pre-foreclosure notices was sufficient, a finding which the district court adopted. The district court therefore did not abuse its discretion in determining that it had already considered the claim Gresham wanted to add.
+
+4
+
+Gresham objects to Wells Fargo’s reference to materials outside the pleadings. In its motion for summary judgment, Wells Fargo mentioned the state court proceedings between the parties, including referring to its own earlier detailed recitation of facts from its motion for summary judgment in state court. Gresham argues that these facts are conclusory and irrelevant, having nothing to do with the present proceedings because they predate the most recent foreclosure proceedings. We disagree. The factual and procedural background of the conflict between Gresham and Wells Fargo is of course relevant. Further, the district court based its 12(b)(6) ruling on the insufficiency of the facts plead by Gresham; even if Wells Fargo’s reference to documents outside the pleadings was in error, it did not impact the district court’s ruling.
+While Gresham bases his objection on the relevance of those materials, not on the legal validity of referencing them in a 12(b)(6) motion, we note that such court documents are matters of public record and may be considered in connection with a motion to dismiss brought pursuant to Fed.R.Civ.P. 12(b)(6). See Coleman v. Bank of New York Mellon, 969 F.Supp.2d 736, 747 (N.D.Tex.2013) (quoting Norris v. Hearst Trust, 500 F.3d 454, 461 n. 9 (5th Cir.2007)) (“It is also ‘clearly proper in deciding a 12(b)(6) motion to take judicial notice of matters of public record.’ ”).
+
+5
+
+The district court also ruled in favor of Wells Fargo regarding Gresham’s Motion to Compel Mediation and Stay Proceedings as well as the lis pendens over the property in question. Because Gresham did not raise these issues in his briefing, they are waived. See Med. Ctr. Pharmacy v. Holder, 634 F.3d 830, 835 (5th Cir.2011).
+
+6
+
+Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007)).
+
+7
+
+Flaherty & Crumrine Preferred Income Fund, Inc. v. TXU Corp., 565 F.3d 200, 206 (5th Cir.2009).
+
+8
+
+Wilen v. Falkenstein, 191 S.W.3d 791, 798 (Tex.App.-Fort Worth 2006, pet. denied).
+
+9
+
+Gresham points to Cargal v. Cargal, 750 S.W.2d 382, 385 (Tex.App.-Fort Worth 1988, no writ) for the proposition that interference with utilities can support a trespass to real property claim. However, Cargal is distinguishable from the facts at hand. In Cargal, the defendant stated that “he was locking the door ... and turning off the utilities” immediately. Id. Thus, the claim involving utilities was coupled with physical entry—locking the door—and thereby deprived the Gresham of physical use of the property. There are no such allegations in this case.
+
+10
+
+See Rhine v. Priority One Ins. Co., 411 S.W.3d 651, 660 (Tex.App.-Texarkana 2013, no pet.) (finding that the borrower’s status is reduced to a tenant at sufferance following foreclosure sale); see also Jones v. Texas Pac. Indem. Co., 853 S.W.2d 791, 795 (Tex.App.-Dallas 1993, no writ) (finding that the plaintiffs “became tenants at sufferance after the foreclosure”).
+
+11
+
+See Jones, 853 S.W.2d at 795; Rhine, 411 S.W.3d at 661.
+
+12
+
+See Ray v. U.S. Bank Nat. Ass’n, 627 Fed.Appx. 452, 456–57 (6th Cir.2015).
+
+13
+
+See 12 C.F.R. § 1024.41.
+
+14
+
+Id.
+
+15
+
+12 C.F.R. § 1024.41(c).
+
+16
+
+At least one court has held that 12 C.F.R. § 1024.35, which incorporates violations of § 1024.39, does not provide a private right of action for damages. See Miller v. HSBC Bank U.S.A., N.A., No. 13 CIV. 7500, 2015 WL 585589, at *11 (S.D.N.Y.Feb. 11, 2015). Because Gresham has failed to support his claim with any facts, we need not reach the issue of whether a private right of action could be available under Section 1024.39.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

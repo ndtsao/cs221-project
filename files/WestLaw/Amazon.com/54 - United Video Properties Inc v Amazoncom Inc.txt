@@ -1,0 +1,246 @@
+
+
+
+
+
+United Video Properties, Inc. v. Amazon.com, Inc.
+United States Court of Appeals, Federal Circuit. | April 8, 2014 | 561 Fed.Appx. 914 | 2014 WL 1363539
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Netflix, Inc. v. Rovi Corporation, N.D.Cal., July 15, 2015
+
+standard Citation:
+
+United Video Properties, Inc. v. Amazon.com, Inc., 561 F. App’x 914 (Fed. Cir. 2014)
+
+All Citations:
+
+561 Fed.Appx. 914
+
+Search Details
+
+Search Query:
+
+adv: NAME(”amazon.com”)
+
+Jurisdiction:
+
+Delaware
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Netflix, Inc. v. Rovi Corporation, N.D.Cal., July 15, 2015
+561 Fed.Appx. 914
+Editor’s Note: Additions are indicated by Text and deletions by Text.
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+UNITED VIDEO PROPERTIES, INC., Plaintiff–Appellant,
+v.
+TV GUIDE ONLINE, LLC, and TV Guide Online, Inc., Plaintiffs,
+v.
+Amazon.com, Inc. and IMDb.com, Inc., Defendants–Appellees.
+No. 2013–1396.
+|
+April 8, 2014.
+Synopsis
+Background: Owner of patents related to electronic schedule system for television programs brought action against competitor, alleging infringement. The United States District Court for the District of Delaware, Richard G. Andrews, J., 2012 Markman 2370318, 2012 WL 2370318, construed various terms, and, based on those constructions, entered judgment of noninfringement. Owner appealed.
+ 
+[Holding:] The Court of Appeals, Lourie, Circuit Judge, held that district court reasonably construed disputed patent terms.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+PatentsParticular patents and claims
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(10)Particular patents and claims
+(Formerly 291k168(3))
+
+
+Amendments to application for patent related to electronic schedule system for television programs, removing “Internet delivered data” during prosecution in response to examiner’s written description rejection, acted as clear disavowal of data feed being delivered to users via Internet, and thus it was reasonable to construe patent term “data feed” to mean an updatable transmission of data sent by a television programming provider over television signals.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsTelevision and motion pictures
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1402Television and motion pictures
+(Formerly 291k101(2))
+
+
+Patent related to electronic schedule system for television programs described term “interactive program guides” as allowing users to view on their television screens “television program listings” similar to those in traditional printed television program schedules that contained broadcast time of programs, and described issuance of reminders as to when purchased programs were going to be broadcast in future, and thus it was reasonable to construe patent term “interactive program guide” to mean an application that produces interactive display screens identifying the channels and times on which television programs will air.
+2 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,769,128, US Patent 7,603,690. Not Infringed.
+Cases that cite this headnote
+
+
+
+*914 Appeal from the United States District Court for the District of Delaware in No. 11–CV–0003, Judge Richard G. Andrews.
+Attorneys and Law Firms
+Mark A. Lemley, Durie Tangri LLP, of San Francisco, CA, argued for plaintiff-appellant. With him on the brief were Daralyn J. Durie, Clement S. Roberts, Jesse Geraci and Eugene Novikov.
+Gregory G. Garre, Latham & Watkins LLP, of Washington, DC, argued for defendants-appellees. With him on the brief were Matthew J. Moore and Gabriel K. Bell; Richard G. Frenkel and S. Giri Pathmanaban, of Menlo Park, CA. Of counsel on the brief were Scott E. Gant and Neal Curtis Hannan, Boies, Schiller & Flexner LLP, of Washington, DC, and Eric J. Maurer, Maurer PLLC, of Washington, DC.
+Before LOURIE, MAYER, and CHEN, Circuit Judges.
+Opinion
+*915 LOURIE, Circuit Judge.
+
+United Video Properties, Inc., TV Guide Online, LLC, and TV Guide Online, Inc., subsidiaries of Rovi Corp. (collectively “Rovi”), appeal from the judgment of noninfringement of U.S. Patent 6,769,128 (the “′128 patent”) and U.S. Patent 7,603,690 (the “′690 patent”) by the United States District Court for the District of Delaware following claim construction. See United Video Properties, Inc. v. Amazon.com, Inc., No. 11–003–RGA, 2012 WL 2370318 (D.Del. June 22, 2012) (“Claim Construction Opinion ”). Because we conclude that the district court did not err in construing the disputed claim terms and in its judgment of noninfringement, we affirm.
+ 
+
+BACKGROUND
+Rovi offers program guide products to cable providers and other television distributors, and licenses its patent portfolio to various companies. Rovi owns the ′128 and ′690 patents. The ′128 patent is directed to an electronic schedule system (i.e., an electronic program guide on a television screen) with access to both stored television schedule information and status information for live programs, such as sporting events and news stories, received through “data feeds.” ′128 patent Abstract. The patent discloses that the providers of electronic program guide content can access information from a variety of sources, including the Internet, in order to populate those data feeds. Id. col. 45 ll. 39–53. The patent discloses a number of pathways for the data feeds, all of which involve traditional television signals and channels, including: (1) the vertical blanking interval, a well-known technique for sending data over analog television signals, id. col. 40 ll. 11–13, col. 46 ll. 10–14; (2) the full bandwidth of a cable television channel, id. col. 46 ll. 17–19; and (3) an in-band or out-of-band digital channel, id. col. 46 ll. 20–21.
+ 
+During prosecution of the ′128 patent, the U.S. Patent and Trademark Office (the “PTO”) examiner rejected a claim that included limitations for receiving “Internet delivered data” under 35 U.S.C. § 112, ¶ 1, because “nowhere in the specification mentions or hints that the information is delivered to the users via Internet.” Final Office Action, No. 09/317,686, at 8 (Nov. 17, 2003). In response, Rovi amended the application to “more particularly define the invention” by adding that “Internet data is received from the Internet at a ‘remote facility’ and that a ‘data feed’ is populated with the Internet data at the remote facility.” Reply to November 17, 2003 Final Office Action, No. 09/317,686, at 26–27 (Feb. 5, 2004). Specifically, the claim at issue was amended as follows:
+42. (Currently Amended) A multimedia informational system for displaying program schedule information and Internet delivered data comprising:
+a remote facility for receiving Internet data from the Internet and populating a data feed with the internet data; and
+user equipment comprising:
+a video display generator;
+a receiver for receiving program schedule information and Internet delivered data and the data feed; ....
+Id. at 17–18. The examiner allowed the amended claim, which issued as claim 37 of the ′128 patent.
+ 
+The ′690 patent describes a system that allows a user to select and immediately purchase a pay program from an “interactive program guide.” ′ 690 patent col. 1 ll. 14–17. The ′690 patent states that “[i]nteractive program guides are typically implemented on set-top boxes [and] allow *916 users to view television program listings in different display formats.” Id. col. 1 ll. 26–28. The interactive program guide of the ′ 690 patent allows a user to purchase television packages, and will automatically set reminders to inform the user “[j]ust before the scheduled broadcast time of each program in the package.” Id. col. 2 ll. 7–16. The patent describes a “typical program guide” as “a grid of television program listings” with rows that contain channels and columns that “are associated with different scheduled broadcast times for the programs.” Id. col. 4 ll. 29–35. The patent further states that the grid example is illustrative only and “any suitable type of program listing display format may be used, such as a table or other list.” Id. col. 4 ll. 35–36.
+ 
+Amazon.com, Inc. (collectively with IMDb.com, Inc., “Amazon”) offers on-demand television programming through its “Amazon Instant Video” service, which can be accessed on Amazon.com or through certain devices running the Amazon Instant Video application. IMDb.com, Inc. is a wholly owned subsidiary of Amazon.com, Inc. and offers a similar service entitled “IMDb Video.” Rovi sued Amazon in the District of Delaware, alleging infringement of five patents, including the ′128 and ′690 patents. Rovi alleged infringement of independent claim 37 and dependent claims 38, 39, and 47 of the ′128 patent, and independent claims 1 and 19 and dependent claims 9, 10, 14, 27, 28, and 32 of the ′690 patent.
+ 
+The district court construed several disputed claim terms, including “data feed” in the ′128 patent claims and “interactive program guide” in the ′ 690 patent claims. The court construed the “data feed” limitation to mean “an updatable transmission of data sent by a television programming provider over television signals.” Claim Construction Opinion, 2012 WL 2370318, at *7. The court excluded transmission of data over the Internet due to the applicant’s removal of “Internet delivered data” limitations in response to the PTO examiner’s written description rejection during prosecution. Id. After the court construed the term “data feed,” Rovi stipulated to noninfringement of claims reciting that limitation. Stipulation of Judgment of Non–Infringement, United Video Properties, Inc. v. Amazon.com, Inc., No. 11–003–RGA (D.Del. Aug. 27, 2012), ECF No. 182.
+ 
+The court initially construed “interactive program guide” to mean “an application that produces interactive display screens that include television program schedules and channel information,” id. at *13, but Rovi moved for clarification of the use of “schedules” in the court’s construction. Specifically, Rovi sought clarification whether that term limited the interactive program guide to displaying current and “forward-looking” programs, i.e., shows that are currently on TV or would air in the immediate future. In response to the motion, the court amended its construction of interactive program guide to “an application that produces interactive display screens identifying the channels and times on which television programs will air.” Order re: Motion for Clarification of the June 22, 2012 Memorandum Opinion, United Video Properties, Inc. v. Amazon.com, Inc., No. 11–003–RGA, slip op. at 1 (D.Del. Dec. 14, 2012), ECF No. 216. The court noted that, in modifying the term, it wanted to make clear that the “interactive program guide” was meant to provide current and forward-looking program schedules and channel information. Id. After clarification, Rovi stipulated to noninfringement of claims reciting that limitation. Stipulation of Judgment of Non–Infringement, United Video Properties, Inc. v. Amazon.com, Inc., No. 11–003–RGA (D.Del. Mar. 27, 2013), ECF No. 227. Rovi thus *917 stipulated to noninfringement of all asserted claims in the litigation.
+ 
+Rovi timely appealed the claim construction and hence the judgment of noninfringement. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+Claim construction is an issue of law reviewed de novo. Lighting Ballast Control LLC v. Philips Elecs. N.A. Corp., 744 F.3d 1272, 1285–86 (Fed.Cir.2014) (en banc); Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc). When construing asserted claims, claim terms are given “their ordinary and accustomed meaning as understood by one of ordinary skill in the art.” Dow Chem. Co. v. Sumitomo Chem. Co., 257 F.3d 1364, 1372 (Fed.Cir.2001); Phillips v. AWH Corp., 415 F.3d 1303, 1312–13 (Fed.Cir.2005) (en banc). The claims “ ‘must be read in view of the specification, of which they are a part.’ ” Phillips, 415 F.3d at 1315 (quoting Markman v. Westview Instruments, Inc., 52 F.3d 967, 979 (Fed.Cir.1995) (en banc), aff’d, 517 U.S. 370, 116 S.Ct. 1384, 134 L.Ed.2d 577 (1996)). Additionally, “a court ‘should also consider the patent’s prosecution history’ ” when construing a claim. Phillips, 415 F.3d at 1317 (quoting Markman, 52 F.3d at 980).
+ 
+Rovi argues that the district court erred in its construction of the “data feed” limitation in the ′128 patent and the “interactive program guide” limitation in the ′690 patent.
+ 
+[1] Rovi argues that the plain meaning of the term “data feed” is supplying data from a source to a receiver, without concern for the path which that data feed takes. Rovi points to examples in the written description of the ′128 patent, which it contends shows that a variety of techniques could be used to deliver those data, and thus that the Internet is a possible method of delivery. Additionally, Rovi argues that the applicant broadened the claim scope by eliminating the “Internet delivered data” limitation during prosecution.
+ 
+Amazon responds that the applicant’s amendments, removing “Internet delivered data” during prosecution in response to the PTO examiner’s written description rejection, act as a clear disavowal of the data feed being delivered to the users via the Internet. Amazon asserts that the amendments make clear that a remote facility could receive Internet data, but the final delivery occurs over conventional television channels.
+ 
+We agree with Amazon. Intrinsic evidence includes the claims, the written description, and the prosecution history. Phillips, 415 F.3d at 1314–17. In particular, as here, additional statements made by the patentee during prosecution can prove useful in determining how the patentee understood and explained the invention to the PTO. Id. at 1317. We do not rely on the prosecution history to construe the meaning of the claim to be narrower than it would otherwise be unless a patentee limited or surrendered claim scope through a clear and unmistakable disavowal. Trading Tech. Int’l, Inc. v. eSpeed, Inc., 595 F.3d 1340, 1352 (Fed.Cir.2010) (internal citations omitted); Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582–83 (Fed.Cir.1996). But such a surrender occurred here.
+ 
+The claims at issue here originally called for the data feed to be delivered via “Internet delivered data.” However, the PTO examiner rejected claims incorporating that limitation under § 112, ¶ 1, reasoning that “nowhere in the specification mentions or hints that the information [in the data feed] is delivered to the users via Internet.” Final Office Action, *918 No. 09/317,686, at 8 (Nov. 17, 2003). In response, Rovi amended the claims of the ′128 patent to remove “Internet delivered data” and to include references to a remote facility that receives Internet data and populates the data feed with that data. Reply to November 17, 2003 Final Office Action, No. 09/317,686, at 17–18 (Feb. 5, 2004). Rovi thus had to amend its claims to remove delivery via the Internet in order to secure its patent, and, as a result, clearly disavowed delivering data in data feeds via the Internet.
+ 
+Although Rovi points to references within the written description stating that “[t]hose of skill in the art will understand that numerous other transmission schemes can be used to transmit the data stream,” ′128 patent col. 10 ll. 7–9, a vague statement such as that does not overcome the clear disavowal that occurred during prosecution. See MarcTec, LLC v. Johnson & Johnson, 394 Fed.Appx. 685, 687 (Fed.Cir.2010) (“When an applicant yields claim scope in order to secure allowance of the patent, the public notice aspect of the record inhibits later retrenchment to recover what was yielded.”). The district court thus was correct in construing the “data feed” limitation of the ′128 patent to mean “an updatable transmission of data sent by a television programming provider over television signals.”
+ 
+[2] As for the “interactive program guide,” Rovi argues that the plain meaning of a program guide is simply a guide to finding television shows and that nothing in the specification requires it to be limited to forward-looking time and channel information. Additionally, Rovi contends that the written description of the ′690 patent distinguishes between scheduled programming and paid programming, suggesting that paid programming does not have to be scheduled, and that the interactive program guide consisting of paid and scheduled programming does not consist only of forward-looking time and channel information.
+ 
+Amazon responds that the ordinary meaning of the term “program guide” at the time of invention, based on the intrinsic record, is a guide that provides forward-looking time and channel information. Additionally, Amazon contends that the written description makes clear that the interactive program guide of the ′690 patent was meant to facilitate display and ordering of pay-per-view packages within that scheduled programming.
+ 
+We agree with Amazon that the written description and figures of the ′690 patent show that the interactive program guide is concerned with scheduled programming. The words of a claim are generally given their ordinary and customary meaning, which is the meaning that a term would have to a person of ordinary skill in the art after reviewing the intrinsic record at the time of the invention. Phillips, 415 F.3d at 1312–13. As indicated earlier, the intrinsic record includes the claims, the specification, and the prosecution history. E.g., Vitronics, 90 F.3d at 1582.
+ 
+Here, the ′690 patent describes “interactive program guides” as allowing users to view “television program listings.” ′690 patent col. 1 ll. 26–27. Additionally, the patent describes traditional printed television program schedules as containing the broadcast time of programs, and that recently, “electronic television program guides” have been developed to display this information directly on the television screen. Id. col. 1 ll. 19–25.
+ 
+The ′690 patent further describes the interactive program guide as issuing reminders to the user before a program that has been purchased is being broadcast. Id. col. 2 ll. 13–16 (“Just before the scheduled broadcast time of each program in the *919 package, the program guide displays a suitable reminder message on the user’s television.”); col. 2 ll. 22–24 (“If the user has not watched any of the programs in the package, the program guide continues to issue reminders just before each program is broadcast.”). Those references to setting reminders reinforce the understanding that the pay programming of the interactive program guide is scheduled programming, i.e., that it is forward-looking.
+ 
+The figures of the ′690 patent likewise show that the interactive program guide is concerned with scheduled broadcasts. See id. fig. 2 (showing the interactive program guide in a grid format with scheduled time along the top); figs. 7, 8, 9 (showing pay per view packages in terms of time, i.e., purchasing a package for “three days” or subscribing to a movie package for “$5.99 / month”). Accordingly, the district court was correct in construing the “interactive program guide” limitation of the ′690 patent to mean “an application that produces interactive display screens identifying the channels and times on which television programs will air.”
+ 
+The parties in this case stipulated that, under the district court’s claim construction, Amazon does not infringe the asserted claims. Because we have affirmed the court’s claim construction, we accordingly affirm the judgment of noninfringement.
+ 
+
+CONCLUSION
+For the foregoing reasons, the decisions of the district court construing the claim terms “data feed” in the ′128 patent and “interactive program guide” in the ′690 patent, and hence the judgment of noninfringement, are affirmed.
+ 
+AFFIRMED.
+ 
+All Citations
+561 Fed.Appx. 914
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Netflix, Inc. v. Rovi Corporation  
+2015 WL 4345326 , N.D.Cal.
+On March 25, 2015, the parties’ claim construction hearing to construe the disputed terms of U.S. Patent Nos. 6,898,762 (’’the ‘762 patent’’), 7,065,709 (’’the ‘709 patent),...
+July 15, 2015
+Case
+
+1
+
+
+
+
+2
+
+
+
+
+Fed.Appx.
+
+

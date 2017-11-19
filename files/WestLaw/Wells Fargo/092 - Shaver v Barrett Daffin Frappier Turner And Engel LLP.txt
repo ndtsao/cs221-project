@@ -1,0 +1,386 @@
+
+
+ 
+
+
+Shaver v. Barrett Daffin Frappier Turner & Engel, L.L.P.
+United States Court of Appeals, Fifth Circuit. | November 5, 2014 | 593 Fed.Appx. 265 | 2014 WL 5654315
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Shaver v. Barrett Daffin Frappier Turner & Engel, L.L.P., 593 F. App’x 265 (5th Cir. 2014)
+
+All Citations:
+
+593 Fed.Appx. 265
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:14 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+593 Fed.Appx. 265
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 5th Cir. Rules 28.7 and 47.5.
+United States Court of Appeals,
+Fifth Circuit.
+Dennis SHAVER; Catherine Shaver, Plaintiffs–Counter Defendants–Appellants
+v.
+BARRETT DAFFIN FRAPPIER TURNER & ENGEL, L.L.P., Defendant–Counter Plaintiff–Appellee
+and
+Wells Fargo Bank, N.A.; National City Mortgage Capital Trust 2008–1; PNC Bank, Defendants–Appellees.
+No. 14–20107.
+|
+Nov. 5, 2014.
+Synopsis
+Background: Homeowners filed state court suit against lender, lender’s counsel, lender’s successor by merger, trustee for deed of trust, and trust as assignee of note obligating homeowners to repay loan they received to purchase home that was subsequently sold to lender in foreclosure sale. The United States District Court for the Southern District of Texas dismissed all claims against all defendants. Appeal was taken.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] breach of contract claim against trustee and trust was not plausibly stated;
+ 
+[2] fraud claims against trustee and trust were not plausibly stated;
+ 
+[3] lender was not unjustly enriched;
+ 
+[4] homeowners lacked standing to enforce pooling and servicing agreement;
+ 
+[5] homeowners lacked superior title to support quiet title claim;
+ 
+[6] homeowners were not denied due process; and
+ 
+[7] two-dismissal rule applied.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (9)
+
+
+[1]
+
+Mortgages and Deeds of TrustOther Transactions and Dealings Between Parties
+
+
+266Mortgages and Deeds of Trust
+266VScope, Operation, and Effect of Transaction;  Rights, Duties, and Liabilities of Parties
+266V(K)Other Transactions and Dealings Between Parties
+266k1181In general
+(Formerly 266k211)
+
+
+Under Texas law, mortgage note required lender to provide sum of money to homeowners to purchase their home, but did not require lender to provide its own private corporate funds for loan.
+Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustPleading
+
+
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1646Pleading
+(Formerly 266k265)
+
+
+Under Texas law, homeowners failed to plausibly allege fraudulent misrepresentation claim against trust and trustee for deed of trust, as subsequent assignees of mortgage note, based on lender’s purported failure to provide homeowners with loan by not using lender’s own corporate funds for loan; homeowners alleged that lender misrepresented itself as lender, but mortgage note and deed repeatedly referred to lender as “lender,” and lender did not make any representation, let alone misrepresentation, regarding source of funds loaned to homeowners.
+Cases that cite this headnote
+
+
+
+[3]
+
+Mortgages and Deeds of TrustNotice to or consent of mortgagor
+Mortgages and Deeds of TrustNotice to or consent of mortgagor
+Mortgages and Deeds of TrustActions and Proceedings in General
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1421Notice to or consent of mortgagor
+(Formerly 266k265)
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(D)Transfers Involving Servicing Rights, Participation Arrangements, Pooling, or Securitization
+266k1476Notice to or consent of mortgagor
+(Formerly 266k265)
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1641In general
+(Formerly 266k216)
+
+
+Under Texas law, lender did not have duty to disclose any securitization, credit default swap, or other third-party transaction related to homeowners’ loan, thus precluding homeowners’ claim against lender and trust, as subsequent assignee of mortgage note, for fraud by nondisclosure of third-party transactions for which homeowners alleged lender should have applied profits to their loan and eliminated their liability, since there was no fiduciary or confidential relationship between lender and homeowners, and deed did not create contractual duty requiring lender to disclose transactions or apply proceeds from those transactions to loan balance.
+1 Cases that cite this headnote
+
+
+
+[4]
+
+Implied and Constructive ContractsUnjust enrichment
+
+
+205HImplied and Constructive Contracts
+205HINature and Grounds of Obligation
+205HI(A)In General
+205Hk2Constructive or Quasi Contracts
+205Hk3Unjust enrichment
+
+
+Under Texas law, lender was not unjustly enriched by receiving credit default payments or third-party insurance payments without applying those payments to homeowners’ loan balance, where lender was not required to decrease homeowners’ loan balance by amount received from third-party transactions.
+5 Cases that cite this headnote
+
+
+
+[5]
+
+ContractsAgreement for Benefit of Third Person
+Mortgages and Deeds of TrustPersons entitled to sue;  standing;  parties
+
+
+95Contracts
+95IIConstruction and Operation
+95II(B)Parties
+95k185Rights Acquired by Third Persons
+95k187Agreement for Benefit of Third Person
+95k187(1)In general
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1645Persons entitled to sue;  standing;  parties
+(Formerly 266k265)
+
+
+Homeowners seeking to avoid foreclosure by claiming that assignment of mortgage note and deed of trust violated pooling and servicing agreement (PSA) lacked standing to enforce PSA that was executed by depositor, mortgage loan servicer, mortgage loan seller, and trustee, where homeowners were not parties to PSA and did not claim to be third-party beneficiaries of PSA.
+7 Cases that cite this headnote
+
+
+
+[6]
+
+Mortgages and Deeds of TrustValidity and enforceability
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1409Validity and enforceability
+(Formerly 266k239)
+
+
+Even if New York law applied to homeowners’ claim that trustees’ assignment of mortgage note and deed of trust was void due to alleged violation of pooling and servicing agreement (PSA), requiring note and deed to be assigned prior to closing date, assignment would be only voidable, not void, based on any violation of PSA, since ultra vires actions by trustees were voidable, rather than void, and thus susceptible of ratification.
+6 Cases that cite this headnote
+
+
+
+[7]
+
+Quieting TitleMortgagors and mortgagees
+
+
+318Quieting Title
+318IRight of Action and Defenses
+318k9Title of Plaintiff
+318k10.5Mortgagors and mortgagees
+
+
+Under Texas law, homeowners lacked superior title to their property, as required to support their quiet title claim against trust and trustee for deed of trust, as subsequent assignees of mortgage note that were seeking to foreclose on home, where deed authorized lender to appoint substitute trustee to foreclose on property, and trustee did not need original note bearing wet-ink signature to foreclose.
+5 Cases that cite this headnote
+
+
+
+[8]
+
+Constitutional LawEnforcement;  proceedings
+Federal Civil ProcedureTime of determination; reserving decision
+
+
+92Constitutional Law
+92XXVIIDue Process
+92XXVII(G)Particular Issues and Applications
+92XXVII(G)19Tort or Financial Liabilities
+92k4415Liens, Mortgages, and Security Interests
+92k4417Enforcement;  proceedings
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1827Determination
+170Ak1828Time of determination; reserving decision
+
+
+Homeowners’ due process rights were not violated by dismissal for failure to state claims against trust and trustee for deed of trust without opportunity to conduct discovery, since district court had broad discretion to control and limit discovery including staying discovery pending decision on motion to dismiss. U.S.C.A. Const.Amend. 14; Fed.Rules Civ.Proc.Rule 12(b)(6), 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[9]
+
+Federal Civil ProcedureSuccessive dismissals
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(A)Voluntary Dismissal
+170Ak1713Effect
+170Ak1714Successive dismissals
+
+
+District court’s prior grant of homeowners’ first voluntary dismissal, without prejudice, of their claims against lender in their lawsuit that was filed in state court then removed, and subsequent grant of homeowners’ second voluntary dismissal of their amended complaint that operated as dismissal with prejudice, barred homeowners from bringing third lawsuit asserting subsequent claims against lender’s successor, under two-dismissal rule, where successor was substantially same as previously-dismissed predecessor, homeowners were on notice at time of each voluntary dismissal that successor and predecessor were same entity, and claims in third lawsuit were same as claims in second lawsuit. Fed.Rules Civ.Proc.Rule 41(a)(1)(B), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*267 Dennis Shaver, San Antonio, TX, pro se.
+Catherine Shaver, San Antonio, TX, pro se.
+Steven A. Leyh, Argie Dafnis Brame, Leyh, Payne & Mallia, P.L.L.C., Houston, TX, for Defendant–Counter Plaintiff–Appellee.
+Ellen Miers Peeples, Derrick B. Carson, Attorney, Nicholas J. Demeropolis, Locke Lord, L.L.P., Houston, TX, Thomas F. Loose, Esq., Senior Litigation Attorney, Robert Thompson Mowrey, Locke Lord, L.L.P., Dallas, TX, George Tommy Bastian, Senior Litigation Counsel, Barrett, Daffin, Frappier, Turner & Engel, L.L.P., Addison, TX, for Defendants–Appellees.
+Appeal from the United States District Court for the Southern District of Texas, USDC No. 4:13–CV–593.
+Before STEWART, Chief Judge, and JONES and HIGGINSON, Circuit Judges.
+Opinion
+PER CURIAM:*
+
+Dennis and Catherine Shaver appeal the district court’s dismissal of claims relating to the foreclosure of their home after they *268 stopped making mortgage payments in 2009. Finding that the Shavers have failed to state a claim upon which relief can be granted, we AFFIRM.
+ 
+
+FACTS AND PROCEEDINGS
+In August 2007, Dennis Shaver executed a Note obligating him to repay to National City Mortgage (“NCM”) $504,000 that he received to purchase property at 27002 Boater’s Crossing Dr., Katy, TX 77493 (the “property”). Dennis and Catherine Shaver also signed a deed of trust (“Deed”) in connection with the loan, which designated the Shavers as the borrower and NCM as the lender. In 2009, National City Bank, the mortgage servicer for NCM, foreclosed. In November 2009, NCM purchased the property, the foreclosure sale proceeds were credited to the Shavers’ loan balance, and the property was conveyed to National City Bank by Substitute Trustee’s Deed. After foreclosing, NCM, through its counsel Barrett Daffin Frappier Turner & Engel, LLP (“BDFTE”), sued to evict the Shavers from the property.1
+ 
+The long and complex procedural history of the Shavers’ challenges to the foreclosure began soon after the Shavers were sued for eviction. In 2009, the Shavers filed a wrongful foreclosure lawsuit against NCM and BDFTE in state court. In January 2012, the court granted summary judgment in favor of BDFTE and NCM, which by then had been acquired by PNC Bank, N.A. (“PNC”). The court’s summary judgment order explicitly granted summary judgment to “Defendant National City Mortgage, a division of National City Bank, n/k/a PNC Mortgage, a division of PNC Bank, N.A., successor by merger.” In September 2012, the Shavers filed a second wrongful foreclosure lawsuit in state court, naming as defendants NCM, BDFTE, and Wells Fargo Bank N.A. (“Wells Fargo”) as trustee. Shaver v. Nat’l City Mortgage, a Division of Nat’l City Bank, N.A., n/k/a PNC Mortgage, a division of PNC Bank, N.A., No. 4:12–cv–02981 (S.D.Tex.).2 NCM removed the action to the U.S. District Court for the Southern District of Texas, representing that it was now known as PNC Bank, N.A. NCM also disclosed its new name in a Certificate of Interested Parties and in its Initial Disclosures. One day before a scheduled hearing on defendants’ motion to dismiss in the second lawsuit, the Shavers voluntarily nonsuited their claims and the district court granted the Shavers’ dismissal without prejudice.
+ 
+One week after the second lawsuit was dismissed, the Shavers filed the instant action, again naming NCM, BDFTE, and Wells Fargo as defendants, and adding as a defendant National City Mortgage Capital Trust 2008–1 (the “Trust”), the subsequent assignee of the Note. This action was removed to federal court and PNC again filed documents, including a Certificate of Interested Parties, stating that it was NCM’s successor. After Wells Fargo and the Trust filed a motion to dismiss, the Shavers moved for leave to file an amended complaint. The district court granted leave to file an amended complaint, which added defendant PNC and dismissed NCM and BDFTE. The amended complaint stated that “Plaintiffs’ [sic] file this motion to dismiss National City Mortgage, a Division *269 of National City Bank a previously named defendant in this cause” and “Plaintiffs’ [sic] also wish to dismiss” BDFTE. Relying on the Shavers’ dismissal language in the amended complaint, the district court granted motions by BDFTE and NCM to dismiss claims against them pursuant to Federal Rule of Civil Procedure 41(a)(2). PNC moved to dismiss claims against it pursuant to Rule 41(a)(1)(B)’s two dismissal rule. The district court granted PNC’s motion to dismiss, finding that the amended complaint, dismissing NCM, operated as a dismissal with prejudice as to PNC, NCM’s successor. The district court found that this voluntary dismissal was the second dismissal of PNC following the dismissal in the second lawsuit. The district court also dismissed the suit against PNC as barred by res judicata because claims were already adjudicated in PNC’s favor by the entry of summary judgment in favor of PNC/NCM by the state court in the first lawsuit. The district court also granted Wells Fargo’s and the Trust’s motion to dismiss for failure to state a claim under Federal Rule of Civil Procedure 12(b)(6). The district court denied the Shavers’ motion to reconsider and entered a final judgment dismissing all claims against all defendants. The Shavers appeal the final judgment.
+ 
+
+DISCUSSION
+I. Claims Against Wells Fargo and the Trust
+The Shavers appeal the district court’s dismissal of claims against Wells Fargo and the Trust for failure to state a claim upon which relief can be granted. “We review a district court’s grant of a motion to dismiss de novo.” Haase v. Countrywide Home Loans, Inc., 748 F.3d 624, 630 (5th Cir.2014). To withstand a motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), the Shavers must allege “sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 663, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (internal quotation marks and citations omitted). We accept all wellpleaded facts as true and view “those facts in the light most favorable to plaintiffs. However, we are not bound to accept as true a legal conclusion couched as a factual allegation.” Wolcott v. Sebelius, 635 F.3d 757, 763 (5th Cir.2011) (internal quotation marks and citations omitted).3
+ 
+
+A. The Breach of Contract Claim
+[1] The Shavers allege that Wells Fargo and the Trust, the subsequent assignees of the mortgage, may not foreclose because NCM breached its mortgage contract by failing to provide a loan. Since this case was removed to federal court on diversity grounds, we apply Texas substantive law. See TMM Invs., Ltd. v. Ohio Cas. Ins. Co., 730 F.3d 466, 471 (5th Cir.2013). In Texas, the elements of breach of contract are: “1) the existence of a valid contract; 2) performance or tendered performance by the plaintiff; 3) breach of the contract by the defendant; and 4) damages to the plaintiff resulting from the breach.” Lewis v. Bank of Am. NA, 343 F.3d 540, 544–45 (5th Cir.2003). The contract at issue here is a run-of-the-mill mortgage loan embodied in the Note and Deed. The *270 Note states that NCM will provide the Shavers with a loan; in exchange the Shavers promise to pay $504,000 plus interest to NCM. The Shavers allege the first two elements of breach of contract: the existence of a contract and their initial performance in the form of a promise to pay the principal plus interest.4
+ 
+But the Shavers do not put forth a plausible allegation that NCM breached the contract. They do not claim that they never received funds from NCM in exchange for a promise to pay. Rather, they maintain that NCM failed to provide consideration because it did not provide any of its own private corporate funds for the loan. Nowhere in the Note or Deed did NCM make any promise or representation about the source of loan funds. A loan is generally understood to be “[a] thing lent for the borrower’s temporary use; esp., a sum of money lent at interest.” Black’s Law Dictionary 1019 (9th ed.2009). The transaction fits the definition of “loan” and the initial source of the funds is irrelevant. The Shavers’ attempt to incorporate arguments based on internal bank accounting and the complex macroeconomic concept of money creation is a non sequitur.5 NCM’s obligations under the contract were simply to provide a sum of money to the Shavers that the Shavers would repay. Since the Shavers do not allege that NCM failed to provide funds as specified in the Note, they cannot state a plausible claim for breach of contract.
+ 
+
+B. The Fraud Claims
+[2] Several of the Shavers’ claims sound in fraud. First, in a claim closely related to their breach of contract claim, the Shavers claim that Wells Fargo and the Trust may not foreclosure because of fraudulent misrepresentation based on NCM’s alleged failure to provide them with a loan. In Texas, fraud requires “a material misrepresentation, which was false, and which was either known to be false when made or was asserted without knowledge of its truth, which was intended to be acted upon, which was relied upon, and which caused injury.” Formosa Plastics Corp. USA v. Presidio Eng’rs & Contractors, Inc., 960 S.W.2d 41, 47 (Tex.1998) (internal quotation marks omitted). The Shavers’ fraud claim is premised on NCM’s alleged misrepresentation of itself as the “lender” in the transaction. The Note and Deed repeatedly refer to NCM as “lender” and the Shavers make no plausible argument that NCM was not the lender in this transaction. Further, NCM did not make any representation, let alone a misrepresentation, regarding the source of funds loaned to the Shavers. Therefore, the fraud claim on the grounds that NCM failed to provide a loan fails at the outset.
+ 
+Second, the Shavers claim it is fraudulent for NCM and the Trust not to have disclosed the fact that the Shavers’ Note had been securitized. They claim that NCM received payments from several activities *271 involving the Note, including its securitization and from credit default swaps and credit enhancements that NCM purchased on the Note. The Shavers allege that funds derived from these activities should be credited against the loan balance, lowering or eliminating the Shavers’ own liability. Essentially, the Shavers argue that their debt already has been repaid by other entities and that appellees would be unjustly enriched if they were entitled to foreclose on the property. “Elements of fraud by nondisclosure are: (1) the defendant failed to disclose facts to the plaintiff; (2) the defendant had a duty to disclose those facts; (3) the facts were material; (4) the defendant knew the plaintiff was ignorant of the facts and the plaintiff did not have an equal opportunity to discover the facts; (5) the defendant was deliberately silent when it had a duty to speak; (6) by failing to disclose the facts, the defendant intended to induce the plaintiff to take some action or refrain from acting; (7) the plaintiff relied on the defendant’s nondisclosure; and (8) the plaintiff was injured as a result of acting without that knowledge.” 7979 Airport Garage, L.L.C. v. Dollar Rent A Car Sys., Inc., 245 S.W.3d 488, 507 n. 27 (Tex.Ct.App.2007). “[A] failure to disclose information does not constitute fraud unless there is a duty to disclose the information.” Bradford v. Vento, 48 S.W.3d 749, 755 (Tex.2001). Whether such a duty exists is a question of law. Id.
+ 
+[3] The Shavers have not stated a claim for fraud by nondisclosure because NCM did not have a duty to disclose any securitization, credit default swap, or other transaction related to the loan. A duty to disclose may arise in several ways. First, a duty to disclose arises if parties have a confidential or fiduciary relationship. Anderson, Greenwood & Co. v. Martin, 44 S.W.3d 200, 212 (Tex.Ct.App.2001). But “under Texas law there is no general fiduciary obligation between a lender and a borrower.” Clay v. Fed. Deposit Ins. Corp., 934 F.2d 69, 72 (5th Cir.1991) (internal quotation marks omitted); see also Fed. Deposit Ins. Corp. v. Claycomb, 945 F.2d 853, 859 (5th Cir.1991) ( “The borrower-lender relationship [under Texas law] ... does not give rise to a ‘fiduciary’ or ‘special relationship.’ ”). Nor have the Shavers alleged any facts to suggest there was a non-fiduciary but still confidential relationship. See K3C Inc. v. Bank of Am., N.A., 204 Fed.Appx. 455, 461 (5th Cir.2006) (finding no confidential relationship between parties with a longstanding business relationship); Farah v. Mafrige & Kormanik, P.C., 927 S.W.2d 663, 675 (Tex.Ct.App.1996) (“[W]hen a special relationship between a borrower and lender has been found, it has rested on extraneous facts and conduct, such as excessive lender control over, or influence in, the borrower’s business activities.”).
+ 
+A duty to disclose may also arise in three other situations: 1) “when one voluntarily discloses information, he has a duty to disclose the whole truth”; 2) “when one makes a representation, he has a duty to disclose new information when he is aware the new information makes the earlier representation misleading or untrue”; and 3) “when one makes a partial disclosure and conveys a false impression, he has a duty to speak.” Anderson, Greenwood & Co., 44 S.W.3d at 212–13. The Shavers do not contend that NCM’s duty falls under any of these three additional bases for disclosure. Rather, they claim that NCM had a contractual duty to apply all sums received towards the debt, irrespective of the source. As support, they cite Paragraph 5 of the Deed, titled “Property Insurance,” which reads in part: “[I]f Lender acquires the Property under Section 22 or otherwise, Borrower hereby assigns to Lender ... Borrower’s rights to any insurance proceeds in an amount not to exceed the amounts unpaid under the Note or this Security Instrument ...” Under Texas *272 law, “[i]f a contract is unambiguous, we apply its plain meaning and enforce it as written.” Horn v. State Farm Lloyds, 703 F.3d 735, 738 (5th Cir.2012). The plain language of Paragraph 5 unambiguously creates no contractual duty for NCM to disclose its credit default arrangements or apply any proceeds from such arrangements to the Shavers’ loan balance. Paragraph 5 addresses the lender’s rights to the borrower’s insurance proceeds in the event that the lender acquires the property. Moreover, the entirety of Paragraph 5 deals with property insurance, i.e. hazard or flood insurance, that protects against unforeseen diminution of value to the property. Insurance against default that is obtained by the lender is wholly different than the insurance discussed in Paragraph 5. To the extent the language in Paragraph 5 is ambiguous—and we hold that it is not—the section heading “Property Insurance” confirms that Paragraph 5 refers to the borrower’s homeowner’s or hazard insurance and has no application to NCM’s insurance. See Wesson v. United States, 48 F.3d 894, 898 (5th Cir.1995) ( “[T]he title or heading of a statute or section can aid in resolving an ambiguity in the text.”). As NCM did not have a duty to disclose any third-party arrangements or payments to the Shavers, the fraud claim must be dismissed.6
+ 
+[4] The Shavers also claim that NCM was unjustly enriched by failing to apply credit default swap payments and other payments to their loan balance. “A party may recover under the unjust enrichment theory when one person has obtained a benefit from another by fraud, duress, or the taking of an undue advantage.” Heldenfels Bros., Inc. v. City of Corpus Christi, 832 S.W.2d 39, 41 (Tex.1992). The Shavers fail to plausibly allege how the receipt of credit default payments or third-party insurance payments without an accompanying decrease to the loan balance is unjust enrichment. The Shavers cite no cases holding that a lender must decrease the borrower’s loan balance by the amount received from third-party transactions, likely because no court has accepted this novel theory. In fact, many courts have rejected similar claims based on a lender’s receipt of funds from credit default swaps and other comparable sources. See Rosas v. Carnegie Mortgage, LLC, No. CV 11–7692 CAS CWX, 2012 WL 1865480, at *8 (C.D.Cal. May 21, 2012) (“[P]laintiffs’ theory that lenders that received funds through loan securitizations or credit default swaps must waive their borrowers’ obligations fails as a matter of law.”); Taylor v. CitiMortgage, Inc., 2:10–CV–505 TS, 2010 WL 4683881, at *3 (D.Utah Nov. 10, 2010) (“[T]he separate contract that is the result of securitization does not free Plaintiffs from the terms agreed upon in the Deeds of Trust.”); Flores v. Deutsche Bank Nat’l Trust, Co., CIV. A. DKC 10–0217, 2010 WL 2719849, at *5 (D.Md. July 7, 2010) (dismissing a claim alleging that defendants lacked standing to enforce a note because they had already been compensated by credit enhancement policies).
+ 
+
+C. The Claim that the Assignment of the Note and Deed to the Trust Violated the Terms of the Pooling and Servicing Agreement
+[5] Next, the Shavers challenge the assignment of the Note to the Trust. They *273 allege that the Note and Deed are void because they were not transferred to the Trust before the Trust’s closing date as required by the terms and conditions of the Pooling and Servicing Agreement (“PSA”) among the depositor, servicer, mortgage loan seller, and trustee. This argument fails because the Shavers lack standing to enforce provisions of the PSA. We were faced with, and decided, the same issue in Reinagel v. Deutsche Bank Nat’l Trust Co., 735 F.3d 220, 228 (5th Cir.2013). There, the PSA that governed the trust in which the trustee held the mortgage loan provided that no loans could be transferred into the trust after October 1, 2006. Id. at 222. In fact, the loan was not purported to be transferred until January 23, 2008. Id. Like the Shavers, the Reinagels claimed that the assignment was void for violating the PSA and sought to enjoin the bank from foreclosing. Id. at 224. This court held that the borrowers had no right to enforce the PSA’s terms because they were neither a party to the PSA nor third-party beneficiaries. Id. at 228 (“[T]he Reinagels claim that they are third-party beneficiaries because the PSA was an integral part of a securitization transaction that enabled them to obtain a home-equity loan; however, they fail to state any facts indicating that the parties to the PSA intended that benefit.”) (emphasis in original). The Shavers, too, were not a party to the PSA and do not claim to be third-party beneficiaries. Therefore, they lack standing to enforce its provisions.
+ 
+[6] The Shavers claim that, regardless of their standing, they can challenge the assignment because the alleged violation of the PSA makes the assignment void, not just voidable. See id. at 225 (“Texas courts follow the majority rule that the obligor may defend on any ground which renders the assignment void.”) (internal quotation marks omitted) (emphasis in original). However, as in Reinagel, the fact that the assignment violated the PSA “would not render the assignments void, but [would] merely entitle the [Shavers] to sue for breach of the PSA.” Id. at 228. The Shavers attempt to evade Reinagel’s holding by invoking New York law. Their argument is unpersuasive. First, it is not clear that New York law applies. The Shavers do not explicitly allege that interpretation of the PSA is subject to New York law and the record contains only excerpts from the PSA; the court cannot determine if it is to be construed in accordance with New York law. Second, the Shavers’ description of New York trust law as making the assignment void, not voidable, is incomplete. It is true that under New York trust law, “every ... act of the trustee in contravention of the trust ... is void.” N.Y. Est. Powers & Trusts Law § 7–2.4. Despite this language, “New York courts have treated ultra vires actions by trustees as voidable and therefore susceptible of ratification.” Svoboda v. Bank of Am., N.A., 571 Fed.Appx. 270, 273 (5th Cir.2014) (collecting New York cases).7 Thus, even under New York, law, the alleged violations of the PSA would make the assignment voidable, not void, and the Shavers may not challenge the assignment. See Reinagel, 735 F.3d at 228.
+ 
+
+D. Quiet Title Claim
+[7] The Shavers next pursue a claim to quiet title. The Shavers’ brief on appeal *274 does not elaborate on their quiet title claim; instead it merely reiterates the claim in a summary fashion. Under Texas law, “to prevail in a suit to quiet title, the plaintiff must prove: (1) his right, title, or ownership in real property; (2) that the defendant has asserted a ‘cloud’ on his property, meaning an outstanding claim or encumbrance valid on its fact that, if it were valid, would affect or impair the property owner’s title; and (3) that the defendant’s claim or encumbrance is invalid.” Warren v. Bank of Am., N.A., 566 Fed.Appx. 379, 382 (5th Cir.2014) (citing Gordon v. W. Houston Trees, Ltd., 352 S.W.3d 32, 42 (Tex.Ct.App.2011)). The Shavers advance several bases for their quiet title claim, none of which establishes their superior title.
+ 
+First, the Shavers reiterate their claims, supra, that NCM was not the lender and that the Note was never transferred to the Trust. Because these arguments are without merit, they cannot support a quiet title claim. Second, the Shavers challenge NCM’s authority to appoint a substitute trustee to foreclose on the property, and they claim that the substitute trustee’s deed from the foreclosure sale and the special warranty deed are fraudulent. NCM was entitled to appoint a substitute trustee for foreclosure purposes. The Deed grants NCM the authority to appoint a substitute trustee to exercise its rights at any time with or without cause. If the borrower defaults, the Deed permits acceleration of the loan and sale of the property by the substitute trustee. Further, the documents do not meet the definition of “fraudulent” under Texas law. See Tex. Gov.Code § 51.901(c)(2)–(3) (defining fraudulent documents under Texas law). Third, the Shavers pursue split-the note and show-me-the-note theories. That is, they claim both that the Note has been split from the deed and that the original Note was destroyed in the securitization process or was never delivered to the Trust. Neither of these theories applies to quiet title under Texas law. A party does not need the original note bearing the wet-ink signature to foreclose. See Martins v. BAC Home Loans Servicing, L.P., 722 F.3d 249, 253–256 (5th Cir.2013) (“The party to foreclose need not possess the note itself.”). None of the other bases for the Shavers’ quiet title claim is developed in their briefs or plausible. The district court was therefore correct to dismiss the Shavers’ quiet title claim.
+ 
+
+E. Private Administrative Process and Discovery
+[8] Appellants maintain that their due process rights have been violated by the dismissal of their claims without an opportunity to conduct discovery and obtain evidence from appellees necessary to prove their claims. We disagree. The district court has broad discretion to control and limit discovery. Mayo v. Tri–Bell Indus., Inc., 787 F.2d 1007, 1012 (5th Cir.1986). It is not uncommon to stay discovery pending a decision on a motion to dismiss, insofar as a Rule 12(b)(6) motion to dismiss focuses on the adequacy of the pleadings, while discovery helps a plaintiff obtain enough evidence to succeed on the merits. Ferrer v. Chevron Corp., 484 F.3d 776, 782 (5th Cir.2007). As such, the Shavers’ due process rights were not violated by not being able to conduct discovery before the motion to dismiss their claims was decided.8
+ 
+
+*275 F. The Claim that NCM had no Legal Authority to Commence the Foreclosure Sale
+For the reasons discussed in Parts I(A)–(E), supra, the Shavers have not stated a plausible claim that NCM had no legal authority to foreclose on the property.
+ 
+
+II. Claims Against PNC Bank
+[9] Finally, the Shavers challenge the district court’s dismissal of PNC from the suit under the “two dismissal” rule. Fed.R.Civ.P. 41(a)(1)(B). Whether the dismissal was proper raises only questions of law and is reviewed de novo. See Cabot Golf CL–PP 1, LLC v. Nixon Peabody, LLP, No. 13–40912, 2014 WL 3043727, at *1 (5th Cir. July 7, 2014). Rule 41(a)(1)(B) states that “if the plaintiff previously dismissed any federal—or state-court action based on or including the same claim, a notice of dismissal operates as an adjudication on the merits.” Fed.R.Civ.P. 41(a)(1)(B). Rule 41(a)(1)(B) applies to these facts. The Shavers’ first voluntary dismissal occurred when they dismissed claims against NCM in the second lawsuit that was filed in state court and removed to federal court. This first dismissal was appropriately granted without prejudice. The Shavers’ second voluntary dismissal occurred when they filed their amended complaint in the current action, dismissing all claims against NCM. By Rule 41(a)(1)(B)’s plain language, this operates as a dismissal with prejudice. See 9 Wright & Miller, Federal Practice and Procedure § 2368 (3d ed). As such, the Shavers could not bring further claims based on the same facts against NCM. Yesh Music v. Lakewood Church, 727 F.3d 356, 363 (5th Cir.2013) (“[T]he well-known legal consequence of two voluntary dismissals is an inability to re-file the complaint.”). Since PNC is NCM’s corporate successor the Shavers may not maintain claims against PNC either. See Lake at Las Vegas Investors Grp., Inc. v. Pacific Malibu Development Corp., 933 F.2d 724, 728 (9th Cir.1991) (affirming dismissal under two-dismissal rule when defendant was “substantially the same” as the previously-dismissed defendant); Manning v. S.C. Dep’t of Highway & Pub. Transp., 914 F.2d 44, 47–48 (4th Cir.1990) (affirming dismissal under two-dismissal rule when defendant was in privity with earlier defendant). At the time of each voluntary dismissal, the Shavers were on notice that NCM and PNC were the same entity. Rule 41(a)(1)(B) does not permit them to maintain an action for the same claims against the same corporate entity.
+ 
+The Shavers do not contest that PNC is NCM’s successor. They object to the district court’s conclusion that the two-dismissal rule applies because the current suit is based on the same claims as the second lawsuit. The district court did not err in determining that the claims in the second and third suits were the same. The Shavers’ only other argument against application of Rule 41(a)(1)(B) is that PNC had notice of suit and was not harmed by being added in the amending complaint. However, notice is not a factor in applying Rule 41(a)(1)(B)’s two-dismissal rule. Moreover, PNC indeed may be harmed from the prolongation of the Shavers’ serial litigation, as PNC has been unable to evict the Shavers and recoup its investment. The district court did not err in dismissing the claims against PNC under the two-dismissal rule.
+ 
+
+*276 CONCLUSION
+For the foregoing reasons, we AFFIRM the judgment of the district court.
+ 
+All Citations
+593 Fed.Appx. 265
+Footnotes
+
+*
+
+Pursuant to 5TH CIR. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5TH CIR. R. 47.5.4.
+
+1
+
+The Shavers voluntarily dismissed BDFTE from this action when they filed their amended complaint and make no arguments on appeal relating to BDFTE.
+
+2
+
+We take judicial notice of the prior court proceedings. See Norris v. Hearst Trust, 500 F.3d 454, 461 n. 9 (5th Cir.2007) (“[I]t is clearly proper in deciding a 12(b)(6) motion to take judicial notice of matters of public record.”).
+
+3
+
+We note that, to the extent the Shavers have not explained on appeal why any of their claims were improperly dismissed, they have waived appeal of those claims. See Yohey v. Collins, 985 F.2d 222, 225 (5th Cir.1993) (“Although we liberally construe the briefs of pro se appellants, we also require that arguments must be briefed to be preserved.”) (internal quotation marks omitted). Accordingly, we do not address the Shavers’ common law claim for money had and received.
+
+4
+
+The Shavers’ performance—and in turn their ability to maintain an action for breach of contract—is put in doubt by their own allegations that NCM received credit default payments based on the Shavers’ loan. The receipt of these payments, which typically are made only if the underlying loan is in default, makes the Shavers’ allegations that they have performed under the contract less plausible.
+
+5
+
+The Shavers ask this court to consider materials presented for the first time on appeal. We decline to consider these materials, as they were not before the district court and the Shavers give no justification for waiting for appeal to submit these materials. See United States v. Flores, 887 F.2d 543, 546 (5th Cir.1989) (“We will not ordinarily enlarge the record on appeal to include material not before the district court.”). In any case, the materials do not support their arguments.
+
+6
+
+The amended complaint also contains a fraudulent concealment cause of action based on the same allegations. In Texas, fraudulent concealment is an equitable doctrine that tolls the statute of limitations if the defendant “actually knew a wrong occurred, had a fixed purpose to conceal the wrong, and did conceal the wrong.” Shell Oil Co. v. Ross, 356 S.W.3d 924, 927 (Tex.2011). There are no timeliness issues with the Shavers’ complaint and fraudulent concealment is not a doctrine for recovery. The Shavers have therefore failed to state a claim for fraudulent concealment.
+
+7
+
+The Shavers cite a recent California state court decision that interpreted New York trust law literally. See Glaski v. Bank of Am., 218 Cal.App.4th 1079, 160 Cal.Rptr.3d 449, 463 (2013). However, we find persuasive this court’s prior analysis of the issue. See Svoboda, 571 Fed.Appx. at 273.
+
+8
+
+After the district court dismissed their claims, the Shavers instituted what they call a “private administrative process.” They claim that NCM’s failure to respond to this extrajudicial document is a default and an admission that the Shavers’ claims are accurate. We can find no court that has recognized “private administrative process” as a substitute for discovery under the Federal Rules of Civil Procedure, and it is not enforceable by this court.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

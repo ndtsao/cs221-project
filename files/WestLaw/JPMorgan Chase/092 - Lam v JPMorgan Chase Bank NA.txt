@@ -1,0 +1,178 @@
+
+
+ 
+
+
+Lam v. JPMorgan Chase Bank NA
+United States Court of Appeals, Ninth Circuit. | March 13, 2015 | 605 Fed.Appx. 600 | 2015 WL 1088803
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Lam v. JPMorgan Chase Bank NA, 605 F. App’x 600 (9th Cir. 2015)
+
+All Citations:
+
+605 Fed.Appx. 600
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+605 Fed.Appx. 600
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+Tung Q. LAM, Plaintiff–Appellant,
+v.
+JPMORGAN CHASE BANK NA and MTC Financial, Inc., DBA Trustee Corps, Defendants–Appellees.
+No. 12–17753.
+|
+Submitted March 11, 2015.*
+|
+Filed March 13, 2015.
+Synopsis
+Background: Mortgagor sued mortgage lender’s successor and its foreclosure trustee alleging wrongful foreclosure, quiet title, slander of title, and fraud. The United States District Court for the Eastern District of California, Anthony W. Ishii, Senior District Judge, 2012 WL 5827785, dismissed claims and mortgagor appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] foreclosure trustee was dispensable party that could be dismissed to preserve diversity jurisdiction; and
+ 
+[2] assignor of mortgagor’s deed of trust to mortgage lender’s successor had authority to assign deed of trust.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Federal CourtsRequired, necessary, or indispensable parties
+Federal CourtsDismissal as to one or more parties
+
+
+170BFederal Courts
+170BVIControversies Between Citizens of Different States;  Diversity Jurisdiction
+170BVI(B)Particular Cases, Contexts, and Questions
+170Bk2427Required, necessary, or indispensable parties
+170BFederal Courts
+170BVIControversies Between Citizens of Different States;  Diversity Jurisdiction
+170BVI(B)Particular Cases, Contexts, and Questions
+170Bk2454Dismissal as to one or more parties
+
+
+Foreclosure trustee was dispensable party that could be dismissed to preserve diversity jurisdiction in mortgagor’s suit against mortgage lender’s successor and its foreclosure trustee, despite claim that trustee would need to perform ministerial act of conveying or quieting title, where injunction against successor would in fact bind its agents including trustee. Fed.Rules Civ.Proc.Rule 21, 65(d)(2)(B, C), 28 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustWho may make transfer
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1417Parties to Transfer
+266k1419Who may make transfer
+(Formerly 266k222)
+
+
+Assignor of mortgagor’s deed of trust to mortgage lender’s successor did not lack authority to assign deed of trust, on theory that assignor lost its status as agent of promissory note holder when note was bundled into mortgage-backed security, where mortgagor agreed in deed of trust that assignor would have right to exercise any or all of lender’s interests, including authority to assign deed of trust under California law.
+1 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*601 Joseph P. Buchman, Burke, Williams & Sorensen, LLP, Los Angeles, CA, Megan Dailey, Michael James Yesk, Esquire, Yesk Law, Pleasant Hill, CA, for Plaintiff–Appellant.
+Joseph James Poppen, Bryan Cave LLP, San Francisco, CA, Richard Joseph Reynolds, Esquire, Burke, Williams & Sorensen, LLP, Santa Ana, CA, for Defendants–Appellees.
+Appeal from the United States District Court for the Eastern District of California, Anthony W. Ishii, Senior District Judge, Presiding. D.C. No. 1:12–cv–01434–AWI–SMS.
+Before: McKEOWN, MURGUIA, and FRIEDLAND, Circuit Judges.
+
+
+MEMORANDUM**
+Tung Q. Lam appeals from the district court’s judgment dismissing his claims against his mortgage lender’s successor, JPMorgan Chase Bank, N.A. (“Chase”), and Chase’s foreclosure trustee, MTC Financial Inc., dba Trustee Corps (“Trustee Corps”).
+ 
+
+I.
+[1] We first must determine whether there is federal subject-matter jurisdiction over this dispute. Lam’s complaint asserted that the district court had diversity jurisdiction, and the district court appears to have accepted that contention without discussion. Yet Lam is a citizen of California, Chase is a citizen of New York, and Trustee Corps is a citizen of California, so diversity appears on the face of the complaint to be lacking. See In re Digimarc Corp. Derivative Litig., 549 F.3d 1223, 1234 (9th Cir.2008).
+ 
+Lam argues on appeal that Trustee Corps is a nominal party whose citizenship does not count for purposes of diversity jurisdiction. Lam’s complaint, however, alleged misconduct on the part of Trustee *602 Corps and sought damages from it. Thus, Trustee Corps is a real party to the controversy, and its citizenship must be counted for purposes of diversity jurisdiction. See Cheyne v. Atchison, T. & S.F. Ry., Co., 125 F.2d 49, 50–51 (9th Cir.1942); Matthew v. Coppin, 32 F.2d 100, 102 (9th Cir.1929). Because Lam and Trustee Corps are citizens of the same state, complete diversity is lacking and the district court did not have subject-matter jurisdiction.1
+ 
+If Trustee Corps is a dispensable party, however, we may retroactively perfect the district court’s jurisdiction by dismissing Trustee Corps from this action under Federal Rule of Civil Procedure 21. See Newman–Green, Inc. v. Alfonzo–Larrain, 490 U.S. 826, 837–38, 109 S.Ct. 2218, 104 L.Ed.2d 893 (1989). Lam’s only colorable argument for why Trustee Corps must remain in the suit is that it is needed to perform “the ministerial act of conveying or quieting title if adjudged in Plaintiff–Appellant’s favor.” Lam is mistaken. An injunction against Chase would bind Chase’s agents and anyone acting in concert with Chase, which includes Trustee Corps. See Fed.R.Civ.P. 65(d)(2)(B)-(C). We therefore exercise our authority under Rule 21 to dismiss Trustee Corps as a party, perfecting the district court’s and our own jurisdiction over this matter. See Newman–Green, 490 U.S. at 837–38, 109 S.Ct. 2218.
+ 
+
+II.
+[2] Turning to the merits, we review de novo a district court’s decision to grant a motion to dismiss, and we review the denial of leave to amend the complaint for an abuse of discretion. Zadrozny v. Bank of N.Y. Mellon, 720 F.3d 1163, 1167 (9th Cir.2013).
+ 
+Lam’s complaint alleged four substantive claims for relief: wrongful foreclosure, quiet title, slander of title, and fraud. In addition, Lam sought preliminary injunctive relief, cancellation of written instruments, and declaratory relief. Lam’s opening brief on appeal devotes separate headings to each of these claims and forms of relief, but all of them stem from a common set of alleged defects in the foreclosure process. Specifically, Lam contends that: (1) Mortgage Electronic Registration Systems, Inc. (“MERS”) lacked authority to assign Lam’s deed of trust to Chase because MERS lost its status as agent of the promissory note holder when Lam’s note was assigned to IndyMac Bank and bundled into a mortgage-backed security; (2) the assignment of the deed of trust from MERS to Chase was invalid because MERS’s Procedures Manual states that MERS does not have authority to transfer any beneficial interest in loans; (3) Chase did not own Lam’s note because the original lender did not endorse the note to Chase; and (4) Chase did not have the right to foreclose because it did not record any note ownership with the county.2 Of these four alleged defects that Lam argues on appeal, only the first was raised in opposition to the motions to dismiss below. Accordingly, Lam has waived *603 any argument pertaining to the second, third, and fourth alleged defects. See In re Mortg. Elec. Registration Sys., Inc., 754 F.3d 772, 780 (9th Cir.2014) (“Generally, arguments not raised in the district court will not be considered for the first time on appeal.”).
+ 
+Lam’s only non—waived contention-that MERS lacked authority to assign his deed of trust—is foreclosed by his agreement in the deed of trust that MERS would have the right “to exercise any or all of [the lender’s] interests.” Because “[t]he authority to exercise all of the rights and interests of the lender necessarily includes the authority to assign the deed of trust,” Siliga v. Mortg. Elec. Registration Sys., Inc., 219 Cal.App.4th 75, 161 Cal.Rptr.3d 500, 507 (Ct.App.2013), Lam cannot contend that MERS lacked authority to assign the deed of trust to Chase. See id. at 506; Herrera v. Fed. Nat’l Mortg. Ass’n, 205 Cal.App.4th 1495, 141 Cal.Rptr.3d 326, 328 (Ct.App.2012).
+ 
+Lam asserts that he should have been granted leave to amend his complaint, but he fails to offer any specific argument for how the district court abused its discretion by denying such leave. Lam therefore has failed to preserve this issue for appeal. See D.A.R.E. Am. v. Rolling Stone Magazine, 270 F.3d 793, 793 (9th Cir.2001).
+ 
+* * *
+ 
+Trustee Corps is dismissed as a party in this action and the district court’s judgment dismissing Lam’s claims against Chase is AFFIRMED.
+ 
+All Citations
+605 Fed.Appx. 600
+Footnotes
+
+*
+
+The panel unanimously concludes this case is suitable for decision without oral argument. See Fed. R.App. P. 34(a)(2).
+
+**
+
+This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36–3.
+
+1
+
+Lam’s opening brief also contends that the district court had jurisdiction based on the Declaratory Judgment Act, but the Declaratory Judgment Act does not provide an independent basis for jurisdiction. See Gov’t Emps. Ins. Co. v. Dizol, 133 F.3d 1220, 1222–23 (9th Cir.1998) (“A lawsuit seeking federal declaratory relief ... must [ ] fulfill statutory jurisdictional prerequisites.”).
+
+2
+
+To the extent Lam might understand himself to be making additional arguments, such arguments are waived. See Arpin v. Santa Clara Valley Transp. Agency, 261 F.3d 912, 919 (9th Cir.2001) (“[I]ssues which are not specifically and distinctly argued and raised in a party’s opening brief are waived.”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

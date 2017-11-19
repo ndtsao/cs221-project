@@ -1,0 +1,114 @@
+
+
+ 
+
+
+Evolutionary Intelligence LLC v. Sprint Nextel Corporation
+United States Court of Appeals, Federal Circuit. | February 17, 2017 | 677 Fed.Appx. 679 | 2017 WL 655442
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Evolutionary Intelligence LLC v. Sprint Nextel Corp., 677 F. App’x 679 (Fed. Cir. 2017)
+
+All Citations:
+
+677 Fed.Appx. 679
+
+Search Details
+
+Search Query:
+
+adv: NAME(”facebook”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:48 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+677 Fed.Appx. 679
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+EVOLUTIONARY INTELLIGENCE LLC, Plaintiff-Appellant
+v.
+SPRINT NEXTEL CORPORATION, Sprint Communications Company, L.P., Sprint Spectrum L.P., Sprint Solutions, Inc., Apple Inc., Facebook Inc., Foursquare Labs, Inc., Groupon, Inc., LivingSocial, Inc., Millennial Media, Inc., Twitter, Inc., Yelp, Inc., Defendants-Appellees
+2016-1188
+|
+2016-1190
+|
+2016-1191
+|
+2016-1192
+|
+2016-1194
+|
+2016-1195
+|
+2016-1197
+|
+2016-1198
+|
+2016-1199
+|
+Decided: February 17, 2017
+Appeals from the United States District Court for the Northern District of California in Nos. 5:13-cv-03587-RMW, 5:13-cv-04201-RMW, 5:13-cv-04202-RMW, 5:13-cv-04203-RMW, 5:13-cv-04204-RMW, 5:13-cv-04205-RMW, 5:13-cv-04206-RMW, 5:13-cv-04207-RMW, 5:13-cv-04513-RMW, Senior Judge Ronald M. Whyte.
+Attorneys and Law Firms
+TODD KENNEDY, Gutride Safier LLP, San Francisco, CA, argued for plaintiff-appellant.
+HEIDI LYN KEEFE, Cooley LLP, Palo Alto, CA, argued for all defendants-appellees. Defendant-appellee Facebook Inc. also represented by REUBEN HO-YEN CHEN, MARK R. WEINSTEIN.
+JAY E. HEIDRICK, Polsinelli PC, Kansas City, MO, for defendants-appellees Sprint Nextel Corporation, Sprint Communications Company, L.P., Sprint Spectrum L.P., Sprint Solutions, Inc. Also represented by KAREN ZELLE MORRIS, St. Louis, MO.
+PATRICK E. KING, Simpson Thacher & Bartlett, LLP, Palo Alto, CA, for defendant-appellee Apple Inc. Also represented by ELIZABETH HEATHER WHITE; JEFFREY E. DANLEY, SEED Intellectual Property Law Group, PLLC, Seattle, WA.
+CRAIG ROBERT SMITH, Lando & Anastasi, LLP, Cambridge, MA, for defendant-appellee Foursquare Labs, Inc. Also represented by ERIC P. CARNEVALE.
+THOMAS LEE DUSTON, Marshall, Gerstein & Borun LLP, Chicago, IL, for defendants-appellees Groupon, Inc., LivingSocial, Inc. Also represented by TRON Y. FU.
+CHRISTOPHER C. CAMPBELL, Cooley LLP, Reston, VA, for defendant-appellee Millennial Media, Inc. Also represented by NATHAN K. CUMMINGS.
+STEVEN MOORE, Kilpatrick Townsend & Stockton LLP, San Francisco, CA, for defendants-appellees Twitter, Inc., Yelp, Inc.
+Before Lourie, Moore, and Taranto, Circuit Judges.
+Opinion
+Lourie, Circuit Judge.
+
+Evolutionary Intelligence, LLC (“EI”) appeals from the decision of the United States District Court for the Northern District of California, concluding that all claims of U.S. Patents 7,010,536 (“the ‘536 patent”) and 7,702,682 (“the ‘682 patent”) (collectively, “the asserted patents”) are invalid under 35 U.S.C. § 101. See Evolutionary Intelligence, LLC v. Sprint Nextel Corp., 137 F.Supp.3d 1157 (N.D. Cal. 2015) (“Decision”).
+ 
+EI owns the asserted patents, which have the same written description and are *680 directed to systems and methods for allowing computers to process data that are dynamically modified based upon external-to-the-device information, such as location and time. See, e.g., ’536 patent Abstract.
+ 
+EI sued Sprint Nextel Corporation and the other Appellees (collectively, “Sprint”) for infringement of the asserted patents. The district court granted Sprint’s motion to dismiss EI’s complaint and for judgment on the pleadings, concluding that all claims of the asserted patents are invalid under § 101 as being directed to the abstract idea of “searching and processing containerized data.” The court held that the invention merely computerizes “age-old forms of information processing,” such as those used in “libraries, businesses, and other human enterprises with folders, books, time-cards, ledgers, and so on.” Decision, 137 F.Supp.3d at 1165.
+ 
+EI timely appealed to this court. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1). On appeal, EI argues that the claims are patent eligible because: (1) they are not directed to an abstract idea, but rather to an improvement in the functioning of the computer itself; and (2) even if they were directed to an abstract idea, they are patent eligible as containing an inventive concept because they recite a specific arrangement of particular structures, operating in a specific way.
+ 
+We disagree on both accounts. First, the claims at issue here are directed to an abstract idea. We have held that “tailoring of content based on information about the user—such as where the user lives or what time of day the user views the content—is an abstract idea.” Affinity Labs of Texas, LLC v. Amazon.com Inc., 838 F.3d 1266, 1271 (Fed. Cir. 2016) (describing Intellectual Ventures I LLC v. Capital One Bank (USA), 792 F.3d 1363, 1369 (Fed. Cir. 2015)); see Elec. Power Group, LLC v. Alstom S.A., 830 F.3d 1350, 1353 (Fed. Cir. 2016) (“collecting information, including when limited to particular content,” is “within the realm of abstract ideas”). The claims are unlike those in Enfish, LLC v. Microsoft Corp., where “the plain focus of the claims” was on “an improvement to the computer functionality itself,” 822 F.3d 1327, 1336 (Fed. Cir. 2016), i.e., “a specific improvement—a particular database technique—in how computers could carry out one of their basic functions of storage and retrieval of data,” regardless of subject matter or the use to which that functionality might be put, Elec. Power, 830 F.3d at 1354 (describing Enfish). Here, the claims are directed to selecting and sorting information by user interest or subject matter, a longstanding activity of libraries and other human enterprises.
+ 
+Second, the claims lack an inventive concept to transform the abstract idea into a patent-eligible invention. EI does not dispute that merely using a computer is not enough. Moreover, EI conceded that “containers,” “registers,” and “gateways” are “conventional and routine” structures. See Decision, 137 F. Supp. 3d at 1167. Whether analyzed individually or as an ordered combination, the claims recite those conventional elements at too high a level of generality to constitute an inventive concept. See, e.g., Bascom Glob. Internet Servs., Inc. v. AT&T Mobility LLC, 827 F.3d 1341, 1350, 1352 (Fed. Cir. 2016) (finding claims patent eligible where they “recite a specific, discrete implementation of the abstract idea,” in contrast to implementing the abstract idea “on generic computer components, without providing a specific technical solution beyond simply using generic computer concepts in a conventional way”).
+ 
+We have considered EI’s remaining arguments, but find them to be unpersuasive. *681 For the foregoing reasons, we affirm the judgment of the district court.
+ 
+AFFIRMED
+ 
+All Citations
+677 Fed.Appx. 679
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

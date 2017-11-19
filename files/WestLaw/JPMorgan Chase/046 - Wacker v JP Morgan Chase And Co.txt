@@ -1,0 +1,210 @@
+
+
+
+
+
+Wacker v. JP Morgan Chase & Co
+United States Court of Appeals, Second Circuit. | February 1, 2017 | 678 Fed.Appx. 27 | 2017 WL 442366
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Harry v. Total Gas & Power North America, Inc., S.D.N.Y., March 27, 2017
+
+standard Citation:
+
+Wacker v. JP Morgan Chase & Co, 678 F. App’x 27 (2d Cir. 2017)
+
+All Citations:
+
+678 Fed.Appx. 27
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Harry v. Total Gas & Power North America, Inc., S.D.N.Y., March 27, 2017
+678 Fed.Appx. 27
+This case was not selected for publication in West’s Federal Reporter.
+RULINGS BY SUMMARY ORDER DO NOT HAVE PRECEDENTIAL EFFECT. CITATION TO A SUMMARY ORDER FILED ON OR AFTER JANUARY 1, 2007, IS PERMITTED AND IS GOVERNED BY FEDERAL RULE OF APPELLATE PROCEDURE 32.1 AND THIS COURT’S LOCAL RULE 32.1.1. WHEN CITING A SUMMARY ORDER IN A DOCUMENT FILED WITH THIS COURT, A PARTY MUST CITE EITHER THE FEDERAL APPENDIX OR AN ELECTRONIC DATABASE (WITH THE NOTATION “SUMMARY ORDER”). A PARTY CITING A SUMMARY ORDER MUST SERVE A COPY OF IT ON ANY PARTY NOT REPRESENTED BY COUNSEL.
+United States Court of Appeals,
+Second Circuit.
+Thomas WACKER, Mark Grumet, Daniel Shak, Shk Diversified, LLC Plaintiffs-Appellants,
+v.
+JP MORGAN CHASE & CO, J.P. Morgan Clearing Corp., J.P. Morgan Securities, LLC, J.P. Morgan Futures, Inc., Merged With an Into J.P. Morgan Securities, LLC, Defendants-Appellees.
+16-2482-cv (L)
+|
+16-2484-cv (CON)
+|
+16-2530-cv(CON)
+|
+February 1, 2017
+Synopsis
+Background: Commodities traders brought consolidated actions against market makers, alleging that market makers manipulated prices in silver futures spread market to benefit their positions and drive traders out of the market. The United States District Court for the Southern District of New York, Paul A. Engelmayer, J., 2016 WL 3637105, dismissed traders’ state and federal antitrust claims. Traders appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] traders sufficiently pleaded facts that could plausibly give rise to inference of anticompetitive conduct in the market, as required to state monopolization claims under the Sherman Act and New York law, and
+ 
+[2] District Court engaged in impermissible fact-finding at pleading stage by choosing benchmark for determining proper levels for bid/ask spreads for long-dated silver futures market.
+ 
+Vacated and remanded.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Antitrust and Trade RegulationParticular Industries or Businesses
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(E)Particular Industries or Businesses
+29Tk670In general
+
+
+Commodities traders sufficiently pleaded facts that could plausibly give rise to inference of anticompetitive conduct in silver futures spread market, as required to state monopolization claims under the Sherman Act and New York law, where traders’ allegations identified specific transactions and dates on which defendants allegedly submitted bid/asks that exceeded alleged value of silver futures’ economic outputs, and traders alleged that defendants intended to rig the market at their counterparties’ expense by placing uneconomic bids. Sherman Act § 2, 15 U.S.C.A. § 2; N.Y. General Business Law § 340.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+Federal Civil ProcedureFact issues
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1827Determination
+170Ak1831Fact issues
+
+
+District Court engaged in impermissible fact-finding by objecting to commodities traders’ use of 12-month Silver Indicative Forward Mid Rates (SIFO) as benchmark for determining proper levels for bid/ask spreads for long-dated silver futures market, on defendants’ motion to dismiss traders’ monopolization claims under the Sherman Act and New York law, alleging that defendants manipulated prices in silver futures spread market to benefit their positions and drive traders out of the market; choice of benchmark involved inherently fact-intensive inquiry into relationship between benchmark and market it allegedly tracked.
+2 Cases that cite this headnote
+
+
+
+*28 Appeal from the judgment of the United States District Court for the Southern District of New York (Paul A. Engelmayer, Judge).
+UPON CONSIDERATION WHEREOF, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the District Court is VACATED and REMANDED for further proceedings.
+Attorneys and Law Firms
+FOR PLAINTIFFS-APPELLANTS: DAVID E. KOVEL (Andrew M. McNeela, on the brief), Kirby McInerney LLP, New York, NY
+FOR DEFENDANTS-APPELLEES: AMANDA F. DAVIDOFF (Daryl A. Libow, Nicholas M. DiCarlo, on the brief), Sullivan & Cromwell LLP, Washington, DC Akash M. Toprani, Sullivan & Cromwell LLP, New York, NY
+PRESENT: José A. Cabranes, Rosemary S. Pooler, Gerard E. Lynch, Circuit Judges.
+
+
+SUMMARY ORDER
+Thomas Wacker, et al. (“Plaintiffs”) seek review of the June 29, 2016 District Court Opinion and Order, dismissing Plaintiffs’ state and federal antitrust claims against JPMorgan Chase & Co., et al. (“Defendants”) with prejudice pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure. On appeal, Plaintiffs argue that the District Court erred in holding that they failed to state a claim for monopolization under Sherman Act § 2 and New York General Business Law (“NY GBL”) § 340.1 We assume the parties’ familiarity with the underlying facts, the procedural history of the case, and the issues on appeal.
+ 
+* * *
+ 
+This Court reviews de novo a district court’s dismissal under Rule 12(b)(6) of the Federal Rules of Civil Procedure. See, e.g., Apotex Inc. v. Acorda Therapeutics, Inc., 823 F.3d 51, 59 (2d Cir. 2016). “To survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (internal quotation marks omitted); see also  *29 Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007). A claim has “facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.” Iqbal, 556 U.S. at 678, 129 S.Ct. 1937.
+ 
+A claim for monopolization under § 2 of the Sherman Act requires a plaintiff to allege: “(1) the possession of monopoly power in the relevant market and (2) the willful acquisition or maintenance of that power as distinguished from growth or development as a consequence of a superior product, business acumen, or historic accident.” PepsiCo, Inc. v. Coca–Cola Co., 315 F.3d 101, 105 (2d Cir. 2002) (quoting United States v. Grinnell Corp., 384 U.S. 563, 570-71, 86 S.Ct. 1698, 16 L.Ed.2d 778 (1966)) (internal quotation marks omitted). “[T]he possession of monopoly power will not be found unlawful unless it is accompanied by an element of anticompetitive conduct.” Verizon Commc’ns Inc. v. Law Offices of Curtis V. Trinko, LLP, 540 U.S. 398, 407, 124 S.Ct. 872, 157 L.Ed.2d 823 (2004) (emphasis in original). A plaintiff therefore must prove that the defendant “willfully acquired or maintained its power, thereby causing unreasonable exclusionary or anticompetitive effects.” Trans Sport, Inc. v. Starter Sportswear, Inc., 964 F.2d 186, 188 (2d Cir.1992) (internal quotation marks and citation omitted). To support that allegation, a plaintiff must also plead antitrust injury, i.e., an “injury of the type the antitrust laws were intended to prevent and that flows from that which makes defendants’ acts unlawful.” Atl. Richfield Co. v. USA Petroleum Co., 495 U.S. 328, 334, 110 S.Ct. 1884, 109 L.Ed.2d 333 (1990).2
+ 
+* * *
+ 
+[1]The District Court concluded that Plaintiffs failed plausibly to allege the element of “willful acquisition or maintenance of monopoly power” or “anticompetitive conduct” as required to state a claim under Sherman Act § 2 and NY GBL § 340. Shak v. JPMorgan Chase & Co. et al., Nos. 15 Civ. 992, 15 Civ. 994, 15 Civ. 995, 2016 WL 3637105, at *10 (S.D.N.Y. June 29, 2016) (hereinafter “District Court Opinion”); see also Shak v. JPMorgan Chase & Co., 156 F.Supp.3d 462, 490 (S.D.N.Y. 2016). Specifically, it held that Plaintiffs did not sufficiently plead that Defendants intended to rig the market at their counterparties’ expense, or that Defendants made “uneconomic bids” in the first instance. We disagree.
+ 
+First, the District Court demanded a level of detail not required to withstand a motion to dismiss pursuant to Fed. R. Civ. P. Rule 12(b)(6). We have held that “a complaint attacked by a Rule 12(b)(6) motion to dismiss does not need detailed factual allegations.” Starr v. Sony BMG Music Entm’t, 592 F.3d 314, 321 (2d Cir. 2010) (internal quotation marks omitted). A plaintiff need only allege enough facts “to raise a right to relief above the speculative level,” and “state a claim to relief that is plausible on its face.” Id. (internal quotation marks omitted). Moreover, “there is no heightened pleading standard in antitrust cases.” Concord Assocs., L.P. v. Entm’t Properties Trust, 817 F.3d 46, 52 (2d Cir. 2016). The District Court held that Plaintiffs’ allegations with respect to Defendants’ alleged uneconomic bids lacked specificity because Plaintiffs did not “concretely recite what those bid/asks were... [or] allege the amounts of these artificially tight bids and offers [.]” District Court Opinion, 2016 WL 3637105, at *4; see also *30 App’x at 454, 554, 655. However, Plaintiffs specify fourteen days on which Defendants allegedly submitted bid/asks that exceeded the alleged value of the silver futures’ economic outputs. We have held that “willingness to forsake short-term profits to achieve an anticompetitive end is indicative of anticompetitive behavior.” New York ex rel. Schneiderman v. Actavis PLC, 787 F.3d 638, 659 (2d Cir. 2015) (internal quotation marks omitted). Accepting all of Plaintiffs’ alleged facts as true, the stated dates and transactions are sufficiently detailed to allege exclusionary conduct at this stage of the proceedings.
+ 
+At the pleading stage, Plaintiffs also need not state “the identity of the JP Morgan’s counterparties, or the amount of the alleged outsized profit that JP Morgan reaped,” as the District Court demanded. District Court Opinion, 2016 WL 3637105, at *10. They need only “raise a reasonable expectation that discovery will reveal evidence of illegality.” Mayor & City Council of Baltimore, Md. v. Citigroup Inc., 709 F.3d 129, 135 (2d Cir. 2013). Plaintiffs’ allegation that Defendants attempted to influence the price settlement committee by placing uneconomic bids speaks to anticompetitive intent. Accordingly, we hold that Plaintiffs adequately pleaded “willful acquisition or maintenance of monopoly power” to sustain an antitrust claim.3
+ 
+[2]Second, the District Court engaged in impermissible fact-finding by objecting to Plaintiffs’ use of the twelve-month Silver Indicative Forward Mid Rates (SIFO) as a benchmark for determining proper levels for the bid/ask spreads for the long-dated silver futures market. The District Court stated that Plaintiffs failed “both to explain why SIFO should track silver future spreads, and to concretely plead that it did so consistently.” District Court Opinion, 2016 WL 3637105, at *9 (emphasis omitted). While the District Court may well be proven correct at a later stage of this litigation, our precedents caution against assessing the choice of a benchmark at the pleading stage because it involves an inherently fact-intensive inquiry into the relationship between the benchmark and the market it allegedly tracks. “Fact-specific questions cannot be resolved on the pleadings.” Anderson News, L.L.C. v. Am. Media, Inc., 680 F.3d 162, 185 (2d Cir. 2012) (internal quotation marks and alterations omitted). The District Court thus erred in rejecting Plaintiffs’ use of SIFO as a benchmark at the pleading stage.
+ 
+Finally, the District Court concluded that the plaintiffs adequately alleged monopoly power by pleading direct evidence of JP Morgan’s ability to control silver futures prices “with reference to a particular market.” Heerwagen v. Clear Channel Commc’ns, 435 F.3d 219, 229 (2d Cir. 2006). See City of N.Y. v. Grp. Health Inc., 649 F.3d 151, 155 (2d Cir. 2011) (holding that, at the pleadings stage, “a plaintiff must allege a plausible relevant market in which competition will be impaired”). JP Morgan argues that the district court erred in accepting, at the motion to dismiss stage, the Plaintiffs’ proposed market of long-dated silver futures contracts. “Because market definition is a deeply fact-intensive inquiry, courts hesitate to grant motions to dismiss for failure to plead a *31 relevant product market.” Todd v. Exxon Corp., 275 F.3d 191, 199–200 (2d Cir. 2001); see also Concord Assocs., L.P., 817 F.3d at 53 (same). Thus, the District Court did not err in concluding that the Plaintiffs plausibly alleged a relevant market. The District Court is free, however, to reassess the monopoly power issue at a later stage of litigation based on information that will become available during discovery.
+ 
+
+CONCLUSION
+Based on the foregoing, we hold that the District Court erred in dismissing the Plaintiffs’ state and federal antitrust claims. The judgment of the District Court is VACATED and REMANDED for further proceedings consistent with this order.
+ 
+All Citations
+678 Fed.Appx. 27
+Footnotes
+
+1
+
+Section 2 of the Sherman Act provides:
+Every person who shall monopolize, or attempt to monopolize, or combine or conspire with any other person or persons, to monopolize any part of the trade or commerce among the several States, or with foreign nations, shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $100,000,000 if a corporation, or, if any other person, $1,000,000, or by imprisonment not exceeding 10 years, or by both said punishments, in the discretion of the court.
+15 U.S.C. § 2. Section 4 of the Clayton Act confers standing on any private plaintiff “who shall be injured in his business or property by reason of anything forbidden in the antitrust laws” and provides for treble damages. 15 U.S.C. § 15(a).
+NY GBL § 340 is a state law analog of the Sherman Act. See, e.g., Williams v. Citigroup Inc., 659 F.3d 208, 211 n.2 (2d Cir. 2011) (“The Donnelly Act [NY GBL § 340], New York’s antitrust statute, was modeled on the Sherman Act and has generally been construed in accordance with federal precedents.”). While we focus our analysis on the federal antitrust claims, our holding applies with equal force to the state law antitrust claims.
+
+2
+
+After determining that Plaintiffs failed adequately to plead willful acquisition or maintenance of monopoly power through anticompetitive conduct, the District Court declined to reach the question of whether the complaint stated an antitrust injury. See Gatt Commc’ns, Inc. v. PMC Assoc., LLC, 711 F.3d 68, 75–78 (2d Cir. 2013). We leave it to the District Court to decide the antitrust injury issue in the first instance on remand.
+
+3
+
+The parties disagree whether a “predatory bidding” theory of anticompetitive conduct should be extended to non-manufacturing contexts. See, e.g., Weyerhaeuser Co. v. Ross–Simmons Hardwood Lumber Co., Inc., 549 U.S. 312, 322, 127 S.Ct. 1069, 166 L.Ed.2d 911 (2007) (finding anticompetitive intent where the defendants “deliberate[ly] us[ed] [ ] unilateral pricing measures for anticompetitive purposes ... [and] incurr[ed] short-term losses in order to reap supracompetitive profits in the future” (internal foot note omitted)). As the District Court rightly noted, we need not decide whether the Weyerhaeuser framework is applicable at the pleading stage.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Harry v. Total Gas & Power North America, Inc. 
+244 F.Supp.3d 402 , S.D.N.Y.
+ANTITRUST - Monopolies. Putative class action plaintiffs were not efficient enforcers of the antitrust laws, as required for antitrust standing.
+Mar. 27, 2017
+Case
+
+2
+
+
+
+
+Fed.Appx.
+
+

@@ -1,0 +1,184 @@
+
+
+ 
+
+
+Wells Fargo Bank, N.A. v. Old Republic Title Ins. Co.
+United States Court of Appeals, Fourth Circuit. | March 1, 2011 | 413 Fed.Appx. 569 | 2011 WL 703475
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wells Fargo Bank, N.A. v. Old Republic Title Ins. Co., 413 F. App’x 569 (4th Cir. 2011)
+
+All Citations:
+
+413 Fed.Appx. 569, 2011 WL 703475
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Virginia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:01 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+413 Fed.Appx. 569
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Fourth Circuit Rule 32.1 (Find CTA4 Rule 32.1)
+United States Court of Appeals,
+Fourth Circuit.
+WELLS FARGO BANK, N.A., Plaintiff–Appellant,
+v.
+OLD REPUBLIC TITLE INSURANCE COMPANY, Defendant–Appellee.
+No. 10–1087.
+|
+Argued: Jan. 27, 2011.
+|
+Decided: March 1, 2011.
+Synopsis
+Background: Bank sued title insurer, seeking to recover value of 17 worthless mortgages that it bought in secondary mortgage market and alleging, inter alia, breach of contract, business conspiracy in violation of state statute, common-law civil conspiracy, fraud, violations of Virginia’s Wet Settlement Act, and negligence. The United States District Court for the Eastern District of Virginia, Claude M. Hilton, Senior District Judge, 2009 WL 4927145, granted summary judgment for insurer. Bank appealed.
+ 
+Holding: The Court of Appeals held that provisions of agency agreement between title insurer and title agent did not conflict, so as to render agreement ambiguous.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+InsuranceContracts
+
+
+217Insurance
+217XIAgents and Agency
+217XI(C)Agents for Insurers
+217k1632Scope and Extent of Agency
+217k1634Contracts
+217k1634(1)In general
+
+
+Two provisions of agency agreement between title insurer and title agent did not conflict, so as to render agreement ambiguous, but served separate, complementary ends, where one provision required title agent to record documents “necessary to insure the interest,” not every document necessary to close transaction, and was intended to minimize risk of loss under title insurance policies, rather than create general agency relationship capturing all of title agent’s settlement activities, and, under other provision, title insurer unequivocally withheld consent for title agent to act as its agent when performing “any escrow, closing or settlement services,” limiting title agent’s agency duties.
+1 Cases that cite this headnote
+
+
+
+*570 Appeal from the United States District Court for the Eastern District of Virginia, at Alexandria. Claude M. Hilton, Senior District Judge. (1:09–cv–00297–CMH–TRJ).
+Attorneys and Law Firms
+ARGUED: August J. Matteis, Jr., GILBERT, LLP, Washington, D.C., for Appellant. F. Douglas Ross, II, Odin, Feldman & Pittleman, PC, Fairfax, Virginia, for Appellee. ON BRIEF: William E. Copley, Gilbert, LLP, Washington, D.C., for Appellant.
+Before WILKINSON, MOTZ, and DUNCAN, Circuit Judges.
+Opinion
+Affirmed by unpublished PER CURIAM opinion.
+Unpublished opinions are not binding precedent in this circuit.
+PER CURIAM:
+
+**1 In this diversity action, Wells Fargo Bank, N.A. seeks to recover from Old Republic Title Insurance Company the value of seventeen worthless mortgages it purchased from Financial Mortgage, Inc. (“FMI”) in the secondary mortgage market. Wells Fargo contends that (1) TitlePro, Inc. acted as Old Republic’s agent when it fraudulently closed the real estate transactions underlying Wells Fargo’s mortgages and (2) Old Republic contractually agreed to indemnify Wells Fargo for its losses. The district court granted summary judgment to Old Republic. We affirm.
+ 
+
+I.
+Wells Fargo is a national banking association that purchases roughly 500,000 mortgage-secured loans every year. This lawsuit grows out of a fraudulent scheme perpetrated by FMI and its owner, Vijay Taneja, on Wells Fargo.1 FMI was in the business of originating mortgages. It drew on warehouse lines of credit offered by several financial institutions. After the warehouse lenders advanced funds to FMI for a mortgage loan, FMI then resold the mortgages to secondary investors, used the proceeds to pay back the warehouse lenders, and thereby replenished its lines of credit.
+ 
+Beginning May 2004, Wells Fargo entered into a Loan Purchase Agreement with FMI, agreeing to purchase from FMI numerous residential mortgage loans secured by a note and deed of trust on real property. The investments Wells Fargo purchased from FMI failed at their inception, because FMI, through Taneja, misrepresented to Wells Fargo that the mortgages were recorded in Virginia’s public records system and provided Wells Fargo with first and exclusive priority over all other creditors. Wells Fargo eventually *571 discovered the bitter reality. Contrary to the requirements in Wells Fargo’s Loan Purchase Agreement with FMI, the mortgages sold to Wells Fargo were not recorded nor free from the prior liens. This deficiency left Wells Fargo in an unsecured and/or subordinate position on these loans.
+ 
+To cover the losses arising from the seventeen loans at issue here, Wells Fargo brought this action against the title insurer on these loans, Old Republic. Wells Fargo seeks to hold Old Republic responsible, not for Old Republic’s own misdeeds, but for the fraudulent settlement activities of one of Old Republic’s title agents.
+ 
+That title agent, TitlePro, is a title company owned and operated by Kamran Kahn. As relevant here, the Agency Agreement between Old Republic and TitlePro provides:
+1. APPOINTMENT OF AGENT
+Insurer [Old Republic] appoints Agent [TitlePro] a policy issuing agent for Insurer for the purpose of signing, countersigning and issuing commitments, binders, title reports, certificates, guarantees, title insurance policies, endorsements, and other agreements under which Insurer assumes liability for the condition of title ...
+2. AGENT’S DUTIES
+Agent shall:
+...
+C. Timely transmit to the appropriate public office and cause the recording of all documents necessary to insure the interest, estate or title described in the policy, and to timely issue appropriate Title Insurance Forms.
+**2 ...
+F. Keep safely in a federally insured trust account separate from Agent’s operating accounts all funds received by Agent in connection with transactions where Insurer’s Title Insurance Forms are issued, and disburse said funds only for the purposes for which the same were entrusted, and reconcile all such accounts not less frequently than monthly.
+ 
+The Agency Agreement also recognizes that, on some occasions, TitlePro might serve as a settlement agent. When TitlePro performed these services, the Agency Agreement expressly prohibits TitlePro from acting as an agent of Old Republic:
+12. ESCROWS AND OTHER BUSINESS OF AGENT
+A. The relationship created by this Agreement does not extend to (1) any escrow, closing or settlement business ... conducted by Agent and/or Agent’s Principals, employees or Subcontractors ... or (3) to any other activity of Agent ... that does not involve the Insurer’s assumption of liability for the condition of title.
+B. Agent agrees not to receive or receipt for any fund, including escrow funds, in the name of Insurer but, rather, shall receive and receipt for funds, including escrow funds, for its own account.
+ 
+For the transactions at issue here, TitlePro and FMI worked in tandem to defraud warehouse lenders, ultimately resulting in losses to Wells Fargo. After FMI secured a buyer of land or a refinancing opportunity, it sent the necessary mortgage documents to TitlePro, the appointed settlement agent. TitlePro then used the loan documents to create the appearance of loan closings, including completing a HUD–1 Settlement Statement detailing the actual settlement costs for each settlement activity. This consequently allowed TitlePro to obtain funds from FMI’s warehouse lenders (which did not include Wells Fargo). After obtaining the funds, TitlePro violated its settlement instructions, failing to use those funds to clear title or pay off pre-existing deeds of trust, and *572 instead transferred the funds to FMI. For many transactions, FMI also created multiple unrecorded “first” mortgages on each property by having borrowers sign multiple sets of “original” loan documents at closing.
+ 
+After FMI fabricated the notes, it sold these unrecorded “first” mortgages to several secondary investors, including Wells Fargo. In each of the seventeen transactions, FMI failed (1) to disclose the existence of other “first” mortgage’s with prior liens to purchasers of these mortgages and (2) to record the mortgages it subsequently sold. Wells Fargo dealt with FMI exclusively, sending payment for the notes directly to FMI’s accounts. It did not interact with TitlePro or Old Republic in any way.
+ 
+In the first transaction, Taneja refinanced his Summit Drive home for $2,950,000, borrowing funds from FMI. The HUD–1 listed TitlePro as the settlement agent and required TitlePro to pay off the prior deed of trust in favor of BB & T Bank. After retrieving funds from a warehouse lender, TitlePro applied them to release the prior deed of trust from record. It also properly recorded the deed of trust in favor of FMI. After the closing, Taneja fabricated numerous other $2,950,000 notes and deeds of trust, selling one to Wells Fargo. TitlePro possessed only the original documents in its files, not the other falsified instruments. No deed of trust on the Summit Drive property secured the note purchased by Wells Fargo because the deed of trust in the public records secured a note with an interest rate of 6.25%, not Wells Fargo’s note with an interest rate of 6.375%. Taneja admitted to perpetrating this fraud on his own, without the assistance of TitlePro.
+ 
+**3 The next transaction involved a refinance of a property on Poland Road. The owners obtained two loans from FMI in the amount of $613,600 and $115,050. The HUD–1 required the first loan to pay off two prior deeds of trust in favor of Bank of America. TitlePro did in fact pay off those deeds of trust, releasing their hold on the property. The HUD–1 also required TitlePro to disburse the second loan to the borrowers. TitlePro did so and recorded the deeds of trust securing both notes. Old Republic issued a Commitment letter for this property, which required a Credit Line Deed of Trust securing $4,345,000 to be paid off and released of record. Because the borrowers did not borrow enough money, and not because of TitlePro’s mishandling of the funds, this condition remained unsatisfied, and the insurance policy never issued. Taneja, through FMI, fabricated duplicated mortgage notes for these loans and sold them to Wells Fargo.
+ 
+The next fourteen transactions followed a different scheme.2 In each of these transactions, TitlePro filled out a HUD–1 settlement statement and received loan proceeds from the warehouse lender. The HUD–1 Settlement Statements required TitlePro to use these funds to pay off the prior deeds of trust on the properties. For all these transactions, TitlePro failed to pay the prior deeds of trust and release them of record. TitlePro also failed to record the new deeds of trust in favor of *573 FMI that “secured” the notes eventually sold to Wells Fargo. Because Old Republic’s Commitment letters required the prior deeds to be “paid and released of record” as a condition of issuing the title insurance policies, Old Republic did not issue policies on these transactions.
+ 
+For some of these transactions, Old Republic also issued a standard-form closing protection letter (“CPL”), agreeing to reimburse FMI and its successors for losses arising out of an issuing agent’s misconduct in closing a transaction, including:
+1. Failure of the Issuing Agent or Approved Attorney to comply with your written closing instructions to the extent that they relate to (a) the status of the title by said interest in land or the validity, enforceability and priority of the lien of said mortgage on said interest for land, including the obtaining of documents the disbursement of funds necessary to establish such status of title or lien.
+2. Fraud or dishonesty of the issuing Agent or Approved Attorney in handling your funds or documents in connection with such closings ...
+Wells Fargo now possesses the seventeen worthless notes in its residential mortgage portfolio, all of which are presently in default.
+ 
+
+II.
+On March 18, 2009, Wells Fargo filed this action against Old Republic, alleging six claims: (1) breach of contract; (2) a business conspiracy in violation of § 18.2–499 of the Virginia Code; (3) common law civil conspiracy; (4) fraud; (5) violations of Virginia’s Wet Settlement Act, Va.Code Ann. § 6.1–2.13; and (6) negligence. For all but the breach of contract claims, Wells Fargo alleged that TitlePro acted as Old Republic’s agent when it closed the disputed transactions.
+ 
+**4 Properly applying Virginia law, the district court granted summary judgment to Old Republic. First, it rejected Wells Fargo’s contention that Virginia’s Consumer Real Estate Settlement Protection Act (“CRESPA”) made Old Republic liable, reasoning that CRESPA does no more than authorize non-attorneys, including title agents, who meet specific statutory conditions to serve as settlement agents, Va.Code Ann. § 55–525.19 (2011). Second, the district court held that TitlePro did not have actual agency authority because the Agency Agreement explicitly prohibited TitlePro from acting as a settlement agent on Old Republic’s behalf. Third, in accord with Virginia law, the district court rejected Wells Fargo’s theory of apparent authority, reasoning that Wells Fargo did not reasonably rely on Old Republic’s conduct or statements allegedly cloaking TitlePro with apparent authority to act as a settlement agent on Old granted summary judgment to Old Republic on the conspiracy, Wet Settlement Act, and fraud claims. Finally, the court rejected the breach of contract claim, reasoning that Old Republic could assert the same defenses against Wells Fargo as it could against the assignor of the contract, FMI, and one such defense—fraud—shielded it from contractual liability.3 Thus, the district court granted summary judgment to Old Republic on all claims.
+ 
+
+III.
+Wells Fargo noted a timely appeal. On appeal, Wells Fargo argues that (1) an assertedly “ambiguous” agency agreement *574 and Old Republic’s course of conduct raise genuine issues of material fact as to the scope of TitlePro’s agency; (2) the district court misinterpreted CRESPA; (3) TitlePro furthered the conspiracy by issuing title insurance instruments, as authorized by Old Republic, thus making the latter liable in conspiracy; (4) a provision in Old Republic’s title insurance policy absolved Wells Fargo (an innocent purchaser for value) of any fraud-based defenses Old Republic may have against FMI. We review a grant of summary judgment de novo, examining the facts in the light most favorable to the nonmoving party. See Anderson v. Russell, 247 F.3d 125, 129 (4th Cir.2001).
+ 
+After having the benefit of oral argument and carefully reviewing the briefs, record, and controlling legal authorities, we conclude that the district court’s analysis was correct. We note that at oral argument before us, Wells Fargo vigorously contended that Section 2 of the Agency Agreement conflicts with Section 12, thus rendering the agreement ambiguous. Wells Fargo, however, is mistaken.
+ 
+The two provisions of the Agency Agreement do not conflict, but rather serve separate, but complementary ends. On one hand, Section 2 requires TitlePro to record documents “necessary to insure the interest,” not every document necessary to close the transaction. The primary purpose of this settlement-like duty is to “minimize the risk of loss under the title insurance policies,” not create a general agency relationship capturing all the agent’s settlement activities. Fidelity Nat’l Title Ins. Co. v. Mussman, 930 N.E.2d 1160, 1168 (Ind.Ct.App.2010). On the other hand, in Section 12, Old Republic unequivocally withholds consent for TitlePro to act as an agent when TitlePro performs “any escrow, closing or settlement” services (emphasis added). Courts throughout the country, including those interpreting Virginia law, agree that such an express limitation on agency duties controls. See, e.g., First Am. Title Ins. Co. v. First Alliance Title, Inc., 718 F.Supp.2d 669 (E.D.Va.2010); see also Bluehaven Funding, LLC v. First Am. Title Ins. Co., 594 F.3d 1055 (8th Cir.2010); Northeast Credit Union v. Chicago Title Ins. Co., No. 09–cv–71–PB, 2010 WL 4851075 (D.N.H. Nov. 23, 2010); Proctor v. Metro. Money Store Corp., 579 F.Supp.2d 724 (D.Md.2008); Fidelity Nat’l Title Ins. Co., 930 N.E.2d 1160; Business Bank of St. Louis v. Old Republic Nat’l Title Ins. Co., 322 S.W.3d 548 (Mo.Ct.App.2010).
+ 
+**5 Accordingly, we affirm on the basis of the district court’s well reasoned opinion. See Wells Fargo Bank, N.A. v. Old Republic Nat’l Title Ins. Co., No. 01:09–cv–297 (E.D.Va. Dec. 17, 2009).
+ 
+AFFIRMED.
+ 
+All Citations
+413 Fed.Appx. 569, 2011 WL 703475
+Footnotes
+
+1
+
+On November 13, 2008, Taneja pled guilty to one count of conspiracy to commit money laundering in violation of federal law and received a sentence of 84 months imprisonment, to be followed by three-years of supervised release.
+
+2
+
+These transactions involved fourteen properties with one note each: 15903 Carroll Ave., 20251 Mohegan Dr., 2524 Hilda’s Way, 13997 Sawteeth Way, 2247 Christy Pl., 3375 Oakham Mount Dr., 14763 Winding Loop, 12547 Armada Pl., 9671 Janet Rose Ct., 3446 Caledonia Circle, 2827 Wakewater Way, 17588 Victoria Falls Dr., 7918 Edinburgh Dr., and 15009 Lutz Ct. Wells Fargo did not come forward with a Commitment for one transaction, 3375 Oakham Mount Dr. The lack of a Commitment on this property would affect Old Republic’s contractual liability to Wells Fargo, but we need not reach this issue because of our equally applicable reasons for disposing of this claim.
+
+3
+
+The district court also ruled that the negligence claim failed because, in negligence claims, the common law duty protecting person or property does not extend to Wells Fargo’s acquisition of worthless notes. Wells Fargo does not challenge this holding on appeal.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

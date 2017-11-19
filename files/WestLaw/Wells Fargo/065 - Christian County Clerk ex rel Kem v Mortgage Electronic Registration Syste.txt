@@ -1,0 +1,276 @@
+
+
+
+
+
+Christian County Clerk ex rel. Kem v. Mortgage Electronic Registration Systems, Inc.
+United States Court of Appeals, Sixth Circuit. | February 15, 2013 | 515 Fed.Appx. 451 | 2013 WL 565198
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Higgins v. BAC Home Loans Servicing, LP, E.D.Ky., March 31, 2014
+
+standard Citation:
+
+Christian Cty. Clerk ex rel. Kem v. Mortg. Elec. Registration Sys., Inc., 515 F. App’x 451 (6th Cir. 2013)
+
+All Citations:
+
+515 Fed.Appx. 451, 2013 WL 565198
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Kentucky
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:14 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Higgins v. BAC Home Loans Servicing, LP, E.D.Ky., March 31, 2014
+515 Fed.Appx. 451
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 6th Cir. Rule 32.1.
+United States Court of Appeals,
+Sixth Circuit.
+CHRISTIAN COUNTY CLERK, by and through its County Clerk, Michael Kem; Washington County Clerk, by and through its County Clerk, Glenn Black; All Others Similarly Situated, Plaintiffs–Appellants,
+v.
+MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC.; Merscorp, Inc.; Bank of America, N.A.; CCO Mortgage Corporation; Chase Home Mortgage Corporation; Citimortgage, Inc.; Corinthian Mortgage Corporation; Everhome Mortgage Company; GMAC Residential Funding Corporation; Guaranty Bank; HSBC Finance Corporation; Merrill Lynch Credit Corporation; Nationwide Advantage Mortgage Company; Suntrust Mortgage, Inc.; JP Morgan Chase & Co.; Wells Fargo Bank, N.A.; WMC Mortgage Corp., Defendants–Appellees.
+No. 12–5237.
+|
+Feb. 15, 2013.
+Synopsis
+Background: County clerks brought action against national electronic mortgage registry and financial institutions, alleging violation of Kentucky statute requiring that mortgage assignments be filed for recording with the county clerk’s office. Defendants moved to dismiss for failure to state a claim. The United States District Court for the Western District of Kentucky, 2012 WL 566807,granted motion. Clerks appealed.
+ 
+Holdings: The Court of Appeals, Helene N. White, Circuit Judge, held that:
+ 
+[1] clerks had Article III standing to bring action, but
+ 
+[2] clerks had no private right of action for defendants’ alleged violation of statute requiring recording of mortgage assignments.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Mortgages and Deeds of TrustPersons entitled to sue;  standing;  parties
+
+
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1645Persons entitled to sue;  standing;  parties
+(Formerly 266k265)
+
+
+County clerks had Article III standing to bring action alleging national electronic mortgage registry and financial institutions violated Kentucky statute requiring that mortgage assignments be filed for recording with the county clerk’s office, where clerks alleged such violations deprived them of fees and interfered with their duties as custodians of property records. U.S.C.A. Const. Art. 3, § 2, cl. 1; KRS 446.070.
+11 Cases that cite this headnote
+
+
+
+[2]
+
+ActionStatutory rights of action
+Mortgages and Deeds of TrustPersons entitled to sue;  standing;  parties
+Mortgages and Deeds of TrustNecessity
+
+
+13Action
+13IGrounds and Conditions Precedent
+13k3Statutory rights of action
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1645Persons entitled to sue;  standing;  parties
+(Formerly 266k216)
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1422Recording and Registration
+266k1424Necessity
+(Formerly 266k231)
+
+
+County clerks had no private right of action against national electronic mortgage registry and financial institutions for their alleged violation of Kentucky statute requiring that mortgage assignments be filed for recording with the county clerk’s office. KRS 446.070.
+15 Cases that cite this headnote
+
+
+
+*452 On Appeal from the United States District Court for the Western District of Kentucky.
+Before: KETHLEDGE and WHITE, Circuit Judges; and LUDINGTON, District Judge.*
+Opinion
+HELENE N. WHITE, Circuit Judge.
+
+**1 Plaintiffs Michael Kem and Glenn Black, the county clerks of Christian and Washington Counties, Kentucky (the Clerks), appeal the district court’s dismissal of their complaint against Mortgage Electronic Registration Systems, Inc. (MERS), its parent company, and fifteen financial institutions (collectively, Defendants). The district court held that the Clerks have no private right of action against Defendants for their alleged violation of Ky.Rev.Stat. Ann. § 382.360(3), which requires that mortgage assignments be filed for recording with the county clerk’s office. We AFFIRM.
+ 
+
+I.
+MERS is a privately-held company that operates a national electronic registry to track servicing rights and ownership of mortgage loans in the United States.
+The MERS system purportedly operates as follows: When a home is purchased, the lender obtains from the borrower a promissory note and a mortgage instrument naming MERS as the mortgagee (as nominee for the lender and its successors and assigns). In the mortgage, the borrower assigns his right, title, and interest in the property to MERS, and the mortgage instrument is then recorded in the local land records with MERS as the named mortgagee. When the promissory note is sold (and possibly re-sold) in the secondary mortgage market, the MERS database tracks that transfer. As long as the parties involved in the sale are MERS members [as are most large financial institutions], MERS remains the mortgagee of record (thereby avoiding recording and other transfer fees that are otherwise associated with the sale) and continues to act as an agent for the new owner of the promissory note.
+In re MERS Litig., 659 F.Supp.2d 1368, 1370 n. 6 (U.S.Jud.Pan.Mult.Lit.2009).
+ 
+The Clerks filed this putative class action1 against Defendants, principally alleging that Defendants established MERS to enable its members to avoid recording mortgage assignments and paying the associated *453 recording fees to the county clerks. According to the Clerks, Defendants—through their participation in MERS—are engaged in an ongoing scheme in violation of Ky.Rev.Stat. Ann. § 382.360(3). The Clerks assert that when a promissory note is secured by a mortgage, the assignment of the note (as per the MERS system) also passes the mortgage by which it is secured (PID 8–9), thus requiring Defendants to record assignments with the clerk’s office. Based on these allegations, the Clerks claim that Defendants: (1) negligently or willfully violated section 382.360; (2) are engaged in a civil conspiracy to violate section 382.360; and (3) have been unjustly enriched by their actions at the Clerks’ expense. The Clerks seek damages to recover unpaid recording fees and an injunction ordering Defendants to cease their practice of not recording mortgage assignments.
+ 
+On Defendants’ motions, the district court dismissed the action under Federal Rule of Civil Procedure 12(b)(6) for failure to state a claim. Christian Cnty. Clerk v. MERS, No. 5:11–cv–00072–M, 2012 WL 566807 (W.D.Ky. Feb. 21, 2012). Without reaching the merits, the district court held that although the Clerks have Article HI standing to bring this action since they alleged an injury to their financial interests, they did not have a private right of action under Kentucky law to sue Defendants. The Clerks filed this timely appeal.
+ 
+
+II.
+**2 Defendants Corinthian Mortgage Corporation (Corinthian) and GMAC Residential Funding Corporation (GMAC) filed bankruptcy notices during the pendency of this appeal.2 A bankruptcy petition operates as an automatic stay of “the commencement or continuation, including the issuance or employment of process, of a judicial, administrative, or other action or proceeding against the debtor.” 11 U.S.C. § 362(a)(1). Thus, this appeal is stayed as to those Defendants. See In re Delta Air Lines, 310 F.3d 953, 956 (6th Cir.2002) (per curiam). We proceed, however, on the merits of this case as to the remaining, solvent Defendants because they do not assert that any “unusual circumstances” justify extending the automatic stay to them. Id. (citations omitted). Nonetheless, because our affirmance of the district court’s judgment as to the remaining Defendants would equally apply to Corinthian and GMAC upon the lifting of the automatic stay, we treat this appeal as effectively discontinued as to Corinthian and GMAC to permit this court’s mandate to issue in the usual course.
+ 
+
+III.
+[1] Defendants argue that the Clerks lack constitutional standing to sue. “[S]tanding is an essential and unchanging part of the case-or-controversy requirement of Article III,” under which: (1) “the plaintiff must have suffered an injury in fact—an invasion of a legally protected interest which is (a) concrete and particularized, and (b) actual or imminent, not conjectural or hypothetical”; (2) “there must be a causal connection between the injury and the conduct complained of,” i.e., “the injury has to be fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court”; and (3) “it must be likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision.” Lujan *454 v. Defenders of Wildlife, 504 U.S. 555, 560–61, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992) (internal citations, alterations, ellipses, and quotation marks omitted). “At the pleading stage, general factual allegations of injury resulting from the defendant’s conduct may suffice” to establish standing. Id. at 561, 112 S.Ct. 2130. When the Lujan Court “used the phrase ‘legally protected interest’ as an element of injury-in-fact, it made clear it was referring only to a ‘cognizable interest,’ ” and the Court “did not mean to suggest a return to the old ‘legal right’ theory of standing rejected in Association of Data Processing Service Organizations, Inc. v. Camp, 397 U.S. 150, 153–54, 90 S.Ct. 827, 25 L.Ed.2d 184 (1970).” Parker v. District of Columbia, 478 F.3d 370, 371 (D.C.Cir.2007), aff’d sub nom., District of Columbia v. Heller, 554 U.S. 570, 128 S.Ct. 2783, 171 L.Ed.2d 637 (2008). “As the Supreme Court clarified in Data Processing, a plaintiff need not have a ‘legal right,’ or a right protected by the law of property, contract, tort, or statute, to suffer injury-in-fact.” Club Italia Soccer & Sports Org. v. Charter Twp. of Shelby, Mich., 470 F.3d 286, 292 (6th Cir.2006) (citation omitted), overruled on other grounds by Engquist v. Or. Dep’t of Agric., 553 U.S. 591, 128 S.Ct. 2146, 170 L.Ed.2d 975 (2008), as recognized in Davis v. Prison Health Servs., 679 F.3d 433, 442 n. 3 (6th Cir.2012).
+ 
+**3 The Clerks allege that Defendants, by establishing and participating in the MERS system, have violated Kentucky law by failing to record mortgage assignments; the Clerks are the official record keepers authorized by law; and MERS unlawfully usurps their state recording system, has deprived their offices of substantial fees, and interferes with their duty to maintain accurate land records. To rectify these alleged wrongs, they seek damages and injunctive relief. At least one district court has found a county court clerk’s similar allegations about the MERS system sufficient to confer constitutional standing given that the clerk in that action, like here, alleged an invasion of his financial and job interests that could be redressed by a favorable judicial decision. See Fuller v. MERS, 888 F.Supp.2d 1257, 1269–70 (M.D.Fla.2012).
+ 
+Defendants, however, advance that the Clerks lack standing because public officers are entitled to recover fees only for services actually rendered under Kentucky law, and the Clerks purportedly have only an official (but no personal) stake in this litigation. Defendants’ first contention—whether the Clerks are entitled to recover fees—goes to the merits of the action, not to whether they have a cognizable interest to bring suit. Defendants’ second contention also fails to suggest that the Clerks lack standing. The Supreme Court has generally held that public officials lack standing to challenge the constitutional validity of a statute when they are not adversely affected by the statute and their interest in the litigation is merely official, rather than personal. See, e.g., Raines v. Byrd, 521 U.S. 811, 829, 117 S.Ct. 2312, 138 L.Ed.2d 849 (1997); Braxton Cnty. Court v. West Virginia, 208 U.S. 192, 197–98, 28 S.Ct. 275, 52 L.Ed. 450 (1908); Smith v. Indiana, 191 U.S. 138, 149, 24 S.Ct. 51, 48 L.Ed. 125 (1903). Here, by contrast, the Clerks do not challenge the constitutionality of any law in a mere official capacity. They allege that Defendants’ acts or omissions deprived them of fees and interfered with their duties as custodians of property records. That the alleged injuries affect their official duties not does not deprive them of standing. See United States ex rel. Chapman v. Fed. Power Comm’n, 345 U.S. 153, 154–56, 73 S.Ct. 609, 97 L.Ed. 918 (1953) (holding that the Secretary of Interior had standing to bring an action challenging the Federal *455 Power Commission’s authority to grant a license for alleged infringement of the Secretary’s duties).
+ 
+
+IV.
+We review de novo a district court’s Rule 12(b)(6) dismissal for failure to state a claim. VIBO Corp. v. Conway, 669 F.3d 675, 683 (6th Cir.2012). “In diversity cases such as this, we apply state law in accordance with the controlling decisions of the state supreme court.” OneBeacon Am. Ins. Co. v. Am. Motorists Ins. Co., 679 F.3d 456, 460 (6th Cir.2012) (citation and quotation marks omitted). “If the state supreme court has not yet addressed the issue presented, we must predict how the court would rule by looking to all the available data.” Id. (citation and quotation marks omitted).
+ 
+
+A.
+**4 When a borrower takes out a home loan, he or she executes two documents in favor of the lender: (1) a promissory note in which the borrower commits to repay the loan; and (2) a mortgage deed that grants the lender a lien on the property as security for the debt under Kentucky law. See Watt’s Adm’r v. Smith, 250 Ky. 617, 63 S.W.2d 796, 800 (1933); cf. Ky.Rev.Stat. Ann. § 355.9–102(1)(bc) & (bm); see generally Restatement (3d) of Property: Mortgages § 1.1 (1997). Kentucky’s statutes address the recording of mortgages and notes in separate provisions. The recording of a note assignment is not required. See Ky.Rev.Stat. Ann. § 382.290(2) (“When any note named in any deed or mortgage is assigned to any other person, the assignor may ... note such assignment in the blank space, or in a marginal entry record [in the county clerk’s office].” (emphasis added)). In 2006, the Kentucky General Assembly amended sections 382.360 and 382.365 to require the recording of mortgage assignments and liens on real property.3 Id. §§ 382.360(3) (“When a mortgage is assigned to another person, the assignee shall file the assignment for recording with the county clerk within thirty (30) days of the assignment[.]”), 382.365(2) (“An assignee of a lien on real property shall record the assignment in the county clerk’s office as required by KRS 382.360.”); see 2006 Ky. Acts, ch. 183 §§ 17–18. Each county clerk may charge a fee for tiling an assignment. See Ky.Rev.Stat. Ann. §§ 64.012(1)(a), 382.290(4).
+ 
+Although a promissory note and mortgage deed are separate legal instruments, the Kentucky courts have long recognized that the assignment of a note secured by a mortgage transfers the interest in the underlying mortgage. See Napier v. Duff, 281 Ky. 779, 136 S.W.2d 1083, 1085 (1939); Drinkard v. George, 237 Ky. 560, 36 S.W.2d 56, 57 (1930); Sec. Inv. Co. of St. Louis v. Harrod Bros., 225 Ky. 12, 7 S.W.2d 492, 493 (1928); accord Ky.Rev.Stat. Ann. § 355.9–203(7) (“The attachment of a security interest in a right to payment or performance secured by a security interest or other lien on personal or real property is also attachment of a security interest in the ... mortgage, or other lien.”); U.C.C. § 9–203(g) (the source of section 355.9–203) cmt. 9 (explaining that the provision codified the common-law rule). The Clerks thus contend that Defendants are obligated to record mortgage assignments when the notes secured by those mortgages are assigned under the MERS system and to pay applicable recording fees.
+ 
+*456 We do not decide whether Defendants are obliged to record assignments when notes are transferred per the MERS system because the Clerks have no private right of action to sue Defendants for any alleged violation of Kentucky’s recording requirements.
+ 
+
+B.
+Under Kentucky law, “the mere violation of a statute does not necessarily create liability[.]” Lewis v. B & R Corp., 56 S.W.3d 432, 438 (Ky.Ct.App.2001). It is undisputed that the Kentucky recording statutes, Ky.Rev.Stat. Ann. §§ 382.360 and 382.365, do not expressly provide the Clerks with a cause of action.4 The Clerks therefore turn to Kentucky’s negligence per se statute, which provides: “A person injured by the violation of any statute may recover from the offender such damages as he sustained by reason of the violation, although a penalty or forfeiture is imposed for such violation.” Ky. Rev. Stat. Ann. § 446.070; see Young v. Carran, 289 S.W.3d 586, 588 (Ky.Ct.App.2008) (“KRS 446.070 codifies the common-law doctrine of ‘negligence per se’ in Kentucky.” (italics omitted)). “If a [Kentucky] statute prohibits specific conduct, but fails to specify a remedy, we may look only to [section] 446.070 to provide it.” Highlands Hosp. Corp. v. Castle, No. 2007–CA–002432–MR, 2010 WL 2787906, at *5 (Ky.Ct.App. July 16, 2010) (citation omitted) (unpublished). As interpreted by Kentucky’s highest court, section 446.070 “creates a private right of action in a person damaged by another person’s violation of any statute that is penal in nature and provides no civil remedy, if the person damaged is within the class of persons the statute intended to be protected.”5 Hargis v. Baize, 168 S.W.3d 36, 40 (Ky.2005) (citations omitted).
+ 
+**5 [2] Although the recording statutes do not provide a civil remedy for the Clerks to pursue alleged violations, thus satisfying the first requirement for the application of section 446.070, the second requirement is not met because the Clerks are not within the class of persons the Kentucky legislature intended to protect under the recording statutes. Considering the overall statutory scheme, see Econ. Optical Co. v. Ky. Bd. of Optometric Exam’rs, 310 S.W.2d 783, 784 (Ky.1958) (explaining that “statutes in pari materia should be construed together”), Kentucky authorities appear to recognize three categories of protected persons: (1) existing lienholders and lenders who record their security interests in the land to give notice of their secured status, see Wells Fargo Fin. Ky., Inc. v. Thomer, 315 S.W.3d 335, 338–39 (Ky.Ct.App.2010); (2) prospective lienholders and purchasers, see Trio Realty Co. v. Queenan, 360 S.W.2d 747, 748–49 (Ky.1962); Creech v. Wis. Steel, Coal & Coke Co., 218 Ky. 306, 291 S.W. 385, 385 (1927); Ky. Op. Atty. Gen., OAG 09–002, 2009 WL 780233 (Mar. 20, 2009); and (3) property owners and borrowers whose loans have been satisfied, see Bank of Am. v. Boone Nat’l *457 Bank, No. 2004–CA–002422–MR, 2006 WL 504999, at *3 (Ky.Ct.App. Mar. 3, 2006) (unpublished); Union Planters Bank, N.A. v. Hutson, 210 S.W.3d 163, 168 (Ky.Ct.App.2006).
+ 
+The Clerks do not fall within these categories of persons. Nevertheless, they argue that they are within the class of persons protected by the recording statutes because they are the officers charged with maintaining property records. First, they emphasize that the terms “clerk” and “county clerk” appear several times in sections 382.360 and 382.365, and they detail their ministerial duties under Kentucky law. However, that the law charges them as the custodians of property records does not establish that the Kentucky legislature intended to protect them. Under the Clerks’ rationale, every public officer would have a private right of action under the law he or she administers. But section 446.070 permits causes of action for persons protected by statutes, not the public officers who administer the law.
+ 
+Second, the Clerks point to the fact that the Kentucky legislature amended sections 382.360 and 382.365 in 2006 to require the recording of mortgage and lien assignments. They argue that the Kentucky legislature intended that these amendments ensure accurate real estate records and the timely release of liens. For this proposition, they cite Union Planters Bank, a Kentucky Court of Appeals decision that rejected a mortgagee bank’s challenge to the Kentucky legislature’s increased penalties—enacted in 2000 under section 382.365(5)—for mortgagees that fail to timely release liens. See 210 S.W.3d 163. As the district court correctly observed:
+Contrary to [the Clerks’] argument, the objectives cited by the [Clerks] are ones which seek to protect landowners and lienholders, not county clerks. In fact, in Union Planters, the lawsuit was filed by a property owner under KRS § 382.365 to obtain the release of lien after a loan was paid in full. The Kentucky Court of Appeals noted that in enacting the recording statutes, “the Legislature sought to protect the land owner from a mortgage holder.”
+**6 Christian Cnty. Clerk, 2012 WL 566807, at *4 (quoting Union Planters Bank, 210 S.W.3d at 168).
+ 
+Third, the Clerks take issue with the district court’s conclusion that the Kentucky legislature provided no indication that it enacted the recording statutes to protect county clerks. The district court emphasized that the absence of legislative intent to protect the Clerks was evidenced by the fact that the legislature granted a private remedy only to those with an interest in property under section 382.365(3), and that the recording fees the Clerks seek to recover are not mentioned in the recording statutes but rather are contained in an entirely different chapter. Id. The Clerks counter that multiple parties can be intended beneficiaries of a statutory provision, citing State Farm Mutual Automobile Insurance Co. v. Reeder, 763 S.W.2d 116 (Ky.1988). Their reliance on Reeder is misplaced. Reeder simply reinforces the basic principle that to sue under section 446.070 for a statutory violation, the plaintiff must be within the class of persons the legislature intended to protect. See 763 S.W.2d at 118 (holding that a homeowner could sue under section 446.070 because, as the beneficiary of the insurance claim filed by the driver who damaged his property in an accident, the homeowner belonged to the class intended to be protected by the Insurance Code, which did not otherwise provide a remedy for third-party claimants such as the homeowner). As already discussed, the recording statutes protect multiple beneficiaries, *458 but there is no indication that the legislature intended to protect the officers who administer those laws and collect fees.
+ 
+Fourth, the Clerks argue the district court erred because it strictly construed the recording statutes, in violation of the Kentucky legislative mandate that “[a]ll statutes of this state shall be liberally construed with a view to promote their objects and carry out the intent of the legislature [.]” Ky.Rev.Stat. Ann. § 446.080(1). The Kentucky Supreme Court has explained that, pursuant to section 446.080(1), “the cardinal rule of statutory construction is that the intention of the legislature should be ascertained and given effect.” MPM Fin. Grp., Inc. v. Morton, 289 S.W.3d 193, 197 (Ky.2009). That a statute should be liberally construed, however, does not compel a finding that the Kentucky legislature intended to protect the Clerks where there is no such indication to be gleaned from the statutory text, legislative history, or state-law authorities interpreting the recording statutes.
+ 
+Last, the Clerks surmise that property owners have no cause of action under the Kentucky statutes to enforce 382.360(3)’s requirement that mortgage assignments be recorded, and argue that the legislature could not have intended that the statutes could be violated with impunity. However, even if no express cause of action is provided under that provision, section 382.365(3) grants property owners a cause of action against lienholders who fail to record lien assignments in accordance with section 382.360. And nothing in our opinion forecloses property owners from bringing suit based on alleged statutory violations. Moreover, the Kentucky attorney general presumably has “the power to act to enforce the state’s statutes.” Kentucky ex rel. Conway v. Thompson, 300 S.W.3d 152, 173 (Ky.2009) (citation omitted).
+ 
+**7 In summary, because the Clerks have no cause of action, they cannot pursue damages or injunctive relief.6 See McKesson Corp. v. Islamic Republic of Iran, 539 F.3d 485, 489 (D.C.Cir.2008) (“[W]ithout a cause of action, [plaintiffs] cannot invoke federal judicial authority to pursue [their] desired remedy.”); Klay v. United Healthgroup, Inc., 376 F.3d 1092, 1097 n. 5 (11th Cir.2004) (“Of course, to obtain injunctive relief for violation of a statutory right, the statute in question must, at the very least, explicitly or implicitly create a cause of action.”).
+ 
+
+C.
+The district court did not expressly address the Clerks’ common-law claims of civil conspiracy and unjust enrichment. In their opening appellate brief, the Clerks raise no challenge to the district court’s dismissal of their civil-conspiracy claim and we ordinarily would not consider arguments raised for the first time in their reply brief regarding this claim. See Am. Trim, LLC v. Oracle Corp., 383 F.3d 462, 477 (6th Cir.2004); Marks v. Newcourt Credit Grp., Inc., 342 F.3d 444, 462 (6th Cir.2003). Even if we were to find their civil-conspiracy claim properly preserved, it is subject to dismissal. In Kentucky, *459 “civil conspiracy is not a free-standing claim; rather, it merely provides a theory under which a plaintiff may recover from multiple defendants for an underlying tort.” Stonestreet Farm, LLC v. Buckram Oak Holdings, N.V., Nos. 2008–CA–002389–MR, 2009–CA–000026–MR, 2010 WL 2696278, at *13 (Ky.Ct.App. July 9, 2010) (unpublished) (citing Davenport’s Adm’x v. Crummies Creek Coal Co., 299 Ky. 79, 184 S.W.2d 887, 888 (1945)); accord Hogan v. Goodrich Corp., No. Civ. A. 05–159–C, 2006 WL 149011, at *5 (W.D.Ky. Jan. 17, 2006) (unpublished) (“To support a civil[-]conspiracy claim, some underlying tortious act must be taken.”). The Clerks’ conspiracy claim is based on Defendants’ alleged violation of section 382.360. However, the Clerks have no actionable claim directly under section 382.360 for the reasons discussed above. Instead, their underlying statutory violation claim is brought under section 446.070, but that claim asserts a negligence per se theory based on the violation of section 382.360. Because the Clerks are not within the class of persons intended to be protected by section 382.360, they have no section 446.070 claim; and without a section 446.070 claim, they have no valid civil-conspiracy claim. See Stonestreet Farm, 2010 WL 2696278, at *14 (a civil-conspiracy claim that has no tort to be based upon “cannot survive as a matter of law”).
+ 
+The Clerks’ unjust enrichment claim is also unavailing. “ ‘Unjust enrichment’ is based upon an implied contract, creating an obligation from the recipient of the benefits received to the one bestowing them, to compensate him for whatever outlay he has made in bestowing them.” Durbin v. Bank of Bluegrass & Trust Co., No. 2005–CA–001292–MR, 2006 WL 1510479, at *3 (Ky.Ct.App. June 2, 2006) (unpublished) (citing Sullivan’s Adm’r v. Sullivan, 248 Ky. 744, 59 S.W.2d 999, 1001 (1933)). The Clerks’ unjust enrichment claim is not based on an implied contract but on Defendants’ alleged “willful violation” of the Kentucky recording statutes.7 PID 13. The Clerks provide no authority establishing that they can pursue a common-law cause of action for a statutory violation. Section 446.070 is the Kentucky legislature’s exclusive remedy for a statutory violation where the underlying statute does not provide a remedy, Highlands Hosp. Corp., 2010 WL 2787906, at *5, and the Clerks do not have a cause of action under section 446.070.
+ 
+**8 In any event, to state a claim of unjust enrichment, a party must allege facts tending to show: “(1) benefit conferred upon defendant at plaintiff’s expense; (2) a resulting appreciation of benefit by defendant; and (3) inequitable retention of benefit without payment for its value.” Jones v. Sparks, 297 S.W.3d 73, 78 (Ky.Ct.App.2009) (citation omitted). In their complaint, the Clerks do not allege that they conferred any benefit to Defendants, but that Defendants “conferred a benefit upon themselves” by circumventing the recording statutes. PID 13. Perhaps recognizing such pleading deficiencies, the Clerks attempt to recast their unjust enrichment claim on appeal. However, the benefits that the Clerks purport Defendants have derived from recording assignments in MERS’s name, such as lien priority and the ability to release satisfied mortgages,  *460 would be derived from Kentucky law, not from the Clerks themselves.
+ 
+
+V.
+For the foregoing reasons, we AFFIRM the district court’s judgment.
+ 
+All Citations
+515 Fed.Appx. 451, 2013 WL 565198
+Footnotes
+
+*
+
+The Honorable Thomas L. Ludington, United States District Judge for the Eastern District of Michigan, sitting by designation.
+
+1
+
+The Clerks sought to bring this action on behalf of all Kentucky counties and their respective clerks where Defendants have allegedly failed to properly record assignments and pay recording fees.
+
+2
+
+Defendants clarify that the correct name for GMAC is GMAC–RFC Holding Company, LLC.
+
+3
+
+Nevertheless, “Kentucky law does not require that [a person]’s interest in [a] mortgage be recorded in order to be perfected.” In re Cook, 457 F.3d 561, 567 (6th Cir.2006); see Ky.Rev.Stat. Ann. §§ 382.360(6), 382.365(2).
+
+4
+
+Section 382.365 authorizes a private right of action by “any owner of real property or any party acquiring an interest in the real property ... against a lienholder that violates” the statute by failing to release a lien or record a lien assignment. Ky.Rev.Stat. Ann. § 382.365(3). The Clerks do not allege that they own or have an interest in any real property.
+
+5
+
+Although Hargis described the penal and lack-of-remedy requirements in the conjunctive, see 168 S.W.3d at 40, the Kentucky Supreme Court has previously articulated these requirements in the disjunctive. See Grzyb v. Evans, 700 S.W.2d 399, 401 (Ky.1985) (stating that section 446.070 is “limited to where the statute is penal in nature, or where by its terms the statute does not prescribe the remedy for its violation”).
+
+6
+
+The Clerks mistakenly suggest that relief is available to them under Kentucky’s Declaratory Judgment Act, Ky.Rev.Stat. Ann. § 418.040. Where a special statute is clearly intended to provide an exclusive remedy, relief under section 418.040 is unavailable. Iroquois Post No. 229, Am. Legion v. City of Louisville, 279 S.W.2d 13, 14 (Ky.1955); see Bowling v. Ky. Dep’t of Corr., 301 S.W.3d 478, 484 (Ky.2009); City of Pikeville v. Pike Cnty., 297 S.W.3d 47, 52 (Ky.Ct.App.2009). Section 446.070 is one such special statute, providing an exclusive remedy where, as here, a Kentucky statute fails to specify a remedy for its violation. Highlands Hosp. Corp., 2010 WL 2787906, at *5. As the Clerks have no remedy under section 446.070, we cannot look to section 418.040.
+
+7
+
+In their reply brief, the Clerks conclusorily assert in an argument heading that their unjust enrichment claim is not dependent on their statutory claims. Their assertion, however, is unsupported, given that their ensuing argument rests on the theory that Defendants failed to record assignments “as required by Kentucky’s recording statutes” and thus avoided paying “statutorily mandated recording fees.”
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  Higgins v. BAC Home Loans Servicing, LP  
+2014 WL 1333069 , E.D.Ky.
+This matter is before the Court on the motion to dismiss filed by the Defendants Bank of America, N.A., JPMorgan Chase Bank, N.A., and Wells Fargo Bank, N.S. (DE 53). There are...
+Mar. 31, 2014
+Case
+
+1
+
+
+
+
+2
+
+
+
+
+Fed.Appx.
+
+

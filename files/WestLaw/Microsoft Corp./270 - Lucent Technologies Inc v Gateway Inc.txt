@@ -1,0 +1,1341 @@
+
+
+
+
+
+Lucent Technologies, Inc. v. Gateway, Inc.
+United States Court of Appeals, Federal Circuit. | September 11, 2009 | 580 F.3d 1301 | 2009 WL 2902044
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Extend by AVM Technologies, LLC v. Intel Corp., D.Del., February 21, 2013
+
+standard Citation:
+
+Lucent Techs., Inc. v. Gateway, Inc., 580 F.3d 1301 (Fed. Cir. 2009)
+
+All Citations:
+
+580 F.3d 1301, 92 U.S.P.Q.2d 1555
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Extend by AVM Technologies, LLC v. Intel Corp., D.Del., February 21, 2013
+580 F.3d 1301
+United States Court of Appeals,
+Federal Circuit.
+LUCENT TECHNOLOGIES, INC., Plaintiff/Counterclaim Defendant–Cross Appellant,
+and
+Lucent Technologies Guardian I LLC, Counterclaim Defendant,
+and
+Multimedia Patent Trust, Plaintiff/Counterclaim Defendant,
+v.
+GATEWAY, INC., Gateway Country Stores LLC, Gateway Companies, Inc., Cowabunga Enterprises, Inc., and Gateway Manufacturing LLC, Defendants/Counterclaimants,
+and
+Dell Inc., Defendant/Counterclaimant,
+and
+Microsoft Corporation, Defendant/Counterclaimant–Appellant.
+Nos. 2008–1485, 2008–1487, 2008–1495.
+|
+Sept. 11, 2009.
+Synopsis
+Background: Patentee brought action against competitors, alleging infringement of patent for method of entering information into fields on a computer screen without using a keyboard. The jury found patent infringed by competitor’s software products and awarded damages of $357,693,056.18. The United States District Court for the Southern District of California, Marilyn L. Huff, J., 580 F.Supp.2d 1016, denied competitor’s motion for judgment as a matter of a law, and competitor appealed.
+ 
+Holdings: The Court of Appeals, Michel, Chief Judge, held that:
+ 
+[1] substantial evidence supported jury’s finding that claim directed to method of inputting data into particular fields displayed in computer form was not rendered obvious by earlier magazine article;
+ 
+[2] substantial evidence supported jury’s finding that claim which required display of bit-mapped-graphics field into which user could enter information was not rendered obvious by article;
+ 
+[3] adequate circumstantial evidence permitted jury to find that user of competitor’s products directly infringed patent;
+ 
+[4] sufficient evidence supported jury’s finding of contributory infringement;
+ 
+[5] substantial evidence supported jury’s finding that competitor had requisite intent to induce users of its products to infringe patents; and
+ 
+[6] damages award was not supported by substantial evidence.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (40)
+
+
+[1]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk765)
+
+
+When reviewing the denial of a motion for judgment as a matter of law (JMOL) after a jury verdict, the Court of Appeals applies the same standard of review as that applied by the trial court.
+15 Cases that cite this headnote
+
+
+
+[2]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+The grant or denial of a motion for judgment as a matter of law is a procedural issue not unique to patent law, reviewed under the law of the regional circuit in which the appeal from the district court would usually lie.
+4 Cases that cite this headnote
+
+
+
+[3]
+
+Federal Civil ProcedureEvidence
+Federal Civil ProcedureConstruction of evidence
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(E)Notwithstanding Verdict;  Judgment as Matter of Law
+170Ak2608Evidence
+170Ak2608.1In general
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(E)Notwithstanding Verdict;  Judgment as Matter of Law
+170Ak2608Evidence
+170Ak2609Construction of evidence
+
+
+A district court grants judgment as a matter of law (JMOL) only if the evidence, construed in the light most favorable to the nonmoving party, permits only one reasonable conclusion, and that conclusion is contrary to the jury’s verdict.
+11 Cases that cite this headnote
+
+
+
+[4]
+
+Federal Civil ProcedureWeight of evidence
+
+
+170AFederal Civil Procedure
+170AXVINew Trial
+170AXVI(B)Grounds
+170Ak2338Verdict or Findings Contrary to Law or Evidence
+170Ak2339Weight of evidence
+
+
+A district court may grant a new trial only if the verdict is against the clear weight of the evidence.
+5 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsInfringement or noninfringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+(Formerly 291k324.55(5))
+
+
+Infringement is a question of fact, reviewed for substantial evidence when tried to a jury.
+14 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsIn general;  multiple factors
+PatentsIn general;  multiple factors
+PatentsCommercial Success
+PatentsObviousness;  lack of invention
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k681In general;  multiple factors
+(Formerly 291k16(3), 291k16(2))
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k700Secondary Factors or Considerations;  Objective Indicia or Evidence
+291k701In general;  multiple factors
+(Formerly 291k36.2(1), 291k36.1(4), 291k36.1(3))
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k700Secondary Factors or Considerations;  Objective Indicia or Evidence
+291k709Commercial Success
+291k709(1)In general
+(Formerly 291k36.2(1))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(2)Patentability and Validity
+291k1970(7)Obviousness;  lack of invention
+(Formerly 291k324.55(4))
+
+
+Obviousness is a legal question reviewed de novo by the Court of Appeals to determine whether the subject matter of the claimed invention would have been obvious at the time the invention was made to a person of ordinary skill in the art to which the subject matter of the invention pertains; underpinning that legal issue are factual questions relating to the scope and content of the prior art, the differences between the prior art and the claimed invention, the level of ordinary skill in the art, and any relevant secondary considerations, such as commercial success, long-felt need, and the failure of others. 35 U.S.C.A. § 103(a).
+5 Cases that cite this headnote
+
+
+
+[7]
+
+Federal CourtsDamages or Other Monetary Relief
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3614Damages or Other Monetary Relief
+170Bk3614(1)In general
+(Formerly 170Bk813)
+
+
+Court of Appeals reviews for an abuse of discretion a district court’s decision concerning the methodology for calculating damages.
+3 Cases that cite this headnote
+
+
+
+[8]
+
+Federal CourtsDamages or Other Monetary Relief
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3614Damages or Other Monetary Relief
+170Bk3614(1)In general
+(Formerly 170Bk872, 170Bk871)
+
+
+Court of Appeals reviews the jury’s determination of the amount of damages, an issue of fact, for substantial evidence; a jury’s decision with respect to damages must be upheld unless the amount is grossly excessive or monstrous, clearly not supported by the evidence, or based only on speculation or guesswork.
+17 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)4Evidence and Determination
+291k795Weight and Sufficiency of Evidence
+291k799Particular products or processes
+(Formerly 291k36(3))
+
+
+Substantial evidence supported jury’s finding that claim directed to method of inputting data into particular fields displayed in computer form in patent for method of entering information into fields on computer screen without using keyboard was not rendered obvious by earlier magazine article describing potential benefits and drawbacks of using computer touch screens; evidence included expert testimony that article did not disclose step of inserting data into information field, did not disclose limitations in claim for a graphical tool for composing information or for a tool that overlayed a form, and described system proceeding from entry of one type of data to the next such that ordinarily skilled artisan would not have had reason to highlight single data field, in contrast to limitation in claim for indicating particular one of several information fields into which information was to be inserted. 35 U.S.C.A. § 102(b, g).
+3 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)4Evidence and Determination
+291k795Weight and Sufficiency of Evidence
+291k799Particular products or processes
+(Formerly 291k36(3))
+
+
+Substantial evidence supported jury’s finding that claim in patent for method of entering information into fields on computer screen without using keyboard was not rendered obvious by earlier magazine article, which claim required display of bit-mapped-graphics field into which user could enter information by writing on touch sensitive screen using stylus; article disclosed system that could accept touch of pen or other device, not handwriting on touch sensitive screen, and article in fact appeared to teach away from inclusion of field into which user would enter information by writing on screen using stylus. 35 U.S.C.A. § 102(b, g).
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsMiscellaneous particular products
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1666Health Care and Medical Products
+291k1671Miscellaneous particular products
+(Formerly 291k229)
+
+
+To infringe a method claim, a person must have practiced all steps of the claimed method; just as anticipation can be found by a single prior art use, a finding of infringement can rest on as little as one instance of the claimed method being performed during the pertinent time period. 35 U.S.C.A. § 271.
+43 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+Adequate circumstantial evidence permitted jury to find that at least one person other than patentee’s expert used competitor’s accused software products to perform claimed method of entering information into fields on computer screen without using keyboard, and thereby directly infringed patent; evidence showed extensive sales of allegedly infringing products and competitor’s dissemination of manuals instructing customers to use products in an infringing way. 35 U.S.C.A. § 271.
+25 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsParticular fields of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1828Particular Matters
+291k1828(2)Particular fields of invention
+(Formerly 291k312(6))
+
+
+Competitor’s expert testimony that allegedly infringing software product did not contain onscreen composition tool was insufficient to require jury to find as a factual matter only noninfringement of patent for method of entering information into fields on computer screen without using keyboard; other expert testimony, including that of another of competitor’s experts, supported finding that product’s calendar feature was composition tool that allowed user to combine information as in claimed method. 35 U.S.C.A. § 271.
+3 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsManufacture and sale of articles to be used in manufacture of patented article
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1597Indirect Infringement
+291k1603Manufacture and sale of articles to be used in manufacture of patented article
+(Formerly 291k259(1))
+
+
+In order to succeed on a claim of contributory infringement, in addition to proving an act of direct infringement, plaintiff must show that defendant knew that the combination for which its components were especially made was both patented and infringing and that defendant’s components have no substantial non-infringing uses. 35 U.S.C.A. § 271(c).
+81 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+Sufficient evidence supported jury’s finding that competitor intended users of accused software products to use products’ date-picker tool and that the only intended use of the tool was infringing patent as would render competitor liable for contributory infringement of patent for method of entering information into fields on computer screen without using keyboard; although products had many non-infringing uses, inclusion of infringing tool within larger programs with non-infringing uses did not change the tool’s ability to infringe. 35 U.S.C.A. § 271(c).
+29 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsPresumptions and Burden of Proof
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1812Presumptions and Burden of Proof
+291k1813In general
+(Formerly 291k312(1.1))
+
+
+Patentee has the burden of showing that an alleged infringer’s actions induced infringing acts and that he knew or should have known his actions would induce actual infringements. 35 U.S.C.A. § 271(b).
+14 Cases that cite this headnote
+
+
+
+[17]
+
+PatentsInducement to infringe
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1597Indirect Infringement
+291k1600Inducement to infringe
+(Formerly 291k259(1))
+
+
+A finding of inducement requires a threshold finding of direct infringement: either a finding of specific instances of direct infringement or a finding that the accused products necessarily infringe. 35 U.S.C.A. § 271(b).
+57 Cases that cite this headnote
+
+
+
+[18]
+
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+Inducement requires evidence of culpable conduct, directed to encouraging another’s infringement, not merely that the inducer had knowledge of the direct infringer’s activities. 35 U.S.C.A. § 271(b).
+40 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+Intent element required for claim of inducement to infringe a patent may be established through circumstantial evidence. 35 U.S.C.A. § 271(b).
+12 Cases that cite this headnote
+
+
+
+[20]
+
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+Evidence of active steps taken to induce infringement, such as advertising an infringing use, can support a finding of an intention for the product to be used in an infringing manner. 35 U.S.C.A. § 271(b).
+12 Cases that cite this headnote
+
+
+
+[21]
+
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+Substantial evidence supported jury’s finding that competitor had requisite intent to induce users of its accused software products to infringe patent for method of entering information into fields on computer screen without using keyboard; expert testimony explained that products’ forms and tools required users to perform claimed method of entering information and that competitor’s documentation encouraged users to use infringing tools. 35 U.S.C.A. § 271(b).
+3 Cases that cite this headnote
+
+
+
+[22]
+
+PatentsProfits and damages
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1812Presumptions and Burden of Proof
+291k1820Profits and damages
+(Formerly 291k312(1.7))
+
+
+The burden of proving damages from infringement falls on the patentee. 35 U.S.C.A. § 284.
+42 Cases that cite this headnote
+
+
+
+[23]
+
+PatentsProfits
+PatentsReasonable royalty;  hypothetical negotiation
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1900Profits
+291k1901In general
+(Formerly 291k318(1))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1900Profits
+291k1904Reasonable royalty;  hypothetical negotiation
+(Formerly 291k318(1))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+Two alternative categories of infringement compensation are the patentee’s lost profits and the reasonable royalty he would have received through arms-length bargaining; a reasonable royalty is merely the floor below which damages shall not fall. 35 U.S.C.A. § 284.
+78 Cases that cite this headnote
+
+
+
+[24]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+The “analytical method” for calculating reasonable royalties to be awarded as damages for infringement focuses on the infringer’s projections of profit for the infringing product. 35 U.S.C.A. § 284.
+9 Cases that cite this headnote
+
+
+
+[25]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+The “hypothetical negotiation” or the “willing licensor-willing licensee” approach for calculating reasonable royalties to be awarded as damages for infringement, attempts to ascertain the royalty upon which the parties would have agreed had they successfully negotiated an agreement just before infringement began. 35 U.S.C.A. § 284.
+122 Cases that cite this headnote
+
+
+
+[26]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+The “hypothetical negotiation” approach tries to recreate the ex ante licensing negotiation scenario and to describe the resulting agreement to calculate reasonable royalties to be awarded as damages for infringement; in other words, if infringement had not occurred, willing parties would have executed a license agreement specifying a certain royalty payment scheme. 35 U.S.C.A. § 284.
+43 Cases that cite this headnote
+
+
+
+[27]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+The “hypothetical negotiation” for calculating reasonable royalties to be awarded as damages for infringement assumes that the asserted patent claims are valid and infringed. 35 U.S.C.A. § 284.
+43 Cases that cite this headnote
+
+
+
+[28]
+
+PatentsElements, measure, and amount
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1912Elements, measure, and amount
+(Formerly 291k319(1))
+
+
+Consideration of rates paid by licensees for the use of other patents comparable to patent in suit weighed strongly against jury’s lump-sum royalty payment of $357,693,056.18 as damages for indirect infringement of patent for method of entering information into fields on computer screen without using keyboard; no documentary evidence or testimony showed the parties’ expectations as to usage of claimed method by customers using accused software products that would support large size of lump-sum award, lump-sum license agreements which purportedly supported award were either radically different from hypothetical licensing agreement for the patent in suit or lacking in probative value due to uncertain subject matter of agreements, and jury heard almost no testimony with which to recalculate the value of purportedly comparable running royalty agreements to arrive at lump-sum damages award. 35 U.S.C.A. § 284.
+46 Cases that cite this headnote
+
+
+
+[29]
+
+PatentsElements, measure, and amount
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1912Elements, measure, and amount
+(Formerly 291k319(1))
+
+
+Consideration of nature of patented invention and portion of competitor’s profit that could be credited to invention provided minimal support for jury’s lump-sum royalty payment of $357,693,056.18 as damages for indirect infringement of patent for method of entering information into fields on computer screen without using keyboard; customers’ infringing use of accused software product’s date-picker feature was a minor aspect of competitor’s product, and the portion of profit attributable to the infringing use of the date-picker tool was exceedingly small. 35 U.S.C.A. § 284.
+10 Cases that cite this headnote
+
+
+
+[30]
+
+PatentsProfits and damages
+PatentsElements, measure, and amount
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1834Profits and damages
+(Formerly 291k312(10))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1912Elements, measure, and amount
+(Formerly 291k319(1))
+
+
+Consideration of the extent to which the infringer made use of the patented invention and evidence probative of the value of that use did not support jury’s lump-sum royalty payment of $357,693,056.18 as damages for indirect infringement of patent for method of entering information into fields on computer screen without using keyboard; beyond circumstantial evidence that at least one person using competitor’s accused software product performed the patented method one time in the United States sometime during the relevant period, there was nothing indicating that anyone had ever performed the patented method or how many times. 35 U.S.C.A. § 284.
+19 Cases that cite this headnote
+
+
+
+[31]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+Consideration of evidence of usage of claimed method after infringement started can, under appropriate circumstances, be helpful in assessing whether a royalty is reasonable award of damages for infringement; usage or similar data may provide information that the parties would frequently have estimated during hypothetical negotiation for licensing of patent. 35 U.S.C.A. § 284.
+33 Cases that cite this headnote
+
+
+
+[32]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+Consideration of nature of hypothetical license as exclusive or nonexclusive, of the licensor’s established policy and marketing program to maintain patent monopoly, of the commercial relationship between the licensor and the licensee, of the established profitability of the product made under the patent, of the utility and advantages of the patent property over old modes or devices, and of the portion of the profit or of the selling price that would be customary to allow for the use of the invention weighed neither for nor against jury’s lump-sum royalty payment of $357,693,056.18 as damages for indirect infringement of patent for method of entering information into fields on computer screen without using keyboard based on customers’ use of competitor’s accused software product; factors offset one another to the extent they were relevant.
+5 Cases that cite this headnote
+
+
+
+[33]
+
+PatentsProfits and damages
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1834Profits and damages
+(Formerly 291k312(10))
+
+
+Jury’s damages award of lump-sum royalty payment of $357,693,056.18 for indirect infringement of patent for method of entering information into fields on computer screen without using keyboard based on customers’ use of competitor’s accused software product was not supported by substantial evidence; there was no evidence that patentee and competitor would have entered into hypothetical licensing agreement calling for lump-sum royalty payment subsequently amounting to approximately eight percent of competitor’s revenues for the sale of accused product. 35 U.S.C.A. § 284.
+21 Cases that cite this headnote
+
+
+
+[34]
+
+PatentsJudgment as a matter of law
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1939Relief from Judgment
+291k1941Judgment as a matter of law
+(Formerly 291k323.3)
+
+
+On post-trial motion for judgment as a matter of law challenging jury’s award of royalties as damages in patent infringement action, district court must scrutinize the evidence carefully to ensure that the substantial evidence standard is satisfied, while keeping in mind that a reasonable royalty analysis necessarily involves an element of approximation and uncertainty. 35 U.S.C.A. § 284.
+41 Cases that cite this headnote
+
+
+
+[35]
+
+PatentsProfits and damages
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1834Profits and damages
+(Formerly 291k312(10))
+
+
+To the extent that jury relied on an entire market value calculation to arrive at lump-sum royalty payment amount of $357,693,056.18 as damages for infringement, damages award was against the clear weight of the evidence in action for indirect infringement of patent for method of entering information into fields on computer screen without using keyboard based on customers’ use of competitor’s accused software product; there was no evidence that claimed method was the basis, or even a substantial basis, of consumer demand for accused product, and patentee’s expert, after being precluded from using price of entire computer loaded with accused software as the royalty base, used the price of the accused software as the base but improperly inflated the royalty rate to eight percent to try to reach the damages number he would have obtained using the price of entire computer, despite admitting that competitor had never agreed to pay an eight percent royalty on any comparable patent. 35 U.S.C.A. § 284.
+44 Cases that cite this headnote
+
+
+
+[36]
+
+PatentsEntire market value
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1900Profits
+291k1905Entire market value
+(Formerly 291k318(4.1))
+
+
+For the “entire market value” rule to apply as the measure of damages for patent infringement, the patentee must prove that the patent-related feature is the basis for customer demand of the accused product. 35 U.S.C.A. § 284.
+73 Cases that cite this headnote
+
+
+
+[37]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+The base used in a running royalty calculation to determine infringement damages can always be the value of the entire commercial embodiment, as long as the magnitude of the royalty rate is within an acceptable range; thus, even when the patented invention is a small component of a much larger accused commercial product, awarding a reasonable royalty based on either sale price or number of units sold can be economically justified. 35 U.S.C.A. § 284.
+34 Cases that cite this headnote
+
+
+
+[38]
+
+PatentsAffidavits or other evidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1936Affidavits or other evidence
+(Formerly 291k323.2(4))
+
+
+Evidence submitted by patentee at summary judgment stage showing that accused products reached the same result as apparatus claims containing means-plus-function elements in patent for method of entering information into fields on computer screen without using keyboard was insufficient to raise triable issue of fact as to whether products infringed claims; evidence did not demonstrate circumstantially or otherwise anything about the steps used by the accused products to arrive at the result. 35 U.S.C.A. § 271; Fed.Rules Civ.Proc.Rule 56, 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[39]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 4,383,272, US Patent 4,439,759, US Patent 4,958,226, US Patent 5,347,295. Cited.
+Cases that cite this headnote
+
+
+
+[40]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 4,763,356. Valid and Infringed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1307 John M. Desmarais, Kirkland & Ellis, LLP, of New York, NY, argued for plaintiff/counterclaim defendant-cross appellant Lucent Technologies, Inc. With him on the brief were Paul A. Bondor and Michael P. Stadnick.
+Constantine L. Trela, Jr., Sidley Austin LLP, of Chicago, IL, argued for defendant/counterclaimant-appellant Microsoft Corporation. With him on the brief were Robert N. Hochman and Tacy F. Flint, and Carter G. Phillips, of Washington, DC. Of counsel on the brief were John E. Gartman and John W. Thornburgh, Fish & Richardson, P.C., of San Diego, CA. Of counsel were Juanita Rose Brooks and Joseph P. Reid, Fish & Richardson, P.C. of San Diego, CA; and Thomas Andrew Culbert and Stephen P. McGrath, Microsoft Corporation, of Redmond, WA.
+Edward R. Reines, Weil, Gotshal & Manges LLP, of Redwood Shores, CA, for amici curiae Apple Inc., et al. With him on the brief was Sonal N. Mehta.
+James W. Dabney, Fried, Frank, Harris, Shriver & Jacobson LLP, of New York, NY, for amici curiae Bank of America Corporation, et al.
+Donald R. Dunner, Finnegan, Henderson, Farabow, Garrett & Dunner, L.L.P., of Washington, DC, for amici curiae 3M Company, et al. With him on the brief were Don O. Burley and Erik R. Puknys, of Palo Alto, CA. Of counsel on the brief were Hansjorg Sauer, Biotechnology Industry Organization, of Washington, DC; Michael J. Biber, Dolby Laboratories, Inc., of San Francisco, CA; P. Michael Walker and Barry Estrin, E.I. DuPont de Nemours and Co., of Wilmington, DE; Richard F. Phillips, Exxon Mobil Chemical Company, of Houston, TX; Buckmaster de Wolf, General Electric Company, of Fairfield, CT; Philip S. Johnson, Johnson & Johnson, of New Brunswick, NJ; Steven W. Miller, The Procter & Gamble Company, of Cincinnati, OH; Alexander H. Rogers, Qualcomm Inc., of San Diego, CA; and Taraneh Maghamé, Tessera, Inc., of San Jose, CA.
+*1308 Before MICHEL, Chief Judge, NEWMAN and LOURIE, Circuit Judges.
+Opinion
+MICHEL, Chief Judge.
+
+Microsoft Corporation appeals the denial of post-trial motions concerning a jury verdict that U.S. Patent No. 4,763,356 (the “Day patent”) was not invalid and that Microsoft indirectly infringed the Day patent. Microsoft also appeals the $357,693,056.18 jury award to Lucent Technologies, Inc. for Microsoft’s infringement of the Day patent. Because the validity and infringement decisions were not contrary to law and supported by substantial evidence, we affirm. Because the damages calculation lacked sufficient evidentiary support, we vacate and remand that portion of the case to the district court for further proceedings.
+ 
+
+BACKGROUND
+In the 1970s, niche groups of hobbyists, including two teenagers in a Los Altos garage, built personal computers from scratch. In the early to mid–1980s, personal computing gained popularity although still in its infancy. In 1982, a fifteen-year-old high school student created the first public computer virus, spreading it among personal computers via floppy disks, most likely the 5 ¼-inch version, as the 3 ½-inch disk wasn’t introduced until a few years later. Commercially available operating systems at the time were mainly text-based with few, if any, graphical interfaces. In 1984, with its now famous “1984” commercial aired during Super Bowl XVIII on Black Sunday, Apple Computer announced the introduction of its Apple Macintosh, the first widely sold personal computer employing a graphical user interface. The following year, Microsoft introduced its own version of a graphical operating system, Windows 1.0.
+ 
+In December 1986, three computer engineers at AT & T filed a patent application, which eventually issued as the Day patent. The patent is generally directed to a method of entering information into fields on a computer screen without using a keyboard. A user fills in the displayed fields by choosing concurrently displayed, predefined tools adapted to facilitate the inputting of the information in a particular field, wherein the predefined tools include an on-screen graphical keyboard, a menu, and a calculator. The system may display menus of information for filling in a particular field and may also be adapted to communicate with a host computer to obtain the information that is inserted into the fields. In addition, one of the displayed fields can be a bit-mapped graphics field, which the user fills in by writing on the touch screen using a stylus.
+ 
+In 2002, Lucent1 initiated the present action against Gateway, and Microsoft subsequently intervened. The appeal comes from the consolidated action of three separate infringement suits filed in the Eastern District of Virginia, the District of Delaware, and the Southern District of California. The consolidated action was originally before Senior Judge Rudi Brewster. In October 2007, Judge Brewster severed part of the patent infringement case for transfer to Judge Marilyn Huff. The court severed and transferred for further proceedings all matters relating to the Day patent and U.S. Patent Nos. 4,383,272; 4,958,226; 5,347,295; and 4,439,759.
+ 
+At trial, Lucent charged infringement by Microsoft of claims 19 and 21, among others, of the Day patent. Lucent alleged indirect infringement of claim 19 based on the sales and use of Microsoft Money, Microsoft Outlook, and Windows Mobile. As to claim 21, Lucent asserted that the use of Windows Mobile infringed. Lucent *1309 also alleged infringement by Dell and asserted claims of the other patents as well, but those issues are not on appeal.2 Microsoft challenged Lucent’s infringement contentions, contending among other defenses that the Day patent was invalid for being anticipated or obvious and, even if valid, Microsoft’s sales of its products did not infringe the Day patent.
+ 
+The jury found Microsoft liable on claim 19 as to all three products and on claim 21 as to Windows Mobile but returned a finding of no infringement by Dell as to those two claims. The verdict, without distinguishing among the three products or between inducement and contributory infringement, awarded a single lump-sum against Microsoft for all products involved. The jury awarded $357,693,056.18 for Microsoft’s infringement of the Day patent, excluding prejudgment interest.3
+ 
+The parties filed numerous post-trial motions, including Microsoft’s renewed motions seeking judgment as a matter of law that the Day patent was anticipated and obvious and motions challenging the jury’s finding of infringement and the jury’s award of damages. In particular, Microsoft sought judgment as a matter of law that claims 19 and 21 were anticipated under 35 U.S.C. § 102(b) and (g) or were obvious under § 103. The district court found substantial evidence in the record to support the jury’s determination that the defendants had not proven the Day patent to be invalid. The district court also held that neither judgment as a matter of law nor a new trial was appropriate on the jury’s finding that Lucent had proven damages in the amount of approximately $358 million. The district court granted only the post-trial motion setting aside the obviousness verdict concerning U.S. Patent No. 4,958,226 but denied all other post-trial motions, including those for the Day patent. See Lucent Techs., Inc. v. Gateway, Inc., 580 F.Supp.2d 1016 (S.D.Cal.2008). Microsoft has timely appealed the district court’s decision. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+ANALYSIS
+I. Standards of Review
+[1] [2] [3] [4] When reviewing the denial of a motion for judgment as a matter of law (“JMOL”) after a jury verdict, we “ ‘appl[y] the same standard of review as that applied by the trial court.’ ” Wechsler v. Macke Int’l Trade, Inc., 486 F.3d 1286, 1290 (Fed.Cir.2007) (quoting nCube Corp. v. SeaChange Int’l, Inc., 436 F.3d 1317, 1319 (Fed.Cir.2006)). Furthermore, “[t]he grant or denial of a motion for judgment as a matter of law is a procedural issue not unique to patent law, reviewed under the law of the regional circuit in which the appeal from the district court would usually lie.” Summit Tech., Inc. v. Nidek Co., 363 F.3d 1219, 1223 (Fed.Cir.2004). In the Ninth Circuit, a district court grants JMOL only “if the evidence, construed in the light most favorable to the nonmoving party, permits only one reasonable conclusion, and that conclusion is contrary to the jury’s verdict.” Pavao v. Pagay, 307 F.3d 915, 918 (9th Cir.2002). Similarly, a district court in the Ninth Circuit “may grant a new trial only if the verdict is against the clear weight of the evidence.” Id.
+ 
+[5] [6] “Infringement is a question of fact, reviewed for substantial evidence when tried to a jury.” Finisar Corp. v. DirecTV Group, Inc., 523 F.3d 1323, 1332 (Fed.Cir.), cert. denied, *1310 555 U.S. 1070, 129 S.Ct. 754, 172 L.Ed.2d 727 (2008). Obviousness is a legal question reviewed de novo. PharmaStem Therapeutics, Inc. v. ViaCell, Inc., 491 F.3d 1342, 1359 (Fed.Cir.2007), cert. denied, 552 U.S. 1258, 128 S.Ct. 1655, 170 L.Ed.2d 355 (2008). The statutory standard requires us to decide whether the subject matter of the claimed invention “would have been obvious at the time the invention was made to a person of ordinary skill in the art to which [the subject matter of the invention] pertains.” 35 U.S.C. § 103(a) (2006); see also KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 415–16, 127 S.Ct. 1727, 167 L.Ed.2d 705 (2007). “Underpinning that legal issue are factual questions relating to the scope and content of the prior art, the differences between the prior art and the claimed invention, the level of ordinary skill in the art, and any relevant secondary considerations, such as commercial success, long-felt need, and the failure of others.” PharmaStem, 491 F.3d at 1359.
+ 
+[7] [8] We review for an abuse of discretion a district court’s decision concerning the methodology for calculating damages. Unisplay, S.A. v. Am. Elec. Sign Co., 69 F.3d 512, 517 n. 8 (Fed.Cir.1995); see also State Indus., Inc. v. Mor–Flo Indus., Inc., 883 F.2d 1573, 1576–77 (Fed.Cir.1989) (noting that the precise methodology used in “assessing and computing damages is committed to the sound discretion of the district court”). We review the jury’s determination of the amount of damages, an issue of fact, for substantial evidence. SmithKline Diagnostics, Inc. v. Helena Labs. Corp., 926 F.2d 1161, 1164 n. 2 (Fed.Cir.1991). “A jury’s decision with respect to an award of damages ‘must be upheld unless the amount is grossly excessive or monstrous, clearly not supported by the evidence, or based only on speculation or guesswork.’ ” State Contracting & Eng’g Corp. v. Condotte Am., Inc., 346 F.3d 1057, 1072 (Fed.Cir.2003) (quoting Brooktree Corp. v. Advanced Micro Devices, Inc., 977 F.2d 1555, 1580 (Fed.Cir.1992)).
+ 
+
+II. Invalidity
+Before the jury, Microsoft engaged in a multi-pronged attack of the Day patent’s validity. Microsoft argued, for example, that the Day patent was anticipated under § 102(b) and (g) and obvious under § 103. On appeal, Microsoft challenges only the district court’s denial of the JMOL motion on obviousness. Microsoft does not challenge any of the district court’s claim constructions. In analyzing the obviousness defense, we therefore must apply the claim construction as it was presented to the jury. Further, Microsoft relies on only a single prior art document for its obviousness position with respect to claim 19.
+ 
+Independent claim 19 is directed to a method of inputting data using certain predefined “tools” and entering that information into particular fields displayed in a computer form. Claim 21 depends from claim 19 and further specifies that the information field is displayed as “a bit-mapped-graphics field.” Claims 19 and 21 read in full as follows.
+19. A method for use in a computer having a display comprising the steps of
+displaying on said display a plurality of information fields,
+identifying for each field a kind of information to be inserted therein,
+indicating a particular one of said information fields into which information is to be inserted and for concurrently displaying a predefined tool associated with said one of said fields, said predefined tool being operable to supply information of the kind identified for said one field, said tool being selected from a group of predefined tools including a tool adapted to supply an individual entry from a menu of alternatives and at *1311 least a tool adapted to allow said user to compose said information, and
+inserting in said one field information that is derived as a result of said user operating said displayed tool.
+* * *
+21. The method set forth in claim 19 wherein the step of displaying said pattern includes the step of displaying one or more of said information fields as a bit-mapped-graphics field.
+The ′356 patent, col.17 l.27 to col.18 l.22. Figure 5 of the Day patent, shown below, illustrates an embodiment of the invention in which a graphical calculator overlays the form having multiple fields, one of which—“Quantity” (Qty 61)—is highlighted.
+ 
+FIG. 5
+
+​
+
+A. Claim 19
+[9] Microsoft’s position was that claim 19 would have been obvious over a 1984 magazine article, Michael Tyler, Touch Screens: Big Deal or No Deal?, Datamation, Jan. 1984, at 146 (“the Datamation article” or “Datamation”). The article describes both the potential benefits and drawbacks of using computer touch screens at a time when computer technology was developing. As Datamation reports, analysts feared that “[t]he combination of these drawbacks and outside influences may doom the touch-sensitive terminal” and that “[e]ven touch technology’s greatest proponents admit that the future is not as bright as it once seemed.” Id. at 154. The Datamation article’s ultimate message was that “[t]ouch-sensitive terminals may be very sexy in the office, but whether they actually stimulate people to use computers is open to doubt.” Id. at 146.
+ 
+Much of the trial testimony, as relating to the FXFE system4 in the Datamation *1312 article, described not what was in the article but what was allegedly prior art for purposes of prior public use or prior invention. The Datamation article’s entire disclosure relied upon by Microsoft on appeal is much more limited, namely one photograph5 and the following two short paragraphs.
+ 
+The bank is in the process of implementing a two-phase strategy that it feels will accomplish the breakout [technology]. The plan employs Easel workstations programmed in the bank’s London office. Each workstation’s screen is divided roughly in half vertically. Large touch-sensitive boxes at the top of the screen invite the user to declare the current transaction a “buy” or a “sell”; at the bottom, similar boxes let the users deal, service, cancel, log out, or lock out their screens. The right half of the screen lists key information about the current transaction, including buyer bank, seller bank, currency, exchange rate (in dollars and the foreign currency), broker, bank customer, exchange location, and method of payment.
+When the trader touches the screen in one of these areas, a list of potentially valid entries or a numeric keypad appears on the left half, inviting the user to choose the information needed on the right. For instance, when the user hits the “broker” cell on the right, a list of brokers appears on the left; the trader then hits the name of the broker to be involved in the current trade, and the information is entered into the system. For exchange rates and other numerical data, the user hits the proper cell on the right and then types in the numeric data on the keypad that appears on the left. In this way, an entire transaction can be completed directly on the workstation. (A QWERTY layout can be called up on the left for entry of nonstandard or rare names—an infrequently traded currency, for example.)
+Datamation, supra, at 148.
+During trial, the opposing experts for Microsoft and Lucent expressed conflicting views about the Datamation article’s disclosure. Specifically, the parties and their experts disagreed about whether the Datamation article described three of the limitations of claim 19 and whether a fourth limitation would have been obvious from the article. We address each limitation in turn.
+ 
+First, the experts expressed differing opinions about whether the Datamation article disclosed the limitation of “inserting in said one field information that is derived as a result of said user operating said displayed tool.” The district court construed this term to mean “inserting in a particular field information that is derived as a result of the user operating the displayed tool.” Lucent argues that all the Datamation article states is that the information is entered “into the system.” Microsoft counters that “[t]he article describes how an FXFE user entered (or ‘inserted’) information into what it calls ‘cells,’ another name for ‘information fields.’ ” But Microsoft’s expert was less than direct when asked whether the Datamation disclosed an information field, as required by claim 19:
+Q: And you told us the article had information fields in it, right?
+A: The article refers to fields as cells, and I think people understand a cell to be a field.
+Q: The article doesn’t use the word “information fields,” does it?
+A: I recall it using fields—using cells to represent fields, and I think what it *1313 was describing was a field. Whether it actually used the word “field,” I don’t know. I’d have to look at the article to see if it—
+Q: The article talked about a broker cell. It didn’t say that the information in the broker cell goes into a field, did it? You know it didn’t use that term, right?
+A: I don’t know that, but I—you would understand a cell to be a field. It was very clear from the article.
+Q: I know that you want to say that. What I’m asking you is what is actually in the article. You know as you sit here today that that article does not use the term “information field” in those words, true or false?
+A: I can’t answer that because I would have to look at it to see if it used field, but when I read that article, it was clear to me what they were discussing was a field, and what’s demonstrated there is a field. Whether they used only cell and not field I’d have to actually look at the article.
+Q: So can we agree that as you sit here today in the stand you don’t know?
+A: Well, I’ve read the article, but I haven’t done an analysis on whether the word “field” actually shows up into that—in that article.
+J.A. 08112–13.
+ 
+Microsoft’s expert seemed to equate the “information field” of claim 19 with the term “cell,” as used in the Datamation article. What the article describes as a “cell,” however, appears to be different from an “information field,” as used in the claim of the Day patent. The article states that “when the user hits the ‘broker’ cell on the right, a list of brokers appears on the left.” Datamation, supra, at 148. In the next stage of the transaction, the user could select from the “list of brokers appear[ing] on the left” and “the trader hits the name of the broker.” Id. This sequence could be viewed as occurring without inserting an entry into an information field. Also, a reasonable jury could have understood “cell” to mean an area on the screen that a user touches to proceed to the next stage in the transaction and not an on-screen box in which entered data is displayed, i.e., an information field. The Day patent requires an information field.
+ 
+It’s entirely possible—and reasonable—for the jury to have concluded that the Datamation article describes a computer system operating as a data input system without the creation of on-screen forms having information fields, as required by claim 19. The photograph shows nothing about whether data is entered into a field and thus displayed on the screen. The photograph does not depict anything resembling an “information field.” A reasonable jury could have concluded that the FXFE system’s process consisted of a user entering data, the system receiving that data, and the system then proceeding to the next operation in the process, without displaying the data in an information field on the screen. For instance, consider a sequence routinely employed by an automated teller machine (ATM). When withdrawing money from one’s checking account (e.g., $50, $100, or $200), a user presses the appropriate on-screen button, the ATM system receives the input, and then the system proceeds to the next decisional operation (e.g., print receipt?). In this sequence, the system never enters and displays the user’s selection into a field on the computer screen.
+ 
+Although the Datamation article possibly describes a system capable of inserting data into an information field, the article itself does not appear to teach that step. Of singular importance here, however, is that the jury could have reasonably viewed the Datamation article as not disclosing the “inserting” step.
+ 
+*1314 The second limitation in dispute is the “tool” limitation. Claim 19 requires a “tool adapted to allow said user to compose said information.” The district court interpreted this limitation to mean “a graphical keyboard tool or a graphical number keypad tool, which allows the user to compose information by pointing to the display keys of that tool.”
+ 
+Microsoft again contends that the Datamation article necessarily discloses this “tool” limitation. Reasoning that the keyboard in the Datamation photograph is graphical because it is a “pictorial” image on the screen, Microsoft relies on testimony from an expert, who told the jury, “So when you’re talking about something graphical, you’re talking about a pictorial representation that’s displayed on the computer screen.” This testimony, Microsoft asserts, is evidence sufficient to overturn the jury’s verdict.
+ 
+The jury also heard a different view from Lucent’s expert, who explained the difference between a computer’s “text mode” and “graphics mode.” Lucent’s expert opined that “[t]here’s no evidence that the FXFE system was anything other than a text-based system.” He further testified as followed:
+Q: Now, you told us this system is not a graphical system. What did you mean by that?
+A: This is—this program was written in text mode. Graphics mode on computers of this era was too slow to support productivity applications, which is what this is. So developers uniformly—I mean, there may have been a rare exception, but with the exception of people who needed to work in graphics such as allowing people to draw, these programs were built in text mode.
+And what text mode means is that the only control a programmer has is to say I want the letter A, I want the number zero, I want an exclamation point, I want an underscore and so forth. And even the microprocessor doesn’t have control. There’s a piece of hardware out there that’s just putting characters on a screen.
+So it’s text mode, it’s not graphics mode. The 356[Day] patent is all about graphics mode.
+Q: In fact, the Court’s construction for the composition tool says it has to be a graphical keypad tool.
+A: That’s correct.
+Q: And this isn’t even a graphical system.
+A: No, it’s not.
+J.A. 08658–59.
+ 
+Microsoft’s own expert seemingly admitted that the Datamation article did not necessarily disclose a system operating in graphics mode:
+Q: And the article doesn’t tell us that this system operated in graphics mode as we understand that term to mean where you’re addressing information to individual pixels, right? The article doesn’t say that?
+A: Well, the article does describe that it had a very high resolution, 976 pixels by some other resolution, which indicates to me that it operated in—it could operate in a graphics mode.
+Q: I’m not asking you if it could. The article does not use the phrase “graphics mode,” does it?
+A: I don’t think the article describes whether it worked in graphics mode or not.
+J.A. 08112. Based on this evidence, the jury was within its charge to conclude that the Datamation article did not disclose “a graphical keyboard tool or a graphical number keypad tool.”
+ 
+The third disputed limitation is “concurrently displaying a predefined tool associated with said one of said fields.” The *1315 district court’s construction requires this phrase to mean “displaying at the same time, as by a window overlaying the form.” Microsoft contends that “[t]he Datamation article leaves no doubt that the FXFE system’s graphical tools are displayed at the same time as the information fields.” Lucent responds that Microsoft is impermissibly trying to broaden the scope of the claim by eliminating a requirement that the window overlays the form.
+ 
+As noted above, Microsoft did not object to the claim construction read to the jury, and does not appeal the claim construction to us. Based on the claim construction presented, the jury reasonably could have concluded that the Datamation article does not disclose a graphical tool that overlayed the form. Microsoft’s expert conceded that the Datamation article doesn’t describe a tool that overlays a form.
+Q: The article does not discuss tools overlaying a form, true?
+A: I don’t think it describes it that way, no. Right.
+Q: In fact, the keyboard does not overlay the form in the—in the article. It would have been wrong if it described it that way, right?
+A: Yes, the—as I told you on my direct, the tools were on the left side of the screen.
+J.A. 08112. From this testimony and the photograph “of limited clarity” in the Datamation article, the jury was permitted to conclude, as a factual matter, that the article did not disclose this limitation. Microsoft offers nothing to fill this gap in its obviousness analysis.
+ 
+Instead, Microsoft argues to us that the jury applied the wrong claim construction requiring an overlayed tool. Microsoft asserts that the claim construction given by the district court mandates only the concurrent, or simultaneous, display of the “predefined tool” and the “one of said fields.” This argument is unpersuasive, however. First, reading the claim construction as Microsoft does would render superfluous the phrase “as by a window overlaying the form.” If the proper claim application were as Microsoft argues it to be, the “as by” phrase is completely unnecessary. Second, as noted, Microsoft does not challenge the claim construction. If Microsoft believed that the proper claim construction does not require the tool to overlay the form, Microsoft should have argued for such a claim construction instead of disputing the jury’s reasonable application of the claim construction as given to the jury.
+ 
+The fourth limitation in dispute is the “indicating” step. Unlike the previous three claim limitations, the parties agree that the Datamation article does not explicitly disclose the limitation of “indicating a particular one of said information fields into which information is to be inserted.” Microsoft’s expert conceded that the Datamation article doesn’t teach this limitation.
+ 
+Moreover, both parties agree that “indicating” includes highlighting the information field or placing a cursor in the information field so the user knows which field “into which information is to be inserted.” According to Microsoft, “failing to indicate which field information is being entered into—that is, having information show up randomly somewhere on the screen—would be contrary to all experience and common sense.” We disagree. In many instances perhaps, it may make sense to highlight a field into which information is entered. But, when examined in the context of the Datamation article’s description, we understand how the jury could conclude otherwise.
+ 
+As noted above, the Datamation article doesn’t explicitly describe the entering of information into onscreen fields. Assuming the article did, it does not necessarily lead one of skill in the art to have a reason *1316 to “indicate” the field into which information is entered. The jury could have reasonably viewed the Datamation system as displaying only one onscreen information field. Nothing in the article appears to suggest that the FXFE system displays—or is capable of displaying—multiple information fields at the same time. To the contrary, the system is described as proceeding from the entry of one type of data to the next. See Datamation, supra, at 148. Having agreed with this description, the jury could have also concluded that an ordinarily skilled artisan would not have had a reason to “indicate” the only field on the computer screen. If there is only one field displayed on the screen, the user knows that any data will be entered into that single field. Specifying the only field by highlighting would not have helped the user in any way, or at least a jury could have so concluded, based on the evidence adduced at trial.
+ 
+Having examined the four contested claim limitations, the jury would have been within its reasonable boundaries in finding the Datamation article to be lacking at least one of the limitations and in concluding that no sufficient reason existed to modify the prior art. When the underlying facts are taken in the light most favorable to Lucent, the non-moving party, the evidence reasonably permitted the jury to have decided that Microsoft did not prove by clear and convincing evidence that claim 19 would have been obvious. Accordingly, the district court did not err when it denied Microsoft’s motion for judgment as a matter of law concerning the validity of claim 19.
+ 
+
+B. Claim 21
+[10] Microsoft’s invalidity position for claim 21 fares no better. Claim 21 requires that “the step of displaying said pattern includes the step of displaying one or more of said information fields as a bit-mapped-graphics field.” The district court construed “bit-mapped graphics field” to refer to “a field into which a user is to enter information by writing on a touch sensitive screen using a stylus.”
+ 
+Microsoft argues that claim 21 would have been obvious in light of Datamation alone, contending that the article “describes FXFE’s touch sensitive screen as able to ‘accept a finger, a pen, or any other device.’ ” The Datamation article, under Microsoft’s reading, “inherently disclos[es] the ability to enter information by writing on the screen with a stylus.” What Microsoft misapprehends is that the disclosed FXFE system can accept the touch of a pen or any other device. The Datamation article does not teach a computer system that can accept “information by writing on a touch sensitive screen using a stylus.”
+ 
+Microsoft also asserts that claim 21 would have been obvious over Datamation in view of other prior art teaching the process of capturing on-screen handwriting. This argument is not sufficient to overturn the jury’s verdict. Nothing in the Datamation article itself discloses a reason why on-screen handwriting, e.g., by writing with a stylus, could or should be used with the FXFE system. Rather, much of the Datamation article appears to teach away from the inclusion of “a field into which a user is to enter information by writing on a touch sensitive screen using a stylus.” The Datamation article quotes the Chemical Bank executive responsible for implementing the FXFE system as describing deficiencies with electronic pens: “We tried electronic pens, tablets, voice input, you name it. But the tablets demand too much precision on the part of the trader....” Datamation, supra, at 148.
+ 
+The article also details the need for fast and efficient entry of trades, describing traders who “handle 1,000 trades a day, and often deal so quickly that they cannot  *1317 write down all their trades on separate slips of paper.” Id. at 146. From this description, it’s understandable how the jury could have concluded that a skilled artisan would not have had a reason to combine the Easel system with a slower means of inputting information such as “writing on a touch sensitive screen using a stylus.” For these reasons, the district court did not err in denying Microsoft’s motion for JMOL that claim 21 would have been obvious.
+ 
+
+III. Infringement
+The jury found indirect infringement by Microsoft. Claims 19 and 21 are method claims; thus, Microsoft’s sales of its software alone cannot infringe the patent. Infringement occurs only when someone performs the method using a computer running the necessary software. Thus, Microsoft can only be liable for infringement of claims 19 and 21 as a contributor and/or an inducer.
+ 
+Microsoft makes the following arguments concerning indirect infringement. First, Lucent didn’t prove direct infringement, a necessary predicate for proving indirect infringement. Second, Lucent didn’t prove contributory infringement because the products have substantial noninfringing uses. Third, Lucent can’t prove inducement because the products are merely capable of inducing and Microsoft wasn’t shown to have the requisite intent to induce. We address each argument in turn.
+ 
+
+A. Direct Infringement
+[11] To infringe a method claim, a person must have practiced all steps of the claimed method. See Joy Techs., Inc. v. Flakt, Inc., 6 F.3d 770, 775 (Fed.Cir.1993) (“A method claim is directly infringed only by one practicing the patented method.”); see also 35 U.S.C. § 271 (2006). Just as anticipation can be found by a single prior art use, a finding of infringement can rest on as little as one instance of the claimed method being performed during the pertinent time period.
+ 
+[12] Lucent asserts that certain features of Outlook, Money, and Windows Mobile, when used, practice the methods of claims 19 and 21. For instance, Outlook includes a calendar tool that allows the user to enter dates in a form when preparing a record of an appointment. The tool displays a monthly calendar as a grid of numbered dates, along with graphical controls that allow the user to scroll to adjacent months or skip directly to a different month and year. Once the user defines a date with the tool, the software enters the numerical day, month, and year into the corresponding field in the appointment form. Similar to the number pad tool illustrated in the Day patent, Outlook’s calendar date-picker tool enables the user to select a series of numbers, corresponding to the day, month, and year, using graphical controls. This date-picker calendar tool is incorporated in a few of Outlook’s features. Microsoft Money and Windows Mobile have similar functionalities.
+ 
+According to Microsoft, Lucent failed to introduce any evidence that any customer actually used the claimed method in any of the Microsoft products. Noting that “each accused product has numerous uses that do not involve forms with onscreen composition tools” and that “the specific narrow function of the patented method—filling in a form—can be performed without using the asserted ‘composition tool’ features,” Microsoft urges that “infringement is not inevitable.” The only evidence of direct infringement, in Microsoft’s view, is the testimony of Lucent’s expert.
+ 
+We agree with Microsoft that there was little, if any, direct evidence of infringement. Lucent’s expert testified on cross-examination as follows:
+*1318 Q: And you didn’t provide any evidence of anybody, any of Dell’s customers, for example, who actually performed all of the steps of the claims, right?
+A: Well, I can confess here and now that as a Dell customer, I did perform all steps of this claim many, many times.
+Q: When did you do it?
+A: Oh, back in—we’ve had Quicken on our Windows machines since around ′98 or ′99. So I’ve used that particular piece of software extensively using these tools.
+Q: These gentlemen sitting over here may want to talk to you after you get off the stand.
+A: I’m afraid they may.
+Q: But you didn’t produce any evidence to this jury that anybody other than Lucent’s trial team and its witnesses who actually performed every single step of the claim, is that fair?
+A: Again, my wife performed them all, so—
+J.A. 07517. As is evident, Microsoft correctly points out that Lucent’s direct evidence of infringement was limited.
+ 
+If that were the only evidence of performing the claimed method, we would likely have to reverse. Nevertheless, circumstantial evidence was just adequate to permit a jury to find that at least one other person within the United States during the relevant time period, other than the expert, had performed the claimed method. Lucent’s expert testified that “[i]t’s hard to imagine that we’re the only two people in the world that ever used it.” J.A. 07517. As Lucent notes “Microsoft not only designed the accused products to practice the claimed invention, but also instructed its customers to use the accused products in an infringing way.”
+ 
+An informative case is Moleculon Research Corp. v. CBS, Inc., 793 F.2d 1261 (Fed.Cir.1986), in which we affirmed a district court’s finding of direct infringement based on circumstantial evidence. In Moleculon, the district court held that the patentee “had met its burden of showing infringement under section 271(b) with circumstantial evidence of extensive puzzle sales, dissemination of an instruction sheet teaching the method of restoring the preselected pattern with each puzzle, and the availability of a solution booklet on how to solve the puzzle.” Id. at 1272. Similarly, in the present case, the jury reviewed evidence relating to the extensive sales of Microsoft products and the dissemination of instruction manuals for the Microsoft products. The jury also heard corresponding testimony from Lucent’s infringement expert. The circumstantial documentary evidence, supplementing the experts’ testimony, was just barely sufficient to permit the jury to find direct infringement by a preponderance of the evidence. As in Moleculon, the jury in the present case could have reasonably concluded that, sometime during the relevant period from 2003 to 2006, more likely than not one person somewhere in the United States had performed the claimed method using the Microsoft products. See Moleculon, 793 F.2d at 1272 (“It is hornbook law that direct evidence of a fact is not necessary. ‘Circumstantial evidence is not only sufficient, but may also be more certain, satisfying and persuasive than direct evidence.’ ” (quoting Michalic v. Cleveland Tankers, Inc., 364 U.S. 325, 330, 81 S.Ct. 6, 5 L.Ed.2d 20 (1960))); see also Alco Standard Corp. v. Tenn. Valley Auth., 808 F.2d 1490, 1503 (Fed.Cir.1986) (“Although the evidence of infringement is circumstantial, that does not make it any less credible or persuasive.”).
+ 
+In challenging the jury’s verdict, Microsoft contends that two cases control our review: ACCO Brands, Inc. v. ABA Locks Manufacturer Co., 501 F.3d 1307 (Fed.Cir.2007), and E–Pass Technologies, Inc. v. 3Com Corp., 473 F.3d 1213 (Fed.Cir.2007). Although similar, these precedents differ *1319 enough from the facts of the present case, thus allowing the jury’s verdict to stand. In ACCO Brands, we held that a jury’s finding of induced infringement was not supported by substantial evidence. 501 F.3d at 1314. ACCO, the patentee, relied only on its expert’s testimony that the “natural and intuitive way to employ” the accused product, a computer lock, was in an infringing mode. Id. at 1312. Importantly, however, ACCO’s expert “had no opinion” on the issue of “whether users other than himself used the lock in the infringing manner.” Id. at 1313. Furthermore, the locks were sold not only without instructions teaching the infringing method, but with instructions teaching the non-infringing use. Id. The jury also had no evidence suggesting that the U.S. distributor of the locks was aware of any infringing instructions. Id.
+ 
+In a similar vein, E–Pass does not compel the overturning of the jury’s verdict. There, the patentee tried to rely on “excerpts from the product manuals for various of the accused devices.” 473 F.3d at 1222. All the court had before it, however, was evidence “show[ing], at best, that the Palm defendants taught their customers each step of the claimed method in isolation.” Id. Thus, in both ACCO Brands and E–Pass, the patentees failed to introduce even circumstantial evidence of infringing acts.
+ 
+Microsoft also misreads our holding in Ball Aerosol & Specialty Container, Inc. v. Limited Brands, Inc., 555 F.3d 984 (Fed.Cir.2009). There, we reversed the district court’s grant of summary judgment of infringement of a patent claiming a candle tin with a removable cover that also acts as a base for the candle holder. The issue in Ball Aerosol was one of claim construction rather than whether circumstantial evidence proved infringement. The patentee argued that “an apparatus patent claim with functional elements is infringed if the accused product is reasonably capable of being used without substantial modification in the manner recited in the claim.” Id. at 994. The patentee conceded that there was “no proof that the Travel Candle was ever placed in the infringing configuration.” Id. at 995.
+ 
+Without doubt, Lucent would have been on much firmer ground had it introduced some direct evidence of using the claimed method. Nevertheless, Lucent’s circumstantial evidence of infringement was “something less than the weight of the evidence,” Consolo v. Fed. Maritime Comm’n, 383 U.S. 607, 620, 86 S.Ct. 1018, 16 L.Ed.2d 131 (1966), yet it was just “more than a mere scintilla,” Consol. Edison Co. v. NLRB, 305 U.S. 197, 229, 59 S.Ct. 206, 83 L.Ed. 126 (1938). Accordingly and for these reasons, we are not convinced that the district court erred in denying Microsoft’s JMOL motion with respect to infringement. For similar reasons, substantial evidence supports the jury’s finding as it relates to direct infringement by the use of Microsoft Money and Windows Mobile.
+ 
+[13] Microsoft also complains that the infringement finding was erroneous because Microsoft Outlook does not contain a “composition tool.”6 This argument likewise fails. A Lucent expert, Mr. Bruce Tognazzini, testified that the calendar tool in Outlook works by combining information to compose a complete date. He further explained that a composition tool is one that has “the ability to combine” information. A Microsoft expert, Mr. Dale Buscaino, appeared to concede this point as well, admitting that “a composition tool *1320 allows a user to put together parts.” Although most of Microsoft’s expert testimony disputed whether Outlook contained a composition tool, that testimony was insufficient to require a reasonable jury to find as a factual matter only noninfringement.
+ 
+
+B. Contributory Infringement
+[14] Under 35 U.S.C. § 271(c), a party is liable for infringement if he “offers to sell or sells within the United States or imports into the United States ... a material or apparatus for use in practicing a patented process, constituting a material part of the invention, knowing the same to be especially made or especially adapted for use in an infringement of such patent, and not a staple article or commodity of commerce suitable for substantial noninfringing use.” “In order to succeed on a claim of contributory infringement, in addition to proving an act of direct infringement, plaintiff must show that defendant ‘knew that the combination for which its components were especially made was both patented and infringing’ and that defendant’s components have ‘no substantial non-infringing uses.’ ” Cross Med. Prods., Inc. v. Medtronic Sofamor Danek, Inc., 424 F.3d 1293, 1312 (Fed.Cir.2005) (quoting Golden Blount, Inc. v. Robert H. Peterson Co., 365 F.3d 1054, 1061 (Fed.Cir.2004)).
+ 
+[15] According to Microsoft, Lucent did not prove contributory infringement because the products have substantial noninfringing uses. Lucent counters that the date-picker tool does not have any noninfringing uses. Thus, as framed by the parties, the main issue reduces to whether the “material or apparatus” is the entire software package or just the particular tool (e.g., the calendar date-picker) that performs the claimed method. If the former, then Microsoft prevails because the entire software package has substantial noninfringing uses. If the material or apparatus is the specific date-picker tool, then Lucent wins because that tool was “especially made or especially adapted for” practicing the claimed method.
+ 
+One example illustrates the problem with Microsoft’s approach. Consider a software program comprising five—and only five—features. Each of the five features is separately and distinctly patented using a method claim. That is, the first feature infringes a method claim in a first patent, the second feature infringes a method claim in a second patent, and so forth. Assume also that the company selling the software doesn’t provide specific instructions on how to use the five features, thus taking potential liability outside the realm of § 271(b). In this scenario, under Microsoft’s position, the software seller can never be liable for contributory infringement of any one of the method patents because the entire software program is capable of substantial noninfringing use. This seems both untenable as a practical outcome and inconsistent with both the statute and governing precedent.
+ 
+Similarly, if, instead of selling Outlook with the date-picker, Microsoft had offered the date-picker for sale as a separate download to be used with Outlook, there would be little dispute that Microsoft was contributing to infringement of the Day patent. As we explained in Ricoh Co. v. Quanta Computer Inc., 550 F.3d 1325, 1337 (Fed.Cir.2008), cert. denied, 557 U.S. 936, 129 S.Ct. 2864, 174 L.Ed.2d 578 (2009), an infringer “should not be permitted to escape liability as a contributory infringer merely by embedding [the infringing apparatus] in a larger product with some additional, separable feature before importing and selling it.”
+ 
+Microsoft puts much reliance on Hodosh v. Block Drug Co., 833 F.2d 1575 (Fed.Cir.1987). Microsoft understands Hodosh to require “a focus on the product actually *1321 sold, not on a mere ingredient.” Under this view, Microsoft didn’t contribute to infringement because “[e]ach accused product had substantial noninfringing uses.” Instead, according to Microsoft, the district court “eviscerate[d] Hodosh and read[ ] ‘substantial noninfringing use’ out of the statute.”
+ 
+But our court has previously rejected the interpretation of Hodosh urged by Microsoft on appeal:
+[T]his reading of Hodosh divorces the court’s holding from the facts upon which it was rendered. In focusing on “what was actually sold,” the Hodosh court rejected the argument that an otherwise infringing product may automatically escape liability merely because it contains a noninfringing staple ingredient.... It does not follow from Hodosh that the inclusion of a component with substantial noninfringing uses in a product that contains other components useful only to infringe a process patent can or should defeat liability for contributory infringement under § 271(c).
+Ricoh, 550 F.3d at 1339–40.
+ 
+More importantly, Microsoft fails to appreciate the factual basis for Hodosh’s holding. In Hodosh, the patent at issue claimed “a method for desensitizing teeth with a composition containing an alkali metal nitrate.” 833 F.2d at 1576. The accused infringer sold toothpaste, e.g., “Sensodyne–F,” containing potassium nitrate, an alkali metal nitrate. Id.; see also Hodosh v. Block Drug Co., 786 F.2d 1136, 1137 (Fed.Cir.1986). The accused infringer argued that the sale of the toothpaste, which itself was not patented, could not constitute contributory infringement because the toothpaste contained a staple article, i.e., potassium nitrate. Hodosh, 833 F.2d at 1578. The court rejected this argument. While potassium nitrate, when sold in bulk form, was “a staple article or commodity of commerce suitable for substantial noninfringing use,” it was suitable only for the infringing use when sold as an ingredient in the toothpaste specially made to perform the patented method of desensitizing teeth.
+ 
+Here, the infringing feature for completing the forms, i.e., the date-picker tool, is suitable only for an infringing use. Inclusion of the date-picker feature within a larger program does not change the date-picker’s ability to infringe. Because Microsoft included the date-picker tool in Outlook, the jury could reasonably conclude, based on the evidence presented, that Microsoft intended computer users to use the tool—perhaps not frequently—and the only intended use of the tool infringed the Day patent. See Metro–Goldwyn–Mayer Studios Inc. v. Grokster, Ltd., 545 U.S. 913, 932, 125 S.Ct. 2764, 162 L.Ed.2d 781 (2005) (explaining that the contributory infringement doctrine “was devised to identify instances in which it may be presumed from distribution of an article in commerce that the distributor intended the article to be used to infringe another’s patent, and so may justly be held liable for that infringement”).
+ 
+Finally, Microsoft contends that § 271(c) is not applicable here. Relying solely on Microsoft Corp. v. AT & T Corp., 550 U.S. 437, 127 S.Ct. 1746, 167 L.Ed.2d 737 (2007), without further analysis, Microsoft contends that its “products are not a ‘material or apparatus’ as the statute requires for contributory infringement of patented methods.” We need only respond that the Supreme Court in Microsoft did not address the meaning of “material or apparatus” in § 271(c).
+ 
+
+C. Inducing Infringement
+[16] [17] [18] [19] [20] A party who “actively induces infringement of a patent shall be liable as an infringer.” 35 U.S.C. § 271(b). Under this provision, “[t]he plaintiff has the burden *1322 of showing that the alleged infringer’s actions induced infringing acts and that he knew or should have known his actions would induce actual infringements.” Manville Sales Corp. v. Paramount Sys., Inc., 917 F.2d 544, 553 (Fed.Cir.1990), quoted in DSU Med. Corp. v. JMS Co., 471 F.3d 1293, 1306 (Fed.Cir.2006) (en banc in relevant part). “[A] finding of inducement requires a threshold finding of direct infringement—either a finding of specific instances of direct infringement or a finding that the accused products necessarily infringe.” Ricoh, 550 F.3d at 1341 (citing ACCO Brands, 501 F.3d at 1313). “[I]nducement requires evidence of culpable conduct, directed to encouraging another’s infringement, not merely that the inducer had knowledge of the direct infringer’s activities.” DSU Med., 471 F.3d at 1306. A plaintiff may still prove the intent element through circumstantial evidence, just as with direct infringement, as discussed above. See id.; see also Fuji Photo Film Co. v. Jazz Photo Corp., 394 F.3d 1368, 1377 (Fed.Cir.2005) (“A patentee may prove intent through circumstantial evidence.”); Water Techs. Corp. v. Calco, Ltd., 850 F.2d 660, 668 (Fed.Cir.1988) (“While proof of intent is necessary, direct evidence is not required; rather, circumstantial evidence may suffice.”). Evidence of active steps taken to induce infringement, such as advertising an infringing use, can support a finding of an intention for the product to be used in an infringing manner. DSU Med., 471 F.3d at 1305 (citing Grokster, 545 U.S. at 932, 125 S.Ct. 2764).
+ 
+[21] Microsoft argues that Lucent can’t prove inducement because the software products are merely capable of infringing and the evidence didn’t show the requisite intent to induce. As Microsoft sees it, “all Lucent has shown is that ‘hypothetical direct infringement’ might result if users choose particular options in each accused product.” Relying on DSU Medical and Kyocera Wireless Corp. v. International Trade Commission, 545 F.3d 1340 (Fed.Cir.2008), Microsoft contends that
+Lucent presented only the same circumstantial evidence regarding the alleged possibility of using the accused products to infringe—marketing materials and help files—as evidence of intent to induce infringement of the Day patent. With regard to Outlook, for example, Lucent relied on materials generally describing Outlook’s use of forms and its calendar feature. No evidence showed that Microsoft encouraged use of the date-picker or even mentioned the date-picker specifically. With regard to Money, the evidence showed that Microsoft encouraged customers to enter information by downloading it from the Internet, which avoids manually filling out the transaction form. And for Windows Mobile, Lucent presented evidence of general instructions on how to use the product and statements promoting its general use of forms and ease of use. None of these materials induces customers to use a composition tool to fill out a computer-based form.
+Appellant Br. 52 (citations omitted).
+ 
+Lucent responds, asserting that “Microsoft both encouraged others to commit infringing acts and knew or should have known that its conduct would result in direct infringement.” Lucent cites its expert’s testimony as supporting the jury’s finding that “the infringing pop-up tool functionality is pervasive in the accused products; that the normal and intended operation of those products used the infringing functionality; and that Microsoft encouraged and intended users to infringe.” Lucent also argues that the evidence “established that onscreen pop-up tools are critical to the functionality of the accused products,” and that “Microsoft *1323 provided instruction, tutorials, and other materials directing users to operate the accused products in an infringing manner.”
+ 
+Having perused the evidence, we agree with Microsoft that the evidence is not strong, but we are not persuaded that the jury was unreasonable in finding that Microsoft possessed the requisite intent to induce at least one user of its products to infringe the claimed methods. With respect to inducing infringement with Outlook, Lucent points to the following testimony of its expert.
+Q: Does Microsoft intend users to use the forms and the different tools that we just looked at?
+A: Yes, definitely. It would be—you’d be unable to use the application and avoid forms.
+Q: So would you say then the form entry and the predefined tools of Microsoft Outlook form a material part of the limitations of claim 19 of the Day patent?
+A: Yes.
+Q: And the Outlook is specifically designed to use these forms and these predefined tools?
+A: Yes, it is.
+Q: Does Microsoft know that Outlook was designed to perform in that fashion?
+A: Yes. Again, they designed it. So they know they designed it to do that.
+J.A. 07441–42. At one point, Lucent’s infringement expert explained, on cross-examination, how certain Microsoft documentation encouraged users to use the infringing tool.
+Q: Okay. Let’s look at [the document]. Access shared team calendars in Outlook 2003. View multiple calendars side by side to make scheduling meetings fast and more convenient.
+A: Right.
+Q: Is it the part about scheduling meetings—
+A: That’s correct.
+Q:—that you now say is encouraging this method of Claim 19?
+A: Well, yeah. You schedule meetings using this appointment form.
+J.A. 07510. Additional circumstantial evidence lends further, albeit limited, support for the jury’s factual finding of intent. And our review reveals slightly stronger circumstantial evidence of intent concerning Windows Mobile and Microsoft Money.
+ 
+For these reasons, we affirm the district court’s denial of Microsoft’s motion for JMOL that Microsoft did not induce infringement of the Day patent.
+ 
+
+IV. Damages
+Based on the evidence of record, Microsoft (and Dell) sold approximately 110 million units of the three software products capable of practicing the methods of the asserted claims. The total dollar value of the sales was approximately $8 billion. At trial, Lucent’s theory of damages was based on 8% of sales revenue for the accused software products, and it asked the jury to award $561.9 million based on Microsoft’s infringing sales. Microsoft countered that a lump-sum payment of $6.5 million would have been the correct amount for licensing the protected technology. See Lucent Techs., 580 F.Supp.2d at 1042 & n. 7.
+ 
+Microsoft challenges the jury’s damages award on several bases. First, Microsoft argues that the jury should not have applied the entire market value rule to the value of its three software products. Microsoft’s second argument for reversing the damages award is that, for method claims, Dynacore Holdings Corp. v. U.S. Philips Corp., 363 F.3d 1263 (Fed.Cir.2004), requires that damages be limited to the proven number of instances of actual infringing use. Microsoft states that, “[u]nder Dynacore, Lucent had to tie its damages claim to demonstrated instances *1324 of direct infringement.” For the reasons stated below, we reject both arguments as presented by Microsoft. We agree, nevertheless, with Microsoft’s argument that substantial evidence does not support the jury’s verdict of a lump-sum royalty payment of $357,693,056.18. Further, to the extent the jury relied on an entire market value calculation to arrive at the lump-sum damages amount, that award is not supported by substantial evidence and is against the clear weight of the evidence.
+ 
+
+A. Reasonable Royalty
+“Upon finding for the claimant the court shall award the claimant damages adequate to compensate for the infringement, but in no event less than a reasonable royalty for the use made of the invention by the infringer, together with interest and costs as fixed by the court.” 35 U.S.C. § 284. As the Supreme Court has framed the general issue of determining damages, at least for competitors, a court must ask, “[H]ad the Infringer not infringed, what would [the] Patent Holder[ ] have made?” Aro Mfg. Co. v. Convertible Top Replacement Co., 377 U.S. 476, 507, 84 S.Ct. 1526, 12 L.Ed.2d 457 (1964); see also Pall Corp. v. Micron Separations, Inc., 66 F.3d 1211, 1223 (Fed.Cir.1995) (“[T]he purpose of compensatory damages is not to punish the infringer, but to make the patentee whole.”). In the Supreme Court’s words, awarding damages through litigation attempts to assess “the difference between [the patentee’s] pecuniary condition after the infringement, and what his condition would have been if the infringement had not occurred.” Yale Lock Mfg. Co. v. Sargent, 117 U.S. 536, 552, 6 S.Ct. 934, 29 L.Ed. 954 (1886).
+ 
+[22] [23] The burden of proving damages falls on the patentee. Dow Chem. Co. v. Mee Indus., Inc., 341 F.3d 1370, 1381 (Fed.Cir.2003); Kearns v. Chrysler Corp., 32 F.3d 1541, 1551 (Fed.Cir.1994). Two alternative categories of infringement compensation are the patentee’s lost profits and the reasonable royalty he would have received through arms-length bargaining. See Panduit Corp. v. Stahlin Bros. Fibre Works, Inc., 575 F.2d 1152, 1157 (6th Cir.1978) (Markey, J.). Lost profits are not at issue in the present case. A reasonable royalty is, of course, “merely the floor below which damages shall not fall.” Bandag, Inc. v. Gerrard Tire Co., 704 F.2d 1578, 1583 (Fed.Cir.1983).
+ 
+[24] [25] [26] [27] Litigants routinely adopt several approaches for calculating a reasonable royalty. The first, the analytical method, focuses on the infringer’s projections of profit for the infringing product. See TWM Mfg. Co. v. Dura Corp., 789 F.2d 895, 899 (Fed.Cir.1986) (describing the analytical method as “subtract[ing] the infringer’s usual or acceptable net profit from its anticipated net profit realized from sales of infringing devices”); see also John Skenyon et al., Patent Damages Law & Practice § 3:4, at 3–9 to 3–10 (2008) (describing the analytical method as “calculating damages based on the infringer’s own internal profit projections for the infringing item at the time the infringement began, and then apportioning the projected profits between the patent owner and the infringer”). The second, more common approach, called the hypothetical negotiation or the “willing licensor-willing licensee” approach, attempts to ascertain the royalty upon which the parties would have agreed had they successfully negotiated an agreement just before infringement began. See Georgia–Pacific Corp. v. U.S. Plywood Corp., 318 F.Supp. 1116, 1120 (S.D.N.Y.1970); see also Rite–Hite Corp. v. Kelley Co., 56 F.3d 1538, 1554 n. 13 (Fed.Cir.1995) (en banc); Radio Steel & Mfg. Co. v. MTD Prods., Inc., 788 F.2d 1554, 1557 (Fed.Cir.1986) (“The determination of a reasonable royalty, however, is *1325 based not on the infringer’s profit, but on the royalty to which a willing licensor and a willing licensee would have agreed at the time the infringement began.”); Panduit, 575 F.2d at 1159 (“Among the relevant facts are: what plaintiff’s property was, to what extent defendant has taken it, its usefulness and commercial value as shown by its advantages over other things and by the extent of its use, and the commercial situation.” (citations and quotation marks omitted)). The hypothetical negotiation tries, as best as possible, to recreate the ex ante licensing negotiation scenario and to describe the resulting agreement. In other words, if infringement had not occurred, willing parties would have executed a license agreement specifying a certain royalty payment scheme. The hypothetical negotiation also assumes that the asserted patent claims are valid and infringed.
+ 
+In the present appeal, the parties, in offering the damages evidence, each adopted the hypothetical negotiation approach, without objection. Both Microsoft and Lucent must therefore accept that any reasonable royalty analysis “necessarily involves an element of approximation and uncertainty.” Unisplay, 69 F.3d at 517. We review the damages award within the Georgia–Pacific framework.
+ 
+Before the district court, Lucent asked for a damages award based only on a running royalty. Microsoft, on the other hand, told the jury that the damages should be a lump-sum royalty payment of $6.5 million. Based on the verdict form, the jury decided on a lump-sum award, not a running royalty. The verdict form notes a lump-sum damages amount and no amount (i.e., zero or “N/A”) on the lines for a running royalty. Faced with the jury’s selection, our task is to determine whether substantial evidence supports a lump-sum, paid-in-full royalty of approximately $358 million for Microsoft’s indirect infringement of the Day patent. To do this, we must decide whether substantial evidence supports the jury’s implicit finding that Microsoft would have agreed to, at the time of the hypothetical negotiation, a lump-sum, paid-in-full royalty of about $358 million. In performing this analysis, we focus mainly on the damages case as it applies to Microsoft Outlook, as infringement by the use of Outlook apparently constituted the vast majority of the award. We focus also on the relevant Georgia–Pacific factors, as presented to the jury through all the evidence and particularly the experts’ testimony.
+ 
+We also note the following at the outset of our analysis. Microsoft does not argue on appeal that any of the evidence relevant to the damages award was improperly before the jury. At times, Microsoft’s briefs seem to suggest that the district court judge “abdicated” her role as a gatekeeper. The responsibility for objecting to evidence, however, remains firmly with the parties. Here, the record reveals that, at trial, Microsoft objected neither to the introduction of any of the licenses discussed below nor to the testimony of Lucent’s expert as it related to those licenses. In this instance, the district court judge had no independent mandate to exclude any of that evidence. Therefore, we must accept that the licensing agreements and other evidence were properly before the jury. Any implicit objection on appeal is deemed waived by failing to object at trial.
+ 
+
+1. Factor 2
+[28] The second Georgia–Pacific factor is “[t]he rates paid by the licensee for the use of other patents comparable to the patent in suit.” 318 F.Supp. at 1120. This factor examines whether the licenses relied on by the patentee in proving damages are sufficiently comparable to the hypothetical license at issue in suit. See Russell L. Parr, Royalty Rates for Licensing Intellectual *1326 Property 64 (2007) (“For similar license agreements to be used as a proxy for derivation of a fair market royalty, the form of license compensation should be on a like-kind basis.”). Subsumed within this factor is the question of whether the licensor and licensee would have agreed to a lump-sum payment or instead to a running royalty based on ongoing sales or usage.
+ 
+Significant differences exist between a running royalty license and a lump-sum license. In a standard running royalty license, the amount of money payable by the licensee to the patentee is tied directly to how often the licensed invention is later used or incorporated into products by the licensee. A running royalty structure shifts many licensing risks to the licensor because he does not receive a guaranteed payment. Royalties are dependent on the level of sales or usage by the licensee, which the licensee can often control.
+ 
+Compared to a running royalty analysis, a lump-sum analysis involves different considerations. A lump-sum license “benefits the patentholder in that it enables the company to raise a substantial amount of cash quickly and benefits the target [i.e., the licensee] by capping its liability and giving it the ability, usually for the remainder of the patent term, to actually use the patented technology in its own products without any further expenditure.” Richard F. Cauley, Winning the Patent Damages Case 47 (2009). The lump-sum license removes or shifts certain risks inherent in most arms-length agreements. A lump-sum license removes any risk that the licensee using the patented invention will underreport, e.g., engage in false reporting, and therefore underpay, as can occur with a running royalty agreement. Additionally, for both contracting parties, the lump-sum license generally avoids ongoing administrative burdens of monitoring usage of the invention.
+ 
+A further, important consideration is that an upfront, paid-in-full royalty removes, as an option for the licensee, the ability to reevaluate the usefulness, and thus the value, of the patented technology as it is used and/or sold by the licensee. As generally employed, once a lump-sum license is duly executed, the licensee is obligated to pay the entire, agreed-upon amount for the licensed technology, regardless of whether the technology is commercially successful or even used. A licensee to a lump-sum agreement, under usual licensing terms, cannot later ask for a refund from the licensor based on a subsequent decision not to use the patented technology. There is no provision for buyer’s remorse.
+ 
+The lump-sum structure also creates risks for both parties. The licensed technology may be wildly successful, and the licensee may have acquired the technology for far less than what later proved to be its economic value. The alternative risk, of course, is the licensee may have paid a lump-sum far in excess of what the patented invention is later shown to be worth in the marketplace.
+ 
+As noted, Lucent’s licensing expert, Roger Smith, argued for damages based solely on a running royalty rate. Smith emphasized his choice of a running royalty over a lump-sum payment.
+Q: Now, in each case, in the [other patents in suit] and then finally the Day 356 form entry patent, in each case you’ve selected a running royalty structure for your reasonable royalty; is that right?
+A: I certainly did, yes.
+J.A. 07805. He also explained that “the running royalty in a hypothetical negotiation such as the one we’re considering here would be appropriate, even though lump-sum does have the advantage that brings *1327 the money up front or at least some of it.” Id.
+ 
+On appeal, however, Lucent defends the damages award, contending that substantial evidence supports the lump-sum award of about $358 million. This is problematic for several reasons. First, no evidence of record establishes the parties’ expectations about how often the patented method would be used by consumers. Second, the jury heard little factual testimony explaining how a license agreement structured as a running royalty agreement is probative of a lump-sum payment to which the parties would have agreed. Third, the license agreements for other groups of patents, invoked by Lucent, were created from events far different from a license negotiation to avoid infringement of the one patent here, the Day patent.
+ 
+Parties agreeing to a lump-sum royalty agreement may, during the license negotiation, consider the expected or estimated usage (or, for devices, production) of a given invention, assuming proof is presented to support the expectation, because the more frequently most inventions are used, the more valuable they generally are and therefore the larger the lump-sum payment. Conversely, a minimally used feature, with all else being equal, will usually command a lower lump-sum payment. In this case, Lucent identifies no documentary evidence or testimony showing the parties’ expectations as to usage of the claimed method. Lucent submitted no evidence upon which a jury could reasonably conclude that Microsoft and Lucent would have estimated, at the time of the negotiation, that the patented date-picker feature would have been so frequently used or valued as to command a lump-sum payment that amounts to approximately 8% of the sale price of Outlook. Cf. Interactive Pictures Corp. v. Infinite Pictures, Inc., 274 F.3d 1371, 1384–85 (Fed.Cir.2001) (accepting as suitable factual evidence the patentee’s “business plan and its projections for future sales” prepared “two months before infringement began”).
+ 
+Lucent’s expert Mr. Smith did try to explain how one would calculate what an acceptable lump-sum would be.
+Q: Well, when one is considering what the magnitude of a lump-sum payment might be, does one ever look at what the expected royalty—total royalty would be produced by a running royalty based on the available information at that time?
+A: That generally is the way a lump sum would be determined, by looking at what the running royalty—what the value of each use of the patent might be and then speculating as to the extent of the future use.
+J.A. 07805 (emphasis added). But an explanation urging jurors to rely on speculation, without more, is often insufficient. See Novosteel SA v. United States, 284 F.3d 1261, 1276 (Fed.Cir.2002) (Dyk, J., dissenting) (“It is well established that speculation does not constitute ‘substantial evidence.’ ”). Smith repeated his “lump-sum speculation theory” when he told the jury that parties “speculate” as to what they expect the future to be like when negotiating a lump-sum payment for a patent license. In short, Smith’s testimony could be interpreted as suggesting to the jury that it was proper to “speculate” as to the proper lump-sum damages amount even though he may have intended the word “speculate” to mean “estimate.”
+ 
+Despite this shortcoming in its evidence, Lucent relies on eight varied license agreements which purportedly support the jury’s lump-sum damages award. When we examine these license agreements, along with the relevant testimony, we are left with two strong conclusions. First, some of the license agreements are radically different from the hypothetical agreement under consideration for the Day patent. Second, with the other agreements, *1328 we are simply unable to ascertain from the evidence presented the subject matter of the agreements, and we therefore cannot understand how the jury could have adequately evaluated the probative value of those agreements.
+ 
+Only four of the eight agreements purport to be lump-sum agreements: (1) a 1993 agreement between Dell and IBM for $290 million; (2) a 1996 agreement between Microsoft and Hewlett–Packard for $80 million; (3) a 1997 agreement between Microsoft and Apple Computer for $93 million; and (4) a 1999 agreement between Microsoft and Inprise for $100 million. Lucent’s brief characterizes the four agreements as covering “PC-related patents,” as if personal computer kinship imparts enough comparability to support the damages award. For the latter three, it is impossible for us, based on the record, to determine whether the agreements are at all comparable to the hypothetical agreement of the present suit. For the first agreement, what little explanation there is only underscores the differences between it and any hypothetical agreement for the Day patent.
+ 
+The 1993 agreement between IBM and Dell appears to be a modification of their 1988 agreement. These two IBM–Dell agreements are vastly different from any agreement Microsoft and Lucent would have struck for the Day patent at the time of infringement. As best as we can discern, the 1988 agreement appears to govern IBM’s licensing of its entire patent portfolio protecting its one-time dominance in the personal computer market. See J.A. 08193 (witness testimony explaining in cursory fashion the Dell–IBM agreement); see also Dell Computer Co.: Clones of IBM’s PS/2 Line of Computers Announced, The Wall Street Journal, Apr. 19, 1988, at 13 (reporting that Dell “became the first company to announce copies of International Business Machines Corp.’s year-old Personal System/2 computer line”); Two Companies in Texas Race to Clone PS/2, The Wall Street Journal, Apr. 8, 1988, at 20 (reporting that IBM was “considering raising the royalty it charges, and plans to be more aggressive in making sure competitors take out licenses” for personal computers). At the time, conventional wisdom instructed that selling IBM clones required a license to IBM’s patent portfolio. Dell’s business was built around selling IBM clones. From this information, a reasonable juror could only conclude that the IBM–Dell license agreement for multiple patents to broad, PC-related technologies is directed to a vastly different situation than the hypothetical licensing scenario of the present case involving only one patent, the Day patent, directed to a narrower method of using a graphical user interface tool known as the date-picker. Of course, without more information about the IBM–Dell agreement, one can only speculate about how the Dell–IBM agreement could be compared to any licensing agreement involving the Day patent.
+ 
+For the other three lump-sum agreements, Lucent’s expert supplied no explanation to the jury about the subject matter or patents covered by those agreements. For example, the entire substance of Lucent’s expert’s testimony about the Microsoft–Apple agreement amounted to the following colloquy:
+Q: What did you ascertain or what is Plaintiff’s Exhibit 5150?
+A: Plaintiff’s Exhibit 5150 is a patent cross-license agreement between Microsoft and Apple.
+Q: And what did you find significant about this cross-license agreement between Microsoft and Apple?
+A: The slide that’s on the screen shows that this is a cross-license in which Hewlett—in which Microsoft gave to Apple *1329 in addition to a license under its patents a royalty payment or a balancing payment of some $93,000,000.
+J.A. 07746.7 Counsel for Lucent immediately followed this exchange with an equally scant inquiry into the Microsoft–Inprise agreement.
+ 
+Q: And could you turn in your evidence binder to Plaintiff’s Exhibit 5151 and tell us what that is?
+A: 5151 is a patent cross-license agreement between Microsoft and a company known as Inprise.
+Q: And if you could turn to slide 41, would that assist the presentation of your testimony in connection with that agreement?
+A: It would.
+* * *
+THE WITNESS: This call out shows the essential features of the Inprise Microsoft license agreement which [is] the same general idea as those which we’ve just been looking at. Microsoft pays Inprise a sum of money, in this case $100,000,000, in addition to granting a license under its patents, and Inprise gets a royalty-free license under Microsoft’s patents.
+J.A. 07746. The jury heard similarly superficial testimony about the license agreement between Microsoft and Hewlett–Packard. Lucent’s expert merely observed that, under the cross-license, Hewlett–Packard received “a royalty-free worldwide fully paid up license under the Microsoft patents” and Microsoft “agreed in return for a license under Hewlett Packard’s patents to pay Hewlett Packard the sum of ... $80,000,000.” J.A. 07745.
+Lucent candidly admits in its brief that “none of the real world licenses introduced at trial arose from circumstances identical to those presumed to prevail in the hypothetical royalty negotiation.” Appellee’s Br. 50. Moreover, the testimony excerpted above belies Lucent’s claim of “present[ing] particularized expert testimony explaining how various differences between the real and hypothetical license negotiations ... would factor into the appropriate royalty for Microsoft’s infringement.” Id. The testimony provides no analysis of those license agreements, other than, for example, noting the agreement was a cross-license of a large patent portfolio and the amount paid. Lucent had the burden to prove that the licenses were sufficiently comparable to support the lump-sum damages award. The law does not require an expert to convey all his knowledge to the jury about each license agreement in evidence, but a lump-sum damages award cannot stand solely on evidence which amounts to little more than a recitation of royalty numbers, one of which is arguably in the ballpark of the jury’s award, particularly when it is doubtful that the technology of those license agreements is in any way similar to the technology being litigated here.
+ 
+Lucent also cites four running-royalty license agreements which purportedly provide substantial evidence supporting a lump-sum damages award of approximately $358 million. A significant shortcoming *1330 of these agreements is their “running-royalty” nature, however. As we noted above, certain fundamental differences exist between lump-sum agreements and running-royalty agreements. This is not to say that a running-royalty license agreement cannot be relevant to a lump-sum damages award, and vice versa. For a jury to use a running-royalty agreement as a basis to award lump-sum damages, however, some basis for comparison must exist in the evidence presented to the jury. In the present case, the jury had almost no testimony with which to recalculate in a meaningful way the value of any of the running royalty agreements to arrive at the lump-sum damages award.
+ 
+Additionally, in its brief before us, Lucent appears to misunderstand the nature of a per-unit royalty. Lucent appears to consider a per-unit royalty as being equivalent to a lump-sum royalty. See Appellee’s Br. 49–50 (“[T]he aforementioned licenses—calling for a lump-sum or commuted per-unit royalty not calculated as a function of product revenue—support the damages award entirely independent from Microsoft’s product revenues.”). What that statement ignores is the relationship between product revenues and per-unit running royalties. A per-unit running royalty is paid based on the number of units ultimately sold (or made, etc.), which is of course directly related to product revenues. As more units are sold, more revenue is earned and more royalties are paid. If the licensee chooses to omit the patented feature from its commercial product, the licensee will generally owe no per-unit royalty. Thus, a per-unit running royalty agreement differs from a lump-sum agreement in the same general ways a percentage-of-price running royalty agreement differs from a lump-sum agreement. See Raymond T. Nimmer & Jeff Dodd, Modern Licensing Law § 7:4 (2008) (“Most running royalties fall into one of two categories: fixed price per unit and percentage of revenue/sales/income.”).
+ 
+Furthermore, the running royalty agreements put into evidence, as with the lump-sum agreements, differ substantially from the hypothetical negotiation scenario involving the Day patent. The four running royalty agreements upon which Lucent relies are agreements between itself and Vox Communications (“Vox agreement”); between itself and Kenwood (“Kenwood agreement”); between itself and Acer (“Acer agreement”); and between Microsoft and MPEG–LA (“MPEG agreement”).
+ 
+The Vox agreement covered five Lucent patents, which, as explained by Lucent’s expert, are directed to PC graphics boards manufactured by Vox. In addition to a lump-sum payment of $50,000, Vox agreed to pay a per-unit rate of $2.00 for each licensed product. But no testimony described how the patented technology of the Vox agreement relates to the licensed graphics boards. Lucent’s expert never explained to the jury whether the patented technology is essential to the licensed product being sold, or whether the patented invention is only a small component or feature of the licensed product (as is the case here). The jury also had no information about the price of Vox’s PC graphics boards and thus was unable to assess the magnitude of the $2.00 rate, which seems particularly relevant given Lucent’s defense of an award amounting to about 8% of the market value of Outlook. In the absence of the price of graphics boards, the $2.00 value is difficult, if not impossible, to evaluate. The testimony of Lucent’s expert relating to the Vox agreement was confined essentially to the fact that the agreement is a cross-licensing agreement in which the rights granted to Lucent were royalty-free and that the royalty rate is structured as a commuted rate.
+ 
+*1331 The Kenwood agreement, covering two Lucent patents directed to DVD player products, is a hybrid lump-sum/running royalty cross-license agreement. Kenwood agreed to pay Lucent an up-front payment of $3 million along with a per-unit royalty of $1.50 for each product in excess of 300,000 units. Lucent’s expert told the jury that the Kenwood agreement was a cross-license, conveying rights to Lucent to practice Kenwood’s patents, but the jury never learned anything about those patent rights and how valuable or essential those rights were. Even if we were to apply the $1.50 per unit rate of the Kenwood agreement to the number of infringing units that could be used to infringe in the present case, this would yield only about $165 million, substantially less than the $358 million awarded by the jury.
+ 
+The Acer agreement, executed in 1998, involved eight patents and various commercial products. Lucent refers to the Acer agreement as one involving PC-related patents. During his testimony, Lucent’s expert focused almost exclusively on the per-unit royalty rate of $2.50 and the lump-sum payment of $14.5 million. But the jury again did not hear any explanation of the types of products covered by the agreement or the various royalty rates set forth in the agreement. Specifically, the agreement calls for different royalties for different products. For so-called “reportable products,” the rate is not a fixed dollar amount but set at 2%, while the royalty rates for “semiconductive devices” is in the range of 1%. Furthermore, Lucent did not explain how the fact that the Acer agreement involved eight patents affects how probative it is of the Microsoft–Lucent hypothetical negotiation over one patent. Nor is there any document or testimony upon which a jury could have considered how similar or dissimilar the patented technology of the Acer agreement is to the invention of using the date-picker. Nor is there any evidence or testimony about how the $2.50 per unit rate corresponds to a percentage of the cost of the “personal computers” sold under the license agreement. It is not implausible that the average price of the computers subject to the Acer agreement was close to $1000. See Larry Armstrong, How Did Santa Carry All Those Computers, Business Week, Jan. 11, 1999, at 46, 46 (noting that, in November 1999, “the average selling price of a PC without monitor dropped below $1,000 for the first time”); Roger O. Crockett & Peter Burrows, PC Makers Race to the Bottom, Business Week, Oct. 12, 1998, at 48, 48 (noting an average PC price of about $1,200); Nick Turner, PC World Comes to Grips With Less–Is–More Mentality, Investor’s Business Daily, Dec. 30, 1998, at A8 (citing an average PC cost of $1,026). Such an average price would mean the $2.50 per-unit rate of the Acer agreement equates to approximately one-quarter of one percent of the value of the computer, which is about one-thirtieth the constructive rate awarded to Lucent.
+ 
+Finally, the MPEG agreement on its face supports a higher royalty rate of $4 per unit. But, as with the other running royalty agreements, the structure of the MPEG agreement is more complicated, and the jury had little to no testimony explaining how such complexity would have affected the hypothetical negotiation analysis. Specifically, the 31–page agreement contains numerous provisions covering various MPEG-related products (e.g., decoding products, distribution encoding products, program stream products, etc.). Moreover, the various products appear to have different royalty rates, some as low as a penny per unit.
+ 
+We now consider what Microsoft advocated, namely that the hypothetical negotiation would have yielded a lump-sum licensing agreement for $6.5 million. For whatever reason, Microsoft urged the jury *1332 to accept its theory based on a proffer of a single license Microsoft had executed for a graphical user interface technology. Thus, at a minimum, a reasonable jury could have awarded $6.5 million, or some larger amount as permitted by the evidence. See Rite–Hite, 56 F.3d at 1555 (“[W]hat an infringer would prefer to pay is not the test for damages.”).
+ 
+But we see little evidentiary basis under Georgia–Pacific Factor 2 for awarding roughly three to four times the average amount in the lump-sum agreements in evidence. Here the award was $358 million; there, the amounts were $80, 93, 100, and 290 million. That some licenses were cross-licenses or commuted-rate licenses—which may warrant a higher damages award—does not fill the evidentiary lacunae. Again, it was Lucent’s burden to prove that the licenses relied on were sufficiently comparable to sustain a lump-sum damages award of $358 million. This is not an instance in which the jury chose a damages award somewhere between maximum and minimum lump-sum amounts advocated by the opposing parties. Cf. Fuji Photo, 394 F.3d at 1378 (“[T]he jury is not bound to accept a rate proffered by one party’s expert but rather may choose an intermediate royalty rate.”). For the reasons stated, Factor 2 weighs strongly against the jury’s award.
+ 
+
+2. Factors 10 and 13
+[29] Factor 10 is “[t]he nature of the patented invention; the character of the commercial embodiment of it as owned and produced by the licensor; and the benefits to those who have used the invention.” Georgia–Pacific, 318 F.Supp. at 1120. Factor 13 is “[t]he portion of the realizable profit that should be credited to the invention as distinguished from non-patented elements, the manufacturing process, business risks, or significant features or improvements added by the infringer.” Id. These two factors, at least as applied to the facts of this case, both aim to elucidate how the parties would have valued the patented feature during the hypothetical negotiation.
+ 
+The evidence can support only a finding that the infringing feature contained in Microsoft Outlook is but a tiny feature of one part of a much larger software program. Microsoft’s expert explained that Outlook’s e-mail component is “the part of Outlook that’s most commonly used by our customers.” Microsoft’s witness also explained that, in addition to sending and receiving e-mails, a user can create electronic tasks and notes. Additionally, Outlook can be used as an electronic Rolodex™, storing contact information, such as phone numbers, addresses, and the like. It also has a fully functional calendar system, in which a user can record appointments, meetings, and other items on one’s schedule. As Lucent’s own expert testified, Outlook is a “personal organizer” that is “an integrated suite of abilities to do e-mail, to set up contacts, to arrange meetings, to maintain your personal calendar, et cetera.” In short, Outlook is an enormously complex software program comprising hundreds, if not thousands or even more, features. We find it inconceivable to conclude, based on the present record, that the use of one small feature, the date-picker, constitutes a substantial portion of the value of Outlook.
+ 
+The parties presented little evidence relating to Factor 13. Nonetheless, the only reasonable conclusion is that most of the realizable profit must be credited to non-patented elements, such as “the manufacturing process, business risks, or significant features or improvements added by [Microsoft].” As explained by Microsoft’s expert Mr. Kennedy, Outlook consists of millions of lines of code, only a tiny fraction of which encodes the date-picker feature. Although the weighing of Factor 13 *1333 cannot be reduced to a mere counting of lines of code, the glaring imbalance between infringing and non-infringing features must impact the analysis of how much profit can properly be attributed to the use of the date-picker compared to non-patented elements and other features of Outlook. Here, numerous features other than the date-picker appear to account for the overwhelming majority of the consumer demand and therefore significant profit.
+ 
+The only reasonable conclusion that can be drawn from this evidence is that the infringing use of Outlook’s date-picker feature is a minor aspect of a much larger software program and that the portion of the profit that can be credited to the infringing use of the date-picker tool is exceedingly small. For these reasons, Factors 10 and 13 of Georgia–Pacific provide little support for the jury’s lump-sum damages award of $357,693,056.18.
+ 
+
+3. Factor 11
+[30] Factor 11 is “[t]he extent to which the infringer has made use of the invention; and any evidence probative of the value of that use.” Georgia–Pacific, 318 F.Supp. at 1120. As with Factors 10 and 13, the eleventh factor informs the court and jury about how the parties would have valued the patented feature during the hypothetical negotiation. In doing so, Factor 11 relies on evidence about how much the patented invention has been used. Implicit in this factor is the premise that an invention used frequently is generally more valuable than a comparable invention used infrequently.
+ 
+During oral argument, Microsoft characterized as irrelevant information about how often the date-picker tool has in fact been used by consumers of Microsoft products. That is so, according to Microsoft, because such facts postdate the time of the hypothetical negotiation. See Hanson v. Alpine Valley Ski Area, Inc., 718 F.2d 1075, 1081 (Fed.Cir.1983) (“The issue of the infringer’s profit is to be determined not on the basis of a hindsight evaluation of what actually happened, but on the basis of what the parties to the hypothetical license negotiations would have considered at the time of the negotiations.”). But neither precedent nor economic logic requires us to ignore information about how often a patented invention has been used by infringers. Nor could they since frequency of expected use and predicted value are related.
+ 
+In Sinclair Refining Co. v. Jenkins Petroleum Process Co., 289 U.S. 689, 698, 53 S.Ct. 736, 77 L.Ed. 1449 (1933), the Supreme Court recognized that factual developments occurring after the date of the hypothetical negotiation can inform the damages calculation:
+[A] different situation is presented if years have gone by before the evidence is offered. Experience is then available to correct uncertain prophecy. Here is a book of wisdom that courts may not neglect. We find no rule of law that sets a clasp upon its pages, and forbids us to look within.
+Similarly, our case law affirms the availability of post-infringement evidence as probative in certain circumstances. In Fromson v. Western Litho Plate & Supply Co., 853 F.2d 1568, 1575 (Fed.Cir.1988), overruled on other grounds by Knorr–Bremse Systeme Fuer Nutzfahrzeuge GmbH v. Dana Corp., 383 F.3d 1337 (Fed.Cir.2004) (en banc), we observed that the hypothetical negotiation analysis “permits and often requires a court to look to events and facts that occurred thereafter and that could not have been known to or predicted by the hypothesized negotiators.”
+ 
+[31] Consideration of evidence of usage after infringement started can, under appropriate circumstances, be helpful to the *1334 jury and the court in assessing whether a royalty is reasonable. Usage (or similar) data may provide information that the parties would frequently have estimated during the negotiation. See Sinclair Ref., 289 U.S. at 697, 53 S.Ct. 736 (“The use that has been made of the patented device is a legitimate aid to the appraisal of the value of the patent at the time of the breach.”). Such data might, depending on the case, come from sales projections based on past sales, consumer surveys, focus group testing, and other sources. Even though parties to a license negotiation will usually not have precise data about future usage, they often have rough estimates as to the expected frequency of use. This quantitative information, assuming it meets admissibility requirements, ought to be given its proper weight, as determined by the circumstances of each case.
+ 
+On the other hand, we have never laid down any rigid requirement that damages in all circumstances be limited to specific instances of infringement proven with direct evidence. Such a strict requirement could create a hypothetical negotiation far-removed from what parties regularly do during real-world licensing negotiations. As shown by the evidence in this case, companies in the high-tech computer industry often strike licensing deals in which the amount paid for a particular technology is not necessarily limited to the number of times a patented feature is used by a consumer. A company licensing a patented method often has strong reasons not to tie the royalty amount strictly to usage. The administrative cost of monitoring usage can be prohibitively expensive. Furthermore, with some inventions, say for example a method of detecting fires, value is added simply by having the patented invention available for use. Cf. Hanson, 718 F.2d at 1080–81 (approving a reasonable royalty not based on “actual use of the snowmaking machinery” but on what a party would have paid to have the machine available to use). Thus, potential licensors and licensees routinely agree to royalty payments regardless of whether the invention is used frequently or infrequently by the consumer.
+ 
+With the foregoing in mind, we observe that the evidence of record is conspicuously devoid of any data about how often consumers use the patented date-picker invention. In one respect, Lucent believes the damages award is supported by the pervasive use of forms throughout the three software programs. What this position lacks is the requisite focus on the infringed claim. The damages award can’t be supported by evidence that the infringers also used additional, non-infringing features. Only when the date-picker is used to fill out a form does infringement occur. All other means of filling out a form, such as typing in the entire date, do not infringe. The damages award ought to be correlated, in some respect, to the extent the infringing method is used by consumers. This is so because this is what the parties to the hypothetical negotiation would have considered. Lucent tries to stretch the claim scope so that claim 19 covers all pop-up tools. If this were the proper claim construction, we might have to reverse the validity ruling. But the claim construction—which neither party has appealed—is not so broad.
+ 
+Furthermore, Lucent’s reliance on Dynacore is unavailing. As we noted above, substantial evidence supports the jury’s verdict of indirect infringement by Microsoft. But all the circumstantial evidence supports is the jury’s implicit finding that at least one person performed the patented method one time in the United States sometime during the relevant period. Beyond that finding, all the jury had was speculation. No evidence describes how many Microsoft Outlook users had ever performed the patented method or how  *1335 many times. Lucent had the burden to prove that the extent to which the infringing method has been used supports the lump-sum damages award.
+ 
+
+4. Other Factors
+[32] Other Georgia–Pacific factors applicable here include “[t]he nature and scope of the license, as exclusive or nonexclusive” (Factor 3); “[t]he licensor’s established policy and marketing program to maintain his patent monopoly” (Factor 4); “[t]he commercial relationship between the licensor and the licensee” (Factor 5); “[t]he established profitability of the product made under the patent” (Factor 8); “[t]he utility and advantages of the patent property over the old modes or devices” (Factor 9); and “[t]he portion of the profit or of the selling price that may be customary ... to allow for the use of the invention” (Factor 12). 318 F.Supp. at 1120. To the extent these factors are relevant, they appear somewhat to offset one another.
+ 
+For instance, Factor 8, the profitability of the product made, supports a higher versus a lower reasonable royalty, given the unrebutted evidence that the products at issue are sold with an approximately 70–80% profit margin. Contrasting this evidence are Factors 3 and 9. Non-exclusive licenses generally command lower royalties. See Parr, supra, at 64 (“Typically, higher royalty rates are associated with license agreements that provide the licensee with exclusive rights to use the IP.”). And, from the evidence presented, the infringing use of the date-picker seems to have, at best, only a slight advantage over what is arguably the closest prior art. We are mindful, however, that a jury could have reasonably concluded otherwise with several of the factors mentioned here. Even so, such reasonable conclusions, in this case, cannot overcome the substantial infirmities in the evidence for the other factors detailed above.
+ 
+
+5. Conclusion on Lump–Sum Reasonable Royalty
+[33] Having examined the relevant Georgia–Pacific factors, we are left with the unmistakable conclusion that the jury’s damages award is not supported by substantial evidence, but is based mainly on speculation or guesswork. When the evidence is viewed in toto, the jury’s award of a lump-sum payment of about $358 million does not rest on substantial evidence and is likewise against the clear weight of the evidence. The evidence does not sustain a finding that, at the time of infringement, Microsoft and Lucent would have agreed to a lump-sum royalty payment subsequently amounting to approximately 8% of Microsoft’s revenues for the sale of Outlook (and necessarily a larger percentage of Outlook’s profits). We need not identify any particular Georgia–Pacific factor as being dispositive. Rather, the flexible analysis of all applicable Georgia–Pacific factors provides a useful and legally-required framework for assessing the damages award in this case. Furthermore, we do not conclude that the aforementioned license agreements (or other evidence) cannot, as a matter of law, support the damages award in this case. Instead, the evidence as presented did not reach the “substantial evidence” threshold and therefore no reasonable jury could have found that Lucent carried its burden of proving that the evidence, under the relevant Georgia–Pacific factors, supported a lump-sum damages award of $357,693,056.18.
+ 
+We admit that the above analysis focuses on Microsoft Outlook, not the other two software programs. Because the damages award with respect to infringement by Outlook is not supported by the evidence but is against the clear weight of the evidence, a new trial on damages is necessary. We therefore need not specifically *1336 address the evidence as it relates to Microsoft Money and Windows Mobile. We leave that to the jury or court to assess on remand. We acknowledge that the factual findings based on the pertinent Georgia–Pacific factors may not be identical for all three products. For example, the tools that practice the infringing method may be incorporated more (or less) extensively throughout Windows Mobile and Microsoft Money than in Outlook.
+ 
+[34] Creating a licensing agreement for patented technology is, at best, an inexact science. In actual licensing negotiations, willing parties negotiating at arms-length do not necessarily generate and analyze precise economic data concerning the perceived value of a patented invention. A complicated case this was, and the damages evidence of record was neither very powerful, nor presented very well by either party. Most jury damages awards reviewed on appeal have been held to be supported by substantial evidence. See Skenyon et al., supra, at § 3:20 (summarizing sixty-two damages cases). Nonetheless, on post-trial JMOL motions, district court judges must scrutinize the evidence carefully to ensure that the “substantial evidence” standard is satisfied, while keeping in mind that a reasonable royalty analysis “necessarily involves an element of approximation and uncertainty.” Unisplay, 69 F.3d at 517.
+ 
+
+B. Entire Market Value Analysis
+[35] Microsoft argues that the damages award must be reversed because the jury erroneously applied the entire market value rule. Despite the jury’s indication on the verdict form that it was awarding a lump-sum reasonable royalty, Microsoft believes that the only way the jury could have calculated a figure of $357,693,056.18 was by applying a royalty percentage to a total sales figure of the infringing software products. Indeed, it is difficult to understand how the jury could have chosen its lump-sum figure down to the penny unless it used a running royalty calculation. Furthermore, as Microsoft explains in its brief, working the math backwards strongly suggests that the jury must have used some calculation of a rate applied to the entire market value of the software. See Microsoft Response and Reply Br. 47 (“Applying Lucent’s 8% rate to all of Microsoft’s sales and half of Dell’s, using a weighted average of 85% OEM prices and 15% retail prices, yields damages of $358,835,648—extremely close to the jury’s award.” (footnote omitted)). Alternatively, the jury could have simply used a somewhat lower rate, such as about 5.5%, applied to the total sales figure. Assuming that the jury did apply the entire market value rule, such application would amount to legal error for two reasons.
+ 
+[36] In one sense, our law on the entire market value rule is quite clear. For the entire market value rule to apply, the patentee must prove that “the patent-related feature is the ‘basis for customer demand.’ ” Rite–Hite, 56 F.3d at 1549 (quoting State Indus., 883 F.2d at 1580); see also Bose Corp. v. JBL, Inc., 274 F.3d 1354, 1361 (Fed.Cir.2001); TWM Mfg., 789 F.2d at 901 (“The entire market value rule allows for the recovery of damages based on the value of an entire apparatus containing several features, when the feature patented constitutes the basis for customer demand.”).
+ 
+In the distant past, before a contemporary appreciation of the economics of infringement damages, the Supreme Court seemingly set forth rigid rules concerning the entire market value rule. Shortly before the Civil War, in Seymour v. McCormick, 57 U.S. (16 How.) 480, 491, 14 L.Ed. 1024 (1853), a case involving one of Cyrus McCormick’s famous reaping machine inventions, the Court warned that it would *1337 be “a very grave error to instruct a jury ‘that as to the measure of damages the same rule is to govern, whether the patent covers an entire machine or an improvement on a machine.’ ” About a century and a quarter ago, in Garretson v. Clark, the Court expressed further concern about basing damages on the value of the entire product:
+When a patent is for an improvement, and not for an entirely new machine or contrivance, the patentee must show in what particulars his improvement has added to the usefulness of the machine or contrivance. He must separate its results distinctly from those of the other parts, so that the benefits derived from it may be distinctly seen and appreciated.... The patentee ... must in every case give evidence tending to separate or apportion the defendant’s profits and the patentee’s damages between the patented feature and the unpatented features, and such evidence must be reliable and tangible, and not conjectural or speculative; or he must show, by equally reliable and satisfactory evidence, that the profits and damages are to be calculated on the whole machine, for the reason that the entire value of the whole machine, as a marketable article, is properly and legally attributable to the patented feature.
+111 U.S. 120, 121, 4 S.Ct. 291, 28 L.Ed. 371 (1884) (quotation marks omitted). And early last century, the Court elaborated on this theme:
+[An] invention may have been used in combination with valuable improvements made, or other patents appropriated by the infringer, and each may have jointly, but unequally, contributed to the profits. In such case, if plaintiff’s patent only created a part of the profits, he is only entitled to recover that part of the net gains.
+Westinghouse Elec. & Mfg. Co. v. Wagner Elec. & Mfg. Co., 225 U.S. 604, 614–15, 32 S.Ct. 691, 56 L.Ed. 1222 (1912).
+ 
+Translating the Court’s early stylistic description into a precise, contemporary, economic paradigm presents a challenge. Notwithstanding this obstacle, the objective of the Court’s concern has been two-fold: determining the correct (or at least approximately correct) value of the patented invention, when it is but one part or feature among many, and ascertaining what the parties would have agreed to in the context of a patent license negotiation. Litigants must realize that the two objectives do not always meet at the same precise number. Furthermore, licensors of patented technology often license an invention for more or less than its true “economic value.” Such is the inherent risk in licensing intangible assets that may have no established market value.
+ 
+The first flaw with any application of the entire market value rule in the present case is the lack of evidence demonstrating the patented method of the Day patent as the basis—or even a substantial basis—of the consumer demand for Outlook. As explained above, the only reasonable conclusion supported by the evidence is that the infringing use of the date-picker tool in Outlook is but a very small component of a much larger software program. The vast majority of the features, when used, do not infringe. The date-picker tool’s minor role in the overall program is further confirmed when one considers the relative importance of certain other features, e.g., e-mail. Consistent with this description of Outlook, Lucent did not carry its evidentiary burden of proving that anyone purchased Outlook because of the patented method. Indeed, Lucent’s damages expert conceded that there was no “evidence that anybody anywhere at any time ever bought Outlook, be it an equipment manufacturer or *1338 an individual consumer, ... because it had a date picker.” J.A 07821–22. And when we consider the importance of the many features not covered by the Day patent compared to the one infringing feature in Outlook, we can only arrive at the unmistakable conclusion that the invention described in claim 19 of the Day patent is not the reason consumers purchase Outlook. Thus, Lucent did not satisfy its burden of proving the applicability of the entire market value rule.
+ 
+As for Windows Mobile and Microsoft Money, a jury’s conclusion might possibly be different. At this point in the litigation, we again need not decide these issues. Because the damages award based on the infringing date-picker feature of Outlook is not supported by substantial evidence and is contrary to the clear weight of the evidence, the damages award must be vacated. When the case is remanded to the trial court for further proceedings consistent with this opinion, it may be helpful to analyze the three infringing software products independently.
+ 
+The second flaw with any application of the entire market value rule in this case lies in the approach adopted by Lucent’s licensing expert. He had first tried to apply the entire market value rule to the sale of the “infringing” computers loaded with the software, opining that Microsoft and Lucent would have agreed to a 1% royalty based on the entire price of the computer containing Outlook. In response, Microsoft filed a motion in limine to exclude such testimony, which the district court granted. At trial, Lucent’s expert changed his opinion, contending that the royalty base should be the price of the software (and not the entire computer) but also that the royalty rate should be increased to 8% (from 1%). This opinion contrasted starkly to the rates he proposed for the other patents in suit, which were in the 1 % range. In choosing 8%, he reasoned that, “in a typical situation, if one applied a royalty to a smaller patented portion in a computer as opposed to the entire computer using typically infringed patents, 8–percent ... of the fair market value of the patented portion would equate to 1–percent of the fair market value of the entire computer.”
+ 
+What Lucent’s licensing expert proposed here does not comport with the purpose of damages law or the entire market value rule. Lucent’s expert tried to reach the damages number he would have obtained had he used the price of the entire computer as a royalty base. Being precluded from using the computer as the royalty base, he used the price of the software, but inflated the royalty rate accordingly. This cannot be an acceptable way to conduct an analysis of what the parties would have agreed to in the hypothetical licensing context. The approach of Lucent’s expert ignores what the district court’s evidentiary ruling tried to accomplish. The district court implicitly recognized that any damages computation based on the value of the entire computer using common royalty rates (e.g., 1–5%) would be excessive.
+ 
+Furthermore, Lucent’s expert admitted that there was no evidence that Microsoft had ever agreed to pay an 8% royalty on an analogous patent. See J.A. 07824 (“Q: Did you find one license where Microsoft ever agreed to pay an eight percent royalty on Outlook for a tiny little feature? A: I didn’t see any Microsoft licenses on Outlook, frankly.”).
+ 
+[37] Although our law states certain mandatory conditions for applying the entire market value rule, courts must nevertheless be cognizant of a fundamental relationship between the entire market value rule and the calculation of a running royalty damages award. Simply put, the base used in a running royalty calculation can always be the value of the entire commercial *1339 embodiment, as long as the magnitude of the rate is within an acceptable range (as determined by the evidence). Indeed, “[a]ll running royalties have at least two variables: the royalty base and the royalty rate.” Nimmer & Dodd, supra, at § 7:5. Microsoft surely would have little reason to complain about the supposed application of the entire market value rule had the jury applied a royalty rate of 0.1% (instead of 8%) to the market price of the infringing programs. Such a rate would have likely yielded a damages award of less than Microsoft’s proposed $6.5 million. Thus, even when the patented invention is a small component of a much larger commercial product, awarding a reasonable royalty based on either sale price or number of units sold can be economically justified. See, e.g., Kearns, 32 F.3d at 1544 (awarding a reasonable royalty of 90 cents per vehicle that had the infringing intermittent windshield wipers, when the average car price was approximately $4000 to $6000).
+ 
+Some commentators suggest that the entire market value rule should have little role in reasonable royalty law. See, e.g., Mark A. Lemley, Distinguishing Lost Profits From Reasonable Royalties, 51 Wm. & Mary L.Rev. (forthcoming 2009) (manuscript at 2), available at http:// papers.ssrn.com/sol3/papers.cfm?abstract_id=1133173 (suggesting that “courts have distorted the reasonable royalty measure” by “importing inapposite concepts like the ‘entire market value rule’ in an effort to compensate patent owners whose real remedy probably should have been in the lost profits category”); Amy Landers, Let the Games Begin: Incentives to Innovation in the New Economy of Intellectual Property Law, 46 Santa Clara L.Rev. 307, 362 (2006) (“The current iterations of the entire market value rule are inconsistent with the Patent Act’s statutory language.”). But such general propositions ignore the realities of patent licensing and the flexibility needed in transferring intellectual property rights. The evidence of record in the present dispute illustrates the importance the entire market value may have in reasonable royalty cases. The license agreements admitted into evidence (without objection from Microsoft, we note) highlight how sophisticated parties routinely enter into license agreements that base the value of the patented inventions as a percentage of the commercial products’ sales price. There is nothing inherently wrong with using the market value of the entire product, especially when there is no established market value for the infringing component or feature, so long as the multiplier accounts for the proportion of the base represented by the infringing component or feature.
+ 
+We note finally that several amici seemingly challenge the district court’s instruction to the jury on the entire market value rule. See Brief for Ten Amici Curiae Technology–Based Companies at 11–12 (asserting that “the entire market value rule has no place in a reasonable royalty calculation”); id. at 15 (“Jurors are charged with the entire market value rule but are not given an apportionment charge. No Supreme Court authority justifies such a one-sided charge.”); id. at 25 (“The two errors detailed above justify a reversal of the damages award in this case and, assuming that the patents are valid and infringed ..., a remand of the case for a new trial on damages. For the remand, this Court should provide more specific guidance for reasonable royalty calculations.”). While the amicus brief is informative, we need not address its assertion regarding jury instructions given or not given, for the simple reason that neither party at trial challenged any damages instruction that was given nor proposed an instruction and objected when it was not given.
+ 
+
+*1340 V. Lucent’s Cross–Appeal
+[38] Lucent cross-appeals the district court’s summary judgment of non-infringement of claims 1, 2, 6, 7, 10–12, 15, and 16 of the Day patent. These claims are apparatus claims containing means-plus-function elements not found in claims 19 and 21. As Lucent concedes, it did not provide any analysis of the source code of the accused programs. Lucent further did not identify the algorithms used in the accused products. Lucent’s evidence, as Judge Brewster noted, did “nothing more than demonstrate that the accused products reach the same result; the evidence [did] not demonstrate circumstantially or otherwise anything about the steps used by the accused products to arrive at the result.” Under our precedent, Judge Brewster’s grant of summary judgment was not erroneous. See Aristocrat Techs. Austl. Pty Ltd. v. Int’l Game Tech., 521 F.3d 1328, 1338 (Fed.Cir.), cert. denied, 555 U.S. 1070, 129 S.Ct. 754, 172 L.Ed.2d 727 (2008).
+ 
+
+CONCLUSION
+For the foregoing reasons, we affirm the district court’s denial of Microsoft’s JMOL motion for non-infringement. We reverse the district court’s denial of Microsoft’s JMOL regarding the damages award, vacate the award, and remand for a new trial on damages.
+ 
+AFFIRMED IN PART, VACATED IN PART, and REMANDED
+ 
+
+COSTS
+No costs.
+ 
+All Citations
+580 F.3d 1301, 92 U.S.P.Q.2d 1555
+Footnotes
+
+1
+
+The Day patent is now assigned to Lucent.
+
+2
+
+Additionally, on December 15, 2008, Microsoft and Lucent filed a stipulation dismissing all claims between them except those relating to the Day patent.
+
+3
+
+For U.S. Patent No. 5,347,295, the jury awarded $10,350,000.00 for Microsoft’s infringement and $51,000.00 for Dell’s infringement.
+
+4
+
+In the Datamation article, the relevant computer system is referred to as Easel. Throughout trial and in the briefs, the system was called “FXFE,” although that name is based on information outside the article’s content. For ease of reference only, we use the FXFE terminology.
+
+5
+
+The district court observed that the photograph in the Datamation article was “of limited clarity” and “limited in detail.” 580 F.Supp.2d at 1032.
+
+6
+
+Microsoft does not dispute that both Money and Windows Mobile contain composition tools.
+
+7
+
+The Microsoft–Apple agreement also appears directed to a large collaboration far more complicated than the patent covering the infringing date-picker tool at issue in the present appeal. See Press Release, Microsoft Corp., Microsoft and Apple Affirm Commitment to Build Next Generation Software for Macintosh (Aug. 6, 1997), http://www.microsoft. com/presspass/press/1997/aug97/msmacpr.mspx (noting that “[t]he companies agreed to a broad patent cross-licensing agreement” that “paves the way for the two companies to work more closely on leading-edge technologies for the Mac platform”). But, in view of the sparse record, any supposition about the agreement would again be little more than speculation.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

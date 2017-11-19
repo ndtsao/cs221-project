@@ -1,0 +1,395 @@
+
+
+ 
+
+
+Hyperphrase Technologies, LLC v. Google, Inc.
+United States Court of Appeals, Federal Circuit. | December 26, 2007 | 260 Fed.Appx. 274 | 2007 WL 4509047
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Hyperphrase Techs., LLC v. Google, Inc., 260 F. App’x 274 (Fed. Cir. 2007)
+
+All Citations:
+
+260 Fed.Appx. 274, 2007 WL 4509047, 87 U.S.P.Q.2d 1285
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Wisconsin
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+260 Fed.Appx. 274
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+HYPERPHRASE TECHNOLOGIES, LLC and Hyperphrase, Inc., Plaintiffs–Appellants,
+v.
+GOOGLE, INC., Defendant–Appellee.
+Nos. 2007–1125, 2007–1176.
+|
+Dec. 26, 2007.
+|
+Rehearing Denied Feb. 7, 2008.
+Synopsis
+Background: Holder of patents for products that linked and presented related information from websites to customers brought infringement action against internet search engine company. Search engine company moved for summary judgment. The United States District Court for the Western District of Wisconsin, John C. Shabaz, J., granted motion. Patent holder appealed.
+ 
+Holdings: The Court of Appeals, Michel, Chief Judge, held that:
+ 
+[1] term “data reference” meant “a unique phrase or word which may be used in a record to refer to another record or record segment,” and could refer to one or more than one record;
+ 
+[2] tokens used in application to scan webpage content were “data references” within meaning of term construed in patent for system and method for translating, collecting and archiving patient records;
+ 
+[3] application to scan webpage content did not infringe patent for method for specifying enterprise-wide database address formats;
+ 
+[4] topics used by service that coordinated advertiser content with contextually related webpages were not data references within the meaning of patents for systems that collect data from websites; and
+ 
+[5] keywords used by service that coordinated advertiser content with contextually related webpages were not data references within the meaning of patents for systems that collect data from websites.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (10)
+
+
+[1]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+(Formerly 291k101(2))
+
+
+Term “data reference” in patent for method of database address specification meant “a unique phrase or word which may be used in a record to refer to another record or record segment,” and could refer to one or more than one record.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsHarmless and reversible error
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1972Harmless and reversible error
+(Formerly 291k324.56)
+
+
+District court’s determination that application used to scan webpage content for tokens did not infringe patent was based on incorrect construction of term “data references”, and thus error was not harmless.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k229)
+
+
+Tokens used in application used to scan webpage content were “data references” within meaning of term construed in patent for system and method for translating, collecting, and archiving patient records, for purposes of patent infringement action alleging application violated patent.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k229)
+
+
+Application used to scan webpage content did not use common address formats, and thus did not infringe patent for method for specifying enterprise-wide database address formats.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k230)
+
+
+Application used to scan webpage content operated in same way that disclosed prior art system did, and thus application did not infringe claims of patent for method for specifying enterprise-wide database address formats under doctrine of equivalents.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k229)
+
+
+Topics used by service that coordinated advertiser content with contextually related webpages were not “data references” within meaning of patents for systems that collect data from websites, as required for service to infringe patents in patent holder’s infringement action against internet search engine company.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k229)
+
+
+Keywords used by service that coordinated advertiser content with contextually related webpages were not “data references” within meaning of patents for systems that collect data from websites, as required for service to infringe patents in patent holder’s infringement action against internet search engine company.
+Cases that cite this headnote
+
+
+
+[8]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k230)
+
+
+Service that coordinated advertiser content with contextually related webpages did not perform substantially the same function in substantially the same way as data references in patents for systems to collect data, and thus service did not infringe patent under doctrine of equivalents.
+Cases that cite this headnote
+
+
+
+[9]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,903,889, US Patent 6,526,321. Cited.
+Cases that cite this headnote
+
+
+
+[10]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,434,567, US Patent 7,013,298. Not Infringed.
+Cases that cite this headnote
+
+
+
+*275 Appealed from United States District Court for the Western District of Wisconsin, John C. Shabaz, Judge.
+Attorneys and Law Firms
+Robert P. Greenspoon, Flachsbart & Greenspoon, LLC, of Chicago, IL, argued for plaintiffs-appellants. With him on the brief was William W. Flachsbart. Of counsel on the brief were Raymond P. Niro, Sr., and Christopher J. Lee, Niro, Scavone, Haller & Niro, of Chicago, IL, and Jay P. Kesan, University of Illinois at Urbana–Champaign, of Champaign, IL.
+Frank E. Scherkenbach, Fish & Richardson P.C., of Boston, MA, argued for defendant-appellee. With him on the brief were John A. Dragseth and Deanna J. Reichel, of Minneapolis, MN, and Jason W. Wolff, of San Diego, CA. Of counsel were Kurt L. Glitzenstein and Peter J. Kirk, of Boston, MA, and Michael J. Kane, of Minneapolis, MN.
+Before MICHEL, Chief Judge, LOURIE and GAJARSA, Circuit Judges.
+Opinion
+MICHEL, Chief Judge.
+
+**1 Plaintiffs–Appellants Hyperphrase Technologies, LLC, and Hyperphrase, Inc. (collectively, “Hyperphrase”) appeal from a grant of summary judgment of non-infringement of all asserted patent claims in favor of Defendant–Appellee Google, Inc. (“Google”). See Hyperphrase Techs. LLC v. Google, Inc., No. 06–C–199–S (W.D.Wis. Dec. 20, 2006) (“Summary Judgment Order ”). The district court held that neither of the accused products, AutoLink and AdSense, infringes any of fifteen asserted claims of United States Patent Nos. 5,903,889 (“′889 patent”), 7,013,298 (“′298 patent”), 6,434,567 (“′567 patent”), and 6,526,321 (“′321 patent”) (collectively, “Patents–In–Suit”). We heard oral argument on October 3, 2007. As explained herein, the district court’s grant of summary judgment is affirmed in part and vacated in part, and the case is remanded.
+ 
+
+*276 I. BACKGROUND
+A. The Accused Products
+Google is an Internet company that offers products to a broad spectrum of Internet users. The accused product AutoLink is targeted at the general public, whereas the accused product AdSense is targeted at corporate clients wishing to advertise on the World Wide Web. At issue here are the ways these two products contextually link and present related information from disparate sources.
+ 
+AutoLink is an application that is integrated into web browsers. When the user views a webpage, AutoLink scans the page’s content to identify certain strings of characters called “tokens.” For example, nineteen-digit numbers are recognized as potential tracking numbers used by the United Parcel Service (“UPS”). AutoLink also recognizes International Standard Book Numbers (“ISBNs”), Vehicle Identification Numbers (“VINs”), other package tracking numbers, and addresses. After identifying these “tokens” on the webpage, AutoLink automatically turns each of them into a hyperlink embodying a specific Uniform Resource Locator (“URL”), essentially a computer instruction that directs the user’s web browser to send the token to Google’s servers. Once Google’s server receives the token, it returns a “redirect” URL to the user’s browser, namely a properly-formatted URL that enables the user’s browser to access relevant information from a different source. For example, a UPS tracking number token would result in a redirect URL properly formatted to access information relating to the package located on UPS’s website. The browser then automatically uses the redirect URL to access and display that information.
+ 
+AdSense is a service that coordinates advertiser content with contextually related webpages. Advertisers supply Google with online advertisements to display on the Internet via AdSense for a fee. Similarly, websites enroll in the AdSense service and allow AdSense to display such advertisements on their webpages in exchange for fees from Google. When a user accesses a webpage on one of these websites, AdSense automatically scans the webpage’s content. It reads all of the words on the page and conducts a statistical analysis of them—for example, it will look for frequently repeated words and for certain recognized combinations of words, such as “Federal” and “Circuit” together as “Federal Circuit.” From this data, AdSense attempts to discern the general topic or topics of the webpage’s content by comparing the results of the statistical analysis to its list of millions of possible topics. AdSense also simultaneously conducts a separate analysis to determine if the webpage contains any keywords known to match to advertisements in AdSense’s database. AdSense uses the results of these two analyses to select a group of candidate advertisements.1 Still another analysis is then done to choose the advertisement to display on the webpage at that time; this analysis is based on such factors as which advertisers paid the highest fees and which advertisements are the most likely to be clicked by users (AdSense fees are in part based on the number of clicks). Because these factors are largely independent of the content of the webpage, the advertisements displayed can be different each time the same webpage is accessed, even if within seconds.
+ 
+
+*277 B. The Patents–In–Suit and the District Court’s Decision
+**2 The Patents–In–Suit are members of the same family of patents and relate to systems and methods for contextually linking related computerized records. On April 13, 2006, Hyperphrase filed suit against Google asserting fifteen of the claims of the Patents–In–Suit against AutoLink and AdSense.2 Google moved for summary judgment on November 1, 2006. The district court, after construing the key claim term “data reference,” granted summary judgment of non-infringement on December 20, 2006.
+ 
+All but three of the claims asserted here include limitations requiring at least one “data reference,” “record reference,” “specifying reference,” or “reference.” The parties agreed, and the district court correctly held, that all of these terms are used interchangeably and have the same meaning.3 Claim 26 of the ′298 patent is representative; it claims:
+ 
+A method for linking first record references to a first record wherein the references are in a second record, the method used with a database (DB) including at least one address format specifying an address format of the first record address, the method comprising the steps of: (i) receiving the second record; (ii) analyzing the second record to identify references to the first record; and (iii) when a first record reference is identified, using information from the second record to form the address of the first record as specified by the address format.
+′298 patent cl.26 (emphases added). The district court held that the definition of “data reference” was set forth in the ′321 patent’s specification and was intended to govern all of the Patents–In–Suit: “[A] unique phrase or word which may be used in a record to refer to another record or record segment.” ′321 patent col.8 ll.30–32. But the district court further held that “[t]he unmistakeable meaning of these terms is that there be a reference to a single, specific record which the created link retrieves,” and emphasized that a data reference can only refer to “one and only one record.” Summary Judgment Order at 18–19 (emphases added).
+The district court then held that AutoLink does not infringe the asserted claims because its tokens do not meet the “data reference” limitations of the claims. Specifically, the district court held that because these tokens may link to any of multiple data records and not “one and only one record,” they are not data references within the meaning of the claims. Id. For example, a VIN could be linked to many possible records about its specific car—insurance records, owner information, accident history, etc.—rather than specifying a single record. While each token is ultimately linked to a single record, the court held that “[i]t is the subsequent process at the Google server and not information from the analyzed web page” i.e., not the token, that specifies the particular record to be linked. Id.
+ 
+The court also held that AdSense does not infringe the asserted claims because it, too, lacks data references. The court rejected the idea that either the webpage or *278 the ultimately selected advertisement “refer” to the other. Id. at 24. Rather, the court held, the linking between them is done based on predictions of user interest and “has nothing whatever to do with a reference in one record to a second record.” Id. at 25.
+ 
+**3 In addition, the district court also examined the parties’ arguments as to claims 35, 48, and 56 of the ′567 patent, which do not include a “data reference” limitation. Rather, these claims involve an “address format” limitation and were asserted against AutoLink but not AdSense. Both parties agreed, and the district court held, that these three claims all require that both the recited “database” and “processing device” elements of the claims utilize a common “address format.” See id. at 21–22. The court held that AutoLink does not use a common address format between the processing device, namely the user’s computer, and the database holding the information to be linked. Id. at 22–23. Instead, the court held, the user’s computer uses a URL format recognizable only by Google’s server, which in turn chooses an entirely different format specific to that used by the appropriate database. Id. The court noted that each database also uses a different format than the others and that these formats are not even controlled by Google but rather by the owners of the databases, such as UPS or Amazon.com. Id.
+ 
+Finally, the district court also rejected Hyperphrase’s doctrine of equivalents arguments as to both products and both the “data reference” and common “address format” limitations. After entry of final judgment, Hyperphrase timely filed this appeal.4 We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+II. DISCUSSION
+We review a district court’s grant of summary judgment de novo. Ethicon Endo–Surgery, Inc. v. U.S. Surgical Corp., 149 F.3d 1309, 1315 (Fed.Cir.1998). At summary judgment, all facts and inferences must be construed in the light most favorable to the non-movant. Id. Summary judgment is only appropriate if no genuine issues of material fact exist and the movant is entitled to judgment as a matter of law. Id.
+ 
+
+A. Claim Construction
+We here only review the district court’s construction of the term “data reference.” The parties do not raise on appeal any other claim construction issue, including regarding the term “address format.” Upon review, we conclude that the district court erred by unduly narrowing the scope of the term “data reference” and improperly importing from the specification the limitation that the data reference only refer to one and only one possible data record.
+ 
+We begin with the parties’ agreement, and district court’s holding, that the terms “data reference,” “record reference,” “specifying reference,” and “reference,” as used throughout the Patents–In–Suit, are *279 interchangeable and have the same meaning. We agree. The claims and specifications of the Patents–In–Suit all indicate to a person of ordinary skill in the art that these terms are interchangeable.
+ 
+As a result, we are led, as the district court was, to the explicit definition of “data reference” set forth in the ′321 patent: “A [data reference] is a unique phrase or word which may be used in a record to refer to another record or record segment.” ′321 patent col.8 ll.30–32. It is well settled that a patentee may choose to be his own lexicographer and that definitions so provided will govern. See, e.g., CCS Fitness, Inc. v. Brunswick Corp., 288 F.3d 1359, 1366 (Fed.Cir.2002) (“A claim term will not receive its ordinary meaning if the patentee acted as his own lexicographer and clearly set forth a definition of the disputed claim term in either the specification or prosecution history.”) Thus we adopt this definition as the correct construction of “data reference.”
+ 
+**4 [1] The district court’s error, however, was in going beyond this explicit definition to hold that a data reference may only refer to one and only one possible record. We first reject the district court’s reading of the language of the asserted claims, which the court held supported its narrow construction. See Summary Judgment Order at 18. For example, claim 1 of the ′ 889 patent recites, in relevant part: “[A] computer system comprising ... means for parsing said first data record to identify a reference to a second data record.” ′889 patent cl.1 (emphasis added). Neither the phrase “one and only one” nor any equivalent language appears in the claim. Although the claim recites “a” second record instead of “one or more” records, we have held that the use of the singular form “a” in conjunction with “comprising” and without narrowing language, such as “one and only one,” typically encompasses both singular and plural possibilities. E.g., Scanner Techs. Corp. v. ICOS Vision Sys. Corp., 365 F.3d 1299, 1304 (Fed.Cir.2004); Elkay Mfg. Co. v. Ebco Mfg. Co., 192 F.3d 973, 977 (Fed.Cir.1999). Claim language such as “references to the first record,” ′298 patent cl.1 (emphasis added), and “the referenced record,” ′321 patent cl.1 (emphasis added), similarly do not support the district court’s narrow claim construction.
+ 
+An intent to claim more narrowly and limit singular elements to one and only one such element can of course also be expressed in the specification and/or prosecution history. But the patentee did not do so here. The district court relies heavily on its observation that “[e]very example in the preferred embodiments involves the use of data references ... to identify a single medical record (or record segment) for a particular patient.” Summary Judgment Order at 18 (emphasis added). But this observation is not entirely accurate. For example, Figures 14C–E in the ′889 patent depict an embodiment of the invention that shows the use of a data reference referring to multiple records. Figure 14C depicts a “conventional text document,” which in this embodiment is a medical record. ′889 patent fig. 14C; id. col.10 ll.60–63. Figure 14D illustrates how the text “Catheterization Reports” in Figure 14C is replaced by hyperlinks to two other medical records, a “Radiology Catheterization Report” and a “Hemodynamic Catheterization Report.” Id. fig.14D. It becomes clear from the context of the specification that the original text “Catheterization Reports” is a data reference. The specification discloses that Figures 14C–E demonstrate how “hypertext links 744 may be inserted based upon the recognition of phrases or special character sequences, such as ‘Catheterization Reports’ 728,” and that a user can then use those *280 hyperlinks to access either of the two referenced records. Id. col. 10 l.67–col. 11 l.5. Clearly, the text “Catheterization Reports” is a “unique phrase ... used in a record to refer to another record or record segment.” See ′321 patent col.8 ll.30–32 (defining “data reference”). Equally clear is that this data reference does not refer to one and only one record but rather refers to multiple records, two in this example. In fact, not only does “Catheterization Reports” contemplate and refer to multiple possible records, but that data reference is then actually linked to multiple records in this embodiment.
+ 
+**5 Although the specifications of the Patents–In–Suit disclose embodiments in which data references refer to multiple records, the district court’s claim construction would exclude those embodiments from the scope of the patents. A claim construction that excludes an embodiment of the relevant claim(s) is typically incorrect. See Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1583–84 (Fed.Cir.1996); see also SanDisk Corp. v. Memorex Prods., Inc., 415 F.3d 1278, 1285 (Fed.Cir.2005). And while many of the embodiments do indeed illustrate data references referring to single records, the district court’s adoption of that limitation here constituted an improper importation of that limitation from the specification into the claims, especially given that other embodiments refute that limitation. See Innova/Pure Water, Inc. v. Safari Water Filtration Sys., Inc., 381 F.3d 1111, 1117 (Fed.Cir.2004) ( “[P]articular embodiments appearing in the written description will not be used to limit claim language that has broader effect.”).
+ 
+In sum, we hold that the district court erred in its claim construction of the term “data reference.” We hold that the correct construction is “a unique phrase or word which may be used in a record to refer to another record or record segment,” and that a data reference may refer to one or more than one record.5
+ 
+
+B. Infringement
+Although we hold that the district court erroneously construed one term, “data reference,” our inquiry cannot stop there because we may still affirm the district court’s grant of summary judgment of non-infringement if the accused products do not infringe the Patents–In–Suit under the correct claim construction and no genuinely disputed issues of material fact exist. See Bailey v. Dart Container Corp. of Mich., 292 F.3d 1360, 1362 (Fed.Cir.2002) (holding that the court may adopt an alternative ground for affirmance, even if it was ignored by the trial court, so long as it is *281 supported by the record and was not waived). In addition, we must examine whether the district court erred in its infringement analysis regarding AutoLink’s use of common address formats.
+ 
+
+1. AutoLink
+[2] We first hold that the district court erred in its infringement analysis by finding that AutoLink does not use data references because the principal basis for the court’s holding of no infringement was its view that AutoLink’s tokens refer to multiple possible records and thus cannot be “data references” under its claim construction. Since tokens may refer to multiple possible records but still be “data references” under the correct claim construction, this error is not harmless.
+ 
+[3] The district court also remarked that “[t]he tokens of defendant’s AutoLink are akin to a patient identification number in the patents’ preferred embodiments,” and that “a patient identification number would never be used as a data reference in the patent claims.” Summary Judgment Order at 20. In addition to a patient number referring to multiple possible records, the district court also appeared to be distinguishing patient numbers and AutoLink’s tokens from data references because they point not to records but instead to people or things for which associated records may exist. For example, the district court found that a street address “is not a reference to a data record at all, but a reference to a place,” just as a patient number refers to a person and not a particular record about the person. See id. at 19. Looking again at Figures 14C–E, however, the ′889 patent shows that a patient’s name can function as a data reference and be linked to a record—“Charles F. Smith” is linked to a demographics record about that patient in these figures. See ′889 patent fig.14C–E; id. col.11 ll.9–11. Thus while we agree that AutoLink’s tokens are analogous to patient names or identification numbers, we must instead conclude that these tokens are “data references” within the meaning of the asserted claims.
+ 
+**6 However, we believe that the issue of whether AutoLink infringes the asserted claims of the ′889 and ′321 patents must be remanded to the district court. It is unclear from the record on appeal whether AutoLink meets all of the remaining elements of any of the asserted claims of these patents because the “data reference” limitation was the only limitation that the district court discussed in its infringement analysis and the only limitation discussed in detail in the parties’ briefing on appeal. We thus cannot determine if AutoLink does not infringe because it does not meet other limitations of the claims. Therefore, we must remand so the district court can evaluate whether AutoLink infringes the asserted claims of the ′889 and ′321 patents under the correct claim construction of “data reference.”6
+ 
+[4] As to the ′567 patent, however, we affirm the district court’s determination that AutoLink does not infringe the asserted claims because we agree that AutoLink does not utilize address formats as specified in those claims.7 Claim 35 is representative; *282 it claims in relevant part: “A method for use with at least one processing device (PD) and a database (DB) ... the method for defining at least one address format for use by both the PD and the DB ....” ′567 patent cl.35. The parties do not dispute, and we agree, that the claims of the ′567 patent thus require the use of an address format common to both the processing device and the database.
+ 
+In addition to the district court’s reasoning, with which we concur, we add that in this aspect, AutoLink practices the prior art as described by the ′ 567 patent itself. In the Background section, the patent describes prior art “conventional information system[s]” that feature “an intermediate computer ... which receives information from [input devices] and uses the received information to generate records and respective storage addresses which comport with required [database] record and address formats.” Id. col.2 ll.27–31. This intermediate computer is necessary because each database “requires different record formats and address formats,” thus making it difficult to coordinate information retrieval among them. Id. col.3 ll.15–31. But the ′567 patent criticizes this type of system because it requires extra processing steps to handle the translations from one address format to another. Its solution is the definition and use of common address formats within a system.
+ 
+[5] AutoLink clearly operates the same way the disclosed prior art system does. After identifying tokens, the processing device (i.e., the user’s computer) does not convert them into the same address format as that used by the database holding the contextually related record (e.g., UPS’s database). Instead AutoLink sends the token to Google’s servers which, like the intermediate computers of the prior art systems, conduct the necessary translation into the address format used by each database. As the district court astutely noted, this translation is necessary because Google does not control the databases and thus cannot dictate (to UPS or CarFax.com, for example) what address formats they must use. Therefore, AutoLink does not infringe the asserted claims of the ′567 patent. Furthermore, we also hold that AutoLink does not infringe these claims via the doctrine of equivalents since the doctrine of equivalents cannot be used to expand claim scope to encompass the prior art. See Perkin–Elmer Corp. v. Computervision Corp., 732 F.2d 888, 900 (Fed.Cir.1984) (holding that an accused device does not infringe under the doctrine of equivalents if “the equivalent device is within the public domain, i.e., found in the prior art”).
+ 
+**7 In sum, we remand to the district court to determine whether AutoLink infringes the asserted claims of the ′889 and ′321 patents in light of our construction of “data reference.” However, we affirm the district court’s determination that AutoLink does not infringe the asserted claims of the ′ 567 patent. We leave to the district court whether summary judgment remains appropriate or trial is required.
+ 
+
+2. AdSense
+Unlike for AutoLink, the district court’s infringement analysis for AdSense did not rely on whether AdSense’s alleged data references referred to only one or to multiple records. Rather, the district court essentially held that neither AdSense’s topics nor its keywords refer to any of the records *283 ultimately linked to them; thus, neither the topics nor the keywords are data references within the meaning of the Patents–In–Suit. We agree and therefore affirm this holding.
+ 
+[6] When AdSense determines that a given webpage is ‘about’ a certain topic based on its statistical analysis of the words on that page, that topic is not necessarily itself found anywhere on that page. For example, in the case of a webpage dedicated to Elvis Presley’s movies, AdSense could determine that the topic on its list of possible topics that most closely matches the subject of the webpage is “Rock Music Artists,” even though that phrase never appears anywhere on the page. Furthermore, AdSense could determine that an advertisement for Apple, Inc.’s iTunes online music store will be displayed because it generally relates to “Rock Music Artists” and Apple’s advertisements are more likely to be clicked by users (thus generating more revenue for Google) than other companies’ advertisements relating to the same topic. The phrase “Rock Music Artists” cannot reasonably be said to refer to an iTunes advertisement in the manner of the data references of the Patents–In–Suit. Most importantly, the phrase “Rock Music Artists” did not directly determine what advertisement was chosen, but rather the deciding factor was the predicted popularity of Apple’s advertisements. Thus AdSense’s topics are not data references within the meaning of the Patents–In–Suit.
+ 
+[7] Similarly, AdSense’s keywords do not determine and do not refer to the advertisement ultimately chosen. Returning to the previous example, if AdSense identifies the word “girls” (from the Elvis Presley film “Girls! Girls! Girls!”) as a known keyword, it may correlate “girls” with “Rock Music Artists” and select an advertisement for the latest album of the all-male band “Boys Like Girls” because the band’s record label agreed to pay premium rates to Google. Again, the word “girls” cannot reasonably be said to refer to an advertisement for a Boys Like Girls album in the manner covered by the Patents–In–Suit. And the choice of the album advertisement over other advertisements relating to the keyword and the topic is based on completely unrelated factors such as the rates at which certain advertisers agree to be charged for the AdSense service. Thus keywords are also not data references.
+ 
+**8 [8] We further hold that AdSense does not infringe any of the asserted claims of the Patents–In–Suit under the doctrine of equivalents. Both AdSense’s topics and keywords are so far afield of the meaning of “data reference” as used in the asserted claims that no reasonable fact-finder could conclude that AdSense performs substantially the same function in substantially the same way. See Graver Tank & Mfg. Co. v. Linde Air Prods. Co., 339 U.S. 605, 608, 70 S.Ct. 854, 94 L.Ed. 1097 (1950) (holding that an equivalent must “perform[ ] substantially the same function in substantially the same way to obtain the same result”).
+ 
+
+CONCLUSION
+For the reasons provided above, we affirm the district court’s grant of summary judgment that AdSense does not infringe any of the asserted claims of the ′298 and ′321 patents. As to AutoLink, we affirm the grant of summary judgment that it does not infringe the asserted claims of the ′567 patent, but we vacate the summary judgment that it does not infringe the ′889 and ′ 321 patents and remand for further proceedings in accordance with this opinion.
+ 
+
+*284 COSTS
+No costs.
+ 
+All Citations
+260 Fed.Appx. 274, 2007 WL 4509047, 87 U.S.P.Q.2d 1285
+Footnotes
+
+1
+
+The reason for these two analyses is that, for example, even though the keyword “circuit” may match to advertisements for electronic components, it would not be appropriate to display such advertisements on a website that AdSense determines to be about the federal judiciary.
+
+2
+
+AutoLink is accused of infringing claims 1 and 7 of the ′889 patent; claims 35, 46, 48, 56, and 63 of the ′567 patent; and claims 1, 24, 27, and 86 of the ′321 patent. AdSense is accused of infringing claims 1 and 26 of the ′298 patent; and claims 1, 24, 91, and 182 of the ′321 patent.
+
+3
+
+As the district court did, and as the parties did in their briefing to this court, we will only use the term “data reference” in this opinion.
+
+4
+
+Hyperphrase initially filed a notice of appeal on December 27, 2007, docketed as Appeal No.2007–1125. But while the district court had entered a judgment as to Hyperphrase’s infringement claims on the Patents–In–Suit, it had not yet disposed of Google’s extant counterclaims. On January 19, 2007, the district court entered a stipulated order dismissing without prejudice all of Google’s defenses and counterclaims with respect to the Patents–In–Suit. Noting that its earlier-filed appeal was premature, Hyperphrase then filed a second notice of appeal on February 8, 2007, docketed as Appeal No.2007–1176. We hereby dismiss Appeal No.2007–1125 for lack of jurisdiction and decide Appeal No.2007–1176 as set forth this opinion.
+
+5
+
+While we agree with Hyperphrase that the district court’s claim construction was erroneous in this one respect, we do not adopt Hyperphrase’s proposed claim construction: “Hypertext links, multi-media requests, key words or phrases which may be parsed from a record, temporarily stored, and used during the process of creating a link to another contextually related record.” See Pet. Br. at 14. This definition is overbroad and is not supported by the claim language or the specification. Simply being generally “used in the process” of creating a link between records is insufficient because the stated definition in the ′  321 patent requires that the reference itself refer to a record. See ′  321 patent col.8 ll.30–32. Further, the ′321 patent discloses a “modifier reference” element separate and distinct from “data references” that is generally “used in the process” of creating links but does not itself refer to a record. See, e.g., id. cl.1. For example, the patent teaches that the data reference “ECG” can be coupled with a modifier reference such as “admission” to specify a particular ECG record, i.e., the patient’s admission ECG. Id. col.12 ll.1–8. While the word “admission” is being “used in the process” of creating a link between records, it is a “modifier reference” and not a “data reference” according to the patent.
+
+6
+
+We thus need not reach the issue of whether AutoLink satisfies the data reference limitations via the doctrine of equivalents.
+
+7
+
+Although the district court only examined whether (independent) claims 35, 48, and 56 of the ′567 patent use common address formats, all of the other asserted claims of the ′567 patent are dependent on those three claims. The district court did not specifically address the asserted dependent claims because it held that AutoLink did not infringe them due to the absence of the data references required by those claims. (The three asserted independent claims lack a data reference limitation.) While we vacate the district court’s finding that AutoLink lacks data references, we affirm its finding that AutoLink does not infringe the asserted dependent claims of the ′567 patent because we affirm its finding that AutoLink does not use common address formats and thus does not infringe the asserted independent claims.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

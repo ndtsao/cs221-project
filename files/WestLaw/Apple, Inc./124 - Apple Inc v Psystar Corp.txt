@@ -1,0 +1,410 @@
+
+
+ 
+
+
+Apple Inc. v. Psystar Corp.
+United States Court of Appeals, Ninth Circuit. | September 28, 2011 | 658 F.3d 1150 | 2011 WL 4470623
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Apple Inc. v. Psystar Corp., 658 F.3d 1150 (9th Cir. 2011)
+
+All Citations:
+
+658 F.3d 1150, 2011 Copr.L.Dec. P 30,137, 100 U.S.P.Q.2d 1338, 11 Cal. Daily Op. Serv. 12,386, 2011 Daily Journal D.A.R. 14,720
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+658 F.3d 1150
+United States Court of Appeals,
+Ninth Circuit.
+APPLE INC., a California corporation, Plaintiff–Appellee,
+v.
+PSYSTAR CORPORATION, Defendant–Appellant.
+No. 10–15113.
+|
+Argued and Submitted Nov. 30, 2010.
+|
+Filed Sept. 28, 2011.
+Synopsis
+Background: Personal computer manufacturer brought action against competitor alleging copyright infringement and violations of the Digital Millennium Copyright Act (DMCA) stemming from competitor’s use of manufacturer’s “Mac OS X” operating system (OS). Manufacturer moved for summary judgment. The United States District Court for the Northern District of California, William Haskell Alsup, J., 673 F.Supp.2d 931, granted motion, and also granted manufacturer’s motions to seal documents related to summary judgment. Manufacturer then moved for a permanent injunction to prevent competitor from continuing to commit infringing and illegal acts under the Copyright Act and DMCA. The District Court, Alsup, J., 673 F.Supp.2d 931, granted motion. Competitor appealed.
+ 
+Holdings: The Court of Appeals, Schroeder, Circuit Judge, held that:
+ 
+[1] competitor was licensee, not owner, of OS, and thus first sale doctrine did not exempt competitor from liability on infringement claim;
+ 
+[2] manufacturer’s software license agreement (SLA) for OS was legitimate exercise of manufacturer’s right to conditionally transfer copyrighted work, and thus did not constitute copyright misuse that precluded competitor’s liability for infringement; and
+ 
+[3] district court acted within its discretion in permanently enjoining competitor from infringing new version of manufacturer’s copyrighted OS.
+ 
+Affirmed in part and remanded in part.
+ 
+
+
+West Headnotes (10)
+
+
+[1]
+
+Copyrights and Intellectual PropertyEffect of transfer of particular copy or phonorecords
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(B)Scope
+99k35Scope of Exclusive Rights;  Limitations
+99k38.5Effect of transfer of particular copy or phonorecords
+
+
+The “first sale doctrine” allows owners of copies of copyrighted works to resell their copies without restriction. 17 U.S.C.A. § 109(a).
+4 Cases that cite this headnote
+
+
+
+[2]
+
+Copyrights and Intellectual PropertyEffect of transfer of particular copy or phonorecords
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(B)Scope
+99k35Scope of Exclusive Rights;  Limitations
+99k38.5Effect of transfer of particular copy or phonorecords
+
+
+The first sale doctrine exempts subsequent owner of a legitimate copy of a copyrighted work from claims of infringing the original owner’s exclusive distribution rights when subsequent owner sells the copy. 17 U.S.C.A. § 109(a).
+1 Cases that cite this headnote
+
+
+
+[3]
+
+Copyrights and Intellectual PropertyEffect of transfer of particular copy or phonorecords
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(B)Scope
+99k35Scope of Exclusive Rights;  Limitations
+99k38.5Effect of transfer of particular copy or phonorecords
+
+
+The first sale doctrine does not apply to a licensee of a copyrighted work. 17 U.S.C.A. § 109(d).
+6 Cases that cite this headnote
+
+
+
+[4]
+
+Copyrights and Intellectual PropertyDefenses
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k75Defenses
+
+
+A software licensing agreement (SLA) may reasonably restrict use of copyrighted software, and thus does not constitute copyright misuse, as long as the SLA does not prevent the development of competing products. 17 U.S.C.A. § 109(d).
+20 Cases that cite this headnote
+
+
+
+[5]
+
+Copyrights and Intellectual PropertyLicenses in general
+Copyrights and Intellectual PropertyOther works
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(E)Transfer
+99k48Licenses in general
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)1What Constitutes Infringement
+99k67.3Other works
+
+
+Competitor was licensee, not owner, of personal computer manufacturer’s “Mac OS X” operating system (OS), and thus first sale doctrine did not exempt competitor from liability on claim that it infringed manufacturer’s copyright by using OS on competitor’s computers; OS’s software license agreement (SLA) stated that OS was “licensed, not sold, to [the customer] by [manufacturer] for use only under the terms of [SLA]”, and SLA imposed significant use and transfer restrictions, providing that a licensee could only run one copy of OS and “may not rent, lease, lend, redistribute or sublicense [OS].” 17 U.S.C.A. § 109(d).
+1 Cases that cite this headnote
+
+
+
+[6]
+
+Copyrights and Intellectual PropertyLicenses in general
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(E)Transfer
+99k48Licenses in general
+
+
+While copyright owners may choose to simply exclude others from their work, i.e., not to transfer their rights, copyright holders may also use their limited monopoly to leverage the right to use their work on the acceptance of specific conditions. 17 U.S.C.A. § 109(d).
+2 Cases that cite this headnote
+
+
+
+[7]
+
+Copyrights and Intellectual PropertyDefenses
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k75Defenses
+
+
+The “copyright misuse doctrine” does not prohibit using conditions to control use of copyrighted material, but it does prevent copyright holders from using the conditions to stifle competition.
+13 Cases that cite this headnote
+
+
+
+[8]
+
+Copyrights and Intellectual PropertyDefenses
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k75Defenses
+
+
+Personal computer manufacturer’s software license agreement (SLA) for “Mac OS X” operating system (OS) was legitimate exercise of manufacturer’s right to conditionally transfer copyrighted work, and thus did not constitute copyright misuse that precluded competitor’s liability for infringing copyright by using OS on competitor’s computers; SLA did not restrict competitor’s ability to develop its own software, nor did it preclude customers from using competitor’s components with manufacturer’s computers, instead, SLA merely restricted the use of OS to manufacturer’s own hardware. 17 U.S.C.A. § 109(d).
+12 Cases that cite this headnote
+
+
+
+[9]
+
+Copyrights and Intellectual PropertyPermanent relief
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k86Permanent relief
+
+
+In personal computer manufacturer’s copyright infringement action against competitor, district court acted within its discretion in permanently enjoining competitor from infringing new version of manufacturer’s copyrighted operating system (OS), “Snow Leopard”, rather than deferring to resolution of competitor’s action in another district seeking declaratory judgment that its new OS did not infringe manufacturer’s new OS; other district court had issued no ruling with respect to parties’ new OSs, but competitor’s liability for infringement had been established in instant action, and threat of harm to manufacturer from infringement of new OS was real. 17 U.S.C.A. §§ 502(a), 1203(b)(1).
+8 Cases that cite this headnote
+
+
+
+[10]
+
+RecordsCourt records
+
+
+326Records
+326IIPublic Access
+326II(A)In General
+326k32Court records
+
+
+District court’s lack of explanation made it impossible for Court of Appeals to review rationale for orders granting personal computer manufacturer’s motions to seal documents related to summary judgment motion in copyright infringement action against competitor, and sealing orders would therefore be remanded.
+46 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1151 George A. Riley, David R. Eberhart, O’Melveny & Myers LLP, James G. Gilliland, Jr. and Mehrnaz Broumand Smith, Kilpatrick Townsend & Stockton LLP, San Francisco, CA, for plaintiff-appellee Apple, Inc.
+Kiwi D. Camara, Houston, TX, for defendant-appellant Psystar Corporation.
+Appeal from the United States District Court for the Northern District of California, William H. Alsup, District Judge, Presiding. D.C. No. 3:08–cv–03251–WHA.
+*1152 Before: MARY M. SCHROEDER, SIDNEY R. THOMAS, and RONALD M. GOULD, Circuit Judges.
+
+
+OPINION
+SCHROEDER, Circuit Judge:
+This case raises important issues regarding the doctrine of “copyright misuse” as it has developed in the wake of the technological revolution of the last 30 years. Plaintiff–Appellee, Apple Inc. (“Apple”), is one of the leading producers of innovative technological hardware and software that has spurred enormous consumer demand for ever evolving technology. The Defendant–Appellant, Psystar Corp. (“Psystar”), is a small computer manufacturer. Apple brought this action against Psystar for copyright infringement because Psystar was using Apple’s software on Psystar computers.
+ 
+The district court in a published decision held that Psystar was infringing Apple’s federally registered copyrights in its operating software, Mac OS X, because Psystar was copying Mac OS X for use in Psystar’s computers. Apple, Inc. v. Psystar Corp. (Apple I), 673 F.Supp.2d 931, 935–40 (N.D.Cal.2009). This infringement finding is not challenged on appeal. The court rejected Psystar’s copyright misuse defense that asserted the unenforceability of Apple’s Software License Agreement (“SLA”), requiring Mac OS X users to run their copies on Apple computers. Id. at 939–40. Psystar appeals that ruling, as well as the district court’s order enjoining Psystar’s continuing infringement of the Apple software. In addition, Psystar appeals the seven separate orders in which the district court granted Apple’s motions to seal documents on grounds of maintaining confidentiality.
+ 
+Psystar’s principal argument on appeal is that the district court should have held that the license agreement is an unlawful attempt to extend copyright protection to products that are not copyrightable. The heart of Psystar’s argument is that the Copyright Act affords Apple protection only against unauthorized copying and distribution of the operating software, but not on its use once it is purchased. Thus, because Psystar purchased unopened copies of Mac OS X and included these copies when it sold its computers, Psystar argues the Copyright Act is inapplicable and its alterations permissible. Psystar contends that the Fifth Circuit’s decision in Alcatel USA, Inc. v. DGI Techs., Inc., 166 F.3d 772 (5th Cir.1999), involves a similar situation and that we should follow it.
+ 
+Apple responds that to adequately demonstrate copyright misuse, Psystar must show either that the license agreement restricts creativity or that it restricts competition, and that this license agreement does neither. Apple distinguishes Alcatel as an attempt to stifle competition by preventing competitors from developing competing products, whereas here Psystar is free to develop both competing hardware and software. The district court agreed and so do we. Since Psystar has failed to demonstrate that Apple has misused its copyright in Mac OS X, we affirm the district court’s grant of summary judgment on Psystar’s copyright misuse defense. We also affirm the district court’s order enjoining Psystar’s continuing infringement and Digital Millennium Copyright Act (“DMCA”) violations.
+ 
+In entering the injunction, the district court properly applied the Supreme Court’s four eBay factors. See eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388, 391, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006) (finding that well-established principles of equity require a plaintiff seeking injunctive relief to satisfy a four-factor test). Specifically, the district court determined that: 1) Apple suffered an irreparable injury; 2) remedies available at law are inadequate *1153 to compensate for that injury; 3) considering the balance of hardships between Apple and Psystar, a remedy in equity is warranted; and 4) the public interest would not be disserved by a permanent injunction. Apple, Inc. v. Psystar Corp. (Apple II), 673 F.Supp.2d 943, 948–50 (N.D.Cal.2009) (applying eBay, 547 U.S. at 391, 126 S.Ct. 1837 (2006)). We affirm the injunction.
+ 
+We do agree with Psystar, however, that on the secondary issue of sealing, there is no adequate basis in this record to support sealing any Apple records on grounds of confidentiality. We apply the presumption in favor of access and vacate the district court’s sealing orders.
+ 
+
+I. Background
+Apple launched its Macintosh line of personal computers in 1984. This line of computers has included Mac Pro, iMac, Mac Mini, MacBook, MacBook Air, and MacBook Pro. Apple launched its Mac OS X operating system in 2001. Apple now sells all Mac computers with a preinstalled, licensed copy of Mac OS X. Apple’s SLA requires that the Mac OS X be used exclusively on Apple computers. Apple also separately distributes Mac OS X in a stand-alone, retail-packaged DVD with licensed software for the sole purpose of enabling Apple’s existing customers to upgrade their Mac computers to the latest version of the operating system. Apple owns a registered copyright for each version of its operating system and the SLA for each requires the system to be used only on Apple computers.
+ 
+In addition to the SLA and the copyrights, Apple uses lock-and-key technological measures to prevent Mac OS X from operating on non-Apple computers. This involves the use of a “kernel” extension, which is software that is executed and becomes part of the operating system on an Apple computer. The kernel extension communicates with other kernel extensions to locate the decryption keys in Apple hardware, and to unlock the encrypted files.
+ 
+In April 2008, Psystar began manufacturing and selling personal computers—originally named “OpenMac” and then renamed “Open Computers.” Psystar’s Open Computers can run a variety of operating systems, but Psystar has chosen to sell Open Computers with Mac OS X. To do so, Psystar purchased a copy of Mac OS X, installed this copy of Mac OS X on a Mac Mini computer, and downloaded various software updates, using the automatic-update feature of Mac OS X. Psystar then imaged the Mac Mini with the OS X software, i.e., made a copy of the software, and transferred the copy to a non-Apple computer used as an imaging station. Psystar then added its own bootloader and kernel extensions to the Mac OS X on the imaging station, and this copy became the “master image.” Psystar used this imaging station to reproduce the master image and install it on Open Computers for sale to the general public. Finally, Psystar shipped Open Computers with a copy of the master image installed, and with an unopened copy of Mac OS X, which Psystar purchased from Apple or third party vendors such as Amazon, in the box. The unopened copy enabled Psystar to maintain it had purchased a copy of Mac OS X for each computer it sold, but the computer actually was to run on the copy of the altered Mac OS X installed in the Psystar computer.
+ 
+On July 3, 2008, Apple filed this action against Psystar in the Northern District of California, alleging breach and induced breach of its SLA for Mac OS X, direct and contributory copyright infringement, trademark and trade dress infringement, and violation of state and common law unfair competition laws. Apple later *1154 amended its complaint to add a DMCA claim arising from Psystar’s circumvention of the technological protection measures employed by Apple to prevent unauthorized access to and copying of Mac OS X.
+ 
+Psystar asserted a counterclaim for a declaratory judgment that Apple was misusing its copyright in Mac OS X by requiring purchasers to run their copies only on Apple computers. The district court dismissed an earlier antitrust counterclaim that Psystar filed with its initial answer to the original complaint. That ruling is not appealed.
+ 
+In August of 2009, Apple released its next version of Mac OS X—Mac OS X Snow Leopard (“Snow Leopard”); Psystar, in turn, released a new version of Open Computers, Rebel EFI, which was capable of running Snow Leopard. On August 27, Psystar sued Apple in the Southern District of Florida, alleging new antitrust claims and seeking a declaratory judgment that its products did not infringe Apple’s intellectual property in Snow Leopard. Apple moved in the present case to dismiss or enjoin Psystar’s Florida action and to reopen discovery in this case related to possible infringement of Snow Leopard. The district court denied Apple’s motions, thus closing this record.
+ 
+Both parties then filed cross motions for summary judgment. On November 13, 2009 the district court granted Apple’s motion for summary judgment, finding that 1) Psystar’s production process and hard drive imaging did not constitute fair use of Apple’s operating system; 2) Psystar infringed Apple’s exclusive right to create derivative works; 3) Apple’s licensing agreement was not unduly restrictive and thus did not constitute copyright misuse; and 4) Psystar’s use of decryption software to obtain access to operating system violated the DMCA. It explained its reasons in a published opinion. Apple I, 673 F.Supp.2d at 933–42. On the same day, the district court, with only cursory explanation, granted seven motions to seal documents related to the summary judgment motions.
+ 
+The district court then, in a second published opinion, issued a permanent injunction against Psystar, enjoining all current and future infringement of Apple’s Mac OS X software and the manufacture or sale of any device to circumvent Apple’s software production. See Apple II, 673 F.Supp.2d at 948–49. The court ruled in favor of Apple in its legal argument on copyright infringement and found that Apple would suffer irreparable harm if an injunction did not issue. The court found that the Apple software did not work well on Psystar computers and was causing Apple a loss of business reputation. “With respect to its brand, business reputation, and goodwill, Apple has put forth significant evidence, undisputed by Psystar, that its investment in and commitment to high standards of quality control and customer service would be irreparably harmed if Psystar’s illegal activities were allowed to continue.” Id.
+ 
+This appeal by Psystar followed. The principal issue is whether the district court erred when it rejected Psystar’s defense of copyright misuse.
+ 
+
+II. Psystar’s Affirmative Defense of Copyright Misuse
+Psystar contends that Apple misused its copyright in Mac OS X in two ways. Psystar first contends that Apple misused its copyright by asserting invalid claims of copyright infringement in this case. We find this contention entirely unpersuasive, however, given that Psystar does not appeal the district court’s findings of infringement of Apple’s valid copyright in Mac OS X.
+ 
+Psystar’s main contention of misuse is aimed at Apple’s requirement that licensees of Mac OS X run their copies only on *1155 Apple computers. The relevant section of Apple’s SLA for Mac OS X provides,
+This License allows you to install, use and run one (1) copy of the Apple Software on a single-Apple-labeled computer at a time. You agree not to install, use or run the Apple Software on any non-Apple labeled computer, or to enable others to do so.
+Psystar contends that this language barring use of the Apple software on non-Apple computers impermissibly extends the reach of Apple’s copyright and constitutes misuse. We conclude that the district court correctly ruled that Apple had not engaged in copyright misuse. As we will explain, this is principally because its licensing agreement was intended to require the operating system to be used on the computer it was designed to operate, and it did not prevent others from developing their own computer or operating systems. These licensing agreements were thus appropriately used to prevent infringement and control use of the copyrighted material.
+ 
+
+A. Software licensing agreements, rather than sales, have become ubiquitous in the software industry because they enable the licensor to control the use of the copyrighted material.
+[1] To understand why license agreements, rather than sales, have become the predominate form of the transfer of rights to use copyrighted software material, it is necessary to understand the legal principle that applies when copyrighted works are not licensed, but sold: the “first sale doctrine.” The first sale doctrine allows owners of copies of copyrighted works to resell their copies without restriction.
+ 
+[2] The doctrine was first recognized by the Supreme Court in Bobbs–Merrill Co. v. Straus, 210 U.S. 339, 28 S.Ct. 722, 52 L.Ed. 1086 (1908). At issue in Bobbs–Merrill was the exclusive right of a copyright owner to restrict the resale terms of its copyrighted material. The Supreme Court interpreted the then copyright statute’s “sole right to vend” to bar a publisher from restricting future sales of a book by placing a notice on the book’s cover that limited resale to $1 or more. Id. at 350, 28 S.Ct. 722. Congress codified the first sale doctrine in the 1909 Copyright Act, see 17 U.S.C. § 41 (1909), and then refined the doctrine in the 1976 Copyright Act and its subsequent amendments. See 17 U.S.C. § 109 (2008). As currently constituted, the doctrine exempts subsequent owners who then sell a legitimate copy of a copyrighted work from claims of infringing the original owner’s exclusive distribution rights:
+Notwithstanding the provisions of Section 106(3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord.
+Id. at § 109(a). Thus, once a publisher sells a valuable, vellum-bound volume, for example, it forfeits its exclusive distribution privilege and enables the buyer, the new owner of the volume, to resell the copy to another buyer. See 2 MELVILLE B. NIMMER & DAVID NIMMER, NIMMER ON COPYRIGHT § 8.12[B] [1][d] (rev. ed.2010).
+ 
+[3] The statute specifically excludes the doctrine’s application, however, when the copy is transferred through “rental, lease, loan, or otherwise, without acquiring ownership of it.” 17 U.S.C. at § 109(d). Thus, the first sale doctrine does not apply to a licensee. See Vernor v. Autodesk, Inc., 621 F.3d 1102, 1107–08 (9th Cir.2010) (“The first sale doctrine does not apply to a person who possesses a copy of the copyrighted work without owning it, such as a licensee.”), petition for cert. filed, *1156 79 U.S.L.W. 3674 (U.S. May 18, 2011) (No. 10–1421). Our court’s application of § 109(d) in Vernor not only reconciled our prior cases and avoided a possible disagreement with the Federal Circuit, but also constituted a significant validation of license restrictions on transfer and use of software. See Marcelo Halpern, Yury Kapgan, & Kathy Yu, Vernor v. Autodesk: Software and the First Sale Doctrine Under Copyright Law, 23 No. 3 INTELL. PROP. & TECH.. L.J. 7, 10 (2011) (arguing that Vernor suggests that such restrictions “are likely to be more prevalent and powerful.”).
+ 
+Vernor involved a garage sale purchase by Timothy Vernor of sophisticated Autodesk software. Autodesk was a manufacturer of computer-aided design software used by architects, engineers, and manufacturers. Vernor, 621 F.3d at 1104. It offered its software to customers pursuant to an accompanying SLA, which customers were required to accept before installing the software. Id. The licensing agreement for the software provided, inter alia, that Autodesk retained title to all copies and that the customer had a nonexclusive and non-transferable license to use it. Id.
+ 
+Vernor purchased a used copy of Autodesk’s AutoCAD Release 14 software (“Release 14”) at a garage sale and sold it on eBay. Id. at 1105. To enforce its SLA, Autodesk filed a number of DMCA take-down notices with eBay related to Vernor’s initial eBay listing and his subsequent listing of four additional copies he acquired at an office sale. Id. at 1105–06. Eventually, eBay suspended Vernor’s account. Id. at 1106.
+ 
+Vernor then brought suit against Autodesk seeking a declaratory judgment to establish that he was a lawful owner of Release 14 copies and thus his sales were entitled to the first sale doctrine’s protection. Id. We ruled that Vernor was not an owner of the software and, hence, not entitled to sell copies on eBay. Id. at 1111–112. We rejected Vernor’s contention that because he was entitled to keep possession of the software he was a purchaser, rather than a licensee. Id. Relying on our prior interpretations of § 109(d) and its predecessors, we articulated a three factor test for distinguishing between a software licensee and an owner of a copy:
+We hold today that a software user is a licensee rather than an owner of a copy where the copyright owner (1) specifies that the user is granted a license; (2) significantly restricts the user’s ability to transfer the software; and (3) imposes notable use restrictions.
+Id. at 1111. In applying this test to Autodesk’s SLA, which explicitly reserved Autodesk’s title to Release 14 copies and imposed significant transfer and use restrictions, we held that Autodesk’s customer from whom Vernor acquired the used copies was a licensee, not an owner of the copies. Id. at 1111–12. Thus, neither Autodesk’s original customer nor Vernor could sell or resell copies of Release 14 under the first sale doctrine. Id. at 1116.
+ 
+It is this distinction between sales and licenses that has caused the use of software licensing agreements to flourish and become the preferred form of software transactions. See Glen O. Robinson, Personal Property Servitudes, 71 U. CHI. L. REV.. 1449, 1473 (2004) (detailing “[t]he emergence of software licensing [as a means] of contractual avoidance of the first sale doctrine.”). The distinction is well established in this circuit. See, e.g., Vernor, 621 F.3d at 1108–09; Wall Data, Inc. v. L.A. Cnty. Sheriff’s Dep’t, 447 F.3d 769 (9th Cir.2006); and United States v. Wise, 550 F.2d 1180, 1191 (9th Cir.1977).
+ 
+
+*1157 B. Licensees have reacted to the proliferation of software licensing agreements by asking the courts to apply copyright misuse defense to limit the scope of such agreements.
+Copyright misuse is a judicially crafted affirmative defense to copyright infringement, derived from the long-standing existence of such a defense in patent litigation. The patent misuse defense was originally recognized by the Supreme Court in 1942, in holding that the owner of the patent on a salt tablet machine could not require licensees to use only unpatented salt tablets sold by the patent owner. Morton Salt Co. v. G.S. Suppiger Co., 314 U.S. 488, 62 S.Ct. 402, 86 L.Ed. 363 (1942). The Court held that this improper tying of a patented product and an unpatented product constituted misuse, and prohibited the patent holder from maintaining infringement actions until the patent holder ceased misuse of the patent. Id. at 493, 62 S.Ct. 402 (“Where the patent is used as a means of restraining competition with the patentee’s sale of an unpatented product ... [e]quity may rightly withhold its assistance from such a use of the patent by declining to entertain a suit for infringement [until] the improper practice has been abandoned and [the] consequences of the misuse of the patent have been dissipated.”).
+ 
+In 1990, the Fourth Circuit became the first federal circuit to extend the misuse rationale to copyrights. See Lasercomb Am., Inc. v. Reynolds, 911 F.2d 970, 972 (4th Cir.1990). In Lasercomb, a software manufacturer required its customers to agree to a licensing agreement that barred the licensee from creating any competing software. Id. at 978 (“Each time Lasercomb sells its Interact program to a company ... the company is required to forego utilization of the creative abilities of all its officers, directors and employees in the area of CAD/CAM die-making software.”). Drawing on patent misuse jurisprudence, the Fourth Circuit concluded that Lasercomb’s licensing agreement was an “egregious” anticompetitive restraint, which amounted to copyright misuse. Id. at 979. It was aimed at preventing the creation of competing software.
+ 
+Subsequently, our court recognized the existence of a copyright misuse doctrine. See, e.g., Altera Corp. v. Clear Logic, Inc., 424 F.3d 1079, 1090 (9th Cir.2005); Practice Mgmt. Info. Corp. v. Am. Med. Ass’n, 121 F.3d 516, 521 (9th Cir.1997), amended by 133 F.3d 1140 (9th Cir.1998). In Altera, we made it clear that the defense is not a defense to state law claims, and in A&M Records v. Napster, Inc., 239 F.3d 1004 (9th Cir.2001), we rejected the applicability of the defense on the merits, upholding, in the circumstances of that case, the district court’s conclusion that there was actionable copyright infringement.
+ 
+We have thus applied the doctrine sparingly. The doctrine did not apply in Altera when there had been no allegation of copyright infringement. 424 F.3d at 1090. In Napster, we observed that the plaintiffs who sought to enjoin unlicensed use of copyrighted works were entitled to do so because they were not seeking to extend a copyright monopoly to other products or works. We described the purpose of the defense as preventing holders of copyrights “from leveraging their limited monopoly to allow them control of areas outside the monopoly.” Napster, 239 F.3d at 1026.
+ 
+Our decision in Practice Management is the only case in which we upheld a copyright misuse defense. We did so because the copyright licensor in that case prevented the licensee from using any other competing product. 121 F.3d at 520–21. In Practice Management, a publisher and distributor of medical books was using a coding system developed by the American *1158 Medical Association (“AMA”) to enable physicians and others to identify particular medical procedures with precision. Id. Practice Management sued the AMA for a declaratory judgment that the AMA’s copyright in its coding system, the Physician’s Current Procedural Terminology (“CPT”), was not valid. Id. at 518. The CPT had become an industry standard, and the AMA had a licensing agreement that allowed the Health Care Financing Administration (“HCFA”) to use the AMA system. The agreement provided, however, that HCFA use only the AMA system. Id. at 520–21 (the agreement required “HCFA to use the AMA’s copyrighted coding system and prohibit[ed] HCFA from using any other.”).
+ 
+We held this was copyright misuse, because the AMA was not entitled to use the license agreement to prevent the use of all competitor’s products. Id. at 521 (“Conditioning the license on HCFA’s promise not to use competitors’ products constituted a misuse of the copyright by the AMA.”). In recognizing clear abuse of the copyright, we observed that the AMA’s misuse was its limitation on the HCFA’s right to decide whether or not to use other systems as well. It was not necessary to decide whether the limitation, in the antitrust context, would have been reasonable or not. We said that “a defendant in a copyright infringement suit need not prove an antitrust violation to prevail on a copyright misuse defense.” Id. (citing Lasercomb, 911 F.2d at 978).
+ 
+No such limitation existed in Triad Sys. Corp. v. Se. Express Co., 64 F.3d 1330 (9th Cir.1995). We therefore rejected a copyright misuse defense and upheld the software licensing agreement. Id. at 1337. We held that there was no abuse where the copyright license did not prevent the licensee from developing competing software. Triad has significance for this case because we there adopted the Fourth Circuit’s view in Lasercomb that copyright misuse involves restraining development of competing products. See 911 F.2d at 978.
+ 
+Triad, a hardware and software producer, brought a copyright infringement action against Southeastern, an independent service organization that services Triad hardware. Triad licensed its copyrighted operating and diagnostic software for use by its licensees in the operation of Triad computers. 64 F.3d at 1333. Triad’s software license agreement prohibited the licensee from making copies of the software and from allowing third parties to use the software. Id. Triad alleged that Southeastern infringed Triad’s copyrights when South-eastern’s technicians serviced a licensees’ computers, because, during servicing, Southeastern copied Triad’s operating and service software and loaded it into Southeastern memory. Id.
+ 
+Triad sought to enjoin Southeastern from servicing its computers because of the infringement. Southeastern asserted a copyright misuse defense, claiming Triad was trying to monopolize its computer maintenance. By restricting third party use of its software, “Triad ha[d] used its intellectual property monopoly over Triad software to leverage its position in the Triad computer maintenance market.” Triad Sys. Corp. v. Southeastern Exp. Co., 1994 WL 446049, *3 n. 1 (N.D.Cal. Mar. 18, 1994). The district court rejected this argument and this court affirmed on appeal, holding that there was no attempt to stifle competition in the service software market. “Triad did not attempt to prohibit Southeastern or any other [independent service operator] from developing its own service software to compete with Triad.” Triad, 64 F.3d at 1337.
+ 
+[4] To the extent that Triad held that copying of software for purposes of servicing the computer was unlawful, it has been legislatively overruled. See *1159 17 U.S.C. § 117(c); see also Melissa A. Bogden, Note, Fixing Fixation: The RAM Copy Doctrine, 43 ARIZ. ST. L.J. 181, 196–97 (2011). To the extent that its reasoning requires rejection of a misuse defense in contexts other than maintenance, its reasoning remains the law of the circuit. A software licensing agreement may reasonably restrict use of the software as long as it does not prevent the development of competing products.
+ 
+
+C. Psystar’s Misuse Defense fails because it is an attempt to apply the First Sale Doctrine to a valid licensing agreement.
+[5] Psystar attempts to distinguish Triad from the present case by invoking the first sale doctrine. Psystar argues that Apple, unlike Triad, attempts to control the use of Mac OS X software after it has been sold, because Psystar purchased retail-packaged copies of the operating software. Psystar contends that while the copyright owner can refuse to sell copies, it cannot control their subsequent use. This argument falsely assumes that Apple transferred ownership of Mac OS X when it sold a retail-packaged DVD containing software designed to enable Apple’s existing customers to upgrade to the latest version of the operating system. The buyers of that DVD purchased the disc. They knew, however, they were not buying the software. Apple’s SLA clearly explained this.
+ 
+The DVD purchasers were licensees, not owners, of the software. The Mac OS X SLA, states that the software is “licensed, not sold, to [the customer] by Apple Inc. (Apple) for use only under the terms of this License.” Thus the SLA provides that Apple “retain[s] ownership of the Apple Software itself.” The SLA also imposes significant use and transfer restrictions, providing, inter alia, that a licensee may only run one copy and “may not rent, lease, lend, redistribute or sublicense the Apple Software.” Cf. Wall Data, 447 F.3d at 785 (“Generally, if the copyright owner makes it clear that she or he is granting only a license to the copy of software and imposes significant restrictions on the purchaser’s ability to redistribute or transfer that copy, the purchaser is considered a licensee, not an owner, of the software.”). The license thus satisfied Vernor’s three factor test for demonstrating the existence of a licensor/licensee relationship. 621 F.3d at 1111.
+ 
+[6] Contrary to Psystar’s assertion, such licensing arrangements are also firmly rooted in the history of copyright law. While copyright owners may choose to simply exclude others from their work, i.e. not to transfer their rights, see Stewart v. Abend, 495 U.S. 207, 228–29, 110 S.Ct. 1750, 109 L.Ed.2d 184 (1990); Fox Film Corp. v. Doyal, 286 U.S. 123, 127, 52 S.Ct. 546, 76 L.Ed. 1010 (1932), courts have long held that copyright holders may also use their limited monopoly to leverage the right to use their work on the acceptance of specific conditions, see, e.g., Metro–Goldwyn–Mayer Distrib. Corp. v. Bijou Theatre Co., 59 F.2d 70, 77 (1st Cir.1932) (holding that if a motion picture license is subject to the condition that its exhibition must occur at specified times and places, the licensee’s exhibitions at other times and places is without authority from the licensor and therefore constitutes copyright infringement).
+ 
+
+D. The Fifth Circuit’s Decision in Alcatel Unlike This Case Involved Restrictions Aimed At Stifling Competition.
+[7] [8] The copyright misuse doctrine does not prohibit using conditions to control use of copyrighted material, but it does prevent copyright holders from using the conditions to stifle competition. Psystar relies on the Fifth Circuit’s opinion in *1160 Alcatel. This reliance is inapposite. In Alcatel, the license conditions prevented development of competing products, and thus constituted copyright misuse. See 166 F.3d at 793–94.
+ 
+In Alcatel, the plaintiff and copyright holder (formerly known as DSC) manufactured telephone switching systems consisting of copyrighted operational software and numerous non-copyrighted components. Id. at 777. The software license agreement provided that the software was “licensed to customers to be used only in conjunction with DSC-manufactured hardware,” and such hardware included expansion cards. Id. at 793. To develop compatible cards, the defendant had to download and copy the software for testing and development purposes. Id. at 779. This would have been a breach of the licensing agreement. The Fifth Circuit held, however, that the restrictive terms of the licensing agreement constituted copyright misuse.
+ 
+Unlike the licensing agreement in Alcatel, Apple’s SLA does not restrict competitor’s ability to develop their own software, nor does it preclude customers from using non-Apple components with Apple computers. Instead, Apple’s SLA merely restricts the use of Apple’s own software to its own hardware. As the district court properly concluded, Apple’s SLA has “not prohibited others from independently developing and using their own operating systems.” Apple I, 673 F.Supp.2d at 939. Psystar produces its own computer hardware and it is free to develop its own computer software.
+ 
+Moreover, Alcatel was a complex case involving unfair competition, antitrust claims, as well as copyright infringement. It eventually went to a jury that found misuse as a matter of fact on uncontested instructions. 166 F.3d at 779–80. The Fifth Circuit effectively upheld the misuse verdict. Id. at 793. Alcatel does not support Psystar’s contention that it can copy Apple’s copyrighted operating software and use it to run competing hardware. Apple was entitled to injunctive relief.
+ 
+Alcatel appears to be more like our decision in Practice Management where we found an anti-competitive license condition. See 121 F.3d at 520–21. In Practice Management, the agreement prohibited the licensee from using any competing system. In Alcatel, the agreement effectively prohibited the licensee from using any competing expansion cards. Therefore, Apple’s SLA, like the one we reviewed in Triad, represents the legitimate exercise of a copyright holder’s right to conditionally transfer works of authorship, and does not constitute copyright misuse.
+ 
+
+III. Scope of Apple’s Injunctive Relief
+[9] Psystar challenges the scope of the injunctive relief granted by the district court. Psystar filed suit in Florida, after Apple filed this suit for infringement in California. But due to a discovery dispute, the subject matter of the two suits are not identical—Psystar’s suit in Florida focused only on Apple’s Snow Leopard and Psystar’s Rebel EFI product. Apple II, 673 F.Supp.2d at 951–53 (detailing the relevant differences between the two products). The difference in subject matter is principally due to Apple’s refusal to allow discovery of Snow Leopard in the present suit. The district court correspondingly refused to reopen discovery after Psystar filed suit in Florida. Id. at 952–53.
+ 
+Psystar therefore argues that the injunction should expressly exclude Snow Leopard and Rebel EFI, contending that the district court should defer to the Florida litigation to resolve the issues related to Apple’s Snow Leopard and Psystar’s Rebel EFI. The problem is that the legal issues in this case and in the Florida case are materially similar, and the Florida court *1161 had not yet issued any ruling. The fact that Psystar was the first to file suit, in Florida, does not require the same issues to be relitigated there.
+ 
+We have described the first to file rule as “a generally recognized doctrine of federal comity which permits a district court to decline jurisdiction over an action when a complaint involving the same parties and issues has already been filed in another district.” Pacesetter Sys. Inc. v. Medtronic, Inc., 678 F.2d 93, 94–95 (9th Cir.1982). This rule, however, “is not a rigid or inflexible rule to be mechanically applied, but rather is to be applied with a view to the dictates of sound judicial administration.” Id. at 95.
+ 
+The only case that Psystar cites to support its argument, United States v. AMC Entm’t, Inc., 549 F.3d 760 (9th Cir.2008), is inapposite to the facts presented here. This is because before the district court entered the injunction that was on appeal in that case, the appellate court of a sister circuit had reached the opposite result. In AMC, our court remanded the issuance of a nation-wide injunction entered by the district court judge in California because, prior to its issuance, the Fifth Circuit declined to enter a similar injunction in a case with identical issues. Id. at 773. We held that a “district court in the Ninth Circuit should not ‘negate something that has already been determined in adversary proceedings’ before the United States Court of Appeals of the Fifth Circuit [as it] would cause substantial interference with the established judicial pronouncements of ... sister circuits.” Id.
+ 
+Here, in contrast, neither the United States District Court for the Southern District of Florida, much less the Eleventh Circuit Court of Appeals, has issued any pronouncement on the legality of Snow Leopard or Rebel EFI under the Copyright Act or DMCA. Apple II, 673 F.Supp.2d at 955.
+ 
+While Psystar stresses that the copyrighted work in the Florida case is different, federal law provides the district court the discretion to “grant temporary and final injunctions on such terms as it may deem reasonable to prevent or restrain infringement of a copyright.” 17 U.S.C. § 502(a). The DMCA also provides authority to grant injunctive relief. Id. at § 1203(b)(1). Courts have extended injunctive relief beyond the four corners of the litigated copyrighted works to cover non-litigated items of similar character. See, e.g., Walt Disney Co. v. Powell, 897 F.2d 565, 568 (D.C.Cir.1990) (extending a permanent injunction to copyrighted characters that were not expressly litigated in the underlying action); Warner Bros. Records, Inc. v. Brown, 2008 WL 4911161, at *2–3 (N.D.Cal. Nov. 13, 2008).
+ 
+Here, as in Walt Disney, it is appropriate to permanently enjoin the future infringement of copyrighted works, such as Snow Leopard, even if not directly in issue because liability has been established as between the parties, and the threat of harm through future infringement of Snow Leopard is real. The same was true in Walt Disney, where the court extended relief. The court said “liability has been determined adversely to the infringer, there has been a history of continuing infringement and a significant threat of future infringement remains.” 897 F.2d at 568. Thus, the district court did not abuse its discretion when it rejected Psystar’s claim that Rebel EFI should be expressly excluded from the permanent injunction. The order did not contradict or interfere with any order issued by a court in any other jurisdiction.
+ 
+
+IV. District Court’s Sealing Orders
+[10] Psystar contends that the district court erred in granting Apple’s motions to seal summary judgment papers, because *1162 the court failed to articulate specific reasons supporting its decision to seal. Psystar raised this challenge in its Opposition to Apple’s Motion to Seal Apple’s Motion for Summary Judgment. We agree, and remand.
+ 
+Apple requested that the court seal portions of the summary judgment filings relating to its technological protection measures and other proprietary technology used to restrict access to its copyrighted Mac OS X. The district court granted seven sealing orders in connection with the parties’ respective motions for summary judgment, oppositions, and replies, but none of the orders provide any specific explanation. They state no more than the following: “For good cause shown and based on compelling reasons ...”
+ 
+Our circuit has joined the Seventh Circuit in requiring district courts to start with a strong presumption in favor of access when deciding whether to seal records. Hagestad v. Tragesser, 49 F.3d 1430, 1434 (9th Cir.1995); see also Kamakana v. City & Cnty. of Honolulu, 447 F.3d 1172, 1178–179 (9th Cir.2006). The publication of materials that could result in infringement upon trade secrets has long been considered a factor that would overcome this strong presumption. See EEOC v. Erection Co., Inc., 900 F.2d 168, 170 (9th Cir.1990). Yet where the district court fails to articulate the rationale underlying its decision to seal, we are unable to review the decision. We have therefore reversed an order that without explanation sealed court documents. See Hagestad, 49 F.3d at 1434–35 (citing EEOC, 900 F.2d at 169).
+ 
+Here, Apple concedes that at least one of the orders to seal inappropriately extended to non-confidential material. This, coupled with the district court’s failure to articulate any reasoning or findings underlying its decision to seal, compel us to vacate the district court’s sealing orders and remand for further consideration.
+ 
+
+CONCLUSION
+The district court’s grant of summary judgement in favor of Apple and its entry of a permanent injunction against Psystar’s infringement of Mac OS X are affirmed. The district court’s orders granting Apple’s motion to seal litigation documents are vacated and remanded for further consideration.
+ 
+AFFIRMED in part, REMANDED in part.
+ 
+Costs are awarded to Apple.
+ 
+All Citations
+658 F.3d 1150, 2011 Copr.L.Dec. P 30,137, 100 U.S.P.Q.2d 1338, 11 Cal. Daily Op. Serv. 12,386, 2011 Daily Journal D.A.R. 14,720
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

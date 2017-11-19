@@ -1,0 +1,436 @@
+
+
+
+
+
+Leader Technologies, Inc. v. Facebook, Inc.
+United States Court of Appeals, Federal Circuit. | May 8, 2012 | 678 F.3d 1300 | 2012 WL 1598079
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Finjan, Inc. v. Sophos, Inc., N.D.Cal., March 14, 2017
+
+standard Citation:
+
+Leader Techs., Inc. v. Facebook, Inc., 678 F.3d 1300 (Fed. Cir. 2012)
+
+All Citations:
+
+678 F.3d 1300, 102 U.S.P.Q.2d 1743
+
+Search Details
+
+Search Query:
+
+adv: NAME(”facebook”)
+
+Jurisdiction:
+
+Delaware
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:48 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Finjan, Inc. v. Sophos, Inc., N.D.Cal., March 14, 2017
+678 F.3d 1300
+United States Court of Appeals,
+Federal Circuit.
+LEADER TECHNOLOGIES, INC., Plaintiff–Appellant,
+v.
+FACEBOOK, INC., Defendant–Appellee.
+No. 2011–1366.
+|
+May 8, 2012.
+|
+Rehearing and Rehearing En Banc Denied July 16, 2012.
+Synopsis
+Background: Owner of patent relating to dynamic association of electronically stored information with iterative workflow changes filed infringement action against social network service. After entry of jury verdict finding literal infringement and invalidity, the United States District Court for the District of Delaware, Leonard P. Stark, J., 770 F.Supp.2d 686, denied patentee’s motion for judgment as matter of law or for new trial, and it appealed.
+ 
+Holdings: The Court of Appeals, Lourie, Circuit Judge, held that:
+ 
+[1] legally sufficient evidence supported jury’s determination that patent was invalid based on on sale bar and public use bar, and
+ 
+[2] district court did not abuse its discretion in denying patentee’s motion for new trial.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (11)
+
+
+[1]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+Federal Circuit applies regional circuit’s law to review district court’s denial of motion for judgment as matter of law or for new trial in patent infringement action.
+12 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk776, 170Bk765)
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)3Presumptions
+170Bk3672Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk801)
+
+
+Under Third Circuit law, Court of Appeals reviews de novo denial of motion for judgment as matter of law, viewing record in light most favorable to verdict winner and drawing all reasonable inferences in its favor, and must not weigh evidence, engage in credibility determinations, or substitute its version of facts for jury’s.
+Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk765)
+
+
+Under Third Circuit law, Court of Appeals may reverse district court’s denial of motion for judgment as matter law only if record is critically deficient of that minimum quantity of evidence from which jury might reasonably afford relief.
+Cases that cite this headnote
+
+
+
+[4]
+
+Federal CourtsNew Trial, Rehearing, or Reconsideration
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3606New Trial, Rehearing, or Reconsideration
+170Bk3606(1)In general
+(Formerly 170Bk825.1)
+
+
+Court of Appeals reviews denial of new trial for abuse of discretion.
+Cases that cite this headnote
+
+
+
+[5]
+
+Federal Civil ProcedureWeight of evidence
+
+
+170AFederal Civil Procedure
+170AXVINew Trial
+170AXVI(B)Grounds
+170Ak2338Verdict or Findings Contrary to Law or Evidence
+170Ak2339Weight of evidence
+
+
+New trial should be granted only if great weight of evidence cuts against verdict and where miscarriage of justice would result if verdict were to stand.
+Cases that cite this headnote
+
+
+
+[6]
+
+Federal Civil ProcedurePresumptions; construction of evidence
+
+
+170AFederal Civil Procedure
+170AXVINew Trial
+170AXVI(C)Proceedings
+170Ak2372Hearing and Determination
+170Ak2373Presumptions; construction of evidence
+
+
+Court in motion for new trial context does not view evidence in light most favorable to verdict winner, but instead exercises its own judgment in assessing evidence.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsDe novo review in general
+PatentsObviousness;  lack of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(2)Patentability and Validity
+291k1970(7)Obviousness;  lack of invention
+(Formerly 291k324.55(4))
+
+
+Whether patent is invalid for public use or sale is question of law, reviewed de novo, based on underlying facts, reviewed for substantial evidence following jury verdict. 35 U.S.C.A. § 102(b).
+4 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsPresumption of correctness in general
+PatentsDegree of proof
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(D)Conclusiveness and Effect of Administrative Decisions
+291k1102Presumption of correctness in general
+(Formerly 291k112.1)
+291Patents
+291IVPatent Applications and Proceedings
+291IV(D)Conclusiveness and Effect of Administrative Decisions
+291k1116Sufficiency of Evidence to Offset Effect of Decision
+291k1119Degree of proof
+(Formerly 291k112.5)
+
+
+Because issued patent is presumed to be valid, party challenging patent’s validity for public use or sale must prove by clear and convincing evidence that product used or on sale prior to critical date was embodied by claimed invention. 35 U.S.C.A. §§ 102(b), 282.
+6 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsSale
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)5Prior Public Use or Sale
+291k635Evidence
+291k639Weight and Sufficiency
+291k639(2)Particular Products or Processes
+291k639(5)Sale
+(Formerly 291k81)
+
+
+Evidence supported finding that version of patentee’s software product demonstrated and offered for sale prior to critical date was embodiment of asserted claims in patent relating to dynamic association of electronically stored information with iterative workflow changes, and thus that patent was invalid based on on sale bar and public use bar; patentee’s interrogatory responses, deposition testimony, and written documents indicated that product embodied all elements of claimed invention and was ready for patenting, and that product was offered for commercial sale and publicly demonstrated to third party without obligation for secrecy, and patentee failed to point to any contemporaneous evidence that product existing prior to critical date was substantively different from post-critical date software. 35 U.S.C.A. § 102(b).
+6 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsNew trial;  amendment
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1939Relief from Judgment
+291k1942New trial;  amendment
+(Formerly 291k323.3)
+
+
+District court did not abuse its discretion in denying patentee’s motion for new trial after jury determined that its patent relating to dynamic association of electronically stored information with iterative workflow changes was invalid based on on sale bar and public use bar, where alleged infringer relied almost exclusively on patentee’s own admissions to prove invalidity and those documents, on their face, did not support patentee’s position. 35 U.S.C.A. § 102(b).
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,139,761. Invalid.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1301 Daryl L. Joseffer, King & Spalding, LLP, of Washington, DC, argued for plaintiff-appellant. With him on the brief was Adam Conrad. Of counsel on the brief were Paul J. Andre and Lisa Kobialka, Kramer Levin Naftalis & Frankel, LLP, of Menlo Park, CA.
+Thomas G. Hungar, Gibson, Dunn & Crutcher, LLP, of Washington, DC, argued for defendant-appellee. With him on the brief were William G. Jenks and Michael F. Murray. Of counsel on the brief were Heidi L. Keefe and Mark R. Weinstein, Cooley, LLP, of Palo Alto, CA, and Michael G. Rhodes, of San Francisco, CA.
+Before LOURIE, MOORE, and WALLACH, Circuit Judges.
+Opinion
+LOURIE, Circuit Judge.
+
+Leader Technologies, Inc. (“Leader”) appeals from the district court’s final judgment in favor of Facebook, Inc. (“Facebook”). The judgment follows a jury trial in which the jury found that Facebook proved that claims 1, 4, 7, 9, 11, 16, 21, 23, 25, 31, and 32 (the “asserted claims”) of Leader’s U.S. Patent 7,139,761 (“the ′761 patent”) were invalid under 35 U.S.C. § 102(b). After trial, the district court denied Leader’s motion for judgment as a matter of law or, in the alternative, for a new trial on the invalidity issues. Leader Techs., Inc. v. Facebook, Inc., 770 F.Supp.2d 686 (D.Del.2011). Because substantial evidence supports the jury’s verdict that Leader offered for sale and publicly demonstrated the claimed invention prior to the critical date and because the district court did not abuse its discretion in denying Leader’s motion for a new trial, we affirm.
+ 
+
+BACKGROUND
+I.
+This patent case relates to software that allows users on a network to communicate and collaborate on a large scale. Leader, a software company founded in the late 1990s, owns the ′761 patent. Prior to filing *1302 the application that issued as the ′761 patent in December, 2003, Leader developed a product referred to as Leader2Leader®, and the central issue in this appeal is whether the Leader2Leader® product that was publicly used and on sale prior to December 10, 2002 fell within the scope of the asserted claims, thus rendering them invalid under 35 U.S.C. § 102(b).
+ 
+The ′761 patent discloses a system that manages data that may be accessed and created by multiple users over a network. Broadly, the patent improves upon conventional systems by associating data “with an individual, group of individuals, and topical content, and not simply with a folder, as in traditional systems.” ′761 patent, col.3 ll.29–31.
+ 
+The system achieves this improvement by having users collaborate and communicate through “boards” that are accessible through an Internet browser and appear as a webpage. For example, a board for a project might allow users affiliated with the project to set up meeting sessions with other users, id. col.15 ll.19–33, upload and share files, id. col.16 ll.54–64, vote on questions posted on the board, id. col.15 ll.46–49, or chat with other users, id. col. 17 ll.39–56.
+ 
+To facilitate those user-facing functions, the data management system employs metadata. Id. col.9 ll.50–61. The metadata are “tagged” to data being created to capture the association between the data and its context. Id. col.9 ll.53–56. By tagging the data to a particular context, the system allows users to access the data to communicate and collaborate. Thus, “[a]s users create and change their contexts, the data (e.g., files) and applications automatically follow.” Id. col. 7 ll.46–49.
+ 
+The ′761 patent’s claims are drawn to aspects of the data management system that enable users to collaborate and communicate. Claim 9, reproduced below, is exemplary of the asserted claims:
+9. A computer-implemented method of managing data, comprising computer-executable acts of:
+creating data within a user environment of a web-based computing platform via user interaction with the user environment by a user using an application, the data in the form of at least files and documents;
+dynamically associating metadata with the data, the data and metadata stored on a storage component of the web-based computing platform, the metadata includes information related to the user, the data, the application, and the user environment;
+tracking movement of the user from the user environment of the web-based computing platform to a second user environment of the web-based computing platform; and
+dynamically updating the stored metadata with an association of the data, the application, and the second user environment wherein the user employs at least one of the application and the data from the second environment.
+Id. col.21 ll.38–58. In relation to the Leader2Leader® product, Leader’s founder, Michael McKibben, testified that the ′761 patent’s claims cover the “underlying engine,” J.A. 25585–86, which is referred to as Digital Leaderboard®, Leader, 770 F.Supp.2d at 717.
+ 
+The relevant case history begins in 1999. In August of that year, McKibben and Jeffrey Lamb conceived the invention claimed in the patent. Immediately after conceiving the idea, the inventors began developing software based on that idea with the goal of building a commercial product. In total, about fifteen to twenty people worked on the project. According to Lamb, Leader completed the project within “a couple of years.... [m]aybe *1303 three,” i.e., probably the “2002ish time frame.” J.A. 24829.
+ 
+Around that time, Leader offered the Leader2Leader® product for sale and demonstrated the product to a number of companies. In January 2002, Leader presented a white paper to people at the Wright Patterson Air Force Base offering 20,000 software licenses to the Leader2Leader® product. In the paper, Leader stated that it was “already commercializing” the product for “government, commerce and education,” J.A. 27203, and that the platform was “operational now with low user volumes,” J.A. 27207. Leader also represented that the Digital Leaderboard® software supplied under the Leader2Leader® brand had been “[f]ully developed.” J.A. 27204.
+ 
+The white paper also discussed the functionality of Leader2Leader® powered by the Digital Leaderboard® system. The paper described the problem with the communications “glass ceiling,” in which data are aggregated into “silos,” and explained that Leader had “discovered and fixed a plethora of serious shortcomings and flaws in prevailing platform assumptions about mere aggregation vs. true integration of communications technologies.” J.A. 27202. Leader attached to the paper a sample “Big Board” that depicted analyst collaboration and information flow between various agencies and stated that the “Input & Display Collaboration Devices” for the system included a “Browser.” J.A. 27210.
+ 
+In November 2002, McKibben demonstrated the Leader2Leader® software to senior staff members at Boston Scientific, a demonstration that he described as “flawless.” J.A. 34694. According to Leader’s Vice President of Technologies, to support its clinical trials communications, Boston Scientific needed “a very secure system” to support “full document management functions” and “collaborative meetings/conferences,” among other functionality. J.A. 34694. He summarized that “in a nutshell” Boston Scientific was looking for Leader2Leader®. J.A. 34694.
+ 
+By December 8, 2002, Leader had demonstrated and offered Leader2Leader® to a number of other companies, including American Express and The Limited. In its interaction with The Limited, Leader described Leader2Leader® as the company’s “full suite of technology services,” J.A. 34692, and explained that the software had “potentially strong fits” in managing project resources and allowing collaboration, among other areas, J.A. 27221. Regarding American Express, according to McKibben, the head of technology architecture at American Express described the Leader2Leader® product as “disruptive technology” that will “create its own market.” J.A. 34692. After seeing the software, American Express put on hold its collaborative computing initiative and was considering investing in Leader. J.A. 27216, 34692. McKibben similarly described Leader’s prospects as requiring functionality such as “knowledge management,” “new product design collaboration,” “client collaboration,” and “file sharing.” J.A. 27215–16.
+ 
+At the same time, Leader was struggling financially and was eager to obtain Leader2Leader® customers. By December 3, 2002, Leader had deferred employee salaries and was facing an economic climate in which raising short term financing “ha[d] never been harder.” J.A. 27215. McKibben explained to Leader’s employees that a contract from Boston Scientific, The Limited, or American Express, among others, would change Leader’s valuation position with institutional investors. Indeed, according to McKibben, the “most significant factor” that would improve Leader’s negotiating position in valuation discussions was “the acquisition of ‘marquee’ paying customers.” J.A. 27216. At *1304 that time, Leader also enlisted its prospects’ executives to help it obtain venture capital funding. However, although Leader and the general economy faced “rocky financial times,” McKibben explained that “[t]he bottom line is that we have built the product we said we would build” and that Leader was making every effort to sell that product in the marketplace. J.A. 27217.
+ 
+Leader filed a provisional patent application on December 11, 2002. On December 10, 2003, Leader filed an application that issued as the ′761 patent.
+ 
+
+II.
+In 2008, Leader sued Facebook in the United States District Court for the District of Delaware, alleging infringement of various claims of the ′761 patent. During discovery, Facebook served an interrogatory that asked Leader to identify all products and services that it contended practiced the claims of the ′761 patent. Leader provided two responses that were at issue during the litigation. In its First Supplemental Response, Leader asserted that “Leader2Leader® powered by the Digital Leaderboard® engine is covered by the ′ 761 patent.” Leader, 770 F.Supp.2d at 717. Thereafter, Leader amended its response to more specifically state that “Leader2Leader® powered by the Digital Leaderboard® engine is the only product or service provided by Leader which embodies, either literally or under the doctrine of equivalents, any of the asserted claims” of the ′761 patent. Id. McKibben verified those interrogatory responses.
+ 
+Facebook also deposed McKibben. In his deposition, McKibben could not identify any iteration of the Leader2Leader® product that did not fall within the scope of the claims of the ′761 patent, testifying that “[t]hat was a long time ago. I—I can’t point back to a specific point.” Id. at 719.
+ 
+The interrogatory responses and McKibben’s deposition testimony were a focus at trial. At trial, McKibben testified that the interrogatory and Leader’s responses, by employing the present tense, were directed at whether Leader2Leader® practiced the ′761 patent’s claims in 2009. McKibben also testified at trial that the Leader2Leader® product powered by the Digital Leaderboard® engine was covered by the asserted claims in 2007 and 2010, but not prior to December of 2002. Specifically, McKibben testified at trial that he “vividly remember[ed]” that the patented technology was not incorporated into the Leader2Leader® product “until days before” the December 11, 2002 filing of the provisional patent application. J.A. 25708–09; see also Leader, 770 F.Supp.2d at 722 n. 16. On cross-examination, Facebook played McKibben’s inconsistent deposition testimony before the jury.
+ 
+After the parties argued their positions to the jury, the jury returned a verdict in favor of Facebook on the on-sale and public use bars. First, the jury specifically found that the ′761 patent was not entitled to the priority date of the provisional patent application, a finding that Leader does not challenge on appeal. The jury also specifically found that the asserted claims of the ′761 patent were invalid on two independent grounds: (1) that the invention was subject to an invalidating sale; and (2) that the invention was subject to an invalidating public use.
+ 
+The district court thereafter denied Leader’s post-trial motions for judgment as a matter of law or, in the alternative, for a new trial. Specifically, regarding whether the Leader2Leader® product embodied the asserted claims prior to the critical date, the district court concluded that McKibben’s discredited trial testimony coupled with the interrogatory responses were sufficient evidence to support the *1305 jury’s verdict of invalidity. Leader, 770 F.Supp.2d at 716–22. In addition, the court pointed to Leader’s offering of the Leader2Leader® product in the 2001 to 2002 time period as evidence supporting the jury’s verdict. Id. at 722 n. 16. Finally, after exercising its own assessment of the evidence, the court concluded that the jury’s invalidity verdict was not against the great weight of the evidence. Id. at 727.
+ 
+The district court entered judgment against Leader, from which it timely appealed. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+I.
+[1] [2] [3] We apply the law of the regional circuit, here the Third Circuit, to review the district court’s denial of Leader’s motion for judgment as a matter of law or for a new trial. Union Carbide Chem. & Plastics Tech. Corp. v. Shell Oil Co., 308 F.3d 1167, 1182, 1188 (Fed.Cir.2002). Under Third Circuit law, we review de novo the denial of a motion for judgment as a matter of law, viewing the record in the light most favorable to the verdict winner and drawing all reasonable inferences in its favor. Eddy v. V.I. Water & Power Auth., 369 F.3d 227, 230 (3d Cir.2004). Under this review, “[a] court must not weigh evidence, engage in credibility determinations, or substitute its version of the facts for the jury’s.” Pitts v. Delaware, 646 F.3d 151, 155 (3d Cir.2011). Instead, we may reverse the district court’s denial of a motion for judgment as a matter law only if “the record is critically deficient of that minimum quantity of evidence from which a jury might reasonably afford relief.” Trabal v. Wells Fargo Armored Serv. Corp., 269 F.3d 243, 249 (3d Cir.2001) (quoting Powell v. J.T. Posey Co., 766 F.2d 131, 133–34 (3d Cir.1985)).
+ 
+[4] [5] [6] We review the denial of a new trial for an abuse of discretion. Foster v. Nat’l Fuel Gas Co., 316 F.3d 424, 429–30 (3d Cir.2003). Considered “extraordinary relief,” Marra v. Phila. Housing Auth., 497 F.3d 286, 309 n. 18 (3d Cir.2007), a new trial should be granted only if the great weight of the evidence cuts against the verdict and “where a miscarriage of justice would result if the verdict were to stand,” Sheridan v. E.I. DuPont de Nemours & Co., 100 F.3d 1061, 1076 (3d Cir.1996) (en banc). However, unlike a sufficiency of the evidence claim, a court in the motion for a new trial context “does not view the evidence in the light most favorable to the verdict winner, but instead exercises its own judgment in assessing the evidence.” Marra, 497 F.3d at 309 n. 18.
+ 
+[7] [8] Under 35 U.S.C. § 102(b), a patent is invalid if “the invention was ... in public use or on sale in this country” more than one year prior to the date the patent application is filed. “Whether a patent is invalid for a public use or sale is a question of law, reviewed de novo, based on underlying facts, reviewed for substantial evidence following a jury verdict.” Adenta GmbH v. OrthoArm, Inc., 501 F.3d 1364, 1369 (Fed.Cir.2007). One of those underlying facts is “whether the subject of the barring activity met each of the limitations of the claim, and thus was an embodiment of the claimed invention.” Scaltech Inc. v. Retec/Tetra, L.L.C., 178 F.3d 1378, 1383 (Fed.Cir.1999); see also Juicy Whip, Inc. v. Orange Bang, Inc., 292 F.3d 728, 736–37, 738 (Fed.Cir.2002). Because we presume that an issued patent is valid, 35 U.S.C. § 282, the party challenging the validity of a patent must prove by clear and convincing evidence that the product used or on sale prior to the critical date was embodied by the claimed invention, Juicy Whip, 292 F.3d at 736–37, 738.
+ 
+
+*1306 II.
+In this case, Leader does not contest that a Leader2Leader® product was offered for sale and publicly used prior to December 10, 2002, the critical date. Nor, for the purposes of the on-sale bar, does Leader contest that the invention was “ready for patenting” prior to the critical date. See Pfaff v. Wells Elecs., Inc., 525 U.S. 55, 67–68, 119 S.Ct. 304, 142 L.Ed.2d 261 (1998). Instead, Leader argues that Facebook failed to offer clear and convincing evidence that the version of Leader2Leader® offered for sale or used prior to December 10, 2002 fell within the scope of the asserted claims. Specifically, Leader argues that Facebook failed to offer any evidence, such as expert testimony, source code, or schematics, to prove when Leader incorporated the patented technology into the Leader2Leader product. Indeed, Leader argues that the only evidence at trial was testimony that showed that Leader did not use or offer for sale the invention until after the critical date. Leader asserts that even if the jury found that testimony incredible, incredible testimony is not affirmative evidence of its opposite, viz., that the invention was on sale or used prior to the critical date. Thus, argues Leader, Facebook failed as a matter of law to prove invalidity by clear and convincing evidence. In the alternative, Leader argues that the district court abused its discretion in denying its request for a new trial because the verdict of invalidity was against the great weight of the evidence.
+ 
+Facebook responds that the district court properly entered judgment on the jury’s verdict of invalidity. Specifically, Facebook points to Leader’s internal documents and correspondence to potential customers, Leader’s interrogatory responses, and testimony by co-inventors Lamb and McKibben. Facebook also argues that the jury was permitted to weigh McKibben’s lack of credibility against Leader in rendering a verdict. Thus, in light of this evidence, Facebook argues that the district court properly denied Leader’s motion for judgment as a matter of law or for a new trial.
+ 
+[9] We agree with Facebook that legally sufficient evidence supported the jury’s verdict that the version of Leader2Leader® demonstrated and offered for sale prior to the critical date was an embodiment of the asserted claims. Contrary to Leader’s arguments, the record is not devoid of the minimum quantity of evidence to support the jury’s verdict. First, Leader admitted in its interrogatory responses that Leader2Leader® powered by the Digital Leaderboard® engine “embodies” the asserted claims of the ′761 patent. Leader, 770 F.Supp.2d at 717. Leader argues that, by employing the present tense, its admissions were limited to only the instance of the Leader2Leader® powered by the Digital Leaderboard® engine that existed at the time Leader served its responses on Facebook. But Leader did not qualify its interrogatory responses in that manner. The responses did not specify any date ranges nor did they identify versions or builds of the software—information that Leader appears to have tracked, J.A. 25761. Indeed, consistent with a broader reading of Leader’s responses untethered to the precise moments in which the they were served, McKibben contended at trial that the Leader2Leader® powered by the Digital Leaderboard® engine not only fell within the scope of the asserted claims in 2009 when Leader served its responses, but also in 2007, before the lawsuit was initiated, and in 2010 during the trial. Leader, 770 F.Supp.2d at 718. Moreover, in his deposition, McKibben could not identify a single instance of Leader2Leader® that did not fall within the scope of the ′761 patent’s claims. Id. at 719.
+ 
+*1307 Coupled with Leader’s admission, the record contains legally sufficient evidence linking the pre-critical date software to the software that Leader admitted fell within the scope of the asserted claims. In its offer to Wright Patterson in January 2002, Leader offered for sale the exact software product that Leader admitted fell within the scope of the asserted claims—the Digital Leaderboard® engine supplied under the Leader2Leader brand—and described that software as “fully developed” and “operational.” J.A. 27204, 27207. Like Leader’s admissions, Leader did not identify a specific build or version of the software in the offer for sale. Moreover, in the offer, Leader depicted the fully developed system as powering a browser-accessible “Big Board” that allows analysts and agencies to collaborate and share information, J.A. 27210, a disclosure that matches the embodiments of the ′761 patent in material respects, e.g., ′761 patent fig. 15, col.5 ll.14–17 (depicting a “screenshot of a management tool window of a browser used as a user interface to facilitate user interaction with meeting information in accordance with the present invention”). This description is consistent with Leader’s other pre-critical date documents, which describe the software as facilitating the same type of user interaction described in the ′761 patent’s embodiments, such as document management, id. col.4 ll.24–31, collaborative meetings, id. col.15 ll.19–33, and file sharing, id. col.16 ll.54–64. Those documents also state that, by December 3, 2002, Leader had “flawless[ly]” demonstrated the software, J.A. 34694, which contained the company’s “full suite of technology services,” J.A. 34692, and had been “built,” J.A. 27217.
+ 
+In addition to Leader’s contemporaneous documents, Lamb’s trial testimony supports the jury’s finding that the Leader2Leader® product powered by the Digital Leaderboard® engine that was on sale and demonstrated prior to the critical date fell within the scope of the asserted claims. In particular, Lamb testified that, after conceiving the invention in August 1999, Leader immediately started to implement the patented technology and completed the project within “a couple of years.... [m]aybe three.” J.A. 24829.
+ 
+Finally, regarding the jury’s decision to discredit McKibben’s trial testimony that the pre-critical date Leader2Leader® did not fall within the scope of the asserted claims, we generally agree with Leader that “[n]ormally,” a witness’s “discredited testimony is not considered a sufficient basis for drawing a contrary conclusion.” Bose Corp. v. Consumers Union of U.S., Inc., 466 U.S. 485, 512, 104 S.Ct. 1949, 80 L.Ed.2d 502 (1984). However, as recounted above, the record contains substantial evidence that the Leader2Leader® product that was on sale and in public use prior to the critical date fell within the scope of the asserted claims. At a minimum, McKibben’s lack of credibility fortifies that conclusion and provides an independent basis for disbelieving his factual assertions.
+ 
+In upholding the verdict, we recognize that as a general matter a computer scientist can easily modify and change software code and that two versions of the same software product may function differently. But, in this case, Leader fails to point to any contemporaneous evidence in the record that indicates that the Leader2Leader® powered by the Digital Leaderboard® engine that existed prior to the critical date was substantively different from the post-critical date software; indeed, the evidence points in the opposite direction. As for McKibben’s testimony that Leader was constantly revising the software and just completed the final version right after the pre-critical date demonstrations and offers for sale, the jury was entitled to disbelieve such a transparently convenient assertion in light of all of the evidence before them. *1308 On appeal, we cannot reweigh the evidence or supplant the record. We are bound by the record developed below, viewed in the light most favorable to Facebook, and can only reverse the verdict if the record is critically deficient of the minimum quantity of evidence from which the jury might have reasonably rendered a verdict against Leader. Trabal, 269 F.3d at 249. Even if we may have reached a different verdict had we sat on the jury, it is not our role as an appellate court to overturn the jury’s verdict when it was supported by substantial evidence.
+ 
+[10] Similarly, we agree with Facebook that the district court did not abuse its discretion in denying Leader’s motion for a new trial. Facebook relied almost exclusively on Leader’s own admissions to prove invalidity and those documents, on their face, do not support Leader’s position. Thus, it was not in error to conclude that the verdict was not against the great weight of the evidence. Moreover, Leader fails to cogently explain on appeal why upholding the verdict would result in a miscarriage of justice.
+ 
+
+CONCLUSION
+We have considered Leader’s remaining arguments and conclude that they are without merit. For the foregoing reasons, the judgment of the district court is
+ 
+AFFIRMED
+ 
+All Citations
+678 F.3d 1300, 102 U.S.P.Q.2d 1743
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Finjan, Inc. v. Sophos, Inc.  
+244 F.Supp.3d 1016 , N.D.Cal.
+PATENTS - Computers and Electronics. Claims of patent for ”malicious mobile code runtime monitoring system and methods” were not invalid as an abstract idea.
+Mar. 14, 2017
+Case
+
+9
+
+
+
+
+F.3d
+
+

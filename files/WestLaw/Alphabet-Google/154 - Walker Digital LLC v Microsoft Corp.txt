@@ -1,0 +1,211 @@
+
+
+ 
+
+
+Walker Digital, LLC v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | November 6, 2014 | 590 Fed.Appx. 956 | 2014 WL 5741456
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Walker Digital, LLC v. Microsoft Corp., 590 F. App’x 956 (Fed. Cir. 2014)
+
+All Citations:
+
+590 Fed.Appx. 956
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Delaware
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+590 Fed.Appx. 956
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+WALKER DIGITAL, LLC, Plaintiff–Appellant,
+v.
+MICROSOFT CORPORATION and Google, Inc., Defendants–Appellees.
+No. 2013–1584.
+|
+Nov. 6, 2014.
+Synopsis
+Background: Assignee commenced action against competitor, alleging infringement of patent relating to method and system of automated proxy bidding in online auctions. The United States District Court for the District of Delaware, Richard G. Andrews, J., 2013 WL 4647313, construed the claims, and then the parties stipulated to judgment of noninfringement. Assignee appealed.
+ 
+Holdings: The Court of Appeals, Lourie, Circuit Judge, held that:
+ 
+[1] term, “auction,” meant public or private sale in which goods or services of seller may be sold to bidder through bidding process, and
+ 
+[2] accused auctions did not function according to any “time remaining” limitation as to individual item, and thus did not infringe claimed method functions.
+ 
+Affirmed as modified.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+(Formerly 291k101(11))
+
+
+Term “auction,” in patent relating to method and system of automated proxy bidding in online auctions, meant public or private sale in which goods or services of seller may be sold to bidder through bidding process.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k229)
+
+
+Accused auctions did not function according to any “time remaining” limitation as to individual item, and thus did not infringe claimed method functions in patent relating to method and system of automated proxy bidding in online auctions, since auction limitation applied on item-by-item basis, with each proxy placing bid according to amount of time “remaining to place bids for the item,” and accused auctions were “instantaneous,” with larger auction system operating continuously.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,801,802. Construed and Ruled Not Infringed.
+Cases that cite this headnote
+
+
+
+*956 Appeal from the United States District Court for the District of Delaware in No. 11–CV–0311, Judge Richard G. Andrews.
+Attorneys and Law Firms
+Marc A. Fenster, Russ August & Kabat, of Los Angeles, CA, argued for plaintiff-appellant. With him on the brief was Benjamin T. Wang.
+Michael J. Malecek, Kaye Scholer LLP, of Palo Alto, CA, argued for all defendants-appellees. With him on the brief for defendant-appellee Google Inc. was Timothy Chao. Of counsel was Robert Magee, Kaye Scholer LLP, of Palo Alto, CA. Of counsel on the brief were Daryl Joseffer, King & Spalding LLP, of Washington, DC; and Adam Conrad, of Charlotte, NC. On the brief for defendant-appellee Microsoft Corporation were Frank E. Scherkenbach, Fish & Richardson P.C., of Boston, MA; Jason W. Wolff and Ryan P. O’Connor, of San Diego, CA; and John A. Dragseth of Minneapolis, MN. Of counsel on the brief was Isabella Fu, Microsoft Corporation, of Redmond, WA.
+Before LOURIE, DYK, and WALLACH, Circuit Judges.
+Opinion
+*957 LOURIE, Circuit Judge.
+
+Walker Digital, LLC (“Walker Digital”) appeals from a stipulated judgment of noninfringement following a decision of the United States District Court for the District of Delaware construing the claim limitation “auction” in U.S. Patent 7,801,802 (the “′802 patent”). See Walker Digital, LLC v. Google, Inc., No. 11–311–RGA, 2013 WL 4647313 (D.Del. May 22, 2013) (“Claim Construction Order ”); id., ECF No. 176 (D.Del. July 25, 2013) (“Final Judgment ”). Because Microsoft Corporation and Google Inc. (collectively, “the Defendants”) do not infringe even under a modified construction, we affirm the judgment of noninfringement.
+ 
+
+BACKGROUND
+Walker Digital is the assignee of the ′802 patent, which relates to a method and system of automated proxy bidding in online auctions. In an online auction, a bidder may place a bid either manually or via an automated proxy. If using a proxy, the bidder must specify when to place the bid and at what price. The ′802 patent describes a “bid generator” as the proxy that places a bid according to the bidder’s specifications. ′802 patent col. 5 ll. 7–8. The “auction server” then processes that bid using “an indication of the auction, the bidder, and the bid price.” Id. col. 4 ll. 62–63. To achieve “natural and competitive” bidding behavior, the patent teaches that proxies place their bids “according to an amount of time left in the auction,” rather than immediately after another’s bid surpasses a certain price threshold. Id. [57] (abstract).
+ 
+The Defendants operate online auctions for advertising space, using search keywords to trigger the display of advertisements.1 When a user enters a triggering search keyword, the Defendants run a “near instantaneous auction” that finishes “within a fraction of a second” to select the winning advertisement. J.A. 136. In selecting the winning advertisement, the Defendants consider the participating advertisers’ bids, which reflect the predetermined price each advertiser would pay for a user to click on its ad after a search query, and numerous factors, such as the relevance of the ad to the keyword and the likelihood a user will click on the ad. J.A. 136, 186. The Defendants then display the winning advertisement on the search results page. E.g., J.A. 191. The Defendants’ auctions for advertising space operate continuously. See, e.g., Walker Digital, LLC v. Google Inc., No. 11–311–RGA, ECF No. 175, at 2 (D.Del. July 24, 2013) (“Stipulated Judgment ”).
+ 
+Walker Digital sued the Defendants in the District Court for the District of Delaware, asserting that the Defendants infringed the ′802 patent. The Defendants moved to dismiss the complaint and for Rule 11 sanctions. The court denied the motion without prejudice and ordered limited early claim construction briefing on the claim limitation “auction.” J.A. 362.
+ 
+Claim 1 is representative and reads as follows:
+1. A method comprising:
+storing a rule for automatically placing a bid by a bid generator for an item for a bidder in an auction, the rule associated with the bidder and having a condition specifying that the bid is to be placed by the bid generator *958 according to an amount of time left in the auction;
+determining that the rule is satisfied;
+determining that the highest bid in the auction is not from the bidder; and
+placing the bid.
+′802 patent col. 15 ll. 26–35 (emphases added). After the accelerated Markman hearing, the parties filed additional claim construction briefing and the court held a second Markman hearing on additional claim terms. Notably, the parties agreed to construe “the highest bid in the auction is not from the bidder” as “the highest offer received for the item is not from the bidder.” J.A. 764 (emphasis added).
+ 
+The district court issued a combined Markman ruling and construed “auction” to mean “a public or private sale in which goods or services of a seller may be sold to a bidder through a bidding process. An auction consists of one sale.” Claim Construction Order, 2013 WL 4647313, at *1. The court reasoned that if “auction” involved multiple sales, the claimed method would not function as intended because the proxy, placing a bid “according to an amount of time left in the auction,” could bid against itself or bid on an item already sold. Id. Moreover, the court found that the specification’s limited list of things needed to process a bid, namely, an indication of the auction, the bidder, and the bid price, supported a single-sale construction. Id. at *2. If “auction” contemplated multiple sales, the court reasoned, then more information would be needed to determine which item the bidder desired. Id.
+ 
+After the court issued its claim construction order, the parties stipulated to a judgment of noninfringement. Final Judgment, ECF No. 176. Walker Digital appealed from that judgment, challenging the court’s claim construction. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+Claim construction is a matter of law, which we review on appeal without formal deference. Lighting Ballast Control LLC v. Philips Elecs. N.A. Corp., 744 F.3d 1272, 1285–86 (Fed.Cir.2014) (en banc); Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc). The words of a claim generally receive “their ordinary and customary meaning as understood by one of ordinary skill in the art.” Phillips v. AWH Corp., 415 F.3d 1303, 1312–13 (Fed.Cir.2005). If, however, the patentee has clearly and unmistakably disavowed claim scope or, acting as a lexicographer, has expressly defined the disputed claim term in the specification or prosecution history, then we will deviate from the claim term’s ordinary and customary meaning. Edwards Lifesciences LLC v. Cook Inc., 582 F.3d 1322, 1329 (Fed.Cir.2009) (quoting CCS Fitness, Inc. v. Brunswick Corp., 288 F.3d 1359, 1366–67 (Fed.Cir.2002)). Because a patent is a fully integrated written instrument, the claims “must be read in view of the specification, of which they are a part.” Phillips, 415 F.3d at 1315 (quoting Markman v. Westview Instruments, Inc., 52 F.3d 967, 979 (Fed.Cir.1995) (en banc), aff’d, 517 U.S. 370, 116 S.Ct. 1384, 134 L.Ed.2d 577 (1996)).
+ 
+[1] Walker Digital argues that the district court erred by limiting “auction” to only one sale. According to Walker Digital, the broad definition provided in the specification controls; none of the claims, the remainder of the specification, or the file history manifestly limit “auction” to only one sale. Rather, Walker Digital suggests, the specification “repeatedly refers to auctions in which multiple goods or services are auctioned,” and the term “auction” *959 assumed its understood meaning from the art as “not limited to one sale.” Appellant’s Br. 18, 21. Walker Digital further argues that the court incorrectly limited the plain meaning of “auction” because of an unjustified belief that the claimed method would not function properly if “auction” included a multi-sale event. Id. at 16–18.
+ 
+The Defendants respond that, while “auction” may generally include a multi-sale event, the claim language and specification necessarily limit “auction” to only one sale. The Defendants contend that the agreed-upon construction of “the highest bid in the auction” as “the highest offer received for the item” effectively equated “auction” and item, and thus limited the term “auction” to the single sale of one item. Appellees’ Br. 13–14, 22–24. Moreover, the Defendants argue that the “amount of time left in the auction” limitation only functions properly if “auction” means a single sale. Id. at 18–21.
+ 
+We agree with Walker Digital that the district court incorrectly limited “auction” to only one sale. The district court should have instead given the term its ordinary and customary meaning. Here, the ordinary and customary meaning of “auction” includes a multi-sale event. Indeed, both parties and the district court agree that the plain meaning of “auction” involves any number of sales. See Claim Construction Order, 2013 WL 4647313, at *2 n. 2 (“In common English usage ..., auction can mean either a ‘sale’ or the event at which multiple sales take place.”); see also J.A. 1118; Appellant’s Br. 23–24; Appellees’ Br. 15. We find no reason in the intrinsic record to depart from that meaning. See Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582 (Fed.Cir.1996) (explaining that a claim term should assume its ordinary and customary meaning unless the intrinsic record compels otherwise).
+ 
+Beginning with the claim language itself, there is no evidence to limit “auction” to only one sale. The claims contain several other limitations referring to an auction, e.g., “according to an amount of time left in the auction” and “the highest bid in the auction is not from the bidder,” yet remain indifferent to the number of sales involved in the “auction.” See, e.g., ′802 patent col. 15 ll. 27–31. Indeed, the claims generally contemplate a multi-sale auction involving a proxy that places a bid “for an item for a bidder in an auction.” Id. col. 15 l. 28 (emphases added). Thus, the claim language does not imply that “auction” is limited to a single sale.
+ 
+The specification and file history also do not purport to limit “auction” to only one sale. Walker Digital did not clearly and unmistakably disavow an “auction” involving multiple sales during prosecution. See, e.g., J.A. 213 (highlighting Walker Digital’s decision to overcome the prior art by adding a time limitation, not by limiting “auction” to a single sale). Nor did Walker Digital limit “auction” to only one sale in the specification by stating that is “the invention.”
+ 
+First, the specification defines “auction” as “a public or private sale in which goods or services of a seller may be sold to a bidder through a bidding process.” ′802 patent col. 4 ll. 46–48. That definition embraces an understanding of “auction” that involves multiple sales. Walker Digital highlights the definition’s plural “goods or services” to argue that “auction” can involve multiple sales. Appellant’s Br. 18–19. While we agree with the district court that a single sale can include multiple “goods and services,” Claim Construction Order, 2013 WL 4647313, at *2, we nevertheless agree with Walker Digital that “auction” is not limited to a single sale. Compare ′802 patent, col. 4 ll. 46–48, with id. col. 4 ll. 53–55. The specification defines *960 auction as the sale of “goods and services.” Id. col. 4 ll. 46–48. The specification then defines “bid,” however, in a singular tense, as “includ[ing] an offered price for the good or service being auctioned.” Id. col. 4 ll. 53–55. A “bid” thus corresponds to the single sale of a particular “good or service,” whereas “auction” may correspond to multiple sales of numerous “goods and services.”
+ 
+Next, and contrary to the Defendants’ contentions, “auction” and item are not equivalent terms. The agreed upon construction of “the highest bid in the auction” merely underscores that the claimed method works on an item-by-item basis; it does not limit the claimed method to auctions involving only one sale. As the specification states, “[a]n auction behavior may be specified by determining the auction behavior according to information about the auction, which may include information about an item, information about a seller and/or information about bidders.” Id. col. 3 ll. 2–6. An “auction” can thus be identified for purposes of the claimed invention by referencing any item for sale during the auction. That understanding permeates the specification. For example, the auction database, which stores information about present and past auctions, “may include an item identifier.” Id. col. 8 ll. 64–67; see also id. col. 8 ll. 55–59 (indicating that Figure 7 contains a table with a record that “includes a bidder identifier 704 and an item identifier 706 or other identifier of the auction”). And a proxy bidder relies on “a maximum bid” and “an indication of the item or auction” to know when and how to place its bid. See id. col. 10 ll. 63–66 (referencing Figure 13’s flowchart, which describes how a proxy bidder works). Item and “auction” are therefore not interchangeable; rather, both are used to inform the proxy bidder about the larger auction infrastructure.
+ 
+Finally, Figure 18 similarly contemplates an “auction” involving multiple sales of multiple items. Figure 18 contains a block diagram depicting the “initialization of the auction.” Id. fig. 18; id. col. 13 ll. 12–15. “As indicated at 1800, initialization of the auction uses the seller database 1802, item database 1804 and auction database 1806.” Id. col. 13 ll. 14–16. The item database for the “auction,” as further depicted in Figure 5, stores “one or more records for each item being auctioned, with one record for each item being auctioned.” Id. fig. 5; id. col. 8 ll. 26–31. The “auction” thus sells multiple items and begins only after the item database records and monitors each item for sale. As Figure 15 then depicts, once the “auction” finishes, the item database updates, storing the selling price for each item sold. Id. fig. 15; id. col. 11 ll. 56–57. While the “auction” may sell just one item in a single sale, a construction that forecloses the more clearly contemplated multi-sale “auction” improperly restricts the scope of the claimed invention.
+ 
+Contrary to the district court’s findings, the patented method still functions as claimed even if “auction” involves multiple sales. As the district court properly found, the parties, having agreed to construe “highest bid in the auction,” “therefore, agree that, in the context of the highest bid, the bid must be for the particular item being sold in that auction. Claims must be interpreted consistently so the term ‘time left in the auction’ must likewise be interpreted as the time remaining to place bids for the item.” Claim Construction Order, 2013 WL 4647313, at *1. The time limitation thus applies on an item-by-item basis. Indeed, Figure 8 depicts as much, as the item identifier indicates a start time and an end time for the sale of a particular item. ′802 patent fig. 8. Thus, the bid need only be placed according to an amount of time left for the *961 sale of a particular item, and not according to the time left for the larger multi-sale auction, for the method to function properly. The district court’s concerns about a proxy bidding either against itself or for an item already sold are thus not compelling.
+ 
+Moreover, the district court’s emphasis on the specification’s limited list of items is unnecessarily narrow. Put in context, the court’s referenced passage states:
+The bids may be received by the auction manager 100 in any number of ways, including, but not limited to, any data discernable by the auction manager as a bid, such as a message in any format of any communication protocol. To process a bid, the auction server uses an indication of an auction, the bidder, and the bid price. A bid from a bidder may itself include any one or more of these pieces of information. Any information that the auction server can infer or derive need not be included in the bid itself.
+Id. col. 4 ll. 62–66. When a bidder registers with the auction server, the bidder “registers for an auction for an item.” Id. col. 8 ll. 14–16. Information about the bidder thus includes information about the item of interest. Moreover, a bidder may submit a bid in a variety of formats with a variety of indicators, and the auction server is more than capable of deriving or inferring which item the bid is for in a particular auction. Even so, “an indication of the auction” simply suggests which auction the item is being sold in, for a bidder may participate in multiple auctions at the same time. That language does not require “auction” to be only a single sale.
+ 
+Accordingly, the district court incorrectly limited “auction” to only one sale. Because the intrinsic record does not limit “auction” in that way, we modify the district court’s claim construction and instead construe “auction” to mean “a public or private sale in which goods or services of a seller may be sold to a bidder through a bidding process.”
+ 
+[2] Nonetheless, in the circumstances of this case, we consider the district court’s claim construction to be harmless error. As discussed above, the Defendants’ products still do not infringe, even under the modified claim construction. As the district court noted, the claimed method functions on an item-by-item basis, with each proxy placing a bid according to an amount of time “remaining to place bids for the item.” Claim Construction Order, 2013 WL 4647313, at *1. The Defendants’ auctions, however, are “instantaneous,” with the larger auction system operating continuously; they do not function according to any “time remaining” limitation as to an individual item. J.A. 191; see also Stipulated Judgment, ECF No. 175, at 3 (stipulating to a judgment of noninfringement because the “accused advertising services do not meet the ‘according to the amount of time left in the auction limitation,’ ” which applies on an item-by-item basis irrespective of whether “auction” is only a single sale). We thus affirm the judgment of noninfringement.
+ 
+
+CONCLUSION
+For the foregoing reasons, we modify the district court’s claim construction and affirm the judgment of noninfringement.
+ 
+AFFIRMED
+ 
+All Citations
+590 Fed.Appx. 956
+Footnotes
+
+1
+
+The described auction specifically depicts Google’s accused “AdWords,” “AdSense,” and related systems. Walker Digital, LLC v. Google Inc., No. 11–311–RGA, ECF No. 173, at 1 (D.Del. July 19, 2013). Microsoft’s Advertising adCenter system operates in a similar fashion.  Id., ECF No. 175, at 1–2 (D.Del. July 24, 2013)
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

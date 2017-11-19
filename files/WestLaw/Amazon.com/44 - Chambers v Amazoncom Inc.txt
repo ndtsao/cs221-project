@@ -1,0 +1,164 @@
+
+
+ 
+
+
+Chambers v. Amazon.com Inc.
+United States Court of Appeals, Fourth Circuit. | December 16, 2015 | 632 Fed.Appx. 742 | 2015 WL 8944831
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Chambers v. Amazon.com Inc., 632 F. App’x 742 (4th Cir. 2015)
+
+All Citations:
+
+632 Fed.Appx. 742, 2016 Copr.L.Dec. P 30,867
+
+Search Details
+
+Search Query:
+
+adv: NAME(”amazon.com”)
+
+Jurisdiction:
+
+South Carolina
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+632 Fed.Appx. 742
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of Appeals 4th Cir. Rule 32.1.
+United States Court of Appeals,
+Fourth Circuit.
+Roland CHAMBERS, Jr., Plaintiff–Appellant,
+v.
+AMAZON.COM INC.; Apple Inc.; Artistdirect.com; bop.fm; Ccmusic.com; CD Baby; CD Universe; Hbdirect.com; Rakuten.com; Sears.com; Tower.com, Defendants–Appellees.
+No. 15–1767.
+|
+Submitted: Nov. 30, 2015.
+|
+Decided: Dec. 16, 2015.
+Synopsis
+Background: Owner of business that allegedly owned copyrights of six songs brought copyright infringement action, alleging violations of the Copyright Act and Digital Millennium Copyright Act (DMCA). The United States District Court for the District of South Carolina, Paige J. Gossett, United States Magistrate Judge, recommended that action be dismissed, and Mary G. Lewis, J., 2015 WL 4077046, adopted recommendation. Owner appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] owner did not set forth sufficient facts to state plausible claim of copyright infringement under the Copyright Act, and
+ 
+[2] owner did not set forth sufficient facts to state plausible claim for alleged violations of DMCA.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Copyrights and Intellectual PropertyPleading
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k82Pleading
+
+
+Owner of business that allegedly owned copyrights on six songs did not set forth sufficient facts to state plausible claim of copyright infringement under the Copyright Act; although owner identified copyright number that was allegedly owned by business, owner did not provide any details about structure of business, and owner did not provide any facts demonstrating that songs were available to alleged infringers. 17 U.S.C.A. § 101 et seq.
+Cases that cite this headnote
+
+
+
+[2]
+
+Copyrights and Intellectual PropertyPleading
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k82Pleading
+
+
+Owner of business that allegedly owned copyrights on six songs did not set forth sufficient facts to state plausible claim against alleged infringers for violating the Digital Millennium Copyright Act (DMCA); owner did not claim to have put into place technological measure that would have protected copyright or that alleged infringers circumvented such measure. 17 U.S.C.A. § 1201 et seq.
+Cases that cite this headnote
+
+
+
+*742 Appeal from the United States District Court for the District of South Carolina, at Columbia. Mary G. Lewis, District Judge. (3:14–cv–04890–MGL).
+Attorneys and Law Firms
+Roland Chambers, Jr., Appellant Pro Se.
+Before AGEE, DIAZ, and THACKER, Circuit Judges.
+Opinion
+Affirmed by unpublished PER CURIAM opinion.
+Unpublished opinions are not binding precedent in this circuit.
+
+PER CURIAM:
+
+Roland Chambers, Jr., appeals the district court’s order adopting the recommendation of the magistrate judge and summarily dismissing this action alleging violations of the Copyright Act of 1976 and the Digital Millennium Copyright Act (DMCA). We affirm.
+ 
+
+*743 I
+In his complaint, Chambers stated that in 2001 he provided to Defendant CD Baby, an Oregon-based business entity, five compact discs (CD’s) containing 11 songs and one video, with CD Baby acting as an “online consignor.” Reliable Brokering, described as “a business owned and operated by Roland Chambers,” allegedly owned copyrights on six of the 12 pieces of work. In 2014, Chambers discovered that the material was allegedly selling beyond the quantity produced, and in various formats including digital files and physical discs. CD Baby did not pay Chambers for any of the CD’s until 2014, when Chambers purchased a CD from Amazon.com. Chambers discovered that CD Baby was selling the copyrighted works in digital form, although Chambers had not made the material available in such form. Additionally, he discovered that other Defendants, including Amazon.com and Apple, Inc., were offering the copyrighted material for sale in digital and/or physical form. Chambers claimed violations of the Copyright Act and the DMCA. He sought damages exceeding $4 billion from various Defendants.
+ 
+The magistrate judge granted leave to proceed in forma pauperis and recommended summary dismissal. The magistrate judge found that Chambers had definitively stated facts showing that only one CD had been sold and, therefore, he failed to provide support for his claim that any defendant made an unauthorized copy of the copyrighted material. The district court overruled Chambers’ objections and adopted the recommendation, finding that the complaint and attachments thereto failed to provide sufficient factual support for a cause of action under either the Copyright Act or the DMCA.
+ 
+
+II
+Although the district court did not articulate a basis for its dismissal, it appears that the court was exercising its authority under 28 U.S.C. § 1915(e)(2) (2012) to dismiss Chambers’ in forma pauperis action sua sponte for failure to state a claim. The truncated treatment given the claims—dismissing the action without ordering service of process on Defendants—appears consistent with what Congress envisioned with § 1915(e), namely, requiring dismissal of insubstantial claims without requiring defendants to file responsive pleadings. See Cochran v. Morris, 73 F.3d 1310, 1315 (4th Cir.1996) (en banc) (concluding that abbreviated treatment of complaint was evidence of court’s intent to exercise its dismissal authority under predecessor to § 1915(e)).
+ 
+Section 1915(e)(2) directs a district court to dismiss a case if the court finds that it is frivolous or malicious, fails to state a claim, or seeks damages from a defendant who is immune from such relief. “A complaint is subject to dismissal for failure to state a claim if the allegations, taken as true, show the plaintiff is not entitled to relief.” Jones v. Bock, 549 U.S. 199, 215, 127 S.Ct. 910, 166 L.Ed.2d 798 (2007). Although “the allegations in pro se complaints should be liberally construed,” De’Lonta v. Angelone, 330 F.3d 630, 633 (4th Cir.2003), the complaint must contain factual allegations sufficient “to raise a right to relief above the speculative level” and “to state a claim to relief that is plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007). “Determining whether a complaint states a plausible claim for relief [is] ... a context-specific task that requires the reviewing court to draw on its judicial experience and common sense.” Ashcroft v. Iqbal, 556 U.S. 662, 679, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009). We review de *744 novo a § 1915(e)(2) dismissal. Slade v. Hampton Rds. Reg’l Jail, 407 F.3d 243, 248 (4th Cir.2005).
+ 
+
+III
+“To establish a claim for copyright infringement under the Copyright Act ..., a plaintiff must prove that [he] possesses a valid copyright and that the defendant copied elements of [the] work that are original and protectable.” Copeland v. Bieber, 789 F.3d 484, 488 (4th Cir.2015). “Absent direct proof of copying, which is hard to come by, a plaintiff may prove copying indirectly, with evidence showing that the defendant had access to the copyrighted work and that the purported copy is ‘substantially similar’ to the original.” Id.
+ 
+[1] Chambers did not set forth sufficient facts to state a plausible claim of copyright infringement. Although he appeared to identify a copyright by number, he stated that the copyright was registered to Reliable Brokering—not to himself. Reliable Brokering was simply described as “a business owned and operated by Roland Chambers, Jr.” Chambers did not provide any details about the structure of Reliable Brokering. Chambers asserted in the complaint that numerous copies of his CD—more than the five he originally supplied CD Baby—were available from various Defendants but provided no evidence of this. We find that Chambers did not set forth sufficient facts in his complaint to establish either that he possessed a valid copyright or that any of the Defendants reproduced copyrighted work.
+ 
+Through the DMCA, “Congress sought to mitigate the problems presented by copyright enforcement in the digital age.” MDY Indus., LLC v. Blizzard Entertainment, Inc., 629 F.3d 928, 942 (9th Cir.2010). “The DMCA contains three provisions directed at the circumvention of copyright owners’ technological measures” that are either designed to control access to copyrighted works or to protect a copyright owner’s rights. Id. “A copyright owner alleging a violation of [the DMCA] must prove that the circumvention of the technological measure either infringes or facilitates infringing a right protected by the Copyright Act.” Storage Tech. Corp. v. Custom Hardware Engineering & Consulting, Inc., 421 F.3d 1307, 1318 (Fed.Cir.2005) (internal quotation marks omitted).
+ 
+[2] Chambers did not state any facts from which it might reasonably be inferred that there was a violation of the DMCA. Specifically, he did not claim to have put into place a technological measure that would have protected a copyright or that any Defendant circumvented such a measure. Thus, dismissal of the complaint insofar as it claimed a DMCA violation was proper.
+ 
+
+IV
+We therefore affirm. We dispense with oral argument because the facts and legal arguments are adequately presented in the materials before the court and argument would not aid the decisional process.
+ 
+AFFIRMED.
+ 
+All Citations
+632 Fed.Appx. 742, 2016 Copr.L.Dec. P 30,867
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

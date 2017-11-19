@@ -1,0 +1,181 @@
+
+
+ 
+
+
+Hughes v. Wells Fargo Bank, N.A.
+United States Court of Appeals, Fourth Circuit. | July 24, 2015 | 617 Fed.Appx. 261 | 2015 WL 4496801
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Hughes v. Wells Fargo Bank, N.A., 617 F. App’x 261 (4th Cir. 2015)
+
+All Citations:
+
+617 Fed.Appx. 261
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Virginia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:06 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+617 Fed.Appx. 261
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of Appeals 4th Cir. Rule 32.1.
+United States Court of Appeals,
+Fourth Circuit.
+Julie Borden HUGHES, Plaintiff–Appellant,
+v.
+WELLS FARGO BANK, N.A.; Wells Fargo Home Mortgage; Samuel I. White, P.C.; Mers, (Mortgage Electronic Registration System); Federal Home Loan Mortgage Corporation, Defendants–Appellees.
+No. 14–2400.
+|
+Submitted: June 30, 2015.
+|
+Decided: July 24, 2015.
+Synopsis
+Background: Deed of trust grantor brought action in state court against trustee and various entities, asserting claims for, inter alia, quiet title and rescission of the deed of trust. Following removal on diversity jurisdiction grounds, the United States District Court for the Eastern District of Virginia, Gerald Bruce Lee, J., denied grantor’s motion to remand and dismissed claims for failure to state a claim. Grantor appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] nondiverse trustee was fraudulently joined, and
+ 
+[2] grantor failed to demonstrate her superior claim to property, as required to establish quiet title claim.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Removal of CasesImproper or collusive joinder of parties
+
+
+334Removal of Cases
+334IIICitizenship or Alienage of Parties
+334k36Improper or collusive joinder of parties
+
+
+Nondiverse trustee was fraudulently joined in action by deed of trust grantor, and thus trustee’s citizenship was properly disregarded in analyzing whether diversity jurisdiction existed on grantor’s motion to remand action to state court; grantor did not allege any misconduct by trustee or specifically seek any damages from it, but rather named trustee solely due to its status as trustee, which was relevant only to grantor’s claims for quiet title and rescission, both of which were without legal foundation. 28 U.S.C.A. §§ 1332(a)(1), 1441(a), 1446(a), 1447(c).
+7 Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustDefective, failed, invalid, or informal mortgages
+Mortgages and Deeds of TrustDescription of parties in general
+Quieting TitleSufficiency in general
+
+
+266Mortgages and Deeds of Trust
+266IINature and Requisites
+266II(E)Characterization of Transaction as Mortgage;  Equitable Mortgages
+266k832Defective, failed, invalid, or informal mortgages
+(Formerly 266k27)
+266Mortgages and Deeds of Trust
+266IVParties to Transaction
+266k872Description of parties in general
+(Formerly 266k43)
+318Quieting Title
+318IRight of Action and Defenses
+318k9Title of Plaintiff
+318k10.2Sufficiency in general
+
+
+Deed of trust was not void under Virginia law because no trustee was named at the time of execution, and thus grantor could not demonstrate her superior claim to the property, as required to establish quiet title claim; deed of trust, in which trustee’s name was left blank, was as an equitable mortgage and could be enforced as such.
+Cases that cite this headnote
+
+
+
+*262 Appeal from the United States District Court for the Eastern District of Virginia, at Alexandria. Gerald Bruce Lee, District Judge. (1:14–cv–00516–GBL–TRJ).
+Attorneys and Law Firms
+Julie Borden Hughes, Appellant Pro Se. Terry Catherine Frank, Kaufman & Canoles, PC, Richmond, Virginia, for Appellees.
+Before WYNN and DIAZ, Circuit Judges, and DAVIS, Senior Circuit Judge.
+Opinion
+Affirmed by unpublished PER CURIAM opinion.
+Unpublished opinions are not binding precedent in this circuit.
+
+PER CURIAM:
+
+Julie Borden Hughes filed a civil action in Virginia circuit court against Wells Fargo Bank, N.A. (“Wells Fargo”), Wells Fargo Home Mortgage (“WFHM”), and Samuel I. White, P.C. (“SIWPC”), collectively “Defendants,” asserting claims related to a residential mortgage secured by a Deed of Trust on Hughes’ primary residence. Defendants removed the action to federal district court pursuant to 28 U.S.C. § 1441(a) (2012), citing both federal question and diversity subject matter jurisdiction. The district court dismissed Hughes’ complaint under Fed.R.Civ.P. 12(b)(6) for failure to state a claim, but it granted Hughes leave to amend.
+ 
+Hughes filed an amended complaint asserting five claims for relief, including claims for quiet title and rescission of the Deed of Trust. The amended complaint identified two additional defendants—the Federal Home Loan Mortgage Corporation (“Freddie Mac”) and the Mortgage Electronic Registration System, Inc. (“MERS”). Hughes subsequently filed a motion for “further” leave to amend her complaint to join Freddie Mac and MERS *263 as parties. Hughes moved to remand the case to state court pursuant to 28 U.S.C. § 1447(c) (2012), arguing that the district court lacked subject matter jurisdiction because all federal questions had been dismissed and the action lacked both diversity of citizenship and an amount in controversy above $75,000. In opposing remand, Defendants argued that the amount in controversy far exceeded $75,000, and the citizenship of nondiverse parties SIWPC and MERS should be discounted for jurisdictional purposes because they were nominal parties and fraudulently joined. After Defendants moved to dismiss the amended complaint, the district court denied Hughes’ motion to remand, denied leave to add MERS and Freddie Mac as parties, and dismissed the action for failure to state a claim. Hughes appeals, challenging the court’s denial of her motion to remand and its dismissal of her quiet title claim. For the reasons that follow, we affirm.
+ 
+“We review de novo questions of subject matter jurisdiction, including those relating to the propriety of removal and fraudulent joinder.” Mayes v. Rapoport, 198 F.3d 457, 460 (4th Cir.1999) (internal quotation marks omitted). The party seeking removal bears the burden to establish federal subject matter jurisdiction. Hoschar v. Appalachian Power Co., 739 F.3d 163, 169 (4th Cir.2014). Removal must be strictly construed, and “if federal jurisdiction is doubtful, a remand to state court is necessary.” Dixon v. Coburg Dairy, Inc., 369 F.3d 811, 816 (4th Cir.2004) (per curiam) (alterations and internal quotation marks omitted).
+ 
+We also review de novo the district court’s dismissal of Hughes’ claims pursuant to Rule 12(b)(6) for failure to state a claim. Nemphos v. Nestle Waters N. Am., Inc., 775 F.3d 616, 617 (4th Cir.2015). “To survive a motion to dismiss, a complaint must state a claim to relief that is plausible on its face.” Summers v. Altarum Inst. Corp., 740 F.3d 325, 328 (4th Cir.2014) (internal quotation marks omitted). Although we will “construe facts in the light most favorable to the plaintiff and draw all reasonable inferences in [her] favor,” United States ex rel. Oberg v. Pa. Higher Educ. Assistance Agency, 745 F.3d 131, 136 (4th Cir.2014) (internal quotation marks and citations omitted), we need not accept “legal conclusions drawn from the facts, ... unwarranted inferences, unreasonable conclusions, or arguments.” Philips v. Pitt Cty. Mem’l Hosp., 572 F.3d 176, 180 (4th Cir.2009) (internal quotation marks omitted).
+ 
+Federal subject matter jurisdiction exists if the plaintiff’s civil action arises under federal law, see 28 U.S.C. § 1331 (2012), or if the amount in controversy exceeds $75,000 and the suit is between citizens of different states, see 28 U.S.C. § 1332(a)(1) (2012). State court defendants are authorized to remove to federal district court a civil action over which the district courts had original subject matter jurisdiction. 28 U.S.C. § 1441(a) (2012). If the district court determines at any time before final judgment that it lacks subject matter jurisdiction over a removed action, it must remand to state court. 28 U.S.C. § 1447(c) (2012). “A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under [28 U.S.C. § 1446(a) (2012) ].” 28 U.S.C. § 1447(c).
+ 
+Diversity jurisdiction requires that the parties be completely diverse—that is, no defendant is a citizen of the same state as any plaintiff. Lincoln Prop. Co. v. Roche, 546 U.S. 81, 89, 126 S.Ct. 606, 163 L.Ed.2d 415 (2005). However, in determining whether diversity exists, the court must *264 consider only “real and substantial parties to the controversy” and must disregard the suit’s “nominal or formal parties.” Navarro Sav. Ass’n v. Lee, 446 U.S. 458, 460–61, 100 S.Ct. 1779, 64 L.Ed.2d 425 (1980). The related “fraudulent joinder” doctrine also enables the court “to disregard, for jurisdictional purposes, the citizenship of certain nondiverse defendants, assume jurisdiction over a case, dismiss the nondiverse defendants, and thereby retain jurisdiction.” Mayes, 198 F.3d at 461.
+ 
+On appeal, Hughes argues that remand to state court was required because diversity jurisdiction was lacking, given that both she and SIWPC, a necessary party to the action, are Virginia citizens,* and the amount in controversy requirement was not satisfied. She also argues that the district court erred in denying her motion to remand as untimely, as her request for a remand relied solely on jurisdictional grounds.
+ 
+While the district court did not expressly address SIWPC’s citizenship or its effect on diversity jurisdiction when ruling on Hughes’ motion to remand, we may “affirm on any ground appearing in the record, including theories not relied upon or rejected by the district court.” Scott v. United States, 328 F.3d 132, 137 (4th Cir.2003). We find no error in the district court’s exercise of jurisdiction over Hughes’ amended complaint.
+ 
+[1] Even if SIWPC was not merely a nominal party for jurisdictional purposes, we conclude its citizenship was properly disregarded when analyzing diversity of citizenship because it was fraudulently joined. To establish fraudulent joinder, the removing party must demonstrate either that the plaintiff “committed outright fraud in pleading jurisdictional facts, or that there is no possibility that the plaintiff would be able to establish a cause of action against the in-state defendant in state court.” Weidman v. Exxon Mobil Corp., 776 F.3d 214, 218 (4th Cir.) (internal quotation marks omitted), cert. denied, ––– U.S. ––––, 135 S.Ct. 2868, ––– L.Ed.2d –––– (2015). “The party alleging fraudulent joinder bears a heavy burden—it must show that the plaintiff cannot establish a claim even after resolving all issues of law and fact in the plaintiff’s favor.” Johnson v. Am. Towers, LLC, 781 F.3d 693, 704 (4th Cir.2015) (internal quotation marks omitted). “This standard is even more favorable to the plaintiff than the standard for ruling on a motion to dismiss under Fed.R.Civ.P. 12(b)(6).” Hartley v. CSX Transp., Inc., 187 F.3d 422, 424 (4th Cir.1999). To defeat an allegation of fraudulent joinder, the plaintiff need establish “only a slight possibility of a right to relief.” *265 Mayes, 198 F.3d at 464 (internal quotation marks omitted).
+ 
+Here, Hughes’s amended complaint did not allege any misconduct by SIWPC or specifically seek any damages from it. Because Hughes named SIWPC solely due to its status as Trustee, it was a relevant party only to Hughes’ claims for quiet title and rescission—those claims asserting that the Deed of Trust was void. However, we conclude both of these claims were without legal foundation, and Hughes therefore lacked even a “slight possibility of a right to relief” against SIWPC. See id. (internal quotation marks omitted).
+ 
+With respect to Hughes’ rescission claim, Hughes failed to establish a colorable right to the equitable remedy of rescission, whether construing her claim as proceeding under a theory of mutual mistake or as asserting fraud. See Owens v. DRS Auto. Fantomworks, Inc., ––– Va. ––––, 764 S.E.2d 256, 260 (2014) (elements of fraud); Jennings v. Jennings, 12 Va.App. 1187, 409 S.E.2d 8, 12 (1991) (defining mutual mistake of fact warranting rescission).
+ 
+[2] Hughes’ quiet title claim similarly lacks any valid legal basis. “[A]n action to quiet title is based on the premise that a person with good title to certain real or personal property should not be subjected to various future claims against that title.” Maine v. Adams, 277 Va. 230, 672 S.E.2d 862, 866 (2009). The plaintiff seeking to quiet title is required to establish her “superior title over the adverse claimant. Thus, in order for a claim for quiet title to survive ... in the foreclosure context, the former homeowner must plead that she has fully satisfied all legal obligations to the real party in interest.” Squire v. Va. Hous. Dev. Auth., 287 Va. 507, 758 S.E.2d 55, 62 (2014).
+ 
+Hughes asserts that she had superior title to the property over Defendants because the Deed of Trust was void, as no trustee was named at the time of execution, and Wells Fargo unilaterally named a trustee prior to recordation. While naming a trustee “is essential to the nature and form of a deed of trust,” Bank of Christiansburg v. Evans, 163 Va. 804, 178 S.E. 1, 2 (1935), the parties need not have named a trustee for a deed of trust to be valid. N.Y. Life Ins. Co. v. Kennedy, 146 Va. 197, 135 S.E. 882, 885 (1926). Rather, “a deed of trust on real estate to secure creditors, in which the name of the trustee is left blank, is an equitable mortgage, and may be enforced as such upon the principle that equity will treat that as done which, by agreement, is to be done.” Evans, 178 S.E. at 2. Thus, Hughes’ core argument—that the Deed of Trust was void from its inception for want of a Trustee—has no arguable basis in Virginia law.
+ 
+The district court properly concluded that Hughes failed to plead quiet title against Defendants because she failed to establish her superior claim to the property. Hughes’ quiet title claim was therefore properly dismissed pursuant to Rule 12(b)(6), and it failed to provide even “a slight possibility of a right to relief” against SIWPC that would refute Defendants’ claim of fraudulent joinder. See Mayes, 198 F.3d at 466 (internal quotation marks omitted).
+ 
+Finally, we find unpersuasive Hughes’ arguments that the amount in controversy requirement was not satisfied. See 28 U.S.C. § 1446(c)(2) (providing that, in action removed for diversity jurisdiction, with limited exceptions, “the sum demanded in good faith in the initial pleading shall be deemed to be the amount in controversy”); Peterson v. Sucro, 93 F.2d 878, 882 (4th Cir.1938) (recognizing that in quiet title action, “the amount in controversy is the value of the whole of the real estate to *266 which the claim extends” (internal quotation marks omitted)). Because the district court did not lack subject matter jurisdiction, it appropriately denied Hughes’ motion to remand on jurisdictional grounds. Additionally, any nonjurisdictional argument Hughes’ motion to remand could have been construed to assert was properly denied as untimely filed outside the 30–day window applicable to motions seeking remand on nonjurisdictional grounds.
+ 
+In summary, we find no error in the court’s denial of Hughes’ motion to remand or dismissal of her quiet title claim under Rule 12(b)(6). Accordingly, we affirm the district court’s judgment. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before this court and argument would not aid the decisional process.
+ 
+AFFIRMED.
+ 
+All Citations
+617 Fed.Appx. 261
+Footnotes
+
+*
+
+Hughes asserts on appeal that the inclusion of MERS and Freddie Mac in her amended complaint does not affect the jurisdictional analysis, as the court denied leave to add them as parties. We are not permitted to rely solely on Hughes’ concession, but are obliged to consider the issue sua sponte. See United States v. Wilson, 699 F.3d 789, 793 (4th Cir.2012) (“[A] lack of subject matter jurisdiction cannot be waived or forfeited, and no other matter can be decided without subject matter jurisdiction.”). The district court appears to have construed Hughes’ pleadings as merely seeking leave to join these additional parties, notwithstanding the fact that it authorized Hughes to file the amended complaint in which they initially were named. Even assuming, without deciding, that MERS and Freddie Mac were parties to the action, their joinder did not defeat the court’s jurisdiction. See 12 U.S.C. § 1452(f)(2) (2012) (“[A]ll civil actions to which [Freddie Mac] is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value[.]”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,450 @@
+
+
+
+
+
+Network Commerce, Inc. v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | September 8, 2005 | 422 F.3d 1353 | 2005 WL 2160089
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Arthrex, Inc. v. Smith & Nephew, Inc., E.D.Tex., December 5, 2016
+
+standard Citation:
+
+Network Commerce, Inc. v. Microsoft Corp., 422 F.3d 1353 (Fed. Cir. 2005)
+
+All Citations:
+
+422 F.3d 1353, 76 U.S.P.Q.2d 1330
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Arthrex, Inc. v. Smith & Nephew, Inc., E.D.Tex., December 5, 2016
+422 F.3d 1353
+United States Court of Appeals,
+Federal Circuit.
+NETWORK COMMERCE, INC. and CRS, LLC, Plaintiffs–Appellants,
+v.
+MICROSOFT CORPORATION, Defendant–Appellee.
+No. 04–1445.
+|
+Sept. 8, 2005.
+Synopsis
+Background: Owner of patent for method and system for purchasing electronic information over computer network sued software manufacturer for infringement. The United States District Court for the Western District of Washington, Marsha J. Pechman, J., 260 F.Supp.2d 1042, granted summary judgment for noninfringement, and owner appealed.
+ 
+Holdings: The Court of Appeals, Dyk, Circuit Judge, held that:
+ 
+[1] patent was not infringed, and
+ 
+[2] denial of owner’s motion for additional discovery prior to ruling on manufacturer’s summary judgment motion was not abuse of discretion.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (11)
+
+
+[1]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5, 291k314(5))
+
+
+Patent claim construction is matter of law, reviewed on appeal without deference.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsState of the art
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1341State of the art
+(Formerly 291k161)
+
+
+Patent claim term is construed as having its ordinary and customary meaning, that is, meaning that term would have to person of ordinary skill in the art in question at time of invention.
+18 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+(Formerly 291k167(1))
+
+
+Patent specification necessarily informs proper construction of claim terms, and it is appropriate for court to rely heavily on written description for guidance as to meaning of terms.
+16 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+(Formerly 291k101(2))
+
+
+“Download component,” called for in patent for method and system for purchasing electronic information over computer network, was file or program either sent to or received by computer in response to request for electronic data that: (1) requested, or controlled download of, electronic data from computer other than computer from which program was sent or received; (2) coordinated download of electronic data; and (3) interacted directly with operating system of computer without another program mediating between it and operating system.
+4 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsExpert and inventor testimony
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1344Extrinsic Evidence
+291k1347Expert and inventor testimony
+(Formerly 291k159)
+
+
+Conclusory expert testimony as to meaning of terms in software patent, which was not supported with any references to industry publications or other independent sources, and which was at odds with intrinsic evidence, would be disregarded.
+14 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k235(2))
+
+
+Patent for method and system for purchasing electronic information over computer network, whose download component had to interact directly with requesting computer’s operating system, was not literally infringed by accused product whose allegedly corresponding component only indirectly interacted with operating system.
+3 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k235(2))
+
+
+Downloadable software program that enabled customer’s computer to request electronic files did not constitute “download component” called for in patent for method and system for purchasing electronic information over computer network; there was no evidence that program was itself downloaded in response to request for electronic data.
+3 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsParticular fields of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1828Particular Matters
+291k1828(2)Particular fields of invention
+(Formerly 291k312(6))
+
+
+Owner of patent for method and system for purchasing electronic information over computer network failed to establish accused system’s infringement under doctrine of equivalents where its generalized evidence of equivalence failed to provide particularized testimony and linking argument on limitation-by-limitation basis.
+25 Cases that cite this headnote
+
+
+
+[9]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+Summary judgment opponent’s motion for continuance to conduct further discovery, in patent case, is governed by regional circuit law. Fed.Rules Civ.Proc.Rule 56(f), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsHearing and determination
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1937Hearing and determination
+(Formerly 291k323.2(5))
+
+
+Denial of patent infringement plaintiff’s motion for additional discovery prior to ruling on defendant’s summary judgment motion was not abuse of discretion; plaintiff had had nearly 11 months to conduct requested discovery. Fed.Rules Civ.Proc.Rule 56(f), 28 U.S.C.A.
+3 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,073,124. Not Infringed.
+3 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1355 Robert E. Rohde, Rohde & Van Kampen PLLC, of Seattle, Washington, argued for plaintiffs-appellants. Of counsel was Al Van Kampen.
+J. Christopher Carraway, Klarquist Sparkman, LLP, of Portland, Oregon, argued for defendant-appellee. With him on the brief was Jared S. Goff. Of counsel on the brief were Stephen P. McGrath, Microsoft Corporation, of Redmond, Washington, and Mark S. Parris, Heller Ehrman White & McAuliffe LLP, of Seattle, Washington.
+Before MAYER, Circuit Judge, FRIEDMAN, Senior Circuit Judge, and DYK, Circuit Judge.
+Opinion
+DYK, Circuit Judge.
+
+Network Commerce, Inc. and CRS, LLC appeal from the judgment of the District Court for the Western District of Washington holding that Microsoft Corporation (“Microsoft”) did not infringe any claim of United States Patent No. 6,073,124 (the “ ‘124 patent”) either literally or under the doctrine of equivalents. Network Commerce, Inc. v. Microsoft Corp., 260 F.Supp.2d 1042 (W.D.Wash.2003) (“Network II”). We hold that the district court was substantially correct in its construction of the term “download component” and affirm its judgment of non-infringement. We also conclude that the district court did not abuse its discretion by denying Network Commerce a Rule 56(f) continuance.
+ 
+
+BACKGROUND
+I
+Network Commerce, Inc. was the assignee of the ’124 patent. CRS, LLC is the successor in interest to Network Commerce in that respect. We refer to the appellants collectively as “Network Commerce.”
+ 
+The ’124 patent claims a method and system for purchasing electronic information, such as software or audio files, over a computer network. The system and method of the patent have two general embodiments reflected in independent claims 1, 7, 11, and 14. The simpler embodiment, reflected in independent claims 7, 11, and 14 of the ’124 patent, as well as dependent claims 10, 13, and 16, involves three computers.1 A first computer (operated by *1356 the customer) sends a request for electronic data to a second computer, which is the store computer of an online merchant, and, in response, the second computer sends the first computer a download component. The download component coordinates the download of the requested electronic data (typically content such as software or audio files) from a third computer to the first computer. The location of the third computer is not disclosed.
+ 
+The more complex embodiment involves four computers. This embodiment is claimed in independent claim 1 of the ’124 patent, as well as various dependent claims.2 In this embodiment a first (customer) computer sends a request for electronic data to a second (merchant) computer, and, in response, the second computer sends the first computer a download component. The “download component” coordinates the download of the electronic data (content) from a third computer to the first computer. In addition, the third computer sends the first computer a licensing component. The licensing component coordinates the licensing of the electronic data by requesting a license from a fourth computer. If the fourth computer determines that access to the electronic data is allowable, it sends a notification to the first computer permitting access to the electronic data. The locations of the third and fourth computers are not disclosed.
+ 
+
+II
+The accused products are Microsoft’s Windows Media® Player and metafiles. Windows Media Player is a software program used to play digital audio and video content files. Windows Media Player is a compiled program, meaning that its program instructions have been preprocessed into machine language and are ready for execution by the operating system. Users may obtain content files for play on Windows Media Player in a number of ways, including through a computer network such as the Internet. Metafiles are non-compiled text files that are interpreted by Windows Media Player. “Window’s Media metafiles are data files that contain information that Windows Media Player can use to obtain and play digital audio and video content files. That information contained *1357 within the metafile can include the location or address of an associated content file.” (J.A. at 1210–11.) While compiled programs (such as Windows Media Player) may be directly interpreted by the operating system of a computer, text files (such as a metafile) must normally be interpreted by an intermediate program first (such as Windows Media Player).
+ 
+When used in conjunction with Windows Media Player, metafiles are capable of directing Windows Media Player to a website. In one scenario, a user viewing a web page on an Internet browser selects a link on the web page corresponding to a particular content file. This causes the browser to download a metafile, which is passed to Windows Media Player, which in turn reads the address contained in the metafile and sends a request for the content file to the address in the metafile (that is, the address of the computer that has the electronic content). The computer receiving the request sends content to Windows Media Player, which then plays that content for the user. Metafiles can also be used to perform more complex tasks, such as inserting advertisements and setting the order of downloads in a playlist.
+ 
+
+III
+Network Commerce filed suit against Microsoft on December 6, 2001, alleging infringement of one or more claims of the ’124 patent, including at least claims 1, 7, 11, 13, 14, and 16. The district court issued its claim construction order construing the claims of the ’124 patent on October 29, 2002. “Download component” was one of the terms construed by the district court.3 It rejected both parties’ proposed constructions and found “that a ‘download component’ by the plain language of the claims requires an executable file or program, but does not necessarily need to be merchandise-specific.” Network Commerce, Inc. v. Microsoft Corp., No. 01–CV–1991, slip op. at 7 (W.D.Wash. Oct. 29, 2002) (“Network I”). In reaching its construction, the district court reasoned that the words “download” and “component” in combination “imply a part that downloads or a part that plays an active role in downloading” and therefore must be “an executable file or program.” Id. It also found that the “download component” must be an executable file or program because it “ ‘coordinates’ or ‘controls’ the download of information” and “makes requests for electronic content from a source computer.” Id. The district court further found that the specification and prosecution history supported its interpretation of download component. Id. at 8.
+ 
+On March 10, 2003, the district court granted Microsoft’s motion for summary judgment of non-infringement. First, the district court held that a download component must independently “coordinate or control the download of information, [and] request electronic content from a source computer.” Network II, 260 F.Supp.2d at 1046. Applying this test to metafiles, the district court held that a metafile is not a download component because “on their own [metafiles] are neither able to coordinate or control the download of information, nor request electronic content from a source computer.” Id. (emphasis in original).
+ 
+Second, the district court held that a download component must be “downloaded onto a client computer in response to a request for electronic content.” Id. It held that Windows Media Player is not a download component because Network Commerce *1358 failed to “set forth specific facts showing that ... Windows Media® Player is downloaded onto a client computer in response to a request for electronic content, or that once installed the Windows Media® Player makes a request on its own for that content.” Id. Accordingly, the district court found no literal infringement and no infringement under the doctrine of equivalents.
+ 
+Finally, the district court denied Network Commerce a continuance pursuant to Rule 56(f) of the Federal Rules of Civil Procedure to conduct further discovery even though the original discovery period had not expired. The district court found that “[j]ust because [Network Commerce] thinks evidence that supports its assertions may exist, that alone is not a basis to grant it a continuance under Rule 56(f).” Id. at 1047 (emphasis in original). The district court also found that Network Commerce already had sufficient time to conduct discovery and that Network Commerce’s delay of over two months in requesting the continuance after receiving Microsoft’s summary judgment motion weighed against granting the request. The district court entered judgment on June 15, 2004.
+ 
+We have jurisdiction over this appeal pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+[1] We review a grant of summary judgment without deference. C.R. Bard, Inc. v. U.S. Surgical Corp., 388 F.3d 858, 861 (Fed.Cir.2004). Claim construction is a matter of law that we review without deference. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1454–55 (Fed.Cir.1998) (en banc). In construing the claims we follow our recent decision in Phillips v. AWH Corp., 415 F.3d 1303 (Fed.Cir.2005) (en banc).
+ 
+
+I
+A
+Network Commerce objects to the district court’s construction of the term “download component” and appears to support the construction it argued to the district court: “any part of a computer system—including a program, an application, or a data or text file—that arranges for, or works together with one or more other parts of the system to arrange for, the transfer or delivery of the requested electronic data from one computer or server to another.” Network I, slip op. at 6. Under this construction, Network Commerce argues that both the metafiles and the Windows Media Player satisfy the claim limitation because each “works together with one or more other parts of the system to arrange for, the transfer or delivery of the requested electronic data from one computer or server to another.” We reject this proposed construction, and agree substantially with the district court’s construction of the term.4
+ 
+We start with the language of the claims. The ’124 patent has four independent claims, all with similar requirements. Each independent claim of the ’124 patent (that is, claims 1, 7, 11, and 14) uses the *1359 term “download component.” First, each independent claim states that the download component is either sent to or received by a computer in response to a request for electronic data.5 Second, the download component must coordinate the download of electronic data.6 Finally, the download component must request electronic data from (or control the download of electronic data from) a computer other than the computer from which the download component was sent or received.7 Thus, the claims define how the download component is obtained and in general terms what the download component does.
+ 
+The claims also assume that the “download component” is a component of a larger software system, that is, the download component does not alone direct the computer hardware to perform the designated tasks. The difficulty is that the claim language is not clear as to what other programs are to be used with the “download component.” At oral argument (though unfortunately not in the briefs) the parties agreed that the download component at least operates in conjunction with the computer’s basic operating system, and that the operating system is not part of the download component. The parties also agree that Windows Media Player and metafiles taken together would constitute a “download component” if downloaded together from a store computer. They differ, however, as to whether metafiles or Windows Media Player standing alone constitutes a “download component.”
+ 
+[2] We construe a claim term as having its “ordinary and customary meaning,” that is, “the meaning that the term would have to a person of ordinary skill in the art in question at the time of the invention.” Phillips, 415 F.3d at 1313. In some cases, it is possible to construe a claim term by applying “the widely accepted meaning of commonly understood words.” Id. at 1314. “Download component” is not a claim term amenable to construction in this manner because it has no commonly understood meaning reflected in general dictionaries or similar sources. We may also rely on a term’s “particular meaning in a field of art” when construing claims. Id. As the parties seem to agree, the term “download component” does not have a specialized meaning in the relevant art. Microsoft urges that “download component” does not have a particular meaning in the computer art; and that the term does not appear in *1360 computer dictionaries and treatises. Network Commerce also agrees that a definition of the term “download component” as a whole does not exist, but invites the court to combine individual dictionary definitions of “download” and “component.” Under that construction, any part of a system involved in the transfer of data from one computer to another would be a download component. This is not a tenable theory in light of the specification.
+ 
+
+B
+[3] In general “the specification necessarily informs the proper construction of the claims” and it is “appropriate for a court ... to rely heavily on the written description for guidance as to the meaning of claims.” Id. at 1317. Here, the specification does not use the term “download component,” presumably because this claim terminology was added during prosecution after the specification had been prepared. The specification does describe a “download file.”8 It appears from the function and description of the “download file” that this item corresponds most closely to the download component of the claims. The specification explains that the download file resides in the computer of an online merchant or is accessible to that computer. See ’124 patent at col. 9, ll. 34–37 & Fig. 3. When the merchant receives an online request for electronic content, the online merchant “downloads and installs the download file” on the customer’s computer. This file when downloaded into the customer’s computer “extracts [from the download file] the executable boot program and component list.” See id. at col. 9, ll. 37–39.9 The specification defines the capability of the boot program to include the ability to read “the component list to determine what [electronic content] ... to download ... from the appropriate contents supplier server,” and the ability to request the appropriate content from the supplier server. Id. at col. 9, ll. 41–45. Thus, while the download file may contain different things, the specification indicates that it must contain at least the boot program.
+ 
+The specification describes no programs mediating between the boot program and the operating system. Moreover, figure 8 identifies the boot program as a file called “SAFEboot.exe.” An “exe file” is a file in “binary code” and “a Windows exe file (e.g., the Windows Media Player application) is an executable file because it is a sequence of bits arranged in such a way that it can be executed by ... the computer’s operating system.” (J.A. at 1494–95.)
+ 
+[4] In summary, the specification makes clear that the download component must include a boot program, and that the *1361 boot program interacts directly with the operating system of the computer without the assistance of any other program. Accordingly, we construe “download component” to mean a file or program either sent to or received by a computer in response to a request for electronic data that 1) requests (or controls the download of) electronic data from a computer other than the computer from which the program was sent or received; 2) coordinates the download of electronic data; and 3) interacts directly with the operating system of the computer without another program mediating between it and the operating system. This construction of the term “download component” is similar to the definition of “application” adopted in Eolas Technologies, Inc. v. Microsoft Corp., 399 F.3d 1325 (Fed.Cir.2005). There we approved the district court’s construction of “application” to mean “ ‘a computer program, that is not the operating system or a utility, that is designed to allow an end-user to perform some specific task.’ ” Id. at 1336. In addition, we see nothing in the prosecution history that remotely suggests that our interpretation of “download component” is incorrect.
+ 
+[5] Network Commerce relies on the declaration of its expert, Theodore Coombs, for the proposition that the “download component” need not contain the boot program. In his declaration, Coombs quotes various passages from the specification, and concludes: “I understand [these passages] to mean that there are possible embodiments of this invention that use a ‘download component’ that does not contain a boot program or executable code.” (J.A. at 1035.) Coombs’ declaration provides scant support for Network Commerce’s position. As we recently reaffirmed in Phillips, “conclusory, unsupported assertions by experts as to the definition of a claim term are not useful to a court.” Phillips, 415 F.3d at 1318. Here Coombs does not support his conclusion with any references to industry publications or other independent sources. Moreover, expert testimony at odds with the intrinsic evidence must be disregarded. Id. (“[A] court should discount any expert testimony that is clearly at odds with the claim construction mandated by ... the written record of the patent.”) (internal quotations and citation omitted). That is the case here.10
+ 
+
+II
+A
+[6] The district court found that neither Microsoft’s metafiles nor Windows Media Player literally infringed the claims of the patent. Network Commerce argues on appeal that summary judgment of literal infringement was not appropriate because there are genuine issues of material fact. Specifically, it argues that metafiles are computer programs that carry out the claimed functions, relying on the declaration *1362 of its expert, Theodore Coombs. However, the download component must interact directly with the operating system of the computer without another program’s mediating between it and the operating system. Coombs stated in his declaration that metafiles perform the functions of the download component, but he did not state that they can perform those functions through direct interaction with the operating system. He conceded that metafiles are interpreted by Windows Media Player, which then sends instructions through the operating system to the microprocessor. Furthermore, Network Commerce concedes in its appeal brief that “metafiles are ‘powerful tools for controlling Windows Media Player.’ ” (Br. of Pls.-Appellants at 8 (quoting Microsoft documents with approval).) Thus, even according to Network Commerce, a metafile is not a download component as correctly construed. No genuine issues of material fact exist regarding metafiles.
+ 
+[7] Network Commerce also argues that it presented facts showing that Windows Media Player itself is the download component, and that those facts raise a genuine issue of material fact sufficient to avoid summary judgment of no literal infringement. Download component is construed, in part, as a file or program either sent to or received by a computer in response to a request for electronic data. The district court held that Windows Media Player is not a download component because Network Commerce failed to “set forth specific facts showing that ... Windows Media® Player is downloaded onto a client computer in response to a request for electronic content, or that once installed the Windows Media® Player makes a request on its own for that content.” Network II, 260 F.Supp.2d at 1046. Network Commerce argues that Microsoft’s website teaches how to direct a user to a webpage where Windows Media Player may be downloaded, and that if Media Player were downloaded in response to a request for electronic content, this would constitute infringement. It is not enough that Windows Media Player alone is downloaded; it must be coupled with a metafile because on its own Windows Media Player does not make requests. There was no evidence that Windows Media Player was downloaded in response to a request for electronic content, much less evidence that Windows Media Player and metafiles were downloaded together in the required combination. Summary judgment was proper because Network Commerce cannot prove infringement without such evidence.11
+ 
+
+B
+[8] Network Commerce next argues that the district court erred in granting summary judgment of non-infringement under the doctrine of equivalents because metafiles are equivalent to the claimed device. Relying on Warner–Jenkinson, the district court rejected Network Commerce’s equivalents argument and held that “[i]ncluding a metafile as an equivalent to the download component would eliminate the requirement that a download component include an executable file or program.” Network II, 260 F.Supp.2d at 1047.
+ 
+We need not reach the claim vitiation issue in this case. The evidence supporting Network Commerce’s argument that metafiles, independent of Windows Media Player, infringe under the doctrine of *1363 equivalents does not raise a genuine issue of material fact. We have previously held that
+a patentee must ... provide particularized testimony and linking argument as to the “insubstantiality of the differences” between the claimed invention and the accused device or process, or with respect to the function, way, result test when such evidence is presented to support a finding of infringement under the doctrine of equivalents. Such evidence must be presented on a limitation-by-limitation basis. Generalized testimony as to the overall similarity between the claims and the accused infringer’s product or process will not suffice.
+Tex. Instruments Inc. v. Cypress Semiconductor Corp., 90 F.3d 1558, 1567 (Fed.Cir.1996). The same rule applies in the summary judgment context. See PC Connector Solutions LLC v. SmartDisk Corp., 406 F.3d 1359, 1364 (Fed.Cir.2005) (“Having presented the district court with only conclusory statements regarding equivalence, without any particularized evidence and linking argument as to the ‘insubstantiality of the differences’ between the claimed invention and the accused device, or with respect to the ‘function, way, result’ test, PC Connector is now foreclosed from invoking the substantive application of the doctrine of equivalents....” “conclusory statements regarding equivalence are not enough to warrant a remand on that issue, as they do not raise any genuine issues of material fact.” (internal citations omitted)).
+ 
+The expert declaration and other evidence relied on by Network Commerce supporting infringement by equivalents are generalized and do not provide particularized testimony and linking argument on a limitation-by-limitation basis. For this reason the evidence did not raise a genuine issue of material fact. Summary judgment of non-infringement under the doctrine of equivalents regarding metafiles was therefore proper.
+ 
+
+III
+[9] [10] Finally Network Commerce contends that the district court abused its discretion by denying Network Commerce a continuance to conduct further discovery under Rule 56(f) of the Federal Rules of Civil Procedure. Regional circuit law governs practice under Rule 56(f) in this court. Q–Pharma, Inc. v. Andrew Jergens Co., 360 F.3d 1295, 1300 (Fed.Cir.2004). The Ninth Circuit applies an abuse of discretion standard of review to a district court’s decision denying additional discovery under Rule 56(f). Qualls v. Blue Cross of Cal., Inc., 22 F.3d 839, 844 (9th Cir.1994). Ninth Circuit law holds that “the denial of a Rule 56(f) application is generally disfavored where the party opposing summary judgment makes (a) a timely application which (b) specifically identifies (c) relevant information, (d) where there is some basis for believing that the information sought actually exists.” VISA Int’l Serv. Ass’n v. Bankcard Holders of Am., 784 F.2d 1472, 1475 (9th Cir.1986).
+ 
+Network Commerce requested additional discovery on a number of issues, the most significant of which was whether Microsoft or its customers downloaded Windows Media Player to users in response to requests for electronic data. While we think that the district court could not properly fault Network Commerce for delay in filing the Rule 56(f) motion during the bankruptcy proceeding, we do think the district court was correct that Network Commerce had adequate time to conduct discovery before declaring bankruptcy. Network Commerce had nearly 11 months to conduct discovery before it declared bankruptcy. There is no requirement that *1364 the district court construe the claims at any particular time, and thus the parties are under an obligation to conduct discovery without the benefit of the district court’s construction. See Jack Guttman. Inc. v. Kopykake Enters., Inc., 302 F.3d 1352, 1361 (Fed.Cir.2002) (“District courts may engage in a rolling claim construction, in which the court revisits and alters its interpretation of the claim terms as its understanding of the technology evolves.”). The district court did not abuse its discretion by denying Network Commerce’s request for additional discovery under Rule 56(f).
+ 
+
+CONCLUSION
+The district court’s summary judgment of non-infringement both literally and under the doctrine of equivalents is affirmed. We also hold that the district court did not abuse its discretion by denying Network Commerce’s request for a Rule 56(f) continuance.
+ 
+AFFIRMED.
+ 
+
+COSTS
+No costs.
+ 
+All Citations
+422 F.3d 1353, 76 U.S.P.Q.2d 1330
+Footnotes
+
+1
+
+The independent claims read:
+7. A method in a computer system for conducting electronic commerce, including:
+requesting a first web server to order electronic data;
+receiving in response to the request a download component for coordinating the download of the electronic data; and
+under control of the download component, downloading from a second web server the electronic data.
+’124 patent, col. 26, ll. 55–62 (emphasis added).
+11. A method in a store computer for coordinating electronic commerce, the method including:
+receiving from a client computer a request to purchase electronic data; and
+in response to receiving the request, sending to the client computer a download component, the download component for coordinating the download of the electronic data from a supplier computer to the client computer, the supplier computer for downloading to the client computer the electronic data when requested by the download component.
+Id. at col. 27, ll. 8–18 (emphasis added).
+14. A first computer for coordinating electronic commerce, including:
+means for receiving from a second computer a request to purchase electronic data; and
+means for, in response to receiving the request, sending to the second computer a download component, the download component for coordinating the download of the electronic data from a third computer to the second computer, the third computer for downloading to the second computer the electronic data when requested by the download component.
+Id. at col. 28, ll. 4–14 (emphasis added).
+
+2
+
+Claim 1 reads:
+1 A computer system for conducting electronic commerce, including:
+a store computer that receives requests for electronic data from a client computer and that, in response to receiving the request, sends to the client computer a download component that coordinates the download of the electronic data,
+a supplier computer that receives a request from the download component of the client computer to download the electronic data and that, in response to receiving the request, sends the electronic data and a licensing component to the client computer, the licensing component for coordinating the licensing of the electronic data, and
+a licensing computer that receives a request from the licensing component of the client computer to license electronic data and that, in response to receiving the request, determines whether access to the electronic data is to be allowed at the client computer, and when access is allowed, sends a notification that access is allowed to the client computer.
+Id. at col. 26, ll. 17–37 (emphasis added).
+
+3
+
+The district court also construed the term “licensing component.” We need not reach this construction issue due to our disposition of the case.
+
+4
+
+Network Commerce also argues that the district court changed its construction of “download component” on summary judgment by requiring that the download component coordinate or control the download of information on its own. We reject this argument. The district court simply clarified its previous construction in the summary judgment order, wherein it had already rejected the contention “that the ‘download component’ could possibly be a completely inactive data file or that the active functions referred to in the claims could be carried out by some other component.” Network Commerce, Inc. v. Microsoft Corp., No. 01–CV–1991, slip op. at 8 (W.D.Wash. Oct. 29, 2002).
+
+5
+
+Claim 1, ’124 patent, col. 26, ll. 20–22 (“in response to receiving the request [for electronic date], sends to the client computer a download component”); claim 7, id. at col. 26, ll. 57–58 (“receiving in response to the request [to order electronic data] a download component”); claim 11, id. at col. 27, ll. 12–13 (“in response to receiving the request [to purchase electronic data], sending to the client computer a download component”); and claim 14, id. at col. 14, ll. 9–10 (“in response to receiving the request [to purchase electronic data], sending to the second computer a download component”).
+
+6
+
+Claim 1, id. at col. 26, ll. 21–23 (“a download component that coordinates the download of the electronic data”); claim 7, id. at col. 26, ll. 57–59 (“a download component for coordinating the download of the electronic data”); claim 11, id. at col. 27, ll. 13–15 (“the download component for coordinating the download of the electronic data”); and claim 14, id. at col. 28, ll. 9–11 (same).
+
+7
+
+Claim 1, id. at col. 26, ll. 24–25 (“a supplier computer that receives a request from the download component of the client computer”); claim 7, id. at col. 26, ll. 61–62 (“under control of the download component, downloading from a second web server the electronic data”); claim 11, id. at col. 27, ll. 16–18 (“the supplier computer for downloading to the client computer the electronic data when requested by the download component”); and claim 14, id. at col. 28, ll. 12–14 (“the third computer for downloading to the second computer the electronic data when requested by the download component”).
+
+8
+
+Network Commerce admits that “download component” appears nowhere in the specification, but argues that since the word component is used broadly in the specification to refer to all sorts of things, “download component” should be construed just as broadly. This argument is unavailing. The specification’s broad usage of one word from the claim term “download component” does not suggest that the phrase “download component” has the same meaning as that one word.
+
+9
+
+The specification repeatedly states that the download file contains the boot program. E.g., id. at col. 8, ll. 45–47 (“The download files... each contain an executable boot program.”); id. at col. 15, ll. 55–57 (“[T]he download file ... contains ... the boot program.”). The specification also makes clear that the boot program is extracted from the download file. E.g., id. at col. 8, ll. 49–51 (“[T]he ... download file is processed to extract the executable boot program.”); id. at col. 15, l. 55–col. 16, l. 3 (“[T]he download file is a self-extracting file .... When the user indicates that the download file is to be executed, the extraction code of the download file is executed, which causes ... the boot program ... to be extracted.”).
+
+10
+
+Network Commerce also argues that there is an embodiment of the invention disclosed in the specification wherein the boot program already resides on the customer’s computer when the download component is received by the customer computer, and that the term “download component” should therefore not be construed to include the boot program. In support of this argument, it points to language in the specification stating that “a minimum number of components are downloaded” and that “[e]mbodiments of the invention also support the secure execution of requested merchandise and minimize the number of components needed to securely download, license, and execute the requested merchandise.” ’124 patent, col. 4, ll. 64–65 & col. 8, ll. 17–20. However, the specification makes clear that the boot program must be downloaded from the merchant computer in response to a request for electronic content at least once. Download of the boot program is discussed repeatedly, and no other method of obtaining the boot program is disclosed.
+
+11
+
+Even accepting Network Commerce’s argument that in some instances the boot program is not downloaded in response to later requests for electronic content, there can be no infringement under that theory because there is no evidence that Windows Media Player was ever downloaded in response to a request for electronic data.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

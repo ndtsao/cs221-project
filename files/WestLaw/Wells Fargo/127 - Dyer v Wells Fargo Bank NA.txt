@@ -1,0 +1,245 @@
+
+
+ 
+
+
+Dyer v. Wells Fargo Bank, N.A.
+United States Court of Appeals, First Circuit. | November 14, 2016 | 841 F.3d 550 | 2016 WL 6678345
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Dyer v. Wells Fargo Bank, N.A., 841 F.3d 550 (1st Cir. 2016)
+
+All Citations:
+
+841 F.3d 550
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Massachusetts
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+841 F.3d 550
+United States Court of Appeals,
+First Circuit.
+Edythe L. DYER, Plaintiff, Appellant,
+v.
+WELLS FARGO BANK, N.A., d/b/a America’s Servicing Company; U.S. Bank, N.A., as Trustee for CSFB Mortgage–Backed Pass–Through Certificates, Series 2005–2, Defendants, Appellees.
+No. 15–2421
+|
+November 14, 2016
+Synopsis
+Background: Mortgage borrower brought suit against alleged assignee of her mortgage loan, for wrongfully exercising statutory power of sale available only to holders of mortgage, and also sought to recover from loan servicer for its alleged unfair and deceptive trade practices. Suit was removed to federal court based on diverse citizenship of parties, and the United States District Court for the District of Massachusetts, M. Page Kelly, United States Magistrate Judge, 141 F.Supp.3d 149, granted defendants’ motion for judgment on the pleadings. Mortgage borrower appealed.
+ 
+Holdings: The Court of Appeals, Barron, Circuit Judge, held that:
+ 
+[1] recording service that held mortgage as “nominee” for original mortgage lender, and its successors and assigns, had authority to assign mortgage on behalf of original mortgage lender;
+ 
+[2] even assuming that recording service’s assignment of mortgage that it held as “nominee” for original mortgage lender, and its successors and assigns, to financial institution acting as trustee for investors in mortgage loan violated terms of trust agreement between financial institution and investors, any such violation did not render the assignment void;
+ 
+[3] notice of sale published by financial institution to which mortgage had been assigned provided a complete chain of assignments, as required for financial institution to exercise statutory power of sale under Massachusetts law; and
+ 
+[4] argument that was never raised in district court was waived as issue on appeal.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+Mortgages and Deeds of TrustWho may make transfer
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1417Parties to Transfer
+266k1419Who may make transfer
+(Formerly 266k222)
+
+
+Recording service that held mortgage as “nominee” for original mortgage lender, and its successors and assigns, had authority to assign mortgage on behalf of original mortgage lender to entity that was original lender’s successor or assign.
+4 Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustValidity and enforceability
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1409Validity and enforceability
+(Formerly 266k239)
+
+
+Even assuming that recording service’s assignment of mortgage that it held as “nominee” for original mortgage lender, and its successors and assigns, to financial institution acting as trustee for investors in mortgage loan violated terms of trust agreement between financial institution and investors, any such violation of trust agreement rendered the assignment at most voidable at option of parties to trust agreement, not void as matter of law, and did not strip financial institution of its status as holder of mortgage.
+3 Cases that cite this headnote
+
+
+
+[3]
+
+Mortgages and Deeds of TrustParticular transfers in general
+Mortgages and Deeds of TrustAssignees and other transferees
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1403Form and Requisites
+266k1405Particular transfers in general
+(Formerly 266k224)
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(C)Parties to Foreclosure;  Standing
+266k1742Persons Entitled to Foreclose;  Plaintiffs
+266k1748Assignees and other transferees
+(Formerly 266k339.1)
+
+
+Notice of sale published by financial institution to which mortgage had been assigned by recording service that held mortgage as “nominee” for original mortgage lender, and its successors and assigns, did not have to identify alleged intermediaries who at most had beneficial interest in mortgage during time when it was continuously held by recording service up until its execution of assignment to financial institution; notice, by identifying recording service as original holder of mortgage and assignment from recording service to financial institution, provided a complete chain of assignments, as required for financial institution to exercise statutory power of sale under Massachusetts law as holder both of mortgage and mortgage note. Mass. Gen. Laws Ann. ch. 244, § 14.
+3 Cases that cite this headnote
+
+
+
+[4]
+
+Federal CourtsDefenses
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(D)Presentation and Reservation in Lower Court of Grounds of Review
+170BXVII(D)2Particular Grounds of Review
+170Bk3402Matters of Substance
+170Bk3405Defenses
+
+
+On appeal from district court’s dismissal of mortgage borrower’s claims against servicer of her loan, on ground that borrower’s complaint could not serve as the demand notice that she was required to send prior to bringing suit against loan servicer under Massachusetts unfair and deceptive trade practices law, the Court of Appeals would not consider an argument that mortgage borrower attempted to raise for first time on appeal, that she was not required to send a demand letter at all because statutory exception to this demand letter requirement allegedly applied; argument, never having been raised in district court, was waived. Mass. Gen. Laws Ann. ch. 93A, §§ 2(a), 9(3).
+Cases that cite this headnote
+
+
+
+*552 APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS [Hon. M. Page Kelley, U.S. Magistrate Judge]
+Attorneys and Law Firms
+Glenn F. Russell, Jr., with whom Glenn F. Russell Jr., & Associates, P.C. was on brief, for appellant.
+David E. Fialkow, with whom Jeffrey S. Patterson, Michael R. Stanley, and K&L Gates LLP were on brief, for appellees.
+Before Torruella, Kayatta, and Barron, Circuit Judges.
+Opinion
+BARRON, Circuit Judge.
+
+The plaintiff, Edythe Dyer, brought this suit against U.S. Bank, N.A. (“U.S. Bank”) and Wells Fargo Bank, N.A. (“Wells Fargo”), arising out of a foreclosure sale on her property. The suit was dismissed, and we now affirm.
+ 
+
+I.
+In 2004, Dyer executed a promissory note to Dreamhouse Mortgage Corporation (“Dreamhouse”) and granted a mortgage on her property at 41 Commonwealth Avenue, Unit #9, in Boston, Massachusetts (the “Property”). She granted the mortgage to Mortgage Electronic Registration Systems, Inc. (“MERS”) as the “nominee” for Dreamhouse and its successors and assigns. In 2008, MERS executed a document entitled “Assignment of Mortgage,” which transferred the mortgage to U.S. Bank, as trustee. The document was recorded with the Registry of Deeds for Suffolk County, Massachusetts. MERS also executed an assignment of the mortgage to U.S. Bank in 2011. In 2012, MERS published a “Confirmatory Assignment” confirming the 2008 assignment. That document explained that the 2011 assignment was a nullity because, in 2011, MERS did not have standing to assign the mortgage, given that it had already transferred the mortgage to U.S. Bank in 2008. In 2013, Wells Fargo, U.S. Bank’s servicer of the loan, recorded an affidavit in the registry of deeds attesting that, as of that time, U.S. Bank held the note secured by Dyer’s mortgage.
+ 
+In April 2015, U.S. Bank notified Dyer that it intended to foreclose on the Property by utilizing the statutory power of sale provided for in Massachusetts General Laws Chapter 183 § 21. That provision permits a proper party to execute a foreclosure sale without prior judicial authorization. Eaton v. Fed. Nat’l Mortg. Ass’n, 462 Mass. 569, 969 N.E.2d 1118, 1127 (2012). The requirements for exercising that statutory power of sale are laid out in Massachusetts General Laws Chapter 244 § 14. See Fed. Nat’l Mortg. Ass’n v. Rego, 474 Mass. 329, 50 N.E.3d 419, 422–23 (2016).
+ 
+Dyer filed suit in Massachusetts state court on May 26, 2015. Dyer named U.S. Bank as one of the defendants. She sought a declaratory judgment that U.S. Bank is not a proper party under Section 14 to utilize the statutory power of sale, and she also sought damages against U.S. Bank for slander of title based on that same allegation about the status of U.S. Bank under Section 14. Dyer also named Wells Fargo, the servicer of the loan, as a defendant in the suit. In her claim against Wells Fargo, Dyer sought damages under Massachusetts’ catch-all consumer protection statute, Massachusetts General Laws Chapter 93A.
+ 
+The defendants removed the case to the United States District Court for the District of Massachusetts on the basis of diversity jurisdiction. In federal court, the parties consented to proceeding before a magistrate judge pursuant to 28 U.S.C. § 636(c). Dyer then filed a separate motion for a preliminary injunction to stop the *553 foreclosure sale. The Magistrate Judge denied that motion. The defendants thereafter filed a motion for judgment on the pleadings pursuant to Federal Rule of Civil Procedure 12(c).
+ 
+After a full round of briefing, the Magistrate Judge granted the motion for judgment on the pleadings. In so doing, the Magistrate Judge dismissed all of Dyer’s claims. Dyer now appeals.
+ 
+
+II.
+We start with the aspect of this appeal that concerns U.S. Bank. Dyer does not challenge the Magistrate Judge’s ruling that Dyer’s slander of title claim rests on the same contention as her request for a declaratory judgment: that U.S. Bank was not authorized to exercise the statutory power of sale. Thus, we fully resolve the U.S. Bank-related portion of Dyer’s appeal so long as we conclude that U.S. Bank was authorized to exercise the statutory power of sale.1
+ 
+In contending that U.S. Bank was not authorized to exercise the statutory power of sale, Dyer chiefly argues that U.S. Bank was not the holder of the mortgage when it purported to exercise the statutory power of sale and that, in consequence of the decision of the Supreme Judicial Court (“SJC”) in Eaton, U.S. Bank was not entitled to exercise that power. See Eaton, 969 N.E.2d at 1131 (holding that, in order to foreclose under Section 14, an entity must both hold the mortgage and either hold the note or act as an agent of the noteholder). In so contending, Dyer acknowledges that there was a purported 2008 assignment of the mortgage from MERS to U.S. Bank. Dyer acknowledges as well that U.S. Bank referenced this assignment in the statutorily required notice. See Mass. Gen. Laws ch. 244 § 14. But, Dyer contends, that 2008 assignment was void for a number of reasons. We do not agree.
+ 
+[1]Dyer first argues that the assignment was void because MERS, when it made the 2008 assignment, was neither the noteholder nor the agent of the noteholder. Instead, MERS held the mortgage only as a “nominee” for the lender, Dreamhouse, and its successors and assigns. But we held in Culhane v. Aurora Loan Services of Nebraska, 708 F.3d 282 (1st Cir. 2013), that a mortgage contract that names “MERS ... as nominee for [Lender] and [Lender’s] successors and assigns” does suffice to make MERS the mortgage holder and then authorize MERS to assign the mortgage on behalf of the lender to the lender’s successors and assigns. Id. at 293. And here, Dyer’s 2004 mortgage contract contains the same language regarding MERS, and its status as nominee (in this case for Dreamhouse), as the one that we addressed in Culhane.
+ 
+Dyer responds that Culhane is not controlling. She contends that Culhane relied on a construction of Section 14 that pre-dated the SJC’s decision in Eaton and that Eaton renders that construction impermissible. While Eaton did expressly reserve the question of whether a “nominee” is an “agent” of the noteholder, it did so only in connection with its discussion of whether MERS’s status as a “nominee” of the lender empowered it to execute the statutory *554 power of sale. See Eaton, 969 N.E.2d at 1134 n.29. Eaton in no way suggested that MERS’s status as a nominee was insufficient to permit it to hold or assign a mortgage to a successor or assign of the lender. And, in Culhane, in which we expressly applied Eaton, Culhane, 708 F.3d at 288 n.4, we concluded that MERS’s status as a nominee was sufficient to permit it to hold a mortgage and to make such an assignment. Id. at 293. Thus, Dyer’s first ground for contending that the 2008 assignment is void is without merit in consequence of the language of the 2004 contract naming MERS as Dreamhouse’s nominee.2
+ 
+[2]Moving past the terms of the 2004 mortgage contract, Dyer goes on to contend that the 2008 assignment from MERS to U.S. Bank is void for an independent reason. She contends that MERS assigned the mortgage to U.S. Bank in violation of a trust agreement between U.S. Bank and the investors in the loan, which empowered U.S. Bank to act on behalf of the investors, and that the breach of the trust agreement rendered the assignment void. But in Butler v. Deutsche Bank Trust Co. Americas, 748 F.3d 28, 37 (1st Cir. 2014), we held that an assignment made in contravention of such a trust agreement is at most voidable at the option of the parties to the trust agreement, not void as a matter of law. Therefore, the alleged violation of the trust agreement does not void the 2008 assignment and thereby strip U.S. Bank of its status as a holder of the mortgage. Thus, this argument, too, fails.
+ 
+Dyer next argues that the 2008 assignment is void for yet another reason: the 2012 Confirmatory Assignment states that MERS lacked “standing” to assign the mortgage. That document, however, makes clear that MERS lacked “standing” to assign the mortgage in 2011, because MERS had validly assigned the mortgage to U.S. Bank in 2008. The Confirmatory Assignment thus hardly casts doubt on the validity of the 2008 assignment to U.S. Bank; in fact, it appears to confirm it. We therefore reject this argument as well.
+ 
+[3]Finally, we reject Dyer’s separate argument that U.S. Bank was not a proper party to exercise the statutory power of sale because the notice of sale that Section 14 required U.S. Bank to publish did not comply with Section 14’s requirements. See Mass. Gen. Laws ch. 244 § 14 (stating that “in the event a mortgagee holds a mortgage pursuant to an assignment, no notice under this section shall be valid unless (i) at the time such notice is mailed, an assignment, or a chain of assignments, evidencing the assignment of the mortgage to the foreclosing mortgagee has been duly recorded in the registry of deeds for the county or district where the land lies and (ii) the recording information for all recorded *555 assignments is referenced in the notice of sale required in this section.”). Specifically, she contends that notice failed to refer to what Dyer identifies as various “intermediate transfers.”
+ 
+Dyer’s complaint is less than clear as to precisely what she contends was being assigned in these “intermediate transfers,” and her briefing does not do much to help clarify matters. The premise of this argument appears to be, however, that MERS, as the nominee of Dreamhouse, never properly held the mortgage. From this premise, she contends that the notice published by U.S. Bank had to set forth a chain of title that ran from Dreamhouse, the original lender, to the various parties the complaint identifies as being involved in “intermediate transfers” to U.S. Bank.
+ 
+The problem with this argument stems from its mistaken premise. As we have explained, per our decision in Culhane, MERS’s status as nominee did not bar it from holding the mortgage. See Culhane, 708 F.3d at 291–92. Thus, MERS was the record holder of the mortgage in consequence of the mortgage that Dyer granted to MERS as nominee for Dreamhouse in 2004. Moreover, Dyer does not allege that MERS subsequently assigned the mortgage back to Dreamhouse or to any other entity prior to MERS’s 2008 assignment of the mortgage to U.S. Bank.
+ 
+Thus, even accepting as we must the factual allegations in Dyer’s complaint that there were what she calls “intermediate transfers,” she provides no basis for concluding that MERS did not remain the sole record holder of the mortgage up until the time it assigned that mortgage to U.S. Bank in 2008. In fact, because MERS continued to hold the mortgage all along, in keeping with the way in which the MERS system operates, Eaton, 969 N.E.2d at 1122 n.5, it appears that the intermediate transfers Dyer identifies in her complaint were merely transfers of the “beneficial ownership interest[ ]” in the mortgage among MERS members. Id.3
+ 
+Against this background, the notice published by U.S. Bank complied with Section 14 for a simple reason. The notice referenced the assignment (in 2008) from the record holder of the mortgage, MERS, to U.S. Bank. The notice thus did just what it needed to do: it referenced “an assignment of the mortgage to the foreclosing mortgagee” that “has been duly recorded in the registry of deeds for the county or district where the land lies” and for which “the recording information ... [was] referenced in the notice of sale required in this section.” Mass. Gen. Laws ch. 244 § 14; cf. U.S. Bank Nat’l Ass’n v. Ibanez, 458 Mass. 637, 941 N.E.2d 40, 53 (2011) (“A foreclosing entity may provide a complete chain of assignments linking it to the record holder of the mortgage, or a single assignment from the record holder of the mortgage.”).
+ 
+In sum, none of Dyer’s arguments as to why U.S. Bank was not authorized to exercise the statutory power of sale under Section 14 have merit. We thus affirm the order dismissing her slander of title claim.
+ 
+
+III.
+[4]In addition to Dyer’s two claims against U.S. Bank, Dyer also brought a claim against Wells Fargo. In that claim, Dyer sought damages under Massachusetts General Laws Chapter 93A. That statute prohibits “unfair or deceptive acts *556 or practices in the conduct of any trade or commerce.” Mass. Gen. Laws ch. 93A § 2(a). The statute also requires that, thirty days before filing a claim under Chapter 93A, a claimant must, as a general matter, send a “written demand for relief” to the defendant, outlining the unfair or deceptive act or practice and the injury suffered. Id. § 9(3).
+ 
+Dyer alleged in her complaint that the suit itself served as the demand letter required by Chapter 93A. The Magistrate Judge rightly held that the suit could not serve to fulfill the demand letter requirement, because the demand letter must be sent prior to filing suit. See id.; Rodi v. S. New England Sch. of Law, 389 F.3d 5, 19 (1st Cir. 2004). Accordingly, the Magistrate Judge ruled that the claim must be dismissed.
+ 
+On appeal, Dyer contends for the first time that she was not required to send a demand letter at all. She relies on the exception to the demand letter requirement set forth in section 9(3) of Massachusetts General Laws Chapter 93A. The exception provides that “[t]he demand requirements of this paragraph shall not apply if ... the prospective respondent does not maintain a place of business or does not keep assets within the [C]ommonwealth.”
+ 
+Dyer contends that Moronta v. Nationstar Mortgage, LLC, 88 Mass.App.Ct. 621, 41 N.E.3d 311, 315 n.11 (2015), makes clear that this exception applies so long as the putative defendant does not maintain both a place of business and assets within the Commonwealth. And she contends that Wells Fargo has no assets in the Commonwealth. The defendants respond that Moronta sets forth that proposition about the exception’s disjunctive nature only in dicta and that this dicta is in conflict with our prior decision in McKenna v. Wells Fargo Bank, N.A., 693 F.3d 207, 218 (1st Cir. 2012).
+ 
+Dyer did not argue below, however, that she did not need to comply with the demand letter requirement. We thus treat as waived her newly raised argument about whether the exception to the demand letter requirement applies. See Malave v. Carney Hosp., 170 F.3d 217, 222 (1st Cir. 1999) (“[E]xcept in the most extraordinary circumstances (not present here), matters not raised in the trial court cannot be hawked for the first time on appeal.”). And, given that Dyer does not dispute that her complaint failed to plead that she had sent a demand letter prior to filing suit, we affirm the order dismissing Dyer’s Chapter 93A claim.
+ 
+
+IV.
+For the foregoing reasons, we affirm the dismissal of Dyer’s claims.
+ 
+All Citations
+841 F.3d 550
+Footnotes
+
+1
+
+Following the Magistrate Judge’s order dismissing Dyer’s claims, the foreclosure sale occurred. Accordingly, we issued an order requesting supplemental briefing as to whether Dyer’s appeal of the denial of her request for declaratory relief had been rendered moot by that sale. Because that request for relief relies on the same claim regarding U.S. Bank’s status under Section 14 as her request for damages for her slander of title claim, this appeal is not moot. McKenna v. Wells Fargo Bank, N.A., 693 F.3d 207, 210 n.2 (1st Cir. 2012).
+
+2
+
+Eaton holds that, even if the mortgage and the note had previously been separated, a party may only exercise Section 14’s power of sale if at the time of the sale it holds both the mortgage and the note. Eaton, 969 N.E.2d at 1129. In addition to contesting U.S. Bank’s status as the mortgage holder in consequence of the 2008 assignment from MERS, Dyer separately challenges the Magistrate Judge’s finding that U.S. Bank also held the note. The Magistrate Judge based that finding on both a copy of the note endorsed in blank that U.S. Bank produced and a copy of the 2013 affidavit by Wells Fargo, U.S. Bank’s agent and servicer of the loan, stating that U.S. Bank held the note. Dyer provides no basis for rejecting that finding beyond her conclusory contrary assertion and a reference to an allonge, which she does not develop into an argument that would warrant reversal of the Magistrate Judge’s finding. We thus treat as waived any argument that U.S. Bank was not a proper party to execute the sale because, even if U.S. Bank held the mortgage via the 2008 assignment from MERS, it did not also hold the note. See United States v. Zannino, 895 F.2d 1, 17 (1st Cir. 1990).
+
+3
+
+The SJC explained that MERS is the “mortgagee of record for mortgage loans registered on the MERS electronic registration system, which tracks servicing rights and beneficial ownership interests in those loans; the system allows these servicing rights and beneficial ownership interests to be traded electronically between members without the need to record publicly each mortgage assignment.” Eaton, 969 N.E.2d at 1122 n.5.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,242 @@
+
+
+ 
+
+
+Facebook, Inc. v. Pragmatus AV, LLC
+United States Court of Appeals, Federal Circuit. | September 11, 2014 | 582 Fed.Appx. 864 | 2014 WL 4454956
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Facebook, Inc. v. Pragmatus AV, LLC, 582 F. App’x 864 (Fed. Cir. 2014)
+
+All Citations:
+
+582 Fed.Appx. 864
+
+Search Details
+
+Search Query:
+
+adv: NAME(”facebook”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:48 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+582 Fed.Appx. 864
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+FACEBOOK, INC., Appellant,
+v.
+PRAGMATUS AV, LLC, Appellee.
+Facebook, Inc., Appellant,
+v.
+Pragmatus AV, LLC, Appellee.
+Nos. 2013–1350, 2013–1351.
+|
+Sept. 11, 2014.
+|
+Rehearing Denied Oct. 30, 2014.
+Synopsis
+Background: Patent Trial and Appeal Board in inter partes reexaminations, 2013 WL 5402217 and 2013 WL 5402218, affirmed examiner’s confirmation of all claims in patents directed to facilitating real-time communications between users over computer networks. Petitioner appealed.
+ 
+Holdings: The Court of Appeals, Moore, Circuit Judge, held that:
+ 
+[1] phrase, “addressing information of [the] device,” meant information specific to the device that enables communication with the device;
+ 
+[2] record did not include factual findings necessary for Court of Appeals to assess validity in first instance; and
+ 
+[3] presence of limitations in prior art references could not be inferred.
+ 
+Vacated and remanded.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+(Formerly 291k101(2))
+
+
+Phrase “addressing information of [the] device,” in patents directed to facilitating real-time communications between users over computer networks, meant information specific to the device that enables communication with the device.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsOther Postissuance Proceedings
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1261In general
+(Formerly 291k140)
+
+
+Record did not include factual findings necessary for Court of Appeals to assess validity in first instance of patents directed to facilitating real-time communications between users over computer networks, where Board’s analyses of prior art in inter partes reexaminations focused primarily on whether those references disclosed maintaining associations of “addressing information” under Board’s erroneous construction requiring physical location, and examiner did not perform element-by-element analysis of what each reference disclosed.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsOther Postissuance Proceedings
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1261In general
+(Formerly 291k140)
+
+
+Presence of limitations in prior art references could not be inferred, on appeal alleging that Patent Trial and Appeal Board analyzed claims and prior art under erroneous construction, based on patent examiner’s findings in orders granting requests for inter partes reexamination, since examiner was not determining whether references disclosed or suggested each claimed limitation.
+6 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,421,470, US Patent 7,433,921. Cited.
+1 Cases that cite this headnote
+
+
+
+*865 Appeal from the United States Patent and Trademark Office, Patent Trial and Appeal Board in Reexamination Nos. 95/001,715, 95/001,716.
+Attorneys and Law Firms
+Heidi L. Keefe, Cooley LLP, of Palo Alto, CA, argued for appellant. With her on the brief were Mark R. Weinstein and Reuben H. Chen; and Scott A. Cole, of Reston, VA.
+Tillman J. Breckenridge, Reed Smith LLP, of Washington, DC, argued for appellee. With him on the brief was Gerard M. Donovan.
+Before MOORE, O’MALLEY, and TARANTO, Circuit Judges.
+Opinion
+MOORE, Circuit Judge.
+
+Facebook, Inc. appeals from the Patent Trial and Appeal Board’s decisions in two related inter partes reexaminations affirming the examiner’s confirmation of all claims of Pragmatus AV, LLC’s U.S. Patent Nos. 7,421,470 and 7,433,921. Because the Board erred in construing the relevant claim limitation, we vacate and remand.
+ 
+
+BACKGROUND
+Facebook requested, and the Patent Office initiated, inter partes reexaminations of the ′470 and ′921 patents. The patents share the same parent, nearly identical specifications, and similar claims (the ′470 patent recites method claims and the ′921 patent recites system claims). The patents are directed to facilitating real-time communications between users over computer networks. E.g., ′470 patent, Abstract. All of the independent claims are directed to providing a first user with a list of identifiers of other users, allowing the first user to select an identifier of a second user from the list, and establishing communications between the two users using the addressing information of the second user’s communication device. Id. claims 1, 16, 29, 43; ′921 patent claims 1, 13, 25. Relevant to this appeal, each claim requires maintaining associations between users and the addressing information of the devices used by those users. For example, claim 1 of the ′470 patent, which is representative, recites:
+A method comprising:
+maintaining a first association between a first user and corresponding addressing information of a first communication device used by the first user to log in;
+maintaining a second association between a second user and corresponding addressing information of a second communication device used by the second user to log in....
+This appeal centers on the construction of the phrase “addressing information of [the] device” that is common to the two *866 “maintaining” limitations reproduced above.
+ 
+Facebook’s requests for inter partes reexamination proposed various anticipation and obviousness rejections of the claims, each relying on at least one of three prior art references—Bowen, Bowen II, and Lichty—as the primary reference.1 Bowen and Bowen II are CompuServe user guides and Lichty is an America Online user guide. The examiner determined that all claims were patentable because Bowen, Bowen II, and Lichty do not disclose the “maintaining a first association” limitation. In particular, the examiner determined that the references do not disclose the claimed “addressing information of a first communication device” that is a part of the first association.
+ 
+The Board affirmed the examiner’s confirmation of all claims. Facebook, Inc. v. Pragmatus AV, LLC, No. 2012–010460, 2013 WL 5402217 (Patent Tr. & App. Bd. Jan. 11, 2013) (’470 patent); Facebook, Inc. v. Pragmatus AV, LLC, No. 2012–010461, 2013 WL 5402218 (Patent Tr. & App. Bd. Jan. 11, 2013) (’921 patent).2 The Board construed the phrase “addressing information of [the] device” as “the physical location of a communication device....” Bd. Op. at *5. Based on this construction, it found that none of the three references disclosed the “maintaining a first association” limitation because it determined that the alleged “addressing information” in each of the cited references was not a “physical location” of the first communication device. Bd. Op. at *6–11. Facebook appeals. We have jurisdiction under 28 U.S.C. § 1295(a)(4)(A).
+ 
+
+DISCUSSION
+I. Claim Construction
+When the Board reexamines an unexpired patent, it construes the claims under the broadest reasonable interpretation consistent with the specification. In re ICON Health and Fitness, Inc., 496 F.3d 1374, 1379 (Fed.Cir.2007). When the Board reexamines an expired patent, it construes the claims in accordance with the claim construction standard set forth in Phillips v. AWH Corp., 415 F.3d 1303 ( Fed.Cir.2005). In re Rambus, Inc., 753 F.3d 1253, 1256 (Fed.Cir.2014).
+ 
+These reexamination appeals come to us in an interesting procedural posture. The ′470 and ′921 patents had not expired at the time of the Board’s decisions, but are both expired now. Because the patents were then unexpired, the Board construed the claims in accordance with the broadest reasonable interpretation standard. Bd. Op. at *5. We review the Board’s claim construction de novo. Rambus Inc. v. Rea, 731 F.3d 1248, 1252 (Fed.Cir.2013).
+ 
+We hold that the Board erred by unduly limiting the broadest reasonable interpretation of “addressing information of [the] device” to the “physical location” of the device. As an initial matter, it is not clear what the Board meant by a “physical location.” It is not clear whether this requirement in the Board’s construction refers to a geographical location, a location on the network, or some other location. We hold, however, that “physical location” unduly narrows the claim term “addressing information of [the] device,” because nothing in the plain language of the claims or in the *867 specification or prosecution history requires such a limitation.
+ 
+[1] We start with the language of the claims themselves. Phillips, 415 F.3d at 1314. The plain meaning of “addressing information of [the] device” is “information specific to the device that enables communication with the device.” The parties generally agree that the plain meaning of the first half of the limitation at issue—“addressing information”—is information that enables communication with the device. Pragmatus argued to the Board that “addressing information can be expressed in many forms. And really need only allow the system to direct information to the destination computer. That is what the phrase, addressing information means.” J.A. 6905. Similarly, Facebook argues on appeal that “ ‘addressing information’ as used in the claims simply means information that the system uses to send data to the communications device used to log in.” Appellant’s Br. at 14–15. Moreover, the claims require that the “addressing information” enables communication with the device because each independent claim recites “using the addressing information of the second communication device to allow communication between the first and second users.” E.g., ′470 patent claim 1.
+ 
+The remaining portion the claim term, “of [the] device,” does not require the claimed “addressing information” to be a physical location. The plain meaning of “of [the] device” is that the “addressing information” is specific to the device. Nothing about the phrase imparts a physical location requirement. The use of the phrase “of [the] device” in the claims makes this clear. For example, claim 1 of the ′470 patent recites:
+maintaining a first association between a first user and corresponding addressing information of a first communication device used by the first user to log in;
+maintaining a second association between a second user and corresponding addressing information of a second communication device used by the second user to log in....
+Id. Viewing these two limitations together, “of the first communication device” and “of the second communication device” differentiate the two pieces of “addressing information.” In particular, the “addressing information” in the first limitation is specific to the first communication device used by the first user to log in, whereas the “addressing information” in the second limitation is specific to the second communication device used by the second user to log in. Thus, the plain meaning of “addressing information of [the] device” is “information specific to the device that enables communication with the device.”
+ 
+Neither the phrase “of [the] device” nor the corresponding construction of “information specific to the device” requires that the addressing information be permanently associated with the device. For example, certain addressing information, such as a dynamic IP address,3 may be temporarily assigned to a particular device when the device connects to a network. If the device disconnects and then later reconnects to the network, a second dynamic IP address is assigned to the device which may be different than the first dynamic IP address. Oral Argument at 27:45–28:22, available at http://oralarguments. cafc.uscourts.gov/default.aspx?fl=20 13–1350.mp3. These dynamic IP addresses are still “specific to the device” while the device is logged in to the network. The specifications of the patents at issue expressly contemplate *868 using mobile devices, which could access a network at different entry points and thus be assigned different IP addresses, ′470 patent col. 15 ll. 10–14, col. 18 ll. 22–37, and explain that certain embodiments use “TCP/IP network protocols,” id. col. 20 ll. 17–20. This is also supported by the claims themselves, which recite “using the addressing information ... to allow communication between the first and second users” “if the second user is logged in.” E.g., id. claim 1.
+ 
+The remaining claim language does not limit the “addressing information of [the] device” beyond its plain meaning. The claims require that the “associations” between the first and second users and the corresponding addressing information must be “dynamically changeable ... so that the first and second users, if logged in, can be found no matter where they are located.” E.g., id. However, requiring the associations to be dynamic so that users can be found “no matter where they are located” does not require that the addressing information included in that association is, itself, a physical location.
+ 
+Of course, under Phillips, the claim terms must be construed in light of the specification and the prosecution history, and not in isolation. 415 F.3d at 1313. We only depart from the plain meaning where the patentee has acted as his own lexicographer by clearly setting forth a definition of the disputed claim term or where he has disavowed the full scope of the claim term using clear and unmistakable statements of disclaimer. GE Lighting Solutions, LLC v. AgiLight, Inc., 750 F.3d 1304, 1309 (Fed.Cir.2014).
+ 
+Nothing in the specifications or prosecution histories of the patents at issue rises to the “exacting” level of lexicography or disavowal. See id. Nowhere does the patentee define the term “addressing information” (let alone the more complete “addressing information of [the] device”) or otherwise disclaim its full scope. To the contrary, the specifications support the plain-meaning construction. For example, the Abstract and Summary of the Invention of both patents describe retrieving addressing information of a second user so that a connection between a first and second user on their respective communication devices can be established. E.g., ′470 patent, Abstract, col. 6, ll. 1–13. They do not limit the recited addressing information to a physical location or impose any other requirement beyond the plain meaning of the phrase.
+ 
+In fact, except for the claims, the patent specifications do not mention the phrase, “addressing information of [the] device.” They describe “addressing information of a ... user,” such as an e-mail address. E.g., id. col. 6 ll. 8–9, col. 19 ll. 54–59, col. 22 ll. 2–8. As demonstrated by the exemplar e-mail address, the disclosed addressing information “of a user” is not the physical location of that user, or of that user’s device.
+ 
+The patent specifications do describe “location information” of a device that is stored as part of a “service record.” E.g., id. col. 19 ll. 59–65, col. 21 ll. 7–17, col. 22 ll. 9–16. These portions of the specifications, however, do not support limiting “addressing information of [the] device” to a “physical location.” They do not describe the disclosed “location information” as “addressing information.” Thus, even if the specification somehow limited the disclosed “location information” to a “physical location,” there is nothing in the specification that requires the claimed “addressing information” to be of identical scope.
+ 
+We thus conclude that the correct construction of “addressing information of [the] device” is “information specific to the device that enables communication with the device.” We reach this conclusion after *869 applying the Phillips claim construction framework, as the patents are now expired. We note that the Board’s construction—limited to the physical location of the device—is narrower than ours. The broadest reasonable interpretation of a claim term may be the same as or broader than the construction of a term under the Phillips standard. But it cannot be narrower. Thus, the Board’s construction cannot be the broadest reasonable one.
+ 
+
+II. Validity
+[2] Because the Board analyzed the claims and the prior art under an erroneous construction, we vacate the Board’s decision and remand for the Patent Office to assess the validity of these claims under the correct construction. The record does not include the factual findings necessary for us to assess validity in the first instance. For example, the Board’s analyses of Bowen, Bowen II, and Lichty focus primarily on whether those references disclose maintaining associations of “addressing information” under the Board’s construction requiring a physical location. Similarly, the examiner did not perform an element-by-element analysis of what each reference disclosed because the examiner determined in the first office action that the claims were patentable based on the “maintaining a first association” limitations, making it unnecessary to determine whether the references disclosed the remaining limitations.
+ 
+[3] We do not agree with Facebook that we ought to infer the presence of the remaining limitations in the references based on the examiner’s findings in the Orders granting the requests for inter partes reexamination. In those Orders, the examiner was determining whether there was a substantial new question of patentability with regard to the claims at issue; the examiner was not determining whether the references disclosed or suggested each claimed limitation. See, e.g., J.A. 6623–24, 6634. The examiner made certain limited findings in the Order about what Bowen disclosed. J.A. 6623. However, these findings were made to support the examiner’s ultimate conclusion that Bowen was “important in deciding the patentability” of the claims at issue; they were not a part of an element-by-element invalidity analysis. Id. Thus, to the extent the examiner on remand determines that one or more of the prior art references disclose the “maintaining a first association” limitation (we take no position on this point), the examiner will also have to address, in the first instance, whether the prior art discloses the remaining limitations.
+ 
+
+CONCLUSION
+Because the Board erred in construing “addressing information of [the] device,” as recited in each independent claim, we vacate and remand.
+ 
+VACATED AND REMANDED
+ 
+All Citations
+582 Fed.Appx. 864
+Footnotes
+
+1
+
+Facebook proposed an additional rejection of certain claims using a fourth reference, Campbell, as the primary reference, but does not appeal the Board’s confirmation of the claims over this proposed rejection.
+
+2
+
+“Bd. Op.” citations herein are to the ′470 patent decision.
+
+3
+
+The parties agree that IP addresses (of which dynamic IP addresses are a subset) are addressing information. Appellant’s Br. at 15–16; Appellee’s Br. at 20.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

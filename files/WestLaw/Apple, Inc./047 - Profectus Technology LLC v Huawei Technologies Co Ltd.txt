@@ -1,0 +1,529 @@
+
+
+ 
+
+
+Profectus Technology LLC v. Huawei Technologies Co., Ltd.
+United States Court of Appeals, Federal Circuit. | May 26, 2016 | 823 F.3d 1375 | 2016 WL 3033148
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+standard Citation:
+
+Profectus Tech. LLC v. Huawei Techs. Co., 823 F.3d 1375 (Fed. Cir. 2016)
+
+All Citations:
+
+823 F.3d 1375, 119 U.S.P.Q.2d 1188
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+823 F.3d 1375
+United States Court of Appeals,
+Federal Circuit.
+PROFECTUS TECHNOLOGY LLC, Plaintiff–Appellant
+v.
+HUAWEI TECHNOLOGIES CO., LTD., Huawei Technologies USA, Inc., Huawei Device USA, Inc., Futurewei Technologies, Inc., Defendants
+Dell Inc., Apple Inc., Samsung Telecommunications America, LLC, Samsung Electronics America, Inc., Motorola Mobility LLC, Hewlett-Packard Company, Hewlett-Packard Development Company, L.P., Defendants–Appellees.
+2015-1016, 2015-1018, 2015-1019
+|
+Decided: May 26, 2016
+Synopsis
+Background: Patentee brought action alleging infringement of patent directed to mountable digital picture frame for displaying digital images. The United States District Court for the Eastern District of Texas, Michael H. Schneider, J., 2014 WL 1575719, conducted Markman hearing and issued order construing patent claims and granting summary judgment of noninfringement. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Reyna, Circuit Judge, held that:
+ 
+[1] term “mountable” meant “having a feature for mounting,” and
+ 
+[2] communication ports and cited physical characteristics of accused devices did not meet “mountable” limitations.
+ 
+Affirmed.
+ 
+Moore, Circuit Judge, dissented and filed opinion.
+ 
+
+
+West Headnotes (17)
+
+
+[1]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+Federal Circuit reviews de novo a district court’s ultimate construction of a patent claim term.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsQuestions of law or fact
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1848Questions of law or fact
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+Construction of patent claim terms involves findings of fact and conclusions of law, and a district court’s factual findings based on the intrinsic record are considered legal issues that are reviewed de novo, while factual findings relying on extrinsic evidence are reviewed for clear error.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+When reviewing a district court’s patent claim construction, a factual finding is clearly erroneous if, despite some supporting evidence, the Federal Circuit is left with the definite and firm conviction that a mistake has been made.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+Among the facts that the Federal Circuit will review for clear error when reviewing a district court’s patent claim construction include understandings that lie outside the patent documents about the meaning of terms to one of skill in the art or the science or state of the knowledge of one of skill in the art.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsExtrinsic Evidence
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1344Extrinsic Evidence
+291k1345In general
+
+
+When reviewing a district court’s patent claim construction, a legal error arises when the district court relies on extrinsic evidence that contradicts the intrinsic record.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+Federal Circuit will review a district court’s grant of summary judgment in accordance with the law of the regional circuit.
+1 Cases that cite this headnote
+
+
+
+[7]
+
+Federal CourtsSummary judgment
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3604Judgment
+170Bk3604(4)Summary judgment
+
+
+Fifth Circuit reviews de novo a district court’s grant of summary judgment.
+1 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsPhotography;  imaging and graphic arts
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1424Photography;  imaging and graphic arts
+
+
+Term “mountable,” as used in patent directed to mountable digital picture frame for displaying digital images meant “having a feature for mounting,” since In every embodiment disclosed in patent’s specification, picture display or frame included feature for mounting device to wall or on tabletop.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsPlain, ordinary, or customary meaning in general
+PatentsState of the art
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1317Plain, ordinary, or customary meaning in general
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1341State of the art
+
+
+Words of a patent claim are generally given their “ordinary and customary meaning,” which is the meaning that the term would have to a person of ordinary skill in the art at the time of the invention.
+2 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+
+
+Patent claim language must be viewed in light of the patent’s specification, which is the single best guide to the meaning of a disputed term.
+1 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsLanguage of claims in general
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1316Language of claims in general
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+
+
+When construing a patent claim term, the court will first look to the actual words of the claims and then read them in view of the patent’s specification.
+1 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsExtrinsic Evidence
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1344Extrinsic Evidence
+291k1345In general
+
+
+While courts are permitted to consider extrinsic evidence when construing a patent claim term, such evidence is generally of less significance than the intrinsic record.
+1 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsExtrinsic Evidence
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1344Extrinsic Evidence
+291k1345In general
+
+
+Extrinsic evidence may not be used to contradict a patent claim construction that is unambiguous in light of the intrinsic evidence.
+3 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsLanguage of claims in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1316Language of claims in general
+
+
+Patent claim construction that stays true to the claim language and most naturally aligns with the patent’s description of the invention will be, in the end, the correct construction.
+1 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsIn general;  comparison with patent claims
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1554Substantial Identity of Subject Matter
+291k1555In general;  comparison with patent claims
+
+
+Patent infringement inquiry asks if an accused device contains every claim limitation or its equivalent.
+1 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsPhotography;  imaging and graphic arts
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1684Photography;  imaging and graphic arts
+
+
+Communication ports and cited physical characteristics of accused devices did not meet “mountable” limitations of patent directed to mountable digital picture frame for displaying digital images, and thus accused devices did not infringe upon those limitations, even though communication ports and certain physical characteristics could incidentally be used for mounting, or combined to aid in mounting, where communication ports were features for power, data, and communication, rather than inherent features for mounting, and cited physical characteristics were not for mounting and required use of external components to aid in mounting.
+Cases that cite this headnote
+
+
+
+[17]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,975,308. Not Infringed.
+Cases that cite this headnote
+
+
+
+*1376 Appeals from the United States District Court for the Eastern District of Texas in Nos. 6:11-cv-00474-MHS, 6:11-cv-00674-MHS, 6:11-cv-00676-MHS, Judge Michael H. Schneider.
+Attorneys and Law Firms
+THOMAS C. WRIGHT, Cunningham Swaim, LLP, Dallas, TX, argued for plaintiff-appellant. Also represented by STEVEN EDWARD ROSS, Ross IP Group PLLC, Dallas, TX.
+LAUREN B. FLETCHER, Wilmer Cutler Pickering Hale and Dorr LLP, Boston, MA, argued for defendant-appellee Apple Inc. Also represented by WILLIAM F. LEE, KEVIN M. YURKERWICH; BRITTANY BLUEITT AMADI, Washington, DC.
+*1377 AHMED JAMAL DAVIS, Fish & Richardson, P.C., Washington, DC, argued for defendants-appellees Samsung Telecommunications America, LLC, Samsung Electronics America, Inc. Also represented by MICHAEL J. MCKEON; JOHN STEPHEN GOETZ, New York, NY.
+ROGER FULGHUM, Baker Botts, LLP, Houston, TX, for defendant-appellee Dell Inc. Also represented by MICHAEL HAWES, TAMMY PENNINGTON RHODES.
+JONATHAN E. RETSKY, Winston & Strawn LLP, Chicago, IL, for defendant-appellee Motorola Mobility LLC. Also represented by KURT A. MATHAS, IVAN MICHAEL POULLAOS; ANDREW RYAN SOMMER, Washington, DC.
+NICKOLAS BOHL, Feinberg Day Alberti & Thompson LLP, Menlo Park, CA, for defendants-appellees Hewlett-Packard Company, Hewlett-Packard Development Company, L.P. Also represented by MARGARET ELIZABETH DAY.
+Before Moore, Reyna, and Wallach, Circuit Judges.
+Opinion
+Dissenting opinion filed by Circuit Judge Moore.
+
+
+Reyna, Circuit Judge.
+Profectus Technology LLC (“Profectus”) appeals a district court’s claim construction order and grant of summary judgment of non-infringement. The patent-in-suit is directed to a mountable digital picture frame for displaying digital images. Profectus asserted certain of the patent claims against manufacturers and sellers of tablet computer devices. After construing the term “mountable,” the district court granted summary judgment of non-infringement on grounds that the accused devices do not satisfy the “mountable” limitation. On appeal, Profectus argues that the district court erred in its claim construction of “mountable” and improperly resolved disputes of material fact at summary judgment. We discern no error in the district court’s claim construction or grant of summary judgment. We affirm the judgment of the district court.
+ 
+
+BACKGROUND
+Profectus owns U.S. Patent No. 6,975,308 (the “ ‘308 patent”). The ’308 patent discloses a mountable digital picture frame for displaying still digital images. The specification discusses how a user can display digital images on a wall or desktop similar to conventional photographs. ’308 Patent cols. 1–2 ll. 52–36. For example, Figure 1 shows a wall-mountable picture frame mounted to a wall, while Figure 4 shows a mountable frame resting on a flat surface.
+ 
+
+​
+*1378 The ’308 patent has 31 claims, including independent claims 1 and 29. The patent claims “[a] stand alone and mountable picture display for displaying still digital pictures.” See ’308 Patent cols. 7–8 ll. 61–8 (claim 1), col. 10 ll. 7–22 (claim 29). Claims 1 and 29 recite the limitation that is relevant to this appeal: “a mountable picture frame adapted to digitally display at least one still image thereon.”
+ 
+In September 2011, Profectus brought suit in the Eastern District of Texas against a large number of manufacturers and sellers of tablet computer devices, alleging infringement of independent claims 1 and 29 and dependent claims 2 and 4–9 of the ’308 patent.1 Profectus accused devices with features that Profectus purported made the devices “mountable” picture frames.
+ 
+During claim construction, the parties submitted proposals for the term “mountable.” Profectus proposed that “mountable” should be interpreted as “capable of being mounted,” while Defendants argued that the correct interpretation is “having a support for affixing on a wall or setting on a desk or table top.” On January 3, 2014, the district court issued a provisional claim construction order, construing the term to mean “having a feature designed for mounting.” J.A. 10. The parties submitted additional briefing on claim construction after entry of the provisional claim construction order.
+ 
+On April 17, 2014, the district court issued a new claim construction order, construing “mountable” to mean “having a feature for mounting.” The district court observed that “mountable” appears in every independent claim, and noted that the parties did not dispute that a mounting feature is not a preferred embodiment. The district court concluded that “the picture frame or display must have some intrinsic mounting feature—not just a feature that could potentially render the frame or display capable of being mounted.” Profectus Tech. LLC v. Huawei Techs. Co., No. 6:11-cv-474 (Lead Case), 2014 U.S. Dist. LEXIS 53157, at *13–15 (E.D. Tex. Apr. 16, 2014) (emphasis in original). The district court did not require that the mounting feature include all components *1379 needed to mount the frame or display, noting that even the “wall-mountable preferred embodiment” required use of an additional component (e.g., nails) to mount the frame to a wall. Id. at *15.
+ 
+Following the district court’s claim construction order, Defendants moved for summary judgment of non-infringement on grounds that the accused devices do not satisfy the “mountable” limitation. On September 8, 2014, the district court granted the summary judgment motion. On September 15, 2014, the district court entered final judgment in favor of Defendants.
+ 
+Profectus appeals. We have jurisdiction under 28 U.S.C. § 1295(a)(1) (2012).
+ 
+
+STANDARD OF REVIEW
+[1] [2] [3]We review de novo the ultimate construction of a claim term. Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 841, ––– L.Ed.2d –––– (2015). The construction of patent claim terms involves findings of fact and conclusions of law. District court factual findings based on the intrinsic record are considered legal issues that are reviewed de novo, while factual findings relying on extrinsic evidence are reviewed for clear error. Id.; see also Akzo Nobel Coatings, Inc. v. Dow Chem. Co., 811 F.3d 1334, 1339 (Fed.Cir.2016). “A factual finding is clearly erroneous if, despite some supporting evidence, we are left with the definite and firm conviction that a mistake has been made.” Insite Vision, Inc. v. Sandoz, Inc., 783 F.3d 853, 858 (Fed.Cir.2015) (citation omitted).
+ 
+[4] [5]Among the facts that we review for clear error include “[u]nderstandings that lie outside the patent documents about the meaning of terms to one of skill in the art or the science or state of the knowledge of one of skill in the art.” Teva Pharm. USA, Inc. v. Sandoz, Inc., 789 F.3d 1335, 1342 (Fed.Cir.2015). Legal error arises when a court relies on extrinsic evidence that contradicts the intrinsic record. See Lighting Ballast Control LLC v. Philips Elecs. N. Am. Corp., 790 F.3d 1329, 1338 (Fed.Cir.2015).
+ 
+[6] [7]We review a grant of summary judgment in accordance with the law of the regional circuit, here the Fifth Circuit. Ineos USA LLC v. Berry Plastics Corp., 783 F.3d 865, 868 (Fed.Cir.2015). The Fifth Circuit reviews de novo a district court’s grant of summary judgment. Id. (citing Triple Tee Golf, Inc. v. Nike, Inc., 485 F.3d 253, 261 (5th Cir.2007)).
+ 
+
+CLAIM CONSTRUCTION
+[8]Profectus argues that the district court erred in construing “mountable” to mean “having a feature for mounting.” Profectus asserts that the correct construction is “capable of being mounted.” We disagree.
+ 
+Profectus contends that requiring a feature for mounting is an additional limitation unsupported in the record. Profectus points to claims 13 and 31, which recite a “wall mountable display” whereby mounting occurs through the frame, not the display itself. ’308 Patent col. 5 ll. 44–47. Profectus argues that one of ordinary skill in the art would understand that the claims contemplate a “picture frame” or “picture display” that is mountable through the use of other components or structures. Profectus cites display 12 of Figure 1 to illustrate characteristics, features, and components (e.g., light weight, low profile, certain frame dimensions, attachment apparatuses, and nails or screws) that render the display mountable. ’308 Patent col. 4 ll. 26–28, col. 5 ll. 45–47, col. 6 ll. 21–23. Profectus references a dictionary definition of the common suffix “-able” as “capable of, fit or worthy of.” Merriam-Webster’s Collegiate Dictionary 3 (10th ed. *1380 1995). Profectus asserts that the district court erred in reading in certain preferred embodiments to exclude devices that can be mounted through the use of external components.
+ 
+Profectus maintains that its proposed construction is not overbroad because the claim language limits what type of devices are mountable. Profectus argues that the claims are directed to “displaying digital pictures,” which means that Profectus’s proposed construction of “capable of being mounted” cannot include any product capable of being mounted to a wall or tabletop. According to Profectus, the digital-picture limitation confines the invention only to mountable displays of still digital pictures. Profectus argues that its proposed construction comports with plain and ordinary meaning, citing Thorner v. Sony Comput. Entm’t Am. LLC, 669 F.3d 1362 (Fed.Cir.2012) to emphasize that terms like “mountable” should be given their plain and ordinary meaning.
+ 
+Defendants argue that the district court’s claim construction is supported by the intrinsic record. Each asserted claim recites “stand alone” together with “mountable,” indicating to a skilled artisan that those terms describe the claimed invention as a single unit for mounting because both terms modify “picture display” and “picture frame.” Defendants contend that the picture display and frame must be “mountable” and “stand alone.” Defendants point to the background of the ’308 patent, which teaches that “[t]he present invention relates to digital picture displays and more particularly to wall mounted or table top picture frames for displaying digital images.” ’308 Patent, col. 1 ll. 14–16. Defendants argue that every disclosed embodiment of the claimed picture display and picture frame bears an intrinsic feature for mounting; no embodiment requires external components due to lack of an intrinsic feature for mounting. Defendants assert that the district court did not read in a preferred embodiment because it required that the frame have features for mounting, while still permitting other external features to facilitate mounting. Defendants note that by revising its provisional claim construction from “designed for mounting” to “having a feature for mounting,” the district court recognized that the picture display or frame must have a feature for use in mounting the device. According to Defendants, that a device is capable of mounting does not make it “mountable.”
+ 
+[9] [10] [11] [12] [13] [14]We hold that the district court properly construed “mountable” to mean “having a feature for mounting.” The words of a claim are generally given their ordinary and customary meaning, which is the meaning that the term would have to a person of ordinary skill in the art at the time of the invention. Phillips v. AWH Corp., 415 F.3d 1303, 1312–13 (Fed.Cir.2005) (en banc) (citations omitted). Claim language must be viewed in light of the specification, which is the “single best guide to the meaning of a disputed term.” Id. at 1315 (quoting Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1582 (Fed.Cir.1996)). In accordance with Phillips, we first look to the actual words of the claims and then read them in view of the specification. See Akzo Nobel Coatings, 811 F.3d at 1339–40 (citations omitted). Although courts are permitted to consider extrinsic evidence (e.g., expert testimony, dictionaries, treatises), such evidence is generally of less significance than the intrinsic record. Phillips, 415 F.3d at 1317 (citing C.R. Bard, Inc. v. U.S. Surgical Corp., 388 F.3d 858, 862 (Fed.Cir.2004)). Extrinsic evidence may not be used “to contradict claim meaning that is unambiguous in light of the intrinsic evidence.” Id. at 1324. “The construction that stays true *1381 to the claim language and most naturally aligns with the patent’s description of the invention will be, in the end, the correct construction.” Renishaw PLC v. Marposs Societa’ per Azioni, 158 F.3d 1243, 1250 (Fed.Cir.1998).
+ 
+When read in view of the specification, the claims do not permit the expansive construction proposed by Profectus. The term “mountable” is a modifying word in the claims: “mountable picture display” (claims 1, 13, 22, 29, 31); “mountable picture frame” (claims 1, 22, 29); “wall mountable” (claims 6, 13, 22, 31); “desk top mountable” (claims 6, 22). Absent from the claims are words that embrace broader meaning, such as “capable of,” “adapted to,” or “configured to.” The claim language is tailored to, characterizes, and delimits the claimed “picture frame” and “picture display.”
+ 
+The specification confirms the district court’s understanding that being mountable requires having a feature for mounting. In every embodiment disclosed in the specification, the picture display or frame includes a feature for mounting the device to a wall or on a tabletop. For example, for wall mounting, the specification teaches that “[f]rame 10 includes an attachment apparatus 28 which may include hooks, clips, anchors, or equivalents as is known in the art for attaching a picture or other device to a wall.” ’308 Patent col. 5 ll. 45–47. For desk or tabletop mounting, the specification explains that “[f]rame 50 includes a stand 52 and a bar 54 for securing stand 52 to frame 50.” ’308 Patent col. 6 ll. 18–20. The specification does not disclose a bare embodiment in which the picture display or picture frame lacks a feature for mounting. By noting that the picture display or frame must have some intrinsic mounting feature, the district court correctly recognized, consistent with the claim language and specification, that the picture display or frame must include something that may be used for mounting the device. We agree with the district court that Profectus’s dictionary definition does not inform the analysis. We see no reason to depart from the intrinsic record. See, e.g., Cambrian Sci. Corp. v. Cox Commc’ns, Inc., 617 Fed.Appx. 989, 993 (Fed.Cir.2015) (affirming the district court’s claim construction without addressing arguments on extrinsic evidence because “the intrinsic evidence fully determines the proper construction of the contested claim term”).
+ 
+Profectus maintains that requiring a mounting feature reads in a preferred embodiment. We disagree. Profectus fails to pinpoint in the intrinsic record where the patent contemplates a situation where no mounting features exist. The district court’s construction does not preclude the use of external components or accessories; the construction requires merely that a feature exist with the claimed picture display or picture frame for mounting. Such a construction does not read out the adjoining claim terms and still requires the mountable object to be digital picture displays or digital picture frames. The district court did not improperly limit the scope of the invention through claim construction.
+ 
+Profectus cites Thorner to support its proposed claim construction. Thorner, 669 F.3d at 1369 (holding that “flexible” should be given its plain and ordinary meaning and reversing the construction of “capable of being noticeably flexed with ease”). In Thorner, we reversed the district court’s claim construction on the basis that the district court imported an erroneous term of degree. See id. Unlike Thorner, the district court here imposed no such term, leaving open what types of features could be sufficient to be deemed “mountable.” See Profectus, 2014 U.S. Dist. LEXIS 53157, at *15 (rejecting that a feature be *1382 “designed for” mounting, but also noting “the mounting feature [need not] include all components needed to mount the frame or display”). Hence, Thorner supports the district court’s claim construction.
+ 
+We affirm the district court’s claim construction for the term “mountable.”
+ 
+
+SUMMARY JUDGMENT
+Based on its claim construction for the term “mountable,” the district court granted summary judgment of non-infringement. Profectus appeals the grant of summary judgment on grounds that there exists a genuine dispute that the accused devices satisfy the “mountable” limitation. Profectus also contends that the court failed to draw factual inferences in its favor as the non-movant.
+ 
+[15]The infringement inquiry asks if an accused device contains every claim limitation or its equivalent. Papst Licensing GmbH & Co. KG v. Fujifilm Corp. (In re Papst Licensing Digital Camera Patent Litig.), 778 F.3d 1255, 1260 (Fed.Cir.2015) (citation omitted). Summary judgment is appropriate if, after drawing all factual inferences in favor of the non-movant, “the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a).
+ 
+To show that the accused devices meet the “mountable” limitation, Profectus advances two arguments. First, Profectus contends that the district court erred by not permitting a jury to consider whether the size, shape, lightweight nature, and thinness of the accused devices are features for mounting. Profectus maintains that they are because they make the accused devices readily mountable with external accessories, in particular docking stations.2
+ 
+Second, Profectus argues that the jury should have been permitted to consider whether the communication/charging (“communication ports”) of the accused devices are features for mounting. Profectus points to brochures and other marketing materials that advertise the accused devices alongside the docking stations as evidence that the communication ports, when used in combination with the docking stations, are features for mounting. Profectus argues that the district court failed to view this evidence in the light most favorable to it as the non-movant when granting summary judgment of non-infringement.
+ 
+[16]We agree with the district court that under the proper construction, there exists no genuine dispute of material fact that the communication ports and the cited physical characteristics of the accused devices do not meet the “mountable” limitations. The district court properly concluded that the communication ports are features for power, data, and communication, and not inherent features for mounting. That an external component can utilize a communication port to help prop an accused device does not convert the port into an inherent feature for mounting. Indeed, there is no evidence that, standing alone, the communication ports make the accused devices mountable for viewing, as, for example, set out in Figure 4 of the patent. As the brochures and unrebutted expert testimony showed, the docking station has a design that works to support the accused devices, and that solely connecting the docking station to the communication port does not provide adequate support. See, e.g., J.A. 448–50, 656, 677, 769.
+ 
+*1383 Conversely, there is no evidence that the communication ports are developed as inherent features for mounting the devices on a wall or tabletop. To conclude otherwise could render any digital display device susceptible to infringement to the extent an external object can be used to grasp onto any feature of the device that is not related to mounting. This approach to infringement is inapposite to the district court’s construction of “having a feature for mounting,” but is consistent with Profectus’s proposed construction (“capable of being mounted”), which was rejected by the district court in the claim construction process. Under the court’s construction, the feature must be a standalone inherent feature in the device. It is not enough that the feature is “just a feature that could potentially render the frame or display capable of being mounted.” Profectus, 2014 U.S. Dist. LEXIS 53157, at *15 (emphasis in original). Here, no reasonable jury could find that because the communication port is incidentally capable of being used in conjunction with an external docking port to prop a device on a tabletop, the “mountable” limitation is met. See, e.g., Novatek, Inc. v. Sollami Co., 559 Fed.Appx. 1011, 1025 (Fed.Cir.2014) (“Anything with adequate force can be ‘removable,’ but such unbounded interpretation of the term flounders on the shoals of reality. No reasonable jury would find ‘removable’ as construed by the district court to read on Novatek’s accused device.”).
+ 
+Although certain intrinsic physical features may combine to aid in mounting with external components, as the district court found, those features must be for mounting to meet the claim limitations. Hence, while the accused devices are capable of mounting by exploiting the communication ports and being easy to prop up due to their size and weight, we conclude that those characteristics do not make the accused devices mountable as claimed and fail to raise a genuine dispute of material fact as to whether features for mounting (or their equivalents) are present within the accused devices. There is no genuine dispute of fact that the accused devices were conceived apart from external accessories like docking stations: the docking stations were designed to work with the accused devices (not that the devices were designed to have features for mounting to the docking stations). Unrebutted testimony showed that the shape of the accused devices had little to do with the ability to mount the devices on docking stations. J.A. 1218. Rather, if the accused devices remained upright, it is because the docking stations created an environment to prevent featureless devices from toppling over.
+ 
+We affirm the district court’s grant of summary judgment.
+ 
+
+CONCLUSION
+The district court correctly construed the term “mountable.” In addition, the district court correctly concluded that no genuine dispute of material fact exists, and that Defendants are entitled to judgment of non-infringement as a matter of law. The judgment of the district court is therefore affirmed.
+ 
+AFFIRMED
+ 
+
+COSTS
+Each party shall bear its own costs.
+ 
+
+Moore, Circuit Judge, dissenting.
+
+I agree with the majority that the district court correctly construed the term “mountable” as “having a feature for mounting.” Because I think Profectus has proffered sufficient evidence to create a genuine issue of whether the communication ports are a feature for mounting, I would vacate summary judgment of non- *1384 infringement as to Apple, Dell, Motorola, and Samsung.1
+ 
+On a motion for summary judgment, a district court must view the evidence in the light most favorable to the non-movant, and draw all reasonable inferences and resolve all doubts over factual issues in favor of the non-movant. Meyer Intellectual Props. Ltd. v. Bodum, Inc., 690 F.3d 1354, 1366 (Fed.Cir.2012). The record evidence, when viewed in the light most favorable to Profectus, raises a genuine dispute over whether the Appellees’ communication ports are a feature for mounting. Each accused device, commonly referred to as a tablet, has a compatible dock on which the tablet can be mounted and stay upright. Each accused device also has a communication port on the bottom, which connects to the compatible dock’s connector when the tablet is mounted. To mount a Samsung tablet to its dock, Samsung’s 2011 Series 7 Slate User Guide instructs a user to align the connector on the dock with the communication port on the bottom of the tablet, and connect them. J.A. 1307. Apple’s iPad user guide discloses using an iPad as a picture frame “while charging it in an iPad Dock.” J.A. 1261. The record includes testimony that the docks are designed to mate with the ports in the accused devices and that the tension between the two connectors holds the tablet in place on the dock. J.A. 1217–18. Given this evidence, a reasonable jury could have found that the communication ports, which fit to the dock’s connectors, are features for mounting.
+ 
+The majority relies on the following undisputed facts for its position that summary judgment was appropriate: (i) the ports can be used without the docks, namely, for power, data, and communication, (ii) there was no evidence that the communication ports were developed as inherent features for mounting, and (iii) solely connecting the docking station to the communication port does not provide adequate support. Maj. Op. at 1382–83. These facts do not call for summary judgment.
+ 
+First, the construction does not require having a feature that is exclusively for mounting. The fact that the communication ports can be used for charging does not mean they cannot serve additional functions. Indeed, Appellees admit that the communication ports have at least two features. Appellees’ Br. 3 (“[The] ports are features for charging and transferring information ....” (emphasis added)). Here, the record on summary judgment includes evidence that the communication ports function to charge, transfer information, and mount the accused devices on the docking station. See, e.g., J.A. 1217–18, 1261, 1307. This creates a genuine issue of fact regarding whether the communication ports are a feature for mounting and thus I would not have affirmed the grant of summary judgment.
+ 
+Second, the manufacturers’ intent behind the design or purpose of the communication ports is irrelevant to the question of infringement, and the district court properly eliminated the requirement that the feature must be “designed for” mounting. Apparatus claims “recite features of an apparatus either structurally or functionally.” In re Schreiber, 128 F.3d 1473, 1478 (Fed.Cir.1997). Intent behind a product design is not an element of direct infringement for an apparatus claim. The majority’s reliance on the fact that the accused devices were “conceived apart from external accessories” and not “designed to have features for mounting” is *1385 inconsistent with the district court’s construction, which eliminated the “designed for” requirement. Maj. Op. at 1383.
+ 
+Finally, the majority places significant weight on the fact that the communication ports, standing alone, do not make the accused devices mountable for viewing. The specification expressly contemplates the use of additional parts to achieve mounting, such as screws or nails. ’308 patent, col. 5 ll. 45–47. And the district court allowed for additional elements or structures to be used to achieve mounting. Profectus Tech. LLC v. Huawei Techs. Co., Ltd., No. 6:11–cv–474, 2014 WL 1575719, at *4 (E.D. Tex. Apr. 17, 2014) (“[T]he Court does not go so far as to require that the mounting feature include all components needed to mount the frame or display.”). The Appellees argue that Profectus’ expert conceded that he had done no mechanical analysis on how much of the weight of the device is supported by the rest of the dock as opposed to the particular connector. Appellees’ Br. 40 (citing J.A. 490:8–13). However, the district court’s construction neither requires such mechanical analysis nor that the feature be “a standalone inherent feature,” Maj. Op. at 1382–83. Determining whether the communication ports are features for mounting, and the extent or degree to which they serve this function, is for the finder of fact.
+ 
+“[T]he weighing of the evidence[ ] and the drawing of legitimate inferences from the facts are jury functions, not those of a judge....” Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986). Accordingly, I respectfully dissent from the majority’s affirmance of summary judgment as to Apple, Dell, Motorola, and Samsung.
+ 
+All Citations
+823 F.3d 1375, 119 U.S.P.Q.2d 1188
+Footnotes
+
+1
+
+Profectus initially sued a large number of defendants, and settled or dismissed its claims against many of them. The following parties are subject to this appeal: Apple Inc., Dell Inc., Hewlett-Packard Company, Hewlett-Packard Development Company, L.P., Motorola Mobility LLC, Samsung Electronics America, Inc., and Samsung Telecommunications America, LLC (collectively, “Defendants”).
+
+2
+
+Profectus concedes that its infringement theory involving docking stations does not apply to Hewlett-Packard. Appellant’s Br. at 26 n.4.
+
+1
+
+Because HP’s products at issue do not have a communication port, I agree that summary judgment of non-infringement is appropriate as to HP.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

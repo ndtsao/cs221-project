@@ -1,0 +1,179 @@
+
+
+ 
+
+
+JPMorgan Chase Bank, N.A. v. Winget
+United States Court of Appeals, Sixth Circuit. | February 6, 2017 | 678 Fed.Appx. 355 | 2017 WL 477960
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+JPMorgan Chase Bank, N.A. v. Winget, 678 F. App’x 355 (6th Cir. 2017)
+
+All Citations:
+
+678 Fed.Appx. 355
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Michigan
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+678 Fed.Appx. 355
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 6th Cir. Rule 32.1.
+United States Court of Appeals,
+Sixth Circuit.
+JPMORGAN CHASE BANK, N.A., Plaintiff-Appellee,
+v.
+Larry J. WINGET and The Larry J. Winget Living Trust, Defendants-Appellants.
+No. 15-1924
+|
+Filed February 06, 2017
+Synopsis
+Background: Administrative agent, as representative for group of commercial lenders that included agent, sued two guarantors, namely, owner of debtor limited liability company (LLC) and owner’s living trust, after debtor defaulted on credit agreement and went into bankruptcy, seeking to enforce guaranty and two pledge agreements executed in connection with agent’s forbearance in exercising its rights as creditor upon default by debtor under credit agreement. Trust counterclaimed for reformation of guaranty to cap its liability to same extent as owner’s liability. The United States District Court for the Eastern District of Michigan, Avern Cohn, J., 901 F.Supp.2d 955, entered judgment for trust and reformed guaranty, 2013 WL 4482961, granted agent summary judgment on owner’s enforceability and delay defenses, 2013 WL 6768606 and 2014 WL 320686, entered final judgment for agent, and, 2014 WL 86239 and 2014 WL 86815, denied guarantors’ motion for sanctions against agent’s attorneys. Appeal was taken. The Court of Appeals, Griffin, Circuit Judge, 602 Fed.Appx. 246, determined that the parties did not make a mutual mistake warranting reformation of guaranty, and remanded with instructions to enter judgment on behalf of agent. The District Court did so, and guarantors appealed based on the new legal theory of judicial estoppel.
+ 
+[Holding:] The Court of Appeals, Batchelder, Circuit Judge, held that its instructions to enter judgment on behalf of agent left no room for district court to expand its inquiry to the judicial estoppel defense.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Federal CourtsPowers, Duties, and Proceedings of Lower Court After Remand
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(L)Determination and Disposition of Cause
+170Bk3797Powers, Duties, and Proceedings of Lower Court After Remand
+170Bk3798In general
+
+
+Appellate court’s instructions in remand order requiring district court to enter judgment on behalf of administrative agent that was representing commercial lenders in suit against guarantors left no room for the district court to expand its inquiry to include a new judicial estoppel defense.
+Cases that cite this headnote
+
+
+
+*356 ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF MICHIGAN
+Attorneys and Law Firms
+Kendra Lee Stead, James Ducayet, Jessica Tagatz Fitzpatrick, Sidley Austin, Chicago, IL, for Plaintiff-Appellee
+John E. Anding, Thomas V. Hubbard, Drew, Cooper & Anding, Grand Rapids, MI, John J. Bursch, Bursch Law, Caledonia, MI, Conor Brendan Dugan, Warner, Norcross & Judd, Grand Rapids, MI, for Defendants-Appellants
+BEFORE: KEITH, BATCHELDER, and CLAY, Circuit Judges.
+Opinion
+ALICE M. BATCHELDER, Circuit Judge.
+
+Before us is the latest episode in a long-running saga that must now come to a close. JPMorgan Chase Bank, N.A. (“Chase”) seeks to recover millions of dollars owed to it under a credit agreement between Chase and entities owned and operated by Larry J. Winget (“Winget”). Some assets of these entities are held by The Larry J. Winget Living Trust (the “Trust”). The district court reformed the credit agreement, making the Trust’s exposure coextensive with Winget’s. We reversed, holding that the unambiguous terms of the contract did not support that limitation. See JPMorgan Chase Bank, N.A. v. Winget, 602 Fed.Appx. 246, 258–59 (6th Cir. 2015). We remanded with instructions to enter judgment on behalf of Chase, and the district court did so. Despite our clear order, Winget and the Trust now assert a new legal theory in an effort to avoid their liability. This attempt must fail, because our prior mandate foreclosed the argument they now seek to make. The district court did not err in interpreting our mandate, so we AFFIRM its judgment.
+ 
+
+I.
+A.
+This is not the first time this case has been before this court. See JPMorgan Chase Bank, N.A. v. Winget, 602 Fed.Appx. 246 (6th Cir. 2015). For purposes of this appeal, we will summarize the pertinent facts and procedural history underlying this earlier decision.
+ 
+In 1999, Venture Holdings Company, LLC (“Venture”), an entity formed and controlled by Winget, obtained $450 million to finance the purchase of a company in Europe. Chase served as administrative agent for a number of lenders who contributed to the loan. The acquired company became insolvent, however, triggering certain default and acceleration clauses in the credit agreement. To avoid Venture’s default, the parties negotiated the Eighth Amendment to the credit agreement. As we previously explained:
+*357 In October 2002, the parties’ respective obligations under the amended agreement were codified into four documents: The Eighth Amendment, a Guaranty Agreement (“Guaranty”), and two Pledge Agreements.
+The opening paragraph of the Guaranty described both Winget personally and the Trust collectively as “the ‘Guarantor.’ ” Section 3 of the Guaranty contained the following provisions:
+[T]he Guarantor hereby absolutely and unconditionally guarantees, as primary obligor and not as surety, the full and punctual payment ... and performance of the Secured Obligations, including without limitation any such Secured Obligations incurred or accrued during the pendency of any bankruptcy, insolvency, receivership, or other similar proceeding....
+* * *
+Notwithstanding anything herein or elsewhere to the contrary, no action will be brought for the repayment of the Guaranteed Obligations under this Guaranty and no judgment therefor will be obtained or enforced against Larry Winget other than with respect to the Pledged Stock [described in the Pledge Agreements] in accordance with provisions of the related pledge agreements....
+Critically, although Section 3 specifically mentions that Winget’s personal exposure is limited, it does not mention the Trust at all.
+Id. at 249 (alterations in original). Among other things, the pledge agreements mentioned in the above quotation “granted the lenders security interests in the stock” of entities controlled by Winget.
+ 
+Whether the parties intended Section 3 of the Guaranty to limit the Trust’s liability became a key dispute later in the lawsuit and was an issue we addressed at length in the previous appeal.
+ 
+In March 2003, Venture filed for Chapter 11 bankruptcy, triggering a default under the Eighth Amendment. The bankruptcy court entered a sale order pursuant to § 363 of the Bankruptcy Code in April 2005. Following the sale, approximately $375 million of Venture’s debt remained outstanding under the credit agreement.
+ 
+In 2008, Chase commenced this action, suing on the “full amount of the Guaranteed Obligations.” Counts I and II sought to enforce the Guaranty against the Trust and Winget, respectively. Count III sought to enforce the pledge agreements against both Winget and the Trust. After a failed motion for judgment on the pleadings, Winget and the Trust responded by asserting affirmative defenses, including one for judicial estoppel, and a counterclaim to reform Section 3 of the Guaranty to limit Chase’s recovery under the Guaranty to $50 million from Winget and the Trust.
+ 
+Eventually, the parties filed cross-motions for summary judgment—Chase on its claims against the Trust and Winget, and Winget and the Trust on their reformation counterclaim. The district court denied Chase’s motion, and Winget and the Trust withdrew their motion. The counterclaim for reformation went to a bench trial, and the district court found that the parties had made a mutual mistake in not adding the Trust to Section 3. Explaining that it had the “power to correct” the mistake, id. at 252, the district court reformed the agreement to read that “no action will be brought for the repayment of the Guaranty Obligations under this Guaranty and no judgment therefore ... will [sic] obtained or enforced against Larry Winget and The Larry J. Winget Living Trust other than with respect to the Pledged Stock.”
+ 
+*358 Later in the proceedings below, the court granted summary judgment for Chase on two defenses that Winget and the Trust had raised regarding Counts II and III. At this point, Chase moved for entry of final judgment, which the district court granted, because “there remain[ed] no factual issues for trial and no defenses to judgment.” In its order, the district court reiterated its reformation decision and entered judgment against each of Winget and the Trust for approximately $425 million, while limiting recourse to the terms of the reformed Guaranty.
+ 
+The parties filed cross-appeals, with Chase arguing that the district court erred in reforming “the parties’ agreement to make the Trust’s exposure coextensive with Winget’s.” Id. at 255. Applying Michigan contract law, we reversed that decision, because the terms of the contract were not ambiguous and there was no mutual mistake that justified the equitable remedy of rescission. Id. at 255–59. We therefore concluded that
+The agreement executed by Winget, the Trust, and Chase “reflect[ed] the parties’ intent as a matter of law,” and contrary to the district court’s conclusion, the parties did not agree to treat Winget and the Trust as one and the same. Rather, the plain text of Section 3 names Winget, and only Winget, as having limited exposure. The district court’s decision to rewrite the parties’ agreement to add a term must be reversed. We therefore remand this case to the district court with instructions to enter judgment on behalf of Chase on Count I of Chase’s complaint, consistent with our holding.
+Id. at 258–59 (alteration in original) (citation omitted).
+ 
+
+B.
+On remand, Winget and the Trust sought to avoid this increased exposure by asserting an affirmative defense of judicial estoppel, which had lain dormant throughout this case. After careful review of the record, we find that Winget and the Trust did not pursue this defense at any time from its initial inclusion in their Answer until a member of the previous panel of this court raised it during oral arguments. Below, we summarize the events underlying the judicial estoppel claim, the question asked during oral arguments, and the issue raised in the district court leading to the present appeal.
+ 
+
+1.
+In this appeal, Winget argues that Chase should be judicially estopped from seeking the full amount of the Guaranty from the Trust based on a representation made to the bankruptcy court during the Chapter 7 bankruptcy proceedings of NM Holdings (a successor to Venture). There, Chase, as agent for the Senior Lenders, moved for relief from the automatic stay in order to recover $3.5 million held by the estate, which Chase claimed as collateral. Chase argued that the estate had no equity in this collateral due to a $350 million deficiency under the Credit Agreement. The bankruptcy court held a hearing on September 13, 2006.
+ 
+During the hearing, Chase told the court that Venture would still owe a deficiency even after combining all the sources of repayment to which Chase had a security claim. Winget and the Trust quote a representation by Chase’s counsel to the Bankruptcy Court:
+Your Honor is aware and the settlement agreement reflects the fact that the ... pre-petition senior lenders have a limited recourse guarantee against stock interests, equity interests in South Africa, Venture South Africa and Australia. Those are entities owned by Mr. Winget *359 and the pre-petition senior lenders have the right to enforce against those stock pledges for the maximum amount of $50,000,000. And those guarantees are the subject of litigation and are pending in District Court here in—here in Michigan.... Bottom line, Your Honor, by our calculation ... if the senior lenders succeed in collecting the full $50,000,000 on their guarantees against South Africa and Australia, and we do believe we will collect that $50,000,000, and if tax refunds in the neighborhood of a few hundred thousand dollars are collected, and if it is also determined that the pre-petition lenders have valid liens on each of these categories of property because that has not been conceded by the trustee, we would recover approximately $148,000,000 ... leaving a deficiency of two hundred and twenty-eight million, nine hundred and some thousand....
+The bankruptcy court lifted the stay.
+ 
+
+2.
+During oral arguments for the earlier appeal, Winget and the Trust’s attorney referred to this statement to the bankruptcy court. The attorney characterized the statement as follows: “[Chase] said they held only a limited guaranty of $50 million.” At this point, we asked, “Isn’t that judicial estoppel?” Winget and the Trust’s attorney stated that it should be “the end of the discussion” because it “is certainly potentially a fraud on the court.” Chase’s attorney replied by arguing that the statement was about the amount it could “recover if we execute[d] on all the collateral.” He continued, “[T]here’s an unlimited full recourse guaranty but you don’t know what the Trust owns. What you have is ... a pledge of the assets, and that pledge can be canceled for $50 million bucks. So the most conservative statement of what they could recover was $50 million and that’s what they always used.” He also explained that in the context of the bankruptcy proceeding, the question before the court was not about the Guaranty’s meaning, but rather about the $50 million value of the pledge securing the Guaranty.
+ 
+Finally, at the end of oral arguments, Chase’s counsel explained that judicial estoppel had not been raised in the district court and that it was not an issue on appeal. The former point is not quite accurate, as Winget and the Trust had raised the affirmative defense in their Answer, but we think that—as we explain in the next paragraph—the supplemental briefing adequately corrected any misunderstanding. The latter point is quite accurate and, we think, explains why we did not address judicial estoppel in our prior opinion.
+ 
+Following oral arguments, Winget and the Trust sought permission to file supplemental briefing on judicial estoppel. Chase opposed the request, but we allowed Winget and the Trust to file the supplemental brief. The brief alerted us to (1) the fact that Winget and the Trust had asserted the affirmative defense in their Answer and (2) the nature of the statement made by Chase’s counsel in the bankruptcy hearing. But we mentioned neither the supplemental briefing nor judicial estoppel in our opinion reversing the district court and remanding for entry of judgment.
+ 
+
+3.
+On remand, Winget and the Trust moved to invoke judicial estoppel to prevent Chase from seeking more than $50 million in damages, while Chase filed a motion for entry of an amended final judgment. The district court granted Chase’s motion and denied the motion for estoppel. The court explained that “defendants are attempting to seek relief that is contrary to the Sixth Circuit’s decision. The [c]ourt *360 at this stage in the case is limited to entering a judgment in plaintiff’s favor on Count I.” Recognizing that we did not specify the amount for which to enter judgment in favor of Chase, the district court added that “it was not necessary to do so in order to resolve the issue of reformation.” Indeed, the district court pointed to our recognition “that [our] decision allowed for recovery to the full extent of the Guaranteed Obligations—i.e., more than $50 million—against the Winget Trust.”
+ 
+The district court also concluded that “[h]ad the Sixth Circuit intended the ... consideration of [Winget’s and the Trust’s] judicial estoppel defense,” we would have said so. It explained that their request for post-argument supplemental briefing and our decision not to mention judicial estoppel were together sufficient to show that we had rejected the estoppel argument by implication. The district court denied the motion to judicially estop Chase from seeking damages over $50 million, granted Chase’s motion for entry of an amended final judgment, and entered final judgment. After a motion for rehearing was denied, Winget and the Trust timely appealed.
+ 
+
+II.
+Having reviewed the facts underlying this dispute and its procedural history, we now turn to the issue on appeal. Winget and the Trust contend that our earlier decision left an opening for the district court to consider their judicial estoppel defense because it had not yet been adjudicated. Chase responds that the mandate was clear and did not give the district court the discretion to entertain the defense. For the following reasons, we agree with Chase and hold that the district court correctly interpreted our mandate.
+ 
+We review de novo the interpretation of our mandates. United States v. Parks, 700 F.3d 775, 777 (6th Cir. 2012). “Traditionally, the mandate rule instructs that the district court is without authority to expand its inquiry beyond the matters forming the basis of the appellate court’s remand.” United States v. Campbell, 168 F.3d 263, 265 (6th Cir. 1999). If the circuit court wishes to remand with limited instructions, the court “must sufficiently outline the procedure the district court is to follow. The chain of intended events should be articulated with particularity.” Id. at 268. In reviewing whether a district court complied with a mandate, the court examines the entirety of the previously entered opinion to determine whether and how the appellate court limited the remand. See Carter v. Mitchell, 829 F.3d 455, 463 (6th Cir. 2016).
+ 
+We have reviewed our previous opinion and find no error in the district court’s interpretation of the opinion’s mandate. Our instructions to enter judgment on behalf of Chase left no room for the district court “to expand its inquiry” to the judicial estoppel defense. Campbell, 168 F.3d at 265. At two points, we clearly stated that entry of judgment was appropriate and gave the district court a specific instruction to do so. See Winget, 602 Fed.Appx. at 259 (“We therefore remand this case to the district court with instructions to enter judgment on behalf of Chase on Count I of Chase’s complaint, consistent with our holding.”); id. at 266 (“As for Chase’s claim regarding the district court’s reformation decision, we reverse the judgment of the district court and remand with instructions to enter judgment in favor of Chase on Count I of Chase’s complaint.”). The mandate simply left no leeway for the district court to conduct any further proceedings or to consider any additional arguments. Although we do not go so far as to say that the post-argument supplemental briefing *361 properly placed the judicial estoppel argument before us in that first appeal, we do think that the briefing alerted us to the issue. If we had wanted the district court to consider it, we would have said so. The district court properly interpreted our order as an instruction to enter judgment on behalf of Chase on its claim against the Trust without further proceedings.
+ 
+Beyond the clear remand language, the substance of our prior opinion bolsters this conclusion. First, we not only reversed the district court’s reformation decision on Count I, we also affirmed the entry of judgment on Counts II and III. An affirmance of judgment on those counts coupled with an instruction to enter judgment on Count I leads to the inescapable conclusion that we intended our prior opinion to be the last word in this matter, aside from an amendment to the entry of judgment. Second, as the district court recognized, our reversal of the reformation decision specifically “allowed for recovery to the full extent of the Guaranteed Obligations—i.e., more than $50 million—against the Winget Trust.” Winget, 602 Fed.Appx. at 259. Our decision did not reverse the amount of liability; it reversed only the limitation on Chase’s recourse as to that liability. Winget’s and the Trust’s liability had already been determined by the district court’s previous entry of judgment, so the remand was to require the district court to amend the judgment to remove the improper limitation on Chase’s ability to collect.
+ 
+Finally, we note that Winget and the Trust had the opportunity to raise the judicial estoppel defense at various stages of this litigation. Indeed, the record indicates that they referred to these facts in their motion for summary judgment on Count I of the complaint and Count I of the counterclaim, which was later withdrawn; their opposition to Chase’s motion for summary judgment on Count I of the Complaint and Count I of the Counterclaim; and their brief in the earlier Sixth Circuit appeal. Although they referenced these facts, they never asserted the judicial estoppel defense. For this reason, Winget’s and the Living Trust’s reliance on Exxon Chemical Patents, Inc. v. Lubrizol Corp., 137 F.3d 1475 (Fed. Cir. 1998), is unavailing. In Exxon, a patent infringement suit, the plaintiff asserted two theories of claim construction until a court ruling rendered one moot. When that ruling was reversed by the Federal Circuit, the district court did not allow a new trial on remand. On appeal, the Federal Circuit reversed and explained that the theory was no longer moot and “became a critical issue in the case only after” the first appeal. Id. at 1479. Here, by contrast, no decision by the district court ever rendered the judicial estoppel claim moot, nor did judicial estoppel become critical only after we reversed the district court’s initial reformation decision. Winget and the Trust relied on the facts underlying the affirmative defense while letting the affirmative defense itself languish on the pages of their answer. We are left with the conclusion that Winget and the Trust decided—either intentionally or inadvertently—not to pursue the judicial estoppel claim until a member of our court raised it in a question.
+ 
+
+III.
+For these reasons, we AFFIRM the judgment of the district court.
+ 
+All Citations
+678 Fed.Appx. 355
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

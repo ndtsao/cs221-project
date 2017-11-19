@@ -1,0 +1,204 @@
+
+
+ 
+
+
+Deutsche Bank AG v. JPMorgan Chase Bank
+United States Court of Appeals, Second Circuit. | May 29, 2009 | 331 Fed.Appx. 39 | 2009 WL 1505145
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Deutsche Bank AG v. JPMorgan Chase Bank, 331 F. App’x 39 (2d Cir. 2009)
+
+All Citations:
+
+331 Fed.Appx. 39, 2009 WL 1505145
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+331 Fed.Appx. 39
+This case was not selected for publication in the Federal Reporter.
+United States Court of Appeals,
+Second Circuit.
+DEUTSCHE BANK AG, Plaintiff-Counter-Claimant-Defendant-Appellant,
+v.
+JPMORGAN CHASE BANK, formerly known as The Chase Manhattan Bank, Defendant-Counter-Claimant-Plaintiff-Appellee.
+No. 07-4822-cv.
+|
+May 29, 2009.
+Synopsis
+Background: Lender bank brought action against second lender bank, alleging that it breached the terms of an amended and restated credit agreement by failing to fulfill its contractual obligation to fund its share of a borrowing request. The United States District Court for the Southern District of New York, Sidney H. Stein, J., 2007 WL 2823129, granted summary judgment to plaintiff bank on the breach of contract claim and approved its proposed distribution of borrower’s repayments. Defendant bank appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] bankruptcy court order extinguishing creditor rights relating to claims arising from borrower’s lawsuit against defendant bank was not entitled to res judicata effect;
+ 
+[2] borrower did not default, so as to absolve defendant bank of its funding obligations; and
+ 
+[3] proposed distribution of repayments, which calculated proportionate shares by reference to lender banks’ advance obligations rather than their actual advances, was proper.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+JudgmentScope of Adjudication
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(A)Judgments Operative as Bar
+228k563Scope of Adjudication
+228k563(1)In General
+
+
+Bankruptcy court order extinguishing creditor rights relating to claims arising from borrower’s lawsuit against lender bank was not entitled to res judicata effect in subsequent action for breach of contract brought against lender bank by another bank, since the bankruptcy court did not restrict litigation of inter-bank dispute outside of borrower’s bankruptcy.
+Cases that cite this headnote
+
+
+
+[2]
+
+ContractsLoans and Advances
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k194Loans and Advances
+
+
+Since borrower’s alleged misrepresentations targeting future expectations of indefinite events were not actionable under New York law, they did not constitute a default by borrower that would absolve lender bank of its funding obligations under credit agreement, and bank’s failure to fulfill its contractual obligation to fund its share of a borrowing request constituted a breach of that agreement.
+Cases that cite this headnote
+
+
+
+[3]
+
+ContractsLoans and Advances
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k194Loans and Advances
+
+
+Proposed distribution of repayments to lenders under credit agreement, which calculated proportionate shares by reference to each lender bank’s advance obligations rather than their actual advances, was proper under terms of the agreement.
+Cases that cite this headnote
+
+
+
+[4]
+
+ContractsLoans and Advances
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k194Loans and Advances
+
+
+Borrower’s release of lender bank from its obligation to pay $127,500,000 revolver advance constituted a “repayment” that had to be divided proportionately under credit agreement between multiple lenders.
+Cases that cite this headnote
+
+
+
+*40 Appeal from the United States District Court for the Southern District of New York (Sidney H. Stein, Judge ).
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the district court, entered on September 27, 2007, is AFFIRMED.
+Attorneys and Law Firms
+Steven G. Kobre (Leif T. Simonson, on the brief), Kobre & Kim LLP, New York, NY, for Appellant.
+Frank H. Wohl (Charles T. Spada, Ilizabeth Gonchar Hempstead, Jeannie Rose Rubin, on the brief), Lankler Siffert & Wohl LLP, New York, NY, for Appellee.
+PRESENT: REENA RAGGI, Circuit Judge and JANE A. RESTANI, Judge.1
+
+
+SUMMARY ORDER
+**1 Appellant Deutsche Bank AG appeals from an award of summary judgment to JPMorgan Chase Bank (“JPMorgan”) declaring that (1) Deutsche Bank breached the terms of an amended and restated credit agreement, executed on September 24, 2001, (“the Credit Agreement”) by not fulfilling its contractual obligation to fund its share of Genuity, Inc.’s July 2002 borrowing request (“the Revolver Advance”); and (2) JPMorgan’s proposed distribution of approximately $47 million in Genuity repayments, which seeks to distribute funds to the lender banks in a manner that accounts for Deutsche Bank’s breach, is proper under the terms of the Credit Agreement. At the outset, we note that the district court issued an extremely thorough and thoughtful opinion in conjunction with the challenged order. While we review the district court’s summary judgment rulings de novo, see Sledge v. Kooi, 564 F.3d 105, 108 (2d Cir.2009), our independent review leads us to reach the same conclusion as the district court largely for the reasons detailed in that opinion. Thus, we affirm summarily, assuming the parties’ familiarity with the facts and procedural history of this case, which we reference only as necessary to explain our decision.
+ 
+
+1. Deutsche Bank Breached Its Obligation to Fund the Revolver Advance
+[1] Deutsche Bank submits that the district court erred in concluding as a matter of law that it breached its obligation to fund the Revolver Advance. Specifically, it identifies error in the district court’s failure (1) to give res judicata effect to a bankruptcy court order extinguishing creditor rights relating to “claims or issues” arising from Genuity’s lawsuit against Deutsche Bank, and (2) to recognize material issues of fact respecting breach. Both arguments lack merit and *41 warrant little discussion beyond that provided in the district court opinion.
+ 
+
+a. Res Judicata
+Deutsche Bank’s res judicata argument rests on a misconstruction of the relevant bankruptcy order. As the district court correctly observed, the bankruptcy court’s extinguishment of creditor rights was confined to “objections, defenses, counterclaims and other rights” relating to Deutsche Bank’s filing of a $172,000,000 “general unsecured claim” in Genuity’s bankruptcy case. Order Granting Debtors’ Emergency Motion for Order Under 11 U.S.C. § 363 and Fed. R. Bankr.P. 9019 Approving a Settlement Agreement with Deutsche Bank AG at 2 ¶ 3, In re: Genuity Inc., No. 02-43558 (Bankr.S.D.N.Y. Jan. 23, 2003). The bankruptcy court did not, however, restrict litigation of Deutsche Bank’s alleged breach outside Genuity’s bankruptcy. To the contrary, the bankruptcy record clearly indicates the court’s expectation that the inter-bank dispute concerning distribution would be litigated elsewhere, prompting it to order the challenged distribution to be made to the agent (JPMorgan) rather than to the lending banks directly. See Bankr.Tr. at 109-10 (“While certainly Deutsche Bank had a right to file a separate claim, this Court can and will direct that the dividend by paid exclusively to the agent; and if Deutsche Bank finds itself aggrieved by that result because it believes the agent will make a distribution in a fashion that it believes is inappropriate, it certainly has a number of court remedies that it may take to deal with that.”).
+ 
+**2 As a matter of law, this record cannot support Deutsche Bank’s invocation of res judicata.
+ 
+
+b. Breach
+Nor does the record indicate material issues of fact respecting breach. The undisputed evidence-accurately detailed by the district court-demonstrated that Verizon had not formally canceled its reintegration option at the time that Genuity requested the Revolver Advance. Deutsche Bank concedes as much in its appellate brief. See Appellant’s Br. at 54. Nor does the evidence show that Genuity knew before July 24 of Verizon’s intent to cancel. Even Deutsche Bank’s best evidence on this point-its “smoking gun,” id. at 56-indicates that Genuity did not “know what Verizon is going to do.” Funding Analysis at 1, attached as exhibit to July 3, 2002 email from Roger Kuebel to Dan O’Brien.
+ 
+[2] Deutsche Bank suggests that a material issue of fact is presented as to the bona fides of Genuity’s stated reason for seeking the Revolver Advance, i.e., to reassure its customers of its financial stability. Deutsche Bank points to the affidavit of Genuity’s treasurer, which states that the advance was sought as an “ ‘insurance policy’ ” to protect against the possibility of Verizon exercising its cancellation option. Aff. of Roger A. Kuebel, Mar. 21, 2006, at 3 ¶ 12. Like the district court, we conclude that completeness demands that this statement be read in conjunction with a clarifying one, in which the same treasurer states that Genuity decided to make the July 2002 draw “to demonstrate [its] financial stability and show cash on [its] balance sheet,” noting further that the treasurer “believed at the time, and still believe[s], that was a true and valid reason.” Aff. of Roger A. Kuebel, June 8, 2006, at 3 ¶ 9. The second statement does not contradict the first; rather, it furnishes Genuity’s business reason for seeking an “insurance policy” mindful of the possibility-not the fact-that Verizon could cancel its option. Under New York law, alleged misrepresentations targeting “future expectations” *42 of indefinite events are not actionable. 88 Blue Corp. v. Staten Builders Co., 176 A.D.2d 536, 538, 575 N.Y.S.2d 11, 13 (1st Dep’t 1991); accord Transit Mgmt., LLC v. Watson Indus., Inc., 23 A.D.3d 1152, 1155, 803 N.Y.S.2d 860, 863 (4th Dep’t 2005). Thus, because these statements cannot raise a material issue of fact regarding a default by Genuity that would absolve Deutsche Bank of its funding obligations, we conclude, like the district court, that Deutsche Bank’s breach was established as a matter of law.
+ 
+
+2. JPMorgan’s Proposed Distribution
+Deutsche Bank submits that the plain language of § 2.14 of the Credit Agreement, as read in conjunction with its “sister provision” of § 2.16, yields only one interpretation: that every lender bank-irrespective of the amount it paid in-must be paid out at the same rate. Appellant’s Br. at 32; see also id. at 35. It further contends that JPMorgan’s contractually conferred powers as agent, as embodied in § 7.01 of the agreement, did not authorize it to construe the contract in a different manner. We disagree.
+ 
+**3 [3] Like the district court, we conclude that (1) § 2.14 requires JPMorgan to distribute Genuity’s repayment of advances “ratably”; (2) because the Credit Agreement does not define “ratably,” the term is properly accorded its common meaning of “proportional,” or “proportionate,” see United States ex rel. White v. Knox, 111 U.S. 784, 786, 4 S.Ct. 686, 28 L.Ed. 603 (1884); Black’s Law Dictionary 1289 (8th ed.2004); and, to the extent judgment is called for in determining what constitutes a proportionate share, § 7.01 of the Credit Agreement confers broad discretion on JPMorgan to decide that issue. Nothing in § 2.14 specifically indicates how the parties intended proportionate shares to be calculated in circumstances where some lenders satisfied advance obligations in full and others did so only in part. To the extent Deutsche Bank asserts that JPMorgan abused its discretion in calculating proportionate shares by reference to the lenders’ advance obligations rather than their actual advances, we conclude that § 2.16 necessarily defeats that argument in this case.
+ 
+[4] Section 2.16, by its terms, provides a remedy to all lender banks when any one of them obtains payment “on account of [a] Revolving Credit Advance [ ] ... owing to it ... in excess of its ratable share of payments.” “Payment” in this sense is broadly defined to include an act that is “voluntary, involuntary, through the exercise of any right of set-off, or otherwise.” Credit Agreement § 2.16. This broad definition covers Genuity’s release of Deutsche Bank’s July 2002 funding obligation. First, as our breach holding indicates, Deutsche Bank was obligated to honor the Revolver Advance in the amount of $127,500,000. Second, Genuity conferred valuable consideration to Deutsche Bank-the equivalent of a re-“payment” of the owed $127,500,000 for purposes of § 2.16-when it released the bank from its obligation to pay this amount. It is precisely this type of preferential exchange of monies back and forth between borrower and lender, occurring outside § 2.14(a), that § 2.16 is designed to address and remedy.
+ 
+The challenged distribution properly gives effect to § 2.16 in awarding proportionate payments under § 2.14. Section 2.16 requires a lender receiving an excess payment to “purchase from the other Lending Parties such participations in the Revolving Credit Advances and Letter of Credit Advances owing to them as shall be necessary to cause such purchasing Lending Party to share the excess payment ratably with each of them.” (emphasis added). JPMorgan’s proposed distribution effectuates *43 such a purchase.2 Indeed, Deutsche Bank does not dispute that under JPMorgan’s proposed distribution, each lender bank receives-whether from the agent or from a settlement with Genuity-100% of its Revolver Advance. In short, no bank suffers a loss on this obligation. As to any other loans to Genuity, no bank is made whole; but each bank receives a proportionate amount of the funds available consistent with its rate of contribution.
+ 
+**4 We hold this distribution proposal consistent with the plain language of the Credit Agreement and well within the agent’s discretion.
+ 
+Accordingly, the judgment of the district court is AFFIRMED.
+ 
+All Citations
+331 Fed.Appx. 39, 2009 WL 1505145
+Footnotes
+
+1
+
+The Honorable Jane A. Restani, Chief Judge of the United States Court of International Trade, sitting by designation. Because the Honorable Joseph M. McLaughlin, originally assigned to this panel, is recused from consideration of this appeal, the decision announced in this order has been reached by the panel’s remaining two judges pursuant to Local Rule § 0.14(b).
+
+2
+
+By imputing $127,500,000 to Deutsche Bank as monies effectively paid to Genuity and then paid back to Deutsche Bank, Deutsche Bank can be deemed to have purchased from the other banks the requisite “participations” to ensure that it shares its excess payment “ratably with each of them,” as stated in § 2.16.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

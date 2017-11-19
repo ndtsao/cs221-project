@@ -1,0 +1,118 @@
+
+
+ 
+
+
+Johnson v. JP Morgan Chase Bank
+United States Court of Appeals, Fifth Circuit. | June 4, 2014 | 570 Fed.Appx. 404 | 2014 WL 2506231
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Johnson v. JP Morgan Chase Bank, 570 F. App’x 404 (5th Cir. 2014)
+
+All Citations:
+
+570 Fed.Appx. 404 (Mem)
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+570 Fed.Appx. 404 (Mem)
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 5th Cir. Rules 28.7 and 47.5.
+United States Court of Appeals,
+Fifth Circuit.
+Janice JOHNSON, Plaintiff–Appellant,
+v.
+JP MORGAN CHASE BANK, Successor By Merger to Chase Home Finance, L.L.C., Defendant–Appellee.
+No. 13–41015.
+|
+June 4, 2014.
+Attorneys and Law Firms
+Jack B. Peacock, Jr., Gagnon, Peacock & Shanklin, P.C., Dallas, TX, for Plaintiff–Appellant.
+Marcie Lynn Schout, Esq., William Lance Lewis, Esq., Quilling, Selander, Lownds, Winslett & Moser, P.C., Dallas, TX, for Defendant–Appellee.
+Appeal from the United States District Court for the Eastern District of Texas, USDC No. 4:12–CV–285.
+*405 Before DAVIS, ELROD, and COSTA, Circuit Judges.
+Opinion
+PER CURIAM:*
+
+Appellant Janice Johnson filed suit against JP Morgan Chase Bank (JP Morgan) alleging breach of contract and violations of Texas Debt Collection Act (TDCA) in connection with JP Morgan’s attempt to foreclose on Johnson’s home. The district court granted summary judgment in favor of JP Morgan, and Johnson appealed. We AFFIRM.
+ 
+
+I.
+Johnson obtained a loan to purchase the property located at 5617 Norris Drive, The Colony, Texas 75056 (Property) on November 21, 2001, from Crest Mortgage Company (Crest). The mortgage note was secured by a deed of trust and was assigned to Washington Mutual (WaMu). The note and deed of trust expressly provided that acceleration and foreclosure on Johnson’s loan were subject to any limitations created by Housing and Urban Development (HUD) regulations.
+ 
+In 2002, Johnson was laid off from work and fell behind on her mortgage payments. She ultimately filed for bankruptcy in 2003. In April 2006, Johnson sent WaMu a payment, which WaMu rejected as insufficient to reinstate the loan. WaMu then began foreclosure proceedings against the Property. In response, Johnson filed a lawsuit against WaMu in state court. The suit was stayed when WaMu went into receivership.
+ 
+On March 7, 2012, MERS, as nominee for Crest, assigned “all rights accrued and to accrue under the loan agreement” to JP Morgan. Under the terms of the purchase and assumption agreement between JP Morgan and the FDIC, JP Morgan explicitly did not assume liability for any borrower claims arising from WaMu’s “lending or loan purchase activities.” On April 4, 2012, JP Morgan sent Johnson notice that it would post the Property for a foreclosure sale on May 1, 2012.
+ 
+Johnson then filed suit in this case, and JP Morgan removed to federal court. Johnson asserted that JP Morgan never sent her a notice of its intent to accelerate, or gave her an opportunity to cure any alleged default. On January 11, 2013, JP Morgan filed a motion for summary judgment. The magistrate judge issued a report and recommendation that summary judgment be granted, which was adopted by the district court. Johnson filed a motion to reconsider, which was denied, and then appealed.
+ 
+
+II.
+Johnson argues JP Morgan breached the loan contract by failing to conduct a face-to-face meeting with her and failing to inform her of her assistance options before proceeding with foreclosure. Johnson argues that JP Morgan was required to take these actions because HUD regulation 24 C.F.R. § 203.604(b) was incorporated into the loan contract.1 *406 See Hernandez v. Home Sav. Assoc. of Dall., 606 F.2d 596, 601 (5th Cir.1979) (stating that HUD regulations incorporated into mortgage documents become part of the contract). However, the district court correctly determined that § 203.604(b) is inapplicable to JP Morgan because Johnson was already more than three months in default when JP Morgan acquired the loan.
+ 
+Section 203.604(b) provides: “The mortgagee must have a face-to-face interview with the mortgagor, or make a reasonable effort to arrange such a meeting, before three full monthly installments due on the mortgage are unpaid.” Id. The plain language of the regulation requires the face-to-face meeting before three installments are unpaid. Johnson admits that she was already more than three months behind when the loan was assigned to JP Morgan. As a result, the timing of this particular obligation had already passed when JP Morgan received the loan, and thus the obligation did not apply to JP Morgan.2 Because JP Morgan did not assume any of WaMu’s liabilities, JP Morgan cannot be held responsible for WaMu’s alleged failure to comply with § 203.604(b). Johnson’s breach of contract claim thus fails.
+ 
+
+III.
+Johnson next argues that JP Morgan violated § 392.301(a)(8), which prohibits a debt collector from “threatening to take an action prohibited by law.” Tex. Fin.Code Ann. § 392.301(a)(8). Johnson asserts that JP Morgan did so by violating the HUD regulations, and seeks to recover for her loss of creditworthiness and the stigma of foreclosure; mental anguish and acute psychological trauma; and the value of the time lost attempting to correct JP Morgan’s errors.
+ 
+The magistrate judge determined that the economic loss rule precluded Johnson’s TDCA claim because it was based exclusively on JP Morgan’s alleged violations of the note and deed of trust. The magistrate judge further noted that Texas courts do not ordinarily permit the recovery of mental anguish damages arising from the breach of contractual duties, and found that Johnson failed to “create a fact issue that she incurred the sort of severe mental harm that would entitle her to mental anguish damages.” The district court adopted the magistrate judge’s recommendation and granted summary judgment in favor of JP Morgan on this claim, holding that the economic loss rule barred Johnson’s claims, and that Johnson “cannot offer any evidence that [JP Morgan] threatened any action prohibited by law.” The district court also agreed with the magistrate judge that Johnson had not created a fact issue regarding her alleged mental anguish damages.
+ 
+Johnson argues that the economic loss rule did not bar her claim for mental anguish damages. We need not address the question of whether Johnson’s claim for mental anguish damages is barred because *407 Johnson has failed to create a fact issue demonstrating that JP Morgan has violated or threatened to violate any HUD regulation at issue in this case. See Thompson v. Ga. Pac. Corp., 993 F.2d 1166, 1167–68 (5th Cir.1993) (holding that summary judgment may be affirmed on any grounds supported by the record). As we stated above, JP Morgan did not violate § 203.604(b) of the HUD regulations because this provision did not apply to JP Morgan. In her briefing before this court, Johnson has not demonstrated how JP Morgan has violated any other HUD regulation or otherwise “threaten[ed] to take an action prohibited by law.” Accordingly, we AFFIRM the district court.
+ 
+All Citations
+570 Fed.Appx. 404 (Mem)
+Footnotes
+
+*
+
+Pursuant to 5TH CIR. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5TH CIR. R. 47.5.4.
+
+1
+
+In the proceedings below, Johnson also alleged that JP Morgan violated HUD regulation § 203.606. In response, the district court concluded that this “violation was raised for the first time in the objections and should not be considered by the court.”
+Johnson has waived her § 203.606 claim by failing to brief it on appeal. See Adams v. Unione Mediterranea Di Sicurta, 364 F.3d 646, 653 (5th Cir.2004) (citations omitted). Even if she had not waived this claim, the district court did not abuse its discretion in disregarding this claim as it was not specifically raised in Johnson’s complaint. See Ashcroft v. Iqbal, 556 U.S. 662, 698–99, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009); De Franceschi v. BAC Home Loans Servicing, L.P., 477 Fed.Appx. 200, 204 (5th Cir.2012) (unpublished but persuasive) (citing Cutrera v. Bd. of Supervisors of La. State Univ., 429 F.3d 108, 113 (5th Cir.2005)).
+
+2
+
+Without explanation or argument, Johnson also cites 24 C.F.R. § 203.605, which requires the mortgagor to perform loss mitigation “[b]efore four full monthly installments due on the mortgage have become unpaid.” Even assuming arguendo that Johnson has not waived this argument by failing to adequately brief it on appeal, this regulation is similarly inapplicable here because Johnson was more than four months behind in her payments at the time that JP Morgan acquired her loan.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,704 @@
+
+
+
+
+
+In re TLI Communications LLC Patent Litigation
+United States Court of Appeals, Federal Circuit. | May 17, 2016 | 823 F.3d 607 | 2016 WL 2865693
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Visual Memory LLC v. NVIDIA Corporation, Fed.Cir.(Del.), August 15, 2017
+
+standard Citation:
+
+In re TLI Commc’ns LLC Patent Litig., 823 F.3d 607 (Fed. Cir. 2016)
+
+All Citations:
+
+823 F.3d 607, 118 U.S.P.Q.2d 1744
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Virginia
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Visual Memory LLC v. NVIDIA Corporation, Fed.Cir.(Del.), August 15, 2017
+823 F.3d 607
+United States Court of Appeals,
+Federal Circuit.
+In re TLI COMMUNICATIONS LLC PATENT LITIGATION.
+TLI Communications LLC, Plaintiff–Appellant
+v.
+AV Automotive, L.L.C., Hall Automotive, LLC, Yahoo! Inc., Tumblr, Inc., Twitter, Inc., Pinterest, Inc., Imgur LLC, Shutterfly, Inc., TripAdvisor Inc., TripAdvisory LLC, Snapchat Inc., Capital One Financial Corporation, Capital One, N.A., Capital One Services, LLC, Vine Labs, Inc., Defendants–Appellees
+Apple Inc., Whi Inc., Google, Inc., Facebook, Inc., Instagram, LLC, Yelp, Inc., Dropbox Inc., IAC/InterActiveCorp, CityGrid Media LLC, Vimeo LLC, Defendants.
+Nos. 2015–1372, 2015–1376, 2015–1377, 2015–1378, 2015–1379, 2015–1382, 2015–1383, 2015–1384, 2015–1385, 2015–1417, 2015–1419, 2015–1421.
+|
+May 17, 2016.
+Synopsis
+Background: In related actions consolidated for pretrial purposes in multidistrict litigation, patent owner accused numerous social media website operators of infringing patent relating to method and system for taking, transmitting, and organizing digital images. The United States District Court for the Eastern District of Virginia, T.S. Ellis, III, J., 87 F.Supp.3d 773, granted operators’ motion to dismiss on basis of invalidity. Patent owner appealed.
+ 
+Holdings: The Court of Appeals, Hughes, Circuit Judge, held that:
+ 
+[1] patent was directed to abstract idea of classifying and storing digital images in organized manner,
+ 
+[2] recitation of concrete, tangible components did not bring abstract idea encompassed by patent into realm of patentability.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (13)
+
+
+[1]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+Federal Circuit applies regional circuit law to the review of motions to dismiss for failure to state a claim. Fed.Rules Civ.Proc.Rule 12(b)(6), 28 U.S.C.A.
+4 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsPleading
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3587Pleading
+170Bk3587(1)In general
+
+
+Fourth Circuit reviews challenges to a dismissal for failure to state a claim de novo. Fed.Rules Civ.Proc.Rule 12(b)(6), 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsEligible subject matter
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(2)Patentability and Validity
+291k1970(4)Eligible subject matter
+
+
+Federal Circuit will review de novo a district court’s patent eligibility determination. 35 U.S.C.A. § 101.
+2 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsLaws of nature, natural phenomena, and abstract ideas;  fundamental principles
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k450Exceptions to Eligibility;  Ineligible Subject Matter
+291k452Laws of nature, natural phenomena, and abstract ideas;  fundamental principles
+
+
+Laws of nature, natural phenomena, and abstract ideas are not patentable. 35 U.S.C.A. § 101.
+8 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsLaws of nature, natural phenomena, and abstract ideas;  fundamental principles
+PatentsUse or operation of machine or apparatus as affecting process;  “machine or transformation” test
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k450Exceptions to Eligibility;  Ineligible Subject Matter
+291k452Laws of nature, natural phenomena, and abstract ideas;  fundamental principles
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k455Use or operation of machine or apparatus as affecting process;  “machine or transformation” test
+
+
+To determine patent eligibility, the court must first determine whether the claims at issue are directed to a patent-ineligible concept, such as an abstract idea, and if so, the court must then consider the elements of each claim both individually and as an ordered combination to determine whether the additional elements transform the nature of the claim into a patent-eligible application. 35 U.S.C.A. § 101.
+45 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsLaws of nature, natural phenomena, and abstract ideas;  fundamental principles
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k450Exceptions to Eligibility;  Ineligible Subject Matter
+291k452Laws of nature, natural phenomena, and abstract ideas;  fundamental principles
+
+
+When performing a patent eligibility analysis, to determine whether the patent claims at issue are directed to an abstract idea, requires the court to be careful to avoid oversimplifying the claims because, at some level, all inventions embody, use, reflect, rest upon, or apply laws of nature, natural phenomena, or abstract ideas. 35 U.S.C.A. § 101.
+45 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k462Business methods;  Internet applications
+
+
+Patent relating to method and system for taking, transmitting, and organizing digital images was directed to abstract idea of classifying and storing digital images in organized manner, thus favoring finding of invalidity, even though representative claim required concrete, tangible components such as “telephone unit” and “server,” where specification made clear that recited physical components merely provided generic environment in which to classify and store digital images, patent claims were directed to use of conventional or generic technology in nascent but well-known environment, without any claim that invention reflected any inventive solution to problem presented. 35 U.S.C.A. § 101.
+35 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k459In general
+
+
+When performing a patent eligibility analysis, it is a relevant inquiry when determining whether the patent claims at issue are directed to an abstract idea to ask whether the claims are directed to an improvement to computer functionality versus being directed to an abstract idea. 35 U.S.C.A. § 101.
+84 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsUse or operation of machine or apparatus as affecting process;  “machine or transformation” test
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k455Use or operation of machine or apparatus as affecting process;  “machine or transformation” test
+
+
+Mere recitation of concrete, tangible components is insufficient to confer patent eligibility to an otherwise abstract idea; rather, the components must involve more than performance of well-understood, routine, conventional activities previously known to the industry. 35 U.S.C.A. § 101.
+28 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k462Business methods;  Internet applications
+
+
+Recitation of concrete, tangible components, including telephone unit, server, image analysis unit, and control unit in patent relating to method and system for taking, transmitting, and organizing digital images, did not add any inventive concept sufficient to bring into realm of patentability abstract idea encompassed by patent, i.e., classifying and storing digital images in organized manner, where, according to specification, telephone unit simply provided environment for carrying out classification and storage functions, server was merely generic computer that administered digital images using known arbitrary data bank system, image analysis unit predictably analyzed quality of digital images, and control unit predictably controlled various aspects of claimed functionality. 35 U.S.C.A. § 101.
+10 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k459In general
+
+
+For the role of a computer in a computer-implemented invention to be deemed meaningful in the context of determining patent eligibility, it must involve more than performance of well-understood, routine, and conventional activities previously known to the industry. 35 U.S.C.A. § 101.
+13 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(B)Eligible Subject Matter
+291k458Computers and Software
+291k459In general
+
+
+Just as steps that do nothing more than spell out what it means to “apply it on a computer” cannot confer patent eligibility, steps that generically spell out what it means to “apply it on a telephone network” also cannot confer patent eligibility. 35 U.S.C.A. § 101.
+3 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,038,295. Invalid.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*609 Robert Alan Whitman, Mishcon de Reya New York LLP, New York, NY, argued for plaintiff-appellant. Also represented by Michael DeVincenzo, Mark Stewart Raskin, Charles Wizenfeld.
+Mark A. Lemley, Durie Tangri LLP, San Francisco, CA, argued for defendants-appellees CityGrid Media LLC, IAC/InterActiveCorp, Imgur LLC, Pinterest, Inc., Shutterfly, Inc., Snapchat Inc., TripAdvisor Inc., TripAdvisory LLC, Tumblr, Inc., Twitter, Inc., Vimeo LLC, Vine Labs, Inc., Yahoo! Inc. Also represented by Zac Cox, Alexandra Helen Moss.
+Joshua Bryson Brady, Williams Mullen, PC, McLean, VA, for defendants-appellees AV Automotive, LLC, Hall Automotive, LLC.
+Robert A. Angle, Troutman Sanders LLP, Richmond, VA, for defendants-appellees Capital One Financial Corporation, Capital One, N.A., Capital One Services, LLC.
+Before DYK, SCHALL, and HUGHES, Circuit Judges.
+Opinion
+HUGHES, Circuit Judge.
+
+TLI Communications LLC alleges that the defendants infringe a patent relating to a method and system for taking, transmitting, and organizing digital images. The district court dismissed the complaint after concluding that the patent-in-suit fails to claim patent-eligible subject matter under 35 U.S.C. § 101, and that, in the alternative, claims 1, 25, and their dependent claims are invalid for failing to recite sufficient structure as required by 35 U.S.C. § 112 ¶ 6. Because we agree with the district court that the patent-in-suit claims no more than the abstract idea of classifying and storing digital images in an organized manner, we affirm the district court’s judgment and do not reach the § 112 ¶ 6 issue.
+ 
+
+I
+In 2014, TLI Communications LLC (TLI) filed a series of actions in the District of Delaware and the Eastern District of Virginia, alleging that the defendants infringed U.S. Patent No. 6,038,295 (the ′295 patent) by making, selling, and/or using products and services that allow uploading of digital photos from a mobile device, such as a cell phone. The Judicial Panel on Multidistrict Litigation consolidated the cases for pre-trial purposes in the Eastern District of Virginia.
+ 
+The ′295 patent “relates generally to an apparatus for recording of a digital image, communicating the digital image from the recording device to a storage device, and to administering the digital image in the storage device.” ′295 patent, col. 1 ll. 7–10. The specification notes that a “wide variety of data types” can be transmitted, including audio and image stills. Id. at col. 1 ll. 15–26. Moreover, “[s]o called cellular telephones may be utilized for image transmissions,” id. at col 1 ll. 31–34, and, at the time of the invention, it was known how to “digitize, compress and transmit individual still pictures, such as photographs,” id. at col 1 ll. 35–42. Further, the specification recognizes that the prior art taught “[a]n image and audio communication system having a graphical annotation capability ... in which voice, data and image communications are used in telephone systems.” Id. at col 1 ll. 52–59. But, “[w]hen a large number of digital images are recorded and are to be archived in a central computer unit, then the organization of the data base becomes a *610 problem.” Id. at col 1 ll. 43–45. “In particular, the problems of locating the data of an image data file increase as the number of images to be archived increases.” Id. at col. 1 ll. 46–48. The invention seeks to solve this problem “by providing for recording, administration and archiving of digital images simply, fast and in such way that the information therefore may be easily tracked.” Id. at col. 1 ll. 64–66.
+ 
+More specifically, the invention teaches manually or automatically assigning “classification data,” such as a date or timestamp, to digital images and sending those images to a server. The server then extracts the classification data and stores the digital images, “taking into consideration the classification information.” Id. at col. 2 ll. 35–45. Claim 17 is representative:
+17. A method for recording and administering digital images, comprising the steps of:
+recording images using a digital pick up unit in a telephone unit,
+storing the images recorded by the digital pick up unit in a digital form as digital images,
+transmitting data including at least the digital images and classification information to a server, wherein said classification information is prescribable by a user of the telephone unit for allocation to the digital images,
+receiving the data by the server,
+extracting classification information which characterizes the digital images from the received data, and
+storing the digital images in the server, said step of storing taking into consideration the classification information.
+Id. at col. 10 ll. 1–17. Independent claims 1 and 25 recite substantially the same concept but do so in the context of an apparatus or system. Claim 1 includes a “means for allocating classification information prescribed by a user of said at least one telephone unit to characterize digital images obtained by said digital pick up unit.” Likewise, claim 25 recites a “means ... to allocate information in the corresponding digital still image data.” Claims 10 and 11 add an “image analysis unit” and a “control unit” to the features of claim 1.
+ 
+The defendants filed a motion to dismiss for failure to state a claim, arguing that the ′295 patent is drawn to patent-ineligible subject matter. The district court agreed, concluding that the claims are directed to “the abstract idea of taking, organizing, classifying, and storing photographs.” J.A. 16. The district court declined to give patentable weight to the claims’ recitation of a telephone unit or a server, or to the “means for allocating” limitation in claims 1 and 25. As a result, the district court granted the defendants’ motion to dismiss.
+ 
+TLI appeals. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+II
+[1] [2] [3] We apply regional circuit law to the review of motions to dismiss for failure to state a claim under Rule 12(b)(6). Content Extraction & Transmission LLC v. Wells Fargo Bank, Nat’l Ass’n, 776 F.3d 1343, 1346 (Fed.Cir.2014). The Fourth Circuit reviews challenges to a dismissal for failure to state a claim de novo. Burbach Broad. Co. of Del. v. Elkins Radio Corp., 278 F.3d 401, 406 (4th Cir.2002). We review the district court’s patent eligibility determination under § 101 de novo. OIP Techs., Inc. v. Amazon.com, Inc., 788 F.3d 1359, 1362 (Fed.Cir.2015).
+ 
+[4] [5] A patent may be obtained for “any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof.” *611 35 U.S.C. § 101. The Supreme Court has “long held that this provision contains an important implicit exception[:] Laws of nature, natural phenomena, and abstract ideas are not patentable.” Ass’n for Molecular Pathology v. Myriad Genetics, Inc., ––– U.S. ––––, 133 S.Ct. 2107, 2116, 186 L.Ed.2d 124 (2013) (quoting Mayo Collaborative Servs. v. Prometheus Labs., Inc., ––– U.S. ––––, 132 S.Ct. 1289, 1293, 182 L.Ed.2d 321 (2012)). Under the now familiar two-part test described by the Supreme Court in Alice, “[w]e must first determine whether the claims at issue are directed to a patent-ineligible concept,” such as an abstract idea. Alice Corp. Pty. Ltd. v. CLS Bank Int’l, ––– U.S. ––––, 134 S.Ct. 2347, 2355, 189 L.Ed.2d 296 (2014). If so, we must then “consider the elements of each claim both individually and ‘as an ordered combination’ to determine whether the additional elements ‘transform the nature of the claim’ into a patent-eligible application.” Id. (quoting Mayo, 132 S.Ct. at 1298, 1297). For the reasons set forth below, we find that the claims are directed to the abstract idea of classifying and storing digital images in an organized manner and fail to add an inventive concept sufficient to confer patent eligibility.
+ 
+
+A
+[6] Turning to Alice step one, “[w]e must first determine whether the claims at issue are directed to a patent-ineligible concept,” such as an abstract idea. See Alice, 134 S.Ct. at 2355. “At step one of the Alice framework, it is often useful to determine the breadth of the claims in order to determine whether the claims extend to cover a ‘fundamental ... practice long prevalent in our system....’ ” Intellectual Ventures I LLC v. Capital One Bank (USA), 792 F.3d 1363, 1369 (Fed.Cir.2015) (quoting Alice, 134 S.Ct. at 2356). But in determining whether the claims are directed to an abstract idea, we must be careful to avoid oversimplifying the claims because “[a]t some level, ‘all inventions ... embody, use, reflect, rest upon, or apply laws of nature, natural phenomena, or abstract ideas,’ ” Alice, 134 S.Ct. at 2354 (quoting Mayo, 132 S.Ct. at 1293). Cf. Diamond v. Diehr, 450 U.S. 175, 189 n. 12, 101 S.Ct. 1048, 67 L.Ed.2d 155 (1981) (cautioning that overgeneralizing claims, “if carried to its extreme, make[s] all inventions un-patentable because all inventions can be reduced to underlying principles of nature which, once known, make their implementation obvious.”). However, not every claim that recites concrete, tangible components escapes the reach of the abstract-idea inquiry. See, e.g., Alice, 134 S.Ct. at 2360 (claims that recite general-purpose computer components are nevertheless “directed to” an abstract idea); Content Extraction, 776 F.3d at 1347 (claims reciting a “scanner” are nevertheless directed to an abstract idea); Mortg. Grader, Inc. v. First Choice Loan Serv. Inc., 811 F.3d 1314, 1324–25 (Fed.Cir.2016) (claims reciting an “interface,” “network,” and a “database” are nevertheless directed to an abstract idea).
+ 
+[7] On its face, representative claim 17 is drawn to the concept of classifying an image and storing the image based on its classification. While claim 17 requires concrete, tangible components such as “a telephone unit” and a “server,” the specification makes clear that the recited physical components merely provide a generic environment in which to carry out the abstract idea of classifying and storing digital images in an organized manner. And the specification’s emphasis that the present invention “relates to a method for recording, communicating and administering [a] digital image” underscores that claim 17 is directed to an abstract concept. ′295 patent, col. 1 ll. 10–12. TLI’s characterization of the claimed invention also supports *612 our conclusion at step one. In its briefs, TLI essentially parrots the disclosure of the ′295 patent, asserting that claim 17 is “directed to a method for recording and administering digital images.” Appellant’s Br. 28.
+ 
+[8] We recently clarified that a relevant inquiry at step one is “to ask whether the claims are directed to an improvement to computer functionality versus being directed to an abstract idea.” See Enfish, LLC v. Microsoft Corp., No. 2015–2044, 822 F.3d 1327, 1335, 2016 WL 2756255 (Fed.Cir. May 12, 2016). We contrasted claims “directed to an improvement in the functioning of a computer” with claims “simply adding conventional computer components to well-known business practices,” or claims reciting “use of an abstract mathematical formula on any general purpose computer,” or “a purely conventional computer implementation of a mathematical formula,” or “generalized steps to be performed on a computer using conventional computer activity.” Id. at 1338. Contrary to TLI’s arguments on appeal, the claims here are not directed to a specific improvement to computer functionality. Rather, they are directed to the use of conventional or generic technology in a nascent but well-known environment, without any claim that the invention reflects an inventive solution to any problem presented by combining the two. According to the ′295 patent, the problem facing the inventor was not how to combine a camera with a cellular telephone, how to transmit images via a cellular network, or even how to append classification information to that data. Nor was the problem related to the structure of the server that stores the organized digital images. Rather, the inventor sought to “provid[e] for recording, administration and archiving of digital images simply, fast and in such way that the information therefore may be easily tracked.” ′295 patent, col. 1 ll. 62–65.
+ 
+The specification does not describe a new telephone, a new server, or a new physical combination of the two. The specification fails to provide any technical details for the tangible components, but instead predominately describes the system and methods in purely functional terms. For example, the “telephone unit” of the claims is described as having “the standard features of a telephone unit,” id. at col. 5 ll. 54–58, with the addition of a “digital image pick up unit for recording images,” id. at col. 5 ll. 58–61, that “operates as a digital photo camera of the type which is known,” id. at col. 6. ll. 1–2. Put differently, the telephone unit itself is merely a conduit for the abstract idea of classifying an image and storing the image based on its classification. Indeed, the specification notes that it “is known” that “cellular telephones may be utilized for image transmission,” id. at col. 1 ll. 31–34, and existing telephone systems could transmit pictures, audio, and motion pictures and also had “graphical annotation capability,” id. at col. 1 ll. 52–59.
+ 
+Likewise, the server is described simply in terms of performing generic computer functions such as storing, receiving, and extracting data. See, e.g., id. at col. 5 ll. 1–4 (“The server [ ] is a computer system which serves for organizing a database which includes a large number of digital images as well as classification information [ ] which may potentially be allocated to the digital images.”). “The server includes a reception unit, an analysis unit which analyzes the data that is sent from the telephone unit with respect to classification information, ... as well as a memory for storing the digital images.” Id. at col 2 ll. 28–32. But the functions of the server are described in vague terms without any meaningful limitations. See, e.g., id. at col. *613 5 ll. 4–13 (“The server A includes ... [a] receiving unit EE for receiving the data sent from the telephone unit TE ... and an analysis unit AE ... which extracts the classification information from data received by the server S.”). In other words, the focus of the patentee and of the claims was not on an improved telephone unit or an improved server.
+ 
+For these same reasons, the claims are not directed to a solution to a “technological problem” as was the case in Diamond v. Diehr, 450 U.S. 175, 101 S.Ct. 1048, 67 L.Ed.2d 155 (1981). See OIP Techs., 788 F.3d at 1364 (“[W]e must read Diehr in light of Alice, which emphasized that Diehr does not stand for the general proposition that a claim implemented on a computer elevates an otherwise ineligible claim into a patent-eligible improvement.”). Nor do the claims attempt to solve “a challenge particular to the Internet.” DDR Holdings, LLC v. Hotels.com, L.P., 773 F.3d 1245, 1256–57 (Fed.Cir.2014); cf. Intellectual Ventures I, 792 F.3d at 1371 (because the patent claims at issue did not “address problems unique to the Internet, ... DDR has no applicability.”).
+ 
+Instead, the claims, as noted, are simply directed to the abstract idea of classifying and storing digital images in an organized manner. Consistent with the Supreme Court’s rejection of “categorical rules” to decide subject matter eligibility, Bilski v. Kappos, 561 U.S. 593, 610, 130 S.Ct. 3218, 177 L.Ed.2d 792 (2010), we have applied the “abstract idea” exception to encompass inventions pertaining to methods of organizing human activity. See, e.g., Intellectual Ventures I, 792 F.3d at 1367 (finding the claim at issue “not meaningfully different from the ideas found to be abstract in other cases before the Supreme Court and our court involving methods of organizing human activity”). Here, we find that, like the claims at issue in Content Extraction which were directed to “collecting data,” “recognizing certain data within the collected data set,” and “storing the recognized data in memory,” 776 F.3d at 1347, attaching classification data, such as dates and times, to images for the purpose of storing those images in an organized manner is a well-established “basic concept” sufficient to fall under Alice step 1. Lastly, although the claims limit the abstract idea to a particular environment—a mobile telephone system—that does not make the claims any less abstract for the step 1 analysis. See OIP Techs., 788 F.3d at 1362–63.
+ 
+
+B
+[9] [10] Turning to the second step in our analysis, we find that the claims fail to recite any elements that individually or as an ordered combination transform the abstract idea of classifying and storing digital images in an organized manner into a patent-eligible application of that idea. It is well-settled that mere recitation of concrete, tangible components is insufficient to confer patent eligibility to an otherwise abstract idea. Rather, the components must involve more than performance of “ ‘well-understood, routine, conventional activit[ies]’ previously known to the industry.” Alice, 134 S.Ct. at 2359 (quoting Mayo, 132 S.Ct. at 1294). We agree with the district court that the claims’ recitation of a “telephone unit,” a “server”, an “image analysis unit,” and a “control unit” fail to add an inventive concept sufficient to bring the abstract idea into the realm of patentability.
+ 
+As an initial matter, TLI argues that, even if known in the prior art, the components recited in the claims cannot be “conventional” within the meaning of the Alice absent fact-finding by the court. While we must be mindful of extraneous fact finding outside the record, particularly at the motion *614 to dismiss stage, here we need to only look to the specification, which describes the telephone unit and server as either performing basic computer functions such as sending and receiving data, or performing functions “known” in the art. In other words, as will be discussed below, the claimed functions are “well-understood, routine, activit[ies]’ previously known to the industry.” Id. at 2359 (quoting Mayo, 132 S.Ct. at 1294).
+ 
+We turn first to the “telephone unit.” The claims identify a telephone unit with a digital pick up device. In its briefing, TLI suggests that this is akin to a “camera phone” and is a core feature of the invention sufficient to transform the claims into patent-eligible subject matter. But TLI abandoned this position at argument, conceding that the telephone unit itself is not an inventive concept sufficient to confer patent eligibility. See, e.g., Oral Argument at 2:09–14, 9:11–34, 8:20–30 (April 7, 2016), available at http://oralarguments.cafc.uscourts.gov/default.aspx?fl =E2015-1372.mp3. In any event, the specification confirms that the telephone unit itself behaves as expected: when it is not “be[ing] used as a ‘normal telephone’ to make calls,” ′295 patent, col. 6 ll. 13–14, the telephone unit’s “digital image pick up unit operates as a digital photo camera of the type which is known,” id. at col. 6 ll. 1–2, compresses images according to known methods, id. at col. 6 ll. 5–8, and transmits image data and classification data according to known methods, id. at col. 1 ll. 31–34, 52–59. In other words, the telephone unit simply provides the environment in which the abstract idea of classifying and storing digital images in an organized manner is carried out.
+ 
+[11] Likewise, the server fails to add an inventive concept because it is simply a generic computer that “administer[s]” digital images using a known “arbitrary data bank system.” Id. at col. 5 ll. 45–46. But “[f]or the role of a computer in a computer-implemented invention to be deemed meaningful in the context of this analysis, it must involve more than performance of ‘well-understood, routine, [and] conventional activities previously known to the industry.’ ” Content Extraction, 776 F.3d at 1347–48 (quoting Alice, 134 S. Ct at 2359). Here, the server simply receives data, “extract[s] classification information ... from the received data,” and “stor[es] the digital images ... taking into consideration the classification information.” See ′295 patent, col. 10 ll. 1–17 (Claim 17).
+ 
+These steps fall squarely within our precedent finding generic computer components insufficient to add an inventive concept to an otherwise abstract idea. Alice, 134 S.Ct. at 2360 (“Nearly every computer will include a ‘communications controller’ and a ‘data storage unit’ capable of performing the basic calculation, storage, and transmission functions required by the method claims.”); Content Extraction, 776 F.3d at 1345, 1348 (“storing information” into memory, and using a computer to “translate the shapes on a physical page into typeface characters,” insufficient confer patent eligibility); Mortg. Grader, 811 F.3d at 1324–25 (generic computer components such as an “interface,” “network,” and “database,” fail to satisfy the inventive concept requirement); Intellectual Ventures I, 792 F.3d at 1368 (a “database” and “a communication medium” “are all generic computer elements”); BuySAFE v. Google, Inc., 765 F.3d 1350, 1355 (Fed.Cir.2014) ( “That a computer receives and sends the information over a network—with no further specification—is not even arguably inventive.”).
+ 
+Dependent claims 10 and 11 respectively recite an “image analysis unit for determining quality of the digital images” and a “control unit for controlling resolution of *615 digital images.” These components purportedly analyze the image data sent from the telephone unit to determine the quality of the image sent, and if certain criteria are met, instruct the telephone unit to resend the image. While these units purport to add additional functionality to the server, ′295 patent, col. 5 ll. 14–32, the specification limits its discussion of these components to abstract functional descriptions devoid of technical explanation as to how to implement the invention. For example, the “image analysis unit” predictably analyzes the digital images to “determine[ ] the quality of the digital image provided to the server.” Id. at col. 5 ll. 14–16; see also id. at col 8 ll. 24–26. And, the “control unit” predictably “controls” various aspects of the claimed functionality. It “controls the image resolution of the digital images” using known image compression techniques, id. at col. 5 ll. 21–24, and it “controls the transmission rate during transmission of the data via the transmission system,” id. at col. 5 ll. 30–33. Such vague, functional descriptions of server components are insufficient to transform the abstract idea into a patent-eligible invention.
+ 
+[12] In sum, the recited physical components behave exactly as expected according to their ordinary use. Although the claims recite that the abstract idea of classifying and storing digital images in an organized manner is carried out in a telephone system, the ′295 patent fails to provide the requisite details necessary to carry out that idea. Just as “[s]teps that do nothing more than spell out what it means to ‘apply it on a computer’ cannot confer patent-eligibility,” Intellectual Ventures I, 792 F.3d at 1371–72 (citing Alice, 134 S.Ct. at 2359), here, steps that generically spell out what it means to “apply it on a telephone network” also cannot confer patent eligibility. Thus, we find that the ′295 patent is directed to patent-ineligible subject matter and we affirm the district court’s judgment.
+ 
+AFFIRMED
+ 
+All Citations
+823 F.3d 607, 118 U.S.P.Q.2d 1744
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (13)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Audio MPEG, Inc. HP Inc. v. Societa Italiana Per Lo Sviluppo Dell’ Elettronica Spa 
+2016 WL 7010947 , E.D.Va.
+This matter is before the Court on Defendant Dell, Inc.’s (’’Defendant’’ or ‘’Dell’’) Motion to Dismiss for Failure to State a Claim (’’the Motion’’). Doc. 81. The Court held a...
+July 01, 2016
+Case
+
+5
+
+
+
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+2.  Polaris Innovations Limited v. Kingston Technology Company, Inc. 
+223 F.Supp.3d 1026 , C.D.Cal.
+PATENTS - Computers and Electronics. Patents related to arrangement of memory chips on a computer card that fit a standard dock were directed to machines as opposed to abstract...
+July 21, 2016
+Case
+
+6
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+ 3.  Comcast Cable Communications, LLC v. Sprint Communications Company, LP 
+203 F.Supp.3d 499 , E.D.Pa.
+PATENTS - Computers and Electronics. Asserted claims in patent related to multimedia messaging service were not directed to abstract idea of matching identifiers to retrieve...
+Aug. 25, 2016
+Case
+
+7
+
+
+
+
+8
+
+
+
+
+9
+
+
+
+
+F.3d
+
+Distinguished by
+4.  Proxyconn, Inc. v. Microsoft Corporation 
+2016 WL 9109110 , C.D.Cal.
+Before the Court is Microsoft Corporation, Acer America Corporation, Dell Incorporated, and HP Incorporated’s (collectively, “Defendants”) Motion to Dismiss Complaint (“Motion”)...
+Sep. 29, 2016
+Case
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+5.  Evolved Wireless, LLC v. Apple Inc. 
+221 F.Supp.3d 485 , D.Del.
+PATENTS - Telecommunications. Claims in patents related to mobile phones were directed to technological improvement, rather than directed to patent ineligible abstract idea.
+Oct. 31, 2016
+Case
+
+5
+
+
+
+
+6
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+ 6.  Amdocs (Israel) Limited v. Openet Telecom, Inc. 
+841 F.3d 1288 , Fed.Cir.(Va.)
+PATENTS - Computers and Electronics. Patent for generating single record reflecting multiple services for accounting purposes possessed inventive concept sufficient for patent...
+Nov. 01, 2016
+Case
+
+7
+
+
+
+
+8
+
+
+
+
+10
+
+
+
+
+F.3d
+
+Distinguished by
+7.  Huawei Technologies, Co, Ltd v. Samsung Electronics Co, Ltd. 
+2016 WL 6834614 , N.D.Cal.
+Defendants Samsung Electronics Co., Ltd., Samsung Electronics America, Inc., and Samsung Research America (collectively, ‘’Samsung’’) move to dismiss two of the 11 patent...
+Nov. 21, 2016
+Case
+
+5
+
+
+
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+8.  Synchronoss Technologies, Inc. v. Dropbox Inc. 
+226 F.Supp.3d 1000 , N.D.Cal.
+PATENTS - Computers and Electronics. Claims directed to system and method of synchronizing data between devices connected to a network were not directed to unpatentable abstract...
+Dec. 22, 2016
+Case
+
+6
+
+
+
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+9.  Capstan AG Systems, Inc. v. Raven Industries, Inc. 
+228 F.Supp.3d 1235 , D.Kan.
+PATENTS - Agriculture. Patent’s failure to explain how to calculate claimed individual-control values was not fatal at pleading stage as to whether patent was abstract idea.
+Jan. 11, 2017
+Case
+
+5
+
+
+
+
+9
+
+
+
+
+11
+
+
+
+
+F.3d
+
+Distinguished by
+10.  Egenera, Inc. v. Cisco Systems, Inc. 
+234 F.Supp.3d 331 , D.Mass.
+PATENTS - Computers and Electronics. Patents describing improved enterprise computing system were valid as claiming patent-eligible subject matter.
+Feb. 14, 2017
+Case
+
+7
+
+
+
+
+9
+
+
+
+
+11
+
+
+
+
+F.3d
+
+Distinguished by
+11.  Crypto Research, LLC v. Assay Abloy, Inc. 
+236 F.Supp.3d 671 , E.D.N.Y.
+PATENTS - Computers and Electronics. Patents reciting method for calculating values of one-way chains that reduce requirements for storage capacity were not directed to patent...
+Feb. 17, 2017
+Case
+
+5
+
+
+
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+12.  EX PARTE M. AFFAN ZIDAN, TALAL BONNY, AND KHALED N. SALAMA 
+2017 WL 1192760 , Patent Tr. & App. Bd.
+This appeal involves claims directed to a computing device comprising a computer application for processing database sequences. The Examiner rejected the claims as patent...
+Mar. 29, 2017
+Administrative Decision
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+13.  Visual Memory LLC v. NVIDIA Corporation  
+867 F.3d 1253 , Fed.Cir.(Del.)
+PATENTS - Computers and Electronics. Claims were directed to patent-eligible subject matter of improved computer memory system, not to abstract idea of categorical data storage.
+Aug. 15, 2017
+Case
+
+6
+
+
+
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+

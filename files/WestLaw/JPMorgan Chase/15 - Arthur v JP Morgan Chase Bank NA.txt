@@ -1,0 +1,456 @@
+
+
+ 
+
+
+Arthur v. JP Morgan Chase Bank, NA
+United States Court of Appeals, Eleventh Circuit. | June 13, 2014 | 569 Fed.Appx. 669 | 2014 WL 2620955
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Arthur v. JP Morgan Chase Bank, NA, 569 F. App’x 669 (11th Cir. 2014)
+
+All Citations:
+
+569 Fed.Appx. 669, RICO Bus.Disp.Guide 12,512
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Florida
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:57 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+569 Fed.Appx. 669
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S. Ct. of App. 11th Cir. Rule 36-2.
+United States Court of Appeals,
+Eleventh Circuit.
+Veldora ARTHUR, et al., Plaintiffs/Appellants,
+v.
+JP MORGAN CHASE BANK, NA, et al., Defendants/Appellees.
+No. 12–12317.
+|
+June 13, 2014.
+Synopsis
+Background: Homeowners from across the nation filed state court suit against lender alleging it had used fraudulent procedures and fraudulently prepared documents in foreclosure procedures. Following removal, the United States District Court for the Southern District of Florida dismissed. Plaintiffs appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] court had jurisdiction based on complete diversity of parties;
+ 
+[2] federal claims against lender were not barred by Rooker-Feldman doctrine; but
+ 
+[3] Wisconsin law of preclusion barred the claims;
+ 
+[4] homeowners lacked standing to seek injunctive relief on property other than their own;
+ 
+[5] exceptions to Anti-Injunction Act did not apply; and
+ 
+[6] complaint failed to state Florida Racketeer Influenced and Corrupt Organizations Act (RICO)claim.
+ 
+Affirmed as modified.
+ 
+
+
+West Headnotes (7)
+
+
+[1]
+
+Removal of CasesDiversity of Citizenship of Coplaintiffs and Codefendants
+
+
+334Removal of Cases
+334IIICitizenship or Alienage of Parties
+334k28Diversity of Citizenship of Coplaintiffs and Codefendants
+334k29In general
+
+
+District court had diversity jurisdiction over multi-state homeowners’ wrongful foreclosure suit against national lender, as would support removal from state court, given that complete diversity of citizenship between parties existed; lender, a national banking association, was a citizen of Ohio, where its main office was located, and plaintiffs were all citizens of states other than Ohio. 28 U.S.C.A. §§ 1332(a)(1), 1348, 1441(a).
+5 Cases that cite this headnote
+
+
+
+[2]
+
+CourtsDebtor and creditor;  bankruptcy;  mortgages, liens, and security interests
+
+
+106Courts
+106VIIConcurrent and Conflicting Jurisdiction
+106VII(B)State Courts and United States Courts
+106k509.1Federal-Court Review of State-Court Decisions;  Rooker-Feldman Doctrine
+106k509.3Particular Cases and Contexts
+106k509.3(6)Debtor and creditor;  bankruptcy;  mortgages, liens, and security interests
+
+
+Homeowners’ federal claims against lender for fraudulent foreclosure proceedings and violation of Florida Racketeer Influenced and Corrupt Organizations Act (RICO) were not barred, under Rooker-Feldman doctrine, by prior state court proceeding rendering a final foreclosure judgment in favor of lender; there was no indication that homeowners had raised the issue of fraud in the foreclosure proceedings, and their alleged injuries flowed at least in part from the generation of the foreclosure documents and not solely from the issuance of the state court judgment. West’s F.S.A. § 772.101.
+18 Cases that cite this headnote
+
+
+
+[3]
+
+Mortgages and Deeds of TrustMatters Concluded or Affected
+
+
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(L)Conclusiveness, Operation, and Effect
+266k2167Matters Concluded or Affected
+266k2168In general
+(Formerly 266k497(1))
+
+
+Even though fraudulent foreclosure and violation of Florida Racketeer Influenced and Corrupt Organizations Act (RICO) claims raised by homeowner in federal district court against lender were not barred under Rooker-Feldman doctrine, based on a prior Wisconsin state court proceeding, Wisconsin law of preclusion barred the claims; fraud and civil RICO claims involving the foreclosure proceeding were “compulsory” counterclaims, in that they would undermine the rights established in the prior state court judgment, and thus waived by non-assertion. West’s F.S.A. § 772.101.
+18 Cases that cite this headnote
+
+
+
+[4]
+
+Mortgages and Deeds of TrustPersons entitled;  standing;  parties
+
+
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(E)Restraining Foreclosure
+266k1884Proceedings to Restrain Foreclosure
+266k1889Persons entitled;  standing;  parties
+(Formerly 266k413)
+
+
+Homeowners whose property was pending foreclosure lacked standing, under Article III, to seek injunctive relief halting all national lender’s foreclosure proceedings and enjoining all of its future foreclosures, since they would not, themselves, be harmed by current or future foreclosures of other individuals’ properties. U.S.C.A. Const. Art. 3, § 2, cl. 1.
+Cases that cite this headnote
+
+
+
+[5]
+
+Federal Civil ProcedureEffect
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1837Effect
+170Ak1837.1In general
+
+
+Dismissal for lack of standing is not “on the merits” and thus must be made without prejudice. U.S.C.A. Const. Art. 3, § 2, cl. 1.
+1 Cases that cite this headnote
+
+
+
+[6]
+
+CourtsRestraining Particular Proceedings
+
+
+106Courts
+106VIIConcurrent and Conflicting Jurisdiction
+106VII(B)State Courts and United States Courts
+106k508Injunction by United States Court Against Proceedings in State Court
+106k508(2)Restraining Particular Proceedings
+106k508(2.1)In general
+
+
+Exceptions to Anti-Injunction Act did not apply to permit federal district court to enjoin state court foreclosure proceedings as part of homeowners’ federal suit against national lender for fraud and violations of Florida Racketeer Influenced and Corrupt Organizations Act (RICO); no act of Congress allowed for injunctive relief, homeowners had not pursued an in rem action, but, instead, sought a judgment in personam against lender, there was no pre-existing federal judgment or injunction to protect, and relitigation exception did not apply since subsequent state law claims would not be precluded by res judicata. 28 U.S.C.A. § 2283; West’s F.S.A. § 772.101.
+16 Cases that cite this headnote
+
+
+
+[7]
+
+Racketeer Influenced and Corrupt OrganizationsRacketeering or criminal activity;  predicate acts
+
+
+319HRacketeer Influenced and Corrupt Organizations
+319HIIState Regulation
+319HII(A)In General
+319Hk103Racketeering or criminal activity;  predicate acts
+
+
+Homeowners’ complaint against lender failed to state a claim for violation of Florida’s Racketeer Influenced and Corrupt Organizations Act (RICO), based on allegedly fraudulent foreclosure activity, given lack of allegations of any predicate offenses by lender. West’s F.S.A. § 772.103.
+21 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*670 William Jeffrey Barnes, W.J. Barnes, PA, Beverly Hills, CA, for Plaintiffs/Appellants.
+Jeffrey T. Kuntz, Thomas Holland Loffredo, Ronald Joseph Tomassi, Jr., Grayrobinson, *671 PA, Fort Lauderdale, FL, for Defendants/Appellees.
+Appeal from the United States District Court for the Southern District of Florida.
+Before MARCUS, Circuit Judge, and COOGLER* and BOWEN,** District Judges.
+
+COOGLER, District Judge:
+
+I. INTRODUCTION
+Fifty-eight individuals (hereinafter, “Appellants”) whose homes were in various stages of the foreclosure process brought this action against JP Morgan Chase Bank, N.A.1 (hereinafter, “JP Morgan”), seeking damages and injunctive relief based on alleged fraudulent and criminal activity surrounding their foreclosures. Appellants Magdalena Apostolova, Gracie Marla Buchwald, Johnny H. Le, Emil P. Milyakov, Hone Thach, and Linda Zimmerman have previously been dismissed from this appeal. The remaining Appellants challenge the district court’s decision to dismiss many of the claims in this action with prejudice.
+ 
+Before considering whether the district court properly dismissed any of the claims, we examine whether it had subject matter jurisdiction over the action. Concluding that it did, and after a thorough review, we affirm the judgment of the district court as modified below.
+ 
+
+II. BACKGROUND
+A. FACTUAL HISTORY2
+The Appellants hail from Arizona, California, Colorado, Florida, Hawaii, Massachusetts, Minnesota, New Jersey, New York, Oregon, Tennessee, Virginia, Washington, and Wisconsin. They are homeowners or former homeowners who are facing or have faced foreclosure by JP Morgan. The specific foreclosure processes vary from state to state, as some states employ a judicial process while others utilize non judicial means to effect foreclosure. Even states that employ the same basic procedures have different specific requirements. For example, the Appellants pleaded that Florida and New Jersey, both judicial foreclosure states, have put in place specific safeguards to protect debtors from unfair foreclosures that differ from those in other judicial foreclosure states. Similarly, California and Colorado, both non judicial foreclosure states, apparently have further requirements that foreclosing parties must satisfy. These measures typically require the foreclosing party to submit additional documentation evincing that the bank, prior to foreclosure, has made a thorough investigation into its right to foreclose.
+ 
+According to the complaint, JP Morgan operated a facility (hereinafter, the “Baymeadows Hub”) in Jacksonville, Florida, as a “nexus and control center” to institute *672 and maintain foreclosure proceedings across the nation. Appellants contend that employees at the Baymeadows Hub produced false or fraudulent documents, including declarations of compliance with California’s foreclosure procedures, notices of default and elections to sell, collection letters, and pleadings. These documents allegedly contained misrepresentations that JP Morgan or Chase Home Finance was a successor in interest to loans originally made by Washington Mutual Bank, that the Mortgage Electronic Registration Systems, Inc. (also known as “MERS”) had an interest in various mortgages, and that JP Morgan properly complied with the special safeguards for borrowers in various states.
+ 
+After describing JP Morgan’s general practices and misrepresentations, the Appellants set out specific facts in their complaint regarding each foreclosure. These facts amount to a summary of the allegedly fraudulent documents filed or used in each foreclosure. Although some of the paragraphs contained specific references connecting documents in a particular foreclosure to the Baymeadows Hub, many of them did not.
+ 
+
+B. PROCEDURAL HISTORY
+The Appellants filed this action in state court in Palm Beach County, Florida, on August 25, 2011. JP Morgan removed the case to the U.S. District Court for the Southern District of Florida on October 3, 2011, invoking both diversity and federal question jurisdiction. Subsequently, the Appellants filed an “Amended Complaint,” a “Second Amended Complaint,” and the “[Corrected] Second Amended Complaint.”3 The Appellants pursued claims based on common law fraud and violations of the Florida Civil Remedies for Criminal Practices Act, Fla. Stat. § § 772.101–772.19 (hereinafter, the “Florida RICO Act”). Additionally, the Appellants sought several types of injunctive relief, including a national suspension of JP Morgan’s foreclosure activity and a declaration that any “illegal” foreclosure is “null and void.”
+ 
+After the complaint was filed, JP Morgan filed a motion to dismiss for failure to state a claim under Rule 12(b)(6) of the Federal Rules of Civil Procedure, or alternatively, a motion for a more definite statement pursuant to Rule 12(e). JP Morgan’s motion challenged both the sufficiency of the pleading and the court’s subject matter jurisdiction over some of the claims. In response, the Appellants moved to remand the entire case to state court based on lack of subject matter jurisdiction. Neither their motion to remand nor their “Preliminary Response” to the motion to dismiss addressed JP Morgan’s arguments regarding the sufficiency of their pleading. The Appellants did, however, request in a sur-reply a stay of proceedings until the district court decided whether to grant their motion to remand.
+ 
+Although the district court never expressly discussed the merits of the Appellants’ motion to stay, it entered an order on April 11, 2012, denying the Appellants’ motion to remand the case and granting JP Morgan’s motion to dismiss. The district court first addressed the Appellants’ demand for injunctive relief. It determined that certain of the Appellants with pending foreclosure proceedings were seeking to enjoin their own proceedings, and it dismissed these claims with prejudice because they failed to meet any of the exceptions to the Anti–Injunction Act, 28 U.S.C. § 2283. It read the complaint to also demand a nationwide stoppage of all *673 JP Morgan’s current and future foreclosures, and it dismissed this claim with prejudice for lack of standing.
+ 
+Turning to the fraud and Florida RICO claims, the district court first grouped as “Adjudicated Plaintiffs” those individuals from judicial foreclosure states whose property had been the subject of a foreclosure judgment, dismissing all of their claims with prejudice based on the Rooker–Feldman doctrine. As to the remaining Appellants, the district court divided them into “Florida Plaintiffs” and “non-Florida Plaintiffs.” The district court dismissed both the fraud and Florida RICO claims without prejudice as to the Florida Plaintiffs. Finally, the district court dismissed the fraud claims without prejudice as to the non-Florida Plaintiffs but dismissed their Florida RICO claims with prejudice.
+ 
+The Appellants only appealed those dismissals entered with prejudice. However, the Appellants also contend that the entire case should be remanded to state court because the district court concluded that it lacked subject matter jurisdiction over some of the claims in this action.
+ 
+
+III. SUBJECT MATTER JURISDICTION
+We review the existence of subject matter jurisdiction de novo. Weatherly v. Ala. State Univ., 728 F.3d 1263, 1269 (11th Cir.2013). Subject matter jurisdiction is fundamental to our power to hear and decide cases, and we must raise questions about subject matter jurisdiction ourselves whenever a doubt regarding our jurisdiction arises. Smith v. GTE Corp., 236 F.3d 1292, 1299 (11th Cir.2001).
+ 
+JP Morgan removed this case based on 28 U.S.C. § 1441(a), which allows for removal of most civil actions where the district court would have original jurisdiction over the action. We find that we have diversity jurisdiction and thus need not consider whether federal question jurisdiction exists.
+ 
+Diversity jurisdiction exists if the parties to the action are citizens of different states and the amount in controversy exceeds $75,000, exclusive of interests and costs. 28 U.S.C. § 1332(a)(1). The amount in controversy is not in question. Thus, each Appellant must be a citizen of a different state than JP Morgan. See Triggs v. John Crump Toyota, Inc., 154 F.3d 1284, 1287 (11th Cir.1998) (“Diversity jurisdiction requires complete diversity; every plaintiff must be diverse from every defendant.”).
+ 
+[1] JP Morgan alleged in its notice of removal that it is a national banking association. A national banking association is a citizen of the state where it is “located.” 28 U.S.C. § 1348. For purposes of section 1348, a national bank is located in the place where it is designated to have its main office. Wachovia Bank v. Schmidt, 546 U.S. 303, 318, 126 S.Ct. 941, 952, 163 L.Ed.2d 797 (2006). JP Morgan pleaded in its notice of removal that its principal office is located in Columbus, Ohio, and thus it is a citizen of Ohio for diversity purposes. Therefore, the Appellants must all be citizens of states other than Ohio.
+ 
+Fifty-seven of the Appellants are natural persons, and as such are citizens of the states in which they are domiciled. Mas v. Perry, 489 F.2d 1396, 1399 (5th Cir.1974).4 Thus, these Appellants are citizens of Arizona, California, Colorado, Florida, Hawaii, *674 Massachusetts, Minnesota, New Jersey, New York, Oregon, Tennessee, Virginia, Washington, and Wisconsin.
+ 
+However, Rena E. Johnston–Farrington is identified in the complaint as “an authorized agent of the Farrington Family Trust.” From this statement it appears that Rena E. Johnston–Farrington is suing on behalf of the Farrington Family Trust. However, in some cases a trustee may sue in his or her own name. See Navarro Savings Assoc. v. Lee, 446 U.S. 458, 465, 100 S.Ct. 1779, 1784, 64 L.Ed.2d 425 (1980) (determining that eight individual trustees could sue in their individual names).5 This Court ordered supplemental briefing on the citizenship of the Farrington Family Trust. In response, JP Morgan submitted documents indicating that Johnston–Farrington is the sole trustee, settlor, and beneficiary of the trust. She is a citizen of California, and thus the trust is a citizen of California for diversity purposes.6 Therefore, complete diversity exists, and the district court had jurisdiction to consider the case.
+ 
+
+IV. DISMISSALS WITH PREJUDICE
+A. The Rooker–Feldman Doctrine
+Appellants Lawrence and Melanie Walsh (hereinafter “the Walshes”) appeal the district court’s dismissal with prejudice of their common law fraud and Florida RICO claims based on the Rooker–Feldman doctrine. After reviewing a copy of a Wisconsin state court docket sheet and a table submitted by JP Morgan, the district court concluded that the state court had rendered a final foreclosure judgment against the Walshes. The district court then found that this action amounted to an impermissible appeal of the Wisconsin state court judgment. The Walshes have neither challenged the district court’s decision to consult these documents nor the district court’s determination that the Wisconsin state court judgment was a final judgment. Thus, we accept the Wisconsin judgment as established for purposes of this appeal. See Access Now, Inc. v. Southwest Airlines Co., 385 F.3d 1324, 1330 (11th Cir.2004) (noting that “a legal claim or argument that has not been briefed before the court is deemed abandoned and its merits will not be addressed”).
+ 
+Instead, the Walshes contend that their action is not an appeal of the Wisconsin state court judgment, and thus their claims are not barred by the Rooker–Feldman doctrine. Alternatively, they argue that if their claims are barred by the Rooker–Feldman doctrine then the entire case should be remanded to the Florida state court for lack of subject matter jurisdiction. We review the district court’s Rooker–Feldman decision de novo. Doe v. Fla. Bar, 630 F.3d 1336, 1340 (11th Cir.2011).
+ 
+The Rooker–Feldman doctrine “is a jurisdictional rule that precludes the lower federal courts from reviewing state court judgments.” Alvarez v. Attorney Gen. for Fla., 679 F.3d 1257, 1262 (11th Cir.2012). Its premise is that the broad grant of *675 original jurisdiction to the district courts may at times conflict with Congress’s directive in 28 U.S.C. § 1257, that only the Supreme Court may review the judgments of state courts. Exxon Mobil Corp. v. Saudi Basic Indus. Corp., 544 U.S. 280, 291, 125 S.Ct. 1517, 1526, 161 L.Ed.2d 454 (2005). Lower federal courts generally lack jurisdiction over actions that seek reversal or nullification of state court judgments. D.C. Court of Appeals v. Feldman, 460 U.S. 462, 486–87, 103 S.Ct. 1303, 1317, 75 L.Ed.2d 206 (1983); Rooker v. Fid. Trust Co., 263 U.S. 413, 415–16, 44 S.Ct. 149, 150, 68 L.Ed. 362 (1923). However, the Supreme Court in Exxon Mobil narrowed the Rooker–Feldman doctrine as “confined to cases of the kind from which the doctrine acquired its name: cases brought by state-court losers complaining of injuries caused by state-court judgments rendered before the district court proceedings commenced and inviting district court review and rejection of those judgments.” 544 U.S. at 284, 125 S.Ct. at 1521–22. Thus, a district court does not lack jurisdiction under the Rooker–Feldman doctrine merely “because a party attempts to litigate in federal court a matter previously litigated in state court.” Id. at 293, 125 S.Ct. at 1527.
+ 
+The district court applied the four-part test this Court approved in Amos v. Glynn County Board of Tax Assessors, 347 F.3d 1249 (11th Cir.2003), to determine whether the Rooker–Feldman doctrine barred the Walshes’ claims. However, following Exxon Mobil, this Court rejected that test in favor of strict reliance on the language found in Exxon Mobil. Nicholson v. Shafe, 558 F.3d 1266, 1274 (11th Cir.2009). The Rooker–Feldman doctrine now applies when “(1) the success of the federal claim would ‘effectively nullify’ the state court judgment, or ... (2) the federal claim would succeed ‘only to the extent that the state court wrongly decided the issues.’ ” Alvarez, 679 F.3d at 1262–63 (quoting Casale v. Tillman, 558 F.3d 1258, 1260 (11th Cir.2009) (per curiam)). As such, the district court erred in applying the Amos test.
+ 
+[2] Upon considering the Exxon Mobil test, we conclude that the Walshes’ fraud and Florida RICO claims are not barred by the Rooker–Feldman doctrine. First, the Walshes’ claims would not effectively nullify the Wisconsin state court judgment. The Walshes seek money damages for alleged criminal and fraudulent conduct in the generation of foreclosure-related documents. There is no indication that the Walshes actually raised the issue of fraud in the Wisconsin foreclosure proceeding. Instead of seeking to nullify the state court judgment, the Walshes are seeking to bypass any findings in the state court judgment that would be adverse to them in this suit. See Nesses v. Shepard, 68 F.3d 1003, 1004 (7th Cir.1995) (“When a plaintiff seeks to relitigate a suit that has been decided against him, he is not so much attacking as trying to bypass the judgment in that suit; and the doctrine that blocks him is res judicata.”).
+ 
+Additionally, the Walshes’ suit falls outside the second prong of the Rooker–Feldman analysis. The Walshes’ alleged injuries flow at least in part from the generation of the foreclosure documents and not solely from the issuance of the state court judgment. Cf. Alvarez, 679 F.3d at 1263 (“Alvarez’s as-applied due process challenge boils down to a claim that the state court judgment itself caused him constitutional injury by arbitrarily denying him access to the physical evidence he seeks.” (emphasis added)); see Truong v. Bank of Am., N.A., 717 F.3d 377, 383 (5th Cir.2013) (finding that the Rooker–Feldman doctrine did not bar a challenge to a foreclosure when “the damages [the Appellant] *676 requested were for injuries caused by the banks’ actions, not injuries arising from the foreclosure judgment”). The Walshes’ claims are the type of claims contemplated in Exxon Mobil, as they have raised independent claims of criminal or fraudulent conduct that might “den[y] a legal conclusion that a state court has reached.” Exxon Mobil, 544 U.S. at 293, 125 S.Ct. at 1527 (internal quotation marks omitted).
+ 
+[3] Although the Rooker–Feldman doctrine does not bar the Walshes’ fraud and Florida RICO claims, the claims are barred by state preclusion law. See United States v. Hall, 714 F.3d 1270, 1271 (11th Cir.2013) (noting that this Court “ ‘may affirm for any reason supported by the record, even if not relied upon by the district court’ ” (quoting United States v. Chitwood, 676 F.3d 971, 975 (11th Cir.2012))). When evaluating the effect of a state court judgment, we apply the preclusion law of the rendering state. Lozman v. City of Riviera Beach, Fla., 713 F.3d 1066, 1075 n. 6 (11th Cir.2013). The Walshes joined this action in Florida, but the judgment at issue was rendered in Wisconsin state court. Thus, we apply the law of Wisconsin to determine whether the Walshes are precluded from bringing suit.
+ 
+Under Wisconsin law, “[c]laim preclusion or res judicata limits relitigation of issues that were or might have been litigated in former proceedings.” A.B.C.G. Enters., Inc. v. First Bank Se., N.A., 184 Wis.2d 465, 515 N.W.2d 904, 907 (1994). Most counterclaims are permissive under Wisconsin law, but the courts have recognized a common law exception when a litigant attacks a judgment in a subsequent proceeding that would undermine the rights established in the previous judgment. Menard, Inc. v. Liteway Lighting Prods., 282 Wis.2d 582, 698 N.W.2d 738, 745–46 (2005). In addition, the Wisconsin Supreme Court has recognized that allegations based on fraud and civil RICO involving a foreclosure proceeding should be brought in the initial foreclosure proceeding. See A.B.C.G. Enters., Inc., 515 N.W.2d at 909–10 (citing Henry v. Farmer City State Bank, 808 F.2d 1228 (7th Cir.1986)). As such, the Walshes are precluded from bringing these claims in the current litigation.
+ 
+For these reasons, we affirm the dismissal of the Walshes’ fraud and Florida RICO claims. We also affirm the district court’s decision to make the dismissal “with prejudice” since the Wisconsin state court judgment precludes any possibility of recovery in a separate fraud or civil RICO action based on the foreclosure. See Dresdner Bank AG v. M/V OLYMPIA VOYAGER, 463 F.3d 1233, 1239 (11th Cir.2006) (finding that dismissal with prejudice was appropriate when there was no possibility of recovery on an admiralty claim).
+ 
+We note that the Appellants’ amended demand for injunctive relief contains a broad demand that the district court “grant declaratory relief by entering a decree that any foreclosure action which was illegally or unlawfully undertaken by Defendant JPM be adjudged and declared as null, void, and of no force or effect.” It is impossible to discern from the complaint whether this demand is meant to apply to individuals like the Walshes who previously received foreclosure judgments in other states. A federal district court sitting in diversity would only have the powers of a Florida state court, and a Florida state court would have no power to simply overturn a Wisconsin judgment. See Phillips v. Kaplus, 764 F.2d 807, 812 (11th Cir.1985) (noting that Congress’s grant of judicial power neither gave federal courts power to deny state substantive rights nor power to create a right that would be denied under state law); Trauger v. A.J. *677 Spagnol Lumber Co., 442 So.2d 182, 183 (Fla.1983) (stating that the Florida courts must “recognize the judgments obtained in courts of sister states in order to prevent one state from selectively enforcing the laws of the others”).
+ 
+Insofar as the Walshes seek to have their Wisconsin judgment declared null and void by the district court sitting in diversity, such claim is barred by the Rooker–Feldman doctrine.7 See Rooker, 263 U.S. at 414, 44 S.Ct. at 149 (noting that the bill of equity sought to have a state judgment “declared null and void”). However, this does not, as Appellants suggest, necessitate remand of the entire case because the Rooker–Feldman doctrine does not destroy subject matter jurisdiction over this case; it only affects one claim within the case. See 28 U.S.C. § 1447(c). Even so, lack of subject matter jurisdiction over this claim precludes a judgment on the merits. See Crotwell v. Hockman–Lewis Ltd., 734 F.2d 767, 769 (11th Cir.1984). Instead of returning this case to the district court for entry of a new order, we modify the judgment to dismiss this injunctive claim without prejudice as to the Walshes. See id.8
+ 
+
+B. Injunctive Relief
+The district court dismissed some of the remaining claims for injunctive relief based on lack of standing and the rest for failing to meet one of the exceptions to the Anti–Injunction Act. We review both issues de novo. Ave. CLO Fund Ltd. v. Bank of Am., NA, 709 F.3d 1072, 1077 (11th Cir.2013) (standing); Estate of Brennan ex rel. Britton v. Church of Scientology Flag Serv. Org., Inc., 645 F.3d 1267, 1272 (11th Cir.2011) (Anti–Injunction Act).
+ 
+
+i. Standing
+All Appellants seek a broad injunction halting JP Morgan’s current foreclosure proceedings and enjoining all future “illegal” foreclosure proceedings. The district court dismissed these requests for injunctive relief for lack of standing. We agree with that conclusion.
+ 
+The Constitution limits the judicial power of the federal courts to adjudications of actual “Cases” and “Controversies.” Lujan v. Defenders of Wildlife, 504 U.S. 555, 559–60, 112 S.Ct. 2130, 2135–36, 119 L.Ed.2d 351 (1992). In order to satisfy the requirements for standing under Article III of the Constitution, a plaintiff must show: (1) injury-in-fact; (2) a causal connection between the asserted injury and the defendant’s activities; and (3) that the injury would be redressed by a favorable decision. Houston v. Marod Supermarkets, Inc., 733 F.3d 1323, 1328 (11th Cir.2013). Here, the district court concluded that any allegations of future injury were too speculative or conjectural to satisfy the injury-in-fact prong. See 31 Foster Children v. Bush, 329 F.3d 1255, 1265–66 (11th Cir.2003).
+ 
+[4] It would be pure speculation to suggest that these Appellants would be *678 harmed by current or future foreclosures of other individuals ‘ properties. While those Appellants with pending foreclosures would have standing to seek an injunction regarding their own proceedings, the Appellants have not alleged a sufficient likelihood of injury from unrelated current or future foreclosures to establish standing. Moreover, none of the Appellants have alleged facts to suggest that JP Morgan is likely to foreclose on them by fraudulent means again in the future. See City of Los Angeles v. Lyons, 461 U.S. 95, 107–108, 103 S.Ct. 1660, 1668, 75 L.Ed.2d 675 (1983) (noting that the plaintiff lacked standing to seek an injunction because it was speculative that he would be arrested again and that he would be subjected to a chokehold again).
+ 
+[5] Although dismissal was appropriate in this case, dismissal for lack of standing is not on the merits and must be made without prejudice. See Stalley ex rel. United States v. Orlando Reg’l Healthcare Sys., Inc., 524 F.3d 1229, 1235 (11th Cir.2008). Thus, we modify the judgment to indicate that those dismissals made for lack of standing are made “without prejudice” instead of “with prejudice” and affirm the judgment as modified. See Crotwell, 734 F.2d at 769 (modifying a judgment to read “without prejudice” when it previously read “with prejudice” without remanding it).
+ 
+
+ii. Anti–Injunction Act
+[6] Appellants with ongoing foreclosure proceedings also seek to enjoin the foreclosure of their own properties. The district court dismissed these claims because it found that none of the exceptions to the Anti–Injunction Act applied. Under the Anti–Injunction Act, a district court may not enjoin state proceedings “except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments.” 28 U.S.C. § 2283. The Appellants have cited no Act of Congress that would allow for injunctive relief, and we agree with the district court that neither of the two remaining exceptions applies.
+ 
+The second exception, or “necessary in aid of its jurisdiction” exception, applies in two narrow circumstances: (1) the federal court gains jurisdiction over res in an in rem proceeding before a party brings a subsequent state court action; or (2) the federal court is presented with a similar context, such as the need to protect an earlier injunction. Burr & Forman v. Blair, 470 F.3d 1019, 1028–29 (11th Cir.2006). Neither basis applies here. First, the Appellants have not pursued an in rem action but are instead seeking a judgment in personam against JP Morgan. See In re Rothstein, Rosenfeldt, Adler, P.A., 717 F.3d 1205, 1214 (11th Cir.2013) (noting that an in rem action exists when the district court is exercising jurisdiction over property). The Appellants have also not implicated the second basis, which applies when the district court must protect a pre-existing federal judgment or injunction. See Burr & Forman, 470 F.3d at 1029 (noting that this basis typically refers to cases where a court is protecting an earlier federal injunction, such as in school desegregation cases); Battle v. Liberty Nat’l Life Ins. Co., 877 F.2d 877, 881–82 (11th Cir.1989) (describing the need for an injunction in a complex antitrust action when a state action would destroy many years of litigation in the federal court).
+ 
+Finally, the third exception, known as the “relitigation exception,” does not apply in this case. The relitigation exception is applicable where subsequent state law claims “would be precluded by the doctrine of res judicata.” Burr & Forman, 470 F.3d at 1029–30. In addition to the existence *679 of a federal judgment, “the party seeking the injunction must make a strong and unequivocal showing of relitigation.” Delta Air Lines, Inc. v. McCoy Rests., Inc., 708 F.2d 582, 586 (11th Cir.1983) (internal quotation marks omitted). The Appellants have not received and cannot point to a federal judgment that has been issued in their favor. Cf. New York Life Ins. Co. v. Gillispie, 203 F.3d 384, 387–88 (5th Cir.2000) (examining a previous federal court judgment and finding that an injunction could be issued under the re-litigation exception).
+ 
+The district court characterized this dismissal as a dismissal with prejudice for lack of jurisdiction, and thus the Appellants again seek a remand of the entire case. The Anti–Injunction Act limits the reach of the equitable powers of the federal courts but is not considered a jurisdictional statute. See, e.g., Peterson v. BMI Refractories, 124 F.3d 1386, 1395 (11th Cir.1997) (determining whether the district court had subject matter jurisdiction over an action before deciding whether the Anti–Injunction Act barred injunctive relief); In re Mooney Aircraft, Inc., 730 F.2d 367, 372–73 (5th Cir.1984) (“The Anti–Injunction Act is not a jurisdictional statute, but goes only to the granting of a particular form of equitable relief.”). Accordingly, the district court had the power to render an adjudication on the merits. Moreover, dismissal with prejudice is appropriate when a more carefully drafted complaint would not state a claim for relief. See Ziemba v. Cascade Int’l, Inc., 256 F.3d 1194, 1213 (11th Cir.2013). The Appellants had multiple opportunities to amend the claim for injunctive relief, and we find it implausible that additional facts could yield a claim for which relief could be granted. We affirm these dismissals with prejudice.
+ 
+
+C. The Florida RICO Act
+The non-Florida Appellants appealed the district court’s dismissal of their Florida RICO Act claims with prejudice. The Florida resident plaintiffs did not appeal the dismissal of their Florida RICO Act claims, as they were dismissed without prejudice. The district court determined that none of the non-Florida Appellants pleaded sufficient facts involving Florida conduct to suggest that JP Morgan committed any crimes that would be punishable under Florida law. The district court dismissed these claims, stating that it lacked “jurisdiction” over them. Based on the ambiguity of the word “jurisdiction,” the Appellants argue that this case should be remanded to the state court because the district court “lacked subject matter jurisdiction over the case.”
+ 
+We note that the subject matter jurisdiction of the federal courts is conferred exclusively by Congress, not the states. Kontrick v. Ryan, 540 U.S. 443, 452, 124 S.Ct. 906, 914, 157 L.Ed.2d 867 (2004). While Florida statutes may bear on whether the Appellants have properly stated a sufficient claim for relief that would survive a dismissal under Federal Rule of Civil Procedure 12(b)(6), they do not necessarily have any bearing on the power of the federal courts to hear this case. See Norman M. Morris Corp. v. Weinstein, 466 F.2d 137, 142 (5th Cir.1972) (stating that a Florida statute limiting recovery of a foreign corporation that fails to register does not raise an issue of jurisdiction but might be a defense to a claim). Thus, we must determine whether the complaint states a cause of action, which we review de novo. Smith v. Casey, 741 F.3d 1236, 1241 (11th Cir.2014).
+ 
+The Florida RICO Act, patterned after the federal RICO Act, establishes civil liability when an enterprise engages in a pattern of criminal activity. *680 Fla. Stat. § 772.103.9 In order to establish a pattern of criminal activity, the plaintiff must allege two or more criminal acts “that have the same or similar intents, results, accomplices, victims, or methods of commission” that occurred within a five-year time span. Fla. Stat. § 772.102(4). The Appellants’ Florida RICO claims are based on a pattern of criminal activity involving predicate state law crimes of fraud, theft, and perjury, and a predicate federal law crime of mail fraud.
+ 
+Before examining the complaint, we can reject the Appellants’ arguments relating to the sufficiency of their pleading because these arguments were never made to the district court. See Coal. for the Abolition of Marijuana Prohibition v. City of Atlanta, 219 F.3d 1301, 1326 (11th Cir.2000) (“[F]ailure to brief and argue [an] issue during the proceedings before the district court is grounds for finding that the issue has been abandoned.”). In the district court the Appellants filed a five-page “Preliminary Response” to JP Morgan’s motion to dismiss that restated their position that the entire case should be remanded to the state court.10 The Appellants should have, at a minimum, argued in the alternative the sufficiency of the pleadings in order to preserve these issues for appeal, and they cannot raise these arguments for the first time now.
+ 
+However, even if the Appellants had not abandoned these issues, our careful review of the record confirms that the complaint fails to state a Florida RICO claim premised on any of the alleged predicate offenses. Appellants contend in their reply brief that a complaint states a claim for relief unless a plaintiff could prove “no set of facts” that would entitle him to relief. See United States v. Baxter Int’l, Inc., 345 F.3d 866, 880 (11th Cir.2003) (quoting Conley v. Gibson, 355 U.S. 41, 45–6, 78 S.Ct. 99, 102, 2 L.Ed.2d 80 (1957)).11 Counsel’s statement of the law is wrong for at least *681 two reasons. First, the Supreme Court has abrogated the Conley standard of notice pleading. See Bell Atl. Corp. v. Twombly, 550 U.S. 544, 560–63, 127 S.Ct. 1955, 1968–69, 167 L.Ed.2d 929 (2007) (discussing Conley’s “no set of facts” language and rejecting it as a pleading standard). Now, “[t]o survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to state a claim for relief that is plausible on its face.” Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 1949, 173 L.Ed.2d 868 (2009) (internal quotation marks omitted). Thus, any well-pleaded complaint “demands more than an unadorned, the-defendant-unlawfully-harmed-me accusation.” Id.
+ 
+Second, “[c]ivil RICO claims, which are essentially a certain breed of fraud claims, must be pled with an increased level of specificity” consistent with Rule 9 of the Federal Rules of Civil Procedure (“Rule 9”). Ambrosia Coal & Constr. Co. v. Pages Morales, 482 F.3d 1309, 1316 (11th Cir.2007). Under this pleading standard, a well-pleaded complaint must allege: “(1) the precise statements, documents, or misrepresentations made; (2) the time, place, and person responsible for the statement; (3) the content and manner in which these statements misled the Plaintiffs; and (4) what the defendants gained by the alleged fraud.” Brooks v. Blue Cross & Blue Shield of Fla., Inc., 116 F.3d 1364, 1380–81 (11th Cir.1997).
+ 
+Additionally, since the non-Florida Appellants are pursuing a civil remedy authorized under Florida law, they must allege a connection between Florida and the alleged wrongful conduct. Generally, Florida statutes “have no force beyond the limits of this state.” See Equitable Life Assur. Soc. of the United States of Am. v. McRee, 75 Fla. 257, 78 So. 22, 24 (1918). Indeed, there is a presumption that the legislature, in passing a statute, did not intend to apply a law extraterritorially. Jackson Lumber Co. v. Walton Cnty., 95 Fla. 632, 116 So. 771, 786 (1928). The Appellants do not point to any language in the Florida RICO Act that would indicate extraterritorial application of the law.12
+ 
+Although the Florida RICO Act does not apply extraterritorially, the non-Florida Appellants might nevertheless be able to state a Florida RICO claim if the conduct occurred partially in Florida and partially in another state. The district court consulted a Florida statute that defines when a person is subject to criminal prosecution in Florida to determine the reach of a Florida RICO Act claim based on a state law predicate act. See Fla. Stat. § 910.005. Under this statute, a person may be prosecuted in Florida if one of several conditions is met, including: “[t]he offense is committed wholly or partly within the state.” Fla. Stat. § 910.005(1)(a). “An offense is committed partly within this state if either the conduct that is an element *682 of the offense or the result that is an element, occurs within the state.” Fla. Stat. § 910.005(2).
+ 
+[7] The plain language of the Florida RICO Act supports the district court’s reading. See United Auto. Ins. Co. v. Rodriguez, 808 So.2d 82, 85 (Fla.2001) (explaining that a court lacks power to diverge from a statute’s language if the meaning is clear). In order to state a civil cause of action under the Florida RICO Act, a plaintiff must allege a pattern of criminal activity. See Fla. Stat. § § 772.103–104. The Florida RICO Act’s definition of “criminal activity” provides that a particular state law crime can serve as the predicate act for a RICO claim if it is “chargeable by indictment or information” and falls within a series of specified provisions. Fla. Stat. § 772.102(1)(a). The plain meaning of “chargeable by indictment” suggests that a plaintiff alleging “criminal activity” under the Florida RICO Act would have to allege that the crime is “chargeable by indictment” in Florida. To be chargeable by indictment under Florida criminal law, there must be sufficient contact with the state of Florida as defined by section 910.005. See Lane v. State, 388 So.2d 1022, 1026 (Fla.1980) (interpreting a predecessor to this statute to be jurisdictional and finding that it is essential to a Florida court’s ability to try a defendant).
+ 
+Thus, it is reasonable to infer that the Florida legislature intended the Florida RICO Act to run co-extensively with the reach of the Florida criminal statutes. The legislature enacted the Florida RICO Act in part to prevent organized criminals from manipulating Florida laws. See State v. Otte, 887 So.2d 1186, 1189–90 (Fla.2004). Thus, the Florida RICO Act seeks to deter organized criminal activity emanating from Florida. See Delisi v. Smith, 423 So.2d 934, 938 (Fla.2d Dist.Ct.App.1982) (finding that a forfeiture furthered the remedial purposes of the Florida RICO Act, which included discouraging migration of organized crime “families” from other states to Florida). Accordingly, we believe that the district court correctly applied section 910.005 as an element that must be pleaded when the claim involves predicate state law offenses that occurred partially in Florida and partially in another state. See Har–Pen Truck Lines, Inc. v. Mills, 378 F.2d 705, 710 (5th Cir.1967) (“In a diversity case, state law controls as to the substantive elements of plaintiff’s case and of defendant’s defense.” (internal quotation marks omitted)).
+ 
+Similarly, the Appellants would also need to allege Florida criminal activity in order to support a Florida RICO claim based on a federal law predicate act. Under federal law, venue is only appropriate in the district where the offense was committed or, in cases of conspiracy or continuing offenses under 18 U.S.C. § 3237(a), where the defendant performed an overt act in furtherance of the crime. United States v. Bradley, 644 F.3d 1213, 1253 (11th Cir.2011). Thus, it is necessary for all non-Florida Appellants to allege that at least part of the criminal activity in their foreclosures occurred in Florida. Although counsel for the Appellants represented at oral argument that each individual had alleged a tie to the Baymeadows Hub, that is not the case.
+ 
+The complaint describes the Baymeadows Hub as the “center of operations for the majority of the RICO conduct as alleged herein,” but it does not allege sufficient facts to suggest that every Appellant’s foreclosure involved the Baymeadows Hub. Instead, the complaint asserts that JP Morgan operated the Baymeadows Hub to prepare false documents “[a]t all times material hereto and incident to the specific matters set forth more fully hereinbelow as to certain of *683 the Plaintiffs.” According to the complaint, documents from the Baymeadows Hub were transmitted “to the affected Plaintiffs through the mails.” The plain meaning of these statements is that the Baymeadows Hub generated documents in some of the Appellants’ foreclosures, as alleged in their individual cases.
+ 
+Similarly, we have reviewed the specific factual allegations set forth as to each Appellant, and many of these factual paragraphs do not even mention the Baymeadows Hub. The following Appellants make no allegation that the Baymeadows Hub produced specific documents in their particular foreclosure actions: Jean A. Charbonneau, Louis Corti, Henry Cossio, Raclin T. Dang, Thuan Do, Tam Eatley, Renita Z. Gordon, Adrienne Hoban, Vincent Hoban, Jane Hobson, Russell B. Hobson, Jean Immesberger, Ronald Immesberger, Kazumi Kuboyama, Lan Le, Manh Le, Phuoc Le, Eileen G. Maturniak, George Maturniak, Leon McIntyre, Solange McIntyre, Danny Nguyen, Susan Nichter, Frank Rapp, Veronica Salinas, Michael D. Scott, Ted Taisuke, and Patrick Verhagen.13 Accordingly, the district court’s dismissal is affirmed as to all of these Appellants as they failed to allege a connection between the Baymeadows Hub, located in Florida, and their foreclosure proceedings. We must still consider, though, whether the remaining Appellants who did allege that a document in their foreclosure was created in Florida have alleged Florida RICO claims based on predicate acts of perjury, theft, or mail fraud.14
+ 
+Turning first to perjury, Florida recognizes both felony perjury, which occurs when a defendant makes a false statement while under oath in an official proceeding, and misdemeanor perjury, which occurs when a defendant makes a false statement under oath not in an official proceeding. Fla. Stat. § 837.02 (defining felony perjury); Fla. Stat. § 837.012 (defining misdemeanor perjury). Both may serve as predicate offenses under the Florida RICO Act. State v. Adkins, 553 So.2d 294, 297 (Fla.1st Dist.Ct.App.1989). While the Appellants did not refer to a specific perjury statute in their complaint, they only address the felony perjury statute discussed by the district court in their briefing before this Court. Thus, we only consider the felony perjury statute. See Access Now, Inc. v. Southwest Airlines Co., 385 F.3d 1324, 1330 (11th Cir.2004) (noting that an appellant must clearly and specifically raise an issue for review in his or her brief or it is abandoned).
+ 
+Under Florida law, it is a felony for a person to make “a false statement, which he or she does not believe to be true, under oath in an official proceeding.” Fla. Stat. § 837.02(1). There is no “result” element of perjury such that a fact finder must believe the false statement. See  *684 Adams v. Murphy, 394 So.2d 411, 414–15 (Fla.1981). As to the conduct punishable by perjury, the plain language of the statute suggests that the language “under oath in an official proceeding” modifies the term “false statement” to require that such a statement be made in an official proceeding. This reading is consistent with the purpose behind Florida’s perjury laws. See Wolfe v. State, 271 So.2d 132, 134 (Fla.1972) (“[T]he purpose to be guarded against and the reasons for the punishment for perjury are to deter persons from testifying under oath to false statements in order to mislead the trier of the facts.”). Logically then, if an individual creates a document in Florida and later uses that document to perjure himself in another state, the other state’s perjury laws would criminalize the conduct. See, e.g., Ariz.Rev.Stat. Ann. § 13–2702; Mass. Gen. Laws ch. 268, § 1; N.J. Stat. Ann. § 2C:28–1 (defining perjury similarly to Florida law). Moreover, this reading is supported by Florida having a misdemeanor perjury statute criminalizing the mere creation of certain false documents under oath.
+ 
+The remaining Appellants made the conclusory allegation that JP Morgan’s practices included, “in certain instances, actions involving perjury.” However, the complaint contains no indication as to which Appellants are raising perjury as a predicate offense. Additionally, those Appellants who alleged that a document was created in Florida failed to allege any facts to suggest that the document was used or created during an official proceeding in Florida. See, e.g., Schramm v. State, 374 So.2d 1043, 1045 (Fla.3d Dist.Ct.App.1979) (finding that the defendant’s responses to a police interrogation were not made in an “official proceeding” under the Florida perjury statute). Indeed, the complaint does not contain allegations that these particular documents were actually used in a foreclosure proceeding. However, any use of the documents occurred in the states of the non-Florida Appellants’ foreclosure proceedings, not Florida.
+ 
+Moreover, even if these Appellants had alleged a sufficient connection to Florida, the perjury allegations still failed to conform to the Rule 9 pleading requirements. In order to satisfy Rule 9, the complaint must allege “the details of the defendants’ allegedly fraudulent acts, when they occurred, and who engaged in them.” United States ex rel. Matheny v. Medco Health Solutions, Inc., 671 F.3d 1217, 1222 (11th Cir.2012) (internal quotation marks omitted). None of the Appellants has alleged essential facts regarding each document, such as when it was created, when it was used, and the specific individuals responsible for transmitting, mailing, or filing a particular document. See Brooks, 116 F.3d at 1380–81. Thus, the district court properly determined that the non-Florida Appellants could not state a Florida RICO claim based on perjury.
+ 
+Next, we must consider the allegations of theft as the predicate offense. As with perjury, the Appellants did not allege a particular theft statute and only referred to “Chapter 812, Florida Statutes, relating to theft,” quoting the Florida RICO Act. Chapter 812 of the Florida Code contains a large number of theft-related offenses, and the Appellants failed to properly allege which statutes JP Morgan purportedly violated.
+ 
+The district court relied on the basic theft statute, which provides:
+(1) A person commits theft if he or she knowingly obtains or uses, or endeavors to obtain or to use, the property of another with intent to, either temporarily or permanently:
+(a) Deprive the other person of a right to the property or a benefit from the property.
+*685 (b) Appropriate the property to his or her own use or to the use of any person not entitled to the use of the property.
+Fla. Stat. § 812.014. The non-Florida Appellants failed to plead sufficient facts to suggest that JP Morgan committed theft that would violate the Florida RICO Act. Indeed, the complaint alleges that some of the foreclosures are complete, and others are ongoing. Those with complete foreclosures would be alleging the completed offense of theft, and those with ongoing foreclosures would be more properly alleging attempted theft. The complaint does not distinguish among these individuals or identify the predicate offense being relied upon.
+ 
+Additionally, the Appellants allege that the theft here was accomplished by means of fraud. However, they have not alleged important facts to satisfy Rule 9 pleading, such as the dates on which specific documents were sent. See Brooks, 116 F.3d at 1380–81. Without alleging such critical facts, it is impossible to allege a sufficient connection between Florida and the foreclosure proceeding to support a Florida RICO claim based on theft. See, e.g., Lyons v. State, 711 So.2d 71 (Fla.2d Dist.Ct.App.1998) (determining that a defendant could be charged with grand theft of money taken outside Florida when the intent was formed in Florida). In order to determine whether the complaint alleged a crime that occurred partially in Florida, the Appellants would need to show a direct connection in time and effect from the creation of the document in Florida and the use of the document in a foreclosure proceeding.
+ 
+Finally, we must consider the federal offense of mail fraud. See 18 U.S.C. § 1341. The crime of mail fraud occurs when “a person (1) intentionally participates in a scheme or artifice to defraud another of money or property, and (2) uses or ‘causes’ the use of the mails or wires for the purpose of executing the scheme or artifice.” United States v. Ward, 486 F.3d 1212, 1222 (11th Cir.2007). The non-Florida Appellants failed to argue before the district court that they alleged sufficient facts to state a Florida RICO claim based on mail fraud. See Coal. for the Abolition of Marijuana Prohibition, 219 F.3d at 1326 (noting that failure to argue an issue before the district court is grounds for finding that it has been abandoned). Even so, the Appellants have pleaded insufficient facts to place JP Morgan on notice of mail fraud.
+ 
+None of the Appellants has alleged either the date a particular document was mailed or the locations or individuals responsible for mailing a document. See Brooks, 116 F.3d at 1380–81. While these Appellants have alleged that a document was generated or produced in Florida, it could have been mailed or transmitted to the Appellants from another location outside Florida. Without such essential facts, the non-Florida Appellants have not alleged sufficient facts to suggests that an overt act associated with mail fraud occurred in Florida. See Bradley, 644 F.3d at 1253 (noting that venue is appropriate for certain federal offenses where an overt act occurs). Although the Appellants attempt to rely upon general allegations about JP Morgan’s practices, they have not alleged sufficient facts or produced documentation to place JP Morgan on notice of either the content or time frame of particular mailings to the Appellants in this case. See Durham v. Bus. Mgmt. Assocs., 847 F.2d 1505, 1511–12 (11th Cir.1988) (explaining that a plaintiff may satisfy Rule 9 by submitting affidavits discussing some of the mailings and indicating that other mailings were sent over a period of years).
+ 
+*686 In sum, the Appellants failed to allege sufficient factual matter to support a Florida RICO claim based on any of their predicate offenses. The district court properly dismissed the claim.
+ 
+Additionally, we also conclude that it was not error for the district court to dismiss the non-Florida Appellants’ claims with prejudice. Dismissal with prejudice is proper when a more carefully drafted complaint would not state a claim for relief. See Ziemba v. Cascade, Int’l, Inc., 256 F.3d 1194, 1213 (11th Cir.2001). After the action was removed, the Appellants amended their complaint on three occasions. Moreover, Appellants’ counsel moved to file a second amended complaint and represented to the district court that the Appellants would be adding “significant additional facts [that] are directly relevant to [Appellants’] claims in this action, including their claims for violations of the Florida ... RICO Act.” We find it implausible, given this representation to the district court and the number of amended complaints filed in the case, that further pleading would rectify the many defects in the complaint. Thus, dismissal with prejudice was appropriate in this case.15
+ 
+
+V. Amendment of the Complaint
+Finally, the Appellants contend that the district court should have given them leave, once again, to amend the complaint. We review denial of a motion to amend a complaint for abuse of discretion. Smith v. Fla. Dep’t of Corrs., 713 F.3d 1059, 1063 (11th Cir.2013). However, a district court must generally freely allow the parties to amend their pleadings. Foman v. Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 230, 9 L.Ed.2d 222 (1962).
+ 
+The Appellants never requested leave to amend their complaint after JP Morgan moved to dismiss the case. Instead, they responded to the motion, mainly arguing for remand. The district court has no obligation to grant leave sua sponte when counsel did not make such a request. Wagner v. Daewoo Heavy Indus. Am. Corp., 314 F.3d 541, 542 (11th Cir.2002). Even after the district court entered its dismissals with prejudice, the Appellants never requested leave to file an amended complaint that would correct the defects in the prior pleadings. Thus, the Appellants are not entitled to further amendment of their complaint.
+ 
+
+VI. CONCLUSION
+Upon thorough review of the record, we affirm the district court’s dismissal of the entire case. We modify the dismissals for injunctive relief based on either Rooker–Feldman or standing grounds to read “without prejudice,” but we affirm all other dismissals made with prejudice.
+ 
+AFFIRMED AS MODIFIED.
+ 
+All Citations
+569 Fed.Appx. 669, RICO Bus.Disp.Guide 12,512
+Footnotes
+
+*
+
+Honorable L. Scott Coogler, United States District Judge for the Northern District of Alabama, sitting by designation.
+
+**
+
+Honorable Dudley H. Bowen, Jr., United States District Judge for the Southern District of Georgia, sitting by designation.
+
+1
+
+The complaint named JP Morgan Chase Bank, N.A., itself and as the successor by merger to Chase Home Finance, LLC. The Appellants contend that JP Morgan is liable both for its own alleged misconduct and for misconduct that occurred regarding various Chase Home Finance loans. However, we refer to “JP Morgan” as the Appellee in this action because any distinction between JP Morgan and Chase Home Finance is irrelevant for purposes of this appeal.
+
+2
+
+As this case comes before us on a motion to dismiss under Rule 12(b)(6) of the Federal Rules of Civil Procedure, we accept the Appellants’ factual allegations in their complaint as true. Simpson v. Sanderson Farms, Inc., 744 F.3d 702, 705 (11th Cir.2014).
+
+3
+
+When we reference “the complaint” throughout this opinion, unless otherwise stated, we are referring to the “[Corrected] Second Amended Complaint.”
+
+4
+
+All decisions of the former Fifth Circuit handed down prior to the close of business on September 30, 1981, are binding on us. Bonner v. City of Prichard, 661 F.2d 1206, 1209 (11th Cir.1981) (en banc).
+
+5
+
+This Court has recognized that Navarro Savings is a narrow exception to the general rule that unincorporated associations must consider all members of the association in determining citizenship. Riley v. Merrill Lynch, Pierce, Fenner & Smith, Inc., 292 F.3d 1334, 1339–40 (11th Cir.2002) (overruled on other grounds as recognized in Instituto De Prevision Militar v. Merrill Lynch, 546 F.3d 1340, 1348 (11th Cir.2008)).
+
+6
+
+Although this Court does not generally consider materials outside the original record before the district court, it has the equitable power to allow parties to supplement the record. See Cabalceta v. Standard Fruit Co., 883 F.2d 1553, 1555 (11th Cir.1989) (considering supplemental information relevant to subject matter jurisdiction).
+
+7
+
+Unlike the Walshes’ fraud and Florida RICO claims, this demand would be barred by the Rooker–Feldman doctrine as defined by this Court. See Alvarez, 679 F.3d at 1262–63. Instead of attempting to bypass the Wisconsin state court judgment, this demand purports to attack the judgment. Cf. Nesses, 68 F.3d at 1004.
+
+8
+
+The Rooker–Feldman doctrine is jurisdictional, and thus this claim should also be dismissed without prejudice as to Linda Zimmerman, the other “Adjudicated Plaintiff.” Her original judgment was rendered in Florida, not Wisconsin. Though she is not currently part of this appeal, we modify that portion of the dismissal to be without prejudice as well. See Weatherly v. Ala. State Univ., 728 F.3d 1263, 1269 (11th Cir.2013) (noting that this Court must inquire into jurisdictional matters sua sponte ).
+
+9
+
+The Florida RICO Act contains four separate prohibitions:
+It is unlawful for any person:
+(1) Who has with criminal intent received any proceeds derived, directly or indirectly, from a pattern of criminal activity or through the collection of an unlawful debt to use or invest, whether directly or indirectly, any part of such proceeds, or the proceeds derived from the investment or use thereof, in the acquisition of any title to, or any right, interest, or equity in, real property or in the establishment or operation of any enterprise.
+(2) Through a pattern of criminal activity or through the collection of an unlawful debt, to acquire or maintain, directly or indirectly, any interest in or control of any enterprise or real property.
+(3) Employed by, or associated with, any enterprise to conduct or participate, directly or indirectly, in such enterprise through a pattern of criminal activity or the collection of an unlawful debt.
+(4) To conspire or endeavor to violate any of the provisions of subsection (1), subsection (2), or subsection (3).
+Fla. Stat. § 772.103. The Appellants divided their Florida RICO claims into four separate counts, one for each of these four prohibitions. However, the complaint restated the same predicate offenses and the same factual allegations to support each claim and only substituted the specific statutory language in each count. The district court grouped the Florida RICO claims together because they were based on the same factual allegations, and so do we.
+
+10
+
+After filing an initial response to the motion to dismiss styled as a “Preliminary Response,” the Appellants filed a “Sur–Reply” in which they asked the district court to stay any briefing on the pleading issues until it had ruled on the motion to dismiss. However, the district court never granted such a stay, nor did the Appellants direct any briefing to the issue of the sufficiency of their pleading.
+
+11
+
+Appellants’ counsel also began his oral argument by referencing this standard.
+
+12
+
+The Appellants do rely in part on the federal RICO statute, which has been found to be persuasive when interpreting the Florida RICO Act. See Jackson v. BellSouth Telecomms., 372 F.3d 1250, 1263–64 (11th Cir.2004). This Court has previously held that the federal RICO Act may apply extraterritorially without an express directive of Congress if the effects of the racketeering activity are felt in the United States. Liquidation Com’n of Banco Intercontinental, S.A. v. Renta, 530 F.3d 1339, 1351–52 (11th Cir.2008). However, the holding in Renta has been called into question by the Supreme Court’s decision in Morrison v. Nat’l Australia Bank Ltd., 561 U.S. 247, 130 S.Ct. 2869, 177 L.Ed.2d 535 (2010). In Morrison, the Supreme Court found that absent an affirmative indication from Congress that a federal statute applied extraterritorially, it did not. 130 S.Ct. at 2883. Given the Supreme Court’s decision in Morrison and the clear Florida precedent that its laws are not extraterritorial, it is unlikely that the Florida Supreme Court would apply the effects test in Renta to the Florida RICO Act.
+
+13
+
+We also consulted the lengthy “RICO Case Statement” that the Appellants filed in this action. None of these Appellants alleged any additional facts in that document to tie JP Morgan’s Florida office to his or her foreclosure proceeding.
+
+14
+
+Although fraud is another predicate act for purposes of a Florida RICO claim, the Appellants made no argument in their brief that they had stated a fraud claim. The common law fraud count of the complaint was dismissed without prejudice, and that dismissal was not appealed. Indeed, Appellants’ only argument was for remand based on the district court’s statement that it could not determine whether it had jurisdiction over the claim. We have already decided the issue of jurisdiction, and thus any argument that the Appellants alleged a sufficient tie to Florida to rely on fraud as a predicate act is abandoned. See United States v. Ford, 270 F.3d 1346, 1347 (11th Cir.2001).
+
+15
+
+We note that the district court dismissed the common law fraud claim without prejudice as to all of the Appellants except the adjudicated Appellants. Although we would have been inclined to dismiss this claim with prejudice as well based on the number of amended complaints filed, neither party appealed that dismissal. Since that dismissal was not appealed, we do not disturb it today.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

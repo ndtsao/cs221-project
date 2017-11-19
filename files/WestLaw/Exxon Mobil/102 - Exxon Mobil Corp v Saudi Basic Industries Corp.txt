@@ -1,0 +1,258 @@
+
+
+
+
+
+Exxon Mobil Corp. v. Saudi Basic Industries Corp.
+United States Court of Appeals, Third Circuit. | March 24, 2004 | 364 F.3d 102 | 2004 WL 574889
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Red Flag - Severe Negative Treatment
+ Reversed and Remanded by Exxon Mobil Corp. v. Saudi Basic Industries Corp., U.S., March 30, 2005
+
+standard Citation:
+
+Exxon Mobil Corp. v. Saudi Basic Indus. Corp., 364 F.3d 102 (3d Cir. 2004)
+
+All Citations:
+
+364 F.3d 102
+
+Search Details
+
+Search Query:
+
+adv: NAME(”exxon mobil”)
+
+Jurisdiction:
+
+New Jersey
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:39 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Red Flag - Severe Negative Treatment
+ 	Reversed and Remanded by Exxon Mobil Corp. v. Saudi Basic Industries Corp., U.S., March 30, 2005
+364 F.3d 102
+United States Court of Appeals,
+Third Circuit.
+EXXON MOBIL CORPORATION; Exxon Chemical Arabia, Inc.; Mobil Yanbu Petrochemical Company, Inc.
+v.
+SAUDI BASIC INDUSTRIES CORPORATION Appellant.
+No. 02–2130.
+|
+Argued Dec. 9, 2003.
+|
+March 24, 2004.
+Synopsis
+Background: Corporate parent of fifty-percent joint venture participants brought action against other fifty-percent participant for breach of joint venture agreement. The United States District Court for the District of New Jersey, 194 F.Supp.2d 378, William H. Walls, J., denied defendant’s motion to dismiss. Appeal was taken.
+ 
+[Holding:] The Court of Appeals, Ambro, Circuit Judge, held that Rooker–Feldman doctrine deprived court of subject matter jurisdiction.
+ 
+Vacated in part and remanded.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+Federal CourtsImmunity
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)2Particular Decisions, Matters, or Questions as Reviewable
+170Bk3295Immunity
+(Formerly 170Bk574)
+
+
+Under “collateral order doctrine,” court of appeals has jurisdiction over appeal from interlocutory order denying motion to dismiss on ground of immunity.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsSua sponte determination
+
+
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2072Necessity of Objection;  Power and Duty of Court
+170Bk2074Sua sponte determination
+(Formerly 170Bk30)
+
+
+Court of appeals has continuing obligation to sua sponte raise issue of subject matter jurisdiction when it is in question.
+5 Cases that cite this headnote
+
+
+
+[3]
+
+CourtsParticular Cases and Contexts
+
+
+106Courts
+106VIIConcurrent and Conflicting Jurisdiction
+106VII(B)State Courts and United States Courts
+106k509.1Federal-Court Review of State-Court Decisions;  Rooker-Feldman Doctrine
+106k509.3Particular Cases and Contexts
+106k509.3(1)In general
+(Formerly 106k509)
+
+
+Rooker–Feldman doctrine deprived federal court of subject matter jurisdiction over suit for declaration of joint venture participants’ rights to intellectual property, after identical issue was litigated in state trial court, even though federal action was filed prior to entry of final judgment in state court.
+35 Cases that cite this headnote
+
+
+
+[4]
+
+CourtsParticular Cases and Contexts
+
+
+106Courts
+106VIIConcurrent and Conflicting Jurisdiction
+106VII(B)State Courts and United States Courts
+106k509.1Federal-Court Review of State-Court Decisions;  Rooker-Feldman Doctrine
+106k509.3Particular Cases and Contexts
+106k509.3(1)In general
+(Formerly 106k509)
+
+
+Rooker–Feldman doctrine deprived federal court of subject matter jurisdiction over suit by joint venture participants’ corporate parent, seeking declaration of participants’ rights to intellectual property, once final judgment was issue in defendant’s state court suit against participants on identical issue; parent was in privity with its wholly-owned subsidiaries, and had named them as co-plaintiffs in its federal action.
+36 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*102 Gregory A. Castanias (Argued), William K. Shirey II, Jones Day, Washington, DC, Kenneth R. Adamo, Michael W. Vary, Leozino Agozzino, Jones Day, North Point, Cleveland, OH, for Appellant.
+Elizabeth J. Sher, Pitney, Hardin, Kipp & Szuch, Morristown, NJ, James W. Quinn *103 (Argued), David J. Lender, Weil, Gotshal & Manges LLP, New York City, Andrew S. Pollis, David J. Michalski, Hahn, Loeser & Parks, Cleveland, OH, K.C. Johnson, Exxon Mobil Corporation, Houston, for Appellees.
+Before AMBRO, FUENTES and CHERTOFF, Circuit Judges.
+
+
+OPINION OF THE COURT
+AMBRO, Circuit Judge.
+Saudi Basic Industries Corporation (“SABIC”) appeals from the District Court’s order denying its motion to dismiss, based on sovereign immunity, the claims of two ExxonMobil subsidiaries, Mobil Yanbu Petrochemical Company (“Yanbu”) and Exxon Chemical Arabia, Inc. (“ECAI”). We do not reach the foreign sovereign immunity question, however, because we determine that the Rooker–Feldman doctrine bars federal subject matter jurisdiction over the subsidiaries’ claims, which have been already decided in state court.
+ 
+
+I.
+Facts and Procedural Posture
+In 1980, SABIC and the Exxon (now ExxonMobil) subsidiaries formed two joint venture entities. One, called Yanpet, was the joint venture between SABIC and Yanbu, and another, called Kemya, was the joint venture between SABIC and ECAI. Two decades later, the parties began to dispute the propriety of royalties SABIC had charged to the joint venture entities for the sublicense to a polyethylene manufacturing method called the Unipol® process. In September 2000 SABIC sued Yanbu and ECAI in the Delaware Superior Court seeking a declaratory judgment that these royalty charges did not violate the joint venture agreements with Yanbu and ECAI. Later that same month ExxonMobil, Yanbu, and ECAI countersued SABIC in the United States District Court for the District of New Jersey (Civil Action No. 00–3841), seeking the converse declaratory judgment—that SABIC had overcharged the joint venture entities for the sublicense in violation of the joint venture agreements.
+ 
+In January 2002, Yanbu and ECAI filed an answer to SABIC’s state court complaint, asserting as counterclaims the same claims they had filed in their federal court complaint. In March 2003, after a two-week trial in the Delaware Superior Court, the jury returned a $416,880,764 verdict against SABIC in favor of ExxonMobil. SABIC has appealed the verdict, which is currently pending in the Delaware Supreme Court.
+ 
+Prior to the state court trial, SABIC moved to dismiss ExxonMobil’s federal court action, asserting foreign sovereign immunity. The District Court denied the motion on April 3, 2002. Saudi Basic Indus. Corp. v. ExxonMobil Corp., 194 F.Supp.2d 378 (D.N.J.2002). Though the order also addressed other issues in that action, SABIC appeals only from the sovereign immunity decision.
+ 
+
+II.
+Jurisdiction
+A. Appellate Jurisdiction
+[1] We generally do not have jurisdiction to review interlocutory decisions such as the denial of a motion to dismiss. Under the collateral order doctrine,1 however, *104 we have recognized exceptions to this rule. One well-established exception is for orders denying motions to dismiss for reasons of immunity. See, e.g., In re Montgomery County, 215 F.3d at 373 (citing Nixon v. Fitzgerald, 457 U.S. 731, 102 S.Ct. 2690, 73 L.Ed.2d 349 (1982)). Thus, we have appellate jurisdiction over the District Court’s denial of SABIC’s motion to dismiss based on sovereign immunity.
+ 
+
+B. Rooker–Feldman Doctrine
+[2] Determining that appellate jurisdiction is proper in a case does not end our jurisdictional inquiry. We have a “continuing obligation to sua sponte raise the issue of subject matter jurisdiction when it is in question.” Desi’s Pizza, Inc. v. City of Wilkes–Barre, 321 F.3d 411, 420 (3d Cir.2003) (citing Bracken v. Matgouranis, 296 F.3d 160, 162 (3d Cir.2002)). We focused at oral argument on whether federal subject matter jurisdiction over this case fails under the Rooker–Feldman doctrine because ExxonMobil’s claims have already been litigated in state court. Aided by post-argument letter briefs submitted by the parties, we conclude the answer is yes.
+ 
+[3] The Rooker–Feldman doctrine, derived from two Supreme Court cases—Rooker v. Fidelity Trust Co., 263 U.S. 413, 44 S.Ct. 149, 68 L.Ed. 362 (1923), and District of Columbia Court of Appeals v. Feldman, 460 U.S. 462, 103 S.Ct. 1303, 75 L.Ed.2d 206 (1983)—prevents lower federal courts from “sit[ting] in direct review of the decisions of a state tribunal.” Gulla v. North Strabane Twp., 146 F.3d 168, 171 (3d Cir.1998). Because Congress has conferred jurisdiction to review a state court’s decision only on the Supreme Court, see 28 U.S.C. § 1257, lower federal courts lack the power to decide claims in which “the relief requested ... requires determining that the state court’s decision is wrong or ... void[ing] the state court’s ruling.” Desi’s Pizza, 321 F.3d at 419 (quoting FOCUS v. Allegheny County Court of Common Pleas, 75 F.3d 834, 840 (3d Cir.1996)). As we recently explained, “a claim is barred by Rooker–Feldman under two circumstances: first, if the claim was ‘actually litigated’ in state court prior to the filing of the federal action or, second, if the claim is ‘inextricably intertwined with [the] state adjudication.’ ” Desi’s Pizza, 321 F.3d at 419 (quoting Parkview Assocs. P’ship v. City of Lebanon, 225 F.3d 321, 325 (3d Cir.2000)).
+ 
+The state level decision need not be of its highest court. The Rooker–Feldman doctrine applies equally to final decisions of lower state courts. FOCUS, 75 F.3d at 840.
+ 
+Here there is no dispute that ExxonMobil’s claims are identical to the claims upon which the Delaware Superior Court reached a final judgment. Thus, though our Court takes a narrow view of the Rooker–Feldman doctrine, Parkview Assocs. P’ship, 225 F.3d at 326, litigating ExxonMobil’s claims to final judgment in state court presents the “paradigm situation in which Rooker–Feldman precludes a federal district court from proceeding.” E.B. v. Verniero, 119 F.3d 1077, 1090–91 (3d Cir.1997) (describing a case in which the federal court plaintiff sought an injunction directing that a state court order not be carried out).
+ 
+ExxonMobil argues that the “actually litigated” circumstance does not trigger *105 Rooker–Feldman because the March 2003 state court judgment was not reached prior to ExxonMobil’s filing of the federal action in August 2000. It cites to Desi’s Pizza, in which we said Rooker–Feldman bars a claim “if the claim was ‘actually litigated’ in state court prior to the filing of the federal action,” 321 F.3d at 419. But we do not read this language as imposing a new requirement that, in order for the “actually litigated” trigger to apply, the plaintiff’s federal claims must be filed after the state claims reach a final judgment. In deciding whether a claim was “actually litigated” in state court for Rooker–Feldman purposes, we have consistently looked to the substance of the state court’s judgment compared to the plaintiff’s claims in the federal action. See Parkview Assocs. P’ship, 225 F.3d at 335–36; Gulla, 146 F.3d at 173. Filing the latter before the state court judgment does not escape Rooker–Feldman’s grasp. The only timing relevant is whether the state judgment precedes a federal judgment on the same claims. Desi’s Pizza itself is illustrative because there the state court reached final judgment after the plaintiff filed claims in federal court. Yet we decided that the plaintiff’s claims were not “actually litigated” because neither its state court pleadings nor the state court’s judgment discussed or referenced the claims it filed in federal court. If in Desi’s Pizza we had intended to adopt a new requirement that the state court must reach a final judgment prior to the filing of the federal action in order for the “actually litigated” trigger to apply, we had a full opportunity to do so. Furthermore, were we to find that the Rooker–Feldman “actually litigated” trigger did not apply to federal actions filed prior to the state court’s final judgment, we would be encouraging parties to maintain federal actions as “insurance policies” while their state court claims were pending. This defeats an “elementary principle” underpinning the Rooker–Feldman doctrine—“that a party’s recourse for an adverse decision in state court is an appeal to the appropriate state appellate court, and ultimately the Supreme Court under § 1257, not a separate action in federal court.” Parkview Assocs. P’ship, 225 F.3d at 324.
+ 
+[4] ExxonMobil also argues that Rooker–Feldman should not apply in this case because it is not a party to the action in Delaware state court, in which only its subsidiaries, Yanbu and ECAI, are defendants. Indeed, we have consistently (and recently) held that Rooker–Feldman does not bar claims of plaintiffs who were not parties to the state court proceeding. See Nat’l R.R. Passenger Corp. v. Pa. Pub. Util. Comm’n, 342 F.3d 242, 257 (3d Cir.2003); Marks v. Stinson, 19 F.3d 873, 886 n. 11 (3d Cir.1994). But we have also noted that this limiting principle of the Rooker–Feldman doctrine “has a close affinity to the principles embodied in the legal concepts of claim and issue preclusion.” Valenti v. Mitchell, 962 F.2d 288, 297 (3d Cir.1992). Claims and issues decided against an entity bind also its parties in privity, including subsidiaries. Lubrizol Corp. v. Exxon Corp., 929 F.2d 960, 966 (3d Cir.1991). Underscoring this common sense privity principle is the fact that ExxonMobil’s interest in its federal claims is identical to its subsidiaries’ interest in their state court claims, because its right to recover is derivative of its subsidiaries’ right to recover. Indeed, both Yanbu and ECAI are co-plaintiffs with ExxonMobil in the federal action.
+ 
+As ExxonMobil’s federal claims were “actually litigated” in state court, we need not analyze whether, under the alternative prong of the Rooker–Feldman doctrine, they were “inextricably intertwined with a previous state court adjudication.” Parkview Assocs. P’ship, 225 F.3d at 327. We *106 simply note that our case presents an equally clear application of the “inextricably intertwined” circumstance, which exists when “federal relief can only be predicated upon a conviction that the state court was wrong,” id. at 325, or when “the federal court must ... take action that would render [the state court’s] judgment ineffectual,” FOCUS, 75 F.3d at 840. By its own admission, ExxonMobil seeks to maintain its federal action as an “insurance policy” in order to relitigate the overcharge issue if SABIC prevails in its efforts to overturn the state court verdict in favor of ExxonMobil. If that were to happen, ExxonMobil’s federal action would squarely be seeking to invalidate a final judgment of the state court, the very situation contemplated by Rooker–Feldman’s “inextricably intertwined” bar.
+ 
+* * * * * *
+ 
+Because ExxonMobil’s federal claims were identical to the claims in which the Delaware Superior Court reached a final judgment, they are barred by the Rooker–Feldman doctrine. Even within our Court’s narrow confines for Rooker–Feldman, this case is easily cabined. We cannot imagine a more classic invocation of the Rooker–Feldman jurisdictional bar than to preclude a party from maintaining a federal action as an “insurance policy” in case the state trial court decision in that party’s favor is overturned by an appellate state court. We therefore vacate those aspects of the District Court’s order addressing Civil Action No. 00–3841, the subject of this appeal, and remand with instructions to dismiss that action for lack of subject matter jurisdiction.
+ 
+All Citations
+364 F.3d 102
+Footnotes
+
+1
+
+The collateral order doctrine excepts a “narrow range” of interlocutory decisions from the general rule that only final orders are appealable. In re Montgomery County, 215 F.3d 367, 373 (3d Cir.2000) (citing Cohen v. Beneficial Indus. Loan Corp., 337 U.S. 541, 545–46, 69 S.Ct. 1221, 93 L.Ed. 1528 (1949)). To be an appealable collateral order, it must “conclusively determine the disputed issue, the issue must be completely separate from the merits of the action, and the decision must be effectively unreviewable on appeal from a final judgment.” Id. (citing Coopers & Lybrand v. Livesay, 437 U.S. 463, 468, 98 S.Ct. 2454, 57 L.Ed.2d 351 (1978)).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Direct History
+The KeyCited document has been negatively impacted in the following ways by events or decisions in the same litigation or proceedings:
+ 1.  Exxon Mobil Corp. v. Saudi Basic Industries Corp. 
+364 F.3d 102 , 3rd Cir.(N.J.) , Mar. 24, 2004
+Certiorari Granted by
+2.  Exxon Mobil Corp. v. Saudi Basic Industries Corp.
+543 U.S. 924 , U.S. , Oct. 12, 2004
+AND Reversed and Remanded by
+ 3.  Exxon Mobil Corp. v. Saudi Basic Industries Corp. 
+544 U.S. 280 , U.S. , Mar. 30, 2005
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  Shawe v. Pincus 
+2017 WL 4251440 , D.Del.
+BUSINESS ORGANIZATIONS - Dismissal. Rooker barred stockholders’ 1983 claim alleging that state court-ordered sale of corporation violated Takings and Due Process Clauses.
+Sep. 26, 2017
+Case
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+

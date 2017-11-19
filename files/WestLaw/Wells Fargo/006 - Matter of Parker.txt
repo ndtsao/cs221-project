@@ -1,0 +1,325 @@
+
+
+ 
+
+
+Matter of Parker
+United States Court of Appeals, Fifth Circuit. | July 14, 2016 | 655 Fed.Appx. 993 | 2016 WL 3771837
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Matter of Parker, 655 F. App’x 993 (5th Cir. 2016)
+
+All Citations:
+
+655 Fed.Appx. 993
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:14 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+655 Fed.Appx. 993
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 5th Cir. Rules 28.7 and 47.5.
+United States Court of Appeals,
+Fifth Circuit.
+In the MATTER OF: Kendall L. PARKER; Monica Dawes Parker, Debtors.
+Kendall L. Parker; Monica Dawes Parker, Appellants,
+v.
+Wells Fargo Bank, N.A.; Brice, Vander, Linden & Wernick, P.C.; Mortgage Electronic Registration Systems, Incorporated, Appellees.
+No. 15–41477
+|
+Summary Calendar
+|
+Date Filed: 07/14/2016
+Synopsis
+Background: Mortgagors brought state court action over a dispute regarding their mortgage loan against creditor, Mortgage Electronic Registration Systems (MERS), and creditor’s counsel, seeking to quiet title over their property and recover damages for violation of RESPA, and asserting state law claims for breach of contract, fraud, and intentional infliction of emotional distress. Following removal, the United States District Court for the Eastern District of Texas, granted defendants’ motion to dismiss. Mortgagors appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] mortgagors failed to establish that creditor’s interest in property was invalid, as would support claim to quiet title;
+ 
+[2] mortgagors failed to demonstrate actual injury as a result of reliance on misrepresentation, as required to state claim for fraud; and
+ 
+[3] allegations were insufficient to state claim for violation of RESPA.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+Mortgages and Deeds of TrustPleading
+Quieting TitleAllegations as to cloud or adverse claim of defendant
+
+
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1646Pleading
+(Formerly 266k265)
+318Quieting Title
+318IIProceedings and Relief
+318k33Pleading
+318k34Bill, Complaint, or Petition in General
+318k34(5)Allegations as to cloud or adverse claim of defendant
+
+
+Mortgagors failed to establish that creditor’s interest in property was invalid, as would support claim to quiet title; mortgagors’ claim that was based on legitimacy of creditor as assignee to the property interests under the mortgage was supported by only conclusory allegations.
+Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustFraud and misrepresentation
+
+
+266Mortgages and Deeds of Trust
+266VScope, Operation, and Effect of Transaction;  Rights, Duties, and Liabilities of Parties
+266V(K)Other Transactions and Dealings Between Parties
+266k1184Fraud and misrepresentation
+(Formerly 266k216)
+
+
+Mortgagors failed to demonstrate actual injury as a result of reliance on misrepresentation by creditor that it had right to foreclose on mortgagors’ property, as required to state claim for fraud under Texas law; mortgagors failed to demonstrate that right to foreclose was actually false, and failed to demonstrate any actual injury as a result of any reliance on this assertion.
+Cases that cite this headnote
+
+
+
+[3]
+
+Consumer CreditRegulations in general
+
+
+92BConsumer Credit
+92BIIFederal Regulation
+92BII(A)In General
+92Bk30Regulations in general
+
+
+Mortgagors’ allegations that creditor failed to respond to qualified written request (QWR) letter to creditor were insufficient to state claim against creditor for violation of RESPA, where letter was not related to servicing of mortgagors’ loan, but instead requested proof of creditor’s authority to collect payments under the promissory note and deed of trust. Real Estate Settlement Procedures Act of 1974 § 6, 12 U.S.C.A. § 2605.
+1 Cases that cite this headnote
+
+
+
+*994 Appeal from the United States District Court for the Eastern District of Texas, USDC No. 4:13–CV–281.
+Attorneys and Law Firms
+Kendall L. Parker, McKinney, TX, Pro Se.
+Monica Dawes Parker, McKinney, TX, Pro Se.
+Thomas A. Connop, Thomas F. Loose, Locke Lord, L.L.P., Dallas, TX, Bradley Clay Knapp, Locke Lord, L.L.P., New Orleans, LA, for Appellees, Wells Fargo Bank, N.A., Mortgage Electronic Registration Systems, Incorporated.
+Cristina Platon Camarata, Buckley Madole, P.C., Dallas, TX, for Appellee Brice, Vander, Linden & Wernick, P.C.
+Before HIGGINBOTHAM, ELROD and SOUTHWICK, Circuit Judges.
+Opinion
+PER CURIAM:*
+
+Appellants Kendall and Monica Parker filed suit against Wells Fargo Bank, Mortgage Electronic Registration Systems, Inc. (“MERS”), and Wells Fargo’s counsel1 to quiet title over their property and recover damages in related causes of action over a dispute regarding their mortgage loan. Plaintiffs moved for summary judgment on their suit to quiet title, which the district court denied. Simultaneously, Defendants moved to dismiss Plaintiffs’ remaining claims under Rule 12(b)(6), which the court granted. On appeal, the Parkers argue that the lower court’s denial of summary judgment and the grant of Rule 12(b)(6) dismissal was in error. We affirm.
+ 
+
+I.
+On February 25, 2004, the Parkers signed a promissory note (titled “Note”) as the borrower-mortgagor of $173,468.00 from CH Mortgage Company I, Ltd. (“CH”), the lender.2 The Note also referenced and utilized a Deed of Trust, executed on the same day, as the “security instrument” means of enforcing payment with regard to real property located at 4405 Rancho Del Norte Trail (“the Property”) in McKinney, Texas.3 The Deed of Trust itself listed MERS as the trustee beneficiary on behalf of CH and the assignee *995 of CH. MERS subsequently assigned the deed to Wells Fargo on March 12, 2012, an assignment of which the Parkers claimed they were never made aware. However, they also admitted in their amended complaint to making continuous monthly mortgage payments to Wells Fargo from February 25, 2004 to November 1, 2011. According to Wells Fargo, the Parker’s last payment was made on November 25, 2011.
+ 
+Citing concern over the housing bubble crisis, Plaintiffs sent correspondence titled “RESPA Qualified Written Request, Complaint, Dispute of Debt & Validation of Debt Letter” (“the Parker’s QWR letter”) on November 29, 2011.4 Primarily, the letter questioned whether Wells Fargo in fact owned the promissory note and had any authority to continue to collect payments. The letter also threatened legal action under RESPA for a failure to comply. Wells Fargo responded to the Parkers dated December 29, acknowledging the receipt of the QWR and promising to look into the matter. The Parkers sent correspondence on February 27, 2012, titled “Notice of Default / Notice of Opportunity to Cure,” which was signed and notarized. The Notice alleged that Wells Fargo was in default of its contractual obligations and provided ten days to cure. A failure to cure, according the Parkers, would be taken as an implicit “acceptance and agreement.” The Parkers then sent a notarized “Certificate of Default” on April 2, 2012, stating that Wells Fargo was in default. Dated on that same day, the Parkers also signed their “Memorandum of Contract” with a third party individual as a witness. The document purported to transfer title of the Property to the Parkers and foreclose all of Wells Fargo’s interests in it based on their “tacit acceptance” of default.5
+ 
+In early June 2012, Wells Fargo sent notice that they had elected to accelerate the debt. Later that month, the Parkers sent return correspondence stating that they were willing to satisfy the full debt, but conditioned the tender of payment upon the receipt of proof that Wells Fargo indeed was the owner of the promissory note.6 Wells Fargo sent notice and set an auction sale for the Property on July 3, 2012. One day prior to the sale, the Parkers filed for bankruptcy under Chapter 13 disputing the mortgage with Wells Fargo and thereby causing an automatic stay.7 *996 The proceedings were converted to a Chapter 7 bankruptcy on August 21, 2013. Wells Fargo moved for relief from stay which was denied in October. However, on October 30, the bankruptcy trustee abandoned the Property back to the Parkers resulting in a lifted stay.
+ 
+The case was removed to the district court in February of 2014. In their Amended Complaint, the Parkers listed their claims against Wells Fargo and their co-defendants: (1) to quiet title, (2) violation of RESPA, (3) breach of contract, (4) fraud, and (5) intentional infliction of emotional distress. Defendants subsequently moved to dismiss all of the Parker’s claims. The Parkers moved for summary judgment solely on their claim to quiet title. The district court denied summary judgment to the Parkers and granted Defendants’ Motion to Dismiss on all of the Parkers’ claims with prejudice. The Parkers made timely appeal to this Court alleging erroneous summary judgment denial for quieting title and dismissal of all claims of relief.
+ 
+
+II.
+On appeal, this Court reviews the grant or denial for a motion of summary judgment de novo under the same criteria used by the district court.8 Summary judgment is proper if the movant shows that there are no genuine disputes of material fact and that the movant is entitled to judgment as a matter of law.9 Evidence and inferences are drawn under this standard in the light most favorable to the nonmoving party.10 The Court may consider other materials presented in the record as well as the materials cited in the motion.11
+ 
+Similarly, we review a Rule 12(b)(6) dismissal de novo.12 Under this standard, this Court affirms unless the allegations, where all well-pleaded facts are assumed true in favor of the plaintiff, “support relief on any possible theory.”13 “Dismissal is proper if the complaint lacks an allegation regarding a required element necessary to obtain relief.... And, conclusory allegations or legal conclusions masquerading as factual conclusions will not suffice to prevent a motion to dismiss.”14
+ 
+
+III.
+Under Texas law, a suit to quiet title is a request to invoke the court’s powers of equity in removing a “cloud” on plaintiff’s title to the Property.15 In order to prevail, the Parkers must show that Well Fargo’s claim “(1) constitutes a hindrance having the appearance of a better right to title than its own, that (2) appears to be valid on its face, and that (3) for reasons not apparent on its face, is not valid.”16
+ 
+[1]The court below properly dismissed the suit to quiet title. The Parkers have admitted that a creditor has a valid interest in this Property;17 they only dispute *997 whether Wells Fargo is the rightful holder of this interest. As the district court observed, a suit to quiet title is not the appropriate way to resolve this dispute. Even if it were, the Parkers have failed to show that Wells Fargo’s interest was invalid.18 Their argument rests entirely on the legitimacy of Wells Fargo as the assignee to the Property interests under the mortgage, but they offer nothing but conclusory allegations to support their claim.19 Therefore, as a matter of law, the Parkers’ suit to quiet title failed to meet summary judgment standards.
+ 
+
+IV.
+[2]The Parkers’ claims of fraud against Wells Fargo and its counsel, BMPC, are deficient. As correctly stated by the district court, it was Parkers’ burden to show:
+(1) the defendant made a false material representation; (2) knowingly or recklessly; (3) that was intended to induce plaintiff to act upon the representation; and that (4) plaintiff actually and justifiably relied upon the representation and suffered injury.20
+As the lower court correctly noted, the Parkers “have not sufficiently pleaded a claim for fraud.”21 The Parkers allege that the Defendants misrepresented that Wells Fargo had the right to foreclose. But the Parkers never demonstrated that Well Fargo’s asserted right to foreclose was actually false,22 despite the conclusory argument that since Defendants didn’t show them the note, there is no note.23 Furthermore, they failed to demonstrate any actual injury as a result of any reliance on this assertion. In fact, the facts seem to show that the harm the Parkers suffered—foreclosure—was the result of their own default. The court below, therefore, was correct in dismissing the fraud claim for failing to meet the required elements.
+ 
+
+V.
+[3]The Parkers also alleged a violation of RESPA as a basis for recovering damages on the grounds that Wells Fargo failed to properly respond to their Qualified Written Request (“QWR”) letter. To succeed under such a claim, plaintiffs have to show that “their correspondence met the requirements of a QWR, that Wells Fargo failed to make a timely response, and that this failure caused them actual damages.”24 However, a valid QWR “must *998 be related to the servicing of the loan.”25 “Servicing,” as defined in RESPA, “means receiving any scheduled periodic payments from a borrower pursuant to the terms of any loan ... and making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the loan.”26
+ 
+Here, the Parker’s QWR letter is deficient in meeting RESPA’s express requirements. The letter requests proof of Wells Fargo’s authority to collect payments under the promissory note and deed of trust, which does not relate to “servicing of the loan” under RESPA. Even assuming the letter was a valid QWR, the Parkers’ claim fails because they did not show any facts “giving rise to a reasonable inference that [they] suffered actual damages from the alleged violation of the RESPA.”27 The lower court was correct to deny relief.28
+ 
+
+VI.
+Finally, the Parkers’ claims for breach of contract and for the intentional infliction of emotional distress are waived on appellate review. The appellants’ brief failed to sufficiently argue these claims.29 Similarly, appellants’ brief also failed to bring argument against the lower court’s dismissal of claims against MERS. Therefore, any claim of error in the dismissal of claims against MERS is also waived.30
+ 
+For the foregoing reasons, the judgment of the district court is AFFIRMED.
+ 
+All Citations
+655 Fed.Appx. 993
+Footnotes
+
+*
+
+Pursuant to 5TH CIR. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5TH CIR. R. 47.5.4.
+
+1
+
+Brice, Vander Linden, and Wernick, P.C. is now Buckley Madole, P.C. (“BMPC”).
+
+2
+
+The definition of “Lender” includes, according to the Note, the “successors and assign[ees]” of CH Mortgage Co. I, Ltd.
+
+3
+
+The Deed of Trust also internally referenced the Note and also provided that any covenants would pass to successors and assigns. Both documents also expressly provided that a default of payments by the Borrower could result in acceleration on the full remaining debt. The Deed of Trust specifically listed foreclosure procedures and the right to collect fees upon default. The record indicates it was properly recorded in Collin County, Texas.
+
+4
+
+Plaintiffs claim that this letter constitutes a valid Qualified Written Request (“QWR”) and is therefore an entitlement to the protections and provisions of the Real Estate Settlement Protection Act (“RESPA”).
+
+5
+
+The memorandum of contract claimed that the impending transfer of title and foreclosure would be “lawful” under RESPA, NRS, and the UCC. Id.
+
+6
+
+The Parkers contend that their offer was for an unconditional tender of payment which Wells Fargo refused. However, as correctly stated in Wells Fargo’s brief, “[a] valid and legal tender of money consists of the actual production of the funds and offer to pay the debt involved.” Baucum v. Great Am. Ins. Co. of New York, 370 S.W.2d 863, 866 (Tex. 1963). The tender, moreover, must not be dependent on another variable; it must be unconditional. Id. A “mere offer to pay” is not a tender. Vilbig v. Trumble Steel Erectors, 464 S.W.2d 676, 677 (Tex. Civ. App.—Amarillo 1970, no writ). The Parkers’ offers were, therefore, not valid tenders.
+
+7
+
+The Parkers also contend that the district court erred in stating that Wells Fargo had filed a proof of claim during the bankruptcy proceedings. They imply that the lack of a proof of claim listing on the bankruptcy court’s docket sheet is further evidence against Wells Fargo’s lien creditor status. However, whether a proof of claim was filed is irrelevant here. As a secured creditor, Wells Fargo was not required to file a proof of claim. In re Simmons, 765 F.2d 547, 551 (5th Cir. 1985) (discussing the requirements of 11 U.S.C. § 501(a) and Bankr. R. 3002(a)).
+
+8
+
+Johnson v. Odom, 910 F.2d 1273, 1277 (5th Cir. 1990).
+
+9
+
+Fed. R. Civ. P. 56(a).
+
+10
+
+Id.
+
+11
+
+Fed. R. Civ. P. 56(c)(2).
+
+12
+
+Blackburn v. City of Marshall, 42 F.3d 925, 931 (5th Cir. 1995).
+
+13
+
+Cinel v. Connick, 15 F.3d 1338, 1341 (5th Cir. 1994).
+
+14
+
+Blackburn, 42 F.3d at 931.
+
+15
+
+Wright v. Matthews, 26 S.W.3d 575, 578 (Tex. App.—Beaumont 2000, pet. ref’d).
+
+16
+
+Gordon v. W. Houston Trees, Ltd., 352 S.W.3d 32, 42 (Tex. App.—Houston [1st Dist.] 2011, no pet.).
+
+17
+
+The Parkers, for instance, made a conditional offer to satisfy the accelerated mortgage debt in order to avoid foreclosure post-execution of their “Memorandum of Contract” if Wells Fargo could prove they were the holder of the Note.
+
+18
+
+The Parkers have stated numerous times that they were willing to pay upon proof that Wells Fargo was the true holder of the promissory note. Wells Fargo has offered to allow visual inspection by the Parkers of the promissory note in their offices, but seems to have been turned down in each instance.
+
+19
+
+See Appellants’ Br. at 11 (maintaining that the Parkers have met the burden of proof for summary judgment by simply making the allegation that Wells Fargo had an illegitimate claim with no further evidence). Additionally, in their Motion for Summary Judgment (referencing their pleadings), the Parkers are essentially stating that the absence of evidence is evidence of absence.
+
+20
+
+Ernst & Young v. Pac. Mut. Life Ins., 51 S.W.3d 573, 577 (Tex. 2001).
+
+21
+
+Mem. Op. and Order at 11.
+
+22
+
+The record shows that BMPC offered the Parkers multiple opportunities to examine the Note, which the Parkers did not accept.
+
+23
+
+In their Amended Complaint, the Parkers’ concluded that defendants were guilty on all of the misconduct claims because they “failed to prove” their respective assertions to the contrary.
+
+24
+
+Williams v. Wells Fargo Bank, N.A., 560 Fed.Appx. 233, 241 (5th Cir. 2014).
+
+25
+
+Hurd v. BAC Home Loans Servicing, 880 F.Supp.2d 747, 768 (N.D. Tex. 2012) (citing 12 U.S.C. § 2605(e)(1)(A)).
+
+26
+
+12 U.S.C. § 2605(i)(3); see Hurd v. BAC Home Loans Servicing, 880 F.Supp.2d 747, 768 (N.D. Tex. 2012) (citing 12 U.S.C. § 2605(i)(3)) (denying plaintiffs’ allegation of a RESPA violation because (1) the alleged QWR letter—seeking confirmation defendant was the holder of the promissory note—did not qualify as a valid QWR under RESPA, and (2) plaintiff failed to show facts they she suffered actual injury); see also Reed v. Litton Loan Servicing, No. 1:10–cv–217, 2011 WL 817357 (E.D. Tex. 2011) (dismissing RESPA violation claim because the invalid QWR letter did not relate to “servicing” of the loan); Allen v. Bank of Am., N.A., No. EP–14–cv–429–KC, 2015 WL 1726986, (W.D. Tex. 2015) (“Courts have consistently held that a borrower’s written demand for the production of certain loan documents does not relate to the ‘servicing’ of a loan, and therefore does not trigger a loan servicer’s response obligations under [RESPA].”).
+
+27
+
+Hurd, 880 F.Supp.2d at 768.
+
+28
+
+The Parkers also have implicitly claimed a RESPA violation for not being notified of the assignment of rights of the original lender to Wells Fargo. The record here is silent on whether actual notice was sent to the Parkers. However, just like in Hurd, the Parkers’ claim still fails for failure to show any facts “giving rise to a reasonable inference that [they] suffered actual damages from the alleged violation of the RESPA.” Hurd, 880 F.Supp.2d at 768–69.
+
+29
+
+Fed. R. App. P. 28(a)(8)(A).
+
+30
+
+Id.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

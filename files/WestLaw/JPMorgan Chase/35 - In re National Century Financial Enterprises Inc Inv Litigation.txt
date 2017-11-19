@@ -1,0 +1,239 @@
+
+
+ 
+
+
+In re National Century Financial Enterprises, Inc., Inv. Litigation
+United States Court of Appeals, Sixth Circuit. | August 29, 2012 | 497 Fed.Appx. 491 | 2012 WL 3740685
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Opinion
+All Citations
+
+standard Citation:
+
+In re Nat’l Century Fin. Enterprises, Inc., Inv. Litig., 497 F. App’x 491 (6th Cir. 2012)
+
+All Citations:
+
+497 Fed.Appx. 491, 2012 WL 3740685
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Ohio
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:57 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+497 Fed.Appx. 491
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Sixth Circuit Rule 28. (Find CTA6 Rule 28)
+United States Court of Appeals,
+Sixth Circuit.
+In re NATIONAL CENTURY FINANCIAL ENTERPRISES, INC., INVESTMENT LITIGATION.
+Amedisys, Inc., et al., Plaintiff–Appellant,
+and
+City of Chandler Arizona, et al., Plaintiffs,
+v.
+Suzanne K. Hosch, et al., Defendants,
+and
+JP Morgan Chase Bank, et al., Defendants–Appellees.
+No. 10–4194.
+|
+Aug. 29, 2012.
+Synopsis
+Background: After commencing federal action asserting contract, breach of fiduciary duty, and fraud claims against bank and its accounts receivable financier, which thereafter filed for bankruptcy protection, healthcare provider commenced second action in Louisiana state court, raising similar claims against bank and its executives. After action was removed and transferred, the United States District Court for the Southern District of Ohio, 2010 WL 3431820, granted summary judgment for bank on preclusion grounds. Provider appealed.
+ 
+Holdings: The Court of Appeals, Boyce F. Martin, Jr., Circuit Judge, held that:
+ 
+[1] final decision was entered in bank’s favor on the merits in provider’s first action on issue of contractual relationship between provider and bank, as required for claim preclusion to apply to subsequent claims against bank;
+ 
+[2] claims asserted against bank in second action could have been litigated in first action, as required for claim preclusion to apply in second action; and
+ 
+[3] bank did not waive its claim preclusion defense.
+ 
+Affirmed.
+ 
+See also 377 Fed.Appx. 531.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+JudgmentJudgment on motion or summary proceeding in general
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(A)Judgments Operative as Bar
+228k569Judgment on motion or summary proceeding in general
+
+
+Final decision on the merits was entered in bank’s favor, in prior action, on healthcare provider’s claim against bank seeking declaratory judgment that contract between provider and its accounts receivable financier and contract between bank and financier formed single contractual relationship or that provider was third-party beneficiary of bank’s contract with financier, as required for claim preclusion to apply in provider’s subsequent action against bank, where appellate court affirmed summary judgment for bank, holding that parties did not intend for separate contracts to be one tri-party contract and that provider was not intended beneficiary of bank’s contract with financier.
+Cases that cite this headnote
+
+
+
+[2]
+
+JudgmentJudgment vacated or reversed
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(A)Judgments Operative as Bar
+228k581Judgment vacated or reversed
+
+
+Reversal of grant of summary judgment and remand of certain of healthcare provider’s claims in prior action against bank and provider’s accounts receivable financier did not bar bank’s claim preclusion defense in provider’s subsequent action against it, where Court of Appeals, in reversing and remanding, found that affected claims did not relate to bank.
+Cases that cite this headnote
+
+
+
+[3]
+
+BankruptcyIssues between non-debtors
+JudgmentNature and elements of bar or estoppel by former adjudication
+
+
+51Bankruptcy
+51IIn General
+51I(C)Jurisdiction
+51k2053Issues between non-debtors
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(B)Causes of Action and Defenses Merged, Barred, or Concluded
+228k584Nature and elements of bar or estoppel by former adjudication
+
+
+Bank’s potential claims for indemnification and contribution against bankruptcy estate of healthcare provider’s accounts receivable financier had requisite conceivable effect on estate, such that bankruptcy court had “related-to” jurisdiction over provider’s claims against bank in provider’s prior, transferred action against bank and financier, and therefore claims asserted by provider in its subsequent action against bank could have been litigated in prior action in bankruptcy court, as required for claim preclusion to apply to those claims in subsequent action. 28 U.S.C.A. § 157(c)(1).
+3 Cases that cite this headnote
+
+
+
+[4]
+
+JudgmentWaiver of bar
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(C)Persons Who May Take Advantage of the Bar
+228k633Waiver of bar
+
+
+Bank objected to claim-splitting by healthcare provider when it moved to transfer to Ohio district court second action filed against it by provider in Louisiana, and thus did not waive its claim preclusion defense in second action by acquiescing to simultaneous litigation, despite bank’s failure also to seek reference of second action to bankruptcy court, to which provider’s first action had already been transferred, following transfer of second action to Ohio district court. Restatement (Second) of Judgments § 26(1)(a).
+Cases that cite this headnote
+
+
+
+*493 On appeal from the United States District Court For The Southern District Of Ohio.
+Before: MARTIN and McKEAGUE, Circuit Judges; CALDWELL, District Judge.*
+Opinion
+BOYCE F. MARTIN, JR., Circuit Judge.
+
+**1 Amedisys, Inc., filed suit against JPMorgan Chase Bank, N.A. in Ohio federal district court (the first suit), alleging various contract, fiduciary duty, and fraud claims regarding JPMorgan’s role in a dispute about receivables and funds that Amedisys claimed it owned. These assets are potentially the property of the bankruptcy estate of National Century Financial Enterprises. After National Century filed for bankruptcy (the bankruptcy case), the first suit was referred, on a motion by Amedisys, to the Ohio bankruptcy court. Amedisys separately filed a subsequent suit (the second suit) in Louisiana state court against JPMorgan and certain of JPMorgan’s executives alleging similar claims under Louisiana law; this second suit was removed, on a motion by JP Morgan, to the United States District Court for the Middle District of Louisiana. The second suit was then stayed pending proceedings in the bankruptcy case and transferred to the Ohio district court. The district court granted judgment in favor of JPMorgan on the Ohio claims raised in the first suit. This Court affirmed in part and reversed in part this judgment against Amedisys.
+ 
+JPMorgan moved for summary judgment on the Louisiana claims raised in the second suit on the grounds that they were barred by res judicata due to the resolution of the first suit. The district court granted JPMorgan’s summary judgment motion in the second suit, and Amedisys appeals. For the reasons that follow, we AFFIRM the judgment of the district court.
+ 
+
+I.
+This is a case about claim preclusion. JPMorgan seeks to use this Court’s decision in the first suit to preclude claims made by Amedisys in the subsequent second suit brought under Louisiana state law. The underlying facts of the first suit were recounted by this Court in its prior decision in that case, In re Nat’l Century Fin. Enters., Inc., 377 Fed.Appx. 531, 533–35 (6th Cir.2010) (citations and internal footnotes omitted):
+*494 [National Century] supplied accounts receivable financing to healthcare providers, including Amedisys. Under a series of identical Sale and Subservicing Agreements ... with Amedisys, [National Century] was given the right to purchase insurance payments owed to Amedisys for services already rendered, termed “Eligible Receivables.” The arrangement gave Amedisys, and companies like it, access to immediate funding based on anticipated future collections. [National Century] affiliate NPF VI financed the purchases of the receivables by raising money from investors in exchange for promissory notes secured by the receivables. These notes were issued in accordance with a Master Indenture Agreement with JPMorgan. JPMorgan established accounts to handle the collection and distribution of funds payable to the healthcare providers that contracted with NPF VI.
+Amedisys first entered into a Sale Agreement with [National Century] in December of 1998. Under the terms of the Sale Agreement, Amedisys sent a weekly list of all its receivables to [National Premier Financial Services, Inc]. [National Premier] then determined which receivables were eligible for purchase, and calculated the “Purchase Price,” based on the net value of the receivables less fees, program costs, and other adjustments. Payment of the Purchase Price was made from the Purchase Account through [National Premier]’s instructions to JPMorgan. According to the Sale Agreement, “[f]ollowing payment of the Purchase Price on any Purchase Date, ownership of each Purchased Receivable will be vested in the Purchaser.” The [sale] agreement required that Amedisys set up lockbox accounts and instruct payors of receivables sold to NPF VI to deposit their payments into the appropriate account. The lockbox accounts were swept daily into the Collection Account.
+**2 While [National Century] was not obligated to purchase all eligible receivables submitted, Amedisys was required to notify commercial payors that all payments should be sent to the lockbox account. The notice sent to payors stated that Amedisys would “sell to NPF from time to time certain of our Receivables of which you are the obligor” and that payment into the lockbox account “will operate to discharge your obligation ... whether or not ownership has been transferred to NPF.” Because funds other than payments on purchased receivables could be swept into the Collection Account, the Sale Agreement recognized that “certain amounts deposited in the Collection Account may relate to Receivables other than Purchased Receivables and that such amounts continue to be owned by the Seller.”
+While [National Century] was not required to purchase every eligible receivable, its practice was to do so. Through April 2002, [National Century] routinely purchased all of Amedisys’s eligible receivables. In April 2002, Amedisys and [National Century] altered the arrangement established by the Sale Agreement, allowing Amedisys to request a specific amount of funding each week, rather than receive full payment for its receivables. The record does not reveal the precise understanding reached between the parties. James Dierker, an [National Century] employee who was Amedisys’s primary contact at the company, testified that Amedisys’s [Chief Financial Officer] at the time, John Joffrion, first discussed decoupling the value of Eligible Receivables from the amount sent to Amedisys in 2000. Dierker testified that he passed the request along to his superiors and that *495 eventually [National Century]’s funding department and Amedisys “put together the mechanical details.” Dierker noted that, at the time, Amedisys owed [National Century] a significant outstanding balance, and neither he nor Joffrion contemplated Amedisys amassing a net-credit position. After the change was instituted in April 2002, Amedisys occasionally requested more money than supported by their receivables, but more often took less, reducing their balance owing to around $1.6 million at the end of September 2002.
+For the first three weeks in October 2002, Amedisys made no requests for funding, which resulted in its accruing a substantial credit balance. Unbeknownst to Amedisys, [National Century] was by then on the brink of financial collapse. On October 22, 2002, Amedisys requested a $2.8 million payment. The funding was not paid immediately and was eventually paid in installments over two days. On October 29, 2002, Amedisys made another funding request, which yielded only $38,000.00. [National Century] and Amedisys then entered into negotiations. A “buyout reconciliation” was prepared by [National Century]’s accounting department, which showed that collections from Amedisys’s lockbox accounts exceeded payments to Amedisys by roughly $7.3 million. [National Century] and Amedisys initially agreed to a proposal to offset $6 million Amedisys owed another [National Century] affiliate on a separate capital note ... against the $7.3 million that the parties agreed NPF VI owed to Amedisys, and to have JPMorgan send Amedisys the remaining $1.3 million. However, JPMorgan, which was not a party to the [c]apital [n]ote agreement, did not honor the transfer request. Amedisys filed a complaint seeking injunctive relief forcing JPMorgan to authorize payment of the entire $7.3 million on November 8, 2002. [National Century] filed for relief under Chapter 11 of the United States Bankruptcy Code shortly thereafter, and the district court referred Amedisys’s lawsuit to the bankruptcy court.
+**3 Amedisys’s Second Amended Complaint asserted thirteen counts: Count One sought a declaratory judgment clarifying the ownership of the $7.3 million and confirming that the Sale Agreement and Master Indenture created one contractual relationship between [National Century], Amedisys and JPMorgan; Count Two alleged breach of fiduciary trust on the part of JPMorgan for failure to perform its duties as an escrow agent; Counts Three through Five sought imposition of a trust in favor of Amedisys on various trust theories; Count Six sought turnover of the disputed funds; Counts Seven through Ten alleged breach of the Sale Agreement, breach of fiduciary duty, and fraud against [National Century], and sought specific performance mandating the return of the disputed funds; Count Eleven requested an order for an accounting; Count Twelve sought removal of NPFS as Servicer of the Sale Agreement; and Count Thirteen alleged conversion by [National Century].
+ 
+On February 21, 2003, Amedisys filed a separate complaint against JPMorgan in Louisiana state court, which opened the second suit. The claims in the second suit are similar to those in the first suit. This second suit was removed, on a motion by JP Morgan, to the United States District Court for the Middle District of Louisiana. The second suit was then stayed pending proceedings in the bankruptcy case and transferred to the Ohio district court. Meanwhile, the first case against National Century and JPMorgan, which had been  *496 referred to the bankruptcy court handling the bankruptcy case, moved forward, id. at 535:
+[National Century] and JPMorgan filed motions for summary judgment, which the bankruptcy court granted on all counts, except Count Seven. The parties entered into a stipulated agreement dismissing Count Seven, and Amedisys appealed to the district court. The district court affirmed the decision of the bankruptcy court. Amedisys timely appealed the grant of summary judgment as to Counts One through Six and Thirteen.
+ 
+This Court then affirmed the district court’s order adopting the bankruptcy court’s grant of summary judgment in the first case against Amedisys on Counts Two and Six; affirmed for JPMorgan on Count One; reversed summary judgment on Counts Three, Four, Five, and Thirteen; and reversed in part on Count One. After the second suit was transferred to an Ohio district court, JPMorgan moved for summary judgment in this case, arguing that the Louisiana state law claims in the second suit were precluded by this Court’s decision in the first suit. The district court granted JPMorgan’s motion for summary judgment on the second suit. Amedisys appeals, arguing that the Ohio district court erred in finding the Louisiana state law claims were precluded and in finding that JPMorgan did not acquiesce to Amedisys’s litigation of similar claims in two fora.
+ 
+
+II.
+This Court reviews “a district court’s grant of summary judgment de novo.” Binay v. Bettendorf, 601 F.3d 640, 646 (6th Cir.2010) (citation omitted). Summary judgment is proper if the materials in the record “show[ ] that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed.R.Civ.P. 56(a). “In deciding a motion for summary judgment, the court must view the factual evidence and draw all reasonable inferences in favor of the nonmoving party.” Banks v. Wolfe Cnty. Bd. of Educ., 330 F.3d 888, 892 (6th Cir.2003) (citing Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986)).
+ 
+
+III.
+**4 Claim preclusion “refers to the effect of a judgment in foreclosing litigation of a matter that never has been litigated, because of a determination that it should have been advanced in an earlier suit.” Migra v. Warren City Sch. Dist. Bd. of Educ., 465 U.S. 75, 77 n. 1, 104 S.Ct. 892, 79 L.Ed.2d 56 (1984). “[A] claim will be barred under the doctrine of claim preclusion if the following four elements are present: (1) a final decision on the merits; (2) a subsequent action between the same parties or their privies; (3) an issue in a subsequent action which should have been litigated in the prior action; and (4) an identity of the causes of action.” Wilkins v. Jakeway, 183 F.3d 528, 532 (6th Cir.1999). Amedisys argues that the district court erred in deciding the second suit was precluded by the result of the first suit because it erroneously found that the first and third prongs of the claim preclusion test were met.
+ 
+
+1. First prong: Final decision on the merits
+As discussed above, this Court previously reversed the trial court’s grant of summary judgment against Amedisys in the first suit as to Counts Three, Four, Five, and Thirteen, and in part as to Count One. Each claim in the second suit is assessed below with respect to the first prong’s requirement that there be a final decision *497 on the merits of the claim for claim preclusion to apply.
+ 
+[1] The defendants first argue claim preclusion as to ownership of the $7.3 million and the nature of any contractual relationship among National Century, Amedisys, and JPMorgan, claims raised in Count One in the first suit. As to the claims raised in Count One, there exists a final decision on the merits because this Court previously affirmed summary judgment for JPMorgan on the claims raised under Count One in the first suit. In Count One, Amedisys sought a declaratory judgment that “the Sale Agreement and Master Indenture form a single contractual relationship between [National Century], Amedisys and JPMorgan or, alternatively, that Amedisys is a third-party beneficiary of the Master Indenture, and that JPMorgan owed it a fiduciary duty.” In re Nat’l Century Fin. Enters., Inc., 377 Fed.Appx. at 539. We held that “JPMorgan had no contact at all [with Amedisys] prior to Amedisys failing to receive its requested funding in November 2002 [and that there is] no evidence that the parties understood or intended the two separate contracts to constitute one tri-party contract.” Id. at 540. Further, this Court held that “Amedisys cannot be an intended beneficiary under the Master Indenture, and JPMorgan owes it no fiduciary duty.” Id. Based on these rulings, there has been a final decision on the merits as to the claims raised in Count One with respect to JPMorgan.
+ 
+[2] The defendants next argue claim preclusion on the claim that the relevant funds were held by National Century or JPMorgan in trust. These claims were raised as Counts Three, Four, and Five in the first suit. JPMorgan is a named defendant in Counts Four and Five; it is not a named defendant in Count Three. The Ohio district court noted that “[t]hough JPMorgan is named as a defendant on these claims, it is clear that JPMorgan has never asserted an ownership interest in the funds; the bankruptcy estate is the party in interest.” The true dispute, as outlined by this Court in its decision in the first suit, at the center of the arguments about whether the funds were held in trust, is between Amedisys and National Century, not between Amedisys and JPMorgan. See id. at 537–39 (noting that summary judgment was inappropriate where genuine issues of material fact existed about the ownership of the receivables in question—and whether they were traceable to Amedisys—and noting that Amedisys would be required to show “that the monies claimed are the proceeds of the receivables at issue, and not simply the commingled balance of the funds still in the debtor’s possession”). JPMorgan did not assert an ownership interest in the funds or the receivables, and JPMorgan does not have an interest in the claims addressed in these Counts. No matter that this claim was decided in the first suit with regard to other co-defendants, JPMorgan is not liable on this claim in either the first or second suits. Further, this Court noted that the reason it overturned summary judgment against Amedisys on these counts in the first suit was because “the intention of the parties in modifying performance under the Sale Agreement is in genuine dispute. If the parties agreed that the money flowing through the lockbox would remain Amedisys’s, a trust may have arisen. Therefore, if Amedisys is not, as the bankruptcy court assumed, a simple creditor of [National Century] owed funds for purchased receivables, summary judgment is inappropriate.” Id. at 538. Further, JPMorgan no longer holds any funds claimed by any party. For these reasons, though this Court remanded these Counts in the first suit, the claims therein do not actually *498 relate to JPMorgan. This Court’s previous remand and reversal on these claims does not bar JPMorgan’s claim preclusion defense because this Court’s decision found that those claims did not relate to JPMorgan.
+ 
+**5 Finally, JPMorgan is not a defendant with regard to the claims raised in Count Thirteen of the first case. Thus, this Court’s reversal of summary judgment on that Count, against National Century and in Amedisys’s favor, does not affect JPMorgan’s argument for claim preclusion in the second suit.
+ 
+In sum, none of these reversed rulings affect Amedisys’s claims in the second suit against JPMorgan. Those rulings that are relevant are in JPMorgan’s favor and thus satisfy the first prong of the claim preclusion test. The district court did not err in finding that the first prong was met.
+ 
+
+2. Third prong: Issue in subsequent action which should have been litigated in prior action
+The third prong of the claim preclusion test requires that, for claim preclusion to apply to an issue in a subsequent action, the issue could have been litigated in a prior action. Wilkins, 183 F.3d at 532. The parties’ arguments regarding this prong center on whether the Ohio bankruptcy court had competent jurisdiction to rule on the first case. If it did have competent jurisdiction, then this prong is satisfied because any claims brought in the subsequent second suit could have been litigated before the Ohio bankruptcy court. If the bankruptcy court did not have jurisdiction, this prong is not satisfied and JPMorgan’s claim preclusion defense is barred. This Court already implicitly decided that the bankruptcy court had competent jurisdiction when it affirmed in part and reversed in part the district court’s order affirming the bankruptcy court’s grant of summary judgment. In re Nat’l Century Fin. Enters., Inc., 377 Fed.Appx. at 533. Under the law of the case doctrine, an issue that has been ruled on in a prior stage of a case is ordinarily considered settled and not subsequently reconsidered by the court; such settled issues are considered the “law of the case.” However, the law of the case doctrine does not bar this Court from reconsidering jurisdictional issues. “We recognize that the law of the case doctrine is discretionary when applied to a coordinate court or the same court’s own decisions....” Bowling v. Pfizer, Inc., 132 F.3d 1147, 1150 (6th Cir.1998). We have noted in an unpublished decision that “[i]ssues such as subject matter jurisdiction or appellate jurisdiction may be particularly suitable for reconsideration.” In re LWD, Inc. 335 Fed.Appx. 523, 526 (6th Cir.2009) (quoting Kennedy v. Lubar, 273 F.3d 1293, 1299 (10th Cir.2001) (alteration in original) (internal quotation marks omitted)). For these reasons, we address the jurisdictional issue here.
+ 
+[3] “Bankruptcy courts have original jurisdiction over all claims arising under the Bankruptcy Code. Such claims, referred to as ‘core’ proceedings, either invoke[ ] a substantive right created by federal bankruptcy law or ... could not exist outside of the bankruptcy.” Browning v. Levy, 283 F.3d 761, 772–73 (6th Cir.2002) (alteration in original) (citation omitted). Under the Bankruptcy Code, a bankruptcy court may also hear proceedings on non-core claims that are “otherwise related to a case under title 11.” 28 U.S.C. § 157(c)(1). We have held that a claim is “related to” the bankruptcy proceeding “if the outcome could alter the debtor’s rights, liabilities, options, or freedom of action (either positively or negatively) and which in any way impacts upon the handling and administration of the bankrupt estate.” In *499 re Dow Corning Corp., 86 F.3d 482, 489 (6th Cir.1996) (quoting In re Pacor, 743 F.2d 984, 994 (3d Cir.1984) (internal quotation marks omitted)). Further, we have held that cases decided under the “related to” bankruptcy jurisdiction may be used to assert claim preclusion. See Browning, 283 F.3d at 773 (noting that this Court has “applied res judicata to a non-core claim”); Sanders Confectionery Prods., Inc. v. Heller Fin., Inc., 973 F.2d 474, 482 (6th Cir.1992) (“[I]n certain circumstances bankruptcy proceedings can also be binding on non-core proceedings.”).
+ 
+**6 While Amedisys admits that JPMorgan could raise contribution and indemnification claims that would qualify as claims to the bankruptcy estate, Amedisys argues that these claims would have such low priority as to render their practical effect on the estate so negligible as to exclude them from “related to” bankruptcy jurisdiction. Amedisys also argues that JPMorgan, as a non-debtor, cannot avail itself of the “related to” jurisdiction of the bankruptcy court. Both of these arguments are unconvincing: “The potential for [defendant’s] being held liable to the nondebtors in claims for contribution and indemnification, or vice versa, suffices to establish a conceivable impact on the estate in bankruptcy.” In re Dow Corning, 86 F.3d at 494. Based upon our holding in In re Dow Corning, Amedisys’s arguments regarding the supposedly negligible impact of the claims on the estate and regarding JPMorgan’s status as a non-debtor fail.
+ 
+Amedisys’s arguments about whether such claims for contribution and indemnification would be “allowable” as claims against the bankruptcy estate are not relevant—as stated by this Court in In re Dow Corning, id., the “conceivable impact” of a claim on a bankruptcy estate, rather than its allowability as a claim on the estate’s assets, is the touchstone of “related to” jurisdiction. Amedisys argues that underlying this Court’s decision in In re Dow Corning is the fact that the contribution claims would have numbered in the thousands; a finding that the bankruptcy court lacked subject matter jurisdiction over those thousands of claims would have jeopardized the debtor’s reorganization plan. While we noted our concern for this issue in that case, see id., we did not base our holding solely on that consideration. See id. (holding that “[t]he potential for Dow Corning’s being held liable to the nondebtors in claims for contribution and indemnification, or vice versa, suffices to establish a conceivable impact on the estate in bankruptcy”).
+ 
+The standard for determining a bankruptcy court’s jurisdiction is whether a case could “conceivably have any effect on the estate,” not whether it would definitely affect it in a material way. Id. at 489 (internal quotation marks omitted). Our Circuit “does not require a finding of definite liability of [an] estate as a condition precedent to holding an action related to a bankruptcy proceeding.” Id. at 491 (alteration in original) (internal quotation marks omitted).
+ 
+Finally, and separately, it was Amedisys who, after filing the first lawsuit, moved to have the case referred to bankruptcy court. Amedisys has previously argued that the claims were core, or at least “related to,” claims falling under the bankruptcy court’s jurisdiction. Whether the bankruptcy court has competent jurisdiction is a separate issue, but barring claim preclusion on the basis of incompetent jurisdiction would reward Amedisys for first moving to refer the case to bankruptcy court and then arguing that the bankruptcy court does not have competent jurisdiction over the case. The district court did not err in finding that the third prong of claim preclusion is met. For these reasons, *500 we affirm the district court’s judgment that claim preclusion applies.
+ 
+
+IV.
+**7 [4] Finally, Amedisys contends that JPMorgan waived its claim preclusion defense by failing to “seek an order of reference to the bankruptcy court once this matter transferred to the Southern District of Ohio,” and, by such failure, acquiesced to Amedisys’s decision to litigate similar claims in two separate fora. Simultaneously maintaining separate actions, or claim-splitting, is generally prohibited, but Amedisys relies on a Fifth Circuit case holding that it is permitted where the “defendant[ has] agree[d] or acquiesce [d] in the splitting of the claim.” Matter of Super Van, Inc., 92 F.3d 366, 371 (5th Cir.1996). The court in Super Van noted that it was joining “the First, Fourth, Seventh, and Ninth Circuits in adopting Section 26(1)(a) of the Restatement [ (Second) Judgments].” Id. The Super Van court noted further that “[d]espite being fully informed and having ample opportunity to do so, none of the defendants objected to the splitting of the claims. In fact, they, through counsel, actually stated a preference for the splitting.” Id. The logical corollary to Super Van is that lodging an objection to claim-splitting is sufficient to overcome an argument that the defendant acquiesced to the splitting.
+ 
+Here, JPMorgan moved to transfer the second case to the Ohio district court; in so doing, JPMorgan objected to Amedisys’s attempted claim-splitting. Amedisys argues that this motion was insufficient to defeat Amedisys’s argument that JPMorgan had acquiesced to simultaneous litigation, and that JPMorgan also should have sought “an order of reference transferring [the second case] to the bankruptcy court.” Amedisys seeks to have this Court impose an additional affirmative duty on JPMorgan beyond the mere objection required by Super Van and the Restatement. Neither authority is binding on this Court, but the policy of requiring only objection by a defendant in order to defeat claim-splitting is a natural complement to the background principle that claim-splitting is generally prohibited. Because JPMorgan did object to the second suit, we affirm the district court’s judgment.
+ 
+
+V.
+This Court’s decision on the Ohio claims precludes Amedisys’s second suit raising Louisiana state law claims. We AFFIRM the judgment of the district court.
+ 
+All Citations
+497 Fed.Appx. 491, 2012 WL 3740685
+Footnotes
+
+*
+
+Judge Karen K. Caldwell, United States District Judge for the Eastern District of Kentucky, sitting by designation.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,174 @@
+
+
+ 
+
+
+In re Dell Inc.
+United States Court of Appeals, Federal Circuit. | January 7, 2015 | 600 Fed.Appx. 728 | 2015 WL 303939
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Opinion
+All Citations
+
+standard Citation:
+
+In re Dell Inc., 600 F. App’x 728 (Fed. Cir. 2015)
+
+All Citations:
+
+600 Fed.Appx. 728
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+600 Fed.Appx. 728
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+In re DELL INC., Hewlett–Packard Company, Lenovo (United States) Inc., Microsoft Corporation, Samsung Telecommunications America, LLC, and Samsung Electronics America, Inc., Petitioners.
+No. 2015–102.
+|
+Jan. 7, 2015.
+Synopsis
+Background: Manufacturers of electronic devices moved to stay patent infringement proceedings and transfer venue. The United States District Court for the Eastern District of Texas, Leonard Davis, Chief Judge, denied motion. Manufacturers petitioned for writ of mandamus.
+ 
+Holdings: The Court of Appeals, Linn, Circuit Judge, held that:
+ 
+[1] transfer was not warranted, for the convenience of parties and witnesses, in the interest of justice, and
+ 
+[2] district court had discretion in managing its own docket to decide not to stay proceedings.
+ 
+Petition denied.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+Federal CourtsPatents, copyrights, and trade regulation
+
+
+170BFederal Courts
+170BXIIChange or Transfer of Venue
+170BXII(A)In General;  Venue Laid in Proper Forum
+170Bk2907Particular Determinations
+170Bk2912Patents, copyrights, and trade regulation
+
+
+Transfer of patent infringement suit, from District Court for the Eastern District of Texas to District Court for the Western District of Washington, was not warranted for the convenience of parties and witnesses, in the interest of justice; judicial economy considerations weighed strongly against transfer because transferor court had previously held a Markman hearing, considered numerous substantive pretrial motions, held a jury trial, and entertained extensive post-trial motions regarding a related patent, and, additionally, was simultaneously considering a separate case against same party involving the same patent and similar underlying technology. 28 U.S.C.A. § 1404(a).
+6 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsStay of proceeding
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1842Stay of proceeding
+
+
+Even though the complexity of patent infringement case could have been simplified by a stay of some aspects of the proceedings while others went forward, district court had discretion in managing its own docket to decide not to stay proceedings against a customer, in the very same litigation that would go forward against a supplier; court properly concluded that it was not in a position in the litigation to say that the most efficient way to resolve the claims was to conduct separate stages of proceedings.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,006,227. Cited.
+Cases that cite this headnote
+
+
+
+*728 On Petition for Writ of Mandamus to the United States District Court for the Eastern District of Texas in No. 6:13–cv–00941–LED, Chief Judge Leonard Davis.
+Before TARANTO, LINN, and CHEN, Circuit Judges.
+
+
+ON PETITION
+LINN, Circuit Judge.
+
+ORDER
+Dell Inc., Hewlett–Packard Co., Lenovo (United States) Inc., Samsung Electronics America, Inc., and Samsung Telecommunications America, LLC (collectively, the “Manufacturers”) and Microsoft Corporation, all defendants in the underlying patent infringement suit (we refer to them collectively herein as “Petitioners”), moved to stay proceedings against the Manufacturers *729 and transfer the case to the venue in which Microsoft is headquartered. The district court, determining that it would not be in the interest of justice to stay or transfer the claims, denied those requests. Because those determinations were not clear abuses of discretion, we deny Petitioners request for issuance of mandamus.
+ 
+
+BACKGROUND
+In 2008, Mirror Worlds, LLC acquired the rights to U.S. Patent 6,006,227 (the “′227 patent”), which relates to an operating system in which documents are stored in a chronologically ordered stream. It brought an infringement suit against Apple Inc. in the Eastern District of Texas but failed, after a jury trial and extensive post-trial motions, to obtain a favorable judgment. See Mirror Worlds, LLC v. Apple Inc., 692 F.3d 1351 (Fed.Cir.2012).
+ 
+In 2013, a new entity, Mirror Worlds Technologies, LLC (“Mirror Worlds”), acquired the ′227 patent. A few days later, it filed the underlying complaint that gave rise to this procedural dispute. As relevant here, the complaint originally named Apple, Microsoft, and the Manufacturers as defendants, but the district court later severed the claims against Apple, creating two separate ongoing actions.
+ 
+Petitioners moved to stay proceedings against the Manufacturers. On September 29, 2014, the district court issued an order denying that motion, holding that it was too premature to conclude that a stay would simplify the issues and trial of the case and that a stay would likely prejudice Mirror Worlds by forcing serial litigation of its infringement claims. Mirror Worlds Tech., LLC v. Dell Inc. et al., 6:13–cv–941, slip op. at 4–6 (E.D.Tex. Sept. 29, 2014).
+ 
+In the same order, the district court also denied Petitioners’ motion to transfer the entire action to the United States District Court for the Western District of Washington, concluding that venue would not be clearly more convenient and that the courts and parties would benefit from its own prior “substantial” experience with the patent and by not requiring “multiple courts to handle related cases,” given the pending Apple case in the Eastern District of Texas. Id. at 9–10, 14.
+ 
+This petition for a writ of mandamus followed. Because any appeal from the final judgment of the district court will be taken to this court, we have jurisdiction to consider the petition under 28 U.S.C. § 1651(a).
+ 
+
+DISCUSSION
+Petitioners bear the burden of proving that there is sufficient cause for either a stay of proceedings or a transfer of venue. See Clinton v. Jones, 520 U.S. 681, 708, 117 S.Ct. 1636, 137 L.Ed.2d 945 (1997) (“The proponent of a stay bears the burden of establishing its need.”); In re Volkswagen of Am., Inc., 545 F.3d 304, 315 (5th Cir.2008) (en banc). Here, moreover, Petitioners seek mandamus relief, a “drastic” remedy to be invoked only where petitioners have established a “clear and indisputable” right to relief. Kerr v. U.S. Dist. Court, 426 U.S. 394, 402–03, 96 S.Ct. 2119, 48 L.Ed.2d 725 (1976).
+ 
+Under 28 U.S.C. § 1404(a), for “the convenience of parties and witnesses, in the interest of justice, a district court may transfer any civil action to another district ... where it might have been brought....” The statute gives district courts considerable leeway in according weight to judicial economy concerns. See In re Vistaprint Ltd., 628 F.3d 1342, 1347 (Fed.Cir.2010). In the absence of a clear abuse of discretion, we may not disturb the district court’s balancing of the relevant factors. Id.
+ 
+*730 [1] We see no error that is mandamus-worthy in the district court’s no-transfer conclusion. The district court addressed all of the factors thoroughly. In doing so, the court found that judicial economy considerations weighed strongly against transfer because it had previously held a Markman hearing, considered numerous substantive pretrial motions, held a jury trial, and entertained extensive post-trial motions regarding the ′227 patent, and, additionally, was simultaneously considering the separate case against Apple involving the same patent and similar underlying technology. Order at 13–14. These reasons alone are sufficient to say the district court did not clearly abuse its discretion.
+ 
+The district court further pointed out that most of the Manufacturers are located either in or closer to the Eastern District of Texas, making the plaintiff’s chosen forum more convenient regarding certain sources of proof and potential witnesses. Given the relevance of Microsoft’s operating system to the suit, Petitioners contend that the district court should have focused more on where it would be convenient to try the claims against Microsoft. But Petitioners did not ask to sever the claims against Microsoft. Thus, considering the convenience of all the defendants was not an error, much less a clear and indisputable one.
+ 
+[2] Regarding the denial of a stay, Petitioners cite a number of cases dealing with the customer-suit exception pursuant to which “litigation against or brought by the manufacturer of infringing goods takes precedence over a suit by the patent owner against customers of the manufacturer.” Katz v. Lear Siegler, Inc., 909 F.2d 1459, 1464 (Fed.Cir.1990). But they cite no appellate court case, and we are aware of none, that sets forth the proposition that a district court must stay proceedings against a customer in the very same litigation that will, regardless of the requested stay, go forward against the supplier. The appellate cases they cite all involve giving priority to supplier litigation over what already is or should be separate litigation with customers, thereby preventing parallel, active, duplicative proceedings. See, e.g., In re Nintendo of America, Inc., 756 F.3d 1363 (Fed.Cir.2014); In re Google, Inc., 588 Fed.Appx. 988 (Fed.Cir.2014).
+ 
+To be sure, the claims here are related, and the complexity of the case could perhaps be simplified by a stay of some aspects of the proceedings while others go forward. The policies expressed in the duplicative-case context are certainly relevant in a district court’s decision how to proceed within the context of a single case. But after considering the relevant factors and evidence of record, the district court concluded that it was not in a position at this point in the litigation to say the most efficient way to resolve these claims was to conduct separate stages of proceedings. We are not prepared to say that conclusion was so far outside the district court’s considerable discretion in managing its own docket to take the extraordinary step of issuing mandamus. See Landis v. North Am. Co., 299 U.S. 248, 254–55, 57 S.Ct. 163, 81 L.Ed. 153 (1936).
+ 
+Accordingly,
+ 
+IT IS ORDERED THAT:
+ 
+The petition for a writ of mandamus is denied.
+ 
+All Citations
+600 Fed.Appx. 728
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,286 @@
+
+
+ 
+
+
+In re National Century Financial Enterprises, Inc.
+United States Court of Appeals, Sixth Circuit. | May 18, 2010 | 377 Fed.Appx. 531 | 2010 WL 1976639
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Opinion
+All Citations
+
+standard Citation:
+
+In re Nat’l Century Fin. Enterprises, Inc., 377 F. App’x 531 (6th Cir. 2010)
+
+All Citations:
+
+377 Fed.Appx. 531, 2010 WL 1976639
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Ohio
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:57 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+377 Fed.Appx. 531
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Sixth Circuit Rule 28. (Find CTA6 Rule 28)
+United States Court of Appeals,
+Sixth Circuit.
+In re: NATIONAL CENTURY FINANCIAL ENTERPRISES, INC., et al., Debtor.
+Amedisys, Inc., et al., Appellant,
+v.
+JP Morgan Chase Manhattan Bank, as trustees; National Century Financial Enterprises, Inc., et al., Appellees.
+No. 08-4216.
+|
+Filed May 18, 2010.
+Synopsis
+Background: In Chapter 11 case, healthcare provider to which debtor had agreed to provide accounts receivable financing filed adversary proceeding against indenture trustee to compel turnover of funds in lockbox account. The Bankruptcy Court, 310 B.R. 580, entered summary judgment in favor of debtor and indenture trustee, and provider appealed. The United States District Court for the Southern District of Ohio, 2008 WL 3980764, affirmed, and provider appealed.
+ 
+Holdings: The Court of Appeals, Helene N. White, Circuit Judge, held that:
+ 
+[1] fact issues remained as to whether provider retained ownership of receivables;
+ 
+[2] indenture trustee had no fiduciary duty to provider; and
+ 
+[3] no implied escrow contract existed between provider and indenture trustee.
+ 
+Affirmed in part, reversed in part, and remanded.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+BankruptcyJudgment or Order
+
+
+51Bankruptcy
+51IICourts;  Proceedings in General
+51II(B)Actions and Proceedings in General
+51k2164Judgment or Order
+51k2164.1In general
+
+
+Genuine issues of material fact as to whether healthcare provider retained ownership of receivables placed in lockbox account pursuant to accounts receivable financing agreement, and whether provider waived its right to contemporaneous payment under agreement precluded summary judgment in provider’s adversary proceeding against indenture trustee in finance company’s Chapter 11 proceeding to compel turnover of funds.
+Cases that cite this headnote
+
+
+
+[2]
+
+BankruptcyJudgment or Order
+
+
+51Bankruptcy
+51IICourts;  Proceedings in General
+51II(B)Actions and Proceedings in General
+51k2164Judgment or Order
+51k2164.1In general
+
+
+Genuine issues of material fact as to whether healthcare provider retained ownership of receivables placed in lockbox account pursuant to accounts receivable financing agreement, and whether funds attributable to receivables could be traced precluded summary judgment on provider’s claim in adversary proceeding against indenture trustee in finance company’s Chapter 11 case that funds were being held in constructive trust.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+BankruptcyJudgment or Order
+
+
+51Bankruptcy
+51IICourts;  Proceedings in General
+51II(B)Actions and Proceedings in General
+51k2164Judgment or Order
+51k2164.1In general
+
+
+Genuine issue of material fact as to whether healthcare provider retained ownership of receivables placed in lockbox account pursuant to accounts receivable financing agreement precluded summary judgment on provider’s conversion claim in adversary proceeding against indenture trustee in finance company’s Chapter 11 case.
+1 Cases that cite this headnote
+
+
+
+[4]
+
+Corporations and Business OrganizationsIndenture trustee
+
+
+101Corporations and Business Organizations
+101IXCorporate Powers and Liabilities
+101IX(D)Contracts and Indebtedness
+101k2462Making and Issuance of Bonds, Debentures, Certificates, and Indentures
+101k2468Indenture trustee
+(Formerly 101k470)
+
+
+Under Ohio law, indenture trustee that set up lockbox account into which healthcare provider’s accounts receivable were placed pursuant to sale agreement with accounts receivable finance company had no fiduciary duty to provider, even though master indenture agreement referred to sale agreement, where indenture agreement did not incorporate sale agreement, there was no contractual relationship between trustee and provider, and master indenture expressly disavowed any possible third-party beneficiaries.
+3 Cases that cite this headnote
+
+
+
+[5]
+
+Deposits and EscrowsNature and requisites in general
+
+
+122ADeposits and Escrows
+122AIIConditional Deposits or Escrows
+122Ak11Nature and requisites in general
+
+
+Under Ohio law, no implied escrow contract existed between healthcare provider and indenture trustee that set up lockbox account into which provider’s accounts receivable were placed pursuant to sale agreement with accounts receivable finance company, where there was no evidence of any contact between parties before account was set up.
+1 Cases that cite this headnote
+
+
+
+*532 On Appeal from the United States District Court for the Southern District of Ohio.
+Before: GUY, CLAY and WHITE, Circuit Judges.
+Opinion
+*533 HELENE N. WHITE, Circuit Judge.
+
+**1 Amedisys, Inc., and several of its subsidiaries (collectively “Amedisys”)1 appeal from a district court order affirming the bankruptcy court’s grant of summary judgment in favor of National Century Financial Enterprises, Inc. (“NCFE”), and its affiliates National Premier Financial Services, Inc. (“NPFS”), and NPF VI (collectively also “NCFE”), and JPMorgan Chase Bank (“JPMorgan”). We affirm in part and reverse in part.
+ 
+
+I.
+NCFE supplied accounts receivable financing to healthcare providers, including Amedisys. Under a series of identical Sale and Subservicing Agreements (“Sale Agreement”) with Amedisys, NCFE was given the right to purchase insurance payments owed to Amedisys for services already rendered, termed “Eligible Receivables.” The arrangement gave Amedisys, and companies like it, access to immediate funding based on anticipated future collections. NCFE-affiliate NPF VI financed the purchases of the receivables by raising money from investors in exchange for promissory notes secured by the receivables. These notes were issued in accordance with a Master Indenture Agreement with JPMorgan. JPMorgan established accounts to handle the collection and distribution of funds payable to the healthcare providers that contracted with NPF VI.2
+ 
+Amedisys first entered into a Sale Agreement with NCFE in December of 1998. Under the terms of the Sale Agreement, Amedisys sent a weekly list of all its receivables to NPFS. NPFS then determined which receivables were eligible for purchase, and calculated the “Purchase Price,” based on the net value of the receivables less fees, program costs, and other adjustments. Payment of the Purchase Price was made from the Purchase Account through NPFS’s instructions to JPMorgan. According to the Sale Agreement, “[f]ollowing payment of the Purchase Price on any Purchase Date, ownership of each Purchased Receivable will be vested in the Purchaser.” R. 4, attach. 14, at § 2.2(c). The Agreement required that Amedisys set up lockbox accounts3 and instruct payors of receivables sold to NPF VI to deposit their payments into the appropriate account. The lockbox accounts were swept daily into the Collection Account.
+ 
+While NCFE was not obligated to purchase all eligible receivables submitted, Amedisys was required to notify commercial payors that all payments should be *534 sent to the lockbox account. The notice sent to payors stated that Amedisys would “sell to NPF from time to time certain of our Receivables of which you are the obligor” and that payment into the lockbox account “will operate to discharge your obligation ... whether or not ownership has been transferred to NPF.” R. 4, attach. 15, at 15. Because funds other than payments on purchased receivables could be swept into the Collection Account, the Sale Agreement recognized that “certain amounts deposited in the Collection Account may relate to Receivables other than Purchased Receivables and that such amounts continue to be owned by the Seller.” R. 4, attach. 14 at § 6.1.
+ 
+**2 While NCFE was not required to purchase every eligible receivable, its practice was to do so. Through April 2002, NCFE routinely purchased all of Amedisys’ eligible receivables. In April 2002, Amedisys and NCFE altered the arrangement established by the Sale Agreement, allowing Amedisys to request a specific amount of funding each week, rather than receive full payment for its receivables. The record does not reveal the precise understanding reached between the parties. James Dierker, an NCFE employee who was Amedisys’ primary contact at the company, testified that Amedisys’ CFO at the time, John Joffrion, first discussed decoupling the value of Eligible Receivables from the amount sent to Amedisys in 2000. Dierker testified that he passed the request along to his superiors and that eventually NCFE’s funding department and Amedisys “put together the mechanical details.” Dierker noted that, at the time, Amedisys owed NCFE a significant outstanding balance, and neither he nor Joffrion contemplated Amedisys amassing a net-credit position.4 After the change was instituted in April 2002, Amedisys occasionally requested more money than supported by their receivables, but more often took less, reducing their balance owing to around $1.6 million at the end of September 2002.
+ 
+For the first three weeks in October 2002, Amedisys made no requests for funding, which resulted in its accruing a substantial credit balance. Unbeknownst to Amedisys, NCFE was by then on the brink of financial collapse.5 On October 22, 2002, Amedisys requested a $2.8 million payment. The funding was not paid immediately and was eventually paid in installments over two days. On October 29, 2002, Amedisys made another funding request, which yielded only $38,000.00. NCFE and Amedisys then entered into negotiations. A “buyout reconciliation” was prepared by NCFE’s accounting department, which showed that collections from Amedisys’ lockbox accounts exceeded payments to Amedisys by roughly $7.3 million. NCFE and Amedisys initially agreed to a proposal to offset $6 million Amedisys owed another NCFE affiliate on a separate capital note (“Capital Note”) against the $7.3 million that the parties agreed NPF VI owed to Amedisys, and to have JPMorgan send Amedisys the remaining $1.3 million. However, JPMorgan, which was not a party to the Capital Note agreement, did not honor the transfer request.6 Amedisys filed a complaint *535 seeking injunctive relief forcing JPMorgan to authorize payment of the entire $7.3 million on November 8, 2002. NCFE filed for relief under Chapter 11 of the United States Bankruptcy Code shortly thereafter, and the district court referred Amedisys’ lawsuit to the bankruptcy court.
+ 
+Amedisys’ Second Amended Complaint asserted thirteen counts: Count One sought a declaratory judgment clarifying the ownership of the $7.3 million and confirming that the Sales Agreement and Master Indenture created one contractual relationship between NCFE, Amedisys and JPMorgan; Count Two alleged breach of fiduciary trust on the part of JPMorgan for failure to perform its duties as an escrow agent; Counts Three through Five sought imposition of a trust in favor of Amedisys on various trust theories; Count Six sought turnover of the disputed funds; Counts Seven through Ten alleged breach of the Sale Agreement, breach of fiduciary duty, and fraud against NCFE, and sought specific performance mandating the return of the disputed funds; Count Eleven requested an order for an accounting; Count Twelve sought removal of NPFS as Servicer of the Sale Agreement; and Count Thirteen alleged conversion by NCFE.
+ 
+**3 NCFE and JPMorgan filed motions for summary judgment, which the bankruptcy court granted on all counts, except Count Seven. The parties entered into a stipulated agreement dismissing Count Seven, and Amedisys appealed to the district court. The district court affirmed the decision of the bankruptcy court. Amedisys timely appealed the grant of summary judgment as to Counts One through Six and Thirteen.
+ 
+
+II.
+The district court reviews the bankruptcy court’s grant of summary judgment de novo, as do we on appeal. In re Lewis, 398 F.3d 735, 746 (6th Cir.2005) (citing Stevenson v. J.C. Bradford & Co., 277 F.3d 838, 849 (6th Cir.2002)). Federal Rule of Civil Procedure 56 applies to motions for summary judgment in adversary proceedings in bankruptcy court. Fed. R. Bankr.P. 7056. Summary judgment is proper if “the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.” Fed.R.Civ.P. 56(c). The moving party “bears the burden of proving that there are no genuine issues of material fact.” Phillips v. Roane County, Tenn., 534 F.3d 531, 538 (6th Cir.2008) (citing Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986)). The non-moving party must then “come forward with ‘specific facts showing a genuine issue for trial.’ ” Merriweather v. Zamora, 569 F.3d 307, 313 (6th Cir.2009) (quoting Fed.R.Civ.P. 56(e)(2)). “When we review a motion for summary judgment, we must view all facts and inferences in the light most favorable to the non-moving party.” Hall v. Spencer County, Ky., 583 F.3d 930, 933 (6th Cir.2009) (citing Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986)).
+ 
+
+III.
+The ultimate question is whether the funds at issue are part of NCFE’s bankruptcy estate or are the identifiable proceeds of receivables still belonging to Amedisys. Thus, a central issue is whether ownership of the receivables at issue passed from Amedisys to NCFE. It is undisputed that Amedisys was never compensated for the receivables, but the parties disagree whether the receivables were sold to NCFE with payment to be made at *536 a later date, or if Amedisys retained ownership of its receivables until it asked NCFE to purchase them and received payment.
+ 
+The bankruptcy court addressed this issue as a threshold matter, concluding that Amedisys had sold the receivables. The court found that Amedisys had waived its right to contemporaneous payment by asking NCFE to send less than the full amount owed. It further found that the Sale Agreement was modified such that ownership of the receivables transferred to NCFE when Amedisys became entitled to request the full amount of payment, rather than when payment was actually made.
+ 
+In reaching these conclusions, however, the bankruptcy court failed to view the facts in the light most favorable to Amedisys, as required on summary judgment. It is well established that “[i]n reviewing a summary judgment motion, credibility judgments and weighing of the evidence are prohibited.” Bennett v. City of Eastpointe, 410 F.3d 810, 817 (6th Cir.2005) (citing Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986)). There is no dispute that the Sale Agreement had been modified to the extent that payments to Amedisys were not being made in accordance with the terms of the contract. However, the record is devoid of direct evidence regarding the parties’ understanding as to ownership of the receivables when the Sale Agreement was modified. Amedisys claims that because of its improved financial position, the Sale Agreement was modified to allow it to determine how much of its receivables it would sell to NCFE. It explains that it remained in the program and continued to have its receivables paid into the lockbox account because withdrawal from the program would have resulted in the acceleration of the balance owed on the Capital Note, and because Amedisys was contemplating its future financial needs in expectation of a large acquisition. Amedisys focuses also on the actual language of section 2.2(c) of the Sale Agreement, which provides that “following payment of the Purchase Price, ... ownership of each Purchased Receivable will be vested in the Purchase [NCFE].”
+ 
+**4 The question is whether a rational trier of fact, viewing the evidence in the light most favorable to Amedisys, could reasonably conclude that Amedisys continued to own the receivables. In answering that question in the negative, the bankruptcy court focused on e-mails and deposition testimony of Amedisys CFO Greg Browne, and explicitly balanced the credibility of contradictory statements by Browne in determining that Browne “understood” the receivables to have been purchased by NCE. The court also implicitly weighed the evidence by selecting a handful of statements by Browne out of the vast record before it, including thousands of pages of deposition testimony and documents.7 For example, although Browne testified as stated by the district court, he also testified that it was his understanding that if Amedisys chose not to receive funding for a particular receivable, when payment was made on such a receivable to the lockbox account, Amedisys would be entitled to the full value of the payment without the subtraction of the normal program fees.
+ 
+*537 [1] Drawing all inferences in Amedisys’ favor, a rational trier of fact could find that Amedisys retained ownership of the receivables at issue. Section 2.2(c) clearly contemplates the transfer of ownership upon payment; payment was never made. And although the contract provides NCFE with the discretion whether to purchase eligible receivables, and NCFE’s general practice was to do so, NCFE Executive Vice President Sherry Gibson acknowledged that Amedisys was “[m]ost definitely unique in the way that it requested specific amounts to be released, not the entire amount of the funding.” Further, NCFE CEO Lance Poulsen testified that a “reserve overage” of money owned by a company such as Amedisys could occur, stating “[t]here could have been non-purchased receivables which are receivable monies received but they weren’t for purchased receivables under the program and they too must be returned to the provider.” JPMorgan employee Craig Kantor testified that one of the reasons JPMorgan refused to honor NCFE’s funding requests with regard to the $7.3 million was that the documentation submitted appeared to be for the purchase of new receivables but there were “no ... corresponding entries in the applicable ... reserve accounts,” which could be seen as supporting Browne’s assertion that program fees would not be deducted unless the receivables were purchased. In the light most favorable to Amedisys, the record thus supports a conclusion that Amedisys had established a unique relationship with NCFE in which it was permitted to choose whether to sell receivables, or to allow them to flow through the lockbox account and remain in NCFE’s possession until their return was requested by Amedisys.
+ 
+Similarly, the bankruptcy court’s finding that Amedisys waived its right to contemporaneous payment under the Sale Agreement failed to view the facts in the light most favorable to Amedisys. The finding rests on the conclusion that NCFE retained and exercised its discretion to purchase all of Amedisys’ receivables, and that Amedisys chose not to receive NCFE’s proffered payment. However, as one could conclude that NCFE allowed Amedisys to choose which receivables to sell, the record supports the conclusion that ownership would not transfer to NCFE before Amedisys both determined which receivables would be bought and, pursuant to Section 2.2(c), payment for those receivables was made.
+ 
+**5 We could continue, but we need not exhaustively recount every statement favorable to Amedisys’ position. It is enough that Amedisys has put forth sufficient evidence to create a genuine question of fact regarding the ownership of the disputed receivables. It is equally true, however, that the evidence could reasonably be viewed as supporting a conclusion that the receivables were sold to NCFE and Amedisys simply waived its right to contemporaneous payment. Thus, while we conclude that resolution of the ownership question requires a trial on the merits, we express no opinion as to how the question should ultimately be resolved upon trial.
+ 
+
+a. Counts Three, Four and Five-Trusts
+[2] The bankruptcy court’s grant of summary judgment against Amedisys on all of its trust arguments was premised on its determination that Amedisys did not retain title to the receivables. The bankruptcy court correctly noted that under Ohio law, “[i]f the intention is that [money paid to a party] shall be kept or used as a separate fund for the benefit of the payor ... a trust is created.” Ohio Farmers Ins. Co. v. Hughes-Bechtol, Inc., 249 B.R. 735, 740 (S.D.Ohio 1998) (citing Federal Ins. Co. v. Fifth Third Bank, 867 F.2d 330, 333 (6th Cir.1989)), aff’d in part, rev’d in *538 part on other grounds by In re Hughes-Bechtol, Inc., 225 F.3d 659 (6th Cir.2000). As discussed supra, the intention of the parties in modifying performance under the Sale Agreement is in genuine dispute. If the parties agreed that the money flowing through the lockbox would remain Amedisys’, a trust may have arisen. Therefore, if Amedisys is not, as the bankruptcy court assumed, a simple creditor of NCFE owed funds for purchased receivables, summary judgment is inappropriate. The court applied the same presumed creditor relationship in granting summary judgment on the constructive-and resulting-trust counts. As those, too, depend on the intention of the parties, summary judgment is inappropriate.
+ 
+NCE and JPMorgan argue that even if Amedisys can establish that its money was held in trust, it can neither trace the funds nor satisfy the lowest-intermediate-balance test. See First Fed. of Mich. v. Barrow, 878 F.2d 912, 915-16 (6th Cir.1989). This court has held that it is “beyond peradventure that, as a general rule, any party seeking to impress a trust upon funds for purposes of exemption from a bankrupt estate must identify the trust fund in its original or substituted form.” Id. at 915. Thus, even if Amedisys can show that it owned the receivables in question, it must also show that it can trace the funds to prevail on any of its trust theories. Id. In First Federal, this court applied the “lowest intermediate balance test” to determine if the trust in question had been exhausted, summarizing:
+The situation frequently occurs where trust funds have been traced into a general bank account of the debtor. The following general principles have been applied. The bankruptcy court will follow the trust fund and decree restitution where the amount of the deposit has at all times since the intermingling of funds equaled or exceeded the amount of the trust fund. But where, after the appropriation and mingling, all of the moneys are withdrawn, the equity of the cestui is lost, although moneys from other sources are subsequently deposited in the same account. In the intermediate case where the account is reduced to a smaller sum than the trust fund, the latter must be regarded as dissipated, except as to the balance, and funds subsequently added from other sources cannot be subject to the equitable claim of the cestui que trust. If new money is deposited before the balance is reduced, the reduction should be considered to be from the new money and not from the monies held in trust. This analysis may be referred to as the lowest intermediate balance test.
+**6 Id. at 916 (quoting 4 L. KING COLLIER ON BANKRUPTCY ¶ 541.13, 541-79-541-80 (15th ed.1988)); accord In re Dameron, 155 F.3d 718, 723 (4th Cir.1998) (holding that claimants were required to demonstrate traceability of funds subject to an express trust, and thus beyond the reach of the bankruptcy court, and reducing restitution in accordance with the lowest intermediate balance test).
+ 
+Although there is a dispute over the ownership of the receivables at issue, there is no dispute that NCFE had title to the accounts into which payments on those receivables were made. Nor is there dispute that the funds attributable to the receivables were commingled with the receivables of other providers in the Collection Account, an account which was regularly brought to a zero balance. The bankruptcy court, however, did not consider this issue before granting summary judgment. While it reviewed the standards and arguments with respect to tracing, it did so only in its consideration of the constructive-trust count and only after finding that summary judgment was proper *539 on that count because of the ownership issue. The court noted that Amedisys would “probably” be unable to make a case for the imposition of a constructive trust because it was “highly unlikely” to be able to trace its funds and would “likely” be barred by the lowest-intermediate-balance test.8 The bankruptcy court did not decide whether Amedisys, drawing all inferences in its favor, had established a genuine question of fact on the issue; it merely stated, having already granted summary judgment on Count IV, its own opinion as to Amedisys’ further obstacles.
+ 
+The affidavits relied on by JPMorgan and NCFE in support of their respective motions focus on the Collection Account, in which funds from the various lockbox accounts of the health care providers were commingled, and which was regularly reduced to a zero balance. We note that the deposition testimony and accompanying financial documents reveal a complex system of transfers between the various NPF VI accounts. JPMorgan and NCFE do not dispute the testimony of several NCFE executives who stated that tracing would be possible through the AS-400 system employed by NCFE to track receivables and payments owed. Further it is not clear that the Collection Account is the only relevant account. See supra note 8. We also note that Amedisys argued to the bankruptcy court that discovery on this issue was incomplete. The bankruptcy court may have been inclined to allow continued discovery on the issue, had it not determined that Amedisys’ trust claims failed due to its lack of ownership of the receivables. We do not minimize Amedisys’ heavy burden to show that the monies claimed are the proceeds of the receivables at issue, and not simply the commingled balance of the funds still in the debtor’s possession. However, we are unable to state on this record that the burden is insurmountable.
+ 
+
+b. Count Thirteen-Conversion
+**7 [3] The bankruptcy court granted summary judgment against Amedisys on its conversion claim because it found that NCFE held legal title to the funds in question. As we have explained, the question of ownership of the funds involves resolution of a factual determination which cannot be made on summary judgment. We reverse the grant of summary judgment against Amedisys on Count Thirteen.
+ 
+
+c. Count Six-Turnover
+Amedisys appeals from the grant of summary judgment on its claim for turnover of the disputed funds, but advances no legal argument on the issue. Assuming the claim is brought under 11 U.S.C. § 542, which governs turnover of property in bankruptcy, the district court’s grant of summary judgment was proper; the section in question refers only to the turnover of property to the debtor’s estate.
+ 
+
+d. Count One-Declaratory Judgment
+In addition to a declaratory judgment seeking to define its rights with respect to the disputed receivables, Amedisys requested a declaration that the Sale Agreement and Master Indenture form a single contractual relationship between NCFE, Amedisys and JPMorgan or, alternatively, that Amedisys is a third-party beneficiary of the Master Indenture, and that JPMorgan owed it a fiduciary duty. The bankruptcy court found that Amedisys had no contractual relationship with JPMorgan, and that the plain language of the Master Indenture prevented Amedisys from claiming *540 to be an intended third-party beneficiary.
+ 
+[4] It is undisputed that the Sale Agreement is a contract between Amedisys and NCFE and that the Master Indenture is a contract between NCFE and JPMorgan. Amedisys claims that because the Master Indenture references the Sale Agreement, and pursuant to the Sale Agreement, funds owned by Amedisys could be swept into accounts set up by JPMorgan, the two contracts are in reality one communal contract between the three entities. Amedisys cites no legal authority for this proposition, and we have found none. Although the Sale Agreement is referenced in the Master Indenture, the Master Indenture does not purport to incorporate the Sale Agreement. Indeed, it is undisputed that Amedisys and JPMorgan had no contact at all prior to Amedisys failing to receive its requested funding in November 2002. Amedisys has presented no evidence that the parties understood or intended the two separate contracts to constitute one tri-party contract.
+ 
+Similarly, Amedisys cannot establish that it is an intended third-party beneficiary of the Master Indenture, owed fiduciary duties by JPMorgan. The Master Indenture precludes such a claim, stating “[n]othing in this Master Indenture ... express or implied, shall give to any Person, other than the parties hereto ... any benefit or any legal or equitable rights, remedy or claim under this Master Indenture.” Under Ohio law, “[f]or a third-party beneficiary to be an intended beneficiary, the contract must have been entered into by the parties directly or primarily for the benefit of that person.” Westwinds Dev. Corp. v. Outcalt, No.2008-G-2863, 2009 WL 1741978, at *3 (Ohio App. June 19, 2009) (unpublished opinion) (emphasis in original) (citations omitted). Ohio courts look to the language of the contract to determine if a party is a direct or incidental beneficiary. See Lin v. Gatehouse Constr. Co., 84 Ohio App.3d 96, 616 N.E.2d 519, 522 (1992). Thus, Amedisys cannot be an intended beneficiary under the Master Indenture, and JPMorgan owes it no fiduciary duty.
+ 
+
+e. Counts Two-Escrow
+**8 [5] Amedisys argues that the fact that JPMorgan knew that funds owned by Amedisys could be contained within the NCFE accounts creates a fiduciary duty on the part of JPMorgan and entitles Amedisys to recover its funds from JPMorgan as escrow agent of the disputed funds. Amedisys does not contend that JPMorgan entered into an escrow contract with NCFE and Amedisys. Ohio law, however, recognizes implied contracts for escrow if the parties “conduct and declarations” demonstrate an intent to be bound. Waffen v. Summers, No. OT-08-034, 2009 WL 1741731, at *5 (Ohio App. June 19, 2009) (unpublished opinion) (internal quotation marks and citations omitted). In an implied contract, “the meeting of the minds must be established by demonstrating that the circumstances surrounding the parties’ transaction make it reasonably certain that the contract exists as a matter of tacit understanding.” Reali, Giampetro & Scott v. Soc. Nat’l Bank, 133 Ohio App.3d 844, 729 N.E.2d 1259, 1263 (1999) (internal quotation marks and citation omitted). As discussed supra, there is no evidence of any contact between JPMorgan and Amedisys prior to November 2002. Thus, Amedisys has not established a genuine question of material fact as to the existence of an implied escrow contract, as there is no evidence of a meeting of the minds whereby JPMorgan intended to serve as escrow agent.
+ 
+
+IV.
+For the foregoing reasons, we AFFIRM the grants of summary judgment on *541 Counts Two and Six and on Count One, in part, and REVERSE the grant of summary judgment on Counts Three, Four, Five and Thirteen, and Count One, in part, and REMAND for further proceedings consistent with this opinion.
+ 
+All Citations
+377 Fed.Appx. 531, 2010 WL 1976639
+Footnotes
+
+1
+
+Appellants are Amedisys Inc.; Amedisys Home Health, Inc. of Georgia; Healthfield Services of Middle Georgia; Clinical Arts Home Care Services, Inc.; Central Home Health Care; Tugaloo Home Health Agency; North Georgia Home Health Agency; Coosa Valley Home Health; Amedisys Louisiana; Amedisys North Carolina, LLC; Amedisys Oklahoma, LLC; Amedisys Tennessee, LLC; Amedisys Home Health Inc. of Virginia; Amedisys Northwest, LLC; Amedisys Specialized Medical Services, Inc.; Amedisys Home Health, Inc. of South Carolina; Amedisys Quality Oklahoma, LLC; and Home Health of Alexandria, Inc. d/b/a Cornerstone Home Health.
+
+2
+
+Funds from all healthcare providers under contract with NPF VI were collected in the Collection Account. Once documented, the funds would be transferred to the Purchase Account, from which providers were paid, and various reserve accounts established as credit enhancements for the securitization of the receivables.
+
+3
+
+Due to restrictions imposed by Medicare and Medicaid, separate accounts were created for governmental and commercial payors.
+
+4
+
+Joffrion passed away in January 2002, prior to the commencement of the current controversy.
+
+5
+
+We note that a number of former NCFE executives have pled guilty or been convicted of various financial crimes that led to the demise of the company.
+
+6
+
+JPMorgan officials assert they were concerned that the capital note was secured by the same collateral that was intended to support the notes issued to investors by NPF VI.
+
+7
+
+Relying on Browne’s deposition testimony and emails is especially troubling as he disclaimed personal knowledge of the parties’ discussions prior to altering the Sale Agreement. Browne entered a “loose consulting” arrangement with Amedisys in March 2002, and was not appointed CFO until late-May. He described himself as only “peripherally involved” with Amedisys from March through May 2002, by which point the Sale Agreement was no longer functioning as originally intended.
+
+8
+
+The bankruptcy court, however, expressly declined to determine which accounts would be considered in applying the lowest-intermediate-balance test.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,186 @@
+
+
+ 
+
+
+HBAC Matchmaker Media, Inc. v. Google Inc.
+United States Court of Appeals, Federal Circuit. | May 31, 2016 | 650 Fed.Appx. 990 | 2016 WL 3059238
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+HBAC Matchmaker Media, Inc. v. Google Inc., 650 F. App’x 990 (Fed. Cir. 2016)
+
+All Citations:
+
+650 Fed.Appx. 990
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Delaware
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+650 Fed.Appx. 990
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+HBAC MATCHMAKER MEDIA, INC., Plaintiff–Appellant
+v.
+GOOGLE INC., YouTube, LLC, ESPN, Inc., Yahoo! Inc., Bravo Media LLC, NBC Entertainment, Universal Television Networks, CBS Interactive, Inc., Disney Online, American Broadcasting Companies, Inc., Vevo LLC, Viacom International Inc., Blip Networks, Inc., Defendants–Appellees
+2015–1447, 2015–1478, 2015–1479, 2015–1480, 2015–1481, 2015–1521, 2015–1522, 2015–1523
+|
+Decided: May 31, 2016
+Synopsis
+Background: Patent owner commenced action alleging that providers of internet-based video delivery infringed patents relating to systems and methods for delivering targeted advertising to consumers’ digital devices. The United States District Court for the District of Delaware, Sue L. Robinson, J., entered stipulated final judgments of noninfringement. Owner appealed.
+ 
+[Holding:] The Court of Appeals, Stoll, Circuit Judge, held that term, “head end system,” meant origination point in communication system.
+ 
+Vacated and remanded.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+
+
+Term, “head end system,” in patent relating to systems and methods for delivering targeted advertising to consumers’ digital devices, meant origination point in communication system; term was not restricted to delivery over conventional television (TV) or cable system.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,002,393. Construed.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,774,170. Cited.
+Cases that cite this headnote
+
+
+
+Appeals from the United States District Court for the District of Delaware in Nos. 1:13–cv–00428–SLR–SRF, 1:13–cv–00429–SLR–SRF, 1:13–cv–00430–SLR–SRF, 1:13–cv–00433–SLR–SRF, 1:13–cv–00436–SLR–SRF, 1:13–cv–00437–SLR–SRF, 1:13–cv–00438–SLR–SRF, 1:13–cv–00962–SLR–SRF, Judge Sue L. Robinson.
+Attorneys and Law Firms
+BRIAN DAVID LEDAHL, Russ August & Kabat, Los Angeles, CA, argued for plaintiff-appellant. Also represented by ERIC JOHN CARSTEN.
+ANDREW JOHN PINCUS, Mayer Brown LLP, Washington, DC, argued for all defendants-appellees. Defendants-appellees Google Inc., YouTube, LLC also represented by PAUL WHITFIELD HUGHES. Defendant-appellee Google Inc. also represented by MICHAEL J. MALECEK, TIMOTHY CHAO, Kaye Scholer LLP, Palo Alto, CA.
+EDWARD R. REINES, Weil, Gotshal & Manges LLP, Redwood Shores, CA, for defendants-appellees ESPN, Inc., Yahoo! Inc., Bravo Media LLC, NBC Entertainment, Universal Television Networks, CBS Interactive, Inc., Disney Online, American Broadcasting Companies, Inc.
+MILTON SPRINGUT, Springut Law PC, New York, NY, for defendants-appellees Vevo LLC, Viacom International Inc., Blip Networks, Inc. Defendant-appellee Blip Networks, Inc. also represented by JAMES F. VALENTINE, ERIC WEI HOONG OW, Perkins Coie, LLP, Palo Alto, CA.
+*991 Before Prost, Chief Judge, Dyk, and Stoll, Circuit Judges.
+Opinion
+Stoll, Circuit Judge.
+
+HBAC Matchmaker Media, Inc. appeals from stipulated final judgments of noninfringement entered by the United States District Court for the District of Delaware following claim construction of U.S. Patent No. 6,002,393 (the “ ‘393 patent”). Because the district court erred in construing the term “head end system,” we vacate the stipulated judgments of noninfringement and remand for further proceedings consistent with this opinion.
+ 
+
+BACKGROUND
+HBAC owns the ’393 patent, which was filed in 1995 and is titled “System and Method for Delivering Targeted Advertisements to Consumers Using Direct Commands.” In eight similar complaints, HBAC alleged that several providers of internet-based video delivery infringe the ’393 patent and U.S. Patent No. 5,774,170 (the “ ‘170 patent”).1 The asserted patents relate to systems and methods for delivering targeted advertising to consumers’ digital devices.
+ 
+The term “head end system” appears in each asserted independent claim of the ’393 patent. Claim 1 is representative:
+1. A system for delivery of targeted advertisements from a head end system to individual consumers at at least one consumer display site comprising:
+(a) a control device at the at least one consumer display site; and
+(b) a controller at the head end system for sending a signal to the control device at the at least one display site for causing an advertisement to be displayed at said at least one display site intended for a particular consumer;
+(c) the controller at the head end system including a program database supplying program materials and a commercial database supplying advertisements for display at the at least one display site, the commercial database further storing information concerning the type of each advertisement; the head end system further including a consumer database having information about a consumer at the at least one display site, and an instruction formatter having inputs from the consumer database, the program database and the commercial database for generating an instruction for the control device at the at least one display site, the instruction being generated based on the type information stored in the commercial database and the information about the consumer at the at least one display site and optionally a characteristic of the program materials; the controller at the head end system further downloading the instruction to the control device at the at least one display site to command the control device to select an advertisement from the head end system intended for display at the at least one display site.
+’393 patent col. 13 ll. 28–57 (emphases added).
+ 
+Following briefing and argument, on June 3, 2014, the district court construed the term “head end system” and, on June 30, 2014, issued an order clarifying that construction. The district court construed “head end system” to mean “[t]he point in a TV system at which all programming is collected and formatted for placement on the TV system.” Joint Appendix (“J.A.”) 23. The district court subsequently clarified *992 the construction to specify that “ ‘TV system’ necessarily utilizes a conventional television set and/or set-top box for selecting from (and displaying) multiple channels of TV programming.” J.A. 30. The court reasoned that “[w]hile plaintiff argues for a broader construction of this limitation (to include the internet), the specification consistently refers to ‘cable TV,’ ‘television,’ and ‘VCR.’ ” J.A. 23. In its view, both the ’393 patent and the term “head end system” “are directed to the specific technology platforms disclosed in the specification, i.e., conventional television systems, especially cable TV systems and other multichannel TV systems.” J.A. 30. The district court also noted that “the figures in the ’393 patent represent TV systems and more particularly cable television.” J.A. 24.
+ 
+Based on the district court’s construction of the term “head end system” to specifically exclude advertisement delivery over the internet, the parties agreed to judgments of noninfringement of all asserted claims of the ’393 patent in each of the eight cases. HBAC reserved the right to appeal the district court’s claim construction. Pursuant to the stipulations, the district court entered final judgments under Rule 54(b) of the Federal Rules of Civil Procedure, and HBAC now appeals. The cases have been consolidated for purposes of our review. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+A. Standard of Review
+“[W]hen the district court reviews only evidence intrinsic to the patent (the patent claims and specifications, along with the patent’s prosecution history), the judge’s determination will amount solely to a determination of law, and the Court of Appeals will review that construction de novo.” Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 841, ––– L.Ed.2d –––– (2015). “On the other hand, in considering extrinsic evidence, we review the subsidiary factual findings underlying the district court’s claim construction for clear error.” Vasudevan Software, Inc. v. MicroStrategy, Inc., 782 F.3d 671, 676 (Fed. Cir. 2015) (citing Teva, 135 S.Ct. at 840).
+ 
+
+B. Claim Construction
+Claim construction begins with the words of the claim. Imaginal Systematic, LLC v. Leggett & Platt, Inc., 805 F.3d 1102, 1108 (Fed. Cir. 2015). The words of a claim are generally given their ordinary and customary meaning, which is the meaning that the term would have to a person of ordinary skill in the art at the time of the invention. Phillips v. AWH Corp., 415 F.3d 1303, 1312–13 (Fed. Cir. 2005) (en banc). “The ordinary meaning of a claim term may be determined by reviewing a variety of sources, including the claims themselves, other intrinsic evidence including the written description and the prosecution history, and dictionaries and treatises.” Teleflex, Inc. v. Ficosa N. Am. Corp., 299 F.3d 1313, 1325 (Fed. Cir. 2002) (internal citations omitted). The claims “must be read in view of the specification, of which they are a part.” Phillips, 415 F.3d at 1315 (quoting Markman v. Westview Instruments, Inc., 52 F.3d 967, 979 (Fed. Cir. 1995) (en banc)). “That claims are interpreted in light of the specification does not mean that everything expressed in the specification must be read into all the claims.” Raytheon Co. v. Roper Corp., 724 F.2d 951, 957 (Fed. Cir. 1983). Rather, “our focus must be on the claims.” Teleflex, 299 F.3d at 1326.
+ 
+In this case, the district court erred in construing the term “head end system” to require a TV system that “necessarily utilizes” a conventional television set or set- *993 top box. First, the claims themselves nowhere indicate that a “head end system” is limited to a TV system. To the contrary, independent claims 55 and 56 specifically add a TV limitation, reciting “a method for targeting TV advertisements from a head end system.” ’393 patent col. 19 ll. 29, 58. The district court’s construction thus introduces avoidable redundancy into the language of the claims. We have repeatedly emphasized that a “claim construction that gives meaning to all the terms of the claim is preferred over one that does not do so.” Merck & Co. v. Teva Pharm. USA, Inc., 395 F.3d 1364, 1372 (Fed. Cir. 2005).
+ 
+We next note, as did the district court, that the term “head end system” is not defined or recited in the specification. J.A. 23. “When the intrinsic evidence is silent as to the plain [or ordinary] meaning of a term, it is entirely appropriate for the district court to look to dictionaries or other extrinsic sources for context—to aid in arriving at the plain meaning of a claim term.” Helmsderfer v. Bobrick Washroom Equip., Inc., 527 F.3d 1379, 1382 (Fed. Cir. 2008). We thus look outside the specification of the ’393 patent to discern the meaning of “head end system” to a person of ordinary skill in the art at the time of the invention. Contemporaneous technical dictionaries demonstrate that, at the time of the invention, “head end” was broadly understood as the origination point in a communication system and was not limited to a conventional TV or cable system. For example, a 1995 technical dictionary defines “head end” as “[t]he originating point in a communications system.” J.A. 923, The Computer Glossary 177 (7th ed. 1995). It describes that in cable TV, “the head end is where the cable company has its satellite dish and TV antenna for receiving incoming programming.” Id. It further states, though, that in the context of “online services, the head end is the service company’s computer system and databases.” Id. Another 1995 technical dictionary describes “headend” as a term that is “becoming a general purpose term for describing source nodes in the architecture of the information superhighway that are responsible for storing and serving up the various elements of content that users of the highway want.” J.A. 928, Multimedia Technology from A to Z 77 (1995). The dictionary continues, stating that “[a]s the superhighway takes greater shape, headends will provide mass storage of multimedia content....” Id. Other contemporaneous dictionaries demonstrate that a cable head end is just one example of a head end system. See, e.g., J.A. 941, Novell’s Complete Encyclopedia of Networking 437 (1995) (“Head end: In a broadband network, the starting point for transmissions to end users. For example, cable network’s broadcast station is a head end.”). At the time of the patent’s filing, the ordinary meaning of “head end system,” therefore, was not restricted to delivery over a conventional TV or cable system.
+ 
+Appellees argue that the specification focuses on conventional TV delivery systems, and therefore, the term “head end system” should be so limited. While the specification discloses and the figures depict a preferred embodiment in which the invention is used in a conventional TV system, the specification does not disclaim or disavow the use of a “head end system” with the internet as a video-content delivery system. In this respect, the specification does no more than describe preferred embodiments, and we have repeatedly “cautioned against limiting the claimed invention to preferred embodiments or specific examples in the specification.” Williamson v. Citrix Online, LLC, 792 F.3d 1339, 1346–47 (Fed. Cir. 2015) (quoting Teleflex, 299 F.3d at 1328). As such, the specification should not be used to limit the term “head end system.” The district court thus erred in restricting the construction *994 of “head end system” to a conventional TV system.
+ 
+Having determined that “head end system” requires a broader construction still leaves open, however, the issue ultimately at the center of the parties’ dispute: the scope of the invention. Here, the parties and the district court have taken the construction of a singular term that does not appear in the specification and used that to drive the determination of how broadly the invention applies, i.e. whether it is limited to conventional TV or could also be applied to contexts such as internet video. In this case, the dispute regarding the scope of the invention cannot be captured in the construed term. Accordingly, while we do not construe the term “head end system” to be limited to a conventional TV system, this does not necessarily mean that the overall scope of the invention should be broader in application. Based on the claims, specification, and contemporaneous extrinsic evidence, the term “head end system” is properly construed as “the origination point in a communication system.” We do not address whether the claims as properly construed are invalid under the written description or enablement requirements of 35 U.S.C. § 112. Instead, we leave these issues for the parties to properly raise and develop and for the district court to decide in the first instance.
+ 
+
+CONCLUSION
+For the foregoing reasons, we conclude that the district court incorrectly construed the term “head end system.” We therefore vacate the stipulated judgments of noninfringement of the ’393 patent and remand the case for proceedings consistent with this opinion.
+ 
+VACATED AND REMANDED.
+ 
+All Citations
+650 Fed.Appx. 990
+Footnotes
+
+1
+
+The district court stayed the claims and counterclaims regarding the ’170 patent during this appeal. Accordingly, only the ’393 patent is before us.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

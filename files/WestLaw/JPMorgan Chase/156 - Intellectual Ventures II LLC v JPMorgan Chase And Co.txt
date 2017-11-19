@@ -1,0 +1,305 @@
+
+
+ 
+
+
+Intellectual Ventures II LLC v. JPMorgan Chase & Co.
+United States Court of Appeals, Federal Circuit. | April 1, 2015 | 781 F.3d 1372 | 2015 WL 1454828
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+standard Citation:
+
+Intellectual Ventures II LLC v. JPMorgan Chase & Co., 781 F.3d 1372 (Fed. Cir. 2015)
+
+All Citations:
+
+781 F.3d 1372, 114 U.S.P.Q.2d 1387
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+781 F.3d 1372
+United States Court of Appeals,
+Federal Circuit.
+INTELLECTUAL VENTURES II LLC, Plaintiff–Appellee
+v.
+JPMORGAN CHASE & CO., JPMorgan Chase Bank, National Association, Chase Bank USA, National Association, Chase Paymentech Solutions, LLC, Paymentech LLC, Defendants–Appellants.
+No. 2014–1724.
+|
+April 1, 2015.
+Synopsis
+Background: Patentee brought infringement action against an alleged infringer. Following alleged infringer’s petition for covered business method review (CBMR) by the Patent Trial and Appeal Board (PTAB), the United States District Court for the Southern District of New York, Alvin K. Hellerstein, J., denied the alleged infringer’s motion to stay the action pending CBMR. The alleged infringer filed interlocutory appeal.
+ 
+Holdings: The Court of Appeals, O’Malley, Circuit Judge, held that:
+ 
+[1] the Court would decline to take judicial notice sua sponte that the PTAB had initiated CBMR on a patent, and
+ 
+[2] the Court lacks jurisdiction to consider an interlocutory appeal, until the PTAB initiates a CBMR proceeding.
+ 
+Appeal dismissed.
+ 
+Hughes, Circuit Judge, filed a dissenting opinion.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(1)In general
+
+
+Court of Appeals would decline to take judicial notice sua sponte that the Patent Trial and Appeal Board (PTAB) had initiated covered business method review (CBMR) of a patent, on an appeal of the denial of a motion to stay a patent infringement action pending CBMR, where the PTAB’s grant of CBMR review occurred post-appellate briefing and argument, and the grant of CBMR might be relevant to the District Court’s assessment of any renewed motion to stay on remand.
+8 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsIn general;  necessity
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)1In General
+170Bk3274Finality
+170Bk3275In general;  necessity
+
+
+Consistent with the final judgment rule, the Court of Appeals normally only has jurisdiction to review a final decision of the district court.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsIn general;  necessity
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)1In General
+170Bk3274Finality
+170Bk3275In general;  necessity
+
+
+Exceptions to the final judgment rule, whether statutory or arising from common law, are to be narrowly construed.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsInterlocutory review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1952Decisions Reviewable
+291k1955Finality
+291k1955(2)Interlocutory review in general
+
+
+Court of Appeals lacks jurisdiction under the America Invents Act (AIA) to consider the interlocutory appeal of a District Court’s denial of a motion to stay patent infringement litigation pending covered business method review (CBMR) by the Patent Trial and Appeal Board (PTAB) until the PTAB’s Director actually institutes a CBMR proceeding. 35 U.S.C.A. § 321.
+10 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,745,574, US Patent 6,314,409, US Patent 6,715,084, US Patent 6,826,694, US Patent 7,634,666. Cited.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1372 Eric F. Citron, Goldstein & Russell, P.C., Bethesda, MD, argued for plaintiff-appellee. Also represented by Thomas Richard Burns, Jr., Adduci, Mastriani & Schaumberg, LLP, Washington, DC; Marc Belloli, Ian Neville Feinberg, Elizabeth Day, Nickolas Bohl, Feinberg Day Alberti & Thompson LLP, Menlo Park, CA.
+*1373 Mark A. Lemley, Durie Tangri LLP, San Francisco, CA, argued for defendants-appellants. Also represented by Clement Roberts; Kenneth R. Adamo, Kirkland & Ellis LLP, New York, NY; Brent P. Ray, Eugene Goryunov, Chicago, IL; John C. O’Quinn, William H. Burgess, Washington, DC.
+James Quarles, III, Wilmer Cutler Pickering Hale and Dorr LLP, Washington, DC, for amicus curiae Askeladden, L.L.C. Also represented by Robert Anthony Arcamona, Gregory H. Lantier; Richard Wells O’neill, Boston, MA.
+Before O’MALLEY, BRYSON, and HUGHES, Circuit Judges.
+Opinion
+Opinion for the court filed by Circuit Judge O’MALLEY.
+Dissenting opinion filed by Circuit Judge HUGHES.
+
+O’MALLEY, Circuit Judge.
+
+Intellectual Ventures II LLC (“IV”) brought suit against JPMorgan Chase & Co.; JPMorgan Chase Bank, National Association; Chase Bank USA, National Association; Chase Paymentech Solutions, LLC; and Paymentech LLC (collectively, “JPMC”) in the United States District Court for the Southern District of New York, alleging infringement of five patents. JPMC moved to stay the action on grounds that it intended to file petitions seeking covered business method reviews (“CBMR”) with respect to some of the patents in suit. After two CBMR petitions were filed by JPMC, but before the Patent Trial and Appeal Board (“PTAB”) acted on them, the district court denied JPMC’s motion to stay. JPMC then sought interlocutory review of that ruling. Because we do not have jurisdiction to review the district court’s denial of JPMC’s motion to stay, we dismiss.
+ 
+
+I. BACKGROUND
+IV alleged infringement of five patents: U.S. Patent Nos. 6,715,084 (“the ′084 patent”); 6,314,409 (“the ′409 patent”); 5,745,574 (“the ′ 574 patent”); 6,826,694 (“the ′694 patent”); and 7,634,666 (“the ′666 patent”).1 Approximately one year later, on June 27, 2014, JPMC moved to stay the case pending the result of, inter alia, four CBMR petitions JPMC said it was planning to file.2 Joint Appendix (“J.A.”) 166 (“JPMC itself shortly will be filing requests asking the PTAB to institute a [CBMR] of four of the Patents–in–Suit.” (emphasis added)). Shortly after filing the motion to stay, JPMC did, in fact, file two CBMR petitions for the ′409 and ′ 574 patents—on July 11 and 18, respectively. It has never filed the other two promised petitions.
+ 
+On August 11, 2014, the district court denied JPMC’s motion to stay. The court applied the four-factor test set forth in § 18(b)(1) of the America Invents Act (“AIA”), Pub.L. No. 112–29, 125 Stat. 284, 329–31 (2011), expressly stating that it was *1374 assuming without deciding that § 18(b)(1) governed its consideration of the motion. The district court first noted that, because there are multiple patents and claims in suit, it would be inappropriate to stay the entire litigation while waiting to see if the PTAB would choose to initiate review of only two of the patents at issue. The district court also concluded that it expected the litigation to be resolved in less than a year. Since the PTAB is authorized to take twelve months to complete a CBMR, the PTAB could extend that time by another six months, and those time periods would not begin to run until a CBMR petition was actually granted, the court concluded that the litigation would likely be resolved more quickly than any extended CBM review. Ultimately, the district court concluded that JPMC’s argument that the PTAB’s resolutions of the CBMR petitions would reduce the court’s workload was largely speculative, and was offset by IV’s right to a speedy trial.
+ 
+[1] JPMC filed a notice of appeal, arguing that the Federal Circuit has jurisdiction to hear an interlocutory appeal of a denial of a motion to stay relating to CBMR proceedings under § 18 of the AIA.3 As of the date of oral arguments, the PTAB had not acted on the CBMR petitions at issue.4
+ 
+
+II. DISCUSSION
+[2] [3] Consistent with the final judgment rule, this court normally only has jurisdiction to review “a final decision of the district court.” 28 U.S.C. § 1295(a)(1) (2012) (emphasis added). The Supreme Court has consistently reiterated the importance of the final judgment rule. E.g., Firestone Tire & Rubber Co. v. Risjord, 449 U.S. 368, 374, 101 S.Ct. 669, 66 L.Ed.2d 571 (1981) (“[The final judgment rule] emphasizes the deference that appellate courts owe to the trial judge as the individual initially called upon to decide *1375 the many questions of law and fact that occur in the course of a trial. Permitting piecemeal appeals would undermine the independence of the district judge as well as the special role that individual plays in our judicial system.”); United States v. Nixon, 418 U.S. 683, 690, 94 S.Ct. 3090, 41 L.Ed.2d 1039 (1974) (“The finality requirement ... embodies a strong congressional policy against piecemeal reviews, and against obstructing or impeding an ongoing judicial proceeding by interlocutory appeals.”). Exceptions to the final judgment rule, whether statutory or arising from common law, are to be narrowly construed. See Digital Equip. Corp. v. Desktop Direct, Inc., 511 U.S. 863, 867–68, 114 S.Ct. 1992, 128 L.Ed.2d 842 (1994) ( “[W]e have also repeatedly stressed that the ‘narrow’ exception should stay that way and never be allowed to swallow the general rule ... that a party is entitled to a single appeal, to be deferred until final judgment has been entered.” (internal citation omitted)); Coopers & Lybrand v. Livesay, 437 U.S. 463, 474, 98 S.Ct. 2454, 57 L.Ed.2d 351 (1978) (stating that “Congress carefully confined” the availability of immediate review of non-final orders).
+ 
+[4] The parties agree that decisions on motions to stay ordinarily are not immediately appealable under the final judgment rule. See Gulfstream Aerospace Corp. v. Mayacamas Corp., 485 U.S. 271, 277–78, 108 S.Ct. 1133, 99 L.Ed.2d 296 (1988) (explaining that a denial of a motion to stay is not appealable because it is always subject to reconsideration and, thus, never truly final). And, more specifically, the parties agree that rulings on motions to stay premised on the institution of inter partes review proceedings are not appealable under this rule. See Appellant’s Br. 1–2. There is no doubt, accordingly, that the AIA’s authorization for immediate appellate review of stay rulings relating to CBMR proceedings is a statutory grant of jurisdiction to this court which must be construed narrowly. See Digital Equip., 511 U.S. at 867–68, 114 S.Ct. 1992.
+ 
+Section 18 of the AIA states in relevant part:
+(b) REQUEST FOR STAY.—
+(1) IN GENERAL.—If a party seeks a stay of a civil action alleging infringement of a patent under section 281 of title 35, United States Code, relating to a [CBMR]5proceeding for that patent, the court shall decide whether to enter a stay....
+ 
+(2) REVIEW.—A party may take an immediate interlocutory appeal from a district court’s decision under paragraph (1). The United States Court of Appeals for the Federal Circuit shall review the district court’s decision to ensure consistent application of established precedent, and such review may be de novo.
+AIA § 18(b) (emphases added). In other words, we have jurisdiction over an immediate interlocutory appeal from a district court’s decision on a motion to stay “relating to a [CBMR] proceeding for that patent.” Id. § 18(b)(1). Because the district court’s order on JPMC’s motion to stay considered two CBMR petitions pending before the PTAB, we must decide whether the proper interpretation of CBMR “proceeding” in § 18(b)(2) encompasses pending CBMR petitions on which the PTAB has not yet acted.6 IV contends that a *1376 CBMR proceeding does not begin until the PTAB institutes a review in response to a CBMR petition. JPMC, on the other hand, argues that a CBMR proceeding begins as soon a party files a CBMR petition. In previous appeals where this court exercised jurisdiction over an interlocutory appeal under § 18(b)(2) of the AIA, the PTAB already had granted CBMR petitions and instituted CBM reviews. See, e.g., VirtualAgility, 759 F.3d 1307. This is, therefore, an issue of first impression.
+Our first step in construing the statute is to look to the language of the AIA. Robinson v. Shell Oil Co., 519 U.S. 337, 340, 117 S.Ct. 843, 136 L.Ed.2d 808 (1997) (“Our first step in interpreting a statute is to determine whether the language at issue has a plain and unambiguous meaning with regard to the particular dispute in the case.”). The AIA differentiates between a petition for a CBMR proceeding (which a party files) and the act of instituting such a proceeding (which the Director is authorized to do). For instance, AIA § 18(a)(1)(B) refers to when a person may file a “petition for a [CBMR] proceeding,” which suggests that a petition is a request for a CBMR proceeding, not that the petition itself is part of the proceeding. Section 18(a)(3)(B) uses similar language—referring to “any petition for a [CBMR] proceeding”—again suggesting that the petition is a request that a proceeding be instituted, not that the petition itself institutes a proceeding. Comparing this language with that in § 18(a)(1)(E), which states that “[t]he Director may institute a [CBMR] proceeding only for a patent that is a covered business method patent,” is telling. Because the Director decides whether to “institute,” or begin, a CBMR proceeding, and necessarily bases that decision on the strength of the petition, the petition itself cannot substitute for the exercise of the Director’s discretion.
+ 
+This interpretation is consistent with the use of “proceeding” in Chapter 32 of Title 35, which covers post-grant reviews generally and to which § 18(a) expressly refers. E.g., 35 U.S.C. § 325(d) (“In determining whether to institute or order a proceeding under this chapter, ... the Director may take into account whether, and reject the petition or request because, the same or substantially the same prior art or arguments previously were presented to the Office.” (emphases added)); § 326 (setting forth guidelines for discovery and oral argument for proceedings ); § 327 (providing for termination of the proceeding if the parties settle, “unless the Office has decided the merits of the proceeding before the request for termination is filed”). The uses of proceeding in the post-grant review sections reinforce the distinction between a petition and a proceeding, and indicate that the Director decides whether to “institute or order” a proceeding based on a party’s “petition or request.” Id. § 325(d). The use of “proceeding” in 35 U.S.C. § 135 for derivation proceedings is likewise consistent with this interpretation. See, e.g., 35 U.S.C. § 135(a)(1) (“An applicant for patent may file a petition with respect to an invention to institute a derivation proceeding in the Office.”).
+ 
+The congressional record, while not terribly illuminating, supports a reading of § 18 which differentiates a petition from the CBMR proceeding itself. See, e.g., 157 Cong. Rec. 3416–17 (2011) (statement of *1377 Sen. Schumer) (“[CBMR] proceedings will only be instituted upon a high up-front showing of likely invalidity. The proceeding is limited to certain business method patents.” (emphasis added)). Like the language in the statute, the legislative history suggests that the CBMR proceedings will not begin until the PTAB institutes the proceedings and the PTAB will only institute a proceeding if a party’s petition presents a “high up-front showing of likely invalidity.” Id.7 Senator Schumer added that, “[s]ince the denial of a stay pending post-grant review under this amendment is an extraordinary and extremely rare circumstance, the filing of an interlocutory appeal should result in the stay of proceedings in the district court pending appeal.” Id. Because district courts would often deny a stay in the face of a mere petition for CBMR—waiting to see what the PTAB view of the merits of that petition are—that circumstance can hardly be the extraordinary and extremely rare circumstance that Senator Schumer contemplated. Indeed, in VirtualAgility, we said that “it [is] not error for the district court to wait until the PTAB made its decision to institute CBM review before it ruled on the motion.”8 759 F.3d at 1315. Similarly, when discussing the program for covered business method patents, the House Report on the bill that became the AIA anticipated that “[a]ny party may request a stay of a civil action if a related post-grant proceeding is granted.” H.R.Rep. No. 112–98, at 54 (2011), 2011 U.S.C.C.A.N. 67, 84 (emphasis added).
+ 
+This interpretation of the legislative history is consistent with the apparent purpose behind taking the unusual step of not only allowing interlocutory review of this narrow class of trial court stay rulings, but allowing for de novo review of the same. It was mainly for those rare circumstances where a stay is denied even after the PTAB has acted to institute a proceeding premised on a showing of likely invalidity that Congress crafted an exception to the final judgment rule and altered the permissible standard of review. See AIA § 18(b)(2) (“The United States Court of Appeals for the Federal Circuit shall review the district court’s decision to ensure consistent application of established precedent, and such review may be de novo.”).
+ 
+Because the language of the statutory scheme consistently defines “proceeding” as beginning when the PTAB institutes review, we adopt that interpretation. Robinson, 519 U.S. at 340, 117 S.Ct. 843 (“Our inquiry must cease if the statutory language is unambiguous and the ‘statutory scheme is coherent and consistent.’ ” (quoting United States v. Ron Pair Enters., *1378 Inc., 489 U.S. 235, 240, 109 S.Ct. 1026, 103 L.Ed.2d 290 (1989))). This narrow reading of the statute, moreover, is consistent with Supreme Court precedent counseling us to interpret narrowly exceptions to the final judgment rule that expand the scope of our jurisdiction and warning against review of rulings that are never truly final. None of the non-statutory arguments by JPMC and the amici persuade us to depart from the interpretation the statute itself dictates.
+ 
+One such non-statutory argument is that the U.S. Patent and Trademark Office (“PTO”) has defined “proceeding” more broadly in its regulations. See 37 C.F.R. § 42.2; 77 Fed.Reg. 48756. The PTO’s interpretation, however, is trumped by the clear language of the AIA. See 35 U.S.C. § 2(b)(2) (“[The PTO] may establish regulations, not inconsistent with law....” (emphasis added)). The PTO’s own regulations are inconsistent on this point, moreover. Compare 37 C.F.R. § 42.2 (“Preliminary Proceeding begins with the filing of a petition for instituting a trial and ends with a written decision as to whether a trial will be instituted. Proceeding means a trial or preliminary proceeding.”) with 37 C.F.R. § 42.101(b) (“The petition requesting the proceeding....” (emphasis added)) and 77 Fed.Reg. 48756 at 48765 (“[T]he Director may institute a proceeding where a petitioner meets the threshold standards.” (emphasis added)) and id. (stating that “the Board may decline to institute a proceeding” under certain circumstances).9 Additionally, although we may give deference to the PTO with respect to procedural rules of conduct before the PTO itself, we see no reason to afford deference to an agency’s interpretation to the extent it purports to define the scope of an Article III court’s appellate jurisdiction. Cf. Cooper Techs. Co. v. Dudas, 536 F.3d 1330, 1335–36 (Fed.Cir.2008) (explaining that the PTO is authorized to establish “procedural” rules, but cannot establish a “substantive” rule that “ ‘effects a change in existing law or policy’ which ‘affect[s] individual rights and obligations.’ ” (quoting Animal Legal Def. Fund v. Quigg, 932 F.2d 920, 927 (Fed.Cir.1991))).
+ 
+The fact that some district courts have relied on the PTO’s definition or used the same broad interpretation of proceeding, which appellant now urges, does not dictate our construction of a statute that expands our jurisdiction. Not only do these district court decisions not bind us, but § 18(b)(2) does not create jurisdiction for district courts; they already had the authority to consider motions to stay litigation before them under their broad equitable powers, regardless of the existence of a “proceeding” before the PTAB. District courts are therefore not subject to the same jurisdiction-expanding considerations as this court in interpreting § 18(b)(2). See Digital Equip., 511 U.S. at 867–68, 114 S.Ct. 1992. Importantly, moreover, our conclusion that we do not have jurisdiction over an interlocutory appeal before the PTAB grants a petition and institutes a CBMR proceeding does not affect the district court’s ability to exercise its discretion in deciding a motion to stay at any time; i.e., our holding does not prevent a *1379 district court from choosing to decide a motion before the PTAB acts on a CBMR petition. See VirtualAgility, 759 F.3d at 1316 (“While a motion to stay could be granted even before the PTAB rules on a post-grant review petition, no doubt the case for a stay is stronger after post-grant review has been instituted.”).
+ 
+Our construction of “proceeding,” moreover, does not create inconsistent rights of appeal for the patentee. Though a patentee cannot file an immediate appeal if a district court grants a motion to stay before the PTAB institutes a proceeding, as noted above, the patentee never had the right to an interlocutory appeal over such interim, discretionary rulings. The patentee can, if appropriate, seek a writ of mandamus from this court, as it always has been authorized to do.
+ 
+JPMC contends that—even if we accept the fact that a CBMR proceeding does not commence until the Director acts to institute such a proceeding—a petition for a proceeding, or even the anticipation of the filing of a petition, is sufficiently related to a proceeding to give rise to jurisdiction under § 18(b)(2). This interpretation of “relating to,” however, is inconsistent with the language in the AIA. The AIA grants us jurisdiction over interlocutory appeals “from a district court’s decision” “[i]f a party seeks a stay of a civil action alleging infringement of a patent ... relating to a [CBMR] proceeding for that patent.” § 18(b)(1)-(2) (emphases added). Under the only fair reading of the AIA, this means that we only have jurisdiction under § 18(b)(2) if the party’s motion to stay is “relat[ed] to” a CMBR proceeding. Absent the existence of a proceeding, jurisdiction is not conferred upon us by § 18(b)(2).
+ 
+JPMC asks us to read the statute as granting this court jurisdiction over any interlocutory appeal from a decision on a motion to stay where the motion is predicated on “anything that relates to” a CBMR proceeding, even a future intention to file a petition. Oral Argument at 10:50, Intellectual Ventures II LLC v. JPMorgan Chase & Co., 2014–1724, available at http://oralarguments.cafc. uscourts.gov/default.aspx?fl=2014–1724.mp3. This argument, however, is premised on a grammatically unsound reading of the AIA. As stated above, we only have jurisdiction over a decision on a motion to stay that is related to an actual CBMR proceeding, not a decision on a motion to stay that is related to anything that relates—however remotely—to a hoped-for CBMR proceeding.
+ 
+
+III. CONCLUSION
+For the foregoing reasons, we do not have jurisdiction under § 18(b)(2) of the AIA to consider an interlocutory appeal from a decision on a motion to stay until the PTAB institutes a CBMR proceeding. We, therefore, dismiss this appeal for lack of jurisdiction.
+ 
+
+DISMISSED
+
+HUGHES, Circuit Judge, dissenting.
+
+The America Invents Act (AIA), Pub.L. No. 112–29, 125 Stat. 284 (2011), created a new transitional procedure to challenge the validity of covered business method (CBM) patents before the United States Patent and Trademark Office. The AIA also permits parties to seek stays of related district court litigation while CBM challenges are pending. See id. § 18. And to ensure uniformity in stay decisions, the AIA gave this court the authority to immediately review the district court’s grant or denial of a stay. The majority improperly limits our review authority to only stay decisions predicated on an already instituted CBM proceeding. Because the majority’s conclusion relies on an overly narrow *1380 textual analysis and is at odds with the overall purpose of the AIA and the specific purpose of the CBM procedure, I respectfully dissent.
+ 
+The AIA was “designed to establish a more efficient and streamlined patent system that will improve patent quality and limit unnecessary and counterproductive litigation costs.” H.R.Rep. No. 112–98, pt. 1, at 40 (2011), 2011 U.S.C.C.A.N. 67, 69. To these ends, Congress considered and enacted § 18, “one of the [AIA’s] most important reforms,” to “crackdown on low-quality business[-]method patents.” 157 Cong. Rec. 9952 (2011) (remarks of Rep. Grimm). According to Congress, litigation over CBM patents placed a “substantial burden” on the courts and the economy. 157 Cong. Rec. 3416 (2011) (remarks of Sen. Schumer). Because Congress sought to curb this litigation and the associated costs, an explicit goal of the new program under § 18 was to provide a cheaper, faster administrative alternative for reviewing business method patents. Id. Indeed, Congress repeatedly indicated that the program should be used “instead of, rather than in addition to, civil litigation.” Id.; see also 157 Cong. Rec. 2710 (2011) (remarks of Sen. Hatch); 157 Cong. Rec. 3432–33 (2011) (remarks of Sen. Kyl); 157 Cong. Rec. S5436–37 (daily ed. Sept. 8, 2011) (remarks of Sen. Schumer).
+ 
+To preserve the benefits of this alternative, § 18 authorizes a stay of related district court proceedings, and Congress intended stays to be granted in all but the rarest of circumstances. 157 Cong. Rec. 3417 (2011) (remarks of Sen. Schumer). It believed that “[t]oo many district courts [were] content to allow litigation to grind on while a reexamination [was] being conducted, forcing the parties to fight in two fora at the same time.” Id. at 3416. That state of affairs was “unacceptable, and ... contrary to the fundamental purpose of [§ 18] to provide a cost efficient alternative to litigation.” Id. at 2417. To ensure consistent and rigorous application of the stay provisions, § 18 allows for parties, “as of right, to have the Federal Circuit closely review” a district court’s decision on a request for a stay of a civil action relating to a transitional proceeding. Id. Section 18 provides an “automatic right to an interlocutory appeal,” which the district court need not certify under 28 U.S.C. § 1292(b). Id. Congress made clear that “the Federal Circuit may not decline to hear an interlocutory appeal.” Id.
+ 
+Section 18(b)(1) of the AIA limits the stay provisions in that section to infringement actions “relating to a transitional proceeding.” The majority reads the phrase, “relating to a transitional proceeding,” as confining the district court’s authority to stay a case under § 18 to instances where the Patent Office has already instituted a CBM review, and thus confines our review authority in § 18(b)(2) to the same circumstances. The majority provides a reasonable textual analysis for its conclusion. But given the overall purpose and legislative history of the AIA and § 18, I do not believe that Congress had any intent to so limit our jurisdiction by its choice of that specific statutory language. Rather, I read the stay provision in § 18(b)(1) as more broadly authorizing district courts to stay a case based on a CBM review at any stage in the CBM process, and consequently our review extends to stay decisions issued at any stage in the CBM process.
+ 
+The majority’s purely textual analysis cannot be squared with the overall legislative purpose of the AIA and § 18. The meaning of statutory language “may vary to meet the purposes of the law, to be arrived at by a consideration of the language in which those purposes are expressed, and of the circumstances under *1381 which the language was employed.” Yates v. United States, ––– U.S. ––––, 135 S.Ct. 1074, 1082, 191 L.Ed.2d 64 (2015) (quoting Atl. Cleaners & Dyers v. United States, 286 U.S. 427, 433, 52 S.Ct. 607, 76 L.Ed. 1204 (1932)). Congress repeatedly stated its paramount goal of having § 18 serve as a cheaper, faster alternative to be used instead of—rather than in addition to—litigation in district court. If we decline to review stay decisions before CBM review is instituted, parties inevitably will be forced to simultaneously litigate in district court and at the Patent Office. This is inconsistent with the purpose of § 18. Further, if the petition is ultimately granted, the expenses incurred at the district court from the time the petition was filed to the time a subsequent stay request is granted become the kind of “unnecessary and counterproductive litigation costs” Congress sought to avoid. H.R.Rep. No. 112–98, pt. 1, at 40 (2011), 2011 U.S.C.C.A.N. 67, 69. Given the clearly expressed purpose of § 18 proceedings, Congress could not have intended to create an exception for interlocutory orders, but then limit our jurisdiction by way of the majority’s distinction between instituted proceedings and those where a petition has been filed.
+ 
+The majority’s decision is also inconsistent with Congress’s desire for uniformity in stay decisions. As the majority recognizes, and as we have previously held, district courts may grant stays for CBM proceedings at any time and are not precluded from granting a stay based on the filing of a petition. See VirtualAgility Inc. v. Salesforce.com, Inc., 759 F.3d 1307, 1316 (Fed.Cir.2014). Indeed, we have expressly noted the district court’s wide latitude in the timing of these stay decisions. Id. (“[A] motion to stay could be granted even before the PTAB rules on a post-grant review petition....”). If that is the case, then we are left with a situation where district courts could make stay decisions prior to institution that are unreviewable. And therefore we could not ensure the uniformity that Congress so clearly intended for such decisions.
+ 
+Although it is true, as the majority notes, that the Supreme Court has stated that exceptions to the final judgment rule within 28 U.S.C. § 1291 are to be construed narrowly, I do not find that principle particularly relevant here. Congress expressly granted a right to interlocutory appeal in § 18(b)(2) that on its face is not limited. And to read § 18(b)(1) in such a way as to infer a limitation is not consistent with Congressional intent. Congress explicitly intended to allow litigants to circumvent the interlocutory appeal provisions of 28 U.S.C. § 1292(b) by invoking § 18. See 157 Cong. Rec. 3417 (2011) (remarks of Sen. Schumer) (“[T]he district court does not need to certify the appeal in writing, as it would ordinarily need to do under 28 U.S.C. § 1292(b). Also, unlike the discretion typically afforded an appellate court under 28 U.S.C. § 1292(b), under this amendment the Federal Circuit may not decline to hear an interlocutory appeal.”). When read in the context of the surrounding legislative history, this strongly suggests that Congress sought to have district court litigation “disrupted by interlocutory review” and subject to the “premature demise” the Supreme Court has been concerned with when considering interlocutory appeals. Coopers & Lybrand v. Livesay, 437 U.S. 463, 474, 98 S.Ct. 2454, 57 L.Ed.2d 351 (1978).
+ 
+The result of the majority’s interpretation is a curious parsing of the statute. It creates a needlessly complicated regime that divides CBM stay decisions and our review authority into two categories: § 18(b)(1) stays, which can only occur after a CBM proceeding has been instituted; and stays based on the district court’s *1382 inherent stay power for any stay requested between the filing of a petition for CBM review and the formal institution of a CBM proceeding. And apparently this is true even if the district court’s decision is expressly based on the filing of a petition and expressly weighs the § 18(b)(1) factors.
+ 
+Without something more explicit in the statute, I cannot believe Congress intended this result. The majority would seemingly require Congress to explicitly reference the petition stage of the CBM proceeding for it to be covered under § 18(b)(1) and thus for us to have jurisdiction under § 18(b)(2). I do not believe that is correct. Rather, the more natural reading of § 18(b) is a specific authorization of district courts to consider stay requests relating to CBM challenges based on the stay factors identified in § 18, regardless of whether the Patent Office has actually instituted a CBM proceeding. Indeed, the stay factors in § 18(b)(1) are drawn from a case in which a district court was considering a stay at the petition stage for a similar proceeding. See 157 Cong. Rec. 3416 (2011) (remarks of Sen. Schumer) (“this amendment instructs courts to apply the four-factor test first announced in [Broadcast Innovation, L.L.C. v. Charter Communications Inc., No. 03–cv–2223, 2006 WL 1897165 (D.Col. July 11, 2006) ] when evaluating stay motions”). And that is exactly how most district courts have been applying § 18, which, perhaps not coincidentally, also furthers the uniformity of stay decisions in cases where CBM patents may be at issue. See, e.g., buySAFE, Inc. v. Google, Inc., No. 3:13CV781–HEH, 2014 WL 2714137, at *3 (E.D.Va. June 16, 2014); Market–Alerts Pty. Ltd. v. Bloomberg Fin. L.P., 922 F.Supp.2d 486, 490 n. 5 (D.Del.2013). The majority’s more complicated, two-standard regime conflicts with the AIA’s overall purpose of establishing a more efficient and streamlined patent system.
+ 
+Further, the majority’s distinction between pre- and post-CBM review institution decisions may create anomalous situations. If our jurisdiction is determined by whether the Patent Office has instituted CBM review, it is not clear how or even whether we should handle “hybrid” cases where a stay motion is predicated on one patent for which CBM review has been instituted and another patent for which a petition for CBM review is pending. Presumably we would possess jurisdiction because the stay decision is predicated on at least one instituted CBM proceeding, but that raises even further questions about how our review should proceed. If the district court’s decision is based on not only the instituted proceeding, but also a pending petition or petitions, can we consider those pending petitions in reviewing the propriety of the stay decision? If the majority is correct that the district court’s authority to stay cases under § 18(b)(1) only extends to instituted proceedings and our jurisdiction is coextensive to that, then what would be the basis for our review of the decision at least so far as it extends to pre-institution proceedings? And the majority’s decision makes it less clear how or whether a party, the district court, or this court is to handle reconsideration of a stay which was granted before CBM review is instituted, after the Patent Office has instituted CBM review. To be sure, the majority’s decision will not further the establishment of a “more efficient and streamlined patent system.”
+ 
+Finally, it is inconsistent to hold that a party requesting a stay has the benefit of our review only after CBM review is instituted, while a party requesting a stay before that time does not, even though significant factors—e.g., expenditure of the court’s and the parties’ resources—favor a stay more so in the latter situation. Given *1383 these practical considerations and the difficulty in applying the majority’s rule, and without any convincing congressional intent to so limit our review authority, I conclude that we have jurisdiction over any stay decision related to a CBM proceeding, regardless of whether the stay request was filed at the petition stage or after institution.
+ 
+I would find that we possess jurisdiction to review the district court’s denial of the stay. And on the merits, I would affirm the district court’s decision.
+ 
+Accordingly, I respectfully dissent.
+ 
+All Citations
+781 F.3d 1372, 114 U.S.P.Q.2d 1387
+Footnotes
+
+1
+
+IV also asserted the same five patents against six other banking institutions in different district courts: First National Bank of Omaha, No. 8:13–cv–167 (D.Neb.) (complaint filed 5/29/2013); BBVA Compass Bancshares, Inc., No. 2:13–cv–1106 (complaint filed 6/12/2013) (N.D.Ala.); Commerce Bancshares, Inc., No. 2:13–cv–4160 (W.D.Mo.) (complaint filed 6/20/2013); SunTrust Banks, Inc., No. 1:13–cv–2454 (N.D.Ga.) (complaint filed 7/24/2013); U.S. Bancorp, No. 0:13–cv–2071 (D.Minn.) (complaint filed 7/31/2013); Huntington Bancshares Inc., No. 2:13–cv–785 (S.D.Ohio) (complaint filed 8/7/2013).
+
+2
+
+Although JPMC’s motion to stay was also based on the filing of 12 inter partes review petitions—all by third parties—JPMC does not argue that the stay ruling relating to those petitions gives us jurisdiction to hear this interlocutory appeal.
+
+3
+
+JPMC also filed a motion to stay the case pending the interlocutory appeal, which the district court denied.
+
+4
+
+We have been informed that the PTAB instituted a CBMR proceeding for all remaining claims in the ′409 patent on January 14, 2015 but denied the petition for the ′574 patent on January 29, 2015. J.P. Morgan Chase & Co. v. Intellectual Ventures II LLC, No. CBM2014–160 (Pat. Tr. & App. Bd. Jan. 29, 2015); J.P. Morgan Chase & Co. v. Intellectual Ventures II LLC, No. CBM2014–157 (Pat. Tr. & App. Bd. Jan. 14, 2015). This court previously has taken judicial notice of post-appeal developments at the PTAB when assessing the propriety of a trial court’s ruling on a motion to stay premised on the existence of a pending CBMR proceeding. See VirtualAgility Inc. v. Salesforce.com, Inc., 759 F.3d 1307, 1312–13 (Fed.Cir.2014). This court was cautious in doing so, however, “mindful that ‘an appellate court may consider only the record as it was made before the district court.’ ” Id. at 1312–13 (quoting Ballard Med. Prods. v. Wright, 821 F.2d 642, 643 (Fed.Cir.1987)). We explained that we felt comfortable doing so, moreover, because the activities at the PTAB had been raised with the district court in a motion to reconsider the denial of the motion to stay, allowing the parties and the district court to fully vet the issue. And, notably, nothing about the facts noticed related to the propriety of this court’s jurisdiction.
+Neither party has requested that we take judicial notice of the recent PTAB rulings in this case, and we decline to do so sua sponte. Because these new facts arose not only post-appeal, but post-briefing and argument, these facts have never been presented to the district court, even though they could be, and those facts might well be relevant to the district court’s assessment of any renewed motion to stay, we decline to expand the record before us.
+More importantly, we find these facts irrelevant to our ability to exercise jurisdiction over this appeal. The question we decide today is not whether a ruling on some future motion to stay, predicated on a different set of facts and procedural setting, would give rise to jurisdiction in this court; we ask only whether we have jurisdiction to consider the appeal from the order currently before us.
+
+5
+
+Section 18 of the AIA is entitled “Transitional Program for Covered Business Method Patents.” Based on this title, the AIA refers to CBMR proceedings as “transitional proceedings.” For consistency, we will replace “transitional” with “CBMR.”
+
+6
+
+While, as noted, no CBMR petitions were pending as of the filing of the motion to stay, it is permissible for the district court to consider the circumstances that exist as of the court’s ruling on the motion before it. See VirtualAgility, 759 F.3d at 1317 n. 6. That is what the district court did here, and the developments between the time of the application for a stay and the court’s order denying the application are part of the record before us on review.
+
+7
+
+Although the amici argues that the Senate codified the rationale in Broadcast Innovation, L.L.C. v. Charter Communication Inc., No. 03–cv–2223, 2006 WL 1897165 (D.Colo. July 11, 2006)—which dealt with a stay that was granted before the petition for a reexamination was granted—the Senate only discussed the 4–part test for whether a stay was appropriate from that opinion, not when a motion for stay was eligible for interlocutory appeal. See 157 Cong. Rec. 3416 (2011) (statement of Sen. Schumer) (“Due to the low grant rates for stays in several jurisdictions, this amendment instructs courts to apply the four-factor test first announced in Broadcast Innovation, L.L.C. v. Charter Communications when evaluating motions to stay.”). The reference to the Broadcast Innovation case for a different proposition does not override the consistent use of the term “proceeding” in the statute and elsewhere in the congressional record.
+
+8
+
+If the dissent were correct that the automatic stay provision applies to all petitions, an accused infringer could immediately bring a halt to a case, regardless of the merits of its challenge to the patent, by filing a CBMR petition as soon as the patentee brings suit. We decline to believe that is what either Senator Schumer or Congress had in mind.
+
+9
+
+Indeed, the PTO’s compliance with the timelines dictated by the AIA is measured by reference to the date on which a petition is granted and proceedings are instituted. 35 U.S.C. § 326(a)(11). If a proceeding actually began with the filing of the petition, the PTO’s regulations would seem to be in direct conflict with the congressional record. Compare 37 C.F.R. § 42.300(c) (“A covered business method patent review proceeding shall be administered such that pendency before the Board after institution is normally no more than one year.” (emphasis added)) with 157 Cong. Rec. 3417 (2011) (statement of Sen. Schumer) (“And the proceeding will typically be completed within 1 year.”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

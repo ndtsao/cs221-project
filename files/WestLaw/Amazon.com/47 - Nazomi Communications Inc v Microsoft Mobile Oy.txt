@@ -1,0 +1,210 @@
+
+
+ 
+
+
+Nazomi Communications, Inc. v. Microsoft Mobile Oy
+United States Court of Appeals, Federal Circuit. | November 26, 2014 | 597 Fed.Appx. 1075 | 2014 WL 6678247
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Nazomi Commc’ns, Inc. v. Microsoft Mobile Oy, 597 F. App’x 1075 (Fed. Cir. 2014)
+
+All Citations:
+
+597 Fed.Appx. 1075
+
+Search Details
+
+Search Query:
+
+adv: NAME(”amazon.com”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+597 Fed.Appx. 1075
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+NAZOMI COMMUNICATIONS, INC., Plaintiff–Appellant,
+v.
+MICROSOFT MOBILE OY, Nokia Inc., Amazon.com, Inc., and Vizio, Inc., Defendants–Appellees.
+Samsung Electronics Co. Ltd., Samsung Electronics America Inc., HTC Corp., HTC America Inc., LG Electronics Inc., Kyocera Communications Inc., LG Electronics Mobilecomm U.S.A., Inc., Amazon.com, Inc., Vizio, Inc., Samsung Telecommunications America, LLC, ARM, Inc., and Arm Ltd., Defendants–Appellees.
+Nos. 2014–1173, 2014–1178.
+|
+Nov. 26, 2014.
+Synopsis
+Background: Patent owner brought action against technology companies alleging infringement of its patents relating to hardware Java accelerator that expedited conversion of stack-based instructions into register-based instructions for processing by central processing unit. The United States District Court for the Northern District of California, Ronald M. Whyte, Senior Judge, construed patents, 2013 WL 4067595, 2013 WL 2951039, and entered summary judgment of non-infringement, 2013 WL 4066847, 2013 WL 4610068, 2012 WL 3536768, 2013 WL 3146796. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Lourie, Circuit Judge, held that:
+ 
+[1] term “instructions” meant either stack-based instructions that were to be translated into register-based instructions, or register-based instructions that were input to CPU pipeline;
+ 
+[2] term “constant pool” meant data structure attached to single loaded class that encoded names that could be used by any method in loaded class; and
+ 
+[3] phrase “an indication of a reference that may need resolution” meant identification of location within constant pool that stored name, or label, of reference that needed resolution.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+
+
+Term “instructions,” as used in patents relating to hardware Java accelerator that expedited conversion of stack-based instructions into register-based instructions for processing by central processing unit (CPU), meant either stack-based instructions that were to be translated into register-based instructions, or register-based instructions that were input to CPU pipeline.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+
+
+Term “constant pool,” as used in patents relating to hardware Java accelerator that expedited conversion of stack-based instructions into register-based instructions for processing by central processing unit, meant data structure attached to single loaded class that encoded names that could be used by any method in loaded class.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+
+
+Phrase “an indication of a reference that may need resolution,” as used in patents relating to hardware Java accelerator that expedited conversion of stack-based instructions into register-based instructions for processing by central processing unit, meant identification of location within constant pool that stored name, or label, of reference that needed resolution.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,338,160, US Patent 7,080,362, US Patent 7,225,436. Not Infringed.
+Cases that cite this headnote
+
+
+
+*1076 Appeals from the United States District Court for the Northern District of California in No. 5:10–cv–04686–RMW, Ronald M. Whyte, Senior Judge.
+Attorneys and Law Firms
+William D. Belanger, Pepper Hamilton LLP, of Boston, MA, Argued for Plaintiff–Appellant. With him on the brief were Alison L. McCarthy and Frank D. Liu. of Counsel was Benjamin Mark Snitkoff.
+Kevin P. Anderson, Wiley Rein LLP, of Washington, DC, Argued for Defendants–Appellees ARM, Ltd., et al. and Eric C. Cohen, Katten Muchin Rosenman LLP, of Chicago, IL, Argued for Defendant Appellee Kyocera Communications, Inc., on the brief for Defendants–Appellees ARM, Ktd., et al., was Karin A. Hessler, Wiley Rein LLP, Boston, MA. On the brief for Defendant-appellee Vizio Inc., was Kevin G. McBride, Akin Gump Strauss Hauer & Feld LLP, of Irvine, CA. of Counsel was James L. Duncan, of Houston, TX. On the brief for Defendants–Appellees LG Electronics Inc., et al. was Nicholas J. Kim, Morgan, Lewis, & Bockius LLP, of Washington, DC. of Counsel was Brett M. Schuman, of San Francisco, CA. On the brief for Defendants-appellees, Microsoft Mobile Oy, et al., was Steven T. Snyder, King & Spalding LLP, of Charlotte, NC. On the brief for Defendant–Appellee Amazon.Com, Inc., were Mary–Olga Lovett and Dwayne L. Mason, Greenberg Traurig LLP, of Houston, TX. On the brief for Defendants–Appellees Samsung Telecommunications America, LLC, et al., were Mark D. Fowler, Robert Buergi, Erik R. Fuehrer and Stanley J. Panikowski, DLA Piper LLP (US), Of East Palo Alto, CA. On the brief for Defendants–Appellees HTC Corporation, et al., were John B. Sganga and Amy C. Chun, Knobbe, Martens, Olson & Bear, LLP, of Irvine, CA. of Counsel was Mauricio Alberto Uribe, of Seattle, WA.
+Before LOURIE, SCHALL, and DYK, Circuit Judges.
+Opinion
+LOURIE, Circuit Judge.
+
+Nazomi Communications, Inc. (“Nazomi”) appeals from the decisions of the United States District Court for the Northern District of California construing disputed claim limitations and granting summary judgment of noninfringement of U.S. Patents 7,080,362 (“the ′362 patent”) and 7,225,436 (“the ′436 patent”) (collectively, “the hardware patents”) and U.S. Patent 6,338,160 (“the ′160 patent” or “the software patent”). See Nazomi Comm., Inc. v. Nokia Corp., No. C–10–04686, 2013 WL 2951039 (N.D.Cal. June 14, 2013) (“Claim Construction Order I ”); id., 2013 WL 3146796 (N.D.Cal. June 18, 2013) (“Summary Judgment Order I ”); Nazomi Comm., Inc. v. Samsung Telecomms., Inc., No. C–10–05545, 2013 WL 4067595 (N.D.Cal. Aug. 8, 2013) (“Claim Construction Order II ”); id., 2013 WL 4066847 (N.D.Cal. Aug. 8, 2013) (“Summary Judgment Order II ”).
+ 
+Nazomi owns the hardware patents, which relate to a hardware Java accelerator that expedites the conversion of stack-based instructions into register-based instructions for processing by a central processing unit. Nazomi also owns the software patent, which relates to a method of running Java programming language that resolves references to a constant pool at runtime. In 2012, Nazomi sued various technology companies that incorporated ARM’s Jazelle Revision 3 design into their processors, alleging infringement of the hardware patents, and various technology companies that produced devices running *1077 Google’s Android operating system, alleging infringement of the software patent.
+ 
+The claims at issue in this appeal are claims 1, 15, 17, 22, 26, 48, and 66–70 of the ′362 patent; claims 1, 5, 12, and 14 of the ′436 patent; and claims 11, 15, 18, and 21 of the ′160 patent. Claim 1 of the ′362 patent is representative of the hardware patents’ claims and reads as follows:
+1. A method for processing instructions in a central processing unit (CPU) capable of executing instructions of a plurality of instruction sets, including a stack-based and a register-based instruction set, the method comprising:
+maintaining data for register-based instructions from the register-based instruction set and an operand stack for operands associated with stack-based instructions from the stack-based instruction set in a first register file, wherein at least some of the operands are moved between the register file and memory via at least one of an overflow and underflow mechanism;
+maintaining an indication of a depth of the operand stack; and
+processing the register-based instructions including generating a first output, and processing the first output in an execution unit using the data from the first register file; and
+processing the stack-based instructions including generating a second output, and processing the second output in the execution unit using the operands from the first register file; and generating exceptions in respect of selected stack-based instructions.
+′362 patent col. 7 ll. 36–58 (emphases added). Claim 11 of the ′ 160 patent is representative of the software patent claims and reads as follows:
+11. A method of executing an instruction comprising:
+obtaining from an instruction storage location, an instruction that references an entry in a constant pool, the constant pool entry storing an indication of a reference that may need resolution;
+obtaining data from the constant pool entry including data from a resolution data field;
+using data from the resolution data field to determine whether to do a resolving step; and
+thereafter, if the data in the data resolution field indicates that the reference was not resolved, resolving the reference and, thereafter, modifying the data in the constant pool entry including modifying the data in the resolution data field to indicate that the reference is resolved, wherein the data in the instruction storage location is not modified.
+′160 patent col. 9 l. 44–col. 10 l. 16 (emphases added).
+ 
+In November 2012, the district court held hearings to construe disputed claim limitations and to consider the technology companies’ motion for summary judgment of noninfringement. Claim Construction Order I, 2013 WL 2951039, at *1; Summary Judgment Order I, 2013 WL 3146796, at *1; Summary Judgment Order II, 2013 WL 4066847, at *1.
+ 
+With respect to the hardware patents, the district court construed the claim limitation “instructions” to mean “either stack-based instructions that are to be translated into register-based instructions, or register-based instructions that are input to the CPU pipeline.” Claim Construction Order I, 2013 WL 2951039, at *8. The court reasoned that, among other things, (1) Nazomi failed to overcome the presumption that courts should construe the same term consistently across related patents, id. at *1078 *4–5, noting that we had affirmed a claim construction of “instructions” in a prior case with a similar specification, and (2) “the specification clearly limited the scope of the claimed invention to executing stack-based instructions by translating them into register-based instructions,” id. at *6–7.
+ 
+In light of that construction, Nazomi stipulated to a lack of literal infringement and only argued for infringement under the doctrine of equivalents. Summary Judgment Order I, 2013 WL 3146796, at *3. The court excluded those arguments, however, because Nazomi failed to comply with the Patent Local Rules by only providing boilerplate language in its infringement contentions. Id. at *4–5. Accordingly, the court granted the technology companies’ motion for summary judgment of noninfringement of the hardware patents.
+ 
+With respect to the software patent, the court construed the claim limitation “constant pool” (“the constant pool limitation”) to mean “a data structure attached to a single loaded class that encodes the names that can be used by any method in the loaded class.” Claim Construction Order II, 2013 WL 4067595, at *5. The court reasoned that, at the time of the invention, the term “constant pool” was a term of art unique to Java. Id. at *3. Thus, lacking any guidance in the specification, the court used the definition provided by the Java Virtual Machine Specification. Id. at *4.
+ 
+The court then construed “an indication of a reference that may need resolution” (“the indication of a reference limitation”) to mean “an identification of a location (e.g., an address) within the constant pool that stores the name, or ‘label,’ of a reference that needs resolution.” Id. at *8. The court reasoned that the plain language of the claim and the specification emphasize that the “indication of a reference” requires an address that “directs the system to a location within the constant pool.” Id. at *7–8. And that address is necessarily distinct, the court stated, from the “resolution data field,” which only shows whether a reference has been resolved by entering a[0] or a[1]. Id. at *7, *9.
+ 
+In light of that construction, Nazomi stipulated to a lack of literal infringement of the constant pool limitation. Summary Judgment Order II, 2013 WL 4066847, at *4–5. And the court found that Nazomi failed to establish how the accused devices operated in “substantially the same way” under the doctrine of equivalents. Id. at *5. Accordingly, the court granted the technology companies’ motion for summary judgment of noninfringement based on the constant pool limitation. Id. The court alternatively granted the technology companies’ motion for summary judgment of noninfringement based on the indication of a reference limitation, finding that the accused devices did not identify a location within the constant pool. Id. at *6.
+ 
+Nazomi timely appealed, and we have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+[1] [2] [3] Nazomi made a variety of arguments on appeal, supporting its view that the district court erred in its claim constructions and hence its judgments of noninfringement. We have considered all of Nazomi’s arguments and find them unpersuasive. On the basis of the district court’s reasoning, we therefore find no error in the district court’s claim constructions that (1) “instructions Construed Term: Instructions” means “either stack-based instructions that are to be translated into register-based instructions, or register-based instructions that are input to the *1079 CPU pipeline”;* (2) “constant pool Construed Term: Constant pool” means “a data structure attached to a single loaded class that encodes the names that can be used by any method in the loaded class”; and (3) “an indication of a reference that may need resolution Construed Term: An indication of a reference that may need resolution” means “an identification of a location (e.g., an address) within the constant pool that stores the name, or ‘label,’ of a reference that needs resolution.”
+ 
+In addition to their defense of the district court’s claim constructions, the technology companies asserted collateral estoppel with respect to the district court’s construction of “instructions.” Specifically, they suggested that this court’s construction of “instructions” in an earlier litigation involving U.S. Patent 6,332,215—of which the hardware patents are continuations and share similar disclosures—controls, and that Nazomi cannot now relitigate that issue. Appellees’ Br. 37–39. Nazomi responded that the earlier litigation focused on a narrower issue with respect to the meaning of “instructions,” and thus collateral estoppel should not apply here. Appellant’s Br. 58–61. We do not need to decide that question here. Whether or not collateral estoppel applies, the prior decision at the very least adds force to support the district court’s construction of “instructions” in the instant case, which we have affirmed.
+ 
+We also conclude that the district court did not abuse its discretion by excluding Nazomi’s doctrine of equivalents arguments under the Patent Local Rules, and thus correctly granted summary judgment of noninfringement of the hardware patents, and that the district court correctly granted summary judgment of noninfringement of the software patent. We therefore affirm the judgments of the district court.
+ 
+AFFIRMED
+ 
+All Citations
+597 Fed.Appx. 1075
+Footnotes
+
+*
+
+The district court also construed “processing the stack-based instructions including generating a second output,” “execution unit,” and “hardware accelerator to process stack based instructions,” which are at issue in this appeal. Claim Construction Order I, 2013 WL 2951039, at *9, *11, *13. Nazomi has argued that those constructions turn only on the same “translation of stack-based instructions to register-based instructions” limitation that the court required for “instructions.” Appellant’s Br. 48, 62–63. Because we affirm the court’s construction of “instructions,” and thus its stack-to-register translation limitation, we necessarily affirm the court’s remaining constructions for those additional terms.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

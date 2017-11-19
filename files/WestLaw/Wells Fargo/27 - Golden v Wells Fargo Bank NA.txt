@@ -1,0 +1,230 @@
+
+
+ 
+
+
+Golden v. Wells Fargo Bank, N.A.
+United States Court of Appeals, Fifth Circuit. | February 20, 2014 | 557 Fed.Appx. 323 | 2014 WL 644549
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Golden v. Wells Fargo Bank, N.A., 557 F. App’x 323 (5th Cir. 2014)
+
+All Citations:
+
+557 Fed.Appx. 323
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:22 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+557 Fed.Appx. 323
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 5th Cir. Rules 28.7 and 47.5.
+United States Court of Appeals,
+Fifth Circuit.
+Cinderella GOLDEN; Ernest Golden, Plaintiffs–Appellants
+v.
+WELLS FARGO BANK, N.A., Defendant–Appellee.
+No. 13–50158.
+|
+Feb. 20, 2014.
+Synopsis
+Background: Home mortgagors brought action against mortgagee’s putative assignee, seeking to temporarily enjoin foreclosure and to recover damages under Texas law. Action was removed. The United States District Court for the Western District of Texas, Harry Lee Hudspeth, Senior District Judge, 2012 WL 8019261,granted assignee’s motion to dismiss for failure to state a claim. Mortgagors appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] mortgagors could not challenge facially valid assignment of mortgage;
+ 
+[2] mortgagors failed to state a claim for breach of pooling and servicing agreement (PSA) for asset-backed passthrough trust for securitization of mortgage loans; and
+ 
+[3] mortgagors failed to state a claim for filing a fraudulent lien or claim against real property.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+Mortgages and Deeds of TrustPersons entitled to sue;  standing;  parties
+
+
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1645Persons entitled to sue;  standing;  parties
+(Formerly 266k265)
+
+
+Under Texas law, only the original mortgagee, as purported assignor of home mortgage, and not the mortgagors, could challenge, for want of authority, the facially valid assignment of the mortgage to purported assignee, who was seeking to foreclose the mortgage.
+9 Cases that cite this headnote
+
+
+
+[2]
+
+ContractsAgreement for Benefit of Third Person
+Mortgages and Deeds of TrustPleading
+
+
+95Contracts
+95IIConstruction and Operation
+95II(B)Parties
+95k185Rights Acquired by Third Persons
+95k187Agreement for Benefit of Third Person
+95k187(1)In general
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1646Pleading
+(Formerly 266k265)
+
+
+In absence of plausible allegations by home mortgagors that they were a party to, or third-party beneficiaries of, pooling and servicing agreement (PSA) for asset-backed passthrough trust for securitization of mortgage loans, mortgagors failed to state a claim for enforcement of PSA’s deadline for transferring mortgage loans out of the trust, in action in which mortgagors alleged that mortgagee’s purported assignee lacked authority to foreclose the mortgage because the assignment had occurred after the PSA’s deadline.
+6 Cases that cite this headnote
+
+
+
+[3]
+
+Mortgages and Deeds of TrustPleading
+
+
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1646Pleading
+(Formerly 266k216)
+
+
+Assuming that a document assigning a deed of trust constituted a lien or claim within meaning of Texas statute creating liability for filing a fraudulent lien or claim against real property, home mortgagors, by alleging that mortgagee’s assignee used the assignment for express purpose of closing a link in chain of title so that it could proceed to foreclose the mortgage, failed to sufficiently allege that assignee intended to cause mortgagors to suffer physical injury, financial injury, or mental anguish, as element for stating a claim under the Texas statute. V.T.C.A., Civil Practice & Remedies Code § 12.002(a).
+32 Cases that cite this headnote
+
+
+
+[4]
+
+Mortgages and Deeds of TrustPleading
+
+
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1646Pleading
+(Formerly 266k216)
+
+
+Under Texas law, home mortgagors failed to state a claim against mortgagee’s assignee for breach of contract under the promissory note, relating to assignee’s alleged failure to credit mortgagors for payments that assignee received from insurance and credit default swaps, in absence of plausible allegation that mortgagors had performed their obligations under the note.
+10 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*324 Christopher J. Deeves, Esq., San Antonio, TX, for Plaintiffs–Appellants.
+William Scott Hastings, Esq., Matthew Hogan Davis, Attorney, Robert Thompson Mowrey, Locke Lord, L.L.P., Dallas, TX, Benjamin David Lee Foster, Esq., Locke Lord, L.L.P., Austin, TX, for Defendant–Appellee.
+Appeal from the United States District Court for the Western District of Texas, No. 5:11–CV–948.
+Before HIGGINBOTHAM, JONES, and ELROD, Circuit Judges.
+Opinion
+PER CURIAM:*
+
+Plaintiffs–Appellants Cinderella and Ernest Golden (the “Goldens”) filed several state-law claims against Defendant–Appellee Wells Fargo, N.A. (“Wells Fargo”) seeking to enjoin Wells Fargo from foreclosing on their property. The Goldens alleged that the assignment of the deed of trust purporting to give Wells Fargo the right to foreclose was “robo-signed” and is therefore void. The Goldens also asserted a claim under Section 12.002 of the Texas Civil Practice and Remedies Code, which generally prohibits the use of fraudulent documents to establish a lien or claim against property, and a breach of contract *325 claim. The district court granted Wells Fargo’s motion to dismiss. We AFFIRM.
+ 
+
+I.
+In May 1991, the Goldens purchased real property located at 10906 Wells Spring Circle, San Antonio, Texas. In April 2006, the Goldens refinanced an existing home-equity loan, obtaining a new loan from New Century Mortgage Company (“New Century”). In exchange for the loan, Plaintiffs executed a promissory note and a deed of trust encumbering the Wells Spring Circle property. The note was then securitized with other loans and placed into the Asset Backed–Pass Through Trust, Series 2006–NC2. As alleged in the complaint, the Pooling and Servicing Agreement (“PSA”) that governed the trust provided that no loans could be transferred in or out of the trust after July 5, 2006. New Century subsequently filed for bankruptcy.
+ 
+On January 29, 2010, Tom Croft (“Croft”) executed a document assigning the deed of trust and note to Wells Fargo Bank, N.A. (“Wells Fargo”). Croft purported to act on behalf of Carrington Mortgage Services as “attorney in fact for New Century Mortgage Corporation.” Croft acknowledged his signature before a notary public, and the document was eventually filed in Bexar County, Texas. The validity of this assigning document is the crux of the instant appeal.
+ 
+A few days later, on February 10, 2010, Wells Fargo filed an application in Texas state court for a judicial order authorizing foreclosure pursuant to Article XVI, § 50(a)(6)(D) of the Texas Constitution. Wells Fargo asserted that the Goldens had defaulted on their note payments and that it was authorized to sell the property under Texas law. Attached to the application was an affidavit from Croft, who again acted on behalf of Carrington Mortgage Services but this time as “attorney in fact for Wells Fargo Bank, N.A.” In his affidavit, Croft named Wells Fargo as the owner and holder of the note, as secured by the deed of trust. It appears from the record that the state court granted the order.
+ 
+In October 2011, the Goldens filed suit in Texas state court to temporarily enjoin foreclosure on their property and for damages under state law. The state court granted the Goldens’ request for a temporary restraining order, and Wells Fargo subsequently removed the suit on diversity grounds to federal court.
+ 
+The Goldens filed an amended complaint, in which they expounded on their “robo-signing” claim and asserted a number of state-law causes of action. As a factual basis for these claims, the Goldens alleged that as part of its bankruptcy filing, New Century repudiated its agreement with Mortgage Electronic Registration Systems (“MERS”) on March 19, 2009, and that as a result no one had authority to sign on behalf of New Century after that date. They alleged that there is no evidence in the bankruptcy file that Croft or Carrington Mortgage Services possessed authority to act on behalf of New Century and that, in fact, Carrington Mortgage Services was one of Wells Fargo’s loan servicers. Finally, the Goldens alleged that the assignment violated the PSA, which prohibited the transfer of securitized notes in or out of the trust after July 5, 2006. The Goldens did not allege that they are party to the PSA.
+ 
+Wells Fargo filed a motion to dismiss, arguing that the assignment was valid and established its ability to foreclose and that the Goldens had failed to allege facts sufficient to support their state-law claims. The district court dismissed the suit, and the Goldens timely appealed.
+ 
+
+*326 II.
+This court reviews “a district court’s dismissal under Rule 12(b)(6) de novo, accepting all well-pleaded facts as true and viewing those facts in the light most favorable to the plaintiffs.” Doe ex rel. Magee v. Covington Cnty. Sch. Dist. ex rel. Keys, 675 F.3d 849, 854 (5th Cir.2012) (en banc) (internal quotation marks and citation omitted). To avoid dismissal under Rule 12(b)(6), plaintiffs must plead “enough facts to state a claim to relief that is plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007); see also Ashcroft v. Iqbal, 556 U.S. 662, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009). “A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.” Iqbal, 556 U.S. at 678, 129 S.Ct. 1937.
+ 
+Texas law governs this diversity case. See, e.g., Bayle v. Allstate Ins. Co., 615 F.3d 350, 355 (5th Cir.2010). Absent a final decision by the Texas Supreme Court on an issue, the court makes an “ ‘Erie guess’ as to how the Texas Supreme Court would rule.” Am. Int’l Specialty Lines Ins. Co. v. Rentech Steel LLC, 620 F.3d 558, 564 (5th Cir.2010).
+ 
+
+III.
+The Goldens make four arguments on appeal. In their first two arguments, the Goldens assert that the allegations in their amended complaint, taken as true, establish that Wells Fargo lacks the right to foreclose. The Goldens also dispute the district court’s dismissal of their claims under the Texas Civil Practice and Remedies Code and for breach of contract. We address each argument in turn.
+ 
+[1] [2] This court’s recent decision in Reinagel v. Deutsche Bank Nat’l Trust Co., 735 F.3d 220 (5th Cir.2013), forecloses the Goldens’ first two arguments. With respect to their first argument, the Goldens assert that Wells Fargo lacked the right to foreclose under the deed of trust because Croft did not have the authority to execute the assignment. In Reinagel, however, we held that “under Texas law, facially valid assignments cannot be challenged by want of authority except by the defrauded assignor.” Reinagel, 735 F.3d at 228. Here, there is a facially valid assignment of the deed of trust from New Century to Wells Fargo. New Century—as assignor—has not challenged the assignment. With respect to their second argument, the Goldens contend that the assignment occurred after the deadline for transferring notes set forth in the PSA and was therefore void. In Reinagel, however, we held that plaintiffs who are not a party to the PSA “have no right to enforce its terms unless they are its intended third-party beneficiaries.” Id. The Goldens did not allege that they are party or even third-party beneficiaries to the PSA. Thus, their second argument also fails under Reinagel.
+ 
+Next, the Goldens argue that they stated a viable claim for relief under Section 12.002 of the Texas Civil Practice and Remedies Code. A claim under Section 12.002(a) has three elements:
+[T]he defendant (1) made, presented, or used a document with knowledge that it was a “fraudulent lien or claim against real or personal property or an interest in real or personal property,” (2) intended that the document be given legal effect, and (3) intended to cause the *327 plaintiff physical injury, financial injury, or mental anguish.
+Henning v. OneWest Bank FSB, 405 S.W.3d 950, 964 (Tex.App.-Dallas 2013, no pet.) (quoting Tex. Civ. Prac. & Rem.Code § 12.002(a)).1 Wells Fargo does not dispute that the Goldens properly alleged the second element. The parties also agree that the relevant “document” is the assigning document that was used to assign the deed of trust to Wells Fargo. Therefore, the Goldens’ Section 12.002 claim turns on whether they adequately pleaded that Wells Fargo knew the assigning document was a “fraudulent lien or claim” as defined in Section 12.002 and intended to cause them injury. The district court held, without stating its analysis, that the Goldens’ complaint “cites no basis for inferring” either of these two elements.
+ 
+[3] Assuming, without deciding, that a document assigning a deed of trust constitutes a “lien or claim” under Section 12.0022, the Goldens’ claim fails because they did not to adequately plead the statute’s third, or “injury,” element. Instead, they allege only is that Wells Fargo used the assigning document “for the express purpose of closing an [sic ] link in the chain of title so that [it] could proceed to foreclose.” Wells Fargo’s use of the assignment for business purposes hardly equates to an argument that it intended to inflict financial injury or mental anguish. The Goldens have not alleged any facts showing that their property would not be subject to foreclosure, even absent the assignment of the deed of trust to Wells Fargo. Therefore, they have failed to state a claim under Section 12.002.
+ 
+[4] Finally, the Goldens contend that Wells Fargo breached the terms of the note when it did not credit them for payments allegedly received from insurance and credit default swaps. In Texas, performance or tendered performance by the plaintiff is an essential element of a breach of contract claim. Mullins v. TestAmerica, Inc., 564 F.3d 386, 418 (5th Cir.2009) (listing elements). Moreover, “a party to a *328 contract who is himself in default cannot maintain a suit for its breach.” Dobbins v. Redden, 785 S.W.2d 377, 378 (Tex.1990) (quoting Gulf Pipe Line Co. v. Nearen, 135 Tex. 50, 138 S.W.2d 1065, 1068 (Tex. Comm’n App.1940)). The Goldens’ claim fails as a matter of law because they do not allege that they performed their obligations under the note, nor do they challenge the district court’s statement that “[the Goldens] admit that they have failed to perform under the loan contract—they have defaulted on their mortgage payments.” Rather, they inconclusively state that “without proper crediting, it is unclear if the Golden[s’] mortgage is past due.” To the extent Wells Fargo received payments from a credit default swap in connection with the Goldens’ note, however, such payments would be contingent upon proof that the Goldens were in fact in default. Thus, the Goldens’ breach of contract claim is premised upon their own prior default and was properly dismissed under Texas law.
+ 
+
+IV.
+For the foregoing reasons, the dismissal of this case is AFFIRMED.
+ 
+All Citations
+557 Fed.Appx. 323
+Footnotes
+
+*
+
+Pursuant to 5TH CIR. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5TH CIR. R. 47.5.4.
+
+1
+
+The relevant portion of the statute provides in full:
+A person may not make, present, or use a document or other record with:
+(1) knowledge that the document or other record is a fraudulent court record or a fraudulent lien or claim against real or personal property or an interest in real or personal property;
+(2) intent that the document or other record be given the same legal effect as a court record or document of a court created by or established under the constitution or laws of this state or the United States or another entity listed in Section 37.01, Penal Code, evidencing a valid lien or claim against real or personal property or an interest in real or personal property; and
+(3) intent to cause another person to suffer:
+(A) physical injury;
+(B) financial injury; or
+(C) mental anguish or emotional distress.
+Tex. Civ. Prac. & Rem.Code § 12.002(a).
+
+2
+
+Neither this court nor any Texas appellate court has yet determined whether a document assigning a deed of trust constitutes a “lien or claim” under Section 12.002, and there is currently a split in authority among the federal district courts in this circuit that have considered the issue. A majority of federal district courts have held that a document assigning a deed of trust does not qualify as a “lien or claim” under Section 12.002. See, e.g., Perdomo v. Fed. Nat’l Mortg. Ass’n, No. 3:11–CV–734–M, 2013 WL 1123629, at *5 (N.D.Tex. Mar. 18, 2013) (unpublished) (explaining that the plaintiff must allege the challenged instrument purported to create a lien or claim against real property in order to state a claim under the statute). A minority of courts, however, have concluded that the text of the statute prohibits not only the use of fraudulent liens or claims against real property, “but also claims against ‘an interest in real ... property.’ ” Howard v. JP Morgan Chase NA, No. SA–12–CV440–DAE, 2013 WL 1694659, at *12 (W.D.Tex. Apr. 18, 2013) (unpublished) (quoting Tex. Civ. Prac. & Rem.Code § 12.002(a)).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

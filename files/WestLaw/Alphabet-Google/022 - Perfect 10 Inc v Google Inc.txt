@@ -1,0 +1,252 @@
+
+
+
+
+
+Perfect 10, Inc. v. Google, Inc.
+United States Court of Appeals, Ninth Circuit. | August 3, 2011 | 653 F.3d 976 | 2011 WL 3320297
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Disagreement Recognized by Seed Services, Inc. v. Winsor Grain, Inc., E.D.Cal., April 12, 2012
+
+standard Citation:
+
+Perfect 10, Inc. v. Google, Inc., 653 F.3d 976 (9th Cir. 2011)
+
+All Citations:
+
+653 F.3d 976, 2011 Copr.L.Dec. P 30,111, 99 U.S.P.Q.2d 1533, 39 Media L. Rep. 2129, 11 Cal. Daily Op. Serv. 9771, 2011 Daily Journal D.A.R. 11,688
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Disagreement Recognized by Seed Services, Inc. v. Winsor Grain, Inc., E.D.Cal., April 12, 2012
+653 F.3d 976
+United States Court of Appeals,
+Ninth Circuit.
+PERFECT 10, INC., Plaintiff–counter–defendant–Appellant,
+v.
+GOOGLE, INC., a corporation, Defendant–counter–claimant–Appellee.
+No. 10–56316.
+|
+Argued and Submitted April 11, 2011.
+|
+Filed Aug. 3, 2011.
+Synopsis
+Background: Copyright owner brought actions against operator of Internet search engine and Internet retailer for, inter alia, infringement of copyrighted images. Actions were consolidated. The district court, 416 F.Supp.2d 828, entered preliminary injunction against some allegedly infringing conduct. Both owner and search engine operator appealed. The Court of Appeals, 508 F.3d 1146, affirmed in part, reversed in part, and remanded. On remand, the United States District Court for the Central District of California, A. Howard Matz, J., denied owner’s motion for preliminary injunctive relief. Owner appealed.
+ 
+Holdings: The Court of Appeals, Ikuta, Circuit Judge, held that:
+ 
+[1] showing of reasonable likelihood of success on merits in copyright infringement claim did not raise presumption of irreparable harm and
+ 
+[2] sufficient causal connection did not exist between irreparable harm to owner’s business and defendant’s operation of its search engine.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Copyrights and Intellectual PropertyPreliminary injunction
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k85Preliminary injunction
+
+
+Propriety of injunctive relief in cases arising under Copyright Act had to be evaluated on case-by-case basis in accord with traditional equitable principles and without aid of presumptions or “thumb on the scale” in favor of issuing such relief.
+27 Cases that cite this headnote
+
+
+
+[2]
+
+Copyrights and Intellectual PropertyPreliminary injunction
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k85Preliminary injunction
+
+
+Sufficient causal connection did not exist between irreparable harm to copyright owner’s paid-subscription and password-protected online business, in having financial condition that was close to bankruptcy due to decline in revenue, and defendant’s operation of Internet search engine that made owner’s images freely available, as required for owner to obtain preliminary injunctive relief against defendant, where owner never had been in sound financial shape, other search engines contributed to making owner’s images freely available, former subscribers did not cease paying for owner’s service because of content freely available via defendant.
+29 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*977 David Schultz (argued) and Jeffrey Neil Mausner, Law Offices of Jeffrey N. Mausner, Woodland Hills, CA, for appellant Perfect 10, Inc.
+Andrew H. Schapiro (argued), Mayer Brown, LLP, New York, NY; Michael T. Zeller, Quinn Emanuel Urquhart & Sullivan, LLP, Los Angeles, CA; Bradley R. Love, Quinn Emanuel Urquhart & Sullivan, LLP, San Francisco, CA; and Rachel Herrick Kassabian, Margret M. Caruso, and Andrea Pallios Roberts, Quinn Emanuel Urquhart & Sullivan, LLP, New York, NY, for appellee Google, Inc.
+Nancy E. Wolff, Cowan, DeBaets, Abrahams & Sheppard, New York, NY, for amici curiae Picture Archive Council of America, Inc., et al.
+Joseph C. Gratz, Durie Tangri LLP, San Francisco, CA, for amici curiae Chilling Effects Clearinghouse Leaders.
+Appeal from the United States District Court for the Central District of California, A. Howard Matz, District Judge, Presiding. D.C. No. 2:04–cv–09484–AHM–SH.
+Before: ALEX KOZINSKI, Chief Judge, MICHAEL DALY HAWKINS and SANDRA S. IKUTA, Circuit Judges.
+
+
+OPINION
+IKUTA, Circuit Judge:
+In this appeal, we once again consider a request by Perfect 10, Inc. for a preliminary injunction against Google, Inc. See Perfect 10, Inc. v. Amazon.com, Inc. (Perfect 10 II ), 508 F.3d 1146 (9th Cir.2007). Because Perfect 10 has not demonstrated that it would likely suffer irreparable harm in the absence of a preliminary injunction, we affirm the district court’s denial of that relief.
+ 
+
+I
+This appeal is the latest installment in a legal saga of several years’ duration. That history is recounted elsewhere, see Perfect 10 II, 508 F.3d 1146, so we focus here on only those facts material to the questions before us now. Perfect 10 creates (and copyrights) photographic images of nude models for commercial distribution. For several years, it featured them in a now- *978 defunct magazine, “PERFECT 10”; more recently, it began offering them for viewing on a password-protected, paid-subscription website, “perfect10.com.” Perfect 10’s subscription website generates revenue from subscribers who pay a monthly fee to view the copyrighted images in a “members’ area,” which members access through a unique username/password combination. Perfect 10 v. Google, Inc. (Perfect 10 I ), 416 F.Supp.2d 828, 832 & n. 3 (C.D.Cal.2006). Perfect 10 has generated virtually all of its revenue from these copyrighted images. Id. at 832.
+ 
+Google operates numerous web-based services. Chief among them is its search engine, which uses an automated software program, known as a web crawler, to obtain copies of publicly available webpages and images for use in its search index. Google’s servers store the text of a web page in its cache, Perfect 10 II, 508 F.3d at 1156 & n. 3. In addition to its search engine, Google offers a service called Blogger, which hosts blogs created by users on Google’s server. Blogger account holders may upload images from the web onto Google’s server in order to post them on their blogs, or may use a hyperlink to images hosted on other servers.
+ 
+In order to obtain the protections of the Digital Millennium Copyright Act (DMCA), Google has developed a copyright-infringement notification policy for each of these Internet services. Under the DMCA, a provider of online services (such as Google) must, among other things, designate an agent to receive a notification of claimed infringement (often referred to as a “takedown notice”) in order to get certain safe harbor protections. Under Google’s notification policies, the take-down notice must include, among other things, the URL for the infringing material. Google forwards the takedown notices it receives to the website “chillingeffects.org,” a nonprofit, educational project run jointly by the Electronic Frontier Foundation and various law schools, which posts such notices on the Internet. As a result, even if Google removes Perfect 10’s images from its search results, a person can still find the URL for the allegedly infringing images on chillingeffects.org.
+ 
+Following our remand in Perfect 10 II, Perfect 10 once again moved for a preliminary injunction against Google. Perfect 10 argued that it was entitled to an injunction because Google’s web and image search and related caching feature, its Blogger service, and its practice of forwarding Perfect 10’s takedown notices to chillingeffects.org constituted copyright infringement. Additionally, Perfect 10 argued that it was entitled to an injunction based upon Google’s alleged violation of the rights of publicity assigned to Perfect 10 by some of its models.
+ 
+The district court rejected each of these arguments and denied Perfect 10’s motion for preliminary injunctive relief. In doing so, the court held that Perfect 10 had not shown that it was likely to suffer irreparable harm in the absence of such relief, and that it had failed to satisfy any of the other requirements for a preliminary injunction. The district court also resolved motions by Google for partial summary judgment, and held that Google was entitled to safe harbor protection under the DMCA for its caching feature, its Blogger service and, in part, its web and image search. On appeal, Perfect 10 claims that the district court erred in denying its motion for a preliminary injunction and also seeks review of the district court’s summary judgment order on the DMCA issues, arguing that the latter order is inextricably intertwined with the company’s request for injunctive relief.
+ 
+
+II
+We begin by considering whether the district court erred in denying Perfect 10’s *979 request for preliminary injunctive relief. “A plaintiff seeking a preliminary injunction must establish [ (1) ] that he is likely to succeed on the merits, [ (2) ] that he is likely to suffer irreparable harm in the absence of preliminary relief, [ (3) ] that the balance of equities tips in his favor, and [ (4) ] that an injunction is in the public interest.” Winter v. Natural Res. Def. Council, Inc., 555 U.S. 7, 129 S.Ct. 365, 374, 172 L.Ed.2d 249 (2008). We review the district court’s determination that the plaintiff satisfied each of these four factors for abuse of discretion. Park Vill. Apartment Tenants Ass’n v. Mortimer Howard Trust, 636 F.3d 1150, 1158–59 (9th Cir.2011). In doing so, our review is “limited and deferential.” Am. Trucking Ass’ns v. City of Los Angeles, 559 F.3d 1046, 1052 (9th Cir.2009) (quoting Lands Council v. Martin, 479 F.3d 636, 639 (9th Cir.2007)) (internal quotation marks omitted).
+ 
+In explaining how it meets the four-factor test for preliminary injunctive relief, Perfect 10 argues primarily that because it has made a strong showing of likely success on the merits of its copyright claims, a court must presume it will suffer irreparable harm. In making this argument, Perfect 10 relies on a long line of cases, beginning with Apple Computer, Inc. v. Formula International, Inc., 725 F.2d 521 (9th Cir.1984), where we held that “[a] showing of a reasonable likelihood of success on the merits in a copyright infringement claim raises a presumption of irreparable harm” for purposes of a preliminary injunction. Id. at 525. We have repeated and relied on this rule numerous times in the nearly three decades since Apple Computer. See, e.g., LGS Architects, Inc. v. Concordia Homes of Nev., 434 F.3d 1150, 1155–56 (9th Cir.2006); Sun Microsystems, Inc. v. Microsoft Corp., 188 F.3d 1115, 1119 (9th Cir.1999); Johnson Controls, Inc. v. Phoenix Control Sys., Inc., 886 F.2d 1173, 1174 (9th Cir.1989); Rodeo Collection, Ltd. v. W. Seventh, 812 F.2d 1215, 1220 (9th Cir.1987).
+ 
+These cases, however, all predate eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388, 126 S.Ct. 1837, 164 L.Ed.2d 641 (2006), which indicated that an injunction in a patent infringement case may issue only in accordance with “traditional equitable principles” and warned against reliance on presumptions or categorical rules. Id. at 393, 126 S.Ct. 1837. In eBay, the Supreme Court considered a decision by the Federal Circuit holding that MercExchange was entitled to a permanent injunction against eBay. Id. at 391, 126 S.Ct. 1837. MercExchange had prevailed at trial in its patent infringement action against eBay, but the district court concluded that the company’s willingness to license its patents made it categorically unable to show irreparable harm from copyright infringement. Id. at 390, 393, 126 S.Ct. 1837. The Federal Circuit reversed, applying its rule “that a permanent injunction will issue once infringement and validity have been adjudged.” Id. at 393–94, 126 S.Ct. 1837 (quoting MercExchange, LLC v. eBay, Inc., 401 F.3d 1323, 1338 (Fed.Cir.2005)) (internal quotation marks omitted).
+ 
+The Supreme Court reversed, holding that “the traditional four-factor framework that governs the award of injunctive relief” applies to “disputes arising under the Patent Act.” Id. at 394, 126 S.Ct. 1837. The use of presumptions or categorical rules in issuing injunctive relief would constitute “a major departure from the long tradition of equity practice,” and “should not be lightly implied.” Id. at 391, 126 S.Ct. 1837 (quoting Weinberger v. Romero–Barcelo, 456 U.S. 305, 320, 102 S.Ct. 1798, 72 L.Ed.2d 91 (1982)). The Court detected no evidence in the language of the Patent Act that Congress “intended such a departure” from traditional equity practice, *980 id. at 391–92, 126 S.Ct. 1837, rejecting the argument that courts could find congressional intent to depart from the four-factor framework in statutory language giving patent holders a “right to exclude others from making, using, offering for sale, or selling the invention,” id. at 392, 126 S.Ct. 1837 (quoting 35 U.S.C. § 154(a)(1)). According to the Court, this language did not require the issuance of injunctive relief whenever there was patent infringement, because “the creation of a right is distinct from the provision of remedies for violations of that right,” id., and the relevant remedial provision stated only that injunctive relief “may” issue “in accordance with the principles of equity,” id. (quoting 35 U.S.C. § 283). Therefore, both the district and appellate courts had erred in adopting a categorical rule instead of making a fact-specific application of the traditional four-factor test for injunctive relief. Id. at 393, 126 S.Ct. 1837.
+ 
+In reaching this conclusion, the Court relied on and clarified its prior decisions under the Copyright Act.1 It noted that the language of the Copyright Act (like the Patent Act), states that courts “may” grant injunctive relief “on such terms as [they] may deem reasonable to prevent or restrain infringement of a copyright.” Id. at 392, 126 S.Ct. 1837 (quoting 17 U.S.C. § 502(a)). Again, this permissive language does not evince a congressional intent to depart from traditional equitable principles, and the statutory language giving a copyright holder (like a patent holder) “the right to exclude others from using his property” does not suggest otherwise. Accordingly, the Court “has consistently rejected invitations to replace traditional equitable considerations with a rule that an injunction automatically follows a determination that a copyright has been infringed.” Id. at 392–93, 126 S.Ct. 1837 (citing N.Y. Times Co. v. Tasini, 533 U.S. 483, 505, 121 S.Ct. 2381, 150 L.Ed.2d 500 (2001)). Following this reasoning, the Second Circuit concluded that eBay abrogated its longstanding presumption “that a plaintiff likely to prevail on the merits of a copyright claim is also likely to suffer irreparable harm if an injunction does not issue,” because this presumption is “inconsistent with the principles of equity set forth in eBay.” Salinger v. Colting, 607 F.3d 68, 75, 79 (2d Cir.2010).
+ 
+[1] We agree with the Second Circuit. As explained in eBay, the language of § 502(a) is permissive and evokes traditional equitable principles: “[T]he Copyright Act provides that courts ‘may’ grant injunctive relief ‘on such terms as [they] may deem reasonable to prevent or restrain infringement of a copyright.’ ” 547 U.S. at 392, 126 S.Ct. 1837 (quoting 17 U.S.C. § 502(a)). Nothing in the statute indicates congressional intent to authorize a “major departure” from “the traditional four-factor framework that governs the award of injunctive relief,” id. at 391, 394, 126 S.Ct. 1837, or to undermine the equitable principle that such relief is an “extraordinary and drastic remedy” that “is never awarded as of right,” Munaf v. Geren, 553 U.S. 674, 689–90, 128 S.Ct. 2207, 171 L.Ed.2d 1 (2008) (internal quotation marks omitted). We therefore conclude that the propriety of injunctive relief in cases arising under the Copyright Act must be evaluated on a case-by-case basis in accord with traditional equitable principles and without the aid of presumptions or a *981 “thumb on the scale” in favor of issuing such relief. Monsanto, 130 S.Ct. at 2757.
+ 
+Although eBay dealt with a permanent injunction, the rule enunciated in that case is equally applicable to preliminary injunctive relief. This conclusion is compelled by Supreme Court precedent, cited in eBay, holding that “[t]he standard for a preliminary injunction is essentially the same as for a permanent injunction with the exception that the plaintiff must show a likelihood of success on the merits rather than actual success.” Amoco Prod. Co. v. Vill. of Gambell, 480 U.S. 531, 546 n. 12, 107 S.Ct. 1396, 94 L.Ed.2d 542 (1987); accord Voice of the Arab World, Inc. v. MDTV Med. News Now, Inc., 645 F.3d 26, 32–35 (1st Cir.2011); Salinger, 607 F.3d at 79–80.
+ 
+In sum, we conclude that our longstanding rule that “[a] showing of a reasonable likelihood of success on the merits in a copyright infringement claim raises a presumption of irreparable harm,” Apple Computer, Inc., 725 F.2d at 525, “is clearly irreconcilable with the reasoning” of the Court’s decision in eBay and has therefore been “effectively overruled.” Miller v. Gammie, 335 F.3d 889, 893 (9th Cir.2003) (en banc).2
+ 
+
+III
+[2] Having disposed of Perfect 10’s argument that the district court should have presumed that it would suffer irreparable harm, we now turn to whether the district court abused its discretion in holding that Perfect 10 had not established this factor. Perfect 10’s theory of irreparable harm is that Google’s various services provide free access to Perfect 10’s proprietary images, and this access has both destroyed its business model and threatened it with financial ruin, since no one would be willing to pay a subscription fee for material that is available without charge. To support this theory, Perfect 10 relies on several declarations by Dr. Norman Zada, Perfect 10’s founder, president, and major financial backer. In these declarations, Dr. Zada stated that the number of thumbnail versions of Perfect 10 images available via Google’s Image Search had increased significantly between 2005 and 2010. Further, Dr. Zada stated that the company’s “revenues have declined from close to $2,000,000 a year to less than $150,000 a year,” resulting in over $50 million in losses from 1996 to 2007, and an annual loss of at least $3 million since then, pushing the company “very close to bankruptcy.”
+ 
+Given the limited nature of this evidence, the district court did not abuse its discretion in concluding that Perfect 10 failed to establish that Google’s operations would cause it irreparable harm. While being forced into bankruptcy qualifies as a form of irreparable harm, Doran v. Salem Inn, Inc., 422 U.S. 922, 932, 95 S.Ct. 2561, 45 L.Ed.2d 648 (1975), Perfect 10 has not established that the requested injunction would forestall that fate. To begin with, Perfect 10 has not alleged that it was ever in sound financial shape. Indeed, Dr. *982 Zada acknowledges that the company “los[t] money at the beginning” and has never made up that ground during its 15 years of operation. Dr. Zada also acknowledges that search engines other than Google contribute to making Perfect 10 images freely available. In one of his declarations, he states that, in addition to spending “at least 2,000 hours using Google’s search engine to locate infringements of Perfect 10’s copyrighted works,” he has also “spent thousands of hours viewing [infringing] websites and search results of other search engines, including Yahoo! and MSN.” Moreover, notwithstanding Perfect 10’s theory of irreparable harm, it failed to submit a statement from even a single former subscriber who ceased paying for Perfect 10’s service because of the content freely available via Google. Nor has Perfect 10 provided any evidence in support of its claim that Google’s alleged violation of the rights of publicity assigned to Perfect 10 by its models would cause it irreparable harm.
+ 
+In sum, Perfect 10 has not shown a sufficient causal connection between irreparable harm to Perfect 10’s business and Google’s operation of its search engine. Because Perfect 10 has failed to satisfy this necessary requirement for obtaining preliminary injunctive relief, the district court’s ruling was not an abuse of discretion. See Winter, 129 S.Ct. at 374.3
+ 
+AFFIRMED.
+ 
+All Citations
+653 F.3d 976, 2011 Copr.L.Dec. P 30,111, 99 U.S.P.Q.2d 1533, 39 Media L. Rep. 2129, 11 Cal. Daily Op. Serv. 9771, 2011 Daily Journal D.A.R. 11,688
+Footnotes
+
+1
+
+The Court has since extended the logic of eBay to the NEPA context. See Monsanto Co. v. Geertson Seed Farms, ––– U.S. ––––, 130 S.Ct. 2743, 2756–57, 177 L.Ed.2d 461 (2010) (invalidating our presumption that a court may withhold injunctive relief for a NEPA violation only in “unusual circumstances” and stating that “[n]o such thumb on the scales is warranted”).
+
+2
+
+In Marlyn Nutraceuticals, Inc. v. Mucos Pharma GmbH & Co., 571 F.3d 873 (9th Cir.2009), a trademark case decided after eBay (but which did not reference that opinion), we continued to rely on the pre-eBay rule that a trademark holder is entitled to a presumption of irreparable harm if there is a likelihood of success on the merits. Id. at 877. Under eBay, however, courts must analyze each statute separately to determine whether Congress intended to make “a major departure from the long tradition of equity practice” and create a statutory presumption or categorical rule for the issuance of injunctive relief. 547 U.S. at 391, 126 S.Ct. 1837 (quoting Weinberger, 456 U.S. at 320, 102 S.Ct. 1798). Because this case does not require us to consider Congress’s intent in enacting the Lanham Act, Marlyn Neutraceutical’s adherence to a presumption of irreparable harm in a trademark case is irrelevant to our current inquiry.
+
+3
+
+As part of its interlocutory appeal of the district court’s denial of its motion for a preliminary injunction, Perfect 10 also sought review of the district court’s grant of partial summary judgment in favor of Google based on its ruling that Google is entitled to the safe harbor protection of the DMCA for its caching feature, Blogger service, and (in part) its web and image search. While partial summary judgment decisions are not normally appealable, Perfect 10 argues that we may consider this interlocutory because it is “inextricably intertwined” with the denial of merits of the preliminary injunction decision, and review of the partial summary judgment ruling is “necessary to ensure meaningful review” of that decision. See Meredith v. Oregon, 321 F.3d 807, 812–13 (9th Cir.2003) (quoting Swint v. Chambers Cnty. Comm’n, 514 U.S. 35, 51, 115 S.Ct. 1203, 131 L.Ed.2d 60 (1995)). Because Perfect 10 has failed to show irreparable harm, we need not address its likelihood of success on the merits, and therefore also need not address the relationship between the preliminary injunction and summary judgment orders.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (4)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Disagreement Recognized by
+1.  Seed Services, Inc. v. Winsor Grain, Inc. 
+868 F.Supp.2d 998 , E.D.Cal.
+TRADEMARKS - Injunction. Court issued extraterritorial injunction to prevent trademark infringement.
+Apr. 12, 2012
+Case
+
+—
+
+Declined to Extend by
+2.  Perez v. Valley Garlic, Inc. 
+2017 WL 772147 , E.D.Cal.
+Plaintiff Thomas E. Perez is the United States Secretary of Labor (“the Secretary”). The Secretary is charged with enforcing the Fair Labor Standards Act of 1938 (“FLSA”) and the...
+Feb. 27, 2017
+Case
+
+1
+
+
+
+
+F.3d
+
+Distinguished by
+ 3.  Arc of California v. Douglas
+757 F.3d 975 , 9th Cir.(Cal.)
+HEALTH - Injunction. Denial of preliminary injunction in action alleging violation of Medicaid Act was abuse of discretion.
+June 30, 2014
+Case
+
+—
+
+Distinguished by
+4.  Signature Management Team, LLC v. Doe
+2016 WL 8114192 , E.D.Mich.
+This case is before the Court on defendant John Doe’s motion for summary judgment seeking dismissal of plaintiff Signature Management Team’s claim for injunctive relief under the...
+May 19, 2016
+Case
+
+—
+
+

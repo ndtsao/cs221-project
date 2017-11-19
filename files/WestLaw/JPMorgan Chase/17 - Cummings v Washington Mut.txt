@@ -1,0 +1,246 @@
+
+
+ 
+
+
+Cummings v. Washington Mut.
+United States Court of Appeals, Eleventh Circuit. | August 22, 2011 | 650 F.3d 1386 | 2011 WL 3658458
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Cummings v. Washington Mut., 650 F.3d 1386 (11th Cir. 2011)
+
+All Citations:
+
+650 F.3d 1386, 32 IER Cases 1057, 52 Employee Benefits Cas. 2213, 23 Fla. L. Weekly Fed. C 295
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Georgia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:57 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+650 F.3d 1386
+United States Court of Appeals,
+Eleventh Circuit.
+Dave CUMMINGS, Plaintiff–Appellant,
+v.
+WASHINGTON MUTUAL, Defendant,
+JP Morgan Chase Bank, N.A., Defendant–Appellee.
+No. 10–10706.
+|
+Aug. 22, 2011.
+Synopsis
+Background: Discharged employee brought action against former employer, alleging that the employer unlawfully asked him to submit to a polygraph test in violation of the Employee Polygraph Protection Act (EPPA) and failed to notify employee of his right to continue his employer-provider health insurance after his termination in violation of the Consolidated Omnibus Budget Reconciliation Act (COBRA). The United States District Court for the Northern District of Georgia, No. 1:08-cv-02397-ODE, Orinda D. Evans, J., granted summary judgment in favor of employer. Employee appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] employer was conducting an “ongoing investigation” and had “reasonable suspicion” that employee was involved in cash shortage, as required to satisfy exception to EPPA general requirement that employers could not request employees to take polygraph test, and
+ 
+[2] improper notice claim under COBRA accrued, for limitations purposes, on date employee learned from his lawyer than he should have received notice of his continuation right.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+Banks and BankingMisappropriation of funds
+Labor and EmploymentPolygraph testing
+
+
+52Banks and Banking
+52IIBanking Corporations and Associations
+52II(D)Officers and Agents
+52k53Rights and Liabilities as to Bank and Stockholders
+52k54Nature and Extent
+52k54(2)Misappropriation of funds
+231HLabor and Employment
+231HIIIRights and Duties of Employers and Employees in General
+231Hk81Rules, Regulations, Orders, and Standards
+231Hk86Polygraph testing
+
+
+Employer was conducting an “ongoing investigation” in connection with $58,000 cash shortage from one of its bank branches, in which employer had “reasonable suspicion” that employee was involved, as required to satisfy exception to general requirement under Employee Polygraph Protection Act (EPPA) that employers could not request employee to take polygraph test; employer had obtained surveillance images and testimony from other employees of repeated violations by employee of dual control policy requiring more than one person to be present when cash was handled, polygraph request was intended to further that investigation, and employee was branch manager and responsible for four other employees. Employee Polygraph Protection Act of 1988, § 7(d), 29 U.S.C.A. § 2006(d); 29 C.F.R. § 801.12(b), (f)(1).
+Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsComputation and tolling
+
+
+170BFederal Courts
+170BXVState or Federal Laws as Rules of Decision;  Erie Doctrine
+170BXV(B)Application to Particular Matters
+170Bk3022Procedural Matters
+170Bk3034Limitations and Laches
+170Bk3034(7)Computation and tolling
+(Formerly 170Bk427)
+
+
+Federal law determines when a federal cause of action, such as an improper notice claim under Consolidated Omnibus Budget Reconciliation Act (COBRA), accrues for limitations purposes. Consolidated Omnibus Budget Reconciliation Act of 1985, § 10002(a), 29 U.S.C.A. § 1163(2).
+1 Cases that cite this headnote
+
+
+
+[3]
+
+Limitation of ActionsLabor and employment
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(F)Ignorance, Mistake, Trust, Fraud, and Concealment or Discovery of Cause of Action
+241k95Ignorance of Cause of Action
+241k95(14)Labor and employment
+
+
+Discharged employee’s claim that his former employer failed to notify him of his right under the Consolidated Omnibus Budget Reconciliation Act (COBRA) to continue his employer-provided health insurance after his termination accrued, for limitations purposes, on date that employee learned from his lawyer that he should have received such notice, rather than on earlier date that the notification period expired. Consolidated Omnibus Budget Reconciliation Act of 1985, § 10002(a), 29 U.S.C.A. §§ 1163(2), 1166(a)(2), (a)(4)(A), (c).
+6 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1388 Jonathan P. Sexton, Stockbridge, GA, for Plaintiff–Appellant.
+John P. Mittelbach, Joseph D. Wargo, Michael D. Kabat, Diana Sarju Kim, Wargo & French, LLP, Atlanta, GA, for Defendant–Appellee.
+Appeal from the United States District Court for the Northern District of Georgia.
+Before EDMONDSON and MARTIN, Circuit Judges, and HODGES,* District Judge.
+Opinion
+PER CURIAM:
+
+This case concerns the termination of an employee, Plaintiff/Appellant Dave Cummings, in the wake of an investigation into the disappearance of approximately $58,000 from a branch of Washington Mutual Bank.1 Plaintiff asserts that Defendant unlawfully asked him to submit to a polygraph test and unlawfully failed to notify Plaintiff of his right to continue his employer-provided health insurance for a period after his termination. We conclude that the district court did not err in granting summary judgment for Defendant on Plaintiff’s polygraph claim, but that the district court did err in ruling that Plaintiff’s improper-notification claim was barred by the applicable statute of limitations.
+ 
+
+I. BACKGROUND
+Plaintiff was the manager of Defendant’s Piedmont Commons branch from January 2006 to December 2006. At that branch, Plaintiff was responsible for four employees. In January 2007, Plaintiff transferred to become the manager at another of Defendant’s branch banks.
+ 
+In February 2007, the new manager of the Piedmont Commons branch conducted a cash audit and discovered a shortage of approximately $58,000. The entire amount was missing from two Teller Cash Dispenser machines that Plaintiff had access to during his tenure at that branch.
+ 
+Defendant sent two fraud investigators to look into the shortage. These investigators reviewed surveillance-camera still images that they believed showed Plaintiff and his employees repeatedly violating Defendant’s Dual Control Policy, which requires two persons to be present when cash is handled or certain secure areas are accessed. Also, several witnesses—current and former employees at the Piedmont Commons branch—told the investigators that Plaintiff had repeatedly violated the policy during his tenure as branch manager.
+ 
+The investigators also interviewed Plaintiff. After this interview, the investigators asked Plaintiff to take a polygraph test; Plaintiff ultimately declined to do so.2
+ 
+On 19 March 2007, Defendant terminated Plaintiff’s employment. Plaintiff was told by his supervisor that he was being terminated because of his violations of the Dual Control Policy, and not because he refused to take a polygraph test.3
+ 
+*1389 After terminating Plaintiff, Defendant says it sent him notice—as required by the Consolidated Omnibus Budget Reconciliation Act (“COBRA”)—of his right to continue his employer-provided insurance coverage for a period following his termination. Plaintiff says that he never received this notice and that, as a result, his insurance was cancelled, he incurred over $2,000 in medical expenses on behalf of his wife, and he “lost sleep ... worrying about how [he] would obtain insurance” for his wife.
+ 
+Plaintiff filed a complaint against Defendant with the Department of Labor; this complaint alleged that Defendant had violated the Employee Polygraph Protection Act (“EPPA”). After the Department of Labor informed Plaintiff that his claims could not be substantiated, Plaintiff filed this civil action; among other things, Plaintiff restated his claim that Defendant violated the EPPA and also claimed that Defendant violated COBRA by failing to notify Plaintiff of his healthcare-coverage continuation right. The district court granted summary judgment for Defendant on all counts.
+ 
+Plaintiff now appeals the district court’s ruling on his EPPA and COBRA claims. We review a grant of summary judgment de novo, viewing all facts in the light most favorable to the non-moving party. Polkey v. Transtecs Corp., 404 F.3d 1264, 1267 (11th Cir.2005).
+ 
+
+II. DISCUSSION
+A. Plaintiff’s EPPA Claim
+Under the EPPA, employers generally cannot “require, request, suggest, or cause any employee ... to take or submit to any lie detector test.” 29 U.S.C. § 2002(1). But employers can request that an employee take a polygraph test on four conditions:
+(1) the test is administered in connection with an ongoing investigation involving economic loss or injury to the employer’s business ...;
+(2) the employee had access to the property that is the subject of the investigation;
+(3) the employer has a reasonable suspicion that the employee was involved in the incident or activity under investigation; and
+(4) the employer executes a statement, provided to the examinee before the test, that [is signed and that describes with particularity the employee’s alleged misconduct and the basis for the employer’s reasonable suspicion]. 29 U.S.C. § 2006(d).
+ 
+Plaintiff does not dispute that the second and fourth conditions were satisfied in this case, but he challenges the district court’s conclusions that an “ongoing investigation” existed and that Defendant had a “reasonable suspicion” of Plaintiff.
+ 
+
+1. “Ongoing Investigation”
+[1] Under the regulations implementing the EPPA, an “ongoing investigation must be of a specific incident or activity.” 29 C.F.R. § 801.12(b). While the existence of an inventory shortage, standing alone, is no sufficient basis for administering a polygraph test, such testing in response to a shortage is permitted where “additional evidence is obtained through subsequent investigation of specific items missing through intentional wrongdoing, and a reasonable suspicion [exists] that the employee to be polygraphed was involved in the incident under investigation.” Id. Here, Defendant was investigating a specific incident: the disappearance of $58,000 from the Piedmont Commons branch during the time that Plaintiff managed that branch.
+ 
+*1390 Plaintiff argues that Defendant lacked evidence conclusively showing that Plaintiff’s violations of the Dual Control Policy pertained to the specific cash dispensers from which the funds were missing. But the regulations do not require employers to have conclusive evidence of a violation before requesting or administering a polygraph test; the regulations require only “additional evidence” suggesting that the employee in question “was involved in the incident.” Defendant had obtained evidence—surveillance images and testimony from other employees—of repeated violations of the Dual Control Policy by Plaintiff and by the employees he managed. That policy is designed for the specific purpose of preventing losses like the one Defendant’s Piedmont Commons branch had experienced. So, the request for polygraph testing was not the kind of “fishing expedition” that the EPPA regulations prohibit. Id. Defendant’s polygraph request was made “in connection with an ongoing investigation.”
+ 
+
+2. “Reasonable Suspicion”
+The regulations implementing the EPPA also define “reasonable suspicion,” which is “an observable, articulable basis in fact which indicates that a particular employee was involved in, or responsible for, an economic loss.” 29 C.F.R. § 801.12(f)(1). Mere “access or opportunity, standing alone,” cannot establish a reasonable suspicion; but “the totality of circumstances surrounding the access or opportunity (such as its unauthorized or unusual nature or the fact that access was limited to a single individual) may constitute a factor in determining whether there is a reasonable suspicion.” Id. Information from co-workers can also “be [a] factor[ ] in the basis for reasonable suspicion.” Id.
+ 
+Under the totality of the circumstances, Defendant had a reasonable suspicion that Plaintiff was involved in the cash shortage. Only four other employees had access to the areas from which the money was taken, and Plaintiff—as branch manager—was responsible for all four of those employees. Defendant’s investigators viewed photographic evidence that they believed showed Plaintiff and his employees accessing money and secure areas in violation of the Dual Control Policy. And Plaintiff’s coworkers corroborated that evidence, telling the investigators that Plaintiff repeatedly violated the policy. These facts establish more than just that Plaintiff had the opportunity to steal funds; they gave Defendant reason to believe that Plaintiff was actually capitalizing on that opportunity. So, Defendant had a “reasonable suspicion” of Plaintiff.
+ 
+Because Defendant requested Plaintiff to submit to a polygraph test in connection with an “ongoing investigation” of a specific incident in which Defendant had a “reasonable suspicion” that Plaintiff was involved, the district court did not err in granting summary judgment for Defendant on Plaintiff’s EPPA claim.
+ 
+
+B. Plaintiff’s COBRA Claim
+Under COBRA, an employer—through its healthcare administrator—must notify an employee of his right to continue his healthcare coverage after the termination of his employment. 29 U.S.C. §§ 1163(2), 1166. The employer must notify its healthcare administrator of the employee’s termination within 30 days, § 1166(a)(2); and the administrator then must notify the employee of his continuation right within 14 days, § 1166(a)(4)(A), (c). So, after Plaintiff’s termination on 19 March 2007, Defendant had up to 44 days to notify Plaintiff of his continuation right: until 2 May 2007.
+ 
+Plaintiff says—and Defendant does not dispute for purposes of this appeal—that *1391 he never received a notification about his COBRA continuation right. The issue we must decide is whether Plaintiff’s improper-notice claim was timely filed.
+ 
+A one-year limitations period applies to COBRA improper-notice claims.4 The parties disagree about when this limitations period began to run. They present us with a choice between two start times. Plaintiff argues that his claim did not accrue until he became aware of his injury—that is, until he learned that Defendant had failed to send him notification of his COBRA continuation right. Plaintiff says he learned of this fact in a meeting with his lawyer on 20 March 2008. Defendant, however, argues that the limitations period began to run on 3 May 2007: the day that Defendant’s time for notifying Plaintiff expired (and so the first day that Defendant was entitled to sue for improper notice). Plaintiff filed this action on 24 July 2008, which is within the one-year limitations period if that period began on 20 March 2008 but not if it began on 3 May 2007.
+ 
+[2] Federal law determines when a federal cause of action, such as Plaintiff’s COBRA claim, accrues. See, e.g., Lovett v. Ray, 327 F.3d 1181, 1182 (11th Cir.2003) (section 1983 suit); see also Thompson v. Ret. Plan for Emps. of S.C. Johnson & Son, Inc., 651 F.3d 600, 2011 WL 2463550, *4 (7th Cir.2011) (ERISA benefits claim)5. In certain contexts, we—and other courts—have applied a federal common-law rule under which a claim accrues when a plaintiff either knows or should know that he has sustained an injury. See Chappell v. Rich, 340 F.3d 1279, 1283 (11th Cir.2003) (section 1983 and 1985 suit); Bowling v. Founders Title Co., 773 F.2d 1175, 1178 (11th Cir.1985) (civil RICO claim); Thompson, 651 F.3d at 604–05, 2011 WL 2463550 at *4 (ERISA claim); Winnett v. Caterpillar, Inc., 609 F.3d 404, 408 (6th Cir.2010) (same).
+ 
+[3] We conclude that this rule for claim-accrual applies to COBRA improper-notice claims. Notice is of enormous importance. The COBRA notification requirement exists because employees are not expected to know instinctively of their right to continue their healthcare coverage. To begin the statute of limitations when the notification period expires, as Defendant urges, would create the possibility that the limitations period will run out before a plaintiff even knows he has been injured. We will not adopt such a rule. Instead, we conclude that a COBRA improper-notice claim accrues when the plaintiff either knows or should know the facts necessary to bring an improper-notice claim: specifically, that his former employer has failed to provide him with the required notice of his continuation right.6
+ 
+*1392 Defendant does not allege that Plaintiff actually knew of his injury—the lack of notice about his continuation right—before Plaintiff’s meeting with his lawyer on 20 March 2008. Nor has Defendant shown any reason that Plaintiff should have known of his injury before that date: the mere expiration of the notification period on 3 May 2007, without more, was insufficient to give Plaintiff reason to know his notification right had been violated.
+ 
+So, Plaintiff’s claim did not accrue until 20 March 2008, when he learned from his lawyer that he should have received notice of his continuation right from Defendant. Plaintiff’s suit was therefore within the one-year limitations period when it was filed on 24 July 2008. The district court erred in granting summary judgment for Defendant on Plaintiff’s improper-notice claim; because that claim was timely, the court should have considered the claim on the merits. We therefore VACATE the district court’s entry of summary judgment on this issue and REMAND to the district court so that the parties can proceed on Plaintiff’s COBRA claim (and only on that claim). We AFFIRM the district court’s entry of summary judgment for Defendant on Plaintiff’s EPPA claim.
+ 
+AFFIRMED in part, VACATED in part, and REMANDED.
+ 
+All Citations
+650 F.3d 1386, 32 IER Cases 1057, 52 Employee Benefits Cas. 2213, 23 Fla. L. Weekly Fed. C 295
+Footnotes
+
+*
+
+Honorable Wm. Terrell Hodges, United States District Judge for the Middle District of Florida, sitting by designation.
+
+1
+
+JPMorgan Chase Bank has since been substituted as the defendant. We refer to Washington Mutual and JPMorgan interchangeably as “Defendant.”
+
+2
+
+The investigators asked three other employees to take polygraph tests. Two of these other employees submitted to the test; one employee refused.
+
+3
+
+Defendant has not recovered the missing $58,000.
+
+4
+
+Although COBRA does not provide a limitations period for improper-notice claims, the settled practice is for federal courts to “borrow” the most analogous limitations period from the forum state. Harrison v. Digital Health Plan, 183 F.3d 1235, 1238 (11th Cir.1999). We have previously accepted the one-year limitations period set forth in O.C.G.A. section 9–3–28 as the proper analog for a Georgia plaintiff’s COBRA improper-notice claim. Id. at 1237 n. 1.
+
+5
+
+Cases involving ERISA claims are particularly relevant to our analysis, as COBRA amended the ERISA statute.
+
+6
+
+Defendant argues—echoing a concern expressed by the district court—that this claim-accrual rule will permit plaintiffs to go many years before discovering that their notification right has been violated, and then to bring suit for non-disclosure penalties long after the alleged failure of notification occurred. We accept that this possibility exists. The statutory remedy for COBRA notification violations is “up to $100 a day from the date of” the notification failure and other relief the court “in its discretion ... deems proper.” 29 U.S.C. § 1132(c)(1) (emphasis added). The precise relief and amount are left to the district court’s discretion. So, a plaintiff will not automatically and always be entitled to statutory penalties for the entire period before suit was filed: the district court has discretion to limit appropriately the defendant’s liability, given all the circumstances, including the diligence of both parties.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

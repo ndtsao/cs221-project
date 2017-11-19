@@ -1,0 +1,427 @@
+
+
+
+
+
+Island Software and Computer Service, Inc. v. Microsoft Corp.
+United States Court of Appeals, Second Circuit. | June 28, 2005 | 413 F.3d 257 | 2005 WL 1514234
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by EMI Entertainment World, Inc. v. Karen Records, Inc., S.D.N.Y., August 24, 2011
+
+standard Citation:
+
+Island Software & Computer Serv., Inc. v. Microsoft Corp., 413 F.3d 257 (2d Cir. 2005)
+
+All Citations:
+
+413 F.3d 257, 2005 Copr.L.Dec. P 29,008, 75 U.S.P.Q.2d 1290, 67 Fed. R. Evid. Serv. 719
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by EMI Entertainment World, Inc. v. Karen Records, Inc., S.D.N.Y., August 24, 2011
+413 F.3d 257
+United States Court of Appeals,
+Second Circuit.
+ISLAND SOFTWARE AND COMPUTER SERVICE, INC., Plaintiff–Counter–Defendant–Appellant,
+Michael Brunner, Counter–Defendant–Appellant,
+v.
+MICROSOFT CORPORATION, Defendant–Counter–Claimant–Appellee.
+Docket No. 04–0744–CV.
+|
+Argued: Oct. 15, 2004.
+|
+Decided: June 28, 2005.
+Synopsis
+Background: Software retailer sought declaration that it was not infringing software manufacturer’s copyrights and trademarks. Manufacturer counterclaimed for infringement. The United States District Court for the Eastern District of New York, William D. Wall, United States Magistrate Judge, granted summary judgment for manufacturer, and retailer appealed.
+ 
+Holdings: The Court of Appeals, Calabresi, Circuit Judge, held that:
+ 
+[1] evidence supported finding of infringement, but
+ 
+[2] fact issue existed as to whether infringement was willful.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (11)
+
+
+[1]
+
+Federal CourtsSummary judgment
+Federal CourtsSummary judgment
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3604Judgment
+170Bk3604(4)Summary judgment
+(Formerly 170Bk776)
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)3Presumptions
+170Bk3675Summary judgment
+(Formerly 170Bk802)
+
+
+District court’s grant of summary judgment is reviewed de novo, viewing facts in light most favorable to nonmovant, and drawing all reasonable inferences in its favor.
+14 Cases that cite this headnote
+
+
+
+[2]
+
+Copyrights and Intellectual PropertyNature and elements of injury
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)1What Constitutes Infringement
+99k51Nature and elements of injury
+
+
+Claim of copyright infringement under federal law requires proof that (1) plaintiff had valid copyright in work allegedly infringed and (2) defendant violated one of the exclusive rights statutorily bestowed upon copyright holder. 17 U.S.C.A. § 106.
+56 Cases that cite this headnote
+
+
+
+[3]
+
+EvidenceOfficial proceedings and acts
+
+
+157Evidence
+157IJudicial Notice
+157k48Official proceedings and acts
+
+
+District court was entitled to take judicial notice of copyright infringement plaintiff’s federal copyright registrations, as published in Copyright Office’s registry. Fed.Rules Evid.Rule 201(b), 28 U.S.C.A.
+54 Cases that cite this headnote
+
+
+
+[4]
+
+Federal CourtsAdmission of Evidence
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)4Harmless and Reversible Error
+170Bk3686Particular Errors as Harmless or Prejudicial
+170Bk3701Evidence
+170Bk3701(2)Admission of Evidence
+170Bk3701(3)In general
+(Formerly 170Bk896.1)
+
+
+Any error in district court’s reliance on unauthenticated copies of infringement plaintiff’s federal copyright registrations to support finding of ownership was harmless, as court could have taken judicial notice of registrations, which were published in Copyright Office’s registry.
+35 Cases that cite this headnote
+
+
+
+[5]
+
+Copyrights and Intellectual PropertyOther works
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)1What Constitutes Infringement
+99k67.3Other works
+
+
+Distribution of unauthorized copy of copyrighted software can constitute act of infringement. 17 U.S.C.A. § 106(3).
+15 Cases that cite this headnote
+
+
+
+[6]
+
+Copyrights and Intellectual PropertyOther works
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k83Evidence
+99k83(3)Weight and Sufficiency
+99k83(7)Other works
+
+
+Finding of copyright infringement was supported by unrebutted evidence that software sold by defendant was counterfeit.
+Cases that cite this headnote
+
+
+
+[7]
+
+Federal Civil ProcedureMatters Affecting Right to Judgment
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)1In General
+170Ak2465Matters Affecting Right to Judgment
+170Ak2465.1In general
+
+
+Broad, conclusory attacks on credibility of witness will not, by themselves, present questions of material fact sufficient to avoid summary judgment. Fed.Rules Civ.Proc.Rule 56(c), 28 U.S.C.A.
+22 Cases that cite this headnote
+
+
+
+[8]
+
+Federal CourtsSummary judgment
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(D)Presentation and Reservation in Lower Court of Grounds of Review
+170BXVII(D)2Particular Grounds of Review
+170Bk3406Matters of Procedure
+170Bk3418Judgment and Relief
+170Bk3418(2)Summary judgment
+(Formerly 170Bk634)
+
+
+Objections and arguments not advanced during summary judgment hearing need not be addressed on appeal.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+Copyrights and Intellectual PropertyStatutory Damages;  Minimum Award
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k87Damages and Profits
+99k87(3)Statutory Damages;  Minimum Award
+99k87(3.1)In general
+
+
+To prove “willfulness” of copyright infringement, for purpose of obtaining enhanced damages, plaintiff must show that (1) defendant was actually aware of infringing activity, or (2) defendant’s actions were result of reckless disregard for, or willful blindness to, copyright holder’s rights. 17 U.S.C.A. § 504(c)(2).
+85 Cases that cite this headnote
+
+
+
+[10]
+
+Copyrights and Intellectual PropertySummary judgment
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k89Judgment
+99k89(2)Summary judgment
+
+
+Issue of material fact as to whether undisputed conduct of retail seller of high quality counterfeit software justified inference that it had acted with reckless disregard or willful blindness to rights of copyright owner precluded summary judgment that infringement was willful, for purpose of awarding enhanced damages. 17 U.S.C.A. § 504(c)(2).
+57 Cases that cite this headnote
+
+
+
+[11]
+
+Copyrights and Intellectual PropertySummary judgment
+Federal CourtsSummary judgment
+
+
+99Copyrights and Intellectual Property
+99ICopyrights
+99I(J)Infringement
+99I(J)2Remedies
+99k72Actions for Infringement
+99k89Judgment
+99k89(2)Summary judgment
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)4Harmless and Reversible Error
+170Bk3686Particular Errors as Harmless or Prejudicial
+170Bk3705Judgment
+170Bk3705(3)Summary judgment
+(Formerly 170Bk914)
+
+
+Premature grant of summary judgment on question of whether copyright infringement was willful required reversal of damage award, even though amount of damages awarded was within range statutorily authorized even without finding of willfulness, where court specifically stated that its willfulness finding was one factor motivating its discretionary decision to set damages at high end of range. 17 U.S.C.A. § 504(c)(1, 2).
+16 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*258 Eugene D. Berman, Fine, Fine & Berman (Scott Fine, of counsel), Melville, NY, for Plaintiff–Counter–Defendant–Appellant.
+Monica P. McCabe, Piper Rudnick LLP (Christine Jaskiewicz and Katherine M. Dugdale, of counsel), New York, NY, for Defendant–Counter–Claimant–Appellee.
+Before: OAKES, KEARSE, and CALABRESI, Circuit Judges.
+Opinion
+CALABRESI, Circuit Judge.
+
+This appeal involves, primarily, the proof needed for finding, at the summary judgment stage, that copyright infringement was “willful.” In the absence of evidence conclusively demonstrating actual, rather than constructive, knowledge of infringement, we conclude that summary judgment on the question of willfulness was inappropriate.
+ 
+
+*259 I. BACKGROUND
+Defendant-counter-claimant-appellee Microsoft Corporation (“Microsoft”) designs and manufacturers a number of popular software programs, each of which is covered by various copyrights and bears the company’s registered trademarks. Microsoft has created a large anti-piracy program to police its rights to these and other forms of intellectual property. As part of that program, Microsoft employs regional private investigation firms to acquire purportedly authentic Microsoft products from local retailers and then forward those products to Microsoft’s headquarters for testing.
+ 
+On November 1, 2000, Nicholas Gouzien, a private investigator employed by a company participating in Microsoft’s anti-piracy program, visited Plaintiff-counter-defendant-appellant Island Software and Computer Service, Inc. (“Island”), a small software retailer and computer repairer in Coram, New York. Gouzien asked Island for copies of three Microsoft software programs—Windows 95, Windows 98, and Office 2000 Professional. An Island employee told Gouzien that Island did not have the programs at the moment. But the employee said that, in the near future, Island could obtain the software from CCST, Inc. (“CCST”), one of Island’s suppliers, and then send it to Gouzien. Gouzien agreed to this arrangement, and paid cash, in advance of delivery, for all three programs. Island charged Gouzien $60 for one unit of Windows 95, $80 for one unit of Windows 98, and $268 for one unit of Office 2000 Professional.
+ 
+On November 16, 2000, Gouzien received the three requested software programs as promised. He sent them to Microsoft’s headquarters in Redmond, Washington, where they were analyzed by Kristi Lamb Bankhead, a Microsoft paralegal trained to detect counterfeit Microsoft products. Bankhead determined that the Windows 95 CD–ROM, Windows 95 packaging, and Windows 98 packaging Gouzien obtained from Island were genuine. But she found that the Windows 98 CD–ROM, the Office 2000 Professional CD–ROM, and the Office 2000 Professional packaging were counterfeit. Based on Bankhead’s conclusions, Microsoft sent Island a “cease and desist” letter on February 1, 2001, informing Island of Microsoft’s investigation and findings. In that letter, Microsoft threatened future litigation unless Island made a payment of $15,000 and identified the supplier of the counterfeit merchandise.
+ 
+Rather than comply with those demands, Island filed suit in the Eastern District of New York on February 9, 2001, seeking a declaration of non-infringement of Microsoft’s trademarks and copyrights. Microsoft responded on April 6, 2001, by filing counterclaims for copyright infringement under the Copyright Act, 17 U.S.C. § 501 et seq., trademark infringement under the Lanham Act, 15 U.S.C. § 1114 et seq., false designation of origin under the Lanham Act, 15 U.S.C. § 1125 et seq., and unfair competition under New York common law. Microsoft sought both injunctive relief and statutory damages for Island’s asserted acts of infringement, and further requested that the statutory damages be enhanced on the basis of Island’s alleged willfulness in violating Microsoft’s rights.
+ 
+On January 24, 2003, the district court (Wall, M.J.) denied summary judgment on Microsoft’s unfair competition claims, but granted summary judgment to Microsoft on its claims for trademark and copyright infringement. With respect to Microsoft’s trademark claim, the court determined that Microsoft’s evidence (including affidavit testimony from Gouzien and Bankhead, as well as deposition testimony from Brunner) established all the necessary elements, including trademark ownership and *260 a likelihood of consumer confusion, of trademark infringement under the Lanham Act. As to Microsoft’s copyright claims, the court found that Microsoft’s submission of its copyright registration forms conclusively established its ownership of the copyrights to Windows 98 and Office 2000. And the court specifically rejected as “without merit” Island’s contention that the certificates were inadmissible for want of a sworn declaration. It then concluded that, on the undisputed evidence before it, Island’s distribution of unauthorized Microsoft products violated Microsoft’s exclusive rights under 17 U.S.C. § 106. Finally, the court held that, while Brunner’s deposition testimony established a genuine issue of fact as to Brunner’s actual knowledge of Island’s infringing activities, his “constructive knowledge” and “reckless disregard” were uncontroverted, and hence that a finding of willful copyright infringement was appropriate.
+ 
+The district court awarded Microsoft $240,000 in statutory damages ($30,000 for each of the eight copyrighted works at issue).1 It did so after “[c]onsidering all of the relevant factors, including the finding that Island’s and Brunner’s behavior amounted to reckless disregard or willful blindness.” While the court made reference to its finding of willfulness, the damage award granted did not fall in the enhanced range authorized (though not required) to remedy willful infringement. Instead, the court awarded Microsoft the maximum in non-enhanced statutory damages under the Copyright Act. See 17 U.S.C. § 504(c). It also enjoined Island from engaging in activities that would infringe Microsoft’s intellectual property rights.
+ 
+
+II. DISCUSSION
+Island now appeals the district court’s grant of summary judgment to Microsoft. It also seeks to vacate the district court’s award of statutory damages and of a permanent injunction.
+ 
+
+A. Standard of Review
+[1] Summary judgment may not be granted unless there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law. See Fed.R.Civ.P. 56(c). We review de novo a district court’s grant of summary judgment. See Holt v. KMI–Continental, Inc., 95 F.3d 123, 128 (2d Cir.1996). In so doing, we view the facts in the light most favorable to Island, and draw all reasonable inferences in its favor. See Castle Rock Entm’t, Inc. v. Carol Publ’g Group, Inc., 150 F.3d 132, 137 (2d Cir.1998).
+ 
+
+B. Copyright Infringement
+Island challenges the district court’s summary judgment on Microsoft’s copyright infringement claim. Accordingly, it is to that which we now turn.
+ 
+[2] A claim of copyright infringement under federal law “requires proof that (1) the plaintiff had a valid copyright in the work allegedly infringed and (2) the defendant infringed the plaintiff’s copyright” by violating one of the exclusive rights that 17 U.S.C. § 106 bestows upon the copyright holder. Lipton v. Nature Co., 71 F.3d 464, 469 (2d Cir.1995). Because the evidence adduced establishes both of these elements, we affirm the district court’s award of summary judgment to Microsoft on this claim as well.
+ 
+
+*261 i. Copyright Ownership
+[3] [4] Island asserts that, because Microsoft submitted to the district court only copies of its federal copyright registrations, and did not swear to the authenticity of those copies, the summary judgment record does not support a finding of copyright ownership. But under Rule 201(b) of the Federal Rules of Evidence, a court may take judicial notice of facts that are “capable of accurate and ready determination by resort to sources whose accuracy cannot reasonably be questioned.” The district court was entitled to take judicial notice of Microsoft’s federal copyright registrations, as published in the Copyright Office’s registry. Cf. Duluth News–Tribune v. Mesabi Publ’g Co., 84 F.3d 1093, 1096 n. 2 (8th Cir.1996) (taking judicial notice of trademark registrations published in Patent and Trademark Office’s registry). We therefore decline to hold that the district court, by relying on the unauthenticated copies of Microsoft’s registrations, erred in concluding that Microsoft owned the copyrights. Even if the district court abused its discretion by admitting these unauthenticated copies—and we express no opinion on that question—Island suffered no prejudice through that potential evidentiary error. The court’s ultimate conclusion would have been adequately supported by taking judicial notice of the official, published copyright registrations.
+ 
+
+ii. Infringement of Exclusive Rights
+[5] Among the exclusive rights that the Copyright Act bestows upon copyright owners is the right “to distribute copies ... of the copyrighted work to the public by sale or other transfer of ownership.” 17 U.S.C. § 106(3). Thus, though Island is not alleged to have actually copied Microsoft’s products—CCST, or an antecedent entity in the supply chain, did that—Island can still be liable as the distributor of an unauthorized copy. See, e.g., Salton, Inc. v. Philips Domestic Appliances and Personal Care B.V., 391 F.3d 871, 875 (7th Cir.2004); Ortiz–Gonzalez v. Fonovisa, 277 F.3d 59, 62 (1st Cir.2002).
+ 
+[6] Microsoft, moreover, presented the district court with prima facie evidence of copyright infringement by Island. The undisputed testimony of Bankhead and Gouzien demonstrated that Island sold Gouzien an entirely counterfeit copy of Office 2000 and a partially counterfeit copy of Windows 98. Once this prima facie case of infringement through unauthorized distribution was established, Island was required to challenge that case by producing specific evidence sufficient to create a genuine question of material fact for trial. See Fed.R.Civ.P. 56(e); Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 249–50, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986); Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 585–86, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986).
+ 
+[7] Island did not meet that burden. Before the district court, its only attempt to traverse Microsoft’s evidence came in the form of a general attack on Bankhead’s credibility. Broad, conclusory attacks on the credibility of a witness will not, by themselves, present questions of material fact. See, e.g., Crawford–El v. Britton, 523 U.S. 574, 600, 118 S.Ct. 1584, 140 L.Ed.2d 759 (1998) (noting that “if the [defendant] has made a properly supported [summary judgment] motion, the plaintiff may not respond simply with general attacks upon the defendant’s credibility, but rather must identify affirmative evidence from which a jury could find that the plaintiff has carried his or her burden”) (footnote omitted); McCullough v. Wyandanch Union Free Sch. Dist., 187 F.3d 272, 280 (2d Cir.1999) (emphasizing that “appellee cannot defeat summary judgment ... merely by impugning [a witness’s] honesty,” or “by *262 promising in his appellate brief that at trial he will demonstrate how the [witness’s testimony] is false”). Thus, though we view Bankhead’s testimony in the light most favorable to Island, and must resolve any ambiguities in that testimony in Island’s favor, see Castle Rock Entm’t, Inc., 150 F.3d at 137, we will not, without affirmative evidence warranting an adverse inference, disregard Bankhead’s uncontroverted assertions.
+ 
+[8] In addition to Island’s protestations regarding Bankhead’s general veracity, Island claims, for the first time in this appeal, that the CD–ROMs Island sold Gouzien do not contain any copyrighted materials—that is, that the record does not show that the CD–ROMs contained any software. We have previously held that objections and arguments not advanced during the summary judgment hearing need not be addressed on appeal. See, e.g., Galabya v. New York City Bd. of Educ., 202 F.3d 636, 640 n. 1 (2d Cir.2000) (declining to consider, when reviewing grant of summary judgment, objections and arguments not advanced below); Anchor Fish Corp. v. Torry Harris, Inc., 135 F.3d 856, 858 (2d Cir.1998) (noting that only in exceptional cases will unpreserved arguments be considered).
+ 
+Declining to consider an unpreserved argument of the sort Island now advances is especially appropriate in the case before us. Island had ample opportunity to examine these CD–ROMs prior to the summary judgment hearing. It did not, following its examination of those materials, come forward with any evidence suggesting that the CD–ROMs did not constitute copies (authorized or otherwise) of Microsoft’s products. Island had every reason to point out to the district court at the summary judgment hearing that the CD–ROMs contained no copyrighted material, were that the case. Under the circumstances, its attempt to claim now—when the actual CD–ROMs are not available as part of the record on appeal—that it simply forgot to mention that there is no evidence as to their contents is hard to take seriously.
+ 
+Subsequent to Microsoft’s proffer of the Bankhead and Gouzien affidavits, Island was required to submit specific and affirmative evidence demonstrating that genuine issues of material fact existed. This, it did not do. Accordingly, we affirm the district court’s grant of summary judgment on Microsoft’s copyright infringement claim.2
+ 
+
+C. Monetary and Injunctive Relief
+Island also challenges the remedies awarded to Microsoft by the district court upon its entry of summary judgment. Although we affirm the summary judgment, we agree with Island that, on the record before us and at this stage of the proceedings, the remedies given to Microsoft must be vacated and the case remanded for future proceedings in this regard.
+ 
+Once an act of infringement under the Copyright Act has been proven, a plaintiff may, in lieu of an award of actual damages and profits, request that statutory damages under 17 U.S.C. § 504(c) be awarded. If a plaintiff so elects, the district court will grant anywhere between $750 and *263 $30,000 for each copyright infringed. See 17 U.S.C. § 504(c)(1). If the defendant’s infringement was willful, however, the district court may also, in its discretion, enhance the statutory damages award to as much as $150,000 per infringed work. 17 U.S.C. § 504(c)(2).
+ 
+[9] To prove “willfulness” under the Copyright Act, the plaintiff must show (1) that the defendant was actually aware of the infringing activity, or (2) that the defendant’s actions were the result of “reckless disregard” for, or “willful blindness” to, the copyright holder’s rights. See In re Aimster Copyright Litigation, 334 F.3d 643, 650 (7th Cir.2003); Lipton v. Nature Co., 71 F.3d 464, 472 (2d Cir.1995); N.A.S. Import Corp. v. Chenson Enters., Inc., 968 F.2d 250, 252 (2d Cir.1992); see also Yurman Design, Inc. v. PAJ, Inc., 262 F.3d 101, 112 (2d Cir.2001) (“Willfulness in this context means that the defendant recklessly disregarded the possibility that its conduct represented infringement.”) (citation and internal quotation marks omitted).
+ 
+[10] The evidence relevant to willfulness in the summary judgment record consisted of Brunner’s affidavit and deposition testimony. In both, Brunner repeatedly denied that he had actual knowledge of any infringing activities, and Microsoft does not contend that conclusive evidence of actual knowledge can be found in Brunner’s affidavit or deposition. Microsoft asserts, however, that Brunner’s testimony readily established sufficient “reckless disregard” and “willful blindness” to compel a finding of willfulness. In support of this claim, it points primarily to three of Brunner’s statements.
+ 
+First, Brunner expressed his frustration with CCST’s price fluctuations (between $100 and $265 over a six-month period) for various software products. In Brunner’s words, he at times “squirmed” when dealing with CCST, which he did not consider a “regular distributor” because, in part, its “prices jump all over the place. There is no consistency.” This, Microsoft claims, establishes that Brunner was suspicious of the authenticity of CCST products.
+ 
+Second, Microsoft points to Brunner’s account of a prior incident in which an anonymous customer called Island to complain about counterfeit merchandise. Upon receiving the telephone call, Brunner invited the customer to come to Island’s retail location and return the merchandise for a refund; when no customer ever materialized to authenticate the claim of counterfeit merchandise, Brunner let the matter drop. Microsoft argues that this “casual” response to claims of counterfeiting constituted clear willful blindness, and that a reasonable merchant would have taken additional steps to investigate the authenticity of his products.
+ 
+Finally, Brunner testified that Island did not take extensive measures to prevent the receipt and sale of high-quality counterfeit merchandise. Rather, Island’s employees, including Brunner, would conduct a relatively quick visual inspection of goods. And on some occasions (including the sale of the offending products to Gouzien), the employees would not even examine products upon receiving them from distributors.
+ 
+Microsoft asserts that, taken together, this evidence constitutes conclusive proof that, as a matter of law, Brunner acted with “reckless disregard” for, and “willful blindness” to, Microsoft’s rights. We do not disagree with Microsoft that some of Brunner’s statements suggest that Island failed to take reasonable steps to prevent the distribution of counterfeit software. But at this stage of the proceedings, where we must draw all inferences in favor of the non-moving party, we cannot say that, as a matter of law, Island is entitled to summary *264 judgment on the question of willfulness.
+ 
+A jury could, without doubt, conclude that Brunner’s statements reveal willful blindness, or establish a pattern of conduct so unreasonable as to constitute reckless disregard. Still, it is not beyond peradventure that a reasonable jury would conclude otherwise. And that is enough to make summary judgment on the issue of willfulness inappropriate. See Owens v. New York City Hous. Auth., 934 F.2d 405, 410 (2d Cir.1991) (“Only if no reasonable trier of fact could find in favor of the non-moving party should summary judgment be granted.”).
+ 
+Brunner’s lamentation over CCST’s sales practices, for example, might be read as indicating only that Brunner was frustrated with disruptions in his supply chain. Similarly, Brunner’s lack of investigatory follow-up when faced with complaints of counterfeit products might be explained on the grounds that a reasonable merchant might not credit the claims of an anonymous customer unwilling to return the merchandise for examination. Further, while Island certainly did not take any special steps to prevent its receipt and sale of unauthentic software products, a jury could infer that additional inspections were, for any number of reasons, not mandated. For example, perhaps only an individual with specialized training (like Bankhead, Microsoft’s own expert) could discern the difference between authentic products and high-quality counterfeits of the sort at issue in this case. And the hiring of such experts could be found by a jury to be beyond what could reasonably be expected of small companies. We conclude that, viewed in the manner most favorable to Island, the evidence does not show, at this stage of the proceedings, that Microsoft is entitled to judgment as a matter of law as to willfulness. See Fed.R.Civ.P. 56(c).
+ 
+Having given possible explanations which would not constitute willfulness on Island’s part, we reiterate that the evidence of willfulness, in the instant case, is strong. And our prior decisions clearly recognize that, even in the absence of evidence establishing the infringer’s actual knowledge of infringement, a plaintiff can still prove willfulness by proffering circumstantial evidence that gives rise to an inference of willful conduct. See, e.g., Knitwaves, Inc. v. Lollytogs Ltd., 71 F.3d 996, 1010 (2d Cir.1995) (noting that “[k]nowledge of infringement may be constructive rather than actual; that is, ‘it need not be proven directly but may be inferred from the defendant’s conduct” ’) (quoting N.A.S. Import Corp. v. Chenson Enters., Inc., 968 F.2d 250, 252 (2d Cir.1992)). Nevertheless, at the summary judgment stage, although an inference of constructive knowledge or reckless conduct seems the better of the possible inferences that can be drawn, we must still draw all inferences in favor of the non-moving party. See, e.g., Lipton, 71 F.3d 464, 472–73 (2d Cir.1995) (reversing district court’s award of summary judgment on the question of willful infringement, and its attendant award of monetary relief, because the evidence viewed in the light most favorable to the non-moving party did not support an inference of willfulness). Thus, even in a case like the one before us, where the non-moving party does not traverse the evidence suggesting constructive knowledge of infringement, but only disputes the inferences to be drawn from that evidence, our standard of review requires that we decide in favor of the non-moving party.
+ 
+[11] Microsoft contends, however, that assuming arguendo that the court entered summary judgment on willfulness prematurely, *265 its damage award should still stand. We agree with Microsoft that the district court’s damage award is consistent with the Copyright Act’s damage provisions, quite apart from willfulness. The court awarded Microsoft $30,000 per work infringed, and this amount is authorized by the statutory scheme even without a finding of willfulness. See 17 U.S.C. § 504(c)(1).
+ 
+But within the statutory framework, a district judge has wide discretion in setting the statutory damage award anywhere between $750 and $30,000 for each work infringed. See, e.g., Fitzgerald Pub. Co., Inc. v. Baylor Pub. Co., Inc., 807 F.2d 1110, 1116–17 (2d Cir.1986) (discussing “the wide discretion the Copyright Act affords the trial court in setting the amount of statutory damages”). And the district court specifically stated that its willfulness finding was one of the factors motivating its discretionary decision to set damages at the $30,000 end of the range.3 Since, in setting statutory damages, the district court relied, at least in part, on an erroneous conclusion that willfulness had been established as a matter of law, we believe it prudent to vacate its damage award and remand for further proceedings.
+ 
+Similarly, the district court’s assessment of costs and attorney’s fees, as well as its entry of a permanent injunction, also relied in part on the court’s finding of willfulness. We therefore vacate the entirety of the remedial portion of the district court’s summary judgment order, including statutory damages, costs, fees, and injunctive relief.
+ 
+In vacating this portion of the district court’s judgment, we emphasize, however, that the court’s reliance on a finding of willfulness was unnecessary to the relief it awarded. Under the Copyright Act, there is no need for an infringer to act willfully for it to be sanctioned as the court sanctioned Island. And so it may well be that the identical remedies that we are currently vacating are reimposed upon Island following remand. But since we cannot be certain that the district court’s remedial decision would have been the same absent its conclusion that Island and Brunner acted with reckless disregard for, or willful blindness to, Microsoft’s rights, we vacate the injunction and the award of costs and fees.4
+ 
+
+III. CONCLUSION
+We have considered all of Island’s remaining arguments and find them to be without merit. The judgment of the district court is therefore AFFIRMED in part, VACATED in part, and REMANDED for further proceedings consistent with this opinion.
+ 
+All Citations
+413 F.3d 257, 2005 Copr.L.Dec. P 29,008, 75 U.S.P.Q.2d 1290, 67 Fed. R. Evid. Serv. 719
+Footnotes
+
+1
+
+The court did not grant Microsoft’s request for statutory damages pursuant to the Lanham Act. As a result, monetary damages were based on Microsoft’s copyright claims.
+
+2
+
+Island challenges the district court’s grant of summary judgment on Microsoft’s trademark infringement and false designation of origin claims. Its arguments in this regard—that the district court erred in admitting and relying on unauthenticated trademark certificates, and that summary judgment on these claims was inappropriate given that the record did not contain the allegedly infringing CD–ROMs—are duplicative of those we have just rejected. Accordingly, we affirm the district court’s judgment with respect to Island’s trademark infringement and false designation of origin claims.
+
+3
+
+See Island Software v. Microsoft, No. 01–cv–750 (S.D.N.Y.2004) (“Considering all of the relevant factors, including the finding that Island’s and Brunner’s behavior amounted to reckless disregard or willful blindness, the court will award the full amount of non-enhanced statutory damages sought by Microsoft under the Copyright Act, that is, $30,000 for each of the eight registered copyrights at issue.”) (emphasis added).
+
+4
+
+Island challenges the breadth of the injunction entered by the district court. Since we vacate the injunction based on the district court’s reliance on its finding of willfulness, and since Island presents this challenge in a largely conclusory fashion, we do not reach this issue. On remand, however, Island is free to develop these arguments and present them to the district court, should the remedies imposed by the district court at that time render them again relevant.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

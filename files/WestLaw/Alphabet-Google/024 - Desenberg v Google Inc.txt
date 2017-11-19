@@ -1,0 +1,285 @@
+
+
+
+
+
+Desenberg v. Google, Inc.
+United States Court of Appeals, Federal Circuit. | August 31, 2010 | 392 Fed.Appx. 868 | 2010 WL 3452493
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Joao Control and Monitoring Systems, LLC v. Slomin’s, Inc., E.D.N.Y., January 6, 2015
+
+standard Citation:
+
+Desenberg v. Google, Inc., 392 F. App’x 868 (Fed. Cir. 2010)
+
+All Citations:
+
+392 Fed.Appx. 868, 2010 WL 3452493
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Joao Control and Monitoring Systems, LLC v. Slomin’s, Inc., E.D.N.Y., January 6, 2015
+392 Fed.Appx. 868
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+Roger Marx DESENBERG, Plaintiff–Appellant,
+v.
+GOOGLE, INC., Defendant–Appellee.
+No. 2010–1212.
+|
+Aug. 31, 2010.
+Synopsis
+Background: Patentee, proceeding pro se, sued internet company for alleged infringement of patent for method for using communications network to provide leads to users and providers of services whereby services were performed for transaction fee. The United States District Court for the Southern District of New York, George B. Daniels, J., adopting the report and recommendation of United States Magistrate Judge, 2009 WL 2337122,dismissed complaint for failure to state claim, 2010 WL 100841. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Newman, Circuit Judge, held that:
+ 
+[1] company did not directly infringe patent, and
+ 
+[2] company could not be indirect infringer.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k229)
+
+
+Internet company did not directly infringe patent for method for using communications network to provide leads to users and providers of services whereby services were performed for transaction fee where patent claim required performance of all steps of claim and company did not perform both “user” and “provider” steps of claimed method, or direct or control performance of all steps of claimed method.
+9 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+(Formerly 291k101(11))
+
+
+“Wherein” clause of claim of patent for method for using communications network to provide leads to users and providers of services whereby services were performed for transaction fee was part of claimed method where patent examiner required, as condition of patentability, inclusion of limitation in “wherein” clause.
+3 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1655Business methods;  Internet applications
+(Formerly 291k259(1))
+
+
+Internet company could not be indirect infringer of patent for method for using communications network to provide leads to users and providers of services whereby services were performed for transaction fee where there was no direct infringer.
+5 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,139,732. Not Infringed.
+8 Cases that cite this headnote
+
+
+
+*869 Appeal from the United States District Court for the Southern District of New York in Case No. 08–CV–10121, George B. Daniels, Judge.
+Attorneys and Law Firms
+Roger Marx Desenberg, of New York, NY, pro se.
+Charles K. Verhoeven, Quinn Emanuel Urquhart & Sullivan, LLP, of San Francisco, CA, for defendant-appellee. With him on the brief was Edward J. Defranco, of New York, NY.
+Before NEWMAN, MAYER, and PROST, Circuit Judges.
+Opinion
+NEWMAN, Circuit Judge.
+
+**1 Roger Marx Desenberg, acting pro se, sued Google, Inc. for infringement of United States Patent 7,139,732 (“the ′732 patent”). The United States District Court for the Southern District of New York dismissed the complaint under Federal Rule 12(b)(6) for failure to state a claim upon which relief can be granted.1 Mr. Desenberg appeals the dismissal and the denial of preliminary injunctive and monetary relief, and argues that his constitutional rights have been violated. We affirm the district court’s rulings, and discern no constitutional violation.
+ 
+
+DISCUSSION
+The invention described in the ′732 patent is a method wherein a communications network is used to provide leads to users and providers of services, whereby services *870 are performed for a transaction fee, as set forth in the patent. Claim 1 is as follows:
+ 
+1. A method for a user using a communication network to search for and identify at least one matching provider of project work, the method comprising;
+transmission of a lead comprising contact information that enables communication between the user and the provider, wherein the transaction lead price is the amount of money paid for the lead, and further wherein a service is performed by the user or the provider as a result of the transmission of the lead and wherein the performance of the service includes a service transaction fee paid by the user or the provider;
+storing in a database at least first provider information and second provider information, the at least first provider information and the at least second provider representing at least respective maximum lead prices, each of the respective maximum lead prices representing the maximum amount that each of at least a first provider and a second provider is willing to pay for a lead, wherein each of the at least first and second providers provide at least one service with which the lead is associated;
+comparing the respective maximum lead prices to determine a lowest respective maximum lead price;
+identifying the provider associated with the lowest one of the respective maximum lead prices;
+receiving at least one lead limit that represents a maximum quantity of leads to be provided;
+receiving from a user or provider a request for contact information, the contact information enabling communication between the user and at least one of the first provider and the second provider;
+selecting at least one provider based on each respective provider’s maximum lead price and the lead limit;
+calculating a respective transaction lead price for each of the at least one selected provider, wherein the respective transaction lead price equals at most each respective selected provider’s maximum lead price; and
+providing the at least one lead to the user or provider for project work.
+ 
+[1] The district court held that Mr. Desenberg’s complaint did not state a claim on which infringement could be found, the court finding that the defendant Google does not itself perform all of the steps of the claim. The district court explained that claim 1 “clearly require[s] the participation of multiple parties,” in that the claim “requires a series of interactions, transmissions and communications between ‘users’ and ‘providers,’ similar to the multi-step patent process involving merchants and customers in BMC Resources [v. Paymentech, L.P., 498 F.3d 1373 (Fed.Cir.2007) ].” Magistrate’s Report at *6. The court in BMC Resources held that direct infringement could not be found unless the defendant performed, or directed or controlled the performance, of all of the steps of the claimed method. The court in BMC Resources also held that indirect infringement, such as inducement or contributory infringement, “requires, as a predicate, a finding that some party amongst the accused actors has committed the entire act of direct infringement.” 498 F.3d at 1379.
+ 
+**2 Applying this precedent, the district court held that a claim for direct infringement “would require Desenberg to allege that Google performs both the ‘user’ and ‘provider’ steps in the claim, which Desenberg *871 has not alleged, and by the very terms of his patent, cannot realistically allege.” Magistrate’s Report at *6. The court observed that Mr. Desenberg “has not alleged that those who participate in Google AdWords do so at the behest of Google, even under an expansive interpretation of ‘direction or control,’ ” citing BMC Resources, supra, and Muniauction, Inc. v. Thomson Corp., 532 F.3d 1318 (Fed.Cir.2008). The court held that the complaint did not state the premises of a claim for either direct or indirect infringement by Google.
+ 
+Mr. Desenberg argues that it suffices that Google provides the communications network whereby the claimed method is practiced. He argues that he stated a cognizable claim for infringement by stating in his complaint that Google has “used, sold or offered to sell ... an Internet system and/or service that infringes each of the elements of one or more claims of Patent 732.” Complaint ¶ 26. He states that the district court erred in construing his claims, arguing that there is a critical distinction between multiple parties performing separate steps of a claimed method, and multiple parties performing actions that are merely mentioned in the claim in a “wherein” clause. While Mr. Desenberg agrees that claim 1 requires that a user or provider perform a service and that a transaction fee is paid, he states that this is the result of Google’s transmission of the lead, and not separate steps that must be performed. He argues that claim 1 does not require “steps” to be performed by anyone other than Google. He also states that at trial he would provide testimony by users and providers who performed any actions whose proof is required.
+ 
+[2] [3] The district court, considering these arguments, correctly concluded that the claim required performance of all of the steps in order for infringement to lie. See, e.g., BMC Resources, 498 F.3d at 1380–81 (all of the steps of a method claim must be performed by the infringer, either directly or under his direction and control); Muniauction, 532 F.3d at 1329. The district court properly rejected Mr. Desenberg’s argument that “the wherein clauses cannot be relied upon to alter the metes & bounds of my claims.” Pl.’s Mem. In Reply to Def.’s Resp. to Objections 5 (Oct. 8, 2009) (capitalization altered). Mr. Desenberg argued that “[t]he law is clear that the language of a ‘whereby’ or a ‘wherein’ clause is to be ignored where it does not add anything to the patented method or invention,” id. at 7, and that “it would be absurd to suggest that the wherein clauses [of the ′732 patent] are a patentable element,” id. at 8. However, the patent examiner had required, as a condition of patentability, that claim 1 of the ′732 patent include the limitation “wherein a service is performed by the user or the provider as a result of the transmission of the lead.” See U.S. Patent Appl. No. 09/621,663, Interview Summary (Feb. 15, 2006); see also Ex. M to Complaint (“This was forced in by the examiner, this is not part of our invention....”). The district court treated the patent examiner’s “wherein” clauses as a part of the claimed method, and concluded that Google could not be a direct infringer because Google did not perform, or direct or control the performance of, all steps of the claimed method. The court also held that Google could not be an indirect infringer because there was no direct infringer, as required by precedent. See, e.g., Aro Mfg. Co. v. Convertible Top Replacement Co., 365 U.S. 336, 341, 81 S.Ct. 599, 5 L.Ed.2d 592 (1961) (“[I]t is settled that there can be no contributory infringement in the absence of a direct infringement.”); BMC Resources, 498 F.3d at 1379 (citing Dynacore Holdings Corp. v. U.S. *872 Philips Corp., 363 F.3d 1263, 1272 (Fed.Cir.2004)).
+ 
+**3 Precedent is in accord with the district court’s analysis. The dismissal under Rule 12(b)(6) is affirmed.
+ 
+We discern no constitutional violation in the district court’s denial of the requested preliminary relief, or in the court’s suggestion to Mr. Desenberg that he retain an attorney to represent him. Mr. Desenberg states that he has been advised and assisted by an attorney, but that full representation is not within his means. Although we are well aware of the cost of patent litigation, review shows that Mr. Desenberg was not treated unsympathetically, and that his position was fully and fairly reviewed.
+ 
+AFFIRMED.
+ 
+All Citations
+392 Fed.Appx. 868, 2010 WL 3452493
+Footnotes
+
+1
+
+Desenberg v. Google, Inc., No. 08–CV–10121, 2010 WL 100841 (S.D.N.Y. Jan. 14, 2010) (dismissal); Desenberg v. Google, Inc., No. 08–CV–10121, 2009 WL 2337122 (S.D.N.Y. July 30, 2009) (Magistrate’s Report ).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (3)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  Pragmatus AV, LLC v. TangoMe, Inc. 
+2013 WL 571798 , D.Del.
+Plaintiff Pragmatus AV, LLC (“Pragmatus” or “Plaintiff”) filed this action for patent infringement against defendant TangoMe, Inc. (“Tango” or “Defendant”). (D.I.1) Presently...
+Feb. 13, 2013
+Case
+
+1
+
+
+
+
+3
+
+
+
+
+900
+
+
+
+
+Fed.Appx.
+
+Distinguished by
+2.  Joao Control and Monitoring Systems, LLC v. Slomin’s, Inc.  
+2015 WL 77516 , E.D.N.Y.
+Plaintiff Joao Control & Monitoring Systems, LLC (’’JCMS’’) brings this action for patent infringement against Defendant Slomin’s, Inc. (’’Slomin’s’’). In its complaint, filed...
+Jan. 06, 2015
+Case
+
+1
+
+
+
+
+3
+
+
+
+
+900
+
+
+
+
+Fed.Appx.
+
+Distinguished by
+3.  Elenza, Inc. v. Alcon Laboratories Holding Corporation
+2015 WL 1417292 , Del.Super.
+Plaintiff ELENZA, Inc. (“Elenza”), brought this action for misappropriation of trade secrets, among other things, against Defendants Alcon Laboratories Holding Corporation, Alcon...
+Mar. 23, 2015
+Case
+
+1
+
+
+
+
+Fed.Appx.
+
+

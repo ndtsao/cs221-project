@@ -1,0 +1,443 @@
+
+
+
+
+
+New York ex rel. Jacobson v. Wells Fargo National Bank, N.A.
+United States Court of Appeals, Second Circuit. | June 2, 2016 | 824 F.3d 308 | 2016 WL 3093243
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by New York ex rel. Rasmusen v. Citigroup Inc., S.D.N.Y., December 2, 2016
+
+standard Citation:
+
+New York ex rel. Jacobson v. Wells Fargo Nat’l Bank, N.A., 824 F.3d 308 (2d Cir. 2016)
+
+All Citations:
+
+824 F.3d 308, 117 A.F.T.R.2d 2016-1977
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by New York ex rel. Rasmusen v. Citigroup Inc., S.D.N.Y., December 2, 2016
+824 F.3d 308
+United States Court of Appeals,
+Second Circuit.
+State of NEW YORK and City of New York EX REL. Elizabeth A. JACOBSON, Plaintiffs–Appellants,
+v.
+WELLS FARGO NATIONAL BANK, N.A. and Wells Fargo Asset Securities Corporation, Defendants–Appellees.*
+Docket No. 15-1152
+|
+August Term, 2015
+|
+Argued: November 20, 2015
+|
+Decided: June 2, 2016
+Synopsis
+Background: Relator filed qui tam action in state court on behalf of state and city, pursuant to the New York False Claims Act (FCA), alleging that banks filed fraudulent federal tax forms to claim Real Estate Mortgage Investment Conduit (REMIC) tax exemptions for trusts used to issue mortgage-backed securities, and that, because New York law exempted from state and city taxation an entity that was treated as a REMIC for federal income tax purposes, the banks thereby fraudulently avoided paying state and city taxes. Action was removed to federal court. The United States District Court for the Southern District of New York, Vernon S. Broderick, J., denied relator’s motion to remand the action to state court, and dismissed the action. Relator appealed.
+ 
+Holdings: The Court of Appeals, Kearse, Circuit Judge, held that:
+ 
+[1] federal-question jurisdiction was warranted over action, and
+ 
+[2] trusts contained “qualified mortgages” as required to support their designation by banks as tax-exempt REMICs.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (10)
+
+
+[1]
+
+Federal CourtsPleadings and Motions
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(E)Objections, Proceedings, and Determination
+170Bk2348Pleadings and Motions
+170Bk2349In general
+
+
+Federal-question jurisdiction is invoked by and large by plaintiffs pleading a cause of action created by federal law. 28 U.S.C.A. § 1331.
+4 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsState-law claims and causes of action
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(A)In General
+170Bk2215State Matters, and Relation of Federal Matters Thereto
+170Bk2217State-law claims and causes of action
+
+
+In certain cases federal-question jurisdiction will lie over state-law claims that implicate significant federal issues. 28 U.S.C.A. § 1331.
+Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsState-law claims and causes of action
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(A)In General
+170Bk2215State Matters, and Relation of Federal Matters Thereto
+170Bk2217State-law claims and causes of action
+
+
+Federal jurisdiction over a state law claim will lie if a federal issue is: (1) necessarily raised, (2) actually disputed, (3) substantial, and (4) capable of resolution in federal court without disrupting the federal-state balance approved by Congress; where all four of these requirements are met, federal jurisdiction is proper because there is a serious federal interest in claiming the advantages thought to be inherent in a federal forum, which can be vindicated without disrupting Congress’s intended division of labor between state and federal courts. 28 U.S.C.A. § 1331.
+5 Cases that cite this headnote
+
+
+
+[4]
+
+Federal CourtsState-law claims and causes of action
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(A)In General
+170Bk2215State Matters, and Relation of Federal Matters Thereto
+170Bk2217State-law claims and causes of action
+
+
+A state-law claim necessarily raises federal questions, as required to support federal-question jurisdiction, where the claim is affirmatively premised on a violation of federal law. 28 U.S.C.A. § 1331.
+5 Cases that cite this headnote
+
+
+
+[5]
+
+Federal CourtsState-law claims and causes of action
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(A)In General
+170Bk2215State Matters, and Relation of Federal Matters Thereto
+170Bk2217State-law claims and causes of action
+
+
+State-law claims do not necessarily raise federal questions, as required to invoke federal-question jurisdiction, where all of the plaintiff’s claims seek relief under state law and none necessarily raises a federal issue. 28 U.S.C.A. § 1331.
+5 Cases that cite this headnote
+
+
+
+[6]
+
+Federal CourtsState-law claims and causes of action
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(A)In General
+170Bk2215State Matters, and Relation of Federal Matters Thereto
+170Bk2217State-law claims and causes of action
+
+
+The “actually disputed” factor of the test for federal-question jurisdiction over a state-law claim is satisfied when the federal issue is the only or the central point in dispute. 28 U.S.C.A. § 1331.
+1 Cases that cite this headnote
+
+
+
+[7]
+
+Federal CourtsState-law claims and causes of action
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(A)In General
+170Bk2215State Matters, and Relation of Federal Matters Thereto
+170Bk2217State-law claims and causes of action
+
+
+In order to satisfy the substantial federal issue requirement for federal-question jurisdiction over a state-law claim, that is, to present a legal issue that implicates a serious federal interest in claiming the advantages thought to be inherent in a federal forum, it is not enough that the federal issue be significant to the particular parties in the immediate suit; rather, the substantiality inquiry looks instead to the importance of the issue to the federal system as a whole. 28 U.S.C.A. § 1331.
+2 Cases that cite this headnote
+
+
+
+[8]
+
+Federal CourtsState-law claims and causes of action
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(A)In General
+170Bk2215State Matters, and Relation of Federal Matters Thereto
+170Bk2217State-law claims and causes of action
+
+
+The requirement that the exercise of federal-question jurisdiction over a state law claim not disturb any congressionally approved balance of state and federal judicial responsibilities, focuses principally on the nature of the claim, the traditional forum for such a claim, and the volume of cases that would be affected; absent a special state interest in a category of litigation, or an express congressional preference to avoid federal adjudication, federal questions that implicate substantial federal interests will often be appropriately resolved in federal rather than state court. 28 U.S.C.A. § 1331.
+Cases that cite this headnote
+
+
+
+[9]
+
+Federal CourtsMortgages, liens, and security interests
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(B)Particular Cases, Contexts, and Questions
+170Bk2272Trade or Business
+170Bk2279Mortgages, liens, and security interests
+
+
+Federal-question jurisdiction was warranted for qui tam action brought under the New York False Claims Act (FCA), alleging that banks filed fraudulent federal tax forms to claim Real Estate Mortgage Investment Conduit (REMIC) tax exemptions for trusts used to issue mortgage-backed securities, and that, because New York law exempted from state and city taxation an entity that was treated as an REMIC for federal income tax purposes, the banks thereby fraudulently avoided paying state and city taxes; although only state-law cause of action was asserted, central issue of case was whether trusts qualified as valid REMICs under federal tax code, the issue was actually disputed by the parties, the issue was substantial, as it implicated interpretation of federal tax code provision, and exercising federal jurisdiction would not upset the federal-state judicial balance, as New York state evinced no interest in enacting any law governing REMICs that deviated in any manner from the federal tax code, and federal jurisdiction would affect only a tiny fraction of state false-claim action. 26 U.S.C.A. §§ 860D(a)(4), 860G(a)(3)(A); 26 C.F.R. § 1.860G-2(f)(2); 28 U.S.C.A. § 1331; N.Y. State Finance Law § 187 et seq.; N.Y. Tax Law § 8.
+2 Cases that cite this headnote
+
+
+
+[10]
+
+Internal RevenueCertain Other Organizations
+StatesMaking or presentation of false claims
+TaxationCorporate franchises and privileges
+TaxationExemptions
+
+
+220Internal Revenue
+220VIncome Taxes
+220V(T)Certain Other Organizations
+220k3995In general
+360States
+360VClaims Against State
+360k188Making or presentation of false claims
+371Taxation
+371IIIProperty Taxes
+371III(D)Corporations and Corporate Stock and Property
+371k2233Corporate franchises and privileges
+371Taxation
+371VIIIIncome Taxes
+371VIII(E)Deductions, Credits, and Exemptions
+371k3518Exemptions
+371k3519In general
+
+
+Trusts used to issue mortgage-backed securities contained “qualified mortgages” as required to support their designation by banks as tax-exempt Real Estate Mortgage Investment Conduits (REMIC), under the federal tax code, and thus, banks did not fraudulently avoid paying state and city taxes based on the REMIC designation, as would support qui tam action brought on behalf of state and city under New York False Claims Act (FCA); although relator asserted that defaults in the mortgages in the trusts were eminently foreseeable because the mortgagors’ financial circumstances had been overstated and that the banks’ conduct in issuing the mortgage loans did not conform to custom, there was no allegation that any of the mortgages in the trusts were not principally secured by an interest in real property, which was all that federal tax code required. 26 U.S.C.A. §§ 860D(a)(4), 860G(a)(3)(A); 26 C.F.R. § 1.860G-2(f)(2); N.Y. Tax Law § 8; N.Y. State Finance Law § 187 et seq.
+Cases that cite this headnote
+
+
+
+*310 Appeal from a judgment of the United States District Court for the Southern District of New York, Vernon S. Broderick, Judge, dismissing pursuant to Fed. R. Civ. P. 12(b)(6) a qui tam action brought on behalf of the State and City of New York under the New York False Claims Act (“NYFCA”). The complaint, originally filed in state court, alleged that defendants filed fraudulent federal tax forms to claim Real Estate Mortgage Investment Conduit (“REMIC”) tax exemptions for trusts used to issue mortgage-backed securities, and that, because New York law exempts from State and City taxation an entity that is treated as a REMIC for federal income tax purposes, defendants thereby fraudulently avoided paying State and City taxes. Plaintiff Jacobson challenges the ruling that the complaint failed to state a claim under the NYFCA, arguing that the district court misinterpreted federal tax law; she also challenges the denial of her motion to remand the action to state court, arguing that the district court erred in ruling that the complaint, although pleading only state-law claims, raised federal-law issues that justified federal-question jurisdiction, see Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing, 545 U.S. 308, 125 S.Ct. 2363, 162 L.Ed.2d 257 (2005).
+Affirmed.
+Attorneys and Law Firms
+Geoffrey G. Bestor, Washington, D.C. (The Bestor Law Office, Washington, D.C.; Jonathan K. Tycko, Lorenzo B. Cellini, Tycko & Zavareei, Washington D.C.; Peter J. Gallagher, Julie Martin, Johnson Gallagher Magliery, New York, New York, on the brief), for Plaintiff–Appellant Jacobson.
+Daniel B. Rapport, New York, New York (Eric Seiler, Sarah F. Foley, Friedman Kaplan Seiler & Adelman, New York, New York, on the brief), for Defendants–Appellees.
+Before: KEARSE, RAGGI, and WESLEY, Circuit Judges.
+Opinion
+KEARSE, Circuit Judge:
+
+Plaintiff Elizabeth A. Jacobson appeals from a judgment of the United States District Court for the Southern District of New York, Vernon S. Broderick, Judge, dismissing pursuant to Fed. R. Civ. P. 12(b)(6) her qui tam complaint asserting two claims under the New York False Claims Act (or “NYFCA”), N.Y. State Fin. Law § 187 et seq. (McKinney Supp. 2012), on behalf of the State of New York (“State”) and the City of New York (“City”) (collectively “New York”) against defendants Wells Fargo National Bank, N.A., and Wells Fargo Asset Securities Corporation (collectively “Wells Fargo”) for fraudulent avoidance of New York tax obligations. The action was originally filed in State Supreme Court and was removed by defendants to federal court. The complaint alleged that Wells Fargo, having created trusts to pool residential mortgages for the purpose of issuing mortgage-backed securities, filed false Real Estate Mortgage Investment Conduit (“REMIC”) income tax returns with the Internal Revenue Service (“IRS”) to claim federal income tax exemptions for those trusts, see 26 U.S.C. §§ 860A-860G (2012); it alleged that because New York law exempts a trust from State and City taxation if it is treated as a REMIC for federal income tax purposes, the false federal filings meant that defendants also fraudulently avoided paying New York taxes. The district court denied a motion by Jacobson to *311 remand the action to state court for lack of subject matter jurisdiction, ruling that although the complaint asserted claims only under the New York False Claims Act, it was based on federal-law issues that justified federal-question jurisdiction, see, e.g., Gunn v. Minton, ––– U.S. ––––, 133 S.Ct. 1059, 185 L.Ed.2d 72 (2013); Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing, 545 U.S. 308, 125 S.Ct. 2363, 162 L.Ed.2d 257 (2005). The court granted defendants’ motion to dismiss the complaint for failure to state a claim, ruling that the alleged fraudulent conduct was insufficient, in light of the relevant provisions of the Internal Revenue Code (or “Code”) and the regulations thereunder, to deprive the trusts of REMIC status for federal income tax purposes. The complaint thus failed to allege plausibly that the trusts were not entitled to the New York tax exemptions and, accordingly, it failed to state a claim on which relief could be granted under the NYFCA. Jacobson challenges both rulings, contending that the district court erred in evaluating the importance of the federal tax issue and in interpreting the federal tax laws. For the reasons that follow, we agree with the rulings of the district court and affirm the judgment.
+ 
+
+I. BACKGROUND
+The present action concerns Wells Fargo’s securitization of residential mortgages by pooling them and placing them in trusts, ownership interests in which can be sold to investors. (See Complaint ¶ 1.) See generally BlackRock Financial Management Inc. v. Segregated Account of Ambac Assurance Corp., 673 F.3d 169, 173 (2d Cir. 2012) (In the securitization process, “a mortgage lender sells pools of mortgages into trusts created to receive the stream of interest and principal payments from the mortgage borrowers. The right to receive trust income is parceled into certificates and sold to investors, called certificateholders.”). If such a trust is a REMIC and files an IRS Form 1066 each year, its income is taxable only to the certificateholders; the REMIC itself is exempt from federal income taxation (see Complaint ¶ 71). See 26 U.S.C. §§ 860A(a), (b).
+ 
+A REMIC is exempt from federal income taxation only “as long as the mortgages deposited in the REMIC are ‘qualified mortgages’ under federal tax law and regulation” (Complaint ¶ 1); see 26 U.S.C. § 860D(a)(4). A “ ‘qualified mortgage’ ” is defined in the Internal Revenue Code, in pertinent part, as “any obligation (including any participation or certificate of beneficial ownership therein) which is principally secured by an interest in real property.” Id. § 860G(a)(3).
+ 
+Under New York law, “[a]n entity that is treated for federal income tax purposes as a real estate mortgage investment conduit, hereinafter referred to as a REMIC, as such term is defined in section 860D of the internal revenue code,” is also “exempt from all [New York] taxation.” N.Y. Tax Law § 8 (McKinney 2005); N.Y.C. Admin. Code § 11-122 (2012).
+ 
+
+A. The Present Qui Tam Complaint
+The complaint alleged that in 2005-2007, “Wells Fargo securitized over $12 billion of subprime and other non-conforming mortgages into REMICs” and that it sold substantially more than $26 billion of other such mortgages to other institutions for securitization into REMICs. (Complaint ¶ 2; see also id. ¶¶ 62-65). Each Wells Fargo trust annually filed a Form 1066 with the IRS in order to claim REMIC tax exemptions. (See id. ¶ 82.)
+ 
+However, the complaint alleged, “[m]any, if not most, of the mortgages in the REMICs contained false information fabricated by Wells Fargo” (id. ¶ 3). The *312 allegedly fraudulent practices included “fabricat[ing borrowers’] income and employment information”; inflating borrowers’ stated assets to levels sufficient to correspond to the amounts of principal, interest, taxes, and insurance that would be due on their loans, without determining the borrowers’ actual assets; and the “[f]orging of W-2s and credit reports.” (Id.; see, e.g., id. ¶¶ 23-45.) The complaint alleged that because of these fraudulent practices the Wells Fargo mortgages were not “qualified mortgages” for REMIC purposes because they were “defective obligation[s]” within the meaning of federal tax law (id. ¶¶ 75-77).
+ 
+Federal regulations define “defective obligation” to include a “mortgage [that] is in default” or as to which “a default ... is reasonably foreseeable”; or a “mortgage [that] was not in fact principally secured by an interest in real property”; or a “mortgage [that] does not conform to a customary representation or warranty given by the sponsor or prior owner of the mortgage regarding the characteristics of the mortgage,” 26 C.F.R. §§ 1.860G-2(f)(1)(i), (iii), and (iv) (2015). (See Complaint ¶ 75.) The complaint alleged that given the Wells Fargo falsifications and inflations as to the income and assets of borrowers who “could not afford” the mortgages, “[d]efault on mortgages fraudulently originated as described above was eminently foreseeable.” (Id. ¶ 76.) It also alleged that since it is a federal crime to provide false information on a loan application to an FDIC-insured bank, Wells Fargo’s conduct did not conform to the required “customary representation [s]” that, inter alia, the loans in the REMIC “complied in all material respects with applicable federal, state, and local laws.” (Id. ¶ 77; see also id. ¶¶ 78-79.) The complaint alleged that “[a]s a result, the trusts created to securitize Wells Fargo’s subprime mortgages did not and do not qualify as REMICs under federal law. Since the trusts’ tax exemption under New York [State] and New York City law depends on their qualification as REMICs under federal law, the trusts are liable to [sic] New York [State] and New York City tax” (id. ¶ 80) on the net interest they received on the mortgages (see id. ¶ 84).
+ 
+Having claimed the federal tax exemption as REMICs, the trusts did not pay New York taxes; but, the complaint alleged, their annual filings of “IRS Form 1066 in order to claim the REMIC tax exemption .... were false because the trusts did not qualify as REMICs” (id. ¶ 82). It alleged that Wells Fargo thus violated the NYFCA because it “ ‘knowingly ma[de], use[d], or cause[d] to be made or used, a false record or statement material to an obligation to pay or transmit money or property,’ i.e., business franchise and corporate taxes, to the State and City of New York” (id. ¶ 83 (quoting N.Y. State Fin. Law § 189(1)(g)); see id. ¶ 91), and “conspired to commit a violation of ... § 189(1)(g)” (id. ¶ 95), see N.Y. State Fin. Law § 189(1)(c). The complaint estimated “very rough[ly]” (Complaint ¶ 87) that the Wells Fargo trusts’ unpaid New York tax obligations total $1.5 billion. (See id. ¶ 88-89.) It sought, inter alia, treble damages.
+ 
+
+B. Proceedings in the District Court
+Jacobson commenced this qui tam action in state court in 2012. Although the NYFCA permits the State’s attorney general to, inter alia, intervene in the action or authorize a local government to do so, he has declined to do either.
+ 
+Wells Fargo timely removed the action to federal court pursuant to 28 U.S.C. §§ 1441 and 1446, on the premise that although the complaint asserted causes of action only under New York law, the claims necessarily implicated substantial *313 issues of federal tax law and therefore arose under federal law within the meaning of 28 U.S.C. §§ 1331 and 1340. Jacobson moved to remand the action to state court, arguing that the operation of the New York False Claims Act is purely a matter of State law and that the federal questions involved in the case did not suffice to bring the case within federal jurisdiction.
+ 
+The district court denied Jacobson’s motion to remand, citing principally Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing, 545 U.S. 308, 125 S.Ct. 2363, 162 L.Ed.2d 257 (2005) (“Grable”); Empire HealthChoice Assurance, Inc. v. McVeigh (“Empire”), 547 U.S. 677, 126 S.Ct. 2121, 165 L.Ed.2d 131 (2006); and Franchise Tax Board v. Construction Laborers Vacation Trust for Southern California, 463 U.S. 1, 103 S.Ct. 2841, 77 L.Ed.2d 420 (1983) (“Franchise Tax Board”). In a Memorandum and Order dated June 16, 2014 (“2014 D.Ct. Ord.”), the court explained:
+Although Plaintiff does not raise a federal cause of action, her claims necessarily raise a disputed, substantial federal issue because the parties’ dispute hinges on whether the loans are “qualified mortgages” as defined by the Federal Tax Code, and thus should be treated for federal income tax purposes as REMICs in accordance with federal law.
+2014 D.Ct. Ord. at 4 (emphases added); see, e.g., id. (Jacobson “essentially concedes in her Complaint ... that it is the interpretation of the federal tax code and regulations that govern[s] whether a REMIC will be exempt from state and local taxes”). The court acknowledged the State and City interests, but it noted that the State had neither brought suit nor elected to intervene in the present action, which diminished concerns about comity and the state-federal balance. See id. at 6.
+ 
+Wells Fargo then moved to dismiss the complaint for, inter alia, failure to state a claim, arguing that even assuming the truth of Jacobson’s factual allegations, those facts did not deprive the trusts of their status as REMICs because the alleged frauds would not mean that the trusts’ mortgages were not qualified mortgages within the meaning of the federal tax laws and regulations. Accordingly, Wells Fargo argued, the Form 1066s filed by the trusts did not misrepresent the trusts’ status or entitlement to file those forms, and the forms did not contain or represent false statements.
+ 
+In opposition, Jacobson argued principally that the mortgages held by the Wells Fargo trusts were “defective obligations” within the meaning of the REMIC regulations in the two respects alleged in the complaint, i.e., that defaults on those mortgages were reasonably foreseeable because Wells Fargo falsified the financial conditions of unqualified borrowers who could not actually afford the loans, and that the mortgages did not conform to the customary representations or warranties given with regard to the mortgages’ characteristics. Jacobson also argued that it would be inequitable to allow Wells Fargo to profit—by escaping taxation—as a result of its fraudulent conduct in connection with the mortgage origination process.
+ 
+In a Memorandum and Order dated March 19, 2015 (“2015 D.Ct. Ord.” or “2015 Order”) the district court granted the Wells Fargo motion to dismiss, concluding that under federal tax law, alleged frauds with respect to the origination and underwriting of mortgages “do not affect the mortgages’ status as qualified mortgages,” 2015 D.Ct. Ord. at 17, and hence do not deprive a trust holding those mortgages of REMIC status, see id. at 14–18. The court noted that
+*314 [u]nder the Internal Revenue Code, a REMIC is defined, in pertinent part, as any entity “substantially all of the assets of which consist of qualified mortgages and permitted investments.” 26 U.S.C. § 860D(a)(4). The statute further defines a “qualified mortgage,” in pertinent part, as “any obligation (including any participation or certificate of beneficial ownership therein) which is principally secured by an interest in real property.” Id. § 860G(a)(3)(A).
+2015 D.Ct. Ord. at 11 (emphases ours). The court reasoned that the “defective obligation” concept relied on by Jacobson—a term not defined in the Code but defined in the regulations—principally concerns issues other than the nature of the property securing the loan. In defining defective obligations and outlining their effects and/or cures, the pertinent regulation did not purport to modify the Code definition of qualified mortgages. Rather, the “definition of a defective obligation applies,” by its terms,
+only “[f]or purposes of [26 U.S.C. §§] 860G(a)(4)(B)(ii) and 860F(a)(2),” which are sections of the statute that discuss the substitution or repurchase of defective obligations. The definition of a defective obligation does not refer to the portion of the statute that defines a “qualified mortgage,” 26 U.S.C. § 860G(a)(3)(A).... [N]othing in the regulation alters or evinces any intent to alter the statutory definition of a qualified mortgage.
+2015 D.Ct. Ord. at 15 (emphasis added). Moreover,
+[t]he text of the regulation makes clear that only some defects render a mortgage not qualified. If a REMIC discovers a “defect ... that, had it been discovered before the startup day, would have prevented the obligation from being a qualified mortgage, then, unless the REMIC either causes the defect to be cured or disposes of the defective obligation within 90 days of discovering the defect, the obligation ceases to be a qualified mortgage at the end of that 90 day period.” 26 C.F.R. § 1.860G-2(f)(2).... By contrast, if a REMIC discovers a defect “that does not affect the status of an obligation as a qualified mortgage, then the obligation is always a qualified mortgage regardless of whether the defect is or can be cured.” Id.
+2015 D.Ct. Ord. at 14 (first emphasis in D.Ct. Op; second emphasis ours).
+ 
+As the complaint did not allege that the Wells Fargo loans were in fact not principally secured by interests in real property, the court concluded that it failed to allege that the Wells Fargo trust assets did not meet the statutory definition of qualified mortgage, and hence failed to allege that the trusts themselves were not entities “substantially all of the assets of which consist of qualified mortgages and permitted investments”—the relevant feature of a REMIC, 26 U.S.C. § 860D(a)(4). Since New York law exempts trusts from paying New York income tax if they are treated as REMICs under federal law, the court concluded that the complaint failed to allege that defendants made or used a false statement or record to avoid paying New York taxes and, accordingly, failed to state a claim on which relief can be granted under the New York False Claims Act.
+ 
+
+II. DISCUSSION
+On appeal, Jacobson contends principally (1) that the district court erred in denying her motion to remand the action to state court for lack of federal-question jurisdiction, arguing that the federal issue here is not substantial and that the exercise of federal jurisdiction would upset the state-federal balance; and (2) that the *315 district court erred in dismissing the complaint because it misinterpreted the federal tax provisions governing REMICs. Reviewing both rulings de novo, see, e.g., Blockbuster, Inc. v. Galeno, 472 F.3d 53, 56 (2d Cir. 2006) (subject matter jurisdiction); Gibbons v. Malone, 703 F.3d 595, 599 (2d Cir. 2013) (failure to state a claim), we disagree.
+ 
+
+A. Federal Question Jurisdiction
+[1] [2]The federal district courts have “original jurisdiction” of civil actions “arising under” federal law, 28 U.S.C. § 1331; and unless otherwise provided by Congress, they have removal jurisdiction over “any civil action brought in a State court of which the district courts of the United States have original jurisdiction,” id. § 1441(a). “This provision for federal-question jurisdiction is invoked by and large by plaintiffs pleading a cause of action created by federal law....” Grable, 545 U.S. at 312, 125 S.Ct. 2363. In addition,
+[t]here is ... another longstanding, if less frequently encountered, variety of federal “arising under” jurisdiction, th[e Supreme] Court having recognized for nearly 100 years that in certain cases federal-question jurisdiction will lie over state-law claims that implicate significant federal issues. E.g., Hopkins v. Walker, 244 U.S. 486, 490-491[, 37 S.Ct. 711, 61 L.Ed. 1270] (1917). The doctrine captures the commonsense notion that a federal court ought to be able to hear claims recognized under state law that nonetheless turn on substantial questions of federal law, and thus justify resort to the experience, solicitude, and hope of uniformity that a federal forum offers on federal issues, see ALI, Study of the Division of Jurisdiction Between State and Federal Courts 164-166 (1968).
+Grable, 545 U.S. at 312, 125 S.Ct. 2363 (emphasis added). This doctrine is applied in only “a ‘special and small category’ of cases.” Gunn v. Minton, ––– U.S. ––––, 133 S.Ct. 1059, 1064, 185 L.Ed.2d 72 (2013) (quoting Empire, 547 U.S. at 699, 126 S.Ct. 2121); see also NASDAQ OMX Group, Inc. v. UBS Securities, LLC, 770 F.3d 1010, 1019 (2d Cir. 2014) (“NASDAQ”) (“[T]he Supreme Court has been sparing in recognizing state law claims fitting this criterion.”).
+ 
+[3]In Grable, the Court framed the proper inquiry as “[whether] a state-law claim necessarily raise[s] a stated federal issue, actually disputed and substantial, which a federal forum may entertain without disturbing any congressionally approved balance of federal and state judicial responsibilities,” 545 U.S. at 314, 125 S.Ct. 2363, leading the Court in Gunn to state the following four-factor test:
+[F]ederal jurisdiction over a state law claim will lie if a federal issue is: (1) necessarily raised, (2) actually disputed, (3) substantial, and (4) capable of resolution in federal court without disrupting the federal-state balance approved by Congress,
+Gunn, 133 S.Ct. at 1065. “Where all four of these requirements are met, ... jurisdiction is proper because there is a ‘serious federal interest in claiming the advantages thought to be inherent in a federal forum,’ which can be vindicated without disrupting Congress’s intended division of labor between state and federal courts.” Id. (quoting Grable, 545 U.S. at 313–14, 125 S.Ct. 2363).
+ 
+[4] [5] [6]The first two elements of the Grable–Gunn test are relatively straightforward. A state-law claim “necessarily” raises federal questions where the claim is affirmatively “premised” on a violation of federal law. Grable, 545 U.S. at 314, 125 S.Ct. 2363. In contrast, this first element is *316 not present where “all [of the plaintiff’s] claims s[eek] relief under state law and none necessarily raise[s] a federal issue.” Merrill Lynch, Pierce, Fenner & Smith Inc. v. Manning, ––– U.S. ––––, 136 S.Ct. 1562, 1575, 194 L.Ed.2d 671 (2016). As to the second element, although there could be a case in which the court would need to fathom whether a purported dispute is genuine, there can be no doubt that the “actually disputed” factor of the test is satisfied when the federal issue is “the only” or “the central” point in dispute. Grable, 545 U.S. at 315, 125 S.Ct. 2363 (“the only”); Gunn, 133 S.Ct. at 1065 (“the central”).
+ 
+[7]Third, in order to satisfy the Grable–Gunn “substantial” federal issue requirement, i.e., to present a legal issue that implicates “a serious federal interest in claiming the advantages thought to be inherent in a federal forum,” Grable, 545 U.S. at 313, 125 S.Ct. 2363,
+it is not enough that the federal issue be significant to the particular parties in the immediate suit; that will always be true when the state claim “necessarily raise[s]” a disputed federal issue, as Grable separately requires. The substantiality inquiry under Grable looks instead to the importance of the issue to the federal system as a whole,
+Gunn, 133 S.Ct. at 1066 (emphasis omitted).
+ 
+[8]The fourth Grable–Gunn requirement, i.e., that the exercise of federal-question jurisdiction over a state law claim not disturb any congressionally approved balance of state and federal judicial responsibilities, focuses principally on the nature of the claim, the traditional forum for such a claim, and the volume of cases that would be affected. Absent a special state interest in a category of litigation, or an express congressional preference to avoid federal adjudication, federal questions that implicate substantial federal interests will often be appropriately resolved in federal rather than state court. In Smith v. Kansas City Title & Trust Co., 255 U.S. 180, 41 S.Ct. 243, 65 L.Ed. 577 (1921)—described in Grable as a “classic example” of a case in which federal jurisdiction is appropriate, Grable, 545 U.S. at 312, 125 S.Ct. 2363—the exercise of federal jurisdiction was warranted despite the fact that “Missouri law provided the cause of action,” id. as the central question in Smith was whether the issuance of certain bonds by the federal government was unconstitutional. In Grable itself, the exercise of federal jurisdiction was found warranted for a quiet-title action based on an IRS seizure and sale of property after giving actual notice but without strict compliance with the notice provision set out in the Internal Revenue Code. The Court noted that the meaning of that provision was “an important issue of federal law that sensibly belongs in a federal court”; that it is “the rare state title case that raises a contested matter of federal law”; and that “federal jurisdiction to resolve genuine disagreement over federal tax title provisions will portend only a microscopic effect on the federal-state division of labor.” Grable, 545 U.S. at 315, 125 S.Ct. 2363.
+ 
+In other cases, the scales have been found to tip in the other direction. See, e.g., Merrell Dow Pharmaceuticals Inc. v. Thompson, 478 U.S. 804, 810–12, 106 S.Ct. 3229, 92 L.Ed.2d 650 (1986) (federal-question jurisdiction not warranted for state-law tort claims asserting the defendant’s violation of a federal misbranding statute for which Congress had provided no private right of action, given the potentially enormous shift of traditionally state cases to the federal courts); Empire, 547 U.S. at 700–01, 126 S.Ct. 2121 (federal-question jurisdiction not warranted for federally contracted insurer’s suit seeking, as reimbursement *317 for its payment of the insured’s medical expenses, part of the settlement received by the insured in a state-law personal-injury action against a third party); Franchise Tax Board, 463 U.S. at 24–27, 103 S.Ct. 2841 (federal-question jurisdiction not warranted for state agency’s suit for a judgment declaring that the Employee Retirement Income Security Act (“ERISA”) did not bar its attempt to collect unpaid state income taxes by levying on funds held for the taxpayer in an ERISA-covered benefit plan, because ERISA’s authorization for declaratory judgment actions did not extend to suits by such an agency, and hence the question did not “ ‘arise under’ ” ERISA); Gunn, 133 S.Ct. at 1067-68 (federal-question jurisdiction not warranted for malpractice claims arising out of patent litigation because the determination of hypothetical patent law issues insufficiently implicated a federal interest, especially in light of state courts’ role as the traditional forum for malpractice cases).
+ 
+This Court has found federal issues to be sufficiently substantial and consistent with the federal-state judicial balance to warrant federal-question jurisdiction over state-law claims involving federal laws requiring cable television operators, with certain exceptions, to provide uniform rates over certain geographic areas, see Broder v. Cablevision Systems Corp., 418 F.3d 187, 195-96 (2d Cir. 2005), and state-law claims premised on the “singular duty” of a national securities exchange “to operate a fair and orderly market” under the Securities Exchange Act, NASDAQ, 770 F.3d at 1021.
+ 
+[9]In the present case, there is no disagreement as to the satisfaction of the first two elements of the Grable–Gunn test, i.e., that a federal issue be necessarily raised and actually disputed. (See, e.g., Jacobson brief on appeal at 27; Wells Fargo brief on appeal at 25.). Nor could there be. As described in Part I.A. above, the complaint predicated liability on the assertion that IRS Form 1066 filings were false because—and only because—the Wells Fargo trusts did not qualify for the REMIC status they obtained under federal law. (See Complaint ¶¶ 80, 82.) Thus, in order to establish a false statement or record within the meaning of the NYFCA, Jacobson must prove at least that the trusts did not qualify under federal law. Further, this issue is obviously disputed, as the central premise of Wells Fargo’s motion to dismiss was that the trusts did qualify under federal law, properly interpreted.
+ 
+The issue is also substantial within the meaning of the Grable–Gunn test. A REMIC is a creature of federal law that accords favorable tax treatment to investments in mortgage-backed securities by allowing mortgage-pooling entities to issue multiple classes of securities without being taxed both at the entity level and at the investor level. See H.R. Conf. Rep. No. 99-841, at 239 (1986), reprinted in 1986 U.S.C.C.A.N. 4075, 4327 (“The conferees intend that REMICs are to be the exclusive means of issuing multiple class real estate mortgage-backed securities without the imposition of two levels of taxation.”). An important purpose of the REMIC legislation was to provide clear rules; “clarify[ing] the tax treatment of mortgage-backed securities,” according to its sponsor, was intended to “facilitate investments in mortgages and thereby reduce mortgage interest costs for home buyers.” Review of Tax Treatment of Mortgage–Related Securities and Environmental Zone Legislation: Hearing on S. 1839, S. 1959, and S. 1978 Before the Subcomm. on Taxation and Debt Management of the S. Comm. on Finance, 99th Cong. 2 (1986) (statement of Sen. Chafee); see also S. Rep. No. 99-313, at 792 (1986) (Senate Committee on Finance noting that the *318 REMIC provisions “should be flexible enough to accommodate most legitimate business concerns while preserving the desired certainty of income tax treatment”). The statute, the implementing regulations, and the additional regulatory guidance, see, e.g., Rev. Proc. 2009-45, 2009-40 I.R.B. 471 (declaring that IRS will not challenge tax-exempt status of REMICS on the basis of mortgage modifications under certain conditions); I.R.S. Priv. Ltr. Rul. 201601005 (Dec. 31, 2015) (ruling on effect of litigation settlement on REMIC taxation), are necessarily complex, and they govern what is now a trillion-dollar national market in mortgage-backed securities. Many major financial institutions have (presumably using the REMIC structure) issued multiple-tranche mortgage-backed securities and potentially have stakes similar to that of Wells Fargo in the meaning of the REMIC regulations. See, e.g., Federal Housing Finance Agency v. Nomura Holding America, Inc., 104 F.Supp.3d 441, 453 (S.D.N.Y. 2015) (noting consolidation of sixteen actions against various defendants arising out of issuance of mortgage-backed securities). Here, Jacobson’s claims raise a threshold question of law relating to mortgage-backed securities generally, i.e., whether all defects described in 26 C.F.R. § 1.860G-2(f)(1) deprive an instrument of its qualified-mortgage status under 26 U.S.C. § 860G(a)(3)(A). See Grable, 545 U.S. at 315, 125 S.Ct. 2363 (“The meaning of the federal tax provision is an important issue of federal law that sensibly belongs in a federal court.”); Fracasse v. People’s United Bank, 747 F.3d 141, 145 (2d Cir. 2014) (“[A] pure question of law is more likely to be a substantial federal question.” (internal quotation marks omitted)). Thus, minimizing uncertainty over the tax treatment of mortgage-backed securities, as Congress intended, fully “justif[ies] resort to the experience, solicitude, and hope of uniformity that a federal forum offers on federal issues,” Grable, 545 U.S. at 312, 125 S.Ct. 2363.
+ 
+Finally, exercising federal jurisdiction here will not upset the federal-state judicial balance. Although a State undoubtedly has an interest as a litigant in qui tam actions brought on its behalf, state court is not the traditional forum for interpretation of the federal tax laws. And although Jacobson maintains that New York has an interest in determining the meaning of its own tax laws (see Jacobson brief on appeal at 33-34), New York has evinced no interest in enacting any law governing REMICs that deviates in any manner from the Internal Revenue Code. See N.Y. Tax Law § 8 (“[a]n entity ... shall be exempt” if it “is treated ... as a real estate mortgage investment conduit” “for federal income tax purposes”); N.Y.C. Admin. Code § 11-122 (same). It is hardly surprising, therefore, that New York State has expressly indicated a lack of interest in this case, through the attorney general’s notice that he was choosing not to intervene. Nor will federal jurisdiction here affect more than a tiny fraction of state false-claims actions, as it is the rare such action that hinges on the proper interpretation of federal tax law. With no special state interest, and with no indication of congressional preference for state-court adjudication, the exercise of federal jurisdiction in this case is fully consistent with the ordinary division of labor between federal and state courts.
+ 
+
+B. The Insufficiency of the Complaint
+The sections of the New York False Claims Act relied on by the complaint call, in pertinent part, for the imposition of penalties and treble damages against “any person who ... knowingly makes, uses, or causes to be made or used, a false record or statement material to an obligation to pay or transmit money ... to the state or a local government,” *319 N.Y. State Fin. Law § 189(1)(g), and against “any person who ... conspires to commit a violation of paragraph ... (g),” id. § 189(1)(c). New York tax laws provide:
+An entity that is treated for federal income tax purposes as a real estate mortgage investment conduit, hereinafter referred to as a REMIC, as such term is defined in section 860D of the internal revenue code, shall be exempt from all taxation....
+N.Y. Tax Law § 8 (footnote omitted) (emphases added); N.Y.C. Admin. Code § 11-122 (emphases added). Before addressing the proper interpretation of the federal tax provisions, we note a dispute as to the interpretation of these New York tax provisions.
+ 
+As quoted, the New York tax laws state that the exemption is granted to any entity that “is treated” as a REMIC for federal income tax purposes, as defined in § 860D of the Internal Revenue Code. There is a serious question as to whether the complaint stated a claim of NYFCA violations with respect to the New York tax sections—even without regard to the proper interpretation of the federal provisions—for nowhere does the complaint allege that the Wells Fargo trusts were not “treated for federal income tax purposes” as REMICs (emphasis added).
+ 
+In the district court, Jacobson emphasized only the clause that reads “ ‘[a]s such term is defined in section 860D of the internal revenue code,’ ” and she argued that “the natural interpretation” of that “ ‘defined’ ” clause “is that an entity is exempted from New York tax if, and only if, it is a REMIC as defined in section 860D.” (Plaintiff’s Opposition to Defendants’ Motion To Dismiss at 6-7 (emphases added).) Jacobson’s proposed interpretation—for which she cited no authority—entirely disregards the word “treated.” If the New York legislators had intended to provide an exemption if and only if the entity “is” a REMIC within the meaning of the Internal Revenue Code, they could simply have omitted “treated for federal income tax purposes as.”
+ 
+[10]Even assuming that the New York tax provisions are to be interpreted in the way Jacobson proposes, however, her NYFCA claims depend on the interpretation of the federal tax provisions, since she contends that the Wells Fargo trusts are not qualified to be treated as REMICs under the federal regulations. We reject this contention substantially for the reasons stated by the district court in its 2015 Order, at 10-19 (see Part I.B. above).
+ 
+To the extent relevant here, the Internal Revenue Code defines a REMIC as an entity “substantially all of the assets of which consist of qualified mortgages and permitted investments,” 26 U.S.C. § 860D(a)(4). The Code defines “[t]he term ‘qualified mortgage’ ” to include “any obligation (including any participation or certificate of beneficial ownership therein) which is principally secured by an interest in real property” that is acquired by the REMIC within times specified, and “any qualified replacement mortgage.” Id. §§ 860G(a)(3)(A) and (B) (emphases added). It defines “ ‘qualified replacement mortgage[s],’ ” as obligations that would have been “qualified mortgage[s]” if they had been received at the outset and which are received, within specified time periods, in exchange for, inter alia, “defective obligation[s],” id. § 860G(a)(4)(B)(ii).
+ 
+The term “defective obligation” is not defined in the Code. It is defined in the regulations as follows:
+(f) Defective obligations—(1) Defective obligation defined. For purposes of sections 860G(a)(4)(B)(ii) and 860F(a)(2), *320 a defective obligation is a mortgage subject to any of the following defects.
+(i) The mortgage is in default, or a default with respect to the mortgage is reasonably foreseeable.
+(ii) The mortgage was fraudulently procured by the mortgagor.
+(iii) The mortgage was not in fact principally secured by an interest in real property within the meaning of paragraph (a)(1) of this section.
+(iv) The mortgage does not conform to a customary representation or warranty given by the sponsor or prior owner of the mortgage regarding the characteristics of the mortgage, or the characteristics of the pool of mortgages of which the mortgage is a part. A representation that payments on a qualified mortgage will be received at a rate no less than a specified minimum or no greater than a specified maximum is not customary for this purpose.
+26 C.F.R. § 1.860G-2(f)(1) (emphasis added). As to the Code sections for whose purposes this “defective obligation[s]” definition is expressly designed, § 860G(a)(4)(B)(ii) specifies the period within which an obligation must be received in exchange for a defective obligation in order to be considered a qualified replacement mortgage; and § 860F(a)(2) deals with, inter alia, a REMIC sponsor’s repurchase of a qualified mortgage that is a defective obligation, instead of replacing it with a qualified replacement mortgage. “[P]aragraph (a)(1)” of the regulation—cited in subsection 2(f)(1)(iii)’s reference to the “principally secured by ... real property” definition of qualified mortgage—merely provides that the “principally secured” standard generally is met either if the fair market value of the interest in real property securing the obligation was, at the outset, at least 80 percent of the price of the obligation, or if substantially all of the proceeds of the obligation were used to acquire, improve, or protect an interest in real property that at the outset was the only security for the obligation, see 26 C.F.R. § 1.860G-2(a)(1).
+ 
+As the district court noted, nothing in the regulation’s definition of “defective obligation” purports to alter the Internal Revenue Code definition of qualified mortgage as, in pertinent part, an obligation that “is principally secured by an interest in real property,” 26 U.S.C. § 860G(a)(3)(A). And although Jacobson contends that a defect in any of the four categories of defects described in the regulation prevents a mortgage from being a qualified mortgage, only the third category, the defect of “not in fact [being] principally secured by an interest in real property,” 26 C.F.R. § 1.860G-2(f)(1)(iii), has that effect, because that defect is the lack of what the Code definition expressly requires a qualified mortgage to have.
+ 
+Jacobson’s contention that every category of defect deprives a mortgage of qualified-mortgage status is most clearly refuted by the regulation’s provisions as to the effects of and possible cures for “defective obligation [s]”:
+(2) Effect of discovery of defect. If a REMIC discovers that an obligation is a defective obligation, and if the defect is one that, had it been discovered before the startup day, would have prevented the obligation from being a qualified mortgage, then, unless the REMIC either causes the defect to be cured or disposes of the defective obligation within 90 days of discovering the defect, the obligation ceases to be a qualified mortgage at the end of that 90 day period. Even if the defect is not cured, the defective obligation is, nevertheless, a qualified mortgage from the startup day through the end of the 90 day period. *321 Moreover, even if the REMIC holds the defective obligation beyond the 90 day period, the REMIC may, nevertheless, exchange the defective obligation for a qualified replacement mortgage so long as the requirements of section 860G(a)(4)(B) are satisfied. If the defect is one that does not affect the status of an obligation as a qualified mortgage, then the obligation is always a qualified mortgage regardless of whether the defect is or can be cured. For example, if a sponsor represented that all mortgages transferred to a REMIC had a 10 percent interest rate, but it was later discovered that one mortgage had a 9 percent interest rate, the 9 percent mortgage is defective, but the defect does not affect the status of that obligation as a qualified mortgage.
+26 C.F.R. § 1.860G-2(f)(2) (emphasis added). The emphasized sentence in the above quote by its own terms, therefore, reveals that a “defect” may be “one that does not affect the status of an obligation as a qualified mortgage.” Id.
+ 
+The complaint in the present case does not allege that any of the obligations in the Wells Fargo trusts were not principally secured by an interest in real property. The failings alleged in the complaint relate to the assertions that defaults in the mortgages were “eminently foreseeable” because the borrowers’ financial circumstances had been overstated (Complaint ¶ 76), and that Wells Fargo’s conduct did not conform to the required “customary representation[s]” with respect to such mortgages (id. ¶¶ 77-79). Nothing in the Internal Revenue Code or the regulations indicates that these alleged defects affected their status as qualified mortgages. Thus, the complaint did not plausibly allege that the Wells Fargo trusts were not qualified to be treated as REMICs; and, accordingly, it failed to state a claim on which relief could be granted under the NYFCA for any false statement or record affecting the trusts’ entitlement to exemption from income tax under the New York tax laws.
+ 
+
+CONCLUSION
+We have considered all of Jacobson’s arguments on appeal and have found in them no merit. The judgment of the district court is affirmed.
+ 
+All Citations
+824 F.3d 308, 117 A.F.T.R.2d 2016-1977
+Footnotes
+
+*
+
+The Clerk of Court is instructed to amend the official caption to conform with the above.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+1.  New York ex rel. Rasmusen v. Citigroup Inc.  
+220 F.Supp.3d 523 , S.D.N.Y.
+LITIGATION - Removal. New York false claims act complaint did not necessarily raise federal issue, and, thus, remand was warranted for lack of federal question jurisdiction.
+Dec. 02, 2016
+Case
+
+3
+
+
+
+
+5
+
+
+
+
+9
+
+
+
+
+F.3d
+
+

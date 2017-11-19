@@ -1,0 +1,922 @@
+
+
+
+
+
+Function Media, L.L.C. v. Google, Inc.
+United States Court of Appeals, Federal Circuit. | February 13, 2013 | 708 F.3d 1310 | 2013 WL 516366
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by SimpleAir, Inc. v. Microsoft Corp., E.D.Tex., May 21, 2013
+
+standard Citation:
+
+Function Media, L.L.C. v. Google, Inc., 708 F.3d 1310 (Fed. Cir. 2013)
+
+All Citations:
+
+708 F.3d 1310, 105 U.S.P.Q.2d 1754
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by SimpleAir, Inc. v. Microsoft Corp., E.D.Tex., May 21, 2013
+708 F.3d 1310
+United States Court of Appeals,
+Federal Circuit.
+FUNCTION MEDIA, L.L.C., Plaintiff–Appellant,
+v.
+GOOGLE INC., Defendant–Appellee,
+and
+Yahoo! Inc., Defendant.
+No. 2012–1020.
+|
+Feb. 13, 2013.
+Synopsis
+Background: Patentee filed action against competitor alleging infringement of patent on invention to facilitate advertising on multiple advertising outlets such as newspapers and websites. Parties consented to final disposition by magistrate judge. The United States District Court for the Eastern District of Texas, Charles Everingham IV, United States Magistrate Judge, 2011 WL 4017953,granted judgment for competitor in part after jury verdict in its favor in part. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Reyna, Circuit Judge, held that:
+ 
+[1] patent did not provide any disclosure of structure for “transmitting” function, and thus claim was invalid for failure to satisfy definiteness requirement;
+ 
+[2] proving that person of ordinary skill could devise some method to perform “transmitting” function on invention was not sufficient to satisfy patent definiteness requirement;
+ 
+[3] “processing” term in patent meant executing systematic sequence of mathematical or logical operations upon customized electronic advertisement to make it comply with presentation rules of Internet media venues;
+ 
+[4] phrase, “publishing the electronic advertisement to one or more of the selected internet media venues,” in patent meant placing or making available the customized electronic advertisement within the framework of and at each internet media venue so that it is accessible by the end users, consumers, viewers, or buyers;
+ 
+[5] patentee was not required to object to its own testimony on point that was in accord with claim construction that it had proposed and that court had adopted;
+ 
+[6] competitor’s arguments to jury about claim scope did not subvert jury’s ability to fairly decide issues before it;
+ 
+[7] jury verdicts regarding anticipation and patent invalidity were general verdicts, not special verdicts; and
+ 
+[8] argument that jury verdict was result of misapprehension of law, specifically that claims could have one meaning for infringement and another for anticipation, did not amount to clear showing of absolute absence of evidence to support jury’s verdict of infringement, as required for new trial.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (30)
+
+
+[1]
+
+EvidenceProceedings in other courts
+EvidenceOfficial proceedings and acts
+
+
+157Evidence
+157IJudicial Notice
+157k43Judicial Proceedings and Records
+157k43(4)Proceedings in other courts
+157Evidence
+157IJudicial Notice
+157k48Official proceedings and acts
+
+
+Judicial notice may be taken of a decision from another court or agency at any stage of the proceeding, even if it was not available to the lower court.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5)
+
+
+Patent claim construction and indefiniteness determinations are reviewed without deference.
+3 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsHarmless and reversible error
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1972Harmless and reversible error
+(Formerly 291k324.5)
+
+
+If there is an error in patent claim construction, the Court of Appeals independently construes the claim to determine its correct meaning, and then determines if the facts presented at trial can support the appealed judgment.
+4 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsPatentability and Validity
+PatentsInfringement or noninfringement
+PatentsHarmless and reversible error
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(2)Patentability and Validity
+291k1970(3)In general
+(Formerly 291k324.55(3.1))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+(Formerly 291k324.55(5))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1972Harmless and reversible error
+(Formerly 291k324.56)
+
+
+Court of Appeals may affirm a jury’s findings on patent infringement or validity issues if substantial evidence appears in the record supporting the jury’s verdict and if correction of the errors in a jury instruction on claim construction would not have changed the result, given the evidence presented.
+Cases that cite this headnote
+
+
+
+[5]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+In a patent case, for issues not unique to patent law, the Court of Appeals for the Federal Circuit applies the law of the regional circuit in which the appeal otherwise would lie.
+Cases that cite this headnote
+
+
+
+[6]
+
+Federal CourtsInsufficiency of evidence
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3606New Trial, Rehearing, or Reconsideration
+170Bk3606(2)Insufficiency of evidence
+(Formerly 170Bk826)
+
+
+The Fifth Circuit reviews the denial of a motion for new trial brought on the ground that the verdict is against the great weight of the evidence for abuse of discretion, which means that the denial will be affirmed unless there is a clear showing of an absolute absence of evidence to support the jury’s verdict.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+Patent on invention to facilitate advertising on multiple advertising outlets such as newspapers and websites did not provide any disclosure of structure for “transmitting” function, and thus claim was invalid for failure to satisfy definiteness requirement, where there was no specific algorithm disclosed in prose, as mathematical formula, in flow charts, or otherwise; although specification disclosed that structure behind function of transmitting was computer program that transmitted, there was no explanation of how software performed transmission function. 35 U.S.C.(2006 Ed.) § 112.
+19 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+A patent specification must contain sufficient descriptive text by which a person of skill in the field of the invention would know and understand what structure corresponds to a means limitation. 35 U.S.C.(2006 Ed.) § 112.
+5 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+In patent cases involving a special purpose computer-implemented means-plus-function limitation, in order to satisfy the definiteness requirement, courts require that the specification disclose an algorithm for performing the claimed function, and while the specification can express the algorithm in any understandable terms, including as a mathematical formula, in prose, as a flow chart, or in any other manner that provides sufficient structure, simply disclosing software without providing some detail about the means to accomplish the function is not enough. 35 U.S.C.(2006 Ed.) § 112.
+30 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+Proof that person of ordinary skill could devise some method to perform “transmitting” function on invention to facilitate advertising on multiple advertising outlets such as newspapers and websites was not sufficient to satisfy patent definiteness requirement, and thus claim was invalid for failure to provide any disclosure of structure; although patent contained flow charts, charts did not disclose algorithm by which software performed transmission function. 35 U.S.C.(2006 Ed.) § 112.
+9 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+(Formerly 291k101(8))
+
+
+A patentee cannot avoid providing specificity as to structure on a means-plus-function limitation simply because someone of ordinary skill in the art would be able to devise a means to perform the claimed function; to allow that form of claiming would allow the patentee to claim all possible means of achieving a function. 35 U.S.C.(2006 Ed.) § 112.
+25 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+(Formerly 291k101(2))
+
+
+“Processing” term in patent on invention to facilitate advertising on multiple advertising outlets such as newspapers and websites meant executing systematic sequence of mathematical or logical operations upon customized electronic advertisement to make it comply with presentation rules of Internet media venues. 35 U.S.C.(2006 Ed.) § 112.
+Cases that cite this headnote
+
+
+
+[13]
+
+PatentsState of the art
+PatentsPlain, ordinary, or customary meaning in general
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1341State of the art
+(Formerly 291k161)
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1317Plain, ordinary, or customary meaning in general
+(Formerly 291k165(3))
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+(Formerly 291k167(1))
+
+
+The words of a patent claim generally are given their ordinary and customary meaning, which is the meaning that the term would have to a person of ordinary skill in the art in question at the time of the invention; the claims do not stand alone, but, rather, are part of a fully integrated written instrument, consisting principally of a specification that concludes with the claims, and for that reason, the claims must be read in view of the specification, of which they are a part.
+7 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsInstructions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1849Instructions
+(Formerly 291k314(1))
+
+
+A party may not object to the court’s decision to instruct the jury to apply the patent claim construction that it itself proposed.
+2 Cases that cite this headnote
+
+
+
+[15]
+
+Federal CourtsOn appeal from final judgment
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)1In General
+170Bk3543Questions Considered
+170Bk3546Interlocutory, Collateral, and Supplementary Proceedings and Questions;  Pendent Appellate Jurisdiction
+170Bk3546(2)On appeal from final judgment
+(Formerly 170Bk769)
+
+
+A denial of summary judgment is not properly reviewable on an appeal from the final judgment entered after trial.
+2 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+(Formerly 291k101(2))
+
+
+Phrase, “publishing the electronic advertisement to one or more of the selected internet media venues,” in patent on invention to facilitate advertising on multiple advertising outlets such as newspapers and websites, meant placing or making available the customized electronic advertisement within the framework of and at each internet media venue so that it is accessible by the end users, consumers, viewers, or buyers; addition of word, “at,” to definition correctly indicated that the ads must be sent to Internet media venues, not to buyers.
+2 Cases that cite this headnote
+
+
+
+[17]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1848Questions of law or fact
+(Formerly 291k314(5))
+
+
+The denial of a pretrial motion for summary judgment of noninfringement does not, by itself, show that the district court delegated claim construction to the jury; this is especially true where the jury was instructed to apply the district court’s claim constructions. Fed.Rules Civ.Proc.Rule 56, 28 U.S.C.A.
+6 Cases that cite this headnote
+
+
+
+[18]
+
+PatentsPresentation and Reservation in Lower Court of Grounds of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1956Presentation and Reservation in Lower Court of Grounds of Review
+291k1957In general
+(Formerly 291k324.1)
+
+
+Patentee was not required to object to its own testimony on point that was in accord with claim construction that it had proposed and that court had adopted to preserve issue for consideration on appeal of parties’ presentation of differing arguments at trial about what it meant to satisfy patent claim term, since dispute had been brought to district court’s attention during trial and court heard arguments from both sides.
+3 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsInstructions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1849Instructions
+(Formerly 291k314(1))
+
+
+Competitor’s arguments to jury about claim scope did not subvert jury’s ability to fairly decide issues before it in action for infringement of patent on invention to facilitate advertising on multiple advertising outlets such as newspapers and websites; although competitor’s arguments did not directly quote court’s claim construction, jury had been explicitly told by court to use only court’s claim constructions, and patentee had opportunity to object during trial or request limiting instructions, but never did so.
+3 Cases that cite this headnote
+
+
+
+[20]
+
+PatentsVerdicts;  special interrogatories
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1851Verdicts;  special interrogatories
+(Formerly 291k314(6))
+
+
+Jury verdict of patent obviousness was general verdict, not special verdict, and thus argument that verdict was inconsistent had been waived for failure to object before jury had been dismissed; portion of verdict in which jury applied facts to law on question of obviousness was clearly a general verdict because it was a legal question resting on underlying factual questions. Fed.Rules Civ.Proc.Rule 49(b), 28 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[21]
+
+PatentsVerdicts;  special interrogatories
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1851Verdicts;  special interrogatories
+(Formerly 291k314(6))
+
+
+Jury verdicts regarding anticipation and patent invalidity were general verdicts, not special verdicts, and thus argument that verdicts were irreconcilable because claims could not have one meaning for infringement and another for anticipation had been waived for failure to object before jury had been dismissed; although jury had answered yes or no questions on each asserted claim and it technically was finding only “facts,” questions on anticipation and validity required legal instruction, application of legal principles, and were more than simply written findings upon each issue of fact. Fed.Rules Civ.Proc.Rule 49(b), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[22]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+In a patent case, the law of the regional circuit is applied to determine whether an argument that the verdict is irreconcilable has been waived.
+Cases that cite this headnote
+
+
+
+[23]
+
+Federal Civil ProcedureSpecial Verdict
+
+
+170AFederal Civil Procedure
+170AXVTrial
+170AXV(J)Special Verdict
+170Ak2231In general
+
+
+In the Fifth Circuit, when the verdict is special, a party need not object to the jury’s inconsistent verdict before the jury is dismissed in order to avoid waiver. Fed.Rules Civ.Proc.Rule 49(a), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[24]
+
+Federal Civil ProcedureSpecial Verdict
+
+
+170AFederal Civil Procedure
+170AXVTrial
+170AXV(J)Special Verdict
+170Ak2231In general
+
+
+In the Fifth Circuit, waiver applies if no objection is raised before the jury is dismissed if there is a general verdict or a general verdicts with written questions on one or more issues of fact. Fed.Rules Civ.Proc.Rule 49(b), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[25]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k235(2))
+
+
+Patent on invention to facilitate advertising on multiple advertising outlets such as newspapers and websites had not been infringed by accused system that published ads directly to buyer.
+Cases that cite this headnote
+
+
+
+[26]
+
+PatentsIn general;  comparison with patent claims
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1554Substantial Identity of Subject Matter
+291k1555In general;  comparison with patent claims
+(Formerly 291k226.6)
+
+
+To prove infringement, the patentee must show that the accused device contains each limitation of the asserted claim, or an equivalent of each limitation.
+2 Cases that cite this headnote
+
+
+
+[27]
+
+PatentsNew trial;  amendment
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1939Relief from Judgment
+291k1942New trial;  amendment
+(Formerly 291k323.3)
+
+
+Argument that jury verdict was result of misapprehension of law, specifically that claims could have one meaning for infringement and another for anticipation, did not amount to clear showing of absolute absence of evidence to support jury’s verdict of infringement, as required for new trial, since it did not explain which half of allegedly irreconcilable verdict was incorrect, and patentee did not show that jury relied on incorrect construction.
+Cases that cite this headnote
+
+
+
+[28]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,379,057. Cited.
+Cases that cite this headnote
+
+
+
+[29]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,446,045, US Patent 7,249,059. Invalid and Not Infringed.
+Cases that cite this headnote
+
+
+
+[30]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,240,025. Invalid in Part.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1314 Justin A. Nelson, Susman Godfrey L.L.P, of Seattle, WA, argued for plaintiff-appellant. With him on the brief were Max L. Tribble, Jr. and Joseph S. Grinstein, of Houston, TX.
+Charles K. Verhoeven, Quinn Emanuel Urquhart & Sullivan LLP, of San Francisco, CA, argued for defendant-appellee. With him on the brief were Amy H. Candido and Carl G. Anderson; and Edward J. De Franco, of New York, NY.
+Before RADER, Chief Judge, NEWMAN, and REYNA, Circuit Judges.
+Opinion
+REYNA, Circuit Judge.
+
+In this patent case, Function Media, L.L.C. (“FM”) appeals the district court’s invalidation of one of FM’s patents as indefinite and the jury’s verdict that two other FM patents are invalid and also not infringed. FM raises several other issues on appeal, including a claim that the district court abdicated to the jury its responsibility to construe disputed claim terms, an argument that the district court incorrectly denied its motion for a new trial on the grounds that the verdict was against the great weight of the evidence, and an argument that the verdicts of infringement and invalidity are irreconcilable. For the reasons explained below, we affirm.
+ 
+
+BACKGROUND
+FM sued Google, Inc. (“Google”)1 in the United States District Court for the Eastern District of Texas for infringing U.S. Patent Nos. 6,446,045 (the “′045 Patent”), 7,240,025 (the “′025 Patent”), and 7,249,059 (the “′059 Patent”).2 The purpose of the invention disclosed in all three patents is to facilitate advertising on multiple advertising outlets such as newspapers and websites. The specification characterizes the prior art as inefficient because, among other reasons, it requires advertisers to manually ensure that their ads conform to the differing requirements of each advertising venue. ′025 Patent col. 1 ll. 36–47. For example, if one website required square ads with red borders, while another required rectangular ads with blue borders, the prior art systems required the advertiser to manually create both ads. Id. The invention is designed to eliminate this inefficiency by automatically formatting the ads to fit each publisher’s requirements and sending them out for publication. Id. col. 3 ll. 28–40.
+ 
+In each of the patents, a “central computer” coordinates interactions between sellers, media venues, and buyers. A “seller” is an entity that wishes to place ads, and is sometimes referred to as an “advertiser.” ′025 Patent col. 12 ll. 21–27. “Media venues” are locations where ads can be placed, sometimes called “publishers”; in this case, the publishers are websites. Id. col. 10 ll. 61–67. “Buyers” are the targets of the ads, i.e., the people viewing the websites. Id. col. 8 ll. 35–40. The central computer hosts a number of databases and software processes, including the presentation rules database and the Presentation Generating Program (“PGP”). See ′025 Patent fig. 2a.
+ 
+Claim 1 of the ′025 Patent is representative of the asserted claims:
+1. A computer system for creating and publishing customized electronic advertisements, for a seller, to internet media venues owned or controlled by other than the seller, comprising:
+*1315 a first interface to the computer system through which each of the internet media venues is prompted to input presentation rules for the internet media venue for displaying electronic advertisements on the internet media venue;
+a first database storing the presentation rules input by the internet media venues through the first interface;
+a second interface to the computer system through which a seller is prompted to input information to select one or more of the internet media venues and prompted to input information to create an electronic advertisement for publication to the selected internet media venues;
+a second database storing the information input by the seller through the second interface; and
+a computer controller of the computer system processing and publishing the electronic advertisement to one or more of the selected internet media venues in compliance with the presentation rules of the internet media venue, whereby the electronic advertisement is displayed on each of the one or more of the selected internet media venues in compliance with the presentation rules of the internet media venue.
+′025 Patent col. 64 l. 59 to col. 65 l. 17 (emphases added). Thus, the invention requires: rule setting by the media venues to inform the system how the ads must be formatted; storage of the rules; inputting information to select media venues where the ads will be displayed; inputting information to create an ad; storing the ad information; processing the ad; and publishing the ad to the internet media venue. The disputed elements are the “creation and processing,” “selection,” and “publishing” elements.
+ 
+FM asserted that Google’s AdSense for Content and AdSense for Mobile products infringed when used in conjunction with Google’s AdWords interface.3 AdSense for Content is a system that selects relevant ads to display to buyers viewing web pages containing certain embedded Google code. Every time a buyer visits a site, the embedded code prompts Google’s system to run an auction. Which ads are displayed is determined by a proprietary Google algorithm that considers the amount of money the seller (advertiser) is willing to spend per click when weighed against the relevancy, or “quality,” of the ad. Generally, to get a less relevant ad displayed, an advertiser must bid more money than another advertiser supplying a more relevant ad. Once the ad is chosen it is sent directly to the buyer’s browser—not to the website publisher—and is displayed in such a way that it appears to be part of that webpage.
+ 
+AdWords Front End is a site where sellers input the content of an ad, how much they are willing to pay, keywords with which the ad should be associated, and requests for the ad to be placed on specific sites. Sellers cannot customize the “look” of the ads, so all ads look the same except for the actual text displayed. Sellers can request placement on specific sites but they have no way to guarantee they will be placed on those sites—they still have to win the auction (even after requesting placement on specific sites), be relevant, and be allowed to advertise on the site by the publisher. See Transcript of Jury Trial at 138, Function Media, *1316 L.L.C. v. Google, Inc., No. 2:07–CV–279 (E.D.Tex. Oct. 9, 2009), 2009 WL 3260566 (explaining that Coca–Cola can prevent Pepsi from advertising on its site).
+ 
+[1] After the claim construction hearing, the district court found the ′045 patent to be indefinite and therefore invalid because the specification did not disclose sufficient structure for its sole independent claim’s means plus function term, “means for transmitting.” Function Media L.L.C. v. Google, Inc., No. 07–CV–0279, slip op. at 10–11, 2009 WL 3260566 (E.D.Tex. Oct. 9, 2009), ECF No. 218 (“Markman Order ”). The court construed the other disputed terms and denied Google’s motion for summary judgment of noninfringement. The case was tried to a jury on claims 1, 20, 37, 52, 63, 90, 179, and 231 of the ′025 Patent and claim 1 of the ′059 Patent, and the jury found these claims to be both invalid and not infringed.4 Function Media L.L.C. v. Google, Inc., No. 07–CV–0279 (E.D.Tex. Jan. 26, 2010), ECF No. 413 (“Verdict Form ”).
+ 
+After trial, FM filed for a motion for judgment as a matter of law (“JMOL”) on validity and also moved for a new trial on the grounds that the verdict was against the great weight of the evidence and otherwise irreconcilable. The district court granted JMOL for claims 52, 63, 90, and 231 of the ′025 Patent, finding that Google had not submitted sufficient evidence for the jury to find that those claims were invalid. Function Media L.L.C. v. Google, Inc., No. 07–CV–0279, slip op. at 1 (E.D.Tex. Oct. 9, 2011), ECF No. 492 (“Final Judgment ”). Thus, of the asserted claims, only these four remained valid, but none of them were found to be infringed.
+ 
+FM appeals, and Google does not cross-appeal the district court’s JMOL regarding those four claims. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+STANDARD OF REVIEW
+[2] [3] [4] Claim construction and indefiniteness determinations are reviewed without deference. Markman v. Westview Instruments, Inc., 52 F.3d 967, 970–71 (Fed.Cir.1995) (en banc) aff’d, 517 U.S. 370, 116 S.Ct. 1384, 134 L.Ed.2d 577 (1996); see also Typhoon Touch Techs., Inc. v. Dell, Inc., 659 F.3d 1376, 1383 (Fed.Cir.2011). If there is an error in claim construction,
+we independently construe the claim to determine its correct meaning, and then determine if the facts presented at trial can support the appealed judgment. We may affirm the jury’s findings on infringement or validity issues if substantial evidence appears in the record supporting the jury’s verdict and if correction of the errors in a jury instruction on claim construction would not have changed the result, given the evidence presented.
+Teleflex, Inc. v. Ficosa N. Am. Corp., 299 F.3d 1313, 1328 (Fed.Cir.2002) (internal quotation marks and citations omitted).
+ 
+*1317 [5] [6] “For issues not unique to patent law, we apply the law of the regional circuit in which this appeal would otherwise lie. Thus, we apply Fifth Circuit law when reviewing ... denials of motions for JMOL or new trial.” i4i Ltd. P’ship v. Microsoft Corp., 598 F.3d 831, 841 (Fed.Cir.2010), aff’d, ––– U.S. ––––, 131 S.Ct. 2238, 180 L.Ed.2d 131 (2011). The Fifth Circuit “review[s] the denial of a motion for new trial brought on the ground that the verdict is against the great weight of the evidence for abuse of discretion, which ... mean[s] that the denial will be affirmed unless there is a clear showing of an absolute absence of evidence to support the jury’s verdict.” Rivera v. Union Pac. R.R. Co., 378 F.3d 502, 506 (5th Cir.2004) (internal quotation marks and citations omitted).
+ 
+
+DISCUSSION
+[7] FM raises several issues it maintains require a new trial. First, FM argues that the district court incorrectly found the ′045 patent’s means plus function limitation to be indefinite. With regard to the claims that went to the jury, FM contends that the district court’s claim constructions were incorrect, and that the district court improperly allowed claim construction disputes to be decided by the jury. FM also argues that the jury’s verdict was against the great weight of the evidence, was based upon an incorrect statement of the law, and was irreconcilable. Google responds that FM’s arguments are really factual questions disguised as claim construction arguments, that the district court did construe all of the disputed terms, and that FM has waived many of its arguments.
+ 
+
+I. The ′045 Patent: Indefiniteness
+We begin with FM’s argument that the district court erred in granting summary judgment that the ′045 patent was invalid for indefiniteness because it did not disclose a structure for the means plus function term “means for transmitting.” FM agrees that the recited function here is “transmitting said presentations to a selected media venue of the media venues,” Markman Order, slip op. at 9, and that the “means for transmitting” is the PGP, a piece of software. FM disagrees with the district court’s conclusion that, as in Blackboard, Inc. v. Desire2Learn, Inc., 574 F.3d 1371 (Fed.Cir.2009), the specification of the ′045 patent “does not describe the means or steps taken to accomplish the end result,” and that “the PGP is merely a black box that accomplishes the claimed function.” J.A. 10.
+ 
+[8] It is axiomatic that claims must “particularly point[ ] out and distinctly claim[ ] the subject matter which the applicant regards as his invention.” 35 U.S.C. § 112, ¶ 2 (2006).5 Section 112, paragraph 6 allows for a limited exception, permitting “a claim [to] state the function of the element or step, and the ‘means’ covers the ‘structure, material, or acts’ set forth in the specification and equivalents thereof.” Typhoon, 659 F.3d at 1383. The trade-off for allowing such claiming is that “the specification must contain sufficient descriptive text by which a person of skill in the field of the invention would ‘know and understand what structure corresponds to the means limitation.’ ” Id. at 1383–84 (quoting Finisar Corp. v. DirecTV Grp., Inc., 523 F.3d 1323, 1340 (Fed.Cir.2008)).
+ 
+*1318 [9] It is well settled that “[s]imply disclosing software, however, ‘without providing some detail about the means to accomplish the function[,] is not enough.’ ” Noah Sys., Inc. v. Intuit, Inc., 675 F.3d 1302, 1312 (Fed.Cir.2012) (quoting Finisar, 523 F.3d at 1340–41). When dealing with a “special purpose computer-implemented means-plus-function limitation,” we require the specification to disclose the algorithm for performing the function. The “specification can express the algorithm in any understandable terms including as a mathematical formula, in prose, or as a flow chart, or in any other manner that provides sufficient structure.” Id. Importantly, we have said that “[w]hile it is true that the patentee need not disclose details of structures well known in the art, ... the specification must nonetheless disclose some structure.” Default Proof Credit Card Sys., Inc. v. Home Depot U.S.A., Inc., 412 F.3d 1291, 1302 (Fed.Cir.2005) (emphasis added) (explaining that even “the testimony of one of ordinary skill in the art cannot supplant the total absence of structure from the specification.”); see also Noah Sys., 675 F.3d at 1313 (distinguishing between software means plus function claims in which no algorithm is disclosed, which are indefinite, and claims in which an algorithm is disclosed, whose sufficiency is judged based on what a person of ordinary skill in the art would have understood them to disclose); Blackboard, 574 F.3d at 1384 (finding a means plus function claim to be indefinite because the specification language simply described the function to be performed without explaining how the function was to be performed).
+ 
+Here, there is no specific algorithm disclosed in prose, as a mathematical formula, in flow charts, or otherwise. FM cites to several places in the specification that it contends describe the software. These citations all explain that the software automatically transmits, but they contain no explanation of how the PGP software performs the transmission function. For example, the specification states only that the PGP “either transmits the presentation to the appropriate destination or holds it for a publication date to be submitted for a particular deadline or predetermined promotional market.” ′045 Patent col. 3 ll. 31–32; see also id. col. 51 ll. 16–23 (same); id. col. 17 ll. 7–17 (noting vaguely that the PGP is involved in processing and transmitting data); id. col. 20 ll. 23–28 (“[T]he Communication and Transport Program 1760 monitors, directs, and controls the receiving and transmitting of messages....”); id. col. 57 ll. 36–39 (“presentations ... are automatically transmitted”). At most, the ′045 Patent specification discloses that the structure behind the function of transmitting is a computer program that transmits. Beyond the program’s function, however, no algorithm is disclosed. As in Blackboard, the PGP is “simply an abstraction that describes the function” to be performed. 574 F.3d at 1383.
+ 
+[10] FM’s citation to the flow charts as sufficient structure is similarly unavailing because the charts also do not describe how the transmitting function is performed. Both charts cited by FM indicate transmission with a line, or lines, connecting the Central Processor to the Media Interface. See ′ 045 Patent figs. 1a, 4f. These lines do not explain how the software performs the transmission function. And although FM acknowledges that the structure is software, not hardware, FM also recites as structure the types of connections over which the transmission could occur, such as phone lines and data networks. Appellant’s Br. 27 (citing ′045 Patent col. 13 l. 55 to col. 14 l. 2). But the issue is not whether the ′045 patent discloses a physical structure over which the *1319 PGP transmits, it is whether the patent discloses the algorithm by which the PGP performs the transmission function. The flow charts make no such disclosure.
+ 
+[11] Having failed to provide any disclosure of the structure for the “transmitting” function, FM cannot rely on the knowledge of one skilled in the art to fill in the gaps. FM argues that “ ‘in view of the existing knowledge in the field of the invention,’ it is unnecessary and extraneous to provide any more detail,” and that the disclosure “has more than ‘sufficient structure for a person of skill in the field to provide an operative software program for the specified function.’ ” Appellant’s Br. 28 (quoting Typhoon, 659 F.3d at 1385). In Typhoon, however, the “means for cross-referencing” was explained in prose as “entail[ing] the matching of entered responses with a library of possible responses, and, if a match is encountered, displaying the fact of the match, otherwise alerting the user, or displaying information stored in memory fields associated with that library entry.” 659 F.3d at 1386 (quoting U.S. Patent No. 5,379,057 col. 3 ll. 43–48). Here, in contrast, there is no explanation of how to transmit. Furthermore, it is well established that proving that a person of ordinary skill could devise some method to perform the function is not the proper inquiry as to definiteness—that inquiry goes to enablement. See Blackboard, 574 F.3d at 1385. Simply put,
+[a] patentee cannot avoid providing specificity as to structure simply because someone of ordinary skill in the art would be able to devise a means to perform the claimed function. To allow that form of claiming under section 112, paragraph 6, would allow the patentee to claim all possible means of achieving a function.
+Id. “Section 112, paragraph 6, is intended to prevent such pure functional claiming.” Id. (citing Aristocrat Techs. Australia Pty Ltd. v. Int’l Game Tech., 521 F.3d 1328, 1333 (Fed.Cir.2008)). We therefore affirm the district court’s judgment that that claim 1 of the ′045 Patent is invalid for indefiniteness.
+ 
+
+II. Claim Construction
+[12] FM contends that the district court erred in construing the terms “ad creation/processing,” “selection,” and “publishing,” and that these errors require a new trial. We address each of these arguments in turn.
+ 
+
+A. “Creating” and “Processing”
+Claim 1 of the ′025 Patent recites an interface through which a seller is “prompted to input information to create an electronic advertisement.” ′025 Patent col. 65 ll. 4–7. The parties stipulated that the “create” term means to “create an electronic advertisement for publication in a form customized to each of the selected internet media venue’s presentation rules.” The system of claim 1 also includes a controller that processes the advertisement in compliance with the media venues’ presentation rules:
+a computer controller of the computer system processing and publishing the electronic advertisement to one or more of the selected internet media venues in compliance with the presentation rules of the internet media venue, whereby the electronic advertisement is displayed on each of the one or more of the selected internet media venues in compliance with the presentation rules of the internet media venue.
+′025 Patent col. 65 ll. 10–17 (emphases added).
+ 
+The parties disagreed on whether this claim requires the system to take previously created ads and process them in order to make them comply with the publishers’ *1320 rules, or whether the system processes raw information entered by the seller in order to create compliant ads in the first instance. FM proposed that processing meant operating “upon the inputted information to create an electronic advertisement customized for each selected internet media venue in a form that complies with the presentation rules set by that media venue.” Markman Order, slip op. at 17 (emphasis added). Google proposed that it meant operating “upon the electronic advertisement to process it in compliance with the presentation rules of the internet media venues.” Id. (emphasis added). The district court ruled that the processing term means “executing a systematic sequence of mathematical and/or logical operations upon the customized electronic advertisement to make it comply with the presentation rules of the internet media venues.” Id. (emphasis added).
+ 
+FM now argues that the district court’s interpretations of “creating” and “processing” are internally inconsistent. According to FM, the central computer has the final role in the creation and formatting of ads so that they comply with the publisher’s requirements. FM argues that by stating that the system processes a “customized ... advertisement,” the court has said, in essence, that “processing” means to take an ad that already complies with the publisher’s rules and change it so that it complies with the publisher’s rules. Google responds that the district court’s construction properly reflects that the “processing” is performed on the “electronic advertisement” rather than the “inputted information” because, as the court pointed out, the “inputted information” language from the creation element does not reappear in the computer controller limitation. Id. 44–45.
+ 
+[13] We begin our analysis with the language of the claim. See Phillips v. AWH Corp., 415 F.3d 1303, 1314 (Fed.Cir.2005) (en banc) (“[T]he claims themselves provide substantial guidance as to the meaning of particular claim terms.”). “The words of a claim ‘are generally given their ordinary and customary meaning,’ ” which “is the meaning that the term would have to a person of ordinary skill in the art in question at the time of the invention.” Id. at 1312–13 (internal citations omitted). “The claims, of course, do not stand alone. Rather, they are part of ‘a fully integrated written instrument,’ consisting principally of a specification that concludes with the claims. For that reason, claims ‘must be read in view of the specification, of which they are a part.’ ” Id. at 1315 (quoting Markman, 52 F.3d at 978, 979).
+ 
+The claim clearly states that the “processing” is done to the “electronic advertisement,” not the inputted information. It follows that the creation of the ad must happen before the processing begins. If “processing” included “creating,” the act of processing would have been performed on the inputted information, which would then lead to the creation of the rule-compliant ad. The claim terms themselves rule out the possibility that “processing” is done to the inputted information because a custom ad is created before the processing step. Thus, we find that the court’s construction of taking the “customized” ad and then “processing” it to make it comply with the presentation rules was correct.
+ 
+This construction is consistent with the parties’ stipulated definition for the term “create.” The parties agreed that the “creation” limitation prompts the seller to “input information to create an electronic advertisement for publication to the selected internet media venues.” Markman Order, slip op. at 8 (emphasis added). The claims do not explicitly state whether it is *1321 the seller or central computer that actually creates the ad. On one hand, entering information to create the ad could mean the seller creates the ad herself by entering the information. On the other, the seller could simply be required to enter information which is then used by the central computer to create the ad itself. We conclude that the district court correctly declined to interpret the claim as requiring either, and that creation by either the seller or the central computer would satisfy the claim terms. What matters for our purposes is that either way, the ad is created before it is processed.
+ 
+FM’s citations to the portions of the specification dealing with the PGP do not persuade us otherwise. The specification says that the PGP, which is part of the central controller and presentation processor, “utilizes the information submitted by the Sellers and held in [various databases] ... to create the requested presentations for the various ... media ... using the Presentation Rules Database 1650 for style and control guidelines.” ′025 Patent col. 19 ll. 46–55 (emphasis added). FM argues that this shows that the PGP is the entity that creates the ads. However, the specification goes on to refer to the Seller Interface described in Figure 2c, stating:
+It should be noted that in the preferred embodiment of the present invention, the same rules and guidelines contained in the Presentation Rules Database 1650 are also held in the Presentation Rules Database 4650 Fig. 2c, which is part of the Seller Interface 4000 Fig. 2c. With the same rules and guidelines as those in the Presentation Rules Database 1650 applied and enforced during data input at the Seller Interface ... no modification or editing should be necessary at the Central Controller and Presentation Processor 1000 Module.
+Id. col. 19 ll. 55–65 (emphases added). The specification then states that although the same rules are applied at both the seller interface and central controller, “both processes should be utilized to ensure consistency.” Id. col. 19 l. 65 to col. 20 l. 2. Thus, at least in the preferred embodiment, the same rules are applied twice to ensure compliant ads are created; no changes to the original ad should be necessary when it reaches the point of processing. These portions of the specification further support the district court’s interpretation, which requires the ad to be created before it is “processed,” and illustrate why it would be improper to read FM’s proposed limitation into the claim. See Phillips, 415 F.3d at 1324 (cautioning against “strictly limiting the scope of the claims to the embodiments disclosed in the specification or divorcing the claim language from the specification”). We therefore affirm the district court’s construction of these terms.
+ 
+
+B. “Selection”
+Claim 1 of the ′025 Patent also recites an interface “through which a seller is prompted to input information to select one or more of the internet media venues.” FM proposed, and the district court accepted, that this means “software that enables the seller user to interact with the computer system through which the seller user is prompted to enter information to select one or more internet media venues.”6 Markman Order, slip op. at 12–14. Google proposed that this term meant *1322 “software or hardware at the seller location through which the seller is prompted to enter information to the computer system to enable the seller to select one or more internet media venues,” a construction it urges us to adopt here. Under Google’s proposed construction, there could be no infringement, because the Google system—not individual sellers—matches ads with media venues.
+ 
+Although the district court accepted FM’s construction of the “selecting” term, FM now argues that a new trial is required because the court effectively applied a different construction to the term at summary judgment. Prior to the issuance of the district court’s Markman order, Google moved for summary judgment of non-infringement, arguing that in the asserted patents the sellers must be able to choose the media venues and they cannot do so under the Google system. FM responded that whether the sellers in Google’s system have the final say on selection is irrelevant because the FM patents do not require the sellers to have the final say. The district court denied summary judgment, stating:
+In Google’s placement targeting, advertisers request specific web pages on which their ads will appear, but Google’s systems ultimately determine which advertisements appear on which webpage. The court finds that there is a genuine issue of material fact as to whether Google’s keywords and placement targeting constitute information to select. A reasonable jury may determine that keywords identifying the advertisement’s topic could be used as information to select media venues on which to publish the advertisement. A question of fact also exists regarding Google’s placement targeting.
+Order at 6, Function Media, No. 2:07–CV–278, 2009 WL 3260566, ECF No. 325. We understand the district court’s statement to mean that there is a question of fact as to whether the claims read on Google’s systems. But FM contends that this passage “nullif[ied] the very claim construction” the court had adopted, rendering the court’s claim construction a “nullity” and requiring a new trial.
+ 
+[14] [15] We see no error in the district court’s denial of summary judgment. The district court construed this term, adopting FM’s proposed construction. To the extent that FM raises a claim construction argument here, FM may not object to the court’s decision to instruct the jury to apply the claim construction that FM itself proposed. See Lazare Kaplan Int’l, Inc. v. Photoscribe Techs., Inc., 628 F.3d 1359, 1376 (Fed.Cir.2010) (“As we have repeatedly explained, ‘litigants waive their right to present new claim construction disputes if they are raised for the first time after trial.’ ” (quoting Broadcom Corp. v. Qualcomm Inc., 543 F.3d 683, 694 (Fed.Cir.2008))). To the extent that FM attempts to couch as a claim construction issue the denial of summary judgment of infringement, we note that “a denial of summary judgment is not properly reviewable on an appeal from the final judgment entered after trial.” Glaros v. H.H. Robertson Co., 797 F.2d 1564, 1573 (Fed.Cir.1986); accord Johnson v. Sawyer, 120 F.3d 1307, 1316 (5th Cir.1997) (“[The Fifth Circuit has] held repeatedly that orders denying summary judgment are not reviewable on appeal where final judgment adverse to the movant is rendered on the basis of a subsequent full trial on the merits.”).
+ 
+
+C. “Publishing”
+[16] Lastly, claim 1 requires “publishing the electronic advertisement to one or more of the selected internet media venues.” ′025 Patent col. 65 ll. 10–17. The *1323 district court construed this term to mean “placing or making available the customized electronic advertisement within the framework of and at each internet media venue so that it is accessible by the end users, consumers, viewers, or buyers.” Markman Order, slip op. at 15–16 (emphasis added). FM argues that the district court erred by including the “and at” language requested by Google, which it believes improperly removes from the scope of the claim any system (including Google’s systems here) which sends ads directly to the buyer’s computers. Without those two words, FM argues, the claim would encompass the publishing of ads directly to buyers so long as the displayed ads look like they are “within the framework” of the website.
+ 
+We see no error in the district court’s construction. Claim 1 requires “publishing the electronic advertisement to one or more of the selected internet media venues ... whereby the electronic advertisement is displayed on each of the one or more of the selected internet media venues.” ′025 Patent col. 65 ll. 11–16 (emphases added). Thus, the terms of the claim require the ads to be sent to the internet media venue, not simply made to look like they are on the internet media venue on the buyer’s computer as in Google’s system. And the claim language makes it clear that internet media venues are different than the buyers’ web browsers. Claim 1 requires an interface for specifying different presentation rules for each internet media venue, not for each buyer or each web browser. Furthermore, the parties agreed that internet media venues are “internet locations where presentations are placed or made available” such that they may be “accessible by the end users, consumers, viewers, or [b]uyers.” Markman Order, slip op. at 8. The claim terms thus require ads to be published to internet media venues, where they are accessible to buyers using web browsers.
+ 
+Although FM identifies various portions of the specification that it claims show that the patent contemplates delivering ads directly to buyers, we are not persuaded. For example, FM relies on a sentence in the specification stating that the PGP “creates presentations that can be accessed by the buying public ... through ... the Buyers Interface.” ′025 Patent col. 52 ll. 28–35. But the fact that ads may be accessed in browsers does not remove the requirement that they must be published to internet media venues. FM also argues that figure 1b shows the option of sending the ad directly to the buyer:
+ 
+
+​
+*1324 Figure 1b does not show ads going directly to the buyer. Instead, ads are made available through the “Independent Presentation[s], Directories and Indexes or Independent Standalone Presentations,” shown in box 3000. See ′ 025 Patent fig. 1b. Indeed, FM acknowledges this—as it must—in its argument. Appellant’s Br. 39 (arguing that the path “from block 1000 to block 3000 and corresponding line extending from block 5000 to block 3000” supported its theory that ads could be sent directly to the web browser). But box 3000 does not include the buyer’s web browser or computer. See id. col. 10 ll. 8–15 (limiting the definition of “Internet Browser” to “[c]lientside program[s] that reside[ ] on the [b]uyer [i]nterface 5000”). The specifications reinforce the district court’s construction, not FM’s.
+ 
+We affirm the district court’s construction of the “publishing” element because the addition of the word “at” to the definition correctly indicates that the ads must be sent to the internet media venues, not to buyers.
+ 
+
+III. O2 Micro
+[17] In addition to arguing the district court’s claim constructions were incorrect, FM maintains that the court improperly sent these constructions to the jury. FM argues that this runs afoul of O2 Micro International v. Beyond Innovation Technology Co., in which we said, “[w]hen the parties present a fundamental dispute regarding the scope of a claim term, it is the court’s duty to resolve it.” 521 F.3d 1351, 1362 (Fed.Cir.2008). FM raises these arguments for each of the three terms we have construed above, and once again we address each in turn.
+ 
+FM makes two arguments in support of its contention that the construction of the terms “create” and “processing” was submitted to the jury. First, FM contends that the district court’s order denying Google’s request for summary judgment of non-infringement shows that there was an unresolved dispute over claim scope that the district court left to be decided by the jury. This argument has little merit. Even assuming FM may complain about the denial of Google’s motion for summary *1325 judgment, we have already explained that the subsequent jury verdict renders the denial of this motion non-final and non-appealable under Fifth Circuit law. We hold that the denial of a pre-trial motion for summary judgment of noninfringement does not, by itself, show that the district court delegated claim construction to the jury. This is especially true where, as here, the jury was instructed to apply the district court’s claim constructions.
+ 
+[18] FM’s second argument focuses on a point during trial when Google objected to the testimony of FM’s expert. The expert testified that the customization step is separate from the processing step; in Google’s view, this statement ran afoul of the court’s claim construction. FM’s counsel responded that it was Google that was misstating the court’s construction. The court overruled Google’s objection and indicated that it would check the construction and would make correcting statements if the witness was misstating the court’s claim construction. FM urges that the court should have stepped in to correct any misunderstanding at that point because the proper interpretation of “creation” was unresolved. As additional evidence of the confusion, FM asserts that after FM rested its case, Google’s expert pursued differing interpretations of the “creation” element depending on whether he was offering testimony on infringement or anticipation.
+ 
+As a preliminary matter, we must address Google’s argument that FM has waived this issue. Citing Lazare, 628 F.3d at 1376, Google argues that FM waived any complaint about Google’s trial tactics by failing to object. Google asserts that FM may not claim Google’s objection as its own, and that if FM believed that the claim construction order or any other order created ambiguity, it was FM’s responsibility to object.
+ 
+We disagree. In Lazare, the parties stipulated to the meaning of a claim term but presented differing arguments at trial about what it meant to satisfy that term. 628 F.3d at 1375. Nevertheless, this court found that the issue had been waived because neither party had advanced its O2 Micro argument until after trial. See 628 F.3d at 1376 (finding waiver when “[u]nlike O2 Micro where the appellant presented its claim construction argument to the district court during a Markman hearing, Lazare first asserted the claim construction argument it presses on appeal in a post-trial motion”). Lazare is distinguishable because in this case, the dispute was brought to the district court’s attention during trial and the court heard arguments from both sides. It would hardly make sense to require FM to object to its own testimony on a point that was in accord with the claim construction that it had proposed and that the court had adopted.
+ 
+[19] On the merits, Google responds with a single argument covering all three of the O2 Micro problems alleged by FM: that this is not a case, like O2 Micro, in which the parties disputed the scope of the claims, but rather a posttrial attempt to re-characterize improper arguments as issues of claim construction, like Verizon Services Corp. v. Cox Fibernet Virginia, Inc., 602 F.3d 1325 (Fed.Cir.2010).
+ 
+In O2 Micro, the parties disagreed during claim construction about whether the term “only if” included two specific exceptions. 521 F.3d at 1361–62. The “district court acknowledged that this dispute over the scope of the asserted claims ‘boil[ed] down to whether ... there can be an exception,’ ” but refused to construe the term and determine whether there were exceptions because “only if” “ha[d] a well-understood definition, capable of application by both the jury and this court in considering the evidence submitted in support *1326 of an infringement or invalidity case.” Id. at 1361. Because the district court did not settle the dispute, the parties presented their arguments to the jury. Id. at 1362. Examining these arguments, this court concluded that “the parties disputed not the meaning of the words themselves, but the scope that should be encompassed by this claim language.” Id. Because “determining the meaning and scope of the patent claims” is a question that “the court, not the jury, must resolve,” id. at 1360, we held that the submission of these differing claim scope arguments to the jury was error and remanded for the district court to construe the claim in the first instance. Id. at 1363.
+ 
+In Verizon, a patent owner relied on O2 Micro to support its argument that a new trial was required. The relevant claims had been construed before trial, and neither party argued that the constructions were incorrect. 602 F.3d at 1332. After trial, the owner sought an instruction that the scope of the claim terms did not depend on the subjective intent of the inventor in using those terms. Id. As grounds for this request, the owner pointed to “places where [defense] counsel and its experts referred to statements of the inventors and then distinguished [the defendant’s] system from the asserted claims based on those statements.” Id. This court distinguished O2 Micro in two ways: (1) that the parties did not bring a dispute about claim scope to the district court’s attention prior to the close of evidence, and (2) that the parties did not “not invite the jury to choose between alternative meanings of technical terms or words of art or to decide the meaning of a particular claim term.” Id. at 1334. We concluded that “[w]hile [the owner] attempts to characterize the issue as one of claim construction, its argument is more accurately about whether [the defendant’s] arguments to the jury ... were improper.” Id. In other words, Verizon presented a question of improper attorney arguments, not an O2 Micro problem. See id.
+ 
+We conclude that, as in Verizon, this issue in this case is whether there were improper arguments, not whether questions of claim scope were submitted to the jury. As in Verizon, the jury was explicitly told by the court to use only the court’s claim constructions. Additionally, like the appellant in Verizon, FM had the opportunity to object during trial or request limiting instructions, but never did so. See 602 F.3d at 1335. The only difference here is that during its closing arguments, FM accused Google of playing “word games.” J.A. 19172–74, 19213. Nearly every patent case will involve some amount of “word games,” because claims and claim constructions are, after all, just words. But FM’s argument, if accepted, would make almost every case in which the parties’ arguments did not directly quote the court’s claim construction ripe for remand and new trial. We are confident that such situations should be rare. See Kinetic Concepts, Inc. v. Blue Sky Med. Grp., Inc., 554 F.3d 1010, 1019 n. 4 (Fed.Cir.2009) (“While [O2 Micro ] permits a remand for further claim construction, it does not require one.”).
+ 
+As with the “creation” and “processing” terms, FM also argues that the court left the “selection” term for the jury. As evidence, FM cites a situation similar to what happened with the “creation” and “processing” terms in which Google objected to the form of FM’s expert’s testimony on claim construction grounds, the judge overruled the objection, and the judge did not revisit its construction later. FM suggests that Google’s objections “forced” FM to argue claim differentiation to the jury by questioning Google’s expert on claim 90 and its relationship to the other claims.
+ 
+*1327 FM also argues the claim construction problem went to the jury because Google argued in closing that “the Court has said that the ad must be displayed on each of the selected media venues” which “does not happen on the Google system.” Appellant’s Br. 50 (quoting J.A. 19198–99).
+ 
+These arguments too are belied by our decision in Verizon. The court accepted FM’s proposed claim construction and FM neither identified a problem with the construction nor requested further interpretation during trial. See Verizon, 602 F.3d at 1334 (“Unlike O2 Micro, where the scope of a specific claim term was in dispute beginning at the Markman hearing and continuing throughout the trial, [the appellant] never identified at any time during the proceedings before the district court any specific claim term that was misconstrued or that needed further construction.”). FM’s complaint about Google’s closing is irrelevant because that statement had to do with whether ads are published, not which entity selects where ads are published. Thus, FM is not entitled to a new trial when it failed to request further construction of the “selection” term. See Cordis Corp. v. Boston Scientific Corp., 561 F.3d 1319, 1338–39 (Fed.Cir.2009) (finding waiver when the party failed to ask for further construction of a term within a previously construed element).
+ 
+With regard to the final term, “publishing,” FM argues Google incorrectly argued throughout the trial that the claims require the ad be published to the media venue’s physical servers. We disagree with FM that claim construction was decided by the jury because the district court’s construction was correct, and the district court never refused to construe any disputed terms. Moreover, as with the other terms, FM never objected to any supposed improper argument or testimony.
+ 
+In Verizon, we turned to the relevant circuit’s law to determine whether improper arguments to which no objection was made required a new trial. 602 F.3d at 1334–35. In this case, we look to the law of the Fifth Circuit, which has held that the “Court will consider errors to which no objections were made at trial but will exercise this power only in exceptional cases where the interest of substantial justice is at stake. To reverse, this Court must find plain error.” Shipman v. Cent. Gulf Lines, Inc., 709 F.2d 383, 388 (5th Cir.1983) (internal citations omitted). FM has not demonstrated that misstatements during trial by Google’s counsel or witnesses were sufficiently erroneous to make this case exceptional. Nor has FM argued that substantial interests of justice are at stake. Thus, we cannot say that the district court plainly erred in denying a new trial.
+ 
+We have evaluated FM’s arguments and find that none of them compel us to remand for a new trial. The district court correctly construed the terms and instructed the jury to apply its constructions. FM has not persuaded us that any issues of claim scope were submitted to the jury, and we therefore conclude that no O2 Micro problems are present in this case.
+ 
+
+IV. Irreconcilability
+[20] [21] FM urges that the verdicts of non-infringement and invalidity are irreconcilable. For example, it argues the prior art references published ads directly to buyers, as opposed to publishing them to the internet media venues as required by the claims, and Google did not attempt to reconcile this problem below despite arguing it did not infringe because its technology also delivers ads straight to the buyers. In other words, FM argues the jury had to rely on differing claim constructions for infringement and invalidity to reach its *1328 invalidity and noninfringement decisions because Google’s technology works the same way as the prior art. Google argues FM has waived any argument on the basis of irreconcilability because FM did not object to the jury’s verdict before the jury was dismissed.
+ 
+[22] [23] [24] We apply the law of the regional circuit to determine whether an argument that the verdict is irreconcilable has been waived. See Mycogen Plant Sci. v. Monsanto Co., 243 F.3d 1316, 1325 (Fed.Cir.2001) (explaining that this court applies the law of the regional circuit to the issue of inconsistent verdicts because the issue is not unique to patent law). In the Fifth Circuit, a party need not object to the jury’s inconsistent verdict before the jury is dismissed in order to avoid waiver when the verdict is special and falls under Federal Rule of Civil Procedure Rule 49(a). Mercer v. Long Mfg. N.C., Inc., 671 F.2d 946, 947–48 (5th Cir.1982) (“We know of no case in this Circuit holding that inconsistencies in special verdicts pursuant to Rule 49(a) are waived if not raised prior to release of the jury.”); see also id. at 948 n. 1 (explaining waiver does not apply to verdicts under Rule 49(a), but it does apply to verdicts under Rule 49(b)). If the verdict falls under Rule 49(b), which covers general verdicts and general verdicts “with written questions on one or more issues of fact,” waiver applies if no objection is raised before the jury is dismissed. Stancill v. McKenzie Tank Lines, Inc., 497 F.2d 529, 533–35 (5th Cir.1974) ( “By failing to object to the form of the verdict and answers at the time they were announced by the jury, both parties waived any objection to inconsistencies under Rule 49(b).”).
+ 
+Because FM failed to object to the verdict’s irreconcilability at the time the jury returned the verdict, FM can only avoid waiver if the verdict form is considered special. FM argues that the verdict was special because the verdict form asked the jury specific questions about validity and infringement. FM emphasizes that we have found similar forms to be “special” in Comaper Corp. v. Antec, Inc., 596 F.3d 1343, 1350 (Fed.Cir.2010) and L & W, Inc. v. Shertech, Inc., 471 F.3d 1311, 1319 (Fed.Cir.2006). Google urges that this verdict was general because it consisted of simple yes or no questions on infringement, anticipation, and obviousness. It says we have said such forms are general in i4i, 589 F.3d at 1265 and O2 Micro, 521 F.3d at 1358. It distinguishes the form in Comaper, which was labeled as a special verdict and included “special questions” such as whether the prior art was in public use before the critical date.
+ 
+None of the cases cited by either party are helpful. Google’s reliance on i4i and O2 Micro is unhelpful because neither of those cases squarely addressed what is or is not a special verdict. See i4i, 589 F.3d at 1265; O2 Micro, 521 F.3d at 1358. Similarly, the cases cited by FM provide little guidance. In L & W, we held that the appellant had waived its claim of inconsistency in the verdict by not asserting it prior to the discharge of the jury. Because Sixth Circuit law supported waiver regardless of whether the verdict was general or special, we did not question the parties’ assertions that the verdict was special. See 471 F.3d at 1314, 1318–19. Similarly, in Comaper, we accepted without analysis that the “Special Verdict Form” was a special verdict. See 596 F.3d at 1350. This court’s analysis in those cases therefore does not compel the conclusion that the simple verdict form used in this case must be regarded as a special verdict.
+ 
+“The theoretical distinction between general and special verdicts is that general verdicts require the jury to apply the law to facts, and therefore require legal instruction, *1329 whereas special verdicts compel the jury to focus exclusively on its fact finding role.” Charles Alan Wright & Arthur R. Miller, 9B Federal Practice and Procedure § 2503 n. 1 (3d ed.2008). Under the special verdict, the jury finds the facts while the court applies the law, and it is typically unnecessary to even instruct the jury on the law. Id. § 2503. “The special verdict is thought to bring the jury determination into the open, so that all can see what has been done.” Id. In contrast, “[i]n a general verdict, the jury announces only the prevailing party on a particular claim, and may announce damages.” Id. § 2503 n. 1. “[T]he general verdict accompanied by special interrogatories gives the jury an opportunity to express itself broadly through the general verdict—the historic medium—while at the same time turning the jury’s attention to important issues that should be resolved by responding to particular questions before a general verdict is reached.” Id. § 2503; see Fed.R.Civ.P. 49(b).
+ 
+In this case, the portion of the verdict in which the jury applied facts to law on the question of obviousness was clearly a general verdict because it is a legal question resting on underlying factual questions. See Structural Rubber Prods. Co. v. Park Rubber Co., 749 F.2d 707, 720 (Fed.Cir.1984) (explaining that “a trial court may, with proper instructions, ... ask for a general answer on one or more specific legal issues, such as obviousness, a practice not specifically provided for in the Federal Rules”); Kinetic Concepts, Inc. v. Smith & Nephew, Inc., 688 F.3d 1342, 1359 (Fed.Cir.2012) (“Because the ultimate conclusion of obviousness is a legal question, there is strength to the argument that by including that question on its verdict form the court chose to employ a general verdict with answers to written questions governed by Rule 49(b).”). The closer question is on the verdicts regarding anticipation and invalidity, in which the jury answered yes or no questions on each asserted claim. For example, the jury was asked, “Do you find that Google has proven, by clear and convincing evidence, that any of the following claims of the ′025 patent are invalid for the following reasons? [Yes or No?] A. Because it was anticipated by the prior art?” J.A. 17371. The form then listed each claim with a line for the answer. Because anticipation and infringement are questions of fact, the question is whether the jury returned special findings of fact on each claim.
+ 
+We have previously set forth examples of what should and should not be considered a special verdict. In Railroad Dynamics, Inc. v. A. Stucki Co., 727 F.2d 1506, 1516 (Fed.Cir.1984), the jury was asked ten yes or no questions, two of which are very similar to those asked in this case. The jury was asked, “Do you find that the plaintiff has proved by clear and convincing evidence that [the patent] is invalid on the ground of obviousness?” Id. app. A question 1. It was also asked about anticipation: “Do you find that plaintiff has proved by clear and convincing evidence that [the patent] is invalid on the ground that the invention claimed was known, in public use or on sale more than one year prior to the effective date of the patent application?” Id. question 3A. We explained that although the verdicts did not state only the prevailing party, the ten verdicts should properly be considered a general verdict:
+The jury’s responses were not special verdicts, because they were not simply “written finding[s] upon each issue of fact”. Rule 49(a), Fed.R.Civ.P. Nor was there a single general verdict, per se, accompanied by “written answers” to “one or more issues of fact the decision of which is necessary to a verdict”. Rule 49(b) Fed.R.Civ.P. Nonetheless, as *1330 above indicated, the parties have correctly viewed the jury’s ten responses as the equal of a general verdict....
+Id. at 1516. We hold similarly here.
+ 
+It would be impossible for lay juries to determine whether a claim is anticipated or infringed without some legal instruction, as evidenced by our ample case law addressing the correctness of jury instructions. See, e.g., Bettcher Indus., Inc. v. Bunzl USA, Inc., 661 F.3d 629, 641–42 (Fed.Cir.2011) (rejecting an argument that a jury instruction on anticipation contained legal errors). Although the jury was technically finding only “facts,” we hold that the verdict is a general verdict because like the questions in Railroad Dynamics, the questions on anticipation and validity require legal instruction, the application of legal principles, and are more than “simply ‘written finding[s] upon each issue of fact.’ ” See id.; Wright & Miller, § 2503 n. 1 (“[G]eneral verdicts require the jury to apply the law to facts, and therefore require legal instruction.”). Indeed, the questions are so general that they do not bring the jury process into the open so that “all can see what has been done” as expected in a special verdict, which is what makes reviewing a general verdict for consistency so difficult. FM, therefore, waived its argument in favor of irreconcilability by failing to object to the verdict before the jury was dismissed. Stancill, 497 F.2d at 535.
+ 
+While it may seem harsh, requiring objections to be made before the jury is dismissed is the only way to efficiently cure potential inconsistencies when there is not a detailed special verdict to review:
+[To] allow a new trial after the objecting party failed to seek a proper remedy at the only possible time would undermine the incentives for efficient trial procedure and would allow the possible misuse of [the Federal Rules of Civil Procedure] ... to implant a ground for appeal should the jury’s opinion prove distasteful.
+Howard v. Antilla, 294 F.3d 244, 250 (1st Cir.2002) (quoting Skillin v. Kimball, 643 F.2d 19, 19–20 (1st Cir.1981)). It would be improper to allow FM to now argue inconsistencies require an entirely new trial when it failed to object at the only time when an inconsistency could have been cured.
+ 
+
+V. Motion for New Trial
+[25] FM argues that it is entitled to a new trial because the jury’s non-infringement verdict was against the great weight of the evidence under either its construction or the court’s. The district court’s decision to deny FM’s motion is reviewed for abuse of discretion and “will be affirmed unless there is a clear showing of an absolute absence of evidence to support the jury’s verdict.” Rivera, 378 F.3d at 506 (internal quotation marks omitted).
+ 
+[26] The record contains evidence to support the noninfringement verdict. “To prove infringement, the patentee must show that the accused device contains each limitation of the asserted claim, or an equivalent of each limitation.” Bowers v. Baystate Techs., Inc., 320 F.3d 1317, 1334 (Fed.Cir.2003) (citations omitted). We have affirmed the court’s construction of the term “publishing,” which excludes publishing ads directly to the buyer. But it is undisputed that Google’s systems sends ads directly to the buyer, and the jury could properly find that Google does not infringe on that basis.7
+ 
+*1331 [27] FM also argues that the jury verdict is the result of a misapprehension of law, specifically that claims can have one meaning for infringement and another for anticipation. It argues that Google’s expert’s “contradictory” testimony caused the jury to rely on differing constructions for anticipation and infringement. As we have already explained, FM has waived this argument. In any event, this argument does not amount to “a clear showing of an absolute absence of evidence to support the jury’s verdict” of infringement, see Rivera, 378 F.3d at 506 (internal quotation marks omitted), as it does not explain which half of the allegedly irreconcilable verdict is incorrect. Nor has FM shown that the jury relied on an incorrect construction. Sufficient evidence supports the verdict of non-infringement, and the district court did not abuse its discretion when it denied FM’s motion for a new trial.
+ 
+
+CONCLUSION
+As FM has not shown that reversible error occurred, the decision of the district court is
+ 
+AFFIRMED
+ 
+All Citations
+708 F.3d 1310, 105 U.S.P.Q.2d 1754
+Footnotes
+
+1
+
+Yahoo!, Inc. and FM settled before trial.
+
+2
+
+The ′025 Patent is a continuation of the ′045 Patent and they share identical specifications. The ′059 Patent is a continuation-in-part of the ′045 Patent.
+
+3
+
+AdWords itself, which puts the familiar blue text ads next to Google search results, is not alleged to infringe.
+
+4
+
+The asserted claims from these patents have recently been held invalid by the United States Patent and Trademark Office (“PTO”) during reexamination. Google requested reexamination of the ′025, ′059, and ′  045 patents, including all asserted claims. The examiner rejected all claims, and the Board of Patent Appeals and Interferences affirmed. Google requests that we take judicial notice of this fact. It is proper to take judicial notice of a decision from another court or agency at any stage of the proceeding, even if it was not available to the lower court. See Old Reliable Wholesale, Inc. v. Cornell Corp., 635 F.3d 539, 549 (Fed.Cir.2011) (“Although the results of the PTO reexamination proceedings were not available to the district court, this court can take judicial notice [of them].”). The ′045 patent was invalid for indefiniteness but FM may be allowed to file an amendment, while the other rejections have been appealed to this court.
+
+5
+
+Since this suit was filed in 2007, Congress has passed the Leahy–Smith America Invents Act (“AIA”), Pub.L. No. 112–29, 125 Stat. 284 (2011). The AIA reformatted the paragraphs of § 112 as subsections and made other changes not relevant to this appeal. The citations to § 112 in this opinion refer to the statute as it existed prior to the AIA.
+
+6
+
+Similarly, the ′059 Patent states “the third party professional is prompted to input information to select one or more of the internet media venues.” ′059 Patent col. 88 l. 56–58. The court accepted FM’s construction, which tracks the construction for the ′025 Patent by stating “the third-party professional is prompted to input information to select one or more internet media venues.”
+
+7
+
+This is true for Ad Sense for Content and Ad Sense for Mobile, except for certain types of older phones, which do publish ads directly to internet media venues. Google argues that FM never presented actual evidence of infringement for the older phones so there can be no infringement. FM does not contradict this claim in its Reply Brief. Infringement requires specific instances of direct infringement or a finding that every accused device necessarily infringes. Ball Aerosol & Specialty Container, Inc. v. Ltd. Brands, Inc., 555 F.3d 984, 995 (Fed.Cir.2009). FM has not carried that burden with respect to the older phones so we affirm the district court’s denial of new trial with respect to them as well.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  SimpleAir, Inc. v. Microsoft Corp. 
+2013 WL 2242163 , E.D.Tex.
+Before the Court are Plaintiff SimpleAir, Inc.’s Opening Claim Construction Brief (Dkt. No. 302), Defendants’ Responsive Claim Construction Brief (Dkt. No. 329), and Plaintiff’s...
+May 21, 2013
+Case
+
+9
+
+
+
+
+11
+
+
+
+
+F.3d
+
+

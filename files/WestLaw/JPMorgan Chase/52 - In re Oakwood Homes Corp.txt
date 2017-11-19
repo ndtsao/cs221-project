@@ -1,0 +1,604 @@
+
+
+
+
+
+In re Oakwood Homes Corp.
+United States Court of Appeals, Third Circuit. | June 9, 2006 | 449 F.3d 588 | 2006 WL 1579875
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Extend by TransCanada Pipelines Ltd. v. USGen New England, Inc., D.Md., August 30, 2011
+
+standard Citation:
+
+In re Oakwood Homes Corp., 449 F.3d 588 (3d Cir. 2006)
+
+All Citations:
+
+449 F.3d 588, 46 Bankr.Ct.Dec. 167, Bankr. L. Rep. P 80,620
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Delaware
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:57 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Extend by TransCanada Pipelines Ltd. v. USGen New England, Inc., D.Md., August 30, 2011
+449 F.3d 588
+United States Court of Appeals,
+Third Circuit.
+In re OAKWOOD HOMES CORPORATION, Debtor.
+Jefferson-Pilot Life Insurance Company; Jefferson-Pilot Financial Insurance; Tyndall Partners, LP and Tyndall Institutional Partners, LP, Appellants in No. 05-2032.
+*(Amended in accordance with Clerk’s Order dated 7/22/05).
+In re Oakwood Homes Corporation, Debtor.
+JP Morgan Chase Bank, Appellant in No. 05-2033.
+Nos. 05-2032, 05-2033.
+|
+Argued Feb. 21, 2006.
+|
+Filed June 9, 2006.
+Synopsis
+Background: The United States Bankruptcy Court discounted the principal of indenture trustee’s claims to present value after having previously disallowed any part of its claims for unmatured interest arising under Chapter 11 debtor’s guarantee on trust certificates. The United States District Court for the District of Delaware, Joseph J. Farnan, Jr., J., 2005 WL 440798, affirmed, and indenture trustee appealed.
+ 
+[Holding:] The Court of Appeals, Van Antwerpen, Circuit Judge, held that Bankruptcy Court erred by “double discounting” when it discounted the principal component of the claims against Chapter 11 debtor to present value after also having disallowed the post-petition interest portion of the claims.
+ 
+Reversed.
+ 
+Smith, Circuit Judge, filed dissenting opinion.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+BankruptcyConclusions of law;  de novo review
+
+
+51Bankruptcy
+51XIXReview
+51XIX(B)Review of Bankruptcy Court
+51k3782Conclusions of law;  de novo review
+
+
+Court of Appeals exercises plenary review over a bankruptcy court’s legal decisions, and application of law to fact.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+BankruptcyDetermination
+
+
+51Bankruptcy
+51VIIClaims
+51VII(E)Determination
+51k2921In general
+
+
+Indenture trustee’s claims against debtor under guarantee obligating debtor to take over payment of principal and interest to trust certificate holders in the event of any shortfalls consisted of separable interest and principal components, and did not merely represent a singular future liability.
+5 Cases that cite this headnote
+
+
+
+[3]
+
+BankruptcyInterest
+BankruptcyPost-petition interest
+
+
+51Bankruptcy
+51VIIClaims
+51VII(A)In General
+51k2835Interest
+51k2835.1In general
+51Bankruptcy
+51VIIClaims
+51VII(A)In General
+51k2835Interest
+51k2836Post-petition interest
+
+
+Bankruptcy court erred by “double discounting” when it discounted the principal component of the claims against Chapter 11 debtor to present value after also having disallowed the post-petition interest portion of the claims; bankruptcy court could have either disallowed post-petition interest or discounted the entire claim to present value but not both. 11 U.S.C.A. § 502(b)(2).
+7 Cases that cite this headnote
+
+
+
+[4]
+
+BankruptcyInterest
+
+
+51Bankruptcy
+51VIIClaims
+51VII(A)In General
+51k2835Interest
+51k2835.1In general
+
+
+Interest-bearing debt should not be discounted to present value after unmatured interest has been disallowed pursuant to Bankruptcy Code. 11 U.S.C.A. § 502(b)(2).
+5 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*589 G. Eric Brunstad, Jr. (Argued), Timothy B. DeSieno, Rheba Rutkowski, Bingham McCutchen LLP, Hartford, CT, Russell C. Silberglied, Jason M. Madron, Richards, Layton & Finger, P.A., Wilmington, DE, John J. Galban, Seward & Kissel LLP, New York, NY, for Appellants in 05-2032 & 05-2033.
+Robert J. Dehney, Gilbert R. Saydah, Jr., Morris, Nichols, Arsht & Tunnell, Wilmington, DE, Robert J. Stark, Brown Rudnick Berlack Israels, New York, NY, for OHC Liquidation.
+Michael B. Fisco (Argued), Faegre & Benson LLP, Minneapolis, MN, Karen C. Bifferato, Connolly Bove Lodge & Hutz LLP, Wilmington, DE, for Appellee U.S. Bank National Association.
+Before McKEE, SMITH, and VAN ANTWERPEN, Circuit Judges.
+
+
+OPINION OF THE COURT
+VAN ANTWERPEN, Circuit Judge.
+Consolidated before us are two appeals by JP Morgan Chase Bank (“JP Morgan”). JP Morgan challenges the District Court’s order affirming the Bankruptcy Court’s decision to reduce claims filed by JP Morgan, the trustee for the holders of certain certificates, after objections were filed by the U.S. Bank National Association (“U.S.Bank”), the indenture trustee for the holders of certain more senior notes. The Bankruptcy Court’s dual, but related, rulings first disallowed any part of JP Morgan’s claims for unmatured interest arising under a Guarantee on the certificates, then further discounted the principal of the claims to present value. JP Morgan alleges that discounting the principal of the claims to present value is unauthorized by the Bankruptcy Code, and results in inequitable treatment of like creditors. JP Morgan does not appeal the District Court’s affirmance of the Bankruptcy Court’s disallowance of claims for unmatured interest. We will reverse the order of the District Court with respect to present value discounting of principal.
+ 
+
+I. FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+A. Oakwood and the Trusts
+These appeals arise from the bankruptcy proceedings of Oakwood Homes Corporation (“Oakwood”), a builder and seller of prefabricated homes. Oakwood’s subsidiaries frequently extended credit to home-buyers under long-term mortgage arrangements, then securitized these mortgages by selling them to trusts set up for this purpose (“the Trusts”).1 The Trusts issued various certificates in order to raise *590 the money to pay Oakwood for the mortgages. The certificates were serviced by the Trusts with the funds paid by customers under their mortgages. The buyers of the certificates were entitled to periodic payments of principal and interest.
+ 
+At issue here are certain low-priority certificates issued by several of the Trusts over the course of three years. The certificate holders represented by JP Morgan bought approximately $100 million of these certificates, known as “B-2 Certificates,” from underwriters. With such low payment priority relative to other issued certificates, the B-2 Certificates were understandably difficult to market. Oakwood therefore provided a Guarantee of payment for the B-2 Certificates, whereby Oakwood promised to cover any shortfalls in payments by the Trusts of principal or interest. For example, in the Guarantee for one of the Trusts at issue here, Oakwood agreed to “unconditionally and absolutely guarantee [ ] the full and prompt payment to the Trustee on or prior to the Remittance Date relating to each Distribution Date of the Limited Guarantee Payment Amount.”
+ 
+The B-2 Certificates, and distributions thereon, were governed by the Pooling and Servicing Agreement for each Trust. One Trust at issue here, the 1997-D Trust,2 issued certificates with a total principal value of over $250 million, of which about $10 million were B-2 Certificates. The Pooling and Servicing Agreement explicitly provided for “the distribution of the principal of and interest on the Certificates in accordance with their terms.” The agreement specified the applicable interest rates, distribution dates, and priorities for each of the classes of issued certificates, including the B-2 Certificates. On each distribution date, the trustee of the Trust was instructed to distribute principal and interest payments to each class, in order of priority. Distribution dates stretched almost to the year 2030.
+ 
+The distributions from the Trusts fundamentally depended on the mortgage customers making their scheduled mortgage payments to the Trusts. This did not happen in many cases. The future ability of the Trusts to make principal and interest payments to the B-2 Certificate holders, who had the lowest payment priority, therefore came into doubt. Such nonpayment would trigger Oakwood’s obligation under the Guarantees to ensure full payment of principal and interest to the B-2 Certificate holders.
+ 
+
+B. Bankruptcy Proceedings
+Oakwood filed for Chapter 11 bankruptcy protection on November 15, 2002, in the United States Bankruptcy Court for the District of Delaware. Various creditors filed proofs of claim with the Bankruptcy Court. U.S. Bank, for example, filed proofs of claim as indenture trustee for holders of $300 million of more senior notes issued directly by Oakwood. JP Morgan filed proofs of claim on behalf of B-2 Certificate holders, seeking over $1 billion. The holders of $605 million of these claims, covered under different Guarantees than those at issue here, settled their claims, leaving about $400 million in claims remaining.
+ 
+JP Morgan alleged that because the Trusts were unable to fully service the B-2 Certificates, Oakwood was, and would continue to be, liable for the principal and interest shortfalls on the Certificates by virtue of the Guarantee. Of the $400 million *591 in claims, about $116 million was attributable to future shortfalls in the Trusts’ payment of principal to the B-2 Certificate holders. Another $1 million was attributable to shortfalls in the Trusts’ payment of interest, due before Oakwood filed its bankruptcy petition (“pre-petition interest”). The remainder was attributable to future shortfalls in interest payments, that would come due after the petition date (“post-petition interest” or “unmatured interest”).
+ 
+U.S. Bank filed objections to JP Morgan’s claims on October 10, 2003, and November 21, 2003, pursuant to the objection provisions of 11 U.S.C. § 502. U.S. Bank alleged (1) JP Morgan’s claims should not include post-petition interest; and (2) JP Morgan’s remaining claims for principal payments should be discounted to present value as of the bankruptcy petition date. The parties stipulated to the shortfalls in principal and interest payments that Oakwood, as Guarantor, would be obligated to pay at various distribution dates on each Trust’s B-2 Certificates.
+ 
+Following several hearings, the Bankruptcy Court issued two rulings relevant here. First, the Bankruptcy Court at a hearing on November 26, 2003, disallowed any portion of JP Morgan’s claims attributable to post-petition interest, totaling hundreds of millions of dollars, pursuant to 11 U.S.C. § 502(b)(2) (“allow such claim ... except to the extent that ... such claim is for unmatured interest”). Second, the Bankruptcy Court at a hearing on January 23, 2004, ruled without discussion or explanation that the portion of the claims attributable to principal shortfalls ($116,370,915) should be discounted to present value pursuant to language in 11 U.S.C. § 502(b) directing a court to “determine the amount of such claim ... as of the date of the filing of the petition.” The Bankruptcy Court entered orders on May 6, 2004, reflecting these rulings, ultimately allowing JP Morgan’s claims for pre-petition interest and $30,491,930 in principal claims.3
+ 
+While immaterial to this appeal, we note that the Bankruptcy Court approved a reorganization plan for Oakwood on April 16, 2004. JP Morgan will ultimately receive a distribution equal to between 37.4% and 50% of its allowed claims.
+ 
+
+C. Appeals and Collateral Litigation
+Acting now on behalf of the holders of B-2 Certificates allegedly entitled to $95.5 million (of the $116 million at issue in the Bankruptcy Court) in future principal shortfall payments, JP Morgan appealed the Bankruptcy Court’s Orders to the District Court for the District of Delaware on May 17, 2004. The District Court affirmed both of the Bankruptcy Court’s rulings-disallowing interest and discounting principal-on February 22, 2005.
+ 
+The District Court rejected JP Morgan’s argument that 11 U.S.C. § 502(b) did not require discounting an interest-bearing unmatured principal claim to present value on top of disallowing all post-petition interest, and that such a further reduction would be “double discounting.” In so doing, the District Court held that § 502(b) was clear and unambiguous in its instruction to discount a claim to present value. The District Court stated that it was “not persuaded that the distinction between interest-bearing claims and non-interest-bearing claims is significant to the issue at bar.” Although the Bankruptcy Court had *592 provided no explanation for its rulings, the District Court concluded that the Bankruptcy Court’s previous holding in In re: Loewen Group International, Inc., 274 B.R. 427 (Bankr.D.Del.2002), was “persuasive.” The District Court also agreed with the Bankruptcy Court that § 502(b)(2) explicitly disallowed post-petition interest.
+ 
+JP Morgan appealed the District Court’s Order in three separate appeals (representing various B-2 Certificate holders), which this Court consolidated on April 12, 2005. JP Morgan appealed only the decision to discount the principal shortfalls to present value, and did not challenge the disallowance of post-petition interest. This Court dismissed one of the appeals, docketed at No. 05-2034, on December 20, 2005, pursuant to a joint stipulation of the parties. Remaining before us are claims for roughly $30 million (undiscounted) in principal shortfalls for which Oakwood will be liable.
+ 
+Following the filing of JP Morgan’s notices of appeal, the parties continued to litigate collateral effects of the claims issues in the courts below. The Bankruptcy Court ordered the Oakwood estate to reserve $61 million to cover JP Morgan’s claims appeals if JP Morgan posted a bond; JP Morgan declined to post the bond, and both the District Court and this Court refused to stay distributions from the estate. The District Court later granted such a stay without bond, then rescinded the stay and affirmed the Bankruptcy Court’s ultimate setting of a $0 cash reserve absent posting of a bond. On December 19, 2005, we stayed the appeals of the latter order pending our resolution of the instant appeals.
+ 
+
+II. JURISDICTION AND STANDARD OF REVIEW
+The Bankruptcy Court had jurisdiction over Oakwood’s Chapter 11 filing pursuant to 28 U.S.C. § 157. The District Court had jurisdiction to hear an appeal from a ruling of the Bankruptcy Court pursuant to 28 U.S.C. § 158(a). This Court has jurisdiction over this appeal pursuant to 28 U.S.C. §§ 158(d), 1291.
+ 
+[1] The parties do not dispute the Bankruptcy Court’s factual findings. We exercise plenary review over the Bankruptcy Court’s legal decisions, and application of law to fact. In re Telegroup, Inc., 281 F.3d 133, 136 (3d Cir.2002). “Because the District Court sat below as an appellate court, this Court conducts the same review of the Bankruptcy Court’s order as did the District Court.” Id.
+ 
+
+III. ANALYSIS
+Because JP Morgan did not appeal the District Court’s affirmance of the Bankruptcy Court’s ruling disallowing any claim for post-petition interest under 11 U.S.C. § 502(b), the only issue before us is whether the Bankruptcy Court erred by “double discounting” when it discounted the principal component of the claims to present value after also having disallowed the post-petition interest portion of the claims. We hold that this was, indeed, error, and we will reverse for the reasons set forth below.
+ 
+Given the complexity of the issue at hand, we will set out up front the parties’ main contentions and our conclusions. JP Morgan alleges that the Bankruptcy Court should not have “double discounted” its claims by disallowing that part of the claims attributable to post-petition interest, and then further reducing the claims by discounting the remainder to present value. U.S. Bank argues that discounting to present value is required by the clear and unambiguous language of 11 U.S.C. § 502(b), which instructs a court to “determine the amount of such claim ... as of *593 the date of the filing of the petition,” regardless of whether the court has already reduced the claim by disallowing post-petition interest under § 502(b)(2). U.S. Bank also argues that § 502(b)(2) is irrelevant to the issue of discounting because the claims only arise under a Guarantee, and not from an obligation to pay separable interest plus principal.
+ 
+We conclude that JP Morgan’s claims involve separable interest and principal, and not merely a single future liability on Oakwood’s part that would be discounted to reflect the time-value of money. We find that 11 U.S.C. § 502(b) is far from clear and unambiguous in light of other sections of the Bankruptcy Code, and the admitted different plain meanings of the words “amount” and “value.” Inquiry into the legislative history of the provision shows that the Bankruptcy Court could have either disallowed post-petition interest or discounted the entire claim to present value-but not both. We note that our colleague in dissent is in agreement on the latter part of this proposition-that both disallowing post-petition interest and discounting the claim to present value would be impermissible and inequitable double discounting.
+ 
+
+A. The Claims
+[2] On appeal, appellee U.S. Bank attempted to fill in and defend the Bankruptcy Court’s silent reasoning by alleging that the documents providing the foundation for JP Morgan’s claims-the Guarantee and the Pooling and Servicing Agreement-show a simple agreement to receive money in the future, and that basic economics and the Bankruptcy Code require money received in the future to be discounted to present value. U.S. Bank also contends that because the claims are being made only on the Guarantee, and not on the B-2 Certificates themselves, the claims should be treated similarly as a mere future liability. JP Morgan responds that the documents, as well as the Bankruptcy Court’s approach to the claims and U.S. Bank’s own litigation strategy and admissions, prove that the claims are for future payments of separable principal and interest. We agree.
+ 
+We begin with the documents themselves. The Pooling and Service Agreement, which governs the B-2 Certificates at issue here, clearly defined the Certificates in terms of principal and interest distributions at set dates. See, e.g., 1997-D Pooling and Service Agreement, at § 3 (defining the certificate classes, their pass-through rates, and initial principal balances); id. at § 5 (setting out the order of priority for principal and interest payments on each distribution date); id. at § 10 (stating that “[i]nterest on the ... Class B-2 Certificates will be computed on the basis of a 360-day year consisting of twelve 30-day months”). Based on their governing documents, the B-2 Certificate holders were intended to be entitled to both principal and interest payments throughout the certificate lifetime.
+ 
+The fact that the claims here arise only because of Oakwood’s obligations under the Guarantee does not change the fundamental economic nature of the B-2 Certificate holders’ bargained-for transaction. The Guarantee applicable to the 1997-D Trust B-2 Certificates states that Oakwood “unconditionally and absolutely guarantees the full and prompt payment ... of the Limited Guarantee Payment Amount (as such term is defined in the Pooling and Service Agreement), if any” for each scheduled distribution date. Turning back to the Pooling and Service Agreement, we see that “Limited Guarantee Payment Amount” is defined as follows:
+“With respect to any Distribution Date, the amount after giving effect to the *594 allocation of the Available Distribution Amount for such date, equal to the amount of shortfalls in collections on the Assets otherwise distributable on such Distribution Date not in excess of the sum of (a) any unpaid Interest Distribution Amount, Carryover Interest Distribution Amount, Writedown Interest Distribution Amount and Carryover Writedown Distribution Amount distributable on such Distribution Date ... and (b) any unpaid principal amounts payable on such Distribution Date....”
+1997-D Pooling and Service Agreement, at § 2 (emphases added). After parsing this rather dense language, the Guarantee reduces to the following: Oakwood promised to cover any shortfall resulting from the Trust’s inability to make distributions of interest and principal to the B-2 Certificate holders.4
+ 
+We note that the approach of the Bankruptcy Court throughout this litigation illustrates JP Morgan’s claims for future, separable, payments of principal and interest, and not simply for a lump sum of money payable in the future, as U.S. Bank would have us believe. The Bankruptcy Court allowed the portion of JP Morgan’s claims attributable to pre-petition interest; disallowed the portion attributable to post-petition interest; and then treated the principal portion separately. The Bankruptcy Court similarly stated that it was irrelevant whether the claim arose against a guarantor instead of a primary obligor. Hearing, Bankruptcy Court, November 26, 2003. U.S. Bank itself urged this approach-separating interest and principal-throughout proceedings in this Court, the District Court, and the Bankruptcy Court.
+ 
+We do not accept U.S. Bank’s argument that simply because the claims technically arise from the Guarantee, we should not treat them like normal claims based on an instrument obligating the payor to make periodic distributions of principal and interest. The Guarantee itself refutes this stance, and U.S. Bank has consistently taken the contrary position. As we have noted above, the Guarantee obligates Oakwood to take over payment of principal and interest to B-2 Certificate holders in the event of any shortfalls. This places Oakwood, the guarantor, in exactly the same position as the Trusts, the primary obligors, with respect to the obligation to make these principal and interest payments.
+ 
+We conclude that as a matter of economics based on the governing B-2 Certificate documents, JP Morgan’s claims consist of separable interest and principal components, and do not merely represent a singular future liability. We must still decide, though, whether 11 U.S.C. § 502(b) requires discounting the principal component of those claims after the interest component has already been disallowed under § 502(b)(2).
+ 
+
+B. 11 U.S.C. § 502(b)
+The Bankruptcy Court held, and the District Court affirmed, that even after JP Morgan’s claims for post-petition interest were disallowed, the principal owed under *595 the Guarantee should be discounted to present value as of the petition date. In this limited appeal,5 we express no view on whether the Bankruptcy Court correctly disallowed post-petition interest pursuant to 11 U.S.C. § 502(b)(2). We must decide only the narrower issue before us, whether further reduction of the claims by discounting is required or allowed by the Bankruptcy Code. We hold that it is not, but our rationale for so holding will require inquiry into various portions of the Bankruptcy Code and their legislative history.
+ 
+Stated simply, 11 U.S.C. § 502(b) speaks in terms of determining the “amount” of a claim “as of” the petition date. However, given that the remainder of the Bankruptcy Code uses the term “value, as of” to signify discounting to present value, and “amount” and “value” are not synonymous, we cannot say that § 502(b) clearly and unambiguously requires discounting to present value in all situations.
+ 
+We begin as we must with the plain language of the statute. United States v. Ron Pair Enters., Inc., 489 U.S. 235, 241, 109 S.Ct. 1026, 103 L.Ed.2d 290 (1989). First, though, we find it necessary to briefly explain how the Bankruptcy Code processes and allows claims. 11 U.S.C. § 101(5)(A) defines a “claim” as a “right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secure, or unsecured.” We have often said that “claim” was intended to be read very broadly. E.g., In re PPI Enters. (U.S.), Inc., 324 F.3d 197, 203 (3d Cir.2003). A “creditor or indenture trustee” seeking to make a claim on a bankruptcy estate is instructed to file a proof of claim pursuant to 11 U.S.C. § 501. All claims are presumptively “allowed” in full unless another party in interest in the proceedings files an objection. 11 U.S.C. § 502(a). If such an objection is made, as here, the Bankruptcy Court holds a hearing and reduces the allowable amount of the claim pursuant to the remainder of § 502. Specifically, the Bankruptcy Court would look to a specific subsection of § 502(b), and as U.S. Bank argues, § 502(b) itself.
+ 
+This brings us to the minutiae of 11 U.S.C. § 502(b). The Bankruptcy Court appears to have relied first on § 502(b)(2) for the proposition that post-petition interest *596 should be disallowed, and then on § 502(b) overall6 for the proposition that the principal remainder of the claims should be discounted to present value. JP Morgan contends that this ruling constituted impermissible “double discounting” of its claims. 11 U.S.C. § 502(b) states in pertinent part, with emphases added where relevant to the case at hand:
+ 
+“(b) Except as provided in subsections (e)(2), (f), (g), (h) and (i) of this section, if such objection to a claim is made, the court, after notice and a hearing, shall determine the amount of such claim in lawful currency of the United States as of the date of filing of the petition, and shall allow such claim in such amount, except to the extent that-
+(1) such claim is unenforceable against the debtor and property of the debtor, under any agreement or applicable law for a reason other than because such claim is contingent or unmatured;
+(2) such claim is for unmatured interest; ”
+In response to JP Morgan’s arguments, U.S. Bank contends the Bankruptcy Court, and the District Court in affirming, correctly held that the plain language of § 502(b), ordering a court to “determine the amount of such claim ... as of the date of filing of the petition,” requires a Bankruptcy Court to discount a claim to present value regardless of whether § 502(b)(2) has already led the Bankruptcy Court to disallow the interest portion of the claim. JP Morgan responds that § 502(b) is far from clear and unambiguous when read holistically with the rest of the Bankruptcy Code, and that the legislative history behind § 502(b)(2), along with basic economics, shows the Bankruptcy Court erred.
+
+1. Clear and Unambiguous?
+Contrary to U.S. Bank’s assertions, and the District Court’s conclusion below, we do not believe 11 U.S.C. § 502(b) is clear and unambiguous. Inquiry into the rest of the Bankruptcy Code and the legislative history of 11 U.S.C. § 502(b) is therefore appropriate. In re Price, 370 F.3d 362, 369 (3d Cir.2004) (citing United States v. Fisher, 6 U.S. (2 Cranch) 358, 386, 2 L.Ed. 304 (1805)). The Supreme Court has instructed us to view the Bankruptcy Code holistically, instead of in isolated sections. United Sav. Ass’n of Texas v. Timbers of Inwood Forest Assocs., Ltd., 484 U.S. 365, 371, 108 S.Ct. 626, 98 L.Ed.2d 740 (1988).
+ 
+Viewed against the remainder of the Bankruptcy Code, “amount of such claim ... as of the date of the filing of the petition” simply does not clearly and unambiguously require discounting a claim to present value. Rather, “the full face amount of a debt instrument is the proper *597 amount of claim in a bankruptcy case” where, as here, original issue discount is not at issue.7 4-502 COLLIER ON BANKRUPTCY ¶ 502.03 (5th rev. ed.2005) (emphases added).
+ 
+We are not convinced that a plain reading of § 502(b) supports the Bankruptcy Court’s conclusion. “The plainness or ambiguity of statutory language is determined by reference to the language itself, the specific context in which that language is used, and the broader context of the statute as a whole.” Robinson v. Shell Oil Co., 519 U.S. 337, 341, 117 S.Ct. 843, 136 L.Ed.2d 808 (1997). Neither “amount” nor “value” is defined in the Bankruptcy Code. See 11 U.S.C. § 101 (definitions). At argument, however, U.S. Bank conceded that “amount” does not mean the same thing as “value.”8
+ 
+Most significant is how the Bankruptcy Code itself uses “amount” and “value.” U.S. Bank argues that “as of the date of the filing of the petition” axiomatically requires that a present value calculation be performed on the “amount” of a claim. However, as JP Morgan correctly notes, where the Bankruptcy Code intends a court to discount something to present value, the Code clearly uses the term “value, as of” a certain date. See, e.g., 11 U.S.C. §§ 1129 (“value, as of the effective date of the plan”), 1173 (same), 1225 (same), 1325 (same), 1328 (same). Many sources support the use of the term “value” for this purpose; none support U.S. Bank’s contention that “amount ... as of” also implies a present value calculation.9 For example, Collier on Bankruptcy, in describing another section of the Bankruptcy Code, states that:
+ 
+“In three places in section 1129(b)(2), and in at least two other places in section 1129, confirmation requires that a creditor or interest holder receive property ‘of a value, as of the effective date of the plan’ equal to some amount, usually the allowed amount of the participant’s claim. Congress was clear that the use of this term meant that courts were to calculate the ‘present value’ of the property.”
+7-1129 COLLIER ON BANKRUPTCY ¶ 1129.06 (emphasis added); id. at n. 3 (“This contemplates a present value analysis that will discount value to be received in the future.”) (quoting H.R.Rep. No. 95-595, at 414 (1977)). Thus, 11 U.S.C. § 502(b) does not contain the language used elsewhere in the Bankruptcy Code to require a present value calculation.
+U.S. Bank is correct that in each of the Bankruptcy Code sections cited above, the Code refers only to the process by which the holders of already-allowed claims are paid from the bankruptcy estate. These sections permit a court, for example, to confirm a reorganization plan only if a *598 holder of an impaired claim has accepted the plan or “will receive or retain under the plan on account of such claim or interest property of a value, as of the effective date of the plan, that is not less than the amount that such holder would so receive or retain if the debtor were liquidated under chapter 7 of this title on such date.” 11 U.S.C. § 1129(a)(7)(A) (emphasis added). However, these same sections also refer to the discounting of future cash installment payments to present value-virtually the exact financial situation we address today-by using the language “deferred cash payments of a value, as of the effective date of the plan,” or “regular installment payments in cash-of a total value, as of the effective date of the plan.” 11 U.S.C. §§ 1129(a)(9)(B)(i)-(C)(i). Where the Code speaks of discounting cash streams to present value, it speaks in terms of “value, as of” a certain date. It does not use “amount ... as of.”
+ 
+Viewing the Bankruptcy Code holistically, we cannot say that the language of 11 U.S.C. § 502(b) clearly and unambiguously requires the same discounting to present value as is required in other sections of the Code.10 See also 7-1129 COLLIER ON BANKRUPTCY ¶ 1129.06 (emphasis added) (“The relevant date for all determinations of present value required by the Code is the ‘effective date’ of the plan.”).
+ 
+We do not hold here that 11 U.S.C. § 502(b) never authorizes discounting a claim to present value, but instead that the statute does not clearly and unambiguously require it for all claims evaluated under § 502.11 In general, we of course acknowledge that money received today is more valuable than money negotiated to be received in the future, and reduction in recognition of that basic economic fact may sometimes be appropriate. The subsections of § 502(b) encompass various financial circumstances, however, as our colleague in dissent points out; therefore we must look at the interplay between the subsection at issue here, § 502(b)(2), and § 502(b) as a whole.
+ 
+
+C. 11 U.S.C. § 502(b)(2)
+The Bankruptcy Court treated the two facets of its ruling as separate and distinct-(1) post-petition interest was disallowed under 11 U.S.C. § 502(b)(2), and then (2) the claims (now consisting only of *599 principal)12 were discounted to present value, presumably under the direction of § 502(b). JP Morgan argues that the two cannot be separated. We agree. Once the Bankruptcy Court disallowed post-petition interest pursuant to § 502(b)(2), the legislative history of the provision, the economic reality of the transaction, and fundamental tenets of bankruptcy law do not permit further discounting of the principal.
+ 
+[3] [4] By its terms, 11 U.S.C. § 502(b)(2) applies only to claims involving interest in addition to principal. A note providing for payments of principal plus interest is fundamentally more valuable than a note involving the same principal payments, but no interest. A buyer of a note that includes interest surely knows he is bargaining for a more valuable instrument, as does the seller. Contrary to the District Court’s assertion, then, “the distinction between interest-bearing claims and non-interest-bearing claims” is highly significant. U.S. Bank could not cite this Court to a single case from any court that applied discounting to an interest-bearing instrument after the post-petition interest had been disallowed under § 502(b)(2).13
+ 
+11 U.S.C. § 502(b)(2) disallows, according to its terms, any portion of a claim attributable to “unmatured interest.” We will set out the applicable portion of the legislative history for the Bankruptcy Act of 1978:
+“A proof of claim or interest is prima facie evidence of the claim or interest. Thus it is allowed under subsection (a) unless a party in interest objects. The Rules and case law will determine who is a party in interest for purposes of objection to allowance....
+Subsection (b) prescribes the grounds on which a claim may be disallowed. The court will apply these standards if there is an objection to a proof of claim. The burden of proof on the issue of allowance is left to the Rules of Bankruptcy Procedure....
+Paragraph (2) requires disallowance to the extent that the claim is for unmatured interest as of the date of the petition. Whether interest is matured or unmatured on the date of bankruptcy is to be determined without reference to any ipso facto or bankruptcy clause in the agreement creating the claim. Interest disallowed under this paragraph includes postpetition interest that is not yet due and payable, and any portion of prepaid interest that represents an original discounting of the claim, yet that would not have been earned on the date *600 of bankruptcy....14
+ 
+Section 502(b) thus contains two principles of present law. First, interest stops accruing at the date of the filing of the petition, because any claim for unmatured interest is disallowed under this paragraph. Second, bankruptcy operates as the acceleration of the principal amount of all claims against the debtor. One unarticulated reason for this is that the discounting factor for claims after the commencement of the case is equivalent to [the] contractual interest rate on the claim. Thus, this paragraph does not cause disallowance of claims that have not been discounted to a present value because of the irrebutable presumption that the discounting rate and the contractual interest rate (even a zero interest rate) are equivalent.”
+H.R.Rep. No. 95-595, at 352-54 (1977) (emphases added); see also S.Rep. No. 95-989, at 62-65 (1978) (same).
+We make several observations regarding this legislative history. To the extent that the Code in any way contemplates discounting to present value, such discounting is not permitted where the claim is for principal plus interest, and the interest has already been disallowed pursuant to § 502(b)(2).
+ 
+As a matter of economics, the legislative history recognizes that it is irrelevant whether a court applies § 502(b)(2) to disallow unmatured interest, or discounts the entire amount (i.e., principal plus interest) to present value-as long as the court performs only one such operation and not both, the result is the same.15 “Although potentially complex, present value can be simplified if a deferred promise to pay bears a market rate of interest; after the math is done, such a note will have a present value equal to its face amount.” 7-1129 COLLIER ON BANKRUPTCY ¶ 1129.03.
+ 
+A (relatively) simple mathematical example shows the equivalence of the two methods. A $1,000 face value note bears an interest rate of 5%, and pays out annually over 10 years. At the end of the 10 years, the buyer/creditor would have received $1,628.89 in principal and interest (i.e., the note’s “future value”). Assuming that the seller/debtor filed for bankruptcy on the day of issuance, however, disallowing all post-petition interest pursuant to § 502(b)(2) would yield a principal claim for $1,000. Similarly, discounting the entire claim ($1,628.89) to present value using the contractual rate of interest (5%) *601 also yields a claim for $1,000.16 By contrast, the Bankruptcy Court’s approach below (both disallowing interest and then discounting to present value) yields a claim for only $613.91.
+ 
+The point is to recognize what the creditor bargained for, while avoiding a windfall. The key difference between interest-and non-interest-bearing debt is in that bargain-the holder of a non-interest-bearing note bargained to receive only his $1,000, spread out over the 10 years. The holder of interest-bearing debt, however, bargained for much more than the $1,000-$1,628.89, in fact. Giving him $1,000 today, then, means that by the end of what would have been the note’s 10-year lifetime, he could have reinvested at the same theoretical rate of interest, and earned his $1,628.89. A creditor who bargained to receive only the $1,000 in principal, without interest, would be fully compensated by $613.91, which he would be able to grow into his $1,000 by the end of the 10 years; not so for the creditor who bargained to receive interest, who is shortchanged by only receiving $613.91.
+ 
+We emphasize that our holding in this case in no way yields a windfall for creditors such as JP Morgan. Instead, the interplay between § 502(b) and § 502(b)(2), as reflected in both the legislative history and basic economics, acknowledges that once unmatured interest has been disallowed, discounting the remainder of the claim to present value would inequitably twice penalize the creditor for the time value of money. We wholeheartedly agree that future liabilities must be reduced in some way to reflect the time value of money, but doing so twice is the “double discounting” complained of by JP Morgan in this case.
+ 
+We acknowledge, but reject, U.S. Bank and the District Court’s near-total, but misplaced. reliance on In re: Loewen Group International, Inc., 274 B.R. 427 (Bankr.D.Del.2002) (“Loewen”). Loewen, a Bankruptcy Court case, dealt only with non-interest-bearing instruments, and concluded that they should be discounted to present value. We reject, as detailed above, the Loewen court’s baseline conclusion that 11 U.S.C. § 502(b) is clear and unambiguous. We decline to follow the approach of Loewen.17
+ 
+*602 As appealing as it is, we must also reject our dissenting colleague’s theory that the reason interest-bearing debt would not be discounted to present value is because future principal is accelerated (once post-petition interest is disallowed under § 502(b)(2)), and becomes presently due debt. Dis. Op. at 7.18 We note that this approach might not lead to the limited result the dissent assumes, if we essay a glance at the rest of § 502(b), and not merely at § 502(b)(2). The general rule of both the Bankruptcy Code and § 502(b), as our colleague notes correctly, Dis. Op. at 5, 13, is acceleration to the date of filing of the bankruptcy petition, for the purpose of filing a claim-not the lack of acceleration.19 Section 502(b) in particular illustrates *603 this point-subsections (6) and (7) specify claims determined “without acceleration,” (emphasis added). The default state of all “amounts” under § 502(b) subsections other than subsections (6) and (7), then, is acceleration. Under our colleague’s approach, all of these “amounts” would be accelerated and presently due, therefore none would be discounted to present value pursuant to § 502(b). What our colleague describes as a “special rule created by § 502(b)(2),” Dis. Op. at 19, would instead swallow the general rule, and any discounting language the dissent finds in § 502(b) would become mere surplusage.
+ 
+We conclude that the language used in § 502(b) does not clearly and unambiguously require discounting an interest-bearing obligation to present value in light of the words’ plain meanings and the language used elsewhere in the Bankruptcy Code. The Bankruptcy Court erred: Interest-bearing debt should not be discounted to present value after unmatured interest has been disallowed pursuant to § 502(b)(2).
+ 
+
+IV. CONCLUSION
+We conclude that the Bankruptcy Court erred in holding, and the District Court erred in affirming, that JP Morgan’s claims should be discounted to present value even after the portion of the claims for post-petition interest was disallowed. Accordingly, we will reverse.
+ 
+
+SMITH, Circuit Judge, dissenting.
+
+The majority’s reasoning today unnecessarily casts doubt on a long-standing, broadly-recognized, and well-justified principle arising under the Bankruptcy Code: that in order to avoid a windfall for certain creditors, claims based on future obligations should be discounted to present value before those obligations become eligible for immediate distribution. Further, the majority’s holding rests on a mischaracterization of the disputed claims: the majority treats the claims as equivalent to principal and interest payments on a loan, when in fact the securitization and guarantee process in this case gave rise to claims that were based on non-interest-bearing future obligations. I respectfully dissent.
+ 
+In adopting their characterization of the disputed claims, the majority repeats an error committed by both the Bankruptcy Court and the District Court. This mischaracterization of the disputed claims in turn led those courts to erroneously disallow the B-2 Certificate holders’ claims to the extent that they were for Oakwood Homes’ guarantees of payment for the stipulated shortfalls in the Interest Distribution Amounts. JP Morgan, however, failed to raise this issue on appeal, and therefore there is no opportunity to correct that error.
+ 
+Because I believe that the Bankruptcy Court and the District Court did not otherwise err in holding that the B-2 Certificate holders’ claims should be discounted to present value, the issues actually raised on appeal do not require reversing the District Court’s judgment. Accordingly, I would affirm.
+ 
+
+I.
+The general purpose of bankruptcy is to “administer an estate as to bring about a ratable distribution of assets among the bankrupt’s creditors.” Vanston Bondholders Protective Comm. v. Green, 329 U.S. 156, 161, 67 S.Ct. 237, 91 L.Ed. 162 (1946). Section 502 of the Bankruptcy Code carries out this purpose through a two-step process. Section 502(a) provides that a creditor’s claim is deemed allowed unless a party in interest objects. 11 U.S.C. § 502(a). If a party in interest objects to *604 a claim, however, “the court, after notice and a hearing, shall determine the amount of such claim in lawful currency of the United States as of the date of the filing of the petition, and shall allow such claim in such amount.” 11 U.S.C. § 502(b). Section 502(b) also specifies several exceptions to this general rule, most relevantly that the court shall not allow a claim “to the extent that ... such claim is for unmatured interest.” 11 U.S.C. § 502(b)(2). Traditionally, courts have collectively construed § 502(b) and § 502(b)(2) as creating two distinct tracks for analyzing claims based on future obligations: a general track for claims based on noninterest-bearing future obligations, and a special track for claims based on interest-bearing loan obligations.
+ 
+
+A.
+When other courts have applied the general rule in § 502(b) to claims based on future obligations, they have discounted such claims to present value. See In re CSC Indus., Inc., 232 F.3d 505, 508 (6th Cir.2001) (holding in a case involving unfunded benefit liabilities under ERISA that “the bankruptcy court must value present claims and reduce claims for future payment to present value”); In re CF & I Fabricators of Utah, Inc., 150 F.3d 1293, 1300 (10th Cir.1998) (same); In re O.P.M. Leasing Servs., Inc., 79 B.R. 161 (S.D.N.Y.1987) (discounting scheduled reimbursement due under lease); In re Loewen Group Int’l, 274 B.R. 427, 432-41 (Bankr.D.Del.2002) (discounting future payments owed on a noninterest-bearing promissory note); In re Trace Int’l Holdings, Inc., 284 B.R. 32, 38 (Bankr.S.D.N.Y.2002) (discounting deferred compensation claim). The basic purpose of this discounting practice is to “insure the relative equality of payment between claims that mature in the future and claims that can be paid on the date of bankruptcy.” In re CF & I, 150 F.3d at 1300; see also In re Trace, 284 B.R. at 38 (“Discounting is consistent with the fundamental goal of treating similar claims in the same manner ... and reflects the economic reality that a sum of money received today is worth more than the same amount received tomorrow.... Paying the face amount on an accelerated basis would overcompensate the creditor by enabling him to receive and use the money sooner.”).
+ 
+The courts have properly found the necessary textual support for this discounting practice in the general requirement of § 502(b) that the court “shall determine the amount of such claim in lawful currency of the United States as of the date of the filing of the petition, and shall allow such claim in such amount.” See In re CSC, 232 F.3d at 508; In re CF & I, 150 F.3d at 1300; In re O.P.M., 79 B.R. at 165; In re Trace, 284 B.R. at 38-39. As the Trace Court explained, the “amount of the claim may and often does vary from the allowed amount of the claim, the portion eligible for distribution.” 284 B.R. at 39 (emphasis in original); see also In re Johns, 37 F.3d 1021, 1023 n. 1 (3d Cir.1994) (“An ‘allowed’ claim is one that will serve as the basis for distribution.”). Pursuant to the general instruction in § 502(b), this allowed amount is determined by the value of the claim in United States currency as of the petition date, which requires discounting what were originally future payments to present value. See In re Trace, 284 B.R. at 39; see also In re O.P.M., 79 B.R. at 164 (“[A] determination of the amount of such claim cannot be distinguished from a determination of the value of the claim as of the petition date because any valuation of a claim is necessarily embodied in § 502(b) so that the amount of the claim to be allowed is properly ascertained.”) (internal quotations and citations omitted).
+ 
+*605 In short, because payments that were originally due in the future will become eligible for immediate distribution through the bankruptcy process, in order to avoid overcompensating such creditors, the allowed amount of such claims should be determined by discounting the future payments to present value. And the general instruction in § 502(b) provides the necessary textual support for this practice by requiring the court to “determine the amount of such claim in lawful currency of the United States as of the date of the filing of the petition.”
+ 
+
+B.
+When the contested claim is based on an interest-bearing loan obligation, however, the courts have disallowed the remaining post-petition unmatured interest payments in accordance with § 502(b)(2), but have not discounted the remaining principal payments to present value. See, e.g., In re Wyeth Co., 134 B.R. 920, 922 (Bankr.W.D.Mo.1991); see also In re Issaac, 2005 WL 3939840 at *3 (Bankr.N.D.Ill. Aug.25, 2005) (“Claims are ‘allowed’ ‘as of the date of the filing of the petition’ and may not include interest that is unmatured as of the petition date. 11 U.S.C. § 502(b)(2). Thus, a loan claim is fixed as of the filing date and includes all principal that will ever become due and interest due only on the filing date.”).20 As one court explained, § 502(b)(2) has been interpreted as accelerating the principal portion of a loan claim:
+ 
+Section 502(b)(2) of the Bankruptcy Code, 11 U.S.C. § 502(b)(2), authorizes a creditor to accelerate a claim, to prove the full amount of an indebtedness, including the unmatured portion thereof. Even though only one payment may be due on a note when bankruptcy intervenes and the remaining payments may not become due until well into the future, the creditor is allowed to prove a claim for the entire balance due on the note, plus interest to the date of bankruptcy.
+In re Lynch, 187 B.R. 536, 548 (Bankr.E.D.Ky.1995); see also In re Payless Cashways, Inc., 287 B.R. 482, 488 (Bankr.W.D.Mo.2002) (“[T]he legislative history to section 502(b) states that bankruptcy acts as an acceleration of the principal amount of all claims against the debtor.”); In re Auto Int’l Refrigeration, 275 B.R. 789, 813 (Bankr.N.D.Tex.2002) ( “[B]ankruptcy may accelerate the Loan, however, this acceleration is only for the limited purpose of calculating Defendants’ claim in the bankruptcy.”); In re PCH Assocs., 122 B.R. 181, 198 (Bankr.S.D.N.Y.1990) (“The Note may be deemed to have been accelerated ... for the purposes of calculation of the [creditor’s] claim in these bankruptcy proceedings.”); In re Manville Forest Products Corp., 43 B.R. 293, 297 (Bankr.S.D.N.Y.1984) (“It is a basic tenet of the Bankruptcy Code that ‘[b]ankruptcy operates as an acceleration of the principal amount of all claims against the debtor.’ ”) (citations omitted).
+Accordingly, the practice of allowing an interest-bearing claim subject to § 502(b)(2) without discounting the remaining principal payments to present value does not require an exemption for § 502(b)(2) cases from the discounting rule authorized by the general instruction in § 502(b). Rather, once the remaining principal payments have been accelerated, they have become presently due. Consequently, *606 the general discounting rule authorized by § 502(b) requires no further discounting of the remaining principal payments, because those payment are no longer due in the future.
+ 
+This treatment of loan cases subject to § 502(b)(2) is supported by the legislative history of § 502(b)(2), which provides:
+Subsection (b) prescribes the grounds on which a claim may be disallowed. The court will apply these standards if there is an objection to a proof of claim.
+...
+Paragraph (2) requires disallowance to the extent that the claim is for unmatured interest as of the date of the petition. Whether interest is matured or unmatured on the date of bankruptcy is to be determined without reference to any ipso facto or bankruptcy clause in the agreement creating the claim. Interest disallowed under this paragraph includes postpetition interest that is not yet due and payable, and any portion of prepaid interest that represents an original discounting of the claim, yet that would not have been earned on the date of bankruptcy....
+Section 502(b) thus contains two principles of present law. First, interest stops accruing at the date of the filing of the petition, because any claim for unmatured interest is disallowed under this paragraph. Second, bankruptcy operates as the acceleration of the principal amount of all claims against the debtor. One unarticulated reason for this is that the discounting factor for claims after the commencement of the case is equivalent to the contractual interest rate on the claim. Thus, this paragraph does not cause the disallowance of claims that have not been discounted to a present value because of the irrebuttable presumption that the discounting rate and the contractual interest rate (even a zero interest rate) are equivalent.
+H.R.Rep. No. 95-595, at 352-54 (1977), reprinted in 1978 U.S.C.C.A.N. 5963, 6307-10; S.Rep. No. 95-989, at 62-65 (1978), reprinted in 1978 U.S.C.C.A.N. 5787, 5848-51.21
+ 
+*607 But this statement in the legislative history of § 502(b) is misleading for at least two reasons. First, the interest rate stated on the face of a debt instrument may be merely nominal, and the actual bargained-for interest rate may depend on other terms of the instrument. For example, the courts have carved out an “original issue discount” rule to reflect the fact that a discount on the purchase price of a debt instrument-the amount actually tendered by the lender to the borrower-can reflect some portion of the interest to be paid on the loan. See generally In re Pengo Indus., Inc., 962 F.2d 543 (5th Cir.1992); In re Chateaugay Corp., 961 F.2d 378 (2d Cir.1992). An “original issue discount” occurs when the nominal interest rate on a debt instrument is set below the market interest rate for an instrument of that type, which results in a market purchase price for that instrument which is less than its face value. See In re Pengo, 962 F.2d at 546. The courts have treated this difference between the market purchase price and the face value of such instruments as “in the nature of additional interest,” and consequently have considered any such unamortized original issue discounts as claims for unmatured interest within the meaning of § 502(b)(2). See id. Again, the courts justify this rule on the basis of the instructions in § 502(b) and § 502(b)(2) and in light of the “economic reality” of the underlying transaction. See id.
+ 
+Another notable problem with this statement in the legislative history is that the interest rate on debt instruments typically will reflect not only a general discounting rate, but also other factors, most prominently the risk that the debtor will not fulfill his payment obligations as per the loan agreement. See Till v. SCS Credit Corp., 541 U.S. 465, 474, 124 S.Ct. 1951, 158 L.Ed.2d 787 (2004) (observing that an interest rate compensates a creditor for the fact that “[a] debtor’s promise of future payments is worth less than an immediate payment of the same total amount because the creditor cannot use the money right away, inflation may cause the value of the dollar to decline before the debtor pays, and there is always some risk of nonpayment.”). In other words, typically there is a difference between the interest rate on a loan and the contemporaneous risk-free discounting rate, and this difference reflects in large part a premium that the lender has required the borrower to agree to pay in order to compensate the lender for the risk of nonpayment.22
+ 
+*608 Accordingly, the disallowance of claims to the extent that they are for unmatured interest payments pursuant to § 502(b)(2) carries out at least two distinct financial operations. First, to the extent that a portion of the interest rate reflects the time value of money, the rule in § 502(b)(2) does in fact carry out an operation equivalent to the discounting that the courts would otherwise have performed pursuant to the general instruction in § 502(b). Second, to the extent that a portion of the interest rate contains a premium that reflects the risk of nonpayment associated with the loan, the rule in § 502(b)(2) acts to disallow the lender’s claim to the extent that it contains this premium. This second operation is economically justifiable precisely because this premium was conditional: the essence of the bargain struck by the lender was that the lender would receive this premium if the debtor made his payments as provided by the loan agreement, but that the lender would fail to receive this premium in the case of nonpayment. Accordingly, it is economically appropriate for the Bankruptcy Code to disallow claims to the extent that they contain such a premium, because the lender’s expectation of receiving this premium was conditioned on payment of the loan as provided by the agreement.23
+ 
+Consequently, I agree with the majority’s conclusion that bankruptcy courts are not authorized by § 502(b)(2) to “double discount” claims. That is because the traditional construction of § 502(b)(2) authorizes Bankruptcy Courts to accelerate any remaining principal payments in cases governed by § 502(b)(2), and the discounting of future obligations authorized by the general instruction in § 502(b) is in fact already embedded as one of the operations carried out by the disallowance of unmatured interest pursuant to § 502(b)(2). But the rule in § 502(b)(2) is not simply equivalent to a discounting rule. Rather, in the course of disallowing unmatured interest payments, the rule in § 502(b)(2) also carries out additional operations, most notably the disallowance of any conditional interest rate premium associated with the risk of nonpayment.
+ 
+
+II.
+Although the majority nominally declines to reach whether § 502(b) ever permits discounting, the majority’s reasoning does not appear to be limited to claims based on interest-bearing loan obligations treated under § 502(b)(2). Consequently, the majority’s reasoning unnecessarily undermines the traditional and proper construction of the Bankruptcy Code.
+ 
+The majority explicitly states that “[w]e do not hold here that 11 U.S.C. § 502(b) never authorizes discounting a claim to present value....” Maj. Op. at 598 - 599 (emphasis in original). Nonetheless, such a conclusion appears to be the logical implication of the majority’s reasoning.
+ 
+*609 For example, the majority states, “We are not convinced that a plain reading of § 502(b) supports the Bankruptcy Court’s conclusion.” Maj. Op. at 597. The majority distinguishes the term “amount” from the term “value,”24 and argues that:
+ 
+[W]here the Bankruptcy Code intends a court to discount something to present value, the Code clearly uses the term “value, as of” a certain date. Many sources support the use of the term “value” for this purpose, none support U.S. Bank’s contention that “amount ... as of” also implies a present value calculation.
+Maj Op. at 597 - 598 (citations omitted) (emphasis in original). The majority concludes: “Where the Code speaks of discounting cash streams to present value, it speaks in terms of ‘value, as of ‘ a certain date. It does not use ‘amount ... as of.’ ” Maj. Op. at 598.25 This textual argument is not limited by its terms to claims based on loan obligations.
+Additionally, the majority “decline[s] to follow the approach” of the court in Loewen, noting that “Loewen is, of course, not binding on this Court or the District Court.” Maj. Op. at 601 & n. 17. The majority does state that Loewen is distinguishable because the promissory notes in that case were not interest-bearing. Maj. Op. at 601 n. 17. But the majority further states, “The Loewen court determined that 11 U.S.C. § 502(b) ‘clear[ly] and unambiguous[ly] required discounting to present value ... a contention we have already rejected above.” Id. In light of the majority’s broad reasoning with respect to the text of § 502(b), this sweeping statement also goes beyond the more limited principle that § 502(b) does require additional discounting in cases subject to the rule in § 502(b)(2).
+ 
+Finally, the majority states that “[t]he general rule of both the Bankruptcy Code and § 502(b) ... is acceleration to the date of filing of the petition for the purpose of filing [sic] a claim, not the lack of acceleration.” Maj. Op. at 602 (emphasis in original). *610 If that was in fact a proper construction of § 502(b) in general, rather than merely § 502(b)(2) in particular, then logically no claims would be subject to discounting, because all claims would be presently due.
+ 
+Collectively, these statements go farther than necessary if we are merely holding that “double discounting” is not allowed in cases that are subject to the rule in § 502(b)(2). And as the majority itself notes, insofar as the majority’s reasoning does not appear to depend on the future obligations taking the form of interest-bearing loan obligations, the majority’s reasoning places our court at odds with the reasoning of all of the other courts to address these issues. See Maj. Op. at 599 n. 13.
+ 
+In light of the basic purposes of the Bankruptcy Code and the general instruction in § 502(b), I would adopt today the traditional view that § 502(b) authorizes discounting claims based on future obligations to present value. I would also affirm the standard practice of not discounting the remaining principal payments in cases subject to § 502(b)(2), because such discounting in effect has already occurred through one of the operations embedded in the rule in § 502(b)(2), and § 502(b)(2) implicitly operates to accelerate the remaining principal payments.26
+ 
+
+III.
+In light of this traditional construction of § 502(b) and § 502(b)(2), the courts must determine whether a claim for future payments should be treated under the general discounting rule, or rather under the special rule created by § 502(b)(2). In this case, a careful examination of the disputed claims indicates that the Bankruptcy Court and the District Court erred by treating these claims as interest-bearing loan obligations covered by the special rule in § 502(b)(2), and the majority today repeats this error by adopting the same characterization of the disputed claims.
+ 
+The manifest purpose of the securitization and guarantee process in this case was to convert the original mortgage loans into a substantially different form of financial instrument. The terms of the Pooling and Service Agreements make it clear that rather than loaning funds to the Trusts, the certificate holders were instead purchasing a right to be paid from the trust’s assets according to the specified schedules.27 Indeed, the Agreements described *611 the payments due to the certificate-holders as “Principal Distribution Amounts” and “Interest Distribution Amounts.” These terms imply that the Trusts were not making principal and interest payments on loans granted to the Trusts by the certificate holders. Rather, these terms imply that the Trusts were instead distributing payments derived from the Trusts’ revenues to the certificate holders. The fact that the Trusts’ underlying revenue streams from the mortgages were divisible into principal and interest portions, and the fact that the scheduled distributions to the certificate holders reflected this underlying division, does not imply that the Trusts’ payments to the certificate holders were themselves in the nature of principal and interest payments.
+ 
+Further, once Oakwood Homes guaranteed the payments on the B-2 Certificates, the joint obligation of the Trusts and Oakwood Homes to make the scheduled payments was not conditioned on the Trusts receiving the necessary revenues from the mortgages held by the trust. The Limited Guarantee thus further distinguished the payments due to the B-2 Certificate holders from the underlying interest and principal payments owed to the Trusts. Cf. In re Wisconsin Engine Co., 234 F. 281, 284 (7th Cir.1916) (holding that even though payments on promissory notes were “expressed in terms of royalties,” they were not expressed as conditioned upon such royalties being earned, and thus were not royalty payments). In Wisconsin Engine, the creditor owned certain patents, and granted licenses for those patents to the debtor. See id. at 282-83. The license agreement provided for a royalty, but the license agreement also in effect securitized and guaranteed the royalty payments for the first three years. Id. The agreement provided for a minimum royalty payment of $22,500 for the first three years, and further provided that
+as evidence or prepayment of such sum the licensee will deliver to the licensor, at the time of signing this agreement, two sets of negotiable promissory notes of equal amounts for the aggregate sums of twenty-two thousand five hundred dollars ($22,500) ... payable at the following times and in the following amounts: Five thousand dollars ($5,000) shall be payable at the end of one year from the date hereof; ten thousand dollars ($10,000) at the end of two years from the date hereof; and seven thousand five hundred ($7,500) at the end of three years from the date hereof.
+Id. After the licensee entered bankruptcy, the Seventh Circuit allowed a claim on one of the two sets of these promissory notes (a set of three notes for $2,500, $5,000, and $3,750 respectively), for a total of $10,537.51, their discounted value as of the time bankruptcy proceedings began. Id. at 282, 284.
+ 
+The Seventh Circuit analyzed the relationship between the payments due on the promissory notes and the underlying royalty payments as follows:
+In our judgment, the indebtedness represented by the notes was the consideration for the grant of the exclusive license. It was expressed in terms of royalties, and properly so, because, in so far as royalties up to that amount would be earned under the agreement, payment of the notes would cancel any obligation *612 in respect thereto. But it was not expressed as conditioned upon such royalties being earned. The parties contemplated the possible cancellation of the license before the expiration of three years because of licensee’s breach of the agreement or its insolvency. Nevertheless the obligation to pay the $22,000 [sic] remained.
+...
+There is no guaranty that, if royalties shall in fact become due, they shall amount to at least $22,500 for the period; there is an absolute undertaking that this amount shall be paid.... [T]he provision that notes should be given and that they should be negotiable is additional evidence tending to resolve any doubt as to the intention of the parties that the amount therein stated was to be payable in any event. That the notes were not in fact sold is of no moment. The parties necessarily contemplated that they might be negotiated.
+Id. at 284. In short, the Seventh Circuit recognized that although the payment obligations were “expressed in terms of royalties,” once those obligations had been converted into guaranteed and negotiable financial instruments, they should be treated as such by the Bankruptcy Code.
+ 
+This same principle should apply in our case. Although payments distributed by the Trusts are “expressed in terms” of “Principal Distribution Amounts” and “Interest Distribution Amounts,” in reality the B-2 Certificate holders were like the holders of the negotiable promissory notes in In re Wisconsin Engine: they were guaranteed a future set of payments, and the payments owed to the B-2 Certificate holders were not conditioned on the Trusts acquiring the revenue from the underlying mortgages and then distributing it to the certificate holders. Indeed, creating such a financial instrument was the manifest purpose of the securitization and guarantee process with respect to the B-2 Certificates.
+ 
+In short, the B-2 Certificate holders’ claims against Oakwood Homes were not for principal and interest due to them on a loan that they had made to Oakwood Homes. Indeed, these claims were not even for guarantees on a loan that the certificate holders had made to a third party, because the certificate holders did not in fact loan money to the Trusts. Rather, the certificate holders had a claim against Oakwood Homes that was equivalent to any other non-interest-bearing future obligation, even though a portion of this obligation was expressed as a guarantee of payment for an “Interest Distribution Amount.”28
+ 
+
+IV.
+Consequently, the Bankruptcy Court’s error was not in discounting Oakwood Home’s future guarantees of payment for the Principal Distribution Amounts to present value in accordance with the general instruction in § 502(b). Rather, the Bankruptcy Court’s error was in applying the rule in § 502(b)(2) to this case and disallowing the B-2 Certificate holders’ claims to the extent that they were for Oakwood Home’s guarantees of payment on the Interest Distribution Amounts. That is because this portion of the B-2 *613 Certificate holders’ claims was not in fact for unmatured interest within the meaning of § 502(b)(2).
+ 
+In light of the multiple operations embedded in the rule in § 502(b)(2), the consequences of this error were not inconsequential. Because the B-2 Certificate holders were not directly entitled to payments from some specific set of mortgages, they had not bargained for a risk premium in the form of higher mortgage interest rates. Indeed, the tranch system established by the Pooling and Service Agreements effectively transferred some of the risk associated with the possible nonpayment of the mortgages from the higher priority certificates to the lowest priority certificates-most notably to the B-2 Certificates-without any compensating increase in the Interest Distribution Amounts due to the B-2 Certificate holders.
+ 
+The limited guarantee of payment supplied by Oakwood Homes to the B-2 Certificate holders was specifically intended to facilitate the sale of the B-2 Certificates by eliminating this concentrated risk. And because Oakwood Home’s guarantee of the B-2 Certificate’s scheduled payments was not in the form of a loan, nor even in the form of a guarantee on a loan, nowhere in this transaction did the B-2 Certificate holders bargain for any interest rate premium associated with the risk that Oakwood Homes itself would fail to make the payments required by the terms of the Limited Guarantee.29
+ 
+*614 When the Bankruptcy Court erroneously applied § 502(b)(2) to disallow the claims to the extent that they were for Oakwood Home’s guarantees of payment on the Interest Distribution Amounts, it effectively performed not just a discounting operation, but also an operation to eliminate a hypothetical interest rate premium. But because the B-2 Certificate holders had not in fact bargained for and received such an interest rate premium, applying the rule in § 502(b)(2) to their claims unjustifiably reduced the allowed amount of their claims to the extent that it went beyond discounting their claims to present value.
+ 
+In other words, by erroneously applying § 502(b)(2) to this case, the Bankruptcy Court and the District Court treated the B-2 Certificate holders as having made a losing bet on Oakwood Homes making its payments as per the guarantee agreement. But because the B-2 Certificate holders had not bargained for an interest rate premium associated with that risk, they could not have won any such hypothetical bet in the event that Oakwood Homes fulfilled its agreement. Accordingly, this error by the Bankruptcy Court and the District Court had the effect of imposing on the B-2 Certificate holders the consequences of losing a bet, a bet that they did not in fact agree to make.30
+ 
+
+V.
+Due to the procedural posture of this case, however, it is not possible for us to remand the case to the District Court with an instruction to reverse the Bankruptcy Court’s judgment to the extent that the Bankruptcy Court disallowed claims based on Oakwood Home’s guarantees of payment on the Interest Distribution Amounts. That is because JP Morgan chose not to raise this portion of the Bankruptcy Court’s judgment as an issue in this appeal, and instead appealed only the Bankruptcy Court’s subsequent decision to discount the remainder of the B-2 Certificate holders’ claims to present value.
+ 
+Of course, in light of the traditional construction of § 502(b) and § 502(b)(2), U.S. Bank inconsistently argued below: (1) that the claims in this case should be treated as interest-bearing obligations for the purpose of disallowing what the parties have described as the interest portion of the claims pursuant to § 502(b)(2); and (2) that the claims should not be treated as interest-bearing obligations for the purpose of accelerating what the parties have described as the principal portion of the claims. Nonetheless, as a result of their errors, neither the Bankruptcy Court nor the District Court compelled U.S. Bank to choose between these inconsistent theories of the disputed claims. Accordingly, U.S. Bank remained free to argue on the basis of either theory of the disputed claims during this appeal.
+ 
+Before us, U.S. Bank correctly argued that the future obligations in this case were not in the nature of loan payments and therefore should be discounted to present value. Accordingly, I would hold that we are bound to affirm the District  *615 Court’s judgment on this appeal. That is because the Bankruptcy Court did not err with respect to the sole issue presented on appeal, and JP Morgan chose not to appeal the issue with respect to which the Bankruptcy Court did in fact err.31
+ 
+
+VI.
+In sum, to the extent that the majority’s reasoning implies that discounting non-interest-bearing future obligations to present value is contrary to the text of the Bankruptcy Code, I believe that it unnecessarily and unjustifiably undermines the traditional construction of § 502(b). Further, in my view the majority has repeated the error of the Bankruptcy Court and the District Court by accepting JP Morgan’s position on appeal that Oakwood Homes’ guarantees of payment to the B-2 Certificate holders should be treated as if they were principal and interest payments. In a world of increasingly complex financial instruments, it is vital for the courts to recognize that a series of agreements can transform what was originally a loan into a very different financial vehicle-and indeed that effecting such a transformation can be one of the very purposes of such agreements. The courts in turn should apply the Bankruptcy Code, including § 502(b) and § 502(b)(2), in light of the actual economic bargains defined by such financial instruments. Only then can the courts carry out one of the core purposes of the Bankruptcy Code-to reliably and fairly distribute the bankrupt’s assets among its creditors.
+ 
+For the reasons stated above, I respectfully dissent.
+ 
+All Citations
+449 F.3d 588, 46 Bankr.Ct.Dec. 167, Bankr. L. Rep. P 80,620
+Footnotes
+
+1
+
+The Trusts were known as Real Estate Mortgage Investment Conduit securitization trusts, or REMIC trusts.
+
+2
+
+We, like the parties, will use the Guarantee and Pooling and Service Agreement applicable to the 1997-D Trust as representative of the documents defining all of the Trusts at issue.
+
+3
+
+$30,491,930 represents the $116,370,915 in principal shortfalls, discounted to present value using a discount rate of 7.74% chosen by the Bankruptcy Court on March 12, 2004. The parties stipulated to the principal and interest shortfalls, and the corresponding discounted amounts, while reserving their right to appeal the discounting.
+
+4
+
+We also take note of the Declaration of Oakwood’s Executive Vice President, filed with the Bankruptcy Court, setting forth his understanding of the Guarantee as the supervisor of Oakwood’s securitization operations. The Declaration repeatedly states that the Guarantees were intended to ensure the distribution of principal and interest to the B-2 Certificate-holders in the event of a shortfall. Moreover, according to the Declaration, Oakwood’s financial statements listed liability under the Guarantees in an amount that “reflects potential payments [by Oakwood] of both principal and interest on the B-2 Certificates.”
+
+5
+
+JP Morgan did not appeal the 11 U.S.C. § 502(b)(2) interest disallowance portion of the District Court’s Order. Unlike our dissenting colleague, we do not believe that this strategic decision to appeal only the discounting substantially affects this appeal. Each court below addressed JP Morgan’s claims in terms of two successive inquiries-whether any post-petition interest should be disallowed, and whether the principal should then be discounted. The answer to the former inquiry has not been challenged here by JP Morgan. Our colleague in dissent concludes, just as do we, that as a legal matter once § 502(b)(2) is applied to disallow post-petition interest, further reduction by discounting the remaining claim to present value is not permitted. Dis. Op. at 13. This legal conclusion does not hinge on the factual question resolved by the courts below-that the claims did involve post-petition interest-and can be decided independently in JP Morgan’s favor.
+We must therefore express our confusion at our dissenting colleague’s conclusion, Dis. Op. at 1-2, that the courts below “did not otherwise err in holding that the B-2 Certificate holders’ claims should be discounted to present value,” and therefore that reversal is not required. The courts below determined that legally, it was permissible to discount a claim to present value after applying § 502(b)(2) to disallow any post-petition interest. The dissent appears to wholeheartedly disagree with this holding, as we read the dissent’s conclusion that § 502(b)(2) necessarily implies reduction to present value, and therefore that § 502(b) should not be read to require a second discounting. See Dis. Op. at 11-14.
+
+6
+
+We say “appears to have relied on” because the Bankruptcy Court did not place its reasoning on the record. At the November 26, 2003 hearing, the Bankruptcy Court noted after argument that “[w]ith respect to the interest, it is my view that Section 502(b) does apply and interest is not allowable as part of the claim.” With respect to discounting to present value, the Bankruptcy Court’s sole action on the record was to cut off argument and state “[w]ell, look, my ruling is that they’re going to be discounted. So let’s just debate how-what rate to apply or the discount rate.” Hearing, January 23, 2004.
+The parties argued the case to the Bankruptcy Court in terms of 11 U.S.C. § 502(b) and § 502(b)(2), however, and we will assume that these were the bases for that court’s holdings. We also note that the primary case cited by U.S. Bank in this dispute, In re: Loewen Group International, Inc., 274 B.R. 427 (Bankr.D.Del.2002), relied on § 502(b) for the decision to discount the relevant claims to present value, and was issued by the same Bankruptcy Court.
+
+7
+
+Original issue discount reflects the fact that a claimant might have paid less than the face value on a note, and could therefore only recover in bankruptcy up to the amount actually paid. The interest portion of such a note would need to be similarly pro-rated for purposes of disallowing post-petition interest. To the extent that the B-2 Certificate holders may have similarly paid less than the face value for their notes, the parties do not dispute the principal shortfall amounts stipulated to and at issue here.
+
+8
+
+“Amount” is defined by one dictionary as “the total number or quantity; a principal sum and the interest on it.” WEBSTER’S THIRD NEW INT’L DICTIONARY (unabr.1965). “Value,” in contrast, is defined as “the monetary worth or price of something; the amount of goods, services, or money that something will command in an exchange.” BLACK’S LAW DICTIONARY (8th ed.2004).
+
+9
+
+U.S. Bank has not directed this Court to any other section of the Bankruptcy Code where discounting to present value was intended, and the term “amount” was used.
+
+10
+
+Where Congress has explicitly mandated such discounting, commenters have taken note. Collier on Bankruptcy is replete with references to the present value calculations required by the Code sections mentioned above. See, e.g., 7-1129 COLLIER ON BANKRUPTCY ¶ 1129.03; id. ¶ 1129.04; id. ¶ 1129.06; 8-1225 COLLIER ON BANKRUPTCY ¶ 1225.02; 8-1325 COLLIER ON BANKRUPTCY ¶ 1325.06. Yet, in discussion of 11 U.S.C. § 502(b), we learn that it means something far different. The task of “determin[ing] the amount of such claim” is straightforward if the claim is liquidated; if unliquidated or contingent, the claim is estimated under 11 U.S.C. § 502(c), a provision not at issue here, or liquidated by the court. 4-502 COLLIER ON BANKRUPTCY ¶ 502.03. Nowhere is discounting to present value mentioned. The second element of 11 U.S.C. § 502(b), determining the amount of the claim “as of the date of the filing of the petition,” is explained very simply: “This requirement coincides with other Code sections that make it clear that section 502 applies to a proof of claim only if it reflects a prepetition claim.... Accordingly, a proof of claim should contain only claims as of the petition date....” Id. Contrary to U.S. Bank’s assertions, we do not believe Congress used code in § 502(b) to require discounting to present value where a far more simple meaning to the section accords with general principles of bankruptcy law.
+
+11
+
+We note that finding a statute does not clearly and unambiguously order action X does not necessarily lead to the conclusion that action X is inappropriate-merely that further inquiry into other sources is needed.
+
+12
+
+U.S. Bank did not object to the portion of JP Morgan’s claims attributable to pre-petition interest, and as that portion of the claims arose in full before the petition date, the Bankruptcy Court did not discount it in any way. For this portion of our analysis, therefore, we will refer to JP Morgan’s claims as involving solely post-petition interest and principal coming due after the petition date.
+
+13
+
+Instead, U.S. Bank cited myriad cases that discounted to present value non-interest-bearing claims. See, e.g., In re Trace Int’l Holdings, Inc., 284 B.R. 32 (Bankr.S.D.N.Y.2002) (deferred compensation without interest); In re O.P.M. Leasing Servs., Inc., 79 B.R. 161 (S.D.N.Y.1987) (non-interest-bearing lease); In re CSC Indus., Inc., 232 F.3d 505 (6th Cir.2000) (non-interest-bearing unfunded benefit liability of debtor to Pension Benefit Guaranty Corp.); In re CF & I Fabricators of Utah, Inc., 150 F.3d 1293 (10th Cir.1998) (same). We acknowledge that several of these courts made sweeping statements declaring 11 U.S.C. § 502(b) to require discounting all claims to present value. However, these courts either conducted no inquiry at all into the issue, or concluded (contrary to our holding above) that § 502(b) was clear and unambiguous. Also, because the courts addressed only non-interest-bearing claims, any statements impacting § 502(b)(2)’s effect on discounting would be dicta.
+
+14
+
+This portion of the legislative history, and the omitted portion that follows, refers to original issue discounting (“OID”), discussed above supra note 7, but not at issue in this appeal. We therefore do not accept the dissent’s attempt to lessen the weight of the legislative history by claiming it does not address the impact of OID. Dis. Op. at 10-11. The snippet of legislative history quoted by the dissent does not, it is true, mention OID-simply because OID is addressed by the previous paragraph, which the dissent does not quote.
+
+15
+
+We understand our dissenting colleague’s observation that contractual interest often encompasses not only a discounting rate, which accounts for the time value of money, but also compensation for the risk of debtor default. Dis. Op. at 11-13. For the purpose of the case at bar, however, this “extra” interest factor is irrelevant, as the dissent implicitly recognizes. See Dis. Op. at 27 (noting that once the Bankruptcy Court had disallowed post-petition interest pursuant to § 502(b)(2), “it effectively performed not just a discounting operation, but also an operation to eliminate a hypothetical interest rate premium”). The latter interest rate premium reduction was not appealed by JP Morgan. See supra note 5. For our purposes today, then, that a discounting operation was performed at all during the disallowance of interest under § 502(b)(2) means that a second discounting under § 502(b) is unwarranted.
+
+16
+
+One of the cases cited by U.S. Bank, In re O.P.M. Leasing Services, Inc., 79 B.R. 161 (S.D.N.Y.1987), actually supports JP Morgan’s argument that disallowing postpetition interest and discounting principal to present value is impermissible and inequitable “double discounting.” The O.P.M. court rationalized discounting a non-interest-bearing lease to present value because it would accomplish the same economic function as disallowing post-petition interest under 11 U.S.C. § 502(b)(2). Id. at 167.
+
+17
+
+Loewen is, of course, not binding on this Court or the District Court. At issue in Loewen were “long-term, non-interest bearing, unsecured promissory notes” and non-interest-bearing debt obligations. Loewen, 274 B.R. at 429. Contrary to U.S. Bank and the District Court’s assertions, the instruments in Loewen were non-interest bearing-a distinction repeated frequently by the Loewen court itself. See, e.g., Loewen, 274 B.R. at 430-31 (detailing the installment payment structures as all being “without interest”); id. at 435 (“claims asserted in respect to non-interest bearing promissory notes”); id. at 440 (“[P]art of the parties’ economic agreement was that Claimants would receive regular payments over time without interest.”); id. at 442 n. 31 (“The Promissory Notes giving rise to the Claims are non-interest bearing.”). The only “interest” mentioned by Loewen was interest triggered in the event of default. Id. at 429 n. 4. The instrument holders did not bargain to receive principal plus interest on the notes. Id. at 440.
+The Loewen court determined that 11 U.S.C. § 502(b) “clear[ly] and unambiguous[ly]” required discounting to present value, id. at 433, a contention we have already rejected above. Crucially, however, while the District Court believed differently, even the Loewen court understood that interest-bearing obligations should be treated dissimilarly from non-interest bearing obligations. Loewen refused to consider the legislative history to § 502(b)(2), which we have cited above, in part because it related only to § 502(b)(2) and “ § 502(b)(2) is not at issue in this dispute.” Id. at 433 n. 15. We also note that Loewen understood the crucial economic distinction, concluding that it was economically appropriate to discount the non-interest-bearing claims because the parties had bargained to receive less than the face value of the notes by not building interest into the bargain. Id. at 440. Here, in contrast, the parties bargained to receive interest.
+
+18
+
+Our dissenting colleague asserts that courts have “traditionally” followed this approach and simply accelerated post-petition principal instead of discounting it to present value in § 502(b)(2) situations. Dis. Op. at 5, 13. The three bankruptcy cases found by the dissent have indeed correctly not discounted principal to present value, but as the dissent notes, these courts “have not specified that they were not discounting the principal payments to present value.” Dis. Op. at 5 n. 1. We, unlike those bankruptcy courts, do not have the luxury of this approach, and instead bear the burden of reaching this otherwise correct result by reasoning based on the statutory text and legislative history.
+Moreover, the bulk of cases cited in the dissent simply do not stand for the proposition asserted. Most importantly, the cases dealt only with the ability of a creditor to forcibly accelerate a debt for purposes other than determining an allowable claim under § 502(b). In one of the first cases cited, the Bankruptcy Court never once mentioned the concept of discounting a claim to present value under § 502(b), and in fact rejected the contention that the debt there was accelerated for the purpose of an usurious interest-spreading analysis. In re: Auto Int’l Refrigeration, 275 B.R. 789, 812-14 (Bankr.N.D.Tex.2002), rev’d in part sub nom. Mims v. Fid. Funding, Inc., 307 B.R. 849 (N.D.Tex.2002). We note that in this sense, Auto Int’l Refrigeration buttresses our above conclusion, supra Part III.B.1, that § 502(b) does not clearly and unambiguously mandate across-the-board discounting to present value.
+Another case cited by the dissent, In re: Payless Cashways, Inc., 287 B.R. 482 (Bankr.W.D.Mo.2002), relied on a later-reversed portion of Auto Int’l Refrigeration to find that the creditor could not collect a higher rate of interest on debt that had not been affirmatively accelerated. Payless Cashways addressed only 11 U.S.C. § 506, and never even mentioned § 502(b)(2), let alone any possibility of discounting to present value. The final case cited, In re: Manville Forest Prods. Corp., 43 B.R. 293, 297-98 (Bankr.S.D.N.Y.1984), rev’d on other grounds, 60 B.R. 403 (S.D.N.Y.1986), simply concluded that the debt at issue was accelerated by the filing of a bankruptcy petition, so that no overt acts were needed of the creditor. The Manville court was not asked to determine the allowable amount of any claim, but instead to determine whether debt was accelerated before being deaccelerated. Contrary to the dissent’s assertions, then, none of these cited cases made even a passing inquiry into the subject we today address, or concluded that discounting was inappropriate.
+
+19
+
+The legislative history shows that § 502(b) and (b)(2) reflect the basic bankruptcy law tenet that “bankruptcy operates as the acceleration of the principal amount of all claims against the debtor.” H.R.Rep. No. 95-595, at 352-54. “Simply stated, the filing of a petition accelerates the principal amount of all unmatured claims against the debtor, whether or not a clause in a prepetition agreement provides that a bankruptcy filing accelerates the maturity date.” 4-502 COLLIER ON BANKRUPTCY ¶ 502.03 (emphasis added).
+
+20
+
+Although courts typically have not specified that they were not discounting the principal payments to present value, U.S. Bank was not able to identify any other case in which a court disallowed regularly-scheduled interest payments on a loan obligation pursuant to § 502(b)(2) and then discounted the remaining principal payments to present value.
+
+21
+
+The majority cites this legislative history for the proposition that “[t]he general rule of both the Bankruptcy Code and § 502(b) ... is acceleration to the date of filing of the bankruptcy petition, for the purpose of filing a claim-not the lack of acceleration.” Maj. Op. at 602 & n. 19 (emphasis in original). I find persuasive, however, the reasoning of the In re O.P.M. Court, which concluded that because the passage in the legislative history cited by the majority “refers to the policy of disallowing claims pursuant to § 502(b)(2) for unmatured interest ... it is evident, when read in context, that the cited paragraph deals with that particular subsection of § 502(b).” In re O.P.M., 56 B.R. at 686 n. 4; see also In re Loewen, 274 B.R. at 433 n. 15 (“[W]hen placed in its proper context, it is apparent that this snippet of legislative history specifically refers to the policy of disallowing claims for unmatured interest under § 502(b)(2).... Although ... other courts have relied upon the legislative history of § 502(b) for guidance, those courts have done so in the process of explaining why claims for unmatured interest and/or original issue discount are disallowed pursuant to § 502(b)(2).”) (citations omitted). This conclusion is further buttressed by the reference in this passage to accelerating “the principal amount” of a claim, a term that would ordinarily have meaning only if the claim in question was based on a loan obligation subject to the operation of § 502(b)(2).
+Finally, I do not agree with the majority that § 502(b)(6) and § 502(b)(7) imply that “[t]he default state of all ‘amounts’ under § 502(b) subsections other than subsections (6) and (7), then, is acceleration.” Maj. Op. at 603. Rather, § 502(b)(6) simply provides that “the claim of a lessor for damages resulting from the termination of a lease of real property” cannot exceed “the rent reserved by such lease, without acceleration, for the greater of one year, or 15 percent, not to exceed three years, of the remaining term of such lease ... [plus] any unpaid rent due under such lease, without acceleration....” See § 502(b)(6). Accordingly, the reference to acceleration in § 502(b)(6) is required by the possibility that the termination of a lease would result in the acceleration of rent payments through the application of some damages rule or provision, not because § 502(b) itself contains a default acceleration rule. Similarly, § 502(b)(7) simply provides that “the claim of an employee for damages resulting from the termination of an employment contract” cannot exceed “the compensation provided by such contract, without acceleration, for one year ... [plus] any unpaid compensation due under such contract, without acceleration....” See § 502(b)(7). Again, as with § 502(b)(6), the reference to acceleration in § 502(b)(7) simply negates the possibility that a damages rule or provision would accelerate compensation in the event of a termination of an employment contract, and therefore this language in § 502(b)(7) does not imply that there is a default acceleration rule in § 502(b).
+
+22
+
+In that sense, lenders typically take out a series of “bets” on risky borrowers. If a given borrower makes the payments as per the loan agreement, the lender wins the bet on that borrower, and the lender’s winnings take the form of the interest rate premium that has been paid by the borrower. Similarly, if a borrower fails to make the payments as per the loan agreement, the lender loses the bet. If a lender has properly assessed the risks associated with its various bets, the interest premiums realized in the cases where the lender wins these bets will compensate the lender for the lost payments in the cases where the lender loses these bets.
+
+23
+
+In other words, the rule in § 502(b)(2) in part reflects the fact that when the debtor enters bankruptcy, the lender has lost his bet on the debtor, and therefore the lender is not entitled to claim payment of the premium that he would have received if he had instead won his bet on the debtor. Indeed, to allow such a claim to the extent that it reflected this premium would be overcompensating the lender, because lenders typically receive their compensation for losing such bets from other loans, namely those in which the lenders made similar bets and actually won (in that the borrower made the scheduled payments, and the lender realized the associated interest rate premium).
+
+24
+
+The majority defines “value” as “the monetary worth or price of something; the amount of goods, services, or money that something will command in an exchange.” Maj. Op. at 597 n. 8 (emphasis added) (citation omitted). The presence of the term “amount” in their definition of “value” severely undermines the majority’s apparent conclusion that “amount” and “value” cannot refer to the same thing. Moreover, the full phrase that we are construing is “the amount of such claim in lawful currency of the United States as of the date of the filing of the petition.” 11 U.S.C. § 502(b). Construing this full phrase as referring to the “value” of the claim is thus supported by the opinion’s own definition of “value,” because § 502(b) requires the court to determine “the amount of ... money” (namely U.S. currency) which should be “exchanged” (immediately distributed by the estate to the creditor) as the result of allowing the claim.
+
+25
+
+An alternative explanation for this variance is that § 502(b) does not always require discounting to present value, but rather simply authorizes it in certain circumstances. For example, to the extent that § 502(b)(2) provides an alternative mechanism for determining the allowed amount of claims based on interest-bearing loan obligations-namely, by disallowing the interest payments but accelerating the principal payments- § 502(b) would not require further discounting. See Part I.B, supra. More generally, § 502(b) would not require discounting if the claim was not based on a future obligation, but rather was based on a payment that was presently or past due. In short, the fact that § 502(b) generally contemplates many different types of claims, and that different methods for determining “the amount of such claim[s] in lawful currency of the United States as of the date of the filing of the petition” may apply to different claims, provides a sufficient explanation for why the general instruction of § 502(b) is not written so as to always require discounting.
+
+26
+
+Accordingly, I agree with the majority that an erroneous double discount has been applied to this claim. However, the mere fact that this double discounting is erroneous does not tell us which of the two discounts was the erroneous discount. In my view, the erroneous discount resulted from the application of § 502(b)(2) to this claim, when in fact no part of the claim was actually for unmatured interest within the meaning of § 502(b)(2). See Part IV, infra. In contrast, discounting this claim to present value was not erroneous, because it was based on payments that would not have occurred until the future if not for the claim becoming immediately payable due to the bankruptcy. See Part I.A, supra. Both of these conclusions-that no part of the claim was for disallowable unmatured interest, but that the entire claim should be discounted to present value-are derived from my analysis of the nature of the financial instrument that gave rise to the claim. See Part III, infra. But as described in Part V, infra, we cannot correct the error which led to double discounting in this case because the claimants failed to appeal the erroneous discount, and only appealed the nonerroneous discount. So, despite the fact that an erroneous double discount was applied to this claim, I would hold that we have no opportunity to correct that error, given the nature of this appeal.
+
+27
+
+Notably, the “tranch” system adopted by the Trusts, which set a hierarchical priority system for distributing the available funds among the different classes of certificate holders, demonstrates that the Trusts were not simply holding specific sets of mortgages for the benefit of corresponding sets of certificate holders. Rather, the Trusts were indeed first “pooling” the revenues received from the mortgages, and then distributing funds from this general pool to the different certificate holders according to the schedules and priority system defined in the Pooling and Service Agreements.
+
+28
+
+In that sense, it should not be relevant that the securities in this case were partially backed by the revenue from the mortgages held by the Trusts, rather than the revenue from any other sort of asset that a trust could hold. As demonstrated by Wisconsin Engine, the securitization and guarantee process in this case could be applied to many different types of assets, and the application of the Bankruptcy Code to a guarantor’s obligations in such cases should not depend on the nature of the underlying assets held by the Trusts.
+
+29
+
+In cases where a lender bargains for interest payments on a guaranteed loan, it may be reasonable to assume that the lender has bargained for an interest rate premium associated with the combined risk of the borrower and the guarantor jointly failing to make payments on the loan as per their agreements. Accordingly, if in such a case the borrower fails to make their payments and the guarantor petitions for bankruptcy, it may be economically justifiable to treat the guarantor’s future obligations to the lender as if they were interest-bearing loan obligations within the meaning of § 502(b)(2). See Maj. Op. at 594 (concluding that Oakwood Homes, as the putative guarantor on a loan, should be treated as being in the “exact same position as the Trusts, the primary obligors, with respect to the obligation to make these principal and interest payments”). In other words, in such a case the lender presumably has again made a “bet”-namely that either the borrower or the guarantor would make the payments as per their agreements-and the lender also presumably bargained for compensation for the possibility of losing this bet in the form of the possibility of realizing an interest rate premium in the event that the lender won this bet.
+We need not reach this issue today, however, because the B-2 Certificates were not in fact loans to the Trusts, and thus Oakwood Homes’ guarantees of payment on the B-2 Certificates were not guarantees on loans, and the B-2 Certificate holders were not lenders who had bargained for an interest rate premium on a loan which would reflect in part the risk of Oakwood Homes’ nonpayment on its guarantee. Indeed, these findings are confirmed by the simple fact that parties described by the majority as the “primary obligors”-the Trusts-will not in fact become insolvent as a result of the stipulated revenue shortfalls, and the B-2 Certificate holders will not have a claim against the Trusts for a default on their obligations under the Pooling and Service Agreements. Rather, the possibility of such a shortfall in revenues was expressly contemplated and provided for in the Pooling and Service Agreements, and the B-2 Certificate holders knowingly purchased low-priority certificates. Similarly, the B-2 Certificate holders will have no claim for direct payment from the purchasers who default on their mortgages, because they did not bargain for and receive the right to such direct payments. Accordingly, this is not a case in which a lender has a claim against both a borrower and guarantor who have failed to make payments, because the B-2 Certificate holders will have no such claim against either the Trusts or the underlying purchasers as a result of the stipulated shortfalls. Again, these facts simply confirm that due to the securitization process, the B-2 Certificate holders were not lenders, and Oakwood Homes did not provide the B-2 Certificate holders with a guarantee on a loan.
+
+30
+
+The majority suggests that these considerations are “irrelevant” because the “interest rate premium reduction was not appealed by JP Morgan.” Maj. Op. at 600 n. 15. I agree that we cannot correct this error because JP Morgan failed to appeal this decision by the Bankruptcy Court and the District Court. See Part V, infra. Nonetheless, these considerations are relevant because they demonstrate the differences between the error which in fact occurred in this case (the unwarranted application of § 502(b)(2) to the claims) and the nonerroneous decision which the majority seeks to correct (the discounting of the claims to present value). In other words, these two possible errors are not interchangeable, and we should not treat them as such on appeal.
+
+31
+
+The majority expresses “confusion” about this conclusion, observing that “the courts below determined that legally, it was permissible to discount a claim to present value after applying § 502(b)(2) to disallow any post-petition interest.” Maj. Op. at 595 n. 5. I agree that the Bankruptcy Court and the District Court erred by concluding that double discounting was permissible under § 502(b)(2) and § 502(b). See Note 7, supra. Nonetheless, the mere fact that the Bankruptcy Court and the District Court erred in their legal reasoning does not mean that we should reverse the result. See Helvering v. Gowran, 302 U.S. 238, 245, 58 S.Ct. 154, 82 L.Ed. 224 (1937) (“In the review of judicial proceedings the rule is settled that, if the decision below is correct, it must be affirmed, although the lower court relied upon a wrong ground or gave a wrong reason.”); Brumfield v. Sanders, 232 F.3d 376, 379 n. 2 (3d Cir.2000) (“ ‘An appellate court may affirm a result reached by the District Court on different reasons, as long as the record supports the judgement.’ ”) (citation omitted). Here, the record supports a determination that the claims in question were not for principal and interest within the meaning of § 502(b)(2), and therefore that the claims were properly discounted to present value. See Part III, supra. Accordingly, the fact that the Bankruptcy Court and District Court reached the same conclusion after first determining that the claims in question were for principal and interest within the meaning of § 502(b)(2) merely means that they reached the right conclusion after engaging in erroneous reasoning. In contrast, their other conclusion-that the claims should be disallowed to the extent that they were for the guarantees of the Interest Distribution Amounts-was not supported by the record, and I would not have affirmed that decision on appeal. See Part IV, supra. But that decision has not been appealed, and therefore we are left considering only a conclusion that is supported by the record, albeit not by the erroneous reasoning of the Bankruptcy Court and the District Court.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (2)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Declined to Extend by
+1.  TransCanada Pipelines Ltd. v. USGen New England, Inc.  
+458 B.R. 195 , D.Md.
+BANKRUPTCY - Leases and Contracts. Debtor established that owner-operator of natural gas pipeline mitigated its damages following debtor’s rejection of contract.
+Aug. 30, 2011
+Case
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+2.  In re USGen New England, Inc.
+429 B.R. 437 , Bkrtcy.D.Md.
+BANKRUPTCY - Leases and Contracts. Court had to discount future payments to present value in determining contract rejection damages.
+Apr. 01, 2010
+Case
+
+2
+
+
+
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+

@@ -1,0 +1,287 @@
+
+
+ 
+
+
+Rembrandt Social Media, LP v. Facebook, Inc.
+United States Court of Appeals, Federal Circuit. | February 25, 2016 | 640 Fed.Appx. 943 | 2016 WL 736425
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Rembrandt Soc. Media, LP v. Facebook, Inc., 640 F. App’x 943 (Fed. Cir. 2016)
+
+All Citations:
+
+640 Fed.Appx. 943
+
+Search Details
+
+Search Query:
+
+adv: NAME(”facebook”)
+
+Jurisdiction:
+
+Virginia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:48 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+640 Fed.Appx. 943
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+REMBRANDT SOCIAL MEDIA, LP, Plaintiff–Appellant
+v.
+FACEBOOK, INC., Defendant–Appellee.
+No. 2014–1812.
+|
+Feb. 25, 2016.
+Synopsis
+Background: Patentee brought infringement action against social networking website, claiming infringement of its patents for a web-based diary system that allowed non-technical users to post content on the internet. Following a jury trial, the United States District Court for the Eastern District of Virginia, T.S. Ellis, III, J., entered judgment that the patents were invalid and not infringed. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Prost, Chief Judge, held that:
+ 
+[1] reasonable jury could have found that social networking website’s optimization feature did not infringe on a patent;
+ 
+[2] reasonable jury could have found that social networking website’s optimization feature did not practice patented annotated universal address (AUA) database limitation; and
+ 
+[3] the district court did not abuse its discretion in questioning patentee’s fact witness on infringement issues.
+ 
+Affirmed in part.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+PatentsParticular fields of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1828Particular Matters
+291k1828(2)Particular fields of invention
+
+
+Reasonable jury could have found that a social networking website’s optimization feature, which allowed the website to display pages more quickly, did not infringe on a patent for a web-based diary system that allowed non-technical users to post content on the internet; the optimization feature only contained links to image files and other resources to be download by an internet browser, and thus did not meet the patent’s “dynamically combining content data and the page design” limitation.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsParticular fields of invention
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1828Particular Matters
+291k1828(2)Particular fields of invention
+
+
+Reasonable jury could have found that a social networking website’s optimization feature, which allowed the website to display pages more quickly, did not practice, under the doctrine of equivalents, the annotated universal address (AUA) database limitation of a patent for a web-based diary system that allowed non-technical users to post content on the internet; there was expert testimony that the identifiers stored by a social networking website and the uniform resource locators (URL) stored in the AUA database operated in different universes.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsScope of inquiry and power of court in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1843Scope of inquiry and power of court in general
+
+
+District court did not abuse its discretion in questioning patent infringement plaintiff’s fact witness on meaning of claim term “cohesive diary page”; questioning merely clarified testimony that the witness had already given, the testimony was highly technical, and plaintiff had opportunity, if it disagreed with the questioning, to employ numerous curative measures, including cross-examination, rebuttal testimony, and jury instructions. Fed.Rules Evid.Rule 614(b), 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,289,362, US Patent 6,415,316. Not Infringed.
+Cases that cite this headnote
+
+
+
+*944 Appeal from the United States District Court for the Eastern District of Virginia in No. 1:13–cv–00158–TSE–TRJ, Judge T.S. Ellis III.
+Attorneys and Law Firms
+John A. Dragseth, Fish & Richardson P.C., Minneapolis, MN, argued for plaintiff-appellant. Also represented by Robert E. Hillman, Lawrence K. Kolodney, Boston, MA; Thomas M. Melsheimer, Dallas, TX; John Stephen Goetz, New York, NY; Ahmed Jamal Davis, Washington, DC.
+Thomas G. Hungar, Gibson, Dunn & Crutcher LLP, Washington, DC, argued for defendant-appellee. Also represented by Blair A. Silver, Lucas C. Townsend; Heidi Lyn Keefe, Mark R. Weinstein, Cooley LLP, Palo Alto, CA; Michael Graham Rhodes, San Francisco, CA.
+Before PROST, Chief Judge, DYK and TARANTO, Circuit Judges.
+Opinion
+PROST, Chief Judge.
+
+Rembrandt Social Media, LP (“Rembrandt”) appeals from a final decision of the United States District Court for the Eastern District of Virginia. Following a five-day jury trial, the district court held that asserted claims of U.S. Patent No. 6,415,316 (“′316 patent”) and U.S. Patent No. 6,289,362 (“′362 patent”) (collectively, “patents at issue”) were invalid and not infringed by Facebook, Inc. (“Facebook”). We affirm the district court’s noninfringement determinations and do not reach the issues with respect to validity.
+ 
+
+BACKGROUND
+The patents at issue relate to web-based diary systems that allow non-technical users to post content on the internet. Users post content, such as text, images, videos, or links to other web pages, to personal diary pages, which appear as web pages in a browser. ′316 patent col. 6 l. 30–col. 7. l. 20.
+ 
+The ′316 patent discloses methods for displaying and updating a diary page. A *945 key limitation of the ′316 patent is “assembling the cohesive diary page by dynamically combining the content data and the page design in accordance with the configuration information.” This generally refers to the way in which diary pages are assembled. In a preferred embodiment in the ′316 patent, a “diary applet” performs this process by downloading diary content (“content data”) and information about how the page should be displayed (“page design” and “configuration information”) from a central diary server and generating an HTML document for the requested diary page. Id. at col. 6 ll. 38–43. The generated page is then passed to the web browser for rendering and display. Id. at col. 7 ll. 3–11.
+ 
+Rembrandt asserts dependent claims 4, 20, and 26 of the ′316 patent. Representative claim 4 (and claim 1, from which it depends) recites:
+1. A method of organizing information for display, comprising:
+sending from a diary server to a user system, a diary program capable of being executed by a browser in the user system;
+sending diary information from the diary server to the user system, the information comprising content data including an associated time, a page design to specify the presentation of the content data, and configuration information for controlling behavior of a cohesive diary page, the configuration information including privacy level information;
+assembling the cohesive diary page by dynamically combining the content data and the page design in accordance with the configuration information for the cohesive diary page to be displayed by the diary program running in the browser;
+receiving by the diary server at least one request for at least one change concerning the diary information, from the diary program in the user system; and
+sending, by the diary server to the user system, new diary information for changing the cohesive diary page.
+4. The method of claim 1 wherein the new diary information is for changing content of the diary page without changing a general appearance of the diary page.
+Id. at col. 23 l. 44–col. 24. l. 44, col. 24 ll. 47–49 (emphasis added).
+ 
+The ′362 patent also describes displaying and updating a diary page, but focuses more specifically on using an “annotated universal address” (“AUA”) to transfer and display content. ′362 patent col. 1 l. 65–col. 2 l. 2. An AUA is a data structure, which contains a “universal address (e.g., a uniform resource locator or URL)” for a piece of content and “annotations,” which provide information on how the piece of content should be handled, such as expiration date, size, or privacy level. Id. at col. 6 l. 53–col. 7 l. 15. Similar to the ′316 patent, a key limitation is “dynamically generating a page definition,” which also refers to the way in which diary pages are assembled. In a preferred embodiment, a “diary applet” will generate a page with content retrieved using an AUA and information about how the content should be displayed (“presentation context”). Id. at col. 7 ll. 32–65.
+ 
+Rembrandt asserts dependent claim 8 of the ′362 patent. Claim 8 (and claim 1, from which it depends) of the ′362 patent reads:
+1. A computer-based method, comprising the steps of:
+receiving from a client a request for access to a content object;
+responsive to the request of the client, identifying an annotated universal address (AUA) having a universal address *946 identifying a location of the content object and having an annotation authored by a content provider for controlling an aspect of a presentation of the object, the AUA being present in an AUA database containing one AUA;
+responsive to the request of the client, identifying a presentation context for controlling ion behavior of the object; and
+transmitting to the client the presentation context, the AUA and an applet for dynamically generating a page definition for the presentation of the object, the page definition being generated from the presentation context and the AUA.
+8. The method of claim 1 wherein the annotation further comprises:
+at least one content provider authored restriction concerning subsequent presentation of the object.
+Id. at col. 19 ll. 49–67, col. 21 ll. 64–67 (emphases added).
+ 
+This appeal primarily concerns Facebook’s BigPipe technology, which was introduced in 2009. BigPipe is an optimization feature which allows Facebook pages to display more quickly. It accomplishes this by breaking down a Facebook page into smaller chunks, called “page-lets,” that can be loaded in parallel. As pagelets are retrieved to a user’s computer, client-side BigPipe code inserts HTML pertaining to each pagelet into a single HTML document. If the HTML contains references to images, CSS, JavaScript, or other resources needed by the pagelet, the browser will download them. Once all of the HTML and supporting resources have been retrieved, the browser will display the Facebook page.
+ 
+Certain aspects of Facebook postings are also at issue. On Facebook, individual posts can be identified using a unique URL, or “permalink.” On the back-end, Facebook does not store permalinks in their entirety; instead, Facebook stores an identifier (such as an ID number) for each individual post and programmatically constructs permalinks using this information.
+ 
+
+PROCEDURAL HISTORY
+On February 4, 2013, Rembrandt sued Facebook in the United States District Court for the Eastern District of Virginia. Following claim construction briefing, the parties agreed on the following relevant constructions:
+Cohesive diary page (’316 patent): A diary page in which the content data and the page design are fully integrated for display.
+Content data (’316 patent): Information that may be displayed to a user that is independent of the page design.
+Dynamically generating a page definitions (’362 patent): Creating a page definition at the client at the time it is needed
+Page definition (’362 patent): Information that completely defines the appearance of a page.
+Annotated universal address (“AUA”) (’362 patent): Information consisting of the universal address and one or more annotations associated with it.
+AUA database (’362 patent): A collection of one or more AUAs.
+Universal address (’362 patent): Uniform Resource Locator (URL).
+J.A. 145–47.
+ 
+In addition, the district court gave the following construction:
+Assembling the cohesive diary page by dynamically combining the content data and the page design in accordance with the configuration information (’316 patent): Forming the cohesive diary page to be displayed by combining, at the time of display, the content data with *947 the page design, to generate a definition that is in compliance with the configuration information.
+J.A. 148.
+ 
+On December 3, 2013, the district court excluded a portion of Rembrandt’s validity expert report and the entirety of Rembrandt’s damages expert report. J.A. 32–73. Rembrandt petitioned for permission to appeal, pursuant to 28 U.S.C. § 1292(b), the district court’s exclusion of its expert testimony on damages, which we denied. Rembrandt Social Media, LP v. Facebook, Inc., 561 Fed.Appx. 909 (Fed.Cir.2014). Rembrandt also attempted to submit a supplemental expert report on damages and to offer a modified damages theory at trial. J.A. 3979–99. The district court rejected these efforts. J.A. 12–16, 19–21.
+ 
+The district court held a jury trial from June 9–12, 2014. On June 13, 2014, the jury returned a verdict in favor of Facebook, finding the ′316 and ′362 patents were invalid and not infringed. J.A. 3–4. On July 11, 2014, Rembrandt filed motions for judgment as a matter of law (“JMOL”) and a new trial, which the district court denied on August 8, 2014. J.A. 1.
+ 
+In parallel, Facebook sought relief from the U.S. Patent and Trademark Office, filing a request for inter partes review (“IPR”) of claims of the ′316 patent, including claims (4, 20, and 26) at issue here, on February 6, 2014. The IPR was instituted on July 7, 2014, nearly one month after the jury verdict. On July 22, 2015, the Patent Trial and Appeal Board (“PTAB”) issued a Final Written Decision finding that Facebook did not show that any of the challenged claims of the ′316 patent were obvious by a preponderance of the evidence. Facebook, Inc. v. Rembrandt Social Media, L.P., IPR2014–00415, Paper 33, 2015 WL 3899116 (PTAB June 22, 2015).
+ 
+Rembrandt now appeals the denial of its post-trial motions for JMOL and a new trial. In addition, Rembrandt has filed a motion requesting that we apply the estoppel provisions of 35 U.S.C. § 315(e)(2) and find that Facebook is estopped from challenging the validity of claims 4, 20, and 26 of the ′316 patent in light of the PTAB’s IPR decision. This court has jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+The issues on appeal involve Rembrandt’s motion for JMOL and motion for a new trial. We take these in turn.
+ 
+
+I. JMOL of Non–Infringement and Invalidity
+We review a denial of a motion for JMOL under regional circuit law. Lazare Kaplan Int’l, Inc. v. Photoscribe Techs., Inc., 628 F.3d 1359, 1366 (Fed.Cir.2010). The Fourth Circuit reviews a denial of JMOL de novo. Johnson v. MBNA Am. Bank, NA, 357 F.3d 426, 431 (4th Cir.2004). “The question is whether a jury, viewing the evidence in the light most favorable to [the non-movant], could have properly reached the conclusion reached by this jury.” Id. (quoting Baynard v. Malone, 268 F.3d 228, 234 (4th Cir.2001)). “We must reverse if a reasonable jury could only rule in favor of [the movant]; if reasonable minds could differ, we must affirm.” Id.
+ 
+
+A. Non–Infringement
+1. ′316 Patent
+[1] Rembrandt argues that BigPipe “assembl[es] the cohesive diary page” within the meaning of the ′316 patent because the HTML that BigPipe supplies to the browser “fully integrat[es]” content and page design for display. Rembrandt acknowledges that the browser may still need to download images, CSS files, or *948 other resources in order to render the page, but argues that this is of no consequence because BigPipe specifies the URLs (directly or indirectly) from which these resources are downloaded. In essence, according to Rembrandt, at the moment of hand-off between BigPipe and the browser, the page is completely specified. No design or content choices are left to be made. Because of this, Rembrandt argues, there cannot be a legally sufficient evidentiary basis for the jury’s verdict.
+ 
+Rembrandt’s argument misses the point. While we agree that BigPipe reserves no content or design choice to the browser, the district court’s claim constructions—which Rembrandt does not challenge—override these considerations. The district court construed “[a]ssembling the cohesive diary page by dynamically combining the content data and the page design in accordance with the configuration information” to mean “[f]orming the cohesive diary page to be displayed by combining, at the time of display, the content data with the page design, to generate a definition that is in compliance with the configuration information.” J.A. 148. The parties further agreed that “content data” means “[i]nformation that may be displayed to a user that is independent of the page design.” J.A. 145 (emphasis added). For example, when a user views a website, images, not URLs to images, are displayed to the user. Thus, the ′316 patent’s requirement of “dynamically combining content data and the page design” must be done where the actual image file is made available. It is the browser that downloads these bits and displays them on a page. Thus, this step is only completed after the hand-off from BigPipe to the browser. BigPipe cannot satisfy this limitation.1
+ 
+This conclusion is bolstered by the testimony of Rembrandt’s own expert, who testified that “[a] photo can be content data.” J.A. 10717. Rembrandt’s expert also testified that the file for an image is retrieved by the browser, and not provided by BigPipe. J.A. 10721–22. On this record, the jury could have reasonably found that BigPipe does not “dynamically combin[e] the content data and the page design.” We cannot conclude that, construing the evidence in the light most favorable to Facebook, the jury could have “only rule[d] in favor of [Rembrandt].” Johnson, 357 F.3d at 431.
+ 
+
+2. ′362 Patent
+[2] Similar to the ′316 patent, Rembrandt argues that BigPipe “dynamically generat[es] a page definition” within the meaning of the ′362 patent because the HTML that BigPipe supplies to the browser “completely defines the appearance of a page.” Again Rembrandt presses that the browser’s subsequent downloading activities are irrelevant—“page definition” only requires a specification for building a page, which is what BigPipe supplies.
+ 
+Rembrandt also argues that the district court erred because there is no dispute that Facebook practices the “AUA database” limitation under the doctrine of equivalents. Specifically, Rembrandt contends that its expert gave unrebutted testimony that Facebook’s method of storing *949 only identifiers was not substantially different from the ′362 patent’s method of storing URLs in AUAs, providing the jury with no reasonable basis to find otherwise.
+ 
+Taking these arguments in reverse order, we disagree that the jury could not have reasonably concluded that Facebook did not practice an “AUA database” under the doctrine of equivalents. Rembrandt’s expert testified that the identifiers stored by Facebook and the URLs stored in AUAs operate in different universes: URLs can be used anywhere on the internet, whereas Facebook’s identifiers are used inside the closed Facebook system. J.A. 10726. Viewing this testimony in the light most favorable to Facebook, the jury could have reasonably concluded that the differences between these approaches were not insubstantial. On this basis alone, then, we must affirm the jury’s finding of non-infringement.
+ 
+Because we can affirm the jury’s non-infringement verdict based on the “AUA database” limitation, we need not reach Rembrandt’s arguments with respect to the separate “dynamically generating a page definition” limitation. We therefore conclude that the district court did not err in denying Rembrandt’s motion for JMOL of infringement.
+ 
+
+B. Validity
+Rembrandt also challenges the jury verdicts invalidating the ′316 and ′362 patents. However, because Facebook asserted invalidity only as an affirmative defense and there is no separate declaration of invalidity in the judgment in the case, we need not address invalidity once we have affirmed non-infringement. Solomon Techs., Inc. v. Int’l Trade Comm’n, 524 F.3d 1310, 1319 (Fed.Cir.2008) (“Where invalidity is raised as an affirmative defense, however, it is not necessary for the reviewing court to address the validity issue.”). In exercising this option, we rely on the well-established rule of federal preclusion law that will deny issue-preclusive effect to the invalidity rulings because we leave them unreviewed as unnecessary to the judgment. Fairbrook Leasing, Inc. v. Mesaba Aviation, Inc., 519 F.3d 421, 428 (8th Cir.2008); Levine v. McLeskey, 164 F.3d 210, 213 (4th Cir.1998); Greene v. United States, 79 F.3d 1348, 1352 (2d Cir.1996); In re PCH Assocs., 949 F.2d 585, 593 (2d Cir.1991); 18 Charles Alan Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice and Procedure § 4432 & n. 24 (2d ed.2002) (citing In re Peters, 642 F.3d 381, 385–386 (2d Cir.2011)); Restatement (Second) of Judgments § 27 cmt. o (1982); see also Hill–Rom Co. v. Kinetic Concepts, Inc., 209 F.3d 1337, 1344 (Fed.Cir.2000) (“[T]he district court’s resolution of the issue of invalidity was not necessary to the judgment. For that reason, the court’s invalidity ruling will have no collateral estoppel effect in any possible future dispute between the parties involving the ′346 patent.”); cf. Aqua Marine Supply v. AIM Machining, Inc., 247 F.3d 1216, 1221 (Fed.Cir.2001) (“In a future action, it is possible that Aqua Marine could avoid collateral estoppel by arguing that it did not have a full and fair opportunity to litigate the issue of invalidity.”).
+ 
+For the same reason, we do not reach Rembrandt’s specific request that we vacate the invalidity ruling regarding the ′316 patent by applying 35 U.S.C. § 315(e) to the final written decision of the Patent Trial and Appeal Board. Here too we rely on the absence of any prospective effect of the district court’s invalidity rulings.
+ 
+
+C. Evidentiary Rulings
+Finally, Rembrandt argues that the district court abused its discretion in excluding portions of its validity opinions, in excluding its damages expert, and in ruling *950 that it could not otherwise present any evidence of damages to the jury. Because we affirm on non-infringement, we need not reach these issues.
+ 
+
+II. Motion for a New Trial
+[3] The law of the regional circuit also governs a motion for a new trial. Bettcher Indus., Inc. v. Bunzl USA, Inc., 661 F.3d 629, 638 (Fed.Cir.2011). In the Fourth Circuit, “[a] district court’s denial of a motion for a new trial is reviewed for abuse of discretion, and will not be reversed save in the most exceptional circumstances.” Minter v. Wells Fargo Bank, N.A., 762 F.3d 339, 346 (4th Cir.2014) (internal quotation marks omitted).
+ 
+Rembrandt maintains that it is entitled to a new trial because the district court improperly intervened during the proceedings. At trial, the district court interrupted the examination of a Facebook fact witness and asked questions about the infringement issues to which he was testifying, one of which mentioned the claim term “cohesive diary page.” J.A. 10769. The district court also questioned witnesses at other points in the trial, including asking Rembrandt’s fact witnesses about financial interest and Rembrandt’s expert about internet history, a background topic she volunteered on direct. J.A. 10648, 10658–59, 10675–76. According to Rembrandt, this involvement revealed prejudice and improperly swayed the jury.
+ 
+A district court may interrogate witnesses under Federal Rule of Evidence 614(b). It is “settled beyond doubt that in a federal court the judge has the right, and often an obligation, to interrupt the presentations of counsel in order to clarify misunderstandings or otherwise insure that the trial proceeds efficiently and fairly.” United States v. Cole, 491 F.2d 1276, 1278 (4th Cir.1974). When a district court exercises this right, its conduct is reviewed for an abuse of discretion. United States v. Villarini, 238 F.3d 530, 536 (4th Cir.2001). “A new trial is required only if the resulting prejudice was so great ‘that it denied any or all the appellants a fair, as distinguished from a perfect, trial.’ ” Id. (quoting United States v. Parodi, 703 F.2d 768, 776 (4th Cir.1983)).
+ 
+None of the interventions identified by Rembrandt amount to abuse of discretion. In questioning Facebook’s fact witness on infringement issues, the district court was simply clarifying issues for the jury. Even the exchange that invoked the “cohesive diary page” term—the intervention Rembrandt complains of most—simply clarified testimony that Facebook’s fact witness had already given about the interaction between BigPipe and the browser. Compare, e.g., J.A. 10759, with J.A. 10764. It was within the district court’s discretion to do so, particularly given the highly technical nature of the technology at issue. Other interjections operated in a similar way: questions about financial interest clarified testimony about why Rembrandt’s witnesses had come to testify, J.A. 10648, 10658–59, and questions about internet history clarified Rembrandt’s expert’s knowledge about a topic to which she opened the door, J.A. 10675–76. Moreover, to the extent Rembrandt disagreed with the district court’s conduct, it had ample opportunity for curative measures, including cross-examination, opportunities for rebuttal testimony from Rembrandt’s expert, and jury instructions. None of the conduct Rembrandt identifies persuades us that it was not given a “fair, as distinguished from a perfect, trial.” Villarini, 238 F.3d at 536. The district court did not abuse its discretion.
+ 
+
+CONCLUSION
+Accordingly, we affirm the district court’s determination that the asserted *951 claims are not infringed and its denial of Rembrandt’s request for a new trial.
+ 
+
+AFFIRMED
+COSTS
+Each party shall bear its own costs.
+ 
+All Citations
+640 Fed.Appx. 943
+Footnotes
+
+1
+
+We note that, although the error in Rembrandt’s argument is most easily illustrated with respect to Big–Pipe’s treatment of images, this analysis also applies to other types of “content data” discussed in the parties’ briefing, such as videos, CSS files, and Java files. In these cases as well, what gets displayed to the user is the video itself, the styles specified in the CSS files, and the programmatic behavior specified in the Java files, respectively. Arriving at this point of successful display requires the file themselves, which are downloaded by the browser, not BigPipe.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

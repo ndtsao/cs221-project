@@ -1,0 +1,139 @@
+
+
+
+
+
+Fisher v. JP Morgan Chase & Co.
+United States Court of Appeals, Second Circuit. | May 8, 2012 | 469 Fed.Appx. 57 | 2012 WL 1592208
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by In re Fannie Mae 2008 ERISA Litigation, S.D.N.Y., October 22, 2012
+
+standard Citation:
+
+Fisher v. JP Morgan Chase & Co., 469 F. App’x 57 (2d Cir. 2012)
+
+All Citations:
+
+469 Fed.Appx. 57, 2012 WL 1592208, Pens. Plan Guide (CCH) P 24011L
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by In re Fannie Mae 2008 ERISA Litigation, S.D.N.Y., October 22, 2012
+469 Fed.Appx. 57
+This case was not selected for publication in the Federal Reporter.
+United States Court of Appeals,
+Second Circuit.
+Isadore FISHER, on behalf of themselves and a class of persons similarly situated, and on behalf of the JP Morgan Chase 401(k) Savings Plan, Janna Wooten, Kelli M. Bunn, Tammy Soileau, Amy K. Harvey, Plaintiffs–Appellants,
+v.
+JP MORGAN CHASE & CO., Marc J. Shapiro, Richard Donaldson, Jr., John Does, 1–30, J.P. Morgan Investment Services, The Plan Investment Management Committee, The Benefits Fiduciary Committee, Ina R. Drew, Dina Dublon, Patrick L. Edsparr, John J. Farrell, Peter H. Kopp, Maria Elena Lagomasino, Blythe S. Master, Edward McGann, John C. Wilmot, Hans W. Becherer, Riley P. Bechtel, Frank A Bennack, Lawrence A Bossidy, M. Anthony Burns, H. Laurence Fuller, Ellen V. Futter, William H. Gray, III, Williams B. Harrison, Jr., Helene L. Kaplan, Lee R. Raymond, John R. Stafford, Lloyd D. Ward, Defendants–Appellees.
+No. 10–1303–cv.
+|
+May 8, 2012.
+Appeal from the United States District Court for the Southern District of New York (Stein, J.).
+ON CONSIDERATION WHEREOF, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the district court is AFFIRMED.
+Attorneys and Law Firms
+Edwin J. Mills (Michael J. Klein, on the brief), Stull, Stull & Brody, NewYork, N.Y., for Plaintiffs–Appellants.
+Jonathan K. Youngwood (Thomas C. Rice, Janet A. Gochman, Hiral D. Mehta, on the brief), Simpson Thacher & Bartlett LLP, New York, N.Y., for Defendants–Appellees.
+Carol Connor Cohen, Caroline Turner English, Arent Fox LLP, Washington D.C., Robin S. Conrad, Shane B. Kawka, National Chamber Litigation Center, Washington D.C., for Amicus Curiae Chamber of Commerce of the United States of America.
+Pamela Rogers Chepiga, Andrew Rhys Davies, Henry Morgenbesser, Lanier Saperstein, Allen & Overy LLP, New York, N.Y., Ira D. Hammerman, Kevin M. Carroll, Securities Industry and Financial Markets Association, Washington, D.C., for Amicus Curiae Securities Industry and Financial Markets Association.
+Present: ROBERT D. SACK, ROBERT A. KATZMANN, DEBRA ANN LIVINGSTON, Circuit Judges.
+
+
+SUMMARY ORDER
+**1 Plaintiffs–Appellants (“plaintiffs”) appeal from a March 31, 2010 opinion of the United States District Court for the Southern District of New York (Stein, J.), granting Defendants–Appellees’ (“defendants”) motion for judgment on the pleadings. Plaintiffs were participants in the JP Morgan Chase & Co. (“JP Morgan”) deferred employee compensation plan—the JP Morgan 401(k) Savings Plan (the “Plan”)1—whose individual accounts held shares of JP Morgan common stock between April 1, 1999 and January 2, 2003 (the “Class Period”). Plaintiffs’ complaint asserts three claims: (1) that defendants negligently permitted Plan participants to purchase and hold shares of JP Morgan common stock when it was imprudent to do so (the “Prudence Claim”); (2) that defendants failed to disclose and negligently misrepresented material facts to Plan participants (the “Communications Claim”); and (3) that JP Morgan and the “director defendants”2 failed to appoint appropriate fiduciaries, monitor those fiduciaries, and supply them with the information necessary to *59 fulfill their duties. In October 2011, this Court issued two opinions addressing claims substantially similar to those alleged here. See In re Citigroup ERISA Litig., 662 F.3d 128, 136, 142 (2d Cir.2011) ( “Citigroup ”) (adopting presumption of prudence when reviewing Employee Retirement Income Security Act (“ERISA”) fiduciaries’ “decisions not to divest [investment plans] of ... stock or impose restrictions on participants’ investment in that stock” and holding that “fiduciaries have no duty to provide Plan participants with non-public information that could pertain to the expected performance of Plan investment options”); Gearren v. McGraw–Hill Cos., 660 F.3d 605, 610 (2d Cir.2011) (per curiam) (applying presumption of prudence). Subsequently, both parties submitted letter briefs addressing this legal development. We assume the parties’ familiarity with the remaining facts and procedural history of the case.
+ 
+We review de novo the district court’s decision granting judgment on the pleadings. Bank of N.Y. v. First Millennium, Inc., 607 F.3d 905, 922 (2d Cir.2010). A Federal Rule of Civil Procedure 12(c) motion is evaluated using the same standards that we apply to a Rule 12(b)(6) motion. Id. “ ‘Thus, we will accept all factual allegations in the complaint as true and draw all reasonable inferences’ in favor of the counter-claimant. To survive a Rule 12(c) motion, the complaint ‘must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face.’ ” Id. (quoting Hayden v. Paterson, 594 F.3d 150, 160 (2d Cir.2010)) (internal citation omitted).
+ 
+Plaintiffs first argue that the district court erred by dismissing their claim that the defendants acted imprudently by continuing to allow Plan participants to invest in JP Morgan stock during the Class Period. Having adopted the presumption of prudence in Citigroup, 662 F.3d at 138, we review the defendants’ decision to continue to allow Plan participants to invest in employer stock, in accordance with the Plans’ terms, for an abuse of discretion. “Plan fiduciaries are only required to divest an EIAP or ESOP of employer stock where the fiduciaries know or should know that the employer is in a ‘dire situation.’ ” Gearren, 660 F.3d at 610 (quoting Edgar v. Avaya, Inc., 503 F.3d 340, 348 (3d Cir.2007)). “Mere stock fluctuations, even those that trend downward significantly, are insufficient to establish the requisite imprudence to rebut the presumption.” Id. (internal quotation marks omitted); Citigroup, 662 F.3d at 141 (declining to find presumption of prudence rebutted where stock price fell over 50% during class period).
+ 
+**2 Here, we agree with the district court that the plaintiffs have not sufficiently alleged that defendants knew or should have known that JP Morgan was in a dire situation. JP Morgan’s stock price fell approximately 55% over the course of the class period. However, even when the stock was at its lowest price—$15 per share—it still retained significant value and by the end of the Class Period, the stock had rebounded to $25 per share. Moreover, throughout the Class Period, JP Morgan remained a viable company. Plaintiffs have not identified any cases in which a fiduciary’s failure to divest in similar circumstances was found to be imprudent.
+ 
+On appeal, plaintiffs principally argue that the presumption of prudence does not apply to their negligence claim because, unlike the ERISA plans at issue in Citigroup and Gearren, here “the Plan’s fiduciaries had unfettered discretion whether to offer” JP Morgan securities “as a Plan investment option.” Pls.’ Br. at 8. This argument, however, fails after Citigroup, which adopted the presumption of prudence *60 as applying to all EIAPs and ESOPs. Citigroup, 662 F.3d at 138 (“We now join our sister circuits in adopting the Moench [v. Robertson, 62 F.3d 553 (3d Cir.1995) ] presumption—and do so with respect to both EIAPs and ESOPs—because, as those courts have recognized, it provides the best accommodation between the competing ERISA values of protecting retirement assets and encouraging investment in employer stock.”). Additionally, plaintiffs’ argument mischaracterizes the amount of discretion afforded to the JP Morgan Plan fiduciaries. Unlike the ERISA plan at issue in Citigroup, the JP Morgan Plan does not expressly require participants to be able to purchase employer stock. Notwithstanding that difference, a number of the Plan’s provisions strongly favor employee investment in JP Morgan.3 Accordingly, this is not a case in which the Plan’s terms grant the fiduciaries “unfettered discretion whether to offer” the employer’s stock.
+ 
+We turn next to plaintiffs’ claim that defendants breached their fiduciary duty of loyalty by: (1) failing to disclose information about JP Morgan’s financial condition to Plan participants and (2) making false or misleading statements about JP Morgan to the participants. We reject plaintiffs’ first theory of liability in light of our holding in Citigroup that “fiduciaries have no duty to provide Plan participants with non-public information that could pertain to the expected performance of Plan investment options.” Citigroup, 662 F.3d at 142. The plaintiffs’ second theory of liability also lacks merit. The only false or misleading statements identified by plaintiffs are in SEC filings that plaintiffs contend were incorporated into the Plan’s Summary Plan Description (“SPD”). ERISA, however, holds fiduciaries liable solely “to the extent that they were acting as a fiduciary ... when taking the action subject to the complaint.” Gearren, 660 F.3d at 611 (internal quotation marks omitted). Thus, like the defendants in Gearren, because the “defendants who signed or prepared the SEC filings were acting in a corporate, rather than ERISA fiduciary, capacity ... [they] may not be held liable under ERISA for misstatements contained in the SEC filings.” Id.;  see also Citigroup, 662 F.3d at 144–45 (declining to hold plan fiduciaries liable for misstatements made in SEC filings although the plan’s SPD referred to those filings).
+ 
+**3 Finally, we consider plaintiffs’ claim that JP Morgan and the director defendants failed to properly appoint, monitor, and inform the Plans’ fiduciaries. This claim is derivative of plaintiffs’ Prudence and Communications Claims and was also properly dismissed.
+ 
+We have considered plaintiffs’ remaining arguments and find them to be without merit. Accordingly, for the foregoing reasons, the judgment of the district court is AFFIRMED.
+ 
+All Citations
+469 Fed.Appx. 57, 2012 WL 1592208, Pens. Plan Guide (CCH) P 24011L
+Footnotes
+
+1
+
+The Plan is an “employee pension benefit plan” as defined by 29 U.S.C. § 1002(2)(A) that provides for an individual account for each participant with benefits based on contributions, and is thus an “eligible individual account plan” (“EIAP”) within 29 U.S.C. § 1002(34). Participants may select from a number of investment options, including company common stock through the JP Morgan Chase Stock Fund (“Stock Fund”), mutual funds, or trusts. The Stock Fund is designated in the Plan as an employee stock ownership plan (“ESOP”), which is a type of EIAP.
+
+2
+
+The “director defendants” are those defendants who served on the JP Morgan board of directors during at least part of the Class Period: Hans W. Becherer, Riley P. Bechtel, Frank A. Bennack, Jr., Lawrence A. Bossidy, M. Anthony Burns, H. Laurence Fuller, Ellen V. Futter, William H. Gray, III, Williams B. Harrison, Jr., Helene L. Kaplan, Lee R. Raymond, John R. Stafford, and Lloyd D. Ward.
+
+3
+
+For instance, the Plan mandates that prior to October 1, 2002, 50% of the matching contributions given by JP Morgan to participants who have not achieved certain age and service requirements would be “automatically” invested in the Stock Fund.App. 173–75 at § 7.7(b).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (1)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  In re Fannie Mae 2008 ERISA Litigation 
+2012 WL 5198463 , S.D.N.Y.
+This action arises out of the financial reversals experienced by Federal National Mortgage Association (FNMA). FNMA’s decline in fortune has spawned a number of lawsuits, alleging...
+Oct. 22, 2012
+Case
+
+—
+
+

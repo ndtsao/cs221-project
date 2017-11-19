@@ -1,0 +1,415 @@
+
+
+
+
+
+Novell, Inc. v. Microsoft Corp.
+United States Court of Appeals, Tenth Circuit. | September 23, 2013 | 731 F.3d 1064 | 2013 WL 5303259
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Viamedia, Inc. v. Comcast Corporation, N.D.Ill., November 4, 2016
+
+standard Citation:
+
+Novell, Inc. v. Microsoft Corp., 731 F.3d 1064 (10th Cir. 2013)
+
+All Citations:
+
+731 F.3d 1064, 2013-2 Trade Cases P 78,523
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Utah
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Viamedia, Inc. v. Comcast Corporation, N.D.Ill., November 4, 2016
+731 F.3d 1064
+United States Court of Appeals,
+Tenth Circuit.
+NOVELL, INC., Plaintiff–Appellant,
+v.
+MICROSOFT CORPORATION, Defendant–Appellee.
+No. 12–4143.
+|
+Sept. 23, 2013.
+Synopsis
+Background: Independent software vendor (ISV) brought action against manufacturer of computer operating system software, alleging manufacturer engaged in monopoly activities in violation of the Sherman Anti-Trust Act. The United States District Court for the District of Utah, J. Frederick Motz, J., 2012 WL 2913234, entered judgment in manufacturer’s favor. ISV appealed.
+ 
+Holdings: The Court of Appeals, Gorsuch, Circuit Judge, held that:
+ 
+[1] manufacturer’s withdrawal of prior dealing with ISV did not violate anti-monopoly provision of Sherman Anti-Trust Act, and
+ 
+[2] manufacturer’s alleged deception did was not cause of ISV’s injuries.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (9)
+
+
+[1]
+
+Antitrust and Trade RegulationElements in General
+Antitrust and Trade RegulationMarket Power;  Market Share
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(A)In General
+29Tk619Elements in General
+29Tk620In general
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(C)Market Power;  Market Share
+29Tk641In general
+
+
+To prevail on a monopoly claim under the Sherman Anti-Trust Act, a plaintiff generally must show the defendant possessed sufficient market power to raise prices substantially above a competitive level without losing so much business that the gambit becomes unprofitable, that defendant achieved or maintained that market power through the use of anticompetitive conduct, and that plaintiff’s injuries were caused by the defendant’s anticompetitive conduct. Sherman Act, § 2, 15 U.S.C.A. § 2.
+4 Cases that cite this headnote
+
+
+
+[2]
+
+Antitrust and Trade RegulationIllegal Restraints or Other Misconduct
+Antitrust and Trade RegulationRefusals to Deal
+Antitrust and Trade RegulationTying Agreements
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(D)Illegal Restraints or Other Misconduct
+29Tk650In general
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(D)Illegal Restraints or Other Misconduct
+29Tk657Refusals to Deal
+29Tk658In general
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(D)Illegal Restraints or Other Misconduct
+29Tk663Tying Agreements
+29Tk664In general
+
+
+Monopoly misconduct usually involves some assay by the alleged monopolist into the marketplace—to limit the abilities of third parties to deal with rivals, to require third parties to purchase a bundle of goods rather than just the ones they really want, or to defraud regulators or consumers; by contrast, and as a general rule, purely unilateral conduct does not constitute monopoly misconduct, as businesses are free to choose whether or not to do business with others and free to assign what prices they hope to secure for their own products. Sherman Act, § 2, 15 U.S.C.A. § 2.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+Antitrust and Trade RegulationPresumptions and burden of proof
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk973Evidence
+29Tk976Presumptions and burden of proof
+
+
+Independent firms competing against one another is almost always good for the consumer and thus warrants a strong presumption of legality in an action alleging a monopoly claim under Sherman Anti-Trust Act. Sherman Act, § 2, 15 U.S.C.A. § 2.
+1 Cases that cite this headnote
+
+
+
+[4]
+
+Antitrust and Trade RegulationRefusals to Deal
+Antitrust and Trade RegulationPredatory Pricing
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(D)Illegal Restraints or Other Misconduct
+29Tk657Refusals to Deal
+29Tk658In general
+29TAntitrust and Trade Regulation
+29TXAntitrust and Prices
+29TX(D)Predatory Pricing
+29Tk832In general
+
+
+Though rare, liability under the Sherman Anti-Trust Act can sometimes be assigned even when the monopolist engages in “purely unilateral” conduct, such as predatory pricing or refusal to deal supplies. Sherman Act, § 2, 15 U.S.C.A. § 2.
+2 Cases that cite this headnote
+
+
+
+[5]
+
+Antitrust and Trade RegulationRefusals to Deal
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(D)Illegal Restraints or Other Misconduct
+29Tk657Refusals to Deal
+29Tk658In general
+
+
+To invoke the limited exception to the general rule of firm independence, in an action alleging a monopoly claim under the Sherman Anti-Trust Act based on the alleged monopolist’s discontinuation of a preexisting course of dealing, there must be a preexisting voluntary and presumably profitable course of dealing between the monopolist and rival, and, second, the monopolist’s discontinuation of the preexisting course of dealing must suggest an irrational willingness to forsake short-term profits to achieve an anti-competitive end. Sherman Act, § 2, 15 U.S.C.A. § 2.
+5 Cases that cite this headnote
+
+
+
+[6]
+
+Antitrust and Trade RegulationManufacturers
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(E)Particular Industries or Businesses
+29Tk687Manufacturers
+
+
+Decision by manufacturer of computer operating system software to withdraw its prior grant to independent software vendors (ISV) of access to namespace extensions (NSE) it used in its operating system did not violate Sherman Anti-Trust Act’s anti-monopoly provision, absent evidence from which a reasonable jury could infer that manufacturer’s discontinuation of its prior course of dealing with ISVs suggested a willingness to sacrifice short-term profits in a manner that was irrational but for its tendency to harm competition. Sherman Act, § 2, 15 U.S.C.A. § 2.
+5 Cases that cite this headnote
+
+
+
+[7]
+
+Antitrust and Trade RegulationRefusals to Deal
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(D)Illegal Restraints or Other Misconduct
+29Tk657Refusals to Deal
+29Tk658In general
+
+
+Raising rivals’ costs theories do not displace the profit sacrifice test in the narrow world of refusal to deal cases brought under the Sherman Anti-Trust monopoly provision, whether one wants to conceive of those cases as involving acts or omissions. Sherman Act, § 2, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[8]
+
+Antitrust and Trade RegulationIllegal Restraints or Other Misconduct
+
+
+29TAntitrust and Trade Regulation
+29TVIAntitrust Regulation in General
+29TVI(D)Illegal Restraints or Other Misconduct
+29Tk560In general
+
+
+Business torts generally, and acts of fraud more particularly, can sometimes give rise to antitrust liability, at least when the defendant’s deceptive actions—usually aimed at third parties in the marketplace—are so widespread and longstanding and practically incapable of refutation that they are capable of injuring both consumers and competitors.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+Antitrust and Trade RegulationManufacturers
+Antitrust and Trade RegulationParticular cases
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(E)Particular Industries or Businesses
+29Tk687Manufacturers
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk963Injury to Business or Property
+29Tk963(3)Particular cases
+
+
+Alleged deception by manufacturer of computer operating system software as to its reasons for withdrawing its prior grant to independent software vendors (ISV) of access to namespace extensions (NSE) it used in its operating system was not the cause of ISV’s alleged injury or any possible harm to consumers, as required to give rise to antitrust liability on a fraud theory; manufacturer’s refusal to deal was the cause of ISV’s alleged injury and any harm to consumers. Sherman Act, § 2, 15 U.S.C.A. § 2.
+1 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1066 David Boies of Boies, Schiller & Flexner LLP, Armonk, N.Y. (Stuart H. Singer and Samuel C. Kaplan of Boies, Schiller & Flexner LLP, Ft. Lauderdale, FL, and Washington, D.C.; Jeffrey M. Johnson, James R. Martin, and Miriam R. Vishio of Dickstein Shapiro LLP, Washington, D.C.; Max D. Wheeler and Maralyn M. English of Snow, Christensen & Martineau, Salt Lake City, UT; and R. Bruce Holcomb of Adams Holcomb LLP, Washington, D.C., with him on the briefs), for Plaintiff–Appellant.
+David B. Tulchin of Sullivan & Cromwell LLP, New York, N.Y. (Steven L. Holley, Sharon L. Nelles, and Adam S. Paris of Sullivan & Cromwell; James S. Jardine of Ray Quinney & Nebeker, P.C., Salt Lake City, UT; and Steven J. Aeschbacher of Microsoft Corporation, Redmond, Washington with him on the brief), for Defendant–Appellee.
+Before KELLY, GORSUCH, and HOLMES, Circuit Judges.
+Opinion
+GORSUCH, Circuit Judge.
+
+A straggler of a case, this one drags us back twenty years. To a time before the dot-com boom busted and boomed again, a time when Microsoft was busy amassing a virtual empire—if sometimes in violation of the antitrust laws. Long since found liable for a rich diversity of antitrust misdeeds in the 1990s, this case calls on us to decide whether Microsoft back then committed still another, as-yet undetected antitrust violation—this time at Novell’s expense.
+ 
+Novell’s suit against Microsoft finally found its way to trial in 2011 but the jury couldn’t manage a verdict. Reviewing the record for itself after trial, the district court decided it could fairly admit of only one conclusion: Microsoft’s conduct did not offend section 2 of the Sherman Act. So the district court entered judgment as a matter of law, see Fed.R.Civ.P. 50, a decision Novell now asks us to overturn but one we find we cannot. Novell complains that Microsoft refused to share its intellectual property with rivals after first promising to do so. But the antitrust laws rarely impose on firms—even dominant firms—a duty to deal with their rivals. With respect to Novell at least, Microsoft did nothing unlawful.
+ 
+* * *
+ 
+Despite a long trial—8 weeks—and a voluminous record—16,696 pages—the facts relevant to this appeal are straightforward enough. Looking at them as favorably to Novell as the record allows, they tell us this much.
+ 
+By the mid–1990s Microsoft had become the leading provider of Intel-compatible personal computer operating systems. An operating system amounts to the computer’s core software—software that allows the everyday user to take advantage of a computer’s functions. Users often rely on an operating system to open and close other applications—word processors, *1067 spreadsheets, calendars, or the like. Those applications often depend on the operating system, too, drawing on the operating system’s code to read and write files on the hard drive, draw images and text on the screen, or transmit information. In 1981, Microsoft introduced MS–DOS, an operating system that required users to type commands on the keyboard. Beginning in 1990, the company developed successive versions of its Windows operating system, one that featured a “graphical user interface” allowing users to issue commands simply by pointing and clicking a mouse on visual icons. Windows proved a huge commercial success for Microsoft, quickly becoming by a wide margin the most popular operating system on personal computers.
+ 
+Microsoft’s relationship with independent software vendors (ISVs) during this period proved a complicated one. On one hand, Microsoft had some incentive to cooperate with ISVs. After all, ISVs wrote applications for Microsoft’s operating system; increasing the number of applications that could run on Microsoft’s operating system meant increasing the utility of the operating system for users; and that meant more sales for Microsoft. On the other hand, Microsoft didn’t just supply the operating system—it also competed with ISVs in the development and sale of applications for use on its Windows operating system. So, for example, by the mid–1990s, “office suites” containing applications for word processing, spreadsheets, and other everyday office tasks were all the rage and Microsoft began to offer its Microsoft Office suite (including Microsoft Word and Microsoft Excel) in competition with ISVs. Among the ISVs with whom Microsoft competed during this era was Novell. In the mid–1990s (and well before then), Novell produced WordPerfect—Microsoft Word’s leading rival in word processing applications—and the company harbored ambitions to create an office suite of its own to rival Microsoft Office, one it called PerfectOffice.
+ 
+This case concerns the tensions inherent in Microsoft’s relationship with ISVs in general and Novell in particular, and how those tensions played out in Microsoft’s development of the Windows 95 operating system.
+ 
+As it was planning to roll out its Windows 95 operating system, the successor to Windows 3.0, Microsoft faced the questions whether and to what degree it should share its intellectual property with ISVs. Should it share a pre-release development version of the new operating system, and perhaps provide access to its internal workings, all to help ISVs develop applications ready for use by the public when the final version of Windows 95 went on sale? The firm was torn. Doing so would help the marketing of Windows 95, allowing the company to boast a robust range of applications users could employ on the new operating system straight away. At the same time, helping ISVs develop and sell applications threatened to hurt Microsoft’s own applications business, perhaps most especially its new office suite product, Microsoft Office.
+ 
+At first, Microsoft opted to share. Anticipating the release of Windows 95 to the public sometime in 1995, in June 1994 it shared a beta, or test, version of the operating system with ISVs. At the same time, Microsoft also gave ISVs access to Windows 95’s application programming interfaces (APIs). APIs allow programs to invoke the operating system’s built-in abilities to perform certain functions; each API consists of a set of named procedures that automate particular tasks an application might need to perform. By publishing the names of the procedures in an API and providing information about how *1068 to invoke each one, Microsoft essentially permitted ISVs a shortcut—they could rely on Microsoft’s APIs when writing their own code rather than having to design custom code to perform the same functions.
+ 
+Take, for example, a word processor user who wants to open a document she earlier created and saved. To do so, she might click “Open” (an option in the “File” menu on the program’s menu bar), opening the “file open dialog”—an unwieldy name for the on-screen window that lets the user select a file to open. But the word processor must somehow gather information about the contents of various folders on the hard drive, display it, and allow the user to click on or type the name of the file she wants to open. When Microsoft suggested it would share its APIs, it held out the hope that ISVs might avoid the need to develop their own code to perform each individual task and might instead simply use Microsoft’s APIs to perform these functions. By offering to share its APIs, Microsoft essentially suggested to ISVs that they wouldn’t have to “reinvent the wheel.”
+ 
+Among the APIs Microsoft chose to share information about were namespace extensions (NSEs). NSEs are a subset of APIs that permit a user to see (and then open) documents affiliated not just with the current application but located in wildly different places on the computer or elsewhere. Familiar namespaces include the “Recycle Bin”—where a user might dispose of an unwanted document—and the “Desktop”—the computer’s default screen that displays when the user starts up his computer. If a user wants to open a document on the Desktop, she might click the Desktop namespace icon on the left side of the file open dialog in the application she is currently running, and watch the contents of the Desktop appear on the right side of the window. With a double click, she might then open the document. NSEs thus provide something of a shortcut to places outside the current application.
+ 
+Novell thought access to these NSEs particularly key. Not only would access to Microsoft’s NSEs allow Novell to ensure users of its programs could access, say, the Desktop and Recycle Bin without having to leave WordPerfect. Access to Microsoft’s NSEs would also allow Novell to create custom namespaces of its own. So, for example, Novell had in mind the possibility that someone in its WordPerfect program with the file open dialog screen open could access, say, items in Novell’s email application or its ClipArt library, all for use in a WordPerfect document. Novell’s hope was to use NSEs to help make its product so useful that users might be able to “live in” WordPerfect (or PerfectOffice) because they could open, modify, and search for their files across the computer all while remaining within the WordPerfect environment.
+ 
+All this matters because, after first choosing to share so much of its intellectual property with ISVs in the beta version distributed in June 1994, Microsoft reversed course in October, indicating to ISVs that they could no longer rely on the previously published APIs and that Microsoft would not guarantee the operability of the previously published APIs in the final version of Windows 95. The evidence suggests Microsoft did so because it concluded that—on balance—this move would prove profit maximizing for the firm. Withdrawing access to information about how to invoke APIs generally and NSEs in particular would make it harder for ISVs to produce applications for Windows 95 and in this way would marginally reduce the attractiveness of Microsoft’s new operating system. But withdrawing access would *1069 also make Microsoft’s own applications, including Microsoft Office, more immediately attractive to users. While ISVs could eventually develop work-arounds to give users the same effective experience, without advance access to information about how to invoke Microsoft’s APIs and NSEs, it would take them time to do so. All the while, Microsoft’s applications would have a competitive advantage, being the first applications usable on Windows 95. In an October 3, 1994 email, Bill Gates, Microsoft’s CEO, explained as much: “I have decided that we should not publish these [NSEs]. We should wait until we have a way to do a high level of integration [which] will be harder for the likes of Notes, WordPerfect to achieve, and which will give [Microsoft] Office a real advantage.”
+ 
+When Microsoft withdrew access to its NSEs, Novell contends its business suffered. Effectively forced to reverse engineer Microsoft’s handiwork, it had to write its own replacement computer code. While Novell was able to achieve the same functionality for consumers, it took until May 1996, nine months after Windows 95’s public release, for it to roll out its own applications for Windows 95. That nine month delay, Novell argues, made all the difference. Where once it had a leading word processing program and hopes of a leading office suite, it contends the nine month delay gave Microsoft Office a huge leg up, one that it alleges was designed to be and proved to be a permanent advantage.
+ 
+
+* * *
+Given that the damages Novell claims to have suffered came as a result of lost sales of software applications (WordPerfect, PerfectOffice), one might be excused for thinking Novell’s lawsuit charges Microsoft with violating section 2 by seeking or maintaining a monopoly in some sort of market for applications generally or office suite applications more particularly. When Novell tried to pursue such a claim, however, it found the case soon dismissed on the ground that the statute of limitations for conduct back in the 1990s had long since run. See Novell, Inc. v. Microsoft, No. 05–CV–1087, 2005 WL 1398643 (D.Md. June 10, 2005), aff’d, 505 F.3d 302 (4th Cir.2007).
+ 
+To pursue this suit, Novell had to develop a different theory and it eventually settled on this one. It alleged that Microsoft’s withdrawal of the NSEs not only helped Microsoft in the applications arena. Novell also alleged that the move helped Microsoft maintain its monopoly in the market for Intel-compatible personal computer operating systems. This theory Novell could still pursue because the government’s long-running antitrust case against Microsoft involved allegations of monopoly in the operating systems market and thus tolled the statute of limitations for private plaintiffs like Novell. See Novell, Inc. v. Microsoft, 699 F.Supp.2d 730, 736 (D.Md.2010), rev’d on other grounds, 429 Fed.Appx. 254 (4th Cir.2011).
+ 
+Novell initially filed its suit alleging unlawful monopolization in the operating systems market in federal district court in Utah. While the case was transferred for a period to a federal court in Maryland for consolidated pre-trial proceedings with other similar suits, see 28 U.S.C. § 1407, it eventually returned to Utah for trial—along with Maryland District Judge J. Frederick Motz on an intercircuit assignment, see 28 U.S.C. § 292; Lexecon, Inc. v. Milberg Weiss Bershad Hynes & Lerach, 523 U.S. 26, 40, 118 S.Ct. 956, 140 L.Ed.2d 62 (1998) (transferee court must transfer a case back to the original district for trial after pretrial issues are resolved). It was after that trial in Utah Judge Motz *1070 entered judgment as a matter of law for Microsoft—and it is that result Novell now asks us to undo.1
+ 
+At this point, one might wonder: How did Microsoft’s withdrawal of the NSEs help it maintain a monopoly in the operating systems market? Wouldn’t the withdrawal of NSEs have prevented ISVs from writing applications for Windows 95, at least to some degree? And wouldn’t this have hurt rather than helped Microsoft’s sales of operating systems? Withdrawing NSEs may have helped Microsoft’s competitive position against ISVs in selling applications, but any claim Novell might have involving an applications market was lost long ago. Novell has to show that withdrawing NSEs helped Microsoft maintain its dominant position in operating systems. How could it have done that ?
+ 
+Novell offers two theories.
+ 
+First, Novell argues that—but for Microsoft’s withdrawal of the NSEs—it would have released PerfectOffice earlier and acquired a greater following for its products. This larger group of consumers—now freed from dependence on Microsoft office suite applications—would have proven more susceptible to the lure of other operating systems (like Linux) also capable of running Novell’s applications. Put simply, Novell alleges that by delaying the release of WordPerfect, Microsoft was able to lock more people into using Microsoft Office, and because Microsoft Office could only run on a Windows operating system those consumers were then locked into using a Windows operating system too.
+ 
+Second, Novell explains that PerfectOffice was equipped with middleware—PerfectFit and AppWare—that permitted ISVs to write applications directly for PerfectOffice rather than for the operating system. If PerfectOffice could perform more of the tasks traditionally performed by operating systems, more users would be more inclined to “live in” PerfectOffice rather than Windows. And because PerfectOffice was designed to work on other operating systems, these users too might be more easily enticed away from Windows.
+ 
+[1] Could a rational trier of fact find Novell was a victim of unlawful monopolization under these theories? To prevail on a section 2 claim, a plaintiff generally must show the defendant possessed sufficient market power to raise prices substantially above a competitive level without losing so much business that the gambit becomes unprofitable. See United States v. Grinnell Corp., 384 U.S. 563, 571, 86 S.Ct. 1698, 16 L.Ed.2d 778 (1966); Olympia Equip. Leasing Co. v. W. Union Tel. Co., 797 F.2d 370, 373 (7th Cir.1986). Then the plaintiff must show that the defendant achieved or maintained that market power through the use of anticompetitive conduct. See Verizon Commc’ns v. Law Offices of Curtis V. Trinko, 540 U.S. 398, 124 S.Ct. 872, 157 L.Ed.2d 823 (2004). Finally, a private plaintiff must show that its injuries were caused by the defendant’s anticompetitive conduct. See Brunswick Corp. v. Pueblo Bowl–O–Mat, Inc., 429 U.S. 477, 489, 97 S.Ct. 690, 50 L.Ed.2d 701 (1977); Four Corners Nephrology Assocs., P.C. v. Mercy Med. Ctr. of Durango, 582 F.3d 1216, 1225–26 (10th Cir.2009); 3 Phillip E. Areeda & Herbert Hovenkamp, Antitrust Law *1071 ¶ 501, at 85 (3d ed.2008). How do Novell’s theories stack up against these standards?2
+ 
+Not infrequently, the initial question of market power proves decisive. Plaintiffs usually seek to prove market power indirectly or circumstantially—by defining a relevant product and geographic market, pointing to the defendant’s share of that market and perhaps barriers to entry (like the costs of regulatory compliance), and then asking us to infer from this evidence the power to raise price. See, e.g., United States v. Aluminum Co. of Am. (Alcoa), 148 F.2d 416 (2d Cir.1945) (Hand, J.); Eastman Kodak Co. v. Image Technical Servs., Inc., 504 U.S. 451, 481–82, 112 S.Ct. 2072, 119 L.Ed.2d 265 (1992); United States v. E.I. du Pont de Nemours & Co., 351 U.S. 377, 76 S.Ct. 994, 100 L.Ed. 1264 (1956); DOJ–FTC Horizontal Merger Guidelines (2010), www.justice.gov/atr/public/guidelines/hmg–2010.pdf. In these circumstances, the viability of the plaintiff’s claim can and often does turn on the market’s definition—which products are found to be sufficiently substitutable to fit within the same product market, which territories are found to constitute the terrain in which competition takes place. The greater the elasticity of demand and the larger the relevant geographic area of competition, the higher the chance that the defendant’s market share will dilute past the point where it can be taken as posing a serious threat to the competitive process. Alternatively but less often, a plaintiff will try to show market power not by inference but directly—by showing the defendant has actually raised prices substantially above a competitive level without sacrificing business. See, e.g., United States v. Microsoft, 253 F.3d 34, 51 (D.C.Cir.2001); see also United States v. Dentsply Int’l, Inc., 399 F.3d 181, 190–91 (3d Cir.2005) (using direct evidence to show market power in a section 1 case).
+ 
+Though often the focus of section 2 disputes, questions of market definition and power aren’t in play here. Microsoft doesn’t dispute that in the 1990s a nationwide product market existed for Intel-compatible personal computer operating systems, as Novell alleges. Neither does Microsoft dispute it possessed market power in that market. To be sure, one could well debate whether the same product market that existed back then still exists today. Not infrequently, the quickly shifting gears of market innovation outstrip the slowly grinding gears of the law, and today Microsoft may face greater competition in providing operating systems for personal computers (think Apple, which now produces an Intel-compatible operating system) and the personal computer itself may face more competition from other devices (think tablets and smartphones). See, e.g., Henry Blodget, In Case You Don’t Appreciate How Fast the ‘Windows Monopoly’ Is Getting Destroyed ..., Bus. Insider (July 17, 2013), www.businessinsider.com/windows–monopoly–is–getting–destroyed–2013–7. But however that may be, the antitrust laws and this lawsuit beckon us to look back in time to the marketplace as it once was and perhaps might have been, not as it now is.
+ 
+* * *
+ 
+With issues of market definition and power by the board, our focus turns to the *1072 next question in the sequence required to establish liability: Did Microsoft engage in anticompetitive conduct in violation of section 2 when it withdrew access to its NSEs from Novell and other ISVs? Or was this legally permissible competition?
+ 
+In earlier days, some courts suggested that a monopolist must lend smaller rivals a helping hand. If a monopolist so much as expanded its facilities to meet anticipated demand, or failed to keep its prices high enough to permit less efficient rivals to stay afloat, it could find itself held liable under section 2. See, e.g., Alcoa, 148 F.2d at 430; Telex Corp. v. Int’l Bus. Machs. Corp., 510 F.2d 894, 925 (10th Cir.1975) (rejecting district court’s view that monopoly maintenance “need not be evidenced by predatory practices”). The Supreme Court and this one, however, have long and emphatically rejected this approach, realizing that the proper focus of section 2 isn’t on protecting competitors but on protecting the process of competition, with the interests of consumers, not competitors, in mind. Forcing monopolists to “hold[ ] an umbrella over inefficient competitors” might make rivals happy but it usually leaves consumers paying more for less. Olympia, 797 F.2d at 375; see also Trinko, 540 U.S. at 411, 124 S.Ct. 872; Four Corners, 582 F.3d at 1225–26; Christy Sports v. Deer Valley Resort Co., 555 F.3d 1188, 1195 (10th Cir.2009); 3 Areeda & Hovenkamp, supra, ¶ 651, at 107.
+ 
+So what exactly qualifies as anticompetitive conduct under section 2, properly understood? It’s been said that anticompetitive conduct comes in too many forms and shapes to permit a comprehensive taxonomy. See Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752, 767–68, 104 S.Ct. 2731, 81 L.Ed.2d 628 (1984); Caribbean Broad. Sys., Ltd. v. Cable & Wireless P.L.C., 148 F.3d 1080, 1087 (D.C.Cir.1998). But the question we often find ourselves asking is whether, based on the evidence and experience derived from past cases, the conduct at issue before us has little or no value beyond the capacity to protect the monopolist’s market power—bearing in mind the risk of false positives (and negatives) any determination on the question of liability might invite, and the limits on the administrative capacities of courts to police market terms and transactions. See 3 Areeda & Hovenkamp, supra, § 651 a, at 96–97. With time and a gathering body of experience, courts have been able to adapt this general inquiry to particular circumstances, developing considerably more specific rules for common forms of alleged misconduct—like tying, Eastman Kodak, 504 U.S. at 461–62, 112 S.Ct. 2072; exclusive dealing, Microsoft, 253 F.3d at 69; or efforts to defraud or lie to regulators or consumers, Conwood Co. v. U.S. Tobacco Co., 290 F.3d 768, 783–88 (6th Cir.2002); Caribbean, 148 F.3d at 1087.
+ 
+[2] As these common categories and the rules associated with them suggest, section 2 misconduct usually involves some assay by the monopolist into the marketplace—to limit the abilities of third parties to deal with rivals (exclusive dealing), to require third parties to purchase a bundle of goods rather than just the ones they really want (tying), or to defraud regulators or consumers. By contrast, and “as a general rule ... purely unilateral conduct” does not run afoul of section 2—“businesses are free to choose” whether or not to do business with others and free to assign what prices they hope to secure for their own products. See Pac. Bell Tel. Co. v. Linkline Commc’ns, 555 U.S. 438, 448, 129 S.Ct. 1109, 172 L.Ed.2d 836 (2009). Put simply if perhaps a little too simply, today a monopolist is much more likely to be held liable for failing to leave its rivals alone than for failing to come to their aid. *1073 See id.; Four Corners, 582 F.3d at 1224–25;  3 Areeda & Hovenkamp, supra, ¶ 658, at 183.
+ 
+Many antitrust values lie behind the boundary line the law sketches here. If the law were to make a habit of forcing monopolists to help competitors by keeping prices high, sharing their property, or declining to expand their own operations, courts would paradoxically risk encouraging collusion between rivals and dampened price competition—themselves paradigmatic antitrust wrongs, injuries to consumers and the competitive process alike. Forcing firms to help one another would also risk reducing the incentive both sides have to innovate, invest, and expand—again results inconsistent with the goals of antitrust. The monopolist might be deterred from investing, innovating, or expanding (or even entering a market in the first place) with the knowledge anything it creates it could be forced to share; the smaller company might be deterred, too, knowing it could just demand the right to piggyback on its larger rival. See Einer Elhauge, Defining Better Monopolization Standards, 56 Stan. L.Rev. 253, 300–06 (2003); A. Douglas Melamed, Exclusionary Conduct Under the Antitrust Laws: Balancing, Sacrifice, and Refusals To Deal, 20 Berkeley Tech. L.J. 1247, 1254 (2005).
+ 
+Administrability considerations are also at play here. If forced sharing were the order of the day, courts would have to pick and choose the applicable terms and conditions. That would not only risk judicial complicity in collusion and dampened price competition. It would also require us to become “central planners,” a role for which we judges lack many comparative advantages and a role in which we haven’t always excelled in the past. See Trinko, 540 U.S. at 407–08, 124 S.Ct. 872;  3B Areeda & Hovankamp, supra, ¶ 772, at 220.
+ 
+[3] The bottom line, then, is that antitrust evinces a belief that independent, profit-maximizing firms and competition between them are generally good things for consumers. Just as courts have held particular forms of antitrust conduct per se illegal because experience teaches that they are almost always destructive of competition, so too courts have fashioned rules of presumptive legality for certain forms of conduct that experience teaches almost never harm consumers. Experience teaches that independent firms competing against one another is almost always good for the consumer and thus warrants a strong presumption of legality. Acknowledging as much in the form of a general rule gives a degree of predictability to judicial outcomes and permits reliance by all market participants, themselves goods for both the competitive process and the goal of equal treatment under the law. See Trinko, 540 U.S. at 407–8, 124 S.Ct. 872; Schor v. Abbott Labs., 457 F.3d 608, 613 (7th Cir.2006).
+ 
+[4] Of course, most every rule proves over- or under-inclusive in some way. We often accept a degree of over- and under-inclusion as the price that must be paid for the benefits associated with a clear rule of law. But rarely is the law so unsubtle that it fails to acknowledge and candidly account for at least a rule’s most glaring exceptions. And certainly section 2 doctrine isn’t so unsubtle. Though “rare,” liability can sometimes be assigned even when the monopolist engages in “purely unilateral” conduct. Pac. Bell Tel. Co., 555 U.S. at 448, 129 S.Ct. 1109. Predatory pricing presents a notable and easy example. Brooke Grp. Ltd. v. Brown & Williamson Tobacco Corp., 509 U.S. 209, 222–23, 113 S.Ct. 2578, 125 L.Ed.2d 168 (1993); *1074 United States v. AMR Corp., 335 F.3d 1109, 1115 (10th Cir.2003). Refusal to deal supplies another if somewhat more controversial example. Aspen Skiing Co. v. Aspen Highlands Skiing Corp., 472 U.S. 585, 600–01, 105 S.Ct. 2847, 86 L.Ed.2d 467 (1985); Trinko, 540 U.S. at 408–10, 124 S.Ct. 872; see also 3B Areeda & Hovenkamp, supra, ¶ 772. Essential facilities doctrine offers perhaps an even more controversial example still. Compare Otter Tail Power Co. v. United States, 410 U.S. 366, 377–79, 93 S.Ct. 1022, 35 L.Ed.2d 359 (1973) (forebearer of essential facilities doctrine), with Trinko, 540 U.S. at 411, 124 S.Ct. 872 (“We have never recognized such a doctrine.”).
+ 
+Our case revolves around the second of these exceptions to the general rule protecting unilateral conduct. Novell seeks to impose section 2 liability on Microsoft for refusing to deal with its rivals. Initially, Microsoft chose to share its internal NSE protocols with ISVs in an effort to spur them into writing software for Windows 95. Then Microsoft reversed course, choosing to keep its NSEs to itself. Normally, this sort of unilateral behavior—choosing whom to deal with and on what terms—is protected by the antitrust laws. Even a monopolist generally has no duty to share (or continue to share) its intellectual or physical property with a rival. Novell insists, however, that Microsoft had an affirmative duty to continue sharing its intellectual property and that the firm’s decision to withdraw that assistance violated section 2. Predatory pricing appears nowhere in the case and Novell disclaims any reliance on essential facilities doctrine. So if a path to recovery lies anywhere for Novell, it lies through the narrow-eyed needle of refusal to deal doctrine.
+ 
+* * *
+ 
+Refusal to deal doctrine’s high water mark came in Aspen. There, this court and the Supreme Court upheld a jury verdict finding liability when a monopolist (Aspen Skiing Company) first voluntarily agreed to a sales and marketing joint venture with a rival (Aspen Highlands) and then later discontinued the venture even when the evidence suggested the arrangement remained a profitable one. This result, however, falls “at or near the outer boundary of § 2 liability.” Trinko, 540 U.S. at 409, 124 S.Ct. 872. Since Aspen, the Supreme Court has refused to extend liability to various other refusal to deal scenarios, emphasizing that Aspen represents a “limited exception” to the general rule of firm independence. Trinko, 540 U.S. at 409, 124 S.Ct. 872; see also Pac. Bell Tel. Co., 555 U.S. at 448, 129 S.Ct. 1109. To invoke Aspen’s limited exception, the Supreme Court and we have explained, at least two features present in Aspen must be present in the case at hand.
+ 
+[5] First, as in Aspen, there must be a preexisting voluntary and presumably profitable course of dealing between the monopolist and rival. Trinko, 540 U.S. at 409, 124 S.Ct. 872; Four Corners, 582 F.3d at 1224–25; Christy Sports, 555 F.3d at 1197. To be sure, requiring a preexisting course of dealing as a precondition to antitrust liability risks the possibility that monopolists might be dissuaded from cooperating with rivals even in procompetitive joint venture arrangements—for fear that, once in them, they can never get out. Inversely, this condition risks deterring the termination of joint ventures when they no longer make economic sense. See Dennis W. Carlton, A General Analysis of Exclusionary Conduct and Refusals To Deal—Why Aspen and Kodak Are Misguided, 68 Antitrust L.J. 659, 677 (2001). But the requirement at least advances the larger principle that unadulterated unilateral conduct—situations in which no course of dealing ever existed—won’t trigger antitrust scrutiny. It keeps courts, *1075 too, out of the business of initiating collusion and helps address, at least to some degree, administrability concerns—presumably profitable terms already agreed to by the parties may suggest terms a court can use to fashion a remedial order without having to cook them up on its own. Trinko, 540 U.S. at 407, 124 S.Ct. 872.
+ 
+Second, as in Aspen, the monopolist’s discontinuation of the preexisting course of dealing must “suggest[ ] a willingness to forsake short-term profits to achieve an anti-competitive end.” Id.; Four Corners, 582 F.3d at 1224–25; Christy Sports, 555 F.3d at 1197. In Aspen, the Supreme Court held, the evidence suggested that the parties’ joint venture was profitable for all concerned and that Aspen Skiing Company (the monopolist) discontinued the arrangement simply to reduce the value of Aspen Highlands, force Highlands to sell, and in this way allow the monopolist to win control of all four ski mountains in Aspen.3 Much as in predatory pricing doctrine, the animating concern here is that a dominant firm may be able to forgo short-term profits longer than smaller rivals, and it may have an incentive to take on those losses to drive rivals from the market or to discipline them for having the audacity to try competition on the merits rather than abide as price-takers under the monopolist’s umbrella. Giving up short-term profits in these particular circumstances may risk doing less to enhance competition and consumer interests than to entrench a dominant firm and enable it to extract monopoly rents once the competitor is killed off or beaten down. See Brooke Grp., 509 U.S. at 222–23, 113 S.Ct. 2578;  3 Areeda & Hovenkamp, supra, ¶ 651, at 102–03.
+ 
+Of course, firms routinely sacrifice short-term profits for lots of legitimate reasons that enhance consumer welfare (think promotional discounts). Neither is it unimaginable that a monopolist might wish to withdraw from a prior course of dealing and suffer a short-term profit loss in order to pursue perfectly procompetitive ends—say, to pursue an innovative replacement product of its own. See 3 Areeda & Hovenkamp, supra, ¶ 651, at 102–03; Elhauge, supra, at 274. To avoid penalizing normal competitive conduct, then, we require proof not just that the monopolist decided to forsake short-term profits. Just as in predatory pricing cases, we also require a showing that the monopolist’s refusal to deal was part of a larger anticompetitive enterprise, such as (again) seeking to drive a rival from the market or discipline it for daring to compete on price. Put simply, the monopolist’s conduct must be irrational but for its anticompetitive effect. See Aspen, 472 U.S. at 597, 105 S.Ct. 2847 (a refusal to deal with a competitor doesn’t violate section 2 if “valid business reasons exist for that refusal”); Trinko, 540 U.S. at 407, 124 S.Ct. 872 (defendant must be seeking “an anti-competitive end”); 3B Areeda & Hovenkamp, supra, ¶ 772, at 223 (the refusal must be “irrational” but for its anticompetitive tendencies); see also Gregory J. Werden, Identifying Exclusionary Conduct Under Section 2: The “No Economic Sense” Test, 73 Antitrust L.J. 413, 422–25 (2006).
+ 
+At this point, one might object: refusal to deal doctrine requires the monopolist to sacrifice short-term profits to be held liable, but surely a monopolist can find ways to harm competition while still making *1076 money. And that’s undoubtedly right. Filing false papers with regulators and misleading consumers or others, for example, don’t (necessarily) involve the short-term sacrifice of profits but can at least conceivably harm competition as much as profit-sacrificing maneuvers. As we have already seen, though, a rival is always free to bring a section 2 claim for affirmatively interfering with its business activities in the marketplace. See, e.g., Caribbean, 148 F.3d at 1087; Conwood, 290 F.3d at 783–84;  3B Areeda & Hovenkamp, supra, ¶ 782 (discussing relationship between antitrust and business torts). Refusal to deal doctrine targets only a discrete category of section 2 cases attacking a firm’s unilateral decisions about with whom it will deal and on what terms. It doesn’t seek to displace doctrines that address a monopolist’s more direct interference with rivals. It bears remembering, too, that to the extent that Aspen’s test still might be accused of being underinclusive to some degree even in the narrow field of refusals to deal, the general rule is firm independence and refusal to deal doctrine exists only to address one of the most obvious exceptions to that general rule. If the doctrine fails to capture every nuance, if it must err still to some slight degree, perhaps it is better that it should err on the side of firm independence—given its demonstrated value to the competitive process and consumer welfare—than on the other side where we face the risk of inducing collusion and inviting judicial central planning. See Melamed, supra, at 1266 (considering alternatives and defending the profit sacrifice test as “a sensible middle ground” for refusal to deal cases); Areeda & Hovenkamp, supra, ¶ 651.
+ 
+* * *
+ 
+[6] There’s no question that Novell can satisfy the first essential component of refusal to deal doctrine. A voluntary and profitable relationship clearly existed between Microsoft and Novell. Microsoft doesn’t dispute that at first it freely offered its applications rivals, including Novell, access to its NSEs. Neither does Microsoft dispute that doing so was profitable enough, encouraging software companies to write for its new operating system and in that way making Windows more attractive to consumers.
+ 
+The difficulty is that Novell has presented no evidence from which a reasonable jury could infer that Microsoft’s discontinuation of this arrangement suggested a willingness to sacrifice short-term profits, let alone in a manner that was irrational but for its tendency to harm competition. To the contrary, all the evidence suggests that Microsoft’s decision came about as a result of a desire to maximize the company’s immediate and overall profits. And, as we’ve seen, refusal to deal doctrine specifically and section 2 generally seek to protect, not penalize, such prosaic profit-maximizing (and presumptively pro-competitive) conduct by independently operating firms, even dominant firms.
+ 
+Within the operating systems market alone, it’s not clear Microsoft lost or expected to lose revenues in the short term—or ever. By withdrawing NSEs, Microsoft may have handicapped the ability of ISVs to write for Windows 95. But as Novell acknowledges, ISVs had a reasonably strong incentive to write for Microsoft’s operating system with or without access to Window’s NSEs—given Microsoft’s significant presence in the operating systems market (already about a 90 percent share before Windows 95). In fact, the record suggests that Microsoft’s market share continued to grow even after the introduction of Windows 95 without shared NSEs (to at least 95 percent). To be sure, Novell’s CEO testified that Windows 95 would have done even better (to some *1077 unspecified degree) had Microsoft continued to provide access to NSEs. But Novell’s own expert refused to opine on the question. And Novell’s own theory of monopoly maintenance posits that Microsoft’s withdrawal of the NSEs helped its position in the operating systems market by wedding consumers to Microsoft applications that themselves could run only on its operating system. Perhaps Novell would respond that this strategy only helped Microsoft in the long run after a period of forgone short-term profits—but here again Novell presents no evidence to support such a theory.
+ 
+Besides, even assuming Microsoft’s conduct did suggest a willingness to forgo short-term profits in the operating systems market, that would still account for only part of the story. As we’ve seen, Microsoft also produced various applications and, by everyone’s estimation, its withdrawal of the NSEs helped the firm win additional profits in that field. Indeed, Novell’s theory in this lawsuit rests on the view that Microsoft’s withdrawal of NSEs allowed it to win significant profits in the sale of office suite applications—and to do so immediately. Put differently, even if Microsoft’s decision to withdraw the NSEs ultimately made Windows 95 less successful, any losses in that market have to be considered in light of the acknowledged and immediate gains it achieved in the applications arena. Microsoft is an integrated firm with the goal of maximizing overall profits. And viewed overall, there’s no evidence that Microsoft took any course other than seeking to maximize the company’s net profits in the shortas well as long-term.
+ 
+Perhaps Novell might reply that we should disaggregate operating systems from applications—that proof of a design to forgo short-term profits in one line of business (operating systems) should suffice without consideration of admittedly inevitable short-term gains in another (applications). Novell, however, never attempts the argument for itself—and for good reason. It would be inconsistent with both the formal aspects and the reasoning behind Aspen and Trinko. In Aspen, the Supreme Court found that Aspen Skiing Company’s conduct had no economic justification except its tendency to exclude a rival. Aspen, 472 U.S. at 608, 105 S.Ct. 2847. Neither did the Court disaggregate profits from different lines of business in Trinko: in concluding that Verizon’s behavior failed to show a willingness to sacrifice short-term profits, the Court didn’t separately consider the wholesale and retail markets at play there. The point of the profit sacrifice test is to isolate conduct that has no possible efficiency justification. See id.; see also supra at 1075. Parsing profits from different product lines would defeat this project, holding firms liable for making moves that enhance their overall efficiency, if at the expense of a particular business line. It would risk as well returning us to a day when larger firms had to forgo immediate overall gains in order to subsidize a less efficient rival that happens to do business only in one particular product line. And it would present a serious administration challenge to say the least. After all, businesses have the ability “to recoup [their] investment[s]” in any number of ways. Christy Sports, 555 F.3d at 1194. And selling operating systems surely isn’t the only way to recoup the costs of developing a new operating system—a company might just as easily recoup costs through the sale of applications designed for that operating system. All this courts would have to account for and police.
+ 
+When pressed at oral argument to point to evidence of Microsoft’s willingness to sacrifice short-term profits, Novell contended that Mr. Gates’s internal October 3, *1078 1994 email did the trick. That email, however, indicates only a desire to keep NSEs from rivals “until we have a way to do a high level of integration [that] will be harder for the likes of Notes, WordPerfect to achieve, and which will give Office a real advantage.” J.A.1967. This may suggest a hard-nosed intent to undo rivals in the applications field, to assure Microsoft a leg up, but it doesn’t suggest Microsoft intended to forgo profits. More nearly, it suggests just the opposite—a wish to increase the firm’s immediate profits—and in this way it tends to show that Microsoft’s conduct was hardly irrational but for its exclusionary tendencies. Maybe the e-mail suggests an uncharitable intent toward rivals, maybe even a wish to “hurt” or “destroy” them. But as we’ve seen, experience teaches that the process of firms investing in their own infrastructure and intellectual property and competing rather than colluding normally promotes competition and consumer gains—and the intent to undo a competitor in this process should hardly surprise. “Competition,” after all, “is a ruthless process.” Ball Memorial, 784 F.2d at 1338. “Most businessmen don’t like their competitors” and the antitrust laws aren’t designed to be a guide to good manners. Olympia, 797 F.2d at 379. Were intent to harm a competitor alone the marker of antitrust liability, the law would risk retarding consumer welfare by deterring vigorous competition—and wind up punishing only the guileless who haven’t figured out not to write such things down despite (no doubt) the instructions they received in countless “antitrust compliance” seminars. We fail to see any reason why the law should be more concerned about deterring the clumsy monopolist than the more sophisticated one. See Ronald A. Cass and Keith N. Hylton, Antitrust Intent, 74 S. Cal. L.Rev. 657, 676 (2001).4
+ 
+Still, that is not quite the end of the story. Unable to travel the hard road of refusal to deal doctrine, Novell seeks an escape route, trying to recast Microsoft’s conduct as an “affirmative” act of interference with a rival rather than a “unilateral” refusal to deal. Novell says Microsoft “affirmatively” induced reliance on its intellectual property only then to pull the rug out from underneath it, raising Novell’s cost of doing business in the process—and that, Novell says, should be enough to *1079 state a claim under section 2. Essentially Novell asks us to toy with the act-omission distinction, seeking to have us describe Microsoft’s conduct as an “affirmative” act of interference rather than an “omission” of assistance, and to replace the profit sacrifice test with a raising rivals’ cost test.
+ 
+Traditional refusal to deal doctrine is not so easily evaded. One could just as easily recast the monopolists’ “withdrawals” of assistance in Aspen or Trinko as “affirmative” acts of interference with the plaintiff’s efforts to win customers, ones that raised the rival’s costs of doing business in the process. Indeed, in almost any case where a monopolist first shares and then withdraws its property—as in Aspen and Trinko—the dominant firm might be said to raise the rival’s costs of doing business by forcing it to forgo reliance on the monopolist’s facilities or intellectual property and compete on its own. That’s the whole reason why competitors sue for refusals to deal—because they now have to incur costs associated with doing business another firm previously helped subsidize. Yet neither Trinko nor Aspen Skiing suggested this is enough to evade their profit sacrifice test, and we refuse to do so either. Whether one chooses to call a monopolist’s refusal to deal with a rival an act or omission, interference or withdrawal of assistance, the substance is the same and it must be analyzed under the traditional test we have outlined.
+ 
+[7] This shouldn’t be (mis)taken as suggesting raising rivals’ costs theories play no role in antitrust. It is to say only and much more modestly that they do not displace Aspen and Trinko’s profit sacrifice test in the narrow world of refusal to deal cases, whether one wants to conceive of those cases as involving acts or omissions. Aspen and Trinko’s more demanding inquiry applies in this particular arena because—as we have already explained—the law views with an especially wary eye claims that competition and consumers benefit from collusion between rivals, and it views doubtfully too the ability of courts to identify “the proper price, quantity, and other terms” associated with compelled sharing. Trinko, 540 U.S. at 408, 124 S.Ct. 872; see also 3 Areeda & Hovenkamp, supra, ¶ 651, at 102, 109 (profit sacrifice test is “useful in unilateral refusal to deal cases to the extent that, if we wish to condemn refusals to deal at all, we must have a mechanism for identifying the very small subset of refusals that are anticompetitive”; raising rivals’ costs theory “is sometimes useful” but “can never operate as a complete test for exclusionary conduct”). Indeed, the primary case on which Novell relies, Multistate Legal Services, made plain that it was willing to apply a raising rivals’ cost theory only because that case did not involve a situation in which the defendant had refused to deal or share with a rival—and thus a situation in which the profit sacrifice test would apply. See Multistate Legal Studies v. Harcourt Brace Publ., 63 F.3d 1540, 1553 n. 12 (10th Cir.1995).
+ 
+Novell seeks to evade refusal to deal doctrine in one final way. It charges Microsoft with acting deceptively when it withdrew the NSEs. Microsoft gave pretextual technical reasons for withdrawing the NSEs, Novell says, when Microsoft’s real reasons were competitive in nature. This act of deception, Novell submits, is actionable under the antitrust laws without regard to traditional refusal to deal doctrine.
+ 
+[8] Business torts generally, and acts of fraud more particularly, can sometimes give rise to antitrust liability. At least when the defendant’s deceptive actions—usually aimed at third parties in the marketplace—are so widespread and longstanding and practically incapable of refutation *1080 that they are capable of injuring both consumers and competitors. See, e.g., Caribbean, 148 F.3d at 1087; Conwood, 290 F.3d at 783;  3B Areeda & Hovenkamp, supra, ¶ 782b. Here, however, at least that last element is missing. Whatever other problems exist with Novell’s theory, it falters when it comes to the antitrust injury requirement. See supra at 1070–71.
+ 
+[9] Suppose Microsoft had admitted its “real” reasons for withdrawing the NSEs, as Novell says it should have. Novell and consumers still would have suffered the same alleged harm—the delayed release of PerfectOffice. Deception, then, wasn’t the cause of Novell’s injury or any possible harm to consumers—Microsoft’s refusal to deal was. And that refusal to deal must be analyzed under the doctrine we’ve described. The antitrust laws don’t turn private parties into bounty hunters entitled to a windfall anytime they can ferret out anticompetitive conduct lurking somewhere in the marketplace. To prevail, a private party must establish some link between the defendant’s alleged anticompetitive conduct, on the one hand, and its injuries and the consumer’s, on the other. Here, that essential element is missing: the conduct Novell complains about (deception) is divorced from the conduct that allegedly caused harm to it and to consumers (the refusal to deal). Even if Microsoft had behaved just as Novell says it should have, it would have helped Novell not at all. See Brunswick Corp., 429 U.S. at 489, 97 S.Ct. 690; Four Corners, 582 F.3d at 1225–26; Covad Commc’ns Co. v. Bell Atl. Corp., 398 F.3d 666, 674 (D.C.Cir.2005).5
+ 
+
+* * *
+At the end of the day it is clear to us, as it was to the district court, that Microsoft’s conduct does not qualify as anticompetitive behavior within the meaning of section 2. The district court offered still other rationales for rejecting Novell’s claim—ruling that Microsoft’s conduct didn’t harm competition in the operating systems market, and that Novell’s delay in producing its Windows 95 software was really attributable to its own mismanagement and not Microsoft’s withdrawal of the NSEs. We have no need to reach those alternative holdings or tangle with the parties’ arguments over them. The district court’s first and primary holding is correct and sufficient *1081 to support the judgment. Novell’s motion to seal portions of the joint appendix is granted. The judgment is affirmed.
+ 
+All Citations
+731 F.3d 1064, 2013-2 Trade Cases P 78,523
+Footnotes
+
+1
+
+Novell’s successor as owner of WordPerfect, Caldera, settled antitrust claims with Microsoft in 1996. The Fourth Circuit held that Novell’s Asset Purchase Agreement with Caldera did not encompass Novell’s remaining claim before us; in other words, Novell did not transfer its operating systems market claim to Caldera. See Novell, Inc. v. Microsoft Corp., 429 Fed.Appx. 254, 261 (4th Cir.2011).
+* * *
+
+2
+
+Section 2 addresses not just successful monopolies but also attempted ones, allowing liability when the defendant “intends” to achieve a monopoly and comes “dangerous[ly]” close to achieving it. See Spectrum Sports v. McQuillan, 506 U.S. 447, 459, 113 S.Ct. 884, 122 L.Ed.2d 247 (1993). In this case, though, Novell doesn’t pursue an attempt claim, only one for unlawful monopoly maintenance.
+* * *
+
+3
+
+Something that wound up happening anyway, despite antitrust’s intervention. For an interesting account of this history and of questions surrounding market definition in Aspen, see Jeffrey Macher & John Mayo, Making a Market Out of a Molehill? Geographic Market Definition in Aspen Skiing, 6 J. Competition L. & Econ. 911 (2010).
+
+4
+
+There is still another feature of refusal to deal doctrine worth mention. In Trinko, the Supreme Court emphasized that the monopolist in Aspen effectively refused to deal with its smaller rival even on terms it offered everyone else. See Aspen, 472 U.S. at 593, 105 S.Ct. 2847; Trinko, 540 U.S. at 410, 124 S.Ct. 872. The Aspen Skiing Company sold its tickets at retail price to others, and participated in a town-wide system of credit, but when its smaller rival Aspen Highlands offered to pay retail with credit the monopolist initially refused. Since Aspen and Trinko, some have suggested that this kind of discrimination is also an essential element to any claim for a refusal to deal. See, e.g., MetroNet Servs. Corp. v. Qwest Corp., 383 F.3d 1124, 1132–33 (9th Cir.2004). At the same time, it’s conceivable a monopolist might at least sometimes have procompetitive rationales for treating a rival differently (say, because it’s more costly to deal with distant rivals than other nearby customers). See Four Corners, 582 F.3d at 1225 (hospital justified in refusing to deal with particular doctor because it was unprofitable for the hospital to do so). And one can question whether discrimination is necessary to establish potential for competitive harm. Our analysis, after all, already seeks to ascertain whether a monopolist’s conduct makes any economic sense. Neither are we sure how a discrimination rule might apply to a situation like this case where the contested conduct (withdrawing NSEs) affected only rivals. So far, our cases haven’t decided whether discrimination is essential for success in a refusal to deal case or just helpful to its cause. Neither must we here because, as we’ve seen, Novell’s refusal to deal claim fails anyway.
+* * *
+
+5
+
+Novell points to dicta in Christy Sports suggesting that “[w]e would not even preclude the theoretical possibility that” a defendant’s change in business model “could give rise to an antitrust claim, for example, if by first inviting an investment and then disallowing the use of the investment the [defendant] imposed costs on a competitor that had the effect of injuring competition in a relevant market.” 555 F.3d at 1196. The court in Christy Sports proceeded to hold, however, that the plaintiffs in that case couldn’t succeed because they didn’t satisfy the profit sacrifice test. Id. at 1197 (dismissing because “we have no indication that [the defendant] is terminating a profitable business relationship”); see also Four Corners, 582 F.3d at 1225 (“[I]n Christy Sports, we held that ‘the key fact’ permitting liability in Aspen Skiing ‘was that the defendant terminated a profitable relationship without any economic justification.’ ”) (quoting Christy Sports, 555 F.3d at 1197). The dicta, moreover, is open to considerable interpretation on its own terms. To the extent the dicta suggests liability may attach based on deceptive conduct by a dominant firm, we’ve already seen why Novell can’t prevail. To the extent the dicta suggests raising rivals’ cost theory displaces the profit sacrifice test within the traditional refusal to deal context, that cannot be the case. As we have already seen, unilateral refusals to deal are almost always lawful. Trinko, 540 U.S. at 409, 124 S.Ct. 872. Cases that meet the profit sacrifice test represent a “limited exception.” Id. Where, as here, there is no evidence that the defendant has sacrificed short-term profits to further an anticompetitive agenda, the plaintiff cannot prevail.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

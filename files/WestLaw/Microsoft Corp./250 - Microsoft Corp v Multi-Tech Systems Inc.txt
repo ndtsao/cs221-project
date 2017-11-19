@@ -1,0 +1,558 @@
+
+
+
+
+
+Microsoft Corp. v. Multi-Tech Systems, Inc.
+United States Court of Appeals, Federal Circuit. | February 3, 2004 | 357 F.3d 1340 | 2004 WL 191013
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Extend by Effective Exploration, LLC v. Pennsylvania Land Holdings Company, LLC, W.D.Pa., May 8, 2015
+
+standard Citation:
+
+Microsoft Corp. v. Multi-Tech Sys., Inc., 357 F.3d 1340 (Fed. Cir. 2004)
+
+All Citations:
+
+357 F.3d 1340, 69 U.S.P.Q.2d 1815
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Minnesota
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Extend by Effective Exploration, LLC v. Pennsylvania Land Holdings Company, LLC, W.D.Pa., May 8, 2015
+357 F.3d 1340
+United States Court of Appeals,
+Federal Circuit.
+MICROSOFT CORPORATION, Plaintiff–Appellee,
+v.
+MULTI–TECH SYSTEMS, INC., Defendant–Appellant.
+Multi–Tech Systems, Inc., Plaintiff–Appellant,
+v.
+Net2Phone, Inc., Defendant–Appellee.
+Nos. 03–1138, 03–1139.
+|
+Decided: Feb. 3, 2004.
+|
+Rehearing and Rehearing En Banc Denied March 31, 2004.*
+Synopsis
+Background: Two actions were brought to determine infringement of patents directed to simultaneous transmission of voice and data. The United States District Court for the District of Minnesota, Ann D. Montgomery, J., 2002 WL 1949755,granted summary judgment of noninfringement in both cases, and patentee appealed.
+ 
+[Holding:] The Court of Appeals, Lourie, Circuit Judge, held that patents were restricted to point-to-point communications over telephone line and did not encompass communications over packet-switched network such as Internet.
+ 
+Affirmed.
+ 
+Rader, Circuit Judge, dissented and filed opinion.
+ 
+
+
+West Headnotes (15)
+
+
+[1]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+Patent claim construction is question of law, reviewed de novo.
+10 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+(Formerly 291k101(3))
+
+
+“Sending,” “transmitting,” and “receiving” limitations, in three patents directed to simultaneous transmission of voice and data, were restricted to point-to-point communications over telephone line and did not encompass communications over packet-switched network such as Internet; specification, which was identical for all three patents, consistently described claimed invention as communicating directly over telephone line, and representation during prosecution of one patent, that only point-to-point connection was involved, was applicable to related patents granted previously and subsequently.
+59 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsMultiple sources for construction
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1313Multiple sources for construction
+(Formerly 291k168(2.1), 291k167(1), 291k165(1))
+
+
+Patent claim interpretation begins with claims themselves, written description, and, if in evidence, prosecution history.
+31 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsState of the art
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1341State of the art
+(Formerly 291k161)
+
+
+Patent claim language generally carries ordinary meaning of words in their normal usage in field of invention.
+8 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+(Formerly 291k101(4))
+
+
+Although it is improper to read limitation from patent specification into claims, claims must be read in view of specification, of which they are part.
+14 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsSpecification as limiting or enlarging claims in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1329Specification as limiting or enlarging claims in general
+(Formerly 291k167(1.1))
+
+
+When patent specification makes clear invention does not include particular feature, that feature is deemed to be outside reach of claims, even though language of claims, read without reference to specification, might be considered broad enough to encompass feature in question.
+44 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsProsecution disclaimer
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(4)Prosecution disclaimer
+(Formerly 291k168(2.1))
+
+
+Patentee may limit scope of claims by disclaiming particular interpretation during prosecution.
+63 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsRejection and Amendment of Claims;  Prosecution History
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+(Formerly 291k168(2.1))
+
+
+Patentee’s statements during prosecution, whether relied on by examiner or not, are relevant to claim interpretation.
+125 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsData processing
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1393Data processing
+(Formerly 291k101(4))
+
+
+“Multiplexing” of voice and data packets, called for in patents directed to simultaneous transmission of voice and data, included prioritization of voice packets called for in specification, as integrity of voice data was central to functioning of claimed invention, but did not include transmission of data during periods of silence, also described in specification, which was mere preferred embodiment.
+39 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+(Formerly 291k101(2))
+
+
+“Headers” attached to data packets, called for in patents directed to simultaneous transmission of voice and computer data, had to identify whether packets were voice or computer data packets, but did not have to identify data packets’ type and length or whether voice packets contained speech or silence.
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+(Formerly 291k101(2))
+
+
+“Speaker phone,” called for in patent directed to simultaneous transmission of voice and data, required use of echo cancellation, but did not require any particular physical structure beyond use of microphone and speaker.
+1 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+(Formerly 291k101(2))
+
+
+“Digitizing” of voice signal, called for in patent directed to simultaneous transmission of voice and data, meant conversion of analog signal into digital signal.
+Cases that cite this headnote
+
+
+
+[13]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 4,912,758, US Patent 5,341,374. Cited as Prior Art.
+5 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,452,289, US Patent 5,471,470. Cited.
+1 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,600,649, US Patent 5,764,627, US Patent 5,790,532. Not Infringed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1342 Constantine L. Trela, Jr., Sidley Austin Brown & Wood, of Chicago, IL, argued for plaintiff-appellee 03-1138, Microsoft Corporation. With him on the brief were David T. Pritikin, Richard A. Cederoth, Douglas I. Lewis, and Russell E. Cass.
+Ronald J. Schutz, Robins, Kaplan, Miller & Ciresi L.L.P., of Minneapolis, MN, argued for plaintiff-appellant in 03–1139, Multi–Tech Systems, Inc., and defendant-appellant in 03–1138, Multi–Tech Systems, Inc. With him on the brief were Emmett J. McMahon, Ken R. Hall, and Misti Nelc.
+Michael R. Casey, Oblon, Spivak, McClelland, Maier & Neustadt, P.C., of Alexandria, VA, argued for defendant-appellee in 03-1139, Net2Phone, Inc. With him on the brief were Richard D. Kelly and Derek Richmond. Of counsel was Kenneth T. Cuccinelli, Oblon, Spivak, McClelland, Maier & Neustadt, P.C., of Arlington, VA.
+Before LOURIE, RADER, and BRYSON, Circuit Judges.
+Opinion
+Opinion for the court filed by Circuit Judge LOURIE. Dissenting opinion filed by Circuit Judge RADER.
+
+LOURIE, Circuit Judge.
+
+Multi–Tech Systems, Inc. appeals from the order of the United States District Court for the District of Minnesota entering final judgment of noninfringement of U.S. Patents 5,600,649; 5,764,627; and 5,790,532 in favor of Microsoft Corporation. Microsoft Corp. v. Multi–Tech Sys., Inc., No. 00–CV–1412 ADM/RLE (D.Minn. Oct. 23, 2002) (“Microsoft Final Judgment ”). Multi–Tech also appeals from that same court’s order entering final judgment of noninfringement of the ′649 and ′627 patents in favor of Net2Phone, Inc. Multi–Tech Sys., Inc. v. Net2Phone, Inc., No. 00–CV–1627 ADM/RLE (D.Minn. Oct. 31, 2002) (“Net2Phone Final Judgment ”). Since these appeals involve the same patents, we will consider both appeals together. Because we conclude that the district court did not err in its controlling claim construction, we affirm.
+ 
+
+BACKGROUND
+Multi–Tech owns five patents directed to personal computer-based systems and methods for simultaneously transmitting voice and/or computer data to a remote site over a telephone line. All five patents derive from the same parent application, which issued as U.S. Patent 5,452,289, and share a common specification. Only three patents are at issue in this appeal: the ′649 patent, the ′627 patent, and the ′532 patent.
+ 
+The ′649 patent, which is entitled “Digital Simultaneous Voice and Data Modem,” is directed to methods and modules for the simultaneous transmission of voice and computer data. Claim 1 recites a method for communication of voice and data information in which outgoing computer digital data are packetized into computer data packets having headers and outgoing voice signals are received from a local user, converted into digital voice data, compressed, and packetized into voice data packets having headers. The voice and computer data packets are then multiplexed together and transmitted as an outgoing packet stream. Conversely, incoming voice and computer data packets are received, demultiplexed, and depacketized, with the incoming voice data further being decompressed and converted into remote voice signals that are conveyed to the local user. ′649 patent, col. 46, l. 56 to col. 47, l. 25. The following steps recited in claim 1 are at issue in this appeal:
+*1343 placing headers on each of the compressed outgoing digital voice packets;
+placing headers on each of the computer digital data packets;
+multiplexing the compressed outgoing digital voice data packets with outgoing computer digital data packets to produce an outgoing packet stream;
+transmitting the outgoing packet stream;
+receiving multiplexed incoming data which contains incoming computer digital data packets multiplexed with the compressed incoming digital voice data packets; and
+demultiplexing the incoming computer digital data packets and the compressed incoming digital voice data packets.
+Id. at col. 47, ll. 5–25 (emphases added).
+ 
+The ′627 patent, which is entitled “Method and Apparatus for a Hands–Free Speaker Phone,” is directed to systems and methods for transmitting packetized voice data between a local site and a remote site. Claim 1 recites:
+A communication system, comprising:
+a hands-free speaker phone operable for receiving local analog voice signals with a microphone and for playing remote analog voice signals through a speaker;
+codec means connected to the hands free speaker phone for digitizing the local analog voice signals to produce local digital voice signals and for decoding remote digital voice signals to produce remote analog voice signals;
+means for placing the local digital voice signals into outgoing packets having headers and for removing the remote digital voice signals from incoming packets having headers; and
+a modem connected to a telephone line for receiving the incoming packets from a remote site and for sending the outgoing packets to the remote site in full duplex communication mode.
+′627 patent, col. 46, ll. 37–53 (emphases added). Claims 2 and 5 depend from claim 1, adding the further limitation that the “hands-free speaker phone” include a “deskset” or “headset” microphone and speaker. Id. at col. 46, l. 55 to col. 47, l. 2. Claim 7 recites a method for operating a “full-duplex speaker phone” in which analog voice signals from a local site are received, digitized, placed into outgoing packets having headers, and then sent “to a remote site over a telephone line using a modem.” At the same time, incoming voice data packets are “received through the modem from the remote site.” Digital voice signals are then removed from the incoming packets and decoded to produce analog voice signals, which are played at the local site. Id. at col. 47, ll. 7–23. Similarly, claim 13 recites a method for performing “full-duplex hands-free speaker phone operation” in which outgoing voice signals are received from a local user, converted into digital voice data, compressed, packetized into voice data packets having headers, and transmitted “on a communication line using a modem.” Incoming voice data packets are received “from the communication line,” depacketized, decompressed, converted into analog voice signals, and conveyed to the local user. Id. at col. 48, ll. 23–47.
+ 
+The ′532 patent, which is entitled “Voice Over Video Communication System,” is directed to a system and method for the simultaneous transmission of voice and video data. Claim 11 recites a method for “full duplex transmission of voice and video data information” in which voice signals are received from a local user, converted into digital voice data, compressed, and packetized into voice data packets. The voice data packets are then multiplexed with video data packets and transmitted as an outgoing packet stream. At the same time, incoming voice and video data packets are received and demultiplexed, with *1344 the incoming voice data packets further being depacketized, decompressed, converted into remote voice signals, and then conveyed to the local user. ′532 patent, col. 48, l. 52 to col. 49, l. 13. The following steps recited in claim 11 are at issue in this appeal:
+multiplexing the compressed outgoing digital voice data packets with outgoing video data packets to produce an outgoing packet stream;
+transmitting the outgoing packet stream;
+receiving multiplexed incoming data which contains incoming video data packets multiplexed with the compressed incoming digital voice data packets; and
+demultiplexing the incoming video data packets and the compressed incoming digital voice data packets.
+Id. at col. 49, ll. 4–13 (emphases added).
+ 
+During prosecution of the ′627 patent, the examiner rejected all of the pending claims under 35 U.S.C. § 103(a) as obvious over U.S. Patent 5,341,374 (“Lewen”) in view of U.S. Patent 4,912,758 (“Arbel”). On May 9, 1997, Multi–Tech filed a response to that office action in which it distinguished Lewen, which discloses a local area network that integrates voice, data, and image information over a single transmission link, by arguing that the claimed voice packets “proceed directly from the communications system through the [telephone] line to a receiving communications system at the other end of the line.” Multi–Tech also described its specification as disclosing “a communications system which operates over a standard telephone line[, which] establishes a point-to-point connection between telephone equipment on each end of the line.” Notwithstanding Multi–Tech’s arguments, the examiner again rejected the claims as obvious over Lewen in view of Arbel. On November 4, 1997, Multi–Tech amended the claims that issued as claims 1 and 13 of the ′ 627 patent to require a modem, explaining that the claimed “voice packets are sent through a point-to-point modem connection between sites.” Both of Multi–Tech’s responses to the examiner’s office actions were filed in the United States Patent and Trademark Office (“PTO”) after the ′649 patent had issued but before the ′532 patent issued.1
+ 
+On February 15, 2000, Multi–Tech filed suit against Net2Phone in the United States District Court for the District of Minnesota for infringement of the ′ 289, ′649, and ′627 patents as well as U.S. Patent 5,471,470. On June 9, 2000, Microsoft filed suit against Multi–Tech in that same court, seeking a declaratory judgment of noninfringement, invalidity, and unenforceability of seven Multi–Tech patents. Multi–Tech filed a counterclaim alleging that Microsoft infringed the ′289, ′470, ′649, ′627, and ′532 patents.
+ 
+In August 2002, the district court construed the disputed claim terms for the two cases in a single Markman order. Microsoft Corp. v. Multi–Tech Sys. Inc., Civil Nos. 00–1412 ADM/RLE, 00–1627 ADM/RLE, 2002 WL 1949755 (D.Minn. Aug. 16, 2002) (“Markman Order ”). First and foremost, the court concluded that, for all five patents at issue, the intrinsic evidence limited Multi–Tech’s inventions to use of a direct point-to-point telephone line connection. Id., slip op. at 20; see also id. at 50, 53, 55, 56. In particular, the court held that Multi–Tech had disclaimed the transmission of information through a packet-switched network,2 such as the Internet, *1345 based on the statements that it had made during prosecution of the ′ 627 patent. Id. at 21. Second, the court determined that the specification requires that the “headers” attached to the computer digital data packets identify the packet type and packet length and that the “headers” attached to the digital voice data packets identify whether the voice data contain silent sound or speech information. Id. at 37, 44; see also id. at 50, 52, 55. Third, the court concluded that, acting as its own lexicographer, Multi–Tech had defined the term “multiplexing” to be “the combining of voice data (V-data) and conventional data (C-data) for transmission through the same channel by dynamically changing the time allocations for transmission of each type of data such that V-data has higher priority over C-data, and C-data is substituted for silence packets which are detected and discarded.” Id. at 40–41; see also id. at 56. Fourth, the court construed the term “hands-free speaker phone” as describing “a hardware arrangement integrated into ... ‘a sophisticated telephone apparatus with its attached handset, headset and a built-in hands-free telephone operation using the integrated microphone and speaker system.’ ” Id. at 47 (citation omitted). The court also ruled that the term “full-duplex speaker phone” refers to “a telephone with a speaker that allows two people to talk at the same time” and that it works in full-duplex mode through the use of voice echo cancellation. Id. at 51–52; see also id. at 54. Finally, the court construed the term “digitizing” to mean “converting analog voice signals into digital signals.” Id. at 52.
+ 
+Following the district court’s claim construction order, Multi–Tech stipulated that Microsoft and Net2Phone did not infringe under those claim constructions. In the Microsoft case, the court granted the parties’ joint motion for entry of final judgment of noninfringement of the ′289, ′470, ′ 649, ′627, and ′532 patents pursuant to Federal Rule of Civil Procedure 54(b); the court also stayed Microsoft’s claims of invalidity and unenforceability pending this court’s resolution of the issues relating to claim construction and infringement. Microsoft Final Judgment, slip op. at 3. In the Net2Phone case, the district court likewise entered a final judgment of noninfringement of the ′289, ′470, ′649, and ′627 patents, but on the basis that Multi–Tech’s counsel had conceded at the Markman hearing that Multi–Tech could not prove infringement literally or under the doctrine of equivalents if the court were to rule that Multi–Tech had disclaimed transmission through a packet-switched network. Net2Phone Final Judgment, slip op. at 1–2.
+ 
+Multi–Tech timely appealed to this court, challenging the judgment in the Microsoft case only with respect to the ′649, ′627, and ′532 patents and challenging the judgment in the Net2Phone case only with respect to the ′649 and ′627 patents. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+[1] The only issues on appeal relate to claim construction, as lack of infringement is conceded if we affirm on claim construction. Claim construction is a question of *1346 law, Markman v. Westview Instruments, Inc., 52 F.3d 967, 970–71 (Fed.Cir.1995) (en banc), aff’d, 517 U.S. 370, 116 S.Ct. 1384, 134 L.Ed.2d 577 (1996), that we review de novo, Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc).
+ 
+
+A. The “Sending,” “Transmitting,” and “Receiving” Limitations
+On appeal, Multi–Tech first challenges the district court’s construction of the limitations that refer to “sending,” “transmitting,” and “receiving” data packets in claim 1 of the ′649 patent; claims 1, 2, 5, 7, and 13 of the ′ 627 patent; and claim 11 of the ′532 patent. Multi–Tech argues that the court erred in restricting those limitations to the transmission of data packets over a direct point-to-point telephone line connection. According to Multi–Tech, the claims are directed only to the “ends” of the disclosed communications system and do not address what happens once the data packets are sent from the local user to the telephone line. Multi–Tech also argues that the specification describes a telephone line connected to a modem, which may be a direct end-to-end connection or may connect to a packet-switched network such as the Internet. Furthermore, Multi–Tech maintains that it did not disclaim transmission through a packet-switched network during prosecution of the ′ 627 patent because it distinguished the Lewen reference by amending claims 1 and 13 to require a modem. Multi–Tech also argues that the term “point-to-point,” which it used in remarks made to the PTO during prosecution, can refer to a connection made over a packet-switched network. In any event, Multi–Tech contends, any disclaimer arising from the statements made during prosecution of the ′627 patent should not be applied to the other two patents because the ′ 649 patent issued before those statements were made and because the inventions claimed in the ′649 and ′532 patents are distinct from the invention claimed in the ′627 patent.
+ 
+Microsoft and Net2Phone respond that the claim language, particularly that of claim 7 of the ′627 patent, and the specification require a direct point-to-point connection over a telephone line. They also argue that the prosecution history of the ′627 patent mandates such an interpretation because Multi–Tech defined its invention as establishing a direct connection between the local and remote sites over a telephone line and argued that its claims require a “point-to-point” connection “from the communications system through the [telephone] line to a receiving communications system at the other end of the line.” Finally, Microsoft and Net2Phone maintain that the prosecution history of the ′627 patent is relevant to an understanding of the other two patents, which stem from the same parent application and share a common specification.
+ 
+[2] Thus, the parties’ dispute over the “sending,” “transmitting,” and “receiving” limitations reduces to a single issue: whether those limitations are restricted to communications over a telephone line or whether they may encompass communications over a packet-switched network such as the Internet. For the reasons enumerated below, we agree with Microsoft and Net2Phone that the district court properly construed the “sending,” “transmitting,” and “receiving” limitations in the ′649, ′627, and ′532 patents as being limited to communications over a telephone line and excluding the use of a packet-switched network.
+ 
+[3] [4] [5] [6] [7] Claim interpretation begins with the claims themselves, the written description, and, if in evidence, the prosecution history. CCS Fitness, Inc. v. Brunswick Corp., 288 F.3d 1359, 1366 (Fed.Cir.2002). “Claim language generally carries the ordinary meaning of the words in *1347 their normal usage in the field of invention.” Invitrogen Corp. v. Biocrest Mfg., L.P., 327 F.3d 1364, 1367 (Fed.Cir.2003). Although it is improper to read a limitation from the specification into the claims, Comark Communications, Inc. v. Harris Corp., 156 F.3d 1182, 1186 (Fed.Cir.1998), “[c]laims must be read in view of the specification, of which they are a part,” Markman, 52 F.3d at 979; see also United States v. Adams, 383 U.S. 39, 49, 86 S.Ct. 708, 15 L.Ed.2d 572 (1966) (“[C]laims are to be construed in the light of the specifications and both are to be read with a view to ascertaining the invention.”); Slimfold Mfg. Co. v. Kinkead Indus., Inc., 810 F.2d 1113, 1116 (Fed.Cir.1987) (“Claims are not interpreted in a vacuum, but are part of and are read in light of the specification.”). Indeed, “[o]ne purpose for examining the specification is to determine if the patentee has limited the scope of the claims.” Watts v. XL Sys., Inc., 232 F.3d 877, 882 (Fed.Cir.2000). When the specification “makes clear that the invention does not include a particular feature, that feature is deemed to be outside the reach of the claims of the patent, even though the language of the claims, read without reference to the specification, might be considered broad enough to encompass the feature in question.” SciMed Life Sys., Inc. v. Advanced Cardiovascular Sys., Inc., 242 F.3d 1337, 1341 (Fed.Cir.2001). A patentee may also limit the scope of the claims by disclaiming a particular interpretation during prosecution. Biodex Corp. v. Loredan Biomed., Inc., 946 F.2d 850, 862 (Fed.Cir.1991).
+ 
+We thus begin our analysis with the claim language itself. Claim 1 of the ′627 patent recites “a modem connected to a telephone line for receiving incoming packets from a remote site and for sending the outgoing packets to the remote site in full duplex communication mode.” ′627 patent, col. 46, ll. 50–53. Claim 7 of the ′627 patent requires “sending the outgoing packets to a remote site over a telephone line using a modem” and “receiving incoming packets through the modem from the remote site.” Id. at col. 47, ll. 15–18. Similarly, claim 13 of the ′627 patent recites “transmitting the compressed outgoing digital voice packets on a communication line using a modem” and “receiving the compressed incoming digital voice data packets from the communication line.” Id. at col. 48, ll. 44–47. Claim 1 of the ′649 patent and claim 11 of the ′532 patent recite “transmitting the outgoing packet stream” and “receiving multiplexed incoming data.” ′649 patent, col. 47, ll. 18–19; ′532 patent, col. 49, ll. 7–8.
+ 
+From the plain language of those claims, only claim 7 of the ′627 patent explicitly states that the transmission of data packets between the local site and the remote site must occur “over a telephone line.” Claim 1 of the ′627 patent similarly refers to a telephone line, but is more ambiguous in that it refers to the modem connection rather than the data transmission. And the language of claim 13 of the ′627 patent, claim 1 of the ′649 patent, and claim 11 of the ′532 patent is even more broad. It makes no reference to a telephone line and standing alone does not exclude data transmission over a packet-switched network.3
+ 
+Nonetheless, the claims must be interpreted in light of the specification, which is identical for all three patents and which *1348 repeatedly and consistently describes the local and remote systems of the claimed inventions as communicating directly over a telephone line. The “Summary of the Invention” portion of the specification states that the claimed personal communications system includes “hardware to enable voice, fax and data communications with a remote site connected through a standard telephone line,”  ′289 patent, col. 1, ll. 48–50,4 as well as circuitry to “transfer [data] over the telephone lines to a remote site,” id. at col. 2, ll. 49–50. The specification further discloses that the hardware components of the local system “communicate over a standard telephone line ... to one of a variety of remote sites.” Id. at col. 5, ll. 63–64. It then describes various preferred embodiments of the invention, in all of which the hardware components of the local system “communicat[e] over a standard telephone line” to the disclosed hardware components, a facsimile machine, a modem, or a standard telephone at the remote site. Id. at col. 5, l. 64 to col. 6, l. 7; id. at fig. 1. The specification also discloses that the system “allows the user to connect to remote locations equipped with a similar system or with modems, facsimile machines or standard telephones over a single analog telephone line.” Id. at col. 6, ll. 36–39.
+ 
+Those statements, some of which are found in the “Summary of the Invention” portion of the specification, are not limited to describing a preferred embodiment, but more broadly describe the overall inventions of all three patents. Indeed, they characterize the entire “personal communications system” as enabling communications between a local site and a remote site over a telephone line. Moreover, those descriptions of the claimed inventions are by no means limited to just the “ends” of the communications system as Multi–Tech argues. On the contrary, they explain that data packets from a local site are transferred “over” or “through” a telephone line “to a remote site,” making clear that the communications link between the local and remote systems is a telephone line. In fact, the specification refers to data transmission “over” or “through” a telephone line roughly two dozen times. Nowhere does it even suggest the use of a packet-switched network. In light of those clear statements in the specification that the invention (“the present system”) is directed to communications “over a standard telephone line,” we cannot read the claims of the ′627 patent, the ′649 patent, or the ′532 patent to encompass data transmission over a packet-switched network such as the Internet. Instead, the specification shared by all three patents leads to the “inescapable conclusion” that the communications between the local and remote sites of the claimed inventions must occur directly over a telephone line. See SciMed Life Sys., 242 F.3d at 1342 (concluding that the common specification of three patents led to the “inescapable conclusion” that their claims required coaxial lumens, even though the claim language itself was not so limited); see also Alloc, Inc. v. Int’l Trade Comm’n, 342 F.3d 1361, 1370 (Fed.Cir.2003) (concluding that, read as whole, the common specification of three patents led to the “inescapable conclusion” that the claimed inventions must include “play” in every embodiment, even though the claim language was not so limited). Accordingly, we construe the “sending,” “transmitting,” and “receiving” limitations of the ′627, ′649, and ′532 patents to require that the claimed data packets travel directly from a local site to a remote site (and vice *1349 versa) over a telephone line and not a packet-switched network.
+ 
+Furthermore, an examination of the ′627 patent’s prosecution history confirms that Multi–Tech viewed its inventions as being limited to communications over a telephone line. In response to the examiner’s first office action, Multi–Tech took the opportunity to provide a “summary of the invention” before addressing the § 103 rejection. It stated:
+In their specification, Applicants disclose a communications system which operates over a standard telephone line. Such a telephone line is commonly referred to in the art as a “plain old telephone service” (POTS) line and establishes a point-to-point connection between telephone equipment on each end of the line. Applicants’ invention ... transmits the packets across a POTS line to a remote site....
+(citations omitted). That statement, which expressly related to the specification shared by all three patents and the communications system disclosed in all three patents, makes clear that Multi–Tech viewed the local and remote sites of its inventions as communicating directly over a telephone line. Again, it does not describe just the connection at the “ends” of the claimed communications system, but explicitly states that the data packets travel “across a [telephone] line to a remote site” and further describes that path as being a “point-to-point” connection “between” each end. That statement unambiguously reflects Multi–Tech’s own understanding of its inventions in the ′627, ′649, and ′532 patents as being limited to the transmission of data packets over a telephone line. We cannot construe the claims to cover subject matter broader than that which the patentee itself regarded as comprising its inventions and represented to the PTO.5
+ 
+Moreover, although Multi–Tech made the above-quoted statement during prosecution of the ′627 patent, it is also applicable to both the ′649 and the ′532 patents. In the past, we have held that the prosecution history of one patent is relevant to an understanding of the scope of a common term in a second patent stemming from the same parent application. E.g., Jonsson v. Stanley Works, 903 F.2d 812, 818 (Fed.Cir.1990); see also Laitram Corp. v. Morehouse Indus., Inc., 143 F.3d 1456, 1460 n. 2 (Fed.Cir.1998) (applying the prosecution histories of two sibling patents, which shared a common written description, to one another). We likewise believe that Multi–Tech’s statement made during prosecution of the ′627 patent is relevant to an understanding of the common disclosure in the sibling ′649 and ′532 patents. Multi–Tech’s statement was expressly directed to the “communications system” disclosed “[i]n the[ ] specification.” That communications system encompasses *1350 the inventions of all three patents, see ′289 patent, col. 1, ll. 35–37 (stating that the “communications system ... contains multiple inventions”), and as noted above, the specification is identical for all three patents. Multi–Tech’s statement to the PTO was thus not limited to the invention disclosed in the ′ 627 patent, but was a representation of its own understanding of the inventions disclosed in all three patents. We therefore conclude that that statement from the ′627 patent’s prosecution history is pertinent to an interpretation of the later issued ′532 patent. See Elkay Mfg. Co. v. Ebco Mfg. Co., 192 F.3d 973, 980 (Fed.Cir.1999) (applying the prosecution history of one patent to a related, subsequently issued patent).
+ 
+[8] Furthermore, even though the ′649 patent had already issued, we think that it is not unsound to apply the same interpretation to that patent. We take the patentee at its word and will not construe the scope of the ′649 patent’s claims more broadly than the patentee itself clearly envisioned. We also reject Multi–Tech’s argument, based on Georgia–Pacific Corp. v. United States Gypsum Co., 195 F.3d 1322, 1333 (Fed.Cir.1999), that the statements made during prosecution of the ′627 patent should not be applied to the ′649 patent because the examiner could not have relied on those statements in allowing the claims of the ′649 patent. We have stated on numerous occasions that a patentee’s statements during prosecution, whether relied on by the examiner or not, are relevant to claim interpretation. Laitram Corp., 143 F.3d at 1462 (“The fact that an examiner placed no reliance on an applicant’s statement distinguishing prior art does not mean that the statement is inconsequential for purposes of claim construction.”); E.I. du Pont de Nemours & Co. v. Phillips Petroleum Co., 849 F.2d 1430, 1438 (Fed.Cir.1988) ( “Regardless of the examiner’s motives, arguments made during prosecution shed light on what the applicant meant by its various terms.”). Georgia–Pacific is not to the contrary. In that case, we rejected the argument that the patentee was “bound by” statements made by the applicant in connection with a later application after the patent in suit had already issued. Ga.–Pac. Corp., 195 F.3d at 1333. The accused infringer argued that the patentee was foreclosed by the later statement from arguing in favor of a broader construction of the earlier patent, even though intrinsic evidence supported that broader construction. We rejected the argument that the patentee was bound, or estopped, by a statement made in connection with a later application on which the examiner of the first application could not have relied. We did not suggest, however, that such a statement of the patentee as to the scope of the disclosed invention would be irrelevant. Any statement of the patentee in the prosecution of a related application as to the scope of the invention would be relevant to claim construction, and the relevance of the statement made in this instance is enhanced by the fact that it was made in an official proceeding in which the patentee had every incentive to exercise care in characterizing the scope of its invention. Accordingly, we conclude that Multi–Tech’s statements made during the prosecution of the ′627 patent with regard to the scope of its inventions as disclosed in the common specification are relevant not only to the ′627 and ′532 patents, but also to the earlier issued ′649 patent.
+ 
+In sum, based on our analysis of the claim language, the specification, and the prosecution history, we conclude that the district court properly interpreted the “sending,” “transmitting,” and “receiving” limitations of the ′ 627, ′649, and ′532 patents as requiring the direct transmission of data packets between the local and remote sites over a telephone line and excluding the use of a packet-switched network such *1351 as the Internet. This conclusion in and of itself leads to our affirmance of the district court’s decisions. However, inasmuch as other issues of claim construction were decided by the district court and argued before us, we consider it to be in the interest of judicial efficiency, as well as in the interest of any future litigation concerning these patents, to review the other contested claim limitations.6
+ 
+
+B. “Multiplexing”
+[9] Multi–Tech next challenges the district court’s construction of the claim term “multiplexing” in claim 1 of the ′649 patent and claim 11 of the ′532 patent. Multi–Tech argues that the court improperly imported limitations from the specification into the claims by requiring that voice data have priority over computer data and that computer data be substituted for detected and discarded silence packets.
+ 
+Microsoft responds by pointing out that the parties agreed that Multi–Tech acted as its own lexicographer in defining the term “multiplexing.” Therefore, Microsoft argues, the specification’s definition of the term “multiplexing” to include the prioritization of voice packets, the detection and discarding of silence packets, and the transmission of computer data during periods of silence is the proper one.
+ 
+We again begin our analysis with the claim language. Claim 1 of the ′649 patent simply requires “multiplexing” outgoing voice and computer data packets and “demultiplexing” incoming voice and computer data packets. ′649 patent, col. 47, ll. 14–25. Claim 11 of the ′532 patent similarly requires “multiplexing” and “demultiplexing” voice and video data packets. ′532 patent, col. 49, ll. 4–13. At the very least then, the plain language of the claims defines the term “multiplexing” as the combining of voice and computer data packets. The parties also agree that Multi–Tech acted as its own lexicographer in defining the term “multiplexing” to mean “dynamic multiplexing,” or the combining of voice and computer data packets for transmission through the same channel by dynamically changing the time allocations for transmission of each type of data. That interpretation is supported by the specification. See, e.g., ′289 patent, col. 3, l. 2; id. at col. 7, ll. 39–42.
+ 
+The parties disagree, however, as to the propriety of the district court’s inclusion of two additional limitations in its interpretation of the term “multiplexing.” First, we agree with Microsoft that the court properly interpreted the term “multiplexing” to require the prioritization of voice data over computer data. In its discussion of multiplexing, the specification provides that voice data have higher priority than computer data “to ensure the integrity of the real-time voice transmission.” Id. at col. 35, ll. 57–58. Because maintaining the integrity of the voice data is central to the functioning of the claimed inventions, we read Multi–Tech as having defined the term “multiplexing” to require the prioritization of voice data over computer data.
+ 
+However, we agree with Multi–Tech that the court improperly construed the term “multiplexing” to require the detection and discarding of silence packets and the transmission of computer data packets during periods of silence. The specification’s *1352 references to those limitations are nothing more than disclosures of a preferred embodiment. Although those features may be desirable, nowhere does the specification indicate that they are necessary for the multiplexing function. Moreover, the method of detecting and discarding silence packets and transmitting only computer data packets during periods of silence is separately claimed in the dependent claims. ′ 649 patent, col. 47, ll. 26–35; ′532 patent, col. 49, ll. 14–23; see Comark Communications, 156 F.3d at 1187 (recognizing that the doctrine of claim differentiation, although not a hard and fast rule of claim construction, creates a presumption that each claim in a patent has a different scope). We therefore conclude that the term “multiplexing” does not include the limitations of detecting and discarding silence packets and transmitting computer data packets during periods of silence.
+ 
+
+C. “Headers”
+[10] Multi–Tech also argues that the district court erred in its construction of the term “headers” in claim 1 of the ′649 patent and claims 1, 2, 5, 7, and 13 of the ′627 patent. Multi–Tech maintains that the term “headers” should be given its ordinary meaning of “information structures that precede units of data, such as packets.” Multi–Tech thus asserts that the headers attached to computer data packets need not identify packet type or packet length and that the headers attached to voice data packets need not identify whether the packets contain speech or silence. According to Multi–Tech, the district court improperly imported those additional limitations from the specification’s preferred embodiments into the claims, despite the broader claim language.
+ 
+Microsoft responds that the term “headers” has several ordinary meanings and that Multi–Tech’s proposed definition is inconsistent with the specification’s preferred embodiment and various dictionary definitions. Microsoft also argues that the specification requires both that the computer data packet headers identify packet type and packet length and that voice data packet headers indicate whether the packets contain speech or silence.
+ 
+We agree with Multi–Tech that the district court’s interpretation of the term “headers” was overly narrow. Claim 1 of the ′649 patent refers to “placing headers” on the voice data packets as well as “placing headers” on the computer data packets. ′649 patent, col. 47, ll. 5–13. Claims 1 and 7 of the ′ 627 patent simply refer to voice data packets “having headers,” ′627 patent, col. 46, ll. 47–49; id. at col. 47, l. 14, while claim 13 recites “placing headers” on outgoing voice data packets, id. at col. 48, l. 39. We therefore start from the presumption that the term “headers” carries its ordinary meaning of “information structure[s] that precede[ ] and identif[y] the information that follows.” Microsoft Computer Dictionary 215 (4th ed.1999).
+ 
+Considering both the claim language and the specification, we next conclude that the claimed “headers,” at least in the ′649 patent, must identify whether the packets are voice or computer data packets.7 To begin with, the claim language of the ′649 patent separately refers to “placing headers” on voice data packets and “placing headers” on computer data packets. Moreover, the specification states that “[t]he voice data packet information ... uses a different header format [than does the computer data packet information] so the receiving site recognizes the difference between a data packet and a voice packet.” ′289 patent, col. 13, ll. 17–20. Such differentiation is necessary to enable the prioritization *1353 of voice data packets over computer data packets that, as discussed above, must occur when the two types of packets are multiplexed together. We therefore read the claim language, in light of the specification, as requiring that the “headers” of the ′649 patent identify whether the following packets contain voice or computer data.
+ 
+We further conclude, however, that the claimed “headers” need not identify the computer data packets’ type and length or whether the voice data packets contain speech or silence. To be sure, the specification does disclose a preferred embodiment in which the computer data packets begin with an “ID byte” specifying the type and length of the packet, id. at col. 20, ll. 36–43 & tbls. 3–5, and the voice data packets have a “sign byte” specifying whether the packet contains silent sound or speech information, id. at col. 34, l. 64 to col. 35, l. 2 & tbl. 15. The district court determined that such additional limitations must be read into the claims because they are necessary “[f]or the preferred embodiment to function as specified.” Markman Order, slip op. at 37.8 However, those statements are limited to descriptions of the “packet protocol” used in the preferred embodiments, see ′289 patent, col. 18, l. 13; id. at col. 33, l. 61, and are merely illustrative of how the headers can be configured. We therefore conclude that the claimed “headers” need not identify the computer data packets’ type and length or whether the voice data packets contain speech or silence.
+ 
+
+D. The “Speaker Phone” Limitations
+[11] Multi–Tech next argues that the district court erred in its interpretation of the terms “hands-free speaker phone,” “full-duplex speaker phone,” and “full-duplex hands-free speaker phone” in claims 1, 2, 5, 7, and 13 of the ′627 patent. Multi–Tech maintains that the court erred in limiting the “speaker phone” limitations to traditional speaker phones because the claim language discloses a speaker phone that is simply a microphone and a speaker, regardless of its physical housing. Multi–Tech further argues that the court improperly construed the “full-duplex speaker phone” limitations to require echo cancellation, an optional feature disclosed in the specification.
+ 
+Microsoft responds that, according to its ordinary meaning, the term “speaker phone” must include structure beyond just a microphone and a speaker in order to be a telephone. Microsoft also argues that the term “full-duplex speaker phone” must include echo cancellation because the specification states that the use of a microphone and a speaker “necessitates the use of an acoustical echo cancellation algorithm to prevent feedback from destroying the voice signals.”
+ 
+We agree with Multi–Tech that the district court construed the “speaker phone” limitations too narrowly. Neither the claims nor the specification describes any physical housing that must comprise the “hands-free speaker phone.” Claim 1 of the ′627 patent simply recites a “hands-free speaker phone” with a microphone and a speaker. ′627 patent, col. 46, ll. 37–39. Dependent claims 2 and 5 further require that the “hands-free speaker phone” include, respectively, a “deskset microphone” and a “deskset speaker,” id. at col. 46, ll. 55–57, or a “headset microphone” and a “headset speaker,” id. at col. 46, l. 66 to col. 47, l. 1. Claim 7 recites a “full-duplex speaker phone,” id. at col. 47, l. 7, and claim 13 recites a “full-duplex hands-free speaker phone,” id. at col. 48, ll. 22–23. Moreover, the specification repeatedly *1354 refers to three alternative telephone interfaces: a handset, a headset, and a hands-free microphone and speaker. E.g., ′289 patent, col. 8, ll. 20–21 & fig. 3. It consistently describes the hands-free interface as simply a microphone and a speaker. To require more structure would impermissibly exclude a preferred embodiment from the claim limitation. Vitronics Corp. v. Conceptronic, Inc., 90 F.3d 1576, 1583 (Fed.Cir.1996) (stating that it is “rarely, if ever, correct” to interpret a claim to exclude a preferred embodiment). We therefore conclude that the term “speaker phone” requires no physical structure beyond a microphone and a speaker.
+ 
+We agree with Microsoft, however, that the district court properly construed the “speaker phone” limitations to require the use of echo cancellation. Although the language of the independent claims does not expressly refer to echo cancellation, the specification provides that the “use of the speaker and microphone necessitates the use of an acoustical echo cancellation algorithm to prevent feedback from destroying the voice signals” and that “a line echo cancellation algorithm is needed no matter which telephone interface ... is used.” ′289 patent, col. 31, l. 67 to col. 32, l. 4 (emphases added). Those statements clearly mandate the use of acoustical and line echo cancellation. We therefore conclude that the “speaker phone” limitations require the use of echo cancellation.
+ 
+
+E. “Digitizing”
+[12] Multi–Tech finally argues that the district court improperly construed the term “digitizing,” found in claim 7 of the ′627 patent, as necessarily being performed by the codec circuit that is disclosed in the specification’s preferred embodiment. Microsoft responds that the court did not interpret the term “digitizing” as necessarily being performed by the codec circuit. Thus, there is no dispute regarding this term, and we affirm the district court’s construction of the term “digitizing” as meaning simply “converting analog signals into digital signals.”
+ 
+
+CONCLUSION
+For the foregoing reasons, we conclude that the district court properly construed the asserted claims of the ′649, ′627, and ′532 patents to be limited to communications over a telephone line and to exclude communications over a packet-switched network such as the Internet. However, we revise the court’s constructions of the limitations relating to “headers,” “multiplexing,” and “speaker phone[s].” Nonetheless, because Multi–Tech’s stipulations of noninfringement under the affirmed claim construction are unaffected by our changes to other aspects of the district court’s claim construction, the final judgments of the district court are
+ 
+AFFIRMED.
+ 
+
+RADER, Circuit Judge, dissenting.
+
+This court today concludes that the invention claimed in any patent sharing the specification of the ′649, ′627, and ′532 patents cannot encompass the use of a packet-switched communications network like the Internet. As all parties agree, the claim language in no way rules out the use of a packet-switched network. The specification also does not foreclose use of the Internet. The prosecution history of the ′627 patent falls far short of a “clear and unambiguous” disclaimer of Internet coverage (as the majority finds), but rather suggests the contrary conclusion. Finally, this court today dismisses the rule in Georgia–Pacific Corp. v. United States Gypsum Co., 195 F.3d 1322 (Fed.Cir.1999) and applies the prosecution history of a later patent to limit the narrower claims of a patent issuing before such statements *1355 were made. For these reasons, I must respectfully dissent.
+ 
+This court today asserts that the language in the specification regarding “over” and “through” a telephone line somehow requires the claims to cover only those communication networks where nothing but a telephone line lies between the two end sites. To my eyes, that leap in logic is akin to Evel Knievel jumping the Snake River Gorge on a motorcycle. Like Mr. Knievel, this court’s conclusion falls short. In the first place, this limitation does not appear anywhere in the claims. In addition, nothing in this record indicates that a person of skill in this art would find that limitation in the specification.
+ 
+When I connect to the Internet (a packet-switched network) at home using my modem, I do it “over a telephone line.” When I send email to my colleagues from home, I do it “through a telephone line” as well as across the Internet. If I travel over the river and through the woods to grandmother’s house, this court would apparently conclude that I have traveled through nothing but rivers and woods. The terms “over” and “through” do not denote the sole medium of transmission or travel. If a person asks me to send them a file “over” the Internet, that request certainly would not preclude the use of a telephone line connected to a modem connected to the Internet. In sending the file, I would be sending data over my telephone line as well as over the Internet. The record contains no evidence to support the leap that “over a telephone line” must mean exclusively over a telephone line.
+ 
+Most of the claims at issue never refer to the communication network between the end sites of the system. The claims focus on the “ends” of the communication system. The “middle” portion is essentially irrelevant to the invention. Claim 1 of the ′532 patent is a method claim directed to “multiplexing,” “transmitting,” “receiving,” and “demultiplexing” voice and video data. Claim 1 of the ′649 patent identifies a method that places headers on outgoing voice and computer data packets, and then multiplexes, transmits, receives, and demultiplexes the data packets. These claims address what happens at each end of the communication system, not the travel routes for the packets between the ends.
+ 
+This court today, however, goes beyond merely importing a limitation from the specification into the claims. First the court manufactures an unreasonable limitation out of vague specification references to “over” and “through.” Then the court imports that unstated limitation into the claims. At most, the specification can be read to require that all of the claims require the use of a telephone line in the transmitting, sending, or receiving elements. To my eyes, this court leaps into thin air when it says that the claims require the exclusive use of telephone line transmission.
+ 
+To bolster the absence of limitation in the claims or specification, the court stretches to find a clear and unambiguous disclaimer in the prosecution history of the ′627 patent. To the contrary, the examiner, who actually participated in that history, considered the applicant’s statements regarding the ′627 patent and found that the claims do not limit themselves to a standard telephone line. In fact, because the claims encompassed more than a mere telephone connection, the examiner renewed a rejection. In response to the examiner’s rejection in light of the Lewen reference, the applicant stated that Lewen operates using a “local area network (LAN)” requiring the data packets to “circulate around the LAN until reaching either the gateway or the node” where they can be sent to a remote site. The applicant explained that the ′627 patent claims a system that does not use a LAN, but *1356 “operates over a standard telephone line ... and establishes a point-to-point connection between ... each end of the line.”
+ 
+The examiner responded by renewing the rejection and explaining that “the claims do not recite a limitation of a POTS telephone connection” and that “Lewen’s token ring transmission medium is a telephone line in the sense that it carries voice between telephones[ ] separated by some distance.” Thus, the examiner did not limit the invention to an exclusive telephone line connection. The examiner even considered the LAN in Lewen to satisfy the telephone connection proposed by the applicant. The LAN in Lewen connects to a packet-switched network.
+ 
+Ultimately, the applicant amended the ′627 claims to include the limitation of a modem. At that point, the PTO allowed the claims. The entire discussion in this prosecution history focused on the structure at each end of the communication system, not the middle medium of transmission. The applicant unambiguously disclaimed the use of a LAN and any system that does not connect modems at each end site. Neither the applicant nor the PTO, however, considered that disclaimer to extend to the use of a packet-switched network between sites. How can such circumstances show a clear and unambiguous disclaimer?
+ 
+Rather than disclaiming connection to the Internet, the prosecution history more convincingly suggests that the inventor and the PTO saw these inventions as directly relevant to the Internet. The applicant eventually added the term “modem” to the ′627 patent claims in order to distinguish the LAN in the Lewen reference. At the time of this amendment, a modem was the common and accepted way to connect to the Internet over a standard telephone line. U.S. Patent No. 5,594,490, which issued January 4, 1997, states: “Modem 45 communicates with a corresponding modem 17 at distribution station 3 via a conventional point-to-point land-link such as a public switched telephone network (PSTN) or internet.” Col. 9, ll. 47–56 (emphasis added). Contrary to this court’s conclusion, a person of ordinary skill in the art at the time of invention would consider the addition of a modem as a clear indication that the inventor intended to connect the invention to packet-switched networks, such as the Internet. Even though modems connect to the Internet, as even the examiner acknowledged, this court emphasizes the “point-to-point” phrases in the prosecution history to exclude the Internet. This conclusion leaps to assume that the Internet does not allow point-to-point connections. The record, however, indicates exactly the opposite. As cited above, U.S. Patent No. 5,594,490 describes a point-to-point connection using the Internet. Moreover, according to Microsoft’s Computer Dictionary of 1997, Third Edition, a point-to-point communication protocol is “[a] data link protocol developed ... in 1991 for dial-up telephone connections, such as between a computer and the Internet.” Thus, within the context of this art, and at the time of the amendment, the term point-to-point referred to a variety of communication networks, including the Internet.
+ 
+As a question of law, however, this court’s conclusion significantly erodes the requirement that a disclaimer of subject matter must be clear and unambiguous. See, e.g., Schwing GmbH v. Putzmeister Aktiengesellschaft, 305 F.3d 1318, 1324–25 (Fed.Cir.2002) (“Prosecution history ... cannot be used to limit the scope of a claim unless the applicant took a position before the PTO that would lead a competitor to believe that the applicant had disavowed coverage of the relevant subject matter.”) This record the examiner’s responses and understanding, the definitions of “point to point” in the patents and the art, and more *1357 do not show clarity and a lack of ambiguity, to say the least. See Omega Engineering, Inc. v. Raytek, Corp., 334 F.3d 1314, 1326 (Fed.Cir.2003) (“To balance the importance of public notice and the right of patentees to seek broad patent coverage, we have thus consistently rejected prosecution statements too vague or ambiguous to qualify as a disavowal of claim scope.”) The only subject matter unambiguously disclaimed in this case was a connection other than a modem-telephone line at each communication end.
+ 
+To make this court’s conclusion a longer leap, the alleged disclaimer by its terms applies only to the “modem” amendment that distinguished Lewen. Only the ′627 patent’s claims use the term “modem.” In fact, the ′627 patent was the only patent in this case rejected in light of Lewen. The ′649 and ′532 patents actually relied on Lewen as prior art. The examiner did not cite Lewen to reject the claims in those patents. The other patents do not even refer to a “modem.” Because the inventions in the various patents are different, the ′627 patent needed to distinguish Lewen while the others did not. The ′649 patent claims the transmission of packetized voice and computer data. The ′532 patent claims the transmission of packetized voice and video data. In contrast, the ′627 patent claims only the transmission of packetized voice data. According to the PTO, the transmission of voice data only was not sufficiently narrow to avoid the Lewen reference. Thus, the applicant added the limitation of a modem connected to a standard telephone line. This simply illustrates that the broad claims of one patent, in this case the ′627, may require an additional limitation to avoid prior art, while narrower claims in related patents do not need the same limitation to avoid the same prior art. The ′627 amendment does not explain the reason that this court extends the limitation to narrower claims in the other patents.
+ 
+By way of illustration, assume three patents (A, B, and C) share a common specification directed to a method for hanging a picture. Patent A claims an attaching step and a leveling step. Patent B claims an attaching step and a centering step. Patent C claims only the attaching step. The prior art contains a reference to attaching pictures using nails. Because they contain limitations beyond attaching, patents A and B issue without rejection. Patent C, however, is rejected in light of the prior art. To distinguish the prior art, the applicant clarifies the attaching step is limited to using Velcro, not nails. Under what logic would a court limit the claims in Patents A and B to Velcro based on the later and inapplicable prosecution history of Patent C? That, however, is exactly what the majority does in this case.
+ 
+Finally, the majority essentially disregards the holding of Georgia–Pacific. In this case, for the first time, this court applies the prosecution history of one patent to limit the claims of a related patent that was allowed before the creation of the prosecution history at issue. The ′649 patent issued before the prosecution history of the ′627 patent. Georgia–Pacific states that for an applicant “to be bound by the statement made to the PTO in connection with a later prosecution of a different patent, the statement would have to be one that the examiner relied upon in allowing the claims in the patent at issue.” 195 F.3d at 1333. In this case, the statements during the prosecution of the ′627 patent could not have influenced the allowance of the ′649 patent, because the ′649 patent issued before those statements occurred.
+ 
+In short, I cannot support this court’s many leaps of illogic. I would not import the exclusive telephone line limitation, if it even exists in the specification, into the claims. Moreover, I cannot find a clear and unambiguous disclaimer in the prosecution *1358 history of the ′627 patent. Even if the modem amendment in that patent disclaimed subject matter, I cannot find a justification to apply that limitation to the unambiguous claims of the ′649 and ′532 patents, which cover different inventions. For these reasons, I cannot join this opinion of the court.
+ 
+All Citations
+357 F.3d 1340, 69 U.S.P.Q.2d 1815
+Footnotes
+
+*
+
+Circuit Judges Clevenger, Gajarsa and Dyk did not participate in the vote.
+
+1
+
+The ′649 patent issued on February 4, 1997, and the ′532 patent issued on August 4, 1998.
+
+2
+
+A “circuit-switched network,” such as the Public Switched Telephone Network, is one in which a connection is established from one user to the other such that the users have exclusive and full use of the circuit until the connection is released. Harry Newton, Newton’s Telecom Dictionary 190–91 (5th ed.1992). In contrast, a “packet-switched network,” such as the Internet, is one in which data packets are relayed through various stations on a network. The packets comprising a message may travel along different paths and arrive at different times, but are reassembled in proper sequence at their destination. Microsoft Press Computer Dictionary 253 (1991).
+
+3
+
+We reject Microsoft’s contention that the “full duplex” language of claim 1 of the ′627 patent and claim 11 of the ′532 patent requires a direct telephone line connection. “Full duplex” operation means that the data packets can be transmitted simultaneously in both directions; it does not require that the data packets travel along the exact same path in both directions. See Microsoft Press Computer Dictionary 119 (1991).
+
+4
+
+For ease of reference, we cite only the specification of the parent ′289 patent, although the same statements are also found in the identical specifications of the ′649, ′627, and ′532 patents.
+
+5
+
+During prosecution of the ′627 patent, Multi–Tech went on to distinguish Lewen, which discloses the use of a token-ring local area network (“LAN”) to transmit voice, data, and image information, by explaining that “[i]n contrast, Applicants’ voice packets do not circulate around a LAN but proceed directly from the communications system through the [telephone] line to a receiving communications system at the other end of the line.” (emphasis added). Multi–Tech further distinguished the Arbel reference on the basis that it does not disclose the transmission of packetized voice data “across” or “over” a POTS line. Those statements add further credence to our claim interpretation. However, because they refer more specifically to the references cited against the claims of the ′627 patent only, we limit their relevance to our interpretation of the ′627 patent.
+Moreover, the prosecution history statements that we rely on were made by Multi–Tech in May 1997 and relate to the communications system disclosed in the common specification. We do not, as the dissent suggests, rely on the November 1997 “modem” amendment, which applies only to the ′627 patent.
+
+6
+
+Net2Phone has not responded to Multi–Tech’s arguments regarding the remaining claim terms because the district court’s final judgment of noninfringement in the Net2Phone case was based solely on the court’s interpretation of the “sending,” “transmitting,” and “receiving” limitations. However, because the final judgment of noninfringement in the Microsoft case was based on the court’s claim construction in its entirety and not just its interpretation of particular limitations, we will review all of the disputed claim terms that Multi–Tech has appealed.
+
+7
+
+In the ′627 patent, the claimed “headers” need not distinguish between voice data packets and computer data packets because that patent involves only voice data packets.
+
+8
+
+Our broader interpretation of the term “headers” does not exclude the use of the headers disclosed in the preferred embodiment; it simply does not require their use.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

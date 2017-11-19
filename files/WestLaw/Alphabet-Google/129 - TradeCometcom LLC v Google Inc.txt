@@ -1,0 +1,243 @@
+
+
+ 
+
+
+TradeComet.com LLC v. Google, Inc.
+United States Court of Appeals, Second Circuit. | July 26, 2011 | 647 F.3d 472 | 2011 WL 3068851
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+TradeComet.com LLC v. Google, Inc., 647 F.3d 472 (2d Cir. 2011)
+
+All Citations:
+
+647 F.3d 472, 2011-2 Trade Cases P 77,537
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+647 F.3d 472
+United States Court of Appeals,
+Second Circuit.
+TRADECOMET.COM LLC, Plaintiff–Appellant,
+v.
+GOOGLE, INC., Defendant–Appellee.
+Docket No. 10–911–cv.
+|
+Argued: Jan. 26, 2011.
+|
+Decided: July 26, 2011.
+Synopsis
+Background: Advertiser, who had purchased ads from operator of Internet search engine, filed suit against operator for allegedly monopolizing, or attempting to monopolize, the search advertising market in violation of the Sherman Act. The United States District Court for the Southern District of New York, Sidney H. Stein, J., 693 F.Supp.2d 370, dismissed action. Plaintiff appealed.
+ 
+[Holding:] The Court of Appeals, Debra Ann Livingston, Circuit Judge, held that defendant could seek enforcement of forum selection clause through motion to dismiss, even when clause provided for suit in alternative federal forum.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+ContractsLegal remedies and proceedings
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k206Legal remedies and proceedings
+
+
+Defendant could seek enforcement of forum selection clause through motion to dismiss, even when clause provided for suit in alternative federal forum. Fed.Rules Civ.Proc.Rule 12(b), 28 U.S.C.A.; 28 U.S.C.A. § 1404(a).
+39 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsJurisdiction
+Federal CourtsVenue
+Federal CourtsDismissal for lack of jurisdiction
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3581Jurisdiction
+170Bk3581(1)In general
+(Formerly 170Bk776)
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3582Venue
+170Bk3582(1)In general
+(Formerly 170Bk776)
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)3Presumptions
+170Bk3664Pleadings;  Dismissal
+170Bk3669Dismissal for lack of jurisdiction
+(Formerly 170Bk797)
+
+
+A district court’s dismissal of a complaint for lack of subject-matter jurisdiction or improper venue is reviewed de novo, viewing all facts in the light most favorable to the non-moving party. Fed.Rules Civ.Proc.Rule 12(b)(1, 3), 28 U.S.C.A.
+15 Cases that cite this headnote
+
+
+
+[3]
+
+ContractsLegal remedies and proceedings
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k206Legal remedies and proceedings
+
+
+A district court is not required to enforce a forum selection clause only by transferring a case when that clause specifies that suit may be brought in an alternative federal forum; rather, in such circumstances, a defendant may seek to enforce a forum selection clause through a motion to dismiss. 28 U.S.C.A. § 1404(a); Fed.Rules Civ.Proc.Rule 12(b), 28 U.S.C.A.
+45 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*472 Charles F. Rule (Jonathan Kanter, Joseph J. Bial, and Daniel J. Howley, on the brief), Cadwalader, Wickersham & Taft LLP, Washington, D.C., for Plaintiff–Appellant.
+Jonathan M. Jacobson (Sara Ciarelli Walsh, on the brief), Wilson Sonsini Goodrich & Rosati, P.C., New York, NY, for Defendant–Appellee.
+*473 Before: WINTER, SACK, and LIVINGSTON, Circuit Judges.
+Opinion
+DEBRA ANN LIVINGSTON, Circuit Judge:
+
+Plaintiff–Appellant TradeComet.com LLC (“TradeComet”) appeals from a judgment entered pursuant to an opinion and order of the United States District Court for the Southern District of New York (Sidney H. Stein, District Judge) dismissing its complaint. TradeComet brought this action against Defendant–Appellee Google, Inc. (“Google”) for alleged violations of the Sherman Act, 15 U.S.C. §§ 1, 2, arising out of TradeComet’s use of Google’s “AdWords” search engine advertising platform (“AdWords”). Google filed a motion to dismiss pursuant to Rules 12(b)(1) and 12(b)(3) of the Federal Rules of Civil Procedure for lack of subject matter jurisdiction and improper venue. Google argued that TradeComet had accepted the terms and conditions associated with participation in its AdWords program, which included a forum selection clause requiring TradeComet to file its suit in state or federal court in Santa Clara County, California, not in New York. TradeComet contended, inter alia, that a district court may only enforce a forum selection clause permitting an alternative federal venue pursuant to 28 U.S.C. § 1404, which authorizes transfer of the case to the agreed-upon venue, rather than through Rule 12(b). In an opinion and order dated March 5, 2010, the district court rejected this argument and concluded that Google could seek enforcement of its forum selection clause by moving to dismiss pursuant to Rule 12(b). The court then applied our four-part test for determining whether to dismiss a claim based on a forum selection clause, see Phillips v. Audio Active Ltd., 494 F.3d 378, 383–84 (2d Cir.2007), and granted Google’s motion to dismiss.
+ 
+Here, TradeComet renews its argument that a § 1404(a) motion to transfer is the only appropriate vehicle for enforcing a forum selection clause when the clause at issue permits an alternative federal forum. We reject TradeComet’s argument and hold, consistent with our precedents, that a defendant may seek enforcement of a forum selection clause through a Rule 12(b) motion to dismiss, even when the clause provides for suit in an alternative federal forum. In a contemporaneous summary order filed with this opinion, we conclude that the district court properly applied our test in Phillips to dismiss TradeComet’s complaint.
+ 
+
+BACKGROUND
+Because we are reviewing the district court’s dismissal of a complaint pursuant to Rule 12(b) of the Federal Rules of Civil Procedure, we view the facts in the light most favorable to TradeComet. See Phillips, 494 F.3d at 384. Google, a Delaware corporation, operates a well-known Internet search engine website bearing the same name. It has its principal place of business in Mountain View, California, and is authorized to do business in the State of New York. In 2001, Google launched AdWords, an advertising platform that enables advertisers to have their ads appear when Internet users perform searches containing specified search terms on Google’s website.1 TradeComet, a Delaware limited *474 liability company with its principal place of business in New York, operates its own search engine website, “SourceTool.com.” In contrast to Google’s search engine, TradeComet’s search engine specifically targets businesses seeking to buy or sell products and services to other businesses.2 Beginning in 2005, TradeComet used AdWords to generate online traffic for SourceTool.com. In response to what it perceived to be anticompetitive conduct on Google’s part, however, TradeComet filed suit in the United States District Court for the Southern District of New York on February 17, 2009. TradeComet’s complaint alleges violations of sections 1 and 2 of the Sherman Act, 15 U.S.C. §§ 1, 2, in connection with the prices Google charged TradeComet for its participation in the AdWords program.
+ 
+Google requires AdWords users to accept certain terms and conditions to activate an AdWords account. Google also requires AdWords users to agree to any subsequent modifications or additions to these terms and conditions in order to continue advertising with AdWords. Over the course of TradeComet’s participation in the AdWords program, Google issued three agreements delineating its terms and conditions. Two of them contained a forum selection clause providing that “[t]he Agreement must be ... adjudicated in Santa Clara County, California.” The third, effective August 2006, provided that all claims “arising out of or relating to this Agreement or the Google Program(s) shall be litigated exclusively in the federal or state courts of Santa Clara County, California.”
+ 
+Subsequent to the filing of TradeComet’s complaint, Google filed a motion to dismiss for lack of subject matter jurisdiction and improper venue, pursuant to Rules 12(b)(1) and 12(b)(3) of the Federal Rules of Civil Procedure. Google argued that the forum selection clause contained in its August 2006 terms and conditions applied to TradeComet’s antitrust claims, and that the clause required TradeComet to file its suit in a state or federal court located in Santa Clara County, California. In opposing the motion, TradeComet contended, inter alia, that the district court was required to convert Google’s motion to dismiss into a motion to transfer pursuant to 28 U.S.C. § 1404(a), since the forum selection clause permitted venue in a different federal forum. The district court concluded that a motion to dismiss pursuant to Rules 12(b)(1) and 12(b)(3) was a proper vehicle for enforcing a forum selection clause, and found that the August 2006 forum selection clause applied to TradeComet’s antitrust claims. The district court granted Google’s motion to dismiss the complaint. This appeal followed.
+ 
+
+DISCUSSION
+[1] [2] TradeComet primarily argues on appeal that the district court erred in dismissing its case pursuant to Rule 12(b), rather than considering whether to transfer it to an appropriate federal court pursuant to § 1404(a).3 TradeComet contends *475 that a district court must enforce a forum selection clause pursuant to § 1404(a), and convert a Rule 12(b) motion into a motion to transfer, when the clause at issue provides for suit in an alternative federal forum. TradeComet thus argues that a Rule 12(b) motion to dismiss is available solely when a forum selection clause specifies only foreign and/or state fora as acceptable venues for adjudicating the parties’ disputes. We review de novo a district court’s dismissal of a complaint pursuant to Rules 12(b)(1) and 12(b)(3), viewing all facts in the light most favorable to the non-moving party. See Phillips, 494 F.3d at 384; Makarova v. United States, 201 F.3d 110, 113 (2d Cir.2000).
+ 
+
+I.
+The enforcement of a forum selection clause through a Rule 12(b) motion to dismiss is a well-established practice, both in this Circuit and others. See, e.g., Phillips, 494 F.3d at 383–84; New Moon Shipping Co., Ltd. v. MAN B & W Diesel AG, 121 F.3d 24, 28 (2d Cir.1997) (citing cases). We have noted, however, that neither the Supreme Court, nor this Court, has “specifically designated a single clause of Rule 12(b)”—or an alternative vehicle—“as the proper procedural mechanism to request dismissal of a suit based upon a valid forum selection clause.” Asoma Corp. v. SK Shipping Co., Ltd., 467 F.3d 817, 822 (2d Cir.2006) (internal quotation marks omitted); see also Carnival Cruise Lines, Inc. v. Shute, 499 U.S. 585, 588–89, 111 S.Ct. 1522, 113 L.Ed.2d 622 (1991) (enforcing a forum selection clause through a motion for summary judgment); New Moon Shipping Co., 121 F.3d at 28 (noting that the Supreme Court in M/S Bremen v. Zapata Off–Shore Co., 407 U.S. 1, 92 S.Ct. 1907, 32 L.Ed.2d 513 (1972), failed to specify whether its analysis applied to the defendant’s motion to dismiss for lack of jurisdiction or for forum non conveniens). Consequently, we have “refused to pigeon-hole [forum selection clause enforcement] claims into a particular clause of Rule 12(b).” Asoma, 467 F.3d at 822. We have affirmed judgments that enforced forum selection clauses by dismissing cases for lack of subject matter jurisdiction under Rule 12(b)(1), see AVC Nederland B.V. v. Atrium Inv. P’ship, 740 F.2d 148, 152 (2d Cir.1984), for improper venue under Rule 12(b)(3), see Phillips, 494 F.3d at 382, and for failure to state a claim under Rule 12(b)(6), see Evolution Online Sys., Inc. v. Koninklijke PTT Nederland N.V., 145 F.3d 505, 508 n. 6 (2d Cir.1998).
+ 
+In determining whether a Rule 12(b) motion to dismiss pursuant to a forum selection clause was properly granted, we have analyzed the enforceability of such clauses by applying the standards set forth by the Supreme Court in Bremen.4 See, e.g., Phillips, 494 F.3d at 383–84; Jones v. Weibrecht, 901 F.2d 17, 18–19 (2d Cir.1990) (per curiam); Bense v. Interstate Battery Sys. of Am., Inc., 683 F.2d 718, 720–21 (2d Cir.1982). The Court in Bremen held that forum selection clauses “are prima facie valid and should be enforced unless enforcement is shown by the resisting party to be ‘unreasonable’ under the circumstances.” 407 U.S. at 10, 92 S.Ct. 1907.
+ 
+To the extent TradeComet attempts to distinguish Bremen as announcing a narrow rule to be applied solely in international cases, or those arising under admiralty law, we are not persuaded. Although Bremen was an admiralty case and involved *476 international trade, we have recognized that its reasoning extends beyond the admiralty and international contexts. See Phillips, 494 F.3d at 384. The Bremen Court, moreover, relied on a non-admiralty, non-international case for the “doctrine” that forum selection clauses “are prima facie valid,” and held that it was “the correct doctrine to be followed by federal district courts sitting in admiralty.” Bremen, 407 U.S. at 10 & n. 11, 92 S.Ct. 1907 (citing Cent. Contracting Co. v. Md. Cas. Co., 367 F.2d 341 (3d Cir.1966)) (emphasis added). The Court also noted that its holding was “merely the other side of the proposition recognized by [the Supreme] Court in National Equipment Rental, Ltd. v. Szukhent, 375 U.S. 311 [84 S.Ct. 411, 11 L.Ed.2d 354] (1964),” which acknowledged as “ ‘settled ... that parties to a contract may agree in advance to submit to the jurisdiction of a given court.’ ” Id. at 10–11, 92 S.Ct. 1907 (quoting Szukhent, 375 U.S. at 315–16, 84 S.Ct. 411). Invoking Bremen in a non-admiralty case, this Court has expressly recognized that Szukhent “involved no international question.” Bense, 683 F.2d at 721.
+ 
+Bremen, therefore, did not create a narrow rule holding forum selection clauses to be prima facie valid solely in admiralty cases, or those involving international agreements, but rather approved of a pre-existing favorable view of such clauses. See Evolution Online, 145 F.3d at 509 n. 10 (observing that the Supreme Court in Bremen “noted the trend of judicial acceptance of forum-limiting clauses by citing ... at least one non-admiralty case,” and that it “d[id] not specifically limit the rule to admiralty cases”). We have cited Bremen in concluding that the dismissal of a complaint was proper in a variety of different contexts, including, as here, litigations involving federal antitrust claims. See Bense, 683 F.2d at 719, 720–22 (antitrust claims under the Sherman Act); see also Phillips, 494 F.3d at 381, 383–84 (claims under the Federal Copyright Act); Roby v. Corp. of Lloyd’s, 996 F.2d 1353, 1356, 1362–63 (2d Cir.1993) (claims under the Securities Act and RICO); AVC Nederland, 740 F.2d at 149, 156 (claims under the Securities Exchange Act and SEC Rule 10b–5).
+ 
+TradeComet argues that a district court nevertheless errs in enforcing a forum selection clause pursuant to Bremen by granting a Rule 12(b) motion to dismiss when the clause provides for an alternative federal forum to which the matter could be transferred pursuant to § 1404(a). While admittedly most of our precedents have involved forum selection clauses specifying a foreign forum,5 none of them reasoned that our application of Bremen and the propriety of granting a motion to dismiss turned on the absence of a federal forum in which suit could be brought. Cf. Phillips, 494 F.3d at 384 (“[I]t is well established in this Circuit that the rule set out in M/S Bremen applies to the question of enforceability of an apparently governing forum selection clause, irrespective of whether a claim arises under federal or state law.”) (citing Jones, 901 F.2d at 18–19; AVC Nederland, 740 F.2d at 156; Bense, 683 F.2d at 720–21); see also S.K.I. Beer Corp., 612 F.3d at 708; Klotz v. Xerox Corp., 519 F.Supp.2d 430, 435 (S.D.N.Y.2007) (Lynch, J.) (noting that “the [Second] Circuit has repeatedly enforced forum selection clauses through motions to dismiss for improper venue”). Moreover, in Bense, we applied Bremen and affirmed the grant of a motion to *477 dismiss in the context of a forum selection clause that provided for an alternative federal forum. 683 F.2d at 719–20, 721. And among our sister circuits, all who have considered forum selection clauses permitting an alternative federal forum have affirmed dismissals pursuant to Rule 12(b) when they found such clauses to be enforceable pursuant to Bremen.6
+ 
+
+II.
+TradeComet argues that even if such dismissals may have been permissible prior to the Supreme Court’s decision in Stewart Organization, Inc. v. Ricoh Corp., 487 U.S. 22, 108 S.Ct. 2239, 101 L.Ed.2d 22 (1988), Stewart requires a district court today to apply § 1404(a) in enforcing a forum selection clause when the clause permits suit in a federal forum other than the one in which suit has been brought. We conclude that TradeComet misreads Stewart.
+ 
+Stewart did not consider the circumstances in which a defendant may seek dismissal pursuant to Rule 12(b) in order to enforce a forum selection clause. Instead, the Supreme Court addressed the question “whether a federal court sitting in diversity should apply state or federal law in adjudicating a motion to transfer a case to a venue provided in a contractual forum-selection clause.”7 487 U.S. at 24, 108 S.Ct. 2239 (emphasis added). The Supreme Court expressly stated that “the immediate issue before the Court of Appeals was whether the District Court’s denial of the § 1404(a) motion constituted an abuse of discretion.” Id. at 28, 108 S.Ct. 2239 (emphasis added). Bremen, while “instructive,” was therefore inapplicable because the respondent was not seeking dismissal of the claims pursuant to Rule 12(b), but rather transfer under § 1404(a). Id. at 28–29, 108 S.Ct. 2239. As a result, the question for consideration was whether § 1404(a) controlled “respondent’s request to give effect to the parties’ contractual choice of venue and transfer this case.” Id. at 29, 108 S.Ct. 2239 (emphasis added); see also id. at 32, 108 S.Ct. 2239 (“We hold that ... § 1404(a) [ ] governs the District Court’s decision whether to give effect to the parties’ forum[ ]selection clause and transfer this case....”). The Court thus remanded to the district court to determine “the appropriate effect under federal law of the parties’ forum[ ]selection clause on respondent’s § 1404(a) motion.” Id. (emphasis added). Stewart, therefore, applied § 1404(a) because a § 1404(a) motion was before the Court; the Court’s reasoning nowhere requires a court to consider a forum selection clause pursuant to § 1404(a).
+ 
+TradeComet’s reading of Stewart is further undermined by the Court’s subsequent decision in Shute, where it applied the Bremen rule in an admiralty case to uphold a forum selection clause permitting suit in a federal forum. Shute, 499 U.S. at 587–88, 591–95, 111 S.Ct. 1522. The Court concluded that the case had properly been *478 dismissed pursuant to a motion for summary judgment. Id. at 588–595, 111 S.Ct. 1522. Under TradeComet’s reading of Stewart, however, the Court in Shute should have examined the forum selection clause under § 1404(a), or should have explained why the admiralty context required an exception to Stewart. Instead, Shute barely mentions Stewart, and does so in support of expanding the reach of Bremen to apply to form contracts, whose “terms ... are not subject to negotiation,” and where “an individual ... will not have bargaining parity with the [vendor].” Id. at 593, 111 S.Ct. 1522; see also id. at 594, 111 S.Ct. 1522 (reasoning that forum selection clauses are beneficial because they “spar[e] litigants the time and expense of pretrial motions to determine the correct forum and conserv[e] judicial resources that otherwise would be devoted to deciding those motions” (citing Stewart, 487 U.S. at 33, 108 S.Ct. 2239 (Kennedy, J., concurring))).
+ 
+The better reading of Stewart, one that gives effect to the Court’s three decisions, is that Stewart deals with motions to transfer pursuant to § 1404(a), while Bremen and Shute address the grant of dismissal or summary judgment based on a forum selection clause. Cf. Jones, 901 F.2d at 19 (“In short, we find nothing in Stewart or anywhere else that would compel us to reject the well established rule of this Circuit that Bremen applies with equal force in diversity cases.”).8 We therefore join the circuits that have considered this issue and conclude that Stewart does not compel a district court to enforce a forum selection clause under § 1404(a) where that clause permits suit in an alternative federal forum. See Slater, 634 F.3d at 1333 (“[W]e conclude that § 1404(a) is the proper avenue of relief where a party seeks the transfer of a case to enforce a forum-selection clause, while Rule 12(b)(3) is the proper avenue for a party’s request for dismissal based on a forum[ ]selection clause.”); Salovaara, 246 F.3d at 299 (“[A]dding § 1404 to the mix does nothing to abrogate a district court’s authority to dismiss under Rule 12.”); see also Langley v. Prudential Mortg. Capital Co., LLC, 546 F.3d 365, 371 (6th Cir.2008) (Moore, J., concurring) (reasoning that § 1404(a) controls where a party seeks to enforce a forum selection clause by moving to transfer venue, and that “when a party seeks to enforce a forum[ ]selection clause via a properly brought motion to dismiss, the district court may enforce the forum[ ]selection clause by dismissing the action”). But cf. Kerobo v. Sw. Clean Fuels, Corp., 285 F.3d 531, 535 (6th Cir.2002) (finding enforcement via a Rule 12(b)(3) motion to dismiss inappropriate in removal actions, where the forum selection clause permitted a federal forum, and the action was removed from state court to federal court).
+ 
+[3] For these reasons, we reaffirm our prior precedents and hold that a district court is not required to enforce a forum selection clause only by transferring a case pursuant to § 1404(a) when that clause specifies that suit may be brought in an alternative federal forum. Rather, in such circumstances, a defendant may seek to enforce a forum selection clause under Rule 12(b). The district court therefore *479 properly considered Google’s Rule 12(b) motion to dismiss the complaint.
+ 
+
+CONCLUSION
+We emphasize the limited nature of our decision. Our focus is solely on whether a district court called upon to enforce a forum selection clause is required to enforce it pursuant to § 1404(a) whenever the clause permits suit in an alternative federal forum. Consequently, we do not address the related, but separate, question whether a district court may, sua sponte, convert a Rule 12(b) motion to dismiss into a § 1404(a) motion to transfer.9 We also do not address circumstances in which a defendant moves in the alternative for both dismissal under Rule 12(b) and transfer under §§ 1404 or 1406(a), see, e.g., GMAC Commercial Credit, LLC v. Dillard Dep’t Stores, Inc., 198 F.R.D. 402, 408–09 (S.D.N.Y.2001), or circumstances in which a plaintiff responds to a Rule 12(b) motion to dismiss by cross-moving to transfer, see, e.g., Person v. Google, Inc., 456 F.Supp.2d 488, 497–98 (S.D.N.Y.2006). Further, we express no opinion as to whether a defendant must invoke a particular subsection of Rule 12(b) to seek enforcement of a forum selection clause, since TradeComet does not challenge the decision below on this ground. For the foregoing reasons, and for the reasons stated in the accompanying summary order filed today, the judgment of the district court is AFFIRMED.
+ 
+All Citations
+647 F.3d 472, 2011-2 Trade Cases P 77,537
+Footnotes
+
+1
+
+In a prior decision, we described AdWords in the following manner:
+AdWords is Google’s program through which advertisers purchase terms (or keywords). When entered as a search term, the keyword triggers the appearance of the advertiser’s ad and link. An advertiser’s purchase of a particular term causes the advertiser’s ad and link to be displayed on the user’s screen whenever a searcher launches a Google search based on the purchased search term. Advertisers pay Google based on the number of times Internet users “click” on the advertisement, so as to link to the advertiser’s website.
+Rescuecom Corp. v. Google, Inc., 562 F.3d 123, 125 (2d Cir.2009) (internal footnote omitted).
+
+2
+
+According to TradeComet’s complaint, such websites are commonly referred to as “business to business” (or “B2B”) search or exchange websites.
+
+3
+
+Section 1404(a) provides: “For the convenience of parties and witnesses, in the interest of justice, a district court may transfer any civil action to any other district or division where it might have been brought.” 28 U.S.C. § 1404(a).
+
+4
+
+Both parties agree, consistent with the choice of law provisions in Google’s terms and conditions for AdWords, that federal law governs the enforceability of the forum selection clause, while California state law controls the interpretation of that clause. See Phillips, 494 F.3d at 384–85.
+
+5
+
+See, e.g., S.K.I. Beer Corp. v. Baltika Brewery, 612 F.3d 705, 707 (2d Cir.2010); Phillips, 494 F.3d at 382; Evolution Online, 145 F.3d at 507; New Moon Shipping Co., 121 F.3d at 27; AVC Nederland, 740 F.2d at 151.
+
+6
+
+See, e.g., Slater v. Energy Servs. Grp. Int’l Inc., 634 F.3d 1326, 1333 (11th Cir.2011); Servewell Plumbing, LLC v. Fed. Ins. Co., 439 F.3d 786, 790–91 (8th Cir.2006); Muzumdar v. Wellness Int’l Network, Ltd., 438 F.3d 759, 761–62 (7th Cir.2006); Salovaara v. Jackson Nat’l Life Ins. Co., 246 F.3d 289, 299–301 (3d Cir.2001) (per curiam); Silva v. Encyclopedia Britannica Inc., 239 F.3d 385, 386–89 (1st Cir.2001); Sec. Watch, Inc. v. Sentinel Sys., Inc., 176 F.3d 369, 374–76 (6th Cir.1999).
+
+7
+
+While the respondent in Stewart moved unsuccessfully to dismiss the case for improper venue under § 1406, the parties on appeal did not dispute that denial was proper, since respondent did business in the district he initially complained was improper. See Stewart, 487 U.S. at 28 n. 8, 108 S.Ct. 2239; see also 28 U.S.C. § 1391(c).
+
+8
+
+TradeComet also relies on our decision in Red Bull Associates v. Best Western International, Inc., 862 F.2d 963 (2d Cir.1988), for the proposition that Stewart should control. However, as in Stewart, Red Bull only considered the denial of a § 1404(a) motion to transfer; while the defendant had also moved to dismiss pursuant to Rule 12(b)(3), neither party on appeal advanced any argument addressing the denial of this motion. Red Bull, 862 F.2d at 964 & n. 1. The panel thus expressly declined to address the denial of the motion to dismiss. Id.
+
+9
+
+Compare Composite Holdings, LLC v. Westinghouse Elec. Corp., 992 F.Supp. 367, 370 (S.D.N.Y.1998) (reasoning that application of § 1404(a) “has no bearing on enforcement of forum selection clauses in other procedural contexts” and observing that defendant did not move to transfer under § 1404(a)), with Lurie v. Norwegian Cruise Lines, Ltd., 305 F.Supp.2d 352, 357 (S.D.N.Y.2004) (concluding that a district court may sua sponte “transfer an action to a forum permitted by the applicable clause rather than dismiss the case”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

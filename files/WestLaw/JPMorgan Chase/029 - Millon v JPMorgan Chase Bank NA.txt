@@ -1,0 +1,265 @@
+
+
+ 
+
+
+Millon v. JPMorgan Chase Bank, N.A.
+United States Court of Appeals, Eighth Circuit. | June 28, 2013 | 518 Fed.Appx. 491 | 2013 WL 3242482
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Millon v. JPMorgan Chase Bank, N.A., 518 F. App’x 491 (8th Cir. 2013)
+
+All Citations:
+
+518 Fed.Appx. 491
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Missouri
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+518 Fed.Appx. 491
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1, generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 8th Cir. Rule 32.1A.
+United States Court of Appeals,
+Eighth Circuit.
+Derrick MILLON, Plaintiff–Appellant
+v.
+JPMORGAN CHASE BANK, N.A.; Deutsche Bank National Trust Company, as Trustee for Long Beach Mortgage Trust 2006–3, Defendants–Appellees.
+No. 12–2472.
+|
+Submitted: April 10, 2013.
+|
+Filed: June 28, 2013.
+Synopsis
+Background: Homeowner who had defaulted on mortgage brought civil action to halt trustee’s sale of the property. The United States District Court for the Western District of Missouri, Ortrie D. Smith, J., 2012 WL 1854785,granted summary judgment in favor of trust company that held deed of trust and bank that had been granted right to service the loan. Homeowner appealed.
+ 
+Holdings: The Court of Appeals, Shepherd, Circuit Judge, held that:
+ 
+[1] homeowner was bound by stipulations in loan modification agreement, under Missouri law;
+ 
+[2] homeowner waived any challenge to appointment of law firm as successor trustee in loan modification agreement, under Missouri law;
+ 
+[3] trust company that was in possession of bearer paper was entitled to enforce the note, under Missouri law;
+ 
+[4] alleged factual dispute regarding whether bank was servicer of note was insufficient to preclude summary judgment; and
+ 
+[5] notices of default were adequate.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+Mortgages and Deeds of TrustProceedings to Restrain Foreclosure
+
+
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(E)Restraining Foreclosure
+266k1884Proceedings to Restrain Foreclosure
+266k1885In general
+(Formerly 266k338)
+
+
+Homeowner who stipulated to fact that trust company was holder of promissory note and deed of trust in loan modification agreement was bound by this stipulation for purposes of later action to halt trustee’s sale of property, under Missouri law.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustProceedings to Restrain Foreclosure
+
+
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(E)Restraining Foreclosure
+266k1884Proceedings to Restrain Foreclosure
+266k1885In general
+(Formerly 266k338)
+
+
+Homeowner waived any challenge to appointment of law firm as successor trustee in loan modification agreement, for purposes of later action to halt trustee’s sale of property, under Missouri law.
+Cases that cite this headnote
+
+
+
+[3]
+
+Mortgages and Deeds of TrustSignature or Subscription of Parties
+
+
+266Mortgages and Deeds of Trust
+266IINature and Requisites
+266II(B)Formal Requisites
+266k741Signature or Subscription of Parties
+266k742In general
+(Formerly 266k56)
+
+
+Trust company that was in possession of bearer paper was entitled to enforce promissory note, under Missouri law, even if the signature on the note was stamped. V.A.M.S. § 400.3–401(b).
+2 Cases that cite this headnote
+
+
+
+[4]
+
+Federal Civil ProcedureMortgage cases
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)2Particular Cases
+170Ak2507Mortgage cases
+
+
+Alleged factual dispute regarding whether bank was servicer of promissory note was insufficient to preclude summary judgment in action to halt trustee’s sale of property following homeowner’s default.
+3 Cases that cite this headnote
+
+
+
+[5]
+
+Mortgages and Deeds of TrustDefault
+
+
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(B)Power and Right to Foreclose;  Grounds
+266k1719Required Notices
+266k1721Default
+(Formerly 266k335)
+
+
+Notices of mortgage default were adequate, even if they did not identify a specific party as a lender.
+Cases that cite this headnote
+
+
+
+*492 Appeal from United States District Court for the Western District of Missouri—Kansas City.
+Attorneys and Law Firms
+Jamie Barker Landes, Barker & Landes, Lee’s Summit, MO, for Plaintiff–Appellant.
+Jennifer A. Donnelli, Robert J. Hoffman, Thomas E. Nanney, Bryan & Cave, Kansas City, MO, for Defendants–Appellees.
+Before COLLOTON and SHEPHERD, Circuit Judges, and ROSE, District Judge.1
+
+
+[Unpublished]
+SHEPHERD, Circuit Judge.
+Derrick Millon executed a note and deed of trust to purchase a home in 2006 but failed to make the required payments and defaulted under the deed of trust. Approximately an hour before his home was to be auctioned to the highest bidder at the south door of the Cass County courthouse in Harrisonville, Missouri, Millon brought this action to halt the sale. Millon alleged several deficiencies related to the mortgage foreclosure, including that there was no documentation verifying that JPMorgan Chase Bank (Chase) or Deutsche Bank National Trust Company (Deutsche Bank), as Trustee for Long Beach Mortgage Trust 2006–3, was the holder of the promissory note or deed of trust. The district court2 granted summary judgment to Chase and Deutsche Bank. We affirm.
+ 
+
+I.
+In February 2006, Millon financed the purchase of his home in Cass County, Missouri, with a loan from Long Beach Mortgage Company (Long Beach). Millon executed a promissory note to Long Beach, and to secure repayment of that note, he executed a deed of trust granting his property to a trustee, Assured Quality Title Company (Assured), and naming Long Beach as beneficiary. The deed of trust stated that the note could “be sold one or more times without prior notice to Borrower,” provided that the trustee could be removed and replaced with a successor trustee, and allowed for nonjudicial foreclosure.
+ 
+Long Beach and other investment firms pooled Millon’s mortgage as part of an asset-backed security that was issued beginning in April 2006 and titled Long Beach Mortgage Loan Trust 2006–3. Deutsche Bank was listed as the trustee for the Long Beach Mortgage Loan Trust 2006–3. Five months after entering the mortgage, on July 17, 2006, Washington *493 Mutual3 sent Millon a notice of intent to foreclose, informing Millon that he had failed to pay the required installments and thus breached the deed of trust.
+ 
+On September 25, 2008, Chase acquired Millon’s mortgage and the right to service the loan from the Federal Deposit Insurance Corporation, which was acting as receiver for Washington Mutual.4 On December 24, 2008, Deutsche Bank filed an appointment of substitute trustee in Cass County, Missouri.5 This instrument: (1) recited that the February 28, 2006 deed of trust empowered “the legal holder of the note and Deed of Trust” to remove the trustee and appoint a successor trustee, “at its option, and for any reason”; (2) asserted that Deutsche Bank, as Trustee for Long Beach Mortgage Trust 2006–3, was the holder of the note and deed of trust; and (3) appointed the law firm of Martin, Leigh, Laws & Fritzlen as successor trustee, replacing Assured.
+ 
+In February 2009,6 after Millon requested modification of the terms of his note and deed of trust, he entered into a loan modification agreement with Deutsche Bank. In the agreement, Millon stipulated and agreed that Deutsche Bank is “the note holder and mortgagee.” Millon also agreed to waive claims he “might assert against the Trust” in a broadly worded section of the agreement. See infra p. 7–8. The loan modification defines “Trust” as “DEUTSCHE BANK NATIONAL TRUST COMPANY, AS TRUSTEE FOR LONG BEACH MORTGAGE LOAN TRUST 2006–3.”
+ 
+Subsequently, in July 2010, Chase filed an assignment of deed of trust with the recorder of deeds in Cass County, Missouri. The assignment listed Deutsche Bank as the assignee and Chase as the assignor of a loan and other assets that originated with Long Beach. The notarized assignment stated that Chase “acknowledges that all of its interest in and to the Deed of Trust was transferred to the Assignee, as defined herein, on a date prior to December 8, 2008, and consistent with and to confirm said transfer, the Assignor, does hereby convey, grant, transfer, assign and quit claim all of its and Lender’s rights, title and interest ... to Deutsche Bank....”
+ 
+Meanwhile, Millon continued to receive notices that he failed to make the required payments. On January 6, 2011, Martin, Leigh, Laws & Fritzlen sent Millon a notice of trustee’s sale. The notice stated that Millon’s home would be sold to the highest bidder on February 7, 2011, at 9:00 a.m. for default under the deed of trust. At 8:03 a.m. on the day of the sale, Millon filed this action with the circuit clerk of Cass County, Missouri. In his petition, Millon alleged that he had “been unable to locate any document, recorded or otherwise,” showing: transfer of the note to Long Beach Mortgage Loan Trust 2006–3; *494 that Deutsche Bank is the trustee for Long Beach Mortgage Loan Trust 2006–3; that Deutsche Bank, as trustee for Long Beach Mortgage Loan Trust 2006–3, is the owner or holder of the note and deed of trust; or that Deutsche Bank, as trustee for Long Beach Mortgage Loan Trust 2006–03, had authority in December 2008 to appoint Martin, Leigh, Laws & Fritzlen as successor trustee to Assured. Millon demanded “strict proof” that the note was assigned or transferred to Long Beach Mortgage Loan Trust 2006–3 and that Deutsche Bank, as trustee for Long Beach Mortgage Loan Trust 2006–3, is the owner and holder of the note. Additionally, Millon sought a declaration that neither Deutsche Bank nor Chase is entitled to foreclose the deed of trust, and that Martin, Leigh, Laws & Fritzlen has no authority as the successor trustee to conduct a foreclosure sale on behalf of Chase or Deutsche Bank.
+ 
+Millon, significantly, did not challenge or contest that he is in default. Further, in his complaint, he carefully refrained from denying that Deutsche Bank was the holder of the note and deed of trust or that Martin, Leigh, Laws & Fritzlen was the successor trustee. Chase and Deutsche Bank removed the case to federal court and later moved for summary judgment. The district court granted summary judgment in favor of Chase and Deutsche Bank. Millon now appeals.
+ 
+
+II.
+Millon argues that the district court erred by granting summary judgment in favor of Chase and Deutsche Bank. We review de novo a district court’s grant of summary judgment. Woods v. DaimlerChrysler Corp., 409 F.3d 984, 990 (8th Cir.2005). Reviewing “the record in the light most favorable to the nonmoving party,” id., we will affirm the grant of summary judgment “if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law,” Fed.R.Civ.P. 56(a).
+ 
+
+A.
+The district court found that the timing of the July 2010 assignment of the deed of trust raised an issue as to whether the procedure for the appointment of the successor trustee was strictly followed. The district court also determined that even if Deutsche Bank was assigned the deed of trust in 2008, “being assigned the deed of trust (not the note) moreover would not have given Deutsche Bank the power to appoint a Successor Trustee.” Thus, a fact issue existed about whether Deutsche Bank was the holder in December 2008 and therefore entitled to appoint Martin, Leigh, Laws & Fritzlen as successor trustee, because “the reassignment (in 2010) suggest[ed] there was something wrong with the purported first assignment.”
+ 
+However, the district court reasoned that holding a bench trial on this issue would be a waste of judicial resources. Even if Millon prevailed and the district court concluded that Deutsche Bank was not entitled to appoint a successor trustee in 2008, because Deutsche Bank was now the holder of the note, it could merely appoint Martin, Leigh, Laws & Fritzlen as successor trustee after any adverse finding. Further, relying on the after-acquired title doctrine, the district court concluded that “Deutsche Bank intended to appoint Martin, Leigh, Laws & Fritzlen as the Successor Trustee to hold the foreclosure sale regarding Millon’s property, and Deutsche Bank has been established to be the current holder of the note.” As a result, the district court declared that Martin, Leigh, Laws & Fritzlen had the authority to act as successor trustee. We agree with the district court that Millon’s claim should be dismissed, but we conclude *495 that a material factual dispute does not exist, and we may affirm the district court’s grant of summary judgment “on any basis supported by the record.” See In re Baycol Prods. Litig., 596 F.3d 884, 888 (8th Cir.2010) (internal quotation marks omitted).
+ 
+On appeal, Millon argues that “[i]f neither Chase nor Deutsche Bank is the owner or holder of the Note (and thereby the Deed of Trust signed on February 28, 2006 by Millon), then neither of them was authorized to appoint Martin, Leigh, Laws & Fritzlen, P.C., as successor trustee or to direct the foreclosure sale.” Therefore, according to Millon, an issue exists regarding “how and when” Deutsche Bank became the owner and holder of Millon’s note and deed of trust. Under Missouri law, “the contractual terms of a power of sale provision for the appointment of a successor trustee must be strictly followed.” Ayers v. Myers, 939 S.W.2d 447, 449 (Mo.Ct.App.1996). Indeed, failure to comply with the power of sale provision voids the sale and the deed. Id.
+ 
+[1] We conclude that a material factual dispute does not exist regarding whether Deutsche Bank is the holder of the note and deed of trust because Millon stipulated and agreed to this fact. Millon professes an inability to locate any recorded document evidencing transfer of the note to Long Beach Mortgage Loan Trust 2006–3 or evidencing Deutsche Bank’s status as holder of the note and deed of trust. By the terms of the February 2009 loan modification agreement, however, Millon identified Deutsche Bank as the holder of the note and deed of trust, and Millon is bound by this stipulation, made in consideration of Deutsche Bank agreeing to reamortization and a lower, fixed interest rate. See Shutt v. Chris Kaye Plastics Corp., 962 S.W.2d 887, 890 (Mo.1998) (“Parties to a contract may modify or waive their rights under it or engraft new terms upon it.”).
+ 
+[2] Millon also asserts that no record exists evidencing Deutsche Bank’s authority to appoint Martin, Leigh, Laws & Fritzlen as successor trustee, and he disputes the law firm’s authority as successor trustee to conduct the foreclosure sale. Although Deutsche Bank’s appointment of the law firm as substitute trustee was recorded on December 31, 2008—less than three months prior to Millon’s execution of the loan modification agreement in which Millon recognized Deutsche Bank’s status as holder of the note and deed of trust—it is of no consequence whether Deutsche Bank was the holder of the note and deed of trust on that date. In the loan modification agreement, Millon waived any challenge or defense to the appointment and to the foreclosure sale itself. Specifically, Millon agreed:
+As part of the consideration for this Agreement, Borrower agrees to release and waive all claims Borrower might assert against the Trust and or its agents, and arising from any act or omission to act on the part of the Trust or it’s [sic] agents, officers, directors, attorneys, employees and any predecessor-in-interest to the Note and Security Instrument, and which Borrower contends caused Borrower damage or injury, or which Borrower contends renders the Note or the Security Instrument void, voidable, or unenforceable. This release extends to any claims arising from any judicial foreclosure proceedings or power of sale proceedings if any, conducted prior to the date of this Agreement. Borrowers have and claim no defenses, counterclaims or rights of offset of any kind against Lender or against collection of the Loan.
+(emphasis added). Millon signed the contract containing this provision after the appointment of Martin, Leigh, Laws & Fritzlen as successor trustee was recorded, *496 so he necessarily agreed that he did not “have” any defense against Deutsche Bank based on the validity of that appointment. Thus, although Millon did not specifically acknowledge that Deutsche Bank was the note holder as of the December 24, 2008 appointment of the successor trustee, by entering into the loan modification agreement, he waived the right to challenge that appointment, defects or deficiencies associated with the appointment, as well as the ability to defend the non-judicial foreclosure sale on that basis. Nothing in the record, including the 2010 assignment, alters the applicability or scope of the waiver. Significantly, Millon does not challenge the validity of the waiver nor does he assert facts indicating an event occurred after the loan modification that alters its legal effect. “A party opposing a motion for summary judgment must show that admissible evidence will be available at trial to establish a genuine issue of material fact.” Churchill Bus. Credit, Inc. v. Pac. Mut. Door Co., 49 F.3d 1334, 1337 (8th Cir.1995) (internal quotation marks omitted). Because Millon has not presented any evidence indicating that the loan modification agreement he signed is not dispositive of this issue, we affirm the district court’s grant of summary judgment.
+ 
+
+B.
+Millon additionally argues that summary judgment was improper because (1) the district court did not adequately consider Millon’s affidavit and the issues he identified regarding signatures on the note, (2) the district court incorrectly determined that Chase was the servicer of the note, and (3) the notices of default that were sent to Millon failed to identify the lender. After careful review of these arguments, we conclude they are without merit.
+ 
+[3] [4] [5] Construing the allegations in Millon’s affidavit in the light most favorable to him, they do not create disputed facts of material significance that preclude summary judgment. Under Missouri law, a signature may be made “by means of a device or machine.” See Mo.Rev.Stat. § 400.3–401(b). Whether the signature on the note was stamped is irrelevant. Therefore, Deutsche Bank may enforce the note because it is in possession of bearer paper. See Mo.Rev.Stat. § 400.3–205(b). Additionally, Millon acknowledged in the 2009 loan modification agreement that Chase acquired “the right to service” his mortgage loan. Although Millon contends that the mechanics of how his note was securitized and transferred between different financial entities creates a factual dispute, Millon has failed to explain how this has any legal significance that impacts Deutsche Bank’s right to enforce the note as holder, particularly in light of the acknowledgment and waiver contained in the loan modification agreement. Finally, Millon concedes that he received at least 19 notices of default and does not cite any authority for his position that these notices were inadequate because they did not identify a specific party as a lender.
+ 
+
+III.
+Accordingly, we affirm the district court’s dismissal of Millon’s claims and its grant of summary judgment in favor of Chase and Deutsche Bank.
+ 
+All Citations
+518 Fed.Appx. 491
+Footnotes
+
+1
+
+The Honorable Stephanie M. Rose, United States District Judge for the Southern District of Iowa, sitting by designation.
+
+2
+
+The Honorable Ortrie D. Smith, United States District Judge for the Western District of Missouri.
+
+3
+
+The record does not include documentation revealing when Millon’s mortgage was transferred from Long Beach to Washington Mutual.
+
+4
+
+The loan modification agreement states Chase “acquired loans and certain other assets of Washington Mutual Bank from the Federal Deposit Insurance Corporation ..., including but not limited to the right to service your mortgage loan referenced in this Agreement.” Additionally, the assignment of the deed of trust describes Chase as “PURCHASER OF THE LOANS AND OTHER ASSETS OF WASHINGTON MUTUAL BANK.”
+
+5
+
+The document was recorded on December 31, 2008.
+
+6
+
+The document states the loan modification agreement was effective February 1, 2009. Millon signed the document on March 7, 2009. It was recorded with the Cass County recorder of deeds on May 22, 2009.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

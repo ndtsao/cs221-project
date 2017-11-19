@@ -1,0 +1,472 @@
+
+
+ 
+
+
+Golden Bridge Technology, Inc. v. Apple Inc.
+United States Court of Appeals, Federal Circuit. | July 14, 2014 | 758 F.3d 1362 | 2014 WL 3397224
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Golden Bridge Tech., Inc. v. Apple Inc., 758 F.3d 1362 (Fed. Cir. 2014)
+
+All Citations:
+
+758 F.3d 1362, 111 U.S.P.Q.2d 1812
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Delaware
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+758 F.3d 1362
+United States Court of Appeals,
+Federal Circuit.
+GOLDEN BRIDGE TECHNOLOGY, INC., Plaintiff–Appellant,
+v.
+APPLE INC., Defendant–Appellee,
+and
+Motorola Mobility, LLC, Defendant.
+No. 2013–1496.
+|
+July 14, 2014.
+Synopsis
+Background: Patentee brought infringement action against a cellular phone manufacturer, alleging infringement of its patent for wireless telecommunication solutions. Following claim construction, 2006 WL 6223047 and 937 F.Supp.2d 490, the United States District Court for the District of Delaware, Sue L. Robinson, J., 937 F.Supp.2d 504, granted summary judgment to the cellular phone manufacturer, and denied reconsideration, 2013 WL 2948420. The developer appealed.
+ 
+Holdings: The Court of Appeals, Moore, Circuit Judge, held that:
+ 
+[1] the patentee’s submission of a stipulated construction in an information disclosure statement constituted disclaimer;
+ 
+[2] term “preamble” meant a signal used for communication with the base station that is spread before transmission and that is without message data;
+ 
+[3] the manufacturer’s spreading of a physical random access channel (PRACH) preamble during generation of the preamble did not infringe on the patent; and
+ 
+[4] the patentee waived its infringement claim based on the use of a signature sequence alone.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (13)
+
+
+[1]
+
+PatentsParticular patents and claims
+PatentsReexamination and inter partes review proceedings
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(10)Particular patents and claims
+(Formerly 291k168(2.1))
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1339Reexamination and inter partes review proceedings
+
+
+A patentee’s submission of a claim construction order from a prior patent infringement action as part of an information disclosure statement (IDS) in a reexamination of the patent and a pending continuation application constituted disclaimer, where the patentee’s submission in the context of the reexamination the patent and prosecution of a continuation application was a clear and unmistakable assertion of the meaning and scope of the term, and the patentee did not attempt to rescind its disclaimer during prosecution.
+9 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+Court of Appeals reviews claim construction de novo.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsSpecifications and Drawings;  Written Description
+PatentsRejection and Amendment of Claims;  Prosecution History
+PatentsState of the art
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+(Formerly 291k167(1))
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+(Formerly 291k168(2.1))
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1341State of the art
+(Formerly 291k161)
+
+
+Claim terms are generally given their plain and ordinary meanings to one of skill in the art when read in the context of the specification and prosecution history.
+43 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsSpecification disclaimer
+PatentsRejection and Amendment of Claims;  Prosecution History
+PatentsContemporaneous construction
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1331Specification disclaimer
+(Formerly 291k167(1.1))
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+(Formerly 291k168(2.1))
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1343Contemporaneous construction
+(Formerly 291k162)
+
+
+There are only two exceptions to the general rule that claim terms are given their plain and ordinary meanings to one of skill in the art: (1) when a patentee sets out a definition and acts as his own lexicographer, or (2) when the patentee disavows the full scope of the claim term either in the specification or during prosecution.
+66 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsProsecution disclaimer
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(4)Prosecution disclaimer
+(Formerly 291k168(2.1))
+
+
+Prosecution disclaimer or disavowal must be clear and unmistakable to overcome general rule that claim terms are given their plain and ordinary meanings to one of skill in the art.
+54 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsRejection and Amendment of Claims;  Prosecution History
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+(Formerly 291k168(1))
+
+
+Mere disclosure of potentially material prior art to Patent and Trademark Office (PTO) does not automatically limit the claimed invention.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+(Formerly 291k101(2))
+
+
+Term “preamble” in patent for wireless telecommunication solutions meant a signal used for communication with the base station that is spread before transmission and that is without message data.
+Cases that cite this headnote
+
+
+
+[8]
+
+PatentsInfringement or noninfringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+(Formerly 291k324.55(5))
+
+
+Court of Appeals affirms summary judgment of noninfringement where there is an absence of evidence to support the patentee’s case.
+Cases that cite this headnote
+
+
+
+[9]
+
+Federal CourtsNew Trial, Rehearing, or Reconsideration
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3606New Trial, Rehearing, or Reconsideration
+170Bk3606(1)In general
+
+
+Court of Appeals reviews a district court’s grant or denial of a motion for reconsideration for an abuse of discretion.
+3 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1658Electricity and Electronics
+291k1661Radio and telecommunications equipment
+(Formerly 291k235(2))
+
+
+Cellular phone manufacturer’s spreading of a physical random access channel (PRACH) preamble during generation of the preamble did not infringe on a patent for wireless telecommunication solutions, where the spreading of the PRACH during generation did not meet the patent’s claim limitation that the preamble must be “spread prior to transmission,” as the PRACH did not exist at the time spreading occurred.
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsRehearing or reconsideration
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1853Rehearing or reconsideration
+(Formerly 291k315)
+
+
+Patentee waived its argument that a cellular phone manufacturer infringed on its patent for wireless telecommunication solutions by the manufacturer’s use of a signature sequence alone by raising the argument for the first time on a motion for reconsideration; prior to reconsideration, the patentee identified only the manufacturer’s physical random access channel (PRACH) preamble as meeting the limitations of the patent.
+4 Cases that cite this headnote
+
+
+
+[12]
+
+Federal CourtsMode and sufficiency of presentation
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(D)Presentation and Reservation in Lower Court of Grounds of Review
+170BXVII(D)1In General
+170Bk3392Mode and sufficiency of presentation
+
+
+An argument made for the first time in a motion for reconsideration comes too late and is ordinarily deemed waived and not preserved for appeal.
+5 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,574,267, US Patent 7,359,427. Construed and Ruled Not Infringed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1363 Mark D. Giarratana, McCarter & English, LLP, of Hartford, CT, argued for plaintiff-appellant. With him on the brief were Eric E. Grondahl; Michael P. Kelly and Daniel M. Silver, of Wilmington, DE; and Stephen A. Saltzburg, George Washington University, School of Law, of Washington, DC.
+Timothy S. Teter, Cooley LLP, of Palo Alto, CA, argued for defendant-appellee. With him on the brief were Benjamin G. Damstedt, Lori R. Mason, and Lowell D. Mead.
+Before MOORE, MAYER, and CHEN, Circuit Judges.
+Opinion
+MOORE, Circuit Judge.
+
+Golden Bridge Technology, Inc. (GBT) appeals from the district court’s grant of summary judgment that Apple Inc. (Apple) does not infringe the asserted claims of U.S. Patent Nos. 6,574,267 (the ′267 patent) and 7,359,427 (the ′427 patent). We affirm.
+ 
+
+BACKGROUND
+GBT accused Apple of infringing the patents-in-suit,1 which describe and claim an improvement to a Code Division Multiple Access (CDMA) system. ′267 patent, Abstract. A CDMA wireless cellular network consists of a base station and multiple mobile stations, such as cellular telephones. Golden Bridge Tech., Inc. v. Apple Inc., 937 F.Supp.2d 504, 508 (D.Del.2013) (Summary Judgment Order ). To establish communication between *1364 a mobile station and a base station, the mobile station transmits a known signal called a preamble over a random access channel (RACH). Id. The CDMA system allows multiple signals to be sent over the same RACH by using different numerical spreading codes in transmitting each signal. Spreading codes enable the mobile stations and the base station to distinguish a particular wireless communication from other concurrent communications. See ′267 patent col. 5 ll. 4–7, ll. 28–30. However, if too many mobile stations are transmitting simultaneously at high power levels, the signals from mobile stations can interfere with each other.
+ 
+The patents-in-suit disclose an improvement for a CDMA system that reduces the risk of interference between the signals sent from various mobile stations. In particular, the patents-in-suit disclose that a mobile station seeking to communicate with the base station will transmit preambles at increasing power levels until it receives an acknowledgment signal from the base station indicating that the preamble was received. Id. col. 6 ll. 27–32, col. 7 ll. 47–51, 58–61. Once the mobile station receives an acknowledgment from the base station, it stops transmitting preambles and starts transmitting message information. Id. col. 7 ll. 58–61. This ensures that each data signal is transmitted at the lowest power necessary to reach the base station, thereby reducing the risk of interference.
+ 
+Relevant to this appeal, GBT previously asserted the ′267 patent in the Eastern District of Texas (Texas Litigation). In accordance with the parties’ stipulation, the Texas district court construed preamble and access preamble (collectively referred to as preamble) as “a signal used for communicating with the base station that is spread before transmission.” J.A. 3228. The district court subsequently granted summary judgment of anticipation, which we affirmed. Golden Bridge Tech. Inc. v. Nokia, Inc., 527 F.3d 1318 (Fed.Cir.2008). While the appeal of the Texas Litigation was pending before our court, GBT sought new claims (1) during a reexamination of the ′267 patent and (2) in a pending continuation application, which issued as the ′ 427 patent. During prosecution of the ′427 patent and reexamination of the ′267 patent, GBT submitted to the United States Patent and Trademark Office (PTO) as part of an Information Disclosure Statement (IDS) the claim construction order from the Texas Litigation and various filings setting forth GBT’s stipulated definition of preamble. J.A. 1680, 1808–10, 2008, 2127, 2639, 2641, 2679, 3228. The claims GBT asserted against Apple in this case are new claims that were either added during reexamination of the ′267 patent or during prosecution of the ′427 patent.
+ 
+Claim 42 of the reexamined ′267 patent is representative of the claims asserted in this litigation (emphases added):
+A method of transferring packet data for a mobile station (MS) with an MS receiver and an MS transmitter comprising:
+receiving at the MS receiver a broadcast common channel from a base station;
+determining a plurality of parameters required for transmission to the base station;
+spreading an access preamble selected from a set of predefined preambles;
+transmitting from the MS transmitter the spread access preamble, at a first discrete power level;
+if no layer one acknowledgment corresponding to the access preamble is detected, transmitting a spread access preamble from the MS transmitter at a second discrete power level higher than the first discrete power level; and
+*1365 upon detecting a layer one acknowledgment corresponding to a transmitted access preamble, ceasing preamble transmission and transmitting the packet data from the MS transmitter.
+ 
+The district court issued a claim construction order construing the disputed claim terms, including the term preamble. Golden Bridge Tech., Inc. v. Apple Inc., 937 F.Supp.2d 490, 500 (D.Del.2013) (Claim Construction Order ). The court granted Apple’s motion for summary judgment of noninfringement based on its construction of preamble, and denied Apple’s motion for summary judgment of invalidity. Summary Judgment Order, at 523. Following the district court’s ruling on summary judgment, GBT filed an emergency motion for reconsideration. The court reviewed the motion but declined to grant GBT the relief it requested and refused to modify its summary judgment of noninfringement. Id. at 523–26. The district court entered judgment pursuant to Rule 54(b) of the Federal Rules of Civil Procedure, rendering its summary judgment of noninfringement final. J.A. 68–69. GBT appeals. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+A. Claim Construction: preamble
+[1] [2] [3] [4] [5] We review claim construction de novo. Lighting Ballast Control LLC v. Philips Elecs. N. Am. Corp., 744 F.3d 1272, 1276–77 (Fed.Cir.2014) (en banc). Claim terms are generally given their plain and ordinary meanings to one of skill in the art when read in the context of the specification and prosecution history. See Phillips v. AWH Corp., 415 F.3d 1303, 1313 (Fed.Cir.2005) (en banc). “There are only two exceptions to this general rule: 1) when a patentee sets out a definition and acts as his own lexicographer, or 2) when the patentee disavows the full scope of the claim term either in the specification or during prosecution.” Thorner v. Sony Computer Entm’t Am. LLC, 669 F.3d 1362, 1365 (Fed.Cir.2012). Prosecution disclaimer or disavowal must be clear and unmistakable. Omega Eng’g, Inc. v. Raytek Corp., 334 F.3d 1314, 1325–26 (Fed.Cir.2003).
+ 
+In construing the term preamble in the ′267 and the ′427 patents, the district court agreed with the construction “from the Texas [L]itigation,” concluding that it was “still applicable insofar as [it] include[s] spreading prior to transmission.” Claim Construction Order, at 497. It construed preamble as “a signal for communicating with the base station that is spread before transmission and that is without message data.” Id. at 500.
+ 
+GBT disputes the portion of the district court’s construction requiring that the preamble be spread prior to transmission. It argues that the district court’s construction departs from the plain meaning of preamble, and that there is no lexicography or disclaimer that would merit this departure. GBT also contends that it is not bound by its stipulated construction of preamble in the Texas Litigation. It argues that its submission of its stipulated construction to the PTO in an IDS does not constitute a disclaimer of the broader claim scope. GBT contends that, under PTO rules, submissions in an IDS are not admissions that the cited information is material. 37 C.F.R. §§ 1.56(b)(2), 1.97(h); see also Abbott Labs. v. Baxter Pharm. Prods., Inc., 334 F.3d 1274, 1279 (Fed.Cir.2003) (“[W]ith the mere listing of references in an IDS, the applicant has admitted no more than that references in the disclosure may be material....”). Therefore, GBT argues that its stipulated construction of preamble in the Texas Litigation does not control the meaning of preamble in the reexamined ′267 patent and new ′427 patent.
+ 
+*1366 We conclude that GBT’s submissions during prosecution of its stipulated construction for the term preamble constitute disclaimer. Although we generally construe terms according to their plain and ordinary meanings to one of ordinary skill in the art, we depart from that meaning where there is disclaimer. Thorner, 669 F.3d at 1365. Here, GBT clearly and unmistakably limited the term preamble to “a signal used for communicating with the base station that is spread before transmission.” J.A. 2127, 3228–30, 3255–56, 3245. During reexamination of the ′267 patent and prosecution of the ′ 427 patent, GBT submitted and requested that the PTO “expressly consider [ ]” its stipulated construction of preamble from the Texas Litigation. J.A. 1674, 1680, 1808–10, 2007–08, 2127, 2639, 2641, 2679. The stipulation required the preamble to be spread before transmission. Id. It would have been natural for both the PTO and the public to rely upon the stipulation in determining the scope of the claimed invention.
+ 
+[6] [7] It is correct that “mere disclosure of potentially material prior art to the [PTO] does not automatically limit the claimed invention.” Abbott Labs., 334 F.3d at 1279. However, this is not a typical IDS, and GBT did more than simply disclose potentially material prior art. It submitted its own stipulated construction of a claim term in the context of the particular patents being reexamined (’267 patent) and prosecuted (’427 patent). This is a clear and unmistakable assertion by the patentee to the PTO of the meaning and scope of the term preamble. The fact that the stipulation was contained in documents accompanying an IDS does not change this result. We have held that “an applicant’s remarks submitted with an [IDS] can be the basis for limiting claim scope.” Uship Intellectual Props., LLC v. United States, 714 F.3d 1311, 1315 (Fed.Cir.2013); see also Ekchian v. Home Depot, Inc., 104 F.3d 1299, 1303 (Fed.Cir.1997) (“An IDS is part of the prosecution history on which the examiner, the courts, and the public are entitled to rely.”). On the facts of this case, we see no meaningful difference between limiting claim scope based on an applicant’s stipulations contained in IDS documents and an applicant’s remarks contained in the IDS itself. GBT’s stipulation tells the PTO how preamble should be construed, and we conclude that GBT is bound by this representation. We construe preamble in accordance with the stipulation as “a signal used for communication with the base station that is spread before transmission and that is without message data.”2
+ 
+Although our precedent allows applicants to rescind a disclaimer during prosecution, GBT did not avail itself of this route and never notified the PTO that it sought a meaning of preamble that was different from its stipulated construction. See, e.g., Hakim v. Cannon Avent Grp., 479 F.3d 1313, 1317–18 (Fed.Cir.2007); Spring Window Fashions L.P. v. Novo Indus., L.P., 323 F.3d 989, 995 (Fed.Cir.2003) (holding the applicant to the “restrictive claim construction that was argued during prosecution” where he “never retracted any of his statements”). Indeed, there is no dispute that GBT did not rescind or retract its stipulated construction of preamble during prosecution of the patents-in-suit. *1367 We hold that GBT’s submission of its stipulation to the PTO thus constitutes a clear and unmistakable disclaimer of the broader claim scope that GBT now seeks.
+ 
+
+B. Summary Judgment of Noninfringement
+[8] [9] Applying the law of the regional circuit, we review the grant of summary judgment de novo. Del. Valley Floral Grp., Inc. v. Shaw Rose Nets, LLC, 597 F.3d 1374, 1378 (Fed.Cir.2010). We affirm summary judgment of noninfringement where “there is an absence of evidence to support the [patentee]’s case.” Exigent Tech. Inc. v. Atrana Solutions Inc., 442 F.3d 1301, 1307–10 (Fed.Cir.2006). Applying Third Circuit law, we review a district court’s grant or denial of a motion for reconsideration for an abuse of discretion. Koshatka v. Phila. Newspapers, Inc., 762 F.2d 329, 333 (3d Cir.1985).
+ 
+GBT accused Apple’s mobile devices that use a third generation (3G) cellular technology of infringing various claims of the ′267 and ′427 patents. The accused Apple mobile devices send an access signal—called a Physical Random Access Channel (PRACH) preamble—to a specific base station to establish a communication link with the base station. The PRACH preamble is made of a combination of (1) a base station specific scrambling code and (2) a signature sequence. The signature sequence is created first and is then spread using the scrambling code to create the PRACH preamble. The completed PRACH preamble is then transmitted to the base station.
+ 
+Throughout the case, GBT relied exclusively on the PRACH preamble in the accused devices to meet the preamble limitations in the asserted claims. Apple moved for summary judgment of noninfringement on the ground that GBT failed to create a genuine issue of material fact regarding whether the preamble is spread prior to transmission. Apple explained that according to GBT (citing GBT’s expert) the preamble of the accused device is the PRACH preamble, which is composed of two spreading codes: the signature sequence and the scrambling code. Apple argued that it was entitled to summary judgment because the PRACH preamble is not spread prior to transmission. Apple explained that even if the signature sequence is spread by the scrambling code, that “argument is beside the point.” J.A. 2871. “The W–CDMA preamble signature is not, by itself, an access signal or a preamble.” Id. Apple explained that “all of GBT’s evidence regarding spreading focuses entirely on the generation of the access signal or PRACH preamble code.” J.A. 2870. Apple’s contention was clear: the accused preamble was the PRACH preamble, and its motion for summary judgment was based on the fact that GBT did not submit any evidence that the PRACH preamble was spread after it was created.
+ 
+GBT’s response stated: “There is no dispute that the spread access preamble of the Accused Devices is composed of two spreading codes, i.e., the preamble signature sequence spread by the scrambling code.”3 J.A. 3409. GBT argued that “[t]he claim language literally covers spreading the access preamble or preamble code either during construction of the spread access preamble or after.” J.A. 3407. Its argument was that there was no “temporal limitation on the spreading,” J.A. 3409, and thus spreading by the scrambling code during generation of the preamble satisfied the preamble/spreading limitation. GBT did not argue that the *1368 signature sequence was itself the preamble and that, therefore, there was spreading by the scrambling code after the preamble was created.4
+ 
+The district court rejected GBT’s PRACH preamble infringement argument and granted summary judgment of noninfringement to Apple. Summary Judgment Order, at 515. The court concluded that there was no genuine dispute that the PRACH preamble is not spread prior to transmission, as required by the court’s construction of preamble. Id. It determined that “GBT’s evidence, even if accepted, would only show that a signature—not an access preamble—is spread.” Id. GBT only presented evidence that the signature sequence was spread during generation of the PRACH preamble, not that the PRACH preamble itself was spread. Because the PRACH preamble was the accused preamble, the court concluded that there is no evidence which creates a genuine issue of fact.
+ 
+Following the district court’s decision on summary judgment, GBT filed a motion for reconsideration arguing that the accused devices’ signature sequences meet the preamble limitations in the asserted claims. The district court declined to modify its judgment of noninfringement. Id. at 526. It described GBT’s signature sequence infringement theory as “new attorney argument,” rejected the theory on the merits, and again concluded that GBT did not raise a genuine dispute of material fact with respect to infringement. Id. at 525–26.
+ 
+
+1. PRACH Preamble (Decision on Summary Judgment)
+[10] On appeal, GBT argues that there is a disputed issue of material fact that precluded summary judgment of noninfringement because the claims do not rule out spreading during generation of the preamble. It argues that the accused devices spread the PRACH preamble during generation—in other words, the signature sequence is spread by the scrambling code to create the PRACH preamble. GBT contends that the claim language covers spreading the preamble either during generation or after the preamble has been generated.
+ 
+We hold that the district court properly granted summary judgment of noninfringement. The preamble must be “spread prior to transmission.” The PRACH preamble is not spread. The signature sequence is spread by the scrambling code to create the PRACH preamble. See Appellant’s Br. 63–64. This step cannot constitute spreading the PRACH preamble because a preamble cannot be spread before it exists. Because there is no dispute that the PRACH preamble is not spread, it cannot meet the preamble limitations in the asserted claims. The district court properly granted summary judgment of noninfringement on this basis.
+ 
+
+2. Signature Sequence (Decision on Reconsideration)
+[11] GBT also argues that the district court erred by declining to modify its judgment of noninfringement on reconsideration. *1369 GBT’s argument is two-fold. First, it contends that it did not waive its signature sequence infringement theory because that theory was not introduced for the first time in its motion for reconsideration. Second, on the merits, GBT argues that there is a genuine issue of material fact with respect to infringement based on its theory that the signature sequence in the accused devices meets the preamble limitations.
+ 
+Apple responds that GBT waived its signature sequence theory by failing to present and support it at summary judgment. It argues that the only infringement theory GBT presented prior to its motion for reconsideration was that the PRACH preamble, not the signature sequence, in the accused devices met the preamble limitations. It argues that GBT should not be allowed to abandon its infringement arguments and present new ones after an adverse ruling on summary judgment. On the merits, Apple contends that there is no genuine issue of material fact with respect to infringement because the signature sequence is not “a signal for communicating with the base station,” as required by the court’s construction of preamble.
+ 
+[12] We conclude that the district court properly refused to grant the relief GBT requested in its motion for reconsideration. An argument made for the first time in a motion for reconsideration comes too late and is ordinarily deemed waived. Bluebonnet Sav. Bank, F.S.B. v. United States, 466 F.3d 1349, 1361 (Fed.Cir.2006); Caldwell v. United States, 391 F.3d 1226, 1235 (Fed.Cir.2004); Hazani v. U.S. Int’l Trade Comm’n, 126 F.3d 1473, 1476–77 (Fed.Cir.1997). Indeed, new arguments are beyond the scope of a motion for reconsideration. “Such motions are not to be used as an opportunity to relitigate the case; rather, they may be used only to correct manifest errors of law or fact or to present newly discovered evidence.” Blystone v. Horn, 664 F.3d 397, 415 (3d Cir.2011).
+ 
+We conclude that GBT’s signature sequence infringement theory was raised for the first time in its motion for reconsideration. Prior to its motion for reconsideration, GBT did not argue that the signature sequence alone in the accused device was itself a preamble, but instead that the PRACH preamble met the preamble limitations in the claims. Having failed to persuade the court that a genuine issue of material fact remained with respect to its PRACH preamble infringement theory, GBT presented a new infringement theory on reconsideration. This was improper. See Finnigan Corp. v. Int’l Trade Comm’n, 180 F.3d 1354, 1363 (Fed.Cir.1999) (“A party’s argument should not be a moving target.”); Bhatnagar v. Surrendra Overseas Ltd., 52 F.3d 1220, 1231 (3d Cir.1995) (rejecting a motion for reconsideration as a “second bite at the apple” and explaining that “[h]aving failed in its first effort to persuade the court,” the plaintiff “simply changed theories and tried again”); Senza–Gel Corp. v. Seiffhart, 803 F.2d 661, 663–64 (Fed.Cir.1986) (“[A] motion for reconsideration is not a chance at a second bite” and should not “enable the movant to ‘sandbag’ an adversary.”). It would be fundamentally unfair to allow GBT, after losing the claim construction arguments at issue and the summary judgment on its infringement contentions, to change those contentions. Though parties can certainly argue in the alternative, their infringement contentions cannot be a moving target. We agree with Apple that GBT did not argue that the signature sequence alone constituted the accused preamble. It is too late to do so for the first time in a motion for reconsideration.
+ 
+Throughout the litigation, GBT’s filings with the district court and its expert report identified only the PRACH preamble *1370 as meeting the preamble limitations in the asserted claims. GBT’s expert explained “[t]he PRACH preamble is composed of two spreading codes [signature sequence and scrambling code] without message data.” J.A. 213. “[I]n the Accused Devices each access preamble is composed of two spreading codes [PRACH signature code and PRACH scrambling code] without message data.” J.A. 225. “[E]ach access preamble is formed by combining one of the available preamble signatures with the preamble scrambling code specific to the base station. The combination of an available preamble signature and scrambling code specific to the base station results in an access preamble.” J.A. 241. Moreover, at the hearing, GBT characterized its expert as opining that the PRACH preamble was the preamble in the accused device. See, e.g., J.A. 3081 (explaining GBT’s expert’s methodology and stating that “the random access preamble code is formed from the preamble scrambling code and the preamble signature”). In fact, GBT cited in its summary judgment briefs, as support for the proposition that the PRACH preamble is the accused preamble, the very same paragraphs of the expert report that GBT now claims on appeal stand for the assertion that the signature sequence is the accused preamble. Compare J.A. 3341–42 (citing J.A. 225–26, ¶ 74), with Appellant’s Br. at 52 (citing J.A. 225–26, ¶ 74).
+ 
+On appeal, GBT argues that the district court erred in its conclusion that its expert opinion “does not specifically address GBT’s current contention that the signature sequence alone constitutes a signal for communicating with the base station.” Appellant’s Br. at 52 (quoting Summary Judgment Order, at 525 n. 7). We see no error in the district court’s interpretation of GBT’s expert testimony. We have reviewed the opinion cited by GBT and agree with the district court that GBT’s expert did not opine that the signature sequence alone constituted the accused preamble. The expert opinion repeatedly characterized the preamble as containing two codes (signature and scrambling). Though the expert referred to the “preamble signature,” he also referred throughout to the “preamble scrambling code.” See, e.g., J.A. 213–15, ¶¶ 48–49; J.A. 225–26, ¶¶ 74–76; J.A. 240, ¶ 107. GBT’s expert opined that these two codes (signature and scrambling), which constitute the PRACH preamble in the accused device, together satisfy the preamble term. Though GBT’s expert was at times inconsistent with his nomenclature, he did not make the alternative argument that the signature sequence of the accused device alone satisfies the preamble term.
+ 
+Even GBT’s infringement contentions identified only the PRACH preamble as meeting the preamble limitation in the claims. “In the Accused Devices, each access preamble is composed of two spreading codes without message data.” See J.A. 298–99. The preamble or the access preamble is always identified as the combination of the preamble scrambling code and the preamble signature sequence (also sometimes referred to as the preamble signature signal).
+ 
+On appeal, GBT suggests that Apple’s own interrogatory response combined with Apple’s own expert report establish that GBT raised its signature sequence infringement theory prior to its motion for reconsideration. Apple’s interrogatory response indicates that GBT alleged that the preamble limitation is met by the RACH/PRACH preamble part described in various sections of the standard. J.A. 528. It is not clear that this response is an admission that GBT argued that the signature sequence alone is the preamble in the accused device. And we cannot find, nor has *1371 GBT directed us to, argument and evidence that the signature sequence is the preamble.
+ 
+GBT’s argument regarding Apple’s expert is likewise insufficient to establish that GBT raised its signature sequence infringement theory before its motion for reconsideration. Apple’s expert did not opine that the signature sequence constitutes the preamble. At most, he noted in multiple places that GBT’s expert was inconsistent in his use of the term preamble. J.A. 635, ¶ 154; J.A. 638, ¶ 162. He stated: “Dr. Vojcic’s absence of a clear and consistent identification of what he considers to be meeting the claimed ‘preamble’ is of critical importance.” J.A. 639, ¶ 162. Apple’s expert addressed all the possible ways that GBT’s expert could be arguing that the preamble term is met in the accused device: (1) each signature, (2) the 256–fold repetition of these signatures, and (3) the combination of the signature sequence and the scrambling code. J.A. 637–40. Apple’s expert opined that under any of those interpretations Apple’s device does not meet the preamble limitation. This testimony by Apple’s expert, about GBT’s expert’s confusing and inconsistent nomenclature, does not establish that GBT’s signature sequence theory was not new. Like the district court, we have reviewed the arguments and evidence submitted by GBT, including their expert report, and we conclude that it did not argue that the signature sequence in the accused device is itself the preamble. This argument was thus waived.
+ 
+Because we conclude that GBT waived the signature sequence argument, we do not pass judgment on whether the signature sequence is a signal used for communicating with the base station that is spread before transmission.
+ 
+
+CONCLUSION
+We affirm the district court’s grant of summary judgment of noninfringement.
+ 
+AFFIRMED.
+ 
+All Citations
+758 F.3d 1362, 111 U.S.P.Q.2d 1812
+Footnotes
+
+1
+
+The ′427 patent is a continuation of the ′267 patent.
+
+2
+
+We note that the construction we adopt modifies the district court’s construction slightly. In the stipulation submitted to the PTO, GBT construed preamble as “a signal used for communication ...” but the district court construed preamble as “a signal for communication....” Because we find GBT bound by its stipulation, we modify the construction to reflect the language of the stipulation which would afford broader coverage. This modification does not require remand as the only accused preamble would still not infringe because it is not spread before transmission.
+
+3
+
+GBT filed a motion for summary judgment of infringement which likewise argued that the access preamble was the signature sequence and the scrambling code.
+
+4
+
+GBT did state, without citation to evidence, that “Vojcic [GBT’s expert] is unambiguously clear that the preamble signature itself is an access signal, and is spread by the scrambling code to increase the bandwidth of the preamble.... Apple cannot deny that the signature is a signal....” J.A. 3409–10. GBT’s attorney argument, that the signature is itself a signal, is not an assertion that the signature signal is the preamble or the access preamble. And regardless, Vojcic for did not opine that the signature sequence alone is the preamble. He opined that the signature sequence was spread by the scrambling code, but like GBT’s infringement contentions, GBT’s expert opined that the PRACH preamble was the preamble which satisfied the claim term preamble.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

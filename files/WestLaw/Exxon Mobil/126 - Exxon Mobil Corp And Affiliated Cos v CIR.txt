@@ -1,0 +1,502 @@
+
+
+ 
+
+
+Exxon Mobil Corp. & Affiliated Cos. v. C.I.R.
+United States Court of Appeals, Second Circuit. | August 8, 2012 | 689 F.3d 191 | 2012 WL 3194293
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Exxon Mobil Corp. & Affiliated Cos. v. C.I.R., 689 F.3d 191 (2d Cir. 2012)
+
+All Citations:
+
+689 F.3d 191, 110 A.F.T.R.2d 2012-5491, 2012-2 USTC P 50,511
+
+Search Details
+
+Search Query:
+
+adv: NAME(”exxon mobil”)
+
+Jurisdiction:
+
+2nd Cir.
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:39 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+689 F.3d 191
+United States Court of Appeals,
+Second Circuit.
+EXXON MOBIL CORP. & AFFILIATED COS., f/k/a Exxon Corp. & Affiliated Cos., Petitioners–Appellees,
+v.
+COMMISSIONER OF INTERNAL REVENUE, Respondent–Appellant.1
+Docket Nos. 11–2814, 11–2817.
+|
+Argued: April 25, 2012.
+|
+Decided: Aug. 8, 2012.
+Synopsis
+Background: Taxpayers moved for redetermination of interest on income taxes, seeking relief from differential between higher underpayment interest rate paid to government and lower overpayment interest rate paid by government to taxpayers. The United States Tax Court, Harry A. Haines, J., 136 T.C. No. 5, 136 T.C. 99,granted summary judgment in favor of taxpayers. Government appealed.
+ 
+Holdings: The Court of Appeals, José A. Cabranes, Circuit Judge, held that:
+ 
+[1] special rule allowing taxpayers to request that zero net interest rate be applied to periods of overlapping mutual indebtedness pre-dating enactment of zero net rate provision was ambiguous;
+ 
+[2] revenue procedure restricting application of special rule was not entitled to deference;
+ 
+[3] special rule was not waiver of sovereign immunity; and
+ 
+[4] interest-netting rules applied when period of limitations remains open for either the overpayment leg or underpayment leg of the period of overlapping indebtedness.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (11)
+
+
+[1]
+
+Internal RevenueScope and Extent of Review
+Internal RevenueTrial de novo
+
+
+220Internal Revenue
+220XXIAssessment of Taxes
+220XXI(F)Review of Tax Court Decisions
+220XXI(F)4Scope and Extent of Review
+220k4700In general
+220Internal Revenue
+220XXIAssessment of Taxes
+220XXI(F)Review of Tax Court Decisions
+220XXI(F)4Scope and Extent of Review
+220k4705Trial de novo
+
+
+When reviewing a decision of the United States Tax Court, the Court of Appeals accepts the stipulated facts the parties submitted to the Tax Court as true and reviews the Tax Court’s legal conclusions de novo.
+Cases that cite this headnote
+
+
+
+[2]
+
+Internal RevenueAmount due, interest and fees
+
+
+220Internal Revenue
+220XXIVPayment
+220k4831Amount due, interest and fees
+
+
+Meaning of special rule allowing taxpayers to request that zero net interest rate be applied to periods of overlapping mutual indebtedness pre-dating enactment of zero net rate provision could not be derived from text alone, since provision that rule was “subject to any applicable statute of limitation not having expired with regard to either a tax underpayment or a tax overpayment” was susceptible to more than one reasonable interpretation, and therefore it was necessary to consult provision’s structure, historical context, and purpose, as well as applicable canons of statutory construction, in order to determine its meaning. 26 U.S.C.A. § 6621(d).
+Cases that cite this headnote
+
+
+
+[3]
+
+TaxationConstruction and operation
+
+
+371Taxation
+371IIn General
+371k2024Statutory Provisions
+371k2027Construction and operation
+(Formerly 361k245)
+
+
+Where the words of a tax statute are doubtful, the doubt must be resolved against the government and in favor of the taxpayer.
+1 Cases that cite this headnote
+
+
+
+[4]
+
+Internal RevenueConstitutional and statutory provisions;  rules and regulations
+
+
+220Internal Revenue
+220XXIVPayment
+220k4811Constitutional and statutory provisions;  rules and regulations
+
+
+Revenue procedure restricting application of special rule authorizing global interest netting for overlapping periods of mutual indebtedness between a taxpayer and the Internal Revenue Service (IRS) occurring prior to enactment date of statute authorizing global interest netting was not entitled to deference, considering that procedure was not promulgated pursuant to notice and comment requirements, it provided no reasons for its conclusion, was without support either in the language of the special rule or its legislative history, and imposed condition that both limitations periods still be open that did not apply to global interest netting involving periods of mutual indebtedness occurring after enactment date of statute. 26 U.S.C.A. § 6621(d).
+2 Cases that cite this headnote
+
+
+
+[5]
+
+Administrative Law and ProcedureErroneous construction;  conflict with statute
+
+
+15AAdministrative Law and Procedure
+15AIVPowers and Proceedings of Administrative Agencies, Officers and Agents
+15AIV(C)Rules, Regulations, and Other Policymaking
+15Ak428Administrative Construction of Statutes
+15Ak435Erroneous construction;  conflict with statute
+(Formerly 361k219(4))
+
+
+Under Chevron, courts are required to defer to an agency interpretation unless it is arbitrary, capricious, or manifestly contrary to the statute when it appears that Congress delegated authority to the agency generally to make rules carrying the force of law, and that the agency interpretation claiming deference was promulgated in the exercise of that authority.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+Administrative Law and ProcedurePlain, literal, or clear meaning;  ambiguity
+Administrative Law and ProcedureConsistent or longstanding construction;  approval or acquiescence
+
+
+15AAdministrative Law and Procedure
+15AIVPowers and Proceedings of Administrative Agencies, Officers and Agents
+15AIV(C)Rules, Regulations, and Other Policymaking
+15Ak428Administrative Construction of Statutes
+15Ak432Plain, literal, or clear meaning;  ambiguity
+(Formerly 361k219(3), 361k219(2))
+15AAdministrative Law and Procedure
+15AIVPowers and Proceedings of Administrative Agencies, Officers and Agents
+15AIV(C)Rules, Regulations, and Other Policymaking
+15Ak428Administrative Construction of Statutes
+15Ak434Consistent or longstanding construction;  approval or acquiescence
+(Formerly 361k219(3), 361k219(2))
+
+
+Under Skidmore, an agency’s interpretation of an ambiguous statute is entitled to a degree of deference depending on the thoroughness evident in its consideration, the validity of its reasoning, its consistency with earlier and later pronouncements, and all those factors which give it power to persuade, if lacking power to control; the degree of deference required under Skidmore varies with circumstances, and courts look to the degree of the agency’s care, its consistency, formality, and relative expertness, and to the persuasiveness of the agency’s position.
+3 Cases that cite this headnote
+
+
+
+[7]
+
+Internal RevenueConstitutional and statutory provisions;  rules and regulations
+United StatesSovereign immunity and no interest rule;  statutory authorization
+
+
+220Internal Revenue
+220XXIVPayment
+220k4811Constitutional and statutory provisions;  rules and regulations
+393United States
+393IILiabilities of and Claims Against United States
+393II(I)Interest
+393k1072Sovereign immunity and no interest rule;  statutory authorization
+(Formerly 393k110)
+
+
+Special rule allowing taxpayers to request that zero net interest rate be applied to periods of overlapping mutual indebtedness pre-dating enactment of zero net rate provision was not waiver of sovereign immunity, since another provision unequivocally waived sovereign immunity for claims for interest, calculation of which depended upon zero net rate provision, which itself was made retroactive under certain circumstances by special rule; special rule was waiver of general rule that congressional enactments and administrative rules will not be construed to have retroactive effect. 26 U.S.C.A. §§ 6611(a), 6621(d).
+1 Cases that cite this headnote
+
+
+
+[8]
+
+United StatesNecessity of waiver or consent
+
+
+393United States
+393IILiabilities of and Claims Against United States
+393II(B)Immunity in General
+393k422Waiver of Immunity;  Consent to Suit
+393k424Necessity of waiver or consent
+(Formerly 393k125(3))
+
+
+United States, as sovereign, is immune from suit, save as it consents to be sued.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+United StatesMode and sufficiency of waiver or consent
+United StatesConstruction of waiver or consent in general
+
+
+393United States
+393IILiabilities of and Claims Against United States
+393II(B)Immunity in General
+393k422Waiver of Immunity;  Consent to Suit
+393k427Mode and sufficiency of waiver or consent
+(Formerly 393k125(5))
+393United States
+393IILiabilities of and Claims Against United States
+393II(B)Immunity in General
+393k422Waiver of Immunity;  Consent to Suit
+393k428Construction of waiver or consent in general
+(Formerly 393k125(6))
+
+
+The waiver of the Federal Government’s sovereign immunity must be unequivocally expressed in statutory text and will be strictly construed, in terms of its scope, in favor of the sovereign.
+4 Cases that cite this headnote
+
+
+
+[10]
+
+Internal RevenueAmount due, interest and fees
+
+
+220Internal Revenue
+220XXIVPayment
+220k4831Amount due, interest and fees
+
+
+Interest-netting rules applied when period of limitations remains open for either the overpayment leg or underpayment leg of the period of overlapping indebtedness. 26 U.S.C.A. § 6621(d).
+1 Cases that cite this headnote
+
+
+
+[11]
+
+CourtsPrevious Decisions as Controlling or as Precedents
+StatutesPurpose
+StatutesContext
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k89In general
+(Formerly 361k218)
+361Statutes
+361IIIConstruction
+361III(A)In General
+361k1074Purpose
+361k1075In general
+(Formerly 361k184)
+361Statutes
+361IIIConstruction
+361III(E)Statute as a Whole;  Relation of Parts to Whole and to One Another
+361k1153Context
+(Formerly 361k208)
+
+
+Interpretation of a word or phrase depends upon reading the whole statutory text, considering the purpose and context of the statute, and consulting any precedents or authorities that inform the analysis.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*193 Alan I. Horowitz, Miller & Chevalier Chartered, Washington, D.C. (Kevin L. Kenworthy, Miller & Chevalier Chartered, Washington, D.C., on the brief, Charles T. Fee, Jr., David J. Bolen, and Hiep V. Tran, Exxon Mobil Corp., Houston, TX, of counsel), for Petitioners–Appellees.
+Jennifer M. Rubin (Richard Farber, on the brief, Tamara W. Ashford, Deputy Assistant Attorney General, of counsel), U.S. Department of Justice, Tax Division, Washington, D.C., for Respondent–Appellant.
+Before: WINTER, WALKER, and CABRANES, Circuit Judges.
+Opinion
+JOSÉ A. CABRANES, Circuit Judge:
+
+Under section 6621 of the Internal Revenue Code (“I.R.C.”), interest is calculated at a higher rate for corporate tax underpayments than it is for corporate tax overpayments.2 In principle, therefore, a corporate taxpayer could owe the Treasury underpayment interest even if the amount by which the taxpayer had underpaid its taxes in one tax year (or set of tax years) was entirely offset by the amount by which *194 it had overpaid in another tax year (or set of tax years).3 To remedy this apparent inequity, Congress amended section 6621 in 1998 to include a provision for “global interest netting,”4 by which the interest rate differential is adjusted to yield a net interest rate of zero for periods of reciprocal indebtedness—that is, periods during which the taxpayer’s overpayments in one set of tax years overlap and offset its equivalent underpayments in another set. See I.R.C. § 6621(d), 26 U.S.C. § 6621(d).
+ 
+Along with section 6621(d), Congress adopted a statutory, but uncodified, “special rule,” which makes section 6621(d) applicable under certain circumstances to periods of overlapping indebtedness that occurred prior to the effective date of the statute, July 22, 1998. See Internal Revenue Service Restructuring and Reform Act of 1998 (“RRA”), Pub.L. No. 105–206, § 3301(c)(2), 112 Stat. 685 (1998).5 Among other conditions, the special rule is “[s]ubject to any applicable statute of limitation not having expired with regard to either a tax underpayment or a tax overpayment.” Id., as amended by Pub.L. No. 105–277, § 4002(d), 112 Stat. 2681 (1998). The question presented in this appeal is whether retrospective global interest netting is permitted when the limitations period for either of the “legs” of the period of overlapping indebtedness has not expired, or only when the period of limitations for both legs is open.6
+ 
+*195 We conclude that the language of the special rule is ambiguous, but hold that the structure of section 6621(d) as a whole, as well as its historical context and purpose, makes clear that taxpayers may benefit from retrospective global interest netting even when the limitations period for one of the legs of the overlap has expired. In so holding, we reject the argument of the Commissioner of Internal Revenue (the “Commissioner”)—derived from an opinion of the Court of Appeals for the Federal Circuit on this issue, see Fed. Nat’l Mortg. Ass’n v. United States (“Fannie Mae II”), 379 F.3d 1303 (Fed.Cir.2004)—that the special rule is a waiver of sovereign immunity, and must therefore be strictly construed in favor of the government.
+ 
+Accordingly, we affirm the judgment of the Tax Court in favor of appellees Exxon Mobil Corp. and Affiliated Companies (jointly, “Exxon”).
+ 
+
+BACKGROUND
+I. Section 6621(d) and the Special Rule
+As part of the Tax Reform Act of 1986, Congress amended section 6621 of the I.R.C. to introduce an interest rate differential: Interest owed by a taxpayer on underpayments is calculated at a higher percentage rate than interest owed to a taxpayer on overpayments. See Tax Reform Act of 1986 (“TRA”), Pub.L. No. 99–514, § 1511(a), 100 Stat.2085 (1986).7 As a result of the interest rate differential, a taxpayer may be liable for interest owed to the Treasury even when the amount of its underpayments and overpayments offset each other such that the taxpayer owes no net tax.
+ 
+Even as it introduced the interest rate differential, Congress recognized that it was inequitable for a taxpayer to be liable for interest owed to the Treasury when no net tax is due. In the Conference Report accompanying the TRA, Congress directed the Internal Revenue Service (“IRS”), by the close of a three-year transition period, to “implement[ ] the most comprehensive [interest] netting procedures that are consistent with sound administrative practice.” H.R.Rep. No. 99–841, pt. 2, at 785 (1986), 1986 U.S.C.C.A.N. 4075, 4873. Over the years, as Congress revisited (and increased) the interest rate differential, it reiterated its expectation that the IRS would institute global interest-netting procedures that would result in no net interest being owed whenever no net tax is owed. See, e.g., H.R.Rep. No. 101–964, at 1101 (1990), 1990 U.S.C.C.A.N. 2374 (accompanying the Omnibus Budget Reconciliation Act of 1990, Pub.L. No. 101–508, 104 Stat. 1388); S.Rep. No. 103–412, at 144 (1994) (accompanying Uruguay Round Agreements Act, Pub.L. No. 103–465, 108 Stat. 4809 (1994), and urging the IRS to “implement the most comprehensive [interest netting] procedures ... that are consistent with sound administrative practice ... as rapidly as is practicable.” (emphasis added)).
+ 
+The IRS had still not implemented global interest netting by 1996 when, as part of the Taxpayer Bill of Rights, Congress directed the Secretary of the Treasury *196 to “conduct a study of the manner in which the Internal Revenue Service has implemented the netting of interest on overpayments and underpayments and of the policy and administrative implications of global netting.” Taxpayer Bill of Rights 2, Pub.L. No. 104–168, § 1208, 110 Stat. 1452 (1996). The Treasury Department submitted its report to Congress in April 1997. See Dep’t of the Treasury, Office of Tax Policy, Report to the Congress on Netting of Interest on Tax Overpayments and Underpayments (“Treasury Report”) (1997), available at http://www.treasury.gov/resource-center/tax-policy/Documents/t0neting.pdf.
+ 
+The Treasury Report acknowledged that “Congress has repeatedly instructed [the IRS] to implement the most extensive interest netting procedures possible, consistent with sound administrative practice,” but reiterated the IRS’s previously stated position that it lacked adequate statutory authority to institute global interest netting without express authorization. Id. at 40. The Treasury Report proceeded to offer several suggested limitations in the event that Congress acted to expressly authorize global interest netting.
+ 
+First, it recommended that “global interest netting should be implemented legislatively through an interest equalization approach, rather than through a credit/offsetting approach.” Id. at 41. As explained elsewhere in the Treasury Report, under the “interest equalization approach,” a zero net interest rate can be achieved by crediting the taxpayer with a “rate equalization amount” equivalent to the interest rate differential for the period and amount of mutual indebtedness. Id. at 32. In other words, interest equalization works either by increasing the interest rate applied to the taxpayer’s overpayment or by decreasing the interest rate applied to the taxpayer’s underpayment. See id. at 31–32. According to the IRS, employing the interest equalization approach would require that at least one “leg” of the overlap have an outstanding balance. Id. at 41.
+ 
+Citing the IRS’s interests in finality and ease of administration, the Treasury Report proceeded to recommend that global interest netting “should apply only to tax years that are not barred by statute.” Id. at 42. In addition, the Treasury Report recommended that global interest netting be limited to income taxes only, id. at 41; that the taxpayer should have the burden of requesting, and demonstrating entitlement to, global interest netting, id. at 42; and that Congress make additional appropriations to cover the costs to the Treasury associated with the implementation of global interest netting, id. at 43.
+ 
+When Congress enacted the RRA, it rejected, in whole or in part, most of the suggestions contained in the Treasury Report. Section 3301(d) of the RRA, codified as I.R.C. § 6621(d), provides as follows:
+Elimination of interest on overlapping periods of tax overpayments and underpayments.—To the extent that, for any period, interest is payable under subchapter A and allowable under subchapter B on equivalent underpayments and overpayments by the same taxpayer of tax imposed by this title, the net rate of interest under this section on such amounts shall be zero for such period.
+I.R.C. § 6621(d), 26 U.S.C. § 6621(d); see note 2, ante. As evident from the text of the statute, Congress rejected the Treasury Report’s suggestion that interest netting be limited to income taxes, making it available instead for any “tax imposed by this title.” I.R.C. § 6621(d), 26 U.S.C. § 6621(d). Congress also rejected the Treasury Report’s suggestion that the taxpayer generally bear the burden of establishing its entitlement to interest netting. *197 Instead, section 6621(d) requires the IRS to automatically apply a net interest rate of zero on equivalent overpayments and underpayments. See id. (“[T]he net rate of interest under this section ... shall be zero ....” (emphasis added)).8 As the Tax Court recognized in this case, the resulting provision “significantly broadened the availability of interest netting beyond what was recommended by the Treasury [R]eport.” Exxon Mobil Corp. & Affiliated Cos. v. Comm’r, 136 T.C. 99, 108 (2011) (“Exxon ”).
+ 
+Congress did, however, accept the Treasury Report’s suggestion that global interest netting be achieved through the interest-equalization approach, albeit without requiring that there be a balance outstanding for one “leg” of the overlap period. See H.R.Rep. No. 105–599, at 257 (1998), 1998 U.S.C.C.A.N. 288 (describing establishment of “a net interest rate of zero ... [w]here interest is payable and allowable on equivalent amounts of underpayment and overpayment” (emphasis added)); Rev.Proc. 99–43, § 4.041999–2 C.B. 579 (1999) (describing IRS’s method for applying the net rate of zero, either by decreasing underpayment interest owed by the taxpayer or increasing overpayment interest owed to the taxpayer, depending on which period of limitation is open at the time the claim for interest netting is filed).
+ 
+As noted above, the enactment of section 6621(d) was accompanied by the adoption of an uncodified statute, styled a “special rule,” which permits taxpayers to seek retrospective global interest netting for periods of overlap beginning prior to July 22, 1998, section 6621(d)’s effective date. The special rule provides as follows:
+SPECIAL RULE. Subject to any applicable statute of limitation not having expired with regard to either a tax underpayment or a tax overpayment, the amendments made by this section shall apply to interest for periods beginning before the date of the enactment of this Act if the taxpayer—
+(A) reasonably identifies and establishes periods of such tax overpayments and underpayments for which the zero rate applies; and
+(B) not later than December 31, 1999, requests the Secretary of the Treasury to apply section 6621(d) of the Internal Revenue Code of 1986 ... to such periods.
+RRA § 3301(c)(2), 112 Stat. 685, 741 (1998), as amended by Pub.L. No. 105–277, § 4002(d), 112 Stat. 2681 (1998); see note 5, ante.
+ 
+
+II. Procedural History
+Over a period of years beginning in the 1980s, the IRS conducted an examination of Exxon’s federal tax returns for the taxable years of 1975 through 1980. The result of the audit—as tempered by numerous administrative and court challenges by Exxon—revealed that Exxon had underpaid its income tax liabilities for the tax years 1975 through 1978 and overpaid its income tax liabilities for the tax years 1979 and 1980. It is not disputed that, as a result, Exxon owed no net tax. The IRS had already collected interest from Exxon on its underpayments, however, even though those underpayment liabilities were offset by Exxon’s overpayments. Accordingly, in December 1999, Exxon requested administrative interest netting relief by filing Form 843 with the IRS, pursuant to the guidance of IRS Revenue Procedure 99–43. See Rev.Proc. 99–43, § 5, 1999–2 C.B. 579 (setting forth “procedures *198 for requesting the net rate of zero”). At the time Exxon made its request, the period of limitations for the underpayment leg of the overlapping period (that is, tax years 1975–78) may have expired, but the period of limitations for the overpayment leg (that is, tax years 1979–80) was still open.9
+ 
+On February 28, 2005, after a final ruling by the Tax Court in related litigation, Exxon filed a motion pursuant to I.R.C. § 7481(c)(1), requesting that the Court determine the interest owed to Exxon pursuant to section 6621(d)’s global interest netting provision.10 Before the Tax Court, the parties disputed the meaning of the prefatory phrase of the special rule: “Subject to any applicable statute of limitation not having expired with regard to either a tax underpayment or a tax overpayment.” See note 5, ante. The Commissioner argued that this language required that the period of limitations for both legs of the overlapping period be open as of July 22, 1998, the date of the statute’s enactment, while Exxon argued that only one applicable period of limitations need be open as of that date for the special rule to apply. Both parties pointed to the language of the rule and certain extrinsic indicators of congressional intent. The Commissioner, citing the opinion of the Court of Appeals for the Federal Circuit in Fannie Mae II, further urged the Tax Court to construe the provision strictly, under the canon of statutory construction relating to statutory waivers of sovereign immunity.
+ 
+The Tax Court sided with Exxon, holding that the special rule applies when at least one leg of the period of overlapping indebtedness remains open. It rejected the Commissioner’s argument that the special rule constituted a waiver of sovereign immunity that must be strictly construed in the government’s favor. Exxon, 136 T.C. at 118–19. Rather, the Tax Court construed the provision broadly, in view of the fact that it is a remedial provision, designed to provide the maximum feasible relief to taxpayers who owe no net tax. Id. at 118. Accordingly, the Court concluded: “After considering the statutory text, legislative history and relevant policies surrounding section 6621(d), and the special rule, we hold that interest netting should be available even if only one applicable limitations period was open on July 22, 1998.” Id. at 119.
+ 
+The Commissioner timely appealed. Before us, the Commissioner argues primarily that the Tax Court erred in failing to recognize that the special rule is a waiver of sovereign immunity and therefore must be construed narrowly in favor of the government. Like the Tax Court, we reject this argument. We further hold, with the Tax Court, that the structure, context, *199 and evident purpose of section 6621(d) and the special rule indicate that the special rule is to be read broadly, such that global interest netting may be applied when at least one leg of the overpayment/underpayment overlapping period is not barred by the applicable statute of limitations.
+ 
+
+DISCUSSION
+[1] In reviewing a decision of the United States Tax Court, we “accept the stipulated facts the parties submitted to the Tax Court” as true and “review the Tax Court’s legal conclusions de novo.” Nathel v. Comm’r, 615 F.3d 83, 87 (2d Cir.2010).
+ 
+As noted above, whether Exxon is entitled to a zero net interest rate on its overlapping periods of reciprocal indebtedness with the IRS depends upon the meaning of the uncodified special rule included in the RRA alongside section 6621(d). The precise issue before us is whether Exxon has complied with the requirement of the special rule that “any applicable statute of limitation not hav[e] expired with regard to either a tax underpayment or a tax overpayment.”11 RRA § 3301(c)(2), as amended by Pub.L. No. 105–277, § 4002(d). The Tax Court interpreted this language in Exxon’s favor to apply interest-netting rules when a period of limitations remains open for either the overpayment leg or underpayment leg of the period of overlapping indebtedness. The Commissioner argues that the special rule requires that the limitations period for both the underpayment and overpayment legs must be open for interest-netting rules to apply to a pre–1998 period of mutual indebtedness.
+ 
+
+I. The Language of the Special Rule is Ambiguous
+[2] “As in all statutory construction cases, we begin with the language of the statute.” Townsend v. Benjamin Enters., Inc., 679 F.3d 41, 48 (2d Cir.2012) (internal quotation marks omitted). Every court to have considered the special rule has found that its language is ambiguous. See Fannie Mae II, 379 F.3d at 1307 (“[T]he language at issue ... is equally subject to both proffered interpretations, the parties’ efforts to persuade us to the contrary notwithstanding.”); Exxon, 136 T.C. at 116 (“We also find the ‘subject to’ language susceptible to either interpretation and cannot determine, from the language itself, which interpretation Congress intended.”); Fed. Nat’l Mortg. Ass’n v. United States (“Fannie Mae I ”), 56 Fed.Cl. 228, 234 (2003) ( “[I]t is impossible to tell from the plain language of the statute whether Congress intended that the expiration of any statute of limitations renders a claim beyond the purview of the special rule, or that as long as any statute of limitations remains open, the special rule is applicable.”). We agree that the provision is susceptible to both proffered interpretations and that the intended meaning of the special rule cannot be derived from the text alone. It is necessary, therefore, to consult the provision’s structure, historical context, and purpose—as well as applicable canons of statutory construction—in order to determine its meaning.
+ 
+[3] In so doing, we are particularly mindful of the longstanding canon of construction that where “the words [of a tax statute] are doubtful, the doubt must be resolved against the government and in favor of the taxpayer.” United States v. *200 Merriam, 263 U.S. 179, 188, 44 S.Ct. 69, 68 L.Ed. 240 (1923).
+ 
+
+II. Neither Revenue Procedure 99–43 nor the “Blue Book” of the Joint Committee on Taxation are Entitled to Deference
+[4] In an earlier case involving the same issue we face here, the Commissioner advanced two arguments in favor of its interpretation of the special rule, each of which was rejected, first, by the Court of Federal Claims and, on appeal, by the Court of Appeals for the Federal Circuit. See Fannie Mae II, 379 F.3d at 1307–09; Fannie Mae I, 56 Fed.Cl. at 234–38.
+ 
+[5] [6] The Commissioner pointed, first, to IRS Revenue Procedure 99–43, which states that the special rule requires that “both periods of limitation applicable to the tax underpayment and to the tax overpayment ... have been open on July 22, 1998,” Rev.Proc. 99–43, § 4.01, 1999–2 C.B. 579 (1999), and argued that the revenue procedure is entitled to administrative deference. The Court of Claims and the Federal Circuit rejected this argument, concluding that “an agency pronouncement not promulgated pursuant to an explicit or implicit congressional delegation of law-making authority is not entitled to deference under Chevron.”12 Fannie Mae II, 379 F.3d at 1307 (citing Fannie Mae I, 56 Fed.Cl. at 235 (in turn citing United States v. Mead Corp., 533 U.S. 218, 229, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001))); see also Christensen v. Harris County, 529 U.S. 576, 587, 120 S.Ct. 1655, 146 L.Ed.2d 621 (2000) (“Interpretations such as those in opinion letters—like interpretations contained in policy statements, agency manuals, and enforcement guidelines, all of which lack the force of law—do not warrant Chevron-style deference.”). These courts similarly rejected the Commissioner’s argument that Revenue Procedure 99–43 is entitled to Skidmore deference,13 concluding that, because it “sets forth no reasoning in support of its conclusion regarding the introductory language of the special rule,” Fannie Mae II, 379 F.3d at 1309, “cannot claim validity as a long-standing interpretation, and arguably conflicts with other IRS statements of procedure,” Fannie Mae I, 56 Fed.Cl. at 237, the revenue procedure is entitled to little, if any, deference.14
+ 
+*201 Second, the Commissioner relied on the General Explanation of Tax Legislation Enacted in 1998, prepared by the Joint Committee on Taxation, November 24, 1998 (the “Blue Book”). See Fannie Mae II, 379 F.3d at 1309. In describing the special rule, the Blue Book clearly states that “[a] statute of limitations must not have expired as of the date of enactment [July 22, 1998] with respect to both the underpayment and overpayment for the provision to apply.” Blue Book at 74 (emphasis added). However, both the Court of Claims and the Federal Circuit declined to defer to the Blue Book’s interpretation, noting that it is “a post-enactment explanation” and therefore “entitled to little weight.” Fannie Mae II, 379 F.3d at 1309; see also Fannie Mae I, 56 Fed.Cl. at 238 (reiterating view that the Blue Book is “not legislative history at all” and finding it “unhelpful in this case” (internal quotation marks omitted)).15
+ 
+We register our agreement with the rejection of these arguments. However, it appears in any event that the Commissioner has abandoned these arguments in this appeal. Instead, the Commissioner relies on a separate argument, which was raised sua sponte by the Court of Appeals for the Federal Circuit in Fannie Mae II—namely, that the special rule “is a waiver of sovereign immunity because it authorizes recovery of certain retroactive refund claims for overpaid interest and thus ‘discriminates between those claims for overpaid interest Congress has authorized and those it has not.’ ” Gov’t’s Br. at 12–13 (quoting Fannie Mae II, 379 F.3d at 1310). Like the Tax Court in the instant case, we reject the view that the special rule amounts to a waiver of sovereign immunity, and we therefore decline to strictly construe it in the government’s favor.
+ 
+
+III. The Special Rule is not a Waiver of Sovereign Immunity
+[7] [8] [9] “Under settled principles of sovereign immunity, the United States, as sovereign, is immune from suit, save as it consents to be sued....” United States v. Dalm, 494 U.S. 596, 608, 110 S.Ct. 1361, 108 L.Ed.2d 548 (1990) (internal quotation marks omitted). Moreover, “the terms of its consent to be sued in any court define that court’s jurisdiction to entertain the suit.” Id. (internal quotation marks omitted). It is true, as the Commissioner argues, that “[a] waiver of the Federal Government’s sovereign immunity must be unequivocally expressed in statutory text” and “will be strictly construed, in terms of its scope, in favor of the sovereign.” Lane v. Pena, 518 U.S. 187, 192, 116 S.Ct. 2092, 135 L.Ed.2d 486 (1996). These well-established principles do not pose an obstacle in this case, however, for the simple reason that the special rule is not a waiver of sovereign immunity.
+ 
+A waiver of sovereign immunity is a consent on the part of the government to be sued. Dalm, 494 U.S. at 608, 110 S.Ct. 1361. It authorizes—in a necessarily unequivocal way—an aggrieved party to make a claim against the United States. See id. The special rule at issue here does no such thing. It does not create jurisdiction or authorize claims against the United *202 States. Other provisions of the tax code perform that function. As relevant here, Congress waived immunity with respect to claims for interest in section 6611(a), which provides that “[i]nterest shall be allowed and paid upon any overpayment in respect of any internal revenue tax at the overpayment rate established under section 6621.” I.R.C. § 6611(a), 26 U.S.C. § 6611(a) (emphasis added); see Int’l Bus. Mach. Corp. v. United States, 201 F.3d 1367, 1371, 1374 (Fed.Cir.2000) (observing, with reference to section 6611(a), that “Congress has waived sovereign immunity in ... the tax code ... to permit interest to be paid on certain refunds”); Schortmann v. United States, 82 Fed.Cl. 1, 6 (2008) (“The language of [section 6611(a) ] is too explicit to be misunderstood. It means what it says—that the United States has waived its sovereign immunity to authorize the allowance of interest on any overpayment.” (internal quotation marks and brackets omitted)); cf. Doolin v. United States, 918 F.2d 15, 18 (2d Cir.1990) (reciting Government’s argument that “section 6611 must be strictly construed since it is a waiver of sovereign immunity”). The special rule, in contrast, merely allows for the interest-netting provision of section 6621(d) to be applied retrospectively to claims raised under section 6611(a).
+ 
+The Supreme Court has made clear that “where one statutory provision unequivocally provides for a waiver of sovereign immunity to enforce a separate statutory provision, that latter provision ‘need not ... be construed in the manner appropriate to waivers of sovereign immunity.’ ” Gomez–Perez v. Potter, 553 U.S. 474, 491, 128 S.Ct. 1931, 170 L.Ed.2d 887 (2008) (quoting United States v. White Mountain Apache Tribe, 537 U.S. 465, 472–73, 123 S.Ct. 1126, 155 L.Ed.2d 40 (2003) (additional internal quotation marks omitted)); see also United States v. Mitchell, 463 U.S. 206, 218–19, 103 S.Ct. 2961, 77 L.Ed.2d 580 (1983) (where one statute supplies a waiver of sovereign immunity for a specific type of claim, related “statutes and regulations need not provide a second waiver of sovereign immunity, nor need they be construed in the manner appropriate to waivers of sovereign immunity”). Here, section 6611(a) unequivocally waives sovereign immunity for claims for interest, the calculation of which depends upon section 6621(d), which itself is made retroactive under certain circumstances by the special rule. The special rule might therefore be understood as a waiver of the general rule that “congressional enactments and administrative rules will not be construed to have retroactive effect,” Bowen v. Georgetown Univ. Hosp., 488 U.S. 204, 208, 109 S.Ct. 468, 102 L.Ed.2d 493 (1988), but we do not believe it can be properly understood as a waiver of sovereign immunity.
+ 
+We therefore respectfully disagree with the conclusion of the Court of Appeals for the Federal Circuit that the special rule must be strictly construed in favor of the Commissioner.
+ 
+
+IV. The Structure, Historical Context, and Purpose of Section 6621(d) as a Whole Favors Broad Application
+[10] Having declined the Commissioner’s invitation to strictly construe the special rule pursuant to the sovereign-immunity-waiver canon, we turn to other means of interpreting the provision.
+ 
+[11] As stated above, the language of the special rule is ambiguous. But, as with any provision, the meaning of the special rule is informed by its context. See Brown v. Gardner, 513 U.S. 115, 118, 115 S.Ct. 552, 130 L.Ed.2d 462 (1994) (“[T]he meaning of statutory language, plain or not, depends on context[.]” (internal quotation marks omitted)). “Interpretation of a word or phrase depends upon *203 reading the whole statutory text, considering the purpose and context of the statute, and consulting any precedents or authorities that inform the analysis.” Dolan v. U.S. Postal Serv., 546 U.S. 481, 486, 126 S.Ct. 1252, 163 L.Ed.2d 1079 (2006). In interpreting the special rule, therefore, we “consider not only the bare meaning of the critical word or phrase but also its placement and purpose in the statutory scheme,” Holloway v. United States, 526 U.S. 1, 6, 119 S.Ct. 966, 143 L.Ed.2d 1 (1999) (internal quotation marks omitted)—namely, the interest-netting scheme created by Congress in § 6621(d) to erase the inequitable effects of the interest rate differential.
+ 
+The structure of § 6621(d) as a whole—and particularly its use of interest equalization—strongly suggests that the special rule is meant to apply whenever the period of limitations for at least one leg of the overlapping period of reciprocal indebtedness remains open. See Reese v. United States, 28 Fed.Cl. 702, 707 (1993) (“When interpreting ambiguous statutory tax provisions, it is appropriate to analyze other related tax provisions and seek an interpretation consistent with the tax statute viewed as an organic whole.” (internal quotation marks omitted)), aff’d, 24 F.3d 228 (Fed.Cir.1994). As described above, under the interest-equalization approach, the IRS can achieve the zero net rate required by § 6621(d) by either increasing overpayment interest owed to the taxpayer or decreasing underpayment interest owed by the taxpayer. See Treasury Report at 32 (“[U]tilizing the rate equalization computation, a taxpayer would simply be charged less underpayment interest (or paid more overpayment interest) to effectively equalize the interest during any period of mutual indebtedness.”). Because it is not necessary to adjust the computation of interest for both the underpayment leg and the overpayment leg in order to achieve the zero net rate, it is not necessary for the limitations period to be open for both legs.
+ 
+Indeed, the IRS explicitly allows for prospective interest netting when a taxpayer files an application for interest netting “on or before the date on which the last applicable period of limitation ... closes.” Rev.Proc. 2000–26, § 4.01, 2001–1 C.B. 1257 (2000) (emphasis added). Section 6621(d) itself contains no basis for distinguishing between its prospective and retrospective application. The primary basis advanced by the Commissioner for distinguishing retrospective from prospective netting is that Congress intended to ease the administrative difficulty of netting interest in long-past tax years. But Congress accommodated this concern by requiring that the taxpayer bear the burden of requesting the application of section 6621(d) and of “reasonably identif[ying] and establish[ing] periods of ... tax overpayments and underpayments for which the zero rate applies.” RRA § 3301(c)(2)(B), (A). Accordingly, we see no reason why retrospective interest netting should require both applicable statutes of limitations to remain open, when only “the last applicable period of limitation” need be open for prospective netting.
+ 
+A review of the historical context from which section 6621(d) emerged supports our conclusion that the special rule allows for retrospective interest netting even when one applicable limitations period has expired. This context is one in which Congress repeatedly sought to ameliorate the inequitable effects of the interest rate differential instituted in the Tax Reform Act of 1986. As explained above, Congress recognized this inequity when it first implemented the interest rate differential, and therefore directed the IRS to “implement[ ] the most comprehensive [interest] netting procedures that are consistent with *204 sound administrative practice.” H.R.Rep. No. 99–841, at 785 (emphasis added). Though Congress reaffirmed, and increased, the interest rate differential on several occasions, it made clear that it did not intend for taxpayers to be liable for interest on tax underpayments that were offset by overpayments. See, e.g., S.Rep. No. 105–174, at 61–62 (1998) ( “The Committee does not believe that the different interest rates provided for overpayments and underpayments were ever intended to result in the charging of the differential on periods of mutual indebtedness.”); H.R.Rep. No. 105–364, pt. 1, at 64 (1997) (same). When Congress finally acted itself to implement global interest netting through section 6621(d), it rejected most of the recommendations of the Treasury Report, instead opting to make interest netting more broadly available to taxpayers. Compare Treasury Report at 41–43, with I.R.C. § 6621(d), 26 U.S.C. § 6621(d); see ante at 196–97. And, in promulgating the special rule, Congress sought to make interest netting still more available, by allowing section 6621(d) to be applied retrospectively. RRA § 3301(c)(2).
+ 
+It thus seems clear that section 6621(d) and the special rule—both part of the Internal Revenue Service Restructuring and Reform Act of 1998—are best understood as remedial provisions, and should therefore be interpreted broadly to effectuate Congress’s remedial goals. See generally Ne. Marine Terminal Co. v. Caputo, 432 U.S. 249, 268, 97 S.Ct. 2348, 53 L.Ed.2d 320 (1977). Given the historical context in which it was enacted, its remedial purpose, and its use of the interest-equalization approach to global interest netting, we conclude that section 6621(d) applies retrospectively, by operation of the special rule, when the statute of limitation for at least one leg of the overlapping period of indebtedness is open.
+ 
+
+CONCLUSION
+For the foregoing reasons, we hold that, although the language of the special rule is ambiguous, it is clear from the structure, historical context, and purpose of section 6621(d) as a whole that retrospective global interest netting may be applied (subject to the other threshold requirements of the special rule) when the period of limitations for at least one “leg” of the overlapping period of indebtedness between the IRS and the taxpayer is open. We reject all of the Commissioner’s arguments to the contrary.
+ 
+Accordingly, we AFFIRM the judgment of the United States Tax Court in Exxon’s favor.
+ 
+All Citations
+689 F.3d 191, 110 A.F.T.R.2d 2012-5491, 2012-2 USTC P 50,511
+Footnotes
+
+1
+
+The Clerk of Court is respectfully directed to amend the caption as set forth above.
+
+2
+
+Section 6621 provides, in relevant part, as follows:
+(a) General Rule.
+(1) Overpayment rate. The overpayment rate established under this section shall be the sum of—
+(A) the Federal short-term rate determined under subsection (b), plus
+(B) 3 percentage points (2 percentage points in the case of a corporation).
+To the extent that an overpayment of tax by a corporation for any taxable period ... exceeds $10,000, subparagraph (B) shall be applied by substituting “0.5 percentage point” for “2 percentage points”.
+(2) Underpayment rate. The underpayment rate established under this section shall be the sum of—
+(A) the Federal short-term rate determined under subsection (b), plus
+(B) 3 percentage points.
+* * *
+(c) Increase in underpayment rate for large corporate underpayments.
+(1) In general. For purposes of determining the amount of interest payable under section 6601 on any large corporate underpayment for periods after the applicable date, paragraph (2) of subsection (a) shall be applied by substituting “5 percentage points” for “3 percentage points”.
+* * *
+(3) Large corporate underpayment. For purposes of this subsection—
+(A) In general. The term “large corporate underpayment” means any underpayment for any taxable period if the amount of such underpayment for such period exceeds $100,000.
+* * *
+(d) Elimination of interest on overlapping periods of tax overpayments and underpayments.—To the extent that, for any period, interest is payable under subchapter A and allowable under subchapter B on equivalent underpayments and overpayments by the same taxpayer of tax imposed by this title, the net rate of interest under this section on such amounts shall be zero for such period.
+I.R.C. § 6621, 26 U.S.C. § 6621.
+
+3
+
+For a time, this interest rate differential applied to all taxpayers, but Congress eliminated it with respect to individual taxpayers in 1998. See I.R.C. § 6621(a)(1)(B), (a)(2)(B), 26 U.S.C. § 6621(a)(1)(B), (a)(2)(B) (setting interest rate at 3 percentage points above the federal short-term rate for both overpayments and underpayments by individual taxpayers).
+
+4
+
+The Internal Revenue Service implements “interest netting” in a variety of situations, including where a taxpayer has underpayments and overpayments outstanding with respect to a single tax year (“annual netting”) and where a taxpayer simultaneously has outstanding overpayments and underpayments of tax for different tax years (“offsetting”). “Global” interest netting is the netting of interest where an overpayment and an underpayment had at one point overlapped, but where one or the other had already been satisfied (and is therefore no longer outstanding) by the time the netting is performed. See Dep’t of the Treasury, Office of Tax Policy, Report to the Congress on Netting of Interest on Tax Overpayments and Underpayments (“Treasury Report”) at 1 (1997), available at http://www. treasury.gov/resource-center/tax-policy/Documents/t0neting.pdf.
+
+5
+
+As initially adopted, the special rule provided as follows:
+SPECIAL RULE.—The amendments made by this section shall apply to interest for periods beginning before the date of the enactment of this Act if the taxpayer—
+(A) reasonably identifies and establishes periods of such tax overpayments and underpayments for which the zero rate applies; and
+(B) not later than December 31, 1999, requests the Secretary of the Treasury to apply section 6621(d) of the Internal Revenue Code of 1986, as added by subsection (a), to such periods.
+RRA § 3301(c)(2).
+Congress subsequently amended the rule by a “technical correction” to insert the following prefatory language: “Subject to any applicable statute of limitations not having expired with regard to either a tax underpayment or a tax overpayment.” See Pub.L. No. 105–277, § 4002(d), 112 Stat. 2681 (1998). The “Subject to ...” clause was included in the final conference report but omitted from the enrolled version of the RRA. The use of a ‘technical correction’ to reinsert the clause suggests that its omission was likely a scrivener’s error. See Fannie Mae I, 56 Fed.Cl. at 234.
+
+6
+
+Our answer to this question is undoubtedly of great importance to the parties before us, but may be of little significance beyond this case. One of the other conditions of the special rule is that any request for retrospective interest netting be made prior to December 31, 1999. See RRA § 3301(c)(2)(B). Therefore, as the parties acknowledged during oral argument, there are few, if any, remaining tax disputes whose disposition depends upon the meaning of the special rule.
+
+7
+
+Currently, the interest rate on corporate tax underpayments ranges from three to five percentage points higher than the federal short-term interest rate, depending on the amount of the underpayment. Compare I.R.C. § 6621(a)(2), 26 U.S.C. § 6621(a)(2), with I.R.C. § 6621(c)(1), 26 U.S.C. § 6621(c)(1). The interest rate on corporate tax overpayments ranges from one-half a percentage point to two percentage points over the federal short-term rate, depending on the amount overpaid. See I.R.C. § 6621(a)(1), 26 U.S.C. § 6621(a)(1).
+
+8
+
+As will be seen, however, with the special rule, Congress did place the burden of requesting and establishing eligibility for retrospective global interest netting on the taxpayer. See RRA § 3301(c)(2)(A)–(B).
+
+9
+
+The limitations period for a claim for adjustment of interest on a tax overpayment or underpayment is six years. See 28 U.S.C. § 2401(a); Rev.Rul. 56–506, 1956–2 C.B. 959 (1956) (“Under the provisions of sections 2401 and 2501 of Title 28 of the United States Code, the allowance of accrued interest, under section 6611 of the Internal Revenue Code ...[,] may not be made after the expiration of six years from the date of allowance of the credit unless suit is filed therefor within such period.”). The parties dispute whether the period of limitations had expired with respect to the underpayment leg, but agree—and have stipulated—that it had not expired with respect to the overpayment leg at the time Exxon filed its claim.
+
+10
+
+Section 7481(c)(1) provides that “if, within 1 year after the date [a] decision of the Tax Court becomes final ..., the taxpayer files a motion in the Tax Court for a redetermination of the amount of interest involved, then the Tax Court may reopen the case solely to determine whether the taxpayer has made an overpayment of such interest or the Secretary has made an underpayment of such interest and the amount thereof.” I.R.C. § 7481(c)(1), 26 U.S.C. § 7481(c)(1).
+
+11
+
+There is no dispute that Exxon complied with the other requirements of the special rule by reasonably identifying and establishing the period of overlapping tax overpayments and underpayments and filing an administrative request for retrospective interest netting prior to December 31, 1999. See RRA § 3301(c)(2)(A)–(B).
+
+12
+
+Under Chevron U.S.A., Inc. v. Natural Res. Def. Council, 467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984), courts are required to defer to an agency interpretation—unless it is “arbitrary, capricious, or manifestly contrary to the statute,” id. at 844, 104 S.Ct. 2778—“when it appears that Congress delegated authority to the agency generally to make rules carrying the force of law, and that the agency interpretation claiming deference was promulgated in the exercise of that authority.” United States v. Mead Corp., 533 U.S. 218, 226–27, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001).
+
+13
+
+Under the rule of Skidmore v. Swift & Co., 323 U.S. 134, 65 S.Ct. 161, 89 L.Ed. 124 (1944), an agency’s interpretation of an ambiguous statute is entitled to a degree of deference “depend[ing] on the thoroughness evident in its consideration, the validity of its reasoning, its consistency with earlier and later pronouncements, and all those factors which give it power to persuade, if lacking power to control.” Id. at 140, 65 S.Ct. 161. As the Court later explained, the degree of deference required under Skidmore “has been understood to vary with circumstances, and courts have looked to the degree of the agency’s care, its consistency, formality, and relative expertness, and to the persuasiveness of the agency’s position.” Mead Corp., 533 U.S. at 228, 121 S.Ct. 2164 (footnote omitted).
+
+14
+
+The Tax Court in the instant case came to a similar conclusion with respect to the appropriateness of Skidmore deference. See Exxon, 136 T.C. at 117. The Commissioner did not argue in the Tax Court that Revenue Procedure 99–43 is entitled to Chevron deference.
+
+15
+
+Indeed, unlike the House Ways and Means Committee and the Senate Finance Committee, which draft tax legislation, the Joint Committee on Taxation is not, strictly speaking, a legislative committee and the Blue Book, in turn, is not a committee report. See generally Michael Livingston, “What’s Blue and White and Not Quite as Good as a Committee Report: General Explanations and the Role of ‘Subsequent’ Tax Legislative History,” 11 Am. J. Tax Pol’y 91, 100–101 (1994) (“[T]he Blue Book, unlike the reports, is not approved by [members of the Ways and Means and Finance committees], and it is not available to members of Congress at the time they vote on [a] bill.”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

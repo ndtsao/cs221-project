@@ -1,0 +1,861 @@
+
+
+
+
+
+Uniloc USA, Inc. v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | January 4, 2011 | 632 F.3d 1292 | 2011 WL 9738
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Extend by Comcast Cable Communications, LLC v. Sprint Communications Company, LP, E.D.Pa., August 16, 2017
+
+standard Citation:
+
+Uniloc USA, Inc. v. Microsoft Corp., 632 F.3d 1292 (Fed. Cir. 2011)
+
+All Citations:
+
+632 F.3d 1292, 98 U.S.P.Q.2d 1203
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Rhode Island
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Extend by Comcast Cable Communications, LLC v. Sprint Communications Company, LP, E.D.Pa., August 16, 2017
+632 F.3d 1292
+United States Court of Appeals,
+Federal Circuit.
+UNILOC USA, INC. and Uniloc Singapore Private Limited, Plaintiffs–Appellants,
+v.
+MICROSOFT CORPORATION, Defendant–Cross Appellant.
+Nos. 2010–1035, 2010–1055.
+|
+Jan. 4, 2011.
+|
+Rehearing Denied March 22, 2011.
+Synopsis
+Background: Patentee brought action for infringement of patent for a software registration system directed towards reducing the unauthorized use of software. The United States District Court for the District of Rhode Island, William E. Smith, J., 447 F.Supp.2d 177, granted summary judgment as to noninfringement. Patentee appealed. The Court of Appeals, 290 Fed.Appx. 337, reversed and remanded. Following jury trial on remand, jury returned verdict awarding patentee $388,000,000 in damages. The District Court, Smith, J., 640 F.Supp.2d 150, granted alleged infringer judgment as matter of law (JMOL) in part, and granted new trial on infringement and willfulness. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Linn, Circuit Judge, held that:
+ 
+[1] whether additional structural components in message digest and secure hash algorithms contained in alleged infringer’s software products were “summation algorithms” as claimed in patent was fact issue for the jury;
+ 
+[2] whether product activation system contained in alleged infringer’s software products used a “registration system” with a “mode switching means,” as claimed in patent was fact issue for jury;
+ 
+[3] alleged infringer did not act despite an objectively high likelihood that its actions constituted infringement, as required to show willful infringement of patent;
+ 
+[4] evidence relying on “25 percent rule of thumb,” which was tool used to approximate the reasonable royalty rate the manufacturer of patented product would be willing to offer to pay to the patentee during a hypothetical negotiation, was inadmissible under Daubert; and
+ 
+[5] District Court did not abuse its discretion in granting conditional new trial on damages.
+ 
+Affirmed in part and reversed in part.
+ 
+See also 447 F.Supp.2d 177.
+ 
+
+
+West Headnotes (22)
+
+
+[1]
+
+PatentsPresumptions and Burden of Proof
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1812Presumptions and Burden of Proof
+291k1813In general
+(Formerly 291k312(1.1))
+
+
+To prove infringement of patent, the plaintiff bears the burden of proof to show the presence of every element or its equivalent in the accused device.
+29 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsInfringement or noninfringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+(Formerly 291k324.55(5))
+
+
+The underlying issue of infringement of a patent is a question of fact reviewed by the Court of Appeals for substantial evidence.
+7 Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk776, 170Bk765)
+
+
+Court of Appeals reviews a district court’s denial of judgment as a matter of law (JMOL) after a jury verdict de novo, asking whether the evidence points so strongly and overwhelmingly in favor of the moving party that no reasonable jury could have returned a verdict adverse to that party.
+3 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1848Questions of law or fact
+(Formerly 291k314(5))
+
+
+Whether additional structural components in message digest and secure hash algorithms contained in alleged infringer’s software products were “summation algorithms,” as claimed in patent for a software registration system, was a fact issue for the jury in patent infringement action. 35 U.S.C.A. § 271(a).
+9 Cases that cite this headnote
+
+
+
+[5]
+
+EvidenceMatters involving scientific or other special knowledge in general
+EvidenceNecessity and sufficiency
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(B)Subjects of Expert Testimony
+157k508Matters involving scientific or other special knowledge in general
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.2Necessity and sufficiency
+
+
+Under Daubert, the district court must exercise its “gatekeeper” function in ensuring that scientific testimony is relevant, reliable and admissible. Fed.Rules Evid.Rule 702, 28 U.S.C.A.
+5 Cases that cite this headnote
+
+
+
+[6]
+
+EvidenceConflict with other evidence
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(F)Effect of Opinion Evidence
+157k574Conflict with other evidence
+
+
+It is decidedly the jury’s role to evaluate the weight to be given to the testimony of dueling qualified experts.
+10 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1848Questions of law or fact
+(Formerly 291k314(5))
+
+
+Whether product activation system contained in alleged infringer’s software products used a “registration system” with a “mode switching means,” as claimed in patent for a software registration system, was fact issue for jury in infringement action; use of product during “grace period” after agreement to end user license agreement (EULA) and before product activation in accused products did not constitute full use in accordance with EULA, and patent was not limited to situation where activation and licensing were concurrent. 35 U.S.C.A. § 112.
+10 Cases that cite this headnote
+
+
+
+[8]
+
+Federal Civil ProcedureWeight of evidence
+
+
+170AFederal Civil Procedure
+170AXVINew Trial
+170AXVI(B)Grounds
+170Ak2338Verdict or Findings Contrary to Law or Evidence
+170Ak2339Weight of evidence
+
+
+A new trial is only appropriate when the outcome is against the clear weight of the evidence such that upholding the verdict will result in a miscarriage of justice.
+Cases that cite this headnote
+
+
+
+[9]
+
+Federal Civil ProcedurePresumptions; construction of evidence
+
+
+170AFederal Civil Procedure
+170AXVINew Trial
+170AXVI(C)Proceedings
+170Ak2372Hearing and Determination
+170Ak2373Presumptions; construction of evidence
+
+
+In contrast to ruling on a motion for judgment as a matter of law (JMOL), in considering a motion for a new trial, the district court may independently weigh the evidence.
+6 Cases that cite this headnote
+
+
+
+[10]
+
+Federal CourtsNew Trial, Rehearing, or Reconsideration
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3606New Trial, Rehearing, or Reconsideration
+170Bk3606(1)In general
+(Formerly 170Bk825.1)
+
+
+District court is entitled to deference in granting a new trial motion, and the Court of Appeals only overturns grant of new trial if district court has abused its discretion.
+6 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsDegree of proof
+PatentsParticipation, intent, and contributory infringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1824Degree of proof
+(Formerly 291k312(4))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1832Participation, intent, and contributory infringement
+(Formerly 291k312(8))
+
+
+To establish willful infringement of a patent, a patentee must show by clear and convincing evidence that infringer acted despite an objectively high likelihood that its actions constituted infringement of a valid patent; in addition, a patentee must show the risk was either known or so obvious that it should have been known to the accused infringer.
+24 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k227)
+
+
+Alleged infringer did not act despite an objectively high likelihood that its actions constituted infringement, as required to show willful infringement of patent for a software registration system, absent any evidence at trial or on appeal from patent holder showing why alleged infringer, at time it began infringement, could not have reasonably determined that product’s algorithms did not meet patent’s limitations.
+25 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsReasonable royalty;  hypothetical negotiation
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1910Damages
+291k1914Reasonable royalty;  hypothetical negotiation
+(Formerly 291k319(1))
+
+
+A reasonable royalty, as part of an award of damages upon finding infringement of valid patent, is often determined on the basis of a hypothetical negotiation, occurring between the parties at the time that infringement began. 35 U.S.C.A. § 284.
+61 Cases that cite this headnote
+
+
+
+[14]
+
+EvidenceDamages
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.9Damages
+
+
+Evidence relying on “25 percent rule of thumb,” which was tool used to approximate the reasonable royalty rate the manufacturer of patented product would be willing to offer to pay to the patentee during a hypothetical negotiation, was inadmissible under Daubert, since it failed to tie a reasonably royalty base to facts of case at issue. Fed.Rules Evid.Rule 702, 28 U.S.C.A.
+97 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsProfits and damages
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1812Presumptions and Burden of Proof
+291k1820Profits and damages
+(Formerly 291k312(1.7))
+
+
+The patentee bears the burden of proving damages in infringement action. 35 U.S.C.A. § 284.
+31 Cases that cite this headnote
+
+
+
+[16]
+
+EvidenceDamages
+
+
+157Evidence
+157XIIOpinion Evidence
+157XII(D)Examination of Experts
+157k555Basis of Opinion
+157k555.9Damages
+
+
+To be admissible under Daubert, expert testimony opining on a reasonable royalty rate in patent infringement case must carefully tie proof of damages to the claimed invention’s footprint in the market place. Fed.Rules Evid.Rule 702, 28 U.S.C.A.
+79 Cases that cite this headnote
+
+
+
+[17]
+
+PatentsEntire market value
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1900Profits
+291k1905Entire market value
+(Formerly 291k318(4.1))
+
+
+In patent infringement action, the “entire market value rule” allows a patentee to assess damages based on the entire market value of the accused product only where the patented feature creates the basis for customer demand or substantially creates the value of the component parts. 35 U.S.C.A. § 284.
+113 Cases that cite this headnote
+
+
+
+[18]
+
+PatentsNew trial;  amendment
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1939Relief from Judgment
+291k1942New trial;  amendment
+(Formerly 291k323.3)
+
+
+District Court did not abuse its discretion in granting conditional new trial on damages in action for infringement of a patent for a software registration system, where patentee’s references to total dollar volume of sales of accused products to show that its claimed royalties were reasonable violated the “entire market value rule.” Fed.Rules Civ.Proc.Rule 59, 28 U.S.C.A.
+36 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)4Evidence and Determination
+291k800Questions of law or fact
+(Formerly 291k314(5))
+
+
+Issue of whether patent for a software registration system was invalid due to obviousness in light of prior art, even if summation algorithm as used in patent would have been an obvious or inferior substitute for the algorithms used in prior art patents, was fact issue for jury in patent infringement action.
+5 Cases that cite this headnote
+
+
+
+[20]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 4,658,093. Cited as Prior Art.
+10 Cases that cite this headnote
+
+
+
+[21]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,474,555, US Patent 6,263,432. Cited.
+Cases that cite this headnote
+
+
+
+[22]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,490,216. Infringed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1295 Donald R. Dunner, Finnegan, Henderson, Farabow, Garrett and Dunner, LLP, of Washington, DC, argued for plaintiff-appellant. With him on the brief were Don O. Burley; Erik R. Puknys and Aaron J. Capron, of Palo Alto, CA. Of counsel on the brief were Paul J. Hayes and Dean G. Bostock, Mintz, Levin, Cohn, Ferris, Glovsky & Popeo PC, of Boston, MA.
+Frank E. Scherkenbach, Fish and Richardson P.C., of Boston, MA, argued for defendant-cross appellant. With him on the brief were Kurt L. Glitzenstein; John W. Thornburgh, of San Diego, CA and Laura R. Braden, of Washington, DC.
+Before RADER, Chief Judge, LINN and MOORE, Circuit Judges.
+Opinion
+LINN, Circuit Judge.
+
+Uniloc USA, Inc. and Uniloc Singapore Private Limited (collectively, “Uniloc”) appeal from the decision of the United States District Court for the District of Rhode Island granting Microsoft Corporation’s (“Microsoft”) motion for judgment as a matter of law (“JMOL”) of non-infringement and no willful infringement of asserted claims of Uniloc’s U.S. Patent No. 5,490,216 (“′216 patent”), and, in the alternative, granting a new trial on infringement and willfulness. Uniloc USA, Inc. v. Microsoft Corp., 640 F.Supp.2d 150 (D.R.I. Sept.29, 2009) (“Uniloc II ”). Uniloc also appeals the district court’s alternative grant of a new trial on damages. Microsoft cross-appeals the district court’s denial of its motion for JMOL of invalidity of the ′216 patent. Id. at 179–83.
+ 
+Because the jury’s verdict on infringement was supported by substantial evidence, this court reverses the district court’s grant of JMOL of non-infringement; this court also reverses the district court’s alternative grant of a new trial on infringement as an abuse of discretion. Because the jury’s verdict on willfulness was not supported by substantial evidence, this court affirms the district court’s grant of JMOL of no willfulness; the district court’s alternative grant of a new trial for willfulness is thus rendered moot. Because the jury’s damages award was fundamentally tainted by the use of a legally inadequate methodology, this court affirms the grant of a new trial on damages. Finally, because the district court did not abuse its discretion in determining that the jury verdict of no invalidity of the ′ *1296 216 patent was supported by substantial evidence, we affirm the district court’s denial of Microsoft’s motion for JMOL of invalidity.
+ 
+
+I. BACKGROUND
+Commercial software manufacturers like Microsoft lose significant sales as a result of the “casual copying” of software, where users install copies of a software program on multiple computers in violation of applicable software license conditions. Uniloc’s ′216 patent was an early attempt to combat such software piracy. There is no dispute as to the actual functioning of Uniloc’s patented invention and Microsoft’s accused products. The following background information is taken from the district court’s opinion. Uniloc II, 640 F.Supp.2d 150.
+ 
+
+A. The ′216 Patent
+Uniloc’s ′216 patent is directed to a software registration system to deter copying of software. The system allows the software to run without restrictions (in “use mode”) only if the system determines that the software installation is legitimate. A representative embodiment functions as follows. First, a user intending to use the software in “use mode” enters certain user information when prompted, which may include a software serial number and/or name and address information. An algorithm on the user’s computer (a “local licensee unique ID generating means”) combines the inputted information into “a registration number unique to an intending licensee” (a “local licensee unique ID”). ′216 patent, Abstract. The user information is also sent to the vendor’s system, which performs the identical algorithm (a “remote licensee unique ID generating means”) to create a “remote licensee unique ID” for the user. When the application boots again, a “mode switching means” compares the local and remote licensee unique IDs. If they match, the program enters into “use mode.” If they do not match, the program enters into “demo mode,” wherein certain features are disabled. Figure 8 from the ′216 patent shows the fifth preferred embodiment:
+ 
+
+*1297
+
+​
+′216 patent, Fig. 8.
+Uniloc asserts only independent claim 19:
+19. A remote registration station incorporating remote licensee unique ID generating means, said station forming part of a registration system for licensing execution of digital data in a use mode, said digital data executable on a platform, said system including local licensee unique ID generating means, said system further including mode switching means operable on said platform which permits use of said digital data in said use mode on said platform only if a licensee unique ID generated by said local licensee unique ID generating means has matched a licensee unique ID generated by said remote licensee unique ID generating means; and wherein said remote licensee unique ID generating means comprises software executed on a platform which includes the algorithm utilized by said local licensee unique ID generating means to produce said licensee unique ID.
+′216 patent, col. 15 l.21—col. 16 l.9 (emphasis added).
+ 
+
+B. The Accused Product
+The accused product is Microsoft’s Product Activation feature that acts as a gatekeeper to Microsoft’s Word XP, Word 2003, and Windows XP software programs. Upon receipt of Microsoft’s retail software program, the user must enter a 25–character alphanumeric product key contained within the packaging of Microsoft’s retail products. If the Key is valid, the user is asked to agree to the End User License Agreement (“EULA”), by which the licensor-licensee relationship is initiated.
+ 
+*1298 At about this time, the software creates a Product ID (“PID”) and a Hardware ID (“HWID”) on the user’s computer. The PID is formed from the combination of the Product Key, information from the software CD, and a random number from the user’s computer. The HWID is generated from information about the user’s computer. The user may use the software without initiating Product Activation, but such use is temporally limited (50 start-ups of Office and 30 days use of Windows until basic functions like saving and printing are deactivated) and functionally limited (no updates can be downloaded and installed). If the user elects to initiate Product Activation, the software sends a digital license request to Microsoft over the internet, which includes: the PID, the HWID, and additional activation information. At Microsoft’s remote location, this information is entered into one of two software algorithms: the MD5 message digest algorithm (“MD5”) for Office products and the SHA–1 secure hash algorithm (“SHA–1”) for Windows products.1
+ 
+The functionality of the MD5 and SHA–1 algorithms is at the heart of this case. As the district court noted, Microsoft’s expert, Dr. Wallach, provided a demonstrative animation, which gives a clear, detailed, and uncontested explanation of the functionality of these algorithms. The animation and the explanation of it given by Dr. Wallach at the trial (Trial Tr. 157:21–166:3, Mar. 31, 2009) may be downloaded at http://oralarguments.cafc.uscourts. gov/animation/Uniloc.2010–1035.Animation.pdf. The first frame is explained below.
+ 
+
+​
+First, A, B, C, and D are 32–bit numbers and F, G, H, and I are logical operations *1299 into which the numbers B, C, and D are entered. For example, F(x, y, z) = (x AND y) OR ((NOT x) AND z). Thus, if B, C, and D are 0, 1, 1, respectively, F(0, 1, 1) = 1. The result is that three 32–bit numbers are compressed into a single 32–bit number.
+ 
+Second, the resulting number is added to A using modular addition. Modular addition is a way of adding that resets the count of a sum after a certain threshold number is reached. The most familiar example is the American A.M./ P.M. clock system. If a three hour movie begins at 11:00 A.M., it will end at 2:00 P.M. This is an example of mod12 addition: one first adds 11+3=14 then subtracts 12 to get 2. Modular addition, or modulo-addition, is used throughout the MD5 algorithm.
+ 
+Third, M1, the first component of the source message being hashed, is modulo-added to the result from step 2.
+ 
+Fourth, additive constant Ki is modulo-added to the result from step 3.
+ 
+Fifth, the resulting number is “circular shifted” (according to Microsoft) or “left shifted” (according to Uniloc); the shift is depicted by the green box with the three arrows in the diagram. Because the actual functionality is not disputed, we will refer to it as “circular shifting” for the purposes of this opinion. Inserting into the shifter the binary number 0100 10112 (which is the binary equivalent of 75), and shifting it by 1 place would yield 1001 0110 (which is the binary equivalent of 150). The result of this operation is a multiplication by two for each single unit shift. If the number is again shifted (or if the original shift was by 2 places), the output becomes 0010 1101 (which is the binary equivalent of 45). Because a single 8–bit string cannot represent numbers larger than 255 (1111 1111), such numbers are represented in mod255; thus the 300 expected from multiplying 150 by 2, becomes 45 in mod255 (300–255).
+ 
+Sixth, the resulting number is then modulo-added to initial value B, which final number becomes the new value B’. Initial value C becomes new value D’, D becomes A’, and A becomes B’. The hashing algorithm is then run again using these new values (A’, B’, C’, D’) in place of the old (A, B, C, D) and the second component of the message (M2) in place of the first (M1). After sixteen rounds of this, a different logical function, G(x, y, z) is used, and the same message string is input in a different order. The function G is used for sixteen rounds, followed by sixteen rounds of function H and sixteen rounds of function I. The end result is a “license digest,” i.e. “a shortened fixed-bit output,” Uniloc II, 640 F.Supp.2d at 157, derived from the original message.
+ 
+Microsoft encrypts this digest, and sends it along with the original data back to the user’s computer. The software on the user’s computer decrypts the message and recovers the “license digest.” It then inputs the original data (i.e. the PID, HWID, and additional activation information) and enters it into the same MD5 or SHA–1 algorithm used by Microsoft’s computers, resulting in a local “license digest.” Microsoft’s Product Activation software compares the local license digest and the remote license digest; if they match, the software product is activated. If they do not, the software returns to pre-Product Activation mode.
+ 
+
+C. Procedural History
+In the first iteration of this case, the district court issued a claim construction *1300 ruling, construing several terms that are relevant to the instant appeal. Uniloc USA, Inc. v. Microsoft Corp., 447 F.Supp.2d 177 (D.R.I.2006) (“Uniloc I Claim Construction ”). These appear below.
+ 
+
+“Licensee unique ID”
+ 
+
+“A unique identifier associated with a licensee.” Id. at 183.
+ 
+
+“Local licensee unique ID generating means” and “Remote
+licensee unique ID generating means”
+ 
+
+Means plus function. “Function: to generate a local or remote licensee unique ID” and “Structure: a summation algorithm or a summer and equivalents thereof.” Id. at 190.
+ 
+
+“Use mode”
+ 
+
+“A mode that allows full use of the digital data or software in accordance with the license.” Id. at 196.
+ 
+
+“Mode switching means”
+ 
+
+Means plus function. “Function: to permit the digital data or software to run in a use mode if the locally generated licensee unique ID matches with the remotely generated licensee unique ID.” and “Structure: program code which performs a comparison of two numbers or a comparator and equivalents thereof.” Id. at 198 (synonyms in the claim construction not relevant to the claim at issue are removed for simplicity).
+ 
+
+“Registration system”
+ 
+
+“A system that allows digital data or software to run in a use mode on a platform if and only if an appropriate licensing procedure has been followed.” Id. at 202.
+ 
+
+
+The district court granted summary judgment of non-infringement, Uniloc USA, Inc. v. Microsoft Corp., No. 03–440 (D.R.I. Oct. 19, 2007), concluding that the algorithm used at Microsoft’s remote station to generate a licensee unique ID was not identical to the algorithm used on the user’s local station as required by the last limitation in the claim. Id. at 24.
+On appeal, this court reversed and remanded the finding of non-infringement, holding that Uniloc had put forth “extensive and by no means conclusory” evidence that Microsoft’s Product Activation used the same algorithm at the local and remote sites (respectively, the “local licensee unique ID generating means” and “remote licensee unique ID generating means”), and that the issue of whether the accused products met this limitation should have gone to the jury. Uniloc USA, Inc. v. Microsoft Corp., 290 Fed.Appx. 337, 343 (Fed.Cir.2008) (non-precedential) (“Uniloc I ”). In that appeal, Microsoft presented several alternative grounds for affirmance, including several arguments centered around the lack of any information in that is “uniquely associated with the person” that results in a “licensee unique ID.” Br. of Microsoft Corp. at 37–53, Uniloc I (Mar. 19, 2008). This court held that “the licensee unique ID does not require personal information about the user,” so long as it is “unique,” and not “based solely on platform-related user information.” Uniloc I, 290 Fed.Appx. at 342–43. We explicitly noted that the specification of the ′216 patent “leave[s] open the possibility that vendor-provided information, like Microsoft’s Product Key, could be the basis for a ‘licensee unique ID.’ ” Id. at 344. Microsoft also argued that Product Activation lacked a “licensee unique ID generating means.” This court summarily rejected that argument, noting that “[w]e have considered these arguments [for affirmance on alternative grounds] and conclude they are without merit.” Id. at 342.
+ 
+On remand, the district court first rejected several in limine motions, including a motion by Microsoft to exclude any testimony by Uniloc’s damages expert, Dr. Gemini, under Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579, 589, 113 S.Ct. 2786, 125 L.Ed.2d 469 (1993) and Federal Rule of Evidence 702, for his use of an allegedly arbitrary baseline rate of $10–per–activation, and the use of a 25 percent rule of thumb. Uniloc USA, Inc. v. Microsoft Corp., 632 F.Supp.2d 147, 150–51 (D.R.I. 2009) (“In Limine ”). After a full trial, the jury returned a verdict of infringement and no invalidity of claim *1301 19 of the ′216 patent, and found Microsoft’s infringement to be willful. The jury awarded Uniloc $388 million in damages. In post trial motions, Microsoft asked for: (1) JMOL of invalidity due to anticipation and obviousness; (2) JMOL of non-infringement of the “licensee unique ID generating means” and “registration system”/“mode switching means” limitations; (3) JMOL of non-infringement because Microsoft could not have directly infringed the system because claim 19 requires acts to be taken on the user’s local computer over which Microsoft has no control; (4) JMOL of no willfulness; (5) a new trial on damages for the improper use of the 25% rule of thumb and the entire market value rule; and (6) in the alternative, a new trial on infringement and willfulness.
+ 
+The district court, in a comprehensive and well-reasoned opinion, denied JMOL of invalidity, granted JMOL of non-infringement on the basis of both contested claim limitations, granted JMOL of no willfulness, granted a new trial on damages on the improper use of the entire market value rule, rejected Microsoft’s arguments regarding the 25 percent rule of thumb as having been previously decided, Uniloc II, 640 F.Supp.2d at 184 and n. 42, and granted in the alternative a new trial on infringement and willfulness. The district court also considered and rejected Microsoft’s contentions that it could not directly infringe the asserted claims. The details of the district court’s opinion are discussed more fully below.
+ 
+Uniloc appeals all but the denial of JMOL of invalidity, which Microsoft cross-appeals. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+II. DISCUSSION
+A. Infringement
+[1] [2] To prove infringement, the plaintiff bears the burden of proof to show the presence of every element or its equivalent in the accused device. Lemelson v. United States, 752 F.2d 1538, 1551 (Fed.Cir.1985). The underlying infringement issue is a question of fact reviewed for substantial evidence. Finisar Corp. v. DirecTV Group, Inc., 523 F.3d 1323, 1332 (Fed.Cir.2008).
+ 
+[3] This court’s review of a district court’s grant of JMOL is governed by regional circuit law. Union Carbide Chems. & Plastics Tech. Corp. v. Shell Oil Co., 425 F.3d 1366, 1372 (Fed.Cir.2005). The First Circuit reviews a district court’s denial of JMOL after a jury verdict de novo, asking whether “the evidence points so strongly and overwhelmingly in favor of the moving party that no reasonable jury could have returned a verdict adverse to that party.” Keisling v. SER–Jobs for Progress, Inc., 19 F.3d 755, 759–60 (1st Cir.1994). This court may not evaluate “the credibility of witnesses, resolve conflicts in testimony, or evaluate the weight of the evidence,” but must view the evidence in the light most favorable to Uniloc. Gibson v. City of Cranston, 37 F.3d 731, 735 (1st Cir.1994).
+ 
+Microsoft argues that because there is no dispute about how the accused products work, infringement should be reviewed de novo. Br. of Microsoft Corp. at 18, 22–23 (citing Athletic Alts., Inc. v. Prince Mfg., Inc., 73 F.3d 1573, 1578 (Fed.Cir.1996) (“Where, as here, the parties do not dispute any relevant facts regarding the accused product but disagree over which of two possible meanings of Claim 1 is the proper one, the question of literal infringement collapses to one of claim construction, and should thus be reviewed de novo.”) and General Mills, Inc. v. Hunt–Wesson, Inc., 103 F.3d 978, 983 (Fed.Cir.1997) (similar)). It is well-settled that infringement is a factual issue, reviewed for substantial evidence. E.g.  *1302 Finjan, Inc. v. Secure Computing, Corp., 626 F.3d 1197 (Fed.Cir.2010); Connell v. Sears, Roebuck & Co., 722 F.2d 1542, 1546 (Fed.Cir.1983). The cases cited by Microsoft involve a procedural posture not present in this case. As this court noted in International Rectifier Corp. v. IXYS Corp., 361 F.3d 1363, 1374 (Fed.Cir.2004), the infringement issue in General Mills collapsed into claim construction because “the parties agreed with each other and the district court about how each of two competing claim constructions would apply to the undisputed structure of the accused invention.” In other words, the parties conceded that under one claim construction there was infringement and under the other there was none, and were arguing only over which claim construction was appropriate. The infringement issue in Athletic Alternatives also came to this court with the same posture. See 73 F.3d at 1581 (“We conclude that Claim 1 of the ′097 patent includes the limitation that the splay-creating string end offset distance take on at least three values, i.e., a minimum, a maximum, and at least one intermediate value. We thus affirm the district court’s conclusion that Claim 1 does not literally read on the Vortex racket.”). As discussed below, this case presents the opposite procedural posture; the claim construction itself is not contested, but the application of that claim construction to the accused device is. Thus, this court applies the traditional rule for review of jury verdicts of factual issues discussed above.
+ 
+This case presents three primary infringement issues: 1) whether the accused products contain “licensee unique ID generating means”; 2) whether the accused products contain a “registration system” with a “mode switching means” that precludes full use of the software unless the outputs of the local and remote algorithms match; and 3) whether Microsoft can be liable for direct infringement when it has no control over the user’s computer.
+ 
+
+1. “Licensee Unique ID Generating Means”
+The ′216 patent specification describes the licensee unique ID generating means as an algorithm that functions by “combin[ing] by addition the serial number 50 with the software product name 64 and customer information 65 and previous user identification 22 to provide registration number 66.” Id. col. 11 ll.53–56. The district court’s construction of “licensee unique ID generating means” is undisputed on appeal: it is a means plus function claim, with the function being “to generate a local or remote licensee unique ID” and the structure being “a summation algorithm or a summer and equivalents thereof.” Uniloc I Claim Construction, 447 F.Supp.2d at 190.
+ 
+The district court determined that no reasonable jury could find that the accused products were summation algorithms, and granted JMOL of non-infringement. The district court gave seven reasons for its decision: (1) the “circular shifting and mixing functions fundamentally create a more secure result compared to an algorithm based in summation as the specification discloses,” Uniloc II, 640 F.Supp.2d at 170; (2) summation is reversible and MD5 is irreversible and much more complicated, id. (citing Business Objects, S.A. v. Microstrategy, Inc., 393 F.3d 1366, 1370 (Fed.Cir.2005)); (3) “MD5 achieves its function in a way an algorithm based in summation could not,” id.; (4) the ′216 patent contained only a narrow structural disclosure that is not entitled to a broad scope, id. at 171; (5) the documentary evidence presented by Uniloc did not show what “the complex hashes in this case actually do, and whether that is equivalent to the ‘by addition’ structure Uniloc disclosed,” id. at 172; (6) Uniloc did not put forth expert opinion interpreting the documents, except for Klausner’s presentation of “factual information *1303 under the guise of opinion,” id. at 172 and n. 25 (citing Centricut, LLC v. Esab Grp., Inc., 390 F.3d 1361, 1369–70 (Fed.Cir.2004), but noting that case is “not a perfect fit”); and (7) “[t]he jury ‘lacked a grasp of the issues before it,’ ” id. at 173 (citing Tex. Instruments Inc. v. Cypress Semiconductor Corp., 90 F.3d 1558, 1570 (Fed.Cir.1996)) because it “ignored Dr. Wallach’s admittedly complex explanation and embraced Mr. Klausner’s” “incomplete, oversimplified and frankly inappropriate explanation,” id. at 170 n. 21.
+ 
+Uniloc argues that a reasonable jury could have concluded that MD5 and SHA1 were summation algorithms within the meaning of the ′216 patent, and that the district court erred in granting JMOL of non-infringement. The jury heard two sets of evidence in favor of Uniloc’s contention that MD5 and SHA1 were summation algorithms. First, Dr. Klausner, Uniloc’s expert, testified that MD5 makes a digest of the message it receives
+by doing addition and multiplication in a series of rounds over and over again. It takes a piece of the input, adds and shifts it, takes another piece of the input, adds and shifts it. It does a number of other operations, what are called logical operations in mathematics. But the essence is it eventually adds each of the results of these piece-wise operations into a bucket or a hash, and that hash becomes the output of the algorithm.
+He also testified that MD5 uses “two primary kinds of operations to do its work. One is addition, summing; and the other is what we call left shifting ... [which is] actually nothing more than multiplication ... [which] is nothing more than addition done over and over again.” Klausner then identified the source code that was the basis of his understanding that MD5 performed addition, noting that “I’m not saying that that’s all that MD5 does, but that’s a significant portion of the MD5 algorithm.” Second, the jury saw documentary evidence identifying MD5 as, or equating it to, a summation algorithm. For example, in Microsoft’s Windows Protocols Master Glossary, one entry reads “checksum: A value that is the summation of a byte stream. By comparing the checksums computed from a data item at two different times, one can quickly assess whether the data items are identical.” That same document equates “hashes” and “checksums,” and notes that “[w]ell-known hash algorithms for computer hashes include MD4, MD5, and SHA1.” Other Microsoft documents also refer to the outcome of the MD5 algorithm as a “checksum.” See Kenneth Pfeil, Data Security and Data Availability in the Administrative Authority, Microsoft TechNet, available at http://technet.microsoft.com/en-us/library/cc 722918.aspx (“Hashing. Hashing is also referred to as MD5 checksum.”). See also Windows Driver Kit: Network Devices and Protocols: NDIS_TASK_IPSEC, MSDN, updated document available at http://msdn.microsoft.com/en-us/library/ff 558990.aspx (“MD5 Set by a miniport driver to indicate that its NIC can use the keyed MD5 algorithm for computing and/or validating a cryptographic checksum for an AH payload and/or ESP payload.”). In addition, Uniloc relied on U.S. Patent No. 6,263,432 (“′432 patent”), which, in describing the procedure for generating a secure e-ticket, includes the following step:
+In this example, each of the four fields in the ‘eticket’ framework 302 and user extension 304 include data represented by the number ‘1’ in step S1. The message Digest/Hash is represented by a summation (Σ) algorithm (equated to, or exemplary of, the MD5 protocol or other hashing algorithm). Hence, to calculate the Message Digest/Hash, a summation *1304 algorithm is implemented using all eight fields of data in step 2.
+′432 patent col. 9 ll.50–57.
+ 
+Uniloc also argues that the district court improperly narrowed the claim construction on JMOL from “summation algorithm” to a “simple combination of inputs by addition,” Uniloc, 640 F.Supp.2d at 170, which was improper under Hewlett–Packard Co. v. Mustek Sys., Inc., 340 F.3d 1314, 1320 (Fed.Cir.2003).
+ 
+Microsoft counters with three arguments. First, Uniloc’s interpretation of “summation algorithm” would be so broad as to cover any algorithm with a plus sign, and would be akin to adopting the rejected claim construction of licensee unique ID generating means as simply “an algorithm.” Microsoft argues that such a broad reading is inconsistent with the patent, which disclosed only the specific structure where “the algorithm, in this embodiment, combines by addition,” ′216 patent, col. 11 ll.53–56. Second, Microsoft notes that its expert, Dr. Wallach, established that the algorithms as a whole are not “summation algorithm[s]” because neither circular shifting nor the logical operations of MD5 and SHA1 are addition-based, and that his testimony was unrebutted, because the district court prevented Uniloc’s expert, Dr. Klausner, from opining that MD5 and SHA1 were summation algorithms within the scope of claim 19 of the ′216 patent. Finally, Microsoft contrasts the purpose of MD5 and SHA1—to irreversibly scramble the data so that the inputs cannot be derived—with the purpose of the summation algorithms in the ′216 patent, to put data together by addition.
+ 
+[4] As this court held in Uniloc I, 290 Fed.Appx. at 342, there was substantial evidence for a jury to conclude that the output of the MD5 and SHA1 algorithms was a licensee unique ID. Thus, both MD5 and the summation algorithm in the ′216 patent perform the same function of generating a licensee unique ID. It is also undisputed that MD5 and SHA1 use some addition to perform this function. Uniloc II, 640 F.Supp.2d at 168. Thus, the issue is whether the additional structural components of MD5 and SHA1 preclude a reasonable jury from finding that they are “summation algorithm[s].” This court agrees with Uniloc that they do not.
+ 
+First, the breadth of claim 19 is not as narrow as Microsoft argues and the district court concluded. “The literal scope of a properly construed means-plus-function limitation does not extend to all means for performing a certain function. Rather, the scope of such claim language is sharply limited to the structure disclosed in the specification and its equivalents.” J & M Corp. v. Harley–Davidson, Inc., 269 F.3d 1360, 1367 (Fed.Cir.2001). Nevertheless, in determining equivalence under § 112 ¶ 6, “the range of permissible equivalents depends upon the extent and nature of the invention.” IMS Tech., Inc. v. Haas Automation, Inc., 206 F.3d 1422, 1436 (Fed.Cir.2000) (citing Tex. Instruments, Inc. v. ITC, 805 F.2d 1558, 1563 (Fed.Cir.1986)). “More particularly, when in a claimed ‘means’ limitation the disclosed physical structure is of little or no importance to the claimed invention, there may be a broader range of equivalent structures than if the physical characteristics of the structure are critical in performing the claimed function in the context of the claimed invention.” Id. The structural disclosure in the ′216 patent is not limited to simple addition in the colloquial sense of adding numbers together and nothing more. In the sixth embodiment, from which the summation structure was derived, the algorithm “combines by addition the serial number 50 with the software product name 64 and customer information 65 and previous user identification 22 to provide registration number.” ′216 patent col.11 ll.54–57. This “combination by addition” *1305 necessarily incorporates an initial step of converting the information into a common format to be added, which requires more than simple addition. Moreover, there is no indication that the summation structure was critical to the ′216 patent’s licensee unique ID generating means algorithm’s function of generating a licensee unique ID. In fact, the ′ 216 patent repeatedly refers to the licensee unique ID generating means by the generic phrase, “an algorithm,” e.g. ′216 patent col.2 ll.65–66, and makes clear that the importance of the algorithm is only that it be “adapted to generate a registration number which is unique to an intending licensee.” Id. col.2 ll.66–67. It may well be that the structural disclosure of the licensee unique ID generating means limitation is minimal because of the relative unimportance of the particular structure of that element. This does not, as Microsoft argues, result in pure functional claiming, nor expand the claim construction to Uniloc’s proposed and rejected one of “an algorithm.” Declining to limit the construction to simple addition does not also extend the claims to any algorithm that includes a plus sign; the construction retains its explicit limitation that the algorithm used be fairly capable of categorization as “a summation algorithm.”
+ 
+Second, a jury could reasonably determine that MD5 and SHA1 were not as radically different from the summation algorithm disclosed in the ′216 as Microsoft and the district court determined them to be. Klausner testified that the “essence” of MD5 is that it “adds each of the results of [the logical operations and shifts] into a bucket or hash,” and that addition is one of the “two primary kinds of operations [that MD5 performs],” and the second is left shifting, which he equated to multiplication, which he testified “is nothing more than addition done over and over again.” To be sure, Microsoft’s Dr. Wallach disagreed with Klausner’s testimony, choosing to focus on the logical functions, which he called the “heart and soul that makes MD5 what it is,” and the circular shifter, both of which he opined were not “summation.” However, Microsoft has not explained why all the steps of an algorithm must be summation steps in order for the algorithm to qualify as a summation algorithm. The jury could reasonably have believed that MD5 is a summation algorithm. As this court noted in IMS Tech., “though two structures arguably would not be considered equivalent structures in other contexts, e.g., if performing functions other than the claimed function,” they may nevertheless be equivalent under § 112 ¶ 6 when performing the same function. 206 F.3d at 1436. Here, the claimed function is the generation of a licensee unique ID, see infra section I.C, and if as Klausner testified, MD5 uses addition to perform this function, the enhanced functionality of MD5 in making the output more secure should not prevent it from being considered an equivalent structure. Microsoft’s argument that because MD5 is irreversible it cannot be a summation algorithm—such that even if “you know the output of the algorithm, it is impossible even to guess any one input that would create the output,” Br. of Microsoft at 21—is likewise unconvincing, because the same is true of the most basic simple addition algorithm (e.g., it is impossible to identify the two numbers whose sum is 23).
+ 
+[5] [6] Third, the district court improperly rejected Klausner’s testimony as “incomplete, oversimplified and frankly inappropriate,” justifying its rejection by Klausner’s failure to discuss hashing, summation, or left-shifting in his expert report, and his analogizing of an MD5 digest to a Reader’s Digest book. Uniloc II, 640 F.Supp.2d at 170 n. 21. In common with the other circuits, First Circuit law does not allow the district court in a jury trial to *1306 evaluate “the credibility of witnesses, resolve conflicts in testimony, or evaluate the weight of the evidence.” Gibson, 37 F.3d at 735. Under Daubert, the district court must exercise its “gatekeeper” function in ensuring that scientific testimony is relevant and reliable. Kumho Tire Co. v. Carmichael, 526 U.S. 137, 137, 119 S.Ct. 1167, 143 L.Ed.2d 238 (1999) (discussing Daubert v. Merrell Dow Pharm., Inc., 509 U.S. 579, 589, 113 S.Ct. 2786, 125 L.Ed.2d 469 (1993)). Here, the district court explicitly noted that Klausner was “qualified.” Uniloc II, 640 F.Supp.2d at 172 n. 25. It is decidedly the jury’s role to evaluate the weight to be given to the testimony of dueling qualified experts. i4i Ltd. P’ship v. Microsoft Corp., 598 F.3d 831, 856 (Fed.Cir.2010), cert. granted, 562 U.S. ––––, 131 S.Ct. 647, 178 L.Ed.2d 476 (2010) (“[I]t is not the district court’s role under Daubert to evaluate the correctness of facts underlying an expert’s testimony.”). The district court’s criticism of Klausner’s use of the analogy of a digest to a “reader’s digest” is also improper, because Microsoft did not object at trial and has used the same analogy in describing the output of SHA1 as a “hash digest, where digest indicates a shortened size, similar to Reader’s Digest condensed books.”
+ 
+Klausner’s testimony was certainly a simplification of the functioning of MD5, but neither the district court nor Microsoft demonstrate why it was “oversimplified,” Uniloc II, 640 F.Supp.2d at 171 n. 21, or even why it was inaccurate. Klausner recognized that summation was not all that MD5 did, but opined that it was “a significant portion of the MD5 algorithm.”
+ 
+Finally, Microsoft’s attacks on the documentary evidence presented by Uniloc are unwarranted. In particular, the contemporaneous Microsoft documents that define the output of MD5 as a “checksum,” or “cryptographic checksum,” or indicate that MD5 is indicative of a summation algorithm, ′432 patent col. 9 ll.50–57, help to associate the MD5 procedure within the reasonable bounds of the word “summation.” It is reasonable to consider MD5 a summation algorithm where those skilled in the art refer to its output as a “hashsum ” or an “MD5 sum.” Dr. Wallach had the opportunity to respond at trial. For example, in discussing Microsoft’s TechNet document, which included an entry, “Hashing. Hashing is also referred to as MD5 checksum,” Dr. Wallach and Uniloc’s attorney engaged in the following colloquy:
+Q. Thank you. And so, then, apparently, you disagree that it would be fair to say that a—that an MD5 is a checksum?
+A. MD5 is a cryptographic checksum. It’s a specialized kind of checksum.
+Q. No, no, I didn’t ask that question.
+A. Yes, you did.
+Q. I said would you agree that it would be fair to refer to the MD5 as just a checksum, as specifically done in Microsoft’s document here?
+A. Computer scientists would call MD5 a cryptographic checksum to distinguish it from other kinds of checksums.
+Microsoft has failed to show why a reasonable jury could not have rejected this distinction. Moreover, the district court’s response to these documents is puzzling. The district court acknowledged that “[s]ome of these documents no doubt say that MD5 and SHA–1 are a type of hash, or checksum,” but noted that the documents did not show what “the complex hashes in this case actually do,” Uniloc II, 640 F.Supp.2d at 172. However, MD5 and SHA–1 are the complex hashes in this case.
+ 
+For the above reasons, this court concludes that a reasonable jury could rely on Klausner’s testimony and the documentary evidence to conclude that MD5 and SHA1 *1307 were “summation algorithm[s]” as that phrase is used in the context of the ′216 patent.
+ 
+
+2. “Registration System” and “Mode Switching Means”
+In the alternative, the district court granted JMOL of non-infringement because of Product Activation’s failure to incorporate a “registration system” or “mode switching means” using the following constructions:
+ 
+
+“Mode switching means”
+ 
+
+Means plus function. “Function: to permit the digital data or software to run in a use mode if the locally generated licensee unique ID matches with the remotely generated licensee unique ID.” and “Structure: program code which performs a comparison of two numbers or a comparator and equivalents thereof.” Uniloc I Claim Construction, 447 F.Supp.2d at 198 (synonyms in the claim construction not relevant to the claim at issue are removed for simplicity).
+ 
+
+“Registration system”
+ 
+
+“A system that allows digital data or software to run in a use mode on a platform if and only if an appropriate licensing procedure has been followed.” Id. at 202.
+ 
+
+“Use mode”
+ 
+
+“A mode that allows full use of the digital data or software in accordance with the license.” Id. at 196.
+ 
+
+
+These constructions are undisputed on appeal. It is also undisputed that the relevant “license” in the definition of “use mode” is the EULA, to which the user agrees prior to initiation of Product Activation in the accused product. The crux of the question is whether the use of the accused products before Product Activation constitutes full use in accordance with the EULA.
+Microsoft argues that the legal licensing occurred at the time the EULA was accepted by the user, and that whatever use this permitted was full use in accordance with the license. In other words, because the terms of the EULA only give the user the right to use the accused products with certain temporal and functional restrictions, such restricted use is “full use” under the terms of the EULA, and “fulfill[s] the seller’s/licensor’s obligations in relation to the sale or license of the right to execute the digital data or software in the use mode.” ′216 patent col. 2 ll.42–44. Microsoft contrasts its system with that disclosed in the ′216 patent, which it says is limited to systems in which legal licensing and registration occur concurrently.
+ 
+The district court agreed with Microsoft, holding that once the user agrees to the EULA, “the user becomes a licensee, and can use the software in accordance with the terms of the license, and with the provided functionality.... Activation itself simply opens additional doors which were previously locked to the licensee.” Uniloc II, 640 F.Supp.2d at 175–77.
+ 
+[7] Microsoft’s argument ultimately fails because it rests on the false factual premise that the functionality during the “grace period” between the EULA and Product Activation satisfies Microsoft’s obligations under the EULA. This factual premise is false for three reasons. First, the EULA accompanying Microsoft Office states: “Mandatory Activation. You may not be able to exercise Your rights to the Software Product under this EULA after a finite number of product launches unless You activate Your copy of the Software Product in the manner described during the launch sequence.” This sentence indicates that “rights ... under this EULA” are restricted unless the product is activated, and do not encompass some abstract right to full functionality. Consistently, the Windows EULA, in a clause discussing “Mandatory Activation” notes that “[t]he license rights granted under this EULA are limited to the first thirty (30) days after you first install the Product unless you supply information required to activate *1308 your licensed copy.” These “license rights granted under this EULA” are rights that had already been defined by the EULA without temporal or functional restrictions: “You may install, use, access, display and run one copy of the Product on a single computer,” subject only to limitations on the number of processors and computers that may use the program. Second, both the Windows license (“Microsoft grants you the following rights provided that you comply with all terms and conditions of this EULA”) and the Office license (“The license rights described in this Section are subject to all other terms and conditions of this EULA”) are conditional. Both also note that Product Activation is “[m]andatory.” Thus, unless the user activates the product, she is not entitled to the rights granted by the EULA. Finally, Klausner testified that unless the accused products are activated, they cannot receive product updates or upgrades. However, the Windows EULA allows a user to install “updates, supplements, add-on components, or Internet-based services components, of the Product that Microsoft may provide to you or make available to you after the date you obtain your initial copy of the Product.” Thus, in order to have “full use ... in accordance with the license,” the user must have access to these upgrades. This only occurs upon activation.
+ 
+This court thus concludes that use during the “grace period” after agreement to the EULA and before Product Activation in the accused product does not constitute full use in accordance with the EULA. It is undisputed that Product Activation lifts all the grace period restrictions if and only if the information entered indicates a legitimate copy of Office or Windows.
+ 
+Moreover, the ′216 patent is not limited to the situation where activation and licensing are concurrent. In the preferred embodiment shown in Figures 2a-c, the registration system requires the user to view the license and to “continue” with the registration, far upstream of the activation. Until the user inputs confirmed payment details and plugs in a valid registration number, only the “demo version” of the software will run. Once the user performs these steps, the registration system switches the software into the “full version.” ′216 patent, Figs. 2a-c.
+ 
+For the above reasons, the jury had substantial evidence to find that Microsoft’s Product Activation included a “registration system” and “mode switching means,” and thus the district court erred in granting JMOL of non-infringement on the basis of this limitation.
+ 
+
+3. Alternative Ground for Affirmance: Licensee Unique ID
+Microsoft also argues as an alternative ground for affirmance of JMOL that the output of its MD5 and SHA1 algorithms was not a licensee unique ID as required by claim 19 of the ′216 patent because it was not “associated with a licensee.” This argument was sufficiently addressed and decided against Microsoft by this court in the prior appeal, and is thus law of the case here. Uniloc I, 290 Fed.Appx. at 345 (reversing summary judgment of non-infringement and holding that the output of Product Activation “generate[s] what might qualify as a licensee unique ID, the hash value”).
+ 
+
+4. Alternative Ground for Affirmance: Direct Infringement
+Microsoft presents an alternative ground for affirmance of JMOL of non-infringement, on the basis that Uniloc failed to prove direct infringement because Microsoft did not supply or use the end-users’ computers that implemented the local licensee unique ID generating means and mode switching means. Microsoft relies *1309 primarily on Cross Medical Products, Inc. v. Medtronic Sofamor Danek, Inc., 424 F.3d 1293 (Fed.Cir.2005), and a line of cases including Muniauction, Inc. v. Thomson Corp., 532 F.3d 1318 (Fed.Cir.2008) and BMC Res., Inc. v. Paymentech, L.P., 498 F.3d 1373 (Fed.Cir.2007). The district court rejected this argument in its JMOL opinion.
+ 
+Microsoft’s argument is severely hampered by the language of claim 19. Claim 19 is directed to “A remote registration station incorporating remote licensee unique ID generating means, said station forming part of a registration system ... including local licensee unique ID generating means....” ′216 patent col.15 ll.21–26. As we noted in BMC, “[a] patentee can usually structure a claim to capture infringement by a single party,” by “focus[ing] on one entity.” 498 F.3d at 1381. This is exactly what Uniloc did in claim 19, which focuses exclusively on the “remote registration station,” and defines the environment in which that registration station must function. It cannot be disputed that during each Product Activation, Microsoft “uses” a “remote registration station” that incorporates a “remote licensee unique ID generating means,” and this station forms part of a “registration system” that also includes a “local licensee unique ID generating means” and a “mode switching means.” That other parties are necessary to complete the environment in which the claimed element functions does not necessarily divide the infringement between the necessary parties. For example, a claim that reads “An algorithm incorporating means for receiving e-mails” may require two parties to function, but could nevertheless be infringed by the single party who uses an algorithm that receives e-mails.
+ 
+The claim here is thus distinguishable from those at issue in Muniauction and BMC, because here, only one party, Microsoft, makes or uses the remote registration station. See Muniauction, 532 F.3d at 1329; BMC, 498 F.3d at 1373. Nor is claim 19 analogous to the claim at issue in Cross Medical. There, the claim called for “[a] fixation device comprising ... an anchor seat means which has a lower bone interface operatively joined to said bone segment.” 424 F.3d at 1299 (citing U.S. Patent No. 5,474,555 col. 8 ll.33–41). This court construed “operatively joined” to mean that the interface and the bone must be in contact, id. at 1305, and held that Medtronic did not infringe the claims because “Medtronic does not itself make an apparatus with the ‘interface’ portion in contact with bone,” id. at 1311. Here, however, Microsoft does make and use the remote registration station in the environment required by the claims, when the MD5 and SHA1 generate a remote licensee unique ID. Moreover, this court agrees with the district court that “[a]ccepting Microsoft’s argument that the local side of Claim 19 requires an end-user’s participation, similar to the surgeons’ participation in Cross Medical, would be akin to importing a method step into this software system—something the language of Claim 19 does not support.” Uniloc II, 640 F.Supp.2d at 162.
+ 
+
+5. New Trial on Infringement Issues
+Citing the closeness of the questions presented on JMOL in this case, the district court also granted in the alternative Microsoft’s motion for a new trial on infringement.
+ 
+[8] [9] This court’s standard of review over a district court’s grant of a motion for new trial is governed by regional circuit law. WMS Gaming, Inc. v. Int’l Game Tech., 184 F.3d 1339, 1361 (Fed.Cir.1999). In the First Circuit, a new trial is only appropriate when “the outcome is against the clear weight of the evidence such that upholding the verdict will result in a miscarriage *1310 of justice.” Ramos v. Davis & Geck, Inc., 167 F.3d 727, 731 (1st Cir.1999). In contrast to JMOL, in considering a motion for a new trial, the district court may “independently weigh the evidence.” Jennings v. Jones, 587 F.3d 430, 436 (1st Cir.2009).
+ 
+[10] “[A] district judge cannot displace a jury’s verdict merely because he disagrees with it or because a contrary verdict may have been equally supportable. As we have repeatedly observed, trial judges do not sit as thirteenth jurors, empowered to reject any verdict with which they disagree.” Id. (internal citation omitted). Nevertheless, the district court is entitled to deference in granting a new trial motion, and the First Circuit only overturns the grant of a new trial if the district court has abused its discretion. Id. at 435 (citing Gasperini v. Ctr. For Humanities, Inc., 518 U.S. 415, 435, 116 S.Ct. 2211, 135 L.Ed.2d 659 (1996)). As the Supreme Court noted, “[t]rial judges have the unique opportunity to consider the evidence in the living courtroom context, while appellate judges see only the cold paper record.” Gasperini, 518 U.S. at 438, 116 S.Ct. 2211.
+ 
+The district court granted Microsoft’s motion for a new trial on the infringement issues in the alternative to its JMOL motion, and did not present any analysis apart from its analysis of the JMOL infringement issues discussed above. This court is convinced that the district court’s grant of a new trial on infringement has no more merit than the district court’s grant of JMOL on infringement. Though it is a close issue, this is not a situation where the evidence falls within the zone where substantial evidence supports the verdict and the district court’s discretion in granting a new trial trumps such evidence. This court thus reverses the district court’s grant of a new trial on infringement for the same reasons as it reverses the grant of JMOL of non-infringement.
+ 
+
+B. JMOL and New Trial for Willfulness
+[11] “[T]o establish willful infringement, a patentee must show by clear and convincing evidence that the infringer acted despite an objectively high likelihood that its actions constituted infringement of a valid patent.” In re Seagate Tech., LLC, 497 F.3d 1360, 1371 (Fed.Cir.2007) (en banc). This is an objective inquiry. Id. In addition, a patentee must show that this risk “was either known or so obvious that it should have been known to the accused infringer.” Id. This is a subjective inquiry.
+ 
+The district court concluded that no reasonable jury could have found that Microsoft’s conduct fell under either Seagate prong. Uniloc II, 640 F.Supp.2d at 176–77 (objective prong), 177–79 (subjective prong). If the accused infringer’s position is susceptible to a reasonable conclusion of no infringement, the first prong of Seagate cannot be met. See Cohesive Techs., Inc. v. Waters Corp., 543 F.3d 1351, 1374 (Fed.Cir.2008) (“Because ‘rigid’ was susceptible to a reasonable construction under which Waters’s products did not infringe, there was not an objectively high likelihood that Waters’s actions constituted infringement.”).
+ 
+[12] Uniloc has failed to meet the threshold objective prong of Seagate. Uniloc has not presented any evidence at trial or on appeal showing why Microsoft, at the time it began infringement, could not have reasonably determined that MD5 and SHA1 did not meet the “licensee unique ID generating means,” “licensee unique ID,” or “registration system”/“mode switching means” limitations. Specifically, infringement of the “licensee unique ID generating means” limitation is a complicated issue, made more so because “equivalence requires an intensely factual *1311 inquiry,” DePuy Spine, Inc. v. Medtronic Sofamor Danek, Inc., 567 F.3d 1314, 1337 (Fed.Cir.2009). Uniloc’s argument about copying is largely inapposite. See id. at 1336 (“[E]vidence of copying in a case of direct infringement is relevant only to Seagate’s second prong.”). As the district court noted, the facts here presented are “hardly the stuff of which objectively reckless unreasonable conduct is made.” Uniloc II, 640 F.Supp.2d at 177.
+ 
+Given this court’s conclusion that Uniloc failed to show that a reasonable jury could find Microsoft’s conduct objectively reckless on the evidence presented, this court need not address the subjective prong of Seagate. This court thus affirms the district court’s grant of JMOL of no willfulness, and need not address the district court’s alternative grant of a new trial on willfulness.
+ 
+
+C. New Trial on Damages
+The jury here awarded Uniloc $388 million, based on the testimony of Uniloc’s expert, Dr. Gemini. Dr. Gemini opined that damages should be $564,946,803. This was based on a hypothetical negotiation between Uniloc and Microsoft and the Georgia–Pacific factors. See Georgia–Pacific Corp. v. U.S. Plywood Corp., 318 F.Supp. 1116 (S.D.N.Y.1970). Gemini began with an internal pre-litigation Microsoft document that stated:
+Product Keys are valuable for two major reasons. First, since Product Keys can be used to install a product and create a valid Product ID, you can associate a monetary value to them. An appraisal process found that a Product Key is worth anywhere between $10 and $10,000 depending on usage. Secondly, Product Keys contain short digital signature technology that Microsoft Research created. For these reasons, it is crucial that Product Keys are handled with maximum security.
+In Limine, 632 F.Supp.2d at 150 n. 2. Gemini took the lowest value, $10, and testified that this is “the isolated value of Product Activation.” Gemini then applied the so-called “25 percent rule of thumb,” hypothesizing that 25% of the value of the product would go to the patent owner and the other 75% would remain with Microsoft, resulting in a baseline royalty rate of $2.50 per license issued. Gemini justified the use of the rule of thumb because it has “been accepted by Courts as an appropriate methodology in determining damages, in [his] experience, in other cases.” He then considered several of the Georgia–Pacific factors, with the idea being “to adjust this 25% up or down depending on how [the Georgia–Pacific factors] favor[ ] either party.” At bottom, he concluded that the factors in favor of Uniloc and Microsoft generally balanced out and did not change the royalty rate. He then multiplied the $2.50 royalty rate by the number of new licenses to Office and Windows products, 225,978,721, to get a final reasonable royalty of $564,946,803. Gemini then “did kind of a check to determine whether that number was reasonable. It’s obviously, you know, a significant amount of money. I wanted to check to make sure it was a reasonable number.” The “check” was performed by “estimating the gross revenues for the accused products” by multiplying the 225,978,721 licenses by the average sales price per license of $85. The resulting gross revenue value was $19.28 billion. Gemini then calculated that his damages calculation resulted in a royalty rate over the gross revenue of Office and Windows of approximately 2.9%. Gemini presented this information in a demonstrative pie chart to accompany his testimony. In response to Uniloc’s attorney’s question: “And have you prepared a chart or a graph or a pie chart to show us this comparison?” Uniloc’s attorney, Mr. Cronin stated, “Your honor, there’s no objection,” *1312 and Microsoft attorney Mr. Scherkenbach stated, “Right, there is no objection.” Gemini then opined that “in my experience, and data I’ve seen as far as industry royalty rates for software, which are generally above—on average, above 10% or 10, 11%, I felt that this royalty was reasonable and well within that range.”
+ 
+Microsoft had challenged the 25% rule in limine and attempted to exclude Mr. Gemini’s testimony. The district court noted that “the concept of a ‘rule of thumb’ is perplexing in an area of the law where reliability and precision are deemed paramount,” but rejected Microsoft’s position because the rule has been widely accepted. The district court thus considered the use of the rule of thumb to be reasonable. In Limine, 632 F.Supp.2d at 151. Microsoft contested Gemini’s use of the entire market value rule “check” because Product Activation was not the basis of the consumer demand for Microsoft’s Office and Windows products. The district court agreed with Microsoft, and granted a new trial on damages, because the “$19 billion cat was never put back into the bag” and the jury may have “used the $19 billion figure to ‘check’ its significant award of $388,000,000.” Uniloc II, 640 F.Supp.2d at 185.
+ 
+On appeal, the parties present the court with three damages issues: 1) the propriety of using the 25 percent rule; 2) application of the entire market value rule as a “check”; and 3) excessiveness of damages. Because this court affirms the district court’s conditional grant of a new trial on damages, this court need not reach the last issue.
+ 
+
+1. 25 Percent Rule
+[13] Section 284 of Title 35 of the United States Code provides that on finding infringement of a valid patent, damages shall “in no event [be] less than a reasonable royalty for the use made of the invention by the infringer, together with interest and costs as fixed by the court.” In litigation, a reasonable royalty is often determined on the basis of a hypothetical negotiation, occurring between the parties at the time that infringement began. Wang Labs. Inc. v. Toshiba Corp., 993 F.2d 858, 869–70 (Fed.Cir.1993). A reasonable royalty is the predominant measure of damages in patent infringement cases. William C. Rooklidge and Martha K. Gooding, When Hypothetical Turns to Fantasy: The Patent Reasonable Royalty Hypothetical Negotiation, BNA Insights Vol. 80:1983, at 701 n. 10 (“Hypothetical Negotiation ”) (citing PriceWaterhouseCoopers, A Closer Look: Patent Litigation Trends and the Increasing Impact of Nonpracticing Entities at 5 (2009)).
+ 
+The 25 percent rule of thumb is a tool that has been used to approximate the reasonable royalty rate that the manufacturer of a patented product would be willing to offer to pay to the patentee during a hypothetical negotiation. Robert Goldscheider, John Jarosz and Carla Mulhern, Use Of The 25 Per Cent Rule in Valuing IP, 37 les Nouvelles 123, 123 (Dec. 2002) (“Valuing IP ”). “The Rule suggests that the licensee pay a royalty rate equivalent to 25 per cent of its expected profits for the product that incorporates the IP at issue.” Id. As explained by its leading proponent, Robert Goldscheider, the rule takes the following form:
+An estimate is made of the licensee’s expected profits for the product that embodies the IP at issue. Those profits are divided by the expected net sales over that same period to arrive at a profit rate. That resulting profit rate, say 16 per cent, is then multiplied by 25 per cent to arrive at a running royalty rate. In this example, the resulting royalty rate would be 4 per cent. Going forward (or calculating backwards, in the case of litigation), the 4 per cent *1313 royalty rate is applied to net sales to arrive at royalty payments due to the IP owner.
+Id. at 124. The underlying “assumption is that the licensee should retain a majority (i.e. 75 percent) of the profits, because it has undertaken substantial development, operational and commercialization risks, contributed other technology/IP and/or brought to bear its own development, operational and commercialization contributions.” Id.
+ 
+The rule was originally based on Goldscheider’s observations of commercial licenses entered into by a “Swiss subsidiary of a large American company, with 18 licensees around the world, each having an exclusive territory.” Id. The rights transferred were a portfolio of patents and other intellectual property apparently related to the patented products. Id. The term of each of these licenses was for three years, with the expectation that the licenses would be renewed. Id. at 123. The licensees “faced strong competition,” and “were either first or second in sales volume, and probably profitability, in their respective market.” Id.
+ 
+According to its proponents, the veracity of the 25 percent rule has been “confirmed by a careful examination of years of licensing and profit data, across companies and industries.” John C. Jarosz, Carla S. Mulhern and Michael Wagner, The 25% Rule Lives On, IP Law360, Sept. 8, 2010. Goldscheider published a further empirical study in 2002, concluding that across all industries, the median royalty rate was 22.6 percent, and that the data supported the use of the 25 percent rule “as a tool of analysis.” Valuing IP, 37 les Nouvelles at 132–33. Additionally, in a 1997 study of licensing organizations, 25 percent of the organizations indicated that they use the 25 percent rule as a starting point in negotiations. Stephen A. Degnan & Corwin Horton, A Survey of Licensed Royalties, 32 les Nouvelles 91, 95 (June 1997).
+ 
+The 25 percent rule has, however, met its share of criticism that can be broadly separated into three categories. First, it fails to account for the unique relationship between the patent and the accused product. See Gregory K. Leonard and Lauren J. Stiroh, Economic Approaches to Intellectual Property Policy, Litigation, and Management, 949 PLI/Pat 425, 454–55 (Sept.–Nov. 2008) (“[The 25 percent rule] takes no account of the importance of the patent to the profits of the product sold, the potential availability of close substitutes or equally noninfringing alternatives, or any of the other idiosyncrasies of the patent at issue that would have affected a real-world negotiation.”); Richard S. Toikka, Patent Licensing Under Competitive and Non–Competitive Conditions, 82 J. Pat. & Trademark Off. Soc’y 279, 292–93 (Apr. 2000) (arguing that it fails to “distinguish between monopoly and normal profit.... Thus for narrow patents, the rule may be overly generous to the patentee, and for broad patents it may be overly stingy”). Second, it fails to account for the unique relationship between the parties. See Ted Hagelin, Valuation of Patent Licenses, Tex. Intell. Prop. L.J. 423, 425–26 (Spring 2004) (noting that the rule should not be used in isolation because it fails to “account[ ] for the different levels of risk assumed by a licensor and licensee”); Hypothetical Negotiations at 702 (“[T]he rule is unlikely to have any basis in the accused infringer’s industry, in the technology involved in either the patent or the accused product or service, or in the claimed invention’s contribution to the infringing product or service.”). Finally, the rule is essentially arbitrary and does not fit within the model of the hypothetical negotiation within which it is based. See Roy J. Epstein and Alan J. Marcus, Economic Analysis of the Reasonable Royalty: *1314 Simplification and Extension of the Georgia–Pacific Factors, 85 J. Pat. & Trademark Off. Soc’y 55, 574 (July 2003) (“[The 25% and the 5%] rules of thumb are best understood as special cases [ ] that may be appropriate to a given situation only by chance.”); Roy J. Epstein, Modeling Patent Damages: Rigorous and Defensible Calculations (2003) (paper presented at the AIPLA 2003 Annual Meeting) at 22 available at http://www. royepstein.com/epstein_aipla_2003_article_website.pdf (last accessed Nov. 19, 2010) (arguing that the 25% rule “shortcut” “is essentially arbitrary. Because it is based on ex post results, it does not necessarily relate to the results of a negotiation that took place prior to the infringement”).
+ 
+The admissibility of the bare 25 percent rule has never been squarely presented to this court. Nevertheless, this court has passively tolerated its use where its acceptability has not been the focus of the case, see e.g., i4i Ltd., 598 F.3d 831; Fonar Corp. v. General Elec. Co., 107 F.3d 1543, 1553 (Fed.Cir.1997), or where the parties disputed only the percentage to be applied (i.e. one-quarter to one-third), but agreed as to the rule’s appropriateness, Finjan, Inc. v. Secure Computing Corp., 626 F.3d 1197, 1210–11(Fed.Cir.2010). Lower courts have invariably admitted evidence based on the 25% rule, largely in reliance on its widespread acceptance or because its admissibility was uncontested. See In Limine, 632 F.Supp.2d at 151 (“The ‘25% Rule’ has been accepted as a proper baseline from which to start [a royalty] analysis.” (internal citations omitted)); GSI Grp., Inc. v. Sukup Mfg., Co., 641 F.Supp.2d 732, 745 (C.D.Ill.2008) (same); i4i Ltd. P’ship v. Microsoft Corp., 670 F.Supp.2d 568, 592 (E.D.Tex.2009), aff’d on other grounds by 598 F.3d 831 (“[i4i’s expert] testified that it was customary within his field to apply a ‘25% rule of thumb’.... Thus, considering the foundation laid by [i4i’s expert’s] testimony, his application of the 25% rule was relevant and appropriate considered.”); Static Control Components, Inc. v. Lexmark Int’l, Inc., Nos. 5:02–571, 5:04–84, 2007 WL 7083655 at *13–14 (E.D.Ky. May 12, 2007) (“While Lexmark does not believe the ‘rule of thumb’ approach is the most appropriate way to calculate ‘reasonable royalty,’ as SCC correctly notes, case law suggests it is one way of doing so” (citing Standard Mfg. Co. v. United States, 42 Fed.Cl. 748, 766 (1999))); Novozymes A/S v. Genencor Int’l, Inc., 474 F.Supp.2d 592, 606 (D.Del.2007) (“While there is no particular analytical justification for [the rule of thumb], it has been used to estimate royalties.”); Inline Connection Corp. v. AOL Time Warner Inc., 470 F.Supp.2d 424, 432 n. 38 (D.Del.2007) (allowing 25% rule because its use was not disputed); Bose Corp. v. JBL, Inc., 112 F.Supp.2d 138, 167 (D.Mass.2000) (“Courts have found the 25%/75% approach to be a useful approach to arriving at a baseline royalty rate.... [The opposing expert] conceded that this approach is a common and reasonable one, though he has never used that approach in negotiating licenses” (citing Standard Mfg., 42 Fed.Cl. at 764)); Standard Mfg., 42 Fed.Cl. at 766 (“[T]he 25% rule or a close variant of it has been recognized by a number of other federal courts as a ‘rule of thumb’ or ‘typical’ in the licensing field.”); Procter & Gamble Co. v. Paragon Trade Brands, Inc., 989 F.Supp. 547, 612 (D.Del.1997) (“Although the Court will consider the Rule–of–Thumb analysis in determining the royalty rate, this approach will not receive substantial weight.”); Secure Energy, Inc. v. Coal Synthetics, LLC, No. 4:08–CV–1719, 2010 WL 1692076 at *1 (E.D.Mo. Apr.27, 2010) (“The parties agree that application of the 25% ‘rule of thumb’ is acceptable to determine a reasonably royalty case such as this.”). See also Paice LLC v. Toyota Motor Corp., 609 F.Supp.2d 620, 629–30 (E.D.Tex.2009) (applying *1315 25% rule without discussion); EZ Dock, Inc. v. Schafer Sys., Inc., No. 98–2364, 2003 WL 1610781 (D.Minn. Mar.8, 2003) (same). In at least one case, the district court admitted the evidence, but refused to give it substantial weight because, “neither expert testified as to the customary profit percentage used to set the royalty rates in licenses in other businesses” and because “[t]here was no testimony advocating the use of the [sic ] this approach as an appropriate guidepost for the determination of a royalty rate under a Georgia–Pacific analysis.” Procter & Gamble Co. v. Paragon Trade Brands, Inc., 989 F.Supp. at 612.
+ 
+In Daubert, 509 U.S. at 589, 113 S.Ct. 2786 and Kumho Tire, 526 U.S. 137, 119 S.Ct. 1167, the Supreme Court assigned to the district courts the responsibility of ensuring that all expert testimony must pertain to “scientific, technical, or other specialized knowledge” under Federal Rule of Evidence (“FRE”) 702, which in turn required the judge to determine that the testimony was based on a firm scientific or technical grounding. Daubert, 509 U.S. at 589–90, 113 S.Ct. 2786; Kumho Tire, 526 U.S. at 148, 119 S.Ct. 1167. “Expert testimony which does not relate to any issue in the case is not relevant and, ergo, non-helpful.” Daubert, 509 U.S. at 591, 113 S.Ct. 2786 (citing 3 Weinstein & Berger ¶ 702[02], p. 702–18).
+ 
+[14] This court now holds as a matter of Federal Circuit law that the 25 percent rule of thumb is a fundamentally flawed tool for determining a baseline royalty rate in a hypothetical negotiation. Evidence relying on the 25 percent rule of thumb is thus inadmissible under Daubert and the Federal Rules of Evidence, because it fails to tie a reasonable royalty base to the facts of the case at issue.
+ 
+[15] The patentee bears the burden of proving damages. Lucent Techs., Inc. v. Gateway, Inc., 580 F.3d 1301, 1324 (Fed.Cir.2009). To properly carry this burden, the patentee must “sufficiently [tie the expert testimony on damages] to the facts of the case.” Daubert, 509 U.S. at 591, 113 S.Ct. 2786 (“An additional consideration under Rule 702—and another aspect of relevancy—is whether expert testimony proffered in the case is sufficiently tied to the facts of the case that it will aid the jury in resolving a factual dispute.”) (citing United States v. Downing, 753 F.2d 1224, 1242 (3d Cir.1985)). If the patentee fails to tie the theory to the facts of the case, the testimony must be excluded. For example, in General Electric Co. v. Joiner, 522 U.S. 136, 118 S.Ct. 512, 139 L.Ed.2d 508 (1997), the Supreme Court allowed the exclusion of eight of Joiner’s experts who opined that polychlorinated biphenyls (“PCBs”) could cause cancer on the strength of several studies showing that mice receiving high doses of PCB developed cancer. The Supreme Court noted that “[t]he studies were so dissimilar to the facts presented in this litigation that it was not an abuse of discretion for the District Court to have rejected the experts’ reliance on them,” id. at 144–45, 118 S.Ct. 512, and affirmed the exclusion because Joiner had failed to tie the experts’ opinions to the “seemingly far-removed animal studies,” id. at 144, 118 S.Ct. 512. Likewise, in Kumho Tire, a products liability case arising out of a blown tire, the Supreme Court affirmed the exclusion of an expert opinion that argued that the cause of the accident at issue was a defect in the tire, based on the expert’s visual and tactile inspection of the tire. 526 U.S. at 153, 119 S.Ct. 1167. The specific issue was not whether the visual and tactile inspection methodology was “reasonable[ ] in general,” but whether “it was [reasonable to] us[e] such an approach ... to draw a conclusion regarding the particular matter to which the expert testimony was directly relevant.” Id. at 153–54, 119 S.Ct. 1167. *1316 “The relevant issue was whether the expert could reliably determine the cause of this tire’s separation.” Id. at 154, 119 S.Ct. 1167. The Court held that the expert had failed to reliably opine on this issue under Daubert because his general theory—“that in the absence of at least two of four signs of abuse ... he concludes that a defect caused the separation,” id.—did not take into account the facts of the particular tire at issue: that the tire “had traveled far enough so that some of the tread had been worn bald; it should have been taken out of service; it had been repaired (inadequately) for punctures; and it bore some of the very marks that the expert said indicated, not a defect, but abuse through overdeflection.” Id. In responding to the plaintiff’s argument, “that a method of tire failure analysis that employs a visual/tactile inspection is a reliable method,” based on “its use by other experts and to Carlson’s [the expert in the case] long experience working for Michelin,” the Court reaffirmed that “the question before the trial court was specific, not general.” Id. The trial court had to decide whether this particular expert had sufficient specialized knowledge to assist the jurors ‘in deciding the particular issues in the case.’ Id. at 156, 119 S.Ct. 1167. The Court held that he did not.
+ 
+The bottom line of Kumho Tire and Joiner is that one major determinant of whether an expert should be excluded under Daubert is whether he has justified the application of a general theory to the facts of the case. Consistent with this conclusion, this court has held that “[a]ny evidence unrelated to the claimed invention does not support compensation for infringement but punishes beyond the reach of the statute.” ResQNet.com, Inc. v. Lansa, Inc., 594 F.3d 860, 869 (Fed.Cir.2010).
+ 
+In ResQNet, Lucent Technologies, 580 F.3d 1301, and Wordtech Systems, Inc. v. Integrated Networks Solutions, Inc., 609 F.3d 1308 (Fed.Cir.2010), this court determined that a patentee could not rely on license agreements that were “radically different from the hypothetical agreement under consideration” to determine a reasonable royalty. Lucent Techs., 580 F.3d at 1327. See also ResQNet, 594 F.3d at 870–72 (holding that evidence of royalty rates from licenses without a relationship to the claimed invention could not form the basis of a reasonable royalty calculation). In Lucent Technologies, the patentee’s expert relied in large part on “eight varied license agreements,” four of which involved “PC-related patents,” but either the specific subject matter of the patents was not explained to the jury or the license was “directed to a vastly different situation than the hypothetical licensing scenario of the present case,” and four of which Lucent did not describe the relationship between the patented technology licensed therein and the licensee’s products. See 580 F.3d at 1328–31. This court noted that the “licenses relied on by the patentee in proving damages [must be] sufficiently comparable to the hypothetical license at issue in suit,” id. at 1325, and that the patentee’s failure to do so “weighs strongly against the jury’s award” relying on such non-comparable licenses, id. at 1332. Similarly, in ResQNet, the patentee’s expert “used licenses with no relationship to the claimed invention to drive the royalty rate up to unjustified double-digit levels,” looking at licenses that did not mention the patents and had no “other discernible link to the claimed technology.” 594 F.3d at 870. This court rejected the expert’s testimony, holding that the district court “must consider licenses that are commensurate with what the defendant has appropriated. If not, a prevailing plaintiff would be free to inflate the reasonable royalty analysis with conveniently selected licenses without an economic or other link to the technology *1317 in question.” Id. at 872. This court held that on remand, “the trial court should not rely on unrelated licenses to increase the reasonable royalty rate above rates more clearly linked to the economic demand for the claimed technology.” Id. at 872–73.
+ 
+Similarly, in Wordtech, the patentee “introduced thirteen patent licenses that it previously granted to third parties for rights to some or all of the patents-in-suit” to argue to support the jury’s damages determination. 609 F.3d at 1319. This court rejected eleven of the licenses because they were running royalty licenses (the patentee had only asked for a lump sum payment) and represented far lower rates than the jury returned. Id. at 1320–21. This court rejected the remaining two licenses (both for lump sum payments) because “[n]either license describe[d] how the parties calculated each lump sum, the licensees’ intended products, or how many products each licensee expected to produce.” Id. at 1320.
+ 
+The meaning of these cases is clear: there must be a basis in fact to associate the royalty rates used in prior licenses to the particular hypothetical negotiation at issue in the case. The 25 percent rule of thumb as an abstract and largely theoretical construct fails to satisfy this fundamental requirement. The rule does not say anything about a particular hypothetical negotiation or reasonable royalty involving any particular technology, industry, or party. Relying on the 25 percent rule of thumb in a reasonable royalty calculation is far more unreliable and irrelevant than reliance on parties’ unrelated licenses, which we rejected in ResQNet and Lucent Technologies. There, the prior licenses at least involved the same general industry and at least some of the same parties as the hypothetical negotiations at issue, and in Wordtech even involved licenses to the patents in suit entered into by the patentee-plaintiff. Lacking even these minimal connections, the 25 percent rule of thumb would predict that the same 25%/75% royalty split would begin royalty discussions between, for example, (a) TinyCo and IBM over a strong patent portfolio of twelve patents covering various aspects of a pioneering hard drive, and (b) Kodak and Fuji over a single patent to a tiny improvement in a specialty film emulsion.
+ 
+It is of no moment that the 25 percent rule of thumb is offered merely as a starting point to which the Georgia–Pacific factors are then applied to bring the rate up or down. Beginning from a fundamentally flawed premise and adjusting it based on legitimate considerations specific to the facts of the case nevertheless results in a fundamentally flawed conclusion. This is reflected in Lucent Technologies, in which unrelated licenses were considered under Georgia–Pacific factor 1, but this court held that the entire royalty calculation was unsupported by substantial evidence.
+ 
+[16] To be admissible, expert testimony opining on a reasonable royalty rate must “carefully tie proof of damages to the claimed invention’s footprint in the market place.” ResQNet, 594 F.3d at 869. This court has sanctioned the use of the Georgia–Pacific factors to frame the reasonable royalty inquiry. Those factors properly tie the reasonable royalty calculation to the facts of the hypothetical negotiation at issue. This court’s rejection of the 25 percent rule of thumb is not intended to limit the application of any of the Georgia–Pacific factors. In particular, factors 1 and 2—looking at royalties paid or received in licenses for the patent in suit or in comparable licenses—and factor 12—looking at the portion of profit that may be customarily allowed in the particular business for the use of the invention or similar inventions—remain valid and important factors in the determination of a reasonable *1318 royalty rate. However, evidence purporting to apply to these, and any other factors, must be tied to the relevant facts and circumstances of the particular case at issue and the hypothetical negotiations that would have taken place in light of those facts and circumstances at the relevant time.
+ 
+In this case, it is clear that Gemini’s testimony was based on the use of the 25% rule of thumb as an arbitrary, general rule, unrelated to the facts of this case. When asked the basis of his opinion that the rule of thumb would apply here, Gemini testified: “[i]t’s generally accepted. I’ve used it. I’ve seen others use it. It’s a widely accepted rule.” Upon further questioning, Dr. Gemini revealed that he had been involved in only four or five non-litigation related negotiations, and had recommended the 25% rule only once in a case involving a power tool. He did not testify that the parties here had a practice of beginning negotiations with a 25%/75% split, or that the contribution of Product Activation to Office and Word justified such a split. He did not base his 25 percent baseline on other licenses involving the patent at issue or comparable licenses. In short, Gemini’s starting point of a 25 percent royalty had no relation to the facts of the case, and as such, was arbitrary, unreliable, and irrelevant. The use of such a rule fails to pass muster under Daubert and taints the jury’s damages calculation.
+ 
+This court thus holds that Microsoft is entitled to a new trial on damages.
+ 
+
+2. Entire Market Value Rule
+As discussed above, Gemini performed “a check to determine whether” his $564,946,803 royalty figure was reasonable by comparing it to his calculation of Microsoft’s approximate total revenue for Office and Windows of $19.28 billion. During trial, Gemini testified that his calculated royalty accounted for only 2.9% of Microsoft’s revenue, and accented his point by reference to a prepared pie chart, showing Microsoft’s $19.28 billion in revenue with a 2.9% sliver representing his calculated royalty rate. He concluded that 2.9% was a reasonable royalty based on his experience that royalty rates for software are “generally above—on average, above 10% or 10, 11%.”
+ 
+[17] The entire market value rule allows a patentee to assess damages based on the entire market value of the accused product only where the patented feature creates the “basis for customer demand” or “substantially create[s] the value of the component parts.” Lucent Techs., 580 F.3d at 1336; Rite–Hite Corp. v. Kelley Co., 56 F.3d 1538, 1549–50 (Fed.Cir.1995). This rule is derived from Supreme Court precedent requiring that “the patentee ... must in every case give evidence tending to separate or apportion the defendant’s profits and the patentee’s damages between the patented feature and the unpatented features, and such evidence must be reliable and tangible, and not conjectural or speculative,” or show that “the entire value of the whole machine, as a marketable article, is properly and legally attributable to the patented feature.” Garretson v. Clark, 111 U.S. 120, 121, 4 S.Ct. 291, 28 L.Ed. 371 (1884). See also Lucent Techs., 580 F.3d at 1336–37 (tracing the origins of the entire market value to several Supreme Court cases including Garretson ).
+ 
+Microsoft argues that Uniloc employed the entire market value of Office and Windows by virtue of Gemini’s pie chart, his comparison of his calculated royalty to the total revenue Microsoft earns through the accused products, and Uniloc’s attorneys’ belittlement of Microsoft’s expert’s royalty figure as representing only .0003% of total revenue. Microsoft argues that Uniloc’s *1319 use of the entire market value rule was not proper because it is undisputed that Product Activation did not create the basis for customer demand or substantially create the value of the component parts. Microsoft continues that Gemini’s testimony tainted the jury’s damages deliberations, regardless of its categorization as a “check.”
+ 
+Uniloc responds that: (1) Microsoft did not object at trial and so waived any evidentiary argument to Gemini’s testimony and demonstratives; (2) the entire market value of the product can be used if the royalty rate is low enough; and (3) the $19 billion figure was used only as a “check,” and the jury was instructed not to base its damages determination on the entire market value, an instruction it should be presumed to have followed.
+ 
+The district court agreed with Microsoft, and ordered a conditional new trial on damages. It noted that “Uniloc conceded customers do not buy Office or Windows because of [Product Activation] and said it would not base a royalty calculation on the entire market value of the products.” Uniloc II, 640 F.Supp.2d at 184–85. As such, the use of the entire market value of Office and Windows in the form of the $19 billion figure was “irrelevant” and “taint[ed]” the jury’s damages award. Id. at 185. The district court also disagreed with Uniloc that Microsoft had waived its arguments to the entire market value, noting that “Microsoft objected specifically under the entire market value rule to use of a demonstrative pie chart,” and that “[t]he Court preliminarily allowed it but after hearing the testimony instructed counsel to stay away from the $19 billion figure.” Id.
+ 
+[18] This court agrees with Microsoft and the district court that Uniloc’s use of the $19 billion “check” was improper under the entire market value rule. First, regarding Uniloc’s assertion that Microsoft has waived the issue, this court will not second-guess the district court’s explicit recognition of Microsoft’s objections to Gemini’s testimony. FRE 103(a) notes that “Error may not be predicated upon a ruling which admits or excludes evidence unless ... (1) Objection.—In case the ruling is one admitting evidence, a timely objection or motion to strike appears of record.... Once the court makes a definitive ruling on the record admitting or excluding evidence, either at or before trial, a party need not renew an objection or offer of proof to preserve a claim of error for appeal.” The district court here explicitly noted that Microsoft’s objection fell into the exception at the last line of FRE 103(a): “Although Microsoft did not continue to repeat an objection, it made its position on this evidence sufficiently clear to preserve the instant challenge” to Gemini’s use of the entire market value rule. Uniloc II, 640 F.Supp.2d at 184 n. 43. This is supported by Microsoft’s in limine filings and Uniloc’s response, where Uniloc explicitly said that it would not be relying on the entire market value of the accused products. This court thus agrees with the district court that Microsoft has not waived its objection.
+ 
+Uniloc argues that the entire market value of the products may appropriately be admitted if the royalty rate is low enough, relying on the following statement in Lucent Technologies:
+Simply put, the base used in a running royalty calculation can always be the value of the entire commercial embodiment, as long as the magnitude of the rate is within an acceptable range (as determined by the evidence).... Microsoft surely would have little reason to complain about the supposed application of the entire market value rule had the jury applied a royalty rate of .1% (instead of 8%) to the market price of the infringing programs.”
+*1320 580 F.3d at 1338–39. Just before this statement, however, this court held that one of the flaws in the use of the entire market value in that case was “the lack of evidence demonstrating the patented method of the Day patent as the basis—or even a substantial basis—of the consumer demand for Outlook.... [t]he only reasonable conclusion supported by the evidence is that the infringing use of the date-picker tool in Outlook is but a very small component of a much larger software program.” Id. at 1338. Thus, in context, the passage relied on by Uniloc does not support its position. The Supreme Court and this court’s precedents do not allow consideration of the entire market value of accused products for minor patent improvements simply by asserting a low enough royalty rate. See Garretson, 111 U.S. at 121, 4 S.Ct. 291; Lucent Techs., 580 F.3d at 1336 (“In one sense, our law on the entire market value rule is quite clear. For the entire market value rule to apply, the patentee must prove that the patent-related feature is the basis for customer demand” (emphasis added, internal citations omitted)); Rite–Hite, 56 F.3d at 1549 (same); Bose Corp. v. JBL, Inc., 274 F.3d 1354, 1361 (Fed.Cir.2001) (same); TWM Mfg. Co. v. Dura Corp., 789 F.2d 895, 901 (Fed.Cir.1986) (“The entire market value rule allows for the recovery of damages based on the value of an entire apparatus containing several features, when the feature patented constitutes the basis for customer demand.”).
+ 
+This case provides a good example of the danger of admitting consideration of the entire market value of the accused where the patented component does not create the basis for customer demand. As the district court aptly noted, “[t]he $19 billion cat was never put back into the bag even by Microsoft’s cross-examination of Mr. Gemini and re-direct of Mr. Napper, and in spite of a final instruction that the jury may not award damages based on Microsoft’s entire revenue from all the accused products in the case.” Uniloc II, 640 F.Supp.2d at 185. This is unsurprising. The disclosure that a company has made $19 billion dollars in revenue from an infringing product cannot help but skew the damages horizon for the jury, regardless of the contribution of the patented component to this revenue. Uniloc exacerbated the situation in colloquies like the following on cross-examination of Microsoft’s damages expert, in which it implied a relationship between the entire market value of the accused products and the patent:
+Q [Uniloc]. You understand that there are approximately $20 billion in sales of infringing product, correct?
+A [Napper]. That’s the calculation by Mr. Gemini, yes, the entire market value of those products.
+Q. And you understand your lump-sum max theory is $7 million?
+A. Yes.
+Q. And that would be an effective royalty of approximately .000035%?
+A. If one were inappropriately putting the entire market value of the products, that’s what it would result in.
+Q. Uniloc invents it, correct?
+A. They have a patent, yes.
+Q. And under your theory, Microsoft goes out and infringes a valid patent, right?
+A. That’s my assumption.
+Q. Under your theory, Microsoft brings in billions in revenue and sales from the sales of the infringing product, to wit, approximately 20, correct?
+A. The entire market value of those products, that’s correct.
+Q. And at the end of the day, the infringer, Microsoft, who violated the patent law, they get to keep 99.9999% of the box and the inventor, whose patent *1321 they infringed, he gets the privilege of keeping .00003%?
+A. When expressed as the entire market value of the products, that’s correct.
+Q. And that’s reasonable to you?
+A. Yes.
+This is in clear derogation of the entire market value rule, because the entire market value of the accused products has not been shown to be derived from the patented contribution.
+ 
+Uniloc’s final argument is that the use of the $19 billion figure was only as a check, and the jury must be presumed to have followed the jury instruction and not based its damages calculation on the entire market value rule. This argument attempts to gloss over the purpose of the check as lending legitimacy to the reasonableness of Gemini’s $565 million damages calculation. Even if the jury’s damages calculation was not based wholly on the entire market value check, the award was supported in part by the faulty foundation of the entire market value. Moreover, Uniloc’s derision of Microsoft’s damages expert by virtue of the .00003% of the entire market value that his damages calculation represented may have inappropriately contributed to the jury’s rejection of his calculations. Thus, the fact that the entire market value was brought in as only a “check” is of no moment.
+ 
+For the foregoing reasons, this court concludes that the district court did not abuse its discretion in granting a conditional new trial on damages for Uniloc’s violation of the entire market value rule.
+ 
+
+3. Excessiveness of Damages
+As an alternative ground for affirmance of the district court’s alternative grant of a new trial on damages, Microsoft argues that the damages here were excessive. Because this court is affirming the district court’s grant of new trial on damages, and because the two bases on which Uniloc’s damages case was built have both been rejected, it would be premature to consider the excessiveness of damages that could arise on remand. This court thus expresses no opinion on the excessiveness or reasonableness of the damages awarded by the jury.
+ 
+
+D. Cross–Appeal
+Microsoft also cross-appeals the district court’s denial of its motion for JMOL of invalidity. Microsoft argues that under Uniloc’s interpretation of the claim construction in its infringement case, claim 19 is invalid as anticipated or obvious over U.S. Patent No. 4,658,093 (“′093 reference”) titled, “Software Distribution System.”
+ 
+Before this court addresses the merits, two procedural issues must be addressed. First, Microsoft argues that its burden for both the new trial and JMOL motions was to show invalidity simply by a preponderance of the evidence, because the ′093 reference was not before the PTO. This argument is based on a statement in KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 426, 127 S.Ct. 1727, 167 L.Ed.2d 705 (2007) (“[T]he rationale underlying the presumption—that the PTO, in its expertise, has approved the claim—seems much diminished here [where the allegedly invalidating prior art was not before the patent office].”). Microsoft has made this argument before, and we held that the statutory presumption of validity can be overcome only by showing invalidity by clear and convincing evidence, even where allegedly invalidating prior art was not before the patent office. See i4i, 598 F.3d at 848, cert. granted 562 U.S. ––––, 131 S.Ct. 647, 178 L.Ed.2d 476 (2010); Am. Hoist & Derrick Co. v. Sowa & Sons, Inc., 725 F.2d 1350, 1359 (Fed.Cir.1984). Until changed by the Supreme Court or this court sitting en banc, that is still the law.
+ 
+*1322 Second, Microsoft argues that the district court’s grant of a new trial extended to validity even though the district court did not mention validity in the new trial section of its opinion. See Uniloc II, 640 F.Supp.2d at 183–86. Microsoft failed to raise this issue in its motion for a new trial, and this court finds no basis to conclude that the district court implicitly decided the issue. The issue is thus not before this court and we do not reach it.
+ 
+Turning then to the merits. Microsoft frames its validity arguments as follows: if claim 19 reaches far enough to read on Microsoft’s Product Activation, then it necessarily extends far enough to read on the prior art ′ 093 reference. Thus, Microsoft uses Product Activation as a proxy for the scope of claim 19 (under the assumption that the jury verdict of infringement is upheld and Product Activation infringes), and compares it to the ′093 reference. According to Microsoft, the prior art ′093 reference discloses a software authorization process and system, which generates an authorization code from the following inputs: “a secret key identifier of the computer embodied in the hardware (SK), a random or nonrepeating number (R), the serial number, the software package name (H), the number of uses (N), and user billing information.” Uniloc II, 640 F.Supp.2d at 181.
+ 
+In the prior appeal, this court held that the licensee unique ID must be “a unique identifier associated with a licensee,” but one “that cannot be based solely on platform-related user information.” Uniloc I, 290 Fed.Appx. at 343–44. The question in this appeal is whether no reasonable jury could have concluded that the inputs to the cryptographic hash function in the ′093 reference are not sufficient to create an association with the licensee. The focus of the dispute on appeal, just as below, is whether random number R in the ′093 reference is uniquely associated with a user. We think that it is not and that the ′093 reference does not anticipate claim 19.
+ 
+Uniloc argues that R is “platform-related” because it is generated by the user’s computer. Microsoft argues that “platform-related” must be narrower than “generated by a computer,” otherwise it could not infringe because the output of Product Activation (the PID) is also generated by a computer.
+ 
+It is undisputed that R and SK, the only inputs that Microsoft argues are associated with the user, are generated by the computer.3 In the prior appeal, this court noted that the licensee unique ID “cannot be based solely on platform related user information.” Id. at 343. This was based in part on Uniloc’s distinction made during prosecution of the ′216 patent between its invention and a prior art reference that “relie[d] for its security on a machine identification code unique to the machine.” Id. at 343–44. The number R in the ′093 reference does just what the distinguished prior art does: whatever association it creates does not identify the user, but rather it identifies the machine. In other words, the R in the ′093 reference is platform-related, and thus cannot form the basis of the association between the output of the cryptographic hash function and the licensee. The same is true for SK, which is based on a computer-generated serial number.
+ 
+Microsoft’s argument that R is not platform-related though it is generated by a computer (without user input) is unconvincing for two reasons. First, the proper *1323 framework for challenging the validity of a patent is not for the accused to show that it is practicing the prior art, but to show that every element of the patent claims reads on a single prior art reference. See Zenith Elecs. Corp. v. PDI Comm. Sys., Inc., 522 F.3d 1348, 1363 (Fed.Cir.2008) (“[M]ere proof that the prior art is identical, in all material respects, to an allegedly infringing product cannot constitute clear and convincing evidence of invalidity. Anticipation requires a showing that each element of the claim at issue, properly construed, is found in a single prior art reference.”). Second, although the output of the hash algorithm in Product Activation, the PID, is computer generated, the information that is input into the MD5 algorithm is associated with a user, in the form of the product key provided by the vendor. This court has held that it is reasonable to determine that such information creates an association with the user. Uniloc I, 290 Fed.Appx. at 343 n. 4 (“The specification [of the ′216 patent] certainly does allow for the use of vendor-provided information to generate a licensee unique ID.”). As noted, supra section II.A.3, this court is bound by the first appeal that inputs associated with the licensee are sufficient to maintain the association in the output as well. See also Uniloc I, 290 Fed.Appx. at 344 (“Microsoft’s Product Activation system inputs non-platform-related information unique to a user, such as a Product Key, to generate what might qualify as a licensee unique ID.”). Unlike the PID, the output of the hash algorithm in the ′093 reference is “based solely on platform-related user information,” see id. at 343, in the form of R and SK, neither of which are “vendor-provided,” and both of which are generated by the user’s computer. The PID is thus distinguishable from the output of the hash algorithm in the ′093 reference, and a reasonable jury could have returned a verdict that the ′093 reference does not disclose a “licensee unique ID” as required by claim 19 of the ′216 patent. This court thus affirms the district court’s denial of JMOL of invalidity based on anticipation.
+ 
+[19] Though obviousness is a question of law, this court gives the jury its usual deference on the underlying factual questions. What the prior art shows is a question of fact. Graham v. John Deere Co., 383 U.S. 1, 17, 86 S.Ct. 684, 15 L.Ed.2d 545 (1966). As discussed above, a reasonable jury could have found that the ′093 reference failed to disclose a licensee unique ID. Microsoft has presented no convincing argument for why incorporating an input into the hash function that is associated with a user would have been obvious to one of ordinary skill in the art. This court thus affirms the district court’s denial of JMOL of invalidity on the basis of obviousness.
+ 
+
+CONCLUSION
+For the foregoing reasons, this court reverses the district court’s grant of JMOL of non-infringement, affirms the district court’s grant of JMOL of no willfulness, affirms the district court’s grant of a new trial on damages, vacates the district court’s grant of an alternative motion for new trial on infringement, and affirms the district court’s denial of JMOL of invalidity of claim 19 of the ′216. The case is remanded for proceedings consistent with this opinion.
+ 
+AFFIRMED–IN–PART, REVERSED–IN–PART, VACATED–IN–PART, and REMANDED
+ 
+
+COSTS
+Each party shall bear its own costs.
+ 
+All Citations
+632 F.3d 1292, 98 U.S.P.Q.2d 1203
+Footnotes
+
+1
+
+As discussed in the animation referred to, infra, the only differences between MD5 and SHA–1 are the added logical operation group and shifting step in SHA–1. Throughout this litigation, the two algorithms have been treated as functionally identical for infringement purposes. For ease of presentation, this opinion discusses only the MD5 algorithm, but it is uncontested that the same analysis applies to both.
+
+2
+
+For demonstration purposes, we use an 8–bit number, though the MD5 algorithm uses a 32–bit number. Four of the characters are italicized to demonstrate the effect of the circular shifter.
+
+3
+
+The “user billing information” in the ′093 reference is not an input into the hash function and is thus irrelevant in determining whether the ′093 reference discloses the “licensee unique ID” and “licensee unique ID generating means” elements of the ′216 patent.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

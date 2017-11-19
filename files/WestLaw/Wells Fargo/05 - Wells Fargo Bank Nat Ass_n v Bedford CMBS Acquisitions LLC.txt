@@ -1,0 +1,142 @@
+
+
+ 
+
+
+Wells Fargo Bank, Nat. Ass’n v. Bedford CMBS Acquisitions LLC
+United States Court of Appeals, Second Circuit. | September 30, 2015 | 626 Fed.Appx. 341 | 2015 WL 5711682
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wells Fargo Bank, Nat. Ass’n v. Bedford CMBS Acquisitions LLC, 626 F. App’x 341 (2d Cir. 2015)
+
+All Citations:
+
+626 Fed.Appx. 341
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:17 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+626 Fed.Appx. 341
+This case was not selected for publication in West’s Federal Reporter.
+RULINGS BY SUMMARY ORDER DO NOT HAVE PRECEDENTIAL EFFECT. CITATION TO A SUMMARY ORDER FILED ON OR AFTER JANUARY 1, 2007, IS PERMITTED AND IS GOVERNED BY FEDERAL RULE OF APPELLATE PROCEDURE 32.1 AND THIS COURT’S LOCAL RULE 32.1.1. WHEN CITING A SUMMARY ORDER IN A DOCUMENT FILED WITH THIS COURT, A PARTY MUST CITE EITHER THE FEDERAL APPENDIX OR AN ELECTRONIC DATABASE (WITH THE NOTATION “SUMMARY ORDER”). A PARTY CITING A SUMMARY ORDER MUST SERVE A COPY OF IT ON ANY PARTY NOT REPRESENTED BY COUNSEL.
+United States Court of Appeals,
+Second Circuit.
+WELLS FARGO BANK, NATIONAL ASSOCIATION, as Trustee, Interpleader Plaintiff–Counter–Defendant–Appellee,
+v.
+BEDFORD CMBS ACQUISITIONS LLC, Interpleader Defendant–Counter–Claimant–Appellant,
+v.
+STS Partners Fund, LP, Waterfall Asset Management LLC, Davidson Kempner Capital Management LLC, Interpleader Defendants–Counter–Claimants–Appellees,
+Northwestern Mutual Life Insurance Company, Delaware Investments, Cede & Co., as holder of certain certificates and nominee name of The Depository Trust Company, Does, 1 Through 50, Interpleader Defendants–Cross–Defendants.
+No. 14–1790–cv.
+|
+Sept. 30, 2015.
+Synopsis
+Background: Bank, as trustee, brought action to resolve dispute over meaning of pooling agreement that governed the operation of a trust. The United States District Court for the Southern District of New York, Scheindlin, J., granted judgment on the pleadings to interpleader defendants that held certain pooled certificates. Appeal was taken by another interpleader defendant that was also a claimant.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] pooling agreement provided that each default created a single option to purchase defaulted pooled certificates owned by the trust, and
+ 
+[2] claimant’s predecessor waived the purchase option.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Corporations and Business OrganizationsRights, duties, and liabilities;  actions
+
+
+101Corporations and Business Organizations
+101XVUnincorporated Business Organizations
+101XV(D)Business Trusts
+101k3593Directors, Officers, and Agents;  Trustees
+101k3596Rights, duties, and liabilities;  actions
+
+
+Pooling agreement governing the operation of a trust provided that each default created a single option to purchase defaulted pooled certificates owned by the trust, which the directing security holder must either exercise or waive within 10 days of receiving the relevant notice from the trustee, rather than a right for each successive directing security holder to receive its own option to purchase defaulted pooled certificates.
+Cases that cite this headnote
+
+
+
+[2]
+
+Corporations and Business OrganizationsRights, duties, and liabilities;  actions
+
+
+101Corporations and Business Organizations
+101XVUnincorporated Business Organizations
+101XV(D)Business Trusts
+101k3593Directors, Officers, and Agents;  Trustees
+101k3596Rights, duties, and liabilities;  actions
+
+
+Directing security holder waived option to purchase defaulted pooled certificates owned by trust by not purchasing the securities at par value within 10 business days of receiving notice that the securities had defaulted and not purchasing the securities at the fair value within 10 business days of receiving the valuation.
+Cases that cite this headnote
+
+
+
+*342 Appeal from the United States District Court for the Southern District of New York (Scheindlin, J.).
+ON CONSIDERATION WHEREOF, IT IS HEREBY ORDERED, ADJUDGED, and DECREED that the order of the district court is hereby AFFIRMED. The interpleader appellant Bedford CMBS Acquisitions LLC (“Bedford”) appeals from the May 12, 2014, judgment by the district court, which granted judgment on the pleadings to the appellees STS Partners Fund, LP, Waterfall Asset Management LLC, and Davidson Kempner Capital Management LLC (collectively, the “DWS Parties”). We assume the parties’ familiarity with the relevant facts, the procedural history of the case, and the issues presented for review.
+Attorneys and Law Firms
+Kathleen M. Sullivan (Isaac Nesser, Yelena Konanova, on the brief), Quinn Emanuel Urquhart & Sullivan, LLP, New York, NY; Y. David Scharf, Morrison Cohen LLP, New York, NY, for Interpleader Defendant–Counter–Claimant–Appellant.
+Michael A. Hanin (Henry B. Brownstein, Washington, D.C., on the brief), Kasowitz, Benson, Torres & Friedman LLP, New York, NY, for Interpleader Defendants–Counter–Claimants–Appellees.
+Present: ROBERT A. KATZMANN, Chief Judge, PETER W. HALL, and DEBRA ANN LIVINGSTON, Circuit Judges.
+
+
+SUMMARY ORDER
+[1] Bedford contends that the Pooling Agreement governing the operation of the trust provides for each successive Directing Securityholder to receive its own option to purchase defaulted Pooled Certificates owned by the trust. The plain language of the Pooling Agreement forecloses the appellant’s argument. The first sentence of Section 7.13 of the Pooling Agreement provides:
+In the event a Pooled Certificate becomes a Defaulted Security or an Imminently Defaulted Security, the Directing Securityholder will have an assignable option to purchase ... such Defaulted Security or Imminently Defaulted Security from the Trust at a price ... equal to (i) if the Trustee has not yet determined the Fair Value ..., the unpaid principal amount thereof plus accrued and unpaid interest thereon, or (ii) if the Trustee has made a Fair Value determination, ... the Fair Value as so determined.
+J.A. 150. This provision ties the creation of the option to the “event” of a Pooled Certificate defaulting. Each default creates a single option, which the Directing Securityholder must then either exercise or waive within ten days of receiving the relevant notice from the Trustee.
+ 
+In addition to the word “event,” there are two other textual clues that each purchase option must be tethered to a specific default. First, that same first sentence of Section 7.13 refers to a “Pooled Certificate becom[ing] a Defaulted Security or an Imminently Defaulted Security.” This language creates the *343 option based on a discrete occurrence—the Pooled Certificate “becoming” a Defaulted Security—rather than existing due to the defaulted status of Pooled Certificates. J.A. 150. Second, the first paragraph of Section 7.13 concludes by specifying “that if the related Pooled Certificate subsequently becomes a Defaulted Security or Imminently Defaulted Security based on a different or additional event within the definition of ‘Defaulted Security,’ ... the Directing Securityholder shall have an assignable Purchase Option with respect to such Defaulted Security, without regard to the prior waiver.” Id. This provision confirms that each option corresponds to a specific default event by providing the Directing Securityholder with a new option if there is a new default. If the option to purchase the securities was freestanding, such that the Directing Securityholder had an option whenever the securities were in default, it is unclear why the Pooling Agreement would need to specifically provide for “a different or additional event within the definition of ‘Defaulted Security.’ ”
+ 
+[2] Because each default event creates only a single purchase option, Bedford cannot prevail. The securities at issue defaulted only once, generating only a single purchase option for each security. Bedford’s predecessor as Directing Securityholder waived these options by (1) not purchasing the securities at par value within ten business days of receiving notice that the securities had defaulted and (2) not purchasing the securities at the Fair Value within ten business days of receiving the valuation. By the time Bedford became the new Directing Securityholder in August 2013, then, there were no longer any options for Bedford to exercise. Accordingly, to the extent that Bedford argues that its predecessor could not have waived Bedford’s purchase options, we agree with the district court that Bedford has “put[ ] the cart before the horse by presuming that a valid option exists.” Special App. 38.
+ 
+We have considered all of the appellant’s remaining arguments, and do not find that they require us to reach a contrary result. Accordingly, for the foregoing reasons, the judgment of the district court is AFFIRMED.
+ 
+All Citations
+626 Fed.Appx. 341
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,980 @@
+
+
+ 
+
+
+Davis v. Wells Fargo
+United States Court of Appeals, Third Circuit. | May 27, 2016 | 824 F.3d 333 | 2016 WL 3033938
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Davis v. Wells Fargo, 824 F.3d 333 (3d Cir. 2016)
+
+All Citations:
+
+824 F.3d 333
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Pennsylvania
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:14 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+824 F.3d 333
+United States Court of Appeals,
+Third Circuit.
+Michael Earl DAVIS, Appellant,
+v.
+WELLS FARGO, U.S. Bank National Association as Trustee for the Structured Asset Investment Loan Trust, Loan Trust 2005–11; Assurant, Inc.
+No. 15–2658
+|
+Argued March 2, 2016
+|
+(Filed: May 27, 2016)
+Synopsis
+Background: Mortgagor brought action against mortgagee’s purported assignee, seeking to set aside the mortgage assignment as fraudulent, and asserting claims for trespass, breach of contract, negligence, fraud, breach of the implied covenant of good faith and fair dealing, and violation of the anti-tying provision of the Bank Holding Company Act, in connection with property damage that occurred to his house after assignee locked him out of it, which worsened into severe structural problems, and against forced-place property insurer, alleging breach of contract, negligence, fraud, and bad faith claims, in connection with insurer’s failure to cover property damage to the house. The United States District Court for the Eastern District of Pennsylvania, Gerald J. Pappert, J., 2015 WL 3555301, dismissed the action. Mortgagor appealed.
+ 
+Holdings: The Court of Appeals, Jordan, Circuit Judge. held that:
+ 
+[1] claims against assignee were barred by claim preclusion;
+ 
+[2] trespass claim accrued, for limitations purposes, at the very latest, on the date that mortgagor was no longer locked out of his house;
+ 
+[3] mortgagor was not entitled to equitable tolling of the limitations period for his trespass claim;
+ 
+[4] insurer’s motion to dismiss was required to be treated as a motion to dismiss for failure to state a claim, rather than for lack of subject matter jurisdiction;
+ 
+[5] allegations stated claim against insurer for breach of contract; and
+ 
+[6] negligence claim against insurer was time-barred.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (35)
+
+
+[1]
+
+Federal Civil ProcedureMatters deemed admitted;  acceptance as true of allegations in complaint
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1827Determination
+170Ak1835Matters deemed admitted;  acceptance as true of allegations in complaint
+
+
+A court deciding a motion to dismiss for failure to state a claim disregards legal conclusions and recitals of the elements of a cause of action supported by mere conclusory statements. Fed. R. Civ. P. 12(b)(6).
+Cases that cite this headnote
+
+
+
+[2]
+
+Federal Civil ProcedureMatters considered in general
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1827Determination
+170Ak1832Matters considered in general
+
+
+In deciding a motion to dismiss for failure to state a claim, a court must consider only the complaint, exhibits attached to the complaint, matters of public record, as well as undisputedly authentic documents if the complainant’s claims are based upon these documents. Fed. R. Civ. P. 12(b)(6).
+4 Cases that cite this headnote
+
+
+
+[3]
+
+JudgmentNature and requisites of former recovery as bar in general
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(A)Judgments Operative as Bar
+228k540Nature and requisites of former recovery as bar in general
+
+
+Claim preclusion bars suit when three elements are present: (1) a final judgment on the merits in a prior suit involving (2) the same parties or their privies and (3) a subsequent suit based on the same cause of action.
+4 Cases that cite this headnote
+
+
+
+[4]
+
+JudgmentNature and requisites of former recovery as bar in general
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(A)Judgments Operative as Bar
+228k540Nature and requisites of former recovery as bar in general
+
+
+In evaluating whether the elements of claims preclusion exist, the court does not proceed mechanically, but focuses on the central purpose of the doctrine of claims preclusion to require a plaintiff to present all claims arising out of the same occurrence in a single suit; in doing so, the court avoids piecemeal litigation and conserves judicial resources.
+3 Cases that cite this headnote
+
+
+
+[5]
+
+JudgmentNature and requisites of former recovery as bar in general
+JudgmentNature and elements of bar or estoppel by former adjudication
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(A)Judgments Operative as Bar
+228k540Nature and requisites of former recovery as bar in general
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(B)Causes of Action and Defenses Merged, Barred, or Concluded
+228k584Nature and elements of bar or estoppel by former adjudication
+
+
+The purpose of res judicata is to relieve parties of the cost and vexation of multiple lawsuits, conserve judicial resources, and, by preventing inconsistent decisions, encourage reliance on adjudication; to those ends, the doctrine of res judicata bars not only claims that were brought in a previous action, but also claims that could have been brought.
+3 Cases that cite this headnote
+
+
+
+[6]
+
+JudgmentTheory of action or recovery
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(B)Causes of Action and Defenses Merged, Barred, or Concluded
+228k587Theory of action or recovery
+
+
+In determining whether the prior suit is based the same cause of action, so that the subsequent suit is barred by claim preclusion, the focus is on facts rather than legal theories.
+5 Cases that cite this headnote
+
+
+
+[7]
+
+JudgmentTheory of action or recovery
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(B)Causes of Action and Defenses Merged, Barred, or Concluded
+228k587Theory of action or recovery
+
+
+Mortgagor’s prior suit against mortgagee’s purported assignee for trespass and violation of the Servicemembers Civil Relief Act (SCRA) precluded, under doctrine of claim preclusion, mortgagor’s subsequent suit against assignee, seeking to set aside mortgage assignment as fraudulent and asserting claims, under Pennsylvania law, for breach of contract, negligence, fraud, breach of the implied covenant of good faith and fair dealing, and violation of the anti-tying provision of Bank Holding Company Act, in connection with property damage that occurred to his house after assignee locked him out of it, which worsened into severe structural problems when assignee failed to repair initial damage; mortgagor was aware of all operative facts he relied on for claims in his second suit when he filed his prior action, none of the material facts alleged in second suit occurred after the filing of the prior suit, and all documents mortgagor relied in second suit were available at time prior suit was filed. 50 U.S.C.A. § 3901 et seq.; 12 U.S.C.A. § 1972.
+2 Cases that cite this headnote
+
+
+
+[8]
+
+Limitation of ActionsInjuries to property in general
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(A)Accrual of Right of Action or Defense
+241k55Torts
+241k55(5)Injuries to property in general
+
+
+Under Pennsylvania law, mortgagor’s trespass claim against mortgagee’s purported assignee, arising out of assignee’s conduct of locking mortgagor out of his house, accrued, for limitations purposes, at the very latest on the date that mortgagor was no longer locked out of the house.
+Cases that cite this headnote
+
+
+
+[9]
+
+Limitation of ActionsIn general;  what constitutes discovery
+Limitation of ActionsMistake as Ground for Relief
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(F)Ignorance, Mistake, Trust, Fraud, and Concealment or Discovery of Cause of Action
+241k95Ignorance of Cause of Action
+241k95(1)In general;  what constitutes discovery
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(F)Ignorance, Mistake, Trust, Fraud, and Concealment or Discovery of Cause of Action
+241k96Mistake as Ground for Relief
+241k96(1)In general
+
+
+In general, under Pennsylvania law, lack of knowledge, mistake or misunderstanding do not toll the running of the statute of limitations.
+1 Cases that cite this headnote
+
+
+
+[10]
+
+Limitation of ActionsIn general;  what constitutes discovery
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(F)Ignorance, Mistake, Trust, Fraud, and Concealment or Discovery of Cause of Action
+241k95Ignorance of Cause of Action
+241k95(1)In general;  what constitutes discovery
+
+
+Pennsylvania adheres to the discovery rule, which can, in limited circumstances, extend the limitations period and afford plaintiffs additional time for the filing of their claims; but that rule only applies when the plaintiff is unable, despite the exercise of diligence, to determine the injury or its cause.
+1 Cases that cite this headnote
+
+
+
+[11]
+
+Limitation of ActionsSuspension or stay in general;  equitable tolling
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(G)Pendency of Legal Proceedings, Injunction, Stay, or War
+241k104.5Suspension or stay in general;  equitable tolling
+
+
+Under Pennsylvania law, mortgagor was not entitled to equitable tolling of the applicable two-year limitations period for his trespass claim against mortgagee’s purported assignee, arising out of assignee’s conduct of locking mortgagor out of his house, based on assignee’s alleged conduct in actively misleading mortgagor into believing that it held a valid mortgage assignment; no matter what assignee told mortgagor, that should not have left him unable to assert his trespass claim before expiration of the limitations period.
+Cases that cite this headnote
+
+
+
+[12]
+
+Limitation of ActionsConcealment of Cause of Action
+Limitation of ActionsSuspension or stay in general;  equitable tolling
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(F)Ignorance, Mistake, Trust, Fraud, and Concealment or Discovery of Cause of Action
+241k104Concealment of Cause of Action
+241k104(1)In general
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(G)Pendency of Legal Proceedings, Injunction, Stay, or War
+241k104.5Suspension or stay in general;  equitable tolling
+
+
+Under Pennsylvania law, equitable tolling of the limitations period may be appropriate under three primary, though not exclusive, circumstances: (1) where the defendant has actively misled the plaintiff respecting the plaintiff’s cause of action; (2) where the plaintiff in some extraordinary way has been prevented from asserting his or her rights; or (3) where the plaintiff has timely asserted his or her rights mistakenly in the wrong forum.
+Cases that cite this headnote
+
+
+
+[13]
+
+Federal CourtsJurisdiction
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3581Jurisdiction
+170Bk3581(1)In general
+
+
+The Court of Appeals exercises plenary review over the District Court’s dismissal for lack of subject matter jurisdiction. Fed. R. Civ. P. 12(b)(1).
+1 Cases that cite this headnote
+
+
+
+[14]
+
+Federal CourtsPleadings and motions
+Federal CourtsPresumptions and burden of proof
+
+
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2078Pleadings and motions
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2079Evidence;  Affidavits
+170Bk2081Presumptions and burden of proof
+
+
+A facial challenge to subject matter jurisdiction asserts a lack of jurisdiction without disputing the facts alleged in the complaint, and it requires the court to consider the allegations of the complaint as true.
+23 Cases that cite this headnote
+
+
+
+[15]
+
+Federal CourtsEvidence;  Affidavits
+
+
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2079Evidence;  Affidavits
+170Bk2080In general
+
+
+A factual challenge to subject matter jurisdiction attacks the factual allegations underlying the complaint’s assertion of jurisdiction, either through the filing of an answer or otherwise presenting competing facts. Fed. R. Civ. P. 12(b)(1).
+16 Cases that cite this headnote
+
+
+
+[16]
+
+Federal CourtsNecessity of Objection;  Power and Duty of Court
+Federal CourtsEvidence;  Affidavits
+Federal CourtsPresumptions and burden of proof
+
+
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2072Necessity of Objection;  Power and Duty of Court
+170Bk2073In general
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2079Evidence;  Affidavits
+170Bk2080In general
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2079Evidence;  Affidavits
+170Bk2081Presumptions and burden of proof
+
+
+When a factual challenge to subject matter jurisdiction is made, the plaintiff will have the burden of proof that jurisdiction does in fact exist, and the court is free to weigh the evidence and satisfy itself as to the existence of its power to hear the case.
+5 Cases that cite this headnote
+
+
+
+[17]
+
+Federal CourtsPresumptions and burden of proof
+
+
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2079Evidence;  Affidavits
+170Bk2081Presumptions and burden of proof
+
+
+In deciding a factual challenge to subject matter jurisdiction, no presumptive truthfulness attaches to the plaintiff’s allegations.
+12 Cases that cite this headnote
+
+
+
+[18]
+
+Federal Civil ProcedureIn general;  injury or interest
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.2In general;  injury or interest
+
+
+Standing is a jurisdictional matter.
+4 Cases that cite this headnote
+
+
+
+[19]
+
+Federal Civil ProcedureIn general;  injury or interest
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.2In general;  injury or interest
+
+
+Absent Article III standing, a federal court does not have subject matter jurisdiction to address a plaintiff’s claims, and they must be dismissed. U.S. Const. art. 3, § 2, cl. 1.
+2 Cases that cite this headnote
+
+
+
+[20]
+
+Federal Civil ProcedureIn general;  injury or interest
+Federal Civil ProcedureCausation;  redressability
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.2In general;  injury or interest
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.3Causation;  redressability
+
+
+In order to establish Article III standing, first, the plaintiff must show that he suffered an injury in fact, meaning a concrete and particularized invasion of a legally protected interest; second, the plaintiff must demonstrate a causal connection between the injury and the conduct complained of, that is, the injury has to be fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court; and third, it must be likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision. U.S. Const. art. 3, § 2, cl. 1.
+3 Cases that cite this headnote
+
+
+
+[21]
+
+Federal Civil ProcedureMotion and proceedings thereon
+Federal CourtsPleadings and motions
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1825Motion and proceedings thereon
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2078Pleadings and motions
+
+
+Motion filed by forced-placed property insurer to dismiss mortgagor’s Pennsylvania state-law claims against it for breach of contract, negligence, fraud, and bad faith, in connection with insurer’s failure to cover property damage to mortgaged house, alleging that mortgagor should have named insurer’s wholly-owned subsidiary as the defendant, was required to be treated as a motion to dismiss for failure to state a claim, rather than for lack of subject matter jurisdiction; the question of whether mortgagor sued the correct defendant was a merits issue, not a standing issue. Fed. R. Civ. P. 12(b)(1), 12(b)(6).
+1 Cases that cite this headnote
+
+
+
+[22]
+
+Federal Civil ProcedureMotion and proceedings thereon
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1825Motion and proceedings thereon
+
+
+Like all merits arguments, the question of whether a plaintiff has sued the correct defendant should ordinarily be addressed at the pleading stage by affording the plaintiff the protections provided in a motion to dismiss for failure to state a claim. Fed. R. Civ. P. 12(b)(6).
+Cases that cite this headnote
+
+
+
+[23]
+
+Federal Civil ProcedureIn general;  injury or interest
+Federal CourtsCase or Controversy Requirement
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.2In general;  injury or interest
+170BFederal Courts
+170BIIICase or Controversy Requirement
+170BIII(A)In General
+170Bk2101In general
+
+
+Standing is meant to serve as an essential and unchanging part of the case-or-controversy requirement of Article III. U.S. Const. art. 3, § 2, cl. 1.
+Cases that cite this headnote
+
+
+
+[24]
+
+Federal Civil ProcedureIn general;  injury or interest
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(A)In General
+170Ak103.1Standing in General
+170Ak103.2In general;  injury or interest
+
+
+Although standing and merits questions may involve overlapping facts, standing is generally an inquiry about the plaintiff, that is, whether this is right person to bring this claim, not an inquiry into whether the plaintiff has got the right defendant.
+2 Cases that cite this headnote
+
+
+
+[25]
+
+Federal CourtsNecessity of Objection;  Power and Duty of Court
+
+
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2072Necessity of Objection;  Power and Duty of Court
+170Bk2073In general
+
+
+Jurisdictional finding of disputed facts is inappropriate, on a motion to dismiss, when the jurisdictional issue and substantive issues are so intertwined that the question of jurisdiction is dependent on the resolution of factual issues going to the merits of an action. Fed. R. Civ. P. 12(b)(1).
+2 Cases that cite this headnote
+
+
+
+[26]
+
+Federal Civil ProcedureMotion and proceedings thereon
+Federal CourtsNecessity of Objection;  Power and Duty of Court
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1825Motion and proceedings thereon
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2072Necessity of Objection;  Power and Duty of Court
+170Bk2073In general
+
+
+When a factual challenge to jurisdiction attacks facts at the core of the merits of the underlying cause of action, the proper procedure for the district court is to find that jurisdiction exists and to deal with the objection as a direct attack on the merits of the plaintiff’s case. Fed. R. Civ. P. 12(b)(1), 12(b)(6).
+2 Cases that cite this headnote
+
+
+
+[27]
+
+Federal Civil ProcedureMotion and proceedings thereon
+Federal CourtsNecessity of Objection;  Power and Duty of Court
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1825Motion and proceedings thereon
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2072Necessity of Objection;  Power and Duty of Court
+170Bk2073In general
+
+
+Given the differences between the standards governing a motion to dismiss for lack of subject matter jurisdiction and a motion to dismiss for failure to state a claim, a plaintiff may be prejudiced if what is, in essence, a merits challenge for failure to state a claim is treated as a motion to dismiss for lack of subject matter jurisdiction. Fed. R. Civ. P. 12(b)(1), 12(b)(6).
+10 Cases that cite this headnote
+
+
+
+[28]
+
+Federal CourtsSubstantiality of federal question
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(A)In General
+170Bk2213Substantiality of federal question
+
+
+A suit may sometimes be dismissed for want of jurisdiction where the alleged claim under the Constitution or federal statutes clearly appears to be immaterial and made solely for the purpose of obtaining jurisdiction or where such a claim is wholly insubstantial and frivolous.
+1 Cases that cite this headnote
+
+
+
+[29]
+
+Federal CourtsDismissal or other disposition
+
+
+170BFederal Courts
+170BIVCases ‘Arising Under‘ Federal Law;  Federal-Question Jurisdiction
+170BIV(E)Objections, Proceedings, and Determination
+170Bk2362Dismissal or other disposition
+
+
+Dismissal for lack of subject matter jurisdiction is not appropriate merely because the legal theory alleged is probably false, but only because the right claimed is so insubstantial, implausible, foreclosed by precedent, or otherwise completely devoid of merit as not to involve a federal controversy.
+6 Cases that cite this headnote
+
+
+
+[30]
+
+Federal CourtsEvidence;  Affidavits
+
+
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2079Evidence;  Affidavits
+170Bk2080In general
+
+
+When a case raises a disputed factual issue that goes both to the merits and jurisdiction, district courts deciding a motion to dismiss for lack of subject matter jurisdiction must demand less in the way of jurisdictional proof than would be appropriate at a trial stage. Fed. R. Civ. P. 12(b)(1).
+7 Cases that cite this headnote
+
+
+
+[31]
+
+InsuranceWater Damage
+InsuranceInvestigations and inspections
+
+
+217Insurance
+217XVICoverage--Property Insurance
+217XVI(A)In General
+217k2139Risks or Losses Covered and Exclusions
+217k2142Water Damage
+217k2142(1)In general
+217Insurance
+217XXVIIClaims and Settlement Practices
+217XXVII(C)Settlement Duties;  Bad Faith
+217k3358Settlement by First-Party Insurer
+217k3361Investigations and inspections
+
+
+Allegations by mortgagor that he had a forced-place property insurance policy on his mortgaged house, that the policy required the insurer to adequately investigate property damage caused by roof leak in the house and pay for repairs for damage caused by the leak, but that the insurer failed to do so, which led to the deterioration and eventual collapse of the back wall of the house stated claim against insurer for breach of contract, under Pennsylvania law.
+Cases that cite this headnote
+
+
+
+[32]
+
+ContractsGrounds of action
+
+
+95Contracts
+95VIActions for Breach
+95k326Grounds of action
+
+
+Under Pennsylvania law, a claim for breach of the implied covenant of good faith and fair dealing is subsumed in a breach of contract claim.
+3 Cases that cite this headnote
+
+
+
+[33]
+
+ContractsGrounds of action
+
+
+95Contracts
+95VIActions for Breach
+95k326Grounds of action
+
+
+Under Pennsylvania law, a claim arising from a breach of the implied covenant of good faith must be prosecuted as a breach of contract claim, as the covenant does nothing more than imply certain obligations into the contract itself.
+2 Cases that cite this headnote
+
+
+
+[34]
+
+Limitation of ActionsNature of harm or damage, in general
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(F)Ignorance, Mistake, Trust, Fraud, and Concealment or Discovery of Cause of Action
+241k95Ignorance of Cause of Action
+241k95(3)Nature of harm or damage, in general
+
+
+Under Pennsylvania law, mortgagor’s negligence claim against forced-placed property insurer, arising from insurer’s failure to investigate roof leak in mortgaged house and pay for repairs, accrued, for limitations purposes, on the date that mortgagor was aware that the insurer denied his claim. 42 Pa. Cons. Stat. Ann. § 5524(7).
+Cases that cite this headnote
+
+
+
+[35]
+
+Limitation of ActionsWhat constitutes discovery of fraud
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(F)Ignorance, Mistake, Trust, Fraud, and Concealment or Discovery of Cause of Action
+241k98Fraud as Ground for Relief
+241k100Discovery of Fraud
+241k100(12)What constitutes discovery of fraud
+
+
+Under Pennsylvania law, mortgagor’s fraud claim against forced-placed property insurer, which was premised on insurer’s purported kick-back scheme with mortgagee and on insurer’s alleged failure to cover roof leak in mortgaged house, accrued, at the latest, for limitations purposes, on the date that mortgagor was aware that the insurer denied his claim for property damage. 42 Pa. Cons. Stat. Ann. § 5524(7).
+Cases that cite this headnote
+
+
+
+*337 On Appeal from the United States District Court for the Eastern District of Pennsylvania, (D.C. No. 2–14–cv–07014), District Judge: Hon. Gerald J. Pappert.
+Attorneys and Law Firms
+Earl D. Raynor, Jr. [Argued], 234 North Peach St., Philadelphia, PA 19139, Counsel for Appellant.
+Craig A. Hirneisen, Stacey A. Scrivani [Argued], Stevens & Lee, 111 North Sixth St., P.O. Box 679, Reading, PA 19603, Counsel for Appellee, Wells Fargo, U.S. Bank National Association as Trustee for the Structured Asset Investment Loan Trust, 2005–11.
+*338 Matthew P. Faranda–Diedrich [Argued], Alexander J. Nassar, Dilworth Paxson, 1500 Market St.—Suite 3500E, Philadelphia, PA 19102, Counsel for Appellee, Assurant, Inc.
+Before: JORDAN, GREENBERG, and SCIRICA, Circuit Judges.
+
+
+OPINION OF THE COURT
+JORDAN, Circuit Judge.
+In this federal follow-up to a foreclosure case, Michael Earl Davis is pursuing a variety of claims against an entity that he calls “Wells Fargo U.S. Bank National Association as Trustee for the Structured Asset Investment Loan Trust, 2005–11.” It is the purported holder of Davis’s mortgage, and we will refer to it as “Wells Fargo” or “the bank.”1 Davis has also sued Assurant, Inc., believing it to be the provider of insurance on his home. His claims against both Wells Fargo and Assurant arise from damage that occurred to his house after Wells Fargo had locked him out of it, damage that went unrepaired and worsened into severe structural problems. The United States District Court for the Eastern District of Pennsylvania dismissed Davis’s claims against Wells Fargo, pursuant to Federal Rule of Civil Procedure 12(b)(6), on the grounds that claim preclusion and a statute of limitations barred recovery. We will affirm that portion of the District Court’s order.
+ 
+The District Court also dismissed all of Davis’s claims against Assurant, pursuant to Federal Rule of Civil Procedure 12(b)(1), for lack of subject matter jurisdiction. The Court reasoned that Davis lacked standing to bring those claims because he sued the wrong corporate entity, namely Assurant, when he should have sued Assurant’s wholly-owned subsidiary, American Security Insurance Company (“ASIC”). That conclusion about standing was in error. Standing is indeed a jurisdictional predicate, but, rightly understood, this case is not about standing at all. An analysis of standing generally focuses on whether the plaintiff is the right party to bring particular claims, not on whether the plaintiff has sued the right party. The latter question goes not to standing and jurisdiction but to the merits of the claims themselves. Therefore, the District Court erred in considering the claims against Assurant under Rule 12(b)(1) rather than Rule 12(b)(6). That difference has important consequences here. In the end, the difference between those rules of procedure dictates that we vacate that portion of the District Court’s order dismissing Davis’s breach of contract claim against Assurant and remand for further proceedings.
+ 
+
+I. BACKGROUND
+A. Factual Background2
+Davis is a resident of Philadelphia. On July 29, 2005, he executed a mortgage on a house there (“the Property”), with BNC Mortgage, Inc. (“BNC”) as the mortgagee. Two-and-a-half years later, on January 5, *339 2008, it was Wells Fargo that—claiming to be an assignee of the mortgage—locked Davis out of the Property. The amended complaint alleges that Wells Fargo did so “on the pretense that it held a valid mortgage contract” (S28), but that it, in fact, acted without holding the note, a mortgage assignment, or any other legal interest in the Property. Three weeks later, on January 24, 2008, Wells Fargo commenced a foreclosure action against Davis in state court, in which it obtained a default judgment. The details of how and when Davis’s mortgage was assigned to Wells Fargo are not clear from the record before us, but we do know that on February 8, 2008, Mortgage Electronic Registration Systems, Inc. (“MERS”), as nominee for BNC, purported to assign the mortgage to Wells Fargo. Davis alleges that BNC had not authorized MERS to assign the mortgage or note to Wells Fargo, rendering the assignment “fraudulent.” (S4, ¶ 11.) Regardless, the assignment was recorded in Philadelphia County on February 20, 2008. As the foregoing dates show, this assignment was made after Davis had already been locked out of the Property and after foreclosure proceedings had already begun.
+ 
+Davis is also a Lieutenant Colonel in the United States Army Reserve, and, on September 15, 2008, the Army placed him on active duty. He promptly provided a copy of his military orders to Wells Fargo, because of the foreclosure action that it had brought against him. Upon receiving the copy of those orders, Wells Fargo filed a motion to vacate the default judgment it had obtained. The judgment was vacated shortly thereafter.
+ 
+Davis remained on active duty from October 1, 2008, through October 1, 2011. While he was away, in April 2009, Wells Fargo obtained “force-placed” insurance on the Property, i.e., insurance placed by a mortgagee rather than the property owner. The identity of the carrier is in dispute. According to Assurant, the carrier is ASIC, a wholly-owned subsidiary of Assurant. Davis has alleged that Assurant is the entity actually responsible for the insurance coverage. Davis’s amended complaint also alleges that Wells Fargo and Assurant conspired to extract excessive premiums from him through the force-placed insurance, in a scheme that paid Wells Fargo kickbacks in exchange for the bank making Assurant the exclusive provider of force-placed insurance for bank-related properties.
+ 
+Less than two weeks after Davis returned from active duty, on October 12, 2011, MERS, as nominee for BNC, again purported to assign Davis’s mortgage on the Property to Wells Fargo. Soon thereafter, Wells Fargo inspected the Property and “discovered a roof leak in the master bedroom that was also damaging the ceiling, wall and flooring” (S5 ¶ 19), and the following day filed an insurance claim. An adjuster examined the property and filed a report estimating that repairs would cost $817. The amended complaint alleges that, in late November, 2011, “Wells Fargo and Assurant Insurance Company fraudulently negotiated a $317 settlement of the roof leak damage claim that did not address the roof.” (S5 ¶ 22.) Exhibits to the amended complaint indicate that the $317 payment is the amount of the adjuster’s damage assessment, after a $500 deductible. Wells Fargo kept the money. Despite the insurance claim it made, the bank did not fix the leak, and the Property continued to deteriorate. All of this occurred without Davis’s knowledge.
+ 
+Nearly a year later, Davis received a notice from the City of Philadelphia, saying that the Property had been designated unsafe due to a partially collapsed wall. The notice directed Davis to make all necessary repairs or take down the wall within *340 30 days. Still locked out, Davis told Wells Fargo of the problem and obtained access to the Property. He filed a claim with Assurant the next day for the property damage, being unaware that Wells Fargo had already settled a claim for the roof leak. Assurant denied his claim on October 28, 2012.
+ 
+
+B. Procedural Background
+Earlier that same month, on October 18, 2012, Davis brought his first lawsuit against Wells Fargo in the District Court. Davis v. U.S. Bank Nat’l Ass’n, No. 2:12–cv–05943–TJS (the “2012 action”). He filed an amended, two-count complaint on December 7, 2012, asserting claims against Wells Fargo for trespass and violation of the Servicemembers Civil Relief Act, 50 U.S.C. §§ 3901, et seq. (“SCRA”).3 The District Court dismissed the SCRA claim and declined to exercise supplemental jurisdiction over the state-law trespass claim. The Court went on to explain that Davis would not be barred by the statute of limitations from reasserting his trespass claim if he “promptly file [d] a certified transcript of the judgment and pleadings” from the District Court in a court of the Commonwealth of Pennsylvania. (S279 n.1; see also 42 Pa. Cons. Stat. § 5103(b).) Unfortunately for Davis, he did not do so.
+ 
+Instead, he waited nearly two years and then commenced this second action in the District Court on December 11, 2014. In his amended complaint in the present case, he makes claims against Wells Fargo for trespass (Count I), breach of contract (Count II), negligence (Count IV), fraud (Count VI), breach of the implied covenant of good faith and fair dealing (Count X), and violation of the anti-tying provision of the Bank Holding Company Act, 12 U.S.C. §§ 1972, et seq. (Count XI). The amended complaint also asserts claims against Assurant for breach of contract (Count III), negligence (Count V), fraud (Count VI), and bad faith (Count VII). Finally, the amended complaint requests that the mortgage assignments to Wells Fargo be set aside as fraudulent (Count IX).4
+ 
+Wells Fargo moved to dismiss the claims asserted against it pursuant to Rule 12(b)(6), and Assurant moved to dismiss the claims asserted against it pursuant to Rules 12(b)(1) and 12(b)(6). With its motion, Assurant filed a signed declaration from one of its corporate officers distinguishing Assurant from ASIC as separate corporate entities. The District Court granted both motions in an opinion and order dated June 8, 2015. Davis v. Wells Fargo U.S. Bank Nat’l Ass’n, No. 14–07014, 2015 WL 3555301 (E.D. Pa. June 8, 2015). The Court dismissed all of Davis’s claims against Wells Fargo, with the exception of his trespass claim, on the basis of claim preclusion, because it determined that Davis could have brought those claims in his 2012 action. It dismissed the trespass claim as time-barred under Pennsylvania’s two-year statute of limitations. The Court also dismissed all of Davis’s claims against Assurant under Rule 12(b)(1) for *341 lack of subject matter jurisdiction, concluding that Davis had no Article III standing to assert them because he should have filed suit against ASIC instead of Assurant.
+ 
+Davis filed a timely notice of appeal.
+ 
+
+II. DISCUSSION5
+Because this case involves the grant of two separate motions to dismiss, we consider each in turn. We start our review with Wells Fargo’s motion to dismiss under Federal Rule of Civil Procedure 12(b)(6), and then turn to Assurant’s motion under Rule (12)(b)(1). Because we conclude that the District Court’s grant of Assurant’s motion under Rule 12(b)(1) was error, we will also consider Assurant’s alternative argument that the District Court’s order should be affirmed on the basis of Rule 12(b)(6) because Davis failed to state a claim.
+ 
+
+A. Wells Fargo’s Motion to Dismiss Under Rule 12(b)(6)
+[1] [2]For purposes of reviewing a motion to dismiss under Rule 12(b)(6), we are “required to accept as true all allegations in the complaint and all reasonable inferences that can be drawn from them after construing them in the light most favorable to the nonmovant.” Foglia v. Renal Ventures Mgmt., LLC, 754 F.3d 153, 154 n. 1 (3d Cir. 2014) (quotation marks and citation omitted). However, we disregard legal conclusions and recitals of the elements of a cause of action supported by mere conclusory statements. Santiago v. Warminster Twp., 629 F.3d 121, 128 (3d Cir. 2010) (citation omitted). “In deciding a Rule 12(b)(6) motion, a court must consider only the complaint, exhibits attached to the complaint, matters of public record, as well as undisputedly authentic documents if the complainant’s claims are based upon these documents.” Mayer v. Belichick, 605 F.3d 223, 230 (3d Cir. 2010).
+ 
+
+(1) Claim Preclusion
+Davis first argues that the District Court erred in holding that many of his claims against Wells Fargo were barred by the doctrine of claim preclusion, also referred to as res judicata. The Court concluded that claim preclusion required dismissal of those claims—though not his claim of trespass—because they could have been brought at the time of his 2012 action. It reasoned that Davis was aware of all of the facts necessary to assert his “new” claims prior to the filing of his amended complaint in the 2012 action. We agree.
+ 
+[3] [4] [5]Claim preclusion bars suit when three elements are present: “(1) a final judgment on the merits in a prior suit involving (2) the same parties or their privies and (3) a subsequent suit based on the same cause of action.” Lubrizol Corp. v. Exxon Corp., 929 F.2d 960, 963 (3d Cir. 1991). In evaluating whether those elements exist, we do not proceed mechanically, “but focus on the central purpose of the doctrine, to require a plaintiff to present all claims arising out of the same occurrence in a single suit. In so doing, we avoid piecemeal litigation and conserve judicial resources.” Blunt v. Lower Merion Sch. Dist., 767 F.3d 247, 277 (3d Cir. 2014) (internal quotation marks and brackets omitted), cert. denied, ––– U.S. ––––, 135 S.Ct. 1738, 191 L.Ed.2d 702 (2015). “The purpose of res judicata is to ‘relieve parties of the cost and vexation of multiple lawsuits, *342 conserve judicial resources, and, by preventing inconsistent decisions, encourage reliance on adjudication.’ ” Marmon Coal Co. v. Dir., Office of Workers’ Comp. Programs, 726 F.3d 387, 394 (3d Cir. 2013) (quoting Allen v. McCurry, 449 U.S. 90, 94, 101 S.Ct. 411, 66 L.Ed.2d 308 (1980)). To those ends, “[t]he doctrine of res judicata bars not only claims that were brought in a previous action, but also claims that could have been brought.” In re Mullarkey, 536 F.3d 215, 225 (3d Cir. 2008).
+ 
+Davis does not contest that the District Court’s dismissal of his claims in the 2012 action was a final judgment on the merits, nor does he dispute that the 2012 action involved a claim against the same party, Wells Fargo. He contends instead that his prior suit “was not based on the same cause of action as the instant case” because he advanced a different legal theory in that lawsuit than he does now. (Opening Br. at 14.)
+ 
+[6]Under our precedent, there is no single definition of “cause of action” for purposes of claim preclusion. Rather, “[w]e ... have explained that we take a broad view of what constitutes the same cause of action and that res judicata generally is thought to turn on the essential similarity of the underlying events giving rise to the various legal claims.” Blunt, 767 F.3d at 277 (internal quotation and editorial marks omitted). In short, the focus is on facts rather than legal theories. See Elkadrawy v. Vanguard Grp., 584 F.3d 169, 173 (3d Cir. 2009) (The “analysis does not depend on the specific legal theory invoked....”). Res judicata bars a claim that “arises from the same set of facts as a claim adjudicated on the merits in the earlier litigation.” Blunt, 767 F.3d at 277.
+ 
+[7]Davis filed his first federal complaint on October 18, 2012, bringing claims against Wells Fargo for trespass and a violation of the SCRA. He amended his complaint on December 7, 2012, including the same causes of action.6 Davis’s current action brings claims against the bank for trespass, breach of contract, negligence, fraud, breach of the implied covenant of good faith and fair dealing, and violation of the anti-tying provision of the Bank Holding Company Act, 12 U.S.C. § 1972. He points to those additional claims and maintains that they are based on causes of action distinct from those that he asserted or could have asserted in 2012. He argues that those claims are necessarily different from his earlier ones because he was “completely unaware of the fraud perpetrated by Appellee Wells Fargo, in creating a fictitious mortgage assignment” and “was unaware that in fact Appellee Wells Fargo, had already settled an insurance claim, financing repairs to the property” when he amended his complaint in the 2012 action. (Opening Br. at 15.)
+ 
+But the facts are against him. Although Davis says that when he filed his amended complaint in 2012, he was ignorant of what Wells Fargo had done, all of the documentation on which he relies to assert his mortgage fraud claims was available to him well before that. The allegations he made then—unlike the post hoc arguments he makes now—show that Davis was well aware of all of the operative facts prior to December 7, 2012, when he filed his amended complaint. Most importantly, he has consistently acknowledged that he learned of the prior insurance claim on October 28, 2012, when his own separate claim was denied. Thus, as the District Court noted, “[a]ccording to his own statements, *343 Davis knew all of the facts necessary to assert the ‘new claims’ against Wells Fargo, at the very latest, over a month before he filed [his December 7, 2012] amended complaint.” Davis, 2015 WL 3555301, at *6. None of the material facts alleged in Davis’s complaint occurred after the filing of the 2012 action.7 Other than to repeat his conclusory statement that he could not have raised his new claims in the previous action “because [he] had no knowledge of the facts underlying the new claims” (Opening Br. at 9), Davis offers nothing to rebut the District Court’s analysis.
+ 
+Moreover, although Davis contends that he was “completely unaware” that Wells Fargo was assigned the mortgage on the Property at the time of the 2012 action, the allegedly fraudulent assignments upon which his claims rely were executed more than a year before the filing of his 2012 amended complaint. As he recites in his amended complaint in this action, those assignments were executed in February 2008 and October 2011, respectively. Surely Davis was aware or should have been aware of them, because he was then dealing with Wells Fargo as the purported mortgagee. In addition, as Davis alleges, “[t]he February 8, 2008 fraudulent assignment was recorded in Philadelphia County records on February 20, 2008.” (S4.) He identifies no impediment that would have prevented him from discovering the fraud purportedly evident in the plain language of those recorded assignments. Thus, if Davis truly had been unaware of those assignments, his naiveté is not attributable to anyone but himself, and his opportunity to bring claims based on them closed when he failed to assert any such claim in his 2012 action.8
+ 
+In sum, Davis could have asserted his claims against Wells Fargo for breach of contract, negligence, fraud, breach of the *344 implied covenant of good faith and fair dealing, and violation of the anti-tying provision of the Bank Holding Company Act, 12 U.S.C. § 1972,9 in his 2012 action. Because he failed to do so, claim preclusion bars him from asserting them here. Accordingly, we will affirm the District Court’s dismissal of those claims. As far as Wells Fargo is concerned, that leaves only the trespass claim for us to address.10
+ 
+
+(2) Statute of Limitations
+[8] [9] [10]Though claim preclusion does not bar Davis’s trespass claim,11 Pennsylvania’s applicable two-year statute of limitations does. See 42 Pa. Cons. Stat. § 5524(4).12 The District Court held that, because Davis alleged he was locked out of his property “from January 2008 through September 2011,” his trespass claim was barred “at the very latest, as of September 2013.” Davis, 2015 WL 3555301, at *6. The amended complaint, however, makes clear that Davis did not receive access to the property until September 2012, one year later than the District Court said. Nevertheless, even measured from that later date, the two-year limitations period still would have expired by the time Davis initiated the present suit in December 2014.13
+ 
+[11]In apparent recognition that the statute of limitations had already run when he filed this action, Davis now contends that the limitations period should be equitably tolled because Wells Fargo “actively misled” him into believing that it was the mortgagee, though it “did not ... have the note or a valid mortgage assignment for the property.” (Opening Br. at 18–19.) Assuming that were true—as we must—we still can discern no reason why the invalidity of the assignment prevented Davis from filing his trespass claim.
+ 
+[12]We have held that equitable tolling may be appropriate under three primary, *345 though not exclusive, circumstances: “(1) where the defendant has actively misled the plaintiff respecting the plaintiff’s cause of action; (2) where the plaintiff in some extraordinary way has been prevented from asserting his or her rights; or (3) where the plaintiff has timely asserted his or her rights mistakenly in the wrong forum.” Oshiver v. Levin, Fishbein, Sedran & Berman, 38 F.3d 1380, 1387 (3d Cir. 1994) (citations omitted). Davis relies on the first of those factors, but no matter what Wells Fargo told Davis about its status with regard to the Property, that should not have left him unable to assert his trespass claim. Even if he believed until late in 2014 that Wells Fargo held the mortgage on the Property, it does not follow that the bank had the right to enter and lock him out before initiating foreclosure proceedings. If he was misled at all, it was about a fact of marginal relevance to the trespass.
+ 
+The 2012 action itself makes the point plainly. Davis said in his amended complaint in that suit that Wells Fargo was a trespasser because it “did not hold a possessory right to the property, it only held a mortgage lien.” (S158.) He obviously did not then think the validity of the mortgage assignment affected his possessory interest in the Property, and he was right. We thus cannot hold that Davis was unable to know the basis for his trespass claim during the limitations period when he, in fact, made the trespass claim in his prior, timely-filed suit.14
+ 
+Accordingly, Davis’s trespass claim is time-barred, and we will affirm the District Court’s dismissal of the claim on that basis.15
+ 
+
+*346 B. Assurant’s Motion to Dismiss Under Rule 12(b)(1)
+[13]Assurant moved to dismiss Davis’s complaint on the basis that the District Court lacked subject matter jurisdiction. It argued that Davis lacked standing because he had improperly sued Assurant rather than ASIC, its wholly-owned subsidiary. We exercise plenary review over the District Court’s dismissal for lack of subject matter jurisdiction. In re Schering Plough Corp. Intron/Temodar Consumer Class Action, 678 F.3d 235, 243 (3d Cir. 2012).
+ 
+[14] [15] [16] [17]A challenge to subject matter jurisdiction under Rule 12(b)(1) may be either a facial or a factual attack. The former challenges subject matter jurisdiction without disputing the facts alleged in the complaint, and it requires the court to “consider the allegations of the complaint as true.” Petruska v. Gannon Univ., 462 F.3d 294, 302 n. 3 (3d Cir. 2006) (quoting Mortensen v. First Fed. Sav. & Loan Ass’n, 549 F.2d 884, 891 (3d Cir. 1977)). The latter, a factual challenge, attacks the factual allegations underlying the complaint’s assertion of jurisdiction, either through the filing of an answer or “otherwise present[ing] competing facts.” Constitution Party of Pa. v. Aichele, 757 F.3d 347, 358 (3d Cir. 2014). In contrast to a facial challenge, a factual challenge allows “a court [to] weigh and consider evidence outside the pleadings.” Id. (internal quotation marks omitted). When a factual challenge is made, “the plaintiff will have the burden of proof that jurisdiction does in fact exist,” and the court “is free to weigh the evidence and satisfy itself as to the existence of its power to hear the case.” Mortensen, 549 F.2d at 891. “[N]o presumptive truthfulness attaches to [the] plaintiff’s allegations....” Id. Although we exercise plenary review over the District Court’s legal conclusions, we review the Court’s findings of fact, including findings related to jurisdiction, only for clear error. CNA v. United States, 535 F.3d 132, 139 (3d Cir. 2008).
+ 
+Here, because it submitted a signed declaration disputing Davis’s factual allegations, Assurant has mounted a factual challenge to subject matter jurisdiction. See Int’l Ass’n of Machinists & Aerospace Workers v. Nw. Airlines, Inc., 673 F.2d 700, 711 (3d Cir. 1982) (“[Defendant’s] motion was supported by a sworn statement of facts. It therefore must be construed as a factual, rather than a facial attack....”). Assurant had one of its corporate officers declare that ASIC has a separate corporate existence from its parent, that Assurant is not involved in ASIC’s daily business operations, and that Assurant itself has never contracted or done business with Davis. Given the claimed distinction between Assurant and ASIC, Assurant argued—and the District Court agreed—that Davis lacked standing to claim that Assurant was liable for breach of contract, negligence, fraud, and bad faith dealing.
+ 
+[18] [19] [20]Standing is a jurisdictional matter. “Absent Article III standing, a federal court does not have subject matter jurisdiction to address a plaintiff’s claims, and they must be dismissed.” Taliaferro v. Darby Twp. Zoning Bd., 458 F.3d 181, 188 (3d Cir. 2006). The Supreme Court has recognized that “the irreducible constitutional minimum of standing contains three elements,” which the party invoking federal jurisdiction must establish. Lujan v. Defenders of Wildlife, 504 U.S. 555, 560, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992). First, the plaintiff must show that he suffered an “injury in fact,” meaning a concrete and particularized invasion of a legally protected interest. Id. Second, the plaintiff must demonstrate a “causal connection between the injury and the conduct complained of—the injury has to be fairly traceable to the challenged action of the defendant, and not *347 the result of the independent action of some third party not before the court.” Id. (internal quotation and editorial marks omitted). “Third, it must be likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision.” Id. at 561, 112 S.Ct. 2130 (internal quotation marks omitted).
+ 
+[21]Assurant’s standing argument focuses on the latter two elements of the standing analysis, traceability and redressability. Assurant contends that its subsidiary, ASIC, is the actual carrier of the insurance and that, given the distinction between Assurant and ASIC, Davis’s alleged injury is not fairly traceable to Assurant’s conduct. Thus, says Assurant, a judgment against it would do nothing to redress the harm that Davis supposedly suffered at the hands of ASIC. While that argument has some superficial appeal, it is wrong. Assurant’s argument is better understood as a well-disguised challenge to the legal merits of Davis’s case, not as a challenge to his standing to pursue it.
+ 
+[22]Taking the argument from its start, Assurant says that ASIC, its wholly-owned subsidiary, should have been the named defendant in Davis’s complaint. But that is a matter open to reasonable dispute. Assurant and ASIC are related entities and the extent of their intertwined operations is a matter that has not yet been tested by the adversary process. Even if Assurant were to assert that it had absolutely no relationship with ASIC, however, its argument ought still to be treated as going to the merits of the case. Like all merits arguments, the question of whether a plaintiff has sued the correct defendant should ordinarily be addressed at the pleading stage by affording the plaintiff the protections provided by Rule 12(b)(6).16
+ 
+Assurant acknowledges that parent corporations may be held liable for the actions of their subsidiaries under certain conditions, but it argues that Davis’s complaint “does not make a single factual averment that would support a claim for piercing the corporate veil.” (Assurant Br. at 15.) It thus uses its declaration to establish a factual predicate (i.e., the distinction between ASIC and Assurant) for a legal argument addressed squarely to the merits of Davis’s complaint (i.e., the inability to pierce the corporate veil to hold Assurant liable for ASIC’s actions). But, if we accept the factual allegations of the complaint, as we would under Rule 12(b)(6), the distinction between ASIC and Assurant is not established and, in fact, is irrelevant. There is no veil to pierce because Davis says Assurant is the insurance carrier on the policy in question. With the factual foundation for its argument removed, Assurant’s position has little persuasive force. Its contention that ASIC is the proper defendant may, in the end, be a strong merits defense against Davis’s claims, but it does not mean that Davis does not have standing to bring his claims, and to bring them against Assurant. Cf. *348 Official Comm. of Unsecured Creditors v. R.F. Lafferty & Co., 267 F.3d 340, 346 (3d Cir. 2001) (“Whether a party has standing to bring claims and whether a party’s claims are barred by an equitable defense are two separate questions, to be addressed on their own terms.”).
+ 
+[23]The standing requirement is analytically distinct from the merits of the underlying dispute. Standing is meant to serve as “an essential and unchanging part of the case-or-controversy requirement of Article III.” Lujan, 504 U.S. at 560, 112 S.Ct. 2130. Here, Davis has alleged that Assurant breached a contract and committed various state-law torts. If for no other reason, a case or controversy exists to determine whether Davis is suing the right insurance company and, even if he should have sued ASIC, whether he may pierce the corporate veil and hold Assurant accountable for the alleged misconduct of ASIC. Davis argues that Assurant may be held responsible; Assurant argues that it may not. That is a merits question.
+ 
+[24]Assurant’s assertions to the contrary prove too much. If accepted, they would allow any litigant whose defense is “you’ve got the wrong party” to frame that lack-of-responsibility defense not as a merits challenge to be tried or to be considered under Rule 12(b)(6) or the summary judgment provisions of Rule 56 but as a Rule 12(b)(1) standing challenge, thereby empowering the defendant to buttress its legal arguments with factual assertions that contradict those in the complaint. Although standing and merits questions may involve overlapping facts, standing is generally an inquiry about the plaintiff: is this the right person to bring this claim. See Raines v. Byrd, 521 U.S. 811, 818, 117 S.Ct. 2312, 138 L.Ed.2d 849 (1997) (“The standing inquiry focuses on whether the plaintiff is the proper party to bring this suit....”); Flast v. Cohen, 392 U.S. 83, 99, 88 S.Ct. 1942, 20 L.Ed.2d 947 (1968) (“The fundamental aspect of standing is that it focuses on the party seeking to get his complaint before a federal court and not on the issues he wishes to have adjudicated.”). It is generally not an inquiry into whether the plaintiff has got the right defendant.
+ 
+[25] [26]The confusion generated by Assurant is a new iteration of an old problem. We have already held that “a district court must take care not to reach the merits of a case when deciding a Rule 12(b)(1) motion.” CNA, 535 F.3d at 144. “Jurisdictional finding of genuinely disputed facts is inappropriate when the jurisdictional issue and substantive issues are so intertwined that the question of jurisdiction is dependent on the resolution of factual issues going to the merits of an action.” Sun Valley Gasoline, Inc. v. Ernst Enters., Inc., 711 F.2d 138, 139 (9th Cir. 1983) (internal quotation marks omitted). As we stated in Kulick v. Pocono Downs Racing Association, when a factual challenge to jurisdiction attacks facts at the core of the merits of the underlying cause of action, “the proper procedure for the district court is to find that jurisdiction exists and to deal with the objection as a direct attack on the merits of the plaintiff’s case.” 816 F.2d 895, 898 n. 5 (3d Cir. 1987) (internal quotation marks omitted).
+ 
+[27]We have repeatedly cautioned against allowing a Rule 12(b)(1) motion to dismiss for lack of subject matter jurisdiction to be turned into an attack on the merits. E.g., Gould Elecs. Inc. v. United States, 220 F.3d 169, 178 (3d Cir. 2000); Growth Horizons, Inc. v. Delaware Cty., Pa., 983 F.2d 1277, 1280–81 (3d Cir. 1993); Kehr Packages, Inc. v. Fidelcor, Inc., 926 F.2d 1406, 1408–09 (3d Cir. 1991); Kulick, 816 F.2d at 897; Johnsrud v. Carter, 620 F.2d 29, 32–33 (3d Cir. 1980); Mortensen, 549 F.2d at 891. Caution is necessary because the standards governing the two *349 rules differ markedly, as Rule 12(b)(6) provides greater procedural safeguards for plaintiffs than does Rule 12(b)(1). First, proceeding under Rule 12(b)(1) inverts the burden of persuasion. When presenting a Rule 12(b)(6) motion, the defendant bears the burden to show that the plaintiff has not stated a claim. Kehr Packages, 926 F.2d at 1409. But under Rule 12(b)(1), the plaintiff must prove the court has subject matter jurisdiction. Id. The two rules also treat the complaint’s factual allegations very differently. Unlike Rule 12(b)(6), under which a defendant cannot contest the plaintiff’s factual allegations, Rule 12(b)(1) allows a defendant to attack the allegations in the complaint and submit contrary evidence in its effort to show that the court lacks jurisdiction. Mortensen, 549 F.2d at 891. Thus, improper consideration of a merits question under Rule 12(b)(1) significantly raises both the factual and legal burden on the plaintiff. Given the differences between the two rules, “[a] plaintiff may be prejudiced if what is, in essence, a Rule 12(b)(6) challenge to the complaint is treated as a Rule 12(b)(1) motion.” Kehr Packages, 926 F.2d at 1409.17
+ 
+Rule 12(b)(6)—with its attendant procedural and substantive protections for plaintiffs—is the proper vehicle for the early testing of a plaintiff’s claims. Assurant does not contend that Davis is the wrong person to bring his claims. Rather, it argues that he has filed suit against the wrong party, that his claims against Assurant are actually without merit because Assurant has done nothing wrong. That may be true, and, if so, the ordinary course of litigation will root it out. But Assurant may not short-circuit the usual process, flip the burden of persuasion, and permit itself to submit competing facts to support its argument.
+Jurisdiction ... is not defeated as [Assurant] seem[s] to contend, by the possibility that the averments might fail to state a cause of action on which [Davis] could actually recover. For it is well settled that the failure to state a proper cause of action calls for a judgment on the merits and not for a dismissal for want of jurisdiction.
+Bell v. Hood, 327 U.S. 678, 682, 66 S.Ct. 773, 90 L.Ed. 939 (1946).
+ 
+[28] [29] [30]In light of its limited protections for plaintiffs, Rule 12(b)(1) must not be expanded beyond its proper purpose.18 The Supreme Court has authorized courts *350 to dismiss under Rule 12(b)(1) for lack of jurisdiction due to merits-related defects in only narrow categories of cases. “[A] suit may sometimes be dismissed for want of jurisdiction where the alleged claim under the Constitution or federal statutes clearly appears to be immaterial and made solely for the purpose of obtaining jurisdiction or where such a claim is wholly insubstantial and frivolous.” Bell, 327 U.S. at 682–83, 66 S.Ct. 773. “[D]ismissal for lack of jurisdiction is not appropriate merely because the legal theory alleged is probably false, but only because the right claimed is ‘so insubstantial, implausible, foreclosed by prior decisions of this Court, or otherwise completely devoid of merit as not to involve a federal controversy.’ ” Kulick, 816 F.2d at 899 (quoting Oneida Indian Nation v. Cty. of Oneida, 414 U.S. 661, 666, 94 S.Ct. 772, 39 L.Ed.2d 73 (1974)). In this vein, when a case raises a disputed factual issue that goes both to the merits and jurisdiction, district courts must “demand less in the way of jurisdictional proof than would be appropriate at a trial stage.” Mortensen, 549 F.2d at 892 (holding that dismissal under Rule 12(b)(1) would be “unusual” when the facts necessary to succeed on the merits are at least in part the same as must be alleged or proven to withstand jurisdictional attacks). Given the tightly circumscribed definition of these categories, dismissal via a Rule 12(b)(1) factual challenge to standing should be granted sparingly. Here, Davis’s claims against Assurant are not so insubstantial as to fall within those categories.19
+ 
+The District Court erroneously accepted Assurant’s standing argument. In doing so, it shifted to Davis the burden of persuasion that properly falls on Assurant on a motion to dismiss under Rule 12(b)(6), and deprived him of the deference due the factual allegations of his complaint. Accordingly, we will vacate the District Court’s order insofar as it concluded that it was without subject matter jurisdiction over Davis’s claims against Assurant.20
+ 
+
+C. Assurant’s Motion to Dismiss Under Rule 12(b)(6)
+Assurant also moved to dismiss pursuant to Rule 12(b)(6), which the District Court did not address given its dismissal of the case under Rule 12(b)(1). Since we may affirm on any basis supported by the record, Guthrie v. Lady Jane Collieries, Inc., 722 F.2d 1141, 1144–45 (3d Cir. 1983), we now consider that 12(b)(6) motion.
+ 
+*351 Reviewing Assurant’s arguments under Rule 12(b)(6) rather than Rule 12(b)(1) means that Assurant’s declaration distinguishing itself from ASIC cannot factor into our analysis, and we must accept the well-pleaded facts of the amended complaint as true. Along with those facts, we may also consider “exhibits attached to the complaint[,] matters of public record,” and documents “integral to or explicitly relied upon in the complaint.” Schmidt v. Skolas, 770 F.3d 241, 249 (3d Cir. 2014) (internal quotation marks and emphasis omitted). Although we are usually confined to the allegations of the complaint, “the justification for the integral documents exception is that it is not unfair to hold a plaintiff accountable for the contents of documents [he] must have used in framing [his] complaint, nor should a plaintiff be able to evade accountability for such documents simply by not attaching them to his complaint.” Id. at 250.
+ 
+[31]We start with Davis’s breach of contract claim. To make out that claim, Davis must allege facts giving rise to a reasonable inference that discovery will reveal evidence that “there was a contract, [Assurant] breached it, and [he] suffered damages from the breach.” McShea v. City of Philadelphia, 606 Pa. 88,995 A.2d 334, 340 (2010).21 In his amended complaint, Davis alleges that he had an insurance contract with Assurant and that Assurant breached the contract by failing to “adequately investigate and pay the roof leak claim ... which led to and caused the back wall of [Davis’s] property to deteriorate and collapse.” (S16.) Assurant’s response is that, given the distinction between ASIC and Assurant, it “does not have any contractual relationship with [Davis].” (Assurant Br. at 23.) But the distinction between ASIC and Assurant is only established by the very declaration that we must ignore in ruling on Assurant’s 12(b)(6) motion. Further, there are at least two integral documents attached as exhibits to the amended complaint—the letters settling the first insurance claim and denying Davis’s second claim—indicating that an insurance contract existed between Davis and an insurer using letterhead bearing the names of both “American Security Insurance Company” and “ASSURANT Specialty Property.” (S92, 105 (original emphasis).)22 Thus, Assurant’s name appeared, in bolded font, at the top of the letter denying Davis’s insurance claim.23 Viewing the allegations of the complaint and integral documents in the light most favorable to Davis—and ignoring the facts set out in Assurant’s declaration—we cannot say that those documents fail to “raise a reasonable expectation that discovery will uncover proof” that a contract existed between Davis and Assurant, that Assurant breached the contract, and that it thereby caused damage to Davis’s Property. Connelly v. Lane Constr. Corp., 809 F.3d 780, 789 (3d Cir. 2016). Accordingly, dismissal under Rule 12(b)(6) of Davis’s breach of contract claim against Assurant is not warranted.
+ 
+[32] [33] *352 Although Davis’s breach of contract claim survives, he cannot bring a separate bad faith claim against Assurant. “[U]nder Pennsylvania law, a ‘claim for breach of the implied covenant of good faith and fair dealing is subsumed in a breach of contract claim.’ ” Burton v. Teleflex Inc., 707 F.3d 417, 432 (3d Cir. 2013) (quoting LSI Title Agency, Inc. v. Evaluation Servs., Inc., 951 A.2d 384, 392 (Pa. Super. Ct. 2008)). In other words, Davis cannot maintain a bad faith claim “separate and distinct from a breach of contract claim. Rather, a claim arising from a breach of the covenant of good faith must be prosecuted as a breach of contract claim, as the covenant does nothing more than imply certain obligations into the contract itself.” JHE, Inc. v. Se. Pa. Transp. Auth., No. 1790, 2002 WL 1018941, at *5 (Pa. Com. Pl. May 17, 2002). Because Davis cannot maintain an independent cause of action for breach of the covenant of good faith and fair dealing under Pennsylvania law, that claim should be dismissed and his arguments concerning bad faith should be addressed in connection with his surviving breach of contract claim.
+ 
+[34] [35]We also agree with Assurant’s argument that Davis’s negligence and fraud claims are time barred under Pennsylvania’s applicable two-year statute of limitations. See 42 Pa. Cons. Stat. § 5524(7). With respect to the negligence claim, Davis alleged that Assurant “breached its duty of care to [him] when it failed to investigate, estimate and pay [Davis’s] roof leak claim leaving the property unrepaired and exposed to the elements which caused the back wall to deteriorate, collapse and grow toxic black mold that spread throughout the house.” (S21.) As previously discussed, Davis knew that Assurant denied his insurance claim regarding the roof leak by (at the latest) October 28, 2012, more than two years before he filed suit in December 2014. The same is true of Davis’s fraud claim, which is premised on the purported kickback scheme between Wells Fargo and Assurant and on Assurant’s coverage responses to the Property’s roof leak. The insurance policy was placed on the property in April 2009, and Assurant denied Davis’s insurance claim on October 28, 2012. Thus, by the time Davis filed his complaint in December 2014, his fraud claim was also barred by the two-year statute of limitations. Nothing in the amended complaint or the documents integral to it suggests that the statute of limitations should be tolled for any reason, and Davis—by not filing a reply brief addressed to any of Assurant’s 12(b)(6) arguments—has not argued for tolling in this regard.24
+ 
+Accordingly, on remand, Davis’s sole surviving claim is his breach of contract claim against Assurant.25
+ 
+
+III. CONCLUSION
+For the foregoing reasons, we will affirm the District Court’s order in part, *353 vacate it in part, and remand for further proceedings consistent with this opinion.
+ 
+All Citations
+824 F.3d 333
+Footnotes
+
+1
+
+In its brief, Wells Fargo contends that Davis has actually treated two distinct entities as one. It says that, “Wells Fargo Bank, N.A., is the servicer for U.S. Bank with respect to [Davis]’s mortgage loan.” (Answering Br. at 2 n.2.) Davis’s ability, or lack thereof, to distinguish between different corporate entities animates much of this appeal and has had important consequences. Any distinction between Wells Fargo and U.S. Bank is, however, irrelevant for our current purposes, as we will affirm the dismissal of all claims against the bank Davis is trying to sue, whatever its name.
+
+2
+
+For purposes of the motions to dismiss under Rule 12(b)(6), we recount the facts as alleged by the non-movant, Davis, accepting them as true. Fowler v. UPMC Shadyside, 578 F.3d 203, 210 (3d Cir. 2009).
+
+3
+
+At the time Davis filed his amended complaint in the 2012 action, SCRA was codified at 50 U.S.C. app. §§ 501, et seq.
+
+4
+
+The amended complaint also included a claim against both Wells Fargo and Assurant for “loss of rental income” (Count VIII). (S27.) The District Court dismissed that count because it concluded the loss of rental income “claim” was an element of damages rather than a distinct cause of action. Davis v. Wells Fargo U.S. Bank Nat’l Ass’n, No. 14–07014, 2015 WL 3555301, at *7 (E.D. Pa. June 8, 2015). Davis does not dispute that conclusion on appeal, so we regard any argument as to that count to be waived and will affirm the dismissal of that count. See Albrecht v. Horn, 485 F.3d 103, 113 n. 3 (3d Cir. 2007) (“An issue that is not discussed in the briefs is waived.”).
+
+5
+
+Wells Fargo rightly concedes that, under 28 U.S.C. §§ 1331, 1332, and 1367, the District Court had jurisdiction over the claims against it. The District Court’s jurisdiction over Assurant is squarely at issue in this case, and we address it herein. We have appellate jurisdiction to review a final decision of the District Court pursuant to 28 U.S.C. § 1291.
+
+6
+
+The additional factual allegations of the amended complaint are immaterial here, as they relate only to the duration of Davis’s military service spent on active duty as compared to his time as a reservist.
+
+7
+
+The District Court was careful to note one “conclusory” allegation pertaining to something that occurred after Davis filed his amended complaint in the 2012 action (on December 7, 2012). Davis, 2015 WL 3555301, at *6 n. 2. In paragraph 35 of his amended complaint in the present case, Davis alleges that “[o]n June 11, 2013, Wells Fargo negligently replaced the back wall [to the property] ... but did not repair the roof which was the underlying cause of the wall collapse enabling the roof to continue to leak onto the wall and enable the back wall to continue to deteriorate again.” (S7 ¶ 35.) However, the District Court rightly concluded that Davis’s negligence claim was still barred by res judicata because “the factual allegations in the amended complaint make clear that Davis’[s] negligence claim is based on Wells Fargo’s failure to repair the roof leak in October 2011.” Davis, 2015 WL 3555301, at *6 n. 2. Davis’s negligence claim alleged that “Wells Fargo did not act reasonably when it took Plaintiff’s property before it had the legal right to do so, discovered a small roof leak while in possession of the property, filed an insurance claim for the leak, received settlement for the claim, fail[ed] to repair the roof leak with the money permitting the back wall to collapse and then return[ed] the property to Plaintiff in a dilapidated condition.” (S20 ¶ 117.) Those allegations thus clearly relate to the failure to repair Davis’s property in late 2011, upon the initial discovery of the leak.
+
+8
+
+We hasten to add that we are not suggesting that the constructive notice afforded to the world by the recording of a document in accordance with applicable law gives actual knowledge of specific title transactions to an individual who is a stranger to the document recorded. But here we are dealing with a situation in which the identity of the party claiming to be the mortgagee, Wells Fargo, was well known to Davis when he commenced the 2012 action. Surely Davis had a motive to examine public records to see how Wells Fargo had become the mortgagee inasmuch as Davis executed the mortgage in favor of a different party, BNC. In other words, events of which Davis was unquestionably aware should have signaled him to investigate how Wells Fargo could have claimed to be the mortgagee more than one year before he filed his 2012 action.
+
+9
+
+Davis’s anti-tying claim related to the force-placed insurance that was obtained in 2009, so that claim also could have been brought in the 2012 action.
+
+10
+
+Davis devotes a section of his brief to arguments against the application of collateral estoppel, or issue preclusion. Claim preclusion and issue preclusion are distinct doctrines, and the District Court relied only on the former to dismiss certain of Davis’s claims. Consequently, we have no occasion to address his arguments against the application of issue preclusion.
+
+11
+
+The trespass claim is not barred by res judicata because Davis did assert it in the prior action and it was not dismissed on the merits. Instead, when dismissing the SCRA claim, the District Court declined to exercise jurisdiction over the trespass claim.
+
+12
+
+The parties do not dispute that Pennsylvania law applies.
+
+13
+
+And perhaps the measuring point should be earlier, because the limitations period generally begins to run “as soon as the injury is sustained,” Mest v. Cabot Corp., 449 F.3d 502, 510 (3d Cir. 2006)—in this case, when Davis was first locked out of the property in January 2008. In general, “lack of knowledge, mistake or misunderstanding do not toll the running of the statute of limitations.” Pocono Int’l Raceway, Inc. v. Pocono Produce, Inc., 503 Pa. 80, 468 A.2d 468, 471 (1983). As an exception to that principle, Pennsylvania adheres to the “discovery rule,” which can, in limited circumstances, afford plaintiffs additional time for the filing of their claims. But that rule only applies when the plaintiff is unable, “despite the exercise of diligence, to determine the injury or its cause....” Id. The amended complaint gives no indication that Davis, through the exercise of reasonable diligence, could not have timely discovered either his expulsion from the property or the purported invalidity of Wells Fargo’s transactional documents. Therefore, the discovery rule does not save Davis’s trespass claim.
+But again, even under the most charitable reading of his amended complaint, the limitations period ended, at the very latest, in September 2014. Either way, the statute of limitations had lapsed by the time Davis filed his complaint in December 2014.
+
+14
+
+In dismissing the 2012 action, the District Court also explained that Davis would not be barred from reasserting his trespass claim in state court by the statute of limitations if he were to “promptly file[ ] a certified transcript of the judgment and pleadings filed in this action.” (S 279 n.1.) See 42 Pa. Cons. Stat. § 5103(b). But Davis did not refile his trespass claim in state court, and the District Court in the current action determined that, in light of Davis’s two-year delay in refiling the claim in the District Court, it was time-barred by the two-year limitation period in 42 Pa. Cons. Stat. § 5524(4). Davis, 2015 WL 3555301, at *6. There is nothing erroneous in that conclusion.
+
+15
+
+Although we affirm the District Court’s dismissal of Davis’s claims against Wells Fargo, we would be remiss if we did not add a note about the disturbing allegations he has made. If they are true, the bank locked Davis out of his home before starting foreclosure proceedings, initiated a series of fraudulent assignments of the mortgage, and obtained insurance on the Property as part of a kickback scheme with the insurer while Davis paid excessive premiums. Although the insurance should have covered the leak and damage to the wall, Wells Fargo allegedly settled the damage claim for a payment of $317—for roof repairs—but then took no action to actually repair the roof. And all of this took place during and around the time that Davis was serving three years of active duty in the United States Army in a time of war.
+When asked about those facts during oral argument, Wells Fargo did not dispute their veracity, nor did its counsel seem particularly concerned about the brazenly exploitative character of the alleged actions of the bank. In one telling portion of the argument, when asked whether the bank had the right to make an insurance claim, take money for a roof repair, and then pocket that money and not make the repair, all while knowing the result could be further deterioration and structural damage to the Property, counsel said simply, “that is what the mortgage gives them the right to do.” See Oral Argument, http://www2.ca3.uscourts.gov/oralargument/audio/15-2658Davisv.WellsFargo.mp3, at 19:13–19:38 (argued March 2, 2016). If the allegations are true, they raise serious questions about bad faith that we are not now in a position to address. Suffice it to say, however, that although we affirm the dismissal of Davis’s claims, we hope the allegations of the amended complaint do not reflect Wells Fargo’s actual business practices.
+
+16
+
+We do not believe that the phrasing chosen by the Supreme Court in setting out the second Lujan factor—that “the injury has to be fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court,” 504 U.S. at 560, 112 S.Ct. 2130 (internal quotation and editorial marks omitted)—was meant to transform ordinary merits arguments about who is legally responsible for an injury into questions of jurisdiction. Our cases have instead treated traceability as a question of causation, asking whether a plaintiff has “allege[d] facts that plausibly support a causal connection between [the plaintiff]’s injury-in-fact and [the defendant’s conduct].” In re Schering Plough Corp. Intron/Temodar Consumer Class Action, 678 F.3d 235, 247 (3d Cir. 2012). See infra and accompanying text.
+
+17
+
+We addressed that prejudice clearly in Kulick. 816 F.2d at 897. There, a horse owner brought a civil rights action under 42 U.S.C. § 1983 against a racing association, alleging that he had been ejected from a racetrack without due process. The district court dismissed the case for want of subject matter jurisdiction, because the plaintiff had failed to establish that the defendant’s actions were taken under color of state law, as required under § 1983. We reversed, recognizing that “a court has jurisdiction over the dispute so long as the plaintiff alleges that defendant’s actions violate the requisite federal law.... Once the plaintiff has met this threshold pleading requirement, however, the truth of the facts alleged in the complaint is a question on the merits, as is the legal question whether the facts alleged establish a violation.” Id. at 897–98. We emphasized that, were it “[o]therwise, the district court could turn an attack on the merits, against which the party has the procedural protections of a full trial including the right to a jury, into an attack on jurisdiction, which a court may resolve at any time without a jury pursuant to Federal Rules of Civil Procedure 12(b)(1) and 12(h)(3).” Id. at 898. In reversing, we held that the district court should not have treated its findings of fact “as conclusive on the issue of jurisdiction because the presence of state action was properly a concern not of jurisdiction but of the merits.” Id. at 896.
+
+18
+
+Uniquely, Rule 12(b)(1) allows a district court to make findings of fact that contradict the allegations in the complaint, at the very outset of litigation, before any discovery has taken place.
+
+19
+
+It is possible, of course, to imagine a plaintiff who sues Corporation X on a claim that it is responsible for a civil war somewhere on the other side of the planet. To establish its standing, that plaintiff would have to satisfy the second Lujan factor and show an injury “fairly traceable to the challenged action of the defendant, and not the result of the independent action of some third party not before the court.” Lujan, 504 U.S. at 560, 112 S.Ct. 2130 (internal quotation and editorial marks omitted). That is, we believe, the kind of implausible allegation the Supreme Court had in mind when it crafted the exception permitting dismissal under Rule 12(b)(1) for wholly insubstantial claims to jurisdiction.
+
+20
+
+In support of its argument, Assurant cites several cases in which it has persuaded district courts across the country that its standing argument is meritorious. Montoya v. PNC Bank, N.A., No. 14–20474–CIV, 2014 WL 4248208, at *5 (S.D. Fla. Aug. 27, 2014); Cochran–May v. Wells Fargo Bank, NA, No. 2:12–cv–240, 2014 WL 361177, at *2 (S.D. Tex. Feb. 3, 2014); Xi Chen Lauren v. PNC Bank, N.A., No. 2:13–cv–762, 2013 WL 5565511, at *4 (W.D. Pa. Oct. 8, 2013); Roberts v. Wells Fargo Bank, N.A., No. 4:12–cv–200, 2013 WL 1233268, at *7 (S.D. Ga. Mar. 27, 2013); Cannon v. Wells Fargo Bank N.A., 917 F.Supp.2d 1025, 1032 (N.D. Cal. 2013). We have considered each of those cases and, insofar as they accept Assurant’s standing argument under Rule 12(b)(1), we reject their reasoning.
+
+21
+
+Again, there is no dispute that Pennsylvania law applies.
+
+22
+
+These two letters are integral to Davis’s amended complaint because he clearly “relied upon these documents in framing the complaint.” In re Burlington Coat Factory Sec. Litig., 114 F.3d 1410, 1426 (3d Cir. 1997) (internal quotation marks omitted).
+
+23
+
+In its brief, Assurant cites those same two documents, noting that they “are correspondence clearly returnable and pertaining to [Davis’s] insurance policy with ASIC, as indicated by the ASIC returnable addresses across the top of each.” (Assurant Br. at 24.) Assurant neglects to mention that both documents also bear its own name in bold, in the largest font on the page, in their upper-left-hand corner.
+
+24
+
+Assurant also contends that Davis’s fraud claim should be dismissed because it fails to meet the heightened pleading requirements of Federal Rule of Civil Procedure 9(b), which requires averments of fraud to be “state[d] with particularity.” Because we dismiss Davis’s fraud claim by application of the statute of limitations, we need not address that argument.
+
+25
+
+Finally, we will also affirm the District Court’s order insofar as it denied Davis’s motion to amend the (already) amended complaint. Davis has not addressed the denial of leave to amend anywhere in his brief, and “[w]e have consistently held that [a]n issue is waived unless a party raises it in its opening brief.” In re Fosamax (Alendronate Sodium) Products Liab. Litig. (No. II), 751 F.3d 150, 157 (3d Cir. 2014) (second alteration in original) (citation and internal quotation marks omitted).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

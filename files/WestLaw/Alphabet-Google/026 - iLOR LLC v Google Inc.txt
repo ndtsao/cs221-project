@@ -1,0 +1,433 @@
+
+
+
+
+
+iLOR, LLC v. Google, Inc.
+United States Court of Appeals, Federal Circuit. | January 11, 2011 | 631 F.3d 1372 | 2011 WL 140358
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Not Followed as Dicta Kilopass Technology, Inc. v. Sidense Corp., Fed.Cir.(Cal.), December 26, 2013
+
+standard Citation:
+
+iLOR, LLC v. Google, Inc., 631 F.3d 1372 (Fed. Cir. 2011)
+
+All Citations:
+
+631 F.3d 1372, 97 U.S.P.Q.2d 1597
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Kentucky
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Not Followed as Dicta Kilopass Technology, Inc. v. Sidense Corp., Fed.Cir.(Cal.), December 26, 2013
+631 F.3d 1372
+United States Court of Appeals,
+Federal Circuit.
+ILOR, LLC, Plaintiff–Appellant,
+v.
+GOOGLE, INC., Defendant–Appellee.
+Nos. 2010–1117, 2010–1172.
+|
+Jan. 11, 2011.
+Synopsis
+Background: In patent infringement action, patent assignee appealed an order of the United States District Court for the Eastern District of Kentucky, Joseph M. Hood, Senior District Judge, 2009 WL 3367391, granting competitor’s motion to find case exceptional and awarding attorney fees and costs and expenses.
+ 
+[Holding:] The Court of Appeals, Dyk, Circuit Judge, held that case was not exceptional, as would warrant award of prevailing party attorney fees.
+ 
+Reversed and remanded.
+ 
+
+
+West Headnotes (9)
+
+
+[1]
+
+Federal CourtsCosts and attorney fees
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3617Costs and attorney fees
+(Formerly 170Bk830)
+
+
+Federal Circuit reviews an award of attorney fees for abuse of discretion.
+5 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsCosts and fees
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(20)Costs and fees
+(Formerly 291k324.55(2))
+
+
+A finding that a patent case is exceptional, for purposes of an award of attorney fees, is reviewable only for clear error. 35 U.S.C.A. § 285.
+8 Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsAbuse of discretion in general
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3563Discretion of Lower Court in General
+170Bk3565Abuse of discretion in general
+(Formerly 170Bk812)
+
+
+A district court abuses its discretion when its decision is based on clearly erroneous findings of fact, is based on erroneous interpretations of the law, or is clearly unreasonable, arbitrary or fanciful.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsEvidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)8Costs and Fees
+291k2005Proceedings to Impose;  Taxation
+291k2007Evidence
+(Formerly 291k325.11(5))
+
+
+Both the objective baselessness and subjective bad faith standards for awarding reasonable attorney fees to prevailing party in exceptional patent case must be established by clear and convincing evidence. 35 U.S.C.A. § 285.
+72 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsEvidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)8Costs and Fees
+291k2005Proceedings to Impose;  Taxation
+291k2007Evidence
+(Formerly 291k325.11(5))
+
+
+Federal Circuit recognizes a presumption that the assertion of infringement of a duly granted patent is made in good faith, for purposes of awarding reasonable attorney fees. 35 U.S.C.A. § 285.
+8 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsExceptional cases in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)8Costs and Fees
+291k1996Attorney Fees
+291k1998Exceptional cases in general
+(Formerly 291k325.11(2.1))
+
+
+State of mind is irrelevant to the objective baselessness inquiry, for purposes of awarding reasonable attorney fees to prevailing party in exceptional patent case. 35 U.S.C.A. § 285.
+47 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsExceptional cases in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)8Costs and Fees
+291k1996Attorney Fees
+291k1998Exceptional cases in general
+(Formerly 291k325.11(2.1))
+
+
+The existence of objective baselessness, for purposes of awarding reasonable attorney fees to prevailing party in exceptional patent case, is to be determined based on the record ultimately made in the infringement proceedings. 35 U.S.C.A. § 285.
+68 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsAwards to competitors
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)8Costs and Fees
+291k1996Attorney Fees
+291k2000Awards to competitors
+(Formerly 291k325.11(4))
+
+
+Patent assignee’s proposed construction of patent claim providing “the toolbar being displayable based on a location of a cursor in relation to a hyperlink,” as covering method where right-mouse click was required to display toolbar, in addition to method where toolbar was automatically displayed when cursor was proximate to hyperlink, was not objectively baseless in action alleging infringement of patent directed to method for adding user selectable function to Internet hyperlink, and thus action was not “exceptional” for purposes of awarding competitor prevailing party attorney fees, even though assignee was ultimately unsuccessful in action, since claim did not use word “automatic,” preamble to claim used open-ended “comprising” language, and specification did not clearly refute assignee’s construction. 35 U.S.C.A. § 285.
+9 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,206,839. Cited.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1373 David E. Schmit, Frost Brown Todd LLC, of Cincinnati, OH, argued for plaintiff-appellant.
+Frank E. Scherkenbach, Fish & Richardson P.C., of Boston, MA, argued for defendant-appellee. With him on the brief were Kurt L. Glitzenstein; and Shelley K. Mack, of Redwood City, CA.
+*1374 Before RADER, Chief Judge, LINN and DYK, Circuit Judges.
+Opinion
+DYK, Circuit Judge.
+
+iLOR, LLC (“iLOR”) appeals from an order of the United States District Court for the Eastern District of Kentucky finding this case exceptional under 35 U.S.C. § 285 and awarding attorneys’ fees and costs and expenses. iLOR, LLC v. Google, Inc., No. 5:07–CV–109, Doc. 93, 2009 WL 3367391 (E.D.Ky. Oct.15, 2009). This decision was based on a finding that iLOR’s proposed construction of claim 26 of U.S. Patent No. 7,206,839 (“′839 patent”) was baseless, and that iLOR knew or should have known that the Google Notebook product did not infringe its patent. Id. at *4.
+ 
+Because we hold that iLOR’s proposed construction of claim 26 was not objectively baseless, we reverse.
+ 
+
+BACKGROUND
+iLOR is an Internet company and assignee of the ′839 patent. This patent is directed to a “[m]ethod for adding a user selectable function to a hyperlink.” ′839 Patent at [54]. A hyperlink is a “string of text or a computer graphic that a user can ‘click’ with the mouse pointer” to open a new browser page. Id. at col.1 ll.24–26. Claim 26, the only claim at issue, provides:
+A method for enhancing a hyperlink, comprising: providing a user-selectable link enhancement for a toolbar, the toolbar being displayable
+based on a location of a cursor in relation to a hyperlink in a first page in a first window of an application, wherein said first page is associated with a first uniform resource locator (URL), wherein said hyperlink is associated with a second URL and a second page, wherein said user-selectable link enhancement is adapted to display a graphical element based on said first URL;
+receiving an indication of a first user selection of said link enhancement; and
+as a result of said first user selection,
+capturing said first URL associated with said first page; and displaying a graphical element, said graphical element associated with said captured first URL, said graphical element adapted to cause said first page to be displayed as a result of a second user selection of said graphical element.
+Id. at col. 12 l.59–col. 13 l.13 (emphasis added).
+ 
+In its infringement suit against Google in the United States District Court for the Eastern District of Kentucky, iLOR alleged that the Google Notebook product infringed claim 26 of the ′839 patent because the online application had a feature that allowed a user to right-click on a hyperlink while the cursor was positioned over that hyperlink. This action caused a toolbar to be displayed from which the user could select a “Note This Item” option to bookmark the URL address of the hyperlink for later viewing. Google counterclaimed, seeking a declaratory judgment of non-infringement, invalidity, and unenforceability based on inequitable conduct. Relying only on claim 26, iLOR moved for a preliminary injunction, requesting that Google be enjoined from using or inducing others to use Google Notebook in a way that infringed that claim.
+ 
+In connection with the preliminary injunction motion, the only disputed limitation of claim 26 was “the toolbar being displayable based on a location of a cursor in relation to a hyperlink.” Id. at col. 12 ll.63–64 (emphasis added). Google argued that the “being displayable” limitation only covered methods where the toolbar was automatically displayed when a cursor was *1375 proximate to the hyperlink. iLOR contended that the claim also covered an embodiment where a right-mouse click was required to display the toolbar. The district court agreed with Google and construed the claim to mean that “the toolbar is ‘automatically displayed’ upon the placement of the cursor in proximity to a hyperlink with no further action on the part of a user.” iLOR, LLC v. Google, Inc., No. 5:07–CV109, Doc. 70, 2007 WL 4259586, at *6 (E.D.Ky. Nov.30, 2007).
+ 
+The district court supported its construction by looking to the ordinary meaning of the claim language, concluding that the language of claim 26 “means simply that the toolbar is displayable or capable of being displayed, put before the view of the user, or made evident based on the location of the cursor.” Id. at *4. The court also noted that the specification distinguished the current invention from Web browsers in which a user could open a new window by “right clicking on [a] link and then clicking on the ‘open in new window’ menu [item].” Id. at *5; see ′839 Patent col.6 ll.22–27. The court was also persuaded by the prosecution history, which suggested that iLOR contemplated a display of the toolbar without further user action. iLOR, 2007 WL 4259586, at *6–8. The court thus concluded that the “displayable” limitation of claim 26 did not teach a right-click action in order to display a toolbar. Because it was undisputed that Google Notebook did not automatically display its toolbar, but instead required the user to right-click on the hyperlink, the district court granted summary judgment on non-infringement and dismissed the suit with prejudice. Id. at *9.
+ 
+iLOR appealed, and we approved the district court’s construction of claim 26, holding that the district court therefore did not err in denying a preliminary injunction. iLOR, LLC v. Google, Inc., 550 F.3d 1067, 1069 (Fed.Cir.2008). In that first appeal, we agreed that the language of the claim and the specification suggested that the toolbar display was automatic and “based on the location of the cursor” in relation to the hyperlink. Id. at 1073. We also found that the abstract and specification permitted an interpretation in which “user inaction ” (i.e., hovering the cursor over the hyperlink) may cause the toolbar to display, but nothing in the specification indicated that a further action, such as right-clicking, was required. Id. at 1074. For example, we noted that the abstract provides “[w]hen the cursor has remained near the hyperlink for a predetermined time period, a toolbar is displayed containing one or more link enhancements that the user may select.” Id. (quoting ′839 Patent, at [57] ).
+ 
+Finally, we agreed with the district court that there was support in the prosecution history that iLOR contemplated an automatic toolbar display. During the prosecution of the ′839 patent’s parent application, iLOR distinguished a prior art Newfield patent, which, it claimed, required further user action for a display, not merely locating the cursor near the hyperlink. The disclaimer stated, in relevant part:
+First, Newfield does not teach detecting a cursor in proximity to a hyperlink. Instead, Newfield teaches that a user must click on or select a hyperlink to access the breadth-first search system of Newfield. In contrast, the present invention detects a cursor in proximity to the hyperlink. Therefore Newfield does not teach detecting a cursor in proximity to a hyperlink.
+Joint App. 1465 (emphases altered) (internal citation omitted).
+ 
+After the disposition of that first appeal, Google moved to recover its attorneys’ fees and costs and expenses under *1376 35 U.S.C. § 285. On October 15, 2009, the district court granted Google’s motion, finding the case exceptional under 35 U.S.C. § 285 and awarding attorneys’ fees and costs and expenses. In so ruling, the district court found that the case was “not close” on the merits (i.e., objectively baseless) and that iLOR had acted in subjective bad faith. iLOR appealed from the October 15, 2009, order. Thereafter, on December 23, 2009, the district court issued a final order increasing the attorneys’ fee award to $627,039.25 and the total award to $660,351.93. iLOR again appealed, and we consolidated the two pending appeals. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+[1] [2] [3] Under 35 U.S.C. § 285, a “court in exceptional cases may award reasonable attorney[s’] fees to the prevailing party.” We review an award of attorneys’ fees for abuse of discretion. Superior Fireplace Co. v. Majestic Prods. Co., 270 F.3d 1358, 1376 (Fed.Cir.2001). However, a finding that a case is exceptional under § 285 is reviewable only for clear error. See Takeda Chem. Indus., Ltd. v. Mylan Labs., Inc., 549 F.3d 1381, 1385 (Fed.Cir.2008). “A district court abuses its discretion when its decision is based on clearly erroneous findings of fact, is based on erroneous interpretations of the law, or is clearly unreasonable, arbitrary or fanciful.” Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1460 (Fed.Cir.1998) (en banc).
+ 
+The sanctions imposed under § 285 carry serious economic and reputational consequences for both litigants and counsel, and
+[d]espite our reluctance to second-guess the judgment of trial judges who typically have intimate knowledge of the case, we have the responsibility, in light of the substantial economic and reputational impact of such sanctions, to examine the record with care to determine whether the trial court has committed clear error in holding the case exceptional or has abused its discretion with respect to the fee award. Where we have found error, we have reversed exceptional case findings and vacated attorney fee awards based on those findings.
+Medtronic Navigation, Inc. v. BrainLAB Medizinische Computersysteme GmbH, 603 F.3d 943, 953 (Fed.Cir.2010).
+ 
+
+I
+A
+Section 285 must be interpreted against the background of the Supreme Court’s decision in Professional Real Estate Investors, Inc. v. Columbia Pictures Industries, Inc., 508 U.S. 49, 113 S.Ct. 1920, 123 L.Ed.2d 611 (1993). There, the Court recognized that the right to bring and defend litigation implicated First Amendment rights and that bringing allegedly frivolous litigation could only be sanctioned if the lawsuit was “objectively baseless in the sense that no reasonable litigant could realistically expect success on the merits.” Id. at 60, 113 S.Ct. 1920. “Only if challenged litigation is objectively meritless may a court examine the litigant’s subjective motivation.” Id.
+ 
+[4] [5] In determining whether a case is “exceptional” under § 285, the relevant standard is set forth in Brooks Furniture Manufacturing, Inc. v. Dutailier International, Inc., 393 F.3d 1378 (Fed.Cir.2005). There, we held that an award of attorneys’ fees is permissible “when there has been some material inappropriate conduct related to the matter in litigation, such as willful infringement, fraud or inequitable conduct in procuring the patent, misconduct during litigation, vexatious or unjustified litigation, conduct that violates *1377 Fed.R.Civ.P. 11, or like infractions.” Id. at 1381. Relying on Professional Real Estate, we held that, absent misconduct during patent prosecution or litigation, sanctions may be imposed against a patent plaintiff “only if both (1) the litigation is brought in subjective bad faith, and (2) the litigation is objectively baseless.” Id.; see also Wedgetail Ltd. v. Huddleston Deluxe, Inc., 576 F.3d 1302, 1304–06 (Fed.Cir.2009) (refusing to find patentee’s unsuccessful case exceptional under Brooks Furniture ). An infringement action “does not become unreasonable in terms of [§ 285] if the infringement can reasonably be disputed. Infringement is often difficult to determine, and a patentee’s ultimately incorrect view of how a court will find does not of itself establish bad faith.” Brooks Furniture, 393 F.3d at 1384. Under this exacting standard, the plaintiff’s case must have no objective foundation, and the plaintiff must actually know this. Both the objective and subjective prongs of Brooks Furniture “must be established by clear and convincing evidence.” Wedgetail, 576 F.3d at 1304. We recognize a “presumption that the assertion of infringement of a duly granted patent is made in good faith.” Brooks Furniture, 393 F.3d at 1382 (citing Springs Window Fashions LP v. Novo Indus., L.P., 323 F.3d 989, 999 (Fed.Cir.2003)).
+ 
+
+B
+[6] [7] The objective baselessness standard for enhanced damages and attorneys’ fees against a non-prevailing plaintiff under Brooks Furniture is identical to the objective recklessness standard for enhanced damages and attorneys’ fees against an accused infringer for § 284 willful infringement actions under In re Seagate Technology, LLC, 497 F.3d 1360 (Fed.Cir.2007) (en banc). Relying on the Supreme Court’s decision in Safeco Insurance Co. of America v. Burr, 551 U.S. 47, 127 S.Ct. 2201, 167 L.Ed.2d 1045 (2007), we held that:
+[P]roof of willful infringement permitting enhanced damages requires at least a showing of objective recklessness.... Accordingly, to establish willful infringement, a patentee must show by clear and convincing evidence that the infringer acted despite an objectively high likelihood that its actions constituted infringement of a valid patent....  The state of mind of the accused infringer is not relevant to this objective inquiry. If this threshold objective standard is satisfied, the patentee must also demonstrate that this objectively defined risk (determined by the record developed in the infringement proceeding) was either known or so obvious that it should have been known to the accused infringer.
+Seagate, 497 F.3d at 1371 (emphases added). A finding of willful infringement is only justified if the objective prong is satisfied. See, e.g., Spine Solutions, Inc. v. Medtronic Sofamor Danek USA, Inc., 620 F.3d 1305, 1319–20 (Fed.Cir.2010) (reversing denial of JMOL of no willfulness after finding that Medtronic was not objectively reckless in relying on obviousness defense despite jury’s finding of non-obviousness); DePuy Spine, Inc. v. Medtronic Sofamor Danek, Inc., 567 F.3d 1314, 1336–37 (Fed.Cir.2009) (affirming JMOL of no willfulness where defendant “presented a substantial question” of noninfringement under the doctrine of equivalents, even though the jury found equivalence). Under both Brooks Furniture and Seagate, objective baselessness “does not depend on the plaintiff’s state of mind at the time the action was commenced, but rather requires an objective assessment of the merits.” Brooks Furniture, 393 F.3d at 1382. State of mind is irrelevant to the objective baselessness inquiry. See id.; Seagate, 497 F.3d at 1371 (“[S]tate of mind of the *1378 accused infringer is not relevant to [the] objective inquiry.”). The existence of objective baselessness is to be determined based on the record ultimately made in the infringement proceedings. See Brooks Furniture, 393 F.3d at 1382; Seagate, 497 F.3d at 1371.
+ 
+
+C
+While the district court’s opinion here is not entirely clear, the district court appears to have found both objective baselessness and subjective bad faith based on a finding that “iLOR was aware long before filing suit” that Google Notebook did not automatically display its toolbar and that the scope of the ′839 patent did not cover nonautomatic methods of displaying toolbars. iLOR, 2009 WL 3367391, at *2. As we now discuss, we conclude that a finding of objective baselessness has not been met here, and we need not consider the issue of subjective bad faith.
+ 
+
+II
+[8] Though iLOR was ultimately unsuccessful in its patent infringement suit, Google has not met its high burden to show by clear and convincing evidence that this suit was brought frivolously or that iLOR’s position on claim construction was objectively baseless. The question is whether iLOR’s broader claim construction was so unreasonable that no reasonable litigant could believe it would succeed. See Dominant Semiconductors Sdn. Bhd. v. OSRAM GmbH, 524 F.3d 1254, 1260 (Fed.Cir.2008) (“To be objectively baseless, the infringement allegations must be such that no reasonable litigant could reasonably expect success on the merits.” (internal quotation omitted)).
+ 
+The parties agree that this case turns almost entirely on whether the patentee’s construction of claim 26—the only claim at issue—had any objective merit. That claim provided in part: “the toolbar being displayable based on a location of a cursor in relation to a hyperlink in a first page in a first window of an application.” ′839 Patent col.12 ll.63–65. As noted above, iLOR proffered a construction where claim 26 would cover a toolbar that might also be displayed upon a right-mouse click. iLOR, 2007 WL 4259586, at *4. However, the district court disagreed and adopted Google’s proposed construction, and we affirmed.
+ 
+On its face, the claim language does not preclude the patentee’s construction, although, as we held in the first appeal, the language supports the district court’s construction. For instance, iLOR points out that claim 26 does not use the word “automatic.” iLOR also points out that the plain language of the preamble to claim 26 uses open-ended “comprising” language, which does not preclude additional steps such as a right-mouse click to display the toolbar. See, e.g., Genentech, Inc. v. Chiron Corp., 112 F.3d 495, 501 (Fed.Cir.1997) (construing “comprising” as a “term of art used in claim language which means that the named elements are essential, but other elements may be added and still form a construct within the scope of the claim”). A reasonable litigant could proffer these arguments in good faith.
+ 
+Nor does the specification clearly refute the patentee’s construction. There is no description in the ′839 patent that the toolbar must automatically pop up. And while the specification does not disclose a right-click embodiment, it does not foreclose that argument either. For example, the Abstract describes a patented method that “permits the user to interact with a hyperlink in a variety of ways without necessarily having to open and/or follow the hyperlink.” ′839 Patent, at [57] (emphasis added). This language could suggest *1379 that a right-click action is not foreclosed.
+ 
+We also find that the district court’s reliance on the prosecution history of the parent patent is misplaced. The district court found that during the prosecution history of the parent application to the ′839 patent, iLOR differentiated the Newfield prior art from the claimed invention based on the fact that Newfield required a click to select a hyperlink. iLOR’s disclaimer stated, in relevant part:
+First, Newfield does not teach detecting a cursor in proximity to a hyperlink. Instead, Newfield teaches that a user must click on or select a hyperlink to access the breadth-first search system of Newfield.... In contrast, the present invention detects a cursor in proximity to the hyperlink.
+Joint App. 1465 (emphases altered) (internal citation omitted). Although we decided in the first appeal that this disclaimer applies to claim 26, it was not frivolous to argue that this disclaimer is directed to claims 178 and 190 of the parent application (which later became claims 1 and 9 of the ′839 patent). Among other differences, original claims 178 and 190 are different from claim 26 in that they contain the limitation “detecting a cursor in proximity to [a] hyperlink,” while claim 26 does not. Compare Joint App. 1458, 1462, with ′839 Patent col.12 l.59–col.13 l.13. Thus, iLOR could reasonably argue that the disclaimer applied only to the “detecting” step in original claims 178 and 190.
+ 
+In light of the claim terms, specification, and prosecution history, we believe that iLOR could reasonably argue for the claim construction that it proposed. As with many cases, this suit presents a routine question of claim construction in which the issues are often complex and the resolutions not always predictable. As this court has recognized, patent claim construction can be difficult:
+Claim interpretation is not always an exact science, and it is not unusual for parties to offer competing definitions of even the simplest claim language. In this case, however, it is not for us to determine whether [plaintiff’s] pre-filing interpretation of the asserted claims was correct, but only whether it was frivolous. We conclude that it was not, for [plaintiff’s] claim interpretation, while broad, followed the standard canons of claim construction and was reasonably supported by the intrinsic record.
+Q–Pharma, Inc. v. Andrew Jergens Co., 360 F.3d 1295, 1301 (Fed.Cir.2004) (finding Q–Pharma’s pre-filing claim interpretation of a “therapeutically effective amount” of an active ingredient in body lotion non-frivolous because nothing in the written description mandated Jergens’ more narrow interpretation, and Q–Pharma’s interpretation appeared consistent with the claim language, written description, and prosecution history) (internal citation omitted). Even when presented with “simple” claim terms, courts may differ in their interpretation of those terms. Here, the claim issues were far from “simple.” The objective evidence in this case demonstrates that iLOR could reasonably argue that its broad claim construction position was correct and that Google infringed its claims. Indeed, the fact that this court held oral argument and issued a precedential written opinion in the first appeal suggests that we did not regard the case as frivolous. See Fed. R.App. P. 34 (“Oral argument must be allowed in every case unless a panel of three judges who have examined the briefs and record unanimously agrees that oral argument is unnecessary for any of the following reasons: (A) the appeal is frivolous....”) (emphasis added).
+ 
+*1380 As we held in the first appeal, iLOR’s claim construction was incorrect. But simply being wrong about claim construction should not subject a party to sanctions where the construction is not objectively baseless.
+ 
+We also note that the contention as to iLOR’s representations about its commercial product vis-à-vis Google’s Notebook product are irrelevant in finding objective baselessness. Prior to commencing suit, iLOR’s CEO, Steve Mansfield, wrote a blog entry that identified iLOR’s automatically displayed “fly-out” toolbar as a feature that differentiated iLOR’s product from Google’s product. From the statements, the district court inferred that iLOR must have known that Google did not infringe its patents. However, these statements are irrelevant to the issue of objective baselessness. A finding of objective baselessness is to be determined by the record made in the infringement proceedings. See Brooks Furniture, 393 F.3d at 1382; Seagate, 497 F.3d at 1371.
+ 
+Because the district court committed clear error in holding this case exceptional under § 285, we vacate the award of attorneys’ fees.
+ 
+
+III
+iLOR also challenges the district court’s award of costs and expenses for copying, court reporting, transcripts, expert fees, travel, research, obtaining documents and pleadings, and electronic document handling under § 285. iLOR concedes that copying, court reporting, and transcripts are properly taxable under 28 U.S.C. § 1920. On remand, these costs may be allowed. Other costs and expenses may not be allowed.
+ 
+We note the district court also awarded expert fees under § 285. We have held that such fees cannot be awarded under § 285, but recognize that a court can invoke its inherent power to award such fees in exceptional cases based upon a finding of bad faith. See, e.g., Takeda Chem. Indus., Ltd. v. Mylan Labs., Inc., 549 F.3d 1381, 1391 (Fed.Cir.2008); Amsted Indus. v. Buckeye Steel Castings Co., 23 F.3d 374, 378 (Fed.Cir.1994); Mathis v. Spears, 857 F.2d 749, 757–58 (Fed.Cir.1988). Because there is no basis for finding bad faith here, we set aside the award of expert fees.
+ 
+REVERSED AND REMANDED
+ 
+All Citations
+631 F.3d 1372, 97 U.S.P.Q.2d 1597
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (4)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Not Followed as Dicta
+ 1.  Kilopass Technology, Inc. v. Sidense Corp. 
+738 F.3d 1302 , Fed.Cir.(Cal.)
+PATENTS - Attorney Fees. On motion for attorney fees in patent infringement action district court was to determine whether patentee acted in bad faith.
+Dec. 26, 2013
+Case
+
+4
+
+
+
+
+7
+
+
+
+
+F.3d
+
+Abrogation Recognized by
+2.  Intex Recreation Corporation v. Team Worldwide Corporation
+77 F.Supp.3d 212 , D.D.C.
+PATENTS - Attorney Fees. Patent holder advanced exceptionally meritless arguments, for fee-shifting purposes.
+Jan. 09, 2015
+Case
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+3.  CBT Flint Partners, LLC v. Return Path, Inc. 
+2012 WL 3061872 , N.D.Ga.
+This is a patent infringement action. It is before the Court on the Defendants’ Motion for Attorneys’ Fees and Expenses [Doc. 299]. For the reasons set forth below, the Court...
+July 25, 2012
+Case
+
+4
+
+
+
+
+F.3d
+
+Limitation of Holding Recognized by
+ 4.  Octane Fitness, LLC v. ICON Health & Fitness, Inc. 
+134 S.Ct. 1749 , U.S.
+PATENTS - Attorney Fees. Courts have discretion to award attorney fees to prevailing patent litigants after considering totality of circumstances.
+Apr. 29, 2014
+Case
+
+4
+
+
+
+
+6
+
+
+
+
+7
+
+
+
+
+F.3d
+
+

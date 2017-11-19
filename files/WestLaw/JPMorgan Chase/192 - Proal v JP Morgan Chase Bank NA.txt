@@ -1,0 +1,132 @@
+
+
+ 
+
+
+Proal v. J.P. Morgan Chase Bank, N.A.
+United States Court of Appeals, First Circuit. | July 18, 2017 | --- Fed.Appx. ---- | 2017 WL 3028604
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Proal v. J.P. Morgan Chase Bank, N.A., No. 16-2150, 2017 WL 3028604 (1st Cir. July 18, 2017)
+
+All Citations:
+
+--- Fed.Appx. ----, 2017 WL 3028604
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Massachusetts
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:51 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+2017 WL 3028604
+Only the Westlaw citation is currently available.
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 1st Cir. Rule 36.0.
+United States Court of Appeals,
+First Circuit.
+Carol PROAL, Plaintiff, Appellant,
+v.
+J.P. MORGAN CHASE BANK, N.A.; Citibank, N.A., Defendants, Appellees.
+No. 16-2150
+|
+July 18, 2017
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF MASSACHUSETTS, [Hon. Timothy S. Hillman, U.S. District Judge]
+Attorneys and Law Firms
+Mark Ellis O’Brien on brief for appellant.
+Matthew J. Libby and Preti, Flaherty, Beliveau & Pachios, LLP, Boston, on brief for appellees.
+Before Torruella, Thompson, and Kayatta, Circuit Judges.
+
+THOMPSON, Circuit Judge.
+
+Stage–Setting
+*1 A district judge dismissed Carol Proal’s state-law complaint against J.P. Morgan Chase Bank, N.A. (“J.P. Morgan”) and Citibank, N.A. (“Citibank”) for failure to state a claim. See Fed. R. Civ. P. 12(b)(6). And Proal appeals. Because the parties know the facts, a simple sketch of the complaint’s well-pleaded allegations—taken as true, Schatz v. Republican State Leadership Comm., 669 F.3d 50, 55 (1st Cir. 2012)—suffices for present purposes.
+ 
+In March 2007, Proal bought a home in Massachusetts, borrowing $528,000 from Community Lending Incorporated (“Community”) via a promissory note secured by a mortgage. The mortgage was immediately assigned (the complaint uses the passive voice) to the Mortgage Electronic Registration Systems, Inc. (“MERS”), as “nominee” for Community. Two years later, in March 2009, MERS assigned the mortgage to Citibank, as trustee for “Certificate Holders of Structured Asset Mortgage Investments II Inc., Bear Stearns ALT-A Trust, Mortgage Pass-Through Certificates Series 2007.” The trust is governed by New York law, the parties say. Anyhow, Liquenda Allotey signed the assignment as vice president of MERS. The assignment was notarized and recorded at the registry of deeds (the complaint phrases these allegations in the passive voice too). The assignment occurred after the April 2007 closing date listed in the trust’s pooling and servicing agreement. J.P. Morgan got involved here when it acquired Bear Sterns, and a J.P. Morgan affiliate started servicing the mortgage.
+ 
+Unfortunately, at some point Proal fell behind on her mortgage. Springing to action, Citibank foreclosed on her mortgage in January 2010 and bought her property at a foreclosure sale. “New owners,” the complaint says, “purchased the property” from Citibank “in March of 2013.” And in September 2014, the Massachusetts Attorney General’s office notified Proal that (we quote from the complaint) “she was eligible for a settlement regarding J.P. Morgan, and that the settlement had left the door open for individual mortgagors to sue on their own behalf.”
+ 
+Jumping to January 2016, Proal filed a multi-count complaint against J.P. Morgan and Citibank in federal district court. Insisting that Allotey “was not a vice president of MERS except by his own appointment” and that “the authority granting the ability for [him] to assign the mortgage ran afoul of MERS[’s] governing documents,” Proal alleged the following “causes of action”:1 “to void or cancel assignment of mortgage” — count 1; “wrongful foreclosure” — count 2; unfair and deceptive trade practices under “Massachusetts General Law 93A” — count 3; “unjust enrichment” — count 4; “to set aside” Citibank’s “sale” of the property — count 5; and “to void or cancel” Citibank’s “foreclosure deed” — count 6.2 J.P. Morgan and Citibank responded with a motion to dismiss. Agreeing with the parties, the judge applied Massachusetts law to all claims except for the one tied to the pooling and servicing agreement — and for that claim he, like them, applied New York law. In the end, the judge granted the motion, which triggered this appeal.
+ 
+
+Standard of Review
+*2 Given how familiar everyone is with our standard of review, we pause only to say that we take a fresh look at the judge’s dismissal order, knowing that the order stands if Proal’s complaint does not have enough non-conclusory/non-speculative facts, “accepted as true, to ‘state a claim to relief that is plausible on its face.’ ” Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007)); see also Schatz, 669 F.3d at 55.
+ 
+
+Our Take
+Proal’s brief raises a raft of issues related to the MERS-Citibank assignment. But having carefully considered each of them, we see no way to reverse the judge’s finely-tuned decision. Actually, we think this is the ideal case to apply our long-held rule that when a district judge “accurately takes the measure of a case, persuasively explains [his] reasoning, and reaches a correct result, it serves no useful purpose for a reviewing court to write at length in placing its seal of approval on the decision below.” See Moses v. Mele, 711 F.3d 213, 216 (1st Cir. 2013) (collecting cases). So we affirm essentially for the reasons given by the judge, adding just these brief comments.
+ 
+First. Canvassing cases applying Massachusetts law, the judge concluded that Proal’s chief claim—that the MERS-Citibank assignment was void because Allotey had no authority to make it—was actually a claim that the assignment was voidable (as opposed to void). That being so, the judge—staying with cases applying Massachusetts law—ruled that Proal lacked standing to contest the MERS-Citibank assignment. See Culhane v. Aurora Loan Servs. of Neb., 708 F.3d 282, 291 (1st Cir. 2013) (noting that “a mortgagor” under Massachusetts law “does not have standing to challenge shortcomings in an assignment that render it merely voidable at the election of one party”). Proal seemingly agrees that this result is required by existing state law—“[t]he law as it stands,” she writes, “apparently affords MERS [or Citibank] the opportunity to question the assignment but denies that opportunity to the mortgagor.” What she wants us to do is “revise” Massachusetts law because (in her words) it “leave [s] no or very limited avenues of redress open to the mortgagor.” But federal courts have no power to redo Massachusetts law, whether statutory or judge-created. See id. at 294; see also Wilson v. HSBC Mortg. Servs., Inc., 744 F.3d 1, 12 (1st Cir. 2014). Enough said about that.
+ 
+Second. Regarding Proal’s claim that the assignment from MERS to Citibank (as trustee for the trust) was invalid because it occurred after the closing date listed in the trust’s pooling and servicing agreement, the judge ruled as follows: the clear weight of authority applying New York law holds that an infraction of the pooling and servicing agreement “render[s] the assignment voidable rather than void”—and so a claim like hers is barred for lack of standing.
+ 
+Against the solid phalanx of authority arrayed in the judge’s order, Proal—in a section of her brief titled “Persuasive Precedent”—cites three cases: Wells Fargo Bank, N.A. v. Erobobo, 972 N.Y.S.3d 147 (unpublished table decision), 2013 WL 1831799 (N.Y. Sup. Ct. Apr. 29, 2013); Saldivar v. JPMorgan Chase Bank, N.A., Adv. No. 12-01010, 2013 WL 2452699 (Bankr. S.D. Tex. June 5, 2013); and Glaski v. Bank of Am., 218 Cal.App.4th 1079, 160 Cal.Rptr.3d 449 (Cal. Ct. App. 2013). None of these helps her cause, however. Erobobo got reversed on appeal. See Wells Fargo Bank, N.A. v. Erobobo, 127 A.D.3d 1176, 9 N.Y.S.3d 312, 314 (2015). And Saldivar and Glaski have been spurned by courts across the country. See, e.g., Brown v. Green Tree Serv. LLC, 86 F.Supp.3d 1047, 1048 n.2 (D. Minn. 2015) (calling Saldivar and Glaski rejected outliers); Turner v. Wells Fargo Bank N.A., 859 F.3d 1145, 1149 (9th Cir. 2017) (emphasizing that “[t]he Second Circuit and New York state courts ... have rejected Glaski’s interpretation of New York law”); Mendoza v. JPMorgan Chase Bank, N.A., 6 Cal.App.5th 802, 212 Cal.Rptr.3d 1, 10 (2016) (stressing that the court found “no state or federal cases to support the Glaski analysis” and so would “follow the federal lead in rejecting” Glaski’s holding).
+ 
+*3 Third. The judge said that “[t]o the extent” Proal questioned “the validity of the foreclosure on the basis that Citibank did not hold both the mortgage and the note at the time of foreclosure,” her argument “fail[ed]” given Eaton v. Federal National Mortgage Association, 462 Mass. 569, 969 N.E.2d 1118 (2012). True, Eaton construed Massachusetts’s foreclosure statutes to require the foreclosing mortgage holder to possess the note too. See id. at 1129-30. But as the judge explained, Eaton—decided years after the mortgage foreclosure here—specifically made this rule apply only prospectively. See id. at 1133. Trying to work around this difficulty, Proal protests that we should still apply the Eaton rule because (she says) it jibes with “the law in place before Eaton” came down. The problem for her, however, is that Eaton itself labeled its interpretation “new.” Id. at 1121.3 And that makes her argument a non-starter.
+ 
+Fourth. The judge kicked out Proal’s Chapter 93A claim for two reasons. The first was that the statute’s four-year limitations period had expired. The second was that she had not pled facts showing the foreclosure occurred because defendants dealt with her unfairly or deceptively. “She contends,” the judge wrote, “that the defects in the assignment rendered it void,” but “her allegations, if true, would merely render the assignment voidable.” And so, the judge added,
+assuming arguendo that Allotey acted outside of her authority when executing the assignment, and that the assignment occurred in violation of the terms of the trust’s [pooling and servicing agreement], legal title nevertheless passed to Citibank, giving it the authority to foreclose on the mortgage.
+ 
+Regarding the judge’s first point, Proal argues that he should have found the limitations clock tolled until “September 2014,” which is when the Attorney General’s office contacted her. But she presents nothing that undermines the judge’s second point, which dashes her reversal hopes for this claim. See, e.g., Tutor Perini Corp. v. Banc of Am. Secs. LLC, 842 F.3d 71, 95 (1st Cir. 2016).
+ 
+Fifth. As a parting shot, Proal insists that the assignment of mortgage from MERS to Citibank infracted the Fifth Amendment’s due-process clause because “until [her] federal complaint” she had no “avenue of redress.” We see several problems with this argument, not the least of which is her failure to plead a constitutional claim in her complaint—a failure that means her claim is waived. See, e.g., Daigle v. Me. Med. Ctr., Inc., 14 F.3d 684, 687–88 (1st Cir. 1994) (applying the raise-or-waive rule to an omitted constitutional claim).
+ 
+Somewhat relatedly, Proal fleetingly suggests that the judge’s dismissal ruling violated her due-process rights. But because she does not develop this suggestion in any meaningful way, we deem it waived too. See, e.g., United States v. Zannino, 895 F.2d 1, 17 (1st Cir. 1990) (warning that parties must do more than mention arguments “in the most skeletal way, leaving the court to do [their] work”).
+ 
+
+Wrap Up
+*4 Having mulled over Proal’s many arguments—including some not mentioned above, because they deserve no discussion given (for example) the judge’s thoughtful handling of them or her failure to preserve them—we let the dismissal of her complaint stand.
+ 
+Affirmed.
+ 
+All Citations
+--- Fed.Appx. ----, 2017 WL 3028604
+Footnotes
+
+1
+
+FYI, we omit unnecessary capitalization throughout this opinion.
+
+2
+
+Parenthetically (and as the parties know), Proal’s complaint sometimes uses the pronouns “he,” “his,” and “her” when referring to Allotey.
+
+3
+
+See also id. at 1132 (observing that attorneys “and others who certify or render opinions concerning real property titles ha[d] followed in good faith a[n] ... interpretation of the relevant statutes ... that require[d] the mortgagee to hold only the mortgage, and not the note, ... to effect a valid foreclosure by sale”); id. at 1133 (emphasizing that when an opinion “is not grounded in constitutional principles, but instead ‘announces a new common-law rule, a new interpretation of a State statute, or a new rule in the exercise of our superintendence power,’ ” there is no constitutional impediment to applying “ ‘the new rule or new interpretation ... only prospectively’ ” (quoting Commonwealth v. Dagley, 442 Mass. 713, 816 N.E.2d 527, 533 n.10 (2004))).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

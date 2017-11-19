@@ -1,0 +1,618 @@
+
+
+
+
+
+Novell, Inc. v. Microsoft Corp.
+United States Court of Appeals, Fourth Circuit. | October 15, 2007 | 505 F.3d 302 | 2007 WL 2984372
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Fair Isaac Corp. v. Experian Information Solutions, Inc., 8th Cir.(Minn.), August 17, 2011
+
+standard Citation:
+
+Novell, Inc. v. Microsoft Corp., 505 F.3d 302 (4th Cir. 2007)
+
+All Citations:
+
+505 F.3d 302, 2007-2 Trade Cases P 75,901
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Maryland
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Fair Isaac Corp. v. Experian Information Solutions, Inc., 8th Cir.(Minn.), August 17, 2011
+505 F.3d 302
+United States Court of Appeals,
+Fourth Circuit.
+NOVELL, INCORPORATED, Plaintiff-Appellee,
+v.
+MICROSOFT CORPORATION, Defendant-Appellant.
+Novell, Incorporated, Plaintiff-Appellant,
+v.
+Microsoft Corporation, Defendant-Appellee.
+Nos. 06-1134, 06-1238.
+|
+Argued: Dec. 1, 2006.
+|
+Decided: Oct. 15, 2007.
+Synopsis
+Background: Software developer brought antitrust claims against manufacturer of computer operating system software. The United States District Court for the District of Maryland, J. Frederick Motz, J., declined to dismiss claims alleging that defendant’s conduct injured competition in market for personal computer (PC) operating systems which was market in which developer’s products did not directly compete but dismissed other claims as untimely. Parties filed interlocutory appeal.
+ 
+Holdings: The Court of Appeals, Duncan, Circuit Judge, held that:
+ 
+[1] antitrust standing to bring private treble damages claims under Sherman Act for injuries allegedly suffered as result of anticompetitive conduct was not limited only to consumers or competitors in relevant market;
+ 
+[2] developer stated that it suffered antitrust injury;
+ 
+[3] causal connection existed between antitrust injury alleged by developer and alleged violations of antitrust laws by manufacturer;
+ 
+[4] developer that was outside of restrained PC operating systems market nevertheless was direct victim of alleged anticompetitive conduct of manufacturer;
+ 
+[5] developer could not benefit from Clayton Act provision for tolling statute of limitations for bringing antitrust claim as to office productivity applications market.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (12)
+
+
+[1]
+
+Antitrust and Trade RegulationRight of Action;  Persons Entitled to Sue;  Standing;  Parties
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk960In General
+
+
+Antitrust standing to bring private treble damages claims under Sherman Act for injuries allegedly suffered as result of anticompetitive conduct was not limited only to consumers or competitors in relevant market. Sherman Act, §§ 1, 2, 15 U.S.C.A. §§ 1, 2; Clayton Act, § 4, 15 U.S.C.A. § 15.
+3 Cases that cite this headnote
+
+
+
+[2]
+
+Antitrust and Trade RegulationRight of Action;  Persons Entitled to Sue;  Standing;  Parties
+Antitrust and Trade RegulationInjury to Business or Property
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk960In General
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk963Injury to Business or Property
+29Tk963(1)In General
+
+
+The concept of antitrust standing under the Sherman Act is narrower than constitutional standing; harm to the antitrust plaintiff is sufficient to satisfy the constitutional standing requirement of injury in fact, but courts must make an independent determination of whether the plaintiff is a proper party to bring a private antitrust action. Sherman Act, § 1 et seq., 15 U.S.C.A. § 1 et seq.
+13 Cases that cite this headnote
+
+
+
+[3]
+
+Antitrust and Trade RegulationCompetitors
+Antitrust and Trade RegulationConsumers
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk964Competitors
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk965Consumers
+
+
+A plaintiff’s status as a consumer or a competitor in the restrained market is relevant to the issue of antitrust standing under the Sherman Act. Sherman Act, § 1 et seq., 15 U.S.C.A. § 1 et seq.
+2 Cases that cite this headnote
+
+
+
+[4]
+
+Antitrust and Trade RegulationInjury to Business or Property
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk972Pleading
+29Tk972(2)Complaint
+29Tk972(5)Injury to Business or Property
+
+
+Word processing software developer stated that it suffered antitrust injury under Sherman Act on allegations that manufacturer of computer operating system software engaged in activities that were intended to, and did, restrain competition in personal computer (PC) operating-system market by keeping barriers to entry into that market high. Sherman Act, § 2, 15 U.S.C.A. § 2.
+6 Cases that cite this headnote
+
+
+
+[5]
+
+Antitrust and Trade RegulationElements in General
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(A)In General
+29Tk619Elements in General
+29Tk620In General
+
+
+A firm violates the Sherman Act when it acquires or maintains, or attempts to acquire or maintain, a monopoly by engaging in exclusionary conduct as distinguished from growth or development as a consequence of superior product, business acumen, or historic accident. Sherman Act, § 2, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[6]
+
+Antitrust and Trade RegulationComputer and Internet
+
+
+29TAntitrust and Trade Regulation
+29TVIIMonopolization
+29TVII(E)Particular Industries or Businesses
+29Tk672Computer and Internet
+
+
+Causal connection existed between Sherman Act antitrust injury alleged by word processing software developer and alleged violations of antitrust laws by manufacturer of computer operating system software, where manufacturer allegedly made use of its monopoly power in operating-system market to foreclose distribution channels for developer’s applications, manufacturer withheld crucial data on its soon-to-be-released operating system to put developer at competitive disadvantage vis-a-vis manufacturer’s office-productivity applications, manufacturer specifically targeted developer’s products for destruction as means to damage competition in operating-systems market. Sherman Act, § 2, 15 U.S.C.A. § 2.
+2 Cases that cite this headnote
+
+
+
+[7]
+
+Antitrust and Trade RegulationRight of Action;  Persons Entitled to Sue;  Standing;  Parties
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk960In General
+
+
+Word processing software developer that was outside of restrained personal computer (PC) operating systems market nevertheless was direct victim of alleged anticompetitive conduct of manufacturer of computer operating system software, and thus had standing under Clayton Act to pursue monopoly power claim against manufacturer, since, among other things, popularity, quality, and ability of developer’s software applications to function well on multiple operating systems posed potential threat to manufacturer’s monopoly by offering bridge across applications barrier to entry into that market by competing PC operating systems, manufacturer did not have more direct victim than developer, and manufacturer was dominate within field. Clayton Act, § 4, 15 U.S.C.A. § 15.
+4 Cases that cite this headnote
+
+
+
+[8]
+
+Antitrust and Trade RegulationRight of Action;  Persons Entitled to Sue;  Standing;  Parties
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk960In General
+
+
+Anti-trust law favors granting standing to the most direct victims of defendants’ anticompetitive conduct and denying standing to more remote victims on the theory that the direct victims have the greatest motivation to act as private attorneys general and to vindicate the public interest in antitrust enforcement. Clayton Act, § 4, 15 U.S.C.A. § 15.
+3 Cases that cite this headnote
+
+
+
+[9]
+
+Antitrust and Trade RegulationRight of Action;  Persons Entitled to Sue;  Standing;  Parties
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk960In General
+
+
+The existence of an identifiable, more-directly harmed class of victims with the incentive to sue under the antitrust laws weighs against granting standing to a more remote plaintiff. Clayton Act, § 4, 15 U.S.C.A. § 15.
+3 Cases that cite this headnote
+
+
+
+[10]
+
+Limitation of ActionsPendency of Action on Different Cause or in Different Forum
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(G)Pendency of Legal Proceedings, Injunction, Stay, or War
+241k105Pendency of Action or Other Proceeding
+241k105(2)Pendency of Action on Different Cause or in Different Forum
+
+
+Office productivity applications market at issue in subsequent monopoly power action brought by software developer against manufacturer of computer operating system software was neither identical to nor completely encompassed by personal computer (PC) operating system market and Internet browser market at issue in government’s prior monopoly power action against manufacturer, and thus developer could not benefit from Clayton Act provision for tolling statute of limitations for bringing antitrust claim. Sherman Act, §§ 1, 2, 15 U.S.C.A. §§ 1, 2; Clayton Act, §§ 4B, 5(i), 15 U.S.C.A. §§ 15b, 16(i).
+5 Cases that cite this headnote
+
+
+
+[11]
+
+Limitation of ActionsPendency of Action on Different Cause or in Different Forum
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(G)Pendency of Legal Proceedings, Injunction, Stay, or War
+241k105Pendency of Action or Other Proceeding
+241k105(2)Pendency of Action on Different Cause or in Different Forum
+
+
+The tolling provision under the Clayton Act contemplates an analysis of the relationship between the violations alleged in the government action and those alleged in the private action. Clayton Act, § 5(i), 15 U.S.C.A. § 16(i).
+2 Cases that cite this headnote
+
+
+
+[12]
+
+Limitation of ActionsPendency of Action on Different Cause or in Different Forum
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(G)Pendency of Legal Proceedings, Injunction, Stay, or War
+241k105Pendency of Action or Other Proceeding
+241k105(2)Pendency of Action on Different Cause or in Different Forum
+
+
+For the Clayton Act tolling provision to apply, the private plaintiffs must prove, by comparison of the two complaints on their faces, a significant overlap of subject matter between the two actions; however, there is no requirement of complete identity of the means, objectives, or statutory violations in the public and private lawsuits. Clayton Act, § 5(i), 15 U.S.C.A. § 16(i).
+3 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*304 ARGUED: Steven Lyon Holley, Sullivan & Cromwell, New York, New York, for Appellant/Cross-Appellee. Charles Justin Cooper, Cooper & Kirk, P.L.L.C., Washington, D.C., for Appellee/Cross-Appellant. ON BRIEF: Thomas W. Burt, Steven J. Aeschbacher, Microsoft Corporation, Redmond, Washington; Robert A. Rosenfeld, Heller, Ehrman, White & McAuliffe, L.L.P., San Francisco, California; David B. Tulchin, Sullivan & Cromwell, New York, New York; G. Stewart Webb, Venable, L.L.P., Baltimore, Maryland, for Appellant/Cross-Appellee. R. Bruce Holcomb, Jeffrey M. Johnson, Milton A. Marquis, David L. Engelhardt, Dickstein, Shapiro, Morin & Oshinsky, L.L.P., Washington, D.C.; David H. Thompson, Howard C. Nielson, David M. Lehn, Cooper & Kirk, P.L.L.C., Washington, D.C., for Appellee/Cross-Appellant.
+Before WIDENER1SHEDD, and DUNCAN, Circuit Judges.
+
+Affirmed by published opinion. Judge Duncan wrote the opinion, in which Judge Shedd joined.
+
+
+OPINION
+DUNCAN, Circuit Judge:
+We are asked here to review cross appeals from two interlocutory orders in an antitrust action by Novell, Inc. (“Novell”) against Micro-soft Corp. (“Microsoft”). Novell seeks treble damages under § 4 of the Clayton Act, 15 U.S.C. § 15, for injuries allegedly suffered as a result of Microsoft’s anticompetitive conduct in violation of §§ 1 and 2 of the Sherman Act, 15 U.S.C. §§ 1, 2. In its suit filed in the District of Utah and transferred by the Judicial Panel on Multidistrict Litigation to the District of Maryland, Novell made six specific claims for damages to software applications it owned between 1994 and 1996. Two of the six claims allege that Microsoft’s conduct injured competition in the market for PC operating systems, a market in which Novell’s products did not directly compete. The district court declined to dismiss these claims over Microsoft’s objection that Novell, as neither a consumer nor a competitor in the relevant market, lacks antitrust standing to bring *305 them. Microsoft appeals the denial of this motion to dismiss.
+ 
+The remaining four claims allege harm to competition in the software-application market, in which Novell did compete. The district court dismissed these claims as untimely, and Novell appeals.
+ 
+For the reasons that follow, we affirm both rulings.
+ 
+
+I.
+A.
+Novell is a software company that owned WordPerfect, a word-processing application,2 and Quattro Pro, a spreadsheet application,3 from 1994 until 1996.4 WordPerfect and Quattro Pro are “office-productivity applications,” which Novell marketed together as an office-productivity package called “PerfectOffice.” Microsoft is a software company that owns Windows, a personal-computer (“PC”) operating system, as well as office-productivity applications of its own.5 An operating system is software that controls the computer’s resources, including memory, disk space, keyboards, and the central processing unit. An operating system also facilitates communication between the computer’s resources and software applications, including word-processing and spreadsheet applications. United States v. Microsoft Corp. (“Microsoft II”), 253 F.3d 34, 53-55, 60, 74 (D.C.Cir.2001) (en banc); United States v. Microsoft Corp. (“Microsoft I”), 84 F.Supp.2d 9, 12 (D.D.C.1999). Therefore, computer users need an operating system to serve as a “platform” for the applications they wish to run.6 Microsoft II, 253 F.3d at 53. At one time, PCs were used primarily for word-processing, and even today, office-productivity applications remain among the most widely used types of applications available for PCs.
+ 
+Although Microsoft overwhelmingly dominates the PC operating-systems market,7 other operating systems exist.8 Because these operating systems work differently from each other, software developers must create separate versions of their applications for each operating system in order for the applications to function properly on it. Modifying an application written for one operating system so that it can run on another is time-consuming and costly. Because of *306 this, a new or less popular operating system faces significant obstacles to gaining market share. As the D.C. Circuit has explained,
+ 
+the “applications barrier to entry”-stems from two characteristics of the software market: (1) most consumers prefer operating systems for which a large number of applications have already been written; and (2) most developers prefer to write for operating systems that already have a substantial consumer base. This “chicken-and-egg” situation ensures that applications will continue to be written for the already dominant Windows, which in turn ensures that consumers will continue to prefer it over other operating systems.
+Microsoft II, 253 F.3d at 55 (internal citations omitted).
+In Microsoft II, the United States government and the governments of several states challenged activities by Microsoft that allegedly harmed competition in the PC operating-system market.9 The United States Department of Justice filed a complaint against Microsoft on May 18, 1998 (the “DOJ complaint”). The DOJ complaint is based on allegations of anticompetitive conduct in violation of §§ 1 and 2 of the Sherman Act, 15 U.S.C. §§ 1, 2, by Microsoft in two product markets: the market for PC operating systems and the market for Internet browsers. J.A. 343 (DOJ Compl. ¶ 53). In a per curiam opinion, the D.C. Circuit, sitting en banc, found that Microsoft was not liable for attempted monopolization of the market for Internet browsers because the government had failed to carry its burden in two ways: (1) it failed to define the relevant market and (2) it failed to demonstrate that such a market could be monopolized, i.e., “that a hypothetical monopolist in that market could enjoy market power” because substantial barriers to entry protect it. Microsoft II, 253 F.3d at 81. Nevertheless, the court affirmed liability with respect to the claim that Microsoft unlawfully maintained a monopoly in the PC operating-system market. Id. at 58-80.
+ 
+The government litigation in Microsoft II forms the basis of Microsoft’s statute-of-limitations challenge to two of Novell’s claims, as discussed below.
+ 
+
+B.
+Novell pursues six claims on appeal. Four of these, styled Counts II, III, IV, and V, allege monopolization or attempted monopolization of the markets for office-productivity applications. Novell’s products, Word Perfect and Quattro Pro, directly competed in such markets. The other two claims, Counts I and VI, are based on the same alleged conduct as Counts II through V and seek recovery for damage to the same Novell products, but are predicated on the theory that Microsoft’s conduct injured competition in the market for PC operating systems, a market in which Novell did not directly compete.10
+ 
+*307 All six of Novell’s claims arose prior to March 1996, when Novell sold WordPerfect and Quattro Pro to Corel Corporation. The statute of limitations for federal antitrust claims is four years. See 15 U.S.C. § 15b. Therefore, all of Novell’s claims asserted in its November 2004 complaint are time-barred unless the statute of limitations is tolled by the filing of the DOJ complaint in May 1998. See 15 U.S.C. § 16(i). Section 5(i) of the Clayton Act provides that government anti-trust proceedings toll the statute of limitations for private antitrust actions “based in whole or in part on any matter complained of” by the government. Id.
+ 
+Novell’s Counts I and VI are indeed based on Microsoft’s anticompetitive conduct in the PC operating-systems market, which was at issue in the DOJ complaint. Novell’s four other Counts, however, allege Microsoft’s monopolization or attempted monopolization of the markets for office-productivity applications, which conduct was not specifically alleged in the DOJ complaint.
+ 
+Microsoft moved to dismiss all six Counts in the complaint. Because Counts II through V allege injury that is not specifically alleged in the DOJ complaint, Microsoft argued these claims were not tolled by the DOJ complaint and thus were time-barred. Microsoft sought dismissal of Novell’s claims of injury to competition in the PC operating-systems market (the same market at issue in the DOJ complaint) in Counts I and VI on different grounds. Microsoft contended that Novell did not have antitrust standing to raise such claims and also that Novell did not own these claims.
+ 
+The district court agreed with Microsoft regarding Counts II through V and dismissed those claims as untimely. However, the district court rejected Microsoft’s arguments regarding antitrust standing and ownership of the claims and declined to dismiss Counts I and VI.
+ 
+The district court certified its antitrust-standing and ownership rulings on Counts I and VI pursuant to 28 U.S.C. § 1292(b),11 and Microsoft petitioned this court for leave to appeal. We granted the petition with respect to the antitrust-standing issue only. Thereafter, Novell cross-appealed the dismissal of Counts II through V. We address, in turn, the issues of whether Novell has antitrust standing to bring Counts I and VI and the timeliness of Novell’s claims in Counts II through V.
+ 
+
+II.
+We review de novo the district court’s rulings on a motion to dismiss under Rule 12(b)(6). See Holly v. Scott, 434 F.3d 287, 288-89 (4th Cir.2006). In assessing rulings on dismissals under Rule 12(b)(6), we accept the allegations of the plaintiff’s complaint as true. Advanced Health-Care *308 Servs., Inc. v. Radford Cmty. Hosp., 910 F.2d 139, 143-44 (4th Cir.1990).
+ 
+We first review the district court’s ruling that Novell has antitrust standing to bring Counts I and VI.
+ 
+
+A.
+[1] Novell concedes that its products did not directly compete in the market for PC operating systems. Nevertheless, Novell contends that the technological connection between operating systems and applications gives rise to a significant barrier to entry into the operating-systems market and thus protects Microsoft’s Windows monopoly. Novell maintains that its office-productivity applications could perform well on a variety of operating systems and that, during the relevant time period, they were the dominant office-productivity applications in the market.12 The thrust of Novell’s argument is that its popular applications, though themselves not competitors or potential competitors to Microsoft’s Windows, offered competing operating systems the prospect of surmounting the applications barrier to entry and breaking the Windows monopoly.13 That is, Novell argues its products could provide a path onto the operating-system playing field for an actual competitor of Windows, because a competing operating system, running the popular Novell software applications, would offer consumers an attractive alternative to Windows.
+ 
+Novell relies on certain unique characteristics of technological markets in making this argument. Courts have recognized that such markets are “characterized by network effects,” and thus behave somewhat differently from more traditional markets. Microsoft II, 253 F.3d at 49. Because “ ‘the utility that a user derives from consumption of the good increases with the number of other agents consuming the good,’ ” one product “ ‘tends towards dominance.’ ” Id. (quoting Michael L. Katz & Carl Shapiro, Network Externalities, Competition, and Compatibility, 75 Am. Econ. Rev. 424, 424 (1985)). In this way, then, competition “is ‘for the field’ rather than ‘within the field.’ ” Id. (quoting Harold Demsetz, Why Regulate Utilities?, 11 J.L. & Econ. 55, 57 & n.7 (1968) (emphasis omitted)). Put another way, firms compete to dominate the market, and once dominance is achieved, threats come largely from outside the dominated market, because the degree of dominance of such a market tends to become so extreme. Indeed, in Microsoft II, Microsoft did not dispute the finding that Windows controlled more than 95% of the operating-system market. Id. at 54.
+ 
+Building on this same theory, the government in Microsoft II argued that Microsoft preserved its advantage in the PC operating-system market by targeting certain “middleware” products, specifically Sun’s Java programming environment and Netscape’s Navigator web browser.14 *309 253 F.3d at 53-54, 60. Java and Navigator were defined by the D.C. District Court as outside of the PC operating-system market, a finding affirmed by the D.C. Circuit. See id. at 53-54. Notwithstanding the fact that the primary threats at issue in the government action stood outside of the PC operating-system market, Microsoft was found to have unlawfully monopolized that market. Id. at 64, 71, 74, 76, 77.
+ 
+Novell’s present claims echo the government’s theory in Microsoft II. Just as the middleware threat posed by Java and Navigator came from outside the Microsoft dominated PC operating-system market, Novell now argues that its products, though also outside the relevant market, similarly threatened Microsoft Windows.
+ 
+Novell alleges three specific unlawful actions on the part of Micro-soft that harmed its products and also harmed competition in the PC operating-systems market. First, Novell claims Microsoft withheld from Novell key technical information necessary to make well-functioning office-productivity applications for Windows 95, an updated version of Windows launched by Microsoft during the period that Novell owned WordPerfect and Quattro Pro. Because PC users would, upon the launch of Windows 95, upgrade their applications en masse, Novell’s office-productivity applications would lose critical market share if Novell did not have viable Windows 95 versions ready at the time of the launch. Because of the network effects that favor already popular applications, Novell’s applications’ loss of market share could in turn lead to a decrease in demand for the competing operating systems that support these applications. Thus, WordPerfect and Quattro Pro’s loss of market share would reduce the potential for Novell’s products to enable an alternative operating system to surmount the applications barrier to entry and compete with Windows.
+ 
+Second, Novell argues that Microsoft impeded Novell’s access to distribution channels, including original equipment manufacturers (“OEMs”). OEMs manufacture PCs and typically preinstall an operating system and certain commonly used applications. Because Windows’s monopoly in the operating-system market means most consumers want to buy Windows-equipped PCs, OEMs desire Windows licenses that enable them to install Windows on PCs. Novell asserts that OEMs’ dependence on Windows licenses furnished Microsoft with leverage that it used to impose restrictive and exclusionary agreements on OEMs. These agreements rewarded, or required as a condition of obtaining a Windows license, the preinstallation of Microsoft’s office-productivity suite, and prohibited or punished the installation of competing applications. As with Microsoft’s alleged conduct regarding Windows 95 described above, this action would have the effect of decreasing Novell’s once-dominant market share and its products’ popularity, hampering Novell’s *310 ability to make an alternative operating system attractive to PC users.
+ 
+Finally, because Windows is the dominant operating system serving as a platform for software applications, software makers seek to have their products certified as Windows-compatible. Such certification is a signal to software consumers that a product is compatible with the most popular operating system. Novell claims that Microsoft required it, as a condition of being certified as Windows-compatible, to use Windows-specific technologies that degraded the performance of Novell’s office-productivity applications on other operating systems. This requirement neutralized Novell’s applications’ purported advantage of working well on a variety of operating systems. Novell claims that such an advantage, along with Novell’s applications’ popularity, could have enabled other operating systems to bridge the “moat” that protected Microsoft’s Windows monopoly.15
+ 
+
+B.
+We now turn to the legal underpinnings of antitrust standing. In a private antitrust action, a plaintiff must go beyond a showing that it meets the Article III standing requirements of injury, causation, and redressability; it must also demonstrate “antitrust standing.” Section 4 of the Clayton Act, 15 U.S.C. § 15, provides:
+[A]ny person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue ... and shall recover threefold the damages by him sustained, and the cost of suit, including a reasonable attorney’s fee.
+Although a literal reading of § 4 is “broad enough to encompass every harm that can be attributed directly or indirectly to the consequences of an antitrust violation,” the Supreme Court has interpreted the provision more restrictively. See Assoc. Gen. Contractors of Cal., Inc. v. Cal. State Council of Carpenters (“AGC”), 459 U.S. 519, 529-30, 103 S.Ct. 897, 74 L.Ed.2d 723 (1983). “Congress did not intend the antitrust laws to provide a remedy in damages for all injuries that might conceivably be traced to an antitrust violation.” Hawaii v. Standard Oil Co., 405 U.S. 251, 262 n. 14, 92 S.Ct. 885, 31 L.Ed.2d 184 (1972). “An antitrust violation may be expected to cause ripples of harm to flow through the Nation’s economy; but despite the broad wording of § 4 there is a point beyond which the wrongdoer should not be held liable.” AGC, 459 U.S. at 534, 103 S.Ct. 897 (internal quotation omitted).
+ 
+[2] A plaintiff sufficiently connected to the violation propagating these “ripples of harm” is said to have “antitrust standing.”16 Id. at 535 n. 31, 103 S.Ct. 897. The Supreme Court has held that a multi-factor analysis is required to determine *311 whether a private plaintiff has antitrust standing. See id. at 536-38, 103 S.Ct. 897. These factors “circumscribe and guide” courts’ judgments on whether plaintiffs have antitrust standing. Id. at 537, 103 S.Ct. 897. The Courts of Appeals have since relied on the AGC factors to determine antitrust standing. See Bodie-Rickett & Assocs. v. Mars, Inc., 957 F.2d 287, 291 (6th Cir.1992); Reazin v. Blue Cross & Blue Shield of Kan., Inc., 899 F.2d 951, 962-63 (10th Cir.1990); Crimpers Promotions, Inc. v. Home Box Office, Inc., 724 F.2d 290, 294-95 (2d Cir.1983). This court recently had the occasion to apply the AGC factors, distilling them to five:
+ 
+(1) the causal connection between an antitrust violation and harm to the plaintiffs, and whether that harm was intended; (2) whether the harm was of a type that Congress sought to redress in providing a private remedy for violations of the antitrust laws; (3) the directness of the alleged injury; (4) the existence of more direct victims of the alleged antitrust injury; and (5) problems of identifying damages and apportioning them among those directly and indirectly harmed.
+Kloth v. Microsoft, 444 F.3d 312, 324 (4th Cir.2006) (internal quotations and citations omitted).17
+The first two of these antitrust-standing factors together encompass the concept of “antitrust injury.” See Cargill, Inc. v. Monfort of Colo., Inc., 479 U.S. 104, 110 n. 5, 107 S.Ct. 484, 93 L.Ed.2d 427 (1986); Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., 429 U.S. 477, 489, 97 S.Ct. 690, 50 L.Ed.2d 701 (1977). Antitrust injury has been defined as “injury of the type the antitrust laws were intended to pre-vent and that flows from that which makes [the] defendants’ acts unlawful.” Brunswick, 429 U.S. at 489, 97 S.Ct. 690.18 The other three AGC factors focus on the directness or remoteness of the plaintiff’s alleged anti-trust injury.
+ 
+Before applying the AGC factors to the facts of this case, however, we must first consider Microsoft’s argument that Novell’s claims fail as a threshold matter. Microsoft asks us to adopt a bright-line rule that only consumers or competitors in the relevant market have antitrust standing to bring private treble-damages claims under § 4. Were we to adopt this proffered rule, Microsoft argues, we would be compelled to find, before reaching the five-factor analysis, that Novell does not have standing in this case because its products did not directly compete in the operating-system market.
+ 
+We must decline to adopt Microsoft’s “consumer-or-competitor” rule. We note *312 that the Supreme Court has rejected the utility of the very type of bright-line approach on which Microsoft seeks to rely: “The infinite variety of claims that may arise make it virtually impossible to announce a black-letter rule that will dictate the result in every case.” AGC, 459 U.S. at 536, 103 S.Ct. 897. In fact, a careful examination of the cases on which Microsoft relies for support of its proposed rule reveals that in most instances the claims were defeated by the absence of an antitrust injury, rather than the plaintiff′s failure to demonstrate consumer or competitor status.19
+ 
+For example, in AGC, the plaintiff-union claimed that the defendant-contractors’ association and its members violated the anti-trust laws by coercing third parties and some of the association’s members into doing business with nonunion firms. Id. at 520-21, 103 S.Ct. 897. In denying standing to the union, the Supreme Court noted that the plaintiff was “neither a consumer nor a competitor in the market in which trade was restrained.” Id. at 539, 103 S.Ct. 897. But the Court went on to discuss other factors, and ultimately concluded that the plaintiff-union’s injury did not flow from a breakdown in competition. Indeed, it was “not clear whether the Union’s interests would be served or disserved by enhanced competition in the market” for contractors’ services. Id. The Court cited Brunswick for the proposition that unions will be unlikely to have antitrust standing, “especially in disputes with employers with whom [they] bargain[ ],” because in those instances the unions’ injuries will most likely not be “of the type the antitrust statute was intended to forestall.” Id. at 540, 103 S.Ct. 897.
+ 
+[3] Significantly, had the Supreme Court in AGC intended that consumer-or-competitor status be a necessary prerequisite for anti-trust standing, it need not, after noting that the plaintiff was neither, have then discussed the other relevant factors and instructed lower courts to do the same. Id. at 537-38 & n. 32, 103 S.Ct. 897 (“[C]ourts should analyze each situation in light of [these] factors.”). That a plaintiff’s status as a consumer or a competitor in the restrained market is relevant to the issue of antitrust standing is clear; the cases upon which Microsoft relies do not compel the conclusion that it is necessary.
+ 
+Microsoft nevertheless insists that our own precedents rely on its proposed consumer-or-competitor rule.20 See Thompson Everett, Inc. v. Nat’l Cable Adver., *313 L.P., 57 F.3d 1317, 1325 (4th Cir.1995); White v. Rockingham Radiologists, Ltd., 820 F.2d 98, 101 (4th Cir.1987). Careful consideration of those cases, however, reveals that they do not provide direct support for the position Microsoft advances. Indeed, the cases are not antitrust-standing decisions on the merits at all but rather arise in the context of plaintiffs’ appeals from grants of summary judgment in favor of defendants. Because of the relevant differences in procedural posture between these two cases and the case at bar, neither Thompson Everett nor White is supportive of Microsoft’s position at this stage of the litigation.
+ 
+Microsoft correctly notes that we found the plaintiff in Thompson Everett to be neither a consumer nor a competitor.21 57 F.3d at 1325. The decision to affirm summary judgment in favor of the defendants, however, was not based on this finding alone. Rather, we focused in Thompson Everett on the patent lack of any antitrust injury proven by the plaintiff at the summary-judgment stage. Id. (“[Plaintiff] is not being denied access to the cable company sales service market by any act in violation of the antitrust laws.”). The plaintiff in Thompson Everett was a firm that sought to place advertising on cable television and other media for clients. Id. at 1321. Defendants were traditional cable representatives, retained by cable-television companies to sell cable-company air time. Id. Thompson Everett complained that the traditional cable representatives engaged in a horizontal conspiracy with one another and a vertical conspiracy with the cable companies to use their exclusive contracts to exclude independent cable-representative firms, like the plaintiff, from competition. Id. at 1321-22. However, at summary judgment, the district court found no evidence to support the plaintiff’s claim of a horizontal conspiracy or that the short-term exclusive agreements between the cable companies and traditional cable representatives had an anticompetitive effect. Id. at 1322. Thus, Thompson Everett could not recover under the antitrust laws because it failed to show it had suffered antitrust injury, not because it was neither a consumer nor a competitor.
+ 
+Similarly, White involved a plaintiff-doctor’s appeal from the district court’s grant of summary judgment in favor of a defendant-hospital. The plaintiff alleged that the hospital had violated antitrust laws in designating a certain radiology practice as its preferred interpreter of CT scans. White, 820 F.2d at 100-01. As in Thompson Everett, we noted that the plaintiff was “neither a provider nor consumer” of hospital services. Id. at 104. But we affirmed summary judgment for other reasons, among them that the defendant-hospital was not a competitor in the market for interpreting CT scans and therefore could not be held liable as a monopolist in that market. Id. at 104-05. Additionally, we found a lack of antitrust injury because there was no evidence of a conspiracy between the hospital and the preferred radiology practice. Id. at 103.
+ 
+We find additional support for our understanding that the AGC factors are not confined by a consumer-or-competitor rule in a Supreme Court case decided one Term earlier. See Blue Shield v. McCready, 457 U.S. 465, 479-84, 102 S.Ct. 2540, 73 L.Ed.2d 149 (1982). In McCready, the plaintiff challenged her group health plan’s refusal to reimburse subscribers for psychologists’ services while reimbursing comparable treatment by psychiatrists. The Supreme Court affirmed *314 that the plaintiff did have standing under § 4 of the Clayton Act. Id. at 484-85, 102 S.Ct. 2540. Although the plaintiff was a “consumer” in the relevant market, the Supreme Court focused not on this status, but rather on the directness of the plaintiff’s injury and the fact that her loss was of the type the antitrust laws were intended to prevent. Id. at 478, 102 S.Ct. 2540. The Supreme Court stated: “Denying reimbursement to subscribers for the cost of treatment was the very means by which it is alleged that Blue Shield sought to achieve its illegal ends.” Id. at 479, 102 S.Ct. 2540. Additionally, the plaintiff’s injury-bearing the unreimbursed cost of her psychologist’s services-was “inextricably intertwined with the injury the conspirators sought to inflict on psychologists and the psychotherapy market.” Id. at 483-84, 102 S.Ct. 2540.
+ 
+Notably, the Court in a footnote specifically contemplates a party other than a consumer or competitor having antitrust standing: “If a group of psychiatrists conspired to boycott a bank until the bank ceased making loans to psychologists, the bank would no doubt be able to recover the injuries suffered as a consequence of the psychiatrists’ actions.” Id. at 481 n. 21, 102 S.Ct. 2540. Even if this footnote is read as dicta, it provides further evidence that the Supreme Court does not limit the universe of proper plaintiffs under § 4 as narrowly as would Microsoft. The Court’s decision not to adopt a bright-line rule the next year in AGC bolsters this conclusion. See 459 U.S. at 536, 103 S.Ct. 897.
+ 
+Finally, the government’s May 1998 antitrust suit against Microsoft detailed Microsoft’s anticompetitive activities in the operating-system market that harmed “middleware” products, Sun’s Java programming environment and Netscape’s Navigator web browser, defined by the D.C. Circuit as outside of the operating-system market. Microsoft II, 253 F.3d at 52-54. Although standing was not at issue, an implication of the government action is that Sun or Netscape-neither consumers nor competitors in the PC operating-systems market-would have had standing to sue Microsoft privately under § 4, and Microsoft concedes as much.22
+ 
+
+C.
+[4] Having rejected Microsoft’s argument that a bright-line consumer-or-competitor *315 rule strips Novell of antitrust standing, we now consider whether the five AGC factors, as formulated in our decision in Kloth, compel dismissal of Novell’s claims on antitrust-standing grounds. The first two factors-“(1) the causal connection between an antitrust violation and harm to the plaintiffs, and whether that harm was intended; and (2) whether the harm was of a type that Congress sought to redress in providing a private remedy for violations of the antitrust laws”-are closely related. See Kloth, 444 F.3d at 324 (citations and internal quotations omitted). They ensure that the plaintiff claims the proper type of injury to be accorded antitrust standing. See AGC, 459 U.S. at 540, 103 S.Ct. 897 (“[E]ach [plaintiff’s] alleged injury must be analyzed to determine whether it is of the type that the antitrust statute was intended to forestall.”). The other factors, which involve examination of the directness or remoteness of the plaintiff’s injury and the ease or difficulty of apportioning damages, may further constrict the number of private plaintiffs eligible to bring a treble-damages action under the federal antitrust laws.23
+ 
+
+1.
+We begin by reviewing the first two AGC factors. For ease of analysis, we reverse their order and examine first whether Novell has alleged an injury that the antitrust laws were intended to prevent, and then the causal connection between Microsoft’s conduct and Novell’s injuries. It is helpful in this regard to briefly revisit the purposes of antitrust laws.
+ 
+[5] “Antitrust laws ... are the Magna Carta of free enterprise.” United States v. Topco Assocs., Inc., 405 U.S. 596, 610, 92 S.Ct. 1126, 31 L.Ed.2d 515 (1972). As the Supreme Court clarified in Brunswick, they “were enacted for the protection of competition not competitors.” 429 U.S. at 488, 97 S.Ct. 690 (internal quotation omitted). Thus, the Sherman Act does not protect competitors from being destroyed through competition; on the contrary, such destruction can signal healthy functioning of the free-enterprise system. See id. The Sherman Act was enacted to protect the freedom to compete by curtailing the destruction of competition through anticompetitive practices. For example, a firm violates § 2 of the Sherman Act “when it acquires or maintains, or attempts to acquire or maintain, a monopoly by engaging in exclusionary conduct ‘as distinguished from growth or development as a consequence of superior product, business acumen, or historic accident.’ ” Microsoft *316 II, 253 F.3d at 58 (quoting United States v. Grinnell Corp., 384 U.S. 563, 571, 86 S.Ct. 1698, 16 L.Ed.2d 778 (1966)).
+ 
+Taking Novell’s allegations as true, as we must, the injury that Novell alleges here is plainly an injury to competition that the anti-trust laws were intended to forestall. Microsoft’s activities, Novell claims, were intended to and did restrain competition in the PC operating-system market by keeping the barriers to entry into that market high.24 Thus, we conclude that Novell has alleged harm of the type the antitrust laws were intended to prevent.
+ 
+[6] We now turn to the second facet of antitrust injury: the causal connection between Novell’s injuries and Microsoft’s alleged antitrust violations. Novell claims that its market share in the office-productivity-applications market was eroded as a result of Microsoft’s activity, which was designed to and effectively did elevate the barriers to entry into the PC operating-systems market. As chronicled earlier in this opinion, Novell complains that Microsoft withheld key technical information from its software designers, disadvantaging Novell in preparing for the launch of the Windows 95 operating system; that Microsoft exploited its monopoly power to require or encourage OEMs to refrain from installing Novell’s products on their computers, cutting off Novell’s distribution channels; and that Microsoft required Novell to use Windows-specific technologies in order to be certified as Windows-compatible, degrading Novell’s products’ performance on other operating systems and harming their advantageous compatibility. All of these activities allegedly had the effect of thwarting the ability of Novell’s products to lower the applications barrier to entry into the operating-system market, therefore harming competition in that market.
+ 
+The analysis of the causal link between these activities and the decline in Novell’s office-productivity-applications market share is straightforward. Microsoft’s use of its monopoly power in the operating-system market to foreclose the distribution channels for Novell’s applications, for example, would have naturally tended to decrease Novell’s market share and consequently decrease the value of its applications. Likewise, withholding crucial data on its soon-to-be-released Windows 95 operating system would have put Novell at a competitive disadvantage vis-a-vis Microsoft’s office-productivity applications, leading naturally to a loss of market share for Novell. This loss of market share could make a competing operating system featuring Novell’s office-productivity applications less attractive to consumers, harming that competing operating system’s potential to surmount the barrier protecting the Windows monopoly.
+ 
+In examining causation, we also consider “whether [the] harm was intended.” Kloth, 444 F.3d at 324; see also AGC, 459 U.S. at 537 n. 35, 103 S.Ct. 897. While mindful that the defendant’s specific intent to injure the plaintiff is “not a panacea that will enable any complaint to withstand a motion to dismiss,” we recognize that “there no doubt are cases in which such an allegation would adequately support a plaintiff’s claim under § 4.” AGC, 459 U.S. at 537 & n. 35, 103 S.Ct. 897. Here, Novell alleges that Microsoft specifically targeted its products for destruction as a means to damage competition in the *317 operating-systems market. Novell’s allegations go beyond mere speculation. They are supported by internal Microsoft communications. For example, Microsoft Chairman Bill Gates specifically suggested waiting to publish critical technical specifications of Windows 95 until “we have a way to do a high level of integration [between Microsoft Office and Windows 95] that will be harder for [the] likes of ... WordPerfect to achieve.” J.A. 95. Otherwise, Gates noted, “[w]e can’t compete with ... WordPerfect/Novell.” Id. Additionally, Novell proffers the following email from senior Microsoft official Jeff Raikes to investor Warren Buffett:
+If we own the key ‘franchises’ built on top of the operating systems, we dramatically widen the ‘moat’ that protects the operating system business.... We hope to make a lot of money off these franchises, but even more important is that they should protect our Windows royalty per PC.
+J.A. 91. The “moat” protecting Windows to which Raikes refers is the applications barrier to entry; the email therefore supports Novell’s assertions that its products were directly targeted.
+ 
+In sum, the first two AGC factors weigh in favor of granting Novell antitrust standing. The facts alleged by Novell, taken as true for the purposes of this appeal, are sufficient to demonstrate that Novell suffered an antitrust injury and that its injury can be traced to Microsoft’s alleged antitrust violations. While the showing of an antitrust injury demonstrates that a case is of the type for which antitrust standing is recognized, such a showing is not necessarily sufficient to demonstrate that the particular plaintiff has antitrust standing. Thus, we now turn to an analysis of the remaining AGC factors.
+ 
+
+2.
+[7] The latter three AGC factors require us to consider “the directness of the alleged injury; ... the existence of more direct victims of the alleged antitrust injury; and ... problems of identifying damages and apportioning them among those directly and indirectly harmed.” Kloth, 444 F.3d at 324 (internal quotations omitted). These additional factors are intended to further restrict entry into the federal courts for private enforcement of the antitrust laws. “[I]f afforded to every person tangentially affected by an antitrust violation or for all injuries that might conceivably be traced to an antitrust violation,” the treble-damages remedy would open the door to much mischief, including the filing of claims that are remote from the forbidden anticompetitive activity and the risk of duplicative lawsuits. Cargill, 479 U.S. at 111 n. 6, 107 S.Ct. 484 (internal quotations omitted). That said, the Supreme Court has recognized that “in enacting § 4[,] Congress sought to create a private enforcement mechanism that would deter violators and deprive them of the fruits of their illegal actions, and would provide ample compensation to the victims of antitrust violations.” See McCready, 457 U.S. at 472, 102 S.Ct. 2540. The broad language of the statute, “and the avowed breadth of the congressional purpose, caution[ ] us not to cabin § 4 in ways that will defeat its broad remedial objective.” Id. at 477, 102 S.Ct. 2540.
+ 
+[8] [9] Considerations of the directness of the plaintiff’s injury and of the existence of more-directly harmed parties are closely related. Anti-trust law favors granting standing to the most direct victims of defendants’ anticompetitive conduct and denying standing to more remote victims on the theory that the direct victims have the greatest motivation to act as “private attorney[s] general” and “to vindicate the *318 public interest in antitrust enforcement.” AGC, 459 U.S. at 542, 103 S.Ct. 897. Further, compensating only direct victims avoids duplicative recoveries. Id. at 543-44, 103 S.Ct. 897. Therefore, the existence of an identifiable, more-directly harmed class of victims with the incentive to sue under the antitrust laws weighs against granting standing to a more remote plaintiff. If, however, there is no more-directly harmed party with motivation to act as a private attorney general than the plaintiff, the “risk of duplicative recoveries on the one hand, or the danger of complex apportionment of damages on the other” is mitigated. AGC, 459 U.S. at 543-44, 103 S.Ct. 897; cf. Ill. Brick Co. v. Ill., 431 U.S. 720, 735, 97 S.Ct. 2061, 52 L.Ed.2d 707 (1977) (limiting standing to recover money damages in price-fixing claim to direct purchasers in order to avoid duplicative recoveries and difficult damage-allocation problems).
+ 
+For example, in AGC, the plaintiff-union sued a contractors’ association, alleging that the defendants coerced members of the association and certain nonmembers to hire nonunion contractors and subcontractors. 459 U.S. at 540-41, 103 S.Ct. 897. The Court found that the union’s injuries were derivative of any harm that may have been suffered by certain of its members. Id. at 541, 103 S.Ct. 897. By contrast, in McCready, there was no more direct victim of the defendants’ anticompetitive acts than the plaintiff-consumer; she had paid for the services of a mental healthcare provider that itself could not complain of Blue Cross’s refusal to reimburse McCready.25 457 U.S. at 475, 102 S.Ct. 2540.
+ 
+Here, Novell alleges that its software applications’ popularity, quality, and ability to function well on multiple operating systems posed a potential threat to Microsoft’s Windows monopoly by offering competing PC operating systems a bridge across the applications barrier to entry (i.e., the “moat” that protects Windows’s monopoly) into that market. Novell claims that because of this threat, Microsoft directly targeted its products. As noted above, Microsoft’s specific intent with respect to Novell is not the decisive factor, but it is evidence that Microsoft viewed Novell as a threat that could enable competitors to gain a foothold in the operating-systems market. Furthermore, Microsoft’s withholding of information from Novell’s software developers relating to Windows 95 clearly has no more direct victim than Novell. Finally, Microsoft’s exclusive deals with OEMs that ensured that Novell’s products would not be preinstalled on new PCs built by those OEMs directly curtailed Novell’s distribution channels.
+ 
+Although Microsoft argues that a long list of better-situated plaintiffs than Novell exists, it mentions none by name or by category. Nevertheless, we surmise that such plaintiffs might include potentially competing operating systems, the OEMs who were restrained from installing Novell’s products on computers they manufactured, or even consumers who purchased computers installed with Microsoft products at an inflated price because of a lack of competition. Without addressing whether plaintiffs representing each of these groups would have antitrust standing, we note that none of these parties has sued Microsoft on the theory that Microsoft’s alleged destruction of Novell’s dominant office-productivity applications *319 harmed competition in the PC operating-system market. It may be that OEMs, for example, are too dependent on relationships with Microsoft for their business livelihood to have the incentive to pursue claims under § 4. See Berger & Bernstein, An Analytical Framework for Antitrust Standing, 86 Yale L.J. 809, 879 (1977) (noting some parties “affected by an antitrust violation may well not sue because of their stake in an ongoing commercial relationship with the violator.”). This suggests that Novell may be the best-situated plaintiff to assert these claims. Indeed, today Novell may be one of the few private plaintiffs whose claims in this regard are neither time-barred26 nor too tenuous to support antitrust standing.
+ 
+Certain characteristics of the PC operating-systems market also weigh in favor of finding Novell to be the most direct victim with incentive to serve as a private attorney general. As noted earlier in this opinion, in technologically dynamic markets characterized by network effects, one dominant product typically reigns supreme. See supra II.A. Microsoft Windows thus competes more “for the field,” parrying threats from outside the field instead of from within. See id. Given the apparent absence of a more-directly harmed party than Novell outside the filed and the dominance of Microsoft Windows within the field, we conclude that the AGC directness factors weigh in favor of finding antitrust standing here.
+ 
+Finally, we turn to the fifth AGC factor which considers whether a finding of antitrust standing would lead to “problems of identifying damages and apportioning them among those directly and indirectly harmed.” Kloth v. Microsoft, 444 F.3d 312, 324 (4th Cir.2006)(internal quotations omitted). Cases where this factor has been found to bar standing often involve potential plaintiffs indirectly injured by the allegedly anticompetitive behavior, raising the specter of complex apportionment of damages among, or duplicative recoveries by, direct and indirect victims of such conduct. See AGC, 459 U.S. at 545, 103 S.Ct. 897 (denying standing to the union in part because damages would have to be allocated between directly victimized union subcontractors and their indirectly victimized employees); Ill. Brick, 431 U.S. at 737-38, 97 S.Ct. 2061 (prohibiting a plaintiff down a distribution change from bringing a private treble-damages action for an overcharge that may have been passed on to it by a middleman). Because we have already determined, on the record before us, that Microsoft’s allegedly anticompetitive conduct was directly aimed at Novell, there is little risk that any damages Novell might prove would need to be allocated or apportioned among any more-directly injured parties.
+ 
+We therefore find that the AGC factors favor granting standing to Novell to assert Counts I and VI. We thus affirm the district court’s denial of Microsoft’s motion to dismiss as to these claims on the antitrust-standing issue.
+ 
+
+D.
+We wish to emphasize here that we address the limited issue of Novell’s antitrust standing on these facts. We do not view our decision with respect to Novell as unduly expanding the universe of private antitrust plaintiffs. We recognize, as has the Supreme Court in its consideration of the scope of antitrust standing, that treble- *320 damages suits under § 4 of the Clayton Act are not to be wielded indiscriminately. We merely hold that Novell, like the owners of the middleware products at issue in Microsoft II, is a member of a limited class of plaintiffs for whom the AGC factors support antitrust standing, even though they are outside the restrained PC operating-systems market.
+ 
+
+III.
+A.
+[10] Having concluded that Novell does have antitrust standing to assert Counts I and VI, we now turn to Novell’s argument that the district court erred in dismissing as untimely Counts II through V, which allege injury to competition in the office-productivity-applications market.
+ 
+As noted earlier, this action was commenced more than eight years after Novell’s claims arose; therefore, all of the claims are time-barred, see 15 U.S.C. § 15b (federal antitrust claims barred if brought more than four years after accruing), unless saved by the tolling provision of § 5(i) of the Clayton Act. This section provides in relevant part:
+Whenever any civil or criminal proceeding is instituted by the United States to ... punish violations of any of the antitrust laws ... the running of the statute of limitations in respect of every private ... right of action ... based in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter....
+15 U.S.C. § 16(i) (emphasis added).
+ 
+[11] [12] The tolling statute contemplates an analysis of the relationship between the violations alleged in the government action and those alleged in the private action. Leh, 382 U.S. at 59, 86 S.Ct. 203. For the tolling provision to apply, the private plaintiffs must prove, by “comparison of the two complaints on their face[s],” a significant overlap of subject matter between the two actions. Id. at 59, 65, 86 S.Ct. 203. There is no requirement, however, of complete identity of the means, objectives, or statutory violations in the public and private lawsuits. Id.; Minn. Mining & Mfg. Co. v. N.J. Wood Finishing Co., 381 U.S. 311, 323, 85 S.Ct. 1473, 14 L.Ed.2d 405 (1965).
+ 
+Section 5(i) represents a balance struck by Congress between competing policy objectives. On the one hand, a “grudging interpretation” of § 5(i) “would collide head-on with Congress’s ... belief that private antitrust litigation is one of the surest weapons for effective enforcement of the antitrust laws.” Minn. Mining & Mfg. Co., 381 U.S. at 318, 320, 85 S.Ct. 1473. On the other hand, § 5(i) reflects a “congressional emphasis on certainty and predictability in the application” of the tolling provision so as to avoid “undue prolongation of [antitrust] proceedings.” Greyhound Corp. v. Mt. Hood Stages, Inc., 437 U.S. 322, 335, 98 S.Ct. 2370, 57 L.Ed.2d 239 (1978) (citing S.Rep. No. 619, 84th Cong., 1st Sess., 6 (1955)).
+ 
+Beyond these broad principles, the district court here relied upon the general rule that limitations are not tolled when “the government and subsequent private suits ... arose in distinct markets.” 2 Philip E. Areeda & Herbert Hovenkamp, Antitrust Law ¶ 321a, at 241 (2d ed.2000). Other courts have also applied this rule. For example, in In re Coordinated Pretrial Proceedings in Petroleum Prods. Antitrust Litig., 782 F.Supp. 481 (C.D.Cal.1991), the markets defined by the government and the private plaintiffs were the same (“refined oil products”)-except that they covered different geographical areas-and nearly all of the same producers were active in both areas. Id. at 483-84. *321 Nonetheless, the court rejected tolling because the markets were not identical, as they covered different geographical areas. See id. at 486; see also Charley’s Tour and Transp., Inc. v. Interisland Resorts, Ltd., 618 F.Supp. 84, 86 (D.Haw.1985) (stating, in a case involving the hotel-room-rental market in the government action and the charter-bus-use market in the private action, that § 5(i) does not “mean that a defendant [in a government action] doing business in different markets [has] the statute of limitations tolled as to all of its markets”).
+ 
+
+B.
+Novell argues that the tolling provision preserves Counts II through V because its complaint overlaps significantly with the DOJ complaint. The DOJ complaint, as discussed earlier, was based on allegations of anticompetitive conduct by Microsoft in two product markets: the market for PC operating systems and the market for Internet browsers. J.A. 343 (DOJ Compl. ¶ 53). Novell argues that the “core elements” of its claims “echo allegations made throughout the government’s complaint against Microsoft,” even though Novell’s claims in Counts II through V are for harm to a market distinct from those specifically at issue in the DOJ complaint. Appellee’s Br. at 54. Novell cites, inter alia, paragraph 5 of the DOJ complaint, which alleges, “Microsoft’s conduct includes ... exclusionary agreements precluding companies from distributing, promoting, buying, or using products of Microsoft’s software competitors ...,” J.A. 327 (DOJ Compl. ¶ 5); paragraph 13 of the DOJ complaint, which avers that Microsoft’s conduct with respect to browsers is an example of Microsoft’s activities “with the purpose and effect of maintaining its PC operating-system monopoly and extending that monopoly to other related markets,” J.A. 330 (DOJ Compl. ¶ 13)(emphasis added); and the government’s prayer for relief, which is peppered with references to “other software products,” J.A. 375-76. Novell argues that because the DOJ complaint references other software markets, the complaint should be interpreted as “complain[ing] of” harm to office-productivity applications as well as the two markets to which it clearly did allege harm, markets for PC operating systems and for Internet browsers. Appellee’s Br. at 53-57.
+ 
+We cannot accept Novell’s proffered interpretation. Though we are mindful of the tolling provision’s purpose of providing private plaintiffs the opportunity to wait to assert claims that are the subject of a government action during the pendency of that action, Novell’s reading would require us to look beyond the face of the DOJ complaint, in contravention of Leh, 382 U.S. at 65, 86 S.Ct. 203. The DOJ complaint only expressly alleges harm to the markets for PC operating systems and for Internet browsers. Novell’s allegations of harm to the office-productivity-applications market, therefore, overlap little with the subject matter of the DOJ complaint.
+ 
+A straightforward application of the different-markets rule also bars application of the tolling provision here. Though Novell characterizes the different-markets rule as merely “a helpful rule of thumb,” Appellee’s Br. at 63, Novell cites only cases involving either the same markets in the government and private suits, or markets much more closely linked than the PC operating-system market and the office-productivity-applications market. Indeed, the Supreme Court has accepted tolling only where the private plaintiffs make claims in markets identical to, or completely encompassed by, those at issue in the earlier government suit. See  *322 Zenith v. Hazeltine Research, Inc., 401 U.S. 321, 323-25, 333-34, 91 S.Ct. 795, 28 L.Ed.2d 77 (1971) (same markets); Leh, 382 U.S. at 64, 86 S.Ct. 203 (market in government suit was that for distribution of refined gasoline in Pacific Coast states, whereas private suit focused on the same market in Southern California only); Minn. Mining & Mfg. Co., 381 U.S. at 315, 322-23, 85 S.Ct. 1473 (same markets).27 Because the office-productivity market at issue in Counts II through V is neither identical to nor completely encompassed by the PC operating-system market at issue in the government action, these cases are of little service to Novell.
+ 
+Supporting our conclusion regarding the distinct nature of the markets is the fact that the government’s decision to pursue claims involving only the operating-system and Internet browser markets rested on a deliberate choice. The Department of Justice knew that state Attorneys General originally included a claim in their action against Microsoft, filed on the same day as the DOJ complaint in the same court, for harm to a market for office-productivity applications. See Compl. at ¶¶ 88-95, 98, 117-19, New York v. Microsoft Corp., No. 98-1233, 2002 WL 31628216 (D.D.C. Nov. 12, 2002). This claim was subsequently dropped in an amended complaint. See First Am. Compl., id.28
+ 
+On these facts, we do not believe § 5(i) of the Clayton Act should be construed to permit private plaintiffs to “sit on their rights” and to assert, years after the traditional statute of limitations has run, “claims so much broader than those asserted by the government that they open entirely new vistas of litigation.” Novell, Inc. v. Microsoft Corp., Civ. No. 05-1087, 2005 WL 1398643, at *5, 2005 U.S. Dist. LEXIS 11520, at *14 (D. Md. June 10, 2005). To allow Novell to go forward with Counts II through V now would have precisely this undesirable effect, in addition to extending the tolling effect of § 5(i) beyond what the Supreme Court has accepted or condoned in this area. Such an extension of the tolling provision would contravene the goals of certainty and predictability in this area, as well as avoidance of the “undue prolongation of [anti-trust] proceedings.” Cf. Greyhound Corp., 437 U.S. at 334-35, 98 S.Ct. 2370 (quotation omitted).
+ 
+We therefore hold that the tolling provision of § 5(i) of the Clayton Act does not preserve Counts II through V of Novell’s complaint. After tarrying with these claims for more than eight years, Novell cannot now resurrect stale causes of action, and Microsoft is entitled “to the comfort *323 of repose.” Novell, Civ. No. 05-1087, 2005 WL 1398643,at *5, 2005 U.S. Dist. LEXIS 11520, at *14.
+ 
+
+IV.
+The judgment of the district court is
+ 
+AFFIRMED.
+ 
+All Citations
+505 F.3d 302, 2007-2 Trade Cases P 75,901
+Footnotes
+
+1
+
+Judge Widener heard oral argument in this case but died prior to the time the decision was filed. The decision is filed by a quorum of the panel. 28 U.S.C. § 46(d).
+
+2
+
+A word-processing application is software that enables an end-user to create, edit, and print text-based documents.
+
+3
+
+A spreadsheet application is software that enables an end-user to organize and manipulate quantitative data.
+
+4
+
+In March 1996, Novell sold its office-productivity applications to Corel Corporation.
+
+5
+
+Microsoft’s office-productivity suite is called “Microsoft Office” and includes Word, a word-processing application, and Excel, a spreadsheet application.
+
+6
+
+Operating systems serve as platforms for software applications by making available to software developers protocols that perform certain widely-used functions. Microsoft II, 253 F.3d at 53. These protocols are referred to as Application Programming Interfaces (“APIs”). Id. For example, Windows includes an API that allows users to draw a box on the computer screen. Id. Software developers wishing to include that function in their applications for the Windows operating system may utilize the Windows API. Id.
+
+7
+
+In Microsoft II, Microsoft did not challenge the district court’s finding that Windows controlled greater than 95% of the PC operating-systems market. 253 F.3d at 54.
+
+8
+
+These other PC operating systems include (or at one time included) Linux, Unix, and IBM OS/2. See Microsoft II, 253 F.3d at 52. Additionally, Apple’s Macintosh operating system, Mac OS, exists outside of the PC operating-systems market. See id.
+
+9
+
+Since that time, Microsoft has faced a number of private antitrust suits for allegedly unlawfully monopolizing or otherwise harming competition in the PC operating-systems market. See, e.g., Kloth v. Microsoft Corp., 444 F.3d 312 (4th Cir.2006); Deiter v. Microsoft Corp., 436 F.3d 461 (4th Cir.2006); In re Microsoft Corp. Antitrust Litig., 355 F.3d 322 (4th Cir.2004); In re Microsoft Corp. Antitrust Litig., 333 F.3d 517 (4th Cir.2003).
+
+10
+
+Novell does not market an operating system comparable to Microsoft Windows. Novell did at one time own an operating system known as Novell DOS, which it sold to Caldera, Inc. (“Caldera”) in 1996. Before the district court, Microsoft argued that Novell sold its claims for monopolization and attempted monopolization of the PC operating-system market to Caldera along with its PC operating-system business. Therefore, Microsoft asserted that in addition to lacking antitrust standing as to Counts I and VI, Novell no longer owned the claims therein.
+The district court rejected Microsoft’s argument. However, as noted above, we granted Microsoft’s petition for interlocutory appeal on the antitrust-standing issue only, and thus the question of ownership of the claims is not before us.
+
+11
+
+28 U.S.C. § 1292(b) provides, in pertinent part:
+When a district judge, in making in a civil action an order not otherwise appealable ..., shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing such order. The Court of Appeals which would have jurisdiction of an appeal of such action may thereupon, in its discretion, permit an appeal to be taken of such order....
+
+12
+
+Novell claims that in 1990, WordPerfect controlled 47% of the word-processing market but that Microsoft’s “assault” on its office-productivity applications resulted in a precipitous decline in WordPerfect’s market share: to 40% in 1993, 30% in 1994, and less than 10% in 1996. Appellee’s Br. at 15-16. At the same time, Microsoft Word’s market share skyrocketed from 20% to 90%. Id. at 16.
+
+13
+
+According to Novell, monopolizing the office-productivity-applications market was “an end in itself for Microsoft” (and the subject of Counts II through V of Novell’s complaint), but “the primary purpose of Microsoft’s anticompetitive scheme” was to protect Microsoft’s PC operating-system monopoly, its “real cash cow.” Appellee’s Br. at 8.
+
+14
+
+“Middleware” is a term used to refer to software products that have the capability to serve as platforms for software applications themselves. Microsoft II, 253 F.3d at 53. They expose, or make available, their own APIs, see supra note 6, and theoretically, software developers could rely upon these APIs rather than Windows’s APIs for basic routines. Id. Because Java and Navigator were written for multiple operating systems, software developers could potentially use them as platforms for their applications rather than rewriting them for each operating system. Id. However, no middleware product could expose nearly enough APIs to serve as a platform for popular applications or to usurp operating-system functions. Id. Nor, the district court found and the D.C. Circuit affirmed, would any middleware product do so in the foreseeable future. Id. Notably, Microsoft did not challenge these findings, apparently conceding that Java and Navigator were not present competitors of its Windows operating system. Id. Microsoft does not argue to this court that Java and Navigator are now its competitors either.
+
+15
+
+Microsoft official Jeff Raikes described this “moat” in an email to investor Warren Buffett:
+If we own the key ‘franchises’ built on top of the operating systems, we dramatically widen the ‘moat’ that protects the operating system business....
+J.A. 91.
+
+16
+
+The concept of antitrust standing is narrower than constitutional standing. “Harm to the antitrust plaintiff is sufficient to satisfy the constitutional standing requirement of injury in fact,” but courts must make an independent determination of whether “the plaintiff is a proper party to bring a private antitrust action.” AGC, 459 U.S. at 535 n. 31, 103 S.Ct. 897 (citing Daniel Berger & Roger Bernstein, An Analytical Framework for Antitrust Standing, 86 Yale L.J. 809, 813 n.11 (1977)). This inquiry requires us to focus on the multiple factors identified by the Supreme Court in AGC. Id. at 537-44, 103 S.Ct. 897.
+
+17
+
+The plaintiffs in Kloth were indirect purchasers of Microsoft’s operating system; that is, they did not buy the software directly from Micro-soft. Therefore, we held that they were barred from seeking recovery for illegal pass-through overcharges under the principles of Illinois Brick Co. v. Illinois, 431 U.S. 720, 97 S.Ct. 2061, 52 L.Ed.2d 707 (1977). Kloth, 444 F.3d at 317. The holding in Illinois Brick, that only direct purchasers of products affected by the anti-trust violations can sue for treble damages under § 4 of the Clayton Act, see 431 U.S. at 729-30, 97 S.Ct. 2061, is generally inapplicable to the instant appeal. In Kloth, however, we also applied the AGC factors and found that the plaintiffs lacked standing to seek recovery for injuries other than over-charges. 444 F.3d at 324-25.
+
+18
+
+In Brunswick, the plaintiff, a retail bowling center, sued the defendant, who acquired several rival retail bowling centers that otherwise would have closed. 429 U.S. at 488, 97 S.Ct. 690. The plaintiff was denied antitrust standing because losing profits as a result of enhanced competition is not the type of injury the antitrust laws were designed to prevent. Id. Awarding damages for that type of injury, the Supreme Court noted, “is inimical to purposes of these laws.” Id.
+
+19
+
+It may be more likely that a consumer or competitor in the relevant market will suffer an antitrust injury than a plaintiff who is neither a competitor nor a consumer. This does not necessarily preclude, however, a party who is neither from having an antitrust injury. Thus, like the Supreme Court in AGC, we do not stop our analysis merely because Novell is neither a competitor nor a consumer.
+
+20
+
+Microsoft further relies on cases from the Third and Ninth Circuits which appear to adopt a consumer-or-competitor rule. Barton & Pittinos, Inc. v. SmithKline Beecham Corp., 118 F.3d 178, 184 (3d Cir.1997); Exhibitors’ Serv., Inc. v. Am. Multi-Cinema, Inc., 788 F.2d 574, 579 (9th Cir.1986). However, the courts in both circuits later explicitly moved away from those narrowing decisions. See Carpet Group Int’l v. Oriental Rug Importers Ass’n, Inc., 227 F.3d 62, 76-77 & n. 12 (3d Cir.2000) (noting that Barton & Pittinos’s holding “rest[ed] on an overstated premise,” that, “if construed as an absolute ..., may in some circumstances lead to results that conflict with Supreme Court and other precedent”); Amer. Ad Mgmt., Inc. v. Gen. Telephone Co. of Calif., 190 F.3d 1051, 1058 (9th Cir.1999) (declaring that limiting antitrust standing to consumers and competitors would contravene Supreme Court precedent). For further discussion of the possible myopia of limiting antitrust standing to consumers or competitors in the relevant market, see Ronald W. Davis, Standing on Shaky Ground: The Strangely Elusive Doctrine of Antitrust Injury, 70 Antitrust L.J. 697, 760-65 (2003).
+
+21
+
+Unlike Novell, the plaintiff in Thompson Everett maintained that it was a competitor of the defendant. However, this court rejected that characterization. Thompson Everett, 57 F.3d at 1325.
+
+22
+
+Microsoft does not deny that Sun and Netscape would have had standing for a private suit. Instead, Microsoft focuses on the fact that middleware products such as Java and Navigator had the technological potential to compete with operating systems in the future. See Microsoft II, 253 F.3d at 53-55. The hypothetical future capabilities of Java and Navigator do not meaningfully distinguish such products from Novell’s applications, however. Indeed, Java and Navigator, like WordPerfect and Quattro Pro here, exist outside the market unlawfully monopolized by Microsoft. As with Novell’s office-productivity applications, the primary threat that Java and Navigator posed to Windows was not that they were competitors or potential competitors in the operating-system market (indeed, the court found that they were not competitors or potential competitors within the relevant time frame) but rather that, from outside that market, they could enable an alternative operating system to compete with Windows. Id. at 55, 60, 74-80.
+The anticompetitive activities that harmed Java and Navigator are undeniably similar to those alleged by Novell. For example, the D.C. Circuit found that provisions in Windows licenses issued to OEMs restricting them from distributing browsers other than Microsoft’s own served to reduce Netscape’s browser’s market share:
+Therefore, Microsoft’s efforts to gain market share in one market (browsers) served to meet the threat to Microsoft’s monopoly in another market (operating systems) by keeping rival browsers from gaining the critical mass of users necessary to attract developer attention away from Windows as the platform for software development.
+Id. at 60. Additionally, the D.C. Circuit cited internal Microsoft memoranda indicating an objective “to thwart Java’s threat to Microsoft’s monopoly in the market for operating systems,” in which Microsoft espoused an intent to deceive Java developers into writing applications that only performed properly on Windows. Id. at 76-77 (citing a Microsoft document that stated, “Cross-platform [i.e., multiple operating system] capability is by far the number one reason for choosing/using Java”).
+As noted above, we are not sufficiently persuaded by Microsoft’s proffered distinction between Novell’s products and middleware to consider irrelevant the parallels between Novell’s claims and the government’s claims.
+
+23
+
+The Supreme Court has likened the common-law tort concept of proximate cause to the directness inquiry required by the additional AGC factors, emphasizing that both are somewhat elusive. See McCready, 457 U.S. at 477, 478 n. 13, 102 S.Ct. 2540 (“The traditional principle of proximate cause suggests the use of words such as ‘remote,’ ‘tenuous,’ ‘fortuitous,’ ‘incidental,’ or ‘consequential’ to describe those injuries that will find no remedy at law.... And the use of such terms only emphasizes that the principle of proximate cause is hardly a rigorous analytic tool.”) (internal citations omitted).
+
+24
+
+Of course, in the absence of Microsoft’s alleged violations (i.e., in an unrestrained market), Novell’s products still may have suffered from the competition from Microsoft’s applications, but damage from competition is not what the antitrust laws protect. See Brunswick, 429 U.S. at 488, 97 S.Ct. 690.
+
+25
+
+The psychologists harmed by the anticompetitive activity at issue in McCready had, in fact, already maintained a successful suit against the insurer. 457 U.S. at 470 n. 4, 102 S.Ct. 2540. However, their injury (lost profits in selling their services) was distinct from that of McCready (reduced coverage on her health insurance policy).
+
+26
+
+With a November 2002 consent decree ending the government’s suit and triggering, one year later, the ticking of the statute of limitations’ clock, any plaintiff’s similar claims arising before the end of the government suit would appear to be untimely. See 15 U.S.C. § 16(i); United States v. Microsoft Corp., 231 F.Supp.2d 144 (D.D.C.2002).
+
+27
+
+Novell points to several lower-court decisions in which statutes of limitations were tolled when the markets involved in the private suit and the government suit were not identical. See In re Ariz. Dairy Prods. Litig., No. CIV 74-569A, 1984 WL 21984 (D.Ariz. Nov. 5, 1984) (finding limitations period tolled for filing of claim in private action for price-fixing conspiracy in retail milk market based on government suit for price-fixing in wholesale milk market); In re Antibiotic Antitrust Actions, 333 F.Supp. 317, 320-21 (S.D.N.Y.1971) (finding limitations period tolled for claim for damages suffered in a foreign broad spectrum antibiotics market for agricultural consumption by government suit for conduct in domestic broad spectrum antibiotics market for human consumption). The markets in both of the above cases were defined rather specifically, however, and a broader market definition could have included both that at issue in the government action and that at issue in the private action (e.g., the “milk market” or the “broad spectrum antibiotics market”). No reasonably broader market definition could encompass both the operating-system market at issue in the government action against Microsoft and the office-productivity-applications market at issue here.
+
+28
+
+Section 5(i) applies only to actions brought by the United States, so the Attorneys’ General action did not toll the limitations period.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

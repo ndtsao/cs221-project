@@ -1,0 +1,120 @@
+
+
+ 
+
+
+Wiseley v. Amazon.com, Inc.
+United States Court of Appeals, Ninth Circuit. | September 19, 2017 | --- Fed.Appx. ---- | 2017 WL 4150341
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wiseley v. Amazon.com, Inc., No. 15-56799, 2017 WL 4150341 (9th Cir. Sept. 19, 2017)
+
+All Citations:
+
+--- Fed.Appx. ----, 2017 WL 4150341
+
+Search Details
+
+Search Query:
+
+adv: NAME(”amazon.com”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+2017 WL 4150341
+Only the Westlaw citation is currently available.
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+Allen WISELEY, individually and on behalf of all others similarly situated, Plaintiff-Appellant,
+and
+Andrea Fagerstrom, Plaintiff,
+v.
+AMAZON.COM, INC., a Delaware Corporation, Defendant-Appellee.
+No. 15-56799
+|
+Argued and Submitted August 30, 2017 Pasadena, California
+|
+Filed September 19, 2017
+Appeal from the United States District Court for the Southern District of California, Cynthia A. Bashant, District Judge, Presiding, D.C. No. 3:15-cv-00096-BAS-DHB
+Attorneys and Law Firms
+Mark Leland Knutson, Esquire, Trenton R. Kashima, Finkelstein & Krinsk LLP, San Diego, CA, William Richard Restis, Esquire, Attorney, Finkelstein & Krinsk, San Diego, CA, for Plaintiff-Appellant
+Rebecca J. Francis, James Grant, Attorneys, Davis Wright Tremaine LLP, Seattle, WA, for Defendant-Appellee
+Before: W. FLETCHER and IKUTA, Circuit Judges, and BARKER,* District Judge.
+
+
+MEMORANDUM**
+*1 Allen Wiseley appeals from the district court’s order granting Amazon’s motion to compel arbitration. We have jurisdiction under 9 U.S.C. § 16(a)(3).
+ 
+The Conditions of Use (COU) created a valid contract between Amazon and its customers, as Wiseley conceded. Applying California’s approach to determining the enforceability of the choice-of-law provision in the COU, see Restatement (Second) of Conflict of Laws § 187(2)(b); Nedlloyd Lines, B.V. v. Superior Court, 3 Cal. 4th 459, 466, 11 Cal.Rptr.2d 330, 834 P.2d 1148 (1992), we conclude that Washington law applies here. Wiseley fails to explain how California’s consumer protection statutes are more protective than Washington’s consumer protection statutes; rather, Washington’s and California’s consumer protection laws and protections against unconscionable contracts appear to be substantially similar. See Davis v. O’Melveny & Myers, 485 F.3d 1066, 1079 n.6 (9th Cir. 2007), overruling on other grounds recognized by Ferguson v. Corinthian Coll., Inc., 733 F.3d 928, 937 (9th Cir. 2013); Al-Safin v. Circuit City Stores, Inc., 394 F.3d 1254, 1261 (9th Cir. 2005). Therefore, applying Washington law is not contrary to a fundamental policy of California law. While California’s sliding-scale approach to unconscionability, see Baltazar v. Forever 21, Inc., 62 Cal. 4th 1237, 1243–44, 200 Cal.Rptr.3d 7, 367 P.3d 6 (2016), might hypothetically invalidate some contracts that would be upheld under Washington’s single-prong approach, see Gandee v. LDL Freedom Enters. Inc., 176 Wash. 2d 598, 603, 293 P.3d 1197 (2013), the reverse is also true. Moreover, any distinction does not bear on this case, as we would reach the same result under California law.
+ 
+While the COU are adhesive in nature, adhesion is insufficient to support a finding of procedural unconscionability under Washington law, Zuver v. Airtouch Commc’ns, Inc., 153 Wash. 2d 293, 304, 103 P.3d 753 (2004), and creates only a minimal degree under California law. See Poublon v. C.H. Robinson Co., 846 F.3d 1251, 1261–62 (9th Cir. 2017); Baltazar, 62 Cal. 4th at 1245, 200 Cal.Rptr.3d 7, 367 P.3d 6. No additional indicia of procedural unconscionability are present.
+ 
+The notices on Amazon’s checkout and account registration pages, which alerted Wiseley that clicking the corresponding action button constituted agreement to the hyperlinked COU, were in sufficient proximity to give him a “reasonable opportunity to understand” that he would be bound by additional terms. Zuver, 153 Wash. 2d at 304, 103 P.3d 753 (quoting Schroeder v. Fageol Motors, Inc., 86 Wash. 2d 256, 260, 544 P.2d 20 (1975)). Wiseley conceded before the district court that there was sufficient notice to create a valid contract, and neither California nor Washington allows a party to escape contract obligations if it had actual or constructive notice. See Nguyen v. Barnes & Noble Inc., 763 F.3d 1171, 1176, 1179 (9th Cir. 2014) (applying California law); W. Consultants, Inc. v. Davis, 177 Wash. App. 33, 41, 310 P.3d 824 (2013).
+ 
+There is no procedural unconscionability in the presentation of the arbitration clause itself, which appears in the same size font as the rest of the COU, with key terms bolded. Sanchez v. Valencia Holding Co., LLC, 61 Cal. 4th 899, 914, 190 Cal.Rptr.3d 812, 353 P.3d 741 (2015) (explaining that any “obligation to highlight the arbitration clause of [the] contract ... would be preempted by the [Federal Arbitration Act]”).
+ 
+*2 Nor does the incorporation by reference of the American Arbitration Association’s (AAA) rules create procedural unconscionability. See Poublon, 846 F.3d at 1262; Baltazar, 62 Cal. 4th at 1246, 200 Cal.Rptr.3d 7, 367 P.3d 6; cf. Woodward v. Emeritus Corp., 192 Wash. App. 584, 593, 595, 607, 368 P.3d 487 (2016) (holding that a similar provision referencing the AAA rules “effectively incorporates the Rules by reference”). Although Wiseley argues that it was unclear which rules would apply, he had a “reasonable opportunity to understand,” see Zuver, 153 Wash. 2d at 304, 103 P.3d 753 (quoting Sc hroeder, 86 Wash. 2d at 260, 544 P.2d 20), that the Consumer Arbitration Rules would apply in the context of his consumer purchases, and he could call the provided phone number to resolve any lingering uncertainty. While the AAA renamed the Supplementary Procedures for Consumer-Related Disputes in 2014, this does not render the reference ambiguous or misleading in the version of the COU that applied when Wiseley made his purchases in 2012 and 2013.
+ 
+Wiseley’s three arguments for substantive unconscionability also lack merit.1 First, the unilateral modification clause does not render the arbitration provision substantively unconscionable because Amazon is limited by the implied covenant of good faith and fair dealing.2 See Tompkins v. 23andMe, Inc., 840 F.3d 1016, 1033 (9th Cir. 2016) (applying California law); cf. Rekhter v. Dep’t of Soc. & Health Servs., 180 Wash. 2d 102, 112–13, 323 P.3d 1036 (2014) (holding that the duty of good faith limits a party’s unilateral discretion to determine a contract term).
+ 
+Second, the arbitration clause’s exemption of intellectual property claims for injunctive relief does not make the provision overly harsh or one-sided. Under Washington law, a provision that “gives [one party] alone the option of requiring arbitration” is not substantively unconscionable, so whether one party is more likely to bring such claims is immaterial. Satomi Owners Ass’n v. Satomi, LLC, 167 Wash. 2d 781, 815–16, 225 P.3d 213 (2009). Even if Amazon is more likely to bring intellectual property claims than its consumers, California law grants Amazon “an extra ‘margin of safety’ based on legitimate business needs.” See Tompkins, 840 F.3d at 1031 (quoting Baltazar, 62 Cal. 4th at 1250, 200 Cal.Rptr.3d 7, 367 P.3d 6).
+ 
+Finally, the attorneys’ fees provision does not create substantive unconscionability because it mirrors Washington’s statutory right to attorneys’ fees for frivolous claims. Wash. Rev. Code § 4.84.185. To the extent the provision is unilateral, Washington law automatically converts it to a bilateral provision that would afford Wiseley the same right. See id. § 4.84.330; McKee v. AT & T Corp., 164 Wash. 2d 372, 400, 191 P.3d 845 (2008). The fees provision also complies with California law, which permits Amazon to seek fees as a sanction for frivolous claims. See Poublon, 846 F.3d at 1268. Further, Wiseley has not shown that the overall arbitration fee scheme “would be unaffordable or would have a substantial deterrent effect in [his] case.” Sanchez, 61 Cal. 4th at 920, 190 Cal.Rptr.3d 812, 353 P.3d 741 (2015).
+ 
+AFFIRMED.
+ 
+All Citations
+--- Fed.Appx. ----, 2017 WL 4150341
+Footnotes
+
+*
+
+The Honorable Sarah Evans Barker, United States District Judge for the Southern District of Indiana, sitting by designation.
+
+**
+
+This disposition is not appropriate for publication and is not precedent except as provided by Ninth Circuit Rule 36-3.
+
+1
+
+Because Wiseley has shown only a minimal degree of procedural unconscionability under California law, a high degree of substantive unconscionability is required under the sliding-scale approach. See Poublon, 846 F.3d at 1263.
+
+2
+
+Since the enforceability of provisions outside the arbitration clause is a question for the arbitrator, we address unilateral modification only as it applies to the arbitration clause. Tompkins, 840 F.3d at 1032.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

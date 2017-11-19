@@ -1,0 +1,440 @@
+
+
+
+
+
+Nazomi Communications, Inc. v. Nokia Corp.
+United States Court of Appeals, Federal Circuit. | January 10, 2014 | 739 F.3d 1339 | 2014 WL 92223
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Concurring Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Extend by IN THE MATTER OF CERTAIN TELEVISION SETS, TELEVISION RECEIVERS, TELEVISION TUNERS, AND COMPONENTS THEREOF COMMISSION OPINION, U.S.Intern.Trade Com’n, October 30, 2015
+
+standard Citation:
+
+Nazomi Commc’ns, Inc. v. Nokia Corp., 739 F.3d 1339 (Fed. Cir. 2014)
+
+All Citations:
+
+739 F.3d 1339, 109 U.S.P.Q.2d 1258
+
+Search Details
+
+Search Query:
+
+adv: NAME(”amazon.com”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Extend by IN THE MATTER OF CERTAIN TELEVISION SETS, TELEVISION RECEIVERS, TELEVISION TUNERS, AND COMPONENTS THEREOF COMMISSION OPINION, U.S.Intern.Trade Com’n, October 30, 2015
+739 F.3d 1339
+United States Court of Appeals,
+Federal Circuit.
+NAZOMI COMMUNICATIONS, INC., Plaintiff–Appellant,
+v.
+NOKIA CORPORATION and Nokia Inc., Defendants,
+and
+Amazon.Com, Inc., Defendant,
+and
+Western Digital Corporation and Western Digital Technologies, Inc., Defendants–Appellees,
+and
+Sling Media, Inc., Defendant–Appellee,
+and
+Vizio, Inc., Defendant.
+No. 2013–1165.
+|
+Jan. 10, 2014.
+Synopsis
+Background: Owner of patents describing hardware-based programming language translator program capable of processing stack-based instructions, that also retained the ability to run legacy applications without utilizing translator program brought infringement action. Case was transferred from Central District of California, parties sought claim construction, and competitors moved for summary judgment. The United States District Court for the Northern District of California, Ronald M. Whyte, Senior District Judge, 2012 WL 3536768, construed disputed claim language, 2012 WL 6680304,granted summary judgment of non-infringement, and certified judgment for appeal. Patentee appealed.
+ 
+[Holding:] The Court of Appeals, Dyk, Circuit Judge, held that accused devices did not infringe patents.
+ 
+Affirmed.
+ 
+Lourie, Circuit Judge, filed a concurring opinion.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+The first step of the patent infringement analysis is claim construction, a question of law reviewed de novo.
+7 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+(Formerly 291k101(2))
+
+
+Asserted claims in patents describing hardware-based programming language translator program capable of processing stack-based instructions, that also retained the ability to run legacy applications without utilizing translator program, which claims were all directed to the central processing unit (CPU) and recited limitations pertaining to its functionality, required a hardware and software combination capable of processing both register-based and stack-based instructions.
+3 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k235(2))
+
+
+Purchase and installation of software that would allow infringing hardware to function was modification of accused products, and thus accused devices did not infringe patents describing hardware-based programming language translator program capable of processing stack-based instructions, that also retained the ability to run legacy applications without utilizing translator program, since accused devices did not contain required software, and there was no evidence that accused devices were designed to be used with software.
+8 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  comparison with patent claims
+
+
+291Patents
+291VIIPatent Infringement
+291VII(A)In General
+291k1554Substantial Identity of Subject Matter
+291k1555In general;  comparison with patent claims
+(Formerly 291k226.6)
+
+
+The second step in an infringement analysis is determining whether the particular accused device infringes under the claim construction.
+8 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,080,362, US Patent 7,225,436. Construed and Ruled Not Infringed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1339 William D. Belanger, Pepper Hamilton LLP, of Boston, MA, argued for plaintiff- *1340 appellant. With him on the brief were Alison L. McCarthy, Frank D. Liu, and Benjamin M. Snitkoff.
+Kevin P. Anderson, Wiley Rein, LLP, of Washington, DC, argued for defendants-appellees Western Digital Corporation, et al. and Deanne E. Maynard, Morrison & Foerster, LLP, of Washington, DC, argued for defendant-appellee Sling Media, Inc. With them on the brief were Karin A. Hessler and Robert J. Scheffel, Wiley Rein LLP, of Washington, DC, for Western Digital Corporation, et al.; and Brian R. Matsui, Morrison & Foerster, LLP, of Washington, DC; and Rachel Krevans, Scott C. Moore, and Ester Kim, of San Francisco, CA, for Sling Media, Inc.
+Before LOURIE, DYK, and WALLACH, Circuit Judges.
+Opinion
+Concurring opinion filed by Circuit Judge LOURIE.
+
+DYK, Circuit Judge.
+
+Plaintiff Nazomi Communications, Inc. (“Nazomi”) appeals from a decision of the United States District Court for the Northern District of California construing disputed claim language and granting summary judgment of non-infringement in favor of defendants Western Digital Corporation and Western Digital Technologies, Inc. (collectively, “Western”), and Sling Media, Inc. (“Sling”). We affirm.
+ 
+
+BACKGROUND
+To function, a computing device requires both hardware and software. Processors are hardware components embedded in computing devices. The central processing unit (“CPU”) enables a computing device to carry out instructions contained in a computer program. Software refers to instructions that tell the device hardware what to do. The hardware then follows these instructions (“executes” the software).
+ 
+For a software program to run on the CPU of a computing device, the program must be compiled or translated from a high-level programming language that is written in a human-readable syntax (“source code”), into a machine-readable form (“machine code”) that the processor can understand. Machine code is processor-specific. As a result, particular compilers can only translate programs into machine code for particular types of processors. For example, Intel-based processors use one set of native instructions, Macintosh PowerPC-based processors use a different set of native instructions, and ARM Limited processors use another still. Therefore, to run the same source code or software on a different system or platform, it must be recompiled for the new system.
+ 
+Java is a high-level programming language that addresses this problem by allowing developers to write programs that can run on different processors without being recompiled for each new system. Instead, the Java language uses a single compiler that translates Java programs into “bytecodes” instead of processor-specific machine code. Java bytecodes do not run directly on the CPU, but on a Java Virtual Machine (“JVM”) which translates them into processor-specific machine code. Therefore, programs written in Java can run on any platform and any operating system, providing one of the principal advantages of Java programs—their “portability.”
+ 
+Computing devices also vary in how they store data in memory, which affects the characteristics of the machine code. Processors using stack-based memory systems “store information on a last-in, first-out basis ..., analogous to a stack of papers in an inbox.” JA 2709. Therefore, “[t]o access a paper at the bottom of the stack, the reader must remove all of the papers above it.” JA 2709. In contrast, register- *1341 based memory “stores and retrieves data according to the exact location of each data item, much like an arrangement of post office boxes.” JA 2709. As a result, processors that use different memory storage systems must also use different types of machine code or “instruction sets,” namely, “stack-based” instructions and “register-based” instructions. Although most modern processors use a register-based approach, Java bytecodes are stack-based instructions.
+ 
+Therefore, a device using a register-based processor can run programs written in Java using a JVM that translates the stack-based Java bytecodes into register-based instructions. But executing Java bytecodes using a typical software-based JVM takes longer than executing programs that can run directly on the device’s hardware without translation. One solution to this problem is processing certain Java bytecodes in hardware where the appropriate software is present to “accelerate” the execution of Java programs. However, such hardware-based JVMs may be unable to process legacy applications that are not programmed in Java.
+ 
+Nazomi’s two patents asserted here aim to address this issue. They describe a hardware-based JVM capable of processing stack-based instructions, that also retains the ability to run legacy (i.e., register-based) applications without utilizing the JVM. At issue are four apparatus claims from two related patents, independent claims 48 and 74 of U.S. Patent No. 7,080,362 (“the ′362 patent”) and independent claims 1 and 5 of U.S. Patent No. 7,225,436 (“the ′ 436 patent”). Representative claim 48 of the ′362 patent reads:
+48. A central processing unit (CPU) capable of executing a plurality of instruction sets comprising:
+an execution unit and associated register file, the execution unit to execute instructions of a plurality of instruction sets, including a stack-based and a register-based instruction set;
+a mechanism to maintain at least some data for the plurality of instruction sets in the register file, including maintaining an operand stack for the stack-based instructions in the register file and an indication of a depth of the operand stack;
+a stack control mechanism that includes at least one of an overflow and underflow mechanism, wherein at least some of the operands are moved between the register file and memory; and
+a mechanism to generate an exception in respect of selected stack-based instructions.
+′362 patent col. 10 l. 57 to col. 11 l. 6.1
+ 
+a decoding mechanism [for a plurality of instruction sets, including stack-based and register-based];
+a register file [including an operand stack to store operands for the stack-based instruction set and data associated with the register for register-based instruction set];
+at least one of an overflow and underflow mechanism to cause the operands to—be moved between the register file and memory; and
+an execution unit that processes the output [of the decoding of the stack-based and register-based instruction sets].
+′362 patent col. 12 ll. 29–47.
+1. A CPU for executing stack and register-based instructions, comprising;
+execute logic ... for executing the register-based instructions;
+*1342 a register file associated with the execute logic; and
+a hardware accelerator to process stack-based instructions ..., wherein the hardware accelerator generates a new virtual machine program counter ..., computes the return virtual machine program counter and pushes the return virtual machine program counter.
+′426 patent col. 14 ll. 30–46.
+5. A central processing unit (CPU) comprising: execute logic ...;
+a hardware accelerator ...;
+an operand stack ...;
+an overflow/underflow mechanism ...;
+a bytecode buffer that receives stack-based instructions ...; and
+an instruction decode unit ...; and
+a common program counter....
+Defendants Western and Sling are consumer product manufacturers that incorporate various processors into their products. ARM Limited (“ARM”) develops processor designs, which it licenses to third party chip-makers such as Qualcomm and Texas Instruments to build physical processor chips. Although ARM does not make or sell processors, ARM has a suite of processor designs that are used in many computing devices. Chip-makers select a suitable ARM processor design depending on the particular purpose for which the processor will be used. The chips incorporating ARM’s designs are utilized by consumer product manufacturers such as Western and Sling.
+ 
+Initially, ARM processors could directly execute only two types of machine code, both of which are register-based instructions. They could also execute Java’s stack-based instructions using the method known in the prior art to the Nazomi patent—running a software-based JVM that would translate the Java bytecodes into ARM’s register-based machine code. In 2000, ARM developed a chip design that would accelerate the processing of Java bytecodes. The hardware component of the ARM design was called “Jazelle.” As with its other processor code designs, ARM licensed the ARM 926EJ–S processor core (“ARM core”) to various chip-makers. As with the other ARM processors, this ARM core is often selected by chip-makers for its flexibility; it can be incorporated into chips for different end uses, ranging from smartphones to refrigerators.
+ 
+Because the ARM core design and the chips based on that core are intended to be used in a wide variety of products, they often contain optional functionality not utilized nor enabled by every manufacturer. The Jazelle hardware is one such optional feature. Both accused products, Western’s MyBook World Edition (“MyBook”) and Sling’s Slingbox Pro–HD (“Slingbox”), have CPUs containing an ARM core with Jazelle hardware. However, the Jazelle hardware on the accused devices cannot perform the functionality described in Nazomi’s asserted claims without software known as Jazelle Technology Enabling Kit (“JTEK”). Consumer product manufacturers can license JTEK from ARM for a fee. Defendants Western and Sling did not license the JTEK software from ARM and have never installed the JTEK software to enable Jazelle on the accused devices.
+ 
+In February 2010 Nazomi filed a complaint in the Central District of California against various technology companies, including Western and Sling, alleging infringement of the ′362 patent and the ′436 patent. In October 2010, the case was transferred to the Northern District of California. In July 2012 Western and Sling filed a motion for summary judgment contending that the claims should be construed to require that the device perform the claimed functions itself, and that the accused products did not infringe the asserted *1343 claims because they included the Jazelle hardware but not the necessary JTEK software. In opposing summary judgment, Nazomi argued that asserted claims 48 and 74 of the ′362 patent and claims 1 and 5 of the ′ 436 patent2 cover any generic hardware that “could process stack-based instructions ..., regardless of whether the device ever actually does so.” JA 4. In other words, Nazomi argued that the claims describe only the hardware component necessary to perform the claimed functionalities, i.e., the Sling and Western products infringed based on the presence of the Jazelle hardware alone, even without the activation of the JTEK software.
+ 
+The district court granted Western and Sling’s motion for summary judgment and found that the claimed apparatus must itself be capable of performing the claimed functions, and construed the asserted claims to require a hardware and software combination capable of processing both register-based and stack-based instructions. The court concluded that without the enabling JTEK software, Jazelle hardware cannot process stack-based instructions at all. Because Jazelle hardware alone could not process stack-based instructions, and the Western and Sling apparatuses do not include the necessary JTEK software, the district court found that the accused devices do not infringe. The district court then certified the judgment for appeal pursuant to Fed.R.Civ.P. 54(b). Nazomi appeals, and we have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+I. Claim Construction
+[1] The first step of the infringement analysis is claim construction, a question of law reviewed de novo. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc). The district court treated claim 48 of the ′362 patent as representative of all the asserted claims and held that it is “similar in most respects to the other asserted claims.” JA 5. Nazomi does not dispute the propriety of treating claim 48 as representative of all the asserted claims, which are all directed to a CPU and recite limitations pertaining to its functionality.
+ 
+[2] The district court construed the claims as claiming an apparatus, comprising both hardware and software, capable of practicing the claimed functionality. The court rejected Nazomi’s construction requiring only hardware that was capable of performing the claimed functionalities. We agree. The face of the claims shows that each particular functionality is a claim limitation. For example, the italicized portions of claim 48 below recite specific claim functionalities that cannot be practiced in hardware alone and require enabling software:
+48. A central processing unit (CPU) capable of executing a plurality of instruction sets comprising:
+an execution unit and associated register file, the execution unit to execute instructions of a plurality of instruction sets, including a stack-based and a register-based instruction set;
+a mechanism to maintain at least some data for the plurality of instruction sets in the register file, including maintaining an operand stack for the stack-based instructions in the register file and an indication of a depth of the operand stack;
+a stack control mechanism that includes at least one of an overflow and underflow *1344 mechanism, wherein at least some of the operands are moved between the register file and memory; and
+a mechanism to generate an exception in respect of selected stack-based instructions.
+′362 patent col. 10 l. 57 to col. 11 l. 6 (emphases added). The claims recite a CPU that can perform particular functions, namely, the processing of both register-based and stack-based instructions. Since hardware cannot meet these limitations in the absence of enabling software, the claims are properly construed as claiming an apparatus comprising a combination of hardware and software capable of practicing the claim limitations. For example, claim 48 does not recite generic mechanisms, but requires specific functions of “(1) maintaining an operand stack for the stack-based instructions; (2) performing ‘stack control’ of ‘overflow/underflow’ by moving operands between the registers and memory; and (3) generating exceptions for certain stack-based instructions.” JA 3938; see also ′362 patent col. 10 l. 57 to col. 11 l. 6. These limitations on the claimed CPU pertain specifically to the processing of stack-based instructions.
+ 
+Further, the need for the specified functionality is confirmed by the ′ 362 patent specification, which indicates that “the [Java] hardware accelerator can convert the stack-based Java bytecodes into ... register-based native instructions on a CPU.” ′362 patent col. 2 ll. 23–25. The specification also explains that “[t]he Java hardware accelerator can do [ ] some or all of the following tasks,” and lists functions involved in processing stack-based instructions, including “managing the Java stack on a register file” and “generating exceptions on instructions on predetermined bytecodes,” mirroring the limitations in claims 48 and 74. ′362 patent col. 3 ll. 10–19; see, e.g., ′362 patent col. 11 ll. 5–6, col. 12 ll. 33–37. Contrary to Nazomi, there is nothing unusual or improper in construing device claims to require particular functionality. See, e.g., Typhoon Touch Techs., Inc. v. Dell, Inc., 659 F.3d 1376, 1381 (Fed.Cir.2011); K–2 Corp. v. Salomon S.A., 191 F.3d 1356, 1363 (Fed.Cir.1999).
+ 
+The cases on which Nazomi relies do not support its position. For example, in Intel Corporation v. U.S. International Trade Commission, the claims only required “programmable selection means,” and the accused product infringed because it could be programmed to perform the infringing use. 946 F.2d 821, 832 (Fed.Cir.1991). We held that the “programmable” claim language required only that the accused product could be programmed to perform the claimed functionality. Id. In contrast, Nazomi has not claimed an apparatus with hardware “programmable” to process stack-based instructions, it has claimed a combination of hardware and software capable of performing that function. See also Fantasy Sports Props., Inc. v. Sportsline.com, Inc., 287 F.3d 1108, 1117–18 (Fed.Cir.2002) (“Intel therefore does not stand for the proposition ... that infringement may be based upon a finding that an accused product is merely capable of being modified in a manner that infringes the claims of a patent.”).
+ 
+Similarly, in Silicon Graphics, Inc. v. ATI Technologies, Inc., the claims contemplated use in an operating system environment and we overturned the district court’s ruling that the accused products did not infringe because they could not meet the claim limitations until combined with a computer operating system. 607 F.3d 784, 794–95 (Fed.Cir.2010). There, the asserted patent claimed a system for rendering graphics, including claims covering a “processor that rasterizes” and a “frame buffer ... for storing” data. Id. at 795. The asserted claims contemplated that the claimed hardware would be used in the environment of a standard operating system to perform the claimed processes. *1345 Id. We construed the claims as requiring hardware that could execute the claimed functionality when combined with the Microsoft Windows operating system. Id. at 794. We have repeatedly distinguished a description of the environment in which a claimed invention operates from a limitation on the claimed invention itself. For example, in Advanced Software Design Corporation v. Fiserv, Inc., as in Silicon Graphics, the claims were addressed to achieving a particular functionality in “the environment in which the claim operate[d],” and were therefore not “limitations that must be performed by an accused infringer.” 641 F.3d 1368, 1375 (Fed.Cir.2011). Here, in contrast, the claims do not cover hardware that contemplates an environment where it could be combined with software, but rather require a hardware-software combination that must perform the described functions.3 We affirm the district court’s claim construction.
+ 
+
+II. Infringement Analysis
+[3] [4] The second step in an infringement analysis is determining whether the particular accused device infringes under the claim construction. Wright Med. Tech., Inc. v. Osteonics Corp., 122 F.3d 1440, 1443 (Fed.Cir.1997). Here, it is undisputed that the Jazelle hardware is physically present as part of the ARM core on both accused devices, the MyBook and the Slingbox, and that the Jazelle hardware is not functional without the JTEK software. This would appear to resolve the issue of infringement.
+ 
+However, Nazomi points out that we have held that “an apparatus claim directed to a computer that is claimed in functional terms is nonetheless infringed so long as the product is designed in such a way as to enable the user of that [product] to utilize the function without having to modify the product.” Silicon Graphics, 607 F.3d at 794 (internal quotations omitted) (emphasis added). Nazomi argues that installation of the JTEK software is not a modification that precludes a finding of infringement. We disagree. The purchase and installation of the JTEK software clearly constitutes a “modification” of the accused products.4
+ 
+For example, in Typhoon Touch Technologies, Inc. v. Dell, Inc., the asserted patent claimed “[a] portable, keyboardless, computer, comprising ... a memory for storing at least one data collection application.” 659 F.3d 1376, 1379 (Fed.Cir.2011) (emphases in original). There, Typhoon made the same argument that Nazomi *1346 does here, that the accused devices infringe if they “ha[ve] the capability of being configured or programmed to perform the stated function,” even though the accused devices were not structured to perform that stated function as sold. Id. at 1380 (emphasis added). We disagreed, finding that an accused device must be presently “structured to store at least one data collection application” to infringe the asserted claims—that the enumerated functions served as claim limitations. Id. at 1381. Here, as in Typhoon, the products sold by Western and Sling do not infringe without modification—the modification of installing the required software.5 See also Telemac Cellular Corp. v. Topp Telecom, Inc., 247 F.3d 1316, 1326, 1330 (Fed.Cir.2001) (finding accused product non-infringing because it could not directly place international calls, a claim limitation of the asserted patent, without modification, namely, employment of an outside carrier that could place international calls).
+ 
+The “key” cases on which Nazomi relies are also to the contrary. In Finjan, Inc. v. Secure Computing Corp., the infringing software capable of practicing the claim limitations was on the accused devices and could be unlocked by purchasing a product key. 626 F.3d 1197, 1205 (Fed.Cir.2010). The devices infringed even if the software had not been activated. Id. Here, the structure (i.e., JTEK software) necessary to enable Jazelle hardware to process stack-based instructions (i.e., Java bytecodes) is not only inactive, it is not even present on the accused products. The installation of JTEK software is not unlocking existing functionality, but adding new functionality not currently present. There is no infringement.6
+ 
+Finally, Nazomi argues that the District Court improperly required a showing of intent by the defendants as a predicate to an infringement finding. The district court did no such thing. Rather, it was distinguishing this court’s decision in High Tech Medical, which stated “if a device is designed to be altered or assembled before operation, the manufacturer may be held liable for infringement if the device, as altered or assembled, infringes a valid patent.” 49 F.3d at 1556. Here there is no suggestion that the accused devices were designed to be used with the JTEK software. Under these circumstances, we have no occasion to consider whether the design of a device that contemplates use in an infringing manner could establish direct infringement, as opposed to induced or contributory infringement.7
+ 
+*1347 Therefore, we affirm the district court’s grant of summary judgment of non-infringement.
+ 
+AFFIRMED.
+ 
+
+COSTS
+No costs.
+ 
+
+LOURIE, Circuit Judge, concurring.
+
+I concur in the majority’s decision to affirm the district court’s decision granting summary judgment of noninfringement of the ′362 patent. However, I join its opinion only up to and through the first paragraph of Part II, in which the holding of noninfringement is affirmed on the ground that the claim limitation “capable of executing a plurality of instruction sets ...” is not met by Jazelle hardware that is not functional without the JTEK software.
+ 
+All Citations
+739 F.3d 1339, 109 U.S.P.Q.2d 1258
+Footnotes
+
+1
+
+The remaining claims at issue mirror the elements of claim 48:
+74. A central processing unit (CPU) comprising:
+′426 patent col. 15 ll. 26–50.
+
+2
+
+Nazomi initially alleged infringement of claims 48, 74, and 86 of the ′362 patent and claims 1 and 5 of the ′436 patent. However, Nazomi withdrew its assertion of claim 86 before this appeal.
+
+3
+
+Fantasy Sports is similar to Silicon Graphics. In Fantasy Sports, the asserted patent claimed “[a] computer for playing football,” and set forth a number of functionally defined means that must be included in the computer-executable software, such as “means for scoring ... bonus points.” Fantasy Sports, 287 F.3d at 1118. In Fantasy Sports, the claims were interpreted to claim software standing alone. As in Silicon Graphics, the computer was merely the environment in which the software operated.
+Nazomi also relies on Revolution Eyewear, Inc. v. Aspex Eyewear, Inc. for the proposition that a claim can cover particular hardware standing alone. 563 F.3d 1358 (Fed.Cir.2009). This too, is inapplicable, as the patent in Revolution Eyewear claimed an eyeglass device comprising a “primary spectacle frame ... capable of engaging second magnetic members of an auxiliary spectacle frame.” Id. at 1363. Because the first specified hardware alone had this capability, the claim at issue in Revolution Eyewear is distinguishable from Nazomi’s claims, which require a combination of hardware and software to perform the claim limitations.
+
+4
+
+Western and Sling argue that the JTEK software could not be installed without hacking the accused devices and that such hacking (or modifying the system for an unintended use) would render the devices useless. We need not address this issue. Even if JTEK could be installed without hacking, the addition of the JTEK software would be still be a modification.
+
+5
+
+Nazomi also argued that because the stack-based functionality is bypassed when legacy applications (i.e., register-based) are being processed, the claims contemplate an invention where the hardware required to process stack-based instructions is not enabled by the necessary software. We disagree. The claims are clear that the apparatus must, at all times, be capable of processing stack-based instruction sets in the hardware. This is not possible without the enabling software.
+
+6
+
+Another case in which a necessary modification was required to infringe the claims was High Tech Medical Instrumentation v. New Image Industries, 49 F.3d 1551 (Fed.Cir.1995). There, the asserted patent claimed an “optical device comprising ... a camera disposed in [a] body member, said camera being rotatably coupled to said body member,” where physically rotating the camera allowed the displayed image to be rotated during the use of the optical device. Id. at 1553 (emphasis added). The accused product included a fixed camera that rotated the images using software, but it was possible to physically rotate the camera by loosening the screws that attached the camera to the housing. Id. at 1555. We found that the patentee was not likely to succeed in proving infringement because the loosening of the screws was a modification of the product. Id. at 1555–56.
+
+7
+
+Although Nazomi asserted claims of indirect infringement under 35 U.S.C. § 271(b)-(c) in its complaint, it did not appeal the district court’s grant of summary judgment on those claims.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (7)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Declined to Extend by
+ 1.  Commission Determination IN THE MATTER OF CERTAIN TELEVISION SETS, TELEVISION RECEIVERS, TELEVISION TUNERS, AND COMPONENTS THEREOF COMMISSION OPINION 
+USITC Inv. No. 337-TA-910 , U.S.Intern.Trade Com’n
+I. BACKGROUND II. THE ASSERTED PATENTS A. The ‘585 Patent B. The ‘792 Patent III. ANALYSIS A. Claim Construction B. Infringement 1. The ID’s Findings 2. The Commission’s Notice of...
+Oct. 30, 2015
+Administrative Decision
+
+—
+
+Distinguished by
+ 2.  Atlas IP, LLC v. Medtronic, Inc. 
+2014 WL 5040317 , S.D.Fla.
+THIS CAUSE came before the Court on Defendants, Medtronic, Inc.; Medtronic USA, Inc.; and Medtronic Minimed, Inc.’s (collectively, ‘’Medtronic [’s]’’) Motion . for Summary Judgment...
+Oct. 08, 2014
+Case
+
+3
+
+
+
+
+F.3d
+
+Distinguished by
+3.  Intellectual Ventures II LLC v. JP Morgan Chase & Co.
+2015 WL 3999102 , S.D.N.Y.
+Intellectual Ventures II LLC (’’Intellectual Ventures’’) sues JP Morgan Chase & Co. (’’JPMC’’) for infringement of U.S. Patent No. 7,634,666 (the ‘’ ‘666 Patent’’), which claims...
+June 30, 2015
+Case
+
+—
+
+Distinguished by
+4.  Audionics System, Inc. v. AAMP of Florida, Inc. 
+2015 WL 11201243 , C.D.Cal.
+This is a patent dispute between Audionics System, Inc. d/b/a Crux Interfacing Solutions (’’Crux’’) and AAMP of Florida, Inc. (’’AAMP’’). On June 5, 2014, Crux filed a motion for...
+Nov. 04, 2015
+Case
+
+2
+
+
+
+
+3
+
+
+
+
+F.3d
+
+Distinguished by
+5.  Tomtom, Inc. v. Adolph 
+2015 WL 11367931 , E.D.Va.
+In this patent infringement suit, plaintiff TomTom, Inc., seeks a declaration (i) that TomTom’s products do not infringe defendant Dr. Michael Adolph’s (’’Dr. Adolph’’) U.S. Patent...
+Nov. 24, 2015
+Case
+
+3
+
+
+
+
+F.3d
+
+Distinguished by
+6.  Radware, Ltd. v. F5 Networks, Inc. 
+2016 WL 393227 , N.D.Cal.
+Defendant F5 Networks, Inc. renews its previous motion seeking summary judgment that the post-“hotfix” versions of F5’s accused products do not infringe claim 24 of U.S. Patent No....
+Feb. 02, 2016
+Case
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+Distinguished by
+7.  Radware, Ltd. v. F5 Networks, Inc. 
+2016 WL 4729298 , N.D.Cal.
+Defendant F5 Networks, Inc. renews its previous motion seeking summary judgment that the post-’’hotfix’’ versions of F5’s accused products do not infringe claim 24 of U.S. Patent...
+Sep. 12, 2016
+Case
+
+3
+
+
+
+
+4
+
+
+
+
+F.3d
+
+

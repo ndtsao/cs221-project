@@ -1,0 +1,210 @@
+
+
+ 
+
+
+Karnatcheva v. JPMorgan Chase Bank, N.A.
+United States Court of Appeals, Eighth Circuit. | January 28, 2013 | 704 F.3d 545 | 2013 WL 309904
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Karnatcheva v. JPMorgan Chase Bank, N.A., 704 F.3d 545 (8th Cir. 2013)
+
+All Citations:
+
+704 F.3d 545
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Minnesota
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+704 F.3d 545
+United States Court of Appeals,
+Eighth Circuit.
+Natalia KARNATCHEVA and Kevin R. Gurule, Appellants,
+v.
+JPMORGAN CHASE BANK, N.A., Chase Home Finance LLC, Mortgage Electronic Registration Systems, Inc., Federal National Mortgage Association, MERSCORP, Inc., and Usset, Weingarden and Liebo, P.L.L.P., Appellees.
+No. 12–2375.
+|
+Submitted: Jan. 14, 2013.
+|
+Filed: Jan. 28, 2013.
+|
+Rehearing and Rehearing En Banc Denied March 12, 2013.*
+Synopsis
+Background: Mortgagors brought action in state court against various parties, including a non-diverse law firm, alleging numerous deficiencies in the assignment of their mortgages and in their foreclosures. Following removal, the United States District Court for the District of Minnesota, Michael J. Davis, J., 871 F.Supp.2d 834, denied the mortgagors’ motion to remand, and granted the defendants’ motion to dismiss. Mortgagors appealed.
+ 
+[Holding:] The Court of Appeals, Arnold, Circuit Judge, held that mortgagors failed to state a claim for quiet title under Minnesota law.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+Removal of CasesImproper or collusive joinder of parties
+
+
+334Removal of Cases
+334IIICitizenship or Alienage of Parties
+334k36Improper or collusive joinder of parties
+
+
+Joinder is fraudulent and removal is proper when there exists no reasonable basis in fact and law supporting a claim against the resident defendants. 28 U.S.C.A. § 1332(a).
+12 Cases that cite this headnote
+
+
+
+[2]
+
+Declaratory JudgmentSubjects of relief in general
+
+
+118ADeclaratory Judgment
+118AIIIProceedings
+118AIII(C)Parties
+118Ak299Proper Parties
+118Ak300Subjects of relief in general
+
+
+Under Minnesota law, mortgagors do not have standing to request declaratory judgments regarding trust agreements relating to mortgage-backed securities because the mortgagors are not parties to or beneficiaries of the agreements.
+14 Cases that cite this headnote
+
+
+
+[3]
+
+Quieting TitleAllegations as to cloud or adverse claim of defendant
+
+
+318Quieting Title
+318IIProceedings and Relief
+318k33Pleading
+318k34Bill, Complaint, or Petition in General
+318k34(5)Allegations as to cloud or adverse claim of defendant
+
+
+Mortgagors failed to provide anything to support their claim that the defendants’ adverse claims were invalid, other than labels and conclusions, based on speculation, and therefore mortgagors failed to state a claim for quiet title under Minnesota law. M.S.A. § 559.01.
+80 Cases that cite this headnote
+
+
+
+[4]
+
+Federal CourtsPleading
+
+
+170BFederal Courts
+170BXVState or Federal Laws as Rules of Decision;  Erie Doctrine
+170BXV(B)Application to Particular Matters
+170Bk3022Procedural Matters
+170Bk3033Pleading
+170Bk3033(1)In general
+(Formerly 170Bk433)
+
+
+Federal courts apply federal pleading standards to the state substantive law to determine if a complaint makes out a claim under state law. Fed.Rules Civ.Proc.Rules 8, 12(b)(6), 28 U.S.C.A.
+53 Cases that cite this headnote
+
+
+
+[5]
+
+Quieting TitleNecessity
+Quieting TitleJurisdiction and venue
+
+
+318Quieting Title
+318IRight of Action and Defenses
+318k12Possession of Plaintiff
+318k12(1)Necessity
+318Quieting Title
+318IIProceedings and Relief
+318k28Jurisdiction and venue
+
+
+In an action to determine adverse claims, the fact of possession or vacancy is not a jurisdictional fact, nor does it go to the merits of the controversy as to title; instead it goes only to the right of the plaintiff to present his claim of title under the form of action, to quiet title. M.S.A. § 559.01.
+34 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*546 William Bernard Butler, Minneapolis, MN, for Appellants.
+Bryant D. Tchida, Peter Joseph Schwingler, Gerald G. Workinger, Benjamin Pulitzer Freedland, Minneapolis, MN, for Appellees.
+Before MURPHY, ARNOLD and COLLOTON, Circuit Judges.
+Opinion
+ARNOLD, Circuit Judge.
+
+Mortgagors filed suit in Minnesota state court against Fannie Mae; MERSCORP, Inc., and its subsidiary, Mortgage Electronic Registration Systems, Inc.; two financial institutions; and one non-diverse party (a law firm), alleging numerous deficiencies in the assignment of their mortgages and in their foreclosures. Asserting that the plaintiffs had fraudulently joined the law firm, the defendants removed the case to federal court. After moving to remand, the plaintiffs filed an amended complaint seeking to quiet title under Minn.Stat. § 559.01, asserting a claim for slander of title, and requesting declaratory judgments as to whether the defendants had a “true interest in or right to foreclose on their properties” and whether the notes were properly accelerated by the correct party; the defendants moved to dismiss for failure to state a claim, see Fed.R.Civ.P. 12(b)(6). The district court1 denied the motion to remand because it concluded that the plaintiffs had fraudulently joined the non-diverse law firm, and it granted the motion to dismiss all claims against the remaining defendants under Rule 12(b)(6). See Karnatcheva v. JPMorgan Chase Bank, N.A., 871 F.Supp.2d 834 (D.Minn.2012).
+ 
+The plaintiffs appeal, asserting that the district court erred in denying their motion to remand, in concluding that they failed to make out claims for slander of title, declaratory judgment, and quiet title, and in mistakenly relying on Jackson v. Mortgage Electronic Registration Sys., 770 N.W.2d 487, 500–501 (Minn.2009), which rejected the so-called “show-me-the-note” theory under which an entity seeking foreclosure must present the original promissory note.
+ 
+[1] We must first determine whether the district court erred in denying the motion to remand to the state court since that issue relates to jurisdiction. The district court denied remand, concluding that it had jurisdiction over the case based on the diversity of the parties, see 28 U.S.C. § 1332(a), because the plaintiffs had fraudulently joined the only resident defendant. “Joinder is fraudulent and removal is proper when there exists no reasonable basis in fact and law supporting a claim against the resident defendants.” Wiles v. Capitol Indem. Corp., 280 F.3d 868, 871 (8th Cir.2002). Because we recently concluded that nearly identical claims against a resident law firm had no reasonable basis in law and fact under Minnesota law and constituted fraudulent joinder, see Murphy v. Aurora Loan Servs., LLC., 699 F.3d 1027, 1031–1032 (8th Cir.2012), we reject the plaintiffs’ contention that the district court erred by dismissing the claims against the law firm and denying remand.
+ 
+We next address the claims against the other defendants. We can easily dispose of the plaintiffs’ slander-of-title claim because we recently upheld the dismissal of a virtually identical claim in Butler v. Bank of America, N.A., 690 F.3d 959, 961, 962–63 & 962 n. 3 (8th Cir.2012). See also Murphy, 699 F.3d at 1032. In *547 Butler, 690 F.3d at 961, 962, we concluded that the slander-of-title claim, along with other claims in the complaint, was “simply an attempt to invalidate the foreclosure ... based on the flawed [show-me-the-note] theory” that the Minnesota Supreme Court had rejected in Jackson. See also Stein v. Chase Home Fin., LLC, 662 F.3d 976, 979–80 (8th Cir.2011).
+ 
+[2] We can deal with equal dispatch with the dismissal of the plaintiffs’ request for a declaratory judgment to determine whether the defendants had “any true interest in or right to foreclose on their properties.” The plaintiffs base this request for declaratory relief on allegations that their notes and mortgages were transferred to trusts underlying mortgage-backed securities and that their foreclosures violated the terms of the trust agreements relating to these mortgage-backed securities. But district courts in Minnesota have recently addressed this issue and have uniformly held that mortgagors do not have standing to request declaratory judgments regarding these types of trust agreements because the mortgagors are not parties to or beneficiaries of the agreements. See, e.g., Novak v. JP Morgan Chase Bank, N.A., No. 12–589, 2012 WL 3638513, at *6 (D.Minn. August 23, 2012); Greene v. Home Loan Servs., Inc., No. 09–719, 2010 WL 3749243, at *4 (D.Minn. Sept. 21, 2010); see also Karnatcheva, 871 F.Supp.2d at 842. We believe that the reasoning in these cases is sound, and we adopt it.
+ 
+The plaintiffs also ask for a declaratory judgment to determine whether the notes were properly accelerated by the correct party. The Federal Rules of Civil Procedure apply to declaratory judgment actions, see Fed.R.Civ.P. 57, and thus the plaintiffs must comply with the pleading requirements of Rule 8(a), see, e.g., National Union Fire Ins. Co. of Pittsburgh, Pa. v. Karp, 108 F.3d 17, 21 (2d Cir.1997). See also 10B Charles Alan Wright, Arthur R. Miller & Mary Kay Kane, Federal Practice and Procedure § 2768 (2012). We conclude that the relevant pleadings here fail to meet the Rule 8(a) standards because they lack “sufficient factual matter, accepted as true,” that raise plausible questions as to the rights of parties to accelerate the mortgages, Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009), but instead offer only legally insufficient conjecture and “labels and conclusions,” Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007).
+ 
+The plaintiffs also appeal the dismissal of their quiet title claim. Our rejection of an identical theory in Murphy requires us to affirm the district court’s dismissal on one of the plaintiffs’ five grounds for quiet title—that the “[m]ortgages are not properly perfected”—because, as our decision in Murphy held, it is a “regurgitation of the ‘show-me-the-note’ theory” and precluded by Jackson.  See Murphy, 699 F.3d at 1033. We also conclude that another quiet title ground pleaded here but not considered in Murphy—that the “Defendants are not Note Holders as defined in the Original Notes”—would require acceptance of the “show-me-the-note” theory to state a claim and so is likewise barred by Jackson.
+ 
+Our decision in Murphy held, however, that two quiet title theories relating to allegations of invalid mortgage assignments that were laid substantially the same as two theories pleaded here did “not rely on the failure of the foreclosing party to produce the note” and were thus not barred by Jackson.  See Murphy, 699 F.3d at 1033. As pleaded here, the two theories that Murphy sustained are that “[t]he Notices of Pendency, Powers of Attorney, and Assignments of Mortgages *548 were not executed by an authorized individual” and that “[t]he Assignments of Plaintiffs’ Mortgages were invalid.” Another theory pleaded here—that “Defendants are not entitled to receive payments on Plaintiffs’ Original Notes under the express terms of Plaintiffs’ Original Notes and Mortgages”—was not considered in Murphy but is likewise not foreclosed by Jackson ‘s rejection of the “show-me-the-note” theory.
+ 
+[3] [4] [5] We nevertheless affirm the district court’s dismissal of the quiet title action based on these three grounds because the plaintiffs did not sufficiently plead them. We apply federal pleading standards—Rules 8 and 12(b)(6)—to the state substantive law to determine if a complaint makes out a claim under state law. See Council Tower Ass’n v. Axis Specialty Ins. Co., 630 F.3d 725, 730 (8th Cir.2011); see also Shady Grove Orthopedic Assoc., v. Allstate Ins. Co., 559 U.S. 393, 130 S.Ct. 1431, 1442, 176 L.Ed.2d 311 (2010). The Minnesota quiet title statute provides in relevant part that “[a]ny person in possession of real property ..., may bring an action against another who claims an ... interest therein, or a lien thereon, adverse to the person bringing the action, for the purpose of determining such adverse claim and the rights of the parties, respectively.” Minn.Stat. § 559.01. The plaintiffs correctly note that, historically, the “only facts necessary to constitute a cause of action under this statute are, the actual possession of the land by the plaintiff ... and some claim by the defendants adverse to him, of an estate or interest in the land.” Steele v. Fish, 2 Minn. 153, 154–55 (1858). But these are only the state pleading rules; they are not state substantive standards that govern the success of a quiet title claim. Indeed, “[t]he fact of possession or vacancy is not a jurisdictional fact, nor does it go to the merits of the controversy as to title”; instead “[i]t goes only to the right of the plaintiff to present his claim of title under the form of action,” to quiet title. Union Central Life Ins. Co. v. Page, 190 Minn. 360, 363, 251 N.W. 911, 912 (1933). We therefore affirm the district court’s dismissal of the plaintiffs’ three theories for quiet title that are not precluded by Jackson, because the plaintiffs’ pleadings, on their face, have not provided anything to support their claim that the defendants’ adverse claims are invalid, other than labels and conclusions, based on speculation that transfers affecting payees and assignments of the notes were invalid. See Iqbal, 556 U.S. at 678, 129 S.Ct. 1937; Twombly, 550 U.S. at 555, 127 S.Ct. 1955.
+ 
+Affirmed.
+ 
+All Citations
+704 F.3d 545
+Footnotes
+
+*
+
+Judge Smith did not participate in the consideration or decision of this matter.
+
+1
+
+The Honorable Michael J. Davis, United States District Judge for the District of Minnesota.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

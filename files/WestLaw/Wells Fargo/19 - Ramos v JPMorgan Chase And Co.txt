@@ -1,0 +1,165 @@
+
+
+ 
+
+
+Ramos v. JPMorgan Chase & Co.
+United States Court of Appeals, Ninth Circuit. | May 4, 2017 | 690 Fed.Appx. 533 | 2017 WL 1755946
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Ramos v. JPMorgan Chase & Co., 690 F. App’x 533 (9th Cir. 2017)
+
+All Citations:
+
+690 Fed.Appx. 533
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:19 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+690 Fed.Appx. 533
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+Jose RAMOS; Eufrocinia Ramos, Plaintiffs-Appellants,
+v.
+JPMORGAN CHASE & CO.; Mortgage Electronic Registration Systems, Inc.; Wells Fargo Bank N.A., as Trustee for the Greenpoint Funding Trust 2005-AR5, Mortgage Pass-Through Certificates, Series 2005-AR5; Quality Loan Service Corp, Defendants-Appellees.
+No. 15-16668
+|
+Submitted April 21, 2017* San Francisco, California
+|
+Filed May 4, 2017
+Synopsis
+Background: Mortgagor brought state-court action challenging bank’s authority to foreclose. Action was removed to federal court, and the United States District Court for the Northern District of California, Edward M. Chen, J., 2015 WL 4480868, dismissed action. Mortgagor appealed.
+ 
+[Holding:] The Court of Appeals held that mortgagor lacked standing to contest validity of loan assignment.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Mortgages and Deeds of TrustValidity and enforceability
+Mortgages and Deeds of TrustPersons entitled to sue;  standing;  parties
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1409Validity and enforceability
+266Mortgages and Deeds of Trust
+266XIIActions and Proceedings in General
+266k1645Persons entitled to sue;  standing;  parties
+
+
+Under California law, allegedly defective assignment of loan secured by deed of trust was voidable, not void, and thus mortgagor lacked standing to contest validity of loan assignment to securitized trust on grounds that assignor did so without proper endorsement of note or assignment of deed of trust, in breach of governing terms of pooling and servicing agreement (PSA).
+Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsMatters of Substance
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(D)Presentation and Reservation in Lower Court of Grounds of Review
+170BXVII(D)2Particular Grounds of Review
+170Bk3402Matters of Substance
+170Bk3403In general
+
+
+Mortgagor abandoned claim relating to robosigning, on appeal from district court’s dismissal of action challenging bank’s authority to foreclose, where mortgagor did not raise any robosigning allegations in opposition to motion to dismiss.
+Cases that cite this headnote
+
+
+
+*534 Appeal from the United States District Court for the Northern District of California, Edward M. Chen, District Judge, Presiding, D.C. No. 3:14-cv-04909-EMC
+Attorneys and Law Firms
+Charles Thomas Marshall, Charles T. Marshall, Attorney at Law, San Diego, CA, for Plaintiffs-Appellants
+Nathan R. Jaskowiak, Philip A. McLeod, Esquire, Attorney, Christopher Anthony Stecher, Attorney, Keesal Young & Logan, San Francisco, CA, for Defendants-Appellees
+Before: TROTT and IKUTA, Circuit Judges, and FABER,** District Judge.
+
+
+MEMORANDUM***
+[1]This diversity action concerns a home foreclosure. Appellants, who are third parties to the assignment at issue, argue that Structured Asset Mortgage Investments II, Inc.’s (“SAMI”) assignment of the loan to the AR5 trust was defective because SAMI did so without proper endorsement of the Note or assignment of the deed of trust (“DOT”). Appellants further contend that such a defective transfer breached the governing terms of the Pooling and Servicing Agreement (“PSA”), and was thus ineffective.
+ 
+We disagree. First, PSA violations such as failing to assign the DOT or endorsing the Note render a mortgage assignment voidable, not void. Saterbak v. JPMorgan Chase Bank, N.A., 245 Cal.App.4th 808, 815, 199 Cal.Rptr.3d 790 (2016). Yvanova v. New Century Mortgage Corp. did not address whether “an assignment to a securitized trust made after the trust’s closing date is void or merely voidable,” 62 Cal.4th 919, 941, 199 Cal.Rptr.3d 66, 365 P.3d 845 (2016). But post-Yvanova California authority has consistently held that such an assignment is merely voidable. See, e.g., Mendoza v. JPMorgan Chase Bank, N.A., 6 Cal.App.5th 802, 805, 212 Cal.Rptr.3d 1 (2016); Yhudai v. Impac Funding Corp., 1 Cal.App.5th 1252, 1259, 205 Cal.Rptr.3d 680 (2016); *535 Saterbak, 245 Cal.App.4th at 815, 199 Cal.Rptr.3d 790. Nothing suggests that the California Supreme Court would hold to the contrary. Appellants therefore lack standing to contest the validity of loan assignments. See Saterbak, 245 Cal.App.4th at 815, 199 Cal.Rptr.3d 790.
+ 
+Second, Mortgage Electronic Registration Systems (“MERS”) was empowered to assign its beneficial interest in the DOT to Wells Fargo, which could then instruct the trustee to initiate foreclosure proceedings. The plain language of the DOT confers upon MERS the right to act “as nominee for Lender and Lender’s successors and assigns”; MERS retains the express authority to act as historical nominee—no matter which entity becomes a successor on the loan.1 See Cervantes v. Countrywide Home Loans, Inc., 656 F.3d 1034, 1042 (9th Cir. 2011); see also Cal. Civ. Code § 2924(a)(1).
+ 
+[2]Third, because Appellants did not raise any robosigning allegations in their opposition to the motion to dismiss, they have “effectively abandoned [their] claim, and cannot raise it on appeal.” Walsh v. Nev. Dep’t of Human Res., 471 F.3d 1033, 1037 (9th Cir. 2006).
+ 
+Finally, the securitization of Appellants’ loan and/or the DOT assignment are the bases for Appellants’ six causes of action.2 Since these premises are unavailing, the district court properly dismissed Appellants’ complaint completely. Additionally, the district court properly denied Appellants leave to amend their complaint since “[a]ny amendment to [the] complaint would be futile.” Haskell v. Harris, 745 F.3d 1269, 1275 (9th Cir. 2014).
+ 
+AFFIRMED.
+ 
+All Citations
+690 Fed.Appx. 533
+Footnotes
+
+*
+
+The panel unanimously concludes this case is suitable for decision without oral argument. See Fed. R. App. P. 34(a)(2).
+
+**
+
+The Honorable David A. Faber, United States District Judge for the Southern District of West Virginia, sitting by designation.
+
+***
+
+This disposition is not appropriate for publication and is not precedent except as provided by Ninth Circuit Rule 36-3.
+
+1
+
+Relatedly, we reject the arguments that there is no viable successor in interest to Appellants’ loan and that MERS’s absence on the note somehow obliterates its authority under the DOT.
+
+2
+
+(1) Wrongful Foreclosure; (2) Quiet Title; (3) Fraud; (4) Violation of Bus. & Profs. Code, § 17200, et seq.; (5) Unjust Enrichment; and (6) Accounting.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

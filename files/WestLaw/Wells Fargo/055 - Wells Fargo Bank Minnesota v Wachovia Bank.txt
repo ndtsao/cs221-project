@@ -1,0 +1,214 @@
+
+
+ 
+
+
+Wells Fargo Bank Minnesota v. Wachovia Bank
+United States Court of Appeals, Fifth Circuit. | July 26, 2006 | 196 Fed.Appx. 246 | 2006 WL 2089390
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wells Fargo Bank Minnesota v. Wachovia Bank, 196 F. App’x 246 (5th Cir. 2006)
+
+All Citations:
+
+196 Fed.Appx. 246, 2006 WL 2089390
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+196 Fed.Appx. 246
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Fifth Circuit Rules 28.7, 47.5.3, 47.5.4. (Find CTA5 Rule 28 and Find CTA5 Rule 47)
+United States Court of Appeals,
+Fifth Circuit.
+WELLS FARGO BANK MINNESOTA, National Association, as Trustee for the Certificate Holders of First Union-Lehman Brothers-Bank of America Commercial Mortgage Pass-Through Series 1998-C2, and Orix Capital Markets, LLC, Plaintiffs-Appellants,
+v.
+WACHOVIA BANK, National Association, formerly known as First National Bank, doing business as Wachovia Securities, Defendant-Appellee.
+No. 05-10826.
+|
+July 26, 2006.
+Synopsis
+Background: Trustee for holders of certain mortgage pass through certificates, and trust’s master and special servicer, brought action alleging that mortgagee breached its contractual obligation to maintain and deliver certain loan origination documents when it destroyed those documents. The United States District Court for the Northern District of Texas granted judgment for mortgagee. Trustee appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] servicer did not show that absence of mortgage origination documents affected its decision to purchase those certificates;
+ 
+[2] mortgagee’s destruction of origination documents did not damage holders of pass through certificates;
+ 
+[3] servicer did not show that mortgagee’s failure to deliver origination documents reduced value of certificates’ underlying loan pool; and
+ 
+[4] claim for conversion did not lie against mortgagee for its failure to deliver origination documents.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+ContractsNo damages resulting from breach
+
+
+95Contracts
+95VIActions for Breach
+95k328Defenses
+95k328(2)No damages resulting from breach
+
+
+Servicer of trust for holders of mortgage pass through certificates did not show that absence of mortgage origination documents affected its decision to purchase those certificates, for purpose of servicer’s breach of contract claim under New York law against mortgagee, where servicer’s due diligence review occurred after documents had been destroyed and servicer never inquired into existence of origination documents during its review, servicer reviewed loans before purchase and yet did not criticize loan origination process, and market value of loans increased after absence of documents became public knowledge.
+Cases that cite this headnote
+
+
+
+[2]
+
+ContractsNo damages resulting from breach
+
+
+95Contracts
+95VIActions for Breach
+95k328Defenses
+95k328(2)No damages resulting from breach
+
+
+Mortgagee’s destruction of origination documents that it was contractually bound to deliver to trust for holders of certain mortgage pass through certificates did not damage holders of those certificates, for purpose of servicer’s breach of contract claim under New York law against mortgagee, where absence of such documents did not negatively affect value of loan pool and associated certificates.
+Cases that cite this headnote
+
+
+
+[3]
+
+ContractsNo damages resulting from breach
+
+
+95Contracts
+95VIActions for Breach
+95k328Defenses
+95k328(2)No damages resulting from breach
+
+
+Master and special servicer of trust for holders of certain mortgage pass through certificates did not show that mortgagee’s failure to deliver origination documents reduced value of certificates’ underlying loan pool, for purpose of servicer’s breach of contract claim under New York law against mortgagee, where servicer subsequently offered certificates for sale and mentioned lawsuits involving trust and included amount of attorneys’ fees that trust had incurred, but did not mention defects in documentation or that such defects negatively affected value of trust certificates.
+Cases that cite this headnote
+
+
+
+[4]
+
+Conversion and Civil TheftRelation to contractual remedies
+
+
+97CConversion and Civil Theft
+97CIIActions
+97CII(A)Right of Action and Defenses
+97Ck121Relation to contractual remedies
+(Formerly 389k13, 389k1 Trover and Conversion)
+
+
+Claim for conversion did not lie under New York law against mortgagee for its failure to deliver origination documents to trust for holders of certain mortgage pass through certificates, since mortgagee had contractual obligation to maintain those documents, which necessarily involved contractual obligation to deliver those documents, and New York law did not recognize independent action for conversion arising from breach of contract.
+1 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*247 Jeffrey E. Cook, Sullivan, Parker & Cook, Dallas, TX, Scott Lamar Cole, McKool Smith, Austin, TX, for Plaintiffs-Appellants.
+Debora B. Alsup, Thompson & Knight, Austin, TX, Molly Steele, Thompson & Knight, Dallas, TX, for Defendant-Appellee.
+Appeal from the United States District Court for the Northern District of Texas.
+Before HIGGINBOTHAM, DAVIS, and STEWART, Circuit Judges.
+Opinion
+PER CURIAM:*
+
+**1 Plaintiffs-Appellants Wells Fargo Bank Minnesota, NA (“Wells Fargo”), as trustee for the holders of certain mortgage pass through certificates, and Orix Capital Markets, LLC, (“Orix”) filed suit against defendant Wachovia Bank, NA, (“Wachovia”). The complaint alleged that Wachovia breached its contractual obligation to maintain and deliver certain loan origination documents when it destroyed the documents. The complaint also requested damages, alleging that the breach was a conversion and that the breach reduced the value of certificates associated with the origination documents. After approximately two weeks of trial, the district court denied recovery on the breach of contract and conversion claims against Wachovia. We affirm.
+ 
+
+I. FACTUAL AND PROCEDURAL BACKGROUND
+Wachovia was formerly known as “First Union National Bank, doing business as Wachovia Securities.” First Union National Bank sold 271 multifamily and commercial mortgage loans to its subsidiary, First Union Commercial Mortgage Securities, Inc. (“First Union Securities”). First Union Securities similarly purchased commercial mortgage loans from Bank of America and Lehman Brothers Capital. These were commercial mortgage backed securities transactions, through which First Union Securities purchased mortgage loans pursuant to a Mortgage Loan Purchase Agreement (“Purchase Agreement”) dated May 1, 1998.
+ 
+Pursuant to a Pooling and Servicing Agreement (“Pooling Agreement”) also dated May 1, 1998, First Union Securities deposited the loans into a trust called the First Union-Lehman Brothers-Bank of America Commercial Mortgage Trust (“FULBBA Trust”). First Union Securities also assigned all of its right, title, and interest in and to the mortgage loans to the Trustee for the benefit of the certificate holders of the FULBBA Series 1998- *248 C2 Trust. The effects of the transactions were to “cash out” Wachovia for the original mortgage loans and to create a pool of loans-a securitized trust-in which investors could purchase certificates of interest, thus transferring the risk of nonpayment to the certificate holders.
+ 
+The complaint filed against Wachovia in August 2002, as amended, asserted that Wachovia did not deliver origination documents by the May 1998 closing as provided in the Purchase Agreement. Instead, about four weeks after the closing, Wachovia destroyed these documents per its policy. In 2002, Orix requested that Wachovia provide certain origination documents for all Wachovia loans that were in the FULBBA Trust as required by the Purchase Agreement and Pooling Agreement. Wachovia responded that it had previously provided the documents to Orix.
+ 
+Wells Fargo, as trustee for the FULBBA Trust certificate holders, and Orix, individually and as the Trust’s Master and Special Servicer, filed suit seeking damages for Wachovia’s failure to deliver the documents and for Wachovia’s conversion of the documents. The February-March 2005 bench trial lasted eight days. Among the district court’s findings and conclusions were the following: Wachovia represented and warranted under the Purchase Agreement that, at the time of the May 1998 closing, Wachovia had delivered to the Trustee specific documents that constitute the “mortgage file” for each of the 271 Wachovia loans. These documents included the original Mortgage Note, any endorsements thereto, original executed assignment of the mortgage, any related assignment of leases, or any other recorded document, original assignment of unrecorded documents related to the mortgage loan, and an original or copy of lender’s title insurance. The Purchase Agreement also provided that for each loan Wachovia would deliver to the Master Servicer, by the May 1998 closing date, all other documents and records that were (1) in its possession, (2) not required to be delivered to the Trustee, and (3) neither attorney-client privileged materials nor “internal credit analysis.” About four weeks after the closing, Wachovia discarded borrower-related documents that should have been delivered or maintained under the Purchase Agreement; most of these documents were neither attorney-client privileged materials nor “internal credit analysis” materials.
+ 
+**2 Based upon Orix’s acts, statements, and omissions during 2000-2005, the district court also found little or no indication that the certificates or the loan pool were impaired due to the missing documents. The district court concluded that, although Wachovia had breached the Purchase Agreement, Pooling Agreement, and other agreements by destroying mortgage loan documents, Orix and the Trust failed to prove damages proximately caused by the alleged breach of contract; the damages alleged are speculative and remote as to both causation and amount. The district court also determined that the plaintiffs’ claims for negligence, breach of the duty of good faith and fair dealing, conversion, and spoilation all arise from the breach of contract claim, and are not viable because New York law does not recognize independent actions for these claims when they arise from a breach of contract. The district court questioned the plaintiffs’ standing to sue, but avoided ruling on that issue because it found insufficient proof of damages.
+ 
+Wells Fargo and Orix appeal the denial of recovery on their breach of contract and conversion claims.
+ 
+
+II. STANDARD OF REVIEW
+It is well established that for bench trials, we review the district court’s factual *249 findings for clear error and review de novo its conclusions of law. Houston Exploration Co. v. Halliburton Energy Servs., Inc., 359 F.3d 777, 779 (5th Cir.2004); FDIC v. McFarland, 33 F.3d 532, 536 (5th Cir.1994); Gebreyesus v. F.C. Schaffer & Assocs., Inc., 204 F.3d 639, 642 (5th Cir.2000). “A finding is ‘clearly erroneous’ when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.” Anderson v. City of Bessemer City, N.C., 470 U.S. 564, 573, 105 S.Ct. 1504, 84 L.Ed.2d 518 (1985) (alteration and quotation marks omitted).
+If the district court’s account of the evidence is plausible in light of the record viewed in its entirety, the court of appeals may not reverse it even though convinced that had it been sitting as the trier of fact, it would have weighed the evidence differently. Where there are two permissible views of the evidence, the factfinder’s choice between them cannot be clearly erroneous.
+Id. at 573-74, 105 S.Ct. 1504. “ ‘In applying the clearly erroneous standard to the findings of a district court sitting without a jury, appellate courts must constantly have in mind that their function is not to decide factual issues de novo.’ ” Id. at 573, 105 S.Ct. 1504 (quoting Zenith Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100, 123, 89 S.Ct. 1562, 23 L.Ed.2d 129 (1969)).
+ 
+
+III. DISCUSSION
+[1] [2] Wells Fargo and Orix assert that the district court’s finding that they did not establish the “fact” of damage is clear error, and that the proper question is whether the value of the loan pool Wachovia delivered to the Trust in May 1998 (i.e., loans delivered without the contractually promised documentation) was lower than the value of the loan pool Wachovia promised to deliver. Wells Fargo and Orix contend that it is the value of the pool, and not the value of the individual certificates, that is at issue. Wells Fargo and Orix also assert that the conversion claim arises from Wachovia’s post-closing destruction of documents, and not from Wachovia’s failure-to-deliver-documents breach of contract.
+ 
+**3 By contrast, Wachovia asserts, inter alia, that the real issue on appeal is whether in 1998 the value to the original certificate holders would have been less had the certificate holders known certain documents would later be discarded. Wachovia maintains that there is no clear error in the district court’s ruling.
+ 
+After presentation of testimony and other evidence for eight days, the district court rejected the claims for damages because Wells Fargo and Orix “offered no persuasive evidence that they suffered any damages proximately caused by any alleged breach” of the various contracts by Wachovia. The district court saw and heard eight days of testimony and other evidence. On the record before us, we cannot say the district court’s findings were clearly erroneous.
+ 
+We agree with the district court that the showing of damages was “speculative and remote.” We recognize that, in general, a loan pool with a complete set of origination documents may be more valuable than a loan pool without all the origination documents. Nevertheless, the record supports the district court’s conclusion. For example, several ratings agencies-including Orix-reviewed the loans yet did not criticize the loan origination process. Orix concluded that the collateral pool was “above average in real estate quality” compared to other similar transactions and that the loans were “generally well-underwritten” and secured by “relatively good properties.” Importantly, Orix’s due diligence *250 review occurred after the documents had been destroyed and, during its review, Orix never inquired into the existence of the origination documents at issue. On this record, we find that the presence or absence of the origination documents did not affect Orix’s decision to purchase the certificates. Moreover, the record contains testimony that the market value of the loans increased after the absence of the origination documents became public knowledge. This undermines the claim that the documents had significant value.
+ 
+[3] Additionally, approximately eleven days before the instant trial, Orix announced an offering of certificates in a new and larger loan pool. The new loan pool is comprised of certificates Orix owns in 16 trusts-including the FULBBA Trust. The FULBBA 1998-C2 certificates account for almost thirty per cent of the new loan pool. The preliminary offering memorandum published to potential investors in this new loan pool mentioned lawsuits involving the FULBBA Trust and included the amount of attorneys’ fees the Trust had incurred, but did not mention defects in the documentation or that such a defect negatively affected the value of the FULBBA Trust certificates. If the FULBBA Trust certificates at bar would have had a lower value to the trust’s original certificate holders had the original holders known about the missing origination documents, then it seems Orix would have disclosed this as material information when repackaging the FULBBA Trust loans as part of the new offering. Yet Orix did not disclose that the FULBBA Trust loan pool was tainted due to the absence of origination documents. The district court properly found that this nondisclosure militated against the claim that Wachovia’s failure to deliver the origination documents reduced the value of the certificates’ underlying loan pool.
+ 
+**4 The district court’s finding that Wachovia destroyed documents that it was contractually bound to deliver is supported by the record. The testimony and other evidence indicate that the absence of the documents at issue did not negatively affect the value of the loan pool and associated certificates, either initially or by the time of trial. Wells Fargo and Orix cannot prevail in their action to recover damages for Wachovia’s breach of contract.
+ 
+[4] As to the conversion claim, the district court stated that “New York law does not recognize an independent action for conversion arising from a breach of contract.” Wells Fargo and Orix agree that this is a correct statement of New York law. They contend, however, that they are entitled to damages from conversion because Wachovia had a duty to maintain the origination documents in addition to the duty to deliver the documents. We disagree.
+ 
+Wachovia Bank’s contractual obligation to deliver the documents necessarily involved a contractual obligation to maintain the documents. The single act of destroying the origination documents is, at most, both breach and conversion. In the instant factual scenario, the distinction between “delivering” documents and “maintaining” documents is artificial. New York law does not recognize a separate claim for conversion arising from a breach of contract. See Priolo Commc’ns., Inc. v. MCI Telecomms. Corp., 248 A.D.2d 453, 669 N.Y.S.2d 376, 377 (1998) (“The plaintiff’s claim alleging conversion merely restates its cause of action to recover damages for breach of contract and does not allege a separate taking. A claim to recover damages for conversion cannot be predicated on a mere breach of contract.”); MBL Life Assurance Corp. v. 555 Realty Co., 240 A.D.2d 375, 658 N.Y.S.2d 122, 124 (1997) (stating “a claim of conversion cannot be *251 predicated on a mere breach of contract” and holding that a defendant is entitled to dismissal of a conversion action where “the plaintiff failed to submit evidence demonstrating a wrong independent from the contract claim”). Accordingly, Wells Fargo and Orix cannot prevail in their action to recover damages for conversion that arose from Wachovia’s breach of contract.
+ 
+
+IV. CONCLUSION
+For the foregoing reasons, the district court’s judgement is AFFIRMED.
+ 
+All Citations
+196 Fed.Appx. 246, 2006 WL 2089390
+Footnotes
+
+*
+
+Pursuant to 5th Cir. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5th Cir. R. 47.5.4.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

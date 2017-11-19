@@ -1,0 +1,168 @@
+
+
+ 
+
+
+In re M. Fabrikant & Sons, Inc.
+United States Court of Appeals, Second Circuit. | October 15, 2013 | 541 Fed.Appx. 55 | 2013 WL 5614238
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+In re M. Fabrikant & Sons, Inc., 541 F. App’x 55 (2d Cir. 2013)
+
+All Citations:
+
+541 Fed.Appx. 55
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+541 Fed.Appx. 55
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter. RULINGS BY SUMMARY ORDER DO NOT HAVE PRECEDENTIAL EFFECT. CITATION TO A SUMMARY ORDER FILED ON OR AFTER JANUARY 1, 2007, IS PERMITTED AND IS GOVERNED BY FEDERAL RULE OF APPELLATE PROCEDURE 32.1 AND THIS COURT’S LOCAL RULE 32.1.1. WHEN CITING A SUMMARY ORDER IN A DOCUMENT FILED WITH THIS COURT, A PARTY MUST CITE EITHER THE FEDERAL APPENDIX OR AN ELECTRONIC DATABASE(WITH THE NOTATION “SUMMARY ORDER”). A PARTY CITING A SUMMARY ORDER MUST SERVE A COPY OF IT ON ANY PARTY NOT REPRESENTED BY COUNSEL.
+United States Court of Appeals,
+Second Circuit.
+In re M. FABRIKANT & SONS, INC., Debtor.
+Buchwald Capital Advisors LLC, as Trustee of the MFS GUC Trust, Plaintiff–Appellant,
+v.
+JP Morgan Chase Bank, N.A., ABN AMRO Bank N.V., Bank of America, N.A., HSBC Bank USA, National Association, Bank Leumi USA, Israel Discount Bank of New York, Antwerpse Diamantbank, N.V., Sovereign Precious Metals LLC, Sovereign Bank, Defendants–Appellees.
+No. 12–4335–bk.
+|
+Oct. 15, 2013.
+Synopsis
+Background: Unsecured creditors committee in Chapter 11 case brought adversary proceeding against lenders and gold consignor, asserting claims to avoid and recover alleged fraudulent and preferential transfers. The Bankruptcy Court, Stuart M. Bernstein, J., 394 B.R. 721, dismissed fraudulent conveyance and preference claims. Creditors appealed. The District Court, Richard J. Sullivan, J., 480 B.R. 480, affirmed. Creditors appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] claims that lenders had actual or inquiry notice of bankrupt corporation’s financial status was not sufficient to show actual or constructive knowledge of corporations’s fraudulent transfer scheme;
+ 
+[2] fraudulent transfer claims lacked specificity; and
+ 
+[3] proposed amendment to complaint did not relate back to original timely complaint.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+BankruptcyPleading
+
+
+51Bankruptcy
+51VThe Estate
+51V(H)Avoidance Rights
+51V(H)2Proceedings
+51k2724Pleading
+
+
+Claims that bank lenders had actual or inquiry notice of bankrupt corporation’s precarious financial situation were not sufficient to show lenders had plausible actual or constructive knowledge of a fraudulent transfer scheme that allegedly involved corporation’s executives using corporation’s lines of credit to siphon off assets, in adversary proceeding to avoid and recover alleged fraudulent transfers on collapsed transaction theory.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+BankruptcyPleading
+
+
+51Bankruptcy
+51VThe Estate
+51V(H)Avoidance Rights
+51V(H)2Proceedings
+51k2724Pleading
+
+
+Unsecured creditors committee failed to identify the dates, amounts, and other relevant circumstances of the particular transfers that it contends were made with the actual intent to defraud creditors, and thus the claims lacked the specificity required for fraudulent transfer claims, in adversary proceeding to avoid and recover alleged fraudulent transfers. Fed.Rules Civ.Proc.Rule 9(b), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+BankruptcyTime limitations;  computation
+
+
+51Bankruptcy
+51VThe Estate
+51V(H)Avoidance Rights
+51V(H)2Proceedings
+51k2722Time limitations;  computation
+
+
+Proposed amendment to complaint of unsecured creditors committee to allege preferential transfers received by lenders did not relate back to original timely complaint alleging fraudulent transfers made by lenders. Fed.Rules Civ.Proc.Rule 15(c)(1), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+*56 Appeal from the United States District Court for the Southern District of New York (Sullivan, J.).
+ON CONSIDERATION WHEREOF, it is hereby ORDERED, ADJUDGED, and DECREED that the judgment of the district court is AFFIRMED.
+Attorneys and Law Firms
+Mark H. Hatch–Miller (Stephen D. Susman, Arun S. Subramanian, New York, NY, Jonathan J. Ross, Houston, TX, on the brief), Susman Godfrey LLP, for Plaintiff–Appellant.
+*57 Steven J. Mandelsberg, Hahn & Hessen LLP, New York, NY, Paul S. Samson, Riemer & Braunstein LLP, Boston, MA (Andrew C. Gold, Herrick, Feinstein LLP, New York, NY, Matthew Roseman, Cullen and Dykman LLP, Garden City, NY, Ingrid Bagby, Cadwalader, Wickersham & Taft LLP, New York, NY, William J. Brown, Phillips Lytle LLP, New York NY, Russell L. Reid, Jr., Sheppard, Mullin, Richter & Hampton LLP, New York, NY, Michael T. Conway, LeClair Ryan, P.C., New York, NY, on the brief), for Defendants–Appellees.
+Present: ROBERT A. KATZMANN, Chief Judge, DENNIS JACOBS, ROSEMARY S. POOLER, Circuit Judges.
+
+
+SUMMARY ORDER
+Plaintiff–Appellant Buchwald Capital Advisors LLC (the “Trustee”) appeals from a judgment entered September 30, 2012 by the United States District Court for the Southern District of New York (Sullivan, J.), affirming the decision of the Bankruptcy Court (Bernstein, J.). The Trustee argues that the courts below erred in granting in part the defendants’ motion to dismiss the Trustee’s assorted fraudulent conveyance and preference claims arising out of the bankruptcy of the former jewelry corporation M. Fabrikant & Sons, Inc., and its subsidiary. We presume the parties’ familiarity with the underlying facts and procedural history of this case, as well as with the issues on appeal.
+ 
+[1] The Trustee first contends that its “collapsing” fraudulent transfer claims—Counts I–IV of the Third Amended Complaint (the “TAC”)—should not have been dismissed. The collapsing doctrine, which derives from federal bankruptcy law and provisions of the New York Uniform Fraudulent Conveyance Act, N.Y. Debt. & Cred. Law §§ 272–74 (McKinney 2013), allows the bankruptcy court to “collapse” various “legs” of a transaction involving a fraudulent transfer and deem the entire chain of transfers avoidable. See, e.g., In re Sharp Int’l Corp., 403 F.3d 43, 53–56 (2d Cir.2005). Under the collapsing doctrine, the initial transfer of an insolvent debtor’s property to a first transferee is constructively fraudulent where (1) the consideration received from the first transferee is re-conveyed by the debtor for less than fair value or with the actual intent to defraud creditors, and (2) the transferee in the leg of the transfer sought to be avoided had actual or constructive knowledge of the entire scheme that renders its exchange with the debtor fraudulent. HBE Leasing Corp. v. Frank, 48 F.3d 623, 635–36 (2d Cir.1995).
+ 
+For substantially the reasons stated by the district court, we hold that the Trustee failed to plausibly allege that the defendants had actual or constructive knowledge of the purported fraudulent reconveyance scheme. At best, the TAC alleges that the banks had actual or inquiry notice of Fabrikant’s precarious financial condition. This is not sufficient to show plausible actual or constructive knowledge of a fraudulent transfer scheme that allegedly involved Fabrikant’s executives using Fabrikant’s lines of credit at the defendant banks to siphon off millions of dollars to the Fortgang Affiliates.
+ 
+[2] The Trustee next argues that its subsequent fraudulent transfer claims—Counts VIII–X of the TAC—likewise should not have been dismissed to the extent they relied on a theory of intentional fraud. We disagree, again for substantially the reasons stated by the district court. Claims of actual fraud must be pleaded with particularity. Fed.R.Civ.P. 9(b). The Trustee has not identified the dates, amounts, and other relevant circumstances of the particular transfers that it *58 contends were made with the actual intent to defraud creditors. Accordingly, these claims, to the extent they assert intentional fraud, fail for lack of specificity. See, e.g., Fed. Nat’l Mortg. Ass’n v. Olympia Mortg. Corp., No. 04 Civ. 4971(NG)(MDG), 2006 WL 2802092, at *9 (E.D.N.Y. Sept. 28, 2006); United Feature Syndicate, Inc. v. Miller Features Syndicate, Inc., 216 F.Supp.2d 198, 221 (S.D.N.Y.2002).
+ 
+[3] Finally, turning to the preference claim—Count XI of the TAC—the Trustee argues that, contrary to the bankruptcy court’s determination, it has standing to assert this claim and the claim is not untimely. Without reaching the issue of standing, we affirm on the ground that the Trustee’s preference claim was untimely. The preference claim was not added to the complaint until the Trustee filed its Second Amended Complaint on December 1, 2008, more than a year after the bankruptcy court’s October 1, 2007 deadline for commencing adversary proceedings passed. Moreover, we agree with the district court that the preferential payments allegedly received by the defendant banks do not relate back to the fraudulent transfers allegedly made by the defendant banks, so the Trustee cannot look to the date that the original complaint was filed. Fed.R.Civ.P. 15(c)(1); see also In re 360Networks (USA) Inc., 367 B.R. 428, 433–34 (Bankr.S.D.N.Y.2007); In re Metzeler, 66 B.R. 977, 983–84 (Bankr.S.D.N.Y.1986).1
+ 
+We have considered all of the plaintiff’s remaining arguments and find them to be without merit. Accordingly, for the foregoing reasons, the judgment of the district court is AFFIRMED.
+ 
+All Citations
+541 Fed.Appx. 55
+Footnotes
+
+1
+
+The Trustee also appeals the dismissal of its disallowance claim—Count XII of the TAC. The parties agree with the district court that the disallowance claim “rises and falls” with the Trustee’s other claims. Accordingly, we affirm the dismissal of the disallowance claim to the extent that the Trustee’s other claims on appeal—the collapsing claims, the subsequent transfer claims based on intentional fraud, and the preference claim—are dismissed.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

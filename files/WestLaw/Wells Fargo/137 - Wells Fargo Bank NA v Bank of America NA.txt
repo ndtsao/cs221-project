@@ -1,0 +1,100 @@
+
+
+ 
+
+
+Wells Fargo Bank, N.A. v. Bank of America, N.A.
+United States Court of Appeals, Second Circuit. | December 30, 2015 | 627 Fed.Appx. 27 | 2015 WL 9487863
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wells Fargo Bank, N.A. v. Bank of Am., N.A., 627 F. App’x 27 (2d Cir. 2015)
+
+All Citations:
+
+627 Fed.Appx. 27
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:06 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+627 Fed.Appx. 27
+This case was not selected for publication in West’s Federal Reporter.
+RULINGS BY SUMMARY ORDER DO NOT HAVE PRECEDENTIAL EFFECT. CITATION TO A SUMMARY ORDER FILED ON OR AFTER JANUARY 1, 2007, IS PERMITTED AND IS GOVERNED BY FEDERAL RULE OF APPELLATE PROCEDURE 32.1 AND THIS COURT’S LOCAL RULE 32.1.1. WHEN CITING A SUMMARY ORDER IN A DOCUMENT FILED WITH THIS COURT, A PARTY MUST CITE EITHER THE FEDERAL APPENDIX OR AN ELECTRONIC DATABASE (WITH THE NOTATION “SUMMARY ORDER”). A PARTY CITING A SUMMARY ORDER MUST SERVE A COPY OF IT ON ANY PARTY NOT REPRESENTED BY COUNSEL.
+United States Court of Appeals,
+Second Circuit.
+WELLS FARGO BANK, N.A., as Trustee for the Registered Holders of Banc of America Commercial Mortgage Inc., Commercial Mortgage Pass–Through Certificates, Series 2007–5, Acting by and through its Special Servicer C–III Asset Management LLC, Plaintiff–Appellee,
+v.
+BANK OF AMERICA, N.A., Defendant–Appellant.*
+No. 14–1624–cv.
+|
+Dec. 30, 2015.
+Appeal from a judgment of the United States District Court for the Southern District of New York (Oetken, J.).
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the district court is VACATED and the case is REMANDED.
+Attorneys and Law Firms
+Gregory A. Cross (Colleen M. Mallon, on the brief), Venable LLP, Baltimore, MD, for Plaintiff–Appellee.
+Theodore N. Mirvis (Gregory A. Markel, on the brief, Cadwalader, Wickersham & Taft LLP, New York, N.Y.), Wachtell, Lipton, Rosen & Katz, New York, N.Y., for Defendant–Appellant.
+PRESENT: B.D. PARKER, PETER W. HALL, SUSAN L. CARNEY, Circuit Judges.
+
+
+SUMMARY ORDER
+Defendant–Appellant Bank of America, N.A. (“BOA”) appeals from the district court’s grant of summary judgment in favor of Plaintiff–Appellee Wells Fargo Bank, N.A. (“Wells Fargo”) in this action for breach of representations and warranties contained in a Mortgage Loan Purchase and Sale Agreement (“MLPSA”). We assume the parties’ familiarity with the underlying facts, the procedural history of the case, and the issues on appeal.
+ 
+We review a grant of summary judgment de novo, viewing the facts “in the light most favorable to the non-moving party and draw[ing] all reasonable inferences in that party’s favor.” Cox v. Warwick Valley Cent. Sch. Dist., 654 F.3d 267, 271 (2d Cir.2011). Summary judgment is appropriate only where “there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed.R.Civ.P. 56(a).
+ 
+New York law governs our interpretation of the MLPSA. “Under New York law whether the language of a contract is unambiguous and, if so, what construction is proper, are legal questions subject to de novo review.” Seiden Associates, Inc. v. ANC Holdings, Inc., 959 F.2d 425, 429 (2d Cir.1992) (internal citations omitted).
+ 
+The district court granted summary judgment to Wells Fargo on the grounds that BOA’s origination of the loan in question violated representation and warranty 39 of the MLPSA (“Rep. 39”), which required the loan’s origination to comport with “customary standards utilized by prudent commercial or multifamily, as applicable, lenders and servicers,” J.A. at 2493. The district court concluded that there was no genuine issue of material fact as to whether the loan’s origination complied with customary standards because the origination violated § 105(a)(2) of BOA’s internal guidelines, which provides that the “Loan Amount shall be limited to a maximum eighty-five percent (85%) of the contract price including closing costs limited to a maximum fifteen (15%) percent of the contract price,” J.A. at 3837. The district court reasoned that BOA violated § 105(a)(2) because the remaining balance of the contract price was funded with a personal note from the borrower’s principals, and 15% of the contract price was not therefore funded with “cash equity.” Wells Fargo Bank, N.A. v. Bank of Am., N.A., No. 10 CIV. 9584 JPO, 2013 WL 1285289, at *7 (S.D.N.Y. Mar. 28, 2013).
+ 
+The district court erred in interpreting § 105(a)(2) of BOA’s internal guidelines to *29 require that at least 15% of the contract price be paid in the form of “cash equity” or a “cash payment.” Section 105(a)(2) merely provides that the loan amount shall not exceed 85% of the contract price; it says nothing of what form of payment the remaining 15% of the contract price must take. J.A. at 3837. The district court reasoned that “[t]he unavoidable consequence of a loan amount that is limited to 85% of the contract price is that the remaining 15% must be made up by cash equity provided by the Borrower.” Wells Fargo, 2013 WL 1285289, at *6 (emphasis added). We respectfully disagree. There is nothing in the plain language of § 105(a)(2) that prevents the remaining balance of the contract price from being funded by a distinct debt instrument. This conclusion is reinforced by the very next subsection of BOA’s guidelines, which (in contrast) explicitly imposes a 15% “cash equity” requirement for refinanced loans. J.A. at 3837. We therefore conclude that the district court erred in granting summary judgment to Wells Fargo on the grounds that the loan’s origination violated § 105(a)(2) and, thus, did not comport with customary standards as required by MLPSA Rep. 39.
+ 
+Lastly, Wells Fargo invites us to affirm the district court’s judgment on an alternative ground—that there is no genuine issue of material fact as to whether BOA breached Chapter 8 of its internal guidelines and, thus, as to whether BOA breached Rep. 39 of the MLPSA. Chapter 8 of BOA’s internal guidelines provides that “[t]he closing of the [loan] should fully capture all terms representative of the Conduit Program and the specific Loan Approval,” J.A. at 904, and Wells Fargo contends that it is undisputed that the loan BOA approved in the Credit Approval Package was not the loan that BOA ultimately closed. “Although we are empowered to affirm a district court’s decision on a theory not considered below, it is our distinctly preferred practice to remand such issues for consideration by the district court in the first instance. This is particularly appropriate when, as here, such theories have been briefed and argued only cursorily in this Court.” Schonfeld v. Hilliard, 218 F.3d 164, 184 (2d Cir.2000). We decline Wells Fargo’s invitation to affirm the district court’s judgment on this, or any other, alternative basis.
+ 
+Because we vacate the district court’s award of summary judgment as to liability, its damages rulings are necessarily vacated as well. Lucente v. Int’l Bus. Machines Corp., 310 F.3d 243, 260 (2d Cir.2002). That is the only basis, however, on which the district court’s damages rulings are vacated.
+ 
+For the foregoing reasons, the judgment of the district court is VACATED and the case is REMANDED for further proceedings consistent with this order.
+ 
+All Citations
+627 Fed.Appx. 27
+Footnotes
+
+*
+
+The Clerk of Court is respectfully requested to amend the case caption as set forth above.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

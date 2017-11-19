@@ -1,0 +1,941 @@
+
+
+ 
+
+
+Willner v. Dimon
+United States Court of Appeals, Fourth Circuit. | February 16, 2017 | 849 F.3d 93 | 2017 WL 634704
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Willner v. Dimon, 849 F.3d 93 (4th Cir. 2017)
+
+All Citations:
+
+849 F.3d 93
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Virginia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+849 F.3d 93
+United States Court of Appeals,
+Fourth Circuit.
+Michael A. WILLNER, Debtor in Possession; Marguerite Evans Willner, Plaintiffs–Appellants,
+v.
+James DIMON, individually, as President and CEO of JP Morgan Chase Bank, National Association; JP Morgan Chase Bank, N.A., a national banking association; Select Portfolio Servicing, INC., a Utah Corporation; Does (1–19) inclusive, persons yet to be determined, if any, involved in the acts complained of herein; U.S. Bank National Association, as Trustee, successor in interest to Bank of America, N.A., as Trustee, successor by merger to LaSalleBank, N.A., as Trustee, of the WaMu Mortgage Pass–Through Certificates Series 2006–AR15 Trust, a national banking association, Defendants–Appellees.
+No. 15-1678
+|
+Argued: October 25, 2016
+|
+Decided: February 16, 2017
+Synopsis
+Background: After the Federal Deposit Insurance Corporation (FDIC) was appointed as receiver for their insolvent lender, borrowers brought pro se action against entity that had purchased from FDIC the right to service their loan, successor trustee of trust to which their note had been assigned, and others, seeking, inter alia, a declaration that defendants could not foreclose on their home. The United States District Court for the Eastern District of Virginia, Anthony J. Trenga, J., 2015 WL 12766135, dismissed certain counts of complaint for lack of subject-matter jurisdiction pursuant to the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) and other counts for failure to state a claim. Borrowers appealed.
+ 
+Holdings: The Court of Appeals, Diaz, Circuit Judge, held that:
+ 
+[1] though formally asserted against successor trustee and loan servicer, Counts 1 and 2 of the complaint, for a declaratory judgment that there was no right to foreclose under the deed of trust and for breach of contract based on absence of right to foreclose because the note was defective, were functionally pleaded against lender’s acts and omissions, and so fell within the scope of FIRREA’s exhaustion requirement and, as unexhausted, were correctly dismissed for lack of subject-matter jurisdiction;
+ 
+[2] addressing an issue of first impression for the court, for purposes of FIRREA’s exhaustion requirement, the word “claim” is a term of art that refers only to claims that are resolvable through the FIRREA administrative process;
+ 
+[3] requests for declaratory judgments are subject to the FIRREA exhaustion requirement at issue;
+ 
+[4] addressing an issue of first impression for the court, a purported affirmative defense does not qualify as one for the purpose of avoiding FIRREA’s exhaustion requirement if, after looking beyond the nomenclature of the request for relief, the remedy sought is actually a “claim” within the meaning of FIRREA;
+ 
+[5] borrowers failed to state a claim for constructive fraud under Virginia law; and
+ 
+[6] borrowers failed to state a claim for negligence.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (31)
+
+
+[1]
+
+Federal CourtsPresumptions and burden of proof
+Federal CourtsDismissal for failure to state a claim
+
+
+170BFederal Courts
+170BIIJurisdiction, Powers, and Authority in General
+170BII(C)Objections, Proceedings, and Determination in General
+170Bk2079Evidence;  Affidavits
+170Bk2081Presumptions and burden of proof
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)3Presumptions
+170Bk3664Pleadings;  Dismissal
+170Bk3667Dismissal for failure to state a claim
+
+
+When reviewing district court’s grant of motion to dismiss for lack of subject-matter jurisdiction or for failure to state a claim in response to defendant’s facial challenge to complaint, the Court of Appeals accepts as true all factual allegations set forth in complaint. Fed. R. Civ. P. 12(b)(1), 12(b)(6).
+2 Cases that cite this headnote
+
+
+
+[2]
+
+Banks and BankingPowers, functions and dealings in general
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+
+
+Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) establishes an administrative process that allows the Federal Deposit Insurance Corporation (FDIC), acting as receiver for a failed institution, to settle claims against that institution and liquidate its assets. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d).
+Cases that cite this headnote
+
+
+
+[3]
+
+Banks and BankingPowers, functions and dealings in general
+Banks and BankingActions
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k508Actions
+
+
+Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) allows claimants either to obtain administrative review, followed by judicial review, of any disallowed claim against a depository institution for which the Federal Deposit Insurance Corporation (FDIC) is receiver, or to file suit for de novo consideration of the disallowed claim in a district court. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(6)-(7).
+Cases that cite this headnote
+
+
+
+[4]
+
+Banks and BankingPowers, functions and dealings in general
+Banks and BankingActions
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k508Actions
+
+
+Exhaustion requirement of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) is absolute and unwaivable; FIRREA operates as a jurisdictional bar to claims that parties did not submit to the Federal Deposit Insurance Corporation’s (FDIC) administrative process. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D).
+Cases that cite this headnote
+
+
+
+[5]
+
+Federal CourtsJurisdiction
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3581Jurisdiction
+170Bk3581(1)In general
+
+
+Court of Appeals reviews de novo a district court’s grant of a motion to dismiss for lack of subject-matter jurisdiction. Fed. R. Civ. P. 12(b)(1).
+Cases that cite this headnote
+
+
+
+[6]
+
+Federal CourtsTheory and Grounds of Decision of Lower Court
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)1In General
+170Bk3548Theory and Grounds of Decision of Lower Court
+170Bk3549In general
+
+
+Court of Appeals may affirm on any grounds supported by the record, notwithstanding the reasoning of the district court.
+Cases that cite this headnote
+
+
+
+[7]
+
+Banks and BankingActions
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k508Actions
+
+
+While a subsection of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) bars unexhausted claims against an assuming bank that relate to an act or omission of an institution for which the Office of Thrift Supervision (OTS) appointed the Federal Deposit Insurance Corporation (FDIC) as receiver, a suit against a third-party bank for its own wrongdoing is not barred by that subsection. Federal Deposit Insurance Act § 2 [11], 12 U.S.C.A. § 1821(d)(13)(D)(ii).
+Cases that cite this headnote
+
+
+
+[8]
+
+Banks and BankingPowers, functions and dealings in general
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+
+
+Where a claim is functionally, albeit not formally, against a depository institution for which the Federal Deposit Insurance Corporation (FDIC) is receiver, it is a “claim” within the meaning of the administrative claims process of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA). Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D).
+Cases that cite this headnote
+
+
+
+[9]
+
+Banks and BankingPowers, functions and dealings in general
+Declaratory JudgmentStatutory remedy
+Declaratory JudgmentGrounds for involuntary dismissal in general
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+118ADeclaratory Judgment
+118AINature and Grounds in General
+118AI(C)Other Remedies
+118Ak44Statutory remedy
+118ADeclaratory Judgment
+118AIIIProceedings
+118AIII(F)Hearing and Determination
+118Ak361Dismissal Before Hearing
+118Ak362Grounds for involuntary dismissal in general
+
+
+In borrowers’ action against entity that had purchased from Federal Deposit Insurance Corporation (FDIC) the right to service their loan and successor trustee of trust to which their note had been assigned, those counts of complaint asserting claims for declaratory judgment that there was no right to foreclose under the deed of trust and for breach of contract based on absence of right to foreclose, though formally asserted against successor trustee and loan servicer, were functionally pleaded against lender’s acts and omissions, so as to fall within the scope of the exhaustion requirement of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA), and, as unexhausted, were correctly dismissed for lack of subject-matter jurisdiction; borrowers did not assert independent misconduct by successor trustee and loan servicer, but alleged that lender made misrepresentations and that the note and deed of trust were defective. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D)(ii).
+Cases that cite this headnote
+
+
+
+[10]
+
+Banks and BankingPowers, functions and dealings in general
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+
+
+Under the Financial Institutions Reform, Recovery and Enforcement Act of 1989’s (FIRREA) exhaustion requirement for claims relating to any act or omission of an institution for which the Federal Deposit Insurance Corporation (FDIC) has been appointed receiver or the FDIC as receiver, the word “claim” is a term of art that refers only to claims that are resolvable through the FIRREA administrative process. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D)(ii).
+2 Cases that cite this headnote
+
+
+
+[11]
+
+Banks and BankingPowers, functions and dealings in general
+Declaratory JudgmentStatutory remedy
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+118ADeclaratory Judgment
+118AINature and Grounds in General
+118AI(C)Other Remedies
+118Ak44Statutory remedy
+
+
+Administrative claims process of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) accommodates declaratory judgment actions and, thus, requests for declaratory judgments are “claims” subject to FIRREA’s exhaustion requirement for claims relating to any act or omission of an institution for which the Federal Deposit Insurance Corporation (FDIC) has been appointed receiver or the FDIC as receiver. Federal Deposit Insurance Act §§ 2[11], 2[11], 12 U.S.C.A. §§ 1821(d), 1821(d)(13)(D)(ii).
+2 Cases that cite this headnote
+
+
+
+[12]
+
+Declaratory JudgmentScope and extent of review in general
+
+
+118ADeclaratory Judgment
+118AIIIProceedings
+118AIII(H)Appeal and Error
+118Ak392Appeal and Error
+118Ak393Scope and extent of review in general
+
+
+Borrowers, by not timely submitting what was on its face a “claim” to the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) claims process, waived their argument on appeal in declaratory judgment action about how the Federal Deposit Insurance Corporation (FDIC), as receiver, would have resolved it. Federal Deposit Insurance Act, § 2[1] et seq., 12 U.S.C.A. § 1811 et seq.
+Cases that cite this headnote
+
+
+
+[13]
+
+Banks and BankingActions
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k508Actions
+
+
+Exhaustion requirement of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) does not encompass affirmative defenses. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D).
+Cases that cite this headnote
+
+
+
+[14]
+
+Banks and BankingActions
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k508Actions
+
+
+Purported affirmative defense does not qualify as an “affirmative defense,” so as to fall outside the ambit of the exhaustion requirement of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA), if, after looking beyond the nomenclature of the request for relief, the remedy sought is actually a “claim” within the meaning of FIRREA. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D).
+Cases that cite this headnote
+
+
+
+[15]
+
+Banks and BankingPowers, functions and dealings in general
+Declaratory JudgmentStatutory remedy
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+118ADeclaratory Judgment
+118AINature and Grounds in General
+118AI(C)Other Remedies
+118Ak44Statutory remedy
+
+
+In borrowers’ action against entity that had purchased from Federal Deposit Insurance Corporation (FDIC) the right to service their loan and successor trustee of trust to which their note had been assigned, those counts of complaint asserting claims seeking declaratory judgments that there was no right to foreclose under the deed of trust and that the note and the deed of trust were unenforceable were not affirmative defenses and, thus, were subject to the exhaustion requirement of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA); each request for declaratory judgment was a “claim” within the meaning of FIRREA. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D).
+2 Cases that cite this headnote
+
+
+
+[16]
+
+Banks and BankingPowers, functions and dealings in general
+Banks and BankingActions
+Declaratory JudgmentStatutory remedy
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k508Actions
+118ADeclaratory Judgment
+118AINature and Grounds in General
+118AI(C)Other Remedies
+118Ak44Statutory remedy
+
+
+In borrowers’ action against entity that had purchased from Federal Deposit Insurance Corporation (FDIC) the right to service their loan and successor trustee of trust to which their note had been assigned, those counts of complaint asserting claims for negligence, for declaratory judgment that note was not secured by borrower-wife’s ownership interest in the property, for fraudulent concealment in loan origination, for declaratory judgment that deed of trust was void as not the result of a meeting of the minds, for equitable estoppel related to misrepresentations made during loan origination, to quiet title, for unjust enrichment, for conspiracy to commit fraudulent concealment, and for conspiracy to commit fraud were not affirmative defenses, but were “claims” subject to the exhaustion requirement of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA). Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D).
+Cases that cite this headnote
+
+
+
+[17]
+
+BankruptcyProceedings
+Banks and BankingActions
+
+
+51Bankruptcy
+51VThe Estate
+51V(G)Set-off
+51k2680Proceedings
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k508Actions
+
+
+Exception to the exhaustion requirement of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA), which exists within the bankruptcy system for a debtor who has a proof of claim filed against him by a creditor and then is allowed to bring a claim against the creditor in bankruptcy court outside of FIRREA’s administrative process, is inapplicable where the debtor is not in bankruptcy court. Federal Deposit Insurance Act § 2 [11], 12 U.S.C.A. § 1821(d)(13)(D).
+Cases that cite this headnote
+
+
+
+[18]
+
+Banks and BankingActions
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k508Actions
+
+
+District court had subject-matter jurisdiction over borrowers’ unexhausted negligence claim against entity that had purchased from the Federal Deposit Insurance Corporation (FDIC) the right to service their loan and successor trustee of trust to which their note had been assigned; claim was not based upon lender’s conduct, but upon borrowers’ allegation that loan servicer and successor trustee had a duty to borrower based upon his “claim of recoupment,” and so claim did not fall within scope of the exhaustion requirement of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA). Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D)(ii).
+Cases that cite this headnote
+
+
+
+[19]
+
+Constitutional LawFinancial impairment and insolvency;  receivers
+
+
+92Constitutional Law
+92XXVIIDue Process
+92XXVII(G)Particular Issues and Applications
+92XXVII(G)25Other Particular Issues and Applications
+92k4477Financial impairment and insolvency;  receivers
+
+
+Plaintiff cannot challenge her failure to exhaust claims with the Federal Deposit Insurance Corporation (FDIC) on due process grounds if she has actual notice that the failed bank is in receivership or knows enough about the situation to have “inquiry notice” as to the details of the Financial Institutions Reform, Recovery and Enforcement Act of 1989’s (FIRREA) administrative process. U.S. Const. Amend. 5; Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D).
+Cases that cite this headnote
+
+
+
+[20]
+
+Banks and BankingPowers, functions and dealings in general
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k505Powers, functions and dealings in general
+
+
+Section of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (FIRREA) setting forth the exhaustion requirement does not contain a discovery rule that tolls claims. Federal Deposit Insurance Act § 2[11], 12 U.S.C.A. § 1821(d)(13)(D).
+Cases that cite this headnote
+
+
+
+[21]
+
+Federal Civil ProcedureInsufficiency in general
+Federal Civil ProcedureMatters deemed admitted;  acceptance as true of allegations in complaint
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)3Pleading, Defects In, in General
+170Ak1772Insufficiency in general
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1827Determination
+170Ak1835Matters deemed admitted;  acceptance as true of allegations in complaint
+
+
+To survive motion to dismiss, complaint must contain sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face. Fed. R. Civ. P. 12(b)(6).
+16 Cases that cite this headnote
+
+
+
+[22]
+
+Federal Civil ProcedureFraud, mistake and condition of mind
+
+
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(A)Pleadings in General
+170Ak633Certainty, Definiteness and Particularity
+170Ak636Fraud, mistake and condition of mind
+
+
+Circumstances constituting fraud or mistake, which must be stated with particularity when alleging fraud or mistake, are the time, place, and contents of the false representations, as well as the identity of the person making the misrepresentation and what he obtained thereby. Fed. R. Civ. P. 9(b).
+1 Cases that cite this headnote
+
+
+
+[23]
+
+FraudElements of Constructive Fraud
+FraudWeight and Sufficiency
+
+
+184Fraud
+184IDeception Constituting Fraud, and Liability Therefor
+184k5Elements of Constructive Fraud
+184k6In general
+184Fraud
+184IIActions
+184II(D)Evidence
+184k58Weight and Sufficiency
+184k58(1)In general
+
+
+Under Virginia law, elements of a cause of action for constructive fraud are a showing by clear and convincing evidence that a false representation of a material fact was made innocently or negligently, and the injured party was damaged as a result of his reliance upon the misrepresentation.
+Cases that cite this headnote
+
+
+
+[24]
+
+FraudElements of Constructive Fraud
+FraudWeight and Sufficiency
+
+
+184Fraud
+184IDeception Constituting Fraud, and Liability Therefor
+184k5Elements of Constructive Fraud
+184k6In general
+184Fraud
+184IIActions
+184II(D)Evidence
+184k58Weight and Sufficiency
+184k58(1)In general
+
+
+Under Virginia law, plaintiff asserting a claim of constructive fraud must show by clear and convincing evidence that one has represented as true what is really false, in such a way as to induce a reasonable person to believe it, with the intent that the person will act upon this representation.
+Cases that cite this headnote
+
+
+
+[25]
+
+Banks and BankingTorts
+Mortgages and Deeds of TrustParticular cases, contexts, and questions in general
+Mortgages and Deeds of TrustFraud and misrepresentation
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(A)Banking Franchises and Powers, and Their Exercise in General
+52k100Torts
+266Mortgages and Deeds of Trust
+266VScope, Operation, and Effect of Transaction;  Rights, Duties, and Liabilities of Parties
+266V(I)Modification
+266k1133Particular cases, contexts, and questions in general
+(Formerly 266k216)
+266Mortgages and Deeds of Trust
+266VScope, Operation, and Effect of Transaction;  Rights, Duties, and Liabilities of Parties
+266V(K)Other Transactions and Dealings Between Parties
+266k1184Fraud and misrepresentation
+
+
+Under Virginia law, borrowers’ allegations that bank’s agent directed borrower to a bank website which included a suggestion that he list his home for sale, that borrower also applied for a loan modification through the Making Home Affordable Program, that bank’s review of borrower’s application went on for longer than it was supposed to, and that bank eventually told him that he was ineligible failed to state a claim for constructive fraud; allegations did not constitute a false representation of a material fact, and the delay in reviewing borrower’s application did not amount to concealment constituting actionable fraud, absent any allegation of deliberate nondisclosure.
+Cases that cite this headnote
+
+
+
+[26]
+
+NegligenceElements in general
+
+
+272Negligence
+272IIn General
+272k202Elements in general
+
+
+Under Virginia law, the elements of an action in negligence are a legal duty on the part of the defendant, breach of that duty, and a showing that such breach was the proximate cause of injury, resulting in damage to the plaintiff.
+Cases that cite this headnote
+
+
+
+[27]
+
+NegligenceContractual duty
+NegligenceBreach of Duty
+
+
+272Negligence
+272IINecessity and Existence of Duty
+272k217Voluntarily Assumed Duty
+272k219Contractual duty
+272Negligence
+272IVBreach of Duty
+272k250In general
+
+
+Under Virginia law, a tort action cannot be based solely on a negligent breach of contract; though a party can, in certain circumstances, show both a breach of contract and a tortious breach of duty, the duty tortiously or negligently breached must be a common law duty.
+Cases that cite this headnote
+
+
+
+[28]
+
+Banks and BankingTorts
+Mortgages and Deeds of TrustParticular cases, contexts, and questions in general
+Mortgages and Deeds of TrustNegligence
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(A)Banking Franchises and Powers, and Their Exercise in General
+52k100Torts
+266Mortgages and Deeds of Trust
+266VScope, Operation, and Effect of Transaction;  Rights, Duties, and Liabilities of Parties
+266V(I)Modification
+266k1133Particular cases, contexts, and questions in general
+266Mortgages and Deeds of Trust
+266VScope, Operation, and Effect of Transaction;  Rights, Duties, and Liabilities of Parties
+266V(K)Other Transactions and Dealings Between Parties
+266k1183Negligence
+(Formerly 266k216)
+
+
+Borrower’s allegations that bank owed him a duty to act reasonably in modifying his loan and that it failed to act reasonably and seek the aid and direction of a court of equity before foreclosing on the property failed to state a claim for negligence under Virginia law; there was no freestanding common law duty in Virginia to grant a loan modification, such that any obligations bank might have had in processing borrower’s application for a loan modification could only have arisen from a contractual relationship between the parties, and, as such, could not give rise to a tort claim.
+Cases that cite this headnote
+
+
+
+[29]
+
+Federal CourtsPleading
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3587Pleading
+170Bk3587(1)In general
+
+
+Court of Appeals reviews a district court’s denial of leave to amend a complaint for abuse of discretion.
+Cases that cite this headnote
+
+
+
+[30]
+
+Federal Civil ProcedureAmendments by briefs or motion papers
+Federal Civil ProcedureForm and sufficiency of amendment;  futility
+
+
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(E)Amendments
+170Ak849Motion and Proceedings for Allowance
+170Ak849(3)Amendments by briefs or motion papers
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(E)Amendments
+170Ak851Form and sufficiency of amendment;  futility
+
+
+District court did not abuse its discretion in denying pro se borrowers’ requests to amend their complaint against entity that had purchased from the Federal Deposit Insurance Corporation (FDIC) the right to service their loan, successor trustee of trust to which their note had been assigned, and others; borrowers never filed a formal motion to amend but, rather, requested leave to amend in the conclusions of three oppositions to motions to dismiss and one surreply, and borrowers failed to show, even on appeal, how amendment would cure the deficiencies in their complaint.
+Cases that cite this headnote
+
+
+
+[31]
+
+Federal Civil ProcedureMotion and Proceedings for Allowance
+Federal Civil ProcedureRequisites of motion
+
+
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(E)Amendments
+170Ak849Motion and Proceedings for Allowance
+170Ak849(1)In general
+170AFederal Civil Procedure
+170AVIIPleadings
+170AVII(E)Amendments
+170Ak849Motion and Proceedings for Allowance
+170Ak849(2)Requisites of motion
+
+
+Where the plaintiff fails to formally move to amend complaint and fails to provide the district court with any proposed amended complaint or other indication of the amendments he wishes to make, the district court does not abuse its discretion in denying leave to amend.
+1 Cases that cite this headnote
+
+
+
+*99 Appeal from the United States District Court for the Eastern District of Virginia, at Alexandria. Anthony J. Trenga, District Judge. (1:14–cv–01708–AJT–MSN)
+Attorneys and Law Firms
+ARGUED: Benjamin Stark Softness, KELLOGG, HUBER, HANSEN, TODD, EVANS & FIGEL, P.L.L.C., Washington, D.C.; Michael A. Willner, Lorton, Virginia, for Appellants. Brent J. McIntosh, SULLIVAN & CROMWELL, Washington, D.C.; Matthew Douglas Patterson, NELSON MULLINS RILEY & SCARBOROUGH LLP, Columbia, South Carolina, for Appellees. ON BRIEF: David C. Frederick, KELLOGG, HUBER, HANSEN, TODD, EVANS & FIGEL, P.L.L.C., Washington, D.C., for Appellant Marguerite Evans Willner. Brian M. Barnwell, NELSON MULLINS RILEY & SCARBOROUGH LLP, Columbia, South Carolina; John Curtis Lynch, Mary Catherine Zinsner, Harrison Scott Kelly, TROUTMAN SANDERS LLP, Virginia Beach, Virginia, for Appellees.
+Before AGEE, DIAZ, and THACKER, Circuit Judges.
+Opinion
+Affirmed by published opinion. Judge Diaz wrote the opinion, in which Judge Agee and Judge Thacker joined.
+
+
+DIAZ, Circuit Judge:
+Michael Willner (an attorney) and Marguerite Willner appeal the district court’s dismissal of their pro se complaint wherein they seek, inter alia, a declaration that JP Morgan Chase Bank (“Chase”) and U.S. Bank cannot foreclose on their home. The district court dismissed certain Counts for lack of subject matter jurisdiction pursuant to the Financial Institutions Reform, Recovery and Enforcement Act of 1989 and other Counts for failure to state a claim. As we explain below, the district court lacked subject matter jurisdiction over most of the Counts that the Willners appeal because they did not first submit the claims underlying those Counts to administrative review. The other Counts relevant here fail to state a claim. Accordingly, we affirm.
+ 
+
+I.
+A.
+[1]When reviewing a district court’s grant of a motion to dismiss under Federal Rule of Civil Procedure 12(b)(1) or 12(b)(6) in response to a defendant’s facial challenge to a complaint, we accept as true all factual allegations set forth in the complaint. Kerns v. United States, 585 F.3d 187, 192 (4th Cir. 2009). Applying that standard to the Willners’ complaint, we assume the following facts.
+ 
+*100 The Willners purchased as tenants by the entirety property (the “Property”) in Lorton, Virginia, in 1989 and built a house thereupon. In August 2006, the Willners considered selling the Property but instead decided to refinance after speaking with an agent from Washington Mutual Bank, FA (“WMBFA”). The WMBFA agent told Mr. Willner to contact a Washington Mutual Bank (“WMB”) agent to fill out a loan application. Mr. Willner did so, and told the WMB agent that he expected to earn about $52,000 in 2006. The WMBFA agent also told the Willners that the Property was worth in excess of $5 million. The same agent led the Willners to believe that WMBFA wouldn’t foreclose on the Property in the event of a missed payment.
+ 
+In September 2006, the Willners closed on a $3 million loan (the “Loan”) from WMBFA. Mr. Willner signed a note (the “Note”); Mrs. Willner did not. Mrs. Willner had previously told the WMBFA agent that she didn’t want to put her ownership interest in the Property at risk, and said the same to a title agent at the closing. Based upon each agent’s response, Mrs. Willner believed that her interest in the Property would remain unencumbered. However, both Mr. and Mrs. Willner signed a deed of trust (the “Deed of Trust”), which secured the Loan and for which WMBFA was the beneficiary.
+ 
+The Deed of Trust provided that “any Borrower who co-signs this Security Instrument but does not execute the Note ... is co-signing this Security Instrument only to mortgage, grant and convey the co-signer’s interest in the Property ... [and] is not personally obligated to pay the sums secured by this Security Instrument.” J.A. 489. Mr. Willner also signed an “Affiliated Business Arrangement Disclosure Statement Notice” which “indicated” that WMBFA and WMB “existed concurrently as separate and distinct entities.” J.A. 40–41.
+ 
+Less than two months after the closing, WMB sold the Note to WaMu Asset Acceptance Corporation, which securitized the Note by depositing it into the WaMu Mortgage Pass–Through Certificates Series 2006–AR15 (the “2006–AR15 Trust”), “a special purpose entity controlled by WMB.” J.A. 42. WMB was the sponsor and servicer of the 2006–AR15 Trust (and Note), while LaSalle Bank was the trustee. WMBFA remained the beneficiary under the Deed of Trust.
+ 
+On September 25, 2008, the Office of Thrift Supervision declared WMB insolvent and appointed the Federal Deposit Insurance Corporation (the “FDIC”) as receiver. On that same day, Chase entered into a Purchase and Assumption Agreement with the FDIC, whereby Chase purchased substantially all of WMB’s assets and assumed substantially all of its liabilities. Under the Purchase and Assumption Agreement, Chase did not assume any liability for WMB’s acts or omissions. Chase purchased the right to service the Loan, but allegedly did not purchase the Note or Deed of Trust because “WMB sold the Note and [Deed of Trust] on or before October of 2006.” J.A. 47–48.
+ 
+In October 2008, the Willners received notice that the Office of Thrift Supervision had closed WMB and appointed the FDIC as receiver. Also in October 2008, LaSalle Bank merged into Bank of America, which became the trustee for the 2006–AR15 Trust. At some later point, U.S. Bank became the trustee for the 2006–AR15 Trust as successor in interest to Bank of America, and it remains so today.
+ 
+In July 2010, the Willners attempted to refinance the Property through Chase. A Chase agent told the Willners that their income wasn’t sufficient to qualify for a loan. Mr. Willner spoke with Chase representatives, *101 who directed him to Chase’s website. One suggestion on the Chase website was to list the home for sale, which Mr. Willner did to no avail. In April 2011, Chase CEO James Dimon signed a Consent Order with the Office of the Comptroller of the Currency, in which Chase agreed to correct problems with its servicing and foreclosure practices. In May 2011, the Willners defaulted.
+ 
+In June 2011, Mr. Willner applied for a loan modification from Chase through the Making Home Affordable Program. In August 2011, Chase identified the Note for collection through foreclosure, and Mrs. Willner tried to call Dimon to discuss the foreclosure process but was only able to speak with one of his assistants.
+ 
+In September 2011, Mr. Willner came upon WMB documents from 2006 which showed that his financial status had not qualified him for the loan which he had ultimately received. One of those documents listed his annual income for 2006 at $624,000. In March 2012, Mr. Willner discovered other information, including: a WMB document which showed that WMB had conducted another appraisal in 2006 prior to the closing, and that the Property was appraised for only $4 million; a WMB document from the 2006 closing which listed his income at $52,000 per month; and Securities and Exchange Commission filings which showed that as of April 4, 2005, WMBFA allegedly ceased to exist.
+ 
+In May 2012, Chase informed Mr. Willner that he was not eligible for a modification under the Making Home Affordable Program. That program allegedly only applied to loans for $759,000 or less, and allegedly required that eligibility determinations be made within 30 days. On November 30, 2012, Chase informed the Willners that it intended to foreclose on the Property and auction it on December 18, 2012. On December 13, 2012, Mr. Willner (but not Mrs. Willner) filed for Chapter 11 bankruptcy in the U.S. Bankruptcy Court for the Eastern District of Virginia. U.S. Bank then filed a proof of claim in the bankruptcy court claiming the right to foreclose on the Property.
+ 
+In May 2013, U.S. Bank re-appointed Chase as the master servicer of the 2006–AR15 Trust, and in August 2013, Chase appointed Select Portfolio Servicing as the sub-servicer. U.S. Bank moved for relief from stay in the bankruptcy court in September 2014.
+ 
+
+B.
+Mr. and Mrs. Willner filed a pro se 27–Count complaint against Chase, Chase’s CEO James Dimon, U.S. Bank, and Select Portfolio Servicing. Of those 27 Counts, only the following are relevant to this appeal:
+• Count 1 (against Chase and U.S. Bank) for a declaratory judgment that there is no right to foreclose under the Deed of Trust;
+• Count 2 (against Chase and U.S. Bank) for breach of contract based on absence of right to foreclose because the Note is defective;
+• Count 3 (against Chase and U.S. Bank) for negligence based on breach of duty to Mr. Willner to seek the aid and direction of a court of equity before foreclosing;
+• Count 5 (against Chase, U.S. Bank, and Select Portfolio Servicing) for a declaratory judgment that the Note and Deed of Trust are unenforceable;
+• Count 6 (against Chase and U.S. Bank) for a declaratory judgment that the Note is not secured by Mrs. Willner’s ownership interest in the Property;
+• Count 7 (against U.S. Bank) for fraudulent concealment in the loan origination;
+*102 • Count 8 (against Chase, U.S. Bank, and Select Portfolio Servicing) for a declaratory judgment that the Deed of Trust is void based on lack of meeting of the minds;
+• Count 9 (against U.S. Bank) for equitable estoppel related to misrepresentations made during the loan origination;
+• Count 14 (against Chase and U.S. Bank) for constructive fraud “in the servicing” of the Note;
+• Count 15 (against Chase and U.S. Bank) for negligence “in the servicing” of the Note;
+• Count 16 (against Chase, U.S. Bank, and Select Portfolio Servicing) to quiet title on the Property based on defects in the Deed of Trust;
+• Count 17 (against Chase and U.S. Bank) for unjust enrichment premised upon misrepresentations by WMB and defects in the Note;
+• Count 18 (against all defendants) for conspiracy to commit fraudulent concealment in the Loan’s origination, securitization, servicing, and foreclosure; and
+• Count 19 (against all defendants) for conspiracy to commit fraud in the Loan’s origination, securitization, servicing, and foreclosure.
+ 
+The parties engaged in motions practice, and in the conclusions of three oppositions to motions to dismiss and one surreply, the Willners “move[d] for leave to amend the[ir] [c]omplaint” in the event that the district court found it “deficien[t].” No. 1:14–cv–01708, Dkt. 18, 36, 37, 51. The district court dismissed the complaint without addressing the Willners’ requests to amend.
+ 
+The court found that it lacked subject matter jurisdiction over Counts 1–9 and 16–19 (encompassing all of the Counts relevant here except Counts 14 and 15) because those Counts were based on WMB’s alleged misconduct and thus subject to an administrative remedies exhaustion requirement in the Financial Institutions Reform, Recovery and Enforcement Act of 1989 (“FIRREA”) which the Willners had not satisfied.1 To make sense of this part of the district court’s decision, we first outline FIRREA’s relevant provisions.
+ 
+[2] [3]“FIRREA establishes an administrative process that allows the [FDIC], acting as receiver for a failed institution, to settle claims against that institution and liquidate its assets.” Elmco Props., Inc. v. Second Nat’l Fed. Sav. Ass’n, 94 F.3d 914, 919 (4th Cir. 1996) (citing 12 U.S.C. § 1821(d)). To effectuate that process, FIRREA requires that claimants submit all of their claims against a failed institution to the FDIC “before a certain date—the ‘bar date.’ ”2 Id. (citing 12 U.S.C. § 1821(d)(3)(B)(i)). “FIRREA allows claimants either to obtain administrative review, followed by judicial review, of ‘any [disallowed] claim against a depository institution for which the [FDIC] is receiver,’ or to file suit for de novo consideration of the disallowed claim in a district court.” Am. Nat’l Ins. Co. v. F.D.I.C., 642 F.3d 1137, 1141 (D.C. Cir. 2011) (citing 12 U.S.C. § 1821(d)(6)–(7)).
+ 
+*103 But, “[e]xcept as otherwise provided” in the Act, a court may not exercise jurisdiction over
+(i) any claim or action for payment from, or any action seeking a determination of rights with respect to, the assets of any depository institution for which the [FDIC] has been appointed receiver, including assets which the [FDIC] may acquire from itself as such receiver; or
+(ii) any claim relating to any act or omission of such institution or the [FDIC] as receiver.
+12 U.S.C. § 1821(d)(13)(D).
+ 
+[4]“These provisions combine to create an exhaustion requirement that, we have concluded, is ‘absolute and unwaivable.’ ” Elmco Props., 94 F.3d at 919 (quoting Brady Dev. Co. v. Resolution Tr. Corp., 14 F.3d 998, 1007 (4th Cir. 1994)). Put another way, FIRREA operates as a jurisdictional bar to claims that parties did not submit to the FDIC’s administrative process. Am. Nat’l Ins., 642 F.3d at 1141.
+ 
+The district court concluded that it lacked subject matter jurisdiction over these Counts pursuant to § 1821(d)(13)(D)(i) because the Willners had not exhausted their administrative remedies “against WMB with respect to their claims arising out of the Note and Deed of Trust, including the alleged misconduct by WMB.” As to Counts 14 and 15, the court dismissed them for failure to state a claim.
+ 
+This appeal followed.
+ 
+
+II.
+The Willners jointly appeal the dismissal of Counts 1, 2, and 5, and also argue that the district court erred by dismissing their complaint without first providing an opportunity to amend. Mr. Willner, who appears pro se, appeals the dismissal of Counts 3, 6–9, and 14–19.3 We proceed in three parts. First, we consider the joint appeal of the dismissal of Counts 1, 2, and 5, which is a challenge to the district court’s decision on subject matter jurisdiction. In so doing, we also resolve the portion of Mr. Willner’s pro se appeal which concerns the district court’s decision on subject matter jurisdiction. Second, we address the remaining issues from Mr. Willner’s pro se appeal. Finally, we turn to the question of whether the district court erred by not addressing the Willners’ requests to amend their complaint.
+ 
+
+A.
+[5] [6]“We review a district court’s grant of a motion to dismiss under Rule 12(b)(1) ... de novo.” Sucampo Pharm., Inc. v. Astellas Pharma, Inc., 471 F.3d 544, 550 (4th Cir. 2006). “[W]e may affirm on any grounds supported by the record, notwithstanding the reasoning of the district court.” Kerr v. Marshall Univ. Bd. of Governors, 824 F.3d 62, 75 n.13 (4th Cir. 2016). While generally we “liberally construe a pro se complaint,” we have “not determined whether a pro se plaintiff who is also an attorney receives the benefit of this liberal construction.” Id. at 72. We do not decide that issue because, liberally construed or not, the Willners’ complaint fails for the reasons discussed below. Nevertheless, “[o]ut of an abundance of caution ... and in accordance with the liberal *104 construction we afford a pro se complainant, we construe [the Willners’ complaint] as best we can.” Id.
+ 
+The Willners jointly make four principal arguments for why the district court erred in dismissing Counts 1, 2, and 5 for lack of subject matter jurisdiction. Each is an attempt to exclude some or all of the Counts from FIRREA’s exhaustion requirement. We address them in turn.
+ 
+
+1.
+We first consider the Willners’ argument that Counts 1 and 2 are claims about independent misconduct by Chase and U.S. Bank which fall outside of FIRREA’s exhaustion requirement. But before we address that argument, we must decide which of FIRREA’s two exhaustion requirements governs our analysis.
+ 
+As an initial matter, the district court erred by applying § 1821(d)(13)(D)(i) rather than analyzing the Counts under § 1821(d)(13)(D)(ii). Subsection (i) bars any unexhausted “claim or action for payment from, or any action seeking a determination of rights with respect to, the assets of any depository institution for which the [FDIC] has been appointed receiver.” 12 U.S.C. § 1821(d)(13)(D)(i). But the Willners are not pursuing recovery under this theory. Rather, their action seeks “a determination of rights with respect to the assets of a third-party that purchased [the assets in question] from the FDIC.” Westberg v. F.D.I.C., 741 F.3d 1301, 1305 (D.C. Cir. 2014); see also Rosa v. Resolution Tr. Corp., 938 F.2d 383, 393–94 (3d Cir. 1991) (refusing to apply § 1821(d)(13)(D)(i) to claims against an institution which the Office of Thrift Supervision had not placed into receivership). Thus, if FIRREA’s jurisdictional bar applies, it’s because the Willners’ claims fall within FIRREA’s other exhaustion requirement for “any claim relating to any act or omission of [an institution for which the FDIC has been appointed receiver] or the Corporation as receiver.” 12 U.S.C. § 1821(d)(13)(D)(ii).
+ 
+[7] [8]Section 1821(d)(13)(D)(ii) bars unexhausted claims against an assuming bank that relate to an act or omission of an institution for which the Office of Thrift Supervision appointed the FDIC as receiver, but a suit “against a third-party bank for its own wrongdoing ... is not barred by” § 1821(d)(13)(D)(ii). Am. Nat’l Ins., 642 F.3d at 1142. “Where a claim is functionally, albeit not formally, against a depository institution for which the FDIC is receiver, it is a ‘claim’ within the meaning of FIRREA’s administrative claims process.” Id. at 1144.
+ 
+[9]Though Counts 1 and 2 are formally asserted against Chase and U.S. Bank, they are functionally pleaded against WMB’s acts and omissions. The allegations underlying Counts 1 and 2 are that WMB made misrepresentations and that the Note and Deed of Trust are defective. In particular, the Willners allege that WMB agreed not to foreclose on the Property, that the Note “does not exist” because Mrs. Willner never signed it, and that the Deed of Trust cannot be used to foreclose on the Property because the Note to which it refers does not exist. Because these unexhausted claims are functionally pleaded against the acts and omissions of WMB rather than against independent misconduct by Chase and U.S. Bank, § 1821(d)(13)(D)(ii) operates as a jurisdictional bar. Compare Rundgren v. Washington Mut. Bank, FA, 760 F.3d 1056, 1064–65 (9th Cir. 2014) (holding under nearly identical facts that plaintiffs’ claims were related to WMB’s acts and omissions, and that a “claimant cannot circumvent [FIRREA’s] exhaustion requirement by suing the purchasing bank based on the *105 conduct of the failed institution”), and Tellado v. IndyMac Mortg. Servs., 707 F.3d 275, 280 (3d Cir. 2013) (holding that § 1821(d)(13)(D)(ii) barred plaintiffs’ claims against assuming bank, where assuming bank refused to cancel a loan after being informed that the failed bank improperly originated it), with Am. Nat’l Ins., 642 F.3d at 1139 (holding that § 1821(d)(13)(D)(ii) did not bar judicial review of unexhausted claim against Chase where plaintiffs alleged that Chase improperly “pressured the federal government to seize” WMB and then profited by purchasing WMB’s assets at a low price).
+ 
+We also reject the Willners’ tangentially related argument that FIRREA’s exhaustion requirement doesn’t apply to Counts 1, 2, and 5 against U.S. Bank because U.S. Bank allegedly never acquired an asset that passed through the FDIC’s receivership estate. The Willners state that WaMu Asset Acceptance Corporation securitized the Note by depositing it into the 2006–AR15 Trust prior to WMB’s failure, and that U.S. Bank became trustee for the 2006–AR15 Trust as successor in interest to Bank of America (Bank of America became trustee after merging with LaSalle Bank, which was the trustee when WMB failed). Accordingly, the Willners argue, U.S. Bank’s status as trustee came free and clear of the receivership estate.
+ 
+The problem with this argument is that it’s irrelevant. FIRREA requires exhaustion of “any claim relating to any act or omission of [any depository institution for which the FDIC has been appointed receiver].” 12 U.S.C. § 1821(d)(13)(D)(ii). As described above, Counts 1 and 2 are functionally pleaded against WMB’s conduct. So is Count 5, which is based entirely upon allegations that WMBFA did not exist when the Willners closed on the Loan. FIRREA required that the Willners exhaust these claims.
+ 
+
+2.
+Next, we consider the Willners’ argument that Counts 1, 2, and 5 could not be resolved through FIRREA’s administrative process and thus were not subject to FIRREA’s exhaustion requirement. The only reason the Willners offer for why Count 2, a claim for breach of contract with a request for damages, could not be resolved through FIRREA’s administrative process is that it’s a claim for relief against Chase and U.S. Bank for their own wrongdoing. Having already rejected this argument, we turn to Counts 1 and 5—each a request for a declaratory judgment that, inter alia, the Deed of Trust can’t be used to foreclose on the Willners’ house.
+ 
+The Willners make two arguments for why those Counts couldn’t be resolved through FIRREA’s administrative process: (a) § 1821(d)’s administrative claims process does not accommodate requests for declaratory judgments, and (b) the FDIC could not have adjudicated Count 1 because it cannot order a remedy against solvent third-party institutions. We address them in turn.
+ 
+
+a.
+FIRREA does not define the word “claim,” Elmco Props., 94 F.3d at 919 n.1, and we have not done so. The Willners rely on that ambiguity to say that for the purposes of FIRREA a “claim” is only a request for payment from the assets of a failed bank, and thus their requests for declaratory judgments could not be resolved through FIRREA’s claims process. We do not agree.
+ 
+[10] [11]“Courts interpreting ... § 1821(d)(13)(D)(ii) have universally concluded that [it] bars only claims that could be brought under the administrative procedures of § 1821(d), not any claim at all *106 involving the FDIC.” Bank of New York v. First Millennium, Inc., 607 F.3d 905, 921 (2d Cir. 2010). We join those courts, and conclude that “[i]n FIRREA, the word ‘claim’ is a term-of-art that refers only to claims that are resolvable through the FIRREA administrative process.” Am. Nat’l Ins., 642 F.3d at 1142. To hold otherwise would risk making § 1821(d)(13)(D) “an independent and outright bar of jurisdiction rather than a mere exhaustion requirement.” Hudson United Bank v. Chase Manhattan Bank of Connecticut, N.A., 43 F.3d 843, 849 (3d Cir. 1994) (quotation marks omitted). Armed with a working definition of the word “claim,” we proceed to the question of whether § 1821(d)’s administrative claims process accommodates declaratory judgment actions. FIRREA’s vast grant of authority to the FDIC convinces us that it does.
+ 
+The FDIC, “as conservator or receiver, and by operation of law, succeed[s] to all rights, titles, powers, and privileges of the insured depository institution.” 12 U.S.C. § 1821(d)(2)(A)(i). In that position, the FDIC may “take over the assets of and operate the insured depository institution with all the powers of the members or shareholders, the directors, and the officers of the institution and conduct all business of the institution.” Id. § 1821(d)(2)(B)(i). The FDIC may also “exercise ... such incidental powers as shall be necessary to carry out” the powers and authorities otherwise granted to it under FIRREA. Id. § 1821(d)(2)(J)(i). Courts have interpreted the scope of this broad language in applying FIRREA’s anti-injunction provision, which states that “[e]xcept as provided in this section, no court may take any action, except at the request of the Board of Directors by regulation or order, to restrain or affect the exercise of powers or functions of the Corporation as a conservator or a receiver.” Id. § 1821(j).
+ 
+In Dittmer Properties, L.P. v. F.D.I.C., plaintiffs sued a bank and sought a declaratory judgment that a loan was void. 708 F.3d 1011, 1014–15 (8th Cir. 2013). Subsequently, the FDIC became receiver for that bank, and substituted itself as defendant. Id. at 1015. The FDIC then sold the note to a third-party bank, and moved to substitute the third-party bank for itself in the suit. Id. at 1015–16. The district court dismissed the claims for declaratory relief against the third-party bank under § 1821(j). Id. at 1016. The Eighth Circuit affirmed, employing a two-part test that asked (1) “whether the challenged action is within the receiver’s power or function [,]” and (2) whether the action requested would restrain or affect those powers. Id. at 1016–17. The court answered each question in the affirmative, noting that the challenged actions—“enforcing the note against the signers and the ability to sell the mortgaged property”—were “unquestionably within the receiver’s duties and powers.” Id. at 1017 (emphasis added)4; cf. Tillman v. Resolution Tr. Corp., 37 F.3d 1032, 1036 (4th Cir. 1994) (holding that FIRREA’s anti-injunction provision precluded court’s enjoining foreclosure proceedings initiated by the Resolution Trust Corporation because “[i]t is abundantly clear that the [Resolution Trust Corporation] is authorized to pursue ... foreclosure”). The FDIC’s power to enforce a *107 note, of course, implies the power to declare that it will not do so.
+ 
+Accordingly, we hold that a request for a declaratory judgment is a “claim” within the meaning of FIRREA because the FDIC can provide declaratory relief. Accord Rundgren, 760 F.3d at 1061–62 (stating that a request for a declaratory judgment is “susceptible of resolution” through FIRREA’s claims procedure); Westberg, 741 F.3d at 1305 (“[D]eclaratory relief against the FDIC is obtainable through the administrative process.”); cf. Dittmer Props., 708 F.3d at 1015 (FDIC reviewed and denied administrative claim for declaratory and injunctive relief). “Thus, [§ 1821(d)(13)(D)(ii)’s] reference to ‘any claim’ includes a request for declaratory relief.” Westberg, 741 F.3d at 1305; see also Tri–State Hotels, Inc. v. F.D.I.C., 79 F.3d 707, 715 (8th Cir. 1996) (“[D]eclaratory judgment actions are covered by FIRREA.”); Brown v. Resolution Tr. Corp., 30 F.3d 128, at *2 (4th Cir.1994) (“[FIRREA’s] exhaustion requirement applies to ... declaratory judgment actions.”).
+ 
+Our decision in Elmco Properties is not to the contrary. There, we considered whether the Resolution Trust Corporation’s failure to mail notice of a bank’s receivership to the plaintiff violated that plaintiff’s rights under the Due Process Clause of the Fifth Amendment. Elmco Props., 94 F.3d at 918–22. In a footnote, we approved the district court’s conclusion that “although [plaintiff’s] complaint technically requested [a] declaratory judgment that it owned the funds and an order requiring [the Resolution Trust Corporation] to refund them, it was in essence a claim for monetary relief.” Id. at 919 n.1. “Accordingly,” we wrote, “we have no trouble treating [plaintiff’s] facially declaratory and injunctive action as what it genuinely is, i.e., a ‘claim’ against the assets of” a failed bank. Id. We did not elaborate on our conclusion beyond referencing, but not adopting the reasoning of, a Third Circuit case which defined “ ‘claim’ as ‘an action asserting a right to payment,’ in contrast to a mere request for declaratory judgment.” Id. (emphasis omitted) (quoting Nat’l Union Fire Ins. Co. of Pittsburgh, Pa. v. City Sav., F.S.B., 28 F.3d 376, 387 (3d Cir. 1994)).
+ 
+To the extent that the footnote in Elmco Properties suggests that a “claim” can only be a request for payment, we view it as dicta. And, in any event, National Union Fire Insurance Company does not stand for the proposition that FIRREA’s administrative process cannot resolve requests for declaratory judgments. The Third Circuit held there that § 1821(d)(13)(D) was a jurisdictional bar and that the term “any action seeking a determination of rights” in subsection (i) included declaratory judgment actions, but “le[ft] for another day” the question of whether FIRREA “requires or permits the [FDIC] to consider claims not asserting a right to payment, such as” a request for a declaratory judgment. Nat’l Union Fire Ins., 28 F.3d at 387 n.12, 388–89. In other words, the Third Circuit left open the question of whether § 1821(d)(13)(D) was “an independent and outright bar of jurisdiction rather than a mere exhaustion requirement.” Hudson United Bank, 43 F.3d at 850 (quotation marks omitted) (explaining National Union Fire Insurance Company). Then, in Hudson United Bank, the Third Circuit held that “the administrative claims procedures and the jurisdictional bar have concurrent scope,” id. at 849–50, “which suggests that declaratory judgment actions could be raised in the administrative forum,” Tri–State Hotels, 79 F.3d at 715 n.12 (explaining Hudson United Bank).5
+ 
+*108 Finally, our decision creates no conflict between the meaning of the word “claim” in subsections (i) and (ii) of § 1821(d)(13)(D). Westberg, 741 F.3d at 1305 n.1. “Subsection (i) refers specifically to ‘any claim or action for payment.’ Subsection (ii)’s use of ‘claim,’ however, refers broadly to ‘any claim relating to any act or omission’ of the failed institution or the FDIC.” Id. “It is true that FIRREA is awkwardly written,” Hudson United Bank, 43 F.3d at 849, but we do not speculate on why Congress chose to qualify the word “claim” the way it did in subsection (i) and then complement that subsection’s reach by expanding it to “any action seeking a determination of rights,” 12 U.S.C. § 1821(d)(13)(D)(i). It suffices to say that the meaning of the word “claim” remains the same across the subsections—a term-of-art that refers only to claims that are resolvable through the FIRREA administrative process—and that subsection (ii) does not include language that limits its scope to a subset of claims the way that subsection (i) does.
+ 
+
+b.
+As for the Willners’ argument that the FDIC could not have adjudicated Count 1 because it cannot order a remedy against solvent third-party institutions, we have already addressed it to the extent we held above that Count 1 is functionally, if not formally, asserted against WMB rather than Chase and U.S. Bank. That would be the end of the story if Count 1, like Count 2, were a request for damages. It is undisputed that upon receiving a timely and meritorious claim for damages, the FDIC can resolve it by making a payment to the claimant. But there’s an argument to be made that the FDIC could not have adjudicated Count 1’s request for a declaratory judgment, even if the Willners had timely submitted it.
+ 
+That argument, which the Willners only partially develop, goes as follows. The Willners never had a chance to seek administrative relief while the FDIC held their Loan, because the FDIC became WMB’s receiver and subsequently executed the Purchase and Assumption Agreement with Chase on the same day in September 2008. Though Count 1 is based on WMB’s conduct, the declaration that the Willners seek through it—that there’s no right to foreclose under the Deed of Trust—nevertheless affects Chase and U.S. Bank.
+ 
+Thus, assuming that the Willners had submitted a timely and meritorious claim for the relief that Count 1 requests, the argument concludes, the FDIC wouldn’t have been able to resolve it because the FDIC’s declaration as to an asset cannot bind a third-party bank after that bank has acquired the asset from the FDIC. See Westberg, 741 F.3d at 1308 n.3 (acknowledging but declining to resolve the issue of whether FDIC’s declaration would bind a third-party acquiring bank, because FDIC didn’t assign its interest in plaintiffs’ loan until eight months after plaintiffs filed an unrelated claim through FIRREA’s claims process and five months after plaintiffs filed suit against FDIC for declaratory judgment that they had no obligation to make loan payments).
+ 
+We decline to decide whether the FDIC’s declaration would bind Chase and U.S. Bank. To do so, we would first have to blindly speculate about how the FDIC would have resolved the Willners’ request. We note that under the Purchase and Assumption *109 Agreement between the FDIC and Chase, liability for WMB’s acts and omissions stayed with the FDIC. By retaining liability for the acts upon which Count 1 is based, we assume without deciding that the FDIC could have resolved the Willners’ claim in a number of different ways.
+ 
+[12]Instead, we hold that by not timely submitting what is on its face a “claim” to the FIRREA claims process, the Willners waived their argument about how the FDIC would have resolved it. Cf. Rundgren, 760 F.3d at 1061–62 (concluding that plaintiffs’ claim against Chase for a declaratory judgment voiding a loan plaintiffs received from WMB, and which Chase later acquired from the FDIC through the Purchase and Assumption Agreement, was “susceptible of resolution through FIRREA’s administrative procedure”). To hold otherwise would “allow [plaintiffs] to circumvent FIRREA’s exhaustion requirement by declining to pursue the remedies available to them and later arguing that such remedies are ineffective.” Westberg, 741 F.3d at 1308 n.3.
+ 
+
+3.
+We next consider the Willners’ argument that Counts 1 and 5 are affirmative defenses and thus fall outside the ambit of FIRREA’s exhaustion requirement. In so doing, we resolve the portion of Mr. Willner’s pro se appeal which challenges the district court’s decision on subject matter jurisdiction, as Mr. Willner’s argument hinges on characterizing Counts 3, 6–9, and 16–19 as affirmative defenses.
+ 
+[13] [14]We have acknowledged in an unpublished opinion, and reiterate now, that “FIRREA’s exhaustion requirement does not encompass affirmative defenses,” Fed. Fin. Co. v. Knott, 217 F.3d 838, at *2 n.5 (4th Cir.2000); accord Rundgren, 760 F.3d at 1062; Bolduc v. Beal Bank, SSB, 167 F.3d 667, 671 (1st Cir. 1999); Tri–State Hotels, 79 F.3d at 715, but we have not weighed in on what constitutes an affirmative defense for the purpose of avoiding FIRREA’s exhaustion requirement. While there is a general consensus that, by its plain terms, § 1821(d)(13)(D) applies to “claims” and “actions” but not “defenses,” the circuits differ as to what counts as a “defense.”
+ 
+The Willners ask us to follow the First Circuit’s reasoning from Bolduc. There, plaintiffs sued a solvent bank which had acquired a failed bank’s assets from the FDIC, seeking to enjoin the solvent bank from foreclosing on their property. Bolduc, 167 F.3d at 670. The district court affirmed a magistrate judge’s preliminary injunction on grounds that plaintiffs had a likelihood of prevailing at trial on claims that the failed bank obtained plaintiff’s signature on mortgage notes in violation of federal law, and that mutual mistake invalidated contracts made between plaintiffs and the failed bank. Id. at 670–71. The solvent bank appealed, arguing that FIRREA required exhaustion of claims. Id. at 671.
+ 
+The First Circuit rejected the bank’s argument and adopted an expansive definition of what counts as an affirmative defense for the purpose of avoiding FIRREA’s exhaustion requirement:
+[W]ho happens to be the plaintiff is not controlling. The purpose of the exhaustion requirement is to make persons with claims against bank funds or property submit them promptly in a single administrative forum. One alleged merely to owe the bank money is not in this class, whether the debtor asks a court for a preemptive declaration or injunction against the bank claim or merely awaits suit by the bank and then defends.
+*110 Id. at 671–72. Applying that rationale, the First Circuit held that the plaintiffs did not need to satisfy FIRREA’s exhaustion requirement because they sought neither payment from a bank nor a determination of rights with respect to a bank asset. Id. at 672.
+ 
+We decline to follow Bolduc because its reasoning is “neither clear nor persuasive.” Rundgren, 760 F.3d at 1064. Though FIRREA contains two exhaustion requirements, subsections (i) and (ii) of § 1821(d)(13)(D), Bolduc considered only subsection (i), even though the plaintiffs’ suit was seemingly based upon the insolvent bank’s acts and omissions and thus within the ambit of subsection (ii). Moreover, the First Circuit recognized, but did nothing to resolve, the fact that “a successful injunction suit by the [plaintiffs] could be viewed as cutting off the bank’s rights to property currently in the bank’s possession,” thereby depriving the suit of its characterization as an affirmative defense. Bolduc, 167 F.3d at 672.
+ 
+We are more persuaded by the Ninth Circuit’s approach to this issue. In Rundgren, the plaintiffs argued that their lawsuit for a declaration against Chase voiding a loan that they had received from WMB and which Chase later acquired from the FDIC under the Purchase and Assumption Agreement was actually an affirmative defense to Chase’s foreclosure efforts. 760 F.3d at 1059–62 (explaining that plaintiffs sought to void the loan based on WMB’s fraudulent acts).
+ 
+The Ninth Circuit rejected that argument by construing the lawsuit as what it appeared to be on its face—“an independent action raising claims that provide a legal basis for enjoining” a nonjudicial foreclosure. Id. at 1062. The court refused to “recharacterize the [plaintiffs’] lawsuit for legal and equitable relief and damages as one raising affirmative defenses.” Id. at 1061–63; see also Am. First Fed., Inc. v. Lake Forest Park, Inc., 198 F.3d 1259, 1264–65 (11th Cir. 1999) (defining an affirmative defense as “a response to a plaintiff’s claim” and urging courts to “look beyond the nomenclature of a request for relief to ascertain whether ... the remedy sought by a party ... is encompassed by § 1821(d)(13)(D)”).
+ 
+We hold that a purported affirmative defense does not qualify as one for the purpose of avoiding FIRREA’s exhaustion requirement if, after looking beyond the nomenclature of the request for relief, the remedy sought is actually a “claim” within the meaning of FIRREA. Our holding fits with and facilitates FIRREA’s requirement that a claimant submit all claims against a failed institution to the FDIC before the “bar date.” See Elmco Props., 94 F.3d at 919. The First Circuit’s approach in Bolduc, by contrast, risks vastly expanding the universe of claims exempt from FIRREA’s exhaustion requirement, thereby undermining FIRREA’s purpose of “establish[ing] a comprehensive scheme for efficiently administering all claims resulting from failed savings and loan institutions.” Brady Dev., 14 F.3d at 1002.
+ 
+[15]Applying this rule to Counts 1 and 5 reveals that they are not affirmative defenses because each is a “claim” within the meaning of FIRREA. As we explained above, each is a request for a declaratory judgment that the Deed of Trust cannot be used to foreclose on the Willners’ house. Furthermore, Counts 1 and 5 are functionally pleaded against WMB’s conduct. Therefore, neither qualifies as an affirmative defense, and the Willners were required to exhaust those claims.
+ 
+[16]Application of this rule also resolves most of Mr. Willner’s pro se appeal as to Counts 3, 6–9, and 16–19. Mr. Willner tersely argues that each of these Counts is *111 an affirmative defense to U.S. Bank’s filing a proof of claim in bankruptcy court. We are satisfied that, with the exception of Count 3, each is functionally based upon WMB’s conduct and otherwise a “claim” within the meaning of FIRREA. Therefore, Counts 6–9 and 16–19 are not affirmative defenses, and Mr. Willner was required to exhaust them.
+ 
+[17]We also reject Mr. Willner’s related argument that U.S. Bank’s filing a proof of claim in bankruptcy court created subject matter jurisdiction over his claims in the district court. Here, Mr. Willner appears to invoke an exception to FIRREA’s exhaustion requirement that exists within the bankruptcy system for a debtor who has a proof of claim filed against him by a creditor and then is allowed to bring a claim against the creditor in bankruptcy court outside of FIRREA’s administrative process. See, e.g., In re Best Prod. Co., Inc., No. 93 CIV. 1115 (CSH), 1994 WL 141970, at *3 (S.D.N.Y. Apr. 20, 1994) (“[I]f [the FDIC] had not submitted a claim against the bankruptcy estate ... it also would not have waived its right to demand that [debtor] pursue administrative remedies within FIRREA prior to bringing its claim against [the FDIC] in the bankruptcy court.”). That exception is inapplicable though, because Mr. Willner is not in bankruptcy court.
+ 
+[18]As for Count 3, the district court erred in characterizing it as being based upon WMB’s conduct and dismissing it for lack of subject matter jurisdiction. See Am. Nat’l Ins., 642 F.3d at 1142 (noting that a suit “against a third-party bank for its own wrongdoing ... is not barred by” § 1821(d)(13)(D)(ii)). In that Count, the Willners allege that Chase and U.S. Bank acted negligently because they “knew that Mr. Willner had a claim of recoupment against the Note” but failed “to seek the aid and direction of a court of equity before foreclosing on” the Willners’ home. J.A. 82. Count 3 has nothing to do with WMB’s conduct. Instead, it revolves exclusively around the allegation that Chase and U.S. Bank had a duty to Mr. Willner based upon his “claim of recoupment.” This precise issue of an alleged duty based upon a “recoupment claim” reappears in Mr. Willner’s pro se appeal as to the dismissal of Count 15, which is another claim for negligence against Chase and U.S. Bank. Accordingly, we will address the merits of Mr. Willner’s appeal as to Count 3 when we consider Count 15.
+ 
+
+4.
+Before turning to Mr. Willner’s pro se appeal, however, we take up the Willners’ argument that requiring administrative exhaustion of Counts 1, 2, and 5 violates the Fifth Amendment’s Due Process Clause because their claims didn’t accrue until Chase threatened foreclosure, which was years after the December 2008 “bar date” to submit claims against WMB to the FDIC. This argument also fails.
+ 
+[19]A plaintiff cannot challenge her failure to exhaust claims with the FDIC on due process grounds if she has actual notice that the failed bank is in receivership or “kn[ows] enough about the situation to [have] ‘inquiry notice’ as to the details of the administrative process.” Elmco Props., 94 F.3d at 918–22 (finding a due process violation where the FDIC’s predecessor did not mail notice of a failed-bank’s receivership to plaintiff, and plaintiff did not otherwise have “sufficient knowledge to charge it with a duty to inquire further into the claims process”). Here, the Willners had actual notice that WMB was in receivership prior to the “bar date.” As described above, Counts 1, 2, and 5 are functionally, if not formally, pleaded against WMB’s acts and omissions. Furthermore, *112 those Counts are based upon conduct of WMB which took place before WMB entered into receivership.
+ 
+[20]Section 1821(d)(13)(D) does not contain a discovery rule that tolls claims. It is, by design, severe. The onus was on the Willners to timely submit any claims that they had against WMB to the FDIC, and they failed to do so. There is no constitutional violation here.
+ 
+* * *
+ 
+To sum up, the district court correctly dismissed Counts 1, 2, 5–9, and 16–19 for lack of subject matter jurisdiction because the Willners didn’t exhaust their claims with the FDIC. We now turn to the remainder of Mr. Willner’s pro se appeal, where he challenges the district court’s dismissal of claims for constructive fraud (Count 14) and negligence (Count 15) against Chase and U.S. Bank. The district court held that the Willners had failed to plausibly state a claim in either Count.
+ 
+
+B.
+Mr. Willner makes different arguments with respect to the dismissal of his constructive fraud and negligence claims. We address them in turn, applying de novo review. Partington v. Am. Int’l Specialty Lines Ins. Co., 443 F.3d 334, 338 (4th Cir. 2006).
+ 
+
+1.
+Mr. Willner argues that the district court erred by dismissing his constructive fraud claim in Count 14 because he pleaded false representations of material facts which Chase and U.S. Bank made to him as he was attempting to avoid foreclosure. We disagree.
+ 
+[21] [22]In general, “[t]o survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, ‘to state a claim to relief that is plausible on its face.’ ” Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007)). However, Federal Rule of Civil Procedure 9(b) provides that “[i]n alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake.” Fed. R. Civ. P. 9(b). “These circumstances are the time, place, and contents of the false representations, as well as the identity of the person making the misrepresentation and what he obtained thereby.” Weidman v. Exxon Mobil Corp., 776 F.3d 214, 219 (4th Cir. 2015) (quotation marks omitted).
+ 
+[23] [24]Under Virginia law, “the elements of a cause of action for constructive fraud are a showing by clear and convincing evidence that a false representation of a material fact was made innocently or negligently, and the injured party was damaged as a result of his reliance upon the misrepresentation.” Mortarino v. Consultant Eng’g Servs., Inc., 251 Va. 289, 467 S.E.2d 778, 782 (1996). The plaintiff must also show by “clear and convincing evidence that one has represented as true what is really false, in such a way as to induce a reasonable person to believe it, with the intent that the person will act upon this representation.” Id. (quotation marks omitted).
+ 
+[25]The Willners’ complaint doesn’t contain sufficient facts, accepted as true, to plausibly show a false representation of a material fact by Chase or U.S. Bank. According to the Willners’ complaint, a Chase agent directed Mr. Willner to a Chase website which included a suggestion that he list his home for sale. Mr. Willner also applied for a loan modification through the Making Home Affordable Program, and Chase eventually told him that he was *113 ineligible. These allegations do not constitute a false representation of a material fact. And while Chase’s review of Mr. Willner’s application for the Making Home Affordable Program allegedly went on for longer than it was supposed to, that delay doesn’t amount to concealment which constitutes actionable fraud, as there is no allegation of deliberate nondisclosure. See Van Deusen v. Snead, 247 Va. 324, 441 S.E.2d 207, 209–10 (1994) (“[C]oncealment, whether accomplished by word or conduct, may be the equivalent of a false representation, because concealment always involves deliberate nondisclosure....”).
+ 
+
+2.
+Mr. Willner also contends that the district court mistakenly dismissed his negligence claim (Count 15) because he plausibly alleged that Chase owed him a duty to act reasonably in modifying his loan. Once again, we disagree.
+ 
+[26] [27]Under Virginia law, “[t]he elements of an action in negligence are a legal duty on the part of the defendant, breach of that duty, and a showing that such breach was the proximate cause of injury, resulting in damage to the plaintiff.” Blue Ridge Serv. Corp. of Virginia v. Saxon Shoes, Inc., 271 Va. 206, 624 S.E.2d 55, 62 (2006). However, “[a] tort action cannot be based solely on a negligent breach of contract.” Richmond Metro. Auth. v. McDevitt St. Bovis, Inc., 256 Va. 553, 507 S.E.2d 344, 347 (1998). Though “a party can, in certain circumstances, show both a breach of contract and a tortious breach of duty[,] ... the duty tortiously or negligently breached must be a common law duty.” Id. (internal citation and quotation marks omitted).
+ 
+[28]There is, as Mr. Willner admits, no freestanding common law duty in Virginia to grant a loan modification, and thus “any obligations [Chase] might have had in processing [Mr. Willner’s] application for a loan modification could only have arisen from” a contractual relationship between the parties. Sherman v. Litton Loan Servicing, L.P., 796 F.Supp.2d 753, 764 (E.D. Va. 2011) (applying Virginia law). These facts, as Mr. Willner has pleaded them, can’t give rise to a tort claim in Virginia.
+ 
+Mr. Willner resists that conclusion by arguing that his “recoupment claim against the Note” created a duty for Chase to act reasonably and “seek the aid and direction of a court of equity before foreclosing on the Property.” Appellants’ Br. at 48. “ ‘Recoupment’ has been defined as the right of the defendant to cut down or diminish the claim of the plaintiff in consequence of [the plaintiff’s] failure to comply with some provision of the contract sought to be enforced, or because [the plaintiff] has violated some duty imposed upon him by law in the making or performance of that contract.” Virginia Fuel Corp. v. Lambert Coal Co., 291 Va. 89,781 S.E.2d 162, 172 (2016) (alterations in original) (quotation marks omitted). There’s no binding appellate case to support Mr. Willner’s argument,6 and we won’t make Virginia law by stretching the definition of “recoupment” to create a new duty in tort.7
+ 
+*114 We also reject Mr. Willner’s attempt to hold Chase CEO James Dimon liable for negligence. Mr. Willner makes two allegations against him: (1) Dimon signed a Consent Order with the Office of the Comptroller of the Currency, in which Chase agreed to correct problems with its servicing and foreclosure practices, and (2) Mrs. Willner tried to reach Dimon to discuss the foreclosure process but was only able to speak with one of his assistants. Mr. Willner’s allegations do not support liability for Dimon under any theory.
+ 
+* * *
+ 
+Finally, we turn to whether the district court erred by not addressing the Willners’ requests to amend their complaint.
+ 
+
+C.
+[29]The Willners argue that the district court abused its discretion by not providing a reason for denying their requests to amend. We review a district court’s denial of leave to amend a complaint for abuse of discretion. Cozzarelli v. Inspire Pharm. Inc., 549 F.3d 618, 630 (4th Cir. 2008).
+ 
+[30] [31]We find no such abuse on this record. The Willners never filed a formal motion to amend, but rather requested leave to amend in the conclusions of three oppositions to motions to dismiss and one surreply. Equally important, they’ve not shown, even on appeal, how amendment would cure the deficiencies in their complaint. “[W]here, as here, the plaintiff fails to formally move to amend and fails to provide the district court with any proposed amended complaint or other indication of the amendments he wishes to make, the district court [does] not abuse its discretion” in denying leave to amend. Estrella v. Wells Fargo Bank, N.A., 497 Fed.Appx. 361, 362 (4th Cir. 2012) (per curiam) (second alteration in original) (quotation marks omitted); accord Cozzarelli, 549 F.3d at 630–31 (finding no abuse of discretion in “declining to grant a motion [to amend] that was never properly made” but raised only in opposition to a motion to dismiss and in objections to the magistrate judge’s report).
+ 
+
+III.
+For the reasons given, we affirm the district court’s judgment.
+ 
+AFFIRMED
+ 
+All Citations
+849 F.3d 93
+Footnotes
+
+1
+
+The district court provided two alternative grounds for dismissing some or all of these Counts: (1) the Deed of Trust secures the Note, and (2) 12 U.S.C. § 1823(e) and the D’Oench, Duhme Doctrine bar claims “based on oral agreements or unrecorded side agreements with WMB.” We do not reach these alternative grounds in view of the resolution of this case on other bases.
+
+2
+
+In this case, the “bar date” to submit claims against WMB to the FDIC was December 30, 2008. The Willners filed Proofs of Claims with the FDIC after the district court issued its decision in 2015, and the FDIC disallowed them as untimely.
+
+3
+
+We recognize Appellees’ argument that parts of the Willners’ opening brief imply that they challenge the dismissal of only Counts 1, 2, 5, 14, and 15. However, we think that Mr. Willner makes enough of an argument with respect to Counts 3, 6–9, and 16–19 to avoid waiver. Furthermore, Mr. Willner purports to appeal the dismissal of Count 4, but he voluntarily dismissed that Count in its entirety before the district court. Thus, we do not consider it here.
+
+4
+
+The Eighth Circuit resolved the second question by reasoning that the challenged actions would restrain or affect the FDIC’s powers as receiver because, even though it had already sold the note, “if plaintiffs ... are allowed to attack the validity of a failed institution’s assets by suing the remote purchaser, such actions would certainly restrain or affect the FDIC’s powers to deal with the property it is charged with disbursing.” Dittmer Props., 708 F.3d at 1017. We do not reach this issue here.
+
+5
+
+The Third Circuit also did not interpret subsection (ii) of § 1821(d)(13)(D) in National Union Fire Insurance Company. Thus, that decision presents an incomplete analysis of the meaning of the word “claim.”
+
+6
+
+One trial court opinion, Bremer v. Bitner, provides that “a trustee has a duty to seek the aid and direction of a court of equity before foreclosing if the amount of the debt is uncertain.” 44 Va. Cir. 505, 512 (Va. Cir. Ct. 1996) (citing Morriss v. Virginia State Ins. Co., 90 Va. 370, 18 S.E. 843 (1893)). In our view, Bremer diverges from current Virginia law.
+
+7
+
+This same analysis resolves Mr. Willner’s appeal as to Count 3. That Count is a negligence claim which hinges on the allegation that Chase and U.S. Bank had a duty to Mr. Willner based upon his “claim of recoupment.” Because no such duty exists, Count 3 fails as a matter of law.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

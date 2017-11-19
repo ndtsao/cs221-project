@@ -1,0 +1,1144 @@
+
+
+
+
+
+Apple Inc. v. Samsung Electronics Co., Ltd.
+United States Court of Appeals, Federal Circuit. | May 18, 2015 | 786 F.3d 983 | 2015 WL 2343543
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Red Flag - Severe Negative Treatment
+ Reversed and Remanded by Samsung Electronics Co., Ltd. v. Apple Inc., U.S., December 6, 2016
+
+standard Citation:
+
+Apple Inc. v. Samsung Elecs. Co., 786 F.3d 983 (Fed. Cir. 2015)
+
+All Citations:
+
+786 F.3d 983, 114 U.S.P.Q.2d 1953
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Red Flag - Severe Negative Treatment
+ 	Reversed and Remanded by Samsung Electronics Co., Ltd. v. Apple Inc., U.S., December 6, 2016
+786 F.3d 983
+United States Court of Appeals,
+Federal Circuit.
+APPLE INC., a California corporation, Plaintiff–Appellee
+v.
+SAMSUNG ELECTRONICS CO., LTD., a Korean corporation, Samsung Electronics America, Inc., a New York corporation, Samsung Telecommunications America, LLC, a Delaware limited liability company, Defendants–Appellants.
+Nos. 2014–1335, 2015–1029.
+|
+May 18, 2015.
+Synopsis
+Background: Electronics manufacturer brought action against competitor, alleging infringement of various patents related to “smartphone” and other devices, and competitor brought counterclaims for infringement. After trial, jury entered verdict in favor of manufacturer. The United States District Court for the Northern District of California, Lucy H. Koh, J., 920 F.Supp.2d 1079, granted in part and denied in part competitor’s motion for judgment as a matter of law to overturn certain jury findings, and, 926 F.Supp.2d 1100, denied manufacturer’s motion to increase damages award and ordered new trial as to damages for certain products. Competitor appealed.
+ 
+Holdings: The Court of Appeals, Prost, Chief Judge, held that:
+ 
+[1] unregistered trade dress for physical design of certain of manufacturer’s products was functional;
+ 
+[2] registered trade dress for design of on-screen icons was functional;
+ 
+[3] court appropriately instructed jury;
+ 
+[4] excluding testimony to rebut allegation of copying was appropriate;
+ 
+[5] claim related to double tapping feature was not invalid for indefiniteness;
+ 
+[6] award of lost profits was appropriate; and
+ 
+[7] testimony of manufacturer’s expert provided sufficient evidence to supports reasonable royalty awards.
+ 
+Affirmed in part and reversed and remanded in part.
+ 
+
+
+West Headnotes (43)
+
+
+[1]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+
+
+In the Ninth Circuit, courts review de novo the denial of a motion for judgment as a matter of law.
+Cases that cite this headnote
+
+
+
+[2]
+
+Federal Civil ProcedureEvidence
+Federal Civil ProcedureConstruction of evidence
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(E)Notwithstanding Verdict;  Judgment as Matter of Law
+170Ak2608Evidence
+170Ak2608.1In general
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(E)Notwithstanding Verdict;  Judgment as Matter of Law
+170Ak2608Evidence
+170Ak2609Construction of evidence
+
+
+On a motion for judgment as a matter of law, the test is whether the evidence, construed in the light most favorable to the nonmoving party, permits only one reasonable conclusion, and that conclusion is contrary to that of the jury.
+Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsNew Trial, Rehearing, or Reconsideration
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3606New Trial, Rehearing, or Reconsideration
+170Bk3606(1)In general
+
+
+In the Ninth Circuit, courts review the denial of a motion for a new trial for an abuse of discretion.
+Cases that cite this headnote
+
+
+
+[4]
+
+Federal Civil ProcedureConstruction and Effect of Charge as a Whole
+
+
+170AFederal Civil Procedure
+170AXVTrial
+170AXV(G)Instructions
+170Ak2182Construction and Effect of Charge as a Whole
+170Ak2182.1In general
+
+
+In evaluating jury instructions, prejudicial error results when, looking to the instructions as a whole, the substance of the applicable law is not fairly and correctly covered.
+Cases that cite this headnote
+
+
+
+[5]
+
+Federal Civil ProcedureInstructions
+
+
+170AFederal Civil Procedure
+170AXVINew Trial
+170AXVI(B)Grounds
+170Ak2333Trial Errors
+170Ak2336Instructions
+
+
+In the Ninth Circuit, courts may order a new trial based on a jury instruction error only if the error was prejudicial.
+Cases that cite this headnote
+
+
+
+[6]
+
+Federal Civil ProcedureWeight of evidence
+
+
+170AFederal Civil Procedure
+170AXVINew Trial
+170AXVI(B)Grounds
+170Ak2338Verdict or Findings Contrary to Law or Evidence
+170Ak2339Weight of evidence
+
+
+In the Ninth Circuit, a motion for a new trial based on insufficiency of evidence may be granted only if the verdict is against the great weight of the evidence, or it is quite clear that the jury has reached a seriously erroneous result.
+Cases that cite this headnote
+
+
+
+[7]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+When reviewing Lanham Act claims, the Federal Circuit looks to the law of the regional circuit where the district court sits. Lanham Trade–Mark Act, § 1 et seq., 15 U.S.C.A. § 1051 et seq.
+1 Cases that cite this headnote
+
+
+
+[8]
+
+TrademarksForm, Features, or Design of Product as Marks;  Trade Dress
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1062In general
+
+
+Protection for trade dress exists to promote competition.
+Cases that cite this headnote
+
+
+
+[9]
+
+TrademarksFunctionality
+TrademarksDuration in general
+TrademarksRight to Use in General;  Exclusivity
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1064Functionality
+382TTrademarks
+382TVDuration and Termination of Rights
+382Tk1151Duration in general
+382TTrademarks
+382TVINature, Extent, and Disposition of Rights
+382Tk1182Right to Use in General;  Exclusivity
+382Tk1183In general
+
+
+Trademark law allows for a perpetual monopoly, and its use in the protection of physical details and designs of a product must be limited to those that are nonfunctional.
+Cases that cite this headnote
+
+
+
+[10]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1064Functionality
+
+
+Generally, a product feature is “functional,” and thus not protected under trademark law, if it is essential to the use or purpose of the article or if it affects the cost or quality of the article.
+2 Cases that cite this headnote
+
+
+
+[11]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1064Functionality
+
+
+Product feature need only have some utilitarian advantage to be considered “functional,” and thus not protected under trademark law.
+1 Cases that cite this headnote
+
+
+
+[12]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1064Functionality
+
+
+Trade dress, taken as a whole, is “functional,” and thus not protected under trademark law, if it is in its particular shape because it works better in this shape.
+1 Cases that cite this headnote
+
+
+
+[13]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1064Functionality
+
+
+To analyze the functionality of a trade dress, the Ninth Circuit applies four factors: (1) whether the design yields a utilitarian advantage, (2) whether alternative designs are available, (3) whether advertising touts the utilitarian advantages of the design, and (4) whether the particular design results from a comparatively simple or inexpensive method of manufacture. Lanham Act, § 43(c)(4)(A), 15 U.S.C.A. § 1125(c)(4)(A).
+1 Cases that cite this headnote
+
+
+
+[14]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1065Particular Cases or Products
+382Tk1065(3)Functionality
+
+
+Electronics manufacturer’s unregistered trade dress for physical design of certain “smartphone” products had utilitarian advantage, favoring finding under Ninth Circuit’s four-factor test for functionality that trade dress was functional, and thus not protected under trademark law, where manufacturer’s executive testified that design theme of these products was to create new, breakthrough design that was not only beautiful, but also simple and easy to use, and manufacturer conceded that trade dress improved quality of these products “in some respects.” Lanham Act, § 43(c)(4)(A), 15 U.S.C.A. § 1125(c)(4)(A).
+Cases that cite this headnote
+
+
+
+[15]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1064Functionality
+
+
+In Ninth Circuit’s four-factor test for functionality of a trade dress, the factor as to whether alternative designs are available requires that purported alternative designs offer exactly the same features as the asserted trade dress in order to show non-functionality. Lanham Act, § 43(c)(4)(A), 15 U.S.C.A. § 1125(c)(4)(A).
+Cases that cite this headnote
+
+
+
+[16]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1064Functionality
+
+
+Manufacturer does not have rights under trade dress law to compel its competitors to resort to alternative designs which have a different set of advantages and disadvantages.
+1 Cases that cite this headnote
+
+
+
+[17]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1065Particular Cases or Products
+382Tk1065(3)Functionality
+
+
+Electronics manufacturer cataloged mere existence of other design possibilities embodied in rejected prototypes of certain of its “smartphone” products, but it failed to show that any of these alternatives offered exact same features as asserted unregistered trade dress regarding physical design, as required to establish non-functionality under availability of alternative designs factor in Ninth Circuit’s four-factor test for functionality. Lanham Act, § 43(c)(4)(A), 15 U.S.C.A. § 1125(c)(4)(A).
+1 Cases that cite this headnote
+
+
+
+[18]
+
+TrademarksTrade dress
+
+
+382TTrademarks
+382TIXActions and Proceedings
+382TIX(C)Evidence
+382Tk1620Weight and Sufficiency
+382Tk1631Trade dress
+
+
+If a seller advertises the utilitarian advantages of a particular feature, this constitutes strong evidence of functionality under the Ninth Circuit’s four-factor test for the functionality of a trade dress. Lanham Act, § 43(c)(4)(A), 15 U.S.C.A. § 1125(c)(4)(A).
+2 Cases that cite this headnote
+
+
+
+[19]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1065Particular Cases or Products
+382Tk1065(3)Functionality
+
+
+Electronics manufacturer’s advertising touted utilitarian advantage of its unregistered trade dress for physical design of certain “smartphone” products, favoring finding under Ninth Circuit’s four-factor test for functionality that trade dress was functional, and thus not protected under trademark law, where substance of advertisements allowed viewers to learn how user interface of products’ touch screen worked. Lanham Act, § 43(c)(4)(A), 15 U.S.C.A. § 1125(c)(4)(A).
+Cases that cite this headnote
+
+
+
+[20]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1065Particular Cases or Products
+382Tk1065(3)Functionality
+
+
+Electronics manufacturer pointed to no evidence showing that certain of its “smartphone” products using subject trade dress regarding physical design were not relatively simple or inexpensive to manufacture, favoring finding under Ninth Circuit’s four-factor test for functionality that subject unregistered trade dress was functional, and thus not protected under trademark law, where any manufacturing challenges manufacturer experienced resulted from durability considerations, and not from design of unregistered trade dress, and durability advantages that resulted from these challenges were outside scope of manufacturer’s definition of its unregistered trade dress. Lanham Act, § 43(c)(4)(A), 15 U.S.C.A. § 1125(c)(4)(A).
+Cases that cite this headnote
+
+
+
+[21]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1065Particular Cases or Products
+382Tk1065(3)Functionality
+
+
+Electronics manufacturer’s unregistered trade dress for physical design of certain “smartphone” products was functional under Ninth Circuit’s four-factor test for functionality, and thus not protected under trademark law, even though manufacturer focused on “beauty” of its design, where manufacturer pursued both “beauty” and functionality, in that elements in unregistered trade dress also served purpose of improving usability. Lanham Act, § 43(c)(4)(A), 15 U.S.C.A. § 1125(c)(4)(A).
+Cases that cite this headnote
+
+
+
+[22]
+
+TrademarksNature or type of mark;  distinctiveness and strength
+
+
+382TTrademarks
+382TVIIRegistration
+382TVII(C)Effect of Federal Registration
+382Tk1358Particular Effects;  Rights Acquired
+382Tk1363Nature or type of mark;  distinctiveness and strength
+
+
+Federal trademark registration provides prima facie evidence of non-functionality, and thus protectability under trademark law, and this presumption shifts the burden of production to the defendant to provide evidence of functionality.
+Cases that cite this headnote
+
+
+
+[23]
+
+TrademarksNature or type of mark;  distinctiveness and strength
+
+
+382TTrademarks
+382TVIIRegistration
+382TVII(C)Effect of Federal Registration
+382Tk1358Particular Effects;  Rights Acquired
+382Tk1363Nature or type of mark;  distinctiveness and strength
+
+
+One the presumption of non-functionality for a federally registered trademark is overcome, the registration loses its legal significance on the issue of functionality.
+Cases that cite this headnote
+
+
+
+[24]
+
+TrademarksFunctionality
+
+
+382TTrademarks
+382TIIMarks Protected
+382Tk1061Form, Features, or Design of Product as Marks;  Trade Dress
+382Tk1065Particular Cases or Products
+382Tk1065(3)Functionality
+
+
+Electronics manufacturer’s federally registered trade dress claiming design details in each of sixteen icons on home screen of its “smartphone” products was functional, and thus not protected under trademark law, where icon designs, individually or viewed as a whole, promoted usability by communicating to users that selecting individual icons would trigger corresponding functionality.
+Cases that cite this headnote
+
+
+
+[25]
+
+PatentsConstruction and operation
+
+
+291Patents
+291VIIIDesign Patents
+291k2053Construction and operation
+
+
+Where a design contains both functional and nonfunctional elements, the scope of the claim must be construed in order to identify the non-functional aspects of the design shown in the patent.
+2 Cases that cite this headnote
+
+
+
+[26]
+
+PatentsInfringement
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2056In general
+
+
+It is the non-functional, design aspects that are pertinent to determinations of design patent infringement.
+5 Cases that cite this headnote
+
+
+
+[27]
+
+PatentsActions and remedies
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2057Actions and remedies
+
+
+In electronics manufacturer’s suit against competitor, alleging infringement of design patents related to certain “smartphone” products, jury instruction to compare accused devices to patented designs according to “the overall appearances” did not prejudice competitor, where instructions, as a whole, appropriately limited scope of design patents to “ornamental” elements through claim constructions, in that patents were each construed as claiming “the ornamental design” shown in patent figures.
+1 Cases that cite this headnote
+
+
+
+[28]
+
+Federal Civil ProcedureConstruction and Effect of Charge as a Whole
+
+
+170AFederal Civil Procedure
+170AXVTrial
+170AXV(G)Instructions
+170Ak2182Construction and Effect of Charge as a Whole
+170Ak2182.1In general
+
+
+Jury instructions are reviewed as a whole to determine whether the substance of the applicable law is not fairly and correctly covered, such that the alleged error is prejudicial.
+Cases that cite this headnote
+
+
+
+[29]
+
+PatentsInfringement
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2056In general
+
+
+Design patent is infringed if an ordinary observer would have been deceived, even in absence of actual deception.
+2 Cases that cite this headnote
+
+
+
+[30]
+
+PatentsInfringement
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2056In general
+
+
+Patent infringement analysis must include a comparison of the asserted design against the prior art; if the accused design has copied a particular feature of the claimed design that departs conspicuously from the prior art, the accused design is naturally more likely to be regarded as deceptively similar to the claimed design, and thus infringing.
+1 Cases that cite this headnote
+
+
+
+[31]
+
+PatentsActions and remedies
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2057Actions and remedies
+
+
+In electronics manufacturer’s suit against competitor, alleging infringement of design patents related to certain “smartphone” products, excluding testimony regarding competitor’s independent development of specific “smartphone” product predating manufacturer’s products, which competitor asserted to rebut allegation of copying, where witness did not design any accused device and was unaware that any accused device was based on particular product, such that testimony had limited probative value that was outweighed by likelihood that jury would consider testimony for prohibited purpose under earlier discovery sanction against competitor for failure to timely disclose this testimony. Fed.Rules Civ.Proc.Rule 37, 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[32]
+
+PatentsActions and remedies
+
+
+291Patents
+291VIIIDesign Patents
+291k2055Infringement
+291k2057Actions and remedies
+
+
+Clear language of statute providing for damages in design patent infringement cases precludes any requirement that the successful patentee show what portion of the infringer’s profit, or its own lost profit, is due to the asserted design. 35 U.S.C.A. § 289.
+3 Cases that cite this headnote
+
+
+
+[33]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k822Particular products or processes
+
+
+Patent claim related to “smartphone” user interface feature in which user’s double tapping on portion of electronic document caused portion to be enlarged and “substantially centered” on display was not invalid for indefiniteness; any complaint about lack of “objective standard [of] measure” sought level of precision beyond what was necessary under definiteness requirement, and skilled artisans could reasonably interpret phrase “substantially centered” to mean essentially centered except for marginal spacing to accommodate ancillary graphical user interface elements.
+7 Cases that cite this headnote
+
+
+
+[34]
+
+PatentsAmbiguity, Uncertainty, or Indefiniteness
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k816In general
+
+
+Definiteness requirement for patents mandates clarity, while recognizing that absolute precision is unattainable.
+5 Cases that cite this headnote
+
+
+
+[35]
+
+PatentsAmbiguity, Uncertainty, or Indefiniteness
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k816In general
+
+
+Patent is invalid for indefiniteness if its claims, read in light of the specification delineating the patent, and the prosecution history, fail to inform, with reasonable certainty, those skilled in the art about the scope of the invention.
+9 Cases that cite this headnote
+
+
+
+[36]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)3Evidence and Determination
+291k582Questions of law or fact
+
+
+Question as to whether patent claim describing computer-based method for distinguishing between scrolling and gesture operations on “smartphone” touch screen was invalid as anticipated was for jury in electronics manufacturer’s infringement suit against competitor.
+Cases that cite this headnote
+
+
+
+[37]
+
+PatentsProfits
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1900Profits
+291k1901In general
+
+
+To recover lost profits in an infringement case, the patent owner must show causation in fact, establishing that but for the infringement, he would have made additional profits.
+Cases that cite this headnote
+
+
+
+[38]
+
+PatentsProfits
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1900Profits
+291k1901In general
+
+
+When seeking to recover lost profits in an infringement case, the patent owner must take into account any alternatives available to the infringer, and market sales of an acceptable noninfringing substitute often suffice, alone, to defeat a case for lost profits.
+1 Cases that cite this headnote
+
+
+
+[39]
+
+PatentsProfits
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1900Profits
+291k1901In general
+
+
+Competitor merely asserted existence of non-infringing “smartphone” devices, but it did not assert that these devices constituted acceptable noninfringing substitute, as required to defeat award to electronics manufacturer of lost profits in its patent infringement suit, where, of two devices cited by competitor, one had significantly different features to manufacturer’s patented device, such as slide-out physical keyboard in combination with small, low-resolution screen, and other one was never sold by any United States carrier.
+Cases that cite this headnote
+
+
+
+[40]
+
+PatentsProfits
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)5Relief
+291k1900Profits
+291k1901In general
+
+
+Mere existence of a competing device does not make that device an acceptable substitute in analysis of whether to award patentee lost profits in an infringement case.
+1 Cases that cite this headnote
+
+
+
+[41]
+
+PatentsProfits and damages
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)3Evidence
+291k1825Weight and Sufficiency
+291k1834Profits and damages
+
+
+In damages retrial in electronics manufacturer’s patent infringement suit, testimony of manufacturer’s expert provided sufficient evidence to support jury’s reasonable royalty awards, where expert had sufficiently explained her analysis of demand factor in lost profit context, and she expressly testified that demand factor was also relevant to determination of reasonable royalty, and she also expressly considered cost to competitor of being out of market long enough to design around patents, profits attributable to competitor’s use of patented technology, and commercial relationship between parties.
+2 Cases that cite this headnote
+
+
+
+[42]
+
+PatentsIn general;  utility
+PatentsDesign
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+291Patents
+291XPatents Enumerated
+291k2092Design
+
+
+US Patent 7,469,381, US Patent 7,844,915. Cited.
+US Patent D593,087, US Patent D604,305, US Patent D618,677. Cited.
+Cases that cite this headnote
+
+
+
+[43]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 7,864,163. Valid in Part.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*988 William F. Lee, Wilmer Cutler Pickering Hale and Dorr LLP, Boston, MA, argued for plaintiff-appellee. Also represented by Andrew J. Danford, Mark Christopher Fleming, Eric Fletcher, Lauren B. Fletcher, Sarah R. Frazier, Kevin Scott Prussia; James Quarles, III, Mark D. Selwyn, Thomas Gregory Sprankling, Washington, DC; Rachel Krevans, Christopher Robinson, Nathaniel Bryan Sabri, Ruth N. Borenstein, Morrison & Foerster LLP, San Francisco, CA.
+Kathleen M. Sullivan, Quinn Emanuel Urquhart & Sullivan, LLP, New York, N.Y., argued for defendants-appellants. Also represented by William Adams; Robert Jason Becher, Susan Rachel Estrich, B. Dylan Proctor, Michael Thomas Zeller, Los Angeles, CA; Victoria Fishman Maroulis, Redwood Shores, CA; Kevin Alexander Smith, San Francisco, CA.
+Erik Scott Jaffe, Erik S. Jaffe, P.C., Washington, DC, for amicus curiae Hispanic Leadership Fund.
+Tim Delaney, Brinks Gilson & Lione, Chicago, IL, for amicus curiae National Grange of the Order of the Patrons of Husbandry. Also represented by Laura A. Lydigsen.
+Mark A. Lemley, Durie Tangri LLP, San Francisco, CA, for amici curiae David Abrams, Sarah Burstein, Michael A. Carrier, Bernard Chao, Andrew Chin, Ralph D. Clifford, Jorge Contreras, Thomas Cotter, Robin Feldman, William Gallagher, Jon M. Garon, Shubha Ghosh, Amy Landers, Mark A. Lemley, Oskar Liivak, Brian J. Love, Jonathan Masur, Stephen McJohn, Mark P. McKenna, Tyler T. Ochoa, Michael Risch, Jason Michael Schultz, Lea Shaver, Jessica Silbey, Katherine J. Strandburg, Rebecca Tushnet, Ryan Vacca.
+Joseph Carl Cecere, Jr., Cecere PC, Dallas, TX, for amicus curiae The National Black Chamber of Commerce.
+Matthew Schruers, Computer & Communications Industry Association, Washington, DC, for amicus curiae Computer & Communications Industry Association.
+Mark David Janis, Indiana University Maurer School of Law, Bloomington, IN, for amici curiae Jason J. Du Mont, Mark David Janis.
+Perry J. Saidman, Saidman DesignLaw Group, Silver Spring, MD, for amici curiae Design Ideas, Ltd., Novo Nordisk Inc., Lutron Electronics, Inc., Nuvasive, Inc., Method Products, PBC, Oakley, Inc., Deckers Outdoor Corporation, Kohler Company.
+Joel Sayres, Faegre Baker Daniels LLP, Denver, CO, for amicus curiae Crocs, Inc.
+Brian Buroker, Gibson, Dunn & Crutcher LLP, Washington, DC, for amici curiae Michael McCoy, Steven Carl Visser, Lorraine Justice, Jim Agutter, Prasad Boradkar, James G. Budd, Rama Chorpash, Gregory Bryant Darby, Ed Dorsa, Tom *989 Gattis, Allan Hastings, James Kaufman, Brook Kennedy, Haig Khachatoorian, Carol Joan Lasch, Thornton Lothrop, Tom Matano, George L. McCain, Zhenyu Cheryl Qian, Lance G. Rake, James Morley Read, Kevin Reeder, Jinseup Shin, aka Ted Shin, Bruce M. Tharp, Gregory Thomas, Richard Wilfred Yelle. Also represented by Howard S. Hogan, Mark Andrew Perry, Sarah Sladic, Lucas C. Townsend; Theodore J. Boutrous, Jr., Los Angeles, CA; Hervey Mark Lyon, Palo Alto, CA.
+Mark S. Davies, Orrick, Herrington & Sutcliffe LLP, Washington, DC, for amici curiae Charles L. Mauro, James Douglas Alsup, Jr., Charles Austen Angell, Daniel W. Ashcraft, Joseph M. Ballay, Alex Bally, Michelle S. Berryman, Eric Beyer, Robert Ian Blaich, Gordon Paul Bruce, Robert Brunner, William Bullock, Bruce Claxton, Del Coates, Robert J. Cohn, James Couch, George Russell Daniels, Mark Dziersk, John Edson, Gerard Furbershaw, Carroll Gantz, John Leavitt Gard, Michael Garten, Donald M. Genaro, Betsy Goodrich, Stephen G. Hauser, James J. Lesko, Scott David Mason, Patricia Moore, Louis Nelson, Christopher J. Parke, Nancy Perkins, Gordon Perry, Samuel B. Petre, Dale Raymond, Raymond W. Riley, Brian Roderman, Bryce G. Rutter, Andrew Serbinski, Ritasue Siegel, Paul Specht, Budd Steinhilber, John V. Stram, Kerstin Nelsen Strom, Mathieu Turpault, Gary Van Deursen, Frank Von Holzhausen, Sohrab Vossoughi, Arnold Wasserman, Allan E. Weaver, Edmund A. Weaver, Robert Welsh, Stephen B. Wilcox, Angela Yeh. Also represented by Katherine M. Kopp; Rachel Wainer Apter, New York, N.Y.; Will Melehani, Irvine, CA.
+Before PROST, Chief Judge, O’MALLEY and CHEN, Circuit Judges.
+Opinion
+PROST, Chief Judge.
+
+Samsung Electronics Co., Ltd., Samsung Electronics America, Inc., Samsung Telecommunications America, LLC (collectively, “Samsung”) appeal from a final judgment of the U.S. District Court for the Northern District of California in favor of Apple Inc. (“Apple”).
+ 
+A jury found that Samsung infringed Apple’s design and utility patents and diluted Apple’s trade dresses. For the reasons that follow, we affirm the jury’s verdict on the design patent infringements, the validity of two utility patent claims, and the damages awarded for the design and utility patent infringements appealed by Samsung. However, we reverse the jury’s findings that the asserted trade dresses are protectable. We therefore vacate the jury’s damages awards against the Samsung products that were found liable for trade dress dilution and remand for further proceedings consistent with this opinion.
+ 
+
+BACKGROUND
+Apple sued Samsung in April 2011. On August 24, 2012, the first jury reached a verdict that numerous Samsung smartphones infringed and diluted Apple’s patents and trade dresses in various combinations and awarded over $1 billion in damages.
+ 
+The infringed design patents are U.S. Design Patent Nos. D618,677 (“D′677 patent”), D593,087 (“D′087 patent”), and D604,305 (“D′305 patent”), which claim certain design elements embodied in Apple’s iPhone. The infringed utility patents are U.S. Patent Nos. 7,469,381 (“′381 patent”), 7,844,915 (“′915 patent”), and 7,864,163 (“′163 patent”), which claim certain features in the iPhone’s user interface. The diluted trade dresses are Trademark Registration No. 3,470,983 (“′983 trade dress”) and an unregistered trade dress *990 defined in terms of certain elements in the configuration of the iPhone.
+ 
+Following the first jury trial, the district court upheld the jury’s infringement, dilution, and validity findings over Samsung’s post-trial motion. The district court also upheld $639,403,248 in damages, but ordered a partial retrial on the remainder of the damages because they had been awarded for a period when Samsung lacked notice of some of the asserted patents. The jury in the partial retrial on damages awarded Apple $290,456,793, which the district court upheld over Samsung’s second post-trial motion. On March 6, 2014, the district court entered a final judgment in favor of Apple, and Samsung filed a notice of appeal. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+[1] [2] We review the denial of Samsung’s post-trial motions under the Ninth Circuit’s procedural standards. See Revolution Eyewear, Inc. v. Aspex Eyewear, Inc., 563 F.3d 1358, 1370–71 (Fed.Cir.2009). The Ninth Circuit reviews de novo a denial of a motion for judgment as a matter of law. Id. “The test is whether the evidence, construed in the light most favorable to the nonmoving party, permits only one reasonable conclusion, and that conclusion is contrary to that of the jury.” Id. (citing Theme Promotions, Inc. v. News Am. Mktg. FSI, 546 F.3d 991, 999 (9th Cir.2008)).
+ 
+[3] [4] [5] [6] The Ninth Circuit reviews a denial of a motion for a new trial for an abuse of discretion. Revolution Eyewear, 563 F.3d at 1372. “In evaluating jury instructions, prejudicial error results when, looking to the instructions as a whole, the substance of the applicable law was [not] fairly and correctly covered.” Gantt v. City of Los Angeles, 717 F.3d 702, 707 (9th Cir.2013) (quoting Swinton v. Potomac Corp., 270 F.3d 794, 802 (9th Cir.2001)) (alteration in original). The Ninth Circuit orders a new trial based on jury instruction error only if the error was prejudicial. Id. A motion for a new trial based on insufficiency of evidence may be granted “only if the verdict is against the great weight of the evidence, or it is quite clear that the jury has reached a seriously erroneous result.” Incalza v. Fendi N. Am., Inc., 479 F.3d 1005, 1013 (9th Cir.2007) (internal quotation marks omitted).
+ 
+Samsung appeals numerous legal and evidentiary bases for the liability findings and damages awards in the three categories of intellectual property asserted by Apple: trade dresses, design patents, and utility patents. We address each category in turn.
+ 
+
+I. Trade Dresses
+[7] The jury found Samsung liable for the likely dilution of Apple’s iPhone trade dresses under the Lanham Act. When reviewing Lanham Act claims, we look to the law of the regional circuit where the district court sits. ERBE Elektromedizin GmbH v. Canady Tech. LLC, 629 F.3d 1278, 1287 (Fed.Cir.2010). We therefore apply Ninth Circuit law.
+ 
+[8] The Ninth Circuit has explained that “[t]rade dress is the totality of elements in which a product or service is packaged or presented.” Stephen W. Boney, Inc. v. Boney Servs., Inc., 127 F.3d 821, 828 (9th Cir.1997). The essential purpose of a trade dress is the same as that of a trademarked word: to identify the source of the product. 1 McCarthy on Trademarks and Unfair Competition § 8:1 (4th ed.) (“[L]ike a word asserted to be a trademark, the elements making up the alleged trade dress must have been used in such a manner as to denote product source.”). In this respect, “protection for *991 trade dress exists to promote competition.” TrafFix Devices, Inc. v. Mktg. Displays, Inc., 532 U.S. 23, 28, 121 S.Ct. 1255, 149 L.Ed.2d 164 (2001).
+ 
+[9] The protection for source identification, however, must be balanced against “a fundamental right to compete through imitation of a competitor’s product....” Leatherman Tool Grp., Inc. v. Cooper Indus., Inc., 199 F.3d 1009, 1011–12 (9th Cir.1999). This “right can only be temporarily denied by the patent or copyright laws.” Id. In contrast, trademark law allows for a perpetual monopoly and its use in the protection of “physical details and design of a product” must be limited to those that are “nonfunctional.” Id. at 1011–12; see also Qualitex Co. v. Jacobson Prods. Co., 514 U.S. 159, 164–65, 115 S.Ct. 1300, 131 L.Ed.2d 248 (1995) (“If a product’s functional features could be used as trademarks, however, a monopoly over such features could be obtained without regard to whether they qualify as patents and could be extended forever (because trademarks may be renewed in perpetuity).”). Thus, it is necessary for us to determine first whether Apple’s asserted trade dresses, claiming elements from its iPhone product, are nonfunctional and therefore protectable.
+ 
+[10] [11] [12] “In general terms, a product feature is functional if it is essential to the use or purpose of the article or if it affects the cost or quality of the article.” Inwood Labs., Inc. v. Ives Labs., Inc., 456 U.S. 844, 850 n. 10, 102 S.Ct. 2182, 72 L.Ed.2d 606 (1982). “A product feature need only have some utilitarian advantage to be considered functional.” Disc Golf Ass’n v. Champion Discs, Inc., 158 F.3d 1002, 1007 (9th Cir.1998). A trade dress, taken as a whole, is functional if it is “in its particular shape because it works better in this shape.” Leatherman, 199 F.3d at 1013.
+ 
+“[C]ourts have noted that it is, and should be, more difficult to claim product configuration trade dress than other forms of trade dress.” Id. at 1012–13 (discussing cases). Accordingly, the Supreme Court and the Ninth Circuit have repeatedly found product configuration trade dresses functional and therefore non-protectable. See, e.g., TrafFix, 532 U.S. at 26–27, 35, 121 S.Ct. 1255 (reversing the Sixth Circuit’s reversal of the district court’s grant of summary judgment that a trade dress on a dual-spring design for temporary road sign stands was functional); Secalt S.A. v. Wuxi Shenxi Const. Mach. Co., 668 F.3d 677, 687 (9th Cir.2012) (affirming summary judgment that a trade dress on a hoist design was functional); Disc Golf, 158 F.3d at 1006 (affirming summary judgment that a trade dress on a disc entrapment design was functional).
+ 
+Moreover, federal trademark registrations have been found insufficient to save product configuration trade dresses from conclusions of functionality. See, e.g., Talking Rain Beverage Co. v. S. Beach Beverage, 349 F.3d 601, 602 (9th Cir.2003) (affirming summary judgment that registered trade dress covering a bottle design with a grip handle was functional); Tie Tech, Inc. v. Kinedyne Corp., 296 F.3d 778, 782–83 (9th Cir.2002) (affirming summary judgment that registered trade dress covering a handheld cutter design was functional). The Ninth Circuit has even reversed a jury verdict of non-functionality of a product configuration trade dress. See Leatherman, 199 F.3d at 1013 (reversing jury verdict that a trade dress on the overall appearance of a pocket tool was non-functional). Apple conceded during oral argument that it had not cited a single Ninth Circuit case that found a product configuration trade dress to be non-functional. Oral Arg. 49:0630, available at http://www. cafc.uscourts.gov/oral-argument-recordings/14–1335/all.
+ 
+*992 The Ninth Circuit’s high bar for non-functionality frames our review of the two iPhone trade dresses on appeal. While the parties argue without distinguishing the two trade dresses, the unregistered trade dress and the registered ′983 trade dress claim different details and are afforded different evidentiary presumptions under the Lanham Act. We analyze the two trade dresses separately below.
+ 
+
+A. Unregistered Trade Dress
+Apple claims elements from its iPhone 3G and 3GS products to define the asserted unregistered trade dress:
+a rectangular product with four evenly rounded corners;
+a flat, clear surface covering the front of the product;
+a display screen under the clear surface;
+substantial black borders above and below the display screen and narrower black borders on either side of the screen; and
+when the device is on, a row of small dots on the display screen, a matrix of colorful square icons with evenly rounded corners within the display screen, and an unchanging bottom dock of colorful square icons with evenly rounded corners set off from the display’s other icons.
+Appellee’s Br. 10–11. As this trade dress is not registered on the principal federal trademark register, Apple “has the burden of proving that the claimed trade dress, taken as a whole, is not functional....” See 15 U.S.C. § 1125(c)(4)(A).
+ 
+[13] Apple argues that the unregistered trade dress is nonfunctional under each of the Disc Golf factors that the Ninth Circuit uses to analyze functionality: “(1) whether the design yields a utilitarian advantage, (2) whether alternative designs are available, (3) whether advertising touts the utilitarian advantages of the design, and (4) whether the particular design results from a comparatively simple or inexpensive method of manufacture.” See Disc Golf, 158 F.3d at 1006. However, the Supreme Court has more recently held that “a feature is also functional ... when it affects the cost or quality of the device.” See TrafFix, 532 U.S. at 33, 121 S.Ct. 1255. The Supreme Court’s holding was recognized by the Ninth Circuit as “short circuiting some of the Disc Golf factors.” Secalt, 668 F.3d at 686–87. Nevertheless, we explore Apple’s contentions on each of the Disc Golf factors and conclude that there was insufficient evidence to support a jury finding in favor of non-functionality on any factor.
+ 
+
+1. Utilitarian Advantage
+[14] Apple argues that “the iPhone’s physical design did not ‘contribute unusually ... to the usability’ of the device.” Appellee’s Br. 61 (quoting J.A. 41095:11–12) (alteration in original). Apple further contends that the unregistered trade dress was “developed ... not for ‘superior performance.’ ” Id. at 62 n. 18. Neither “unusual usability” nor “superior performance,” however, is the standard used by the Ninth Circuit to determine whether there is any utilitarian advantage. The Ninth Circuit “has never held, as [plaintiff] suggests, that the product feature must provide superior utilitarian advantages. To the contrary, [the Ninth Circuit] has suggested that in order to establish nonfunctionality the party with the burden must demonstrate that the product feature serves no purpose other than identification.” Disc Golf, 158 F.3d at 1007 (internal quotation marks omitted).
+ 
+The requirement that the unregistered trade dress “serves no purpose other than identification” cannot be reasonably inferred from the evidence. Apple emphasizes *993 a single aspect of its design, beauty, to imply the lack of other advantages. But the evidence showed that the iPhone’s design pursued more than just beauty. Specifically, Apple’s executive testified that the theme for the design of the iPhone was:
+to create a new breakthrough design for a phone that was beautiful and simple and easy to use and created a beautiful, smooth surface that had a touchscreen and went right to the rim with the bezel around it and looking for a look that we found was beautiful and easy to use and appealing.
+J.A. 40722–23 (emphases added).
+ 
+Moreover, Samsung cites extensive evidence in the record that showed the usability function of every single element in the unregistered trade dress. For example, rounded corners improve “pocketability” and “durability” and rectangular shape maximizes the display that can be accommodated. J.A. 40869–70; J.A. 42612–13. A flat clear surface on the front of the phone facilitates touch operation by fingers over a large display. J.A. 42616–17. The bezel protects the glass from impact when the phone is dropped. J.A. 40495. The borders around the display are sized to accommodate other components while minimizing the overall product dimensions. J.A. 40872. The row of dots in the user interface indicates multiple pages of application screens that are available. J.A. 41452–53. The icons allow users to differentiate the applications available to the users and the bottom dock of unchanging icons allows for quick access to the most commonly used applications. J.A. 42560–61; J.A. 40869–70. Apple rebuts none of this evidence.
+ 
+Apple conceded during oral argument that its trade dress “improved the quality [of the iPhone] in some respects.” Oral Arg. 56:09–17. It is thus clear that the unregistered trade dress has a utilitarian advantage. See Disc Golf, 158 F.3d at 1007.
+ 
+
+2. Alternative Designs
+[15] [16] The next factor requires that purported alternative designs “offer exactly the same features” as the asserted trade dress in order to show non-functionality. Tie Tech, 296 F.3d at 786 (quoting Leatherman, 199 F.3d at 1013–14). A manufacturer “does not have rights under trade dress law to compel its competitors to resort to alternative designs which have a different set of advantages and disadvantages.” Id.
+ 
+[17] Apple, while asserting that there were “numerous alternative designs,” fails to show that any of these alternatives offered exactly the same features as the asserted trade dress. Appellee’s Br. 62. Apple simply catalogs the mere existence of other design possibilities embodied in rejected iPhone prototypes and other manufacturers’ smartphones. The “mere existence” of other designs, however, does not prove that the unregistered trade dress is non-functional. See Talking Rain, 349 F.3d at 604.
+ 
+
+3. Advertising of Utilitarian Advantages
+[18] “If a seller advertises the utilitarian advantages of a particular feature, this constitutes strong evidence of functionality.” Disc Golf, 158 F.3d at 1009. An “inference” of a product feature’s utility in the plaintiff’s advertisement is enough to weigh in favor of functionality of a trade dress encompassing that feature. Id.
+ 
+[19] Apple argues that its advertising was “[f]ar from touting any utilitarian advantage of the iPhone design....” Appellee’s Br. 60. Apple relies on its executive’s testimony that an iPhone advertisement, portraying “the distinctive design very *994 clearly,” was based on Apple’s “product as hero” approach. Id. (quoting J.A. 40641–42; 40644:22). The “product as hero” approach refers to Apple’s stylistic choice of making “the product the biggest, clearest, most obvious thing in [its] advertisements, often at the expense of anything else around it, to remove all the other elements of communication so [the viewer] see[s] the product most predominantly in the marketing.” J.A. 40641–42.
+ 
+Apple’s arguments focusing on its stylistic choice, however, fail to address the substance of its advertisements. The substance of the iPhone advertisement relied upon by Apple gave viewers “the ability to see a bit about how it might work,” for example, “how flicking and scrolling and tapping and all these multitouch ideas simply [sic].” J.A. 40644:23–40645:2. Another advertisement cited by Apple similarly displayed the message, “[t]ouching is believing,” under a picture showing a user’s hand interacting with the graphical user interface of an iPhone. J.A. 24896. Apple fails to show that, on the substance, these demonstrations of the user interface on iPhone’s touch screen involved the elements claimed in Apple’s unregistered trade dress and why they were not touting the utilitarian advantage of the unregistered trade dress.
+ 
+
+4. Method of Manufacture
+The fourth factor considers whether a functional benefit in the asserted trade dress arises from “economies in manufacture or use,” such as being “relatively simple or inexpensive to manufacture.” Disc Golf, 158 F.3d at 1009.
+ 
+[20] Apple contends that “[t]he iPhone design did not result from a ‘comparatively simple or inexpensive method of manufacture’ ” because Apple experienced manufacturing challenges. Appellee’s Br. 61 (quoting Talking Rain, 349 F.3d at 603). Apple’s manufacturing challenges, however, resulted from the durability considerations for the iPhone and not from the design of the unregistered trade dress. According to Apple’s witnesses, difficulties resulted from its choices of materials in using “hardened steel”; “very high, high grade of steel”; and, “glass that was not breakable enough, scratch resistant enough.” Id. (quoting J.A. 40495–96, 41097). These materials were chosen, for example, for the iPhone to survive a drop:
+If you drop this, you don’t have to worry about the ground hitting the glass. You have to worry about the band of steel surrounding the glass hitting the glass.... In order to, to make it work, we had to use very high, high grade of steel because we couldn’t have it sort of deflecting into the glass.
+J.A. 40495–96. The durability advantages that resulted from the manufacturing challenges, however, are outside the scope of what Apple defines as its unregistered trade dress. For the design elements that comprise Apple’s unregistered trade dress, Apple points to no evidence in the record to show they were not relatively simple or inexpensive to manufacture. See Disc Golf, 158 F.3d at 1009 (“[Plaintiff], which has the burden of proof, offered no evidence that the [asserted] design was not relatively simple or inexpensive to manufacture.”).
+ 
+[21] In sum, Apple has failed to show that there was substantial evidence in the record to support a jury finding in favor of non-functionality for the unregistered trade dress on any of the Disc Golf factors. Apple fails to rebut the evidence that the elements in the unregistered trade dress serve the functional purpose of improving usability. Rather, Apple focuses on the “beauty” of its design, even though Apple pursued both “beauty” and functionality in the design of the iPhone. We therefore *995 reverse the district court’s denial of Samsung’s motion for judgment as a matter of law that the unregistered trade dress is functional and therefore not protectable.
+ 
+
+B. The Registered ′983 Trade Dress
+[22] [23] In contrast to the unregistered trade dress, the ′983 trade dress is a federally registered trademark. The federal trademark registration provides “prima facie evidence” of non-functionality. Tie Tech, 296 F.3d at 782–83. This presumption “shift[s] the burden of production to the defendant ... to provide evidence of functionality.” Id. at 783. Once this presumption is overcome, the registration loses its legal significance on the issue of functionality. Id. (“In the face of sufficient and undisputed facts demonstrating functionality, ... the registration loses its evidentiary significance.”).
+ 
+[24] The ′983 trade dress claims the design details in each of the sixteen icons on the iPhone’s home screen framed by the iPhone’s rounded-rectangular shape with silver edges and a black background:
+The first icon depicts the letters “SMS” in green inside a white speech bubble on a green background;
+...
+the seventh icon depicts a map with yellow and orange roads, a pin with a red head, and a red-and-blue road sign with the numeral “280” in white;
+...
+the sixteenth icon depicts the distinctive configuration of applicant’s media player device in white over an orange background.
+′983 trade dress (omitting thirteen other icon design details for brevity).
+ 
+It is clear that individual elements claimed by the ′983 trade dress are functional. For example, there is no dispute that the claimed details such as “the seventh icon depicts a map with yellow and orange roads, a pin with a red head, and a red-and-blue road sign with the numeral ‘280’ in white” are functional. See id. Apple’s user interface expert testified on how icon designs promote usability. This expert agreed that “the whole point of an icon on a smartphone is to communicate to the consumer using that product, that if they hit that icon, certain functionality will occur on the phone.” J.A. 41458–59. The expert further explained that icons are “[v]isual shorthand for something” and that “rectangular containers” for icons provide “more real estate” to accommodate the icon design. J.A. 41459, 41476. Apple rebuts none of this evidence.
+ 
+Apple contends instead that Samsung improperly disaggregates the ′983 trade dress into individual elements to argue functionality. But Apple fails to explain how the total combination of the sixteen icon designs in the context of iPhone’s screen-dominated rounded-rectangular shape—all part of the iPhone’s “easy to use” design theme—somehow negates the undisputed usability function of the individual elements. See J.A. 40722–23. Apple’s own brief even relies on its expert’s testimony about the “instant recognizability due to highly intuitive icon usage” on “the home screen of the iPhone.” J.A. 41484; Appellee’s Br. 43, 70, 71 (quoting J.A. 41484). Apple’s expert was discussing an analysis of the iPhone’s overall combination of icon designs that allowed a user to recognize quickly particular applications to use. J.A. 41484, 25487. The iPhone’s usability advantage from the combination of its icon designs shows that the ′983 trade dress viewed as a whole “is nothing other than the assemblage of functional parts....” See Tie Tech, 296 F.3d at 786 (quoting Leatherman, 199 F.3d at 1013). There is no “separate ‘overall appearance’ which is non-functional.” Id. (quoting *996 Leatherman, 199 F.3d at 1013). The undisputed facts thus demonstrate the functionality of the ′983 trade dress. “In the face of sufficient and undisputed facts demonstrating functionality, as in our case, the registration loses its evidentiary significance.” See id. at 783.
+ 
+The burden thus shifts back to Apple. See id. But Apple offers no analysis of the icon designs claimed by the ′983 trade dress. Rather, Apple argues generically for its two trade dresses without distinction under the Disc Golf factors. Among Apple’s lengthy citations to the record, we can find only two pieces of information that involve icon designs. One is Apple’s user interface expert discussing other possible icon designs. The other is a citation to a print iPhone advertisement that included the icon designs claimed in the ′983 trade dress. These two citations, viewed in the most favorable light to Apple, would be relevant to only two of the Disc Golf factors: “alternative design” and “advertising.” But the cited evidence suffers from the same defects as discussed in subsections I.A.2 and I.A.3. Specifically, the expert’s discussion of other icon design possibilities does not show that the other design possibilities “offer[ed] exactly the same features” as the ′983 trade dress. See Tie Tech, 296 F.3d at 786 (quoting Leatherman, 199 F.3d at 1013–14). The print iPhone advertisement also fails to establish that, on the substance, it was not touting the utilitarian advantage of the ′983 trade dress. The evidence cited by Apple therefore does not show the non-functionality of the ′983 trade dress.
+ 
+In sum, the undisputed evidence shows the functionality of the registered ′983 trade dress and shifts the burden of proving non-functionality back to Apple. Apple, however, has failed to show that there was substantial evidence in the record to support a jury finding in favor of non-functionality for the ′983 trade dress on any of the Disc Golf factors. We therefore reverse the district court’s denial of Samsung’s motion for judgment as a matter of law that the ′983 trade dress is functional and therefore not protectable.
+ 
+Because we conclude that the jury’s findings of non-functionality of the asserted trade dresses were not supported by substantial evidence, we do not reach Sam-sung’s arguments on the fame and likely dilution of the asserted trade dresses, the Patent Clause of the Constitution, or the dilution damages.
+ 
+
+II. Design Patents
+The design patents on appeal claim certain design elements embodied in the iPhone. The D′677 patent focuses on design elements on the front face of the iPhone:
+ 
+
+​
+*997 The D′087 patent claims another set of design features that extend to the bezel of the iPhone:
+
+​
+The D′305 patent claims “the ornamental design for a graphical user interface for a display screen or portion thereof” as shown in the following drawing:
+
+​
+*998 Samsung contends that it should not have been found liable for infringement of the asserted design patents because any similarity was limited to the basic or functional elements in the design patents. Moreover, according to Samsung, there was no evidence of actual deception of consumers and that the differences between the accused smartphones and the asserted design patents should have been clear if prior art designs were properly considered. Samsung raises these three issues—functionality, actual deception, and comparison to prior art—in the context of the jury instructions and the sufficiency of evidence to support the infringement verdict. Finally, Samsung argues that the district court legally erred in allowing the jury to award as damages Samsung’s entire profits on its infringing smartphones. We do not find any of these challenges persuasive as discussed below.
+ 
+
+A. Infringement
+1. Jury Instructions
+a. Functional Aspects in the Asserted Design Patents
+[25] “Where a design contains both functional and nonfunctional elements, the scope of the claim must be construed in order to identify the non-functional aspects of the design as shown in the patent.” OddzOn Prods., Inc. v. Just Toys, Inc., 122 F.3d 1396, 1405 (Fed.Cir.1997). Samsung contends that the district court erred in failing to exclude the functional aspects of the design patents either in the claim construction or elsewhere in the infringement jury instructions. Specifically, Samsung contends that the district court should have excluded elements that are “ ‘dictated by their functional purpose,’ or cover the ‘structural ... aspects of the article.’ ” Appellants’ Br. 23 (quoting Richardson v. Stanley Works, Inc., 597 F.3d 1288, 1294 (Fed.Cir.2010); Lee v. Dayton–Hudson Corp., 838 F.2d 1186, 1188 (Fed.Cir.1988)) (alteration in original) (citation omitted). Such elements, according to Samsung, should be “ignored” in their entirety from the design patent claim scope. Id. at 29. For example, Samsung contends that rectangular form and rounded corners are among such elements that should be ignored in the infringement analysis. See, e.g., id.
+ 
+Our case law does not support Samsung’s position. In Richardson, the design patent at issue depicted a multifunction tool with numerous components that were “dictated by their functional purpose.” 597 F.3d at 1294. But the claim construction in Richardson did not exclude those components in their entirety. Rather, the claim construction included the ornamental aspects of those components: “the standard shape of the hammer-head, the diamond-shaped flare of the crow-bar and the top of the jaw, the rounded neck, the orientation of the crow-bar relative to the head of the tool, and the plain, undecorated handle.” Richardson v. Stanley Works, Inc., 610 F.Supp.2d 1046, 1050 (D.Ariz.2009). That construction was affirmed on appeal. Richardson, 597 F.3d at 1294. As such, the language “dictated by their functional purpose” in Richardson was only a description of the facts there; it did not establish a rule to eliminate entire elements from the claim scope as Samsung argues.
+ 
+Our case law likewise does not support Samsung’s proposed rule of eliminating any “structural” aspect from the claim scope. Samsung arrives at its proposed rule by selecting a few words from the following statement in Lee: “[d]esign patents do not and cannot include claims to the structural or functional aspects of the article....” 838 F.2d at 1188. But that statement addressed design patent validity. See id. (quoting 37 C.F.R. § 1.153(a) on a design patent application requirement). *999 It did not specify a rule, as Samsung represents, to eliminate elements from the claim scope of a valid patent in analyzing infringement.
+ 
+[26] More directly applicable to the claim scope issue at hand, Lee stated elsewhere that “it is the non-functional, design aspects that are pertinent to determinations of infringement.” Id. (footnote omitted). That principle was properly reflected in this case in the district court’s construction of the design patents as claiming only “the ornamental design” as shown in the patent figures. J.A. 01390–91. Samsung has not persuasively shown how the district court’s claim constructions were legally erroneous under Lee or Richardson. See Richardson, 597 F.3d at 1295 (noting that “discounting of functional elements must not convert the overall infringement test to an element-by-element comparison”).
+ 
+[27] [28] Samsung asserted alternatively during oral argument that the jury should have been instructed to compare the accused Samsung smartphones to the “overall ornamental appearance” of a patented design, instead of simply “the overall appearance” as the district court provided. Oral Arg. 4:06–4:25, 5:54–6:10. According to Samsung, “crucially, what’s missing there is the word ‘ornamental.’ ” Id. at 4:25–4:28. But jury instructions are reviewed “as a whole” to determine whether “the substance of the applicable law was [not] fairly and correctly covered” such that the alleged error was prejudicial. See Gantt, 717 F.3d at 706 (quoting Swinton, 270 F.3d at 802) (alteration in original). The jury instructions, as a whole, already limited the scope of the asserted design patents to the “ornamental” elements through the claim constructions as discussed earlier: the design patents were each construed as claiming “the ornamental design” as shown in the patent figures. J.A. 01390–91. As such, Samsung has failed to show prejudicial error in the jury instructions as a whole that would warrant a new trial.
+ 
+
+b. Actual Deception and Role of Prior Art
+[29] [30] Samsung further contends that the infringement instruction was erroneous for stating that actual deception was not required, and for providing guidelines in considering prior art. A design patent is infringed if an ordinary observer would have been deceived: “if, in the eye of an ordinary observer, giving such attention as a purchaser usually gives, two designs are substantially the same, if the resemblance is such as to deceive such an observer, inducing him to purchase one supposing it to be the other, the first one patented is infringed by the other.” Gorham Co. v. White, 81 U.S. 511, 528, 14 Wall. 511, 20 L.Ed. 731 (1872). Moreover, an infringement analysis must include a comparison of the asserted design against the prior art: “[i]f the accused design has copied a particular feature of the claimed design that departs conspicuously from the prior art, the accused design is naturally more likely to be regarded as deceptively similar to the claimed design, and thus infringing.” Egyptian Goddess, Inc. v. Swisa, Inc., 543 F.3d 665, 678 (Fed.Cir.2008) (en banc).
+ 
+These holdings from Gorham and Egyptian Goddess were reflected in the infringement instruction here, and Samsung does not contend otherwise. Samsung argues instead that the portions in the infringement instruction highlighted below made the jury consider a lack of actual deception irrelevant and led the jury to disregard the prior art:
+Two designs are substantially the same if, in the eye of an ordinary observer, giving such attention as a purchaser usually gives, the resemblance between *1000 the two designs is such as to deceive such an observer, inducing him to purchase one supposing it to be the other. You do not need, however, to find that any purchasers actually were deceived or confused by the appearance of the accused Samsung products....
+This determination of whether two designs are substantially the same will benefit from comparing the two designs with prior art. You must familiarize yourself with the prior art admitted at trial in making your determination of whether there has been direct infringement.
+You may find the following guidelines helpful to your analysis....
+J.A. 1394 (emphases added).
+ 
+We conclude instead that the jury instruction simply clarified that actual deception was not required, which is an accurate reflection of the analysis in Gorham. See 81 U.S. at 530 (crediting expert opinions “that ordinary purchasers would be likely to mistake the [accused] designs for the [patented design]”).
+ 
+We also conclude that the jury instruction expressly required that each juror “must” consider the prior art admitted at trial. J.A. 1394 (“You must familiarize yourself with the prior art admitted at trial in making your determination of whether there has been direct infringement.”). The jury instruction’s guidelines did not reduce the entire prior art analysis to a mere option as Samsung contends.
+ 
+Samsung again has failed to show that “when, looking to the instructions as a whole, the substance of the applicable law was [not] fairly and correctly covered.” See Gantt, 717 F.3d at 706 (quoting Swinton, 270 F.3d at 802) (alteration in original).
+ 
+
+2. Supporting Evidence
+Samsung contends that the infringement verdict was not supported by substantial evidence. Samsung’s contentions, however, are premised on the same issues—functionality, actual deception, and comparison to prior art—it raises in the context of the jury instructions. See, e.g., Appellants’ Br. 27 (“The uncontroverted evidence at trial showed the claimed features in Apple’s design patents to be overwhelmingly not ornamental, but structural or functional.”).
+ 
+Having rejected the jury instruction challenges, we likewise find Samsung’s parallel substantial evidence complaints unpersuasive. Apple’s witnesses provided sufficient testimonies to allow the jury to account for any functional aspects in the asserted design patents. Additionally, the witnesses testified on the similar overall visual impressions of the accused products to the asserted design patents such that an ordinary observer would likely be deceived. Apple’s experts also testified about the differences between the asserted patents and both the prior art and other competing designs. The jury could have reasonably relied on the evidence in the record to reach its infringement verdict.
+ 
+
+3. Preclusion of Evidence
+[31] Samsung also appeals the district court’s preclusion of testimony on Samsung’s independent development of its F700 phone that pre-dated the iPhone to rebut an allegation of copying. The evidence on the F700 was previously excluded as a prior art reference under a Rule 37 sanction due to Samsung’s failure to timely disclose the evidence during discovery, which Samsung does not challenge.
+ 
+The district court found that Samsung’s witness did not design any of the accused devices and was unaware that any of the accused devices was based on the F700. *1001 The district court thus determined that the proffered testimony of Samsung’s witness would have limited probative value on the question of whether Samsung copied any of Apple’s design patents because she lacked first-hand knowledge relevant to the underlying issue. As a result, the district court concluded that the limited probative value of the testimony was outweighed by the likelihood that it would be considered by the jury for the prohibited purpose under the earlier Rule 37 sanction. We find that the district court acted within its discretion in precluding Samsung’s proffered testimony to rebut an allegation of copying.
+ 
+We conclude that there was no prejudicial legal error in the infringement jury instructions on the three issues that Samsung raises: functionality, actual deception, and comparison to prior art. We further conclude that the district court did not abuse its discretion in excluding Samsung’s evidence of independent development and that there was substantial evidence to support the jury’s infringement findings. We therefore affirm the district court’s denial of Samsung’s motion for judgment as a matter of law on design patent infringement and Samsung’s alternative motion for a new trial.
+ 
+
+B. Damages
+Finally, with regard to the design patents, Samsung argues that the district court legally erred in allowing the jury to award Samsung’s entire profits on its infringing smartphones as damages. The damages, according to Samsung, should have been limited to the profit attributable to the infringement because of “basic causation principles....” Appellants’ Br. 36–37. Samsung contends that “Apple failed to establish that infringement of its limited design patents ... caused any Samsung sales or profits.” Id. at 40. Samsung further contends that consumers chose Samsung based on a host of other factors. Id.
+ 
+These “causation” arguments, however, advocate the same “apportionment” requirement that Congress rejected. See Nike, Inc. v. Wal–Mart Stores, Inc., 138 F.3d 1437, 1441 (Fed.Cir.1998). “Apportionment ... required [the patentee] to show what portion of the infringer’s profit, or of his own lost profit, was due to the design and what portion was due to the article itself.... The Act of 1887, specific to design patents, removed the apportionment requirement....” Id. The provisions in the Act of 1887 on design patent infringement damages were subsequently codified in Section 289 of Title 35. Id. at 1440–43 (containing a detailed and thorough discussion of the legislative history that need not be repeated here).
+ 
+[32] Section 289 now provides:
+Whoever during the term of a patent for a design, without license of the owner, (1) applies the patented design, or any colorable imitation thereof, to any article of manufacture for the purpose of sale, or (2) sells or exposes for sale any article of manufacture to which such design or colorable imitation has been applied shall be liable to the owner to the extent of his total profit, but not less than $250, recoverable in any United States district court having jurisdiction of the parties.
+Nothing in this section shall prevent, lessen, or impeach any other remedy which an owner of an infringed patent has under the provisions of this title, but he shall not twice recover the profit made from the infringement.
+35 U.S.C. § 289 (emphasis added). In reciting that an infringer “shall be liable to the owner to the extent of [the infringer’s] total profit,” Section 289 explicitly authorizes the award of total profit from the article of manufacture bearing the patented *1002 design.1 Several other courts also concluded that Section 289 authorizes such award of total profit. See Schnadig Corp. v. Gaines Mfg. Co., 620 F.2d 1166, 1171 (6th Cir.1980); Henry Hanger & Display Fixture Corp. of Am. v. Sel–O–Rak Corp., 270 F.2d 635, 643–44 (5th Cir.1959); Bergstrom v. Sears, Roebuck & Co., 496 F.Supp. 476, 495 (D.Minn.1980). The clear statutory language prevents us from adopting a “causation” rule as Samsung urges.
+ 
+Samsung continues its quest for apportionment by arguing, alternatively, that the profits awarded should have been limited to the infringing “article of manufacture,” not the entire infringing product. Samsung argues for limiting the profits awarded to “the portion of the product as sold that incorporates or embodies the subject matter of the patent.” Appellants’ Br. 38. Samsung contends that the Second Circuit had “allowed an award of infringer’s profits from the patented design of a piano case but not from the sale of the entire piano....” Id. These Second Circuit opinions, however, addressed a factual situation where “[a] purchaser desiring a piano of a particular manufacturer may have the piano placed in any one of several cases dealt in by the maker.” Bush & Lane Piano Co. v. Becker Bros., 222 F. 902, 903 (2d Cir.1915). That factual situation occurred in the context of the commercial practice in 1915 in which ordinary purchasers regarded a piano and a piano case as distinct articles of manufacture. The facts at hand are different. The innards of Samsung’s smartphones were not sold separately from their shells as distinct articles of manufacture to ordinary purchasers. We thus do not agree with Samsung that these Second Circuit cases required the district court to limit the damages for design patent infringement in this case.
+ 
+We agree with the district court that there was no legal error in the jury instruction on the design patent damages. Samsung does not argue a lack of substantial evidence to support the damages awards under the district court’s jury instruction. We therefore affirm the damages awarded for design patent infringements.
+ 
+
+III. Utility Patents
+Finally, Samsung challenges the validity of claim 50 of the ′163 patent and claim 8 of the ′915 patent. Samsung also challenges the damages awarded for utility patent infringement.
+ 
+
+A. Validity
+1. Indefiniteness of Claim 50 of the ′163 Patent
+[33] Claim 50 of the ′163 patent relates to a user interface feature in which a user’s double tapping on a portion of an electronic document causes the portion to be enlarged and “substantially centered” on the display. ′163 patent, claim 50. Samsung contends that claim 50 is indefinite because the ′ 163 patent provides “no objective standard to measure the scope of the term ‘substantially centered.’ ” Appellants’ Br. 66.
+ 
+[34] [35] Samsung’s complaint about a lack of an “objective standard [of] measure” is seeking a level of precision that exceeds the definiteness required of valid patents. “The definiteness requirement ... mandates clarity, while recognizing *1003 that absolute precision is unattainable.” Nautilus, Inc. v. Biosig Instruments, Inc., ––– U.S. ––––, 134 S.Ct. 2120, 2129, 189 L.Ed.2d 37 (2014). Given this recognition, “a patent is invalid for indefiniteness if its claims, read in light of the specification delineating the patent, and the prosecution history, fail to inform, with reasonable certainty, those skilled in the art about the scope of the invention.” Id. at 2124.
+ 
+Samsung, however, points to no evidence showing that skilled artisans would find the element “substantially centered” as lacking reasonable certainty in its scope. In contrast, Apple’s expert explained that the “padding” allowed in the ′163 patent provides skilled artisans with enough information to understand what “substantially centered” means in the patent. J.A. 41907–09. Apple’s expert cites a discussion in the specification of an embodiment referring to the figure reproduced below where the enlarged portion of the document is essentially centered except for “a predefined amount of padding along the sides of the display.” See ′163 patent col. 17 ll. 26–30.
+ 
+
+​
+Apple thus presented evidence to show that skilled artisans would interpret “substantially centered” in the ′163 patent to mean essentially centered except for a marginal spacing to accommodate ancillary graphical user interface elements. We are not persuaded by Samsung’s attempt to discredit this expert testimony. We therefore agree with the district court that Samsung failed to carry its burden in challenging the validity of claim 50 of the ′163 patent for indefiniteness.
+ 
+
+2. Anticipation of Claim 8 of the ′915 Patent
+[36] Claim 8 of the ′915 patent describes a computer-based method for distinguishing between scrolling and gesture (such as zooming) operations on a touch screen. ′915 patent, claim 8. The dispute centers on whether a prior art reference, the Nomura patent application, taught the “event object” element in claim 8. The claim recites “event object” in the context such as: “creating an event object in response to the user input; determining whether the event object invokes a scroll or gesture operation....” Id. Samsung contends that the “movement history” in Nomura inherently disclosed the “event object” in claim 8 based on the opinion of its expert. Appellants’ Br. 64–65.
+ 
+Apple, however, rebuts with its own expert testimony. Apple’s expert explained that “event objects” in claim 8 refers to a particular “programming construct[ ]” and that there were many potential programming alternatives that Nomura could have used to implement the “movement history” it disclosed. J.A. 43636–37. According to the explanation by Apple’s expert, Nomura did not inherently disclose the claimed “event object.” We find that a reasonable jury could have credited the testimony of Apple’s expert over Samsung’s expert. Thus, we agree with the district court that *1004 there was substantial evidence to support the jury’s finding that claim 8 of the ′915 patent was not anticipated.
+ 
+
+B. Damages
+Apple advanced at trial both lost profits and reasonable royalty damages theories. The jury determined that for certain Samsung phones found to infringe the ′915 patent, no reasonable non-infringing alternative was available, and thus lost profits was an appropriate measure of damages. For the other Samsung phones found to infringe Apple’s utility patents-in-suit, the jury determined that an award of lost profits was not supported, and thus awarded Apple a reasonable royalty for Samsung’s infringement.
+ 
+
+1. Lost Profits for Infringement of the ′915 Patent
+[37] [38] “To recover lost profits, the patent owner must show causation in fact, establishing that but for the infringement, he would have made additional profits.” Grain Processing Corp. v. Am. Maize–Prods., 185 F.3d 1341, 1349 (Fed.Cir.1999). The patentee must “take[ ] into account any alternatives available to the infringer.” Id. at 1351. “[M]arket sales of an acceptable noninfringing substitute often suffice alone to defeat a case for lost profits.” Id. at 1352.
+ 
+[39] Samsung argues that lost profits should not have been awarded because the evidence showed the existence of non-infringing substitutes. Specifically, Samsung contends that two Samsung phones, found to have not infringed the ′ 915 patent, should have been considered by the jury as non-infringing substitutes. Samsung further asserts that Apple failed to prove consumer preference of the ′915 patent’s technology over a purportedly comparable feature available in the two non-infringing Samsung phones.
+ 
+[40] However, “the ‘[m]ere existence of a competing device does not make that device an acceptable substitute.’ ” Presidio Components, Inc. v. Am. Tech. Ceramics Corp., 702 F.3d 1351, 1361 (Fed.Cir.2012) (quoting TWM Mfg. Co. v. Dura Corp., 789 F.2d 895, 901 (Fed.Cir.1986)) (alteration in original). The mere existence of non-infringing phones is all Samsung is relying on to attack the jury’s verdict. For example, Samsung points to no evidence to support its assertion that the two non-infringing phones included a feature comparable to the one claimed in the ′915 patent.
+ 
+In contrast, there was substantial evidence to support the jury’s refusal to consider the two phones asserted by Samsung as non-infringing substitutes. Of these two phones, one had significantly different features, such as a slide-out physical keyboard in combination with a small, low-resolution screen. See Kaufman Co. v. Lantech, Inc., 926 F.2d 1136, 1142 (Fed.Cir.1991) (“To be deemed acceptable, the alleged acceptable noninfringing substitute must not have a disparately higher price than or possess characteristics significantly different from the patented product.”). And the other phone was never sold by a U.S. carrier. See Grain Processing, 185 F.3d at 1349 (“[T]o be an acceptable non-infringing substitute, the product or process must have been available or on the market at the time of infringement.”). The jury could have reasonably found that these two Samsung phones were not acceptable alternatives. Samsung’s unsupported assertion to the contrary fails to show a lack of substantial evidence supporting the awards of lost profits.
+ 
+
+2. Reasonable Royalty
+Samsung argues that Apple’s expert in the damages retrial, Ms. Davis, offered only a cursory explanation of how she arrived *1005 at the royalty rates she calculated based on the Georgia–Pacific factors. Samsung complains specifically about Ms. Davis’s testimony that the evidence of demand from her lost profits analysis was “also relevant to the determination of the amount of reasonable royalties.” Appellants’ Br. 72.
+ 
+[41] Samsung does not dispute that Ms. Davis sufficiently explained her analysis of demand in the lost profit context. Samsung is only challenging that she did not repeat the same information with all of the details in testifying about her reasonable royalty calculation. However, Ms. Davis expressly testified that the demand factor for lost profits was also relevant to the determination of a reasonable royalty. J.A. 50651–52 (“Q. Is this issue of demand relevant to any category of damages other than lost profits? A. Yes. It’s relevant to the determination of the amount of reasonable royalties.”). A reasonable jury could refer to Ms. Davis’s testimony from an earlier context and appropriately weigh the evidence in considering Ms. Davis’s calculation on the royalty rates. Moreover, Ms. Davis’s testimony included additional substance on the Georgia–Pacific factors. For example, Ms. Davis expressly considered the cost to Samsung of being out of the market long enough to design around the patents, the profits attributable to Samsung’s use of the patented technology, and the commercial relationship between the parties. Taken as a whole, Ms. Davis’s testimony provided sufficient evidence to support the jury’s reasonable royalty awards in the damages retrial.
+ 
+Finally, Samsung complained that Apple’s expert in the first damages trial, Mr. Musika, failed to explain his Georgia–Pacific analysis and identified no evidence supporting his royalty rates. Upon Apple’s response, Samsung acknowledges that Mr. Musika did in fact identify and discuss specific Georgia–Pacific factors and that Mr. Musika referred to an exhibit during his testimony. Samsung now contends that the analysis was not meaningful and the cited exhibit did not discuss the Georgia–Pacific’s factors at all. Samsung’s fault-finding is meritless.
+ 
+We therefore affirm the district court’s denial of Samsung’s motion for judgment as a matter of law on the invalidity of claim 50 of the ′163 patent and claim 8 of the ′915 patent, as well as the damages awarded for utility patent infringement. We also affirm the district court’s denial of Samsung’s motions for a new trial on these same issues. We remand for immediate entry of final judgment on all damages awards not predicated on Apple’s trade dress claims and for any further proceedings necessitated by our decision to vacate the jury’s verdicts on the unregistered and registered trade dress claims.
+ 
+AFFIRMED–IN–PART, REVERSED–IN–PART, VACATED–IN–PART and REMANDED
+ 
+
+COSTS
+Each party shall bear its own costs.
+ 
+All Citations
+786 F.3d 983, 114 U.S.P.Q.2d 1953
+Footnotes
+
+1
+
+Amici 27 Law Professors argues that an award of a defendant’s entire profits for design patent infringement makes no sense in the modern world. Those are policy arguments that should be directed to Congress. We are bound by what the statute says, irrespective of policy arguments that may be made against it.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Direct History
+The KeyCited document has been negatively impacted in the following ways by events or decisions in the same litigation or proceedings:
+ 1.  Apple Inc. v. Samsung Electronics Co., Ltd. 
+786 F.3d 983 , Fed.Cir.(Cal.) , May 18, 2015
+Certiorari Granted in Part by
+2.  Samsung Electronics Co., Ltd. v. Apple Inc.
+136 S.Ct. 1453 , U.S. , Mar. 21, 2016
+AND Reversed and Remanded by
+3.  Samsung Electronics Co., Ltd. v. Apple Inc. 
+137 S.Ct. 429 , U.S. , Dec. 06, 2016
+Negative Citing References (2)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Declined to Extend by
+1.  Altinex Inc. v. Alibaba.com Hong Kong Ltd.
+2015 WL 12765553 , C.D.Cal.
+Plaintiff Altinex, Inc. (’’Altinex’’) and Defendant Alibaba.com Hong Kong Limited (’’Alibaba’’) have submitted to the Court proposed claim constructions for nine terms across five...
+Nov. 04, 2015
+Case
+
+25
+
+
+
+
+F.3d
+
+Distinguished by
+ 2.  Administrative Law Judge Order  IN THE MATTER OF CERTAIN WIRELESS HEADSETS ORDER NO. 17: INITIAL DETERMINATION GRANTING RESPONDENTS’ MOTION FOR SUMMARY DETERMINATION THAT THE ASSERTED CLAIMS ARE INVALID BECAUSE THE CLAIM TERM VIRTUALLY FREE FROM INTERFERENCE IS INDEFINITE
+USITC Inv. No. 337-TA-943 , U.S.Intern.Trade Com’n
+On August 10, 2015, Respondents Sony Corporation; Sony Corporation of America; Sony Electronics Inc.; BlueAnt Wireless Pty, Ltd.; BlueAnt Wireless, Inc.; Creative Technology Ltd.;...
+Sep. 21, 2015
+Administrative Decision
+
+—
+
+

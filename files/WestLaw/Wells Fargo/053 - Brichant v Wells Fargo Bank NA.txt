@@ -1,0 +1,230 @@
+
+
+ 
+
+
+Brichant v. Wells Fargo Bank, N.A.
+United States Court of Appeals, Sixth Circuit. | June 10, 2015 | 616 Fed.Appx. 786 | 2015 WL 3605883
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Opinion
+All Citations
+
+standard Citation:
+
+Brichant v. Wells Fargo Bank, N.A., 616 F. App’x 786 (6th Cir. 2015)
+
+All Citations:
+
+616 Fed.Appx. 786, 86 UCC Rep.Serv.2d 856
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Tennessee
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+616 Fed.Appx. 786
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 6th Cir. Rule 32.1.
+United States Court of Appeals,
+Sixth Circuit.
+Andrea BRICHANT, Plaintiff–Appellant,
+v.
+WELLS FARGO BANK, N.A., a citizen of California; Mortgage Electronic Registration Systems, Inc., Defendants–Appellees.
+No. 14–5343.
+|
+June 10, 2015.
+Synopsis
+Background: Mortgagor brought action against bank, as loan servicer, and Mortgage Electronic Registration Systems (MERS), alleging unjust enrichment and violations of Fair Debt Collection Practices Act (FDCPA) and Tennessee Consumer Protection Act, and seeking declaration that defendants had no interest in note or deed of trust. The United States District Court for the Middle District of Tennessee granted defendants’ motion for summary judgment. Mortgagor appealed.
+ 
+Holdings: The Court of Appeals, Bernice Bouie Donald, Circuit Judge, held that:
+ 
+[1] mortgagor waived argument that note was not negotiable instrument, and
+ 
+[2] bank had authority to enforce note.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+Federal CourtsDefenses
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(D)Presentation and Reservation in Lower Court of Grounds of Review
+170BXVII(D)2Particular Grounds of Review
+170Bk3402Matters of Substance
+170Bk3405Defenses
+
+
+Mortgagor waived her appellate argument that note was not negotiable instrument under Tennessee law based on its reference to six-month London Interbank Offered Rate (LIBOR), even though mortgagor generally challenged note’s negotiability before district court, because she did not advance specific argument regarding LIBOR until asserting it for first time on appeal. West’s T.C.A. § 47–3–104(a).
+Cases that cite this headnote
+
+
+
+[2]
+
+Mortgages and Deeds of TrustHolders of obligations secured and their agents;  non-holders in possession
+
+
+266Mortgages and Deeds of Trust
+266XIIIForeclosure
+266XIII(C)Parties to Foreclosure;  Standing
+266k1742Persons Entitled to Foreclose;  Plaintiffs
+266k1749Holders of obligations secured and their agents;  non-holders in possession
+(Formerly 266k431)
+
+
+Bank had authority to enforce note against mortgagor under Tennessee law, where note was endorsed in blank, such that it was payable to bearer, and bank verified chain of possession leading to current holders, including bank as loan servicer. West’s T.C.A. §§ 47–3–205(b), 47–3–301.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+Mortgages and Deeds of TrustMortgage as following note;  note as following mortgage
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1411Necessity of Transferring Both Mortgage and Note
+266k1414Mortgage as following note;  note as following mortgage
+(Formerly 266k235)
+
+
+Under Tennessee law, transfer of note by Mortgage Electronic Registration Systems (MERS) automatically carried with it assignment of deed of trust.
+1 Cases that cite this headnote
+
+
+
+*786 On Appeal from the United States District Court for the Middle District of Tennessee.
+BEFORE: GRIFFIN and DONALD, Circuit Judges; TARNOW, District Judge.*
+
+
+*787 OPINION
+BERNICE BOUIE DONALD, Circuit Judge.
+The issue in this case is whether Wells Fargo Bank, N.A. (“Wells Fargo”), by virtue of the transfer and possession of a note and a deed of trust, has the authority to foreclose upon a defaulted mortgage. The district court held that it does. We AFFIRM.
+ 
+
+I.
+A.
+On March 9, 2006, Andrea Brichant (“Brichant”) took out an adjustable-rate mortgage through a now-defunct lender, WMC Mortgage Corp. (“WMC”), on real property located in Hendersonville, Tennessee. She executed an “Adjustable Rate Note” (the “Note”) with a principal amount of $284,000. The terms of the Note required Brichant to pay WMC in monthly installments of $1,972.55 plus interest to vary according to the six-month London Interbank Offered Rate (“LIBOR”). A corresponding “Deed of Trust” gave WMC a security interest in the property. The Deed of Trust listed Mortgage Electronic Registration Systems, Inc. (“MERS”) as the beneficiary and “nominee for [WMC] and [WMC’s] successors and assigns.” It also provided that the Note could be “sold one or more times without prior notice to [Brichant],” and that such a sale “might result in a change in the entity ... that collects Periodic Payments due under the Note.”
+ 
+As explained in an affidavit submitted by Wells Fargo’s Vice President of Loan Documentation, Amanda Weatherly, the Note and the Deed of Trust changed hands multiple times. Following execution of the Note and the Deed of Trust, an assistant secretary for WMC, Melba Faraone, endorsed the Note in blank without recourse.1 WMC then sold the Note and negotiated it by transfer of possession2 to Morgan Stanley ABS Capital I, Inc. (“Morgan Stanley”). Morgan Stanley subsequently sold and negotiated the Note by transfer of possession to Deutsche Bank National Trust Company (“Deutsche Bank”), acting as Trustee for Morgan Stanley ABS Capital I, Inc. Trust 2006–WMC2 (the “2006–WMC2 Trust”).
+ 
+In 2010 and 2011, MERS separately executed and recorded two documents entitled “Assignment of Deed of Trust,” which purported to assign the Deed of Trust to Deutsche Bank. According to Weatherly, Deutsche Bank remains the Trustee of the 2006–WMC2 Trust and has retained possession of the Note and the Deed of Trust.
+ 
+Pursuant to the 2006–WMC2 Trust’s Pooling and Servicing Agreement, Wells Fargo is the current servicer for Brichant’s loan. As such, Wells Fargo has the authority to receive Brichant’s periodic loan payments and, in the event of non-payment, to foreclose on her property on behalf of Deutsche Bank.
+ 
+Wells Fargo also has the authority to modify the terms of Brichant’s mortgage, which it has done on one occasion. On July 13, 2009, Brichant entered into a Loan Modification Agreement with Wells *788 Fargo. Pursuant to that agreement, Brichant’s principal amount owed on the loan increased from $284,000 to $305,732.29, while her monthly payment amount decreased from $1,972.55 to $1,823.31. According to Wells Fargo, Brichant failed to make her required monthly payments under the Loan Modification Agreement and defaulted on the Note. As a result, Wells Fargo initiated foreclosure proceedings on the property, but pending this action, no foreclosure sale has taken place.
+ 
+
+B.
+Brichant filed a complaint in the United States District Court for the Middle District of Tennessee on March 20, 2012. She amended the complaint on March 29, 2012, asserting four counts against Wells Fargo and MERS: one count seeking a declaration that Wells Fargo and MERS have no legal interest in the Note or the Deed of Trust, and that the assignment of the Note and the Deed of Trust is legally invalid (Count 1); another count for unjust enrichment (Count 2); a third count for violation of the Fair Debt Collection Practices Act, 15 U.S.C. §§ 1692–1692p (Count 3); and a final count for violation of the Tennessee Consumer Protection Act, Tenn.Code Ann. §§ 47–18–101 to 47–18–130 (Count 4).3 The parties’ efforts to settle were unsuccessful.
+ 
+On April 19, 2013, Wells Fargo and MERS filed a motion for summary judgment arguing, inter alia, that Deutsche Bank is the proper owner and holder of the Note and the Deed of Trust, and that Wells Fargo is entitled to collect on Brichant’s loan. The district court agreed. Citing the uncontroverted assertions in Weatherly’s affidavit, the court held that the Note is a negotiable instrument entitling its current bearer—Deutsche Bank—to enforce its terms. The court also held that, by operation of Tennessee law, the transfer of the Note to Deutsche Bank automatically “carried with it the assignment of the Deed of Trust.” The court entered final judgment on February 24, 2014. This timely appeal followed.
+ 
+
+II.
+“We review the district court’s grant of summary judgment de novo.” Borman, LLC v. 18718 Borman, LLC, 777 F.3d 816, 821 (6th Cir.2015). Construing all reasonable inferences in favor of the non-moving party, we will “uphold the grant of summary judgment if ‘there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.’ ” Id. (quoting Fed.R.Civ.P. 56(a)). “[A] mere ‘scintilla’ of evidence in support of the non-moving party’s position is insufficient to defeat summary judgment; rather, the non-moving party must present evidence upon which a reasonable jury could find in her favor.” Tingle v. Arbors at Hilliard, 692 F.3d 523, 529 (6th Cir.2012) (quoting Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 251, 106 S.Ct. 2505, 91 L.Ed.2d 202 (1986)).
+ 
+
+III.
+A.
+[1] We begin with the defendants’ assertion that Brichant has waived her argument that the Note is not a negotiable instrument based on its reference to LIBOR. Cf. Wilson v. HSBC Bank, N.A., 594 Fed.Appx. 852, 856 (6th Cir.2014) (per curiam) (examining waiver of claims before content of remaining mortgage counts). In her appellate brief, Brichant argues that the Note is not a negotiable instrument *789 because it does not involve a “fixed amount of money” in light of its reference to an ever-changing, external interest rate. See Tenn.Code Ann. § 47–3–104(a) (“ ‘[N]egotiable instrument’ means an unconditional promise or order to pay a fixed amount of money.”). So the argument goes, if the Note is not a negotiable instrument, the defendants could not obtain legal interest in it by mere transfer of possession. For their part, Wells Fargo and MERS contend that although Brichant generally challenged the Note’s negotiability before the district court, she did not advance the specific argument regarding LIBOR that she raises for the first time now. We agree with the defendants.
+ 
+“[A]n argument not raised before the district court is waived on appeal to this Court.” Hayward v. Cleveland Clinic Found., 759 F.3d 601, 615 (6th Cir.2014) (quoting Scottsdale Ins. Co. v. Flowers, 513 F.3d 546, 552 (6th Cir.2008)) (internal quotation marks omitted). In her response to the defendants’ motion for summary judgment, Brichant argued that the Note is not a negotiable instrument because it lists undertakings and instructions other than for the payment of money. She also argued that the Note’s provision for unspecified fees and costs undermines its negotiability because it is therefore not for a “fixed amount of money.” However, she did not argue that the Note’s reference to LIBOR renders it a non-negotiable instrument; that argument appears for the first time on appeal and, as such, we decline to consider it.4 See Scottsdale Ins. Co., 513 F.3d at 552–53 (noting that we “rarely exercise[ ]” our discretion to hear an issue for the first time on appeal, instead “generally focus[ing] on whether the issue was properly raised before the district court”).
+ 
+
+B.
+[2] In the alternative, Brichant argues that even if the Note is a negotiable instrument, Wells Fargo has no authority to enforce it because the 2006–WMC2 Trust did not sign the Note. According to Brichant, this means that “Wells Fargo only holds the same rights as the party whose signature is on the Note—which is WMC—and that entity has been out of business since 2007.” Brichant’s argument—bereft of any citation to controlling or persuasive authority—misses the mark.
+ 
+As the district court correctly held, “when, as here, a note is endorsed in blank, it becomes payable to the bearer (i.e., the person in possession of the instrument), and the bearer is entitled to enforce the note as its holder.” Pursuant to Tennessee law, an instrument endorsed in blank “becomes payable to bearer and may be negotiated by transfer of possession alone until specially endorsed.” Tenn.Code Ann. § 47–3–205(b); see also Deutsche Bank Nat’l Trust Co. v. Tibbs, No. 3:11–0763, 2014 WL 280365, at *5 (M.D.Tenn. Jan. 24, 2014) (same). Wells Fargo and MERS have submitted a copy of the Note—endorsed in blank by an official of WMC—into the record. They also have provided the uncontroverted testimony of a competent records custodian, who verified the chain of possession of the Note and that Deutsche Bank currently possesses it. That possession entitles Wells Fargo, as servicer, to enforce the Note. See Tenn.Code Ann. § 47–3–301. Because the defendants have supported their motion *790 for summary judgment “by affidavit or other appropriate means, which are uncontroverted, [the] trial court [wa]s fully justified ... in granting relief thereon.” Williams v. Balt. & Ohio R.R. Co., 303 F.2d 323, 324 (6th Cir.1962) (per curiam).
+ 
+Ultimately, Brichant’s argument glosses over the relevant inquiry. She contends that Wells Fargo lacks a legal interest in the Note—i.e., because “Wells Fargo did not lend money to [Brichant,] ... it does not have an equitable interest in the Note.” But Brichant’s “concern about who may have actually had an ownership interest in the loan is beside the point.” Amour v. Bank of Am., N.A., No. 1:13–CV–144, 2013 WL 6497821, at *2 (E.D.Tenn. Dec. 10, 2013). The Note—endorsed in blank—is “bearer paper, enforceable by whoever possesses it.” Id. “[W]ho is the holder of the Note is the key question.” Id. And there is no genuine dispute that Deutsche Bank and its servicer, Wells Fargo, possess the Note in this case, vesting them with the authority to enforce the Note’s terms. See Tenn.Code Ann. § 47–3–301 (“A person may be a person entitled to enforce the instrument even though the person is not the owner of the instrument or is in wrongful possession of the instrument.”).
+ 
+Therefore, the district court’s grant of summary judgment to the defendants on this score was not erroneous.
+ 
+
+C.
+[3] Finally, Brichant argues that MERS—as nominee of WMC, a defunct entity—lacked the authority to transfer the Deed of Trust to Deutsche Bank. In support of her position, Brichant cites Mortgage Electronic Registration Systems, Inc. v. Ditto, No. E2012–02292–COA–R3–CV, 2014 WL 24439 (Tenn.Ct.App. Jan. 2, 2014).5 However, as the district court succinctly stated, Brichant’s argument fails on the narrow ground that “under established Tennessee law, the transfer of a note automatically carries with it the assignment of a deed of trust.”
+ 
+It is well-established in Tennessee that “ ‘[a] Deed of Trust need not be separately assigned so that the holder may enforce the note; as goes the note, so goes the Deed of Trust.’ ” Tibbs, 2014 WL 280365, at *5 (alteration in original) (quoting Hixson v. Wilson & Assocs., PLLC, No. 1:12–cv–105, 2013 WL 6147826, at *2 (E.D.Tenn. Nov. 22, 2013)); see also W.C. Early Co. v. Williams, 135 Tenn. 249, 186 S.W. 102, 103–04 (1916) (“It is a well-settled rule with us that the lien of a mortgage or trust deed passes, without a special assignment thereof, to the indorsee of a note or transferee of the debt secured by the instrument. The policy of the law is to treat the note as the principal thing and the mortgage as the incident....”). Thus, regardless of the validity of MERS’ separate written attempts to assign the Deed of Trust to Deutsche Bank in 2010 and 2011, when the Note passed to Deutsche Bank/Wells Fargo, the Deed of Trust automatically passed with it.6 See *791 Chapman v. Bank of Am., No. 3–11–0504, 2012 WL 4090895, at *1 n. 4 (M.D.Tenn. Sept. 17, 2012); see also Samples v. Bank of Am., N.A., No. 3:12–CV–44, 2012 WL 1309135, at *4 (E.D.Tenn. Apr. 16, 2012) (holding that MERS’ role as nominee for a lender “and its successors and assigns” confirmed its “power to act as the agent of any valid note holder, including assigning a deed of trust and enforcing a note”).
+ 
+Accordingly, the district court appropriately granted summary judgment on this point.
+ 
+
+IV.
+For the foregoing reasons, we AFFIRM the judgment of the district court.
+ 
+All Citations
+616 Fed.Appx. 786, 86 UCC Rep.Serv.2d 856
+Footnotes
+
+*
+
+The Honorable Arthur J. Tarnow, United States District Judge for the Eastern District of Michigan, sitting by designation.
+
+1
+
+An endorsement in blank “names no specific payee, thus making the instrument payable to the bearer and negotiable by delivery only.” Indorsement, Black’s Law Dictionary (10th ed.2014).
+
+2
+
+See Tenn.Code Ann. § 47–3–201 (“ ‘Negotiation’ means a transfer of possession ... of an instrument by a person other than the issuer to a person who thereby becomes its holder.... If an instrument is payable to bearer, it may be negotiated by transfer of possession alone.”).
+
+3
+
+On September 25, 2012, the district court dismissed two additional defendants named in the amended complaint: Wilson & Associates, PLLC, and Shellie Wallace.
+
+4
+
+Even if we did entertain the argument, however, the commentary to Tennessee’s Uniform Commercial Code specifically notes that “the requirement of a ‘fixed amount’ applies only to principal.... If a variable rate of interest is prescribed, the amount of interest is ascertainable by reference to the formula or index described or referred to in the instrument.” Tenn.Code Ann. § 47–3–112 cmt. 1.
+
+5
+
+Because Brichant’s claims fail by operation of Tennessee law, we need not delve into Brichant’s argument under Ditto that MERS could not transfer the Deed of Trust because it “was never given an independent interest in the property.” Ditto, 2014 WL 24439, at *5. We note, however, that the Court of Appeals of Tennessee has called the holding in Ditto into question, and that the Tennessee Supreme Court has granted an appeal in that case. See EverBank v. Henson, No. W2013–02489–COA–R3–CV, 2015 WL 129081, at *4–5 (Tenn.Ct.App. Jan. 9, 2015). Moreover, Ditto involved MERS’ attempt to set aside a tax sale, whereas this case involves a potential foreclosure sale by Wells Fargo that MERS does not contest. Cf. id. at *4.
+
+6
+
+Moreover, even if MERS’ transfer of the Deed of Trust to Deutsche Bank could be challenged, it is not clear that Brichant would have standing to lodge that challenge. See, e.g., Wilson, 594 Fed.Appx. at 858 n. 4 (addressing a borrower’s lack of standing to challenge a third-party assignment of a mortgage).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,149 @@
+
+
+ 
+
+
+Wells Fargo Bank, N.A. v. F.D.I.C.
+United States Court of Appeals, District of Columbia Circuit. | May 18, 2004 | 367 F.3d 953 | 2004 WL 1091531
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wells Fargo Bank, N.A. v. F.D.I.C., 367 F.3d 953 (D.C. Cir. 2004)
+
+All Citations:
+
+367 F.3d 953, 361 U.S.App.D.C. 330
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+District of Columbia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+367 F.3d 953
+United States Court of Appeals,
+District of Columbia Circuit.
+WELLS FARGO BANK, N.A., et al., Appellants,
+v.
+FEDERAL DEPOSIT INSURANCE CORPORATION, Appellee.
+Nos. 03-5198, 03-5199 and 03-5214.
+|
+Argued March 29, 2004.
+|
+Decided May 18, 2004.
+Synopsis
+Background: Members of bank insurance fund (BIF), having acquired savings association insurance fund (SAIF) member deposits in “Oakar transactions,” challenged Federal Deposit Insurance Corporation’s (FDIC’s) calculation of one-time assessment designed to boost SAIF reserve ratio. The United States District Court for the District of Columbia, John Garrett Penn, J., granted the FDIC’s motion to dismiss, and members appealed.
+ 
+Holding: The Court of Appeals, Tatel, Circuit Judge, held that attributable deposit amounts (AADAs) acquired by BIF members from SAIF members in “Oakar transactions” were includable in assessment.
+ 
+Affirmed.
+ 
+See also 310 F.3d 202.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Banks and BankingAssessments
+
+
+52Banks and Banking
+52XIFederal Deposit Insurance Corporation
+52k504Assessments
+
+
+Savings Association Insurance Fund (SAIF) deposits subject to statutory one-time assessment in order to increase SAIF reserve ratio included adjusted attributable deposit amounts (AADAs) acquired by Bank Insurance Fund (BIF) members from SAIF members in “Oakar transactions.” Federal Deposit Insurance Act, § 2[7](l)(7), 12 U.S.C.A. § 1817(l)(7); Omnibus Consolidated Appropriations Act, 1997, §§ 2702(a), 2710(6, 8), 12 U.S.C.A. §§ 1817 note, 1821 note.
+Cases that cite this headnote
+
+
+
+*954 **331 Appeal from the United States District Court for the District of Columbia (Nos. 01cv2440, 01cv2445).
+Attorneys and Law Firms
+Carol R. Van Cleef argued the cause and filed the briefs for appellants. Gloria B. Solomon entered an appearance.
+Lawrence H. Richmond, Counsel, Federal Deposit Insurance Corporation, argued the cause for appellee. With him on the brief were Ann S. DuRoss, Assistant General Counsel, and Colleen J. Boles, Senior Counsel.
+Before: SENTELLE, ROGERS, and TATEL, Circuit Judges.
+Opinion
+Opinion for the Court filed by Circuit Judge TATEL.
+
+TATEL, Circuit Judge:
+
+Responding to a congressional mandate, the Federal Deposit Insurance Corporation imposed a one-time assessment on certain financial institutions in order to boost the amount of money in the fund that insures savings-and-loan deposits. Several dozen financial institutions now challenge the method the FDIC used to calculate how much money it needed to raise-a calculation that in turn determined the assessment the FDIC imposed. The district court disagreed with the institutions’ assertion that the relevant statute unambiguously precludes the FDIC’s method, and therefore dismissed their complaint. For the same reason, we affirm.
+ 
+
+I.
+Reacting to the failure of hundreds of savings and loan associations in the 1980s, Congress passed the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, Pub. L. No. 101-73, 103 Stat. 183 (1989) (codified as amended in scattered sections of 12 U.S.C.). Known as FIRREA and designed to protect depositors against similar failures in the future, the law amended the Federal Deposit Insurance Act by, among other things, creating a Bank Insurance Fund to cover deposits of commercial banks and a Savings Association Insurance Fund to cover deposits of savings and loan associations. The two funds, administered by appellee Federal Deposit Insurance Corporation (FDIC), and known as BIF and SAIF, respectively, are financed by assessments levied on the financial institutions whose deposits they insure.
+ 
+*955 **332 Since its inception, SAIF has had a higher assessment rate than BIF, largely because the savings and loan associations it insures tend to be somewhat shakier than the banks insured by BIF. Congress recognized that this rate disparity could impel healthy savings associations to transfer their deposits to banks or even convert themselves into banks. Because such transfers and conversions would risk leaving SAIF with inadequate funds to insure members’ deposits, FIRREA not only imposed fees on “conversion transactions” that transfer deposits between BIF members and SAIF members, but also temporarily prohibited such transactions. See 12 U.S.C. § 1815(d)(2) (2000). Neither the moratorium nor the fees, however, applied to so-called “Oakar transactions,” under which a member of one fund acquires deposits from a member of the other and continues to pay proportional assessments into both funds. See id. § 1815(d)(3)(A)-(B). For example, a BIF member that acquired deposits from a SAIF member as part of an Oakar transaction would pay SAIF assessments on the acquired deposits and BIF assessments on its other deposits. See generally Wells Fargo, N.A. v. FDIC, 310 F.3d 202, 204-05 (D.C.Cir.2002). Acquired deposits, known as adjusted attributable deposit amounts, or AADA, are adjusted over time according to a mathematical formula that accounts for subsequent growth. See 12 U.S.C. § 1815(d)(3)(C).
+ 
+Concerned that SAIF was undercapitalized, Congress passed the Deposit Insurance Funds Act of 1996, Pub.L. No. 104-208, §§ 2701-11, 110 Stat. 3009 (1996) (“Funds Act”), the statute at issue in this case. The Funds Act required the FDIC to impose a one-time assessment on certain deposits, and to do so at a rate that would immediately bring the level of SAIF assets up to the “designated reserve ratio.” See Funds Act § 2702(a) (codified at 12 U.S.C. § 1817 note (2000)). FIRREA defines the designated reserve ratio as “1.25 percent of estimated insured deposits,” see 12 U.S.C. § 1817(b)(2)(A)(iv)(I), and the Funds Act incorporates that definition, see Funds Act § 2710(6) (codified at 12 U.S.C. § 1821 note (2000)).
+ 
+In a final rule, the FDIC described how it calculated the rate for the one-time assessment. See 61 Fed. Reg. 53,834 (Oct. 16, 1996) (codified at 12 C.F.R. pt. 327 (2004)). The agency first determined the total amount of SAIF-insured deposits-including, of importance to this case, AADA-to be $688.1 billion. (In its calculations, the FDIC made other adjustments not at issue in this appeal.) Next, the agency calculated the balance SAIF would need in order to attain the designated reserve ratio, that is, 1.25 percent of estimated insured deposits. That balance was $8.6 billion, or $4.5 billion more than SAIF’s balance at the time. Finally, the FDIC calculated what assessment rate, when levied on the funds that Congress designated for assessment (a designation not challenged in this case), would produce the required $4.5 billion. That rate was 65.7 cents per one hundred dollars of insured deposits.
+ 
+After the FDIC imposed this assessment in late 1996, several dozen financial institutions (which we will refer to collectively as the Banks even though the group included some savings and loan associations) complained to the agency about its calculation of the assessment rate. They contended that the Funds Act prohibited the FDIC from including AADA, i.e., funds that BIF members had acquired from SAIF members, in its calculation of the total amount of SAIF-insured deposits. The reason, the Banks asserted, is that in FIRREA Congress defined “SAIF reserve ratio”-a ratio that the Banks say lay at the heart of the calculations the FDIC made in preparing for the assessment- *956 **333 using a narrower phrase than what appears in the statutory definition of designated reserve ratio. Specifically, whereas in FIRREA Congress defined designated reserve ratio simply as “1.25 percent of estimated insured deposits,” it defined SAIF reserve ratio as “the ratio of the net worth of the [SAIF] to the value of the aggregate estimated insured deposits held in all [SAIF] members.” 12 U.S.C. § 1817(l) (7) (emphasis added). Since AADA are held by BIF members, the Banks argued, they do not qualify as “insured deposits held in all [SAIF] members.” According to the Banks, had the FDIC excluded AADA, they would have paid over $800 million less as part of the one-time assessment. The Banks asked FDIC to refund that money.
+ 
+The FDIC’s Board of Directors issued a decision denying the Banks’ refund request, largely on the ground that AADA can constitute “insured deposits held in all [SAIF] members” because under FIRREA financial institutions can be members of both BIF and SAIF. Challenging this decision, the Banks filed two separate suits in the United States District Court for the District of Columbia, charging that the Funds Act unambiguously required the FDIC to exclude AADA from its calculation of SAIF-insured deposits. In two separate opinions, the district court rejected their argument and granted the FDIC’s motion to dismiss, holding that the Funds Act unambiguously required the FDIC to include AADA. The court went on to hold that even were the statute ambiguous, the FDIC’s approach was reasonable. Most of the Banks, appellants herein, now appeal, and because the two cases present the same issue, we consolidated them and now resolve them together.
+ 
+
+II.
+We review de novo the district court’s dismissal of the complaint, see, e.g., Taylor v. FDIC, 132 F.3d 753, 761 (D.C.Cir.1997), and “therefore, in effect, review directly the decision of the [agency],” Lozowski v. Mineta, 292 F.3d 840, 845 (D.C.Cir.2002). Because the Banks challenge the FDIC’s interpretation of a statute the agency is charged with implementing, we proceed under the well-known framework set forth in Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984). We thus begin by asking “whether Congress has directly spoken to the precise question at issue. If the intent of Congress is clear, that is the end of the matter; for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress.” Id. at 842-43, 104 S.Ct. 2778. Normally, were we to find the statute ambiguous, we would next ask “whether the agency’s answer [to the precise question at issue] is based on a permissible construction of the statute.” Id. at 843, 104 S.Ct. 2778. In this case, however, the Banks make a Chevron step-one argument only, asserting that the Funds Act unambiguously resolves the question of whether the FDIC was to include AADA for purposes of calculating the proper assessment rate. They never argue that even if the Funds Act is ambiguous, they should still prevail because the FDIC’s interpretation of the statute is unreasonable. See Appellants’ Br. at 26 (“[T]he Funds Act is not ambiguous.... Accordingly, there is no basis for reaching Chevron step two in this case.”). We thus begin and end our analysis at Chevron step one.
+ 
+The Banks assert that the Funds Act clearly required the FDIC to exclude AADA in calculating the SAIF reserve ratio because a key phrase in that ratio’s definition is “estimated insured deposits held in all [SAIF] members.” 12 U.S.C. § 1817(l)(7) (emphasis added). “On its face,” the Banks insist, “this phrase does not include any deposits held by BIF members.” Appellants’ Br. at 18. The *957 **334 FDIC responds that the Banks’ focus on the term “ SAIF reserve ratio” is misplaced because the Funds Act does not use that term. Instead, it refers to the designated reserve ratio, which-because it applies to BIF as well as SAIF-omits the words “held in all [SAIF] members” and simply uses the phrase “estimated insured deposits.” See Funds Act § 2710(6). According to the FDIC, “[f]ocusing on the real statutory language quickly demolishes the Banks’ ‘plain language’ argument.” Appellee’s Br. at 19. The Banks reply that even though the Funds Act mentions only the designated reserve ratio, that ratio “is not an independent concept,” but “must be interpreted in tandem with the SAIF reserve ratio.” Appellants’ Reply Br. at 2.
+ 
+We need not resolve this dispute, for even assuming that the Banks are correct, their argument suffers from a simple but fatal flaw: it depends entirely on the erroneous assumption that the Funds Act unambiguously precludes financial institutions from membership in both BIF and SAIF. The argument depends entirely on this assumption because if financial institutions could be members of both funds, then the phrase “insured deposits held in all [SAIF] members” would encompass AADA even though AADA are held by BIF members, as those BIF members could also be SAIF members. The assumption is flawed, and hence the argument’s dependence on it fatal, because just last term we squarely rejected the assumption, ruling in the identically named case of Wells Fargo, N.A. v. FDIC that nothing in FIRREA clearly precludes institutions from membership in both funds. See 310 F.3d at 206. “[S]ection 1817(l)’s definitions” of BIF and SAIF, we held, “do not prohibit institutions from being members of both funds simultaneously.” Id. The Banks may prevail, therefore, only if we find statutory language that we deemed ambiguous last term to be unambiguous now.
+ 
+Rather than urging us to overrule Wells Fargo, something this panel obviously lacks authority to do, see LaShawn A. v. Barry, 87 F.3d 1389, 1395 (D.C.Cir.1996) (en banc), the Banks argue that Wells Fargo is inapplicable to this case. Their reasons for so thinking, however, are unpersuasive.
+ 
+First, the Banks insist that this case involves a different question than did Wells Fargo. But while the ultimate question in that case was indeed different-hardly surprising, as one would hope parties wouldn’t re-litigate the exact issue they lost on eighteen months ago-the intermediate question, on which the ultimate question depended in that case and also depends here, was identical: does the statute clearly bar financial institutions from membership in both BIF and SAIF? Our answer to that question in Wells Fargo must also be our answer here, and that answer dooms the Banks’ Chevron step-one argument, the only argument they make.
+ 
+Next, the Banks point out that in Wells Fargo we interpreted the language of FIRREA, while here we interpret the language of the Funds Act. That makes no difference, however, because the Funds Act draws its definitions of the key terms-“SAIF member” and “BIF member”-from FIRREA: “[t]he terms ‘Bank Insurance Fund member’ and ‘Savings Association Insurance Fund member’ have the same meanings as in” FIRREA. Funds Act § 2710(2). As we held in Wells Fargo, those definitions do not unambiguously bar financial institutions from belonging to both funds, meaning that AADA can be “insured deposits held in all [SAIF] members.”
+ 
+Finally, the Banks point out that in the Funds Act, Congress used a newly created *958 **335 term, “SAIF-assessable deposit,” to describe funds subject to the one-time assessment. See Funds Act § 2710(8). Because the new term specifically includes AADA, the Banks argue that the phrase “deposits held in all [SAIF] members”-which the Banks say the FDIC used in determining the size of the assessment-must not include AADA. Otherwise, “it would not have been necessary for Congress to create the new term.” Appellants’ Br. at 19. Indeed, the Banks add, “Congress’s decision to create a new term demonstrates its recognition that BIF-member AADA was not a deposit held in a SAIF member for purposes of the Funds Act.” Id.
+ 
+Like the Banks’ basic argument, this contention rests on a false premise. Although it is certainly true that “[w]hen Congress uses different language in different places in the same statute, a court must presume that Congress intended the language to have different meanings,” id. at 19 (citing Barnhart v. Sigmon Coal Co., 534 U.S. 438, 452, 122 S.Ct. 941, 951, 151 L.Ed.2d 908 (2002)), that rule has no applicability to this case. As noted above, the Funds Act nowhere uses the term SAIF reserve ratio, which contains the phrase “deposits held in all [SAIF] members.” The Act mentions only the designated reserve ratio, which omits that phrase. Hence, the Banks’ assertion that we should interpret the phrase as excluding AADA because it appears in the same statute as the term “SAIF-assessable deposits,” which explicitly includes AADA, fails, for in fact the two do not appear in the same statute.
+ 
+In any event, we disagree with the Banks’ argument that Congress must have created the new term because it knew that the phrase “deposits held in all [SAIF] members” unambiguously excluded AADA. Congress may instead have reached the same conclusion we did in Wells Fargo, i.e., that the phrase is ambiguous because FIRREA’s (and hence the Funds Act’s) definitions of BIF member and SAIF member do not preclude dual membership. Rather than use an ambiguous phrase, Congress may have decided to create and use an unambiguous one. To be sure, we cannot know whether Congress made such a decision, but given the possibility that it did-a possibility we think no less plausible than the Banks’ explanation for Congress’s action-we decline the Banks’ invitation to declare unambiguous the language that we deemed ambiguous just last term.
+ 
+The district court’s judgments are affirmed.
+ 
+So ordered.
+ 
+All Citations
+367 F.3d 953, 361 U.S.App.D.C. 330
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

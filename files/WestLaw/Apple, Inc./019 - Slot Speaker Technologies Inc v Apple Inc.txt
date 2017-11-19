@@ -1,0 +1,378 @@
+
+
+ 
+
+
+Slot Speaker Technologies, Inc. v. Apple Inc.
+United States Court of Appeals, Federal Circuit. | February 17, 2017 | 680 Fed.Appx. 932 | 2017 WL 655440
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Slot Speaker Techs., Inc. v. Apple Inc., 680 F. App’x 932 (Fed. Cir. 2017)
+
+All Citations:
+
+680 Fed.Appx. 932
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+680 Fed.Appx. 932
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+SLOT SPEAKER TECHNOLOGIES, INC., Appellant
+v.
+APPLE INC., Cross-Appellant
+2015-2038
+|
+2015-2039
+|
+Decided: February 17, 2017
+Synopsis
+Background: On inter partes review of patent directed to sound reproduction system with speaker configuration providing relatively narrow sound output region in relation to size of speaker face utilized, the United States Patent and Trademark Office, Patent Trial and Appeal Board, 2015 WL 3638275, concluded that two claims would have been obvious over prior art, but another claim would not have been obvious. Parties appealed.
+ 
+Holdings: The Court of Appeals, O’Malley, Circuit Judge, held that:
+ 
+[1] prior art publication, in combination with prior art patent, taught all elements of claim;
+ 
+[2] sufficient teaching or motivation existed to combine prior art publication with prior art patent, as required for sound damping material claim to be obvious;
+ 
+[3] sound emanating claim was obvious; and
+ 
+[4] person of ordinary skill in the art would have found sufficient teaching or motivation to modify straight back wall in prior art patent to curved shape described in prior art publication, even though there is no explicit teaching to that effect in prior art publication.
+ 
+Affirmed in part and reversed in part.
+ 
+
+
+West Headnotes (7)
+
+
+[1]
+
+PatentsElectricity and Electronics
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)3Particular Fields of Invention
+291k758Electricity and Electronics
+291k759In general
+
+
+Prior art publication disclosing small-sized speaker system with narrow-profile configuration and speaker driver positioned perpendicular to sound duct, in combination with prior art patent that disclosed every limitation of claim in patent except for “sound damping material forming sides of the sound duct,” taught all elements of claim regarding “sound damping material forming sides of the sound duct” in patent directed to sound reproduction system with speaker configuration that provided relatively narrow sound output region in relation to size of speaker face utilized, as required for sound damping claim to be obvious.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsElectricity and Electronics
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)3Particular Fields of Invention
+291k758Electricity and Electronics
+291k759In general
+
+
+Sufficient teaching or motivation existed to combine prior art publication that disclosed small-sized speaker system with narrow-profile configuration and speaker driver positioned perpendicular to sound duct in combination with prior art patent that disclosed every limitation of claim in patent except for “sound damping material forming sides of the sound duct,” as required for claim regarding “sound damping material forming sides of the sound duct” in patent directed to sound reproduction system with speaker configuration that provided relatively narrow sound output region in relation to size of speaker face utilized to be obvious, since person of ordinary skill in the art would have recognized that publication’s sidewall-only placement of sound damping material suppressed standing waves.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsElectricity and Electronics
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)3Particular Fields of Invention
+291k758Electricity and Electronics
+291k759In general
+
+
+In patent directed to sound reproduction system with speaker configuration that provided relatively narrow sound output region in relation to size of speaker face utilized, claim regarding “wherein sound emanating from the output slot is characterized by a wide horizontal dispersion angle and a narrow vertical dispersion angle as a result of the elongate output slot” was obvious, where person of ordinary skill in the art would have been motivated to combine prior art patent that disclosed “an elongate output slot and emit[ted] sound characterized by a wide horizontal dispersion angle and a narrow vertical dispersion angle as a result of the elongate output slot” with prior art publication that disclosed small-sized speaker system with narrow-profile configuration and speaker driver positioned perpendicular to sound duct.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsElectricity and Electronics
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)3Particular Fields of Invention
+291k758Electricity and Electronics
+291k759In general
+
+
+Person of ordinary skill in the art would have found sufficient teaching or motivation to modify straight back wall in prior art patent to curved shape described in prior art publication, even though there was no explicit teaching to that effect in prior art publication, as required to find that claim obvious regarding sound damping material forming back wall of sound duct that followed curved contour of speaker cone in patent directed to sound reproduction system with speaker configuration that provided relatively narrow sound output region in relation to size of speaker face utilized, since costs and benefits of curved wall design choice was well known.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 8,457,340. Cited.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 3,687,220. Cited as Prior Art.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 7,433,483. Invalid.
+Cases that cite this headnote
+
+
+
+*933 Appeals from the United States Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2014-00235.
+Attorneys and Law Firms
+KENNETH J. HALPERN, Perkins Coie, LLP, Palo Alto, CA, argued for appellant. Also represented by ERIC L. WESENBERG, CHRISTOPHER LEE KELLEY.
+MARK CHRISTOPHER FLEMING, Wilmer Cutler Pickering Hale and Dorr LLP, Boston, MA, argued for cross-appellant. Also represented by BRYAN S. CONLEY, KEVIN GOLDMAN; NINA S. TALLON, DAVID LANGDON CAVANAUGH, Washington, DC; NATALIE POUS, New York, NY.
+Before Lourie, Dyk, and O’malley, Circuit Judges.
+Opinion
+O’malley, Circuit Judge.
+
+Appellee/Cross-Appellant Apple Inc. (“Apple”) filed a petition for inter partes review of various claims of U.S. Patent No. 7,433,483 (“the ‘483 patent”), assigned to Appellant/Cross-Appellee Slot Speaker Technologies, Inc.1 (“Slot Speaker”). The Patent Trial and Appeal Board (“the Board”) instituted review on claims 1–3 of the ’483 patent, and concluded that claims 1 and 2 would have been obvious over prior art, but claim 3 would not have been obvious. Apple Inc. v. THX Ltd., IPR2014-00235, 2015 WL 3638275 (P.T.A.B. June 9, 2015) (“Board Decision”). Slot Speaker appeals the Board’s decision on claims 1 and 2; Apple cross-appeals the Board’s decision on claim 3. We conclude that substantial evidence supports the Board’s finding that claims 1 and 2 of the ’483 patent would have been obvious. We conclude that the Board erred, however, in ruling that claim 3 of the ’483 patent would not have been *934 obvious. We therefore affirm-in-part and reverse-in-part.
+ 
+
+I. BACKGROUND
+A. The ’483 Patent
+The ’483 patent is directed to a sound reproduction system with a speaker configuration providing a “relatively narrow sound output region in relation to the size of the speaker face(s) utilized in the sound reproduction system.” ’483 patent, col. 3 ll. 22–26. Figures 1 and 2B of the ’483 patent, shown below, depict the configuration of the speaker and sound duct walls. The speaker 107 is mounted perpendicular to the sound duct 115, such that sound is redirected from the speaker, through the sound duct, and exits an output aperture 106. The duct wall 103 opposite the speaker has a sound reflecting surface, while sound damping material is added to the sidewalls 104 and 105 and the back wall 112.
+ 
+
+​
+Id. figs. 1–2.
+ 
+The sound damping material reduces standing waves inside the duct. Standing waves occur when sound is trapped between opposite reflecting walls, at frequencies where the distance between the walls is an integer number of half-wavelengths. These unwanted resonances diminish the quality of the projected sound. Because the speaker is narrow vertically, standing waves do not form in the vertical direction and, thus, sound damping material is not required on the top and bottom surfaces. The ’483 patent teaches the elimination of standing waves in the horizontal direction by placing sound damping material on the sidewalls and back wall of the sound duct. Id. col. 8, ll. 17–28.
+ 
+The Board instituted review on claims 1–3 of the ’483 patent. Claim 1 of the ’483 patent recites:
+A narrow profile sound system, comprising:
+a drive unit disposed on a mounting surface, said mounting surface forming a barrier acoustically isolating the drive unit’s forward radiation from its rearward radiation;
+a sound reflecting surface facing the drive unit and substantially parallel with the mounting surface; and
+sound damping material disposed between said sound reflecting surface and the mounting surface, the sound reflecting surface and the mounting surface defining a bottom and top of a narrow sound duct terminating in an elongate output slot, with the sound damping material forming the sides of the sound duct, whereby forward radiation from the drive unit is turned at a substantially right angle and channeled along a straight path towards the output slot;
+wherein the sound damping material forms an outer shape of the sound duct which reduces sound reflections at the end of the sound duct opposite the output *935 slot and thereby mitigates standing waves.
+Id. col. 29, l. 62–col. 30, l. 13.
+ 
+Claim 2 depends from claim 1, adding the limitation that “sound emanating from the output slot is characterized by a wide horizontal dispersion angle and a narrow vertical dispersion angle, as a result of the elongate shape of the output slot.” Id. col. 30, ll. 14–19.
+ 
+Claim 3 depends from claim 1 and includes the additional limitation that the “sound damping material forms a back wall of the sound duct, said back wall substantially following a curved contour of a portion of a drive unit cone farthest opposite from the output slot.” Id. col. 30, ll. 20–33.
+ 
+
+B. Prior Art
+The Board instituted based on three prior art references; two are relevant to this appeal.2
+ 
+
+1. Tomonori
+Tomonori et al., EP 0744880 A1 (“Tomonori”), discloses a speaker mounted perpendicular to a sound duct, such that sound from the speaker is directed through the duct and exits a narrow aperture positioned along the side of the television screen, as shown below.
+ 
+
+​
+Tomonori, figs. 1, 7. Tomonori recognizes that one of the problems of directing sound through a duct is the presence of “standing waves.” Id. col. 2, ll. 12–18. Tomonori describes that standing waves are produced when “some of the sound waves are reflected owing to a marked change in the acoustic impedance at the tube open end and return toward the speaker 12 to produce standing waves.” Id. col. 2, ll. 46–49. Standing waves create resonant frequencies that interfere with other soundwaves and degrade the quality of sound leaving the sound duct.
+ 
+To eliminate the formation of standing waves, Tomonori provides two solutions. First, Tomonori locates the speaker at an “anti-node,” one-third to one-fifth of the *936 distance of the total length of the sound tube from its closed back end. Id. col. 2, ll. 45–50. Figure 16 illustrates this configuration.
+ 
+
+​
+Id. fig. 16. Second, Tomonori teaches that the duct should be “internally provided with a sound absorbing material ... adapted to absorb standing waves.” Id. col. 1, l. 57–col. 2, l. 5. To this end, Tomonori discloses adding sound absorbing material to the back wall of the sound duct. By absorbing and eliminating the standing waves, Tomonori teaches that the sound quality is improved. Id. col. 8, ll. 19–25.
+ 
+
+2. Sadaie
+Sadaie et al., WO Pub. No. 00/52958 (“Sadaie”), discloses a small-sized speaker system with a narrow-profile configuration and a speaker driver positioned perpendicular to a sound duct. Sadaie’s speaker system is designed to enhance speaker response at the low end of the frequency spectrum. Sadaie teaches that the sidewalls and back wall of the sound duct may be lined with two different layers, “pressure absorbing material” and “acoustic material,” which both shapes the path through which sound travels and regulates pressure and unwanted noise inside the duct. J.A. 581–82.
+ 
+As depicted in Figure 17 (side view, below left), the speaker driver 11 is mounted inside an enclosure 10. As shown in the overhead view in Figure 18 (below right), sound travels from the speaker driver through a sound duct referred to as a “sound guiding part 40.” The sound duct, or sound guiding part, has two sections: a “sound source space 41” that encompasses the area beneath the speaker driver, and a “sound path 42” that extends from the sound source space to the output aperture 45.
+ 
+
+​
+*937 Sadaie, figs. 17–18; J.A. 609–10. The top wall of the Sadaie sound duct is formed by the speaker enclosure, the bottom wall is referred to as the “wall body 50”, and an “intermediate member 30” forms the sidewalls and back wall. Sadaie teaches that some or all of the wall surface may be covered with a “pressure absorbing material 31” to define the shape of the sound duct. As seen in Figure 18, pressure absorbing material may be added to the surface of the intermediate member to create a sound path with curved walls.
+ 
+This pressure absorbing material is added to “enable[ ] control of the bass reproduction capability, output characteristics, noise, wind noise, and the like of the obtained speaker system.” J.A. 582. The pressure absorbing material “does not require sound absorbency but may have sound absorbency.” J.A. 582. Sadaie teaches that sound absorbency is particularly beneficial to “improve sound quality” when it is used to reduce high frequency sounds like wind noise. J.A. 582.
+ 
+Sadaie teaches that the pressure absorbing material may be further padded with an “acoustic material 32.” Like the pressure absorbing material, the acoustic material “does not require sound absorbency but may have sound absorbency.” J.A. 583. In the preferred embodiment, the acoustic material is a sound damping material such as a felt or soft film. J.A. 583. Sadaie explains that the acoustic material “may be provided on an entire surface of the wall surface of the sound guiding part” or it “may be disposed on any appropriate position on the wall surface according to the purpose.” J.A. 582.
+ 
+
+C. Procedural History
+Slot Speaker sued Apple in the Northern District of California, alleging infringement of U.S. Patent No. 8,457,340 (“the ‘340 patent”), which shares a common specification with the ’483 patent. Thereafter, Apple filed (1) a petition for inter partes review of claims 1–6, 8, 10, and 18–20 of the ’483 patent, and (2) a petition requesting inter partes review of claims 1–7 and 29–34 of the ’340 patent. The Board instituted inter partes review on claims 1–3 of the ’483 patent, but declined to institute inter partes review on any claim of the ’340 patent. The parties stipulated to a stay of the civil proceedings.
+ 
+The Board issued its Final Written Decision on the patentability of the ’483 patent on June 9, 2015, determining that claims 1 and 2 would have been obvious over Tomonori in view of Sadaie, but that claim 3 would not have been obvious. Board Decision, 2015 WL 3638275, at *2. Both parties appealed from those respective aspects of the Board’s decision which were adverse to them. We have jurisdiction over Slot Speaker’s appeal and Apple’s cross-appeal under 35 U.S.C. §§ 141(c), 319 and 28 U.S.C. § 1295(a)(4)(A).
+ 
+
+II. STANDARD OF REVIEW
+Obviousness is a question of law based on underlying factual findings, including the scope and content of prior art references and the existence of a reason to combine those references. In re Hyon, 679 F.3d 1363, 1365–66 (Fed. Cir. 2012). We uphold the Board’s factual findings unless they are not supported by substantial evidence, while we review the Board’s legal conclusions de novo. Dynamic Drinkware, LLC v. Nat’l Graphics, Inc., 800 F.3d 1375, 1378 (Fed. Cir. 2015). A finding is supported by substantial evidence if a reasonable mind might accept the evidence to support the finding. In re Jolley, 308 F.3d 1317, 1320 (Fed. Cir. 2002).
+ 
+
+III. DISCUSSION
+A. Obviousness of Claims 1 and 2
+[1]Slot Speaker appeals the Board’s determination that claims 1 and 2 of *938 the ’483 patent would have been obvious over Tomonori in light of Sadaie. Neither party challenges the Board’s claim construction of the term “sound reflecting surface”: “a surface that redirects sound waves output from a speaker, not made of sound damping material.” Board Decision, 2015 WL 3638275, at *4–7. Under this construction, the Board found that Tomonori discloses every limitation of claim 1 of the ’483 patent, except for “sound damping material forming sides of the sound duct.” Id. at *8–10.
+ 
+Sound damping material is used in the ’483 patent on the sidewalls and optionally the back wall of the sound duct, but not on the top or bottom surfaces. This configuration prevents “expansion of the sound waves in a rearward direction, [ ] thereby reducing potential interference or other undesirable acoustic effects.” ’483 patent, col. 22, l. 64–col. 23, l. 3. Claim 1 further specifies that “sound damping material forms an outer shape of the sound duct which reduces sound reflections at the end of the sound duct opposite the output slot and thereby mitigates standing waves.” Id. col. 30 ll. 10–13. The Board determined that the sound damping material Tomonori discloses at the closed end of its sound tube “fulfills the same function disclosed in the ’483 patent even though it does not form the sides of the sound duct.” Board Decision, 2015 WL 3638275, at *12.
+ 
+The Board then analyzed whether one of ordinary skill in the art would have been motivated to combine Sadaie with Tomonori to use sound damping material to form the sides of Tomonori’s sound duct. The Board concluded that Sadaie shows that the use of sound damping material along the sides of a sound duct is “a known configuration to suppress standing waves inside a duct.” Id. Apple’s expert Dr. Vipperman explained that Sadaie used a sidewall sound damping method to enable “the sharpness of a fundamental wave resonance of a standing wave determined by the length of the sound path ... to be suppressed because a substantial length of the sound path cannot be primarily determined.” J.A. 530. The Board found that “[e]xtending the damping material of Tomonori along the sidewalls of the duct, as taught by Sadaie, would have been one of a limited number of known solutions further minimizing the presence of spurious resonances and standing waves inside the duct.” Board Decision, 2015 WL 3638275, at *12 (quotation omitted). In light of Sadaie’s teachings, the Board found that a person of ordinary skill in the art would have been motivated to modify Tomonori by using sound damping material along the sides of the narrow sound duct.
+ 
+Slot Speaker disputes the Board’s use of Sadaie to disclose the extension of sound damping material along the sidewalls of the duct. We conclude, however, that substantial evidence supports the Board’s findings that (1) Sadaie discloses the extension of sound damping material along the sidewalls of the duct, and (2) there is a sufficient teaching or motivation to combine Sadaie and Tomonori.
+ 
+The plain language of Sadaie discloses the extension of sound damping material along the sidewalls of the duct. Sadaie teaches that the wall surface (the surface of the intermediate member) may be “pressure absorbing material” and an “acoustic material,” and that “[t]he pressure absorbing material does not require sound absorbency but may have sound absorbency,” and in the preferred embodiment, the pressure absorbing material is a sound damping material such as foam. J.A. 582. The acoustic material “does not require sound absorbency but may have sound absorbency,” and, in the preferred embodiment, the acoustic material is a sound damping material such as felt. J.A. *939 583. Sadaie teaches that the pressure absorbing material and acoustic material may extend along the sidewalls from the area near the speaker to the output aperture.
+ 
+Sadaie further teaches that pressure absorbing material can be used to mitigate standing waves:
+[T]he pressure absorbing material in the defined section 31 enables the sharpness of a fundamental wave resonance of a standing wave determined by the length of the sound path 42 to be suppressed because a substantial length of the sound path cannot be primarily determined.
+J.A. 584. The pressure absorbing material of Sadaie may absorb both pressure and sound from the standing wave. Sadaie explains that “the pressure absorbing material in combination with the acoustic material allows the slight sound absorption that exists in the pressure absorbing material (for example, urethane foam) in the bass range to be nearly zero, thereby further suppressing the energy loss in the bass range.” J.A. 583. Given these teachings, we conclude that the Board did not commit error when it referred to Sadaie’s mitigation of standing waves with sound damping material, rather than pressure absorbing material.
+ 
+We also conclude that substantial evidence supports the Board’s determination that Sadaie teaches sidewall-only placement of the sound damping material. In fact, Slot Speaker’s counsel conceded during the oral hearing before the Board that Sadaie does not only teach the placement of sound absorbing material on all sides of the duct:
+JUDGE MURPHY: I mean, if we only focus on the structure, Sadaie—even in the paragraph that you have reproduced for us on slide 28, bottom of page 12 of Sadaie, it indicates that the sound absorbing material, which is in that pressure adjustment section 32, which is described as felt or a thin film of some sort, or soft film in Sadaie, it may be only on the wall surface of one side of the sound path, so that’s one side of a sound duct. It could be one side. It could be two sides. It could be all sides. It’s not only all sides, right?
+MR. KELLEY: It is not only all sides, you’re correct.
+J.A. 373 ll. 2–13 (emphasis added). Slot Speaker implicitly concedes that Sadaie teaches sidewall-only placement, because Slot Speaker reads Sadaie as allowing the “placement of pressure absorbing material with a sound absorbing surface ‘on any appropriate position on the wall surface according to the purpose.’ ” Slot Speaker Opening Br. at 57 (quoting J.A. 582).
+ 
+Despite this concession, Slot Speaker argues that sidewall-only placement is a species within the genus of placement of sound absorbing material on any appropriate position of the wall surface. We disagree with Slot Speaker’s interpretation of the surfaces on which sound damping material can be placed. Sadaie distinguishes between the intermediate member surface (sidewalls and back wall), the “wall body” surface (the bottom wall opposite the speaker), and the speaker enclosure (the top wall that holds the speaker driver). Sadaie teaches that pressure absorbing material and acoustic material are placed on the intermediate member. J.A. 581–83; J.A. 808–11 (¶¶ 22–26). Sadaie further discloses particular embodiments, claims 9 and 19, where sound absorbing material is placed only along the intermediate member. J.A. 594; J.A. 596. We therefore conclude that Sadaie teaches the placement of two different types of sound damping material on its sidewalls and back wall, not its *940 top wall or bottom wall.3
+ 
+[2]Having concluded that Tomonori and Sadaie teach all of the elements of claim 1, we turn to whether substantial evidence supports the Board’s finding of a teaching or motivation to combine these references. “An invention is not obvious just ‘because all of the elements that comprise the invention were known in the prior art;’ rather a finding of obviousness at the time of invention requires a ‘plausible rational [sic] as to why the prior art references would have worked together.’ ” Broadcom Corp. v. Emulex Corp., 732 F.3d 1325, 1335 (Fed. Cir. 2013) (quoting Power-One, Inc. v. Artesyn Techs., Inc. 599 F.3d 1343, 1351 (Fed. Cir. 2010)). “An obviousness determination requires that a skilled artisan would have perceived a reasonable expectation of success in making the invention in light of the prior art.” Amgen Inc. v. F. Hoffman-La Roche Ltd., 580 F.3d 1340, 1362 (Fed. Cir. 2009) (citation omitted).
+ 
+The Board did not conclude that a person of ordinary skill in the art simply would have substituted Sadaie into Tomonori. Instead, the Board found that such a person would have recognized, based on the teachings of Sadaie, that the sound damping material along Tomonori’s back wall could be extended along Tomonori’s sidewalls to suppress unwanted soundwaves. Board Decision, 2015 WL 3638275, at *12–13.
+ 
+Slot Speaker attempts to reframe “success” in this inquiry as the production of full-range sound, which Slot Speaker contends would be impossible through the combination of Tomonori and Sadaie, given that Sadaie focuses on the production of low frequency bass sounds. We agree with the Board, however, that the ’483 patent claims do not require absorption of specific resonances at specific frequencies, nor any specific threshold with respect to signal loss. They merely require sound damping material on the sidewalls, and material that absorbs any type of sound satisfies the “sound damping material” element. Id.
+ 
+The relevant inquiry is whether a person of ordinary skill in the art would have had a reasonable expectation of success in modifying Tomonori in light of Sadaie to absorb unwanted soundwaves. It is irrelevant whether Tomonori and Sadaie together would be less effective than Sadaie alone at avoiding the absorption of certain low frequencies. See, e.g., In re Kahn, 441 F.3d 977, 990 (Fed. Cir. 2006). And Slot Speaker’s argument that Tomonori and Sadaie are incompatible because they are directed to different goals fails because a person of ordinary skill would not have ignored Sadaie’s teachings on the use of sound damping materials on its sidewalls to absorb unwanted soundwaves just because Sadaie discloses that its material also absorbs pressure. KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 420, 127 S.Ct. 1727, 167 L.Ed.2d 705 (2007) (“[A]ny need or problem known in the field of endeavor at the time of invention and addressed by the patent can provide a reason for combining the elements in the manner claimed.”).
+ 
+To this effect, Tomonori and Sadaie both disclose multiple configurations for sound ducts. Tomonori also discusses that the use of sound absorbing material was a known solution to suppress standing waves. Tomonori, col. 1, l. 57–col. 2 l. 3. Sadaie also *941 discloses that the use of sound absorbing material along the sides of a sound duct was a known configuration to suppress unwanted soundwaves. J.A. 582. Finally, Apple’s expert Dr. Vipperman explained that the addition of Sadaie’s sidewall-only sound damping material would be a routine design choice, as “one of a limited number of known solutions to minimize the presence of standing waves and other unwanted soundwaves inside the duct.” J.A. 531. Based on this showing, we conclude that substantial evidence supports the Board’s finding that a person of ordinary skill in the art would have recognized that Sadaie’s sidewall-only placement of sound damping material suppresses standing waves.
+ 
+[3]On dependent claim 2, the Board found that Tomonori disclosed “an elongate output slot and emit[ted] sound characterized by a wide horizontal dispersion angle and a narrow vertical dispersion angle as a result of the elongate output slot.” Board Decision, 2015 WL 3638275, at *14. Given that claim 2 adds the additional limitation “wherein sound emanating from the output slot is characterized by a wide horizontal dispersion angle and a narrow vertical dispersion angle as a result of the elongate output slot,” ’483 patent, col. 30, ll. 14–19, the Board concluded that Apple had established by a preponderance of the evidence that the combination of Tomonori and Sadaie would have rendered claim 2 obvious to a person of ordinary skill in the art. Because Slot Speaker has not disputed the Board’s findings with respect to claim 2 specifically, we also affirm the Board’s determination of obviousness on claim 2.
+ 
+For these reasons, we affirm the Board’s determination that claims 1 and 2 would have been obvious over Tomonori in view of Sadaie.
+ 
+
+B. Obviousness of Claim 3
+Apple cross-appeals from the Board’s determination that claim 3 of the ’483 patent would not be rendered obvious by Tomonori in view of Sadaie. As noted above, claim 3 adds the additional limitation to claim 1, “wherein said sound damping material forms a back wall of the sound duct, said back wall substantially following a curved contour of a portion of a drive unit cone farthest opposite from the output slot.” ’483 patent, col. 30, ll. 20–23. The Board concluded that Tomonori failed to disclose sound damping material that followed a curved contour of a portion of the speaker cone farthest opposite the output slot, as required by claim 3. Board Decision, 2015 WL 3638275, at *15. The Board then concluded that Sadaie’s pressure/sound damping material (labeled as 31 and 32) does not follow the curved portion of the speaker cone 21 “farthest opposite from the output slot [45]” to form a back wall to the sound duct. Id.
+ 
+The Board also found that Apple’s expert failed to explain why a person of ordinary skill in the art would have relied on Sadaie’s disclosure of a preferred embodiment where the “sound guiding part [40] has a sound source space [41] defined according to a peripheral edge portion of the above speaker unit,” to modify the shape of the sound damping material by following the curved contour of a speaker cone, as required by claim 3. Id. at *16.
+ 
+We first assess whether all of the elements of claim 3 can be found in either Tomonori or Sadaie. We disagree with the Board’s conclusion that Apple and its expert failed to identify “any examples in the prior art of sound damping material forming a back wall of a sound duct that follows a curved contour of a speaker cone.” Id. at *15 (emphasis in original). The Board focused its analysis on Figure 18 of Sadaie to find that the sound damping material *942 did not follow the curved portion of the speaker cone farthest opposite from the output slot to form the back wall. But the claim 3 limitation requires a “back wall substantially following a curved contour of a portion of a drive unit cone farthest opposite from the output slot.” ’483 patent, col. 30, ll. 19–23 (emphasis added). There is no requirement that the back wall follow the entire contour of the speaker cone. Sadaie expressly discloses embodiments where the back wall substantially follows the curve of the speaker cone farthest opposite the output slot (in Figures 3 and 4 below). Indeed, the Board acknowledged that Figure 4 of Sadaie, shown below, “shows a circular peripheral outer edge of Sadaie’s sound guide.” Board Decision, 2015 WL 3638275, at *15 n.12.
+ 
+
+​
+Sadaie, figs. 3–4; J.A. 599–600.
+ 
+In addition, Sadaie teaches a back wall covered with sound damping material. Sadaie teaches that the sound guiding part 40 has two sections: the sound source space 41 encompassing the area beneath the speaker driver; and a sound path 42 extending from the sound source space to the output duct 45. These surfaces form the side and back walls of the duct. Sadaie teaches that:
+[T]he pressure adjustment section 32 may be [1] equipped on the entire wall surface of the sound path 42, or [2] it may be equipped only on the wall surface of one side of the sound path 42, or [3] it may be equipped on the wall surface from the sound source space 41 to the sound path 42.
+J.A. 582–83 (bracketed characters added). As discussed above, we agree with Apple that Sadaie refers to “pressure adjustment section 32” as containing acoustic material. Sadaie further teaches that the acoustic material may be placed anywhere on the sound guiding part 40:
+The pressure adjustment section 32 may be provided on an entire surface of the wall surface of the sound guiding part 40. The pressure adjustment section 32 may be disposed on any appropriate position on the wall surface according to the purpose.
+J.A. 582. Thus, Sadaie discloses that the acoustic material may be placed on the back wall of the sound duct.
+ 
+Figure 18, supra, shows Example [1], where the pressure adjustment section is equipped along the entire wall of the sound path 42. Figure 18 also shows Example [1] *943 because the acoustic material extends along the surface walls of the sound path, but does not cover the surface walls of the sound source space. Example [3] teaches an embodiment where the pressure absorbing material and acoustic material extend along both the sound path 42 and the sound source space 41. In this embodiment, both of these materials would extend along the back wall of the sound duct (the wall furthest from the output duct 45). The parties do not dispute that acoustic material can be sound absorbing material. Thus, Example [3] teaches a back wall substantially following a curved contour of a portion of a drive unit cone farthest opposite from the output slot, made of sound absorbing material.
+ 
+We further conclude that claim 3 does not require “direct proximity” between the speaker driver and the back wall, and, thus, that the presence of a gap between Sadaie’s back wall and speaker cone is not inconsistent with the teachings of the ’483 patent. Indeed, specific embodiments in the ’483 patent include gaps between the back wall of the duct and the speaker driver. ’483 patent, col. 9, ll. 20–32 (the edge of the speaker cone is not required to “match[ ]the contours of the edge of the cylindrical housing” but may vary such that “the cone may be smaller than the diameter of the cylindrical housing 405, or else the speaker 407 may be positioned with an offset from (above or below) the top edge of the cylindrical housing 405.”).
+ 
+[4]We now consider whether a person of ordinary skill in the art would have found a sufficient teaching or motivation to modify Tomonori’s straight back wall to the curved shape described in Sadaie, even though there is no explicit teaching to that effect in Sadaie. There need not be an explicit teaching to combine references in the prior art. Depending on the nature of the technology and the knowledge of those skilled in the art, a motivation to make a particular modification may be a matter of common sense. KSR, 550 U.S. at 418, 420–21, 127 S.Ct. 1727. While we do not rely on common sense lightly, where, as here, the only evidence of record supports the conclusion that the modification at issue is readily within the ken of those skilled in the art, it is appropriate to do so.
+ 
+In addition to the evidence offered to support the finding of a motivation to combine Sadaie with Tomonori to practice claims 1 and 2, Apple proffered expert testimony that it would not have been challenging to modify Tomonori’s back wall to a curved one:
+Limitation 3(b) recites ‘said back wall substantially following a curved contour of a portion of a drive unit cone farthest opposite from the output slot.’ .. [I]t would have been obvious to combine Tomonori with the teachings of Virva and Sadaie. It would have been obvious to one of ordinary skill in the art to use a back wall that substantially follows a curved contour of a portion of a drive unit cone farthest opposite from the output slot. For example, Sadaie discloses that ‘[i]n a preferred embodiment, the above sound guiding part has a sound source space defined according to a peripheral edge portion of the above speaker unit’ ...
+Straight and curved backwalls opposite a sound duct aperture are two among a limited number of options for shaping the back wall of a sound duct, and have both been commonly used in loudspeaker design with predictable results. Given the ubiquity of curved and straight back walls, one of skill in the art would recognize the functions associated with each structure and the attendant benefits, and would select one for its known properties. Thus, it would have been obvious to shape the back wall of Tomonori to *944 follow a contoured edge of a drive unit, as taught by Sadaie and doing so would have been a matter of routine design choice.
+J.A. 533, at ¶¶ 116-17 (internal citations omitted). Apple supports its expert testimony by citing to a textbook offered by Dr. Elliott, Slot Speaker’s expert, explaining the different effects of loudspeaker cabinet shapes on sound diffraction. The textbook explains that the relative effects of straight and curved walls in loudspeakers were well known in the art. There is, moreover, no evidence to suggest that a person of ordinary skill in the art would not have been familiar with the costs and benefits of these well-known design choices.
+ 
+For these reasons, we conclude that the Board erred when it found that the combination of Tomonori and Sadaie did not render claim 3 obvious.
+ 
+
+IV. CONCLUSION
+For the foregoing reasons, we affirm in part and reverse in part the Board’s judgment.
+ 
+AFFIRMED IN PART, REVERSED IN PART
+ 
+
+COSTS
+Costs to Apple.
+ 
+All Citations
+680 Fed.Appx. 932
+Footnotes
+
+1
+
+Slot Speaker Technologies, Inc. was formerly known as THX, Ltd.
+
+2
+
+The Board instituted based in part on U.S. Patent No. 3,687,220 (“Virva” or “the ‘220 patent”), which describes a speaker system that augments the bass-range response of two small speakers by using a serpentine enclosure behind the drive units to create a tuned air column. Virva teaches that “all inside surfaces of the enclosure should be treated with acoustically absorbing material to prevent spurious resonances or standing waves from developing within in the enclosure.” ’220 patent, col. 3, ll. 42–46. In its Final Written Decision, the Board found that a person of ordinary skill in the art would not have utilized the disclosure of Virva in modifying Tomonori. No party appeals that aspect of the decision, so we do not address this reference further.
+
+3
+
+Slot Speaker failed to raise the argument below that placing the pressure absorbing material of Sadaie in Tomonori’s duct would eliminate the “straight path” limitation recited in claim 1 of the ’483 patent. Even if raised, moreover, we would reject its implications because Tomonori discloses a straight duct; Sadaie, accordingly, need not disclose a straight duct in order to reach the conclusion that claims 1 and 2 were obvious.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

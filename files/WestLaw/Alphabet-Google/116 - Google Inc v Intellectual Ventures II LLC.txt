@@ -1,0 +1,218 @@
+
+
+ 
+
+
+Google Inc. v. Intellectual Ventures II LLC
+United States Court of Appeals, Federal Circuit. | July 10, 2017 | --- Fed.Appx. ---- | 2017 WL 2924132
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Google Inc. v. Intellectual Ventures II LLC, No. 2016-1543, 2017 WL 2924132 (Fed. Cir. July 10, 2017)
+
+All Citations:
+
+--- Fed.Appx. ----, 2017 WL 2924132
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+2017 WL 2924132
+Only the Westlaw citation is currently available.
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+GOOGLE INC., Appellant
+v.
+INTELLECTUAL VENTURES II LLC, Cross-Appellant
+2016-1543, 2016-1545
+|
+Decided: July 10, 2017
+Appeals from the United States Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2014-00787.
+Attorneys and Law Firms
+DARYL JOSEFFER, King & Spalding LLP, Washington, DC, argued for appellant. Also represented by JOSHUA NATHANIEL MITCHELL.
+BRENTON R. BABCOCK, Knobbe, Martens, Olson & Bear, LLP, Irvine, CA, argued for cross-appellant. Also represented by EDWARD M. CANNON.
+Before Lourie, Wallach, and Stoll, Circuit Judges.
+Opinion
+Stoll, Circuit Judge.
+
+*1 Appellant Google Inc. sought inter partes review of claims 1–3, 5, 7–10, 12–14, 19–22, and 24–30 of U.S. Patent No. 6,121,960 before the U.S. Patent and Trade-mark Office’s Patent Trial and Appeal Board. The Board instituted review and, in its final written decision, found claims 1–3, 5, 7–10, and 12–14 neither anticipated nor obvious over the prior art. It also determined that claims 19–22 and 24–30 were anticipated and obvious over the considered prior art.
+ 
+Google appeals the Board’s determinations that claims 1–3, 5, 7–10, and 12–14 of the ’960 patent are neither anticipated nor obvious over the prior art. Intellectual Ventures II LLC (“IV”), the owner of the ’960 patent, cross-appeals the Board’s determinations that the prior art anticipates and renders obvious claims 19–22 and 24–30. We vacate and remand the Board’s anticipation and obviousness determinations as to claims 1–3, 5, 7–10, and 12–14, and affirm the Board’s anticipation and obviousness determinations as to claims 19–22 and 24–30.
+ 
+
+BACKGROUND
+I.
+The ’960 patent discloses “a screen peripheral system” that includes “a touch-activated input device for generating and displaying a composite image,” which “simultaneously includes a representation of at least one key, for example a ... keyboard” and a “main image provided by the computing device.” ’960 patent col. 1 l. 65 – col. 2 l. 6. The keyboard representation is preferably laid over the main image. Id. at col. 2 ll. 2–7. Figure 5 of the ’960 patent illustrates an exemplary composite image:
+ 
+
+​
+Id. at Fig. 5.
+ 
+According to the patent, while “[i]t is known in the art to superimpose a keyboard over an image that is output by an application being executed on a computer, i.e. to form a ‘phantom’ keyboard,” id. at col. 1 ll. 25–27, prior art systems “suffer a number of disadvantages,” id. at col. 1 l. 45. For example, one prior art system generates a “phantom” keyboard by flickering between the keyboard and the background images “in alternation” so as to “create the illusion that both images are being displayed continuously” but suffers from disadvantages including compromised image quality, and the requirement for additional hardware and communication bandwidth. Id. at col. 1 ll. 38–61. The patented invention produces a “blended” effect by allowing individual pixels to be dedicated to both the keyboard and the main image, id. at col. 4 ll. 39–41, and purports to overcome these disadvantages.
+ 
+To produce the “blended” effect, the patent discloses “software-based variable-pixel controls” to “determine and control which pixels of the touch screen will be used for displaying the keyboard representation and which pixels [will be used] for displaying the main image.” Id. at col. 4 ll. 31–37. While in some cases, “touch screen pixels may be dedicated to both the keyboard and the main image, producing a ‘blended’ effect,” in other cases, “each pixel of the screen is 100% dedicated to either the keyboard or the main image.” Id. at col. 4 ll. 34–39.
+ 
+*2 The patent discloses that the blending of the keyboard image with the background image “can occur by a variety of methods and programming schemes,” including “bit-block or bit-block-type transfer operations, i.e. BitBlt operations.” Id. at col. 4 ll. 43–49. The patent explains that BitBlt operations “provide an efficient method of performing logical combination[s] of up to three sets of pixels,” id. at col. 4 ll. 50–52, and allow the virtual keyboard to be combined with the display “using a variety of effects,” id. at col. 4 l. 65. The patent summarizes the typical BitBlt operations that can be performed in the table below:
+ 
+
+​
+Id. at col. 5 ll. 1–19.
+ 
+The independent claims at issue are claims 1, 19, and 26. Claims 1 and 191 recite:
+1. A screen peripheral system, comprising:
+a computing device for providing a main image; and
+a touch-activated input device for generating and displaying a composite image visible to a user of the screen peripheral system, the touch-activated input device comprising a plurality of pixels, the composite image simultaneously including:
+a representation of at least one key, the representation of at least one key activating an input function; and
+the main image provided by the computing device, the representation of at least one key being laid over the main image;
+wherein the screen peripheral system implements variable-pixel control to form the representation of at least one key and to form the main image, the variable-pixel control causing pixels selected to form the representation of at least one key in the composite image to depend on and be activated simultaneously with pixels selected to form the main image, such that the main image and the representation of at least one key are displayed simultaneously to form the composite image;
+further wherein the variable-pixel control includes logical operators to provide different blending/merging effects such that individual pixels of the touch-activated input device can be dedicated simultaneously to both the main image and the representation of at least one key.
+Id. at col. 12 ll. 2–29 (emphasis added to highlight disputed claim limitation).
+19. A method of superimposing a representation of at least one key over a main image provided by a computing device, the method comprising:
+(a) using variable-pixel control to form a representation of at least one key, the representation of at least one key activating an input function, and to form the main image, the variable-pixel control causing pixels selected to form the representation of at least one key to be activated simultaneously with pixels selected to form the main image; and
+(b) generating and displaying a composite image visible to a user of the screen peripheral system, the composite image simultaneously including the representation of at least one key and the main image produced by the computing device, the representation of at least one key being superimposed on the main image;
+wherein the variable-pixel control allows individual pixels to be dedicated simultaneously to both the main image and the representation of at least one key.
+Id. at col. 13 ll. 46–64 (emphasis added to highlight disputed claim limitations).
+ 
+
+II.
+Google asserted that all claims of the ’960 patent are anticipated by U.S. Patent No. 5,638,501 (“Gough”) under 35 U.S.C. § 102 and obvious in view of U.S. Patent No. 6,118,427 (“Buxton”)2 under 35 U.S.C. § 103.3 Gough teaches a method and apparatus for “providing a translucent overlay image over a base image on the screen of a computer system,” Gough, Abstract, and Buxton teaches “graphical user interfaces [ (GUIs) ] providing variably-transparent (transparent/semitransparent) layered objects,” Buxton col. 1 ll. 18–20.
+ 
+*3 More specifically, Gough teaches a “Blending Engine” that blends a background image with an overlay image, which may be a keyboard image. Gough col. 8 l. 67 – col. 9 l. 5. Figure 4 of Gough illustrates such a blended image:
+ 
+
+​
+Id. at Fig. 4.
+ 
+Gough explains that blending can be performed on a pixel level using a “computer-implemented blending process,” id. at col. 3 ll. 64–65, conceptually illustrated in Figure 10a–10f below:
+ 
+
+​
+Id. at Figs. 10a–10f.
+ 
+Gough explains that Fig. 10a represents the random access memory (“RAM”) buffer that stores a copy of the background image, Fig. 10b represents the RAM screen overlay buffer that stores a copy of the overlay image, and the buffers are “divided into 16 individually-blendable units” arranged in a four-by-four matrix for blending. Id. at col. 10 l. 24–31. Gough further discloses that a blendable unit “can be anywhere in the range of 1 to 32 pixels.” Id. at col. 10 ll. 2–3. Figs. 10c–10f illustrate the blending of corresponding rows from Fig. 10a and 10b. Gough alternatively teaches that blending can be performed using a “color look-up table,” which provides the resultant blended values from all possible combinations of two given pixels. Id. at col. 14 ll. 13–22.
+ 
+Buxton discloses a graphical user interface that uses “variable transparency to merge images (or layers) of objects onto a graphical display,” such as a transparent palette superimposed on an image. Buxton col. 3 ll. 40–41; see id. at col. 5 ll. 63–65, Fig. 1. To achieve this merging of images, Buxton teaches that “a number of well known techniques (methods or algorithms)” can be used, including, for example, a discrete algorithm “which uses a bit-mask” and a continuous algorithm known as “alpha blending.” Id. at col. 16 ll. 1–4, 8–10.
+ 
+Regarding discrete algorithms, Buxton teaches that they “create a transparency effect by turning off and on various pixels thereby creating a ‘mask’,” and “have been called dithering, stippling, XORing, and ‘screen-door transparency.’ ” Id. at col. 16 ll. 13–16. Regarding continuous algorithms, Buxton discloses an alpha blending algorithm to compute “resulting pixels” based on a combination of variables for both the foreground and background image pixels. Id. at col. 17 ll. 17–34.
+ 
+
+III.
+Google challenges the Board’s determinations that (1) Gough does not anticipate claims 1–3, 5, 7–10, and 12–14, and (2) Buxton in combination with two other patents does not render obvious claims 1–3, 5, 7–10, and 12–14, and IV cross-appeals the Board’s determinations that (1) Gough anticipates claims 19–22, 24, and 26–30, and (2) the Buxton combination renders obvious claims 19–20, 22, and 24–30. We possess subject matter jurisdiction pursuant to 28 U.S.C. § 1295(a)(4)(A) (2012).
+ 
+
+DISCUSSION
+Anticipation is a question of fact reviewed for substantial evidence, Blue Calypso, LLC v. Groupon, Inc., 815 F.3d 1331, 1341 (Fed. Cir. 2016), and obviousness is a legal conclusion consisting of “underlying factual findings” reviewed for substantial evidence. Tyco Healthcare Grp. LP v. Ethicon Endo-Surgery, Inc., 774 F.3d 968, 974 (Fed. Cir. 2014) (citations omitted). “Substantial evidence is something less than the weight of the evidence but more than a mere scintilla of evidence,” meaning that “[i]t is such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.” In re NuVasive, Inc., 842 F.3d 1376, 1379–80 (Fed. Cir. 2016) (internal quotation marks and citations omitted). We address the issues on an appeal-by-appeal basis.
+ 
+
+I. Google’s Appeal
+*4 Google’s main argument on appeal centers on a particular limitation in independent claim 1 and claims 2–3, 5, 7–10, and 12–14, which depend from claim 1.4 In relevant part, the claims recite “variable-pixel control[s]” that use “logical operators to provide different blending/merging effects such that individual pixels of the touch-activated input device can be dedicated simultaneously to both the main image and the representation of at least one key.” ’960 patent col. 12 ll. 25–29 (emphasis added). The Board construed “logical operators” to mean “operators that manipulate binary values at the bit level.” Google Inc. v. Intellectual Ventures II LLC, No. IPR2014-00787, 2015 WL 10378100, at *4 (P.T.A.B. Nov. 20, 2015). Neither party disputes the Board’s construction.
+ 
+Google nonetheless alleges that the Board committed two principal errors when it found that the prior art does not disclose or teach “logical operators” and, therefore, does not anticipate or render obvious claims 1–3, 5, 7–10, and 12–14 of the ’960 patent. First, Google argues that substantial evidence does not support the Board’s anticipation findings because Gough discloses logical operators, and the Board failed to adequately explain its contrary finding. Second, Google argues that substantial evidence does not support the Board’s obviousness determination because Buxton teaches logical operators and the Board failed to adequately explain its contrary finding. We agree with Google that the Board failed to adequately explain its findings on both points.
+ 
+In several recent decisions, we have explained what the Board must do to permit meaningful judicial review of its final written decisions. See, e.g., Pers. Web Techs., LLC v. Apple, Inc., 848 F.3d 987, 992 (Fed. Cir. 2017) (describing the “basic principles of administrative law” with which the Board must comply). In particular, the Board (1) “must make the necessary findings and have an adequate evidentiary basis for its findings” and (2) “must examine the relevant data and articulate a satisfactory explanation for its action including a rational connection between the facts found and the choice made.” Icon Health & Fitness, Inc. v. Strava, Inc., 849 F.3d 1034, 1043 (Fed. Cir. 2017) (citation omitted). In the anticipation findings and obviousness determinations relevant here, the Board failed to comport with these principles.
+ 
+With respect to its anticipation findings, the Board stated that it did “not agree” with Google “that either Gough’s description of the blending process depicted in Figures 10a–10f ... or Gough’s description of using the color look-up table ... expressly discloses using logical operators.” Google, 2015 WL 10378100, at *7 (citing Gough col. 10 ll. 23–41, col. 14 ll. 9–19) (emphasis added). Stating a disagreement with Google, however, does not amount to a satisfactory explanation for its findings. See NuVasive, 842 F.3d at 1383 (explaining that the Board cannot “summarize and reject arguments without explaining why the PTAB accepts the prevailing argument”).
+ 
+To anticipate a patent, a reference “need not satisfy an ipsissimis verbis test.” See Whitserve, LLC v. Comput. Packages, Inc., 694 F.3d 10, 21 (Fed. Cir. 2012) (quoting In re Gleave, 560 F.3d 1331, 1334 (Fed. Cir. 2009)). The Board needed to show that its anticipation determinations were not based purely on a word search for “logical operators.” Other than finding that Gough does not “expressly” recite “logical operators,” however, the Board failed to provide any meaningful rationale for its finding.
+ 
+*5 For example, the Board did not explain why it dismissed Google’s expert testimony and evidence purporting to show that one of ordinary skill in the art would have understood Figures 10a through 10f in Gough to depict an OR operation, a logical operation, when “description for the purposes of anticipation can be by drawings alone as well as by words.” In re Watts, 58 F.2d 841, 842 (C.C.P.A. 1932). The Board also did not explain why it disagreed with Google’s argument that Gough’s teaching of a “color look-up table ... loaded with 256 entries which detail each possible combination of bits from the 4 bit screen and the 4 bit overlay,” Gough at col. 14 ll. 13–16, reads on a manipulation of “binary values at the bit level,” which is the Board’s own construction of “logical operators,” Google, 2015 WL 10378100, at *4.
+ 
+Nor did the Board explicitly adopt any substantive evidence from IV to disprove Google’s evidence or discredit Google’s expert. The Board only found that “[a]t best, [Google]’s arguments suggest how Gough could be envisioned as using logical operators.” Google, 2015 WL 10378100, at *7. But that does not constitute an “affirmative narrative” explaining how and why the Board reached its conclusion. In re Warsaw Orthopedic, Inc., 832 F.3d 1327, 1335 (Fed. Cir. 2016).
+ 
+The Board’s obviousness determination suffers from similar defects. In relevant part, the Board found that Google’s “arguments do not persuade us that Buxton’s alpha blending equation uses operators that manipulate binary values at the bit level, consistent with our construction of ‘logical operators.’ ” Google, 2015 WL 10378100, at *11. The Board further explained that “[t]he alpha blending equation unquestionably involves arithmetic operations, which we find differ from logical operations.” Id. Although the Board made several fact findings as to the scope and content of Buxton, it did not provide any rationale for those findings, including its findings that (1) Buxton’s alpha blending equation does not use operators that manipulate binary values at the bit level; and (2) arithmetic operations “differ from logical operations.” Id.
+ 
+Google provided expert testimony showing that Buxton’s “alpha-blending algorithm” is implemented using one or more logical operations. J.A. 1221 ¶ 60. The expert cited numerous references as support, including textbooks entitled “Computer Architecture a Quantitative Approach” and “Digital Integrated Circuits,” prior art patents, and IEEE dictionary definitions, and explained that logical operations are “[a]t the heart of any equation involving addition, subtraction, or multiplication or division.” Id. The Board, however, did not acknowledge any of Google’s evidence, let alone explain why it considered such evidence unconvincing. Instead, the Board merely stated that it considered “all evidence and arguments” and “[agreed] with [IV].” Google, 2015 WL 10378100, at *12. IV, however, relied on a single dictionary definition to argue that Buxton’s “alpha-blending algorithm” does not describe or suggest logical operations, J.A. 24 (citing J.A. 1133 ¶ 106). In view of the opposing evidence provided by Google and the complexity and closeness of the factual issues before it, the Board’s mere “agree[ment] with IV” does not constitute a satisfactory explanation of a rational connection between the facts found and the choice made.
+ 
+Finally, we cannot review the Board’s findings when we do not know the scope of “all evidence and arguments” considered by the Board. Id. For example, we do not know whether the Board relied on IV Exhibit 2018, which includes a table from the book Computer Organization and Design purporting to list arithmetic operations as a category separate from logical operations. See JA 1820-1825 (citing John L. Hennessy & David A. Patterson, Computer Organization and Design: The Hard-ware/Software Interface 106-109 (Morgan Kaufmann Publishers, Inc., 2nd ed. 1998)). Google had filed a motion to exclude the exhibit, but the Board dismissed the motion as moot, stating that it did not rely on Exhibit 2018 in rendering its final decision. It seems that the Board did consider the evidence, however, as IV discussed the table at length during the oral hearing before the Board, and the Board posed a substantive question about the table to confirm its understanding of it. At oral argument before this court, IV’s counsel suggested that the Board did not exclude this evidence. See Oral Arg. at 24:13–25:33, oralarguments.cafc.uscourts.gov/default.aspx?fl=2016-1543.mp3 (IV’s counsel asserting that the Table “wasn’t excluded”).
+ 
+*6 Even more troubling is the Board’s treatment of Google’s alternative argument that Buxton’s discrete algorithms embodiment, which uses “XORing” to blend images, discloses logical operators. According to Google, it is undisputed that XOR is a Boolean logical operator. The Board did not acknowledge, let alone address this argument.
+ 
+Our precedent demands more than what the Board’s opinion provided here. See NuVasive, 842 F.3d at 1383. We cannot affirm findings that lack an adequate rationale. See Icon, 849 F.3d at 1043. In a close factual dispute where reasonable minds may differ in their findings based on opposing evidence, the Board must provide rationale for its findings to facilitate our review. See Pers. Web Techs., 848 F.3d at 992 (“the amount of explanation needed will vary from case to case, depending on the complexity of the matter and the issues raised in the record”). This is one such case, as highlighted by the fact that IV itself argued, in its infringement contentions against another party with similar products in district court proceedings, the opposite of what it argues on appeal. See J.A. 1370 (IV contending that an accused device infringes claim 10 of the ’960 patent, which depends from claim 1, by practicing alpha-blending). On remand, the Board must provide additional fact findings and explanations for its findings relating to the anticipation and obviousness determinations as to claims 1–3, 5, 7–10, and 12–14 of the ’960 patent. We take no position on whether the prior art, taken as a whole, anticipates or renders obvious the disputed claims. See Ariosa Diagnostics v. Verinata Health, Inc., 805 F.3d 1359, 1365 (Fed. Cir. 2015) (“[W]e must not ourselves make factual and discretionary determinations that are for the [Board] to make.” (citations omitted)).
+ 
+
+II. IV’s Cross-Appeal
+IV challenges the Board’s anticipation and obviousness determinations as to claims 19–22 and 24–30 of the ’960 patent based its construction of limitations in independent claims 19 and 26.
+ 
+In particular, IV asserts that claim 19, as properly construed, requires the “variable-pixel control” to be able to create composite images in which “some of the pixels are selected entirely from the main image, some of the pixels are selected entirely from the representation of the key, and some of the pixels are blended.” Cross-Appellant’s Br. 85. IV arrived at its argument by construing part (a) of the claim to require a selecting—not blending—of pixels, and part (b) of the claim to require a blending—not selecting—of pixels. Referring to part (a) as the “pixel selection limitation” and part (b) as the “pixel blending limitation,” IV asserts that “[t]he pixel selection limitation and the pixel blending limitation are two separate limitations” and “[t]he claims do not recite the pixel selection limitation or the pixel blending limitation; they require both functions.” Id. at 86. IV argues that the Board improperly “inserted an ‘or’ between the pixel selection limitation and the pixel blending limitation, finding that the claims can be satisfied by the performance of only one of the two claimed functions.”5 Id.
+ 
+*7 The Board did not construe part (a) or part (b) of claim 19. It explained that it construes “claim terms in controversy ... only to the extent necessary to resolve the controversy.” J.A. 6–7. We agree with the Board that parts (a) and (b) of claim 19 do not require construction other than ordinary meaning to resolve the parties’ patentability arguments. Furthermore, we reject IV’s proposed claim construction, which finds no support in the intrinsic evidence.
+ 
+Claim 19 recites “[a] method of superimposing a representation of at least one key over a main image” including a step “(a),” ’960 patent col. 13 ll. 49-55, and a step “(b),” id. at col. 13 ll. 56-61. Step (a) “[forms] a representation of at least one key” and “the main image,” id. at col. 13 ll. 49–55, and step (b) “[generates] and [displays] a composite image” that “simultaneously [includes] the representation of” the at least one key and the main image formed in step (a), id. at col. 13 ll. 56–61. That is, step (b) generates and displays a composite image using the representation of the at least one key and the main image formed in step (a).
+ 
+A reasonable reading of the claim would not result in interpreting step (a) as a “pixel selection limitation” that requires pixels to be selected but not blended, and step (b) as a “pixel blending limitation” that requires pixels to be blended but not selected. The word “selected,” which IV emphasized in order to coin the phrase “pixel selection limitation,” is merely used in step (a) to describe that the pixels selected to form the representation of the at least one key should be “activated simultaneously” with the pixels selected to form the main image. As for the phrase “pixel blending limitation,” IV imports limitations from the “wherein” clause of claim 19 to argue that step (b) requires “pixel blending.” Step (b), however, does not recite blending. Nor does the “wherein” clause require blending. The “wherein” clause merely requires that the variable-pixel control have the capability to allow blending. Id. at col. 13 ll. 46–64 (“Wherein the variable-pixel control allows individual pixels to be dedicated simultaneously to both the main image and the representation of at least one key.”). Thus, IV’s proposed interpretation is not a reasonable interpretation of the claim.
+ 
+Because IV does not contend that claims 19–22 and 24–30 are otherwise valid, we affirm the Board’s findings with respect to their invalidity.
+ 
+
+CONCLUSION
+We have considered the parties’ remaining arguments and find them unpersuasive. Accordingly, while we affirm the Board’s anticipation and obviousness determinations as to claims 19–22 and 24–30, we vacate and remand the Board’s anticipation and obviousness determinations as to claims 1–3, 5, 7–10, and 12–14.
+ 
+AFFIRMED IN PART, VACATED AND REMANDED IN PART
+ 
+
+COSTS
+No Costs.
+ 
+All Citations
+--- Fed.Appx. ----, 2017 WL 2924132
+Footnotes
+
+1
+
+As relevant to this appeal, claim 19 is representative of claim 26.
+
+2
+
+Google asserted that the claims are obvious in view of Buxton and two other references not relevant to this appeal.
+
+3
+
+The versions of 35 U.S.C. §§ 102 and 103 that apply here are those in force preceding the changes made by the America Invents Act, given the effective filing dates of the claims of the ’960 patent. See Leahy–Smith America Invents Act, Pub. L. No. 112-29, 125 Stat. 284, 293 (2011).
+
+4
+
+Google additionally raises an argument predicated on the Board’s institution decision to institute on some but not all grounds. We do not address the merits of this argument. See, e.g., Shaw Indus. Grp., Inc. v. Automated Creel Sys., Inc., 817 F.3d 1293, 1298 (Fed. Cir. 2016), cert. denied, ––– U.S. ––––, 137 S.Ct. 374, 196 L.Ed.2d 292 (declining to review the Board’s institution decision that denied a proposed ground).
+
+5
+
+IV asserts that, “[f]or similar reasons, claim 26 should be interpreted to require variable-pixel control to perform both the pixel selection limitation and the pixel blending limitation.” Id. at 91. Because IV’s position as to claim 26 relies solely on its position as to claim 19, our analysis below of claim 19 applies with equal force to claim 26.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

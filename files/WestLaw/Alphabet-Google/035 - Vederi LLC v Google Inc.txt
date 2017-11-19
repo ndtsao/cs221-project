@@ -1,0 +1,314 @@
+
+
+ 
+
+
+Vederi, LLC v. Google, Inc.
+United States Court of Appeals, Federal Circuit. | March 14, 2014 | 744 F.3d 1376 | 2014 WL 982758
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Vederi, LLC v. Google, Inc., 744 F.3d 1376 (Fed. Cir. 2014)
+
+All Citations:
+
+744 F.3d 1376, 110 U.S.P.Q.2d 1001
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+744 F.3d 1376
+United States Court of Appeals,
+Federal Circuit.
+VEDERI, LLC, Plaintiff–Appellant,
+v.
+GOOGLE, INC., Defendant–Appellee.
+Nos. 2013–1057, 2013–1296.
+|
+March 14, 2014.
+|
+Rehearing En Banc Denied June 18, 2014.
+Synopsis
+Background: Holder of patents related to methods for creating synthesized images of a geographic area through which a user may then visually navigate via a computer brought action against competitor, alleging infringement. The United States District Court for the Central District of California, Alex Kozinski, Chief Judge, 2012 WL 4511424, construed patent terms and entered summary judgment in competitor’s favor. Patent holder appealed.
+ 
+[Holding:] The Court of Appeals, Rader, Chief Judge, held that terms “images depicting views of objects in a geographic area, the views being substantially elevations of the objects in the geographic area” meant front or side views of objects.
+ 
+Vacated and remanded.
+ 
+
+
+West Headnotes (7)
+
+
+[1]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+Patent claim construction is an issue of law reviewed de novo.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsMultiple sources for construction
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1313Multiple sources for construction
+(Formerly 291k168(2.1), 291k167(1), 291k165(3))
+
+
+In construing patent claims, Court of Appeals relies primarily on the claim language, the specification, and the prosecution history.
+9 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsSpecifications and Drawings;  Written Description
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+(Formerly 291k167(1))
+
+
+Apart from the patent claim language itself, the specification is the single best guide to the meaning of a claim term.
+13 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsRejection and Amendment of Claims;  Prosecution History
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+(Formerly 291k168(2.1))
+
+
+While prosecution history often lacks the clarity of a patent specification, it is another established source of intrinsic evidence in construing a patent claim.
+7 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsExtrinsic Evidence
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1344Extrinsic Evidence
+291k1345In general
+(Formerly 291k159)
+
+
+After considering intrinsic evidence in construing a patent term, a court may also seek guidance from extrinsic evidence, although extrinsic evidence may be less reliable than the intrinsic evidence.
+12 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsComputers and Software
+PatentsPhotography;  imaging and graphic arts
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+(Formerly 291k101(11))
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1424Photography;  imaging and graphic arts
+(Formerly 291k101(11))
+
+
+Phrase “images depicting views of objects in a geographic area, the views being substantially elevations of the objects in the geographic area,” in patent claims relating to methods for creating synthesized images of a geographic area through which a user may then visually navigate via a computer, meant front or side views of objects; as properly construed, the claims did not exclude curved or spherical images depicting views that were substantially front or side views of the objects in the geographic area.
+1 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 7,239,760, US Patent 7,577,316, US Patent 7,805,025, US Patent 7,813,596. Construed.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1376 David A. Dillard, Christie, Parker & Hale, LLP, of Glendale, CA, argued for plaintiff-appellant. With him on the brief was Steven Erick Lauridsen.
+Daryl L. Joseffer, King & Spalding, LLP, of Washington, DC, argued for defendant-appellee. With him on the brief was Adam Conrad of Charlotte, North Carolina. Of counsel on the brief were Sasha G. Rao and Brandon H. Stroy, Ropes & Gray, LLP, of East Palo Alto, CA, and Todd Matthew Simpson and Christopher J. Harnett, of New York, NY.
+*1377 Before RADER, Chief Judge, DYK and TARANTO, Circuit Judges.
+Opinion
+RADER, Chief Judge.
+
+The United States District Court for the Central District of California entered summary judgment of noninfringement in favor of Google, Inc. (Google) and against Vederi, LLC (Vederi) on October 5, 2012. Because the district court erred in its claim construction, this court vacates the judgment of non-infringement and remands for further proceedings.
+ 
+
+I.
+Vederi sued Google for patent infringement on October 15, 2010, alleging that Google’s “Street View” infringed various claims of four related patents: U.S. Patent Nos. 7,239,760 (′760 patent); 7,577,316; 7,805,025; and 7,813,596 (collectively the Asserted Patents). The Asserted Patents share a common specification1 and claim priority to a common provisional patent application.
+ 
+Generally speaking, the Asserted Patents relate to methods for creating synthesized images of a geographic area through which a user may then visually navigate via a computer. ′760 patent abst. In acquiring the images, a recording device is mounted on top of a car that is driven throughout the geographic area. Id. at col. 4 ll. 52–65. In one embodiment, a single camera points generally horizontally and perpendicularly to the axis of the street to capture front views of the objects lining the streets (and sometimes side views of buildings, stores, homes, and other objects). Id. at col. 5 ll. 55–64. The Asserted Patents disclose that multiple cameras may also be used to capture views in different directions. Id. at col. 5 ll. 3–10.
+ 
+The camera captures and records images as it passes by objects (e.g., stores, buildings, cars). Id. at col. 5 ll. 20–21. By combining these images of the geographic area, the Asserted Patents disclose generating a composite image that provides a field of view that is wider than that provided by any single image. Id. at col. 5 ll. 55–64. Figure 2 illustrates certain aspects of the invention of the Asserted Patents.
+ 
+
+​
+*1378 Id. at fig. 2. As shown in Figure 2, the camera captures views as the vehicle moves along axis X(58). Id. at col. 5 ll. 55–64. Nonetheless a composite image (40) gives a viewer the perspective of viewing the passing objects from the vantage point of a fictitious camera (44). Id. Figure 16 depicts an exemplary graphical user interface that also illustrates a composite image as indicated by the box surrounding image area 224. Id. at. col. 12 ll. 29–41.
+ 
+
+​
+*1379 Id. at fig. 16 (emphasis added). The Asserted Patents note that the cameras may use fish-eye lenses, id. at col. 5 ll. 1–3, and provide “fish-eye views of the objects,” id. at col. 6 ll. 23–24.
+The Asserted Patents incorporate by reference, and claim priority to, U.S. Provisional Application No. 601238,490, which was filed on October 6, 2000. That provisional patent application discloses, in relevant part:
+Future embodiments of the invention could present video/image data in different formats. For example, rather than using a camera facing directly to the street side, a slightly forward (or backward)-looking camera could be used to provide a panoramic look up (or down) the street. Also, if sufficient cameras to cover all viewing directions are used (so as to provide 360 degrees of view) images (and synthetic panoramas) where the direction of view is user-controllable can be provided.
+J.A. 217.
+ 
+Claim 1 of the ′760 patent is representative of the asserted claims. It recites:
+1. In a system including an image source and a user terminal having a screen and an input device, a method for enabling visual navigation of a geographic area from the user terminal, the method comprising:
+receiving a first user input specifying a first location in the geographic area;
+retrieving from the image source a first image associated with the first location, the image source providing a plurality of images depicting views of objects in the geographic area, the views being substantially elevations of the objects in the geographic area, wherein the images are associated with image frames acquired by an image recording device moving along a trajectory;
+*1380 receiving a second user input specifying a navigation direction relative to the first location in the geographic area;
+determining a second location based on the user specified navigation direction; and
+retrieving from the image source a second image associated with the second location.
+′760 patent col. 15 l. 57–col. 16 l. 9 (emphasis added). The dispute on appeal concerns the “substantially elevations” limitation, which appears in all of the asserted claims. The district court concluded that Google did not infringe any asserted claims after construing the term “images depicting views of objects in a geographic area, the views being substantially elevations of the objects in the geographic area” as “vertical flat (as opposed to curved or spherical) depictions of front or side views.” Thus, under the trial court’s reading of the claims, spherical or curved images fell outside the scope of Vederi’s patent claims.
+ 
+The accused product—Google’s Street View—provides context for the parties’ disagreement. According to Google, Street View combines images of a wide range of views recorded by multiple cameras having wide-angle lenses mounted on a moving vehicle. J.A. 2567–68. Those photographs are overlapping pictures taken from a single location at approximately the same time. Id.
+ 
+
+​
+These images are stitched together into a virtual spherical composite image. Id. at 2569. The resulting image is a two-dimensional representation of a spherical shape. Id.
+
+​
+The spherical projections are then cut into square tiles to reduce bandwidth when a user is viewing only a portion of the spherical image. Id. at 2570. As shown in the figure below, the spherical panorama gives the user the option to scroll around and view objects as if the user were standing in the center of the sphere. Id. at 2571–73.
+
+​
+*1381 Id. at 3169. According to Google, it does not infringe the Asserted Patents because its product produces images and views that are curved or spherical, and never flat. Id. at 2570–73.
+
+II.
+The district court conducted a Markman hearing on November 22, 2011. The parties agreed that the “substantially elevations” limitation referred to front and side views of objects. However, the parties disagreed as to the meaning of the limitation, “depicting views of objects ... the views being substantially elevations of the objects in the geographic area.” Vederi stated that the limitation “depicting views of objects ... the views being substantially elevations of objects” means “front or side views of objects.” Google contended that the limitation means “vertical flat (as opposed to curved or spherical) depictions of front or side views.” The district court adopted Google’s construction because it concluded that the Asserted Patents did not “disclose[ ] anything about spherical views.” Id. at 193–94.
+ 
+Google and Vederi filed competing motions for summary judgment on the issue of infringement. In its opinion on summary judgment, the district court stated that it “adopted Google’s construction of ‘substantially elevations’ because Vederi’s method of taking, processing, and displaying images creates only vertical flat views, not spherical ones.” Id. at 4. The district court elaborated by noting that the “photographs are captured by cameras moving along a horizontal plane.... The result is one long, flat composite picture of a street.... Nothing about that method or result suggests that the patents cover curved or spherical images.” Id. at 5.
+ 
+The district court further observed that the reference to 360 degree panning in the provisional patent application refers to the creation of a 360 degree panorama, akin to “panning 360 degrees along a horizontal plane, not within a sphere.” Id. at 5. The district court noted that it would be similar to taking pictures with a camera “as it spun around on a Lazy Susan.” Id. According to the district court, it would not be possible to pan up and down as in Street View. Id.
+ 
+Based on its claim construction, the district court entered summary judgment of non-infringement in favor of Google. The district court noted that “[t]he court’s construction of the ‘substantially elevations’ limitation means that if Street View presents *1382 only curved/spherical images, it doesn’t infringe Vederi’s patents because all of Vederi’s patents contain the ‘substantially elevations’ limitations.” Id. at 6. After considering the parties’ competing arguments, the court explained that Street View’s images “may appear to be flat to the naked eye, [but] they are actually curved” because of Google’s methods for capturing, processing, and displaying them. Id. at 9. The district court concluded, “[b]ecause Street View displays only curved views, it doesn’t contain the ‘substantially elevations’ limitation, and so doesn’t literally infringe Vederi’s patents.” Id. It also found no infringement under the doctrine of equivalents. Id. at 10.
+ 
+Vederi appeals. This court has jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+III.
+[1] [2] [3] [4] [5] Claim construction is an issue of law reviewed de novo. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998). In construing claims, this court relies primarily on the claim language, the specification, and the prosecution history. Phillips v. AWH Corp., 415 F.3d 1303, 1314–17 (Fed.Cir.2005) (en banc). “Apart from the claim language itself, the specification is the single best guide to the meaning of a claim term.” AIA Eng’g Ltd. v. Magotteaux Int’l S/A, 657 F.3d 1264, 1272 (Fed.Cir.2011) (internal quotations and citation omitted). And while the prosecution history often lacks the clarity of the specification, it is another established source of intrinsic evidence. Id. After considering these three sources of intrinsic evidence, a court may also seek guidance from extrinsic evidence. Phillips, 415 F.3d at 1317–18. However, extrinsic evidence may be less reliable than the intrinsic evidence. AIA Eng’g, 657 F.3d at 1273.
+ 
+[6] In the present case, the district court construed “images depicting views of objects in a geographic area, the views being substantially elevations of the objects in the geographic area” as “vertical flat (as opposed to curved or spherical) depictions of front or side views.” J.A. 4. A careful review of the record shows that the district court erred by excluding all curved or spherical views and images.
+ 
+The district court based its construction of “substantially elevations” largely on extrinsic evidence regarding the technical meaning of “elevation” as an architectural term of art. Id. at 24. Various technical dictionaries define elevation generally as a projection of a building surface onto a vertical plane or on a plane vertical (at a right angle) to the horizon. See id. at 1744, 1748. Indeed, according to Google, elevations are “non-perspective, two-dimensional view[s] depicted as if the viewer were simultaneously positioned at 90 degrees (along the horizontal plane) from every point of the object.” Appellee’s Br. 25. American Architecture: An Illustrated Encyclopedia provides a useful illustration of an elevation, depicted on the plane to the left:
+ 
+
+​
+Cyril Harris, American Architecture: An Illustrated Encyclopedia 114 (1998).
+However, the district court erred in construing “substantially elevations” without sufficiently considering the intrinsic evidence in this case. In this case, the claim *1383 language is a critical part of the record that shows the error in the trial court’s reading of the claims. The operative language in this case is “substantially elevations.” The district court’s construction requiring elevation, and “elevation” alone in the strict sense, gives no effect to the “substantially” modifier contained in the claims. “A claim construction that gives meaning to all the terms of the claim is preferred over one that does not do so.” Merck & Co., Inc. v. Teva Pharm. USA, Inc., 395 F.3d 1364, 1372 (Fed.Cir.2005). By effectively reading “substantially” out the claims, the district court erred. The term “substantially” takes on important meaning in light of the rest of the intrinsic evidence in this record.
+ 
+For example, the Asserted Patents relate to taking photographs or videos of objects to create images and depict views of a geographic area, ′760 patent col. 3 ll. 44–65, not architectural drawings of buildings. Figure 16 is illustrative, depicting a view of buildings showing depth and perspective, not to mention both the front and side of one of the buildings. ′760 patent fig. 16; cf. Appellee’s Br. 23 (“A frontal view of a building that includes part of its side is not an elevation.”). Additionally, the specification of the Asserted Patents discloses the use of a fish-eye lens, ′760 patent col. 5 ll. 1–3, and “fish-eye views,” id. at col. 6 l. 23. A photographic image through a fish-eye lens provides a curved, as opposed to vertical, projection, and almost certainly reflects curvature and perspective. In other words, the photographic image is not flat and not an elevation.
+ 
+Google argues that the meaning of “substantially” merely reflects the fact that, as a practical matter, photographic images, such as those disclosed in the Asserted Patents, could not depict true elevations as that would require a camera lens as large as the object being photographed (here, buildings, cars, and the like). Indeed, Google concedes that using a camera to record an image of a true elevation is a “physical impossibility absent an absurdly large camera,” Appellee’s Br. 36. But under this interpretation, “substantially” has no independent operative effect other than to account for the specification’s disclosure of cameras as a means for capturing images. This interpretation would not allow the claims to cover the fish-eye lens embodiment. Thus, the district court’s confining claim construction does not account for important parts of the intrinsic record.
+ 
+This court also disagrees with the district court’s conclusion that its construction is warranted “because Vederi’s method of taking, processing and displaying images creates only vertical flat views, not spherical ones.” J.A. 4. For starters, the provisional application incorporated by reference into the Asserted Patents notes that 360 degree synthetic panoramas may be created if a sufficient number of cameras are used. J.A. 217. And while Google argues that the specification only discloses a method of creating the composite images by combining vertical flat columns that would result in vertical flat images, the specification simply states that “preferably” the composite images are created on a column-by-column basis. ′760 patent col. 6 ll. 4–9. Even assuming this method results in vertical flat views, the specification does not state that this is the only way to create composite images, and this court perceives no reason to limit the disputed claim language based on that particular embodiment. Liebel–Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 905–06 (Fed.Cir.2004).
+ 
+Nor does the specification demonstrate any disavowal of curved or spherical images supporting the district court’s construction. Google places a great deal of *1384 weight on the following statement from the Asserted Patents:
+The prior art further teaches the dense sampling of images of an object/scene to provide different views of the object/scene. The sampling is generally done in two dimensions either within a plane, or on the surface of an imaginary sphere surrounding the object/scene. Such a sampling, however, is computationally intensive and hence cumbersome and inefficient in terms of time and cost.
+Accordingly, there is a need for a system and method for creating a visual database of a comprehensive geographic area in a more time and cost efficient manner. Such a system should not require the reconstruction of 3D scene geometry nor the dense sampling of the locale in multiple dimensions.
+′760 patent col. 1 l. 63–col. 2 l. 7. This statement does not give rise to a clear and unmistakable disavowal. See Dealertrack, Inc. v. Huber, 674 F.3d 1315, 1322 (Fed.Cir.2012). In context, these statements in the specification refer to the dense sampling of an object using cameras placed in a sphere surrounding the object looking inwards. Thus, the 3D scene geometry being discussed is using the photographs surrounding an object to reconstruct its 3D shape. In other words, this reference is fundamentally different from using a cluster of cameras to take images from a particular point looking out in all directions. Notably, the Asserted Patents actually disclose doing just that: “a duodecahedron of cameras may be used to record the objects from all viewing directions.” ′760 patent col. 5 ll. 6–7. Thus, the record, viewed in its entirety and with reference to the proper context, does not contain any disclaimer, let alone a clear and unmistakable disavowal.
+ 
+Additionally, the prosecution history does not support the district court’s construction. Google contends that the inventors of the Asserted Patents disclaimed the construction sought by Vederi in responding to a rejection over a prior art reference. Specifically, the application leading to the ′760 patent initially contained claims reciting “images providing a non-aerial view of the objects.” J.A. 404. The Patent Office rejected those claims in view of U.S. Patent No. 6,140,943 (Levine). The applicant responded by amending the claims to remove “nonaerial view” and add “substantially elevations.” Id. at 494. The applicant also correctly noted that Levine was directed to “map images, which may include names of streets, roads, as well as places of interest” that a traveler could use to navigate through a geographic area. Id. at 503–04. Therefore, Levine did not disclose images “depict[ing] views that are ‘substantially elevations of the objects in a geographic area’ ” or “acquired by an image recording device moving along a trajectory.” Id. at 504. Despite Google’s protestations to the contrary, this court discerns no clear and unambiguous disavowal of spherical or curved images that would support the district court’s construction. Invitrogen Corp. v. Biocrest Mfg., L.P., 327 F.3d 1364, 1369 (Fed.Cir.2003).
+ 
+Having analyzed the claims, the specification and the prosecution history, this court concludes that the district court erred in construing “images depicting views of objects in a geographic area, the views being substantially elevations of the objects in the geographic area” as “vertical flat (as opposed to curved or spherical) depictions of front or side views.” To the contrary, the record shows that “views being substantially elevations of the objects” refers to “front and side views of the objects.” Thus, as properly construed, the claims do not exclude curved or spherical images depicting views that are substantially *1385 front or side views of the objects in the geographic area.
+ 
+
+IV.
+This court has considered Google’s remaining arguments in favor of the district court’s claim construction, but finds them unpersuasive. This court also declines Vederi’s request to consider its infringement arguments on appeal without the benefit of the district court’s factfinding under a proper construction of the claims. Accordingly, in view of the foregoing, this court reverses the district court’s claim construction, vacates its judgment of non-infringement and remands for further proceedings consistent with this opinion.
+ 
+VACATED AND REMANDED.
+ 
+All Citations
+744 F.3d 1376, 110 U.S.P.Q.2d 1001
+Footnotes
+
+1
+
+As the Asserted Patents share a common specification, all citations to the specification are to the ′760 patent.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

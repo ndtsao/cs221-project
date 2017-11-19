@@ -1,0 +1,434 @@
+
+
+ 
+
+
+Cordance Corp. v. Amazon.com, Inc.
+United States Court of Appeals, Federal Circuit. | September 23, 2011 | 658 F.3d 1330 | 2011 WL 4431138
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Cordance Corp. v. Amazon.com, Inc., 658 F.3d 1330 (Fed. Cir. 2011)
+
+All Citations:
+
+658 F.3d 1330, 100 U.S.P.Q.2d 1230
+
+Search Details
+
+Search Query:
+
+adv: NAME(”amazon.com”)
+
+Jurisdiction:
+
+Delaware
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+658 F.3d 1330
+United States Court of Appeals,
+Federal Circuit.
+CORDANCE CORPORATION, Plaintiff–Cross Appellant,
+v.
+AMAZON.COM, INC., Defendant–Appellant.
+Nos. 2010–1502, 2010–1545.
+|
+Sept. 23, 2011.
+Synopsis
+Background: Patentee brought action against competitor, alleging infringement of patents covering an online purchasing system and computerized feedback systems. After jury reached a verdict that some of patent claims were infringed while others were invalid or not infringed, the United States District Court for the District of Delaware, Mary P. Thynge, United States Magistrate Judge, 687 F.Supp.2d 449, entered an order granting in part and denying in part patentee’s motion for judgment as a matter of law. Parties cross-appealed.
+ 
+Holdings: The Court of Appeals, Linn, Circuit Judge, held that:
+ 
+[1] patent covering a computerized feedback system was invalid as anticipated by competitor’s online shopping cart system, and
+ 
+[2] term “feedback information” meant evaluation attributes and corresponding value choices.
+ 
+Affirmed in part, reversed in part, and vacated in part.
+ 
+
+
+West Headnotes (11)
+
+
+[1]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+(Formerly 170Bk776)
+
+
+The grant or denial of judgment as a matter of law is reviewed de novo.
+Cases that cite this headnote
+
+
+
+[2]
+
+Federal Civil ProcedureWeight and Sufficiency of Evidence
+Federal Civil ProcedureEvidence
+
+
+170AFederal Civil Procedure
+170AXVTrial
+170AXV(F)Taking Case or Question from Jury;  Preverdict Motion for Judgment as Matter of Law
+170AXV(F)2Questions for Jury
+170Ak2142Weight and Sufficiency of Evidence
+170Ak2142.1In general
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(E)Notwithstanding Verdict;  Judgment as Matter of Law
+170Ak2608Evidence
+170Ak2608.1In general
+
+
+Judgment as a matter of law is proper when, after viewing the evidence in the light most favorable to the nonmovant and giving it the advantage of every fair and reasonable inference, there is insufficient evidence from which a jury reasonably could find for the nonmovant.
+2 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsDe novo review in general
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+
+
+District court’s patent claim construction is reviewed de novo.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsBenefit of Earlier Filing Date
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(B)Examination
+291k934Overcoming Prior Art References
+291k936Benefit of Earlier Filing Date
+291k936(1)In general
+(Formerly 291k110)
+
+
+Patent covering a computerized feedback system was not entitled to benefit of filing date of prior patent, where patentee failed to link any disclosures in prior patent to limitations in subsequent patent. 35 U.S.C.A. § 120.
+5 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  corroboration
+
+
+291Patents
+291IIIPersons Entitled to Patents
+291III(B)Inventorship and Priority
+291k876Evidence
+291k881Weight and Sufficiency
+291k881(1)In general;  corroboration
+(Formerly 291k91(3))
+
+
+Conception must be proven by evidence showing what the inventor has disclosed to others and what that disclosure means to one of ordinary skill in the art.
+2 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsBenefit of Earlier Filing Date
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(B)Examination
+291k934Overcoming Prior Art References
+291k936Benefit of Earlier Filing Date
+291k936(1)In general
+(Formerly 291k110)
+
+
+A patent claim in a later application receives the benefit of the filing date of an earlier application so long as the disclosure in the earlier application meets the requirements for patent specifications, including the written description requirement, with respect to that claim. 35 U.S.C.A. §§ 112, 120.
+3 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)2Particular Fields of Invention
+291k531Computers and Software
+291k535Business methods;  Internet applications
+(Formerly 291k66(1.14))
+
+
+Patent covering a computerized feedback system for making online purchases was invalid as anticipated by competitor’s online shopping cart system; each limitation in patent was satisfied by competitor’s system.
+Cases that cite this headnote
+
+
+
+[8]
+
+PatentsConclusiveness and Effect of Administrative Decisions
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(D)Conclusiveness and Effect of Administrative Decisions
+291k1101In general
+(Formerly 291k112.1)
+
+
+A general jury verdict of patent invalidity should be upheld if there was sufficient evidence to support any of the alternative theories of invalidity.
+9 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+(Formerly 291k101(2))
+
+
+Term “feedback information,” in patent covering a computerized feedback system for making online purchases, meant evaluation attributes and corresponding value choices.
+Cases that cite this headnote
+
+
+
+[10]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,862,325, US Patent 6,044,205, US Patent 6,088,717. Cited.
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,757,710. Invalid.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1331 Michael A. Albert, Wolf Greenfield & Sacks, P.C. of Boston, MA, argued for the plaintiff-cross appellant. With him on the brief was Robert M. Abrahamsen.
+J. David Hadden, Fenwick & West, LLP, of Mountain View, CA, argued for defendant-appellant. With her on the brief were Lynn H. Pasahow, Darren E. Donnelly, Saina Shamilov and Ryan Marton.
+Before LOURIE, LINN, and DYK, Circuit Judges.
+Opinion
+LINN, Circuit Judge.
+
+Cordance Corporation (“Cordance”) filed a complaint with the United States District Court for the District of Delaware against Amazon.com, Inc. (“Amazon”) alleging that Amazon infringed, among others, U.S. Patent Nos. 5,862,325 (“the ′325 Patent”), 6,088,717 (“the ′717 Patent”), and 6,757,710 (“the ′710 Patent”). The jury reached a verdict that Amazon infringes claims 1, 3, 5, 7, and 8 of the ′710 Patent; that all the asserted claims of the ′710 Patent are invalid; and that Amazon does not infringe any of the asserted claims of the other patents-in-suit. The district court then granted Cordance’s post-verdict JMOL motion that insufficient evidence supported a finding that: (1) claims 7–9 of the ′710 Patent lack written description support; (2) claims 1–3, 5, and 7–9 of the ′710 Patent are invalid as anticipated; and (3) claims 1, 3, 5, 7, and 8 of the ′710 Patent are invalid under § 102(f). Cordance Corp. v. Amazon.com, Inc., 687 F.Supp.2d 449 (D.Del.2010) (“JMOL Opinion ”). The district court denied Cordance’s post-verdict JMOL motions as to the ′325 and ′717 Patents. Id. Amazon appeals and Cordance cross-appeals. For the reasons explained below, this court reverses the district court’s JMOL determination that claims 1, 3, 5, 7, and 8 of the ′710 Patent are not invalid, vacates the district court’s JMOL determination that claim 9 is not invalid, and affirms the district court’s judgment as to the ′325 and ′717 Patents. As a result, each asserted claim of the ′710 Patent is invalid and the asserted claims of the ′325 and ′717 Patent remain valid and not infringed.
+ 
+
+I. BACKGROUND
+A. Technology
+The ′710 Patent, titled “Object–Based On–Line Transaction Infrastructure,” covers an online purchasing system. Independent claim 1 of the ′710 Patent is exemplary and recites:
+1. A computer implemented method comprising:
+*1332 providing customer data storing information for a customer usable to automatically complete an online purchase of an item from a seller;
+providing the customer with information from the seller with respect to an item;
+receiving from the customer an indication to initiate a purchase transaction for purchasing the item including metadata associating said customer data with said transaction;
+in response to the received indication, automatically completing the purchase of an item from the seller by processing said metadata associating said customer data so as to complete the purchase transaction.
+col. 144 ll. 37–52.
+ 
+Independent claim 7 of the ′710 Patent, the only other independent claim, is similar to claim 1 except that “information provider” replaces “customer,” “information consumer” replaces “seller,” and “indication to complete” replaces “indication to initiate.” The ′710 Patent is a continuation of the ′717 Patent.
+ 
+The ′717 and ′325 Patents (collectively, “the Feedback Patents”), both titled “Computer–Based Communication System and Method Using Metadata Defining a Control–Structure,” cover computerized feedback systems. The ′717 Patent is a continuation of the ′325 Patent. Independent claim 109 of the ′325 Patent is exemplary and recites:
+109. A computer-based communication method, comprising operating one or more computers to communicate by performing the steps of:
+in a provider memory, storing information including provider information;
+in a consumer memory, storing information including consumer information;
+creating metadata describing associations with portions of said information and defining a control structure which is processed at least at said consumer memory to associate one or more processes for controlling communications of said associated information, said metadata including data exchange metadata associating a process for controlling the transfer or feedback information, said feedback information including at least a portion of said consumer information, to said provider memory;
+transferring said information, including said metadata defining said control structure, from said provider memory to said consumer memory;
+processing said metadata to execute instructions external to said control structure to perform said processes; and
+communicating said feedback information from said consumer memory to said provider memory.
+col. 158 ll. 17–41.
+ 
+
+B. Accused Products
+Cordance accused Amazon’s “1–Click®” (“1–Click”) purchasing features of infringing claims 1–3, 5, and 7–9 of the ′710 Patent. Amazon’s customers can store payment information and shipping addresses in their Amazon customer accounts. This information can then be retrieved later when that customer uses the 1–Click features. Cordance also alleged that Amazon’s features allowing customers to enter reviews of products for sale on Amazon’s website and to enter reviews of transactions with third-party sellers infringe the Feedback Patents.
+ 
+
+C. Procedural History
+After the district court construed the claims, Cordance Corp. v. Amazon.com, Inc., 636 F.Supp.2d 310 (D.Del.2008), ECF No. 279 (“Claim Construction Order ”), a jury trial was conducted in August 2009. At trial, Cordance’s expert, Dr. Shamos (“Shamos”), explained how Amazon’s 1–Click features infringed the asserted *1333 claims of the ′710 Patent. Amazon’s expert, Dr. Alvisi (“Alvisi”), presented evidence that all asserted claims of the ′710 Patent were invalid for derivation and for failure to satisfy the written description requirement and that claims 1, 3, 5, 7, and 8 were also invalid as anticipated.
+ 
+The jury rendered a verdict concluding that Amazon infringed claims 1, 3, 5, 7, and 8 of the ′710 Patent, but that claims 1–3, 5, and 7–9 of the ′710 Patent were invalid. The verdict form did not specify the basis for the invalidity finding. The jury also found that Amazon’s feedback features did not infringe any claims of the Feedback Patents.
+ 
+Cordance filed post-verdict motions for JMOL and a new trial. Cordance sought, among other things, judgment of non-invalidity of the asserted claims of the ′710 Patent and challenged the court’s construction of “feedback information” as recited in the asserted claims of the Feedback Patents. The district court granted JMOL that Amazon failed to provide sufficient evidence to support a finding that (1) claims 7–9 of the ′710 Patent lacked written description; (2) claims 1–3, 5, and 7–9 of the ′710 Patent are invalid as anticipated; and (3) claims 1, 3, 5, 7, and 8 of the ′710 Patent are invalid under § 102(f). JMOL Opinion at 463–80. The court denied Cordance’s motion challenging the construction of “feedback information.” Id. at 481–83.
+ 
+Amazon appeals the district court’s grant of Cordance’s JMOL motion and seeks to restore the jury’s verdict that each asserted claim of the ′710 Patent is invalid. Cordance raised several arguments in its cross appeal which fall into two categories. First, Cordance seeks to reverse or vacate the jury’s finding of invalidity as to claims 1–3 and 5 of the ′710 Patent. Second, Cordance seeks to modify the district court’s construction of “feedback information” in the Feedback Patents.
+ 
+
+II. DISCUSSION
+A. Standard of Review
+[1] [2] [3] “This court’s review of a district court’s grant of JMOL is governed by regional circuit law.” Uniloc USA, Inc. v. Microsoft Corp., 632 F.3d 1292, 1301 (Fed.Cir.2011). “It is only on rare instances that a jury’s verdict in a civil case should be overturned.” Pitts v. Delaware, 646 F.3d 151, 152 (3d Cir.2011). In the Third Circuit, the grant or denial of JMOL is reviewed de novo. Lightning Lube, Inc. v. Witco Corp., 4 F.3d 1153, 1166 (3d Cir.1993). JMOL is proper when after “viewing the evidence in the light most favorable to the nonmovant and giving it the advantage of every fair and reasonable inference, there is insufficient evidence from which a jury reasonably could find” for the nonmovant. Id. A district court’s claim construction is reviewed de novo. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1455–56 (Fed.Cir.1998) (en banc).
+ 
+
+B. Invalidity of Asserted Claims of the ′710 Patent
+1. Effective Date
+[4] The application for the ′710 Patent was filed in February 2002 and claims priority to the ′325 Patent, filed in September 1996. The ′325 Patent is a continuation-in-part of U.S. Patent No. 6,044,205 (“the ′205 Patent”), filed in February 1996. Amazon sought JMOL that the asserted claims of the ′710 Patent could not claim priority to the ′205 Patent because the ′710 Patent contained new matter that was added with the filing of the application that matured to the ′325 Patent. The district court granted Amazon’s motion and concluded that the effective date of the ′710 Patent was September 27, 1996.
+ 
+*1334 Cordance argues that the district court should have found that the ′ 710 Patent was entitled to an effective date of November 1, 1993—the date of an alleged conception document—or, at the latest, February 29, 1996—the filing date of the ′205 Patent. As to the 1993 document, Cordance contends that the district court erroneously refused to consider Reed’s testimony concerning the corroboration of his own prior conception and that the court erroneously required the corroborating evidence to provide written description support for the claims. As to the ′205 Patent, Cordance contends that it satisfied its threshold burden of production through Reed’s explanation at trial how each claim of the ′710 Patent was supported by the disclosure of the ′205 Patent.
+ 
+Amazon responds that, as to the 1993 conception document, Reed never testified if or where any of the limitations of the ′710 Patent claims were disclosed in that document. Amazon contends that Cordance utterly failed to provide any expert testimony showing how the conception document discloses the claim elements from the perspective of one skilled in the art. Amazon further contends that Cordance failed to present sufficient evidence to show that the ′ 205 Patent supports all the limitations of a single asserted claim of the ′ 710 Patent. Amazon explains that a review of the ′205 Patent reveals six lines, out of 142 columns, that even allude to product ordering or online purchasing.
+ 
+[5] This court agrees with Amazon that the district court did not err in granting Amazon’s motion. Cordance failed to prove that the ′710 Patent was entitled to claim priority to the 1993 conception document. To establish an earlier effective date, Cordance was required to prove prior conception. Conception “must be proven by evidence showing what the inventor has disclosed to others and what that disclosure means to one of ordinary skill in the art.” In re Jolley, 308 F.3d 1317, 1321 (Fed.Cir.2002). Because of “a concern that inventors testifying in patent infringement cases would be tempted to remember facts favorable to their case by the lure of protecting their patent or defeating another’s patent” conception must be proven by corroborating evidence. Burroughs Wellcome Co. v. Barr Labs., Inc., 40 F.3d 1223, 1228 (Fed.Cir.1994). Although Cordance attempts to characterize the district court’s error as relating to corroboration, the district court expressly found no corroboration problem. Instead, the district court found that Cordance failed to link any disclosure contained within the 1993 conception document to any limitations in the asserted claims of the ′710 Patent as construed by the district court. Trial Tr. vol. I, 2118, Aug. 13, 2009 (“I said, fine, you’ve got corroboration for that. But there was never any linking of that conception document and what the invention was in the ′ 710 Patent.”). Cordance failed to prove what this disclosure means to one of skill in the art.
+ 
+[6] Cordance’s attempt to claim priority to the filing date of the ′205 Patent fails for a similar reason. Under 35 U.S.C. § 120, “a claim in a later application receives the benefit of the filing date of an earlier application so long as the disclosure in the earlier application meets the requirements of 35 U.S.C. § 112, ¶ 1, including the written description requirement, with respect to that claim.” Tech. Licensing Corp. v. Videotek, Inc., 545 F.3d 1316, 1326 (Fed.Cir.2008). Here, the ′710 Patent issued from the ′325 Patent, a continuation-in-part of the ′205 Patent. Thus, in order for the asserted claims of the ′710 Patent to receive the benefit of the filing date of the ′205 Patent, filed in February 1996, written description support for the asserted claims must be found in the ′ 205 Patent. Cordance failed to link any disclosure *1335 contained within the ′205 Patent to any limitation in the asserted claims of the ′ 710 Patent as construed by the district court. Furthermore, a review of the ′205 Patent specification shows that it does not support the claimed “automatically completing the purchase of the item ... by processing said metadata” limitation. The district court did not err in granting Amazon’s JMOL that the effective date of the ′710 Patent is September 27, 1996.
+ 
+
+2. Anticipation
+[7] At trial, Amazon presented an anticipation defense as to claims 1, 3, 5, 7, and 8. See JMOL Opinion at 475 n. 109 (“The anticipation of claims 2 and 9 was never submitted to the jury.”). The jury found each of these claims invalid, but did not specify the basis of its invalidity finding. Cordance filed a post-verdict JMOL motion arguing that Amazon presented insufficient evidence to support the jury’s finding of invalidity premised upon a theory of anticipation. The district court granted Cordance’s motion. See id. at 484.
+ 
+Amazon argues that substantial evidence supports the jury verdict that claims 1, 3, 5, 7, and 8 of the ′710 Patent are invalid as anticipated by Amazon’s 1995 shopping cart system (the “1995 System”). Amazon explains that Paul Davis, an early Amazon employee, described in detail the 1995 System that was in operation in July 1995, more than one year before the September 1996 effective date of the ′710 Patent.
+ 
+The 1995 System, according to Davis, operated much like Amazon’s current system. The 1995 System presented the customer with items for sale on a web page. A customer could add items to an electronic shopping cart. To buy items, the customer would then click a “Checkout” button. In response, the 1995 System would ask questions concerning the payment method and whether the user had an Amazon account. Once the user provided the requested information, the 1995 System then presented an order summary page asking for credit card information, or a confirmation of previously stored credit card information, and shipping preferences. The 1995 System then presented a final summary of the order along with a “Confirm” button. Clicking the “Confirm” button created an order with Amazon and displayed, to the user, a thank you message.
+ 
+Amazon explains that Alvisi then mapped each element of the asserted claims to the functionality of Amazon’s 1995 System in a manner that mirrored Shamos’s infringement theory. Specifically, Alvisi detailed how the limitations of independent claims 1 and 7 were satisfied by the 1995 System. Alvisi performed a similar analysis as to dependent claims 3, 5, and 8.
+ 
+Amazon contends that the district court, in granting Cordance’s motion, improperly imported a 1–click requirement into the limitation of “automatically completing the purchase of the item.” Indeed, the district court relied upon Alvisi’s admission that the 1995 System did not use a 1–Click shopping process to conclude that Amazon’s 1995 System could not anticipate these claims.
+ 
+Cordance responds that the district court correctly rejected Amazon’s anticipation defense. Cordance contends that Amazon’s 1995 System did not automatically complete transactions nor did it include the required metadata. Cordance also discounts Amazon’s anticipation defense as an improper “practicing the prior art” defense.
+ 
+Cordance contends that Amazon’s 1995 System did not automatically complete purchases because it relied on human intervention in order to complete transactions. Cordance argues that because Amazon *1336 employees had to manually validate and process credit card transactions, this system did not automatically complete purchases and therefore could not anticipate this limitation.
+ 
+Cordance also contends that Amazon’s 1995 System does not satisfy the claimed metadata limitation. The district court construed “metadata” to mean “data that describes or associates other data.” Claim Construction Order at 313. According to Cordance, Shamos explained how Amazon’s accused shopping cart system satisfied the metadata limitation whereas the 1995 System did not. A sessionID number is often used in web applications to associate a particular browsing “session” with a particular user. The 1995 System used the HTTP POST method to transfer the sessionID number. The accused system utilized cookies to transfer the sessionID number. According to Cordance, Shamos explained that the sessionID number in the 1995 system was just a number, e.g. “1234567” and was not metadata because it was not in a format such as “session-id =1234567,” as it would have been stored in a cookie.
+ 
+Finally, Cordance contends that Amazon’s invalidity theory was that it was “practicing the prior art.” According to Cordance, this court has expressly rejected this defense. Appellee’s Br. 45 (citing In re Omeprazole Patent Litig., 536 F.3d 1361, 1377 (Fed.Cir.2008) (“It is well-established ... that ‘practicing the prior art’ is not a defense to infringement.”)).
+ 
+This court agrees with Amazon and concludes that claims 1, 3, 5, 7, and 8 of the ′710 Patent are anticipated by Amazon’s 1995 System as a matter of law. At trial, Amazon’s experts described in detail the 1995 System and how each limitation of claims 1, 3, 5, 7, and 8 of the ′710 Patent was satisfied by that system. The district court construed the “automatically completing the purchase of an item” limitation as “completing the purchase without human input.” Alvisi explained how the 1995 System satisfied this limitation because, once the user clicked the “Confirm” button and Amazon received the sessionID number, Amazon’s system automatically completed the order without human input and sent an order confirmation message. Cordance makes much of the fact that a human user at Amazon had to manually verify credit cards and, therefore, the 1995 System could not “automatically complete” the purchase. In response, Alvisi explained that, even in the accused system, which the jury found to infringe, manual steps are still performed by Amazon employees before customer credit cards are charged for a purchase. The court’s construction of “automatically complete” does not require a complete absence of human involvement from the moment an order is placed, through the shipping of that order. Instead, Alvisi explained, the limitation only requires an absence of human involvement from either an indication to initiate (claims 1–3, and 5) or an indication to complete (claims 7–9) a purchase transaction through the completion of the order. What Amazon does after an order is complete is beyond the scope of the claims and wholly irrelevant.
+ 
+Similarly, Amazon’s 1995 System also satisfies the “metadata” limitations of claims 1, 3, 5, 7, and 8. As explained above, the district court construed “metadata” to mean “data that describes or associates other data.” Claim Construction Order at 313. Amazon’s experts described how its 1995 System used a sessionID number to associate a current internet browsing session with a particular Amazon customer account. The 1995 System transmitted this sessionID number using the HTTP POST protocol, whereas the accused system transmitted this sessionID number using a cookie. Thus, both systems satisfied the metadata limitation by use of a sessionID *1337 number that associated a current internet browsing session with a particular Amazon customer account. Cordance’s reliance upon Shamos’s testimony is equally unpersuasive. Shamos presented testimony that, in the context of the HTTP POST protocol, the sessionID number was just a number, and not metadata. Shamos reached this conclusion by opining that a sessionID number is simply a number when transmitted through the HTTP POST protocol, but becomes metadata when transmitted in a cookie. Because it is “data that describes or associates other data,” a sessionID number, however transmitted, is metadata under a proper claim construction of that term.
+ 
+Finally, contrary to Cordance’s allegations, Amazon’s theory of invalidity was not akin to the “practicing the prior art” theory rejected by this court in Tate Access Floors, Inc. v. Interface Architectural Resources, Inc., 279 F.3d 1357 (Fed.Cir.2002). A “practicing the prior art” defense typically refers to the situation where an accused infringer compares the accused infringing behavior to the prior art in an attempt to prove that its conduct is either noninfringing or the patent is invalid as anticipated because the accused conduct is simply “practicing the prior art.” In Tate, this court explained that accused infringers “are not free to flout the requirement of proving invalidity by clear and convincing evidence by asserting a ‘practicing the prior art’ defense to literal infringement under the less stringent preponderance of evidence standard.” Id. at 1367. Instead “[a]nticipation requires a showing that each element of the claim at issue, properly construed, is found in a single prior art reference. ‘It is the presence of the prior art and its relationship to the claim language that matters for invalidity.’ ” Zenith Electrs. Corp. v. PDI Commc’n Sys., Inc., 522 F.3d 1348, 1363 (Fed.Cir.2008) (quoting Tate, 279 F.3d at 1367). Here, as explained above, Amazon’s experts explained how each of the claim elements is disclosed by Amazon’s 1995 System. Amazon adequately satisfied its burden to show by clear and convincing evidence that each limitation of claims 1, 3, 5, 7, and 8 was found in its 1995 System and thus, these claims are invalid as anticipated.
+ 
+The district court erred by granting Cordance’s post-verdict JMOL motion that claims 1, 3, 5, 7, and 8 of the ′710 Patent were not invalid as anticipated. Because these claims are anticipated as a matter of law, this court reverses the district court’s grant of Cordance’s JMOL on this ground.
+ 
+
+3. Claims 2 and 9 of the ′710 Patent
+Before considering the party’s contentions as to the validity of claims 2 and 9 of the ′710 Patent, this court will respond to concerns expressed at oral argument regarding the nature of the jury’s verdict—an issue neither party briefed. At trial, Amazon presented two theories of invalidity as to claims 2 and 9 of the ′710 Patent. Those two theories were written description and derivation. The jury, in a general verdict, found both claims to be invalid. Therefore, due to the presentation of multiple invalidity theories and the jury’s general verdict, it remains unclear upon which ground(s) the jury based its findings of invalidity.1
+ 
+Cordance filed a JMOL motion alleging that Amazon presented insufficient evidence to support a finding that claims 1–3, 5, and 7–9 are invalid under § 102(f). In *1338 granting this JMOL motion, the district court, without explanation, did not include claims 2 and 9 in its order. Cordance Corp. v. Amazon.com, Inc., 687 F.Supp.2d 449 (D.Del.2010), ECF No. 515 at 2 (“Cordance’s motion for JMOL that claims 1, 3, 5, 7, and 8 of the ′710 Patent are not invalid under 35 U.S.C. 102(f) is GRANTED.”); JMOL Opinion at 480 (“Accordingly, Cordance is entitled to JMOL that claims 1, 3, 5, 7, and 8 of the ′710 patent are not invalid under 35 U.S.C. § 102(f).”). Although it is unclear why the district court did not grant Cordance’s Rule 50(b) motion on § 102(f) as to claims 2 and 9, the district court’s action is consistent with the fact that Cordance never filed a Rule 50(a) motion challenging the sufficiency of the evidence as to Amazon’s derivation defense. Unitherm Food Sys., Inc. v. Swift–Eckrich, Inc., 546 U.S. 394, 398 n. 1, 126 S.Ct. 980, 163 L.Ed.2d 974 (2006) (“A post-trial motion for judgment can be granted only on grounds advanced in the pre-verdict motion.” (citation omitted)).
+ 
+Cordance also filed a JMOL motion alleging that Amazon presented insufficient evidence to support Amazon’s written description theory as to claims 7–9. The district court granted this motion. In doing so, the district court found that claim 9 was not invalid under § 112, even though two theories of invalidity were presented and Cordance failed to persuade the district court that the evidence presented to the jury as to the other theory— § 102(f)—was insufficient.
+ 
+After the district court’s JMOL rulings, the jury’s finding of invalidity as to claim 2 was not disturbed by any of the district court’s subsequent JMOL rulings and remains in place. The remaining issue is the impact on claim 9 of the district court’s grant of Cordance’s JMOL motion on one theory (§ 112), but not on the other (§ 102(f)).
+ 
+When reviewing a general jury verdict, different rules apply depending upon whether the flaw is in the legal theory or the evidence. In Griffin v. United States, 502 U.S. 46, 112 S.Ct. 466, 116 L.Ed.2d 371 (1991), the Supreme Court explained, in the context of a criminal case, that “[j]urors are not generally equipped to determine whether a particular theory of conviction submitted to them is contrary to law.” Id. at 59, 112 S.Ct. 466. “When, therefore, jurors have been left the option of relying upon a legally inadequate theory, there is no reason to think that their own intelligence and expertise will save them from that error.” Id. A “legal error,” which requires overturning a general verdict, “means a mistake about the law, as opposed to a mistake concerning the weight or the factual import of the evidence.” Id. “Quite the opposite is true, however, when they have been left the option of relying upon a factually inadequate theory, since jurors are well equipped to analyze the evidence.” Id. In that situation, a court should not negate a verdict “merely on the chance ... that the jury convicted on a ground that was not supported by adequate evidence when there existed alternative grounds for which the evidence was sufficient.” Id. at 59–60, 112 S.Ct. 466 (quoting United States v. Townsend, 924 F.2d 1385, 1414 (7th Cir.1991)).
+ 
+This court and other circuits have applied this rationale to uphold general jury verdicts in the civil context as well. See, e.g., Northpoint Tech. v. MDS Am., 413 F.3d 1301, 1311–12 (Fed.Cir.2005) (collecting cases). The Third Circuit has applied Griffin in the criminal context, see, e.g., United States v. Syme, 276 F.3d 131, 144 (3d Cir.2002), but has not yet directly addressed this question, post-Griffin, in the civil context. This court believes that the Third Circuit would likely find the rationale of Griffin persuasive and applicable in *1339 the civil context. See Agere Sys., Inc. v. Atmel Corp., Case No. 02–cv–864, 2005 WL 2994702 (E.D.Pa. Aug. 17, 2005) (concluding that Griffin’s principle is equally applicable in the civil context), see also Hofkin v. Provident Life & Accident Ins. Co., 81 F.3d 365, 369 (3d Cir.1996) (“A Rule 50 motion must be denied if there is evidence reasonably tending to support the recovery by [a party] as to any of its theories of liability.” (emphasis added) (internal citation omitted)).
+ 
+[8] A general jury verdict of invalidity should be upheld if there was sufficient evidence to support any of the alternative theories of invalidity. “A failure of proof with respect to any single item of evidence does not justify a grant of either JMOL or a new trial; even if some of the proposed factual grounds ... are not generally sufficient to support a verdict, that is not fatal, because the critical question is whether the evidence, taken as a whole, was sufficient to support the jury’s verdict.” Northpoint Tech., 413 F.3d at 1311. In the absence of any ruling on the sufficiency of the evidence on both theories presented to the jury with respect to claim 9, the district court had no basis to find the jury’s general verdict unsustainable on the written description theory alone. The JMOL ruling on written description was, thus, improper and is vacated.
+ 
+On cross-appeal, Cordance seeks a new trial with regard to the jury’s invalidity verdict. In doing so, however, Cordance does not contend that Amazon’s evidence on its derivation defense was insufficient as to claims 2 and 9 or that the district court erred in failing to grant its JMOL motion on derivation as to claims 2 and 9. See Cordance Br. 35 (“[T]his Court should affirm the District Court’s grant of JMOL that Cordance’s claims are not invalid under § 102(f).”). Instead, in asking this court for a new trial, Cordance merely incorporated its arguments defending the district court’s grant of Cordance’s JMOL motions. These arguments only relate to whether Amazon presented sufficient evidence to support a finding of derivation as to claims 1, 3, 5, 7, and 8. Cordance, on appeal, never argued the separate issue of claims 2 and 9 and glossed over the fact that the district court did not grant its JMOL motion on derivation as to claims 2 and 9. See, e.g., id. at 72 (“The District Court granted Cordance’s requests for JMOL as to ... derivation.”). Cordance did not seek an amended judgment as to claims 2 and 9 and waived its challenge to the sufficiency of the evidence as to derivation before the district court and before this court on appeal. Moreover, by failing to present any arguments specifically relevant to Cordance’s entitlement to a new trial as to the validity of claims 2 and 9, that issue is similarly waived in this appeal.
+ 
+For the foregoing reasons, this court concludes that the jury’s verdict, finding claim 2 invalid, remains in place and this court vacates the district court’s JMOL ruling overturning the jury’s verdict of invalidity as to claim 9.
+ 
+
+4. Remaining Issues
+Because claims 1, 3, 5, 7, and 8 of the ′710 Patent are invalid as anticipated as a matter of law, and because the jury’s verdict of invalidity as to claims 2 and 9 remains undisturbed, this court need not decide the remaining issues on appeal and cross-appeal concerning the ′710 Patent, for they are now moot.
+ 
+
+C. Claim Construction of the “Feedback Information” Limitation in the Feedback Patents
+[9] Cordance argues that the district court erred by construing the “feedback information” limitation of the Feedback Patents to mean “evaluation attributes *1340 and corresponding value choices.” Claim Construction Order at 317. According to Cordance, the proper construction of “feedback information” is “information that includes an evaluative review and may also include information related to the review such as its subject or the evaluator.” Cordance contends that the court’s construction improperly reads a limitation into the claims that the feedback information must be in the format of attributes and value choices. Cordance also argues that “feedback information” should include information other than “feedback data,” such as a unique identification number corresponding to the item about which feedback is being provided.
+ 
+Amazon responds that the district court’s construction was correct. According to Amazon, the specification describes the use of an input form to collect feedback information that “consists of the category attribute and value choices.” Amazon notes that every embodiment in the specification uses evaluation attributes that are predefined and the feedback provider simply selects from the value choices available for each predefined attribute. Amazon contends that the specification never uses the phrase “feedback information,” but instead uses the synonymous term “feedback data” and describes no basis for distinguishing the terms.
+ 
+This court agrees with Amazon that the district court did not err in construing “feedback information.” The patent covers a system of collecting feedback information, aggregating feedback information, and disseminating statistical reports. The aggregation and reporting of feedback information, as described in the specification, was based upon the use of fixed, predefined attributes with corresponding fixed, predefined value choices. See, e.g., ′ 717 Patent, col. 125 ll. 56–62 (“The appropriate value choices for each of these attributes would be displayed as drop-down lists, radio buttons, and so on.”).
+ 
+Furthermore, Cordance’s attempt to expand the definition of “feedback information” by equating it with the “message object,” of which “feedback data” is a subset, is equally unavailing. A message object is defined as a generic structure for communicating between providers and consumers. ′717 Patent, col. 42 ll. 54–61. The portion of the specification cited by Cordance makes clear that “feedback information” does not refer to the message object, but instead to the narrower term “feedback data.” See, e.g., id. col. 125 l. 67–col. 126 l. 3 (“Next, the data exchange method 141 creates a message object 110 containing the feedback data from the input form and the UID of the target communications object 110.”).
+ 
+In light of the disclosure that feedback information “consists of” attributes and values, and the lack of support for Cordance’s construction, the district court cannot be said to have erred in its construction of “feedback information.”
+ 
+
+III. CONCLUSION
+Because claims 1, 3, 5, 7, and 8 of the ′710 Patent are invalid as anticipated, the district court’s order granting Cordance’s JMOL to the contrary is reversed. This court vacates the district court’s grant of Cordance’s JMOL on written description and reinstates the jury’s verdict of invalidity as to claim 9. Because the jury’s finding of invalidity as to claim 2 was not disturbed by the district court’s JMOL rulings, the jury’s finding of invalidity stands. Because the parties have failed to show that the district court erred as to any other issue, including its construction of the “feedback information” limitation of the Feedback Patents, this court affirms the remainder of the district court’s determinations challenged on appeal.
+ 
+*1341 AFFIRMED–IN–PART, REVERSED–IN–PART, AND VACATED–IN–PART
+ 
+
+COSTS
+Each party shall bear its own costs.
+ 
+All Citations
+658 F.3d 1330, 100 U.S.P.Q.2d 1230
+Footnotes
+
+1
+
+While multiple invalidity theories were presented with respect to claims 1, 3, 5, 7, and 8, this court’s determination that claims 1, 3, 5, 7, and 8 are anticipated as a matter of law renders any question as to the basis of the jury’s verdict of invalidity as to these claims irrelevant.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

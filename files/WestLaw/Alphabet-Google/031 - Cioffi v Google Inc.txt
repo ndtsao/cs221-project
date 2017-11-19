@@ -1,0 +1,303 @@
+
+
+ 
+
+
+Cioffi v. Google, Inc.
+United States Court of Appeals, Federal Circuit. | November 17, 2015 | 632 Fed.Appx. 1013 | 2015 WL 7254039
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Cioffi v. Google, Inc., 632 F. App’x 1013 (Fed. Cir. 2015)
+
+All Citations:
+
+632 Fed.Appx. 1013
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+632 Fed.Appx. 1013
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+Alfonso CIOFFI, The Estate of Allen Frank Rozman, Plaintiffs–Appellants
+v.
+GOOGLE, INC., Defendant–Appellee.
+No. 2015–1194.
+|
+Nov. 17, 2015.
+Synopsis
+Background: Patentee commenced action against competitor, alleging infringement of reissue patents directed to way of protecting computer from malware by segregating suspected malware and directing it to execute and reveal itself in safe, isolated part of computer. The United States District Court for the Eastern District of Texas, J. Rodney Gilstrap, J., 2014 WL 4293978, construed several disputed terms, held one claim of one patent was invalid as indefinite, and parties stipulated to noninfringement of all of other asserted claims. Patentee appealed.
+ 
+Holdings: The Court of Appeals, O’Malley, Circuit Judge, held that:
+ 
+[1] addition of direct access capability limitation in one claim gave rise to presumption under claim differentiation doctrine that other claim lacked such limitation;
+ 
+[2] phrase, “web browser process,” did not require “direct” access capability; and
+ 
+[3] few passing references to “user” files or data were insufficient to alter well-understood, objective meaning of “critical file” agreed upon by experts.
+ 
+Reversed and remanded.
+ 
+
+
+West Headnotes (4)
+
+
+[1]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+
+
+Addition of direct access capability limitation in claim stating that “second web browser process is capable of directly exchanging data with the network interface” gave rise to presumption under claim differentiation doctrine that claim stating that “first web browser process” needed to be “capable of passing data to the second web browser process,” lacked such limitation, in patent directed to way of protecting computer from malware by segregating suspected malware and directing it to execute and reveal itself in safe, isolated part of computer; second claim implied that “second web browser” could access data on websites indirectly with assistance from “first web browser process.”
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+
+
+Phrase “web browser process,” in patents directed to way of protecting computer from malware by segregating suspected malware and directing it to execute and reveal itself in safe, isolated part of computer, did not require “direct” access capability; although patentee amended “browser process” during patent prosecution to “web browser process,” he did not suggest that “web browser process” had to be capable of “directly” accessing website data without assistance of another “web browser process.”
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+
+
+Phrase “critical file,” in patents directed to way of protecting computer from malware by segregating suspected malware and directing it to execute and reveal itself in safe, isolated part of computer, did not encompass “critical user files,” and thus was not indefinite; although specification and prosecution history had five references to “user” files or data, “critical file” had objective and well-understood meaning in the art, and patentee deliberately intended to protect critical user data and critical user files from malware as part of its invention. 35 U.S.C.A. § 112.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+PatentsReissue
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+291Patents
+291XPatents Enumerated
+291k2094Reissue
+
+
+US Patent 7,484,247. Cited.
+US Patent RE43,103, US Patent RE43,500, US Patent RE43,528, US Patent RE43,529. Cited.
+Cases that cite this headnote
+
+
+
+*1014 Appeal from the United States District Court for the Eastern District of Texas in No. 2:13–cv–00103–JRG–RSP, Judge J. Rodney Gilstrap.
+Attorneys and Law Firms
+Eric W. Benisek, Vasquez, Benisek & Lindgren, LLP, Lafayette, CA, argued for plaintiffs-appellants. Also represented by Robert McArthur.
+Stephanie Skaef, Farella Braun & Martel LLP, San Francisco, CA, argued for defendant-appellee. Also represented by Eugene Y. Mar, Andrew P. Nguyen.
+Before O’MALLEY, PLAGER, and BRYSON, Circuit Judges.
+Opinion
+O’MALLEY, Circuit Judge.
+
+Alfonso Cioffi and The Estate of Allen Rozman (collectively “Appellants” or “Cioffi”) filed suit against Google, Inc. (“Appellee” or “Google”) on February 5, 2013 in the Eastern District of Texas alleging that the Google Chrome web browser (the “Accused Products”) infringed four reissue patents: U.S. Patent Nos. RE43,103 (the “′103 patent”); RE43,500 (the “′500 patent”); RE43,528 (the “′528 patent”); and RE43,529 (the “′529 patent”). The district court construed several disputed terms of the four patents-at-issue. Based on these constructions, the district court held claim 21 of the ′103 patent to be invalid as indefinite, and the parties stipulated to non-infringement of all of the other asserted claims.
+ 
+On appeal, Cioffi challenges the construction of two terms: (1) “web browser process” and (2) “critical file.” Cioffi disputes the district court’s construction of the first term as erroneously requiring a “direct” access capability and the second term as erroneously including “critical user files,” which renders the term indefinite. Because we agree that the district court erred in construing both of these terms, we reverse the district court’s claim construction and remand for further proceedings.
+ 
+
+I. BACKGROUND
+A. The Reissue Patents
+The four patents-at-issue are reissue patents originating from a patent issued as U.S. Patent No. 7,484,247 (the “′247 patent”) on January 27, 2009. That patent, entitled “System and Method For Protecting A Computer System From Malicious Software,” was directed to a way of protecting a computer from malware by segregating the suspected malware and directing it to execute and reveal itself in a safe, isolated part of the computer. In March 2010, thirteen months after the ′247 patent issued, Cioffi surrendered the patent pursuant to 35 U.S.C. § 251 and sought reissue claims. The resulting four reissue patents-at-issue have the same abstract and, along with the ′247 patent, share substantially identical specifications.
+ 
+The patents-at-issue describe computer processes, separated either logically or physically (using separate processors), into first and second browser processes. Potential malware downloaded from the Internet is directed to execute within the second browser process, but is not allowed to execute outside of the second browser process. Thus, the potential malware is insulated from and cannot damage any other aspect of the computer’s systems, including memory space accessible by the first browser process.
+ 
+*1015 Figure 1 of the ′528 patent (shown below) illustrates one preferred embodiment, involving two physically separate processors: (1) a first web browser process executed within first processor 120 with access to important files stored in first memory space 110, and (2) a second web browser process executed within second processor 140 with access to its own expendable memory space 130. Untrusted content downloaded from the Internet is executed in the second web browser process running in 140, where it cannot damage important files stored in first memory space 110.
+ 
+
+​
+′528 patent fig. 1.
+During prosecution, the examiner initially rejected all of the claims of the applications that ultimately issued as the ′500, ′528, and ′529 patents (“the ′500, ′528, and ′529 patent applications”) under 35 U.S.C. § 102(b) in view of U.S. Patent Application No. 2002/0002673 (“Narin”). J.A. 212–14. The examiner determined that Narin taught a method of operating a computer system with a first logical process capable of accessing data in a first memory space and a second logical process capable of accessing data in a second memory space. Id. The examiner found that the second logical process of Narin hosts non-secure software objects, and the data residing in the first memory space is protected from corruption by malware downloaded from the network and operating as part of the second logical process. Id.
+ 
+Cioffi responded with the argument that “Narin teaches away from the closed process [corresponding to the first browser process] being a browser process.” J.A. 256. In other words, Cioffi argued that Narin is distinguishable from the claimed invention because Narin does not allow a browser program to be a part of the secure application, which Cioffi describes as a “first browser process.”
+ 
+On November 14, 2011, the examiner issued a Final Rejection Office Action maintaining its rejection of all the claims of the ′500, ′528, and ′529 patent applications. The, the examiner stated that:
+Despite the Applicant’s arguments that the claimed browser is a web browser, the specification ... describe[s] the first logical process as being a video game and including but not [being] limited to a word processor,’ respectively. According to the Applicant’s specification, the claimed first logical process or first browser process could include a web browser, such as Internet Explorer or Netscape; a video game; or a word *1016 processor. At the very least, the prior art’s disclosure reads on the Applicant’s video game and word processor interpretations of browser.... It is noted that features upon which applicant relies, such as the first browser process accessing Internet sites and/or data, are not recited in the rejected claims.
+Id. at 285–6 (¶¶ 6–8).
+ 
+In response, Cioffi amended all of the pending claims of the ′500, ′528, and ′ 529 patent applications to narrow the first and second “browser process” to the first and second “web browser process.” J.A. 798–810. Cioffi also added a limitation, “capable of accessing data of a website via the network,” to the first web browser process. J.A. 314. Cioffi then explained, “Narin fails to disclose ... a first web browser process capable of accessing data of a website via a network of one or more computers (e.g., the internet).” J.A. 332. The examiner allowed the claims.
+ 
+
+B. Procedural History
+On February 5, 2013, Cioffi filed suit against Google asserting infringement of the ′500, ′528, ′529, and ′103 reissue patents by the Google Chrome web browser available for the Windows, Mac, Android, and Linux operating systems. The claims originally asserted were:
+′500 patent: claims 21, 23, 25, 29, 30, 31, 32, 37, 38, 39, 41, 42, 43, 52, 66, 67 and 70.
+′528 patent: claims 1, 2, 5, 21, 23, 25, 30, 44, 46, 52, 53, 55, 57, 58, 64, 65, 66, 67 and 70.
+′529 patent: claims 21, 23, 28, 30, 36, 38, 45, and 49.
+′103 patent: claim 21.
+Cioffi v. Google Inc., 2:13–cv–103, 2014 WL 4293978, *3, 2014 U.S. Dist. LEXIS 123760, *8 (E.D.Tex. Aug. 28, 2014). Following a Markman hearing, the district court issued its Claim Construction Order on August 28, 2014. Id.
+ 
+The district court adopted its preliminary construction of “web browser process” as a “process that can access data on websites.” Id. at *8, 2014 U.S. Dist. LEXIS 123760, at *21. The court found that Cioffi had distinguished Narin during patent prosecution by arguing that Narin discloses a “secure” or “closed” application that controls a separate process that runs an “open or untrusted application,” and that the “secure” application cannot be a web browser. Id. at *5, 2014 U.S. Dist. LEXIS 123760, at *14–15. The court noted that, in response to the examiner’s rejection stating that the features relied upon to overcome Narin were not recited in the claims, Cioffi amended the claims to add “web” before “browser” and “capable of accessing data of a website via the network” before “first web browser process.” Id. at *6, 2014 U.S. Dist. LEXIS 123760, at *17. The court found that the patentees relied on the added “web” limitation to overcome the examiner’s rejection, and “that reliance should be given effect by requiring that the web browser process’ is capable of accessing data on websites.” Id. at *7, 2014 U.S. Dist. LEXIS 123760, at *18–19.
+ 
+The district court then addressed a statement that Google made at the Markman hearing that it would agree to the court’s preliminary construction with an understanding that the claim term requires “direct” access to website data. While the court did not seek further briefing or argument on this issue, it did address it. The court stated that introducing the word “direct” would confuse rather than clarify the scope of the claims, but continued:
+To be clear, “can” in the Court’s construction does not mean “must” and instead refers to a capability. For this *1017 capability to be meaningful and consistent with the prosecution history, however, a “web browser process” must be capable of accessing a website without using another web browser process. In other words, although the Court’s construction does not preclude a web browser process from accessing websites by using another web browser process, a web browser process’s capability of accessing websites must not require using another web browser process.
+Id. at *8, 2014 U.S. Dist. LEXIS 123760, at *20–21 (emphasis in original).
+ 
+The district court also adopted its preliminary finding that the term “critical file” from the ′103 patent is indefinite, and held, therefore, that claim 21 of the ′103 patent is invalid. The court found that references to “critical user files” found in the specification and prosecution history suggest that the term “critical file” includes critical “user” files. Id. at *21–22, 2014 U.S. Dist. LEXIS 123760, at *60. It held that what is critical to a user is “entirely subjective,” and that “critical file,” therefore, fails to inform a person of skill in the art about the scope of the invention with reasonable certainty under Nautilus, Inc. v. Biosig Instruments, Inc., ––– U.S. ––––, 134 S.Ct. 2120, 2122, 189 L.Ed.2d 37 (2014). Id. at *22, 2014 U.S. Dist. LEXIS 123760, at *61.
+ 
+The parties filed objections to aspects of the Claim Construction Order. Cioffi then served its Final Election of Asserted Claims, in which it narrowed the asserted claims to:
+′500 patent: claims 21, 30, 32, 39, 43, 66, and 70
+′528 patent: claims 5, 21, 23, 30, 44, 64, and 67
+′529 patent: claims 23, 30, 36, 38, 45, and 49
+See Final Judgment at 2–3, Cioffi, 2014 U.S. Dist. LEXIS 123760 (2:13–cv–103), ECF No. 104. The district court overruled the parties’ objections. Order, Cioffi, 2014 U.S. Dist. LEXIS 123760 (2:13–cv–103), ECF No. 97.
+ 
+The parties then agreed that, based on the court’s claim constructions, Cioffi could not prevail on the issue of infringement. Cioffi’s First Amended Infringement Contentions had identified the browser kernel of the Accused Products as reading on the “first web browser process” of the asserted claims and the rendering engine of the Accused Products as reading on the “second web browser process” of the asserted claims. The district court found that the rendering engine of the Accused Products “is not capable of and cannot access data of websites without using the browser kernel in the Accused Products,” and, therefore, the rendering engine cannot meet the “web browser process” limitation under the Claim Construction Order. Final Judgment at 2–3, Cioffi, 2014 U.S. Dist. LEXIS 123760 (2:13–cv–103), ECF No. 104. The district court entered a final judgment of non-infringement on December 2, 2014. Id.
+ 
+Cioffi timely appealed the district court’s judgment, and we have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+II. DISCUSSION
+Cioffi challenges the district court’s construction of two claim terms: (1) “web browser process” and (2) “critical file.” Claim construction is a matter of law, which we review de novo, but we review underlying factual findings by the district court for clear error. Teva Pharms. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 837–38, ––– L.Ed.2d –––– (2015). Generally, claim terms should be given their ordinary and customary meaning from the perspective of a person having ordinary skill in the art at the time of the *1018 effective date of the patent application. Phillips v. AWH Corp., 415 F.3d 1303, 1312–13 (Fed.Cir.2005) (en banc). To ascertain the scope and meaning of the asserted claims, we look to the words of the claims themselves, the specification, the prosecution history, and any relevant extrinsic evidence. Id. at 1315–17. This inquiry, at times, begins and ends with the intrinsic evidence. In fact, the specification is the single best guide to the meaning of the claim terms; it is often dispositive. Id. at 1318 (“[T]he specification ‘is always highly relevant to the claim construction analysis. Usually, it is dispositive....’ ”) (citation omitted).
+ 
+
+A. “Web Browser Process”
+Cioffi argued in its opening brief on appeal that the district court erred by construing “web browser process” at all, rather than maintaining the term’s plain and ordinary meaning. Appellant Br. 27. Cioffi has since conceded, however, that the district court’s construction of “web browser process” as a “process that can access data on websites” is not reversible error.1
+ 
+[1] Given this concession, the sole remaining dispute with respect to “web browser process” is whether the district court erred by reading into that limitation a “direct” access requirement. Under the district court’s construction, a “web browser process” does not have to access data on websites without using another “web browser process,” but “must be capable of accessing a website without using another web browser process.” Cioffi, 2014 WL 4293978, at *8, 2014 U.S. Dist. LEXIS 123760 at *20–21 (emphasis added). Simply put, the district court held that the “first web browser process” must be capable of accessing the Internet directly without the assistance of the “second web browser process,” and the “second web browser process” must be capable of accessing the Internet directly without the assistance of the “first web browser process.”
+ 
+Claim construction starts with the claim language. Innova/Pure Water, Inc. v. Safari Water Filtration Sys., Inc., 381 F.3d 1111, 1116 (Fed.Cir.2004). “Differences among claims can [ ] be a useful guide in understanding the meaning of particular claim terms.” Phillips, 415 F.3d at 1314. “[T]he presence of a dependent claim that adds a particular limitation gives rise to a presumption that the limitation in question is not present in the independent claim.” Phillips, 415 F.3d at 1314–15 (citing Liebel–Flarsheim Co. v. Medrad, Inc., 358 F.3d 898, 910 (Fed.Cir.2004)).
+ 
+Cioffi asserts that, under these claim differentiation principles, the term “web browser process” alone cannot be read to require a “direct” access capability. Cioffi first points to independent claim 21 of the ′528 patent, claiming it demonstrates that the “second web browser process” does not need to be capable of directly accessing data on websites without using another web browser. Claim 21 states that the “first web browser process” needs to be “capable of passing data to the second web browser process.” ′528 patent col. 21 ll. 12–14. Thus, this claim implies that the “second web browser” can access data on *1019 websites indirectly with assistance from the “first web browser process.” Nothing in the language of claim 21 requires that either the first or the second web browser process have direct access capability; instead, the claim requires only that the second process: (1) execute website data and (2) retrieve data that it executes. Id. In contrast, dependent claim 24 of the ′528 patent requires the “second web browser process” to be “capable of directly exchanging data with the network interface and with the first web browser process.” ′528 patent col. 21 ll. 26–30.2 Cioffi asserts that the “directly exchanging data with the network interface” limitation of claim 24 would be superfluous if claim 21 already required direct web access capability.
+ 
+According to Google, Cioffi’s claim differentiation argument fails because the court’s construction requiring that the web browser process have the capability to access data on a website directly does not render claims 21 and 24 of the ′ 528 patent identical in scope. Claim differentiation principles do not apply here, according to Google, because claim 24 has two additional limitations as compared to claim 21. Dependent claim 24 not only adds a “directly exchanges data with the network interface” limitation, but also a “directly exchanges data with” “the first web browser process” limitation. Id. Thus, according to Google, only the first of these limitations would be subsumed by the court’s construction.
+ 
+We are not persuaded by Google’s arguments. If claim 21 already required a capability for “direct” access to the network, then the language of claim 24, which recites that the “second web browser process is capable of directly exchanging data with the network interface,” would be entirely duplicative. Thus, the language of the claims indicates that only in claim 24 does the second web browser have to have a “direct” access capability. While Google is correct that claim 24 adds another limitation compared to claim 21, that argument does not change the fact that the “directly exchanges data with a network” limitation would be rendered superfluous. See Mformation Techs., Inc. v. Research in Motion Ltd., 764 F.3d 1392, 1399 (Fed.Cir.2014) (favoring a construction that does not render another limitation “superfluous”). Thus, we find Cioffi’s claim differentiation argument compelling and find that the addition of the direct access capability limitation in claim 24 gives rise to a presumption that claim 21 lacks such a limitation.
+ 
+[2] We do not find, moreover, that anything in the prosecution history overcomes the presumption created by these claim differentiation principles. Google argues that, during prosecution, Cioffi disclaimed a construction of “web browser process” that is broad enough to cover indirect access to website data in order to overcome anticipation by Narin. And Google is correct that, “[a]lthough claim differentiation is a useful analytic tool, it cannot enlarge the meaning of a claim beyond that which is supported by the patent documents, or relieve any claim of limitations imposed by the prosecution history. See, e.g., Retractable Techs., Inc. v. Becton, Dickinson and Co., 653 F.3d 1296, at 1305 (Fed.Cir.2011) (‘[A]ny presumption created by the doctrine of claim differentiation “will be overcome by a contrary construction dictated *1020 by the written description or prosecution history.” ’).” Fenner Invs., Ltd. v. Cellco P’ship, 778 F.3d 1320, 1327 (Fed.Cir.2015). “The doctrine of prosecution disclaimer attaches where an applicant, whether by amendment or by argument, ‘unequivocally disavowed a certain meaning to obtain his patent.’ ” Schindler Elevator Corp. v. Otis Elevator Co., 593 F.3d 1275, 1285 (Fed.Cir.2010) (quoting Omega Eng’g, Inc. v. Raytek Corp., 334 F.3d 1314, 1324 (Fed.Cir.2003)).
+ 
+According to Google, Cioffi would not have been able to distinguish its claims from Narin if its “web browser process” was permitted to indirectly access data on websites through another browser process. Google contends that the examiner rejected Cioffi’s initial, unamended claim for a “browser process” because it would encompass prior art video games in which a renderer (i.e., the first process) relies on a second process to receive interactive network data. ′247 patent col. 14 ll. 28–45. Google argues that Cioffi thus surrendered indirect access to website data when it amended “browser process” to “web browser process” to exclude video game and word processing applications from the prior art. Appellee Br. 32.
+ 
+Cioffi responds that it never suggested in the course of amending “browser process” to “web browser process” that the “web browser process” must be capable of “directly” accessing website data without the assistance of another “web browser process.” Appellant Reply Br. 14. Instead, Cioffi says the key to overcoming Narin was not that the first “web browser process” could “directly” access website data, but, rather, was that the first “web browser process” could access website data at all.
+ 
+In Fenner, on which Google relies, we held that the patent’s specification and prosecution history narrowed the meaning of the term “personal identification number” beyond the construction proffered by the patentee notwithstanding the patentee’s claim differentiation argument. 778 F.3d at 1327. The patentee argued that “personal identification number” should be construed broadly and could be associated with a particular user or a particular device. But the court held that the patentee could not walk away from what it had clearly stated during prosecution—that unlike the prior art, “[t]he present invention, on the other hand, is centered around the mobile user, not the mobile telephone. The user is identified by a personal code.” Id. at 1325. The patentee’s main argument on appeal was that the examiner did not rely on these statements, a point which we found to be irrelevant. Id.
+ 
+Unlike Fenner, the alleged disavowal of claim scope is far from unequivocal in Cioffi’s case. The prosecution history reveals that Cioffi distinguished Narin by arguing that its first browser process was not functionally equivalent to Narin’s “secure” or “trusted” application because the first browser process of the reissue claims was capable of accessing untrusted data from websites, which would constitute “executable code from other sources that may not be trusted.” J.A. 256–57. The examiner recognized that Cioffi drew this distinction with Narin’s “secure” application, but nevertheless rejected Cioffi’s claims because “the features upon which applicant relies, such as the first browser process accessing Internet sites and/or data, are not recited in the rejected claims.” J.A. 286 (¶ 8). Rather, the examiner felt that the first logical process described in the specification was broad enough to encompass non-web browsers such as a “video game” and a “word processor.” Id. at ¶ 6. In response to this rejection, Cioffi amended its claims to explicitly state that the “first web *1021 browser” needed to be “capable of accessing data on websites.” J.A. 314, 332.
+ 
+Google refers to the following passage from the prosecution history, claiming that it shows that Cioffi disclaimed “indirect” access to website data by the first browser process in order to overcome Narin:
+As an example application 312 [the secure application in Narin] may provide some type of web browsing capability to its user, but rather than performing the actual web browsing functions itself, application 312 may call upon a general-purpose browsing program to perform the web browsing.
+J.A. 258, 590. See also Oral Argument at 18:01–19:18, available at http://oralarguments.cafc.uscourts.gov/default.aspx?fl=2015–1194.mp3. This passage simply confirms that the “secure” process of Narin cannot perform web browsing functions itself, but can call upon the “open” process to perform such functions. Nothing here suggests that the “secure” process thereby gains access to website data. Google further cites this passage:
+Narin provides a technique for allowing an open or untrusted application to provide untrusted or open features for a secure application that are not directly implemented within the secure application (or closed application). In accordance therewith, an open or untrusted application is run in a separate auxiliary process from the closed or protected application.... The auxiliary process is started by the closed process; the closed process controls the lifetime of the auxiliary process and terminates it when the open features that it provides are no longer necessary.
+J.A. 588 (emphasis added). Google focuses on the phrase “not directly implemented,” but nothing contained in this passage clarifies that the “untrusted or open features” that the untrusted application provides the secure application include anything more than general web browsing capability, as opposed to website data. And even if such “features” included data from websites, nothing suggests that “are not directly implemented” equates to “are indirectly accessed.” In addition, the third sentence—stating that the untrusted process is started, controlled, and stopped by the “closed process”—also falls short of suggesting that the “closed process” thereby gains access to website data. Finally, the paragraph immediately following that passage affirmatively suggests that whatever the “untrusted features” provided to the “secure” application might include they cannot include “executable code from unknown sources”:
+Narin teaches away from the closed process [the first browser process] being a browser process. If the application is trusted, running a browser in-proc may subvert the security scheme of the trusted application. If trust is to be maintained, executable code from unknown sources cannot be given access to the address space of the trusted application and therefore cannot be run in process.
+J.A. 256–57 (emphasis added). Thus, nothing from the prosecution history constitutes a clear and unmistakable disavowal of “indirect” access. “There is no ‘clear and unmistakable’ disclaimer if a prosecution argument is subject to more than one reasonable interpretation, one of which is consistent with a proffered meaning of the disputed term.” SanDisk Corp. v. Memorex Prods., 415 F.3d 1278, 1287 (Fed.Cir.2005). Here, Cioffi has offered a reasonable alternative interpretation—that it differentiated Narin by explaining that its first web browser process, unlike Narin’s “secure” process, had access to website data. We find nothing in the prosecution history sufficient to overcome the presumption *1022 that “web browser process” alone does not have a “direct” access capability requirement.
+ 
+
+B. “Critical File”
+[3] We now turn to the dispute over the district court’s construction of “critical file” as including “critical user files,” which both parties agree would render the term indefinite under Nautilus, 134 S.Ct. at 2129. Under Nautilus, 35 U.S.C. § 112 ¶ 2 requires that “a patent’s claims, viewed in light of the specification and prosecution history, inform those skilled in the art about the scope of the invention with reasonable certainty.” Id. A claim “must be sufficiently definite to inform the public of the bounds of the protected invention, i.e., what subject matter is covered by the exclusive rights of the patent.” Ancora Techs., Inc. v. Apple, Inc., 744 F.3d 732, 737 (Fed.Cir.2014) (quoting Halliburton Energy Servs., Inc. v. M–I LLC, 514 F.3d 1244, 1249 (Fed.Cir.2008)).
+ 
+Google points out three references to “user” files in the specification of the ′247 patent:
+With the network interface program constrained in this way, malware programs are rendered unable to automatically corrupt critical system and user files located on the main memory storage area.
+...
+It is an object of the present invention to provide a computer system capable of preventing malware programs from automatically corrupting critical user and system files.
+...
+It is another object of the present invention to provide a user with an easy and comprehensive method of restoring critical system and user files that may have been corrupted by a malware infection.
+′247 patent col. 7 ll. 8–11, 40–44, 53–56 (emphasis added). Google also points to the following references to “critical ... user” files or data in the prosecution history:
+Critical user data residing on the first electronic memory space is thereby protected from corruption by a malicious (malware) process downloaded from the network and executing on the second logical process.
+...
+[M]alware programs are rendered unable to automatically corrupt critical system and user files located on the main memory storage area.
+J.A. 458–59 (emphasis added).
+ 
+The question is whether these five references to “user” files or data in the specification and prosecution history are sufficient to require that we read a “user files” limitation into the claim term “critical file.” On this point, our recent decision in Ancora, 744 F.3d at 732, is instructive. Ancora states that “[a] claim term should be given its ordinary meaning in the pertinent context, unless the patentee has made clear its adoption of a different definition or otherwise disclaimed that meaning.” Id. at 734. There, we upheld the district court’s ruling that the terms “volatile memory” and “non-volatile memory” were not indefinite because the parties did not dispute that there were “clear, settled, and objective” meanings for those terms in the art, and three “passing references” in the specification inconsistent with the established meanings were insufficient to overcome the clear ordinary meaning. Id. at 738.
+ 
+In this case, the experts from both sides agreed that “critical file” had a well-understood and objective definition to one of skill in the art. Cioffi’s expert, Mr. H.E. (“Buster”) Dunsmore, stated that a person of skill would understand that a “ ‘critical *1023 file’ refers to files required for the proper operation of the computer’s systems.” Dunsmore Decl. ¶ 35, Exhibit 24 of Google’s Responsive Claim Construction Br., Cioffi, 2014 U.S. Dist. LEXIS 123760 (2:13–cv–103), ECF No. 66 (“Dunsmore Decl.”). Similarly, Google’s expert, Dr. Wilham A. Arbaugh, testified that, “[a] person of ordinary skill in the art knows that ‘system files’ are synonymous with ‘critical file’ and ‘critical system file.’ ” Arbaugh Decl. at 32, Exhibit 23 of Google’s Responsive Claim Construction Br., Cioffi, 2014 U.S. Dist. LEXIS 123760 (2:13–cv–103), ECF No. 66 (emphasis added) (“Arbaugh Decl.”).3
+ 
+The surrounding text of the experts’ declarations does not alter this finding. The experts agreed that “critical user file” is entirely subjective. See Dunsmore Decl. ¶ 35 (“users may disagree [sic] what is and is not critical to them”); Arbaugh Decl. at 32 (“it is my opinion that a ‘critical user file’ is entirely subjective because what is critical to one person may not be critical to another”). And the experts disagreed about whether “critical file” must be construed to include “critical user files” based on references to such files in the specification. See Dunsmore Decl. ¶ 35 (“One of skill would understand that a critical file would not be a user file”); Arbaugh Decl. at 33 (stating that, in light of the specification and prosecution history, a proposed construction of “critical file” that “does not include the concept of ‘critical user files’ ... is underinclusive”). But neither party’s expert suggested that “critical file” alone is subjective or indefinite.
+ 
+Our analysis thus shows that, without taking into consideration the few references to “user files” or “user data” in the intrinsic evidence, both sides’ experts agreed on an objective and well-understood meaning for “critical file.” Ancora teaches that, if there is a well-understood meaning for a term in the art, we do not allow a few inconsistent references in the specification to change this meaning. This is because, if the terms at issue have “so clear an ordinary meaning[,] a skilled artisan would not be looking for clarification in the specification.” Ancora, 744 F.3d at 738. As in Ancora, “[t]here is no facial ambiguity or obscurity in the claim term,” and any ambiguity only arises from the specification. Id.
+ 
+Google argues that, unlike Ancora, where the “passing references” inconsistent with the ordinary meaning were “perplexing,” here, Cioffi deliberately intended to protect critical user data and critical user files from malware as part of its invention. See id. While the specification references upon which Google relies do reference the advantage of protecting files with which a particular user might be concerned, we see nothing that indicates that Cioffi intended its invention to do anything other than protect “critical files” as that concept is widely understood by those of skill in the art. We, thus, reject Google’s argument, and find that the few “passing references” to “user” files or data are insufficient to alter the well-understood, objective meaning of “critical file” agreed upon by the experts. We, therefore, reverse the district court’s holding that “critical file” in claim 21 of the ′103 patent is indefinite.
+ 
+
+III. CONCLUSION
+For the foregoing reasons, we find that that the district court incorrectly construed “web browser process” as requiring a “direct” access capability and incorrectly *1024 construed “critical file” as encompassing “critical user files.” We, therefore, reverse the district court’s claim constructions to the extent they are inconsistent with our findings and reverse the district court’s finding that the ′103 patent is invalid as indefinite under 35 U.S.C. § 112 ¶ 2. Because the parties stipulated to non-infringement based on the district court’s erroneous constructions, we also remand for further findings pursuant to this opinion.
+ 
+REVERSED AND REMANDED
+ 
+All Citations
+632 Fed.Appx. 1013
+Footnotes
+
+1
+
+See Appellant Reply Br. 2 (“Had the district court stopped with its preliminary construction of ‘web browser process’ to mean a ‘process that can access data on websites’ its error in deciding to construe the term would have been harmless....”); Oral Argument at 1:20–2:03, available at http://oralarguments.cafc.uscourts.gov/default.aspx?fl=2015–1194.mp3 (“what’s shown [at *21 of the Claim Construction Order] is the court’s definition that a ‘web browser process’ is a ‘process that access data on websites.’ That definition, as a practical matter, is acceptable to us.”).
+
+2
+
+Claims 21 and 24 of the ′528 patent are representative. In its Reply Brief and at oral argument, Cioffi clarifies that the same argument applies to claims 36 and 39 of the ′529 patent. See Appellant Reply Br. 5–7; Oral Argument at 3:23–3:59, available at http://oralarguments.cafc.uscourts.gov/default.aspx?fl=2015–1194.mp3. The same argument also applies to claims 21 and 24 of the ′500 patent.
+
+3
+
+Based on this language, we disagree with Google’s characterization of Dr. Arbaugh’s testimony as explaining “that ‘system file’ can be a ‘critical file’ or a ‘critical system file,’ not that ‘critical file’ means ‘system file’ or only includes ‘system file.’ ” Appellee Br. 37.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

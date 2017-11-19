@@ -1,0 +1,259 @@
+
+
+ 
+
+
+Caper Corp. v. Wells Fargo Bank, N.A.
+United States Court of Appeals, Fourth Circuit. | July 17, 2014 | 578 Fed.Appx. 276 | 2014 WL 3511928
+
+Document Details
+
+Outline
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Caper Corp. v. Wells Fargo Bank, N.A., 578 F. App’x 276 (4th Cir. 2014)
+
+All Citations:
+
+578 Fed.Appx. 276 (Mem)
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+North Carolina
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+578 Fed.Appx. 276 (Mem)
+This case was not selected for publication in the Federal Reporter.
+Not for Publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also Fourth Circuit Rule 32.1 (Find CTA4 Rule 32.1)
+United States Court of Appeals,
+Fourth Circuit.
+The CAPER CORPORATION, Plaintiff–Appellant,
+v.
+WELLS FARGO BANK, N.A., as successor by merger to Wachovia Bank, N.A., Defendant–Appellee.
+No. 13–2152.
+|
+Submitted: March 21, 2014.
+|
+Decided: July 17, 2014.
+Appeal from the United States District Court for the Eastern District of North Carolina, at Wilmington. James C. Dever III, Chief District Judge. (7:12–cv–00357–D).
+Attorneys and Law Firms
+S. Leigh Rodenbough, IV, James C. Adams, II, Benjamin R. Norman, Brooks, Pierce, McLendon, Humphrey & Leonard, LLP, Greensboro, North Carolina, for Appellant. William L. Esser IV, Matthew H. Mall, Parker Poe Adams & Bernstein LLP, Charlotte, North Carolina, for Appellee.
+Before KING and THACKER, Circuit Judges, and DAVIS, Senior Circuit Judge.
+Opinion
+Affirmed by unpublished PER CURIAM opinion.
+Unpublished opinions are not binding precedent in this circuit.
+PER CURIAM:
+
+This case arises from an interest rate swap agreement and accompanying loan contract between Appellant The Caper Corporation (“Appellant”) and Appellee Wells Fargo (“Appellee”), as successor in interest to Wachovia Bank, N.A. The district court dismissed all ten of Appellant’s causes of action, which sound in both contract and tort, for failure to state a claim under Federal Rule of Civil Procedure 12(b)(6). For the reasons that follow, we affirm.
+ 
+
+I.
+A.1
+Appellant is a real estate development corporation organized under Florida law and headquartered in North Carolina. Beginning in the early 1980s, Appellant financed many of its commercial and residential development projects through loans obtained from Appellee and its predecessors-in-interest. Consistent with this relationship, on April 8, 2005, Appellee loaned Appellant $3.8 million (the “Original Loan”) so that Appellant could purchase an office building located in Wilmington, North Carolina (the “Property”). The seven-year loan agreement, which was secured by a deed of trust to the Property, included a one-year variable interest rate followed by a six-year fixed interest rate. Appellant used the loan disbursement to purchase the Property and, effective July 1, 2005, leased it to a commercial tenant for a term of seven years.
+ 
+Several months after executing the Original Loan, Appellant decided to seek refinancing in order to develop certain portions of the Property for the tenant’s use. Appellee responded to Appellant’s inquiry with a term sheet (the “Term Sheet”) offering *277 a $10.3 million (later reduced by agreement to $4.3 million), ten-year refinanced loan with a variable interest rate set at the one-month London Interbank Offered Rate (“LIBOR”) plus 1.75% (later reduced by agreement to LIBOR plus 1.70%). The proposed refinanced loan, according to the Term Sheet, would include a 0.25% fee and “[o]ther costs as required including appraisal fee, environmental assessment, title insurance and legal fees (if applicable).” J.A. 23.2 The Term Sheet further provided that Appellant could obtain a fixed rate through a separate interest rate swap agreement, which was “available upon request.” Id. at 13.
+ 
+As described by the district court, an interest rate swap agreement
+is a standalone interest rate hedging instrument whereby two parties pay each other interest based on a notional principal amount (i.e., an agreed hypothetical principal amount). The first party pays a fixed interest rate to the second party, while the second party pays a variable interest rate to the first party. If the first party is a borrower with a variable interest rate loan, where the loan interest rate and swap interest rate are the same, and the notional principal amount is equal to the loan principal, the loan holder effectively pays only a fixed interest rate. Incoming payments under the interest rate swap offset any interest due under the loan, leaving a net payment at the fixed interest rate.
+The Caper Corp. v. Wells Fargo Bank, N.A., No. 7:12–CV–357–D, 2013 WL 4504450, at *1 n. 1 (E.D.N.C. Aug. 22, 2013) (internal citations omitted). Notably, the Term Sheet stated that Appellee would extend any swap agreement at “a market-derived rate.” J.A. 22. Appellee orally advised Appellant that the proposed refinanced loan, on the other hand, was being offered at “market rates.” Id.
+ 
+Intent on securing a fixed-rate loan or its equivalent, Appellant’s president, Walter Pancoe (“Pancoe”), contacted Appellee about the swap option mentioned in the Term Sheet. Following a brief telephone conversation, Appellee’s agent, Matt Boss (“Boss”), sent Pancoe a letter (the “Swap Letter”) proposing an interest rate swap as a way “to hedge against future interest rate increases on [Appellant’s] [anticipated] floating rate loan.” J.A. 116. In explaining the proposed swap, the Swap Letter described, inter alia, the possibility of “termination fees” if the “swap transaction is unwound before its stated maturity,” id., and identified some of the risks involved in executing a swap agreement before closing on the proposed refinanced loan:
+Caper can even use a swap to lock in a fixed rate in advance of its loan closing. Please be aware, however, that any swap is a separate contract and would be an ongoing obligation whether or not the loan takes place. The risk of the swap being unnecessary (because the loan never materializes or for other reasons) should be carefully considered by Caper before entering into a swap to lock in a rate.
+Id. at 117 (emphasis supplied); see also id. at 120. The letter went on to disclaim any advisory role on the part of Appellee, repeatedly stating that Appellant “must make its own evaluation of the proposed transaction ... and the risks involved.” Id. at 120.
+ 
+Thereafter, on November 21, 2005, Appellant elected to enter into a ten-year swap agreement with Appellee (the “Original Swap Agreement”) prior to closing on the proposed refinanced loan. As is typical *278 in such contracts, the Original Swap Agreement was governed by an International Swap Dealers Association Master Agreement and Schedule (collectively, the “Master Agreement”), which set forth the general terms governing the transaction, and a more particularized Confirmation containing the specific financial terms. The swap itself was based on a notional amount of $4.3 million, pursuant to which Appellant would make payments at a fixed 6.91% interest rate and Appellee would make payments at a variable interest rate of the one-month LIBOR plus 1.70%. By its plain language, the Original Swap Agreement was set to expire on January 15, 2016 (the “Termination Date”), and one party would be required to pay the other a variable, market-based termination fee in the event of an early termination.3 The Original Swap Agreement further provided that the parties were obliged to make all “payments that become due” under the Agreement “whether or not” the terms of the ultimate loan differed from the Agreement or “the Termination Date ... occur[ed] ... after the maturity date of any loan.” J.A. 77.
+ 
+At some point after the execution of the Original Swap Agreement, Appellee decided to align the term of the proposed refinanced loan with the term of the Property’s existing lease, shortening its offered loan term from ten to six years. Pancoe complained to Appellee that, as a consequence of this modification, the terms of the proposed refinanced loan and the Original Swap Agreement no longer matched, i.e., the parties’ obligations under the Original Swap Agreement would outlast their obligations under the proposed refinanced loan by almost four years. In response, Appellee’s agent, Randall C. Tomsic (“Tomsic”), allegedly assured Pancoe, “if [Appellant’s] obligations under the [proposed refinanced loan] ended, its obligations under the [Original Swap Agreement] would end at the same time without any additional payment obligations.” J.A. 17. Mollified by this representation, Appellant entered into a six-year refinanced loan agreement with Appellee (the “Refinanced Loan”) on January 23, 2006, in the principal amount of $4.3 million, with a variable interest rate set at the one-month LIBOR plus 1.70%.4 The Refinanced Loan was set to mature on March 15, 2012.
+ 
+Subsequently, on February 2, 2006, the parties agreed to amend the terms of the Original Swap Agreement so that the monthly payments for the Refinanced Loan and the Original Swap Agreement would fall on the same dates. At this time, the complaint alleges, Appellee “refus[ed] to amend the [Original Swap Agreement] to shorten its term” to match that of the Refinanced Loan “because shortening the term of the Original Swap would have resulted in a loss to [Appellee] of approximately $14,000.” J.A. 18. Indeed, the amended Confirmation ultimately executed by the parties in June 2006 (“Amended Swap Agreement” or “Amendment”)—which reset the monthly payment dates for *279 the swap, as the parties agreed—neither shortened the term of the Original Swap Agreement nor included any language waiving the early termination fee. To the contrary, the Amendment actually extended the Termination Date of the Original Swap Agreement from January 15, 2016, to February 10, 2016, and added an “Additional Termination Event” pursuant to which the swap would “terminate and be replaced by an obligation of one party to make a [termination fee] payment to the other party” if the Agreement became unsecured after March 15, 2012. Id. at 49. The Amendment also incorporated “[a]ll provisions” of the Master Agreement that were not “expressly modified” in the Amendment itself. Id.
+ 
+For the next four years, Appellant made monthly payments to Appellee as required by the Refinanced Loan and the Amended Swap Agreement. In April 2011, the tenant of the Property decided that it would not renew the lease when it expired in June 2012. As a result, Appellant asked Appellee for an extension of the Refinanced Loan or, in the alternative, for a new short-term loan. Appellant also requested that the Amended Swap Agreement be terminated when the Refinanced Loan matured “without any additional payment obligation,” as Appellee had allegedly promised. J.A. 19. In a series of discussions, Appellee initially “reconfirmed” Appellant’s understanding as to the contemporaneous termination of the Amended Swap Agreement and the Refinanced Loan, id., but later advised that it intended to hold Appellant to the terms of the agreement as written. On April 11, 2012, after much back-and-forth, Appellee agreed to extend the term of the Refinanced Loan from March 15, 2012, to September 30, 2012, and the parties executed a loan modification to that effect.
+ 
+Prior to the new maturity date of the Refinanced Loan, Appellant entered into a contract to sell the Property and requested a “payoff from [Appellee] for the Refinanced Loan in anticipation of a closing.” J.A. 21. Appellee informed Appellant that it was invoking its contractual right to withhold the deed of trust to the Property pending repayment of the Refinanced Loan, termination of the Amended Swap Agreement, and satisfaction of any termination fee. On June 28, 2012, Appellant closed on the sale of the Property and repaid the Refinanced Loan in full, triggering Appellee’s contractual right to terminate the swap at a cost to Appellant of $568,337 (the “Termination Fee”). That same day, Appellant paid the Termination Fee and executed a Confirmation of Termination, to which it appended language noting that it acted “under duress[ ] and with full reservation of rights to contest its liability for the Termination Fee.” Id. at 139. Appellee then released the deed of trust on the Property.
+ 
+
+B.
+Appellant filed a complaint against Appellee in the Superior Court of New Hanover County, North Carolina, on November 26, 2012. Appellee removed the case to the Eastern District of North Carolina on December 27, 2012, invoking the court’s diversity jurisdiction pursuant to 28 U.S.C. § 1332. Subsequently, on January 30, 2013, Appellee moved to dismiss Appellant’s complaint in its entirety for failure to state a claim under Federal Rule of Civil Procedure 12(b)(6). The district court granted Appellee’s motion on August 22, 2013. Appellant timely filed a notice of appeal.
+ 
+
+II.
+We review de novo the district court’s grant of Appellee’s motion to dismiss pursuant to Rule 12(b)(6). Spaulding v. Wells Fargo Bank, N.A., 714 F.3d 769, 776 (4th Cir.2013). To survive such a motion, the complaint must contain facts sufficient “to *280 raise a right to relief above the speculative level” and “state a claim to relief that is plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 555, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007). Although we must view the facts alleged in the complaint “in the light most favorable to the plaintiff,” Nemet Chevrolet, Ltd. v. Consumeraffairs.com, Inc., 591 F.3d 250, 255 (4th Cir.2009), we will not accept “unwarranted inferences, unreasonable conclusions, ... arguments,” or “allegations that offer only naked assertions devoid of further factual enhancement.” U.S. ex rel. Oberg v. Penn. Higher Educ. Assistance Agency, 745 F.3d 131, 136 (4th Cir.2014) (internal quotation marks omitted).
+ 
+
+III.
+Appellant’s complaint sets forth ten causes of action: (1) fraud as to the termination fee; (2) negligent misrepresentation as to the termination fee; (3) duress as to the termination fee; (4) fraudulent overcharges; (5) negligent misrepresentation as to the overcharges; (6) breach of fiduciary duty; (7) constructive fraud; (8) unfair and deceptive trade practices in violation of N.C. Gen.Stat. § 75–1.1; (9) rescission or reformation of the swap agreement due to commercial frustration of purpose and mutual mistake; and (10) rescission or reformation of the swap agreement due to unsuitability. We hold that the district court correctly granted Appellee’s motion to dismiss all ten counts.
+ 
+
+A.
+As a federal court sitting in diversity, we must apply the substantive law of the forum state, including its choice of law rules. Kenney v. Indep. Order of Foresters, 744 F.3d 901, 905 (4th Cir.2014). The proper choice-of-law analysis in North Carolina varies depending on how a claim is characterized. Choice of law in contracts cases is governed by the rule of lex loci contractus, see Tanglewood Land Co. v. Byrd, 299 N.C. 260, 261 S.E.2d 655, 656 (1980), and choice of law in torts cases is governed by the rule of lex loci delicti, see Boudreau v. Baughman, 322 N.C. 331, 368 S.E.2d 849, 854 (1988). Further, where the contracting parties have agreed “that a given jurisdiction’s substantive law shall govern the interpretation of the contract, such a contractual provision will be given effect.” Byrd, 261 S.E.2d at 656.
+ 
+The complaint sets forth ten causes of action, eight tort claims (Counts One—Eight) and two contract claims (Counts Nine—Ten). The relevant contracts contain a New York choice of law provision, and the parties agree that the law of New York applies to Counts Nine and Ten. See J.A. 73 (“[T]his Agreement will be governed by and construed in accordance with the law of the state of New York[.]”). The parties disagree, however, as to the law to be applied to the tort claims set forth in Counts One–Eight. Appellee favors New York law, while Appellant prefers that of North Carolina. Nevertheless, the parties concede that the approach to interpreting the tort claims is the same under either legal regime. In the interest of simplicity, and because it will not affect the outcome of this appeal, we will analyze the tort claims under the law of North Carolina. See Okmyansky v. Herbalife Int’l of Am., Inc., 415 F.3d 154, 158 (1st Cir.2005) (“[W]hen the resolution of a choice-of-law determination would not alter the disposition of a legal question, a reviewing court need not decide which body of law controls.”).
+ 
+
+B.
+1.
+Counts One and Two:
+Fraud and Negligent Misrepresentation (Termination Fee)
+In Counts One and Two of its complaint, Appellant alleges that Appellee fraudulently *281 or negligently misrepresented that Appellant’s obligations under the Original and Amended Swap Agreements (collectively, the “Swap Agreement”) would end, without any financial penalty to Appellant, upon the satisfaction or termination of the Refinanced Loan. The district court held that Appellant did not state a claim for fraud or misrepresentation because its “reliance on such oral misrepresentations was not reasonable or justifiable in light of the written contract.” The Caper Corp. v. Wells Fargo Bank, N.A., No. 7:12–CV–357–D, 2013 WL 4504450, at *7 (E.D.N.C. Aug. 22, 2013). We agree.
+ 
+To state a claim for actual fraud, the plaintiff must allege facts plausibly showing that (1) the defendant made a false representation of a material fact; (2) the defendant made the representation with the intent to deceive the plaintiff; (3) the plaintiff relied on the representation and its reliance was reasonable; and (4) the plaintiff suffered damages because of its reliance. See Forbis v. Neal, 361 N.C. 519, 649 S.E.2d 382, 387 (2007). Pursuant to Federal Rule of Civil Procedure 9(b), the plaintiff must plead with particularity “the time, place, and contents of the false representations, as well as the identity of the person making the misrepresentation and what he obtained thereby.” McCauley v. Home Loan Inv. Bank, F.S.B., 710 F.3d 551, 559 (4th Cir.2013) (internal quotation marks omitted). To state a claim for negligent misrepresentation, the plaintiff must allege facts plausibly showing that it “ ‘[1] justifiably relie[d] [2] to [its] detriment [3] on information prepared without reasonable care [4] by one who owed the relying party a duty of care.’ ” Dallaire v. Bank of America, N.A., ––– N.C. ––––, 760 S.E.2d 263, 267, 2014 WL 2612658, at *5 (N.C.2014) (quoting Raritan River Steel Co. v. Cherry, Bekaert & Holland, 322 N.C. 200, 367 S.E.2d 609, 612 (1988)).
+ 
+The “question of justifiable reliance [for negligent misrepresentation claims] is analogous to that of reasonable reliance in fraud actions.” Marcus Bros. Textiles, Inc. v. Price Waterhouse, LLP, 350 N.C. 214, 513 S.E.2d 320, 327 (1999) (internal quotation marks omitted); see also Helms v. Holland, 124 N.C.App. 629, 478 S.E.2d 513, 517 (1996) (“Justifiable reliance is an essential element of both fraud and negligent misrepresentation.”). For both claims, the recipient of a representation must use reasonable care to ascertain the truth of that representation in order to reasonably rely on the same. See Fox v. S. Appliances, Inc., 264 N.C. 267, 141 S.E.2d 522, 526 (1965). A plaintiff, in other words, “cannot establish justified reliance ... if [it] fails to make reasonable inquiry regarding the alleged statement.” Dallaire, 760 S.E.2d at 267, 2014 WL 2612658, at *5. Where a plaintiff “could have discovered the truth [about the misrepresentation] upon inquiry, the complaint must allege that [the plaintiff] was denied the opportunity to investigate or ... could not have learned the true facts by exercise of reasonable diligence” in order to survive a motion to dismiss. Pinney v. State Farm Mut. Ins. Co., 146 N.C.App. 248, 552 S.E.2d 186, 192 (2001) (emphasis supplied) (internal quotation marks omitted); see also Oberlin Capital, L.P. v. Slavin, 147 N.C.App. 52, 554 S.E.2d 840, 846–47 (2001); Hudson–Cole Dev. Corp. v. Beemer, 132 N.C.App. 341, 511 S.E.2d 309, 313 (1999).
+ 
+As a corollary of this broader principle, “[a] person who executes a written instrument is ordinarily charged with knowledge of its contents and may not base an action for fraud on ignorance of the legal effect of its provisions.” Int’l Harvester Credit Corp. v. Bowman, 69 N.C.App. 217, 316 S.E.2d 619, 621 (1984) (internal citations omitted). A party who signs a written contract
+*282 is under a duty to ascertain its contents, and in the absence of a showing that he was wilfully misled or misinformed by the defendant as to these contents, or that they were kept from him in fraudulent opposition to his request, he is held to have signed with full knowledge and assent as to what is therein contained.
+Harris v. Bingham, 246 N.C. 77, 97 S.E.2d 453, 454 (1957); see also Davis v. Davis, 256 N.C. 468, 124 S.E.2d 130, 133 (1962) (“One who signs a written contract ... is bound thereby unless the failure to read is justified by some special circumstance.”). In the absence of some further misconduct on the part of the defendant, then, a plaintiff who relies upon a misrepresentation that is directly contradicted by a subsequent written agreement cannot establish justifiable reliance sufficient to support a claim of fraud or negligent misrepresentation as a matter of law. See Isley v. Brown, 253 N.C. 791, 117 S.E.2d 821, 823–24 (1961); Cobb v. Penn. Life Ins. Co., 215 N.C.App. 268, 715 S.E.2d 541, 549 (2011); Sullivan v. Mebane Packaging Group, Inc., 158 N.C.App. 19, 581 S.E.2d 452, 459 (2003); Bowman, 316 S.E.2d at 621.5
+ 
+Here, Appellant seeks relief for fraud and negligent misrepresentation on the grounds that it detrimentally relied on Tomsic’s assurances that, “if [Appellant’s] obligations under the [proposed refinanced loan] ended, its obligations under the [Original Swap Agreement] would end at the same time without any additional payment obligations.” J.A. 17. The complaint alleges that Tomsic made this representation at some point between November 21, 2005, when the parties executed the Original Swap Agreement, and January 23, 2006, when the parties executed the Refinanced Loan. Critically, as reflected in both the complaint and the accompanying contracts, Appellant executed the Amended Swap Agreement after this alleged misrepresentation took place, despite the fact that Appellee “refus[ed] to amend the [Original Swap Agreement] to shorten its term and address Appellant’s concerns.” J.A. 19.
+ 
+The Amendment, by its plain terms, provided that the Swap Agreement would not terminate until February 10, 2016, well after the maturation date of the Refinanced Loan, and set forth a monthly payment schedule through that date. The “Additional Termination Event” included in the Amendment further stated that, if the Agreement became unsecured after March 15, 2012—the scheduled closing date of the Refinanced Loan—“all obligations under this [Amendment] w [ould] terminate and be replaced by an obligation of one party to make a payment to the other party ” under the provisions of the Master Agreement covering termination fees. Id. at 49 (emphasis supplied); see also id. (“Such payment will be due ... by the party obligated to pay that amount under [the Master Agreement].”). Appellant also acknowledged, inter alia, “that the payments due by it under this [Amendment] shall be due ... whether or not ... the term of any Financing is shorter or longer than the Term of this [Amendment], or any other terms of any *283 Financing differ from the terms of this [Amendment].” Id. at 47.
+ 
+The final clause of the Amendment reads, “[a]ll provisions contained in or incorporated by reference in the Master Agreement will govern this [Amendment] except as expressly modified herein.” J.A. 49 (emphasis supplied). Those “govern[ing]” terms include a merger clause, which states that the Master Agreement and any Confirmations “constitute[ ] the entire agreement and understanding of the parties ... supersed[ing] all oral communication and prior writings with respect thereto,” and a clause prohibiting oral amendments, which specifies that “[n]o amendment, modification or waiver ... will be effective unless in writing ... and executed by each of the parties or confirmed by an exchange of telexes or electronic messages on an electronic messaging system.” Id. at 64. Finally, in addition to setting forth a detailed process for calculating termination fees, the Master Agreement states,
+[Appellant] ... understands that the terms under which any Transaction may be terminated early are set forth in this Agreement (including any Confirmation of such Transaction), and any early termination of a Transaction other than pursuant to the provisions of this Agreement (including any such Confirmation) is subject to mutual agreement of the parties confirmed in writing, the terms of which may require one party to pay an early termination fee to the other party based upon market conditions prevailing at the time of early termination.
+Id. at 75 (emphasis supplied); see also id. at 77.
+ 
+As the foregoing provisions exemplify, Appellee’s alleged oral misrepresentation—that the Swap Agreement and the Refinanced Loan would contemporaneously terminate without an early termination fee—is directly contradicted by the unambiguous written terms of both the Amendment and the Master Agreement. Appellant admits to receiving the Amendment, which was sent by facsimile, from Appellee. See J.A. 18 (alleging that Appellee “sent [the Amendment]” to Appellant on June 6, 2006); see also id. at 46–53, 86–92 (executed copies of the Amendment attached to the complaint and the motion to dismiss, respectively). The Amendment required Appellant to “confirm that the foregoing correctly sets forth the terms of our [Appellee].” Id. at 50. Pancoe “[a]ccepted and [c]onfirmed” the Amendment with his signature, the authenticity of which is unchallenged. Id.
+ 
+The complaint does not allege that Appellee misrepresented the character or terms of the Amendment itself or otherwise interfered with Pancoe’s ability to read and understand the same.6 Indeed, the full extent of the misrepresentation alleged in the complaint is Appellee’s pre-Amendment oral promise to permit the early termination of the Original Swap Agreement without an attendant termination *284 fee—the complaint does not charge Appellee with providing any assurances as to whether this alleged agreement survived the parties’ execution of the Amendment. Appellant thus could have immediately ascertained the truth of its post-Amendment liability for a termination fee by simply reviewing the plain language of the Amendment and the Master Agreement, which it had a duty to read. See Davis, 124 S.E.2d at 133.
+ 
+The reasonableness of a party’s reliance “is generally a question for the jury, except in instances in which ‘the facts are so clear as to permit only one conclusion.’ ” Dallaire, 760 S.E.2d at 267, 2014 WL 2612658, at *5 (quoting Marcus Bros., 513 S.E.2d at 327). In this case, even accepting as true that Appellee orally misrepresented Appellant’s obligation to pay a termination fee, Appellant still cannot establish that it justifiably relied on that misrepresentation as a matter of law. In terms of the relevant pleading requirements, because Appellant “could have discovered the truth [about the misrepresentation] upon inquiry,” it was required to—and did not—allege that “[it] was denied the opportunity to investigate or ... could not have learned the true facts by exercise of reasonable diligence.” Pinney, 552 S.E.2d at 192 (internal quotation marks omitted). With respect to the claims’ substantive merit, Appellant’s reliance on Appellee’s oral misrepresentation was not reasonable or justifiable as a matter of law because the misrepresentation was directly contradicted by numerous provisions of the subsequently-executed Amendment and the governing Master Agreement. See Bowman, 316 S.E.2d at 621. On both fronts, we conclude that Counts One and Two of Appellant’s complaint fail to state claims for fraud or negligent misrepresentation under Fed.R.Civ.P. 12(b)(6) and were properly dismissed.
+ 
+
+2.
+Count Three: Duress
+In Count Three of its complaint, Appellant alleges a claim of economic duress resulting from Appellee’s refusal to release the deed of trust to the Property until Appellant paid the termination fee. Pursuant to the Master Agreement, Appellee was entitled to hold any collateral supporting the Swap Agreement “[u]ntil such time as all such obligations of [Appellant] are completely satisfied notwithstanding any repayment, acceleration, satisfaction, discharge or release of any ... loan or other financing.” J.A. 77. The deed of trust, too, allowed Appellee to hold the deed until Appellant paid all obligations due under the Swap Agreement. See id. at 104–105 (granting Appellee the Property “in fee simple” to “secure payment and performance of obligations under” the Swap Agreement until “all [o]bligations are timely paid and performed”). Inasmuch as “[a] threat to do what one has a legal right to do cannot constitute duress,” Bell Bakeries, Inc. v. Jefferson Std. Life Ins. Co., 245 N.C. 408, 96 S.E.2d 408, 416 (1957) (internal quotation marks omitted), we conclude that the district court properly dismissed Count Three for failing to state a claim under Fed.R.Civ.P. 12(b)(6).
+ 
+
+3.
+Counts Four and Five:
+Fraud and Negligent Misrepresentation (Overcharges)
+In Counts Four and Five of its complaint, Appellant alleges that Appellee fraudulently or negligently misrepresented that Appellant would receive a “market rate” as the fixed rate under the Swap Agreement. In actuality, Appellant alleges, the 6.91% fixed interest rate was approximately *285 32 basis points (.32%) above the interdealer broker market rate, resulting in “overcharges” of at least $97,666. J.A. 24. The district court dismissed both of these claims, concluding that Appellant “fail[ed] to plausibly allege that [Appellee] misrepresented that it offered [Appellant] the interdealer broker market rate.” Caper Corp., 2013 WL 4504450, at *10. Again, we agree.
+ 
+The complaint provides scant support for the conclusion that Appellant was entitled to the interdealer broker market rate, which Appellant itself admits is “a closed market[ ] open to only the largest commercial and investment banks.” J.A. 23. Appellant relies primarily on the following two allegations: (1) Appellee “represented the interest rate swap would be extended to [Appellant] at ‘a market-derived rate’ ” in the Term Sheet; and (2) “Boss similarly advised Pancoe in telephone conversations that the Refinanced Loan was being offered to Caper at market rates.” Id. at 22. Appellant contends that these two statements, taken together, caused it to believe that Appellee was offering the Swap Agreement at “market rates,” i.e., the “interdealer broker market rate” with “no mark up” for Appellee. Id. at 23. This understanding was bolstered, Appellant claims, by the fact that the Term Sheet disclosed the fees Appellee would collect for the proposed refinanced loan but did not disclose any fees for the proposed swap agreement. Id.
+ 
+The relevant allegations in the complaint, as set forth above, consist primarily of a few vague and undated averments of Appellee’s purported misrepresentations, which are, in turn, couched in terms of both “market rate” and “market-derived rate.” J.A. 22 (emphasis supplied). Critically, the complaint is completely devoid of any allegation that Appellee ever explicitly offered Appellant the interdealer broker market rate or even intimated that the interdealer broker market rate was, in fact, the “market rate” or “market-derived rate” to which it referred. See, e.g., Caper Corp., 2013 WL 4504450, at *10 (observing that “[t]he phrase ‘market-derived rate’ implies something other than a market rate.”). The complaint further contains no allegation that Appellant sought any sort of clarification as to the meaning of “market rate” before allegedly relying to its detriment on its own definition. See Dallaire, 760 S.E.2d at 267, 2014 WL 2612658, at *5 (“A party cannot establish justified reliance on an alleged misrepresentation if the party fails to make reasonable inquiry regarding the alleged statement.”). Indeed, as described by the district court, the complaint “state[s] nothing more than conjecture on [Appellant’s] part that [Appellee’s] offer of a ‘market rate’ or ‘market-derived rate’ meant the ‘interdealer broker market rate.’ ” Caper Corp., 2013 WL 4504450, at *10.
+ 
+Even viewing the adequately pleaded facts in Appellant’s favor and giving it the benefit of all reasonable inferences, we must conclude Appellant has failed to plausibly allege that Appellee offered the fixed rate of the Swap Agreement at the interdealer broker market rate or that Appellant justifiably relied on such a representation. We thus agree with the district court that Appellant has failed to state a claim for fraud or negligent misrepresentation under Fed.R.Civ.P. 12(b)(6) with respect to Appellee’s alleged “overcharges.”
+ 
+
+4.
+Counts Six and Seven:
+Breach of Fiduciary Duty and Constructive Fraud
+In Counts Six and Seven of its complaint, Appellant alleges that Appellee *286 breached its fiduciary duty to Appellant and committed constructive fraud. Both of these claims require the existence of an antecedent fiduciary relationship between Appellant and Appellee. See Green v. Freeman, –––N.C. ––––, 749 S.E.2d 262, 268 (2013) (“ ‘For a breach of fiduciary duty to exist, there must first be a fiduciary relationship between the parties.’ ” (quoting Dalton v. Camp, 353 N.C. 647, 548 S.E.2d 704, 707 (2001))); Forbis, 649 S.E.2d at 388 (“A claim of constructive fraud .... arises where a confidential or fiduciary relationship exists.” (internal quotation marks omitted)). We conclude, as did the district court, that Appellant has failed to allege facts sufficient to state a plausible claim of a fiduciary relationship with Appellee.
+ 
+As a general rule, “[a] fiduciary relationship ... aris[es] when ‘there has been a special confidence reposed in one who in equity and good conscience is bound to act in good faith and with due regard to the interests of the one reposing confidence.’ ” Dallaire, 760 S.E.2d at 266, 2014 WL 2612658, at *3 (quoting Green, 749 S.E.2d at 268). Such relationships are ordinarily “characterized by ‘confidence reposed on one side[ ] and resulting domination and influence on the other,’ ” which results in “a heightened level of trust and the duty of the fiduciary to act in the best interests of the other party.” Id. at 266, 2014 WL 2612658 at *3 (quoting Dalton, 548 S.E.2d at 708). Ordinary borrower-lender or debtor-creditor relationships, in contrast, are marked by arm’s length transactions and do not typically give rise to fiduciary duties. See id. at 267, 2014 WL 2612658 at *4 (“[B]orrowers and lenders are generally bound only by the terms of their contract and the Uniform Commercial Code.” (citation omitted)). Nevertheless, it remains at least “theoretically” possible for “a particular bank-customer transaction to ‘give rise to a fiduciary relation given the proper circumstances.’ ” Id. (quoting Branch Banking & Trust Co. v. Thompson, 107 N.C.App. 53, 418 S.E.2d 694, 699 (1992)).
+ 
+Appellant, in short, does not allege in its complaint any facts that would show Appellee had the “amount of control and domination required to form a fiduciary relationship outside that of the normal relationships recognized by law.” S.N.R. Mgmt. Corp. v. Danube Part. 141, LLC, 189 N.C.App. 601, 659 S.E.2d 442, 451 (2008) (internal quotation marks omitted). Appellant’s longstanding business relationship with Appellee, particularly Appellee’s role in “author[ing] the terms and details of many of [Appellant’s] financial transactions,” J.A. 12, is indicative of nothing more than a typical lender-borrower or debtor-creditor relationship. See Thompson, 418 S.E.2d at 699 (The “mere existence of a debtor-creditor relationship ... [does] not create a fiduciary relationship.” (internal quotation marks omitted)). Similarly, Appellee’s “superior knowledge of the terms and risks and pricing” of interest rate swap agreements, J.A. 36, does not give rise to a concomitant duty for Appellee to put the interests of Appellant, a corporation with equal bargaining position dealing at arm’s length, ahead of its own. See S. Atl. Ltd. P’ship of Tenn. L.P. v. Riese, 284 F.3d 518, 533 (4th Cir.2002) (“[E]ven when parties to an arms-length transaction have reposed confidence in each other, no fiduciary duty arises unless one party thoroughly dominates the other.” (citing Tin Originals, Inc. v. Colonial Tin Works, Inc., 98 N.C.App. 663, 391 S.E.2d 831, 833 (1990))).
+ 
+The remaining allegations in the complaint with respect to Appellant’s relationship with Appellee consist primarily of conclusory recitations of the elements of a breach of fiduciary duty claim and are entitled to no weight. See  *287 Caper Corp., 2013 WL 4504450, at *8. Consequently, we conclude that the district court properly dismissed Appellant’s breach of fiduciary duty and constructive fraud claims pursuant to Fed.R.Civ.P. 12(b)(6).
+ 
+
+5.
+Count Eight: Unfair and Deceptive Trade Practices
+In Count Eight of its complaint, Appellant alleges that Appellee engaged in acts or practices prohibited by North Carolina’s Unfair and Deceptive Trade Practices statute (“UDTPA”), N.C. Gen.Stat. § 75–1.1. Appellant does not identify any specific violations of the UDTPA within this count, but instead incorporates generally all of the complaint’s preceding allegations. On this count, too, we conclude that Appellant has failed to allege facts sufficient to state a claim under Fed.R.Civ.P. 12(b)(6).
+ 
+To state a claim for unfair or deceptive trade practices, the plaintiff must allege facts plausibly showing that “ ‘(1) [the] defendant committed an unfair or deceptive act or practice, (2) the action in question was in or affecting commerce, and (3) the act proximately caused injury to the plaintiff.’ ” Bumpers v. Comm’y Bank of N. Virginia, ––– N.C. ––––, 747 S.E.2d 220, 226 (2013) (quoting Dalton, 548 S.E.2d at 711). If the claim arises from the defendant’s alleged misrepresentation, the plaintiff must also plausibly allege that it “reasonabl[y] reli[ed]” on that misrepresentation. Id. An act is “deceptive” if it has a tendency or capacity to deceive a reasonable businessperson, see RD & J Props. v. Lauralea–Dilton Enters., LLC, 165 N.C.App. 737, 600 S.E.2d 492, 501 (2004), and “unfair” if it is “immoral, unethical, oppressive, unscrupulous, or substantially injurious to consumers” such that it “amounts to an inequitable assertion of ... power or position,” Carcano v. JBSS, LLC, 200 N.C.App. 162, 684 S.E.2d 41, 50 (2009) (internal quotation marks omitted). Whether actions are deceptive or unfair within the meaning of the UDTPA is a question of law. Dalton, 548 S.E.2d at 711.
+ 
+On appeal, Appellant takes the position that “everything alleged [in the complaint] constitutes an unfair and deceptive trade practice.” Appellant’s Br. 49. We are unconvinced. The allegedly unlawful acts or practices identified in the complaint are either factually unsubstantiated or well within Appellee’s contractual rights—none “have the capacity to deceive a reasonable businessperson,” RD & J Props., 600 S.E.2d at 501, or otherwise qualify as unfair or deceptive under the UDTPA. In any event, as we have already discussed, the complaint fails to establish reasonable reliance on Appellee’s alleged misrepresentations as a matter of law, precluding Appellant from seeking relief under N.C. Gen.Stat. § 75–1.1. See Bumpers, 747 S.E.2d at 226–27. We therefore affirm the district court’s dismissal of this count.
+ 
+
+6.
+Counts Nine and Ten: Rescission or Reformation
+In Counts Nine and Ten of its complaint, which are governed by New York law,7 Appellant seeks reformation or rescission of the Swap Agreement on the grounds of commercial frustration of purpose, mutual mistake, and unsuitability. Although there is some debate as to whether Appellant preserved its right to *288 pursue these claims by executing the Confirmation of Termination “under duress[ ] and with full reservation of rights to contest its liability for the Termination Fee,” J.A. 139, we will simply assume, without deciding, that Appellant’s rights have been preserved.
+ 
+
+a.
+Frustration of Purpose
+Appellant contends that it is entitled to rescission or reformation of the Swap Agreement because the artificial depreciation of LIBOR, coupled with the ensuing worldwide credit crisis that began in October 2008, “dramatically increased the interest rate risk of [Appellant] as opposed to hedging or limiting it,” frustrating the purpose of the Swap Agreement. J.A. 38. We conclude that Appellant has failed to allege facts sufficient to establish entitlement to the remedies of rescission and reformation.
+ 
+The frustration of purpose doctrine is traditionally employed as an affirmative defense to a contract claim, operating to discharge a party from its outstanding contractual obligations due to a supervening frustration. See Restatement (Second) of Contracts § 265. The defense is applicable where an unanticipated “ ‘change in circumstances makes one party’s performance [under a contract] virtually worthless to the other, frustrating his purpose in making the contract.’ ” PPF Safeguard, LLC v. BCR Safeguard Holding, LLC, 85 A.D.3d 506, 924 N.Y.S.2d 391, 394 (2011) (quoting Restatement (Second) of Contracts § 265 cmt. a). “[T]he frustrated purpose must be so completely the basis of the contract that, as both parties understood, without it, the transaction would have made little sense.” Crown It Servs., Inc. v. Koval–Olsen, 11 A.D.3d 263, 782 N.Y.S.2d 708, 711 (2004). The doctrine is a “narrow one,” id., and its utility is “limited to instances where a virtually cataclysmic, wholly unforeseeable event renders the contract valueless to one party,” United States v. Gen. MacArthur Senior Village, Inc., 508 F.2d 377, 381 (2d Cir.1974).
+ 
+We note at the outset that it is far from clear whether the frustration of purpose doctrine, which ordinarily operates as an excuse for nonperformance, is an appropriate vehicle for the claim at issue here, i.e., an affirmative cause of action seeking rescission or reformation of a fully-performed contract. We need not dwell on this question, however, as Appellant’s claim—whether or not appropriately framed—is substantively meritless. As detailed in the complaint and the accompanying contracts, the Swap Agreement was not rendered “virtually worthless” by the depreciated LIBOR. PPF Safeguard, LLC, 924 N.Y.S.2d at 394. Pursuant to the plain terms of the Swap Agreement, Appellant made payments at a fixed interest rate throughout the entire term of the Refinanced Loan. Appellant was thus protected from the uncertainty of a variable interest rate and, indeed, paid precisely “the amount of interest it agreed to and expected to pay under the Swap Agreement.” Caper Corp., 2013 WL 4504450, at *12. To the extent the ultimate Termination Fee was higher than Appellant may have hoped for or expected, “[i]t is not enough” for the purposes of the frustration of purpose doctrine “that the transaction has become less profitable for the affected party or even that he will sustain a loss.” Rockland Dev. Assoc. v. Richlou Auto Body, Inc., 173 A.D.2d 690, 570 N.Y.S.2d 343, 344 (1991).
+ 
+We agree with the district court that the purpose of the Swap Agreement was not frustrated. Appellant’s claim for relief based on the frustration of purpose doctrine, to the extent it even states a viable claim, thus fails as a matter of law.
+ 
+
+*289 b.
+Mutual Mistake
+With respect to Appellant’s mutual mistake claim, a mutual mistake may be a ground for reforming or rescinding a contract where “the parties have reached an oral agreement and, unknown to either, the signed writing does not express that agreement.” Chimart Assocs. v. Paul, 66 N.Y.2d 570, 498 N.Y.S.2d 344, 489 N.E.2d 231, 234 (1986). “The mutual mistake must exist at the time the contract is entered and must be substantial.” Gould v. Bd. of Educ. of Sewanhaka Cent. High Sch. Dist., 81 N.Y.2d 446, 599 N.Y.S.2d 787, 616 N.E.2d 142, 146 (1993). More specifically, “[t]he mistake must be ‘so material that ... it goes to the foundation of the agreement.’ ” Simkin v. Blank, 19 N.Y.3d 46, 945 N.Y.S.2d 222, 968 N.E.2d 459, 462 (2012) (quoting Da Silva v. Musso, 53 N.Y.2d 543, 444 N.Y.S.2d 50, 428 N.E.2d 382, 387 (1981)). Court-ordered relief should not be granted on the basis of a mutual mistake except in “exceptional situations.” Id. (internal quotation marks omitted).
+ 
+Here, Appellant alleges that the parties were mutually mistaken as to whether LIBOR was “a rational and fundamentally sound choice for [the] floating [interest] rate” to be used in the Swap Agreement. J.A. 38. The alleged importance of this understanding to the Swap Agreement, however, is belied by the contract itself, which makes clear that the parties entered into the Agreement in order to receive the difference between the floating and fixed interest rates. See Simkin, 945 N.Y.S.2d 222, 968 N.E.2d at 462 (“The mistake must ... go[ ] to the foundation of the agreement.’ ” (emphasis supplied) (internal quotation marks omitted)). The Swap Agreement makes no mention of whether the parties believed LIBOR to be a fundamentally sound market indicator, much less whether such an understanding was the basis for the parties’ selection of a LIBOR-derived variable interest rate. To the contrary, as the district court noted, “[t]he complaint shows that the parties chose the one-month LIBOR rate not for its virtue as a fundamentally sound market indicator, but in order to match the terms of the [Refinanced Loan].” Caper Corp., 2013 WL 4504450, at *11.
+ 
+Inasmuch as Appellant’s allegedly “foundational” concern as to the reliability of LIBOR is completely absent from any of the relevant contracts or supporting documentation, this case does not present one of those “ ‘exceptional situations’ ” warranting reformation or rescission on the basis of a mutual mistake. Simkin, 945 N.Y.S.2d 222, 968 N.E.2d at 462 (quoting Da Silva, 444 N.Y.S.2d 50, 428 N.E.2d at 387). This claim, consequently, fails as a matter of law.
+ 
+
+c.
+Unsuitability
+Finally, Appellant sets forth a claim for rescission or reformation based on “unsuitability” as “a variation on its breach of fiduciary duty claim.” Appellant’s Br. 55. We need not resolve the parties’ dispute as to whether this claim exists under New York law—it necessarily fails for lack of a fiduciary relationship. We therefore affirm the district court’s dismissal of this claim.
+ 
+
+IV.
+For the foregoing reasons, the judgment of the district court is
+ 
+AFFIRMED.
+ 
+All Citations
+578 Fed.Appx. 276 (Mem)
+Footnotes
+
+1
+
+The facts set forth in this section are derived from the complaint, the “documents incorporated into the complaint by reference,” Tellabs, Inc. v. Makor Issues & Rights, Ltd., 551 U.S. 308, 322, 127 S.Ct. 2499, 168 L.Ed.2d 179 (2007), and the documents “attached to the motion to dismiss” that are “integral to the complaint and authentic,” Philips v. Pitt Cnty. Mem’l Hosp., 572 F.3d 176, 180 (4th Cir.2009).
+
+2
+
+Citations to the “J.A.” refer to the Joint Appendix filed by the parties in this appeal.
+
+3
+
+The precise amount of the termination fee, and the party responsible therefor, depended upon the relative positions of the fixed rate in the Original Swap Agreement and the market fixed rate for a swap with the same maturity date and structure remaining under the Agreement at the time of the early termination.
+
+4
+
+Notably, the executed loan documents contain no mention of the parties’ alleged oral agreement as to the simultaneous termination, without an accompanying fee, of the of the Original Swap Agreement and the Refinanced Loan. Rather, the relevant promissory note provides, “[a]ll swap agreements ... between [Appellant] and [Appellee] ... are independent agreements governed by [their] written provisions ..., which will remain in full force and effect, unaffected by any repayment [or] prepayment” of the Refinanced Loan. J.A. 127.
+
+5
+
+Notably, the general rule charging “[a] person who executes a written instrument ... with knowledge of its contents” and foreclosing a related action for fraud “do[es] not apply to situations in which the person making the misrepresentations stands in a fiduciary relationship to the signing party.” Bowman, 316 S.E.2d at 621 (citing Vail v. Vail, 233 N.C. 109, 63 S.E.2d 202, 206 (1951)). Although Appellant seeks to take advantage of this exception, we conclude, for the reasons explained in greater detail below, that Appellant has failed to establish the existence of a fiduciary relationship with Appellee. Consequently, we will not address this exception.
+
+6
+
+Although Appellant alleges that Appellee “deceptively” inserted the Additional Termination Event into the Amendment without its “prior agreement,” it neither disputes Pancoe’s execution of the contract as written nor provides any sort of factual elaboration as to how this alleged “decepti[on]” was achieved. J.A. 18. This allegation is thus nothing more than a “ ‘naked assertion[ ] devoid of further factual enhancement,’ ” and we will not credit it. U.S. ex rel. Oberg v. Penn. Higher Educ. Assistance Agency, 745 F.3d 131, 136 (4th Cir.2014) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009)); see also Nemet Chevrolet, Ltd. v. Consumeraffairs.com, Inc., 591 F.3d 250, 255 (4th Cir.2009) (“[B]are assertions devoid of further factual enhancement fail to constitute well-pled facts for Rule 12(b)(6) purposes.”).
+
+7
+
+As we have explained, the substantive law governing these claims is dictated by the New York choice of law provision in the Swap Agreement. See J.A. 73 (“[T]his Agreement will be governed by and construed in accordance with the law of the state of New York[.]”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

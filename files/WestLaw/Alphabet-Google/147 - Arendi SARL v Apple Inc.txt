@@ -1,0 +1,494 @@
+
+
+
+
+
+Arendi S.A.R.L. v. Apple Inc.
+United States Court of Appeals, Federal Circuit. | August 10, 2016 | 832 F.3d 1355 | 2016 WL 4205964
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+Appended Content
+Negative Treatment
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Outdry Technologies Corporation v. Geox S.p.A., Fed.Cir., June 16, 2017
+
+standard Citation:
+
+Arendi S.A.R.L. v. Apple Inc., 832 F.3d 1355 (Fed. Cir. 2016)
+
+All Citations:
+
+832 F.3d 1355, 119 U.S.P.Q.2d 1822
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Outdry Technologies Corporation v. Geox S.p.A., Fed.Cir., June 16, 2017
+832 F.3d 1355
+United States Court of Appeals,
+Federal Circuit.
+ARENDI S.A.R.L., Appellant
+v.
+APPLE INC., Google Inc., Motorola Mobility LLC, Appellees
+2015–2073
+|
+Decided: August 10, 2016
+Synopsis
+Background: After patentee brought patent infringement action, defendants petitioned for inter partes review of patent, which was directed to providing beneficial coordination between a first computer program displaying a document and a second computer program for searching an external information source. The United States Patent and Trademark Office, Patent Trial and Appeal Board, No. IPR2014–00208, 2015 WL 3638274, issued decision finding that certain claims of patent were invalid as obvious. Patentee appealed.
+ 
+[Holding:] The Court of Appeals, O’Malley, Circuit Judge, held that PTAB did not clearly explain its conclusion that, with respect to prior art reference, it was common sense to search database for telephone number to be added.
+ 
+Reversed.
+ 
+
+
+West Headnotes (13)
+
+
+[1]
+
+PatentsInter partes review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1262Inter partes review
+
+
+On appeal from inter partes review, Court of Appeals reviews the Patent Trial and Appeal Board’s (PTAB) legal conclusions de novo and its factual findings for “substantial evidence,” which is something less than the weight of the evidence, but more than a mere scintilla of evidence, or such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)4Evidence and Determination
+291k800Questions of law or fact
+
+
+Patent obviousness is a question of law based on underlying findings of fact. 35 U.S.C.A. § 103(a).
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsTime of evaluation;  hindsight
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k720Time of evaluation;  hindsight
+
+
+When determining if a patent is invalid as obvious, the court must avoid hindsight bias and must be cautious of arguments reliant upon ex post reasoning. 35 U.S.C.A. § 103(a).
+1 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsPrior Art and Relation of Claimed Invention Thereto
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k682Prior Art and Relation of Claimed Invention Thereto
+291k683In general
+
+
+In appropriate circumstances, a patent can be obvious in light of a single prior art reference if it would have been obvious to modify that reference to arrive at the patented invention. 35 U.S.C.A. § 103(a).
+1 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsManner of Evaluation
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k716Manner of Evaluation
+291k717In general
+
+
+It is appropriate for the court to consider common sense, common wisdom, and common knowledge in analyzing patent obviousness. 35 U.S.C.A. § 103(a).
+3 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsCombination of prior art references;  ‘teaching, suggestion, or motivation‘ test
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k682Prior Art and Relation of Claimed Invention Thereto
+291k685Combination of prior art references;  ‘teaching, suggestion, or motivation‘ test
+
+
+In the patent obviousness analysis, an implicit motivation to combine exists not only when a suggestion may be gleaned from the prior art as a whole, but also when the improvement is technology-independent and the combination of references results in a product or process that is more desirable. 35 U.S.C.A. § 103(a).
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsPrior Art and Relation of Claimed Invention Thereto
+PatentsCombination of prior art references;  ‘teaching, suggestion, or motivation‘ test
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k682Prior Art and Relation of Claimed Invention Thereto
+291k683In general
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k682Prior Art and Relation of Claimed Invention Thereto
+291k685Combination of prior art references;  ‘teaching, suggestion, or motivation‘ test
+
+
+In the patent obviousness analysis, references to common sense, whether to supply a motivation to combine or a missing patent claim limitation, cannot be used as a wholesale substitute for reasoned analysis and evidentiary support, especially when dealing with a limitation missing from the prior art references specified. 35 U.S.C.A. § 103(a).
+6 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsPrior Art and Relation of Claimed Invention Thereto
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k682Prior Art and Relation of Claimed Invention Thereto
+291k683In general
+
+
+While common sense can be invoked in the patent obviousness analysis, even potentially to supply a limitation missing from the prior art, it must still be supported by evidence and a reasoned explanation. 35 U.S.C.A. § 103(a).
+4 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)4Evidence and Determination
+291k795Weight and Sufficiency of Evidence
+291k799Particular products or processes
+
+
+In inter partes review of patent directed to providing beneficial coordination between computer programs, one displaying document and other searching external information source, Patent Trial and Appeal Board (PTAB) did not clearly explain its conclusion that, with respect to prior art reference, it was common sense to search database for telephone number to be added, and thus that patent was invalid as obvious, and PTAB instead improperly relied on conclusory statements and unspecific expert testimony regarding searches in general, where PTAB ignored patentee’s arguments regarding differences between searching for duplicate entries with telephone number versus with name or address, which was problematic because key limitation of patent was missing from prior art reference. 35 U.S.C.A. § 103(a).
+Cases that cite this headnote
+
+
+
+[10]
+
+PatentsPrior Art and Relation of Claimed Invention Thereto
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)2Factors Considered
+291k682Prior Art and Relation of Claimed Invention Thereto
+291k683In general
+
+
+In the patent obviousness analysis, the use of common sense does not require a specific hint or suggestion in a particular prior art reference, only a reasoned explanation that avoids conclusory generalizations. 35 U.S.C.A. § 103(a).
+5 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 7,917,843. Valid.
+Cases that cite this headnote
+
+
+
+[12]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,323,853, US Patent 7,496,854. Cited.
+Cases that cite this headnote
+
+
+
+[13]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,859,636. Cited as Prior Art.
+Cases that cite this headnote
+
+
+
+*1357 Appeal from the United States Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2014–00208.
+Attorneys and Law Firms
+ROBERT M. ASHER, Sunstein Kann Murphy & Timbers LLP, Boston, MA, argued for appellant. Also represented by BRUCE D. SUNSTEIN.
+BRIAN ROBERT MATSUI, Morrison & Foerster LLP, Washington, DC, argued for all appellees. Appellee Apple Inc. also represented by SETH W. LLOYD, JOSEPH R. PALMORE; DAVID LEE FEHRMAN, MEHRAN ARJOMAND, Los Angeles, CA.
+MATTHEW A. SMITH, Turner Boyd LLP, Redwood City, CA, for appellees Google Inc., Motorola Mobility LLC. Also represented by ROBERT J. KENT.
+Before Moore, Linn, and O’Malley, Circuit Judges.
+Opinion
+O’Malley, Circuit Judge.
+
+On December 2, 2013, Apple Inc., Google, Inc. and Motorola Mobility LLC (collectively “Appellees”) filed a petition for inter partes review (“IPR”) of U.S. Patent No. 7,917,843 (the “′843 patent”), which is owned by appellant Arendi S.A.R.L. (“Arendi”). On June 9, 2015, the Patent Trial and Appeal Board (“Board”) issued a decision finding claims 1-2, 8, 14-17, 20-21, 23-24, 30, 36-39, and 42-43 would have been obvious. Because the Board misapplied our law on the permissible use of common sense in an obviousness analysis, we reverse.
+ 
+
+BACKGROUND
+A. The Patent–at–Issue
+The ′843 patent is the only patent at issue in this appeal. The ′843 patent was filed in 2008 as a continuation of an application that issued as U.S. Patent No. 7,496,854 (“′854 patent”), which in turn issued from a continuation of an application that issued as U.S. Patent No. 6,323,853 (“′853 patent”), filed in the United States on November 10, 1998. The ′843 patent shares a common specification with the ′854 patent, the subject of the companion appeal No. 2015–2069, –2070, –2071, which we affirmed under Rule 36 on July 11, 2016, as well as the ′853 patent.
+ 
+The ′843 patent is directed to providing beneficial coordination between a first computer program displaying a document and a second computer program for searching an external information source. The patent allows a user to access and conduct a search using the second computer program while remaining in the first computer program displaying the document. A computer process analyzes first information in the document to determine if it is of a type that can be used in another program to find related second information. Specifically, the ′843 patent discloses *1358 mechanisms for analyzing the document to identify the presence of name and address information, including by analyzing:
+(i) paragraph/line separations/formatting, etc.; (ii) street, avenue, drive, lane, boulevard, city, state, zip code, country designators and abbreviations, etc.; (iii) Mr., Mrs., Sir, Madam, Jr., Sr. designators and abbreviations, etc.; (iv) Inc., Ltd., P.C., L.L.C, designators and abbreviations, etc.; and (v) a database of common male/female names, etc.
+′843 patent, col. 4 ll. 33-39. A search by the second computer program using at least part of the first information as a search term then looks for second information associated with the first information in the information source. Id. at col. 4 ll. 43-57, Fig. 1. Once the second information is located, the claimed invention performs an action using the second information.
+ 
+For example, if a name is detected, a database can be searched for the name. Id. at col. 5 l. 65–col. 6 l. 3. If the search finds a single related contact with only one address, that address is inserted into the document. Id. If, instead, the search finds more than one related contact or address, the search results are displayed, and the user can select an address for insertion into the document. Id. at Fig. 10, col. 7 ll. 33-49.
+ 
+The parties agree that claim 1 of the ′843 patent is representative of the claims on appeal:
+A computer-implemented method for finding data related to the contents of a document using a first computer program running on a computer, the method comprising:
+displaying the document electronically using the first computer program;
+while the document is being displayed, analyzing, in a computer process, first information from the document to determine if the first information is at least one of a plurality of types of information that can be searched for in order to find second information related to the first information;
+retrieving the first information;
+providing an input device, configured by the first computer program, that allows a user to enter a user command to initiate an operation, the operation comprising (i) performing a search using at least part of the first information as a search term in order to find the second information, of a specific type or types, associated with the search term in an information source external to the document, wherein the specific type or types of second information is dependent at least in part on the type or types of the first information, and (ii) performing an action using at least part of the second information;
+in consequence of receipt by the first computer program of the user command from the input device, causing a search for the search term in the information source, using a second computer program, in order to find second information related to the search term; and
+if searching finds any second information related to the search term, performing the action using at least part of the second information, wherein the action is of a type depending at least in part on the type or types of the first information.
+Id. at col. 10 l. 38–col. 11 l. 3 (emphasis on limitation at issue added). Because Arendi makes no arguments based on any other claim limitation or claim, the claims on appeal stand or fall with claim 1. See In re Kaslow, 707 F.2d 1366, 1376 (Fed. Cir. 1983).
+ 
+
+B. The Pandit Reference
+The sole prior art reference on appeal is U.S. Patent No. 5,859,636 to Pandit (“Pandit”). Pandit was filed on December 27, 1995, and teaches recognizing different classes of text in a document and providing *1359 suggestions based on it. See Pandit Abstract.
+ 
+One embodiment of Pandit involves a program that recognizes a phone number as a class of text. Pandit, col. 2 ll. 25-31. Figure 1e and Figure 1f of Pandit illustrate the relevant embodiment:
+ 
+
+​
+Id. at Fig. 1e, Fig. 1f. The specification explains that, in Figure 1e, “a telephone number 16 is accented. The pull down menu named Phone #17 is highlighted and preferably identifies [ ] executable operations.” Id. at col. 2 ll. 64-67. The specification further explains:
+As shown in FIG. lf on pulled-down menu 20, possible programs include a writable computer database of telephone and telefax numbers, a program which instructs a properly equipped computer to dial the number accented, a program which generates a template for the preparation of a fax message and which subsequently causes a properly equipped computer to transmit the message to the accented number, etc. Again, any program related to telephone or telefax numbers can be included in pulled-down menu 20 for direct accessing in accordance with the teachings of this disclosure.
+Id. at col. 3 ll. 1-11. In Figure 1f, “Add to address book,” is one of several options displayed in pull-down menu 20. The key question in this appeal is whether the Board erred in finding that it would be “common sense” to a person of ordinary skill in the art to search for the telephone number that is detected in a document when the “Add to address book” option disclosed in Pandit is selected.
+ 
+
+C. Procedural History
+Arendi sued Appellees and several other technology companies alleging infringement of claims of the ′843 patent and related patents. Appellees responded by filing a petition requesting an IPR of claims 1-44 of the ′843 patent. The Board instituted review of claims 1, 2, 8, 14-17, 20, 21, 23, 24, 30, 36-39, 42, and 43, and declined to institute review of the other challenged claims.
+ 
+In its Institution Decision, the Board stated that “Petitioner submits ... that Pandit discloses adding an identified number to an address book.” Joint Appendix (“J.A.”) 489. The Board then explained that it found unpersuasive the Patent *1360 Owner’s argument that a potential search for duplicate phone numbers, with respect to the embodiment shown in Figure 1f, would not meet the limitation requiring a search “in order to find a second information” using a search for “first information.” J.A. 491-92. Instead, the Board found that it would be “reasonable to presume, as a matter of common sense” that Pandit would search for duplicate phone numbers and information associated with such numbers. Id.
+ 
+The Board’s Final Written Decision reaffirmed its initial determination, holding claims 1-2, 8, 14-17, 20-21, 23-24, 30, 36-39, and 42-43 unpatentable for obviousness over Pandit. The Board noted that:
+Petitioner submits that Pandit discloses each limitation of illustrative claim 1 except for performing a search as specified in step (i) of the claim. Petitioner, however, submits further that in order to avoid multiple entries of the same address, it would have been obvious that the first step in adding to an address book is to search the address book to determine if an entry already exists with the entered information, and displaying any associated information that is located.
+Apple Inc. v. Arendi S.A.R.L., IPR2014–00208, 2015 Pat. App. LEXIS 6053, at *9 (PTAB June 9, 2015).
+ 
+The Board then stated, just as it did in the Institution Decision, that:
+We find it reasonable to presume, as a matter of common sense and at the time of the invention, that the subroutine in Pandit would search for duplicate telephone numbers and, upon locating a duplicate entry, both the first information and associated (or second) information, such as the name and/or address associated with the telephone number, would be displayed to the user.
+Id. at *10. Although the Board recognized that “a human being entering a contact into a paper address book would not be expected to search for duplicate telephone number entries,” it, nevertheless, found that “it would have been obvious to the ordinary artisan to utilize a computerized search for duplicate telephone entries when entering a telephone number in an electronic address book database as taught by Pandit.” Id. at *13.
+ 
+The Board further explained that the obviousness inquiry “not only permits, but requires consideration of common knowledge and common sense.” Id. at *14 (citing DyStar Textilfarben GmbH & Co. Deutschland KG v. C.H. Patrick Co., 464 F.3d 1356, 1367 (Fed. Cir. 2006); Perfect Web Techs., Inc. v. InfoUSA, Inc., 587 F.3d 1324, 1329 (Fed. Cir. 2009)). It rejected Arendi’s argument, relying on K/S HIMPP v. Hear–Wear Technologies, LLC, 751 F.3d 1362, 1365 (Fed. Cir. 2014), that “common sense” may only be applied when combining references that disclose all the required limitations. The Board stated that the conclusion of obviousness follows from the readily apparent benefit provided by the retrieval and display of preexisting information to a user. The Board found, in any event, that in this case, “a claimed structural feature is not missing from the applied prior art.” Arendi, 2015 Pat. App. LEXIS 6053, at *15.
+ 
+Arendi appeals. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(4)(A).
+ 
+
+DISCUSSION
+[1]We review the Board’s factual findings for substantial evidence and its legal conclusions de novo. In re Gartside, 203 F.3d 1305, 1316 (Fed. Cir. 2000). “Substantial evidence is something less than the weight of the evidence but more than a mere scintilla of evidence.” In re Mouttet, 686 F.3d 1322, 1331 (Fed. Cir. 2012). It is “such relevant evidence as a reasonable mind might accept as adequate to support *1361 a conclusion.” In re Applied Materials, Inc., 692 F.3d 1289, 1294 (Fed. Cir. 2012) (quoting Consol. Edison Co. v. NLRB, 305 U.S. 197, 229, 59 S.Ct. 206, 83 L.Ed. 126 (1938)).
+ 
+[2] [3] [4]“Obviousness is a question of law based on underlying findings of fact.” In re Kubin, 561 F.3d 1351, 1355 (Fed. Cir. 2009). A patent is obvious “if the differences between the subject matter sought to be patented and the prior art are such that the subject matter as a whole would have been obvious at the time the invention was made to a person having ordinary skill in the art to which said subject matter pertains.” 35 U.S.C. § 103(a) (2012). In reaching this conclusion, the court must avoid “hindsight bias and must be cautious of arguments reliant upon ex post reasoning.” KSR Int’l Co. v. Teleflex Inc., 550 U.S. 398, 421, 127 S.Ct. 1727, 167 L.Ed.2d 705 (2007). Though less common, in appropriate circumstances, a patent can be obvious in light of a single prior art reference if it would have been obvious to modify that reference to arrive at the patented invention. See, e.g., Takeda Chem. Indus., Ltd. v. Alphapharm Pty, Ltd., 492 F.3d 1350, 1357 (Fed. Cir. 2007); SIBIA Neurosciences, Inc. v. Cadus Pharm. Corp., 225 F.3d 1349, 1356 (Fed. Cir. 2000).
+ 
+[5]The single question at issue here is whether the Board misused “common sense” to conclude that it would have been obvious to supply a missing limitation in the Pandit prior art reference to arrive at the claimed invention. It is true that common sense and common knowledge have their proper place in the obviousness inquiry. We stated in Perfect Web that “[c]ommon sense has long been recognized to inform the analysis of obviousness if explained with sufficient reasoning.” 587 F.3d at 1328. And we stated in Randall that “[i]n KSR, the Supreme Court criticized a rigid approach to determining obviousness based on the disclosures of individual prior-art references, with little recourse to the knowledge, creativity, and common sense that an ordinarily skilled artisan would have brought to bear when considering combinations or modifications.” Randall Mfg. v. Rea, 733 F.3d 1355, 1362 (Fed. Cir. 2013) (citing KSR, 550 U.S. at 415–22, 127 S.Ct. 1727); see also DyStar, 464 F.3d at 1367. Hence, we do consider common sense, common wisdom, and common knowledge in analyzing obviousness.
+ 
+[6]But there are at least three caveats to note in applying “common sense” in an obviousness analysis. First, common sense is typically invoked to provide a known motivation to combine, not to supply a missing claim limitation. In DyStar, a pre-KSR case, we held a patent obvious where “all claim limitations [were] found in a number of prior art references,” 464 F.3d at 1360, and a person of ordinary skill in the art would have combined the references to achieve a “cheaper, faster, and more convenient” process. Id. at 1371 (quoting Sandt Tech., Ltd. v. Resco Metal & Plastics Corp., 264 F.3d 1344, 1355 (Fed. Cir. 2001)). We stated that: “an implicit motivation to combine exists not only when a suggestion may be gleaned from the prior art as a whole, but when the ‘improvement’ is technology-independent and the combination of references results in a product or process that is more desirable.” DyStar, 464 F.3d at 1368. Similarly, in Randall, we invoked common sense to vacate the Board’s determination of non-obviousness where “the Board failed to consider a wealth of well-documented knowledge that is highly material to evaluating the motivation to combine references.” Randall, 733 F.3d at 1356. There, the Board’s decision to ignore the existence of a “prevalent, perhaps even predominant method” of achieving the limitation *1362 at issue was prejudicial error. Id. at 1363.
+ 
+Second, in Perfect Web, the only case Appellees identifies in which common sense was invoked to supply a limitation that was admittedly missing from the prior art, the limitation in question was unusually simple and the technology particularly straightforward. “The patented invention involves comparing the number of successfully delivered e-mail messages in a delivery against a predetermined desired quantity, and if the delivery does not reach the desired quantity, repeating the process of selecting and e-mailing a group of customers until the desired number of delivered messages has been achieved.” Perfect Web, 587 F.3d at 1326. There, the missing claim limitation—step D of steps A–D—was nothing more than an instruction to repeat steps A, B, and C until a particular quantity of email was sent in accordance with the claim. By contrast, the missing search at issue here “plays a major role in the subject matter claimed” and “affects much more than step (i).” Appellant’s Br. 24. That is—if the search in step (i) is missing, then “the claims would be almost void of content” because the premise of the patent is to use information in a first program to find related information in a second program. Id. at 25. Thus, the facts in Perfect Web are distinguishable from the case at bar and ought to be treated as the exception, rather than the rule.
+ 
+[7]Third, our cases repeatedly warn that references to “common sense”—whether to supply a motivation to combine or a missing limitation—cannot be used as a wholesale substitute for reasoned analysis and evidentiary support, especially when dealing with a limitation missing from the prior art references specified. Indeed, we stated that although there is no problem with using common sense “without any specific hint or suggestion in a particular reference,” the Board’s “utter failure to explain the ‘common knowledge and common sense’ on which it relied” is problematic. DyStar, 464 F.3d at 1366 (explaining our reasoning in In re Lee, 277 F.3d 1338, 1341, 1344 (Fed. Cir. 2002)). See also In re Zurko, 258 F.3d 1379, 1383, 1385 (Fed. Cir. 2001) (reversing Board where it adopted examiner’s unsupported assertion that claim limitation missing from cited references was “basic knowledge” and it “would have been nothing more than good common sense” to combine the references).
+ 
+For example, in In re Lee, the Board adopted the examiner’s statements during prosecution that combining two prior art references to achieve the claimed invention—a method of automatically displaying the functions of a video display device and demonstrating how to select and adjust the functions—would have been obvious to a person of ordinary skill. The examiner had stated that the combination would have been obvious “since the demonstration mode is just a programmable feature which can be used in many different devices for providing automatic introduction by adding the proper programming software,” and that “another motivation would be that the automatic demonstration mode is user friendly and it functions as a tutorial.” In re Lee, 277 F.3d 1338, 1341 (Fed. Cir. 2002). We vacated the Board’s decision, holding that “[c]onclusory statements such as those here provided do not fulfill the agency’s obligation” to explain all material facts relating to a motivation to combine. Id. at 1344.
+ 
+[8]In Hear–Wear, a more recent case and one that involves a missing limitation, we stated that “the Board was correct to require record evidence to support an assertion that the structural features of claims 3 and 9 of the ‘512 patent were known prior art elements. The patentability of claims 3 and 9 with the limitation ‘a *1363 plurality of prongs that provide a detachable mechanical and electrical connection’ presents more than a peripheral issue.” Hear–Wear, 751 F.3d at 1365 (emphasis added). We distinguished KSR, finding that “the present case does not present a question” regarding “combining or modifying references” but “[i]nstead, it is about whether the Board declined to accept a conclusory assertion from a third party about general knowledge in the art without evidence on the record, particularly where it is an important structural limitation that is not evidently and indisputably within the common knowledge of those skilled in the art.” Id. at 1365–66 (emphasis added and deleted). Based on this prior precedent, we conclude that while “common sense” can be invoked, even potentially to supply a limitation missing from the prior art, it must still be supported by evidence and a reasoned explanation. In cases in which “common sense” is used to supply a missing limitation, as distinct from a motivation to combine, moreover, our search for a reasoned basis for resort to common sense must be searching. And, this is particularly true where the missing limitation goes to the heart of an invention.
+ 
+[9]Keeping these principles in mind, we now examine whether there was substantial evidence supporting the Board’s finding that common sense would lead one to search for the telephone number in Pandit. Arendi argues there was no evidence, much less substantial evidence, to support the Board’s presumption that, as a matter of common sense, the subroutine in Pandit for “Add to address book” would start by searching for duplicate telephone numbers before adding the number to an entry for a contact in the book. Arendi is correct that Pandit itself is not about a search and does not mention or imply that a search of any kind is involved with the “Add to address book” function that is the subject of the parties’ dispute. Rather, Pandit is about text-dependent word recognition. Moreover, as the Board stated and Appellees do not directly attempt to rebut on appeal, “Petitioner submits that Pandit discloses each limitation of illustrative claim 1 except for performing a search as specified in step (i) of the claim.” Arendi, 2015 Pat. App. LEXIS 6053, at *9. Thus, we are facing a scenario in which the prior art reference is missing a particular limitation.
+ 
+As in Hear–Wear, and unlike Perfect Web, the disputed search of step (i) is central to representative claim 1:
+(i) performing a search using at least part of the first information as a search term in order to find the second information, of a specific type or types, associated with the search term in an information source external to the document, wherein the specific type or types of second information is dependent at least in part on the type or types of the first information,
+See Claim 1 of the ′843 patent. As discussed above, both parties describe the patented technology as directed to searching for information related to text in a document and performing an action using the information found by the search. See Appellant’s Br. 2 (“In accordance with the ′ 843 patent ... a user can access and conduct a search in an external information source while remaining in the first computer program displaying the document.”); Appellee’s Br. 3 (“The claimed method requires an operation involving searching for information related to text in a document and performing an action using the information found by the search.”).
+ 
+In the words of Hear–Wear, this is not a case about “peripheral” limitations or about the Board substituting documentary evidence of a motivation to combine with its expertise about common motivations in that field of technology. 751 F.3d at 1365. Instead, it is about whether the Board *1364 accepted “a conclusory assertion from a third party about general knowledge in the art without evidence on the record, particularly where it is an important [ ] limitation that is not evidently and indisputably within the common knowledge of those skilled in the art.” Id. at 1365–66 (emphases added). Thus, we must approach the question of “common sense” in this case with the fact that the search is an important limitation in mind.
+ 
+The parties talk past each other in their briefing. Arendi focuses on the lack of evidence that it would be common sense to search a database specifically for a telephone number in order to prevent duplicates before adding the number to the database. Arendi argues there was no evidence, much less substantial evidence, to support the Board’s presumption that, as a matter of common sense, the subroutine in Pandit for “Add to address book” would begin by searching for duplicate telephone numbers before adding the number to an entry for a contact in the book. Arendi asserts that, as a threshold matter, there is no explicit mention or suggestion of performing a search with a telephone number in Pandit.
+ 
+Second, the only documentary support the Board recited was the declaration of Dr. Menasce, Appellees’ expert. Arendi, 2015 Pat. App. LEXIS 6053, at *9. But Dr. Menasce did not testify about searching an address book with a telephone number; he stated only that it would have been obvious for a POSA to determine if “an entry already exists with this information” before adding to an address book “in order to avoid multiple entries of the same address,” a goal which a search for a phone number would not necessarily accomplish. Menasce Decl. ¶ 99. Cf. Par Pharm., Inc. v. TWi Pharm., Inc., 773 F.3d 1186, 1195-96 (Fed. Cir. 2014) (noting that “[a] party must ... meet a high standard in order to rely on inherency to establish the existence of a claim limitation in the prior art in an obviousness analysis”). If anything, Arendi continues, the evidence of record shows that a rational, common sense method of accomplishing the goal articulated by Dr. Menasce would be to search for the name of the person with whom the telephone number is associated.
+ 
+Finally, Arendi says that the testimony of its own expert, Dr. Levy, further supports this understanding of how the “Add to address book” option would work. Dr. Levy testified that, since address book entries are organized by and require a name, the most straightforward way to implement Pandit’s function would be to display a template into which the user would be able to enter the name and the telephone number to be added thereto. Levy Decl. ¶ 21-22.
+ 
+By contrast, Appellees focus on proving the more general proposition that a search for data in a database was known in the art. According to Appellees, “data is data,” and if searching a database for data was in the prior art, then searching that database for a telephone number is merely common sense. See Appellee’s Br. 24. Appellees argue that searching a database for certain data was clearly within the prior art. The Board cited Arendi’s own expert’s testimony that “some database programs conduct a search for duplicates by default.” Arendi, 2015 Pat. App. LEXIS 6053, at *16 (citing Levy Decl. ¶ 25). Similarly, Appellees contend that the Board relied on Dr. Menasce’s testimony that “[i]t would also have been obvious ... that the first step in adding to an address book is searching the address book to determine if any entry already exists with this information.” Id. at *9-10 (citing Menasce Decl. ¶ 99). Dr. Menasce also testified that “Database operations such as searching for data/information in the database ... are very well known in the art.” Menasce Decl. ¶ 37.
+ 
+*1365 Aside from the expert testimony verifying that searching for data in a database was well-known in the art, Appellees argue that Pandit itself discloses that the claimed searching was known in the art. Specifically, Pandit teaches that methods for “searching of large volumes of text, such as encyclopedias or legal case books, using key words or search terms” were well known in the art. Pandit, col. 1 ll. 11-13.1 Appellees maintain, therefore, that the Board properly found that “the mere retrieval and display of useful pre-existing information to a user, using known methods” would have provided a “benefit that readily would have been apparent to one of skill in the art.” Arendi, 2015 Pat. App. LEXIS 6053, at *15.
+ 
+We agree with Appellees that this broader notion of searching for data in a database is supported by substantial evidence, including Appellees’ citations to the testimony of Dr. Menasce and Dr. Levy, as well as Pandit itself. But Appellees have failed to show why it is proper to extrapolate from this general background knowledge of searches in a database to add a search for a telephone number to the Pandit reference. Specifically, Appellees have failed to show why it would be common sense for the “Add to address book” function to operate by first “search[ing] for entries with the same telephone number.” Appellee’s Br. 24.
+ 
+Rather than clearly explaining with concrete examples what benefit searching for entries with the same number would achieve, Appellees keep returning to their general mantra that Arendi’s argument against searching for a number would apply equally to a search based on a name. Id. Yet the burden is Appellees’ to provide more than a mere scintilla of evidence of the utility of a search for a telephone number before adding the number to an address book, where such a search is not “evidently and indisputably within the common knowledge of those skilled in the art.” Hear–Wear, 751 F.3d at 1365–66.
+ 
+Appellees point to Dr. Menasce’s articulation of the goal of preventing duplicate entries, but Dr. Menasce never refers to duplicate telephone numbers and instead refers to duplicate addresses or “entries,” which are generally understood to refer to names. Even if we accept Dr. Menasce’s articulation of the goal of a search for information in a database as preventing the entry of duplicate addresses or names, searching for a telephone number would not be sufficient to achieve that goal. A search for a telephone number would simply result in the display of any pre-existing entries that already contain the telephone number the user intended to add to the address book. If the number is found in the address book, the user could choose not to enter the number; in that sense, the search would prevent duplicate entries. But so would searching the address book by name—and the Board suggested that paper address books would be searched by *1366 name and that a person would know the name associated with the number to be added. Arendi, 2015 Pat. App. LEXIS 6053, at *11, at *13 (“The address database must include information associated with the telephone number” as “[a] telephone number stored in a database by itself is of little use”).
+ 
+Importantly, unlike a search for the contact name, a search for only a phone number would not reveal that a contact name to which the phone number needs to be added already exists in the database, but lacks the number. In other words, a search for a phone number would not reveal that entering the number and the name would create a duplicate name entry where the number is brand new, but the contact name already exists in the database. For example, if John Smith had two phone numbers and “John Smith” was already in the database with one phone number, searching the database for the second, new number to be added to “John Smith” would not reveal that “John Smith” is already in the database. Searching for a phone number would, in fact, generate duplicate entries. Only a search for “John Smith” could be relied upon to determine whether “John Smith” is in the database. Yet the Board overlooked this common sense distinction, stating instead, with no elaboration, that “[s]earching a database for a telephone number in Pandit’s system, and displaying results, would be no different in substance from searching a database for a name, and displaying results, in the disclosed example in the ′843 patent.” Id. at *11. This kind of conclusory statement is insufficient to justify a conclusion about “common sense.” See In re Zurko, 258 F.3d at 1385 (“This assessment of basic knowledge and common sense was not based on any evidence in the record and, therefore, lacks substantial evidence support.”).
+ 
+[10]The “use of common sense does not require a ‘specific hint or suggestion in a particular reference,’ only a reasoned explanation that avoids conclusory generalizations.” Perfect Web, 587 F.3d at 1329 (quoting DyStar, 464 F.3d at 1366); see also Plantronics, Inc. v. Aliph, Inc., 724 F.3d 1343, 1354 (Fed. Cir. 2013) (“the mere recitation of the words ‘common sense’ without any support adds nothing to the obviousness equation.”); Ball Aerosol & Specialty Container, Inc. v. Ltd. Brands, Inc., 555 F.3d 984, 993 (Fed. Cir. 2009) (“the analysis that ‘should be made explicit’ refers not to the teachings in the prior art of a motivation to combine, but to the court’s analysis.”). But conclusory statements and unspecific expert testimony regarding searches in general are precisely what the Board relied upon in drawing its conclusion that it would have been “common sense” to search a database for a telephone number to be added. In so doing, the Board ignored Arendi’s arguments regarding the differences between searching for duplicate entries with a telephone number versus with a name or address. And these errors were particularly problematic considering the fact that a key limitation of the ′843 patent was missing from the prior art reference in dispute.
+ 
+We find, moreover, that this is not a case where a more reasoned explanation than that provided by the Board can be gleaned from the record. We conclude, in fact, that the application of common sense to the evidence of record would lead to a conclusion that the petitioner failed to meet its burden of establishing unpatentability of the ′843 patent on obviousness grounds.
+ 
+
+CONCLUSION
+Because the Board’s presumption that adding a search for phone numbers to Pandit would be “common sense” was conclusory *1367 and unsupported by substantial evidence, the missing limitation is not a “peripheral” one, and there is nothing in the record to support the Board’s conclusion that supplying the missing limitation would be obvious to one of skill in the art, we reverse the Board’s finding of unpatentability.
+ 
+REVERSED
+ 
+
+COSTS
+No costs.
+ 
+All Citations
+832 F.3d 1355, 119 U.S.P.Q.2d 1822
+Footnotes
+
+1
+
+Appellees also point to a passage in Pandit stating that, “[w]here the invention is capable of recognizing nouns or verbs, pull-down menus can, for example, identify executable programs which provide the meaning of the highlighted word, appropriate synonyms and the singular or plural version of the noun or conjugation of the verb.” Pandit, col. 3 ll. 11-15. The Board excluded Appellees’ argument regarding the noun/verb search mentioned in Pandit as undeveloped in its Institution Decision. The Institution Decision explicitly stated that, “Petitioner does not seem to allege that the disclosed dictionary search relates to the first and second types of information dependency in the claim.” J.A. 489. Neither Appellees’ Petition for IPR nor their expert, Dr. Menasce, addressed the noun/verb search in Pandit. J.A. 134; J.A. 203-208. Because Appellees may not now make an argument regarding that search for the first time and the noun/verb search was not a ground of rejection alleged or relied upon by the Board, we do not address it on appeal.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
+
+Negative Treatment
+Negative Citing References (3)
+The KeyCited document has been negatively referenced by the following events or decisions in other litigation or proceedings:
+Treatment
+Title
+Date
+Type
+Depth
+Headnote(s)
+Distinguished by
+ 1.  Outdry Technologies Corporation v. Geox S.p.A.  
+859 F.3d 1364 , Fed.Cir.
+PATENTS - Consumer Goods. Substantial evidence supported finding that skilled artisan would have been motivated to combine references rendering patent directed to a process for...
+June 16, 2017
+Case
+
+7
+
+
+
+
+8
+
+
+
+
+F.3d
+
+Distinguished by
+2.  NXP USA, Inc. v. Inside Secure
+2017 WL 3841203 , Patent Tr. & App. Bd.
+PATENTS - Computers and Electronics. Patent for a contactless integrated circuit reader that was able to send data to another reader by inductive coupling.
+Aug. 30, 2017
+Administrative Decision
+
+—
+
+Distinguished by
+3.  NXP USA, Inc. v. Inside Secure
+2017 WL 3841219 , Patent Tr. & App. Bd.
+PATENTS - Computers and Electronics. Patent for contactless integrated circuit reader that was able to send data to another reader by inductive coupling was obvious in light of...
+Aug. 30, 2017
+Administrative Decision
+
+—
+
+

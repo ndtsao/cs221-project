@@ -1,0 +1,199 @@
+
+
+ 
+
+
+In re Apple Inc.
+United States Court of Appeals, Federal Circuit. | June 9, 2015 | 650 Fed.Appx. 771 | 2015 WL 10936662
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+In re Apple Inc., 650 F. App’x 771 (Fed. Cir. 2015)
+
+All Citations:
+
+650 Fed.Appx. 771
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+650 Fed.Appx. 771
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+In re: Apple Inc., Petitioner.
+2015-136
+|
+Filed: 06/09/2015
+Synopsis
+Background: Patent owner brought action against several alleged infringers, seeking to enforce patents. The United States District Court for the Eastern District of Texas, Rodney Gilstrap, J., 2015 WL 1263346 and 2015 WL 1885256, denied one alleged infringer’s motion to sever and transfer. Alleged infringer south writ of mandamus directing district court grant the motions.
+ 
+Holdings: The Court of Appeals, Taranto, Circuit Judge, held that:
+ 
+[1] alleged infringer did not have clear and indisputable right to transfer, and
+ 
+[2] alleged infringer did not have clear and indisputable right to have claims against it severed.
+ 
+Petition denied.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+ContractsLegal remedies and proceedings
+MandamusChange of venue and transfer of causes
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k206Legal remedies and proceedings
+250Mandamus
+250IISubjects and Purposes of Relief
+250II(A)Acts and Proceedings of Courts, Judges, and Judicial Officers
+250k44Change of venue and transfer of causes
+
+
+Alleged patent infringer did not have clear and indisputable right to transfer patent owner’s infringement claims, as required for writ of mandamus directing district court to grant alleged infringer’s motion to transfer; alleged infringer sought to invoke forum-selection clause in agreement with owner, but conduct at issue in owner’s claim was based on independent activity of alleged infringer, rather than involving relationship between owner and alleged infringer, and owner’s chosen forum was where it was headquartered and convenient for a number of witnesses.
+Cases that cite this headnote
+
+
+
+[2]
+
+MandamusProceedings in civil actions in general
+PatentsSeverance of claims
+
+
+250Mandamus
+250IISubjects and Purposes of Relief
+250II(A)Acts and Proceedings of Courts, Judges, and Judicial Officers
+250k32Proceedings in civil actions in general
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1845Severance of claims
+
+
+Alleged patent infringer did not have clear and indisputable right to have claims against it severed from those of other defendants in patent owner’s action alleging infringement by various parties, as required for writ of mandamus directing district court to grant alleged infringer’s motion for severance; owner’s claims against all defendants were linked based on allegations of conduct involving some of the same accused products or processes.
+Cases that cite this headnote
+
+
+
+On Petition for Writ of Mandamus to the United States District Court for the Eastern District of Texas in No. 2:13-cv-01112, Judge J. Rodney Gilstrap.
+Attorneys and Law Firms
+Carter Glasgow Phillips, Sidley Austin LLP, Washington, DC, Nathaniel C. Love, Attorney, Constantine L. Trela, Jr., Esq., Sidley Austin LLP, Chicago, IL, for Petitioner.
+Robert A. Cote, Esq., Attorney, McKool Smith, P.C., New York, NY, Robert Auchter, Dirk D. Thomas, Esq., Attorney, McKool Smith, P.C., Washington, DC, Phillip Lee, Esq., McKool Smith Hennigan, P.C., Los Angeles, CA, for Respondent.
+Before Dyk, Taranto, and Chen, Circuit Judges.
+
+
+ON PETITION
+Taranto, Circuit Judge.
+
+ORDER
+The United States District Court for the Eastern District of Texas entered orders denying motions (a) to sever all of the  *772 claims against Apple Inc. from the claims against all the remaining defendants in this patent case and (b) to transfer the claims against Apple to the United States District Court for the Northern District of California. Apple now seeks a writ of mandamus directing the district court to grant its motions. We deny the petition.
+ 
+
+BACKGROUND
+Plaintiff ContentGuard Holdings, Inc., a small company, is incorporated and headquartered in Plano, Texas, within the Eastern District of Texas. It was originally a partnership created by Xerox Corporation and Microsoft Corporation to continue work done at Xerox’s Palo Alto Research Center on “digital rights management,” which addresses piracy and other challenges presented by distributing digital content over the Internet. As relevant here, ContentGuard owns nine patents on the subject.
+ 
+In late 2013, ContentGuard filed this action in the Eastern District of Texas to assert those patents against Apple, Amazon.com, Inc., Huawei Technologies Co., Ltd. and Huawei Devices USA, Inc., Motorola Mobility LLC, HTC Corporation and HTC America, Inc., and Samsung Electronics Co. Ltd. and related Samsung entities. DirectTV, LLC and Blackberry Corporation were also named as defendants, but they are no longer in the case. ContentGuard alleged, among other things, that Apple and other defendants infringed many or all of the nine patents, directly or indirectly, by providing access to certain software applications (e.g., Google Play, Amazon Kindle) through their online stores or mobile devices. See ContentGuard Holdings, Inc. v. Amazon.com, Inc., No. 2:13-cv-01112-JRG (E.D. Tex. Oct. 17, 2014), ECF No. 244.1
+ 
+The defendants each moved to sever at least some of the claims, and Apple (six months after the suit commenced) also moved to transfer to the Northern District of California all the claims brought against it. Chief among Apple’s arguments for transfer was that ContentGuard had executed a standard-form click-through Developer Agreement with Apple (for developers writing application software to run on Apple’s iOS platform) and a clause in the Agreement provides that any litigation “arising out of or relating to this Agreement, the Apple Software, or Your relationship with Apple will take place in the Northern District of California[.]” Apple also invoked the usual multi-factor analysis for transfer motions.2 A large volume of filings from the many parties accumulated as supplemental submissions continued into March 2015.
+ 
+On March 19, 2015, the district court denied the defendants’ motions to sever. ContentGuard Holdings, Inc. v. Amazon.com, Inc., No. 2:13-cv-01112-JRG, slip op. at 21 (E.D. Tex. Mar. 19, 2015), ECF No. 456. The district court concluded that the parties were not improperly joined under 35 U.S.C. § 299, noting that “the majority of the Movants appear to also share the Court’s conclusion.” Id. at 17. The court nonetheless said that it would exercise *773 its discretion to order separate trials on certain claims once the record was more complete. Id. at 19.
+ 
+On April 23, 2015, the district court denied Apple’s motion to transfer. ContentGuard Holdings, Inc. v. Amazon.com, Inc., No. 2:13-cv-01112-JRG, slip op. at 24 (E.D. Tex. Apr. 23, 2015), ECF No. 538 (Transfer Order). The court noted that a valid forum-selection clause should ordinarily be given controlling weight, id. at 7 (quoting Atl. Marine Const. Co., Inc. v. U.S. Dist. Ct. for W. Dist. of Tex., ––– U.S. ––––, 134 S.Ct. 568, 581, 187 L.Ed.2d 487 (2013)), but it held that the Developer Agreement’s forum-selection clause did not apply here. It reasoned, among other things, that this litigation was not related to the development and testing of ContentGuard’s application software for which it signed the Agreement. Id. at 8–9. Rather, this case is about whether Apple infringes the asserted patents by certain activities involving its own software and hardware and providing certain other non-ContentGuard software to users. Id.
+ 
+With the forum-selection clause held inapplicable, the court considered the traditional factors bearing on a transfer analysis. It held that Apple had not met its burden of establishing that the Northern District of California was a clearly more convenient forum and that the existence of “co-pending claims (and suits) before this Court concerning the patents-in-suit ... weighs against transfer.” Id. at 12–23.
+ 
+
+DISCUSSION
+The legal standard for mandamus is demanding. Apple must show, among other things, that it has a clear and indisputable legal right to the relief it seeks. See Cheney v. U.S. Dist. Ct. for D.C., 542 U.S. 367, 380–81, 124 S.Ct. 2576, 159 L.Ed.2d 459 (2004). Apple has not made that showing.
+ 
+
+A
+[1]Apple’s challenge to the district court’s denial of transfer relies primarily on the forum-selection clause in the Developer Agreement. It invokes each of the three phrases in the forum-selection clause to which litigation must “relate” to come within the clause. We see no clear and indisputable right to application of the clause on any of the three bases.
+ 
+Apple contends that this litigation is “related to” ContentGuard’s “relationship with Apple.” The district court rejected that contention as taking the “relationship with Apple” language out of context and giving it an extraordinarily, and unduly, broad meaning. It noted that the Agreement elsewhere discusses the “relationship” between the parties in terms of making Apple a developer’s agent for the marketing and delivery of the applications to end users. We see no clear error in the district court’s reading of the “relationship” language to cover only litigation relating to that specific type of relationship, not, as Apple suggests, any dispute even about activities undertaken by Apple independently of any dealings with ContentGuard. And although Apple notes that “ContentGuard alleged that the end-user download of apps through Apple’s App Store infringes” the patents, Reply at 4, those allegations concern Apple’s distribution of applications developed by other providers. ContentGuard, which authorized distribution of its own applications by executing the Agreement, is not suing Apple for making ContentGuard’s own applications available.
+ 
+Apple next argues this litigation is “related to” the “Apple Software” because it involves allegations concerning Apple’s iOS operating system. But the Agreement defines “iOS” as the “operating system provided by Apple for use by You only in connection with Your Application development *774 and testing.” The district court, relying on that language, refused “to read the provision of ‘Apple Software’ to, in effect, encompass any use of Apple Software (e.g. iOS) in any context—even if the use is outside the scope of ‘development and testing.’ ” Transfer Order at 9. Because it found that this case does not concern ContentGuard’s own development and testing of its applications, the court concluded that this aspect of the forum-selection clause was inapplicable. We see no clear error in that conclusion.
+ 
+Apple also argues that this litigation is “related to” the “Agreement.” But it is far from clear that the litigation has any “connection with” or “reference” to the Agreement itself. Coregis Ins. Co. v. Am. Health Found., Inc., 241 F.3d 123, 128–29 (2d Cir. 2001) (internal citation omitted); Gen. Protecht Grp. v. Leviton Mfg. Co., 651 F.3d 1355, 1359 (Fed. Cir. 2011) (enforcing forum-selection clause because patent dispute related to scope of license agreement). Although Apple notes that “the complaint cites [ContentGuard’s] app as evidence that [it] is an innovator in [digital-rights management],” and that ContentGuard cited its Texas operations for producing applications in opposing transfer, Petition at 16, Apple has not shown how those citations bear on the merits of the adjudication of the issues in this case. We see no clear and indisputable right to relief on this basis.
+ 
+Apart from relying on the forum-selection clause of the Developer Agreement, Apple challenges the district court’s application of the usual transfer factors. Under applicable Fifth Circuit law, we review those determinations only to see if there was such a clear abuse of discretion that refusing transfer amounted to a patently erroneous result. See In re TS Tech USA Corp., 551 F.3d 1315, 1319 (Fed. Cir. 2008). Nothing of the sort is involved here. The district court reviewed all of the factors on the record before it. It found, among other things, that plaintiff’s chosen forum, located in the district where it is headquartered, would be convenient for a number of potential witnesses and that judicial-economy considerations weighed against transfer because of the co-pending claims and suits concerning the same patents. In circumstances like these, we have not exercised the mandamus power to disturb a refusal to transfer, and we see no sufficient basis for doing so here.
+ 
+
+B
+[2]Apple also seeks mandamus to overturn the district court’s joinder determination. Congress has set forth ground rules for ensuring that the scope of an action remains “consistent with fairness to the parties.” United Mine Workers of Am. v. Gibbs, 383 U.S. 715, 724, 86 S.Ct. 1130, 16 L.Ed.2d 218 (1966); In re EMC Corp., 677 F.3d 1351, 1355 (Fed. Cir. 2012). We see no clear and indisputable right to severance of the claims against Apple under those rules and the related rules of the Federal Rules of Civil Procedure.
+ 
+One specific rule is that two parties cannot be joined based “solely on allegations that they each have infringed the patent or patents in suit.” 35 U.S.C. § 299(b). But ContentGuard’s allegations were not so limited. They include allegations against Apple and other parties, whether of direct or indirect infringement, for actions involving some of the same accused products or processes.
+ 
+A more general rule permits a patentee to join two or more defendants if “questions of fact common to all defendants” will “arise in the action,” and “any right to relief is asserted against the parties jointly” or if the claims arise “out of the same transaction, occurrence, or series of transactions or occurrences relating to the making, *775 using, importing ... or selling of the same accused product or process.” § 299(a). That standard looks for a “logical relationship” between the claims linking the underlying facts. EMC, 677 F.3d at 1358–59. See also Fed. R. Civ. P. 20 and 21. The district court applied those principles to the severance requests of Apple and many other defendants and held that severance into separate cases was not warranted.
+ 
+Given the demanding standard of review, we will not disturb the district court’s severance conclusions. At a minimum, the complaint and the record before the district court reasonably suggested that this is not a case in which Apple and other defendants were joined without any link between the infringement claims, because ContentGuard asserted claims against Apple and other defendants based on use of the same accused software applications. Moreover, the district court stated that it would order separate trials on various claims when the record was more complete and therefore permitted a fully informed definition of how to make that separation.
+ 
+Apple suggests that developments since the district court’s ruling, even since briefing on the mandamus petition, demonstrate that ContentGuard is now accusing Apple of infringement based only on its own iTunes apps and the iTunes store. To the extent that Apple believes that a change in circumstance warrants a change of conclusion as to severance, it should direct its arguments to the district court.
+ 
+Accordingly,
+ 
+IT IS ORDERED THAT:
+ 
+The petition is denied.
+ 
+All Citations
+650 Fed.Appx. 771
+Footnotes
+
+1
+
+In early 2014, after being sued for a declaratory judgment by Google, Inc. in the Northern District of California, ContentGuard filed a patent-infringement action against Google in the Eastern District of Texas, asserting the same nine patents as it asserts in the present case. The parties’ papers indicate that the California case has ended and that the case against Google in Texas will proceed.
+
+2
+
+Apple further pointed to a non-disclosure agreement (with ContentGuard) that contains a clause consenting to suit in California. The district court held that the clause, by its terms, does not require California as the forum for suit. We need not discuss that clause further.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

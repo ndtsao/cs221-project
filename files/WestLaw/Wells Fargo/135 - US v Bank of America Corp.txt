@@ -1,0 +1,157 @@
+
+
+ 
+
+
+U.S. v. Bank of America Corp.
+United States Court of Appeals, District of Columbia Circuit. | June 10, 2014 | 753 F.3d 1335 | 2014 WL 2575426
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+United States v. Bank of Am. Corp., 753 F.3d 1335 (D.C. Cir. 2014)
+
+All Citations:
+
+753 F.3d 1335, 410 U.S.App.D.C. 168
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+District of Columbia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+753 F.3d 1335
+United States Court of Appeals,
+District of Columbia Circuit.
+UNITED STATES of America, et al., Appellees
+v.
+BANK OF AMERICA CORPORATION, et al., Defendants
+Wells Fargo Bank, N.A., Appellant.
+No. 13–5112.
+|
+Argued May 13, 2014.
+|
+Decided June 10, 2014.
+Synopsis
+Background: United States and state attorneys general brought action asserting claims under False Claims Act (FCA) and Financial Institutions Reform, Recovery, and Enforcement Act (FIRREA), based on mortgage servicer’s alleged misconduct in issuing home mortgage loans insured by Federal Housing Administration (FHA). After parties entered into settlement agreement, the United States District Court for the District of Columbia, 922 F.Supp.2d 1, denied servicer’s motion to enforce consent judgment, and it appealed.
+ 
+Holding: The Court of Appeals held that consent decree did not bar United States’ subsequent action against servicer.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Federal Civil ProcedureConstruction and operation
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.5Construction and operation
+
+
+Consent decree under which United States released claims against mortgage servicer “the sole basis” of which was submission of false or fraudulent annual certification that it had complied with all regulations necessary to maintain Federal Housing Administration (FHA) and Department of Housing and Urban Development (HUD) approval for home mortgage loans did not release servicer from liability based on independent loan origination and servicing conduct underlying those certifications, and thus did not bar United States’ subsequent action against servicer alleging violations of False Claims Act (FCA) and Financial Institutions Reform, Recovery, and Enforcement Act (FIRREA), where release expressly preserved the United States’ right to pursue claims “for conduct with respect to the insurance of residential mortgage loans that violates any laws, regulations or other HUD–FHA requirements applicable to the insurance of residential mortgage loans by HUD.” Financial Institutions Reform, Recovery, and Enforcement Act of 1989, § 951, 12 U.S.C.A. § 1833a; 31 U.S.C.A. § 3729 et seq.
+1 Cases that cite this headnote
+
+
+
+*1335 Appeal from the United States District Court for the District of Columbia (No. 1:12–cv–00361).
+Attorneys and Law Firms
+Douglas W. Baruch argued the cause for appellant. With him on the briefs were William F. Johnson and Jennifer M. Wollenberg.
+Lindsey Powell, Attorney, U.S. Department of Justice, argued the cause for appellees. With her on the brief were Stuart F. Delery, Assistant Attorney General, Ronald C. Machen Jr., U.S. Attorney, and Michael S. Raab, Attorney.
+Before BROWN, GRIFFITH and MILLETT, Circuit Judges.
+Opinion
+Opinion for the Court filed PER CURIAM.
+
+PER CURIAM:
+
+**168 Wells Fargo Bank, N.A., appeals from an order denying its motion to enforce a consent judgment. We affirm.
+ 
+
+*1336 **169 I
+In March 2012, the United States, forty-nine states, and the District of Columbia filed suit in the United States District Court for the District of Columbia against several mortgage servicers, including appellant Wells Fargo. That complaint asserted claims under the False Claims Act, 31 U.S.C. §§ 3729 et seq., and the Financial Institutions Reform, Recovery, and Enforcement Act (FIRREA), 12 U.S.C. § 1833a, based on Wells Fargo’s alleged misconduct in issuing home mortgage loans insured by the Federal Housing Administration (FHA), a division of the United States Department of Housing and Urban Development (HUD).
+ 
+The next month, the parties agreed on a settlement that the district court entered as a consent judgment. In exchange for roughly $5 billion in consideration from Wells Fargo, the United States agreed to release certain claims, including claims “under FIRREA, the False Claims Act, and the Program Fraud Civil Remedies Act[, 31 U.S.C. §§ 3801 et seq.,] where the sole basis for such claim or claims is that [Wells Fargo] submitted to HUD–FHA * * * a false or fraudulent annual certification” that it had complied with “all HUD–FHA regulations necessary to maintain HUD–FHA approval[.]” Release ¶ 3(b) at F–17; see generally United States Dep’t of Housing & Urban Dev., FHA Title II Mortgagee Approval Handbook, 4060.1 REV–2 § 4–2 (2006) (“Annually, each mortgagee must complete and return to the Department a Title II Yearly Verification Report[.]”).
+ 
+Underscoring that “sole basis” language, Paragraph 3(b) continued:
+For avoidance of doubt, this Paragraph means that the United States is barred from asserting that a false annual certification renders [Wells Fargo] liable under the False Claims Act and the other laws cited above for loans endorsed by [Wells Fargo] for FHA insurance during the period of time applicable to the annual certification without regard to whether any such loans contain material violations of HUD–FHA requirements, or that a false individual loan certification * * * renders [Wells Fargo] liable under the False Claims Act for any individual loan that does not contain a material violation of HUD–FHA requirements.
+Release ¶ 3(b) at F–17 to F–18.
+ 
+In the consent judgment, the district court retained exclusive jurisdiction to enforce its terms and to resolve “any dispute arising out of matters” within the Release’s scope. Release ¶ 20 at F–43; Consent J. ¶ 13.
+ 
+Six months after entry of the consent judgment, the United States filed a wide-ranging complaint against Wells Fargo in the United States District Court for the Southern District of New York. The complaint again pleaded claims under the False Claims Act and FIRREA in connection with Wells Fargo’s origination and underwriting of thousands of individual, federally insured mortgages. Believing that such claims were precluded by the Release, Wells Fargo moved the United States District Court for the District of Columbia for an injunction enforcing the consent judgment by barring all of the United States’ claims in the New York litigation. In Wells Fargo’s view, “Paragraph 3(b) release[d] Wells Fargo from liability for company-wide conduct that was the subject of [its] annual certifications,” United States v. Bank of America, 922 F.Supp.2d 1, 9 (D.D.C.2013), and the New York suit based its claims on such conduct.
+ 
+The district court denied Wells Fargo’s motion. The court ruled that the unambiguous **170 *1337 language of Paragraph 3(b) released Wells Fargo only from claims “the sole basis ” of which is the submission of a false or fraudulent annual certification. Id. (internal quotation marks omitted; emphasis added). That limitation, the court explained, expressly preserved the United States’ ability to pursue other legal claims based on the independent loan origination and servicing conduct that underlay those certifications. Id. Wells Fargo timely appealed the district court’s judgment.
+ 
+
+II
+Reviewing the Release de novo under standard principles of contract law, see Segar v. Mukasey, 508 F.3d 16, 22 (D.C.Cir.2007), the Release’s plain text forecloses Wells Fargo’s interpretation. First, the “sole basis” sentence expressly confines the release of claims to those for which liability is predicated on the specific conduct of filing a false annual certification. Release ¶ 3(b) at F–17.
+ 
+Second, the Release’s “for avoidance of doubt” language, as advertised, eliminates any further doubt by confining the release to (i) claims “based on a false individual loan certification where the individual loan did not contain a material violation of HUD–FHA requirements,” Bank of America, 922 F.Supp.2d at 9 & n. 8; and (ii) potentially sweeping liability for every single one of the thousands of loans made while Wells Fargo was operating under a false annual certification, regardless of whether each loan independently violated the governing federal regulations. Release ¶ 3(b) at F–17 to F–18; cf. United States ex rel. Main v. Oakland City Univ., 426 F.3d 914, 916 (7th Cir.2005) (holding that a university’s initial certification of eligibility to participate in a federal subsidy program for college students renders a subsequent application for payment under the program “false because it [falsely] represents that the student is enrolled in an eligible institution”); S.Rep. No. 345, 99th Cong., 2d Sess. 9 (1986) (claim for Medicare reimbursement “may be false even though the services are provided as claimed if, for example, the claimant is ineligible to participate in the program”).
+ 
+The third textual strike against Wells Fargo is that the Release expressly preserved the United States’ right to pursue claims “for conduct with respect to the insurance of residential mortgage loans that violates any laws, regulations or other HUD–FHA requirements applicable to the insurance of residential mortgage loans by HUD.” Release ¶ 3(b) at F18. That same provision further allows the United States to introduce evidence of Wells Fargo’s “failure to comply with applicable HUD–FHA requirements”—including failures to comply with HUD–FHA requirements that underlie annual certifications—“in any way” as long as it is “in connection with any claim that there was a material violation(s) of applicable HUD–FHA requirements with respect to an individual loan or loans[.]” Release ¶ 3(b) at F–18.
+ 
+Wells Fargo’s efforts to escape those contractual limitations fail. Wells Fargo argues at length that Paragraph 3(b) released it from liability for any company-wide conduct that allegedly rendered the annual certification false. The short answer is that is not what Paragraph 3(b) says. It releases only the far narrower category of Wells Fargo’s liability for all of the individual loans made pursuant to the false annual certification that did not themselves transgress any regulatory directives. Release ¶ 3(b) at F–16 to F–19. By contrast, if the same conduct that gave rise to a false annual certification also resulted in individual loans that materially transgressed HUD or FHA requirements, then the claim was not released because the falsity of the annual certification would **171 *1338 not be the “sole” basis for the claim. Instead, the distinct loan-level regulatory violation would provide an independent basis for liability.
+ 
+On top of that, Wells Fargo’s insistence that the release encompassed “conduct” begs the question of precisely which “conduct” was released and which was preserved—a question that the “for avoidance of doubt” clause conclusively answers. Notably, when the settlement agreement meant to release categories of origination and servicing conduct, it did so expressly. See Release at F–2 to F–3, F–6 to F–9, F–12 to F–15 (defining and then releasing, for other purposes, “Covered Servicing Conduct” and “Covered Origination Conduct”).
+ 
+Wells Fargo points to a parenthetical phrase in Paragraph 3(b) that describes the release in conduct-based terms as “(including, but not limited to, the requirement that the mortgagee implement and maintain a quality control program that conforms to HUD–FHA requirements).” Release ¶ 3(b) at F–17. Read in context, however, the parenthetical just illustrates one type of the false or fraudulent annual certifications concerning general compliance with HUD–FHA regulations to which the Release applies—i.e., one falsely certifying compliance with the requirement of maintaining a quality-control program. Id. That is because the “use of parentheses,” when “prefaced with the word ‘including,’ ” simply “emphasizes the fact that that which is within is meant simply to be illustrative, hence redundant.” Chickasaw Nation v. United States, 534 U.S. 84, 89, 122 S.Ct. 528, 151 L.Ed.2d 474 (2001). The parenthetical, in other words, cannot sweep any further than the “sole basis” language it illuminates.
+ 
+Finally, it is this court’s task to construe and enforce the Release. Release ¶ 20 at F–43; Consent J. ¶ 13. But it is the Southern District of New York’s job to construe the United States’ complaint and to ensure that the claims are litigated in a manner that comports with the Release’s limitations, as determined by this court. Wells Fargo is correct that some portions of the New York complaint tread on the verge of the released claims, referencing false annual certifications explicitly. See First Amended Compl. of the United States of America ¶¶ 160, 165, United States v. Wells Fargo Bank, N.A., No. 12–civ–7527 (JMF) (S.D.N.Y. Dec. 21, 2012).
+ 
+Counsel for the United States, however, repeatedly conceded at oral argument that, to comport the New York litigation with the Release’s terms, “material violations do need to be demonstrated with respect to individual loans.” Oral Arg. Tr. 25, lines 23–24; see also id. at 26, lines 14–16 (“[C]laims do depend in each instance on material violations with respect to each loan, so they do not rely on that threshold certification.”). Should the government’s prosecution of its claims depart from that concession, Wells Fargo may seek appropriate relief.1
+ 
+Accordingly, the judgment of the district court is affirmed.
+ 
+So ordered.
+ 
+All Citations
+753 F.3d 1335, 410 U.S.App.D.C. 168
+Footnotes
+
+1
+
+Relying on the D.C. district court’s interpretation of the Release in this case, the District Court for the Southern District of New York denied Wells Fargo’s motion to dismiss, concluding that the operative complaint in New York does not involve claims based “solely” on Wells Fargo’s submission of false or fraudulent annual certifications. United States v. Wells Fargo Bank, N.A., 972 F.Supp.2d 593, 604–05 (S.D.N.Y.2013).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

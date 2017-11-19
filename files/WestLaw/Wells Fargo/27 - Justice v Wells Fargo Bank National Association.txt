@@ -1,0 +1,210 @@
+
+
+ 
+
+
+Justice v. Wells Fargo Bank National Association
+United States Court of Appeals, Fifth Circuit. | December 14, 2016 | 674 Fed.Appx. 330 | 2016 WL 7240195
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Justice v. Wells Fargo Bank Nat’l Ass’n, 674 F. App’x 330 (5th Cir. 2016)
+
+All Citations:
+
+674 Fed.Appx. 330
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+674 Fed.Appx. 330
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 5th Cir. Rules 28.7 and 47.5.
+United States Court of Appeals,
+Fifth Circuit.
+Brian W. JUSTICE, Plaintiff–Appellant,
+v.
+WELLS FARGO BANK NATIONAL ASSOCIATION, on behalf of the Registered Holders of Bear Stearns Asset Backed Securities, I, L.L.C., Asset-Backed Certificates, Series 2007-AC2; Select Portfolio Servicing, Incorporated, Defendants–Appellees.
+No. 15-20615
+|
+Date Filed: 12/14/2016
+|
+Revised March 22, 2017
+Synopsis
+Background: Mortgagor filed suit against mortgage servicer’s assignee and mortgagee’s assignee to quiet title, after mortgagee’s assignee sought expedited foreclosure. The United States District Court for the Southern District of Texas entered summary judgment in favor of defendants and dismissed case, 2015 WL 5916751, and mortgagor appealed.
+ 
+[Holding:] The Court of Appeals held that four-year limitations period governing action for foreclosure under Texas law did not begin to run until servicer’s assignee issued notice of acceleration.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+Federal CourtsMultiple citizenship
+
+
+170BFederal Courts
+170BVIControversies Between Citizens of Different States;  Diversity Jurisdiction
+170BVI(B)Particular Cases, Contexts, and Questions
+170Bk2438Corporations and Other Organizations
+170Bk2442Multiple citizenship
+
+
+Only citizenship of bank that was assigned mortgage, in its capacity as trustee for asset-backed securities fund, rather than citizenship of trust beneficiaries, was to be considered in determining whether diversity jurisdiction existed in mortgagor’s action against bank and mortgage servicer’s assignee to quiet title after expedited foreclosure had been attempted; bank was sued in its capacity as a trustee, bank had real and substantial control over assets held in its name, and trust’s beneficiaries had no power to control operation and management of the trust fund. 28 U.S.C.A. § 1332.
+3 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsMatters of Substance
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(D)Presentation and Reservation in Lower Court of Grounds of Review
+170BXVII(D)2Particular Grounds of Review
+170Bk3402Matters of Substance
+170Bk3403In general
+
+
+Mortgagor waived appellate review of claim that, because mortgagor’s offer of repayment agreement contained disclaimer that servicer was not waiving its rights to enforce note and mortgage, servicer had not abandoned prior acceleration of note, and therefore, that four-year limitations period governing foreclosure under Texas law continued to run, where mortgagor did not raise claim with district court. Tex. Civ. Prac. & Rem. Code Ann. § 16.035(a), (e).
+3 Cases that cite this headnote
+
+
+
+[3]
+
+Limitation of ActionsTitle or right of parties to mortgage or deed as security
+
+
+241Limitation of Actions
+241IIComputation of Period of Limitation
+241II(A)Accrual of Right of Action or Defense
+241k44Title to or Possession of Real Property
+241k44(5)Title or right of parties to mortgage or deed as security
+
+
+Mortgage servicer abandoned acceleration of note when it offered mortgagor repayment option and, as part of that agreement, accepted two monthly payments from mortgagor, and thus, cause of action for foreclosure did not accrue, and four-year limitations period governing action under Texas law did not begin to run, until servicer’s assignee filed subsequent notice of acceleration. Tex. Civ. Prac. & Rem. Code Ann. § 16.035(a), (e).
+1 Cases that cite this headnote
+
+
+
+Appeal from the United States District Court for the Southern District of Texas, USDC No. 4:14-CV-3341
+Attorneys and Law Firms
+James Patrick Sutton, Austin, TX, for Plaintiff–Appellant
+Christopher Dove, Esq., Locke Lord, L.L.P., Houston, TX, for Defendants–Appellees
+Before HIGGINBOTHAM, PRADO, and GRAVES, Circuit Judges.
+Opinion
+*331 PER CURIAM:*
+
+In 2014, Plaintiff–Appellant Brian W. Justice sued Defendants–Appellants Wells Fargo Bank National Association (“Wells Fargo”) and Select Portfolio Servicing, Inc. (“SPS”) to quiet title to his home in response to Wells Fargo’s attempt to foreclose on his property. The district court granted summary judgment in favor of Wells Fargo and SPS (collectively, “Defendants”). We affirm.
+ 
+
+I. FACTUAL AND PROCEDURAL BACKGROUND
+The following facts are not disputed. In 2006, Justice took out a $720,000 mortgage on his home through Maverick Residential Mortgage, Inc. (“Maverick”). In 2007, service of the mortgage was transferred from Maverick to EMC Mortgage Corporation (“EMC”). The mortgage was assigned to Wells Fargo in 2008.
+ 
+In June 2008, Justice defaulted. EMC sent Justice a notice of default in December 2008 and a notice of acceleration in March 2009. In June of that year, EMC sought an expedited order for foreclosure on Justice’s property under Texas Rule of Civil Procedure 736.
+ 
+In September 2009, EMC sent Justice a proposed repayment plan. Under the plan, EMC agreed “not to pursue [its] remedies for default” while the agreement was in effect if Justice made three payments of $3,293 beginning on November 1, 2009, and ending on January 1, 2010. The agreement also provided that EMC did not “waive[ ] its right to proceed with the existing acceleration and/or foreclosure by acceptance of partial payments unless and until [Justice] make [s] all payments due under this Agreement by the due dates referenced above.” On November 6, 2009, and December 7, 2009, Justice made two payments that EMC accepted for $3,250 each. Although disputed at the district court, both Justice and Defendants now agree that the repayment plan never took effect and is not a binding contract between the parties.
+ 
+EMC sent another notice of acceleration in August 2010. In September 2010, EMC again attempted to foreclose under Texas Rule of Civil Procedure 736. In October 2011, Justice filed suit against Defendants alleging multiple causes of action related to the loan. The suit was ultimately dismissed upon Justice’s request.
+ 
+In March 2013, Justice received another notice of default. Service of the mortgage was transferred to SPS around August 2013. SPS sent Justice an additional notice of default in October of that year and a notice of acceleration in September 2014. Wells Fargo again sought an expedited order to foreclose on Justice’s property under Texas Rule of Civil Procedure 736 in October 2014. In response, Justice filed suit to quiet title.
+ 
+Justice and Defendants filed cross-motions for summary judgment. The district court granted summary judgment in favor of Defendants and dismissed the case. The district court held that Defendants’ foreclosure action was not barred by the applicable statute of limitations because they had abandoned their prior acceleration of Justice’s debt. The court explained that Defendants’ acceptance of two partial payments from Justice, the repayment agreement, and “other loan communications” are evidence of abandonment. Justice timely appealed.
+ 
+
+*332 II. DISCUSSION
+A. Jurisdiction
+The district court had diversity jurisdiction under 28 U.S.C. § 1332 and we have appellate jurisdiction 28 U.S.C. § 1291. Although we recognize that the Supreme Court’s recent decision in Americold Realty Trust v. Conagra Foods, Inc., ––– U.S. ––––, 136 S.Ct. 1012, 194 L.Ed.2d 71 (2016), has injected some uncertainty into the diversity jurisdiction inquiry where a party sued is at least nominally a “trust,” this uncertainty does not affect the outcome of this case.
+ 
+In Americold, the Supreme Court held that for diversity jurisdiction purposes a Maryland real estate investment trust takes the citizenship of its members. Id. at 1015–16. The Court characterized this holding as merely “adher[ing] to [its] oft-repeated rule that diversity jurisdiction in a suit by or against [an unincorporated entity] depends on the citizenship of all [its] members.” Id. at 1015 (emphasis added) (final alteration in original) (quoting C.T. Carden v. Arkoma Assocs., 494 U.S. 185, 195–96, 110 S.Ct. 1015, 108 L.Ed.2d 157 (1990)). As to trusts, the Court reiterated its prior holding in Navarro Savings Association v. Lee, 446 U.S. 458, 465, 100 S.Ct. 1779, 64 L.Ed.2d 425 (1980), “that when a trustee files a lawsuit in her name, her jurisdictional citizenship is the State to which she belongs—as is true of any natural person.” Americold, 136 S.Ct. at 1016 (emphasis in original). Where a trustee has been sued or files suit in her own name, the only preliminary question a court must answer is whether the party is an “active trustee[ ] whose control over the assets held in [its] name[ ] is real and substantial.” Carden, 494 U.S. at 191, 110 S.Ct. 1015 (quoting Navarro, 446 U.S. at 465, 100 S.Ct. 1779). The fact “[t]hat the trust [otherwise] may depart from conventional forms in other respects has no bearing upon this determination.” Navarro, 446 U.S. at 465, 100 S.Ct. 1779.
+ 
+[1]Here, Wells Fargo was sued in its capacity as a trustee. Regardless of whether the trust managed by Wells Fargo could be characterized as a “traditional trust,” Wells Fargo itself wields the very sort of “real and substantial” control over assets held in its name that was long ago contemplated by the Supreme Court in Navarro. See id. at 464–65, 100 S.Ct. 1779. Per the Trust’s Pooling and Servicing Agreement, Wells Fargo as the trustee holds “all the right, title and interest of the Depositor in and to the Trust Fund.” EMC Mortgage Corp. & Wells Fargo Bank, N.A. Pooling and Servicing Agreement § 2.01 (Feb. 1, 2007), https://www.sec.gov/Archives/edgar/data/1388968/ 000088237707000985/d642573_ex4-1.htm. Moreover, the trust’s beneficiaries have no power to “control the operation and management of the Trust Fund”—this is solely the job of the trustee. Id. § 12.08. Accordingly, we look only to Wells Fargo’s citizenship—rather than that of the trust beneficiaries—to determine whether diversity jurisdiction exists. As Wells Fargo is a citizen of South Dakota, SPS is a citizen of Utah, and Justice is a citizen of Texas, we find that the district court properly exercised subject matter jurisdiction in this case.
+ 
+
+B. Analysis
+We review a district court’s grant of summary judgment de novo. Davis v. Hernandez, 798 F.3d 290, 292 (5th Cir. 2015). Summary judgment is appropriate “if the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a). “A genuine dispute of material fact exists when the ‘evidence is such that a reasonable jury could return a verdict for the nonmoving  *333 party.’ ” E.E.O.C. v. LHC Grp., Inc., 773 F.3d 688, 694 (5th Cir. 2014) (quoting Royal v. CCC & R Tres Arboles, L.L.C., 736 F.3d 396, 400 (5th Cir. 2013)).
+ 
+The parties agree that Texas law governs this case. “In determining questions of Texas law, this court looks to the decisions of the Texas Supreme Court, which are binding.” Packard v. OCA, Inc., 624 F.3d 726, 729 (5th Cir. 2010). Decisions issued by Texas intermediate appellate courts can “provide guidance, but are not controlling.” Id. In the absence of controlling precedent from the Texas Supreme Court, our Court must determine how the Texas Supreme Court would rule if faced with the same legal question. Id. at 729–30.
+ 
+Under Texas law, a foreclosure suit must be filed within four years after the cause of action accrues. Tex. Civ. Prac. & Rem. Code § 16.035(a). A cause of action for foreclosure does not accrue “until the maturity date of the last note, obligation, or installment.” Id. § 16.035(e). “On the expiration of the four-year limitations period, the real property lien and a power of sale to enforce the real property lien become void.” Id. § 16.035(d). If a note contains an optional acceleration clause, defaulting on the note does not automatically begin the statute of limitations. Holy Cross Church of God in Christ v. Wolf, 44 S.W.3d 562, 566 (Tex. 2001). Rather, the statute of limitations does not start to run until the holder of the note actually exercises its option to accelerate. Id. “Effective acceleration requires two acts: (1) notice of intent to accelerate, and (2) notice of acceleration.” Id. Each notice must be “clear and unequivocal.” Id. (quoting Shumway v. Horizon Credit Corp., 801 S.W.2d 890, 893 (Tex. 1991)).
+ 
+However, “[a]bandonment of acceleration has the effect of restoring the contract to its original condition,” including “restoring the note’s original maturity date.” Boren v. U.S. Nat’l Bank Ass’n, 807 F.3d 99, 104 (5th Cir. 2015) (quoting Khan v. GBAK Props., Inc., 371 S.W.3d 347, 353 (Tex. App.—Houston [1st Dist.] 2012, no pet.)). Acceleration of a note may be abandoned “by agreement or other action of the parties.” Id. (quoting Khan, 371 S.W.3d at 353). A note holder may even “unilaterally abandon acceleration after its exercise, so long[ ] as the borrower neither objects to abandonment nor has detrimentally relied on the acceleration.” Id. at 105.
+ 
+“Texas courts have framed the issue of abandonment of acceleration by reference to traditional principles of waiver.” Id. “Under Texas law, the elements of waiver include: (1) an existing right, benefit, or advantage held by a party; (2) the party’s actual knowledge of its existence; and (3) the party’s actual intent to relinquish the right, or intentional conduct inconsistent with the right.” Id. (quoting Thompson v. Bank of Am. Nat’l Ass’n, 783 F.3d 1022, 1025 (5th Cir. 2015)). “Waiver is a question of law when the facts that are relevant to a party’s relinquishment of an existing right are undisputed.” Id. at 106.
+ 
+All parties agree that Justice’s mortgage was accelerated when EMC sent Justice a notice of acceleration in March 2009. Under Texas law, this means Defendants’ cause of action for foreclosure accrued at that time. See Holy Cross, 44 S.W.3d at 566. Justice argues that because Defendants’ cause of action accrued in March 2009, Wells Fargo’s attempt to foreclose on his property in October 2014 is barred by the statute of limitations provided by Texas Civil Practice & Remedies Code § 16.035(a). Because the 2009 notice of acceleration was issued more than four years prior to Defendants’ October 2014 attempt to foreclose, in order to resolve this appeal, we must determine whether Defendants abandoned the 2009 acceleration.
+ 
+*334 Defendants argue that they abandoned the 2009 acceleration when they accepted two payments of $3,250 from Justice without exercising any of their available remedies. In Holy Cross Church of God in Christ v. Wolf, the Texas Supreme Court held that a note holder can abandon acceleration “if the holder continues to accept payments without exacting any remedies available to it upon declared maturity.” 44 S.W.3d at 566–67. We recently applied this precedent in Rivera v. Bank of America, N.A., 607 Fed.Appx. 358 (5th Cir. 2015) (per curiam). In Rivera, the borrowers received a notice of acceleration in 2004. Id. at 359. In 2006, the lender accepted several payments from the borrowers and applied them toward the loan’s balance. Id. Citing Holy Cross, we concluded that absent any “competent contrary evidence” of the lender’s intent, the lender abandoned its 2004 acceleration by accepting partial payments from the borrowers. Id. at 361.
+ 
+EMC accepted two partial payments from Justice for $3,250 each in November and December of 2009. The district court found that acceptance of these payments was evidence of EMC’s intent to abandon the 2009 acceleration, and we agree. But, such evidence is not necessarily conclusive. See Martin v. Fed. Nat’l Mortg. Ass’n, 814 F.3d 315, 318 (5th Cir. 2016) (“Accepting a payment after acceleration could be intentional conduct inconsistent with the acceleration that—in some circumstances—amounts to an abandonment or waiver of the acceleration.” (emphasis added)); Holy Cross, 44 S.W.3d at 566–67 (explaining that a note holder “can abandon acceleration if the holder continues to accept payments without exacting any remedies available to it upon declared maturity.” (emphasis added)). Therefore, we must determine whether Justice “point[s] to any competent contrary evidence” to support his argument that Defendants did not intend to abandon the 2009 acceleration by accepting partial payments. Rivera, 607 Fed.Appx. at 361.
+ 
+On appeal, Justice argues that because Defendants made “such strong disclaimer [s]” of abandonment, they did not abandon acceleration by accepting Justice’s November 2009 and December 2009 payments. He argues that in order to abandon acceleration Defendants must have demonstrated their intent to abandon through other actions, “such as a firm offer to accept less than full payoff to reinstate the loan.” To support his argument, Justice focuses on what he characterizes as “disclaimers” of abandonment in EMC’s proposed repayment plan and the security instrument governing Defendants’ lien on the property.
+ 
+[2]With regard to the repayment agreement, Justice appears to argue that even though the agreement was never an effective contract between the parties, it served to reaffirm the 2009 acceleration. As a preliminary matter, Defendants contend that Justice has waived this argument. Justice argued to the district court that the repayment plan was effective and binding on the parties. On appeal, Justice argues that the repayment agreement was actually a unilateral offer to abandon acceleration, which he never accepted. In his reply brief, Justice concedes that this argument was not made to the district court but argues that we should still address it because it is a pure question of law.
+ 
+Arguments that are not first raised to the district court are waived. State Indus. Prods. Corp. v. Beta Tech., Inc., 575 F.3d 450, 456 (5th Cir. 2009). In our Circuit, waived arguments can be considered on appeal if the party asserting the argument can demonstrate “extraordinary circumstances.” Id. “Extraordinary circumstances exist when the issue involved is a pure question of law and a miscarriage of justice would result from our failure to consider *335 it.” Id. (quoting N. Alamo Water Supply Corp. v. City of San Juan, 90 F.3d 910, 916 (5th Cir. 1996)). Because Justice has failed to demonstrate that extraordinary circumstances exist, we decline to address his argument that the 2009 repayment agreement served to reaffirm the 2009 acceleration.
+ 
+[3]Justice also argues on appeal that the 2006 security instrument governing Defendants’ lien on the property contains a “disclaimer[ ]” of abandonment. The provision provides:
+Any forbearance by Lender in exercising any right or remedy including, without limitation, Lender’s acceptance of payments from third persons, entities or Successors in Interest of Borrower or in amounts less than the amount then due, shall not be a waiver of or preclude the exercise of any right or remedy.
+Justice appears to argue that because this provision serves as a “disclaimer [ ]” of abandonment, Defendants cannot abandon acceleration by accepting payments without additional evidence of their intent to abandon. But Justice has failed to adequately explain how this provision of the security instrument relates to abandonment of an existing acceleration. Abandonment of an existing acceleration and waiver of Defendants’ right to accelerate in the future are two distinct issues and this provision only addresses the latter, providing Defendants with a “reservation of rights if [they] choose[ ] to refrain from exercising a right or remedy under the deed of trust.” Wells v. Bank of Am., N.A., No. 3:13–CV–3658–M, 2015 WL 4269089, at *6 (N.D. Tex. July 14, 2015); see also Mendoza v. Wells Fargo Bank, N.A., No. H–14–554, 2015 WL 338909, at *4–5 (S.D. Tex. Jan. 23, 2015); cf. Martin, 814 F.3d at 319 (observing that identically worded language in a security instrument entitled lender “to defer acceleration and foreclosure (and any other remedy) after default without waiving its rights”).
+ 
+Similar to Rivera, Defendants acceptance of Justice’s two payments of $3,250, while refraining from pursuing any of their available remedies against Justice, is compelling evidence of Defendants’ intent to abandon the 2009 acceleration. Because Justice has failed to present contrary evidence that raises a genuine dispute of material fact as to Defendants’ intent, the district court is affirmed.
+ 
+
+III. CONCLUSION
+For the foregoing reasons, the district court’s grant of summary judgment in favor of Defendants is AFFIRMED.
+ 
+All Citations
+674 Fed.Appx. 330
+Footnotes
+
+*
+
+Pursuant to 5TH CIR. R. 47.5, the court has determined that this opinion should not be published and is not precedent except under the limited circumstances set forth in 5TH CIR. R. 47.5.4.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

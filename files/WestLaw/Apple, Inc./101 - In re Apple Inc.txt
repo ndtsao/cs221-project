@@ -1,0 +1,197 @@
+
+
+ 
+
+
+In re Apple Inc.
+United States Court of Appeals, Federal Circuit. | February 27, 2014 | 743 F.3d 1377 | 2014 WL 756250
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+standard Citation:
+
+In re Apple Inc., 743 F.3d 1377 (Fed. Cir. 2014)
+
+All Citations:
+
+743 F.3d 1377, 109 U.S.P.Q.2d 2057
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+Texas
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+743 F.3d 1377
+United States Court of Appeals,
+Federal Circuit.
+In re APPLE INC., Petitioner.
+Misc. No. 156.
+|
+Feb. 27, 2014.
+Synopsis
+Background: A patentee brought a patent infringement action against a competitor, claiming that the competitor’s products infringed on its patent for baseband processing chips. The United States District Court for the Eastern District of Texas, Leonard Davis, 2013 WL 682849, denied the competitor’s motion to transfer the case to the Northern District of California. The competitor petitioned for writ of mandamus.
+ 
+[Holding:] The Court of Appeals, Reyna, Circuit Judge, held that the District Court’s denial of motion to transfer venue was not without any basis for a judgment of discretion.
+ 
+Petition denied.
+ 
+Newman, Circuit Judge, filed a dissenting opinion.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Federal CourtsOrders relating to removal, transfer, or venue
+MandamusChange of venue and transfer of causes
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(A)In General
+170Bk3236Mandamus
+170Bk3239Orders relating to removal, transfer, or venue
+250Mandamus
+250IISubjects and Purposes of Relief
+250II(A)Acts and Proceedings of Courts, Judges, and Judicial Officers
+250k44Change of venue and transfer of causes
+
+
+District Court’s denial of a motion to transfer venue from the Eastern District of Texas to the Northern District of California was not without any basis for a judgment of discretion, as required to support issuance of a writ of mandamus in a patent infringement action, where the alleged infringer failed to identify willing witnesses who would need to travel to Texas or any third party witnesses not subject to the compulsory process of the Texas court.
+6 Cases that cite this headnote
+
+
+
+[2]
+
+MandamusScope of inquiry and powers of court
+
+
+250Mandamus
+250IIIJurisdiction, Proceedings, and Relief
+250k172Scope of inquiry and powers of court
+
+
+On a petition for writ of mandamus, the Court of Appeals will only disturb the district court’s decision if it is clear that the facts and circumstances are without any basis for a judgment of discretion.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1377 Joseph J. Mueller, Wilmer Cutler Pickering Hale and Dorr LLP, of Boston, MA, for petitioner. With him on the petition were John J. Regan and Michael Wolin, of Boston, MA, and Cynthia D. Vreeland, of New York, NY.
+Henry Charles Bunsow, Bunsow De Mory Smith & Allison LLP, of San Francisco, CA, for respondent Core Wireless Licensing S.a.r.l. With him on the response was Craig Y. Allison of Redwood City, CA.
+Before NEWMAN, PROST, and REYNA, Circuit Judges.
+
+Opinion for the court filed by Circuit Judge REYNA.
+Dissenting opinion filed by Circuit Judge NEWMAN.
+
+
+ON PETITION
+REYNA, Circuit Judge.
+
+ORDER
+Apple Inc. seeks a writ of mandamus ordering the United States District Court for the Eastern District of Texas to transfer this case to the Northern District of California. Core Wireless Licensing S.a.r.l. opposes. Apple replies.
+ 
+
+I
+In February 2012, Core Wireless sued Apple for patent infringement in the Eastern *1378 District of Texas. Core Wireless, a Luxembourg company having one employee, is a wholly-owned subsidiary of MOSAID Tech, a Canadian corporation.1 Core Wireless Licensing Ltd. (“Core Wireless USA”), also a Texas corporation, was created in September 2011 and is a wholly-owned subsidiary of Core Wireless. Core Wireless USA shares office space with MOSAID TX in Plano, Texas.2
+ 
+Apple is a California corporation with a principal place of business in Cupertino, California. The accused products contain baseband processing chips which are at the heart of the patent dispute. Qualcomm Incorporated, based in San Diego, California, and Intel Corporation, based in Santa Clara, California, supply the chips to Apple for inclusion in the accused devices.
+ 
+Apple moved to transfer the case to the Northern District of California. The district court denied the motion, finding “that Apple ha[d] not met its burden of establishing that the Northern District of California is ‘clearly more convenient’ ” than the Eastern District of Texas. Core Wireless Licensing, S.A.R.L. v. Apple, Inc., No. 6:12–CV–100, slip op at 5 (E.D.Tex. Feb. 22, 2013) (“Transfer Order ”). The court emphasized the lack of specificity in Apple’s assertions as to why the transfer factors favored the Northern District of California. Apple subsequently filed a motion to supplement the record. The district court denied the motion, noting that “[t]here is no indication that all of this relevant information was not accessible at the time Apple had filed its transfer motion.” Core Wireless Licensing, S.A.R.L. v. Apple, Inc., No. 6:12–CV100, slip op at 1 (E.D.Tex. May 17, 2013) (“Supplement the Record Order ”). Apple then filed a motion for reconsideration, which was denied. Core Wireless Licensing, S.A.R.L. v. Apple, Inc., No. 6:12–CV–100, slip op at 1 (E.D.Tex. May 21, 2013) (“Reconsideration Order ”).
+ 
+Apple now petitions for a writ of mandamus instructing the district court to vacate its Transfer Order, Supplement the Record Order, and Reconsideration Order and to transfer the case to the Northern District of California.
+ 
+
+II
+[1] [2] The question before the court on mandamus is whether there was such a “ ‘clear’ abuse of discretion” that refusing transfer would produce a “patently erroneous result.” In re TS Tech USA Corp., 551 F.3d 1315, 1319 (Fed.Cir.2008) (quoting In re Volkswagen of Am., Inc., 545 F.3d 304, 310 (5th Cir.2008) (en banc)). We will only disturb the district court’s decision if it is clear “that the facts and circumstances are without any basis for a judgment of discretion.” Volkswagen, 545 F.3d at 317 n. 7 (quoting McGraw–Edison Co. v. Van Pelt, 350 F.2d 361, 363 (8th Cir.1965)).
+ 
+The district court examined the private and public interest factors but was stymied in its analysis by Apple’s lack of evidence. Specifically, the court noted that it was unable to evaluate the convenience of witnesses in its transfer analysis because of Apple’s failure to identify willing witnesses who would need to travel to the Eastern District of Texas or any third party witnesses *1379 not subject to the compulsory process of that court. Similarly, in light of “Apple’s vague assertions and unknown relevance and location of potential sources,” the district court was unable to weigh the relative ease of access to sources of proof factor in its transfer analysis, because “the weighing of this factor would be merely speculative.”
+ 
+As to the remaining factors, the district court determined that the local interest factor weighed “slightly” in favor of transfer and the remaining public interest factors were neutral. The court concluded, however, that the “local interest of the Northern District of California is not enough to establish it is a clearly more convenient forum on its own.” Id.
+ 
+Nothing suggests the district court conducted an improper transfer analysis. The district court simply determined that the evidence before the court was so general in nature that the court was unable to evaluate its relevance in the transfer analysis. Based on the sparse, and general, record before the district court,3 we cannot say “that the facts and circumstances are without any basis for a judgment of discretion.” Volkswagen, 545 F.3d at 317 n. 7. Accordingly, we will not overturn the court’s conclusion that Apple failed to submit sufficient evidence to suggest that transfer was appropriate.
+ 
+Finally, Apple asserts that the district court erred by failing to permit Apple to supplement the record following the court’s denial of Apple’s transfer motion. The district court noted that there was no indication that Apple could not have submitted this information with its motion to transfer. The district court did not abuse its discretion in denying Apple’s motion to supplement the record.
+ 
+Accordingly,
+ 
+IT IS ORDERED THAT:
+ 
+The petition for a writ of mandamus is denied.
+ 
+
+NEWMAN, Circuit Judge, dissenting.
+
+The plaintiff, Core Wireless Licensing, S.A.R.L., is a Luxembourg company having one employee. Core Wireless maintains a wholly-owned subsidiary, Core Wireless USA, a Texas corporation with 6 employees who live in or near Plano, Texas. Core Wireless USA’s employees manage Core Wireless’s patent portfolio, including any licensing agreements deriving therefrom. Neither Core Wireless nor Core Wireless USA makes, uses, or sells the patented subject matter in Texas or elsewhere.
+ 
+The accused products are versions of Apple Incorporated’s iPhone and cellular iPad products. Apple has been headquartered in Cupertino, California since 1976. Apple’s management and primary research and development facilities are also located in Cupertino where Apple employs over *1380 13,000 people. The record also states that the research, design, and development of the accused products took place in Cupertino and that virtually all Apple business documents and records relating to the research, design, development, marketing strategy, and product revenue for the accused products are located in or near Cupertino. Additionally, Apple has stated that its foreseeable witnesses with knowledge of the research, design, and development of the accused products reside or work in or near Cupertino.
+ 
+Refusal to transfer this case should be reversed, and the writ of mandamus should issue to account for the extreme imbalance of convenience as between California and Texas.
+ 
+My colleagues defend the district court’s conclusion that it was unable to evaluate the convenience of witnesses in its transfer analysis because Apple failed to name its witnesses. The district court has greatly mischaracterized Apple’s proffered evidence. Apple may not have identified specific witnesses or singled out individual documents; however, the evidence proffered makes it clear that all relevant Apple witnesses and documents are located in the Northern District of California. The evidence also shows that the suppliers of the accused components are located in California—Qualcomm Incorporated is based in San Diego and Intel Corporation is based in Santa Clara. Under a proper transfer analysis, these facts lead to only one conclusion—this case should be transferred to the Northern District of California.
+ 
+This case is analogous to In re Genentech, 566 F.3d 1338 (Fed.Cir.2009). In that case, we granted a petition for a writ of mandamus directing the court to transfer the case to the Northern District of California because the Eastern District of Texas had no meaningful connection to the litigation. Such is the case here, as nothing else ties this case to Texas.
+ 
+In Genentech we observed that there were “a substantial number of witnesses with material and relevant information residing in either the transferee venue or the state of California who will be unnecessarily inconvenienced in having to travel to Texas to testify.” 566 F.3d at 1348. We further noted that two of the three parties were headquartered in the Northern District of California or had facilities in San Diego, California, realizing that this would greatly reduce any transportation of documents related to the accused products. Id. We also explained that the Northern District of California would have the authority to compel many witnesses to appear at trial if necessary. Id. The similarities between the facts of this case and Genentech are striking.
+ 
+In Genentech we also explained that “[i]n patent infringement, the bulk of the relevant evidence usually comes from the accused infringer. Consequently, the place where the defendant’s documents are kept weighs in favor of transfer to that location.” Id. at 1345 (quotation marks omitted) (citation omitted). There is nothing to suggest to the contrary in this case.
+ 
+Finally, I am struck by how heavily the local interest factor favors the Northern District of California. Apple is a robust company that supports the local economy of Cupertino, California, employing over 13,000 people. Core Wireless, on the other hand, is a non-United States corporation with one employee that exists solely to license its patent portfolio. To carry out this task, Core Wireless employs 6 people through a subsidiary in Plano, Texas. Apple’s impact on the local economy in the *1381 Northern District of California is clearly much greater than that of Core Wireless in the Eastern District of Texas.
+ 
+Thus, although transfer is within the sound discretion of the district court, “in a case featuring most witnesses and evidence closer to the transferee venue with few or no convenience factors favoring the venue chosen by the plaintiff, the trial court should grant a motion to transfer.” In re Nintendo Co., 589 F.3d 1194, 1198 (Fed.Cir.2009). This is such a case. From my colleagues’ denial of the petition, I must, respectfully, dissent.
+ 
+All Citations
+743 F.3d 1377, 109 U.S.P.Q.2d 2057
+Footnotes
+
+1
+
+In 2009, MOSAID Tech hired its first Texas-based employee.
+
+2
+
+MOSAID TX is a Texas company formed in February 2011 and located in Plano, Texas—it is a wholly-owned subsidiary of MOSAID Tech.
+
+3
+
+The dissent analogizes the facts of In re Genentech, 566 F.3d 1338 (Fed.Cir.2009). In that case, however, the petitioner identified at least ten specific witnesses in the transferee forum, two of which were attorneys responsible for the prosecution of the patents-in-suit, and at least four additional witnesses with relevant knowledge that were located outside of the original venue but within the transferee venue. See id. at 1343. We decline to find that the district court was “patently erroneous” based only on inferences drawn from the number of employees at Apple’s headquarters, which only reflects the parties’ relative size and not necessarily the location of potential witnesses—particularly as Apple has not shown that it did not have more granular facts at its disposal to support its original motion.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

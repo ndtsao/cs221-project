@@ -1,0 +1,152 @@
+
+
+ 
+
+
+Williams Trading LLC v. Wells Fargo Securities, LLC
+United States Court of Appeals, Second Circuit. | January 27, 2014 | 553 Fed.Appx. 33 | 2014 WL 274420
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Williams Trading LLC v. Wells Fargo Sec., LLC, 553 F. App’x 33 (2d Cir. 2014)
+
+All Citations:
+
+553 Fed.Appx. 33
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:22 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+553 Fed.Appx. 33
+This case was not selected for publication in West’s Federal Reporter.
+RULINGS BY SUMMARY ORDER DO NOT HAVE PRECEDENTIAL EFFECT. CITATION TO A SUMMARY ORDER FILED ON OR AFTER JANUARY 1, 2007, IS PERMITTED AND IS GOVERNED BY FEDERAL RULE OF APPELLATE PROCEDURE 32.1 AND THIS COURT’S LOCAL RULE 32.1.1. WHEN CITING A SUMMARY ORDER IN A DOCUMENT FILED WITH THIS COURT, A PARTY MUST CITE EITHER THE FEDERAL APPENDIX OR AN ELECTRONIC DATABASE (WITH THE NOTATION “SUMMARY ORDER”). A PARTY CITING A SUMMARY ORDER MUST SERVE A COPY OF IT ON ANY PARTY NOT REPRESENTED BY COUNSEL.
+United States Court of Appeals,
+Second Circuit.
+Williams TRADING LLC, Plaintiff–Appellant,
+v.
+WELLS FARGO SECURITIES, LLC, Defendant–Appellee.
+No. 13–1634–cv.
+|
+Jan. 27, 2014.
+Synopsis
+Background: Plaintiff brought claims against securities firm for breach of contract and breach of fiduciary duty, relating to agreement pursuant to which plaintiff was to refer clients to newly-created domestic listed-options trading desk at securities firm, in exchange for referral fee equal to a percentage of desk’s net revenues. The United States District Court for the Southern District of New York, Forrest, J., 2013 WL 1718916,granted defendant’s motion to dismiss for failure to state a claim. Plaintiff appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] agreement did not create a joint venture under New York law, and
+ 
+[2] agreement did not incorporate defendant’s internal policy manual.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Joint VenturesJoint venture not created
+
+
+226HJoint Ventures
+226HINature, Creation, Requisites, and Existence
+226Hk23Particular Cases and Contexts
+226Hk27Joint venture not created
+(Formerly 224k1.12 Joint Adventures)
+
+
+Agreement pursuant to which plaintiff was to refer clients to newly-created domestic listed-options trading desk at defendant securities firm, in exchange for referral fee equal to a percentage of desk’s net revenues, was not a joint venture under New York law, as would provide basis for defendant to owe fiduciary duties to plaintiff; agreement showed no intent to form a joint venture, and to the contrary, it expressly provided that it is not intended to form a “partnership” of any kind and that defendant’s relationship to plaintiff was that of an “independent contractor,” agreement gave plaintiff no right of control over the new desk, and agreement did not require plaintiff to share in risk of loss.
+Cases that cite this headnote
+
+
+
+[2]
+
+ContractsRestriction of competition
+ContractsContract not to engage in or injure business carried on by another
+
+
+95Contracts
+95IIConstruction and Operation
+95II(C)Subject-Matter
+95k202Trade and Business
+95k202(2)Restriction of competition
+95Contracts
+95VPerformance or Breach
+95k312Acts or Omissions Constituting Breach in General
+95k312(4)Contract not to engage in or injure business carried on by another
+
+
+Even assuming that defendant securities firm’s internal policy manual prohibited proprietary trading by firm’s newly-created domestic listed-options trading desk, non-disparagement clause of agreement pursuant to which plaintiff was to refer clients to the newly-created desk, in exchange for referral fee equal to a percentage of desk’s net revenues, did not incorporate the manual wholesale into the agreement, and thus, defendant did not breach the agreement by engaging proprietary trading.
+Cases that cite this headnote
+
+
+
+*34 Appeal from the United States District Court for the Southern District of New York (Forrest, J.).
+ON CONSIDERATION WHEREOF, it is hereby ORDERED, ADJUDGED, and DECREED that the judgment of the district court is AFFIRMED.
+Attorneys and Law Firms
+Jeffrey M. Norton, Newman Ferrara LLP, New York, NY, for Plaintiff–Appellant.
+David C. Bohan, Katten Muchin Rosenman LLP, Chicago, IL (Aharon S. Kaye, Katten Muchin Rosenman LLP, Chicago, IL, and Emily Stern, Katten Muchin Rosenman LLP, New York, NY, on the brief), for Defendant–Appellee.
+Present: ROBERT A. KATZMANN, Chief Judge, RICHARD C. WESLEY, RAYMOND J. LOHIER, JR., Circuit Judges.
+
+
+SUMMARY ORDER
+Plaintiff–Appellant Williams Trading LLC (“Williams”) appeals from a judgment entered on April 29, 2013 by the United States District Court for the Southern District of New York (Forrest, J.), which dismissed Williams’s claims against Defendant–Appellee Wells Fargo Securities, LLC (“Wells Fargo”) for breach of fiduciary duty, breach of contract, and other related state-law causes of action, for failure to state a claim. Williams’s claims arise out of an agreement whereby Williams was to refer clients to a newly created U.S. listed options trading desk at Wells Fargo in exchange for a referral fee equal to a percentage of the desk’s net revenues (the “Agreement”). Williams alleges that Wells Fargo used funds from that venture to engage in proprietary trading—i.e., trading for the bank’s own account, rather than for clients. On appeal, Williams argues that the district court erred in dismissing Williams’s claims for breach of fiduciary duty and breach of contract. We assume the parties’ familiarity with the underlying facts, procedural history, and issues presented for review.
+ 
+We review a district court’s grant of a motion to dismiss under Rule 12(b)(6) for *35 failure to state a claim de novo, “accepting all factual claims in the complaint as true, and drawing all reasonable inferences in the plaintiff’s favor.” Famous Horse Inc. v. 5th Ave. Photo Inc., 624 F.3d 106, 108 (2d Cir.2010). “To survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’ ” Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007)).
+ 
+Turning first to Williams’s claim for breach of fiduciary duty, the elements of such a claim are: “(i) the existence of a fiduciary duty; (ii) a knowing breach of that duty; and (iii) damages resulting therefrom.” Johnson v. Nextel Commc’ns, Inc., 660 F.3d 131, 138 (2d Cir.2011). With respect to the first element, “[a] fiduciary relationship exists under New York law ‘when one [person] is under a duty to act for or to give advice for the benefit of another upon matters within the scope of the relation.’ ” Flickinger v. Harold C. Brown & Co., Inc., 947 F.2d 595, 599 (2d Cir.1991) (quoting Mandelblatt v. Devon Stores, Inc., 132 A.D.2d 162, 521 N.Y.S.2d 672, 676 (1st Dep’t 1987) (second alteration in original)).
+ 
+[1] Williams first argues that Wells Fargo owed Williams fiduciary duties because the Agreement created a joint venture. But among the requirements necessary to form a joint venture under New York law are (1) that the parties’ agreement “evidence their intent to be joint venturers,” (2) that each party “have some degree of joint control over the venture,” and (3) that there be “a provision for the sharing of both profits and losses.” Dinaco, Inc. v. Time Warner, Inc., 346 F.3d 64, 67–68 (2d Cir.2003) (quoting Itel Containers Int’l Corp. v. Atlanttrafik Express Serv. Ltd., 909 F.2d 698, 701 (2d Cir.1990)). These elements are absent here. The Agreement shows no intent to form a joint venture—to the contrary, it expressly provides that it is not intended to form a “partnership” of any kind and that Wells Fargo’s relationship to Williams is that of an “independent contractor.” The Agreement also gives Williams no right of control over the new desk, and indeed, Williams affirmatively alleges that Wells Fargo quickly cut Williams out of the desk’s decisionmaking processes altogether. Furthermore, while the Agreement permits Williams to share in the new desk’s profits, it does not require Williams to share in the risk of loss. Rather, the Agreement expressly provides that if the desk loses money, that loss will be borne by Wells Fargo alone. As the Appellate Division, Second Department has explained, “[a]n individual who has no proprietary interest in a business except to share the profits as compensation for services is not a joint venturer.” De Vito v. Pokoik, 150 A.D.2d 331, 540 N.Y.S.2d 858, 859 (2d Dep’t 1989).
+ 
+Williams also argues that it was owed fiduciary duties because Wells Fargo maintained control over the new desk’s profits, a portion of which (measured by reference to the desk’s net revenues) was owed to Williams as its referral fee. Williams contends that this control over the parties’ joint funds placed Wells Fargo in a position of trust and confidence analogous to an investment adviser who invests funds on a client’s behalf. See Bullmore v. Ernst & Young Cayman Islands, 45 A.D.3d 461, 846 N.Y.S.2d 145, 148 (1st Dep’t 2007) (noting that such advisers owe fiduciary duties). This argument, however, rests on a faulty premise—namely, that the desk’s profits were owned in part by Williams. In fact, because the desk was wholly owned and operated by Wells Fargo, *36 the desk’s profits belonged solely to Wells Fargo. Nothing in the Agreement gave Williams any security interest or other entitlement to the desk’s profits themselves. Wells Fargo was not required to pay Williams’s fee out of the desk’s profits, and conversely, Williams would not have been limited to those profits if it sought to recover unpaid fees. Wells Fargo thus was investing its own funds, entirely unlike a fiduciary exercising control over the funds of another.
+ 
+[2] As to its claim for breach of contract, Williams points to two provisions of the Agreement that supposedly prohibited proprietary trading by Wells Fargo. First, Williams points to paragraph 14, which Williams contends incorporated an internal Wells Fargo policy manual that in turn prohibits proprietary trading by client-facing desks like the one contemplated by the Agreement. Paragraph 14, however, is merely a non-disparagement clause, which by its plain terms simply prohibits each party from “mak[ing] any misrepresentations regarding the other or its brokerage services that are false or misleading or in any way inconsistent with the written materials provided to it by the other.” J.A. 82. Even if Wells Fargo’s internal policy manual prohibits proprietary trading by the new desk, paragraph 14 does not incorporate that manual wholesale into the Agreement.
+ 
+Second, Williams points to paragraph 2, which defines the “Net Revenues” upon which Williams’s referral fee is based. In particular, Williams points to a sentence that excludes from Net Revenues “any profit generated by a proprietary trading desk of Wells Fargo as a result of trading in U.S. listed options.” J.A. 74. Williams asserts that it is “inconceivable that [the parties] would at once exclude proprietary trading profits and simultaneously allow proprietary trading to take place.” Appellant’s Br. at 37. This argument fails on multiple levels. To begin with, this provision excludes from Net Revenues only those profits “generated by a proprietary trading desk of Wells Fargo”—i.e., desks separate and distinct from the U.S. listed options trading desk created in connection with the Agreement. Moreover, paragraph 2 by its terms determines only how Williams’s referral fee is calculated, and does not purport to govern the new desk’s trading activities, including whether or not it could engage in proprietary trading. It is well established that “courts may not by construction add or excise terms, nor distort the meaning of those used and thereby make a new contract for the parties under the guise of interpreting the writing.” Vermont Teddy Bear Co. v. 538 Madison Realty Co., 1 N.Y.3d 470, 775 N.Y.S.2d 765, 807 N.E.2d 876, 879 (2004) (quoting Reiss v. Fin. Performance Corp., 97 N.Y.2d 195, 738 N.Y.S.2d 658, 764 N.E.2d 958, 961 (2001)).
+ 
+Finally, Williams argues that the district court’s rulings on Williams’s breach of fiduciary duty and breach of contract claims are in conflict. According to Williams, if the Agreement gave Wells Fargo unfettered discretion to use desk funds for proprietary trading, then Wells Fargo must have had a fiduciary duty to use that discretion responsibly; conversely, if Wells Fargo had no such duty, then the Agreement must have prohibited proprietary trading. But this argument again incorrectly assumes that the new desk’s funds were owned jointly rather than by Wells Fargo alone. No fiduciary duty arises from Wells Fargo’s control over its own funds. And to the extent Williams now believes that the lack of fiduciary duties exposed Williams to an unacceptable risk that Wells Fargo would engage in perilous proprietary trading, that position is not embodied in the parties’ unambiguous *37 written agreement. “Under New York law, ... a court must enforce [a contractual term’s] plain meaning, ‘[r]ather than rewrite an unambiguous agreement.’ ” Krumme v. WestPoint Stevens Inc., 238 F.3d 133, 139 (2d Cir.2000) (quoting American Express Bank Ltd. v. Uniroyal, 164 A.D.2d 275, 562 N.Y.S.2d 613, 614 (1st 1990)) (final alteration original).
+ 
+We have considered all of Williams’s remaining arguments and find them to be without merit. Accordingly, for the foregoing reasons, the judgment of the district court is AFFIRMED.
+ 
+All Citations
+553 Fed.Appx. 33
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

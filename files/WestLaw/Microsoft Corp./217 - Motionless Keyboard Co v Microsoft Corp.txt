@@ -1,0 +1,544 @@
+
+
+
+
+
+Motionless Keyboard Co. v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | May 29, 2007 | 486 F.3d 1376 | 2007 WL 1531401
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by Pronova Biopharma Norge AS v. Teva Pharmaceuticals USA, Inc., Fed.Cir.(Del.), September 12, 2013
+
+standard Citation:
+
+Motionless Keyboard Co. v. Microsoft Corp., 486 F.3d 1376 (Fed. Cir. 2007)
+
+All Citations:
+
+486 F.3d 1376, 82 U.S.P.Q.2d 1801
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Oregon
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by Pronova Biopharma Norge AS v. Teva Pharmaceuticals USA, Inc., Fed.Cir.(Del.), September 12, 2013
+486 F.3d 1376
+United States Court of Appeals,
+Federal Circuit.
+MOTIONLESS KEYBOARD COMPANY, Plaintiff–Appellant,
+v.
+MICROSOFT CORPORATION, Defendant–Appellee,
+and
+Nokia Inc., Defendant–Appellee,
+and
+Saitek Industries Ltd., Defendant–Appellee.
+No. 2005–1497.
+|
+May 29, 2007.
+Synopsis
+Background: Patent assignee sued manufacturers of game joysticks and cellular phones for infringement of patents directed to ergonomic keyboards. The United States District Court for the District of Oregon, Ann L. Aiken, J., 2005 WL 1113818,granted defendants’ motions for summary judgment of non-infringement and of invalidity for public use, but denied joystick manufacturer’s motion for summary judgment of anticipation. Assignee appealed.
+ 
+Holdings: The Court of Appeals, Rader, Circuit Judge, held that:
+ 
+[1] term “concavity” in patent directed to ergonomic keyboard designed for hand-held use required a bowl-like depression in the housing of the device;
+ 
+[2] accused gaming joysticks and cellular phones, which lacked a concavity in the housing and a keyboard within the cavity, did not literally infringe patent;
+ 
+[3] accused devices did not infringe, under doctrine of equivalents, patent claims directed to ergonomic keyboard designed for hand-held use; and
+ 
+[4] inventor’s disclosures and demonstrations were not “public use” that would give rise to statutory bar; and
+ 
+[5] inventor’s terminal disclaimer was not an admission that later-filed invention was obvious.
+ 
+Affirmed in part, reversed in part, and remanded.
+ 
+
+
+West Headnotes (15)
+
+
+[1]
+
+Federal CourtsSummary judgment
+Federal CourtsSummary judgment
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3604Judgment
+170Bk3604(4)Summary judgment
+(Formerly 170Bk766)
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)3Presumptions
+170Bk3675Summary judgment
+(Formerly 170Bk802)
+
+
+Court of Appeals reviews a district court’s grant of summary judgment without deference drawing all justifiable inferences in favor of the nonmovant.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5)
+
+
+Patent claim construction is a matter of law that the Federal Circuit reviews without deference.
+1 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsScope, Standard, and Extent of Review
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1966In general
+(Formerly 291k324.5)
+
+
+The meaning of the statutory terms “on sale” or “public use,” within patent statute’s bar on patenting of invention that was in public use or on sale in United States more than one year prior to date of patent application, is a question of law that the Federal Circuit reviews without deference. 35 U.S.C.A. § 102(b).
+8 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsDe novo review in general
+PatentsInfringement or noninfringement
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1967De novo review in general
+(Formerly 291k324.5)
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(15)Infringement or noninfringement
+(Formerly 291k324.5)
+
+
+In reviewing summary judgment rulings on patent infringement and invalidity, the Federal Circuit needs to determine de novo whether the evidence in the record raises any genuine disputes about material facts.
+2 Cases that cite this headnote
+
+
+
+[5]
+
+Federal Civil ProcedureMateriality and genuineness of fact issue
+Federal Civil ProcedureRight to judgment as matter of law
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)1In General
+170Ak2465Matters Affecting Right to Judgment
+170Ak2470.1Materiality and genuineness of fact issue
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(C)Summary Judgment
+170AXVII(C)1In General
+170Ak2465Matters Affecting Right to Judgment
+170Ak2470.4Right to judgment as matter of law
+
+
+On a summary judgment motion, an evidentiary dispute is genuine if a jury could decide the issue either way, and its verdict would survive a motion for judgment as a matter of law.
+6 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+(Formerly 291k101(2))
+
+
+Term “concavity” in patent directed to ergonomic keyboard designed for hand-held use required a bowl-like depression in the housing of the device, which had to be within the limits or area of the housing, or formed by or form a part of the housing.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsComputers and Software
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+(Formerly 291k238)
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1658Electricity and Electronics
+291k1661Radio and telecommunications equipment
+(Formerly 291k238)
+
+
+Accused gaming joysticks and cellular phones did not literally infringe patent directed to ergonomic keyboard designed for hand-held use, as they lacked a concavity in the housing and a keyboard within the cavity, as claimed in patent.
+Cases that cite this headnote
+
+
+
+[8]
+
+PatentsAffidavits or other evidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1936Affidavits or other evidence
+(Formerly 291k323.2(4))
+
+
+To avoid a grant of summary judgment of non-infringement by equivalents, a patentee must present particularized evidence and linking argument as to the insubstantiality of the differences between the claimed invention and the accused device, or with respect to the function, way, result test.
+20 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsAffidavits or other evidence
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1936Affidavits or other evidence
+(Formerly 291k323.2(4))
+
+
+On a motion for summary judgment of non-infringement by equivalents, a patentee has the burden to present particularized evidence that links the accused products to the patent on a limitation by limitation basis.
+19 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsElectricity and Electronics
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1658Electricity and Electronics
+291k1659In general
+(Formerly 291k237)
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1658Electricity and Electronics
+291k1661Radio and telecommunications equipment
+(Formerly 291k237)
+
+
+Accused gaming joysticks and cellular phones did not infringe, under doctrine of equivalents, patent claims directed to ergonomic keyboard designed for hand-held use, absent evidence that differences between claimed elements accused devices were insubstantial, or that the joysticks and phones performed substantially the same function in substantially the same way to obtain the same result.
+18 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsPublic use
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)5Prior Public Use or Sale
+291k631Particular Products or Processes
+291k633Public use
+(Formerly 291k75)
+
+
+Inventor’s disclosures and demonstrations to his business partner, potential investors, a friend, and a typing tester, which visually displayed claimed keyboard design without putting it into use, were not “public use,” under patent statute’s bar on patenting of invention that was in public use or on sale in United States more than one year prior to date of patent application; all disclosures, except for the one-time typing test, only provided a visual view of the new keyboard design without any disclosure of invention’s ability to translate finger movements into actuation of keys to transmit data. 35 U.S.C.A. § 102(b).
+12 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsAccessibility to public
+PatentsPersons making use or sale
+PatentsLimitation, restriction, or obligation of secrecy;  confidentiality
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)5Prior Public Use or Sale
+291k612What Constitutes Public Use
+291k614Accessibility to public
+(Formerly 291k75)
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)5Prior Public Use or Sale
+291k621Persons making use or sale
+(Formerly 291k75)
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)5Prior Public Use or Sale
+291k622Concealment of Use or Sale;  Secrecy
+291k624Limitation, restriction, or obligation of secrecy;  confidentiality
+(Formerly 291k75)
+
+
+“Public use,” under patent statute’s bar on patenting of invention that was in public use or on sale in United States more than one year prior to date of patent application, includes any public use of the claimed invention by a person other than the inventor who is under no limitation, restriction, or obligation of secrecy to the inventor. 35 U.S.C.A. § 102(b).
+17 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsTerminal disclaimer
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)2Disclaimers
+291k1198Terminal disclaimer
+(Formerly 291k155)
+
+
+Inventor’s filing a terminal disclaimer to make patent for later-filed ergonomic keyboard coterminous with prior patent was not an admission that the later-filed invention was obvious.
+3 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsTerminal disclaimer
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)2Disclaimers
+291k1198Terminal disclaimer
+(Formerly 291k155)
+
+
+A terminal disclaimer simply is not an admission that a later-filed invention is obvious.
+2 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 5,178,477, US Patent 5,332,322. Cited.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1378 James L. Buchal, Murphy & Buchal LLP, of Portland, OR, argued for plaintiff-appellant.
+J. Christopher Carraway, Klarquist Sparkman, LLP, of Portland, OR, argued for defendant-appellee, Microsoft Corporation. With him on the brief was Jared S. Goff. Of counsel on the brief was Stephen P. McGrath, Microsoft Corporation, of Redmond, WA.
+Kenneth R. Adamo, Jones Day, of Dallas, TX, argued for defendant-appellee, Nokia Inc. With him on the brief were Michael J. Newton and Daniel T. Conrad. Also on the brief was Lawrense D. Rosenberg, of Washington, DC.
+Joseph W. Price, Snell & Wilmer, L.L.P., of Costa Mesa, CA, argued for defendant-appellee, Saitek Industries Ltd.
+Before RADER, DYK, and MOORE, Circuit Judges.
+Opinion
+RADER, Circuit Judge.
+
+On summary judgment, the U.S. District Court for the District of Oregon determined that Microsoft Corporation (“Microsoft”); Nokia, Inc. (“Nokia”); and Saitek Industries, Ltd. (“Saitek”) did not infringe, literally or under the doctrine of equivalents, Motionless Keyboard Company’s (“MKC’s”) U.S. Patent Nos. 5,178,477 (the ′477 patent) and 5,332,322 (the ′322 patent). Motionless Keyboard Co. v. Microsoft Corp., No. Civ. 04–180–AA, 2005 WL 1113818 (D.Or. May 6, 2005). Also on summary judgment, the district court determined that the ′477 and ′322 patents were invalid based on public use under 35 U.S.C. § 102(b). The district court also found the ′322 patent invalid based on obviousness due to the patentee’s terminal disclaimer in light of the ′477 patent. Because the district court correctly construed the claim limitation “a concavity in said housing at said key actuation position, and a thumb-associable cluster of keys forming a keyboard within said concavity,” this court affirms the ruling of no infringement. Because the trial court misapplied the concept of public use and incorrectly found obviousness due to a terminal disclaimer, this court reverses its invalidity rulings.
+ 
+
+I
+MKC owns the ′477 and ′322 patents. The ′477 patent, entitled “Ergonomic Keyboard Input Device,” claims an ergonomic keyboard designed to accommodate the architecture of the human hand. According to the invention, the keyboard requires only slight finger gestures to actuate the keys. ′477 Patent Abstract. The ′322 patent, entitled “Ergonomic Thumb–Actuable Keyboard for Hand–Grippable Device,” issued as a continuation-in-part of the ′ 477 patent. This patent claims a hand-held device that frees the thumb to actuate the keys in multiple and differentiated ways. ′322 Patent Abstract.
+ 
+Thomas L. Gambaro is the sole inventor of both the ′477 and the ′322 patents. Mr. Gambaro invented the novel ergonomic keyboard technology on a part-time basis while also working in other jobs such as graphic artist and dishwasher. In fact, Mr. Gambaro developed some of the ergonomic keyboard technology while he lived in a friend’s attic. As an independent inventor, Mr. Gambaro developed his technology advances without the benefit of a well-funded laboratory and then traversed the patent system on a limited budget.
+ 
+During his inventive work, Mr. Gambaro developed different prototype models of his keyboard technology. Eventually, on February 22, 1987, Mr. Gambaro developed the Cherry Model 5. Motionless Keyboard, 2005 WL 1113818, at *26. Shortly *1379 after developing the Cherry Model 5, Mr. Gambaro entered into a business partnership with Mr. Keith Coulter. Thereafter, Mr. Gambaro and Mr. Coulter set out to gain financial support to further develop and patent the keyboard technology.
+ 
+Thus, Mr. Gambaro began to demonstrate the Cherry Model 5 to potential investors. He also demonstrated the device to a friend, Ms. Kathie Roberts. While the potential investors signed two-year non-disclosure agreements (NDAs), Ms. Roberts did not. Mr. Gambaro entered into some of the NDAs with potential investors in 1987, meaning those agreements expired in 1989. Id. at *26–27. Additionally, Mr. Gambaro disclosed the Cherry Model 5 to Ms. Sheila Lanier on June 25, 1990 to conduct typing tests. While Mr. Gambaro showed the Cherry Model 5 to his business partner, numerous potential investors, a friend and a typing tester, according to the record, only Ms. Lanier used the device to transmit data to a computer. In due course, Mr. Gambaro assigned both patents to MKC.
+ 
+MKC sued Microsoft, Nokia, and Saitek for infringement of the ′477 and ′ 322 patents in the U.S. District Court for the District of Oregon. Specifically, MKC alleged that Microsoft’s “Strategic Commander” game controller infringed claims 1, 2, 5, 6, and 8 of the ′477 patent. MKC also alleged that Microsoft’s “Sidewinder Precision 2,” “Sidewinder Force Feedback 2,” and various Saitek game joysticks infringed claims 1, 2, 3 and 5 of the ′ 322 patent. MKC alleged that Nokia phone models 3560, 3595, 6200, and 6820 infringed claims 1, 2, 3, and 4 of the ′322 patent.
+ 
+The parties filed cross-motions for summary judgment. MKC moved for summary judgment of infringement against all three defendants. The defendants collectively moved for summary judgment of invalidity of both patents based on public use under 35 U.S.C § 102(b). The District Court entered summary judgment construing the claims of the ′477 and ′322 patents. Based on its reading of the patents, the trial court found no infringement as a matter of law. In addition, the District Court invalidated the ′477 and ′322 patents based on public use under 35 U.S.C. § 102(b). The trial court also declared the ′322 patent invalid for obviousness in light of a terminal disclaimer.
+ 
+MKC appeals the invalidity ruling on the ′477 patent, but does not appeal the court’s claim construction for the ′477 patent. MKC appeals the District Court’s claim construction and infringement ruling on the ′322 patent. MKC also appeals the court’s invalidity rulings on the ′322 patent. This court has jurisdiction under 28 U.S.C. § 1291(a)(1).
+ 
+
+II
+[1] [2] [3] [4] [5] This court reviews a district court’s grant of summary judgment without deference drawing all justifiable inferences in favor of the nonmovant. Genentech, Inc. v. Amgen, Inc., 289 F.3d 761, 767 (Fed.Cir.2002). Claim construction is a matter of law that this court reviews without deference. Cybor Corp. v. FAS Techs., Inc., 138 F.3d 1448, 1456 (Fed.Cir.1998) (en banc); Markman v. Westview Instruments, Inc., 52 F.3d 967, 979 (Fed.Cir.1995), aff’d, 517 U.S. 370, 116 S.Ct. 1384, 134 L.Ed.2d 577 (1996). The meaning of the statutory terms “on sale” or “public use” within section 35 U.S.C. § 102(b) is a question of law that this court reviews without deference. Envirotech Corp. v. Westech Eng’g Inc., 904 F.2d 1571, 1574 (Fed.Cir.1990); Moleculon Research Corp. v. CBS, Inc., 793 F.2d 1261, 1266 (Fed.Cir.1986). In reviewing summary judgment rulings on infringement and invalidity, this court “need[s] to determine de novo whether the evidence in the record raises *1380 any genuine disputes about material facts. An evidentiary dispute is genuine if a jury could decide the issue either way, and its verdict would survive a motion for judgment as a matter of law.” General Elec. Co. v. Nintendo Co., Ltd., 179 F.3d 1350, 1353 (Fed.Cir.1999).
+ 
+
+III
+The district court’s determination of no infringement of the ′322 patent rested on claim construction. Claim 1 of the ′322 patent is the only independent claim and all the asserted claims contain the limitations of claim 1. Claim 1 of the ′322 patent shows the pertinent limitation in the context of the entire claim:
+1. A hand-held device for entering information into an electronic system via a keyboard, the device comprising:
+a housing having a grippable portion which permits the device to be held in one hand with the thumb free to move at least temporarily to a predetermined key-actuation position while the device is held,
+a concavity in said housing at said key-actuation position, and
+a thumb-associable cluster of keys forming a keyboard within said concavity, each of the plurality of keys in said cluster being selectively actuable via mixed lateral and slight endo, translation of a thumb within said concavity, whereby information is entered into an electronic system.
+′322 Patent col.8 ll.16–31 (emphases added). The district court construed “a concavity in said housing at said key-actuation position, and a thumb-associable cluster of keys forming a keyboard within said concavity” to mean “that the concavity must be formed by a depression in the housing of the device, and that all keys comprising the keyboard must be contained entirely within the concave area and sunk below the surface of the housing, so that the thumb movement occurs within the concave area.” Motionless Keyboard, 2005 WL 1113818, at *19.
+ 
+[6] On appeal, MKC argues that “a concavity in said housing at said key-actuation position, and a thumb-associable cluster of keys forming a keyboard within said concavity” means that the tops of the keys themselves can form the concavity. Thus, under MKC’s proposed construction of the claims, the keys or portions thereof themselves can form a concavity within the housing. MKC wants a broad construction of the concavity. Appellees, to the contrary, agree with the district court’s narrower construction.
+ 
+The claim language “a concavity in said housing at said key-actuation position, and a thumb-associable cluster of keys forming a keyboard within said concavity ” defines well the limitation. ′322 Patent col.8 ll.21–23 (emphases added). By using the terms “concavity in said housing” and “keyboard within said concavity,” the patentee defined a depression within the housing of the device and set the keyboard entirely within that depression. The district court correctly grasped and conveyed this meaning.
+ 
+The specification underscores the correctness of the trial court’s construction: a “keyboard is positioned in a concavity or depression in the housing.” ′322 Patent col.4 ll.58–59 (emphasis added). To confirm this reading, all keyboard renderings in Figures 1, 3–5, 7, and 8 in the ′322 patent show a concavity in the housing of the device with the keyboard totally within the concavity. ′322 Patent Fig. 1, 3–5, 7, and 8. Figure 4, for instance, shows the concavity:
+ 
+
+*1381 FIG. 4
+
+​
+′322 Patent Fig. 4. Thus, this court agrees with the district court’s claim construction of this limitation.
+ 
+[7] With respect to the infringement analysis, the accused Microsoft Sidewinder joysticks, the Saitek joysticks, and the Nokia cellular phones do not literally infringe the ′322 patent because the joysticks and cellular phones lack a concavity in the housing and a keyboard within the cavity. The Microsoft joysticks do not contain a concavity in a housing as shown by the side view of the top portion of a Sidewinder joystick. The Microsoft joysticks do not contain a concavity as construed as a depression in the housing. Furthermore and in addition to the lack of a concavity, the keys of the Microsoft joysticks extend beyond the limits of the devices (see figure below) and therefore the keys are not contained entirely within a concave area and thereby sunk below the surface of the housing.
+ 
+
+Side View of Top Portion of Microsoft Joystick
+
+​
+Therefore, the district court properly found summary judgment of no literal infringement.
+ 
+Similar to the Microsoft joysticks, the Saitek joysticks contain neither a concavity in a housing nor keys contained entirely within a concave area and thereby sunk below the surface of the housing. An example of two Saitek joysticks shows a lack of a concavity and a lack of keys sunk completely within the concavity and below the housing.
+ 
+
+*1382
+
+​
+Therefore, as with the Microsoft joysticks, the district court properly found summary judgment of no literal infringement.
+ 
+The accused Nokia phones have keys that are placed onto a flat surface with the keys protruding through an opening in the housing of each phone. While some of the phones contain keys with slight depressions, these keys do not constitute a concavity in the housing according to the ′322 patent. The following picture of an accused phone shows no concavity within the housing. In fact, the keys protrude through an opening in the housing.
+ 
+
+​
+Thus, because there were no genuine issues of material fact as to any of the Microsoft, Saitek or Nokia products, the district court properly found summary judgment of no literal infringement.
+ 
+[8] [9] As for infringement under the doctrine of equivalents, MKC only presented the district court with conclusory statements about equivalents. Motionless Keyboard, 2005 WL 1113818, at *13, *24. To avoid a grant of summary judgment of non-infringement by equivalents, the patentee must present “particularized evidence and linking argument as to the ‘insubstantiality of the differences’ between the claimed invention and the accused device, or with respect to the ‘function, way, result’ test.” *1383 PC Connector Solutions LLC v. SmartDisk Corp., 406 F.3d 1359, 1364 (Fed.Cir.2005) (citing Texas Instruments Inc. v. Cypress Semiconductor Corp., 90 F.3d 1558, 1567 (Fed.Cir.1996)). Thus, the patentee has the burden to present particularized evidence that links the accused products to the patent on a limitation by limitation basis. General Elec. v. Nintendo Co., 179 F.3d 1350, 1359 n. 5 (Fed.Cir.1999).
+ 
+[10] With respect to the accused joysticks, MKC contends that the patents, the joysticks, and the claim charts show substantial similarities of form, function, and result. Based on only the information in the claim charts, MKC contends that inputting data with the hand-held controller with the thumb translates to infringement under the doctrine of equivalents. However, as the district court properly noted, “[MKC] presents no evidence that the differences between the joysticks and the claimed elements are insubstantial, or that the joysticks perform ‘substantially the same function in substantially the same way to obtain the same result.’ ” Motionless Keyboard, 2005 WL 1113818, at *21 (citing Warner–Jenkinson Co. v. Hilton Davis Chem. Co., 520 U.S. 17, 39, 117 S.Ct. 1040, 137 L.Ed.2d 146 (1997)). Because MKC did not provide any particularized testimony to show infringement under the doctrine of equivalents, this court does not need determine the applicability of the limitations on the doctrine of equivalents.
+ 
+Similarly with the Nokia cellular phones, MKC does not provide any evidence that the accused phones perform substantially the same function in substantially the same way to obtain the same result. The keys on the Nokia phones do not permit thumb movement to actuate the keys within the concavity. While the patentee’s invention points to actuation of the keys by thumb movement within the concavity, a user would actuate the Nokia keys by pressing them downward. In other words, the invention and the Nokia phone actuate the keys in different ways. As MKC did not provide any particularized testimony to specifically show that the keys work in the same way, the trial court properly granted summary judgment of non-infringement under the doctrine of equivalents.
+ 
+
+IV
+MKC appeals the district court grant of summary judgment that the ′477 and ′ 322 patents are invalid for public use under 35 U.S.C. § 102(b):
+A person shall be entitled to a patent unless—
+(b) the invention was patented or described in a printed publication in this or a foreign country or in public use or on sale in this country, more than one year prior to the date of the application for patent in the United States.
+35 U.S.C. § 102(b) (emphasis added). Because the applicant filed the ′ 477 patent on June 6, 1991, the critical date for the invalidity analysis is June 6, 1990. The critical date for the ′322 patent is January 11, 1992. To sustain the invalidity determination, the record must show that an embodiment of the patented invention was in public use as defined by the statute before the critical date.
+ 
+[11] The district court found that MKC admitted that the Cherry Model 5 embodied the ′477 patent and the ′322 patent as of February 22, 1987. Even assuming that MKC admitted that the Cherry Model 5 embodied each claim of the ′477 and ′322 patents—a question this court need not decide—this court concludes that there was no “public use” under 35 U.S.C. § 102(b). Therefore, the district court’s grant of summary judgment of invalidity for public use was improper.
+ 
+The record shows that the inventor disclosed the Cherry Model 5 to his business *1384 partner, potential investors, a friend, and a typing tester before the critical date. While the potential investors signed NDAs, some of the NDAs expired in 1989—again prior to the critical dates for each patent. Thus, this court must examine, in the context of the district court’s summary judgment ruling of invalidity, whether these disclosures and demonstrations were public uses within the meaning of the statutory bar.
+ 
+[12] Public use includes “any [public] use of [the claimed] invention by a person other than the inventor who is under no limitation, restriction or obligation of secrecy to the inventor.” In re Smith, 714 F.2d 1127, 1134 (Fed.Cir.1983) (citing Egbert v. Lippmann, 104 U.S. 333, 336, 26 L.Ed. 755 (1881)). In Pfaff v. Wells Elecs., Inc., the Supreme Court noted that both the “on sale” and “public use” bars were based on the same policy considerations. Pfaff v. Wells Elecs., Inc., 525 U.S. 55, 64, 119 S.Ct. 304, 142 L.Ed.2d 261 (1998). Specifically, “[t]he [Supreme] Court noted that both the on sale and public use bars of § 102(b) stem from the same ‘reluctance to allow an inventor to remove existing knowledge from public use.’ ” Invitrogen Corp. v. Biocrest Mfg., L.P., 424 F.3d 1374, 1379 (Fed.Cir.2005) (internal quote from Pfaff, 525 U.S. at 64, 119 S.Ct. 304).
+ 
+The district court found that Mr. Gambaro had disclosed the Cherry Model 5 to potential investors in order to obtain capital. As such, the district court reasoned that these disclosures showed the invention entered the public domain prior to the critical date because Mr. Gambaro’s business partner was under no obligation to keep the Cherry Model 5 secret. Motionless Keyboard, 2005 WL 1113818, at *28. Further, the disclosures to potential investors showed that Mr. Gambaro attempted to obtain capital to develop his invention. Id. The district court found the NDAs inconsequential because “a confidentiality agreement will not preclude application of the public use doctrine, if the device was disclosed for commercial purposes.” Id. (citing Kinzenbaw v. Deere & Co., 741 F.2d 383, 390 (Fed.Cir.1984)). MKC admits to a series of limited disclosures to potential investors to raise capital to develop the invention and prosecute the patent application. However, MKC further contends that the disclosures did not involve the Cherry Model 5 or its use as claimed in the ′477 or ′322 patents.
+ 
+“The classical standard for assessing the public nature of a use was established in [Egbert v. Lippman, 104 U.S. 333, 26 L.Ed. 755 (1881) ]. In Egbert, the inventor of a corset spring gave two samples of the invention to a lady friend, who used them for more than two years before the inventor applied for a patent.” Invitrogen, 424 F.3d at 1382. Although the inventor in Egbert did not obtain any commercial advantage, the Court determined that the invention had been used for its intended purpose for over a decade without limitation or confidentiality requirements. Thus, even though not in public view, the invention was in public use. Id. In Electric Storage Battery Co. v. Shimadzu, 307 U.S. 5, 59 S.Ct. 675, 83 L.Ed. 1071 (1939), the Court found “the ordinary use of a machine or the practice of a process in a factory in the usual course of producing articles for commercial purposes is a public use.” Id. at 20, 59 S.Ct. 675. On the other hand, in TP Laboratories, Inc. v. Professional Positioners, Inc., 724 F.2d 965 (Fed.Cir.1984), this court found that premature installation of an inventive orthodontic appliance in several patients without a written confidentiality agreement was not a public use due to the expectation of confidentiality inherent in the dentist-patient relationship. This case *1385 again presents the question of the meaning of public use under 35 U.S.C. § 102(b).
+ 
+In this case, Mr. Gambaro disclosed his Cherry Model 5 to his business partner, a friend, potential investors, and a typing tester (Ms. Lanier). In all these disclosures, except in the case of Ms. Lanier, however, the Cherry Model 5 was not connected to a computer or any other device. In the case of Ms. Lanier, the Cherry Model 5 was used to conduct typing tests on July 25, 1990, and thereby connected to a computer for its intended purpose. With respect to the ′477 patent, the typing test occurred after the critical date of June 6, 1990. With respect to the ′322 patent, Ms. Lanier appears to have performed a one-time typing test to assess typing speed. The typing test by Ms. Lanier was allegedly performed on July 25, 1990 and, according to a synopsis of NDAs in the record, Ms. Lanier signed an NDA on the same day. The critical date for the ′322 patent is January 11, 1992. In this case, the one time typing test coupled with a signed NDA and no record of continued use of the Cherry Model 5 by Ms. Lanier after July 25, 1990 did not elevate to the level of public use. Thus, the Cherry Model 5 was never in public use. All disclosures, except for the one-time typing test, only provided a visual view of the new keyboard design without any disclosure of the Cherry Model 5’s ability to translate finger movements into actuation of keys to transmit data. In essence, these disclosures visually displayed the keyboard design without putting it into use. In short, the Cherry Model 5 was not in public use as the term is used in section 102(b) because the device, although visually disclosed and only tested one time with a NDA signed by the typing tester, was never connected to be used in the normal course of business to enter data into a system.
+ 
+Unlike the situations in Egbert and Electric Storage Battery, where the inventions were used for their intended purpose, neither the inventor nor anyone else ever used the Cherry Model 5 to transmit data in the normal course of business. The entry of data did not ever occur outside of testing and the tester signed an NDA. The Cherry Model 5 was not used in public, for its intended purpose, nor was the Cherry Model 5 ever given to anyone for such public use. Thus, the disclosures in this record do not rise to the level of public use.
+ 
+[13] [14] On another issue, the district court determined that Mr. Gambaro had admitted that the ′322 patent was invalid for obviousness by filing a terminal disclaimer to make the ′322 coterminous with the ′477 patent. The district court reasoned that this filing conceded that the ′322 patent was obvious in light of the ′477 patent. Motionless Keyboard, 2005 WL 1113818, at *29. A terminal disclaimer simply is not an admission that a later-filed invention is obvious. Quad Envtl. Tech. Corp. v. Union Sanitary Dist., 946 F.2d 870, 874 (Fed.Cir.1991). Thus, the trial court erred on this point and the ′322 patent is not invalid due to obviousness.
+ 
+
+V
+This court affirms the district court’s claim construction and the summary judgment of no infringement. However, this court reverses the district court’s summary judgment ruling of invalidity of the ′477 and ′322 patents. This court also reverses the district court’s finding that the ′322 patent is invalid for obviousness due to patentee’s terminal disclaimer.
+ 
+
+COSTS
+Each party shall bear its own costs.
+ 
+*1386 AFFIRMED–IN–PART and REVERSED–IN–PART.
+ 
+All Citations
+486 F.3d 1376, 82 U.S.P.Q.2d 1801
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,149 @@
+
+
+ 
+
+
+Del Gallego v. Wells Fargo & Company Long Term Disability Plan
+United States Court of Appeals, Ninth Circuit. | February 16, 2017 | 679 Fed.Appx. 547 | 2017 WL 631690
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Del Gallego v. Wells Fargo & Co. Long Term Disability Plan, 679 F. App’x 547 (9th Cir. 2017)
+
+All Citations:
+
+679 Fed.Appx. 547, 82 Cal. Comp. Cases 205
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:26 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+679 Fed.Appx. 547
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+John DEL GALLEGO, Plaintiff-Appellant,
+v.
+WELLS FARGO & COMPANY LONG TERM DISABILITY PLAN; Metropolitan Life Insurance Company, Defendants-Appellees.
+No. 15-15294
+|
+Submitted February 14, 2017* San Francisco, California
+|
+Filed February 16, 2017
+Synopsis
+Background: Beneficiary brought action under Employee Retirement Income Security Act (ERISA) against long-term disability plan and plan’s claims administrator, alleging that they improperly offset beneficiary’s permanent partial disability workers’ compensation benefits against his plan long-term disability benefits. The United States District Court for the Northern District of California, No. 3:13-cv-04518-VC, Vince G. Chhabria, J., 2015 WL 349111, granted summary judgment to defendants. Beneficiary appealed.
+ 
+[Holding:] The Court of Appeals held that plan and administrator did not violate ERISA.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+InsuranceCredits, deductions and offsets
+Labor and EmploymentDeductions and offsets;  coordination of benefits
+
+
+217Insurance
+217XXCoverage--Health and Accident Insurance
+217XX(C)Disability Insurance
+217k2567Amounts Payable
+217k2571Credits, deductions and offsets
+231HLabor and Employment
+231HVIIPension and Benefit Plans
+231HVII(H)Coverage and Benefits of Particular Types of Plans
+231Hk570Disability Plans
+231Hk574Amount of Benefits
+231Hk574(2)Deductions and offsets;  coordination of benefits
+
+
+Long-term disability plan and plan’s claims administrator did not violate ERISA by reducing beneficiary’s long-term disability benefits under plan by amount of permanent partial disability workers’ compensation benefits he received; plan documents provided that long-term disability benefits were “reduced by Other Income Benefits,” defined “Other Income Benefits” to include “Workers’ Compensation or a Similar Law,” and stated that “[p]eriodic benefits and substitutes and exchanges for periodic benefits will be counted.” Employee Retirement Income Security Act of 1974, § 2 et seq., 29 U.S.C.A. § 1001 et seq.
+Cases that cite this headnote
+
+
+
+Appeal from the United States District Court for the Northern District of California, Vince G. Chhabria, District Judge, Presiding, D.C. No. 3:13-cv-04518-VC
+Attorneys and Law Firms
+Laurence F. Padway, Attorney, Law Offices of Laurence F. Padway, Alameda, CA, for Plaintiff-Appellant
+Rebecca Ann Hull, Attorney, Sedgwick LLP, San Francisco, CA, for Defendants-Appellees
+Before: SILER,**TASHIMA, and HURWITZ, Circuit Judges.
+
+
+*548 MEMORANDUM***
+In this ERISA action, John Del Gallego alleges that the Wells Fargo & Company Long Term Disability Plan (the “Plan”) and the Plan insurer, Metropolitan Life Insurance Company (“MetLife”), improperly offset Del Gallego’s permanent partial disability workers’ compensation (“PPD”) benefits against his Plan long-term disability benefits. The district court granted summary judgment to the Plan and MetLife. We affirm.
+ 
+1. The Plan, which incorporates a group Certificate of Insurance issued by MetLife, provides that long-term disability benefits are “reduced by Other Income Benefits.” The Plan definition of “Other Income Benefits” includes “Workers’ Compensation or a Similar Law,” and states that “[p]eriodic benefits and substitutes and exchanges for periodic benefits will be counted.”
+ 
+2. Courts interpret ERISA policy terms in the “ordinary and popular sense as would a person of average intelligence and experience.” Babikian v. Paul Revere Life Ins. Co., 63 F.3d 837, 840 (9th Cir. 1995) (quoting Evans v. Safeco Life Ins. Co., 916 F.2d 1437, 1441 (9th Cir. 1990)). The plain language of the Plan provides that a covered employee’s long-term disability benefits will be reduced by periodic workers’ compensation benefits received by the employee, and the district court therefore did not err in interpreting the Plan.
+ 
+3. Del Gallego argues that “other income benefits” are only those paid to compensate for lost wages, and therefore include only temporary disability payments. But, the case upon which Del Gallego relies, Russell v. Bankers Life Co., 46 Cal.App.3d 405, 120 Cal.Rptr. 627 (1975), involved an insurance contract defining “income from other sources” as “any payment ... under a Workmen’s Compensation Act ... providing benefits for loss of time from employment.” Id. at 629-630, 633-34. Because the Plan does not limit “Other Income Benefits” to those providing benefits for loss of time from employment, Russell is inapposite.
+ 
+4. Del Gallego argues that because the Plan requires proof of “the amount attributable to lost income” when an employee receives “Other Income Benefits in a lump sum instead of in monthly payments,” reductions must be limited to the portion of the lump sum payment attributable to lost income. But, the provision he cites only applies to lump sum payments, not to periodic benefits, and the Plan did not set off the lump sum workers’ compensation settlement that Del Gallego received against his Plan benefits.
+ 
+5. Del Gallego also argues that the phrase “workers’ compensation” is ambiguous because a reasonable person would not anticipate that payments “intended to provide for the future of the injured worker” would be offset from disability insurance benefits. But, the language of the Plan unambiguously covers all workers’ compensation benefits. See Ott v. Workers’ Comp. Appeals Bd., 118 Cal.App.3d 912, 173 Cal.Rptr. 648, 650-51 (1981) (finding no ambiguity when Plan stated “payments required by Workmen’s Compensation Laws” offset Plan benefits); see also Peterson v. Am. Life & Health Ins. Co., 48 F.3d 404, 411-12 (9th Cir. 1995) (rejecting application of reasonable expectations doctrine when insurance policy was “unambiguous and conspicuous”).
+ 
+*549 6. Del Gallego argues that, even if his weekly PPD benefits were for loss of future earning capacity, these payments are not “income.” This argument is at odds with precedent, see Jones & Laughlin Steel Corp v. Pfeifer, 462 U.S. 523, 533, 103 S.Ct. 2541, 76 L.Ed.2d 768 (1983) (describing impaired earning capacity as “diminution in ... stream of income”), and the Plan language, which defines workers’ compensation benefits as “Other Income.”
+ 
+7. Del Gallego argues that the term “periodic benefits” is facially ambiguous. To the contrary, a “person of average intelligence and experience,” Babikian, 63 F.3d at 840 (quoting Evans, 916 F.2d at 1441), would understand “periodic benefits” to include benefits paid in weekly increments. See Periodic, MERRIAM-WEBSTER.COM (defining “periodic” as “occurring or recurring at regular intervals”). And, because the Plan has specific language separately exempting lump sum payments from the setoff, it is not possible to interpret “periodic payments” as including a lump sum payment.
+ 
+AFFIRMED.
+ 
+All Citations
+679 Fed.Appx. 547, 82 Cal. Comp. Cases 205
+Footnotes
+
+*
+
+The panel unanimously concludes this case is suitable for decision without oral argument. See Fed. R. App. P. 34(a)(2).
+
+**
+
+The Honorable Eugene E. Siler, Circuit Judge for the U.S. Court of Appeals for the Sixth Circuit, sitting by designation.
+
+***
+
+This disposition is not appropriate for publication and is not precedent except as provided by Ninth Circuit Rule 36–3.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

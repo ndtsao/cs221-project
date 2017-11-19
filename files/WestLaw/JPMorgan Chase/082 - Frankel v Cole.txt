@@ -1,0 +1,142 @@
+
+
+ 
+
+
+Frankel v. Cole
+United States Court of Appeals, Second Circuit. | March 4, 2009 | 313 Fed.Appx. 418 | 2009 WL 578585
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Frankel v. Cole, 313 F. App’x 418 (2d Cir. 2009)
+
+All Citations:
+
+313 Fed.Appx. 418, 2009 WL 578585, RICO Bus.Disp.Guide 11,683
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:55 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+313 Fed.Appx. 418
+This case was not selected for publication in the Federal Reporter.
+United States Court of Appeals,
+Second Circuit.
+Larry S. FRANKEL, Lillian Cowan, Barbara Brown, Bernard Gelb* and Unclaimed Property Recovery Service, Inc.*, Plaintiffs–Appellants,
+v.
+James B. COLE, Joseph Sclafani, Joseph Lifrieri, William J. Moran, William H. McDavid, James W. Zeigon, Barry Macklin, Robert MacCallister, E. Van Valen, C. Braun, J.P. Morgan Chase & Co., Chase Manhattan Bank, N.A., Chase Manhattan Corporation, Chase Bank of Texas, N.A. and Chase Securities Processing Corporation, Defendants–Appellees.
+No. 07–4299–cv.
+|
+March 4, 2009.
+Synopsis
+Background: Investors brought civil action under the Racketeer Influenced and Corrupt Organizations Act (RICO), arising out of nonpayment of bonds that they had purchased, and the United States District Court for the Eastern District of New York, Amon, J., granted defendant’s motion to dismiss cause of action as time-barred.
+ 
+Holding: The Court of Appeals held that civil RICO action could not be dismissed at pleading stage, as allegedly filed outside relevant four-year statute of limitations, when it was unclear from face of complaint when investors first sustained or discovered their injury.
+ 
+Vacated and remanded.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+Federal Civil ProcedureFact Issues
+
+
+170AFederal Civil Procedure
+170AXIDismissal
+170AXI(B)Involuntary Dismissal
+170AXI(B)5Proceedings
+170Ak1827Determination
+170Ak1831Fact Issues
+
+
+Civil action under the Racketeer Influenced and Corrupt Organizations Act (RICO) could not be dismissed at pleading stage, as allegedly filed outside relevant four-year statute of limitations, where it was unclear from face of complaint when investors first sustained injury as result of nonpayment of bonds, when bonds matured or were called, when bank stopped mailing interest payments to their accounts, or when bank failed to pay them for their matured or called bonds even after request for payment was made, nor could court determine, based on allegations on face of complaint, when investors first discovered or should have discovered their injuries. 18 U.S.C.A. § 1964(c).
+8 Cases that cite this headnote
+
+
+
+*419 Appeal from the United States District Court for the Eastern District of New York (Amon, J.).
+ON CONSIDERATION WHEREOF, it is hereby ORDERED, ADJUDGED, and DECREED that the judgment of the district court entered September 13, 2007, is VACATED and the case REMANDED for further proceedings consistent with this order.
+Attorneys and Law Firms
+Norman A. Kaplan, Great Neck, NY, for Plaintiffs–Appellants.
+Paul C. Curnin (David Elbaum, on the brief), Simpson Thacher & Bartlett LLP, New York, NY, for Defendant–Appellee.
+Present: Hon. AMALYA L. KEARSE, Hon. ROBERT A. KATZMANN, Circuit Judges, and Hon. DENNY CHIN, District Judge.1
+
+
+SUMMARY ORDER
+**1 Plaintiffs Larry Frankel, Lillian Cowan, and Barbara Brown appeal from the judgment of the district court entered September 13, 2007, 2007 WL 2683673, granting defendants’ motion to dismiss claims brought under the Racketeer Influenced and Corrupt Organizations Act (“RICO”), 18 U.S.C. §§ 1962(c) and (d), as time-barred, and declining to exercise supplemental jurisdiction over the state law claims. We assume the parties’ familiarity with the facts, procedural history, and specification of issues on appeal.
+ 
+The statute of limitations for a civil RICO claim under 18 U.S.C. § 1964(c) is four years. Agency Holding Corp. v. Malley–Duff & Assocs., 483 U.S. 143, 156, 107 S.Ct. 2759, 97 L.Ed.2d 121 (1987). “The limitations period begins to run when the plaintiff discovers or should have discovered the RICO injury.” In re Merrill Lynch Ltd. P’ships Litig., 154 F.3d 56, 58 (2d Cir.1998) (per curiam) (“Merrill Lynch”). The first step in the statute of limitations analysis is to determine when plaintiffs sustained the alleged injury for which they seek redress. Id. at 59. The second step is to determine when plaintiffs discovered or should have discovered that injury. The four-year statute of limitations begins to run at that time. Id. This is because:
+[18 U.S.C. § 1964(c)] provides that only a “person injured in his business or property by reason of a violation of section 1962” may bring a civil RICO action. Thus, a civil plaintiff must prove not only that the acts of defendant constitute a RICO violation, but also that plaintiff suffered injury as a result of that violation. Until such injury occurs, there is no right to sue for damages under § 1964(c), and until there is a right to sue under § 1964(c), a civil RICO action cannot be held to have accrued....
+....
+... [In other words,] congress tied the right to sue for damages under § 1964(c), not to the time of the defendant’s RICO violation, but to the time when plaintiff suffers injury to “his business or property” from the violation. Consequently, a plaintiff’s action accrues against a defendant for a specific injury on the date that plaintiff discovers or should have discovered that injury.
+Bankers Trust Co. v. Rhoades, 859 F.2d 1096, 1102–03 (2d Cir.1988) (internal citations omitted).
+ 
+The statute of limitations is triggered when plaintiffs discover or should have discovered their RICO injury, not when *420 they discover or should have discovered the underlying pattern of racketeering activity, even if the pattern of racketeering activity includes fraud. See Rotella v. Wood, 528 U.S. 549, 554, 557, 120 S.Ct. 1075, 145 L.Ed.2d 1047 (2000). As the Fifth Circuit explained,
+Because the RICO statute requires a showing of “injury”, 18 U.S.C. § 1964(c), and the injury discovery rule calculates accrual from the discovery of that injury, accrual of a civil RICO claim is delayed until the plaintiff is aware, or should have been aware, of the injury.
+**2 To the extent that the district court’s opinion could be interpreted as holding that [plaintiff’s] civil RICO claims accrued when it became aware in 1991 of Appellees’ allegedly fraudulent conduct, such a conclusion would be erroneous, because, again, under the injury discovery rule, the claims did not accrue until [plaintiff] knew, or should have known, that it suffered an injury caused by that allegedly fraudulent conduct.
+Love v. Nat’l Med. Enters., 230 F.3d 765, 777 (5th Cir.2000).
+ 
+In this case, it is not clear from the face of the complaint when plaintiffs Frankel, Cowan, and Brown sustained the alleged injuries for which they seek redress or when they discovered those injuries. Nor did the district court’s opinion discuss the timing of plaintiffs’ alleged injuries or when they discovered or should have discovered those injuries. At oral argument, counsel for the parties variously suggested that plaintiffs suffered injury: (1) when their bonds matured or were called in 1992 and 1995; (2) when Chase stopped mailing interest payments to their accounts; or (3) when Chase failed to pay them for their matured or called bonds even after a request for payment was made in November 2002.2 In our view, the complaint does not allege that Chase had a duty to pay plaintiffs when their bonds matured or were called in 1992 and 1995, rather, it alleges that when a bond has matured or been called, Chase has a duty to ‘pay upon presentation of the certificate’ (Complaint ¶ 259). Nor does the complaint indicate when, if ever, Chase ceased remitting interest payments to plaintiffs. However, we leave it to the district court on remand to determine what injuries, if any, have been properly pleaded, when those injuries occurred and when they were or should have been discovered, and whether the RICO claims are therefore time-barred.
+ 
+We do not reach Magistrate Judge Reyes’ alternative recommendation that the complaint be dismissed for failure to state a claim on which relief can be granted, as the district court has not yet ruled on that branch of defendants’ motion to dismiss.
+ 
+Therefore, we VACATE the judgment of the district court as to plaintiffs Frankel, Cowan, and Brown and REMAND for further proceedings consistent with this order.
+ 
+All Citations
+313 Fed.Appx. 418, 2009 WL 578585, RICO Bus.Disp.Guide 11,683
+Footnotes
+
+*
+
+Appellants Bernard Gelb and Unclaimed Property Recovery Services, Inc. have withdrawn from the appeal. See Order filed April 9, 2008.
+
+1
+
+The Honorable Denny Chin, of the United States District Court for the Southern District of New York, sitting by designation.
+
+2
+
+From the face of the complaint, plaintiffs did not suffer injuries when they initially purchased the bonds from the City of New York, as there is no allegation that the bonds were fraudulent when purchased. C.f. Merrill Lynch, 154 F.3d at 58 (injury sustained at time of investment in limited partnership because complaint alleged that partnerships were fraudulent at the outset). At oral argument, counsel for defendants indicated that plaintiffs suffered injury when Chase informed them, in 1998, that it was unable to proceed with payment because it was unable to locate their bonds in its database. However, the complaint includes no such allegation as to plaintiffs Frankel, Cowan, or Brown, and Messrs. David Schwartz, Lloyd Lateiner, Sheldon Bailey, and Samuel Sklar are not parties to this litigation. See Joint Appendix at 149–50.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

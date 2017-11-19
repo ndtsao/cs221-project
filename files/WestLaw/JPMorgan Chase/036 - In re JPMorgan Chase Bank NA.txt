@@ -1,0 +1,313 @@
+
+
+ 
+
+
+In re JPMorgan Chase Bank, N.A.
+United States Court of Appeals, First Circuit. | August 21, 2015 | 799 F.3d 36 | 2015 WL 4979594
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+In re JPMorgan Chase Bank, N.A., 799 F.3d 36 (1st Cir. 2015)
+
+All Citations:
+
+799 F.3d 36
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Massachusetts
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+799 F.3d 36
+United States Court of Appeals,
+First Circuit.
+In re JPMORGAN CHASE BANK, N.A., Petitioner.
+No. 14–8015.
+|
+Aug. 21, 2015.
+Synopsis
+Background: Victims of a Ponzi scheme brought claims sounding in fraud, deceit, and conversion against bank, claiming that bank failed to detect and stop the Ponzi scheme. The United States District Court for the District of Massachusetts, Judith G. Dein, United States Magistrate Judge, determined that certain bank documents were not shielded from discovery and litigation under the Bank Secrecy Act. Bank petitioned for writ of mandamus.
+ 
+Holdings: The Court of Appeals, Howard, Chief Judge, held that:
+ 
+[1] the documents were outside the scope of the Bank Secrecy Act’s disclosure limitations, and
+ 
+[2] the Court would not sanction counsel for noncompliance with the seal order.
+ 
+Petition denied.
+ 
+
+
+West Headnotes (7)
+
+
+[1]
+
+MandamusNature and scope of remedy in general
+MandamusNature and existence of rights to be protected or enforced
+
+
+250Mandamus
+250INature and Grounds in General
+250k1Nature and scope of remedy in general
+250Mandamus
+250INature and Grounds in General
+250k10Nature and existence of rights to be protected or enforced
+
+
+A petitioner seeking mandamus must show both that there is a clear entitlement to the relief requested, and that irreparable harm will likely occur if the writ is withheld.
+Cases that cite this headnote
+
+
+
+[2]
+
+MandamusNature and scope of remedy in general
+
+
+250Mandamus
+250INature and Grounds in General
+250k1Nature and scope of remedy in general
+
+
+The alleged error to which a petitioner points must be palpable to warrant grant of a writ of mandamus.
+Cases that cite this headnote
+
+
+
+[3]
+
+MandamusRemedy by Appeal or Writ of Error
+
+
+250Mandamus
+250INature and Grounds in General
+250k4Remedy by Appeal or Writ of Error
+250k4(1)In general
+
+
+An extraordinary writ, such as a writ of mandamus, may not be used as a substitute for an appeal and will not lie if an appeal is an available remedy.
+Cases that cite this headnote
+
+
+
+[4]
+
+Administrative Law and ProcedurePermissible or reasonable construction
+
+
+15AAdministrative Law and Procedure
+15AIVPowers and Proceedings of Administrative Agencies, Officers and Agents
+15AIV(C)Rules, Regulations, and Other Policymaking
+15Ak428Administrative Construction of Statutes
+15Ak433Permissible or reasonable construction
+
+
+Where Congress has spoken with specificity, an agency may not promulgate regulations that are an attempted addition to the statute of something which is not there, even if the intent behind the attempted addition is consistent with the intent behind the authorizing statute.
+Cases that cite this headnote
+
+
+
+[5]
+
+Administrative Law and ProcedureConstruction
+StatutesDictionaries
+
+
+15AAdministrative Law and Procedure
+15AIVPowers and Proceedings of Administrative Agencies, Officers and Agents
+15AIV(C)Rules, Regulations, and Other Policymaking
+15Ak412Construction
+15Ak412.1In general
+361Statutes
+361IIIConstruction
+361III(F)Extrinsic Aids to Construction
+361k1179Treatises and Reference Works
+361k1181Dictionaries
+
+
+Dictionaries of the English language are a fundamental tool in ascertaining the plain meaning of terms used in statutes and regulations.
+Cases that cite this headnote
+
+
+
+[6]
+
+Banks and BankingDepositors’ passbooks and accounts
+Privileged Communications and ConfidentialityBank and customer;  bank records
+
+
+52Banks and Banking
+52IIIFunctions and Dealings
+52III(C)Deposits
+52k151Depositors’ passbooks and accounts
+311HPrivileged Communications and Confidentiality
+311HVIIOther Privileges
+311Hk407Bank and customer;  bank records
+
+
+Even assuming that the Bank Secrecy Act’s disclosure limitations applied to a third-party receiver and applied to documents already publicly disclosed, the disclosure limitations did not shield certain bank documents from discovery and litigation in Ponzi scheme victims’ action against a bank for failing to detect and stop the Ponzi scheme, where the documents consisted of lists and descriptions of transactions, which were expressly exempt from the disclosure limitation, and the remaining non-transactional documents did not reflect the decision-making process as to whether a suspicious activity report (SAR) should be filed, the process of preparing a SAR, or an attempt to explain the content of a SAR post-filing. 31 U.S.C.A. § 5318(g); 12 C.F.R. § 21.11(k)(1)(ii)(A)(2).
+6 Cases that cite this headnote
+
+
+
+[7]
+
+Federal Civil ProcedureViolation of court orders
+
+
+170AFederal Civil Procedure
+170AXXSanctions
+170AXX(B)Grounds for Imposition
+170Ak2793Violation of court orders
+
+
+The Court of Appeals, in mandamus proceedings, would not sanction counsel for victims of a Ponzi scheme for twice failing to comply with orders placing certain bank documents under seal, in action against bank for allegedly failing to detect and stop the Ponzi scheme, where each instance of non-compliance was remedied promptly, and counsel accounted for any lapses.
+1 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*37 Beth I.Z. Boland, with whom Michael Thompson, Stephen J. Quinlan, Rachel M. Blise and Foley & Lardner LLP were on brief, for petitioner.
+Keith L. Miller for respondent.
+Before HOWARD, Chief Judge, THOMPSON and KAYATTA, Circuit Judges.
+Opinion
+HOWARD, Chief Judge.
+
+JPMorgan Chase Bank, N.A. (hereinafter, “Chase”) initiated this mandamus proceeding, asking the court to intervene in what essentially is a discovery dispute. Before the district court, Chase unsuccessfully argued that fifty-five pages of Chase records were shielded from production or use in the underlying putative class action per a provision of the Bank Secrecy Act, 31 U.S.C. § 5318(g) (hereinafter, “the Act”), and related regulations. As explained below, there are significant reasons to doubt that the Act and related regulations apply at all to the unique facts of this case. Moreover, even assuming that the Act and regulations apply and that the protections emanating therefrom extend as far as Chase suggests, the documents disputed here would not be shielded from discovery or use in litigation. Accordingly, Chase has not demonstrated a clear entitlement to the relief it seeks, and the petition for writ of mandamus will be denied.
+ 
+
+I.
+An abbreviated version of the relevant facts will suffice for current purposes. Through a convoluted course of events that need not be described here, counsel for the name plaintiffs in the underlying putative class action obtained a sizable collection of Chase records from the receiver. Counsel and the name plaintiffs wished to rely on the documents in order to pursue various claims sounding in fraud, deceit, and conversion against Chase. The name plaintiffs alleged that a customer had used his accounts with Chase and a predecessor bank acquired by Chase to operate a Ponzi scheme that the banks had failed to detect and stop. A dispute arose as to whether *38 portions of the Chase records were shielded from discovery and litigation use under the Act and related regulations. The Director of the Litigation Division for the Office of the Comptroller of the Currency (“OCC”) and the Financial Crimes Enforcement Network (“FinCEN”) were notified of the dispute as required by 12 C.F.R. § 21.11(k)(1)(i). The OCC declined to intervene in the matter and expressed support for the district court’s plan to conduct in camera review of the disputed documents. Both agencies declined to review the specific documents disputed in this case. The OCC eventually did file an amicus brief in the district court, offering a general overview of relevant legal principles but making clear that the documents at issue in this case had not been reviewed.
+ 
+After much legal wrangling, a magistrate judge adjudicating the action by consent ultimately reviewed all the disputed documents in camera and concluded that the vast majority of the documents were not shielded by statute or regulation, leaving the name plaintiffs free to rely upon all but a small sliver of the Chase records in counsel’s possession. The district court rejected Chase’s request that the ruling be certified for review via interlocutory appeal. Chase then initiated this mandamus proceeding, asking the court to intervene by declaring that the Act and related regulations shield an additional fifty-five pages of records from evidentiary or other use in the putative class action.1 Seizing upon language from prior cases, Chase characterizes those fifty-five pages as “Evaluative Documents” and claims that the documents are protected because they were prepared for purposes of determining Chase’s obligations under the Act and related regulations to report certain transactions to FinCEN. This court has conducted de novo review of those fifty-five pages in camera.
+ 
+
+II.
+A. Mandamus Standard
+[1] [2] [3] “A petitioner seeking mandamus must show both that there is a clear entitlement to the relief requested, and that irreparable harm will likely occur if the writ is withheld.” In re Cargill, 66 F.3d 1256, 1260 (1st Cir.1995). The alleged error to which a petitioner points must be “palpable.” In re Cambridge Literary Props., Ltd., 271 F.3d 348, 349 (1st Cir.2001). “[I]t is well-established that an extraordinary writ, such as a ... writ of mandamus, may not be used as a substitute for an appeal and will not lie if an appeal is an available remedy.” In re Urohealth Sys., Inc., 252 F.3d 504, 507 (1st Cir.2001). Analogizing to mandamus petitions centered on claims of attorney-client privilege, we assume without definitively deciding that there is no general bar to Chase’s use of a mandamus petition to pursue the claim at bar. See Mohawk Indus., Inc. v. Carpenter, 558 U.S. 100, 114, 130 S.Ct. 599, 175 L.Ed.2d 458 (2009) (“We expect that the combination of standard postjudgment appeals, § 1292(b) appeals, mandamus, and contempt appeals will continue to provide adequate protection to litigants ordered to disclose materials *39 purportedly subject to the attorney-client privilege.”).
+ 
+
+B. Relevant Legal Principles
+Here, the “clear entitlement” prong of the mandamus standard requires careful consideration of the Act, related regulations, the limited body of caselaw applying those authorities, and the guidance offered by FinCEN and the OCC as the primary agencies charged with implementing the Act and related regulations. A general overview is in order. The relevant portion of the Act, 31 U.S.C. § 5318(g)—added in 1992 as part of the Annunzio–Wylie Act—requires financial institutions “to report any suspicious transaction relevant to a possible violation of law or regulation.” Annunzio–Wylie Anti–Money Laundering Act, Pub.L. 102–550, 106 Stat. 3672 (1992). Key for current purposes, the Act also imposes limits as to whom financial institutions, government officials, and others may notify when a “suspicious transaction” has been reported. Id. § 5318(g)(2). No involved person, whether on the financial institution side or the government side, “may notify any person involved in the transaction that the transaction has been reported.” Id. The statute also creates a “safe harbor” for reporting financial institutions, stating that reporting institutions and employees
+shall not be liable to any person under any law or regulation of the United States, any constitution, law, or regulation of any State or political subdivision of any State, or under any contract or other legally enforceable agreement (including any arbitration agreement), for such disclosure or for any failure to provide notice of such disclosure to the person who is the subject of such disclosure or any other person identified in the disclosure.
+Id. § 5318(g)(3).
+ 
+Several pertinent regulations have been promulgated under the Act, including 12 C.F.R. § 21.11(k) from the OCC, which refers to a suspicious activity report as a “SAR” and dictates, inter alia, that “[a] SAR, and any information that would reveal the existence of a SAR, are confidential, and shall not be disclosed except as authorized in this paragraph.”2 The regulation further specifies:
+ 
+No national bank, and no director, officer, employee, or agent of a national bank, shall disclose a SAR or any information that would reveal the existence of a SAR. Any national bank, and any director, officer, employee, or agent of any national bank that is subpoenaed or otherwise requested to disclose a SAR, or any information that would reveal the existence of a SAR, shall decline to produce the SAR or such information, citing this section and 31 U.S.C. 5318(g)(2)(A)(I).
+12 C.F.R. § 21.11(k)(1)(i). In addition to other limitations not relevant for current purposes, the regulation specifies that “[p]rovided that no person involved in any reported suspicious transaction is notified that the transaction has been reported,” the regulation should “not be construed as prohibiting ... [t]he disclosure ... of ... [t]he underlying facts, transactions, and documents upon which a SAR is based.” 12 C.F.R. § 21.11(k)(1)(ii)(A)(2).
+Against this backdrop, a body of district court caselaw has emerged, examining the scope of the protections emanating from the Act and related regulations. District courts have extrapolated from the statute and regulations “an unqualified discovery *40 and evidentiary privilege that ... cannot be waived.” See, e.g., Whitney Nat. Bank v. Karam, 306 F.Supp.2d 678, 682 (S.D.Tex.2004) (collecting cases). The trickier task for the district courts has been to define the universe of documents encompassed by this “privilege.” See id. at 682–83. The Whitney court concluded that the universe of protected documents
+may consist of a SAR itself; communications pertaining to a SAR or its contents; communications preceding the filing of a SAR and preparatory or preliminary to it; communications that follow the filing of a SAR and are explanations or follow-up discussions; or oral communications o[f] suspected or possible violations that did not culminate in the filing of a SAR.
+Id. Other categories of documents are not shielded, including “documents produced in the ordinary course of business pertaining to the defendants’ banking activities, transactions, and accounts” that do not suggest the existence of a SAR. Id. at 683.
+ 
+That position is consistent with the regulation quoted above, and other courts have drawn similar distinctions between SARs and supporting documentation. See United States v. Holihan, 248 F.Supp.2d 179, 187 (W.D.N.Y.2003) (“[A]ny supporting documentation which would not reveal either the fact that an [sic ] SAR was filed or its contents cannot be shielded from otherwise appropriate discovery based solely on its connection to an SAR.”); see also Cotton v. PrivateBank & Trust Co., 235 F.Supp.2d 809, 815 (N.D.Ill.2002); Gregory v. Bank One Corp., Inc., 200 F.Supp.2d 1000, 1002 (S.D.Ind.2002); Weil v. Long Island Sav. Bank, 195 F.Supp.2d 383, 390 (E.D.N.Y.2001).
+ 
+On the issue of scope, FinCEN has provided some guidance:
+Clearly, any document or other information that affirmatively states that a SAR has been filed constitutes information that would reveal the existence of a SAR and should be kept confidential. By extension, an institution also should afford confidentiality to any document stating that a SAR has not been filed. Were FinCEN to allow disclosure of information when a SAR is not filed, institutions would implicitly reveal the existence of a SAR any time they were unable to produce records because a SAR was filed.
+The more difficult situation is when a document or other information is silent as to whether a SAR has or has not been filed. Documents that may identify suspicious activity but that do not reveal whether a SAR exists (e.g., a document memorializing a customer transaction, such as an account statement indicating a cash deposit or a record of a funds transfer), should be treated as falling within the underlying facts, transactions, and documents upon which a SAR may be based, and should not be afforded confidentiality. This distinction is set forth in the final rule’s second rule of construction and reflects relevant case law.
+However, the strong public policy that underlies the SAR system as a whole-namely, the creation of an environment that encourages financial institutions to report suspicious activity without fear of reprisal-leans heavily in favor of applying SAR confidentiality not only to a SAR itself, but also in appropriate circumstances to material prepared by the financial institution as part of its process to detect and report suspicious activity, regardless of whether a SAR ultimately was filed or not. This interpretation also reflects relevant case law.
+*41 Confidentiality of Suspicious Activity Reports, 75 Fed.Reg. 75593, 75595 (Dec. 3, 2010) (footnotes omitted).3
+ 
+The final paragraph of the FinCEN guidance, with its reference to “material prepared ... as part of [the financial institution’s] process to detect and report suspicious activity,” may seem ambiguous, but the cases cited in support of that paragraph are telling. See id. at n. 15. FinCEN cited, inter alia, the Whitney and Cotton decisions referenced above and characterized those cases as having to do with communications, draft SARs, or other materials protected because they suggested the existence or non-existence of a SAR. See id. (citing Whitney, 306 F.Supp.2d at 682; Cotton, 235 F.Supp.2d at 815).
+ 
+Decisions post-dating the FinCEN guidance have tended to focus on whether implicated documents were created “in the ordinary course of business in monitoring unusual activity,” as opposed to being documents “of an evaluative nature intended to comply with federal reporting requirements.” See Wiand v. Wells Fargo Bank, N.A., 981 F.Supp.2d 1214, 1218 (M.D.Fla.2013). Applying this dichotomy, the Wiand court declared the following types of records to be outside the scope of the Act and related regulations: “copies of transactional documents,” “list[s] or description[s] of certain transactions,” and “internal bank emails and reports” not “of an evaluative nature.” Id.; see also In re Whitley, No. 10–10426C–7G, 2011 WL 6202895 at *4 (Bankr.M.D.N.C. Dec. 13, 2011) (“[A]lthough a bank may undertake an internal investigation in anticipation of filing a SAR, it is also a standard business practice for banks to investigate suspicious activity as a necessary and appropriate measure to protect the bank’s interests, and the internal bank reports or memorandum generated by the bank regarding such an investigation are not protected by SAR privilege.”); Freedman & Gersten, LLP v. Bank of Am., N.A., No. 09–5351, 2010 WL 5139874 at *3 (D.N.J. Dec. 8, 2010) (“[T]he Court finds good cause to permit the disclosure of supplemental discovery related to documents and facts pertaining to the suspicious activity at issue in this matter, which were created in the ordinary course of business.”).
+ 
+
+C. Application to This Case
+As is likely clear by this point, the scope of the protections stemming from the Act and related regulations is an evolving area of the law. However, two distinct issues lead us to question whether those authorities apply to this case to any extent at all, and that certainly does not bode well for Chase in its quest to demonstrate “a clear entitlement” to mandamus relief, Cargill, 66 F.3d at 1260, or a “palpable” error, Cambridge Literary Props., 271 F.3d at 349. First, there is the question whether the Act and related regulations prevent disclosure by third parties like the name plaintiffs. As set out above, the Act itself expressly forbids disclosure only by reporting financial institutions and their officers and agents, and by government entities, officials, and agents on the receiving end of SARs. See 31 U.S.C. § 5318(g)(2). Indeed, each of the cases cited and discussed above involved a financial institution relying upon the Act to resist disclosure of a SAR and related documentation; none of the cases involved attempts to keep third parties from disclosing SARs. Also, the FinCEN guidance quoted above focuses on financial institutions and does not address in any way the issue of third-party applicability.
+ 
+*42 It is true that the regulations fleshing out the Act do begin with the broad proposition that SARs and documents speaking to their existence “are confidential, and shall not be disclosed except as authorized” by regulation. 12 C.F.R. § 21.11(k). However, the regulations proceed to enumerate a universe of individuals to whom the prohibition against disclosure applies that is functionally equivalent to that set out in the Act (i.e., financial institutions and their officers and agents, and government entities and their officials and agents). See id. Per the so-called “general/specific canon,” the specific list of subject entities and individuals trumps any suggestion of a broader universe of individuals bound by the prohibition on disclosure. See RadLAX Gateway Hotel, LLC v. Amalgamated Bank, ––– U.S. ––––, 132 S.Ct. 2065, 2071, 182 L.Ed.2d 967 (2012) (“ ‘It is an old and familiar rule that, where there is, in the same statute, a particular enactment, and also a general one, which, in its most comprehensive sense, would include what is embraced in the former, the particular enactment must be operative, and the general enactment must be taken to affect only such cases within its general language as are not within the provisions of the particular enactment.’ ” (quoting United States v. Chase, 135 U.S. 255, 260, 10 S.Ct. 756, 34 L.Ed. 117 (1890))). Thus, it would appear that neither the Act nor the regulations restrict third parties—that is, parties on neither the financial-institution side nor the government side of a SAR exchange—from disclosing the existence or non-existence of a particular SAR.
+ 
+[4] That reading also would comport with general agency principles. The specific manner in which the disclosure prohibition is set out in the Act suggests an intent on the part of Congress to limit only disclosure by specific entities and individuals for the specific purposes of encouraging reporting by financial institutions and preserving investigatory latitude. See Maine Ass’n of Interdependent Neighborhoods v. Comm’r, Maine Dep’t of Human Servs., 946 F.2d 4, 6 (1st Cir.1991) (“We first determine if Congress has spoken to the precise question at issue.... At this stage we look to the statute’s language, history and purpose. If congressional intent is clear, we simply give effect to that intent.”) (internal quotations and citation omitted); see also Ernst & Ernst v. Hochfelder, 425 U.S. 185, 213–14, 96 S.Ct. 1375, 47 L.Ed.2d 668 (1976) (“The rulemaking power granted to an administrative agency charged with the administration of a federal statute is not the power to make law. Rather, it is the power to adopt regulations to carry into effect the will of Congress as expressed by the statute.”) (internal quotations omitted). Where Congress has spoken with specificity, an agency may not promulgate regulations that are “an attempted addition to the statute of something which is not there,” even if the intent behind the attempted addition is consistent with the intent behind the authorizing statute. See United States v. Calamaro, 354 U.S. 351, 358–359, 77 S.Ct. 1138, 1 L.Ed.2d 1394 (1957) (holding that treasury regulation could not extend coverage of statute imposing occupational tax on those in the business of “receiving” wagers to so-called “pick-up men”). In sum, while resolution of this case does not require us to specifically demarcate the universe of individuals encompassed by the disclosure limitations, we conclude that Chase cannot satisfy the demanding mandamus standard where there is such uncertainty as to the applicability of the disclosure limitations to parties like the name plaintiffs.
+ 
+[5] Issues of scope to the side, there is a second concern causing us to question the very applicability of the disclosure limitations, *43 and that concern stems from circumstances unique to this case. Both the Act and the regulations speak of “disclosure” of SARs and documents speaking to their existence. See 31 U.S.C. § 5318(g); 12 C.F.R. § 21.11(k). “ ‘Dictionaries of the English language are a fundamental tool in ascertaining the plain meaning of terms used in statutes and regulations.’ ” Rhode Island Hosp. v. Leavitt, 548 F.3d 29, 35 (1st Cir.2008) (quoting United States v. Lachman, 387 F.3d 42, 51 (1st Cir.2004)). Webster’s Dictionary defines “disclose” as “to expose to view” or “to make known or public.” Merriam–Webster’s Collegiate Dictionary 356 (11th ed.2012). It is undisputed among the parties that, through a series of events we need not limn, the SAR to which the relevant documents relate was placed into the public record via court filings in prior litigation and that electronic versions of the SAR reside on the internet. As such, even assuming applicability of the Act and regulations, it is doubtful that the name plaintiffs are even capable of exposing the SAR to view or making it known or public because, right or wrong, the SAR already has been exposed to view and has been made public by other actors.
+ 
+[6] The two issues just discussed lead us to question strongly the very applicability of the Act and regulations to this case and, standing alone, would lead us to conclude that Chase has not satisfied the demanding mandamus standard. However, we need not arrive at a definitive conclusion as to the reach of the Act and regulations at this time. Even assuming, arguendo, that the disclosure limitations apply in this case and constitute a “privilege” against disclosure of the same scope as prior precedent and agency guidance would suggest, the court would deny mandamus relief because in camera review of the documents at issue here reveals that the documents fall outside the scope of that so-called “privilege.”
+ 
+As conveyed above, both relevant agencies and some courts have suggested that the “privilege” extends, not just to the SAR itself and documents expressly stating the existence of a SAR, but also to documents that indirectly suggest the existence or nonexistence of a SAR. For current purposes, the court will assume the correctness of that position. Even so, Chase’s claim of privilege would fail. First, the vast majority of the allegedly privileged documents in this case feature only lists and descriptions of transactions. As described previously, courts uniformly have concluded that such documents are not encompassed by the Act or the regulations but, instead, constitute “[t]he underlying facts, transactions, and documents upon which a SAR is based,” which are expressly declared exempt from the confidentiality obligation at 12 C.F.R. § 21.11(k)(1)(ii)(A)(2).4 See, e.g., Wiand, 981 F.Supp.2d 1214, 1217–18 (finding to be unprotected “a list or description of certain transactions rather than copies of the transactional documents themselves”). That leaves the narrow sliver of the fifty-five pages featuring non-transactional information. Under the existing law and guidance previously described, the key query is whether any of those documents suggest, directly or indirectly, that a SAR was or was not filed. See, e.g., 75 Fed.Reg. 75593, 75595 n. 15 (citing Whitney, 306 F.Supp.2d at 682; Cotton, 235 F.Supp.2d at 815). Careful de novo in camera review of the documents reveals *44 that none of them do.5 For example, none of the documents at issue constitute a draft SAR, and none of the documents reflect the decision-making process as to whether a SAR should be filed, the process of preparing a SAR, or an attempt to explain the content of a SAR post-filing. See Whitney, 306 F.Supp.2d at 682; Cotton, 235 F.Supp.2d at 815.
+ 
+In arriving at this conclusion, the court declines Chase’s invitation to view the “privilege” as extending to any document that might speak to the investigative methods of financial institutions. While FinCEN and the OCC have identified safeguarding of investigative methods as one goal of the confidentiality provisions, see 75 Fed.Reg. 75576, 75578(OCC); 75 Fed.Reg. 75593, 75595 (FinCEN), the Act and related regulations refer only to SARs and documents speaking to the existence of SARs. Chase’s suggested approach would see the bulk of a financial institution’s investigative file in a particular case shielded from discovery. Congress and/or the agencies certainly would have used broader, less specific language had that been their intent. Further, Chase’s suggested approach, in many instances, would be inconsistent with the portions of the regulations specifically exempting from protection “[t]he underlying facts, transactions, and documents upon which a SAR is based,” 12 C.F.R. § 21.11(k)(1)(ii)(A)(2), as well as with the body of caselaw described previously.6 Finally, it is worth noting that the documents in this case do not reveal a great deal about Chase’s investigative methods that could not be guessed by the average would-be wrongdoer. Moreover, nothing in this opinion would prevent Chase from asking the district court to continue sealing any filed copies of the fifty-five pages or filings describing their content.7 It is entirely possible, then, that Chase will not be prejudiced to the extent suggested in its papers and that an appeal at the conclusion of district court proceedings would allow Chase a sufficient opportunity to pursue its claim of privilege. See Urohealth Sys., 252 F.3d at 507 (“[A] writ of mandamus[ ] may not be used as a substitute for an appeal and will not lie if an appeal is an available remedy.”).8
+ 
+
+D. Outstanding Motions
+[7] Two outstanding motions require attention. First, Chase filed a motion for sanctions against plaintiff-respondents, arguing *45 that counsel on at least two occasions had failed to comply with orders placing certain documents under seal. In each instance, the non-compliance was remedied promptly, and counsel has accounted for any lapses. The motion for sanctions will be denied, though the court trusts that counsel will redouble his efforts to comply strictly with any orders placing documents under seal in this court and in the district court. Second, the parties have tendered a supplemental joint appendix and requested leave to file the same. The motion is granted, and, to the extent relevant, the documents in the tendered appendix have been considered.
+ 
+
+III.
+The petition for writ of mandamus is denied due to Chase’s failure to demonstrate a clear entitlement to the relief sought. The motion for sanctions is denied, and the motion for leave to file a joint supplemental appendix is granted.
+ 
+All Citations
+799 F.3d 36
+Footnotes
+
+1
+
+At points in its papers, Chase also has invited this court to involve itself in other aspects of the district court proceeding, including entry of orders directly striking filings in the district court. The court declines the invitation to seize control of the underlying proceeding from a magistrate judge who, up to this point, appears to have handled the matter quite ably. This opinion, which focuses exclusively on the question whether Chase is clearly entitled to a ruling that the fifty-five pages of so-called “Evaluative Documents” are privileged, should provide the magistrate judge with the guidance necessary to continue effectively refereeing the parties’ privilege dispute.
+
+2
+
+Nearly identical regulations from FinCEN may be found at 31 C.F.R. § 1020.320(e). For the sake of simplicity, only the OCC regulations are referenced infra.
+
+3
+
+The OCC provided essentially identical guidance on the same day as FinCEN. See Confidentiality of Suspicious Activity Reports, 75 Fed.Reg. 75576, 75578–79 (Dec. 3, 2010).
+
+4
+
+Nothing in this opinion should be construed as forbidding redactions necessary to comply with court rules regarding the filing of papers featuring personally identifiable information and other sensitive materials.
+
+5
+
+In arriving at this conclusion, we have not relied upon the “in the ordinary course of business in monitoring unusual activity” versus “of an evaluative nature intended to comply with federal reporting requirements” dichotomy previously discussed and relied upon to some degree by the district court in this case. See supra p. 41. Demarcating the border between ordinary monitoring and compliance-related monitoring would be a difficult, if not impossible, task in some cases. We save for another day consideration of the merits of that approach to the issue.
+
+6
+
+Contrary to Chase’s contentions, this narrower approach also is not inconsistent with Regions Bank v. Allen, 33 So.3d 72, 77–78 (Fla.Dist.Ct.App.2010). There, a state appellate court simply held that a blanket order from the trial court calling for redactions of “any reference to a SAR or any language disclosing whether there was or was not a SAR or whether a SAR was or will be prepared” might not be sufficient and that, instead, any documents falling into a “grey area” should be reviewed by the trial court in camera prior to production. See id. Nothing in that decision supports a broader view of the scope of the privilege than is being assumed here, and, in this case, both the district court and this court have reviewed the relevant documents in camera already.
+
+7
+
+The court expresses no opinion as to whether the district court should grant such relief.
+
+8
+
+In light of the foregoing, the court need not reach the plaintiff-respondents’ standing and First Amendment arguments.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

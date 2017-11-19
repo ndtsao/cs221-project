@@ -1,0 +1,221 @@
+
+
+ 
+
+
+Junod v. Mortgage Electronic Registration Systems, Inc.
+United States Court of Appeals, Ninth Circuit. | August 6, 2014 | 584 Fed.Appx. 465 | 2014 WL 3844820
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Junod v. Mortg. Elec. Registration Sys., Inc., 584 F. App’x 465 (9th Cir. 2014)
+
+All Citations:
+
+584 Fed.Appx. 465
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+584 Fed.Appx. 465
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 9th Cir. Rule 36-3.
+United States Court of Appeals,
+Ninth Circuit.
+Paul JUNOD and Patricia Junod, Plaintiffs–Appellants,
+v.
+MORTGAGE ELECTRONIC REGISTRATION SYSTEMS, INC.; Wells Fargo Home Mortgage, d/b/a America’s Servicing Company; and U.S. Bank NA, As Trustee for CSMC Mortgage–Backed Trust 2006–6, Defendants–Appellees.
+No. 12–55712.
+|
+Argued and Submitted March 4, 2014.
+|
+Filed Aug. 6, 2014.
+Synopsis
+Background: Mortgagors brought action against, inter alia, securitized investment trust and trustee, asserting claims for wrongful foreclosure, violation of the Fair Debt Collection Practices Act (FDCPA), and violation of California’s Unfair Competition Law (UCL). The United States District Court for the Central District of California, Otis D. Wright, J., dismissed for failure to state a claim, and mortgagors appealed.
+ 
+Holdings: The Court of Appeals held that:
+ 
+[1] alleged transfer of mortgagors’ note to trust did not violate trust’s pooling and servicing agreement;
+ 
+[2] trustee was not a “debt collector” under the FDCPA; and
+ 
+[3] mortgagors lacked standing to sue for violation of the UCL.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (3)
+
+
+[1]
+
+Mortgages and Deeds of TrustMortgage as following note;  note as following mortgage
+Mortgages and Deeds of TrustPooling and securitization
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1411Necessity of Transferring Both Mortgage and Note
+266k1414Mortgage as following note;  note as following mortgage
+(Formerly 266k235)
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(D)Transfers Involving Servicing Rights, Participation Arrangements, Pooling, or Securitization
+266k1478Construction, Operation, and Effect of Transfer
+266k1481Pooling and securitization
+(Formerly 266k241)
+
+
+Under California law, alleged transfer of mortgagors’ note to securitized investment trust before closing carried with it the security interest created by the deed of trust to secure the note, and thus transfer did not violate trust’s pooling and servicing agreement which required that all notes and mortgages be transferred to trust by closing date in order for mortgage loan to be part of trust res. West’s Ann.Cal.Civ.Code § 2936.
+Cases that cite this headnote
+
+
+
+[2]
+
+Antitrust and Trade RegulationPersons and transactions covered
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(C)Particular Subjects and Regulations
+29Tk210Debt Collection
+29Tk212Persons and transactions covered
+
+
+Trustee’s alleged actions of collecting debts owed to securitized investment trust were incidental to bona fide fiduciary obligation, and thus trustee did not qualify as a “debt collector” under the FDCPA. Fair Debt Collection Practices Act, § 803(6)(F), 15 U.S.C.A. § 1692a(6)(F).
+3 Cases that cite this headnote
+
+
+
+[3]
+
+Antitrust and Trade RegulationPrivate entities or individuals
+
+
+29TAntitrust and Trade Regulation
+29TIIIStatutory Unfair Trade Practices and Consumer Protection
+29TIII(E)Enforcement and Remedies
+29TIII(E)1In General
+29Tk287Persons Entitled to Sue or Seek Remedy
+29Tk290Private entities or individuals
+
+
+Mortgagors’ loss of their home to foreclosure was not caused by alleged improper transfer of their note and deed of trust to securitized investment trust, and thus they lacked standing to sue trustee for violation of California’s Unfair Competition Law (UCL); mortgagors’ default triggered foreclosure of their home, not manner in which their note and deed of trust were transferred to trust. West’s Ann.Cal.Bus. & Prof.Code § 17204.
+2 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*466 Deborah Pauline Gutierrez, Bergman & Gutierrez LLP, Los Angeles, CA, Penelope P. Bergman, Bergman & Gutierrez LLP, El Segundo, CA, for Plaintiffs–Appellants.
+Jonathan D. Fink, Magdalena D. Kozinska, Esquire, Wright, Finlay & Zak, LLP, Newport Beach, CA, for Defendants–Appellees.
+Appeal from the United States District Court for the Central District of California, Otis D. Wright, District Judge, Presiding. D.C. No. 2:11–cv–07035–ODW.
+Before: BYBEE and BEA, Circuit Judges, and GLEASON, District Judge.*
+
+
+MEMORANDUM**
+Patricia and Paul Junod appeal the district court’s dismissal of their Second Amended Complaint (SAC) for failure to state a claim.1 They assert the district *467 court erred by dismissing their claims for wrongful foreclosure and cancellation of the trustee’s deed upon sale; declaratory judgment; violation of the Fair Debt Collection Practices Act (FDCPA), 15 U.S.C. §§ 1692–1692p; and violation of California’s Unfair Competition Law (UCL), Cal. Bus. & Prof.Code §§ 17200–17210. We have jurisdiction pursuant to 28 U.S.C. § 1291. We review de novo the district court’s dismissal of the SAC’s claims under Federal Rule of Civil Procedure 12(b)(6). Manzarek v. St. Paul Fire & Marine Ins. Co., 519 F.3d 1025, 1030 (9th Cir.2008). We affirm.
+ 
+
+I.
+[1] Underpinning the SAC’s claims for wrongful foreclosure and cancellation of the trustee’s deed upon sale (Counts 5 and 6) is the allegation that the assignment of the Junods’ home loan obligation to a securitized investment trust was void because it did not comply with the pooling and servicing agreement (PSA) governing the trust. Dismissal was correctly entered because this allegation is not plausible.2 Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009) (“To survive a motion to dismiss, a complaint must contain sufficient factual matter, accepted as true, to ‘state a claim to relief that is plausible on its face.’ ” (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007))).
+ 
+The SAC and the attachments thereto allege that on June 1, 2006, the Junods’ home lender purported to transfer their Note (but not the Deed of Trust) to the CSMC Mortgage–Backed Trust 2006–6 (CSMC Trust). The SAC further alleges that Sections 2.01 and 2.02 of the CSMC Trust’s PSA required that all “notes and mortgages” be transferred to the CSMC Trust by June 29, 2006 (the Closing Date) “in order for the mortgage loan to be a part of the trust res.” And the SAC alleges that the Junods’ “Mortgage” was not transferred to the CSMC Trust by the Closing Date. Although obfuscated in the SAC and in the Junods’ briefing on appeal, by these allegations the SAC appears to assert that because the Deed of Trust was not formally assigned in a recorded transaction to the CSMC Trust by the Closing Date, the assignment of the Junods’ loan to the CSMC Trust was rendered void.
+ 
+However, under California law, “[t]he assignment of a debt secured by mortgage carries with it the security.” Cal. Civ.Code § 2936; see also United States v. Thornburg, 82 F.3d 886, 892 (9th Cir.1996). In other words, the transfer of the Junods’ Note to the CSMC Trust on June 1, 2006—one month prior to the Closing Date—carried with it the security interest created by the Deed of Trust to secure the Note. Moreover, the Junods have not pointed to any PSA provision appended to their SAC that required the Deed of Trust to be formally assigned in a recorded transaction to the CSMC Trust prior to the Closing Date. To the contrary, PSA Section 2.01 appended to the SAC clearly states that for a “MERS Mortgage Loan,” which presumably includes the Junods’ loan,3 the Trust Custodian need only be provided with “a copy of the Mortgage certified by the public recording office in which such Mortgage has been recorded.”4 *468 By contrast, “for each Mortgage Loan that is not a MERS Mortgage Loan,” the “original Mortgage” must be delivered to the Trust Custodian. Cf. Cervantes v. Countrywide Home Loans, Inc., 656 F.3d 1034, 1039 (9th Cir.2011) (“MERS was designed to avoid the need to record multiple transfers of the deed [of trust] by serving as the nominal record holder of the deed on behalf of the original lender and any subsequent lender.”). Because the SAC does not plausibly allege that the PSA was violated, we affirm the dismissal of the claims challenging the validity of the foreclosure.
+ 
+
+II.
+The same allegations and legal theories underpin the Junods’ request for declaratory relief (Count 1) as underpin their claims challenging the validity of the foreclosure. Therefore, we affirm the district court’s denial of the Junods’ request for a declaratory judgment because they “ha[ve] not adequately pled an underlying claim for relief.” See 28 U.S.C. § 2201(a) (2012) (federal court may grant declaratory relief only “[i]n a case of actual controversy within its jurisdiction”); Countrywide Home Loans, Inc. v. Mortg. Guaranty Ins. Corp., 642 F.3d 849, 853 (9th Cir.2011) (“[W]hile the [Declaratory Judgment Act] expanded the scope of the federal courts’ remedial powers, it did nothing to alter the courts’ jurisdiction, or the ‘right of entrance to federal courts.’ ” (quoting Skelly Oil Co. v. Phillips Petroleum Co., 339 U.S. 667, 671, 70 S.Ct. 876, 94 L.Ed. 1194 (1950))).
+ 
+
+III.
+[2] The SAC fails to state a claim against U.S. Bank under the FDCPA (Count 2) because it does not plausibly allege that U.S. Bank is a “debt collector” within the meaning of the statute. See Schlegel v. Wells Fargo Bank, NA, 720 F.3d 1204, 1208 (9th Cir.2013) (complaint asserting FDCPA claim “must plead ‘factual content that allows the court to draw the reasonable inference’ ” that defendant is a “debt collector” as defined by the FDCPA (quoting Iqbal, 556 U.S. at 678, 129 S.Ct. 1937)). The SAC alleges that “U.S. Bank, acting as the trustee of the CSMC Trust, is in the business where the principal purpose is to collect debts on behalf of the investors in the CSMC Trust” and “is responsible for regularly collecting debts owed to the CSMC Trust.” But if U.S. Bank is collecting debts owed to the CSMC Trust, then its actions are “incidental to a bona fide fiduciary obligation,” and it is exempt from the FDCPA’s definition of “debt collector.”5 15 U.S.C. § 1692a(6)(F) (2012) (“debt collector” as defined in FDCPA does not include a person whose debt collection activity “is incidental to a bona fide fiduciary obligation”). Because the SAC fails to allege plausibly that U.S. Bank is a “debt collector,” we affirm the dismissal of the FDCPA claim.
+ 
+
+IV.
+[3] The SAC fails to state a claim for violation of California’s UCL (Count 4) because the Junods lack standing to bring a UCL claim. To have standing under the UCL, as amended by Proposition 64 in *469 2004, a private party must “(1) establish a loss or deprivation of money or property sufficient to qualify as injury in fact, i.e., economic injury, and (2) show that that economic injury was the result of, i.e., caused by, the unfair business practice.” Kwikset Corp. v. Superior Court, 51 Cal.4th 310, 120 Cal.Rptr.3d 741, 246 P.3d 877, 884–85 (2011) (citing Cal. Bus. & Prof.Code § 17204); see also Rubio v. Capital One Bank, 613 F.3d 1195, 1203–04 (9th Cir.2010) (discussing the UCL’s standing requirement). “A plaintiff fails to satisfy the causation prong of the statute if he or she would have suffered ‘the same harm whether or not a defendant complied with the law.’ ” Jenkins v. JP Morgan Chase Bank, N.A., 216 Cal.App.4th 497, 156 Cal.Rptr.3d 912, 933 (2013) (quoting Daro v. Superior Court, 151 Cal.App.4th 1079, 61 Cal.Rptr.3d 716, 729 (2007)).
+ 
+The SAC’s UCL claim alleges that U.S. Bank, and America’s Servicing Company acting on behalf of U.S. Bank, did not have the authority to take actions with respect to the Junods’ Note and Deed of Trust because the assignment of the Junods’ loan obligation to the CSMC Trust was void.6 The flaw in this claim is that while the loss of a home to foreclosure is most likely an injury in fact, causation has not been demonstrated. The Junods’ default triggered the foreclosure of their home, not the manner in which their Note and Deed of Trust were transferred to the CSMC Trust. Cf. Cervantes, 656 F.3d at 1043–44 (holding plaintiffs failed to state wrongful foreclosure claim under Arizona law because they were “in default and ha[d] not identified damages”). Because the Junods lack standing, we affirm the dismissal of the UCL claim.
+ 
+AFFIRMED.
+ 
+Each party shall bear its own costs on appeal.
+ 
+All Citations
+584 Fed.Appx. 465
+Footnotes
+
+*
+
+The Honorable Sharon L. Gleason, United States District Judge for the District of Alaska, sitting by designation.
+
+**
+
+This disposition is not appropriate for publication and is not precedent except as provided by 9th Cir. R. 36–3.
+
+1
+
+Although Mortgage Electronic Registration Systems, Inc. is listed in the caption on appeal, it is not a party to this action, as it was not named as a defendant in the SAC.
+
+2
+
+At oral argument, the parties focused on whether the Junods have standing under California law to enforce the PSA. We need not reach this question because the key allegation underpinning Counts 5 and 6 is not plausible.
+
+3
+
+The Deed of Trust appended to the SAC identifies MERS as the Beneficiary, “solely as a nominee for Lender and Lender’s successors and assigns.”
+
+4
+
+Additionally, the “Securitized Mortgage Report” attached to and referenced in the SAC provides that “the PSA stipulates that any ‘MERS’ registered transaction need not be concerned with recordation of the Assignments.”
+
+5
+
+The Junods assert that U.S. Bank’s actions with respect to them could not have been incidental to a bona fide fiduciary obligation because the Junods’ loan obligation was not validly assigned to the CSMC Trust. But as we have explained, the SAC’s allegation that the assignment was invalid is implausible.
+
+6
+
+In SAC Count 4 the Junods contend that the allegedly invalid assignment could result in “multiple parties ... seek[ing] to enforce their debt obligation against them.” But if there were some other, “valid” assignee of the Junods’ loan obligation, any claim that assignee might validly assert would be against U.S. Bank and the CSMC Trust, not the Junods.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

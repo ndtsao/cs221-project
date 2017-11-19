@@ -1,0 +1,251 @@
+
+
+ 
+
+
+Micrografx, LLC v. Google Inc.
+United States Court of Appeals, Federal Circuit. | November 29, 2016 | 672 Fed.Appx. 988 | 2016 WL 6958652
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Micrografx, LLC v. Google Inc., 672 F. App’x 988 (Fed. Cir. 2016)
+
+All Citations:
+
+672 Fed.Appx. 988
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”google”))
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:05 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+672 Fed.Appx. 988
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+MICROGRAFX, LLC, Appellant
+v.
+GOOGLE INC., Samsung Electronics America, Inc., Samsung Electronics Co., Ltd., Appellees
+2015-2090
+|
+Decided: November 29, 2016
+Synopsis
+Background: Holder of patent for a method and system of generating graphical images for use in a computer program appealed from a decision of the Patent Trial and Appeal Board, 2015 WL 4500659, that construed the patent, ruled that it was invalid because some of the patent’s claims were anticipated by an existing patent for a visual software engineering system, and denied the patent holder’s motion for leave to amend.
+ 
+Holdings: The Court of Appeals, Dyk, Circuit Judge, held that:
+ 
+[1] erroneous construction of patent claim was harmless error;
+ 
+[2] substantial evidence supported finding that existing patent anticipated the patent claims; and
+ 
+[3] denial of leave to amend was proper given obviousness of the proposed claims.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+PatentsHarmless and reversible error
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1972Harmless and reversible error
+
+
+Erroneous claim construction within patent for a method and system of generating graphical images for use in a computer program was harmless, given unquestionable anticipation in existing patent for a visual software engineering system.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)2Particular Fields of Invention
+291k531Computers and Software
+291k532In general
+
+
+Finding that existing patent for a visual software engineering system disclosed limitation of a computer program further operable to delegate the production of a graphical image of the external shape to the external capabilities, and thus anticipated claims in patent for a method and system of generating graphical images for use in a computer program, was supported by substantial evidence, including passages from the existing patent’s specification and expert testimony.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsInter partes review
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(G)Postissuance Proceedings
+291IV(G)5Other Postissuance Proceedings
+291k1262Inter partes review
+
+
+Holder of patent for a method and system of generating graphical images for use in a computer program was not entitled to amend claims, on inter partes review, so as to add phrasing to limitation, since proposed claims would have been obvious over the prior art of record and one of skill in the art would have combined teachings from two existing references.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,959,633. Invalid.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,883,639. Cited as Prior Art.
+Cases that cite this headnote
+
+
+
+Appeal from the United States Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2014-00532.
+Attorneys and Law Firms
+DOUGLAS R. WILSON, Heim, Payne & Chorush, LLP, Houston, TX, argued for appellant. Also represented by ROBERT ALLAN BULLWINKEL, MICHAEL F. HEIM.
+DAVID S. ALMELING, O’Melveny & Myers LLP, San Francisco, CA, argued for appellees. Also represented by MARK LIANG, DARIN W. SNYDER; MISHIMA ALAM, Washington, DC; SUSAN ROEDER, Menlo Park, CA; MICHAEL TIMOTHY HAWKINS, Fish & Richardson P.C., Minneapolis, MN.
+*989 Before Newman, Dyk, and Taranto, Circuit Judges.
+Opinion
+Dyk, Circuit Judge.
+
+Micrografx, LLC (“Micrografx”) appeals a decision by the Patent Trial and Appeal Board (“Board”). The Board held that claims 1–4, 6, 8–11, 13, and 15 of U.S. Patent No. 5,959,633 (“’633 patent”) were anticipated by U.S. Patent No. 5,883,639 (“Walton”). Micrografx also appeals the Board’s denial of Micrografx’s motion for leave to amend. Because we find that any error in the Board’s claim construction is harmless, and substantial evidence supports the Board’s findings of anticipation, we affirm.
+ 
+
+BACKGROUND
+Micrografx owns the ’633 patent, which is directed towards a method and system of generating graphical images for use in a computer program. ’633 patent, col. 1 ll. 5–8, 41–59. The patent teaches “a method for producing graphical images [that] includes executing a computer program and providing a shape library external to the computer program ... [where t]he shape library defines a shape having associated capabilities.” Id. col. 1 ll. 43–46. Because of this external shape library that defines shapes with associated capabilities, the invention purports to overcome a limitation in the prior art that once a computer program was released, the only shapes that could be added were those “that the internal tools in the computer program [already] kn[ew] how to create and edit.” Id. col. 1 ll. 32–34. Thus, “[t]he invention ... allows for the integration of additional shapes with an existing computer program without modifying that existing program.” Id. col. 2 ll. 6–9. Claim 1 is representative.
+ 
+A computerized system comprising:
+a storage medium;
+a processor coupled to the storage medium;
+a computer program stored in the storage medium, the computer program operable to run on the processor, the computer program further operable to:
+access an external shape stored outside the computer program, the external shape comprising external capabilities; and
+delegate the production of a graphical image of the external shape to the external capabilities.
+’633 patent, col. 8 ll. 53–53.
+ 
+On March 24, 2014, Google Inc., Samsung Electronics America, Inc., and Samsung Electronics Co., Ltd., (collectively “Google”), filed a petition for inter partes review of the ’633 patent. In its petition, Google asserted that claims 1–4, 6, 8–11, 13, and 15 were anticipated by Walton.
+ 
+Walton teaches a computer Visual Software Engineering (“VSE”) system “for designing a prototype of a user interface to a product ... [with] a custom graphics display.” Walton, col. 7 ll. 62–65. It further provides a “method of creating and animating graphical objects by directly manipulating the graphical objects on a display screen.” Id. col. 5 ll. 23–25. As such, “[a]ll graphical objects that are created in accordance with [Walton] can be stored in a library and reused. They can also be retrieved from the library, changed or customized ... and then stored in the library as a new component.” Id. col. 4 ll. 25–29. Walton also allows the user to define a “behavior function (graphics manipulation) such that when a value change occurs (a behavior event), the [graphical object] can change its graphical representation and update itself on the display.” Id. col. 13 ll. 26–30. Walton’s graphical objects thus “store [both] behavior as well as graphics information.” Id. col. 8 ll. 33–34.
+ 
+*990 On July 21, 2015, in its final written decision the Board construed the claim limitation “an external shape stored outside the computer program” as “computer code stored outside the computer program that defines a graphical image.” J.A. 12. The Board also construed “delegate” in the limitation “the computer program further operable to ... delegate the production of a graphical image of the external shape to the external capabilities” as “to commit or entrust to another.” J.A. 12. Based on this construction and expert testimony in the record, the Board found by a preponderance of the evidence that Walton anticipates the relevant claims of the ’633 patent.
+ 
+On November 21, 2014, Micrografx filed a motion for leave to amend proposing to add new claims 29 and 30, which would append “using an external shape template” to the “delegation” limitations of claims 1 and 8 in the ’633 patent. The Board construed this new limitation to mean “a template (i.e., a preset format, pattern, or model) by which a computer program can access an external shape stored outside the computer program, to utilize the capabilities of the external shape.” J.A. 30. Google argued that even with this addition the claims would have been obvious over the combination of Walton and other prior art references directed to software templates, including the textbook The C++ Programming Language, Second Edition, by Bjarne Stroustrup (“Stroustrup”), who created C++. In denying leave to amend, the Board found that Micrografx had failed to show that the proposed amended claims were patentable over the prior art of record, including, for instance, the combination of the Walton and Stroustrup references.
+ 
+Micrografx appeals. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(4)(A).
+ 
+
+DISCUSSION
+We review the Board’s legal conclusions de novo and review the Board’s factual findings for substantial evidence. 5 U.S.C. § 706(2); In re Montgomery, 677 F.3d 1375, 1379 (Fed. Cir. 2012). On issues of claim construction, we review the Board’s subsidiary factual determinations concerning extrinsic evidence for substantial evidence and ultimate claim construction de novo. In re Cuozzo Speed Techs., LLC, 793 F.3d 1268, 1280 (Fed. Cir. 2015); see also Teva Pharm. U.S.A., Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 841–42, ––– L.Ed.2d –––– (2015). Since the intrinsic record in this case resolves the claim construction question, our review is de novo. See Microsoft Corp. v. Proxyconn, Inc., 789 F.3d 1292, 1297 (Fed. Cir. 2015). In construing claim terms, the Board adopts the “broadest reasonable construction in light of the specification in which” the terms appear. 37 C.F.R. § 42.100(b); Cuozzo Speed Techs., LLC v. Lee, ––– U.S. ––––, 136 S.Ct. 2131, 195 L.Ed.2d 423. 2144–45 (2016). Anticipation is a question of fact reviewed for substantial evidence. In re Rambus Inc., 694 F.3d 42, 46 (Fed. Cir. 2012).
+ 
+
+I
+First, Micrografx challenges the Board’s construction of the limitation “an external shape stored outside the computer program,” found in each of the claims. The Board construed this limitation to mean “computer code stored outside the computer program that defines a graphical image.” J.A. 12. Micrografx asserts that the proper construction is “computer code stored outside the computer program that defines a graphical image and that can be developed and provided for use by the computer program without modifying the computer program.” Micrografx Br. 22. The question here is whether the claims *991 require that the image be developed and provided “without modifying the computer program.”
+ 
+The specification identifies “several technical advantages” of the “invention.” ’633 patent, col. 1 ll. 60; see Phillips v. AWH Corp., 415 F.3d 1303, 1315–17 (Fed. Cir. 2005) (noting importance of the specification for claim construction). Most importantly, it states that “[n]ew shapes may be added easily without rewriting the underlying computer program” and that “[t]he invention also provides an architecture that allows for the integration of additional shapes with an existing computer program without modifying the existing program.” ’633 patent, col. 1 ll. 60–62, col. 2 ll. 7–9. In other words, the specification describes the invention as allowing the integration of these “new” or “additional” shapes—external shapes—without modification of the underlying computer program. See Phillips, 415 F.3d at 1315–17.
+ 
+The prosecution history also supports this understanding. See SAS Inst., Inc. v. ComplementSoft, LLC, 825 F.3d 1341, 1349 (Fed. Cir. 2016); Phillips, 415 F.3d at 1317. During initial examination, the patent examiner rejected the claims as obvious in light of a prior art reference, the book Developing Visio Solutions (“Visio”). Visio discloses a system using a table of data files stored outside the computer program and containing information describing different shapes that can be accessed when a particular shape is desired. The examiner concluded that Visio “suggests the external shape outside the computer program as claimed.” J.A. 268. The patentee responded that Visio “is limited to editing and creating shapes in ways permitted by the tools within the computer program. Thus, although shapes may be added [to the table of data files] after the release of the computer program ..., the shapes that may be added are limited to shapes that the internal tools in the computer program know[ ] how to create and edit.” J.A. 283. Thus, Micrografx distinguished the ’633 invention over the prior art because in the prior art it was necessary to modify the computer program to add newly developed shapes.
+ 
+[1]Given the claim language, the specification, and the prosecution history, the Board erred in its claim construction. The proper claim construction of “an external shape stored outside the computer program” is “computer code stored outside the computer program that defines a graphical image and that can be developed and provided for use by the computer program without modifying the computer program.”
+ 
+Google argues that the Board’s claim construction amounted to harmless error. We agree. The harmless error rule applies to appeals from the Board. See, e.g., In re Watts, 354 F.3d 1362, 1369 (Fed. Cir. 2004). To be sure, the Board’s finding of anticipation was predicated on its construction of the “external shape stored outside the computer program” limitation, and the Board did not address anticipation using the correct construction. But Walton unquestionably discloses this limitation and therefore anticipates.
+ 
+The only issue here is whether the graphical objects of Walton “can be developed and provided for use by the computer program without modifying the computer program.” The dispute centers on the last part of this limitation—“without modifying the computer program.” From Walton’s specification, it is clear that new graphical objects can be added without modifying the user code—Walton’s “computer program.” In Walton, when new graphical objects are created, they “are stored as objects in an object-oriented database system and connected to other objects or user code,” i.e., “provided for use,” “in accordance *992 with techniques commonly used in object-oriented systems.” Walton, col. 8 ll. 54–63. Walton further discloses that a graphical object “consists of two major parts, [a] graphic element and the behavior element,” and neither is defined by the computer program—instead, the appearance and behavior of a graphical object are defined in a “graphics editor,” and the behaviors are “register[ed]” with a “behavior router.” See id. col. 10 ll. 36–47, col. 13 ll. 15–17, col. 13 ll.63–65.
+ 
+Thus, a graphical object may be “developed and provided for use” without ever modifying Walton’s computer program. Testimony from Google’s expert confirms this point; according to the expert, “[a] person of ordinary skill in the art would have recognized that [Walton’s] VSE system certainly provided the ability to swap in newly created graphical objects in place of pre-existing graphical objects for use with existing user source code.” J.A. 1109 (emphasis added). When Google relied on that testimony to argue harmlessness in this court, Micrografx had no response. Walton discloses the “external shape stored outside the computer program” limitation.
+ 
+
+II
+Second, Micrografx challenges the Board’s finding that Walton discloses the limitation a “computer program further operable to ... delegate the production of a graphical image of the external shape to the external capabilities” in the challenged claims of the ’633 patent. The Board construed “delegate” to mean “to commit or entrust to another” and this construction is not challenged on appeal. J.A. 12. Micrografx argues that the Board’s finding is not supported by substantial evidence because the Board did not properly apply this construction when it failed to sufficiently address whether the user code of Walton, the analog to the ’633 patent’s computer program, actually does the delegating.
+ 
+[2]We find that substantial evidence supports the Board’s finding. In its decision, the Board pointed to passages from Walton’s specification and expert testimony evidencing that Walton “delegat[es] the production of a graphical image of the external shape to the external capabilities.” J.A. 23. For example, “Walton ... discloses that these external graphical objects can be ‘accessed by the user code 120’ by connecting to a client server via an interprocess communications mechanism of a type known to those skilled in the art.’ ” J.A. 342. Walton’s specification further provides that “when a value change occurs (a behavior event), the VSE object can change its graphical representation and update itself on the display.” Walton, col. 13 ll. 27–30. It is also “the application [user code] which calls upon particular objects.” Id. col 26 ll. 1–2. As the expert testimony cited by the Board notes, “the system of Walton delegates the production of a graphical image to the behavior elements (external capabilities) of a graphical object (external shape) to allow ‘a graphical object [to] ... be able to draw itself if asked to do so.’ ” J.A. 341; see J.A. 22. Thus, it is clear from the Board’s analysis and the evidence in the record that, contrary to Micrografx’s assertion, the user code of Walton delegates to the behavior elements of a graphical object and thereby discloses the “delegation” limitation. The Board’s conclusion that Walton discloses a “computer program further operable to ... delegate the production of a graphical image of the external shape to the external capabilities” is supported by substantial evidence.
+ 
+
+III
+Third, Micrografx argues that the Board erred in denying leave to amend. We disagree.
+ 
+*993 Micrografx sought to amend claims 1 and 8 by adding “using an external shape template” to the end of the limitation, “delegate the production of a graphical image of the external shape to the external capabilities.” The Board construed “external shape template” to mean “a template (i.e., a preset format, pattern, or model) by which a computer program can access an external shape stored outside the computer program, to utilize the capabilities of the external shape.” J.A. 30. In other words, the invention’s computer program is able to delegate the production of an external shape by using a template or preset format. This template provides the format for how the computer program accesses the capabilities of the external shape for the purpose of drawing the graphical image.
+ 
+[3]Under this construction, the Board found that the proposed claims would have been obvious over the prior art of record, including, for instance, the combination of Walton and Stroustrup. Stroustrup is a textbook on the C++ programming language and includes an entire chapter on the use of templates. These C++ templates “allow generic functions ... to be defined once for a family of types” and enable the composition of “code from semi-independent parts.” J.A. 1248. The Board found that a person of ordinary skill in the art would have applied Stroustrup’s teaching of C++ templates to Walton to achieve the described advantages.
+ 
+Micrografx challenges the Board’s construction of its proposed additional claim limitation, “using an external shape template,” arguing that it ignores the generic nature of an external shape template as described in the specification. Micrografx contends that the proper construction is a “generic interface for accessing capabilities of an external shape.” That construction is not supported by the claim language or the specification. The claim language does not state that the template is generic. The ’633 specification describes the external shape template as “compris[ing] pointers to shapes contained within shape library 124, which are used by computer graphics application 122 to produce graphical images that are not supported by internal shapes 310 or 320,” ’633 patent, col. 4 ll. 63–67, and as “compris[ing] an external action template 332 and an external symbol template 334,” id. col. 4 ll. 49–50. In other words, the external shape template provides the mechanism by which the computer program, and the graphics application in particular, accesses external shapes from the shape library. But nowhere does the specification describe the external shape template as a “generic interface.” Moreover, while Micrografx did argue for its “generic interface” construction before the Board, it also stated more generally that “the word template when used in the context in which it is used in the claim means a preset format, pattern, or model,” language that the Board adopted. Google Inc. v. Micrografx, LLC, IPR2014-00532, Paper 21 at 5 (P.T.A.B. Nov. 24, 2014). The Board did not err in its construction of “external shape template.”
+ 
+Micrografx also argues that there was no motivation to combine the Walton and Stroustrup references. Specifically, Micrografx asserts that “one of skill in the art would have no motivation to combine teachings from a general purpose programming language focused on systems programming with a visual software engineering system focused on graphics programming.” Micrografx Br. 47–48. We disagree. Walton’s system can be implemented in a computer programming language such as C++. Walton also contemplates linking “the behavior states of the graphical objects ... to [the] user source code.” Walton, col. 9 ll. 36–38. Stroustrup *994 teaches the use of C++ templates, such as defining a template function for a family of types and composing code from independent parts. A person of ordinary skill in the art could implement this teaching from Stroustrup to link the behavior states and the user source code in Walton. The combination of this teaching and Walton would allow the user source code to access these behavior states of the graphical objects.
+ 
+Google’s expert testified that “a person of ordinary skill in the art would have sought out Stroustrup’s programming manual and readily applied its teachings to the system of Walton to achieve the[se] ... benefits.” J.A. 1130. The undisputed evidence in the record shows that a skilled artisan would have recognized that the combination of Walton and the teachings regarding C++ templates in Stroustrup would yield the claimed invention and would have combined the two. This amply supports the Board’s finding that “a person of ordinary skill in the art would have applied the teachings of the Stroustrup manual regarding templates to Walton’s VSE system.” J.A. 37.
+ 
+We note the pendency of en banc review by this court in In re Aqua Products, Inc. on whether “the PTO [may] require the patent owner to bear the burden of persuasion, or the burden of production, regarding patentability of the amended claims” in a motion to amend. 833 F.3d 1335, 1336 (Fed. Cir. 2016) (Mem.). However, the decision would have no impact on the outcome in this case. To the extent Micrografx challenges the Board’s claim construction of its proposed claims, we resolve the question on the intrinsic record and our review is de novo. See Microsoft Corp. v. Proxyconn, Inc., 789 F.3d 1292, 1297 (Fed. Cir. 2015). To the extent Micrografx challenges the evidence supporting the Board’s finding of unpatentability of its proposed claims, the overwhelming evidence in the record supports the Board’s finding, even if Google carried the burden of production and the burden of persuasion to show unpatentability. The Board did not abuse its discretion by denying Micrografx motion to amend.
+ 
+
+CONCLUSION
+We reverse the Board’s claim construction of the “external shape” limitation, affirm the Board’s finding of anticipation by Walton of claims 1–4, 6, 8–11, 13, and 15 of the ’633 patent, and affirm the Board’s denial of Micrografx’s motion for leave to amend.
+ 
+AFFIRMED
+ 
+All Citations
+672 Fed.Appx. 988
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

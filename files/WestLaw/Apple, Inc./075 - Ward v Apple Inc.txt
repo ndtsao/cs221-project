@@ -1,0 +1,561 @@
+
+
+ 
+
+
+Ward v. Apple Inc.
+United States Court of Appeals, Ninth Circuit. | June 29, 2015 | 791 F.3d 1041 | 2015 WL 3938072
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+standard Citation:
+
+Ward v. Apple Inc., 791 F.3d 1041 (9th Cir. 2015)
+
+All Citations:
+
+791 F.3d 1041, 2015-2 Trade Cases P 79,226, 91 Fed.R.Serv.3d 2031, 15 Cal. Daily Op. Serv. 6986, 2015 Daily Journal D.A.R. 7553
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+791 F.3d 1041
+United States Court of Appeals,
+Ninth Circuit.
+Zack WARD; Thomas Buchar, on behalf of themselves and all others similarly situated, Plaintiffs–Appellants,
+v.
+APPLE INC., Defendant–Appellee.
+No. 12–17805.
+|
+Argued and Submitted Jan. 16, 2015.
+|
+Filed June 29, 2015.
+Synopsis
+Background: Consumers brought putative class action against multinational technology company which designed smartphone, alleging exclusivity agreement with voice and data services provider to provide such services for its smartphones violated federal antitrust laws. The United States District Court for the Northern District of California, Yvonne Gonzalez Rogers, J., dismissed action for failure to join provider as party.
+ 
+Holdings: The Court of Appeals, M. Smith, Circuit Judge, held that:
+ 
+[1] dismissal of action constituted “adverse judgment” providing appellate jurisdiction;
+ 
+[2] provider was not required party in action;
+ 
+[3] District Court abused its discretion by failing to identify provider’s interests in action;
+ 
+[4] risk of regulatory scrutiny did not give provider legally protected interest requiring joinder in action;
+ 
+[5] provider’s reputational interests did not give provider legally protected interest requiring joinder in action; and
+ 
+[6] provider’s contractual interests did not give provider legally protected interest requiring joinder in action.
+ 
+Reversed and remanded.
+ 
+Wallace, Circuit Judge, issued dissenting opinion.
+ 
+
+
+West Headnotes (12)
+
+
+[1]
+
+Federal CourtsParticular persons
+Federal CourtsClass actions
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(B)Appellate Jurisdiction and Procedure in General
+170Bk3253Persons Entitled to Seek Review or Assert Arguments;  Parties;  Standing
+170Bk3255Particular persons
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(C)Decisions Reviewable
+170BXVII(C)2Particular Decisions, Matters, or Questions as Reviewable
+170Bk3297Parties and Process
+170Bk3299Class actions
+
+
+District Court’s dismissal of putative antitrust class action brought by consumers against multinational technology company which designed smartphone, arising from company’s exclusivity agreement with voice and data services provider to provide such services for its smartphones, on basis that consumers failed to join provider as necessary party, constituted “adverse judgment” providing appellate jurisdiction, notwithstanding that parties stipulated to resolution of joinder issue based on briefing in prior related action, as order dismissing action with prejudice was final decision on merits. 28 U.S.C.A. § 1291; Fed.Rules Civ.Proc.Rule 19(a), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsParties
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3585Parties
+170Bk3585(1)In general
+
+
+The Court of Appeals reviews the district court’s decision to dismiss for failure to join an indispensable party for abuse of discretion; however, to the extent the district court’s determination whether a party’s interest is impaired involves a question of law, the court reviews the decision de novo. Fed.Rules Civ.Proc.Rule 19, 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[3]
+
+Federal Civil ProcedureParticular, Necessary or Indispensable Parties
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(E)Necessary Joinder
+170AII(E)2Particular, Necessary or Indispensable Parties
+170Ak211In general
+
+
+It is not necessary for all joint tortfeasors to be named as defendants in a single lawsuit. Fed.Rules Civ.Proc.Rule 19, 28 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[4]
+
+Antitrust and Trade RegulationPersons liable
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk968Persons liable
+
+
+Antitrust conspirators are liable for the acts of their co-conspirators.
+4 Cases that cite this headnote
+
+
+
+[5]
+
+Antitrust and Trade RegulationPersons liable
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk959Right of Action;  Persons Entitled to Sue;  Standing;  Parties
+29Tk968Persons liable
+
+
+A plaintiff in an antitrust action is not required to sue all alleged conspirators as required parties, inasmuch as antitrust co-conspirators are jointly and severally liable for all damages caused by the conspiracy. Fed.Rules Civ.Proc.Rule 19(a)(1)(A), 28 U.S.C.A.
+7 Cases that cite this headnote
+
+
+
+[6]
+
+Federal Civil ProcedureContracting parties, subcontractors, and sureties and guarantors thereof
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(E)Necessary Joinder
+170AII(E)2Particular, Necessary or Indispensable Parties
+170Ak214Contracting parties, subcontractors, and sureties and guarantors thereof
+
+
+Voice and data services provider was not required party in putative class action brought by consumers against multinational technology company which designed smartphone, alleging exclusivity agreement to provide voice and data services for smartphones violated federal antitrust laws; if consumers prevailed in action, they would be able to recover all of their damages from company alone, without naming provider as party. Fed.Rules Civ.Proc.Rule 19(a)(1)(A), 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[7]
+
+Federal Civil ProcedureParticular, Necessary or Indispensable Parties
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(E)Necessary Joinder
+170AII(E)2Particular, Necessary or Indispensable Parties
+170Ak211In general
+
+
+An absent party’s role as a joint tortfeasor does not preclude it from having an interest in the action that warrants protection through joinder as required party in action. Fed.Rules Civ.Proc.Rule 19(a)(1)(B)(i), 28 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[8]
+
+Federal Civil ProcedureContracting parties, subcontractors, and sureties and guarantors thereof
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(E)Necessary Joinder
+170AII(E)2Particular, Necessary or Indispensable Parties
+170Ak214Contracting parties, subcontractors, and sureties and guarantors thereof
+
+
+District Court abused its discretion by failing to identify interests of voice and data services provider in putative class action brought by consumers against multinational corporation which designed smartphone, alleging exclusivity agreement with provider to provide voice and data services for smartphones violated federal antitrust laws, and by failing to address how those interests, if any, might be impaired if action was resolved if provider was not joined as required party. Fed.Rules Civ.Proc.Rule 19(a)(1)(B), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[9]
+
+Federal Civil ProcedureContracting parties, subcontractors, and sureties and guarantors thereof
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(E)Necessary Joinder
+170AII(E)2Particular, Necessary or Indispensable Parties
+170Ak214Contracting parties, subcontractors, and sureties and guarantors thereof
+
+
+Risk of regulatory scrutiny did not give voice and data services provider a legally protected interest, such it was required party to be joined, in putative class action brought by consumers against multinational corporation which designed smartphone, alleging exclusivity agreement with provider to provide voice and data services for smartphones violated federal antitrust laws; there was no suggestion that collateral regulatory consequences provider might face in action would be any more severe, or likely to occur, than in typical case alleging antitrust conspiracy. Fed.Rules Civ.Proc.Rule 19(a), 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[10]
+
+Federal Civil ProcedureContracting parties, subcontractors, and sureties and guarantors thereof
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(E)Necessary Joinder
+170AII(E)2Particular, Necessary or Indispensable Parties
+170Ak214Contracting parties, subcontractors, and sureties and guarantors thereof
+
+
+Reputational interests of voice and data services did not give provider a legally protected interest, such that it was required party to be joined, in putative class action brought by consumers against multinational corporation which designed smartphone, alleging exclusivity agreement with provider to provide voice and data services for smartphones violated federal antitrust laws; joint tortfeasor’s reputation generally would be adversely impacted in any case accusing it of wrongdoing, such that protected interest in business reputation would significantly erode general rule that plaintiff need not join all joint tortfeasors in one action. Fed.Rules Civ.Proc.Rule 19(a), 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[11]
+
+Federal Civil ProcedureContracting parties, subcontractors, and sureties and guarantors thereof
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(E)Necessary Joinder
+170AII(E)2Particular, Necessary or Indispensable Parties
+170Ak214Contracting parties, subcontractors, and sureties and guarantors thereof
+
+
+Under some circumstances, an absent party’s contract rights may give it a legally protected interest requiring its joinder in an action. Fed.Rules Civ.Proc.Rule 19(a), 28 U.S.C.A.
+7 Cases that cite this headnote
+
+
+
+[12]
+
+Federal Civil ProcedureContracting parties, subcontractors, and sureties and guarantors thereof
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(E)Necessary Joinder
+170AII(E)2Particular, Necessary or Indispensable Parties
+170Ak214Contracting parties, subcontractors, and sureties and guarantors thereof
+
+
+Contractual interests of voice and data services provider did not give provider a legally protected interest, such that it was required party to be joined, in putative class action brought by consumers against multinational corporation which designed smartphone, alleging exclusivity agreement with provider to provide voice and data services for smartphones violated federal antitrust laws; provider did not have right to control software locks on phones that purportedly enforced agreements, it was unclear whether provider’s service agreements with consumers gave it protected interest in action, and provider did not have legally protected interest in whether corporation could compel arbitration under provider’s service agreement with consumers. Fed.Rules Civ.Proc.Rule 19(a), 28 U.S.C.A.
+6 Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1043 Mark C. Rifkin (argued), Alexander H. Schmidt, and Michael Liskow, Wolf Haldenstein Adler Freeman & Herz LLP, New York, New York; Francis M. Gregorek and Rachele R. Rickert, Wolf Haldenstein Adler Freeman & Herz LLP, San Diego, CA; Randall S. Newman, Randall S. Newman P.C., New York, N.Y., for Plaintiff–Appellant Zack Ward.
+Adam J. Levitt, Grant & Eisenhofer P.A., Chicago, IL, for Plaintiff–Appellant Thomas Buchar.
+Daniel M. Wall (argued) and Christopher S. Yates, Latham & Watkins LLP, San Francisco, CA; J. Scott Ballenger and Roman Martinez, Latham & Watkins LLP, Washington, D.C., for Defendant–Appellee.
+Appeal from the United States District Court for the Northern District of California, Yvonne Gonzalez Rogers, District Judge, Presiding. D.C. No. 4:12–cv–05404–YGR.
+Before: J. CLIFFORD WALLACE, MILAN D. SMITH, JR., and MICHELLE T. FRIEDLAND, Circuit Judges.
+
+Opinion by Judge MILAN D. SMITH, JR.; Dissent by Judge WALLACE.
+
+
+OPINION
+M. SMITH, Circuit Judge:
+Zack Ward and Thomas Buchar (Plaintiffs) filed a putative class action against Apple Inc. (Apple), alleging that Apple conspired with AT & T Mobility (ATTM) to violate federal antitrust laws. The Plaintiffs’ claims relate to Apple’s exclusivity agreement with ATTM that ATTM would be the exclusive provider of voice and data services for Apple’s iPhone. The Plaintiffs appeal from the district court’s order dismissing their claims under Federal Rule of Civil Procedure 19 for failure to join ATTM as a defendant.
+ 
+In this opinion, we consider the contours of the general rule that antitrust co-conspirators need not be joined in one action. The Plaintiffs argue that the district court’s determination that ATTM was a required party under Rule 19 runs counter to this rule. The Plaintiffs also contend that, even if ATTM could otherwise qualify as a required party, Apple has not shown that ATTM actually asserts any interests in this action, or that its interests warrant protection under Rule 19.
+ 
+We reverse the district court’s judgment, and remand for further proceedings.
+ 
+
+FACTUAL AND PROCEDURAL BACKGROUND
+This appeal is from the third of three related putative class actions asserting antitrust claims against Apple in connection with its exclusivity agreement (Exclusivity Agreement) with ATTM.
+ 
+
+I. Antitrust Allegations
+Apple began selling the iPhone in June of 2007. Apple entered into an agreement with ATTM that ATTM would be the exclusive provider of voice and data services for the iPhone for five years. The Plaintiffs allege that Apple installed “software *1044 locks” on each iPhone it sold in order to enforce ATTM’s exclusivity. These locks prevented ATTM customers who used iPhones from switching to voice and data services providers who competed with ATTM. The Plaintiffs allege that they were not informed that they would be locked into ATTM’s services for five years. They further allege that the Exclusivity Agreement enabled ATTM to charge supra-competitive prices for wireless services, and that Apple shared in ATTM’s revenues pursuant to the Exclusivity Agreement.
+ 
+
+II. Apple I
+Nine Apple customers filed putative class actions against Apple and ATTM in the Northern District of California in the summer and fall of 2007. These actions were consolidated before Judge Ware as In re Apple AT & TM Anti–Trust Litigation, No. 5:07–cv–05152–JW (N.D.Cal.) (Apple I ). The plaintiffs in Apple I asserted claims under § 2 of the Sherman Act, 15 U.S.C. § 2, among other claims.
+ 
+In 2008 and 2009, the district court denied motions by Apple and ATTM to dismiss the plaintiffs’ antitrust claims. The district court certified a class on July 8, 2010.
+ 
+ATTM sought to compel arbitration pursuant to an agreement it entered into with its wireless customers. The district court denied the motion, citing the then-applicable Discover Bank rule. 596 F.Supp.2d 1288, 1297–99 (N.D.Cal.2008) (citing Discover Bank v. Superior Court, 36 Cal.4th 148, 30 Cal.Rptr.3d 76, 113 P.3d 1100 (2005) (holding that, under some circumstances, class action waivers in consumer arbitration agreements are unconscionable)). In 2011, following the Supreme Court’s decision in AT & T Mobility LLC v. Concepcion, ––– U.S. ––––, 131 S.Ct. 1740, 179 L.Ed.2d 742 (2011), which abrogated Discover Bank, ATTM renewed its motion to compel arbitration. Apple also moved to compel arbitration under ATTM’s agreement.
+ 
+The district court granted both ATTM’s and Apple’s motions to compel arbitration. 826 F.Supp.2d 1168, 1179 (N.D.Cal.2011). It held that because the plaintiffs asserted claims arising out of their agreements with ATTM, which contained arbitration clauses, the plaintiffs were “equitably estopped” from refusing to arbitrate “jointly” against ATTM and Apple. Id. at 1178–79.
+ 
+
+III. Apple II
+In 2011 and 2012, two new groups of Apple customers filed class action complaints in the Northern District of California. These actions were consolidated by Judge Ware as In re Apple iPhone Antitrust Litigation, No. 4:11–cv–06714–YGR (N.D.Cal.) (Apple II ). The consolidated complaint in Apple II alleged antitrust claims that were similar to the claims in Apple I. However, unlike in Apple I, ATTM was not named as a defendant in Apple II. Apple moved to compel arbitration on the same grounds it asserted in Apple I. The district court denied Apple’s motion, finding that the plaintiffs were not equitably estopped from refusing to arbitrate their claims against Apple. Unlike the Apple I plaintiffs, the court reasoned, the Apple II plaintiffs had pled their claims against Apple alone, without “intertwining” them with ATTM’s wireless service agreement. 874 F.Supp.2d 889, 898–99 (N.D.Cal.2012).
+ 
+Apple also sought dismissal under Rule 12(b)(7), arguing that ATTM was a required party under Rule 19. Id. at 899. In support of its motion, Apple submitted a declaration from ATTM’s counsel from the Apple I litigation. The declaration stated, in pertinent part:
+ATTM is aware of this litigation.... ATTM has an interest in this case, since *1045 the Consolidated Complaint alleges that ATTM is a monopolist and makes various allegations regarding the service ATTM provides to ATTM customers using iPhones.... However, ATTM has not intervened in this suit because, given the ruling in [Apple I], any such claims must be arbitrated. If ATTM were to be joined to this litigation, ATTM would move to compel arbitration....
+ 
+In response, the district court held that ATTM was a necessary party. The court reasoned:
+[I]n order to evaluate Plaintiffs’ antitrust claims in regard to the alleged conspiracy to monopolize the alleged iPhone Voice and Data Services Aftermarket, the Court will be required to evaluate ATTM’s conduct, insofar as Plaintiffs allege, inter alia, that ATTM unlawfully achieved market power in that Aftermarket due to the conspiracy and thereby foreclosed other companies from entering the market.... Such an evaluation of ATTM’s conduct would necessarily implicate the interests of ATTM, which means that ATTM is a necessary party pursuant to Rule 19(a).
+Id. at 900 (citing Laker Airways, Inc. v. British Airways, PLC, 182 F.3d 843, 847–48 (11th Cir.1999)). The district court ordered that the claim relating to monopolization of the voice and data aftermarket be dropped if ATTM was not joined. See id. at 902 n. 29. Shortly thereafter, Apple II was reassigned to Judge Yvonne Gonzalez Rogers. The plaintiffs declined to join ATTM as a party in their amended complaint, which resulted in the dismissal of their voice and data aftermarket monopolization claim.
+ 
+
+IV. Apple III
+On October 19, 2012, the present Plaintiffs initiated this putative class action against Apple in Ward v. Apple Inc., 4:12–cv–05404–YGR (N.D.Cal.) (Apple III ), asserting a single claim that Apple conspired to monopolize the aftermarket for iPhone voice and data services. ATTM was not named as a defendant. The case was consolidated with Apple II. The parties in Apple III stipulated to submit the Apple II briefs on the Rule 19 issue, and agreed that the district court should grant Apple’s motion to dismiss under Rule 12(b)(7) if the court decided to follow Judge Ware’s decision in Apple II. The district court granted the motion “for the reasons set forth in Judge Ware’s July 11, 2012 Order,” and entered judgment in favor of Apple. The Plaintiffs filed a timely notice of appeal.
+ 
+
+JURISDICTION AND STANDARD OF REVIEW
+[1] We have appellate jurisdiction under 28 U.S.C. § 1291 because this is an appeal from a final decision of the district court. We respectfully disagree with the dissent’s conclusion that the judgment below was not “adverse” to the Plaintiffs, as our case law has defined that term.
+ 
+The dissent contends that we “only” have jurisdiction over appeals from final decisions of the district court that are “involuntary and adverse to the appellant.” This statement of our law is too broad. We have repeatedly recognized that voluntary dismissals with prejudice that produce an adverse final judgment may be appealed. See Berger v. Home Depot USA, Inc., 741 F.3d 1061, 1065 (9th Cir.2014); Concha v. London, 62 F.3d 1493, 1506–09 (9th Cir.1995); Unioil, Inc. v. E.F. Hutton & Co., 809 F.2d 548, 556 (9th Cir.1986); Coursen v. A.H. Robins Co., 764 F.2d 1329, 1342, corrected, 773 F.2d 1049 (9th Cir.1985). It is true that our decision in Seidman v. City of Beverly Hills, 785 F.2d 1447, 1448 (9th Cir.1986), contained broad language stating that “[a] plaintiff may not appeal a voluntary dismissal because it is not an involuntary *1046 adverse judgment against him.” However, our decision in Concha v. London clarified that a plaintiff “may appeal from a voluntary dismissal with prejudice, at least where the plaintiff is not acting pursuant to a settlement agreement intended to terminate the litigation.” 62 F.3d at 1057 (emphasis omitted). In doing so, Concha specifically interpreted Seidman to stand for the narrower principle that a plaintiff may not “appeal from a joint stipulation to voluntary dismissal, entered unconditionally by the court pursuant to a settlement agreement.” Id. (emphasis added). And, as the dissent acknowledges, we held in Berger v. Home Depot USA, Inc. that “absent a settlement, a stipulation alone does not destroy [the] adversity” required for appellate jurisdiction. 741 F.3d at 1065.
+ 
+The dissent’s conclusion that this judgment was not adverse to the Plaintiffs appears to be based, in part, on a definition of “adverse” that is without basis in our case law concerning statutory appellate jurisdiction. The dissent contends that a judgment is not adverse if “no adverse positions were taken by the parties” or if the issue was not “actually litigated.” The dissent appears to understand “adverse” to refer to whether the proceedings were sufficiently adversarial. Of course, parties must be sufficiently adverse to one another for a justiciable controversy to exist, see, e.g., United States v. Johnson, 319 U.S. 302, 304–05, 63 S.Ct. 1075, 87 L.Ed. 1413 (1943), but we do not understand the dissent to argue that this appeal is non-justiciable because it lacks sufficient adversity for Article III purposes, but rather only that we lack statutory appellate jurisdiction. In construing our statutory jurisdiction, we have consistently used the term “adverse” to refer to whether a judgment was prejudicial to a party, not whether the parties took sufficiently adverse positions. For example, in Concha v. London we explained that
+[u]nder Coursen and Unioil, the appealability of a voluntary dismissal ordinarily depends on whether the action was dismissed with or without prejudice. The basic principle we follow is that the plaintiff may appeal a voluntary dismissal only when it is with prejudice to his right to commence another action for the same cause or otherwise subjects him to prejudicial terms or conditions.
+62 F.3d at 1507. We went on to explain that “[a] voluntary dismissal without prejudice is not adverse to the plaintiff’s interests ... [because] [t]he plaintiff is free to seek an adjudication of the same issue at another time in the same or another forum.” Id. By contrast, a voluntary dismissal with prejudice is adverse to the plaintiff’s interests because “the plaintiff submits to a judgment that serves to bar his claims forever.” Id. The judgment in this case is adverse to the Plaintiffs because it bars their claims in future proceedings. The requirement of an adverse judgment is therefore not a barrier to appellate jurisdiction in this case.
+ 
+Reading between the lines, the dissent appears to be concerned that the parties effectively agreed with Judge Rogers to manufacture appellate jurisdiction without presenting the Rule 19 issue to her for an independent decision. But the record simply does not compel the conclusion that Judge Rogers did not make an independent decision here. The dissent infers from the record that Judge Rogers “understood that the Plaintiffs were not asking her to rule on the merits of the Rule 19 issue, but rather were attempting only to create a vehicle for appellate review of Judge Ware’s order....” (emphasis omitted). However, the Amended Joint Case Management Statement clearly presented the Rule 19 issue as a decision for Judge Rogers to make:
+*1047 For the sake of efficiency, Plaintiffs have proposed submitting to the Court the prior briefing on Apple’s Motion to Dismiss Plaintiffs’ Consolidated Complaint in the related case, In re Apple iPhone Antitrust Litigation.... Should the Court decide to issue the same ruling in this case.... Plaintiffs will stand on their existing complaint and not add ATTM as a party. Therefore any such dismissal will become final and immediately appealable to the Ninth Circuit Court of Appeals.
+At the subsequent case management conference, Judge Rogers stated:
+[I]t sounds like the issues that you’re asking me to decide on both sides have already been decided, so I don’t know why we’re going through this process again. I don’t know why we have another complaint that doesn’t include as a defendant AT & T, which ... Judge Ware told you you needed to have as a ... party to the litigation.
+The dissent interprets these comments to mean that Judge Rogers was “confused” initially about the “unusual procedure” proposed by the parties. But Judge Rogers’s comments could also be interpreted to mean that she had analyzed the issue and was inclined to issue the same ruling as Judge Ware. In deciding whether to dismiss the case, Judge Rogers had the benefit of the Apple II briefing. By signing the order dismissing the case with prejudice “for the reasons set forth in Judge Ware’s July 12, 2012 Order,” Judge Rogers issued a final decision on the merits. This was sufficient to give us appellate jurisdiction to review the decision.1
+ 
+In sum, because we find that the judgment below was the product of a final decision of the district court and was adverse to the Plaintiffs, we are satisfied that we have statutory jurisdiction.
+ 
+[2] We review the district court’s decision to dismiss for failure to join an indispensable party for abuse of discretion. Dawavendewa v. Salt River Project Agric. Improvement & Power Dist., 276 F.3d 1150, 1154 (9th Cir.2002). However, “[t]o the extent that the district court’s determination whether a party’s interest is impaired involves a question of law, we review de novo.” Id. (quoting Pit River Home & Agric. Coop. Ass’n v. United States, 30 F.3d 1088, 1098 (9th Cir.1994)).
+ 
+
+DISCUSSION
+The Plaintiffs argue, on several grounds, that the district court abused its discretion in finding that ATTM was a necessary party under Rule 19. The Plaintiffs contend that the district court’s decision runs counter to the general rule that joint tortfeasors need not be joined in one action. The Plaintiffs also assert that Apple has not shown that ATTM claims any interest in this action because ATTM has stated that it would seek to compel arbitration if joined, and because ATTM has no contracts with Apple that might be affected by this litigation. The Plaintiffs further argue that, even if ATTM has claimed an interest in this action, Apple has not shown that ATTM’s interests are “legally protected,” or that they may be impaired by resolution of this action in ATTM’s absence. Therefore, the Plaintiffs contend, it was error for the district court to find that ATTM was a necessary party based on its alleged role in the conspiracy without first specifying which legally protected interests *1048 ATTM had in the action. We address these arguments in turn.
+ 
+
+I. Joinder of Joint Tortfeasors under Rule 19
+Under Rule 19, a “required party” must be joined as a party in an action if doing so is “feasible.” Fed.R.Civ.P. 19. Rule 19(a)(1) defines “required party,” and establishes two broad categories of required parties. First, under Rule 19(a)(1)(A), a party is required if “in that person’s absence, the court cannot accord complete relief among existing parties.” Second, under Rule 19(a)(1)(B), a party is required if:
+that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person’s absence may: (i) as a practical matter impair or impede the person’s ability to protect the interest; or (ii) leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
+ 
+According to Rule 19’s text, two conditions must be satisfied for a party to qualify as a “required party” under Rule 19(a)(1)(B). First, the party must “claim[ ] an interest relating to the subject of the action.” Fed.R.Civ.P. 19(a)(1)(B). Second, the party must be “so situated that disposing of the action in the person’s absence” may have one of the two consequences enumerated in Rule 19(a)(1)(B)(i) and (a)(1)(B)(ii). There must either be a possibility that disposing of the action in the person’s absence will “as a practical matter impair or impede the person’s ability to protect the interest,” or a possibility that doing so will “leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.”
+ 
+The Plaintiffs argue that the district court’s decision runs counter to the longstanding principle that joint tortfeasors need not be joined in one action. For the reasons that follow, we conclude that although the allegation that an entity is a joint tortfeasor with the defendant does not mean the entity must be joined in one action under Rule 19(a)(1)(A), there may be circumstances in which an alleged joint tortfeasor has particular interests that cannot be protected in a legal action unless it is joined under Rule 19(a)(1)(B). We therefore need to analyze the facts of this case to determine whether ATTM is a required party in this action under Rule 19(a)(1)(B).
+ 
+[3] [4] [5] “It has long been the rule that it is not necessary for all joint tortfeasors to be named as defendants in a single lawsuit.” Temple v. Synthes Corp., 498 U.S. 5, 7, 111 S.Ct. 315, 112 L.Ed.2d 263 (1990) (per curiam); see also Fed.R.Civ.P. 19 advisory committee’s note to 1966 amend. (noting that “a tortfeasor with the usual ‘joint-and-several’ liability is merely a permissive party to an action against another with like liability”). Antitrust conspirators are liable for the acts of their co-conspirators. United States v. Socony–Vacuum Oil Co., 310 U.S. 150, 253–54, 60 S.Ct. 811, 84 L.Ed. 1129 (1940); Beltz Travel Serv., Inc. v. Int’l Air Transp. Ass’n, 620 F.2d 1360, 1367 (9th Cir.1980). It therefore follows that a plaintiff is “not required to sue all of the alleged conspirators inasmuch as antitrust coconspirators are jointly and severally liable for all damages caused by the conspiracy.” William Inglis & Sons Baking Co. v. ITT Cont’l Baking Co., Inc., 668 F.2d 1014, 1053 (9th Cir.1982); see also Lawlor v. Nat’l Screen Serv. Corp., 349 U.S. 322, 330, 75 S.Ct. 865, 99 L.Ed. 1122 (1955) (holding that joinder of alleged antitrust coconspirators was not mandatory “since as joint tort-feasors they were not indispensable parties”); *1049 Georgia v. Penn. R.R., 324 U.S. 439, 463, 65 S.Ct. 716, 89 L.Ed. 1051 (1945) (“In a suit to enjoin a conspiracy not all the conspirators are necessary parties....”).
+ 
+[6] For this reason, an absent antitrust co-conspirator generally will not be a required party under Rule 19(a)(1)(A), which applies only when a party’s absence prevents the court from “accord[ing] complete relief among existing parties.” This case, for example, illustrates why according complete relief will usually be possible without joining an absent coconspirator like ATTM. If the Plaintiffs prevail, they will be able to recover all of their damages from Apple alone, see Socony–Vacuum, 310 U.S. at 253–54, 60 S.Ct. 811, without naming ATTM as a party. Accordingly, ATTM is not a required party under Rule 19(a)(1)(A).
+ 
+[7] It does not follow, however, that an absent antitrust coconspirator like ATTM cannot be a required party under Rule 19(a)(1)(B)(i), the purpose of which is to protect the interests of absent parties. Stated differently, an absent party’s role as a joint tortfeasor does not preclude it from having an interest in the action that warrants protection. See Home Buyers Warranty Corp. v. Hanna, 750 F.3d 427, 433–34 (4th Cir.2014); Occidental Petroleum Corp. v. Buttes Gas & Oil Co., 331 F.Supp. 92, 105–06 (C.D.Cal.1971) (acknowledging the general rule that “antitrust co-conspirators need not be joined,” but observing that “[i]n the present case, [the co-conspirator’s] status as a joint tortfeasor would not as a practical matter negate its status as a contractual party, with interests that are covered by Rule 19(a)”), aff’d, 461 F.2d 1261 (9th Cir.1972) (per curiam). It is true that ATTM does not face any damages exposure in this action. But our cases have made it clear that, under some circumstances, the equitable relief sought in an action may make an absent party required under Rule 19(a)(1)(B)(i). See, e.g., Wilbur v. Locke, 423 F.3d 1101, 1111–14 (9th Cir.2005) (holding that an Indian tribe was a necessary party to a suit seeking to invalidate a contract to which it was a party), abrogated on other grounds by Levin v. Commerce Energy, Inc., 560 U.S. 413, 130 S.Ct. 2323, 176 L.Ed.2d 1131 (2010); Manybeads v. United States, 209 F.3d 1164, 1166 (9th Cir.2000); Northrop Corp. v. McDonnell Douglas Corp., 705 F.2d 1030, 1044 (9th Cir.1983) (“[A]ll parties who may be affected by a suit to set aside a contract must be present.”). For this reason, ATTM’s role as an antitrust co-conspirator is not alone dispositive of whether it has interests that warrant protection under Rule 19(a)(1)(B)(i). Therefore, we must analyze the particular facts here to determine whether ATTM is a required party under Rule 19(a)(1)(B).
+ 
+
+II. The District Court Erred by Failing to Specify the Interests ATTM Claimed
+[8] The Plaintiffs next contend that the district court erred by holding that ATTM was a required party without specifically identifying ATTM’s interests or addressing how those interests might be impaired if the action were resolved in its absence. We agree, and conclude that the district court abused its discretion by failing to identify ATTM’s interests in this action, or address how those interests, if any, might be impaired if this action were resolved in its absence, as required by Rule 19(a)(1)(B).
+ 
+As with any Rule 19(a)(1)(B) case, deciding whether an absent joint tortfeasor is a required party requires identifying the specific interest the absent party claims and determining whether the party’s ability to protect that interest may be impaired despite the fact that it has not been named as a party in the action. Compare Wilbur, 423 F.3d at 1111–14 (holding that an absent *1050 Indian tribe was a required party in an action to invalidate a contract between the state and the tribe, and finding that the state could not adequately protect the tribe’s interests in the litigation), with Cachil Dehe Band of Wintun Indians of the Colusa Indian Cmty. v. California, 547 F.3d 962, 970–72 (9th Cir.2008) (holding that absent Indian tribes were not required parties in an action asserting that the state breached a tribal-gaming compact, in part because the absent tribes’ interest did not “arise[ ] from terms in bargained contracts” (quoting Am. Greyhound Racing, Inc. v. Hull, 305 F.3d 1015, 1023 (9th Cir.2002))).
+ 
+We cannot discern whether the district court in Apple II applied the requirements of Rule 19(a)(1)(B) when it determined that ATTM was a required party. The court did not identify any specific interest ATTM claimed in the action or explain how ATTM’s ability to protect that interest might be impaired by resolution of the action in its absence. Instead, the district court held that “if a plaintiff’s antitrust claims require a court to evaluate the conduct of an absent party that is alleged to be an antitrust co-conspirator with a defendant, thereby substantially implicating [the] interests of that party, the absent party is necessary pursuant to Rule 19(a).” In re Apple iPhone Antitrust Litig., 874 F.Supp.2d 889, 899 (N.D.Cal.2012) (alteration in original) (internal quotation marks omitted). The court reasoned that it would be “required to evaluate ATTM’s conduct,” and that “[s]uch an evaluation ... would necessarily implicate the interests of ATTM, which means that ATTM is a necessary party pursuant to Rule 19(a).” Id. at 900 (citing Laker Airways, Inc. v. British Airways, PLC, 182 F.3d 843, 847–48 (11th Cir.1999)). Thus, the court concluded, “because the alleged conspiracy is with ATTM to monopolize or attempt to monopolize the aftermarket for voice and data services, ... ATTM is a necessary party.” Id. at 901.
+ 
+However, the fact that the complaint portrayed ATTM as the central player in the alleged antitrust conspiracy does not demonstrate that ATTM is a required party. Instead, whether ATTM is a required party depends on whether ATTM’s interests qualify for protection under Rule 19(a)(1)(B)(i). In many cases, an absent antitrust co-conspirator will not have interests that warrant protection under Rule 19(a)(1)(B)(i), even if it is alleged to have played a central role in the conspiracy, and even if resolution of the action will require the court to evaluate the absent party’s conduct. Therefore, it is essential that courts identify the specific legally protected interests an absent joint tortfeasor claims, and assess how those interests may be impaired when, as a non-party, the outcome of the action will not bind the absent party in future proceedings. See Blonder–Tongue Labs., Inc. v. Univ. of Ill. Found., 402 U.S. 313, 329, 91 S.Ct. 1434, 28 L.Ed.2d 788 (1971). The district court abused its discretion by failing to undertake this inquiry.
+ 
+
+III. Whether the Record Supports a Finding That ATTM Is a Required Party
+Apple contends that, notwithstanding the district court’s failure to specifically enumerate ATTM’s interests, the record supports a finding that ATTM is a required party under Rule 19(a)(1)(B). For the reasons that follow, we conclude that the record does not disclose whether ATTM had an interest in this action that was entitled to protection under Rule 19.
+ 
+
+A. Whether ATTM Claims an Interest
+The Plaintiffs contend that ATTM is not a required party because it has not asserted *1051 any interest in this action. In United States v. Bowen, 172 F.3d 682 (9th Cir.1999), we observed that “[j]oinder is ‘contingent ... upon an initial requirement that the absent party claim a legally protected interest relating to the subject matter of the action,’ ” id. at 689 (quoting Northrop Corp. v. McDonnell Douglas Corp., 705 F.2d 1030, 1043 (9th Cir.1983)). As evidence that ATTM has claimed an interest in this action, Apple cites a declaration from ATTM’s counsel from Apple I, filed in support of Apple’s motion in Apple II.2 The declaration states: “ATTM is aware of this litigation” and “ATTM has an interest in these claims....” The declaration does not indicate whether ATTM’s counsel from Apple I was authorized to state ATTM’s position in Apple II or Apple III. Therefore, it is not perfectly clear whether ATTM has, in fact, asserted an interest in this action.
+ 
+We need not resolve whether the declaration satisfies Bowen ‘s requirement that ATTM claim an interest. Even if we assume that ATTM’s attorney from Apple I was authorized to assert ATTM’s interests in this litigation, Apple has not shown that the interests ATTM has purportedly claimed are legally protected under Rule 19.
+ 
+
+B. Whether There is Record Evidence that ATTM Has Legally Protectable Interests under Rule 19
+We turn now to Apple’s contention that ATTM has a number of interests in this action that, assuming they were claimed by ATTM, qualify for protection under Rule 19(a)(1)(B).
+ 
+We have consistently held that only “legally protected” interests warrant protection under Rule 19. See, e.g., Cachil Dehe Band, 547 F.3d at 970 (observing that a “crucial premise of mandatory joinder ... is that the absent [party] possess[es] an interest in the pending litigation that is ‘legally protected’ ”); Wilbur, 423 F.3d at 1112. We have offered little guidance regarding which interests warrant legal protection under Rule 19. We have clarified that “the interest at stake need not be ‘property in the sense of the due process clause.’ ” Cachil Dehe Band, 547 F.3d at 970 (quoting Am. Greyhound Racing, 305 F.3d at 1023). And we have required that the interest “be more than a financial stake, and more than speculation about a future event.” Id. (internal quotation marks omitted). “Within the wide boundaries set by these general principles, we have emphasized the ‘practical’ and ‘fact-specific’ nature of the inquiry.” Id.
+ 
+Apple has cited several interests of ATTM it contends qualify as cognizable interests under Rule 19. Apple first contends that ATTM faces a risk of collateral consequences as a result of this litigation, including a risk of regulatory scrutiny and harms to its reputation. Apple also contends that ATTM has a number of contractual rights that may be impaired if this action is resolved in its absence.
+ 
+
+1. Risk of Regulatory Scrutiny
+[9] We have not had occasion to decide whether the risk that an action will trigger regulatory scrutiny may give an absent antitrust co-conspirator a legally protected interest under Rule 19(a). Without deciding whether such a risk might give an *1052 absent party an interest under different circumstances, we hold that Apple has not shown that the risk of regulatory scrutiny ATTM faces as a result of this action gives ATTM a legally protected interest.
+ 
+Apple relies heavily on the Eleventh Circuit’s decision in Laker Airways, Inc. v. British Airways PLC, 182 F.3d 843 (11th Cir.1999). In Laker Airways, the court considered whether a private corporation appointed by the government of the United Kingdom to coordinate airlines’ requests for landing and take-off times was a necessary party to an action alleging that the corporation conspired with an airline to monopolize the market for passenger air service between two cities. Id. at 845. The Eleventh Circuit held that the district court had not abused its discretion when it found that the coordinating corporation was a required party under Rule 19(a). Id.
+ 
+In finding that the specific circumstances of the case made the corporation’s interests “more significant than those of a routine joint tortfeasor,” id. at 847–48, the court cited the regulatory scrutiny the corporation could face as a result of the litigation. Under the regulations of the United Kingdom, the coordinating corporation was required to be “independent,” and was to act in a “neutral, nondiscriminatory and transparent way.” Id. at 846. United Kingdom law further provided that the corporation’s appointment as coordinator would be withdrawn if the corporation failed to act in an independent manner. Id. The court reasoned:
+[i]n order to prove its antitrust claims, [the plaintiff] would be required to show that [the defendant] acted in other “than an independent manner.” Such a ruling would surely implicate the interests of [the absent corporation] because the United Kingdom’s enabling legislation ... requires that the Secretary of State for Transport withdraw its approval of an appointed coordinator if its behavior is not neutral.
+Id. at 848.
+ 
+Laker Airways is inapposite. There the relevant agency was affirmatively required to withdraw approval of the absent coordinator if its behavior was not neutral. See id. By contrast, there is no suggestion in this case that the collateral regulatory consequences ATTM might face as a result of this action would be any more severe, or likely to occur, than in a typical case alleging an antitrust conspiracy. If the vague risk of increased regulatory scrutiny in this case made ATTM a required party, absent antitrust co-conspirators would, almost always, be required parties in a broad range of antitrust cases. Such a result would eviscerate the general rule that absent antitrust co-conspirators need not be joined in one action. See Lawlor, 349 U.S. at 329, 75 S.Ct. 865; Georgia v. Penn. R.R., 324 U.S. at 463, 65 S.Ct. 716. Moreover, we have been reluctant to recognize legally protected interests based solely on “[s]peculation about the occurrence of a future event.” See Northrop Corp. v. McDonnell Douglas Corp., 705 F.2d 1030, 1046 (9th Cir.1983) (“Speculation about the occurrence of a future event ordinarily does not render all parties potentially affected by that future event necessary or indispensable parties under Rule 19.”); Cachil Dehe Band, 547 F.3d at 973 (holding that absent Indian tribes’ opportunity to obtain licenses under gaming compact was not a legally protected interest where the “likelihood of obtaining future licenses [was] attenuated”). In the absence of any evidence that law-enforcement or regulatory agencies are presently scrutinizing the Exclusivity Agreement, we decline to speculate whether the outcome of this case will impact agencies’ enforcement decisions. For these reasons, we find that Apple has not demonstrated that the risk of regulatory scrutiny gives *1053 ATTM a legally protected interest in this action.
+ 
+
+2. Reputational Interests
+Apple next argues that ATTM is a required party because this action may affect ATTM’s business or reputational interests. This argument is similarly without merit.
+ 
+[10] We are aware of no cases holding that a joint tortfeasor’s reputational interests alone may make it a required party under Rule 19(a). A joint tortfeasor’s reputation generally will be adversely impacted in any case accusing it of wrongdoing. For this reason, recognizing a protected interest in business reputation would significantly erode the general rule that a plaintiff need not join all joint tortfeasors in one action. Recognizing such an interest would also conflict with our precedents holding that a protected interest under Rule 19 “must be more than a financial stake,” Cachil Dehe Band, 547 F.3d at 970 (quoting Makah, 910 F.2d at 558). We conclude that ATTM’s reputational interests in this action are not legally protected under Rule 19.
+ 
+
+3. Contract Interests
+Apple also asserts that ATTM’s contract rights give it a legally protected interest in this action. For the reasons that follow, we find that Apple has not demonstrated that ATTM currently has any substantial contract rights that may be impaired by resolution of this action.
+ 
+[11] Under some circumstances, an absent party’s contract rights may give it a legally protected interest in an action. See, e.g., Wilbur, 423 F.3d 1101; Am. Greyhound Racing, Inc. v. Hull, 305 F.3d 1015, 1022–24 (9th Cir.2002); Manybeads v. United States, 209 F.3d 1164, 1166 (9th Cir.2000). For instance, it is well established that all parties to a contract are necessary in an action to set aside the contract. See Wilbur, 423 F.3d at 1113 (citing cases). Our cases also establish that an absent party may be required in an action seeking equitable relief that would prevent a defendant from fulfilling “substantial” contractual obligations to the absent party. See Am. Greyhound Racing, 305 F.3d at 1023 (holding that absent Indian tribes were necessary parties where “the interest of the tribes arises from terms in bargained contracts, and the interest is substantial”); Cachil Dehe Band, 547 F.3d at 970 (interpreting American Greyhound Racing, Inc. v. Hull to “require[ ]” that the interest arising from terms in bargained contracts be “substantial” to be legally protected). Cf. Wilbur, 423 F.3d at 1113 (“[I]t is a fundamental principle that a party to a contract is necessary, and if not susceptible to joinder, indispensable to litigation seeking to decimate that contract.” (internal quotation marks omitted)). We have not, however, held that an absent party is always required when the relief sought in an action merely implicates an absent party’s contract rights. See Cachil Dehe Band, 547 F.3d at 970 (“[A]n interest that ‘arises from terms in bargained contracts’ may be protected....” (emphasis added)).
+ 
+[12] Apple cites three contract interests of ATTM it contends may be impaired if the action is resolved in ATTM’s absence: (1) ATTM’s right to control unlock codes; (2) rights arising from ATTM’s Wireless Service Agreement (WSA) with customers; and (3) ATTM’s arbitration provisions in the WSA.
+ 
+
+a. Right to Control Unlock Codes
+The Plaintiffs seek a judgment “[o]rdering Apple to provide the unlock code upon request to all members of the Class....” Apple contends that this injunctive relief would conflict with ATTM’s purported contractual right to prevent Apple from unlocking ATTM customers’ iPhones. As a *1054 threshold matter, we must determine whether the record supports a finding that ATTM currently has such a right. The only possible sources of this right in the record are brief excerpts of agreements between Apple and ATTM from 2006 and 2011, and the right is not embodied therein.
+ 
+We begin with the excerpt from the 2006 agreement. The limited excerpt in the record clearly states that any right of ATTM to control unlock codes was only to last during the “Term and the Wind–Down Period.” As Apple’s counsel conceded at oral argument, there is nothing in the record defining the term or wind-down period. Without a definition of the term or wind-down period, we cannot determine whether ATTM still has the right Apple claims it has. We therefore find that the excerpt of the 2006 agreement does not demonstrate that ATTM has any existing right to control unlock codes.
+ 
+We next turn to the excerpt of the 2011 agreement. The first clause of this excerpt appears to condition Apple’s obligation not to unlock iPhones on its use of a SIM solution not offered by AT & T’s SIM suppliers. There is no evidence in the record that Apple ever employed such a solution. In the absence of such evidence, we cannot determine whether ATTM currently has a right to control unlock codes, and cannot find that injunctive relief ordering Apple to disclose unlock codes would impair ATTM’s rights under its contracts with Apple.3
+ 
+
+b. Interests Arising from Wireless Service Agreements with Customers
+Apple next contends that “the District Court will ... inevitably have to interpret the terms of ATTM’s WSA with consumers, in ways that could affect and impair ATTM’s rights under that contract.” We reject this argument.
+ 
+The district court’s decision in Apple II undercuts Apple’s contention that interpretation of ATTM’s WSA is “inevitable.” The district court explicitly noted that “[the] Plaintiffs have not contended that any of their claims arise from ATTM service contracts,” 874 F.Supp.2d at 899, and declined to “reach the question of whether [the] Plaintiffs must rely upon the WSA to advance any or all of their claims,” id. at n. 21.
+ 
+Moreover, even if the district court ultimately interprets these WSAs, ATTM, as a non-party, will not be bound by the district court’s interpretation in subsequent proceedings. See Blonder–Tongue Labs., Inc. v. Univ. of Ill. Found., 402 U.S. 313, 329, 91 S.Ct. 1434, 28 L.Ed.2d 788 (1971) (“Some litigants—those who never appeared in a prior action—may not be collaterally estopped without litigating the issue. They have never had a chance to present their evidence and arguments on the claim. Due process prohibits estopping them despite one or more existing adjudications of the identical issue which stand squarely against their position.”).
+ 
+Lastly, we note that there is no copy of ATTM’s WSA in the record. It is therefore unclear what rights ATTM had under the WSA that might be affected by this action. Nor is there any evidence in the record suggesting that class members are still bound by the WSAs they signed during the class period. The complaint seeks certification of a class of consumers who “purchased wireless voice and data services for the iPhone from October 19, 2008, through *1055 February 3, 2011.” It is plausible that, more than four years after the last WSA in the class period was signed, many class members have entered into new WSAs with ATTM or other carriers.
+ 
+In sum, the record does not disclose whether ATTM’s WSAs with customers give it a legally protected interest in this action.
+ 
+
+c. ATTM’s Arbitration Agreement
+Apple also contends that ATTM has an interest in this action because the district court will have to construe the arbitration provisions in the WSA. This argument is likewise without merit.
+ 
+As long as ATTM is not a party, any construction of the arbitration clause will likely focus on whether Apple may use ATTM’s arbitration clause for Apple’s benefit. See 874 F.Supp.2d at 898–99 (holding that Apple, as a non-signatory to the arbitration agreement, did not satisfy the requirements to invoke the doctrine of equitable estoppel, and declining to compel the plaintiffs to arbitrate their claims against Apple). ATTM does not have a legally protected interest in whether Apple may compel arbitration. Nor will the district court’s construction of the arbitration clause bind ATTM, a nonparty, in future actions. See Blonder–Tongue, 402 U.S. at 329, 91 S.Ct. 1434.
+ 
+For the above reasons, we hold that Apple has not demonstrated that ATTM has a legally protected interest in this action.
+ 
+
+IV. Motion to Dismiss for Failure to State a Claim
+Apple also contends that dismissal is appropriate because the Plaintiffs have failed to adequately plead a claim that ATTM had monopoly power in a relevant market. We decline to decide this issue.
+ 
+The parties stipulated that the district court could enter an order dismissing the case with prejudice for failure to join a necessary party. The district court entered the parties’ stipulated order “grant[ing], with prejudice, Apple’s motion to dismiss [the] Plaintiffs’ Complaint pursuant to Rule 12(b)(7) of the Federal Rules of Civil Procedure.” The stipulated order did not address Apple’s Rule 12(b)(6) argument, or even acknowledge that Apple sought dismissal in Apple III on this ground. Because the district court in Apple III has not ruled on Apple’s Rule 12(b)(6) motion, we decline to consider whether the Plaintiffs’ complaint pleads a claim.
+ 
+
+CONCLUSION
+For the above reasons, we reverse the judgment of the district court, and remand to the district court for further proceedings.
+ 
+REVERSED AND REMANDED.
+ 
+
+WALLACE, Circuit Judge, dissenting:
+
+I respectfully dissent. I would not reach the merits of this appeal because, in my view, we lack jurisdiction to do so. Even if we had jurisdiction, however, I would still decline to reach the merits because the plaintiffs waived any challenge to the errors they now allege on appeal.
+ 
+
+I.
+This case comes to us in a unique procedural posture. For context, I begin with some background on an earlier case, referenced by the majority as “Apple II.” Apple II involved a different set of plaintiffs and a broader set of claims before Judge Ware than those in Apple III, which were before Judge Rogers, and are now before us on appeal.
+ 
+The Apple II Plaintiffs were the first to raise the Rule 19 arguments we now see in the present appeal. But Judge Ware was unpersuaded and ruled against the Apple *1056 II Plaintiffs. The record indicates that Judge Ware’s July 11 order did not address at least some of the arguments made in the Apple II Plaintiffs’ opposition (and which the Apple III Plaintiffs raise here on appeal), including the argument that ATTM itself failed to claim an interest in the litigation, and that any claimed interest was not “cognizable” under Rule 19. Instead of addressing those arguments, Judge Ware’s order relied heavily on the Eleventh Circuit’s Laker Airways case in holding that ATTM was a necessary party under Rule 19 because “the Court will be required to evaluate ATTM’s conduct.”
+ 
+The Apple II Plaintiffs disagreed with Judge Ware’s Rule 19 order. They wanted to appeal from it. But given the interlocutory nature of Judge Ware’s ruling, they were required to wait for a final judgment. The Apple II Plaintiffs did not want to wait, however. In fact, waiting would have been pointless because the Apple II Plaintiffs’ entire litigation hinged on whether ATTM was a necessary party: if ATTM was required to be joined as a necessary party, individual arbitration was almost inevitable; but if ATTM was not required to be joined, Plaintiffs’ case would likely proceed through financially feasible class-action litigation. So, Plaintiffs needed a way to (1) sever any claims that could possibly implicate ATTM (to avoid arbitration), and (2) obtain immediate appellate review of Judge Ware’s Rule 19 analysis for the claims that could implicate ATTM. In the words of Plaintiffs’ counsel, “by keeping the [voice and data] claims together [with the apps claims], we couldn’t get the appellate review of the voice and data dismissal until we finish the apps case.”
+ 
+Accordingly, Plaintiffs’ counsel devised a strategy: a new set of Plaintiffs (Apple III Plaintiffs) would bring a separate action (Apple III ) to “segregate the voice and data claims into Apple III and have only the apps claims left in Apple II.” The premise behind creating the new action, rather than appealing directly from Judge Ware’s ruling in Apple II, was to enhance the Apple II Plaintiffs’ litigation position on appeal. This was done by excising from Apple II any claims that arguably implicated ATTM’s interests. The Apple III Plaintiffs believed that by removing the voice and data claims—which arguably implicated ATTM’s wireless service—from Apple II, “Apple II [could] now proceed strictly as an apps case [without implicating ATTM] and ... Apple III [could] go ahead and be dismissed so that [the Apple III Plaintiffs could] take [Judge Ware’s] Rule 19 ruling up to the Ninth Circuit.”
+ 
+But the Apple III Plaintiffs encountered a problem with this strategy. Because they were not the parties aggrieved by Judge Ware’s Apple II order, they could not appeal from it. They needed Judge Rogers to issue an adverse ruling against them—in Apple III—from which they could appeal. In an attempt to obtain such a ruling expeditiously (that is, without litigating the issue before Judge Rogers) both parties stipulated to import from Apple II all of their respective pleadings and motions, and asked Judge Rogers to rule on them as if they had been brought in the first instance in Apple III. Understandably confused by this rather unusual procedure, Judge Rogers told the parties that
+it sounds like the issues that you’re asking me to decide ... have already been decided, so I don’t know why we’re going through this process again. I don’t know why we have another complaint that doesn’t include as a defendant [ATTM], which ... Judge Ware told you you needed to have as a ... party to the litigation. And if a judge in these [previous] cases has ruled [on that issue] ... then the law says you don’t get a second bite at the apple....1
+ 
+*1057 Counsel for the Apple III Plaintiffs responded that they had proceeded in this fashion “to limit ... the amount of work the court has to do, [and] to streamline things.” After explaining in detail the procedural history from Apple I and Apple II, counsel for the Apple III Plaintiffs told Judge Rogers that the point of the new Apple III litigation was to “create ... a device” to achieve appellate review of Judge Ware’s interlocutory order. That device, counsel explained, was a stipulation to dismiss the Apple III Plaintiffs’ claims with prejudice, but based on Judge Ware’s reasoning from the prior case, without having Judge Rogers make that determination anew as applied to them. In other words, Plaintiffs’ counsel said that the Apple III Plaintiffs were “willing to stipulate with Apple ... that the complaint ought to be dismissed based on Judge Ware’s ... ruling in Apple II ” because they assumed “the court would issue the same ruling it issued last time, which is that [ATTM] is a necessary and indispensable party in Apple III.”
+ 
+Once Judge Rogers understood that the Plaintiffs were not asking her to rule on the merits of the Rule 19 issue, but rather were attempting only to create a vehicle for appellate review of Judge Ware’s order, Judge Rogers directed the parties to “come up with a plan” and to submit a stipulation that they believed would achieve their goals. Counsel for the Apple III Plaintiffs asked Judge Rogers if she would “prefer a form of order that essentially grants the 12(b)(7) motion,” but Judge Rogers, having earlier emphasized that the court was “overwhelmed right now” and that she was “not interested in doing busy work,” said that “[i]f the two of you can work it out so that you both have what you need in the record and all you really need is my signature,” “I would like to just (indicating) ... stamp something.” She concluded, “unless there’s some dispute ... then I don’t need to be involved, [except] to just put my signature.”
+ 
+The Apple III Plaintiffs later submitted a joint stipulation to dismiss their claims under Rule 19 “[f]or the reasons set forth in Judge Ware’s ... Order” from Apple II. Judge Rogers—as she had promised—then signed the proposed order granting the dismissal “PURSUANT TO THE PARTIES’ STIPULATION,” and “for the reasons set forth in Judge Ware’s ... Order.” This appeal followed.
+ 
+
+II.
+In my view, Plaintiffs’ stipulation strategy produced a “final decision” that fails to invoke our statutory appellate jurisdiction because it was not involuntary or adverse to the Plaintiffs. We have statutory jurisdiction only over “appeals from ... final decisions of the district courts,” 28 U.S.C. § 1291, that are both involuntary and adverse to the appellant. See Seidman v. City of Beverly Hills, 785 F.2d 1447, 1448 (9th Cir.1986); Unioil, Inc. v. E.F. Hutton & Co., 809 F.2d 548, 555 (9th Cir.1986) (“To be appealable, an order must be adverse to the appealing party. As a general *1058 rule, a plaintiff may not appeal a voluntary dismissal because it is not an involuntary adverse judgement against him.”), abrogated on other grounds by Townsend v. Holman Consulting Corp., 929 F.2d 1358 (9th Cir.1990) (en banc).
+ 
+We recently stated in Berger v. Home Depot USA, Inc., 741 F.3d 1061, 1065 (9th Cir.2014), that “absent a settlement, a stipulation alone does not destroy th[e] adversity” required for appellate jurisdiction. Id. at 1065. See also Concha v. London, 62 F.3d 1493, 1507 (9th Cir.1995). Relying on Berger and Concha, the majority concludes that the parties’ stipulation to dismiss their claims produced a sufficiently “adverse” judgment because it was not “pursuant to a settlement,” and was “plainly adverse to the Plaintiffs’ interests.”
+ 
+Berger is inapposite, however, because it presupposes procedural facts that do not exist in the present case. Berger involved a single action in which a party argued its case to one judge, the judge considered the argument and ruled against that party, and then the two opposing parties stipulated to dismissal for the sole purpose of obtaining a final appealable judgment. Berger governs that type of case, in which an involuntary, adverse interlocutory ruling merges into a final appealable judgment, see Balla v. Idaho State Bd. Of Corr., 869 F.2d 461, 468 (9th Cir.1989), which is then entered pursuant to a stipulation. For example, had the Apple II Plaintiffs stipulated to dismissal in their case, in order to achieve a final appealable ruling, that stipulation would have fallen squarely within Berger’s holding, and there would be no “adverseness” problem. But this case—Apple III—is different. Here, there was never an involuntary, adverse ruling against the Apple III Plaintiffs because they asked Judge Rogers to adopt Judge Ware’s reasoning against them. See Apple III Dkt. (4:12–cv–05404) No. 24, p. 10–11 (Plaintiffs’ counsel arguing to Judge Rogers that “the complaint [in Apple III ] ought to be dismissed based on Judge Ware’s ... ruling in Apple II.”).
+ 
+Concha is likewise inapposite. Concha says that a stipulated final judgment “with prejudice” is adverse to the plaintiffs’ interests—i.e., it has “sufficient prejudice in a legal sense”—because it “serves to bar his claims forever.” Concha v. London, 62 F.3d 1493, 1507 (9th Cir.1995). But Concha answered in the negative only the question whether a voluntary dismissal “without prejudice” would also be adverse to the Plaintiffs for purposes of statutory jurisdiction. It did not address the question presented in this case: whether a final decision of a district judge is involuntary and adverse to a party who stipulated to a particular analysis against it, and then asked the district judge to order final judgment, in order to argue on appeal that such analysis was actually incorrect.
+ 
+Because the claims and parties in Apple III were different from those in Apple II, Judge Ware’s order from Apple II did not preclude Judge Rogers from deciding the Rule 19 issue in Apple III. Consequently, the Apple III Plaintiffs were required to argue their position independently in Apple III and to obtain an involuntary and adverse ruling against them in order to have an adverse decision from which to appeal. But they failed to do so. They said that they assumed Judge Rogers “would” rule consistently with Judge Ware, but they never in fact argued to Judge Rogers that Judge Ware’s analysis in Apple II was wrong, or that she should rule in their favor on the Rule 19 issue. Rather, they stipulated that Judge Rogers rule against them on the Rule 19 issue for reasons with which they ostensibly disagreed.
+ 
+No case in our circuit stands for the proposition that a non-party to a case can disagree with a judge’s ruling then institute *1059 a new action, before a new judge, alleging a narrower set of claims, in which they urge their judge to adopt the prior judge’s analysis, and still have an involuntary and adverse ruling required for appellate jurisdiction when the new judge signs a stipulated final judgment. No adverseness exists in the new action where the issue was never actually litigated and no adverse positions were taken by the parties.
+ 
+That the purpose of Plaintiffs’ strategy was to fast-track appellate review does not give us license to dispense with the requirement that in every separate action, the parties must take adverse positions on an issue and give the judge an opportunity to rule independently on their claims. Otherwise, parties could manipulate our appellate jurisdiction under the guise of efficiency, in order to circumvent the general rule that the district court be the first to pass judgment by applying a legal rule to a set of claims. Cf. Am. States Ins. Co. v. Dastar Corp., 318 F.3d 881, 885–86 (9th Cir.2003) (“A significant concern in assessing finality is whether the parties have attempted to manipulate our appellate jurisdiction. A party may not engage in manipulation either to create appellate jurisdiction or prevent it.” (citations omitted)).
+ 
+In sum, because the final judgment below was not involuntary and adverse to the Apple III Plaintiffs, I am persuaded that we lack statutory jurisdiction over this appeal.
+ 
+
+III.
+Even if we had statutory jurisdiction, I would conclude that the Apple III Plaintiffs waived the Rule 19 issue by inviting Judge Rogers to adopt the very analysis that they now allege on appeal was erroneous. “ ‘[O]ne may not complain on review of errors below for which he is responsible.’ ” Deland v. Old Republic Life Ins. Co., 758 F.2d 1331, 1336–37 (9th Cir.1985), quoting Hudson v. Wylie, 242 F.2d 435, 448 (9th Cir.1957). See also Portland Gen. Elec. Co. v. U.S. Bank Trust Nat’l Ass’n, 218 F.3d 1085, 1089 (9th Cir.2000).
+ 
+Although the Apple III Plaintiffs stipulated to incorporate both parties’ motions from Apple II, they ultimately drafted a stipulation dismissing their claims “for the reasons set forth in Judge Ware’s July 11, 2012 Order,” instead of first asking Judge Rogers either to revisit Judge Ware’s Rule 19 analysis in Apple II, or to perform her own Rule 19 analysis in which she could embrace their arguments. In fact, counsel for the Apple III Plaintiffs invited Judge Rogers to adopt Judge Ware’s alleged error, arguing that “the complaint [in Apple III ] ought to be dismissed based on Judge Ware’s ... ruling in Apple II.” At bottom, the Apple III Plaintiffs invited Judge Rogers to sign on to an analysis from a different case with the specific intent to argue on appeal that the analysis was erroneous. In doing so, the Apple III Plaintiffs sought improperly to skip over the district court to have us decide the Rule 19 issue in the first instance. They have thereby waived any challenge to the error they invited.
+ 
+All Citations
+791 F.3d 1041, 2015-2 Trade Cases P 79,226, 91 Fed.R.Serv.3d 2031, 15 Cal. Daily Op. Serv. 6986, 2015 Daily Journal D.A.R. 7553
+Footnotes
+
+1
+
+As for the dissent’s conclusion that the Plaintiffs waived the Rule 19 issue by “inviting Judge Rogers to adopt the very analysis that they now allege on appeal was erroneous,” we note that Apple has not asserted a waiver argument. See United States v. Scott, 705 F.3d 410, 415 (9th Cir.2012) (“A party who fails to assert a waiver argument forfeits—and therefore implicitly waives—that argument.”).
+
+2
+
+This declaration was again submitted in support of Apple’s motion to dismiss in Apple III, and the parties stipulated that it referred to the complaint in Apple III. Specifically, the parties stipulated that the “supporting documents submitted by Apple in [Apple II ] ... shall be deemed to refer to the Ward complaint and are properly before the Court in connection with Apple’s motion to dismiss the Ward complaint.”
+
+3
+
+Even if ATTM has some lingering contract interests, it may be appropriate for the district court to exercise its discretion to fashion the equitable relief in a way that avoids interfering with those interests, instead of dismissing the entire action. See Occidental Petroleum Corp. v. Buttes Gas & Oil Co., 331 F.Supp. 92, 105–06 (C.D.Cal.1971).
+
+1
+
+The majority apparently believes these particular comments do not show that Judge Rogers was confused about why Plaintiffs were bringing these issues again after Judge Ware had already ruled on them (demonstrating a concern about claim and issue preclusion). The majority thinks they “could also be interpreted to mean that she had analyzed the issue and was inclined to issue the same ruling as Judge Ware.” With due respect, nothing in these statements can plausibly be construed as indicating that Judge Rogers had at this point deliberately analyzed the Rule 19 issue, and they certainly cannot be construed as her inclination to “issue the same ruling as Judge Ware.” Although our jurisdiction does not depend on what is said in the give-and-take between counsel and judge at an oral hearing, the transcript in this case, as will become apparent below, strongly suggests that Judge Rogers never in fact made an independent decision on the Rule 19 issue.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

@@ -1,0 +1,559 @@
+
+
+ 
+
+
+Wi-LAN USA, Inc. v. Apple Inc.
+United States Court of Appeals, Federal Circuit. | August 1, 2016 | 830 F.3d 1374 | 2016 WL 4073324
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wi-LAN USA, Inc. v. Apple Inc., 830 F.3d 1374 (Fed. Cir. 2016)
+
+All Citations:
+
+830 F.3d 1374, 119 U.S.P.Q.2d 1605
+
+Search Details
+
+Search Query:
+
+adv: NAME(”apple, inc.”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:14 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+830 F.3d 1374
+United States Court of Appeals,
+Federal Circuit.
+WI-LAN USA, INC., Wi-LAN, Inc., Plaintiffs-Appellants
+v.
+APPLE INC., Defendant-Appellee
+2015-1256
+|
+Decided: August 1, 2016
+Synopsis
+Background: Patent holders brought action alleging infringement of two patents related to modification of typical network by adding intermediary nodes between base station and user devices The United States District Court for the Southern District of California, Dana M. Sabraw, J., construed patent claims, and subsequently granted defendant’s summary judgment motion and denied patent holders’ motion for reconsideration. Patent holders appealed.
+ 
+Holdings: The Court of Appeals, Chen, Circuit Judge, held that:
+ 
+[1] patent term “specified connection” excluded embodiments where intermediary node can maintain only one specified connection, and
+ 
+[2] patent term “UL connections” corresponded to connections between intermediary node and its user devices.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (16)
+
+
+[1]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+Only substantive issues before Federal Circuit were ones of patent claim construction, and thus it would apply traditional claim-construction framework to its review, even though district court reached its claim constructions on summary judgment and reconsideration of summary judgment rather than in phase of case specifically dedicated to claim construction.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsQuestions of law or fact
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)4Trial, Hearing, and Determination
+291k1848Questions of law or fact
+
+
+Ultimate issue of the proper construction of a patent claim should be treated as a question of law.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+Federal Circuit will review any subsidiary factual findings made by a district court during patent construction under the clearly erroneous standard.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+When the district court reviews only evidence intrinsic to the patent during claim construction, that court’s determination will amount solely to a determination of law, and the Federal Circuit will review that construction de novo.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+
+
+Term “specified connection,” as used in patent regarding packing source data packets into transporting packets with fragmentation, excluded embodiments where intermediary node can maintain only one specified connection, based on specification’s consistent descriptions of multiple specified connections, thus suggesting that patent’s claims did not encompass embodiment contrary to these descriptions, as well as claims’ discussion of allocating bandwidth based on specified connection’s priority.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsSpecification as limiting or enlarging claims in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1329Specification as limiting or enlarging claims in general
+
+
+Consistent use of a patent claim term in a particular way in the specification can inform the proper construction of that term.
+2 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsMethods or processes
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)6Judgment
+291k1932Summary Judgment
+291k1935Particular Cases
+291k1935(2)Methods or processes
+
+
+District court reasonably used its case-management discretion to decline to find patent holder’s new construction of term “UL Connections” barred and instead to make merits determination on patent holder’s motion for reconsideration of order granting defendant’s summary judgment motion in action alleging infringement of patent regarding methods and systems for transmission of multiple modulated signals over wireless networks.
+Cases that cite this headnote
+
+
+
+[8]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+Federal Circuit will review procedural issues specific to patent law under its law and those not specific to patent law under the regional circuit’s law.
+Cases that cite this headnote
+
+
+
+[9]
+
+Federal CourtsPreliminary proceedings
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3590Preliminary proceedings
+
+
+Federal Circuit reviews a district court’s exercise of its case-management authority for abuse of discretion, including legal and constitutional error.
+Cases that cite this headnote
+
+
+
+[10]
+
+PatentsInfringement or invalidity contentions
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1750Discovery
+291k1755Scope
+291k1755(5)Infringement or invalidity contentions
+
+
+Federal Circuit generally supports a district court’s case-management authority to set a schedule for patent claim construction that requires parties to take positions on various dates and holds the parties to these positions.
+Cases that cite this headnote
+
+
+
+[11]
+
+PatentsLanguage of claims in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1316Language of claims in general
+
+
+District court may engage in “rolling claim construction,” in which the court revisits and alters its interpretation of the patent claim terms as its understanding of the technology evolves.
+3 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+
+
+Term “UL connections,” as used in patent regarding methods and systems for transmission of multiple modulated signals over wireless networks, corresponded to connections between intermediary node and its user devices, even though term was not defined in specification, where this construction was only one that squared with scheme patent set out where base station allocated bandwidth to its intermediary-node connections and intermediary nodes allocated bandwidth to their user connections, network architecture that specification described, and representations patent holder made during prosecution.
+Cases that cite this headnote
+
+
+
+[13]
+
+PatentsRejection and Amendment of Claims;  Prosecution History
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+
+
+Patentee cannot make representations about claim language during prosecution to avoid prior art and then escape these representations when trying to show infringement.
+Cases that cite this headnote
+
+
+
+[14]
+
+PatentsClaim differentiation
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1325Construction of Particular Claims as Affected by Other Claims
+291k1325(3)Claim differentiation
+
+
+Patent claim differentiation is a guide, not a rigid rule.
+Cases that cite this headnote
+
+
+
+[15]
+
+PatentsClaim differentiation
+PatentsSpecifications and Drawings;  Written Description
+PatentsRejection and Amendment of Claims;  Prosecution History
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1325Construction of Particular Claims as Affected by Other Claims
+291k1325(3)Claim differentiation
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1328In general
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1335Accompanying Documents and Proceedings in Patent and Trademark Office
+291k1338Rejection and Amendment of Claims;  Prosecution History
+291k1338(1)In general
+
+
+Patent claim differentiation cannot overcome a contrary construction dictated by the written description or prosecution history, nor can claim differentiation apply untethered from the reasonable meaning of the difference in claim language on which it rests.
+1 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 8,311,040, US Patent 8,315,640. Construed and Not Infringed.
+Cases that cite this headnote
+
+
+
+*1376 Appeal from the United States District Court for the Southern District of California in No. 3:13-cv-00798-DMS-BLM, Judge Dana M. Sabraw.
+Attorneys and Law Firms
+ROBERT A. COTE, McKool Smith, P.C., New York, NY, argued for plaintiffs-appellants. Also represented by KEVIN SCHUBERT; DIRK D. THOMAS, Washington, DC.
+MARK C. SCARSI, Milbank, Tweed, Hadley & McCloy, LLP, Los Angeles, CA, argued for defendant-appellee. Also represented by ASHLEE N. LIN, MIGUEL JESUS RUIZ, MICHAEL K. SHEEN; CHRISTOPHER JAMES GASPAR, New York, NY.
+Before Lourie, Bryson, and Chen, Circuit Judges.
+Opinion
+Chen, Circuit Judge.
+
+This appeal arises from an infringement action Wi-LAN, Inc. and Wi-LAN USA, Inc. (Wi-LAN) filed against Apple, Inc. (Apple). Wi-LAN claims that Apple’s iPhone operating on a 4G network infringes its U.S. Patent Nos. 8,311,040 (the ‘040 patent) and 8,315,640 (the ‘640 patent). Based on several claim constructions the district court reached, it granted Apple summary judgment of noninfringement on all asserted claims. It then denied Wi-LAN’s motion for reconsideration of that grant of summary judgment. Wi-LAN takes issue with two of the district court’s claim constructions, and it requests that we reverse the district court’s grant of summary judgment on all asserted claims of the ’040 patent and two claims of the ’640 patent.
+ 
+*1377 Both patents in suit result from advances a networking company, Ensemble, proposed to make to the WiMAX wireless network standard. In a typical wireless network, a base station connects directly to the user devices that it serves. The ’040 and ’640 patents introduce a modification to this typical network to add intermediary nodes1 between the base station and the user devices. ’040 patent at Fig. 1, 4:11–16, 23–24; ’640 patent at Fig. 1, 6:30–32, 47–48. Communications from the base station to a user device pass from the base station through an intermediary node to the user device; communications from a user device to the base station take the reverse path, from the user device through the intermediary node to the base station. ’040 patent at 4:40–41; ’640 patent at Fig. 1, 19:28–29. This network architecture allowed for efficiency gains, primarily because the base station could offload some of its more resource-intensive tasks to the intermediary nodes. ’040 patent at 3:40–55; ’640 patent at 4:38–48. Wi-LAN purchased Ensemble’s patent portfolio. The two patents in suit, which Wi-LAN filed as continuation applications from applications Ensemble had originally filed, address two specific advances that Ensemble achieved in this network architecture with intermediary nodes.
+ 
+The ’040 patent addresses an efficiency gain that a network with intermediary nodes can provide: before an intermediary node passes data packets it receives from its users to the base station, it can reformat these packets for easier transmission on the network. Claim 1 is representative for our purposes. It focuses on the intermediary node—here claimed as a “node for a communications system”—and describes the process by which it converts non-uniform “service data units” that it receives from its user devices into uniform “protocol data units” for retransmission to the base station:
+1. A node for a communications system that packs and fragments variable-length service data units (SDU) for mapping into variable length protocol data units (PDU), each SDU being associated with a specified connection, the node comprising:
+a communications processor configured to pack and fragment SDUs associated with a specified connection into a PDU, including
+allocate bandwidth for the specified connection, based on the priority of the connection,
+establish a length for the PDU based on the bandwidth allocated to the specified connection in a current frame,
+pack a first SDU into a payload area of the PDU,
+determine whether a second SDU is larger than a remaining payload area of the PDU,
+if the second SDU is not larger than the remaining payload area of the PDU, map the second SDU to the remaining payload area of the PDU, and
+if the second SDU is larger than the remaining payload area of the PDU, fragment the second SDU into at least two fragments and map the first fragment to the remaining payload area of the PDU, and
+include packing sub-headers in the PDU to allow determination of the length of the SDUs and the lengths of *1378 the fragments that are mapped to the PDU.
+’040 patent at 19:29–53 (emphasis added).
+ 
+The ’640 patent describes a process by which a network with an intermediary node can allocate uplink bandwidth—its data-carrying capacity in the direction from user devices to the base station—among its various user devices. Claim 1 is exemplary for our purposes. It describes a process where the intermediary node—claimed as a “wireless subscriber radio unit” here—registers itself with the base station, requests and receives uplink bandwidth from the base station in which to transmit a second bandwidth request, makes this second bandwidth request and receives bandwidth, and then allocates this bandwidth to its “UL connections”:
+1. A method for requesting bandwidth on demand in a wireless communication system, wherein the wireless communication system includes a wireless subscriber radio unit, the method comprising:
+registering the wireless communication radio unit with a base station in the wireless communication system and establishing communication between the wireless subscriber radio unit and the base station;
+transmitting from the wireless subscriber radio unit which is registered with the base station, an explicit message to the base station requesting to be provided an allocation of uplink (UL) bandwidth in which to transmit a bandwidth request;
+receiving at the wireless subscriber radio unit the allocation of UL bandwidth in which to transmit a bandwidth request;
+transmitting the bandwidth request within the allocation of UL bandwidth, the bandwidth request specifying a requested UL bandwidth allocation; and
+receiving an UL bandwidth grant for the wireless subscriber radio unit in response to the bandwidth request;
+wherein the wireless subscriber radio unit maintains a plurality of queues, each queue for data pertaining to one or more UL connections with similar QoS [quality of service] and wherein the wireless subscriber radio unit allocates the UL bandwidth grant to the one or more UL connections based on QoS priority.
+’640 patent at 23:7–33 (emphasis added).
+ 
+Wi-LAN alleges that Apple’s iPhones infringe both asserted patents when running on a 4G LTE network. The parties agree that the accused phones connect to network base stations (here, cellular towers) directly, not through any piece of network equipment playing the role of the intermediary node. Wi-LAN takes the infringement position that, instead, its claimed intermediary node maps onto the baseband processor in Apple’s phone, which handles communications with the 4G network. Under this infringement theory, the claimed user device maps onto the phone’s application processor, which runs applications on the phone. The issues before us center on the question whether this different network architecture nonetheless makes use of the inventions claimed in the patents.
+ 
+Wi-LAN appeals one of the district court’s claim constructions per asserted patent: its construction of the term “specified connection” in the ’040 patent and the term “UL connections” in the ’640 patent. Apple counters with an argument that Wi-LAN waived its appeal on “UL connections” by raising the construction it now seeks for the first time in a motion for reconsideration of the district court’s summary-judgment order. We reject Apple’s waiver argument, finding that the district court did not abuse its discretion in considering *1379 Wi-LAN’s new construction at that late stage of the case. We affirm both of the district court’s claim constructions. Because Wi-LAN agrees on appeal that the accused devices do not infringe under the district court’s constructions, we affirm the district court’s grant of summary judgment of noninfringement on all asserted claims.
+ 
+
+PROCEDURAL BACKGROUND
+Wi-LAN sued Apple for infringement, asserting the ’040 and ’640 patents against Apple’s iPhones running on a 4G network. The case progressed through claim construction, where the district court construed several terms including the two at issue before us: “specified connection” in the ’040 patent and “UL connections” in the ’640 patent. For “specified connection,” the court adopted Apple’s proposed construction, defining the term as “the communications link between a[n intermediary] node and a specific end user.” J.A. 24. The parties’ claim-construction briefing on this term did not present the court with the question now before us: whether “specified connection” excludes embodiments where the intermediary node can maintain only one “specified connection.” The district court therefore made no determination on this issue. For “UL connections,” Apple took a claim-construction position consistent with the one it takes now, seeking to construe the term to mean “an uplink connection between the [intermediary node] and its users.” J.A. 27. Wi-LAN sought a broader construction: “uplink services.” Id. The court agreed with Apple and adopted its construction, only modifying the term Apple proposed to refer to the intermediary node.2 Id.
+ 
+After fact and expert discovery, Apple moved for summary judgment of noninfringement on both patents. Apple argued that the claims require multiple connections between an intermediary node and user devices. It showed that an iPhone contains only one connection between a baseband processor and an application processor. Therefore, in Apple’s view, Wi-LAN’s infringement theory that an iPhone’s baseband processor is an intermediary node and the phone’s application processor is a user device could not succeed. Apple’s motion focused on the claim terms “specified connection” in the ’040 patent and “UL connection” in the ’640 patent (along with the term “connection” in claim 6 of the ’640 patent, which Wi-LAN does not appeal), which Wi-LAN had identified in its infringement contentions as corresponding to the connection between an iPhone’s baseband processor and application processor. For the ’040 patent, Apple sought a further construction of “specified connection” to exclude embodiments where an intermediary node can maintain only one specified connection. Under this construction, Wi-LAN’s infringement theory would fail because the iPhone’s intermediary node (the baseband processor) would connect to only one user device (the application processor). For the ’640 patent, Apple argued that the claims’ requirement of a “plurality” of queues, each corresponding to “one or more UL connections,” could not encompass a device with only one “UL connection.” Again, this argument would cause Wi-LAN’s infringement theory to *1380 fail because it points only to a single “UL connection.” In its summary-judgment order, the district court agreed to consider Apple’s proposal to further construe “specified connection,” construed the term as Apple proposed, found its constructions of “specified connection” and “UL connections” to preclude any disputed issues of material fact on any asserted claim, and entered summary judgment of noninfringement.
+ 
+Wi-LAN moved for the district court to reconsider its grant of summary judgment as to all asserted claims of the ’040 patent and independent claim 1 and dependent claim 2 of the ’640 patent. In this motion for reconsideration, it presented a new infringement theory and sought a corresponding new construction of the terms “specified connection” and “UL connections.”3 It changed the location of the ’040 patent’s claimed “specified connections” and the ’640 patent’s claimed “UL connections”: rather than mapping them to the connection within the iPhone between its baseband processor and application processor, it now mapped them to the connection outside of the iPhone between the baseband processor and the base station of the cellular network. It also sought a corresponding new construction where the terms refer to the connection between the intermediary node and the base station (between the iPhone’s baseband processor and the cellular tower). The court mentioned several reasons why Wi-LAN’s new proposed construction came too late, but it ultimately considered—and rejected—this construction on its merits. J.A. 3–5. It therefore declined to reverse its grant of summary judgment. J.A. 4–5.
+ 
+Wi-LAN now appeals on both patents. For the ’040 patent, it drops the argument it made in its motion for reconsideration, instead appealing directly from the district court’s grant of summary judgment. It claims the district court erroneously granted summary judgment because it misconstrued “specified connection” to exclude embodiments where the intermediary node can maintain only one “specified connection.” It applies this argument to each claim it asserted: independent claims 1, 14, and 16 and dependent claims 2, 4, 5, and 15. For the ’640 patent, it appeals only claims 1 and 2, the two claims on which it moved for reconsideration below. For these claims, it makes the argument it made in its motion for reconsideration: that we should construe the term “UL connections” to refer not to the intermediary node’s connections with its user devices, but instead to its connection with the base station.
+ 
+
+ANALYSIS
+We have jurisdiction over this appeal under 28 U.S.C. § 1295(a)(1).
+ 
+
+I. Standard of Review
+There are two substantive issues before us (along with a claim of waiver). The parties set out each substantive issue as involving a claim construction that occurred outside of the claim-construction phase of the case, one on summary judgment and one on reconsideration of summary judgment. We agree.
+ 
+[1] [2] [3] [4]Because the only substantive issues before us are ones of claim construction, our review falls entirely under the Teva standard. Convolve, Inc. v. Compaq Computer Corp., 812 F.3d 1313, 1317 (Fed. Cir. 2016) (citing Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 836–38, ––– L.Ed.2d –––– (2015)). We *1381 apply our traditional claim-construction framework to this review even though the district court reached these constructions on summary judgment and reconsideration of summary judgment rather than in the phase of the case specifically dedicated to claim construction. See Conoco, Inc. v. Energy & Envtl. Int’l, L.C., 460 F.3d 1349, 1362 (Fed. Cir. 2006) (citing Phillips v. AWH Corp., 415 F.3d 1303, 1312, 1314–19 (Fed. Cir. 2005) (en banc)). Under the Teva standard, “the ultimate issue of the proper construction of a claim should be treated as a question of law.” 135 S.Ct. at 839. We review any “subsidiary factual findings [on extrinsic evidence] under the ‘clearly erroneous’ standard.” Id. “[W]hen the district court reviews only evidence intrinsic to the patent (the patent claims and specifications, along with the patent’s prosecution history), the judge’s determination will amount solely to a determination of law, and the Court of Appeals will review that construction de novo.” Id. at 841. Here, the district court properly based its analysis entirely on the intrinsic record, and our review is de novo. See Eidos Display, LLC v. AU Optronics Corp., 779 F.3d 1360, 1364–65 (Fed. Cir. 2015).
+ 
+
+II. ’040 Patent: “Specified Connection”
+[5]The ’040 patent discloses an intermediary-node architecture in which an intermediary node repackages data its user devices send it for more efficient retransmission to the base station. User devices can transmit data to a network in digital packets in various different formats, which the ’040 patent labels “service data units” or “SDUs.” Id. at 3:34–52. For example, a user on a phone call might transmit voice data, and one sending an email might transmit internet-protocol data. Id. In a network where the base station connects directly to user devices, it receives these non-uniform packets directly. The variations in packet format and length create inefficiencies that limit the amount of data the prior-art base station could receive. Id. at 3:40–46. The ’040 patent’s intermediary node overcomes this problem by repackaging the various non-uniform service data units into a single, uniform format that the patent labels a “protocol data unit” or “PDU” and sends them along to the base station. Id. at 2:40–49, 3:46–52. The base station thus receives all incoming data in an efficient, uniform format. The intermediary node engages in the reverse process when relaying data from the base station to its user devices, receiving data in a uniform format and converting it into the appropriate formats its user devices require. Id. at 3:46–48.
+ 
+The parties agree that the claims use the term “specified connection” to refer to a connection between the intermediary node and the user device. They dispute whether the term “specified connection” excludes embodiments where an intermediary device can maintain only one specified connection. Because an iPhone has only one connection between its application processor and baseband processor, Wi-LAN contends that the claims can read on an embodiment where the intermediary node can maintain only one “specified connection.” Apple, in contrast, argues that the district court correctly construed the term “specified connection” to exclude such an embodiment.
+ 
+We begin our analysis with the words of the claim itself as an ordinary artisan would have understood them at the time of the invention. Phillips, 415 F.3d at 1314. Although the term “specified connection” in the claims is singular, the claims’ usage of the term (e.g., “each SDU being associated with a specified connection”) indicates that each service data unit—in a claim that contemplates multiple service data units—is associated with exactly one “specified connection,” not that the intermediary node maintains only one “specified connection.” *1382 This fact thus offers no clues as to whether the invention excludes embodiments incapable of maintaining multiple specified connections.
+ 
+Next, we turn to the intrinsic record to determine whether the context in which the disputed term sits shines light on its meaning. Id. at 1315. Neither party argues that the specification explicitly defines the term “specified connection.” See id. at 1317. In fact, it never mentions this term. The specification’s consistent descriptions of multiple specified connections, however, suggest that the patent’s claims do not encompass an embodiment contrary to these descriptions. For example, it states that “each [intermediary] node ... serv[es] multiple connections for users.” ’040 patent at 4:40–41. Figure 3 of the patent shows an intermediary node’s “connection interface” maintaining multiple “user connection[s]”:
+ 
+
+​
+The specification similarly discusses “a plurality of user connections.” Id. at 6:20; see also, e.g., id. at 4:61–62 (“the users on [an intermediary node’s] connections”), 6:45 (“user connections”). And it never describes a system with only one specified connection.
+ 
+[6]Consistent use of a term in a particular way in the specification can inform the proper construction of that term. See, e.g., Virnetx, Inc. v. Cisco Sys., Inc., 767 F.3d 1308, 1318 (Fed. Cir. 2014); SkinMedica, Inc. v. Histogen Inc., 727 F.3d 1187, 1196 (Fed. Cir. 2013). Here, we find the specification’s consistent references to multiple “specified connections” to weigh in favor of a construction excluding embodiments where the intermediary node is capable of maintaining only one “specified connection.”
+ 
+We also find the claims’ discussion of allocating bandwidth based on a specified connection’s priority to support the district court’s conclusion. Each independent claim at issue contains a limitation related to allocating bandwidth based on a specified connection’s priority. ’040 patent at claim 1 (“[the intermediary node] allocate[s] bandwidth for the specified connection, based on the priority of the connection”), claim 14 (“bandwidth currently allocated to the specified connection in a current frame based on the priority associated with the specified connection”), claim 16 (“the bandwidth amount allocated to the specified connection in a current frame, the bandwidth amount being *1383 established ... based on one or more communication parameters ... including the priority of the specified connection”). To “allocate” something is to distribute it among multiple recipients. Thus when the claims describe allocating bandwidth to a specified connection, they imply that the intermediary node distributes this bandwidth among multiple specified connections. The claims further describe this allocation as based on a specified connection’s “priority.” Priority is a relative concept: a specified connection only has a “priority” in comparison to other specified connections’ priorities. The specification reinforces this conception of “priority” as necessarily relative. It describes specified connections’ priorities as “high priority,” “mid[ ]priority,” and “lower priority.” Id. at 13:38–46. “High” and “mid” are relative words that can be defined only by reference to other priorities. “Lower” is even more explicitly comparative: as a matter of basic grammar something cannot be “lower” without being lower than something else. The claims’ and specification’s discussion of “allocating” bandwidth to a specified connection based on its “priority” therefore supports the conclusion that the district court correctly construed the term “specified connection” to exclude embodiments where an intermediary device can maintain only one specified connection.
+ 
+Wi-LAN attempts to undercut the district court’s conclusion by pointing to instances where the intrinsic record describes an intermediary node maintaining a single connection. But Wi-LAN reads these disclosures incorrectly. First, it notes that in a dependent claim and the prosecution history, the patentee refers to the specified connections with the singular terms “a specified connection” and “the specified connection.” See id. at claim 7; J.A. 1917. These uses, however, do not refer to any scheme where a node maintains a single “specified connection.” Instead, they use the singular to point to one particular specified connection out of multiple ones. Id. Second, Wi-LAN notes that the patent includes a figure labeling a portion of a protocol data unit’s header as a “connection identifier.” See ’040 patent at Fig. 8, 11:31–32. It claims that this term—using the singular “connection” rather than the plural “connections”—implies that the intermediary node maintains only one specified connection. This argument misapprehends the grammatical role that the word “connection” plays in the term “connection identifier.” “Connection” in this context is a noun adjunct modifying “identifier.” Noun adjuncts are typically singular, whether they refer to single or multiple objects. For example, a bush with a single rose would be a “rosebush,” but so would a bush with multiple roses; a bus taking children to a school would be a “school bus,” but so would a bus taking children to multiple schools. Wi-LAN’s argument that an identifier differentiating between multiple connections must be called a “connections identifier” would make sense only in a grammatical system where a child would wait by the “rosesbush” for the “schools bus” to pick her up. Figure 3 of the ’040 patent demonstrates that the patentee shared our grammatical understanding, labeling an interface for multiple connections a “connection interface” rather than a “connections interface.”
+ 
+Wi-LAN further argues that, because a preferred embodiment of the claimed invention contains only one specified connection, a construction excluding this embodiment cannot be proper. Wi-LAN points to the provisional application to which the ’040 patent claims priority, which refers to a node combining multiple short packets from a single connection into a larger packet with only one header in order to save space. J.A. 2120. However, Wi-LAN cites nothing in the specification of the ’040 patent disclosing this embodiment. *1384 This embodiment therefore cannot be a preferred embodiment of this patent. In any event, Wi-LAN is also incorrect that the provisional application discloses an embodiment with one specified connection. Instead, the disclosure Wi-LAN cites states simply that sometimes the node may receive a stream of data on one of its specified connections and create bundled protocol data units consisting only of data from that stream. J.A. 2120–21.
+ 
+Because we credit the specification’s consistent descriptions of intermediary nodes maintaining multiple connections to user devices and the claims’ and specification’s descriptions of “allocat[ing]” bandwidth to a specified connection based on its “priority,” and because we do not find Wi-LAN’s arguments against the district court’s construction persuasive, we agree with the district court that “specified connection” excludes embodiments where an intermediary node can maintain only one specified connection. Wi-LAN bases its appeal of the district court’s grant of summary judgment solely on this claim-construction issue. Because we affirm the district court’s construction, we also affirm its grant of summary judgment of noninfringement.
+ 
+
+III. ‘640 Patent: “UL Connections”
+A. Waiver
+[7]We begin with Apple’s claim of waiver. Below, Wi-LAN argued during the claim-construction phase that the term “UL Connections” should take the construction “uplink services.” The intermediary nodes, it explained, would offer these “uplink services,” which could take the form of internet traffic, voice-call data, or text messages. Apple argued that the term should take the construction “uplink connections between [an intermediary node] and its users.” The court largely agreed with Apple’s construction, modifying it only to substitute a more generic term for the intermediary node. J.A. 27. Only after losing on summary judgment did Wi-LAN first take the position—inconsistent with both its earlier position and the district court’s construction—that “UL connection” refers to the connection between the intermediary node and the base station. Apple argues on appeal that waiver bars Wi-LAN’s attempt to change its position, urging us to reject what it views as Wi-LAN’s attempt to take one position on claim construction below and, after that position failed on summary judgment, get another bite at the proverbial—and in this case literal—Apple by changing its construction.
+ 
+When Wi-LAN moved for reconsideration of the court’s summary-judgment order, the district court recognized this motion as based on a claim construction at odds with Wi-LAN’s position during the claim-construction phase. It considered whether this change in construction came too late and noted several factors suggesting as much: Wi-LAN had declined to take advantage of earlier opportunities to challenge the court’s construction, pointed to no newly discovered evidence to support its change of position, and appeared motivated only by its loss on summary judgment. J.A. 4. But, rather than finding this new construction barred, the district court proceeded to analyze its merits. Id.
+ 
+[8] [9]We review procedural issues specific to patent law under our law and those not specific to patent law under the regional circuit’s law. Woodrow Woods & Marine Exhaust Sys., Inc. v. DeAngelo Marine Exhaust, Inc., 692 F.3d 1272, 1278 (Fed. Cir. 2012) (citing O2 Micro Int’l, Ltd. v. Monolithic Power Sys., 467 F.3d 1355, 1364 (Fed. Cir. 2006) (in turn citing Sulzer Textil A.G. v. Picanol N.V., 358 F.3d 1356, 1363 (Fed. Cir. 2004))). Apple’s waiver argument arose from Wi-LAN’s motion for reconsideration—a general procedural motion *1385 that would ordinarily raise no issue specific to patent law. This particular motion for reconsideration, however, raised a patent-specific procedural issue: whether Wi-LAN could amend its claim-construction position at this late stage of the case. See Nuance Commc’ns v. Abbyy USA Software House, 813 F.3d 1368, 1373 (Fed. Cir. 2016). We therefore consider this issue under our law. We review a district court’s exercise of its case-management authority for abuse of discretion, including legal and constitutional error. Id. at 1372.
+ 
+[10]We generally support a district court’s case-management authority to set a schedule for claim construction that requires parties to take positions on various dates and holds the parties to these positions. For example, we found no abuse of discretion in a district court’s denial of a party’s motion to amend its infringement contentions based on its finding that the party had not been diligent in advancing this new theory. O2 Micro, 467 F.3d at 1367. When a party took a position in claim construction, won on that position, and then attempted to change that position shortly before trial, we upheld the district court’s determination that, because no good cause supported this change in position, the party must maintain its initial position. Nuance Commc’ns, 813 F.3d at 1373. When a party stipulated to a particular construction and then sought a jury instruction inconsistent with that stipulation, we affirmed the district court’s determination that it could not do so. Akamai Techs., Inc. v. Limelight Networks, Inc., 805 F.3d 1368, 1376 (Fed. Cir. 2015). And when, as here, a party raised for the first time a new infringement argument on a motion for reconsideration of a summary-judgment order, we found no abuse of discretion in the district court’s denial of that motion. Golden Bridge Tech., Inc. v. Apple Inc., 758 F.3d 1362, 1369 (Fed. Cir. 2014).
+ 
+[11]We likewise support a district court’s discretion to permit parties to change their positions over the course of litigation. We have long held that a district court may “engage in rolling claim construction, in which the court revisits and alters its interpretation of the claim terms as its understanding of the technology evolves.” Conoco, 460 F.3d at 1359 (internal quotation marks and citation omitted). We have also, for example, upheld a court’s decision, based on a finding of good cause, to allow a defendant to amend its invalidity contentions after a change in the relevant law. Mortg. Grader, Inc. v. First Choice Loan Servs., 811 F.3d 1314, 1320–23 (Fed. Cir. 2016).
+ 
+Here, the district court used its case-management discretion to decline to find Wi-LAN’s new construction barred and instead to make a merits determination. We find that it did not abuse its discretion in deciding to resolve Wi-LAN’s motion for reconsideration on its merits. We therefore find no waiver.
+ 
+
+B. The Claim Construction’s Merits
+The ’640 patent describes a way to more efficiently allocate uplink bandwidth in a network with an intermediary node. Uplink bandwidth, in this context, refers to the bandwidth available to the network to transmit data from user devices to the base station. ’640 patent at 1:49–52. A network where multiple user devices share the same frequency bands must have an organized system to determine which user device may transmit data to the base station in a given frequency band at a given time. Id. at 1:41–45, 5:61–6:2. Otherwise, two devices could attempt to transmit data on the same frequency band at the same time, causing the base station to lose the data from one or both user devices. Id. A network must allocate its connected devices opportunities to send data in a way *1386 that avoids this type of overlap. Id. at 5:66–6:2. In doing so, it can consider the various user devices’ quality-of-service (QoS) needs. Id. at 4:51–54. For example, a user on a telephone call might have a high-priority quality-of-service need that would require consistent access to the network to avoid a delay in transmission that could cause the call to skip or lag. Id. at 7:9–12. A user attempting to send a file by email, in contrast, would not share this high-priority need for immediate or consistent access to the network and could instead wait for an opportunity to send all of her data in a short burst. Id. at 6:13–16.
+ 
+In a wireless network where each user device connects directly to the base station, each user device requests bandwidth from the base station, indicating the amount of data it has to upload and its quality-of-service needs. The base station processes these requests and fairly distributes bandwidth among user devices. The ’640 patent describes an invention that uses intermediary nodes to make this process more efficient. Rather than sending requests for bandwidth directly to the base station, users in the claimed network first send these requests to the network’s intermediary nodes. Id. at 2:16–19. The intermediary nodes then bundle the users’ requests and transmit a single request for bandwidth to the base station. Id. The base station considers the bundled requests from each of its intermediary nodes, determines how to fairly allocate bandwidth among the intermediary nodes, and allocates a grant of bandwidth to each node. Id. at 6:17–18, 19:9–25. Each node considers the needs of each user device it serves, determines how to fairly allocate the bandwidth it has been granted among its users, and allocates a grant of bandwidth to each user. Id. at 4:34–36.
+ 
+This system confers three primary benefits over the prior art. First, it decreases the amount of bandwidth the base station must devote to receiving requests for bandwidth. In a network with no intermediary nodes, the base station would need to field separate requests from each individual user device, but in this network architecture with intermediary nodes, it receives a smaller number of bundled requests from its intermediary nodes. Id. at 2:47–54, 5:56–61. This smaller number of requests takes up less bandwidth, allowing the base station to conserve this scarce resource. Id. at 4:43–46. Second, and relatedly, the base station uses less processing power in handling this smaller number of requests. Id. at 4:41–43. Third, it allows an intermediary node to change its allocation of bandwidth on the fly when it receives higher-priority data while it is waiting for a bandwidth allocation, allowing “for more flexibility at the [intermediary node] and more intelligent allocation of the limited bandwidth.” J.A. 1406.
+ 
+[12]The dispute before us centers on the term “UL connections.” The parties agree that “UL” in this term means “uplink.” “Uplink” refers to a direction of data flow from user devices through intermediary nodes to the base station; “downlink,” by contrast, refers to the direction of data flow from the base station through intermediary nodes to user devices. ’640 patent at 1:49–52. The term “UL connections” thus refers to some set of connections in the uplink direction.
+ 
+The term appears twice in the claims at issue. Independent claim 1 states that the intermediary node queues “data pertaining to one or more UL connections with similar QoS” and “allocates the UL bandwidth grant to the one or more UL connections based on QoS priority.” This claim thus sets out a scheme where the intermediary node creates various queues based on quality-of-service priority, each queue “pertaining to one or more UL connections.” Then, *1387 once it receives a grant of uplink bandwidth from the base station, it allocates that grant, based on quality-of-service priority, to its “UL connections.”
+ 
+The district court construed “UL connections” to refer to the connections between the intermediary node and its user devices. J.A. 27 (construing “UL connection” as “an uplink connection between the [intermediary node] and its users”). It maintained this construction on Wi-LAN’s motion that it reconsider its summary-judgment order. J.A. 5. Under this construction, claim 1 describes the intermediary node receiving data from its user devices on “UL connections,” placing that data into queues based on its quality-of-service priority, receiving a grant of uplink bandwidth from the base station, and then allocating that bandwidth to its various user devices based on the data’s priority level.
+ 
+Wi-LAN urges a construction where “UL connections” refers to the connection between an intermediary node and the base station. Under this construction, claim 1 describes an intermediary node receiving data from its user devices, and placing that data into queues “pertaining to” its connection to the base station “with similar QoS.” The intermediary node would then receive a grant of uplink bandwidth from the base station and allocate this grant to its connection with the base station “based on QoS priority.” We find this claim language confusing in the context of Wi-LAN’s construction, but Wi-LAN’s position appears to be that a node has multiple parallel “connections” to the base station, each associated with a particular quality of service.
+ 
+The parties thus present a choice: the term “UL connections” refers either to the connection between a user device and its intermediary node or to the connection between an intermediary node and its base station. We agree that this term can refer to only one of these two connections. The question we must resolve is therefore which of these two connections makes the most sense in light of the evidence before us.
+ 
+Because neither party argues that the plain meaning of “UL connections” helps our analysis, we begin by looking to the specification to determine whether the patentee explicitly defined the term. Phillips, 415 F.3d at 1317. Wi-LAN argues that the specification defines “UL connections” when it states: “Transmissions from the base station to the subscriber unit are commonly referred to as ‘downlink’ transmissions. Transmissions from the subscriber unit to the base station are commonly referred to as ‘uplink’ transmissions.” ’640 patent at 1:49–52. This definition establishes that “uplink” and “downlink” describe the direction data flows through the network, but it does nothing to define where in the network the “UL connections” are located. In fact, the specification never uses the term “UL connections.” We conclude that the patentee did not explicitly define the term “UL connections” in the specification.
+ 
+We turn next to viewing the patent as a whole as well as the prosecution history to glean clues as to claim term’s meaning. Phillips, 415 F.3d at 1315. This context requires us to construe this term to refer to the intermediary node’s connections with user devices, not the base station, for three reasons: this is the only construction that squares with (1) the scheme the patent sets out where the base station allocates bandwidth to its intermediary-node connections and the intermediary nodes allocate bandwidth to their user connections, (2) the network architecture the specification describes, and (3) representations Wi-LAN made in prosecution.
+ 
+
+*1388 1. Allocating Bandwidth
+The specification describes the bandwidth-allocation process as consisting of a number of steps. First, a user device determines how much data it has to transmit to the network and with what quality-of-service needs. ’640 patent at 2:16–19, 19:13–16. It next communicates these requirements to its intermediary node. Id. The intermediary node aggregates the various requests for uplink bandwidth it has received from its user devices, and it communicates this aggregated request to the base station. Id. The base station then aggregates all requests from the intermediary nodes it serves and allocates the bandwidth available to it among these intermediary nodes. Id. at 6:17–18. The base station attempts to grant each intermediary node all of the uplink bandwidth it requested, but if too little bandwidth is available, it will take into account the quality-of-service needs associated with the bandwidth requests and use fairness algorithms to distribute the available bandwidth among its intermediary nodes. Id. at 18:64–19:2, 19:18–21. Once it has allocated the available uplink bandwidth between its various intermediary nodes, it informs each intermediary node of its allocation. Id. at 19:23–27. Each intermediary node then allocates this bandwidth among its user devices. Id. at 4:34–36. If the intermediary node receives enough uplink bandwidth to accommodate all of the requests from its user devices, it will distribute to each user device all of the bandwidth it seeks. If it does not receive enough bandwidth to accommodate its users’ needs, it performs a bandwidth-allocation process to its user devices similar to the base station’s allocation process to its intermediary nodes, considering the quality-of-service needs associated with its users’ bandwidth requests and using fairness algorithms to distribute the limited bandwidth the base station allocated it. Id. at 19:36–39. Specifically, it first distributes bandwidth to its user services with the highest quality-of-service needs. Id. at 22:11–14. “For each remaining QoS, ... the [intermediary node] determines if there is bandwidth sufficient to satisfy the entire need of the QoS queue.” Id. at 22:15–17. “If so, the [intermediary node] allocates the required bandwidth.” Id. at 22:17–18. “Otherwise, if there is not bandwidth sufficient to satisfy the queue, the [intermediary node uses a] queue-specific fairness algorithm” to determine how to fairly distribute the limited available bandwidth within the queue. Id. at 22:18–20. For example, under “[t]he round robin fairness algorithm,” “[c]onnections that did not receive bandwidth are given priority the next time the insufficient bandwidth condition exists.” Id. at 20:60–67. By the time the intermediary node receives the base station’s bandwidth allocation, the intermediary node may have received new, higher-priority data from its user devices; if this is the case, it is free to allocate some of the uplink bandwidth it received for lower-priority data to transmit this new higher-priority data instead. Id. at 19:29–31.
+ 
+We derive two significant facts from this description of allocation. First, the specification unambiguously describes an allocation scheme where the base station has sole responsibility for allocating bandwidth between itself and the intermediary nodes, and an intermediary node has sole responsibility for allocating bandwidth between itself and its users. Id. at 4:34–36, 6:17–18, 18:40–42, 18:64–19:2, 19:18–21, 19:36–39, 22:11–20. Because the claims describe “UL connections” as connections to which the intermediary node—not the base station—allocates bandwidth, this first fact suggests that these connections are the ones between the intermediary node and its users. Second, the specification describes a process—where the intermediary node sometimes allocates no bandwidth to a “UL connection”—that makes sense only under *1389 Apple’s construction. The specification makes clear that bandwidth between the base station and its intermediary nodes is a scarce resource that should not be wasted. When the intermediary node has more data in its queues than it can transmit in its limited available uplink bandwidth to the base station, it reacts to this scarcity by allocating some of its connections a block of bandwidth until it reaches a maximum allocation and then allocating no bandwidth to its remaining connections. It then makes up for allocating no bandwidth to these connections by placing them first in line—within their quality-of-service category—the next time it allocates bandwidth. The claim language makes clear that an intermediary node allocates bandwidth only to its “UL connections,” so this description of allocating no bandwidth must mean that, whatever a “UL connection” is, it is something to which the intermediary node may allocate no bandwidth when attempting to make best use of limited uplink bandwidth to the base station. Apple’s construction of “UL connection” is consistent with this disclosed allocation scheme because, when the intermediary node has more data in its queues than it can upload to the base station, it will be unable to upload data from all user devices and thus will have to choose particular “UL connections” to particular user devices that will not have their data uploaded. It will compensate for failing to upload these particular devices’ data by prioritizing their “UL connections” above all other connections of their quality of service the next time it allocates bandwidth. By contrast, Wi-LAN’s construction, where “UL connections” refers to a connection between an intermediary node and its base station, is incompatible with the specification. Under that construction, when an intermediary node has more data in its queues than it can upload to the base station, it responds by allocating no data to a “UL connection” to the base station and then prioritizing this “UL connection” to the base station the next time it allocates bandwidth. But it does not make sense for the intermediary node to decline to transmit data to the base station on a “UL connection” when its goal is to maximize a limited grant of bandwidth from the base station. Nor does it make sense to prioritize that “UL connection” above others of its quality of service the next time the intermediary node allocates bandwidth. This second fact, too, thus supports the district court’s construction.
+ 
+
+2. The Network’s Architecture
+The claims’ clear statement that an intermediary node maintains multiple “UL connections,” coupled with the specification’s description of a network architecture where an intermediary node maintains a connection to a base station and multiple connections to its user devices, suggests that “UL connections” refers to the connections between the intermediary node and its users.
+ 
+Whatever definition of “UL connections” we take, the claim language makes clear that there must be multiple “UL connections.” The claims explain that an intermediary node “maintains a plurality of queues, each queue for data pertaining to one or more UL connections.” That is, the claimed intermediary device must be capable of supporting multiple queues, each potentially corresponding to multiple “UL connections.” Claim 5, which is not before us but depends from claim 1, also describes the “UL connections” claimed in claim 1 as consisting of more than one connection, referring to them as “the plurality of UL connections.”
+ 
+The court construed the claim term the ’640 patent uses to refer to an intermediary node—“wireless subscriber radio unit”—to define an intermediary node as a “module that receives UL bandwidth from *1390 a base station, and allocates the bandwidth across its user connections.” J.A. 27. Neither party appeals this construction, which makes clear that each intermediary node connects to one base station and multiple users; we must therefore take that fact as true. The intrinsic record is consistent with this undisputed fact. See ’640 patent at Fig. 1, 2:6–8. For instance, it states that, for communications between the base station and its intermediary nodes, “[t]he base station is the only transmitter operating in the downlink direction.” Id. at 6:30–32, 42–43. And it uses the similarly singular language “the base station” and “the uplink” to describe a single base station receiving transmissions on a single uplink connection. Id. at 13:16–18 (“The [intermediary node] will begin transmitting data to the base station over the uplink....”). These statements from the specification, along with the undisputed construction of “wireless subscriber radio unit,” suggest that the intermediary node maintains a connection with one base station and multiple connections with multiple users.
+ 
+
+3. The Prosecution History
+[13]Wi-LAN admits that it cannot show that Apple infringes claim 6 of the ’640 patent, and it does not appeal the district court’s grant of summary judgment of noninfringement on that claim. But when attempting to overcome a prior-art rejection during prosecution, it tied important language now in claim 1 to parallel language in the application claim that would become claim 6. That statement tying these two claims together is inconsistent with the position it now takes. A patentee cannot make representations about claim language during prosecution to avoid prior art and then escape these representations when trying to show infringement. See Convolve, 812 F.3d at 1324–25. We find these statements to be particularly telling evidence against the construction Wi-LAN now seeks.
+ 
+Claim 6 contains similar wording to claim 1, using the term “connections” instead of “UL connections.” Compare ’640 patent, claim 1 (“wherein the wireless subscriber radio unit allocates the UL bandwidth grant to the one or more UL connections based on QoS priority”), with claim 6 (“wherein the wireless subscriber radio unit allocates the UL bandwidth grant to the one or more of the plurality of connections based on QoS connection priority”). Claim 6, however, makes explicit that its “connections” are between an intermediary node and its users. It describes the uplink queue that the intermediary node maintains: “the UL queue comprises traffic with similar quality of service (QoS) received on a plurality of connections.” That is, this queue consists of uplink data that the intermediary node “received on a plurality of connections.” Uplink data, by definition, can only flow in one direction: from user devices through the intermediary node to the base station. Therefore uplink data that the intermediary node “received on a ... connection [ ]” must have come from a user device, and a “connection”—for the purposes of claim 6—must be between an intermediary node and a user device.
+ 
+We may appropriately consider similar claim terminology in claim 6 in determining how best to understand claim 1 because Wi-LAN made a representation during prosecution equating the relevant language in the two claims. The examiner had rejected its claims over references including one disclosing mobile units that he read onto the claimed intermediary node. J.A. 1357. Wi-LAN distinguished this reference, arguing that it “use[d] the term ‘connection’ to apply to logical connections between the base station and mobile units.” Id. In Wi-LAN’s view, that reference therefore did not “address issues related to the connections of a[n intermediary node],” which are not with the base *1391 station but instead are with user devices. It tied this argument to the language in claim 6 that requires its claimed “connection” to be between an intermediary node and its user devices. Id. (“[The prior-art reference] does not teach or suggest a subscriber station having a UL queue that is filled from a plurality of connections....”). Wi-LAN then stated that “[t]his same argument also applies to claim 2.” Id. Application claim 2 as then current read: “A method as claimed in claim 1, wherein the wireless subscriber radio unit maintains a plurality of queues, each queue for grouping data pertaining to connections with similar QoS.” Response to Office Action, U.S. Patent App. No. 12/645,937, at 2 (Mar. 31, 2011). During prosecution, Wi-LAN imported this limitation from application claim 2 into issued claim 1, only modifying it to substitute “UL connections” for “connections.” See claim 1 (“wherein the wireless subscriber radio unit maintains a plurality of queues, each queue for data pertaining to one or more UL connections with similar QoS”). The representation the patentee made about application claim 2 continues to apply after Wi-LAN imported its language into issued claim 1. See Watts v. XL Sys., 232 F.3d 877, 883–84 (Fed. Cir. 2000) (holding that a patentee’s representation about claim language limits that language even if it is later deleted and added elsewhere). Wi-LAN is therefore bound here by its representation to the examiner that the language of application claim 2 limits the claimed “connections” to those between an intermediary node and its user devices.
+ 
+Wi-LAN makes a claim-differentiation counterargument that we should not consider claim 6 in construing claim 1 because the patentee’s determination to use different terms—“UL connections” in claim 1 and “connections” in claim 6—implies an intent to establish different meanings for these terms. The doctrine of claim differentiation provides a presumption that differently worded claims cover different claim scope. This doctrine finds root in the legal canon of construction against superfluity. A construction that would cause two differently worded claims to cover exactly the same claim scope would render one of the claims superfluous, so we apply a presumption against such constructions.
+ 
+[14] [15]“Claim differentiation is a guide, not a rigid rule.” Marine Polymer Techs., Inc. v. HemCon, Inc., 672 F.3d 1350, 1359 (Fed. Cir. 2012) (quoting Laitram Corp. v. Rexnord, Inc., 939 F.2d 1533, 1538 (Fed. Cir. 1991)). “It is not unusual that separate claims may define the invention using different terminology, especially where (as here) independent claims are involved.” Mycogen Plant Sci., Inc. v. Monsanto Co., 243 F.3d 1316, 1329 (Fed. Cir. 2001) (quoting Hormone Research Found., Inc. v. Genentech, Inc., 904 F.2d 1558, 1567 n.15 (Fed. Cir. 1990)). Claim differentiation cannot “overcome ... a contrary construction dictated by the written description or prosecution history.” Marine Polymer, 672 F.3d at 1359 (citations omitted). Nor can claim differentiation apply untethered from the reasonable meaning of the difference in claim language on which it rests. See, e.g., Curtiss–Wright Flow Control Corp. v. Velan, Inc., 438 F.3d 1374, 1379 (Fed. Cir. 2006) (rejecting a district court’s construction under claim differentiation that “render[ed the] limitation nearly meaningless”); Nystrom v. Trex Co., 424 F.3d 1136, 1143 (Fed. Cir. 2005) (rejecting a claim-differentiation argument that the term “board” must encompass more than just “wood cut from a log,” because “[a]n examination of the term ‘board’ in the context of the written description and prosecution history ... leads to the conclusion that the term ‘board’ must be limited to wood cut from a log”); see also  *1392 Moskal v. United States, 498 U.S. 103, 120–21, 111 S.Ct. 461, 112 L.Ed.2d 449 (1990) (Scalia, J., dissenting) (noting that the canon of construction against superfluity is “no justification for extruding an unnatural meaning out of” a term in a statute); Public Citizen, Inc. v. HHS, 332 F.3d 654, 665 (D.C. Cir. 2003) (determining that Congress’s use of different words in sections of a statute did not imply different scope because there was no relevant difference between those words’ meanings). Although we might see some significance in the patentee’s decision to modify “connections” with “UL” in claim 1 but not in claim 6, that significance must be grounded in reasonable meanings of the term “UL.” The specification makes clear that “UL” refers to traffic traveling in the uplink, rather than downlink, direction. ’640 patent at 1:49–52. Because “UL” can reasonably relate only to the direction traffic flows through a link, not the location of the link in a network, we find Wi-LAN’s claim-differentiation argument unpersuasive, and certainly not strong enough to overcome the patentee’s statements we identify above equating language in claims 1 and 6.
+ 
+Wi-LAN also uses the prosecution history to urge its own interpretation of “UL connections.” It cites a portion of the prosecution history to claim that the examiner read the claimed “UL connections” onto a connection in a prior-art reference between a base station and a user device. See J.A. 1271, 1384, 1536, 1616–17. As an initial matter, Wi-LAN’s reliance on the examiner’s interpretation of this term is weakened by statements the examiner made during prosecution candidly admitting confusion with the patentee’s wording of its claims. Earlier in prosecution, he noted that he found the wording of the claim “confusing” with respect to whether the intermediary node relays data from other devices. J.A. 1240. And after making the statements Wi-LAN cites to us, the examiner stated that he “initially had difficulty understanding the applicant’s inventive concept since the claims were highly confusing with regard to the basic operation of the system.” J.A. 5173. We accordingly give little weight to the statements Wi-LAN cites. We also note that Wi-LAN refers us to an interpretation of the term “UL connections” that the examiner made when the term appeared in a different context in a different version of the claims. Our construction of the term here depends significantly on the context in which it appears in the current claims; the examiner’s contrary construction in a different context is of limited materiality.
+ 
+Faced with a choice between two possible understandings of “UL connections,” we reject Wi-LAN’s proposed construction, which conflicts with (1) the bandwidth-allocation scheme the patent sets out, (2) the patent’s description of a network architecture where the intermediary node maintaining one connection with the base station and multiple connections with its user devices, and (3) statements Wi-LAN made in prosecution. Instead, we agree with the district court’s construction of “UL connections” as corresponding to the connections between the intermediary node and its user devices. Wi-LAN does not claim any other source of error with regard to the ’640 patent beyond this construction. We therefore also affirm the district court’s grant of summary judgment of noninfringement.
+ 
+
+CONCLUSION
+We affirm the district court’s construction of “specified connection” to exclude embodiments where an intermediary device can maintain only one specified connection. We reject Apple’s argument that Wi-LAN waived the new construction of “UL connections” that it raised for the first time on its motion for reconsideration of summary judgment. We affirm the district *1393 court’s construction of “UL connections.” Because we affirm both constructions against Wi-LAN’s challenges, we also affirm the district court’s grant of summary judgment of noninfringement.
+ 
+AFFIRMED
+ 
+
+COSTS
+No costs.
+ 
+All Citations
+830 F.3d 1374, 119 U.S.P.Q.2d 1605
+Footnotes
+
+1
+
+The specifications and claims of the patents in suit refer to this intermediary node with various terms. Neither party contends before us that these various terms carry any difference in meaning. For simplicity, we therefore refer to this network component consistently as an “intermediary node.”
+
+2
+
+Apple proposed the construction “an uplink connection between the CPE and its users,” using the term “CPE,” or consumer premises equipment, that the specification uses to describe an immobile intermediary node that is “positioned at [a] fixed customer site[ ].” J.A. 27; ’640 patent at 2:7–8. The district court declined to further limit its construction with the term “CPE.” Instead, it adopted the construction “an uplink connection between the wireless subscriber radio unit and its users,” using the broader term “wireless subscriber radio unit” from the claims. J.A. 27.
+
+3
+
+Wi-LAN’s motion for reconsideration also reprised the argument from its summary-judgment briefing that the term “specified connection” does not exclude embodiments where the intermediary node is capable of maintaining only one specified connection.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

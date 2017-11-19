@@ -1,0 +1,167 @@
+
+
+ 
+
+
+Higgins v. BAC Home Loans Servicing, LP
+United States Court of Appeals, Sixth Circuit. | December 27, 2016 | 673 Fed.Appx. 514 | 2016 WL 7441633
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Higgins v. BAC Home Loans Servicing, LP, 673 F. App’x 514 (6th Cir. 2016)
+
+All Citations:
+
+673 Fed.Appx. 514
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Kentucky
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+673 Fed.Appx. 514
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 6th Cir. Rule 32.1.
+United States Court of Appeals,
+Sixth Circuit.
+Larry HIGGINS, Plaintiff,
+W. Glenn Perry; Juanita Buckhalter Clarke; Sheila H. Baker; Rhonda A. Day; David Nadeau; and Martha Megredy, Plaintiffs-Appellants,
+v.
+BAC HOME LOANS SERVICING, LP, fka Countrywide Home Loans Servicing, L.P.; Bank of America, N.A.; JPMorgan Chase Bank, N.A.; U.S. Bank, N.A., as Trustee for the Credit Suisse First Boston Mortgage Securities Corp., CSMC Mortgage-backed Pass-through Certificates, Series 2006-6, and, on behalf of the class, as Trustee of other similarly-situated trusts; Wells Fargo Bank, N.A.; Federal National Mortgage Association; Federal Housing Finance Agency, as conservator for, Federal National Mortgage Association; and Countrywide Home Loans Servicing, L.P., Defendants-Appellees.
+No. 16-5995
+|
+Filed December 27, 2016
+Synopsis
+Background: Property owners who obtained loans in exchange for promissory notes secured by mortgages brought putative class action against banks who were transferred the promissory notes by Mortgage Electronic Registration System (MERS), claiming that banks violated Kentucky law by failing to record transfers of promissory notes within 30 days. The United States District Court for the Eastern District of Kentucky, Karen K. Caldwell, Chief Judge, 2014 WL 1333069 and 2014 WL 1332825, denied banks’ motion to dismiss and certified the order for interlocutory appeal. The United States District Court for the Sixth Circuit, 793 F.3d 688, reversed. The United States District Court for the Eastern District of Kentucky, Karen K. Caldwell, Chief Judge, dismissed the action, and subsequently, 2016 WL 3190218, denied property owners’ motion to set aside dismissal order.
+ 
+Holdings: The Court of Appeals, Rogers, Circuit Judge, held that:
+ 
+[1] recording was not required upon transfer of promissory note, without transfer of any actual mortgage deed;
+ 
+[2] owners waived argument regarding failure to record mortgage deeds.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Mortgages and Deeds of TrustNecessity
+
+
+266Mortgages and Deeds of Trust
+266IXAssignment or Other Transfer of Mortgagee’s Interest
+266IX(A)In General
+266k1422Recording and Registration
+266k1424Necessity
+
+
+Under Kentucky law, recording was not required upon transfer of promissory note, without transfer of any actual mortgage deed. Ky. Rev. Stat. Ann. § 382.360(3).
+Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsMatters of Substance
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(D)Presentation and Reservation in Lower Court of Grounds of Review
+170BXVII(D)2Particular Grounds of Review
+170Bk3402Matters of Substance
+170Bk3403In general
+
+
+Property owners who obtained mortgage loans waived any argument on appeal from the denial of their motion to set aside the dismissal of their putative class action that transferees of promissory notes failed to record mortgage deed transfers, as required by Kentucky law; owners initial claim was based on transferees’ failure to record transfers of the promissory notes, three years passed from the time the plaintiffs filed their complaint until they filed their motion to set aside the dismissal, during which time numerous filings occurred giving owners the opportunity to present this argument, but owners raised the argument for the first time in their motion to set aside the dismissal. Ky. Rev. Stat. Ann. § 382.360(3).
+Cases that cite this headnote
+
+
+
+*515 ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF KENTUCKY
+Attorneys and Law Firms
+Carroll M. Redford, III, Miller, Griffin & Marks, Lexington, KY, John D. Kermode, Atkinson, Simms & Kermode, Lexington, KY, for Plaintiffs-Appellants
+Thomas M. Hefferon, Joseph F. Yenouskas, Goodwin Procter, Washington, DC, Cornelius Edwin Coryell, II, Wyatt, Tarrant & Combs, Louisville, KY, for Defendants-Appellees BAC Home Loans Servicing, LP, Bank of America, N.A.
+Dustin E. Meek, Tachau Meek, Louisville, KY, for Defendant-Appellee JPMorgan Chase Bank, N.A.
+Cornelius Edwin Coryell, II, Wyatt, Tarrant & Combs, Louisville, KY, Elizabeth Allen Frohlich, Morgan, Lewis & Bockius, San Francisco, CA, for Defendant-Appellee U.S. Bank, N.A.
+Thomas M. Hefferon, Joseph F. Yenouskas, Goodwin Procter, Washington, DC, Bethany A. Breetz, Richard A. Vance, Stites & Harbison, Louisville, KY, for Defendant-Appellee Wells Fargo Bank, N.A.
+Jonathan William Garlough, Jill L. Nicholson, Foley & Lardner, Chicago, IL, for Defendant-Appellee Federal National Mortgage Association
+Michael A. Johnson, Howard N. Cayne, Dirk C. Phillips, Asim Varma, Arnold & Porter, Washington, DC, for Defendant-Appellee Federal Housing Finance Agency
+Cornelius Edwin Coryell, II, Wyatt, Tarrant & Combs, Louisville, KY, for Defendant-Appellee Countrywide Home Loans Servicing, L.P.
+BEFORE: MERRITT, BOGGS, and ROGERS, Circuit Judges.
+Opinion
+ROGERS, Circuit Judge.
+
+This putative class action is before the Sixth Circuit for the second time. Multiple landowners sued the defendant financial institutions for failing to timely record mortgage assignments with the relevant county clerk, as required by Kentucky Revised Statutes § 382.360(3). The district court initially rejected the defendants’ motion to dismiss but certified that order for interlocutory appeal. On the first appeal, we held that the district court should have granted the motion to dismiss because promissory-note transfers—on which the plaintiffs based their claims—are not “mortgage assignments” under Kentucky law. Pursuant to our opinion from the first appeal, the district court dismissed the plaintiffs’ case. The district court then denied the plaintiffs’ motion to set aside the dismissal, which they now appeal. The district court correctly followed our mandate from the first appeal in dismissing the case.
+ 
+When a mortgage is assigned, the Kentucky recording statutes require the assignee to record the assignment within thirty days. See Ky. Rev. Stat. Ann. § 382.360(3) (LexisNexis 2016). In this case, the plaintiff-landowners contend that the defendant-assignees violated this provision through their use of the Mortgage Electronic Registration System (MERS). See R.32, PgID #455–56. We summarized MERS’s operations in the opinion from the first appeal:
+When a home is purchased, the lender obtains from the borrower a promissory note and a mortgage instrument naming MERS as the mortgagee (as nominee for the lender and its successors and assigns). In the mortgage, the borrower assigns his right, title, and interest in the property to MERS, and the mortgage instrument is then recorded in the local land records with MERS as the *516 named mortgagee. When the promissory note is sold (and possibly re-sold) in the secondary mortgage market, the MERS database tracks that transfer. As long as the parties involved in the sale are MERS members [as are most large financial institutions], MERS remains the mortgagee of record (thereby avoiding recording and other transfer fees that are otherwise associated with the sale) and continues to act as an agent for the new owner of the promissory note.
+Higgins v. BAC Home Loans Servicing, LP [Higgins I ], 793 F.3d 688, 689 (6th Cir. 2015) (alteration in original) (quoting Christian Cty. Clerk ex rel. Kem v. Mortg. Elec. Registration Sys., Inc., 515 Fed.Appx. 451, 452 (6th Cir. 2013)).
+ 
+Up until now, the plaintiffs’ theory has been that, each time a promissory note is sold within the MERS network, the mortgage is “assigned” within the meaning of Kentucky Revised Statutes § 382.360(3). Thus, the plaintiffs have contended that every time one of the defendant-assignees received a promissory note without reporting the transfer within thirty days, the transferee violated Kentucky law. Furthermore, the plaintiffs have maintained that they are entitled to $500—the minimum statutory damages under § 382.365(5)—for each unrecorded transfer.
+ 
+This theory was the subject of the first appeal. In denying the defendants’ motion to dismiss, the district court held that, “under Kentucky law, the assignment of a note secured by a mortgage also transfers the mortgage,” and “when a mortgage assignment occurs by way of a note assignment, Kentucky’s statutes require that the assignment be recorded.” Higgins v. BAC Home Loans Servicing, LP, No. 12–cv–183–KKC, 2014 WL 1333069, at *3 (E.D. Ky. Mar. 31, 2014); see id. at *6. The defendants moved pursuant to 28 U.S.C. § 1292(e) for certification to appeal this interlocutory order, arguing that “[i]f [the issue] is resolved in Defendants’ favor by the Sixth Circuit, then Plaintiffs would not state a claim for relief and dismissal of the case would be required.” R.80-1, PgID #1596. The plaintiffs similarly stated “that an interlocutory appeal would finally determine liability.” No. 14–507, Resp. to Pet. for Interlocutory Appeal, R.16-1, Pg #2. The district court agreed that, should it be reversed, the “matter must be dismissed in its entirety,” and granted the motion for interlocutory appeal. Higgins v. BAC Home Loans Servicing, LP, No. 12–cv–183–KKC, 2014 WL 3015762, at *2 (E.D. Ky. July 3, 2014); see id. at *4. Consistent with the parties’ and the district court’s assertion that our decision about whether promissory-note transfers are “assignments” would be decisive, the defendants stated during the appeal: “It is undisputed that these note transfers did not involve written mortgage assignments....” No. 14–6168, BAC Home Loans Servicing Br., R.37, Pg #4. The plaintiffs did not challenge this statement. See generally No. 14–6168, Higgins Br., R.38.
+ 
+On the interlocutory appeal, we reversed the district court:
+KRS 382.360(3) applies to those instances in which a transferee fails to record a transfer of a mortgage deed. It does not require recording of transfers of promissory notes. Because it is undisputed that defendants transferred only promissory notes and did not fail to record any transfers of mortgage deeds, defendants did not violate KRS 382.360(3)[,] and the district court should have dismissed plaintiffs’ action on that basis.
+Higgins I, 793 F.3d at 694. Reasonably concluding that our opinion left nothing to be decided, the district court then dismissed the case. See R.97. The plaintiffs challenged that decision in a motion to set *517 aside the judgment, arguing for the first time that their complaint includes claims based on the defendant-assignees’ failure to record mortgage-deed transfers, not solely promissory-note transfers. See R.98. The district court denied the motion to set aside, see Higgins v. BAC Home Loans Servicing, LP, No. 12–cv–183–KKC, 2016 WL 3190218 (E.D. Ky. June 8, 2016), which the plaintiffs now appeal.
+ 
+[1]The district court correctly concluded that it was required to dismiss the plaintiffs’ case pursuant to Higgins I and did not abuse its discretion by denying the plaintiffs’ motion to set aside the dismissal. “It is clear that when a case has been remanded by an appellate court, the trial court is bound to ‘proceed in accordance with the mandate and law of the case as established by the appellate court.’ ” Hanover Ins. Co. v. Am. Eng’g Co., 105 F.3d 306, 312 (6th Cir. 1997) (quoting In re U.S. Steel Corp., 479 F.2d 489, 493 (6th Cir. 1973)). Our holding in Higgins I that “defendants did not violate KRS § 382.360(3)[,] and the district court should have dismissed plaintiffs’ action on that basis,” 793 F.3d at 694, is the “law of the case.” The district court then appropriately followed our mandate by dismissing the case.
+ 
+[2]In any event, the plaintiffs have long past waived any argument based on the defendants’ failure to record mortgage-deed transfers. Three years passed from the time the plaintiffs filed their second amended complaint to when they filed their motion to set aside. Numerous filings during that time gave the plaintiffs an opportunity to present this argument, including their response to the defendants’ motion to dismiss, their response to the defendants’ motion for certification of an interlocutory appeal, their response to the defendants’ petition for leave to appeal in this court, and their brief on the interlocutory appeal.1 Despite these opportunities, the plaintiffs did not argue until the motion to set aside that this case should not be dismissed, regardless of what the court decides about note transfers, because they also have claims based on mortgage-deed transfers. In fact, the plaintiffs agreed that our holding about note transfers “would finally determine liability.” See No. 14–507, Resp. to Pet. for Interlocutory Appeal, R.16-1, Pg #2. Because the plaintiffs had ample opportunity outside the interlocutory appeal to argue that the case should not be dismissed based on surviving mortgage-deed-transfer arguments, it makes no difference to this waiver that they were defending rather than challenging the district court’s judgment on the first appeal. Given the plaintiffs’ neglect to raise the mortgage-deed-transfer argument until their last-ditch attempt to set aside the dismissal, they have waived the argument.
+ 
+The plaintiffs’ request to amend their complaint fails along with their attempt to set aside the dismissal. When a plaintiff requests leave to amend his complaint after an adverse judgment, he “must meet the requirements for reopening a case established by [Fed. R. Civ. P.] 59 or 60.” Leisure Caviar, LLC v. U.S. Fish & Wildlife Serv., 616 F.3d 612, 616 (6th Cir. 2010). Therefore, because the plaintiffs have not satisfied their burden to set aside the district court’s judgment under Rule 59 or Rule 60, they are not entitled to amend their complaint.
+ 
+*518 Finally, having been unsuccessful in obtaining multiple awards of $500, based on all manner of harm alleged in their original complaint, and never having sought to remand this federal case to the state court, plaintiffs now argue that the federal district court in this case lacked Article III jurisdiction because the plaintiffs themselves lacked standing. Despite the chutzpah, it is true that the lack of federal-court jurisdiction can be challenged on appeal without having been raised below. However, the idea that the plaintiffs lacked Article III standing in this case is fanciful. If even one of the plaintiffs had standing, that would be sufficient for Article III purposes. Neale v. Volvo Cars of N. Am., LLC, 794 F.3d 353, 359 (3d Cir. 2015); see O’Shea v. Littleton, 414 U.S. 488, 494, 94 S.Ct. 669, 38 L.Ed.2d 674 (1974). Plaintiffs rely upon the Supreme Court’s recent Spokeo decision. See Spokeo, Inc. v. Robins, ––– U.S. ––––, 136 S.Ct. 1540, 194 L.Ed.2d 635 (2016). Whatever that case held, however, it cannot have held that the failure of a plaintiff to meet the causation or damage element of any statutory tort deprives a federal court of jurisdiction. A tort suit for monetary damages is ordinarily an Article III case or controversy. It is true that Congress arguably may not legislate a federal cause of action providing for recovery of “bounties” for litigants who are not directly affected by illegal actions of the defendant. See Vt. Agency of Natural Res. v. U.S. ex rel. Stevens, 529 U.S. 765, 771–73, 120 S.Ct. 1858, 146 L.Ed.2d 836 (2000). But that is clearly not what is going on in this case, especially in light of the harms alleged in plaintiffs’ complaint.
+ 
+The judgment of the district court is affirmed.
+ 
+All Citations
+673 Fed.Appx. 514
+Footnotes
+
+1
+
+The fact that defendant U.S. Bank and the district court recognized that one claim against U.S. Bank is based on “a formal mortgage assignment,” see Higgins v. BAC Home Loans Servicing, LP, No. 12–cv–183–KKC, 2014 WL 1332176, at *2 (E.D. Ky. Mar. 31, 2014); R.61, PgID #1066–67, does not defeat waiver. The plaintiffs never argued before the motion to set aside that this single claim should prevent the district court from dismissing their case.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

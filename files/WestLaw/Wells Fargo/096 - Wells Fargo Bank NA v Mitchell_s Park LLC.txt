@@ -1,0 +1,191 @@
+
+
+ 
+
+
+Wells Fargo Bank, N.A. v. Mitchell’s Park, LLC
+United States Court of Appeals, Eleventh Circuit. | June 23, 2015 | 615 Fed.Appx. 561 | 2015 WL 3851815
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Wells Fargo Bank, N.A. v. Mitchell’s Park, LLC, 615 F. App’x 561 (11th Cir. 2015)
+
+All Citations:
+
+615 Fed.Appx. 561
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Georgia
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:06 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+615 Fed.Appx. 561
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S. Ct. of App. 11th Cir. Rule 36-2.
+United States Court of Appeals,
+Eleventh Circuit.
+WELLS FARGO BANK, N.A., as successor by consolidation to Wells Fargo Bank MN, N.A. as Trustee for the registered holders of Banc of America Commercial Mortgage Inc., Commercial Mortgage Pass–Through Certificates, Series 2003–2, by and through it Special Servicer, ORIX Capital, Plaintiff–Appellee,
+v.
+MITCHELL’S PARK, LLC, Defendant,
+Peter Bright, Defendant–Appellant.
+No. 14–14130
+|
+Non–Argument Calendar.
+|
+June 23, 2015.
+Synopsis
+Background: Trustee for express trust for commercial mortgage pass-through certificates brought post-foreclosure diversity action to enforce guaranty of commercial mortgage loan to single-purpose entity. The United States District Court for the Northern District of Georgia, Thomas W. Thrash, Jr., J., 2012 WL 4899888, granted summary judgment to trustee. Guarantor appealed.
+ 
+[Holding:] The Court of Appeals held that reference to “borrower” rather than “guarantor” in last sentence of guaranty’s full recourse liability clause was an obvious mistake.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+Federal CourtsNominal or formal parties;  real parties in interest
+Federal CourtsRepresentative or Fiduciary Capacity;  Beneficiaries
+
+
+170BFederal Courts
+170BVIControversies Between Citizens of Different States;  Diversity Jurisdiction
+170BVI(B)Particular Cases, Contexts, and Questions
+170Bk2428Nominal or formal parties;  real parties in interest
+170BFederal Courts
+170BVIControversies Between Citizens of Different States;  Diversity Jurisdiction
+170BVI(B)Particular Cases, Contexts, and Questions
+170Bk2429Representative or Fiduciary Capacity;  Beneficiaries
+170Bk2430In general
+
+
+Trustee for express trust for commercial mortgage pass-through certificates was real party interest and therefore could sue in its own right, without regard to citizenship of trust beneficiaries, for purposes of determining whether diversity jurisdiction existed, in trustee’s action to enforce the guaranty of commercial mortgage loan to single-purpose entity; under terms of the trust agreement, trustee held all right, title, and interest in the trust fund for exclusive benefit of trust beneficiaries.
+2 Cases that cite this headnote
+
+
+
+[2]
+
+Corporations and Business OrganizationsLiability for acts and debts of company
+
+
+101Corporations and Business Organizations
+101XVUnincorporated Business Organizations
+101XV(E)Limited Liability Companies
+101k3632Members, Owners, and Shareholders
+101k3641Liability for acts and debts of company
+
+
+Commercial mortgagor, which was a limited liability company (LLC), and mortgagee intended that guarantor would personally guarantee all debts incurred by mortgagor, which was a single-purpose entity, though guaranty’s full recourse liability clause mistakenly used the word “borrower” rather than “guarantor” when stating that if borrower failed to maintain the single-purpose entity requirements, lender would have the right to seek “a personal judgment against Borrower on this Guaranty”; mistake was obvious when guaranty was construed together with contemporaneously-signed promissory note, and guarantor’s obligations under guaranty induced the making of the loan.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*562 Burleigh Lavisky Singleton, Robert E. Buckley, Kilpatrick Townsend & Stockton, LLP, Atlanta, GA, for Plaintiff–Appellee.
+Peter Bright, Kennesaw, GA, pro se.
+Appeal from the United States District Court for the Northern District of Georgia. D.C. Docket No. 1:10–cv–03820–TWT.
+Before HULL, ROSENBAUM, and EDMONDSON, Circuit Judges.
+Opinion
+PER CURIAM:
+
+Peter Bright, proceeding pro se, appeals the district court’s grant of summary judgment in favor of Wells Fargo Bank, N.A. (“Wells Fargo”). Wells Fargo filed this diversity action against Bright and against Mitchell’s Park, LLC1 to enforce a promissory note and guaranty agreement. No reversible error has been shown; we affirm.
+ 
+In 2003, Mitchell’s Park secured a loan of $5.55 million to build an apartment complex. The loan was memorialized by various loan documents, including a Promissory Note Secured by Security Deed (“Note”) and a Limited Guaranty (“Guaranty”). Both the Note and the Guaranty were signed on the same day.
+ 
+The current parties to the Note are Mitchell’s Park, as Borrower, and Wells Fargo, as Lender.2 The Note, among other things, gives Lender the right to accelerate payments due under the Note if Borrower fails to make a payment. The *563 Note also contains a Full Recourse Liability Clause; this Clause provides that, if Borrower fails to maintain the single-purpose entity requirements, the “Lender shall have the right to seek a personal judgment against Borrower on this Note and under any other Loan Document with respect to any and all indebtedness secured thereby.”
+ 
+The parties to the Guaranty are identified as Bright (in his individual capacity), as Guarantor, and Wells Fargo, as Lender. The Guaranty was entered into for the express purpose of inducing Lender to make the loan. Under the terms of the Guaranty, Guarantor “unconditionally, absolutely, and irrevocably guarantees and promises to pay to Lender ... all sums for which Borrower is now or hereafter liable” under the Note. The Guaranty also contains a Full Recourse Liability Clause that is nearly identical to the language used in the Note. The Guaranty specifically provides that, in the event Borrower fails to maintain the single-purpose entity requirements, the “Lender shall have the right to seek a personal judgment against Borrower on this Guaranty and under any other Loan Document with respect to any and all indebtedness secured thereby.” (emphasis added).
+ 
+Mitchell’s Park failed to make the payments due under the Note. The parties do not dispute that Mitchell’s Park also failed to maintain the single-purpose entity requirements and, thus, triggered application of the Full Recourse Liability provisions. As a result of Mitchell’s Park’s default, Wells Fargo accelerated the Note and ultimately foreclosed on the real property and other collateral secured by the Note. Wells Fargo then brought this civil action against Mitchell’s Park and Bright, pursuant to the Full Recourse Liability provisions, to collect the outstanding $4 million debt.
+ 
+The district court denied Bright’s motions to dismiss for lack of subject matter jurisdiction and granted Wells Fargo’s motion for summary judgment. The district court then denied Bright’s motion for reconsideration and entered final judgment in favor of Wells Fargo.
+ 
+
+I. Diversity Jurisdiction
+On appeal, Bright contends that Wells Fargo failed to satisfy its burden of establishing diversity jurisdiction because Wells Fargo failed to plead the citizenship of its trust beneficiaries. We review de novo a district court’s denial of a motion to dismiss for lack of subject matter jurisdiction. Underwriters at Lloyd’s, London v. Osting–Schwinn, 613 F.3d 1079, 1085 (11th Cir.2010). The party filing a diversity lawsuit in federal court bears the burden of establishing, by a preponderance of the evidence, that all the parties are completely diverse. Id.
+ 
+[1] Wells Fargo filed this civil action in its capacity as trustee for an express trust known as “the registered holders of Banc of America Commercial Mortgage Inc., Commercial Mortgage Pass–Through Certificates, Series 2003–2.” The trust, itself, is no party to this action. Under the terms of the trust agreement, Wells Fargo holds all right, title and interest in the trust fund for the exclusive benefit of the trust beneficiaries. As a result, Wells Fargo constitutes the real party in interest and can “sue in [its] own right, without regard to the citizenship of the trust beneficiaries.” See Navarro Sav. Ass’n v. Lee, 446 U.S. 458, 100 S.Ct. 1779, 1783–84, 64 L.Ed.2d 425 (1980) (“a trustee is a real party to the controversy for purposes of diversity jurisdiction when he possesses certain customary powers to hold, manage, and dispose of assets for the benefit of others.”).
+ 
+*564 Complete diversity exists between the parties: Wells Fargo is a citizen of South Dakota and California, and Bright and Mitchell’s Park are both citizens of Georgia. The district court concluded properly that it had subject matter jurisdiction over this case.
+ 
+
+II. Summary Judgment
+We review the district court’s grant of summary judgment de novo, viewing the evidence and all reasonable factual inferences in the light most favorable to the nonmoving party. Skop v. City of Atlanta, 485 F.3d 1130, 1136 (11th Cir.2007). Because our jurisdiction in this case is based on diversity, Georgia substantive law controls the interpretation of the contracts at issue. See Ferrero v. Associated Materials Inc., 923 F.2d 1441, 1444 (11th Cir.1991).
+ 
+Briefly stated, Bright argues that he cannot be held personally liable for debts owed by Mitchell’s Park under the Note because the Guaranty provides only that “Lender shall have the right to seek a personal judgment against Borrower on this Guaranty.” (emphasis added). Bright contends that the language in the Guaranty is unambiguous and that the district court erred in determining that the use of the term “Borrower”—instead of the term “Guarantor”—was an obvious mistake that should be corrected.
+ 
+Under Georgia law, the “cardinal rule of construction is to ascertain the intention of the parties.” C.L.D.F., Inc. v. The Aramore, LLC, 290 Ga.App. 271, 659 S.E.2d 695, 696 (2008). “If that intention is clear and contravenes no rule of law and sufficient words are used to arrive at the intention, it shall be enforced irrespective of all technical or arbitrary rules of construction.” Id. In determining the intended meaning of a document, Georgia courts consider contemporaneous writings together. Id.
+ 
+Because the Note and the Guaranty were executed on the same day, we must—as a matter of Georgia contract law—consider both documents together in determining the parties’ intended meaning. See id. That both documents identify the Guaranty as a loan document further evidences the parties’ intent that the documents be read together.
+ 
+[2] Reading and construing the Note and the Guaranty together, we conclude that the parties intended clearly for Bright personally to guarantee all debts incurred by Borrower under the Note, including debts incurred under the Note’s Full Recourse Liability Clause. Bright’s obligations under the Guaranty induced Lender to make the loan. Given the parties’ clear intentions, we conclude that the use of the term “Borrower” (instead of “Guarantor”) in the last sentence of the Guaranty’s Full Recourse Liability Clause was an obvious mistake. The district court committed no error in correcting the obvious mistake and in interpreting the Guaranty in the light of the parties’ intended language.
+ 
+We find support for our decision in two Georgia cases.3 In C.L.D.F., Inc., the Georgia Court of Appeals—construing a guaranty together with a contemporaneously-signed lease—concluded that the guaranty contained an obvious mistake in naming the wrong principal debtor. 659 S.E.2d at 696–97. The Georgia court concluded that it was no error “for the trial court to correct an obvious error and interpret the Guaranty accordingly” and, thus, *565 affirmed the trial court’s grant of summary judgment. Id. at 697.
+ 
+Likewise, in Tucker Station, Ltd. v. Chalet I, Inc., 203 Ga.App. 383, 417 S.E.2d 40 (1992), the Georgia Court of Appeals construed together a lease and a guaranty that were executed on the same day. The state court determined that an obvious error existed on the face of the guaranty, which referred to a default by the “Guarantor” instead of by the “Tenant.” In affirming the grant of summary judgment, the state court said “[d]espite the misuse of the term ‘Guarantor,’ the guaranty agreement clearly indicates the intent of the individual defendants to guarantee the credit extended by the landlord for tenant finishes in the event of default by the tenant....” Id. at 42.4
+ 
+No genuine issue of material fact exists. We affirm the district court’s grant of summary judgment in favor of Wells Fargo.
+ 
+AFFIRMED.
+ 
+All Citations
+615 Fed.Appx. 561
+Footnotes
+
+1
+
+On 4 December 2014, this Court dismissed Mitchell’s Park for failure to prosecute. Mitchell’s Park is not a party to this appeal.
+
+2
+
+The Note, in fact, identifies the “Lender” as Bridger Commercial Funding, LLC. But Wells Fargo later acquired all legal and equitable interest to the loan and now serves as the “Lender” under both the Note and the Guaranty.
+
+3
+
+Because Georgia law provides sufficient guidance on this issue, we deny Bright’s request to certify a question to the Supreme Court of Georgia.
+
+4
+
+Contrary to Bright’s argument, the Georgia Court of Appeals’s recent opinion in Citrus Tower Blvd. Imaging Ctr., LLC v. Owens, 325 Ga.App. 1, 752 S.E.2d 74 (2013), is not controlling here. The issue in Citrus Tower was whether the individual debtor had guaranteed the lease obligations of his professional corporation. Because the individual defendant had unambiguously signed the guaranty only in his corporate capacity, the state court concluded that the guarantor was in fact the professional corporation and not the individual defendant. Unlike this appeal, Citrus Tower involved no obvious mistake on the face of the guaranty. And nothing in Citrus Tower appears to us to have changed the controlling law established by C.L.D.F., Inc. and by Tucker Station.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

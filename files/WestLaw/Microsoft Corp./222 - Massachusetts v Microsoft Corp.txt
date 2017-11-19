@@ -1,0 +1,1445 @@
+
+
+ 
+
+
+Massachusetts v. Microsoft Corp.
+United States Court of Appeals, District of Columbia Circuit. | June 30, 2004 | 373 F.3d 1199 | 2004 WL 1462298
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Massachusetts v. Microsoft Corp., 373 F.3d 1199 (D.C. Cir. 2004)
+
+All Citations:
+
+373 F.3d 1199, 362 U.S.App.D.C. 152, 2004-1 Trade Cases P 74,468
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+District of Columbia
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+373 F.3d 1199
+United States Court of Appeals,
+District of Columbia Circuit.
+Commonwealth of MASSACHUSETTS, ex rel., Appellant,
+v.
+MICROSOFT CORPORATION, Appellee.
+United States of America, Appellee,
+v.
+Microsoft Corporation, et al., Appellees.
+The Computer and Communications Industry Association and The Software and Information Industry Association, Appellants.
+Nos. 02-7155 and 03-5030.
+|
+Argued Nov. 4, 2003.
+|
+Decided June 30, 2004.
+Synopsis
+Background: United States and individual states brought antitrust action against software manufacturer. On remand, 253 F.3d 34, the United States District Court for the District of Columbia, Colleen Kollar-Kotelly, J., conditionally approved consent decree, 231 F.Supp.2d 144, and entered comparable remedial decree covering claims of those states that had refused to settle. Appeals were taken by one litigating state and industry associations whose intervention motions had been denied.
+ 
+Holdings: The Court of Appeals, Ginsburg, Chief Judge, held that:
+ 
+[1] remedial decree adequately addressed manufacturer’s violations;
+ 
+[2] associations should have been allowed to intervene;
+ 
+[3] consent decree was in public interest; and
+ 
+[4] government and manufacturer satisfied Tunney Act’s procedural requirements.
+ 
+Affirmed in part and reversed in part.
+ 
+
+
+West Headnotes (24)
+
+
+[1]
+
+Federal CourtsQuestions of Law in General
+Federal Courts“Clearly erroneous” standard of review in general
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3566Questions of Law in General
+170Bk3567In general
+(Formerly 170Bk776)
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3603Findings
+170Bk3603(2)“Clearly erroneous” standard of review in general
+(Formerly 170Bk850.1)
+
+
+Appellate court reviews district court’s findings of fact for clear error, but resolves issues of law de novo.
+4 Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsEquity and equitable relief in general
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3612Remedial Matters
+170Bk3615Equity and equitable relief in general
+(Formerly 170Bk813)
+
+
+District court’s decision whether to grant equitable relief is reviewed only for abuse of discretion.
+5 Cases that cite this headnote
+
+
+
+[3]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Determination in government’s antitrust action that software manufacturer’s commingling of its browsing and operating system code in same file violated Sherman Act’s anti-monopolization provision did not necessitate remedy that required manufacturer to “uncommingle” its code; rather, given potentially adverse effects of code removal, remedy which instead alleviated anticompetitive effect of manufacturer’s conduct by allowing original equipment manufacturers (OEMs) and end users to replace manufacturer’s browser with competing browser was not abuse of discretion. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[4]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Failure to include provision, in remedial decree entered in antitrust action against software manufacturer, prohibiting manufacturer from engaging in unlawful conduct which it had ceased in accordance with consent decree entered in another case, was not abuse of discretion absent showing of significant threat that conduct would be resumed. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[5]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Although district court is empowered to fashion appropriate restraints on antitrust defendant’s future activities both to avoid recurrence of violation and to eliminate its consequences, resulting relief must represent reasonable method of eliminating consequences of illegal conduct.
+Cases that cite this headnote
+
+
+
+[6]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Application program interface (API) disclosures, required in remedial decree entered against software manufacturer found to have engaged in monopolistic practices, were sufficiently broad; neither limitation of requirement to certain of manufacturer’s middleware products nor limitation as to amount of information disclosed constituted abuse of discretion. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+2 Cases that cite this headnote
+
+
+
+[7]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Communications protocol disclosures, required in remedial decree entered against software manufacturer found to have engaged in monopolistic practices, were sufficiently broad; limitation of requirement to protocols for native communications was not abuse of discretion. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[8]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Failure of remedial decree, entered against software manufacturer found to have engaged in monopolistic practices by tying its web-browsing software to its operating system, to regulate manufacturer’s conduct in relation to web services was not abuse of discretion. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[9]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Failure of remedial decree, entered against software manufacturer found to have engaged in monopolistic practices by tying its web-browsing software to its operating system, to preclude manufacturer from offering financial incentives to original equipment manufacturers (OEMs) was not abuse of discretion; there was evidence such incentives had pro-competitive effect, and decree did preclude manufacturer from offering incentives in discriminatory manner. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[10]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Failure of remedial decree, entered against software manufacturer found to have engaged in monopolistic practices by tying its web-browsing software to its operating system, to require manufacturer to disclose and license all source code for its browser was not abuse of discretion. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[11]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Failure of remedial decree, entered against software manufacturer found to have engaged in monopolistic practices by tying its web-browsing software to its operating system, to require manufacturer to distribute copies of competitor’s “Java” software was not abuse of discretion. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[12]
+
+Antitrust and Trade RegulationInjunction
+
+
+29TAntitrust and Trade Regulation
+29TXVIIAntitrust Actions, Proceedings, and Enforcement
+29TXVII(B)Actions
+29Tk994Injunction
+29Tk995In general
+(Formerly 265k24(7.1))
+
+
+Focus of remedial decree, entered against software manufacturer found to have engaged in monopolistic practices by tying its web-browsing software to its operating system, on denying manufacturer’s ability to take same or similar actions to limit competition in future, rather than on redressing harm suffered by specific competitors in past, was not abuse of discretion. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2.
+Cases that cite this headnote
+
+
+
+[13]
+
+Federal CourtsIntervention or addition of new parties on appeal
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(B)Appellate Jurisdiction and Procedure in General
+170Bk3253Persons Entitled to Seek Review or Assert Arguments;  Parties;  Standing
+170Bk3257Intervention or addition of new parties on appeal
+(Formerly 170Bk546)
+
+
+Software industry associations’ claim had question of law or fact in common with underlying action, for purpose of determining whether they were entitled to intervene for purpose of appealing district court’s determination that consent decree resolving government’s antitrust claims against software manufacturer satisfied statutory requirement of being in “public interest”; private antitrust claims of associations’ members overlapped substantially with government’s claims. Clayton Act, § 5(e), 15 U.S.C.A. § 16(e); Fed.Rules Civ.Proc.Rule 24, 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[14]
+
+Federal CourtsIntervention or addition of new parties on appeal
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(B)Appellate Jurisdiction and Procedure in General
+170Bk3253Persons Entitled to Seek Review or Assert Arguments;  Parties;  Standing
+170Bk3257Intervention or addition of new parties on appeal
+(Formerly 170Bk546)
+
+
+Denial of software industry associations’ motions to intervene, for purpose of appealing district court’s approval of consent decree resolving government’s antitrust claims against software manufacturer, on ground of undue prejudice and delay was abuse of discretion; consent decree was already in place, and associations had already extensively participated in proceedings. Clayton Act, § 5(e), 15 U.S.C.A. § 16(e); Fed.Rules Civ.Proc.Rule 24(b), 28 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[15]
+
+Federal Civil ProcedureProceedings for intervention
+
+
+170AFederal Civil Procedure
+170AIIParties
+170AII(H)Intervention
+170AII(H)1In General
+170Ak321Proceedings for intervention
+
+
+Procedural defects in connection with intervention motions should generally be excused by court. Fed.Rules Civ.Proc.Rule 24, 28 U.S.C.A.
+2 Cases that cite this headnote
+
+
+
+[16]
+
+Federal Civil ProcedureForm and requisites;  validity
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.2Form and requisites;  validity
+
+
+District court should withhold its approval of consent decree in antitrust action, for failure to satisfy Tunney Act’s “public interest” requirement, only if any decree terms appear ambiguous, if enforcement mechanism is inadequate, if third parties will be positively injured, or if decree otherwise makes mockery of judicial power. Clayton Act, § 5(e), 15 U.S.C.A. § 16(e).
+11 Cases that cite this headnote
+
+
+
+[17]
+
+Federal Civil ProcedureForm and requisites;  validity
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.2Form and requisites;  validity
+
+
+Tunney Act’s requirement, that consent decrees in antitrust cases be in public interest, does not distinguish between pre- and post-trial consent decrees. Clayton Act, § 5(e), 15 U.S.C.A. § 16(e).
+3 Cases that cite this headnote
+
+
+
+[18]
+
+Federal Civil ProcedureForm and requisites;  validity
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.2Form and requisites;  validity
+
+
+Failure of consent decree, resolving government’s antitrust claims against software manufacturer that had commingled its browsing and operating system code in same file, to require separation of codes did not preclude approval of decree as being in public interest; decree adequately addressed anticompetitive effect of commingling by requiring manufacturer to allow original equipment manufacturers (OEMs) and end users to replace manufacturer’s browser with competing browser. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2; Clayton Act, § 5(e), 15 U.S.C.A. § 16(e).
+Cases that cite this headnote
+
+
+
+[19]
+
+Federal Civil ProcedureForm and requisites;  validity
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.2Form and requisites;  validity
+
+
+Failure of consent decree, resolving government’s antitrust claims against software manufacturer, to require manufacturer to distribute copies of competitor’s “Java” software did not preclude approval of decree as being in public interest; decree adequately addressed anticompetitive effect of manufacturer’s prior exclusionary activity by prohibiting future exclusionary conduct. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2; Clayton Act, § 5(e), 15 U.S.C.A. § 16(e).
+Cases that cite this headnote
+
+
+
+[20]
+
+Federal Civil ProcedureForm and requisites;  validity
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.2Form and requisites;  validity
+
+
+Limitations on application program interface (API) disclosure requirements, contained in consent decree resolving government’s antitrust claims against software manufacturer, did not preclude approval of decree as being in public interest; disclosures were tailored to remedy asserted antitrust violations. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2; Clayton Act, § 5(e), 15 U.S.C.A. § 16(e).
+3 Cases that cite this headnote
+
+
+
+[21]
+
+Federal Civil ProcedureForm and requisites;  validity
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.2Form and requisites;  validity
+
+
+Consent decree resolving government’s antitrust claims against software manufacturer sufficiently defined its terms to avoid court rejection on ground it was not in public interest; economic considerations precluded manufacturer from taking advantage of some ambiguities, and others imposed greater restrictions on manufacturer than would have been imposed by more specifically defined terms. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2; Clayton Act, § 5(e), 15 U.S.C.A. § 16(e).
+Cases that cite this headnote
+
+
+
+[22]
+
+Federal Civil ProcedureForm and requisites;  validity
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.2Form and requisites;  validity
+
+
+Enforcement provisions in consent decree resolving government’s antitrust claims against software manufacturer were sufficient to avoid court rejection on ground decree was not in public interest; proposed “technical committee” was adequate to assist government in its enforcement efforts, and proposed mechanism for handling third-party complaints was adequate. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2; Clayton Act, § 5(e), 15 U.S.C.A. § 16(e).
+1 Cases that cite this headnote
+
+
+
+[23]
+
+Federal Civil ProcedureForm and requisites;  validity
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.2Form and requisites;  validity
+
+
+Anti-retaliation provisions in consent decree resolving government’s antitrust claims against software manufacturer were sufficient to avoid court rejection on ground decree was not in public interest; possibility that manufacturer could still retaliate against original equipment manufacturers (OEMs) while technically complying with terms of decree was speculative. Sherman Act, § 2, as amended, 15 U.S.C.A. § 2; Clayton Act, § 5(e), 15 U.S.C.A. § 16(e).
+Cases that cite this headnote
+
+
+
+[24]
+
+Federal Civil ProcedureApproval hearing;  entry
+
+
+170AFederal Civil Procedure
+170AXVIIJudgment
+170AXVII(A)In General
+170Ak2397On Consent
+170Ak2397.3Approval hearing;  entry
+
+
+Government’s and antitrust defendant’s disclosures, prior to seeking court approval of consent decree, were sufficient to satisfy Tunney Act’s procedural requirements; government fully explained circumstances from which proposed decree arose and discussed alternative provisions it had considered, and defendant’s obligation to disclose its government communications did not extend to its legislative lobbying efforts. Clayton Act, § 5(b, g), 15 U.S.C.A. § 16(b, g).
+4 Cases that cite this headnote
+
+
+
+*1202 **155 Appeal from the United States District Court for the District of Columbia (Nos. 98cv01233, 98cv01232).
+Attorneys and Law Firms
+Steven R. Kuney argued the cause for appellant Commonwealth of Massachusetts, ex rel., in No. 02-7155. With him on the briefs were Brendan V. Sullivan, Jr., Thomas F. Reilly, Attorney General, Attorney General’s Office of the Commonwealth of Massachusetts, and Glenn S. Kaplan, Assistant Attorney General. John E. Schmidtlein and Nicholas J. Boyle entered appearances.
+Robert H. Bork argued the cause for appellants The Computer and Communications Industry Association, et al., in No. 03-5030. With him on the briefs were Kenneth W. Starr, Glenn B. Manishin, Stephanie A. Joyce, Mark L. Kovner, and Elizabeth S. Petrela.
+Kenneth W. Starr, Robert H. Bork, David M. Gossett, Elizabeth S. Petrela, Donald M. Falk, and Mitchell S. Pettit were on the brief of amici curiae The Computer and Communications Industry Association, et al., in support of appellant in No. 02-7155. Glenn B. Manishin entered an appearance.
+Deborah P. Majoras, Deputy Assistant Attorney General, U.S. Department of Justice, argued the cause for appellee United States of America in No. 03-5030. With her on the brief were R. Hewitt Pate, Assistant Attorney General, and Catherine G. O’Sullivan and David Seidman, Attorneys.
+Michael Lacovara and Steven L. Holley argued the causes for appellees. With *1203 **156 them on the briefs were John L. Warden, Richard J. Urowsky, Richard C. Pepperman II, Bradley P. Smith, Thomas W. Burt, David A. Heiner, Jr., Charles F. Rule, and Dan K. Webb.
+Before: GINSBURG, Chief Judge, and EDWARDS, SENTELLE, RANDOLPH, ROGERS, and TATEL, Circuit Judges.
+Opinion
+Opinion for the Court filed by Chief Judge GINSBURG.
+
+GINSBURG, Chief Judge:
+
+
+I.
+ 
+
+Background	
+ 
+
+	1204
+ 
+
+
+ 
+
+
+II.
+ 
+
+Commonwealth of Massachusetts v. Microsoft, No. 02-7155	
+ 
+
+	1207
+ 
+
+
+
+A.
+ 
+
+Remedial Proposals	
+ 
+
+	1207
+ 
+
+
+
+
+1.
+ 
+
+Commingling	
+ 
+
+	1207
+ 
+
+
+
+2.
+ 
+
+Java deception	
+ 
+
+	1213
+ 
+
+
+
+3.
+ 
+
+Forward-looking provisions	
+ 
+
+	1215
+ 
+
+
+
+
+
+a.
+ 
+
+Disclosure of APIs	
+ 
+
+	1216
+ 
+
+
+
+
+b.
+ 
+
+Disclosure of communications protocols	
+ 
+
+	1222
+ 
+
+
+
+
+4.
+ 
+
+Web Services	
+ 
+
+	1225
+ 
+
+
+
+5.
+ 
+
+Market Development Programs	
+ 
+
+	1226
+ 
+
+
+
+6.
+ 
+
+Open Source Internet Explorer	
+ 
+
+	1227
+ 
+
+
+
+7.
+ 
+
+Java must-carry	
+ 
+
+	1231
+ 
+
+
+
+B.
+ 
+
+Cross-cutting Objections	
+ 
+
+	1232
+ 
+
+
+
+
+1.
+ 
+
+“Fruits”	
+ 
+
+	1232
+ 
+
+
+
+2.
+ 
+
+Presumption	
+ 
+
+	1233
+ 
+
+
+
+ 
+
+
+III.
+ 
+
+CCIA and SIIA v. United States & Microsoft, No. 03-5030	
+ 
+
+	1234
+ 
+
+
+
+A.
+ 
+
+Intervention	
+ 
+
+	1234
+ 
+
+
+B.
+ 
+
+The Public Interest Finding	
+ 
+
+	1236
+ 
+
+
+
+
+1.
+ 
+
+Issues overlapping Massachusetts’ case	
+ 
+
+	1237
+ 
+
+
+
+
+
+a.
+ 
+
+Commingling	
+ 
+
+	1238
+ 
+
+
+
+
+b.
+ 
+
+Java	
+ 
+
+	1239
+ 
+
+
+
+
+c.
+ 
+
+Disclosure of APIs	
+ 
+
+	1240
+ 
+
+
+
+
+d.
+ 
+
+Adequacy of definitions	
+ 
+
+	1241
+ 
+
+
+
+
+e.
+ 
+
+“Fruits”	
+ 
+
+	1242
+ 
+
+
+
+
+2.
+ 
+
+Non-overlapping issues	
+ 
+
+	1243
+ 
+
+
+
+
+
+a.
+ 
+
+Enforcement	
+ 
+
+	1243
+ 
+
+
+
+
+b.
+ 
+
+User interface	
+ 
+
+	1245
+ 
+
+
+
+
+c.
+ 
+
+Anti-retaliation	
+ 
+
+	1245
+ 
+
+
+
+C.
+ 
+
+Procedural Claims	
+ 
+
+	1246
+ 
+
+
+
+
+1.
+ 
+
+Government’s disclosure	
+ 
+
+	1247
+ 
+
+
+
+2.
+ 
+
+Microsoft’s disclosure	
+ 
+
+	1249
+ 
+
+
+
+ 
+
+
+IV.
+ 
+
+Conclusion	
+ 
+
+	1250
+ 
+
+
+
+* * *
+In United States v. Microsoft Corp., 253 F.3d 34 (D.C.Cir.2001) (Microsoft III), we affirmed in part and reversed in part the judgment of the district court holding Microsoft had violated §§ 1 and 2 of the Sherman Antitrust Act, vacated the associated remedial order, and directed the district court, on the basis of further proceedings, to devise a remedy “tailored to fit the wrong creating the occasion” therefor, id. at 107, 118-19. On remand, the United States and certain of the plaintiff states entered into a settlement agreement with Microsoft. Pursuant to the Antitrust Procedures and Penalties (Tunney) Act, 15 U.S.C. §§ 16(b)-(h), the district court held the parties’ proposed consent decree, as amended to allow the court to act sua sponte to enforce the decree, was in “ the *1204 **157 public interest.” Meanwhile, the Commonwealth of Massachusetts and several other plaintiff states refused to settle with Microsoft and instead litigated to judgment a separate remedial decree. The judgment entered by the district court in their case closely parallels the consent decree negotiated by the United States.
+ 
+Massachusetts alone appeals the district court’s entry of that decree. It argues the district court abused its discretion in adopting several provisions Microsoft proposed while rejecting several others Massachusetts and the other litigating states proposed. Massachusetts also challenges a number of the district court’s findings of fact. Based upon the record before us in Microsoft III and the record of the remedial proceedings following remand, we affirm the district court’s remedial decree in its entirety.
+ 
+The Computer and Communications Industry Association (CCIA) and the Software and Information Industry Association (SIIA) separately appeal the district court’s denial of their motion, following the district court’s approval of the consent decree between the United States and Microsoft, to intervene in the case for the purpose of appealing the district court’s public-interest determination. They argue the factors the district court was to consider in determining whether to allow them to intervene weighed in their favor. We agree and reverse the district court’s denial of their motion to intervene for the purpose of appealing that court’s public-interest determination.
+ 
+CCIA and SIIA make various arguments — some overlapping those raised by Massachusetts — that the consent decree between the United States and Microsoft is not in the public interest. They also argue the parties did not satisfy the procedural requirements of the Tunney Act. For these reasons, they seek vacatur of the district court’s order approving the consent decree and a remand for entry of “a proper remedy.” We find no merit in any of CCIA’s and SIIA’s objections, substantive or procedural. We therefore uphold the district court’s approval of the consent decree as being in the public interest.
+ 
+
+I. Background
+The facts underlying the present appeals have been recounted several times. See New York v. Microsoft Corp., 224 F.Supp.2d 76 (D.D.C.2002) (States’ Remedy); United States v. Microsoft Corp., 231 F.Supp.2d 144 (D.D.C.2002) (U.S. Consent Decree); see also Microsoft III. We therefore limit our discussion of the facts and of the proceedings to a brief review of events prior to our remand in 2001 and a more detailed account of what has transpired since then.
+ 
+In May 1998 the United States filed a complaint against Microsoft alleging violations of federal antitrust laws. At the same time, a number of states and the District of Columbia filed a complaint against Microsoft alleging violations of both federal and state antitrust laws. The two complaints, which the district court consolidated, sought various forms of relief, including an injunction against certain of Microsoft’s business practices.
+ 
+After a lengthy bench trial the district court entered findings of fact, United States v. Microsoft Corp., 84 F.Supp.2d 9 (D.D.C.1999) (Findings of Fact), and held Microsoft had violated §§ 1 and 2 of the Sherman Act by illegally maintaining its monopoly in the market for “Intel-compatible PC operating systems,” by attempting to monopolize the browser market, and by tying its Windows operating system to its Internet Explorer (IE) browser. United States v. Microsoft Corp., 87 F.Supp.2d 30 (D.D.C.2000) (Conclusions of Law). The *1205 **158 district court also held Microsoft violated the antitrust laws of the several states. Id. at 56. Based upon its findings of fact and conclusions of law, the district court decreed that Microsoft would be split into two separate companies, one selling operating systems and one selling program applications. See United States v. Microsoft Corp., 97 F.Supp.2d 59 (D.D.C.2000) (Remedy I). Microsoft appealed the decisions of the district court, alleging several legal and factual errors.
+ 
+We upheld the district court’s ruling that Microsoft violated § 2 of the Sherman Act by the ways in which it maintained its monopoly, but we reversed the district court’s finding of liability for attempted monopolization, and we remanded the tying claim to the district court to apply the rule of reason rather than the rule of per se illegality. See Microsoft III. We also vacated the district court’s remedial decree, for three reasons: “First, [the district court had] failed to hold an evidentiary hearing despite the presence of remedies-specific factual disputes”; “[s]econd, the court did not provide adequate reasons for its decreed remedies”; and third, we had “drastically altered the scope of Microsoft’s liability, and it [was] for the District Court in the first instance to determine the propriety of a specific remedy for the limited ground of liability which we ha[d] upheld.” Id. at 107.
+ 
+On remand the district court ordered the parties to file a Joint Status Report. This they did in September 2001, whereupon the district court ordered them to undertake settlement discussions. See United States v. Microsoft Corp., 168 F.Supp.2d 541 (D.D.C.2001). As a result, the United States and the States of Illinois, Louisiana, Maryland, Michigan, New York, North Carolina, Ohio, and Wisconsin, and the Commonwealth of Kentucky, agreed to enter into a consent decree with Microsoft. On November 6, 2001 the settling parties filed a Revised Proposed Final Judgment, 1 Joint Appendix in No. 03-5030 (hereinafter J.A. (I)) at 113-30, for the district court’s review. The States of California, Connecticut, Florida, Iowa, Kansas, Minnesota, Utah, and West Virginia, the Commonwealth of Massachusetts, and the District of Columbia refused to enter into the consent decree. The district court therefore bifurcated the remaining proceedings: On “Track I” was the district court’s “public interest” review of the proposed consent decree, as required by the Tunney Act whenever the Government proposes to settle a civil antitrust case, see 15 U.S.C. § 16(e); on “Track II” was the continuing litigation between the non-settling states (hereinafter “the States”) and Microsoft concerning the remedy.
+ 
+
+Track I
+On November 15, 2001 the Government filed its Competitive Impact Statement (CIS), 1 J.A. (I) at 136-202, as required by the Act, 15 U.S.C. § 16(b), and on November 28, 2001 it published in the Federal Register both the Revised Proposed Final Judgment and the CIS for public comment. 66 Fed.Reg. 59,452 (Nov. 28, 2001). In February 2002 the Government filed with the district court its response to the more than 32,000 public comments it had received, along with a Second Revised Proposed Final Judgment, 6 Joint Appendix in No. 02-7155 (hereinafter J.A. (II)) at 3664-81, reflecting modifications agreed to by the settling parties in the light of the public comments. The public comments, which the Government made available at its website in March 2002, were subsequently published in the Federal Register as well. 67 Fed.Reg. 23,654 (May 3, 2002). The Tunney Act also requires the defendant to file with the district court “any and all written or oral communications ... with any officer or employee of the United *1206 **159 States” relating to the proposed consent judgment. 15 U.S.C. § 16(g). Microsoft made such a filing in December 2001 and again in March 2002. See Part III.C.2.
+ 
+The Tunney Act provides the district court with several procedural options to aid it in making its determination whether the proposed consent decree is in the public interest. The court may “take testimony of Government officials or experts” as it deems appropriate, 15 U.S.C. § 16(f)(1); authorize participation by interested persons, including appearances by amici curiae, id. § 16(f)(3); review comments and objections filed with the Government concerning the proposed judgment, as well as the Government’s response thereto, id. § 16(f)(4); and “take such other action in the public interest as the court may deem appropriate,” id. § 16(f)(5). The district court exercised several of these options. It held a hearing with the purpose of having the parties provide to the court information it needed to decide whether to approve the Second Revised Proposed Final Judgment. The district court denied CCIA’s request to intervene in the case, see id. § 16(f)(3), but it did allow CCIA and SIAA to participate in the hearing as amici curiae. In July 2002 the district court concluded both the Government and Microsoft had complied with the requirements of the Tunney Act and held that the matter was ripe for the court to determine whether the decree was in the “public interest.” United States v. Microsoft Corp., 215 F.Supp.2d 1, 23 (D.D.C.2002) (Tunney Act Proceedings).
+ 
+On November 1, 2002 the district court ruled the Second Revised Proposed Final Judgment would be in the public interest if modified in one respect: The parties would have to provide for the district court to “retain jurisdiction to take action sua sponte in conjunction with the enforcement of the decree.” U.S. Consent Decree, at 202. This they did in a Third Revised Proposed Final Judgment, which the district court duly entered. United States v. Microsoft Corp., 2002 WL 31654530 (D.D.C. Nov.12, 2002) (Final Consent Decree).1
+ 
+On December 20, 2002 CCIA and SIIA filed a joint motion for leave to intervene, as of right or alternatively by permission, see FED.R.CIV.P. 24, for the purpose of appealing the district court’s judgment that the consent decree was in the “public interest.” The district court denied their motion, United States v. Microsoft Corp., 2003 WL 262324 (D.D.C. Jan.11, 2003) (Order Denying Intervention), and the movants now appeal both the district court’s denial of their motion for leave to intervene and, if allowed, the district court’s public-interest determination under the Tunney Act.
+ 
+
+Track II
+Pursuant to the district court’s scheduling order of September 28, 2001, Microsoft and the States submitted competing remedial proposals in December of that year. This time the States did not propose to divide Microsoft but, as discussed in Part II.A.6, they did include proposals the district court considered structural in nature, including requirements that Microsoft offer “open source licensing for Internet Explorer” and “auction to a third party the *1207 **160 right to port Microsoft Office to competing operating systems.” Microsoft objected to the States’ proposed remedy and offered as an alternative the Revised Proposed Final Judgment to which it had agreed in the Track I proceedings. Both sides later submitted revised proposals. In February 2002 Microsoft submitted the Second Revised Proposed Final Judgment, and in March the States submitted a Second Proposed Remedy (SPR), 6 J.A. (II) at 3160-3201. The Second Revised Proposed Final Judgment and the SPR are the two proposals the district court ultimately reviewed.
+ 
+After an expedited discovery schedule, the hearing on remedies began in March 2002 and ran for 32 trial days spanning three months, over which time the court reviewed written direct testimony and heard live testimony from dozens of witnesses.2 States’ Remedy, at 87. The district court issued its findings of fact and its legal conclusions in a combined opinion. The final judgment in the proceedings on Track II — that is, the remedy adopted by the district court — is attached as an appendix to the district court’s opinion. See States’ Remedy, at 266-77.
+ 
+Massachusetts alone among the States appeals. We address the Commonwealth’s appeal in Part II below and CCIA’s and SIIA’s appeal in Part III.
+ 
+
+II. Commonwealth of Massachusetts v. Microsoft, No. 02-7155
+[1] [2] We review the district court’s findings of fact for clear error, United States ex rel. Modern Elec., Inc. v. Ideal Elec. Sec. Co., 81 F.3d 240, 244 (D.C.Cir.1996); see also FED.R.CIV.P. 52(a) (“[f]indings of fact ... shall not be set aside unless clearly erroneous”), but resolve issues of law de novo, Modern Elec., Inc., 81 F.3d at 244. We review the district court’s decision whether to grant equitable relief only for abuse of discretion. See Microsoft III, at 105; see also Ford Motor Co. v. United States, 405 U.S. 562, 573, 92 S.Ct. 1142, 1149, 31 L.Ed.2d 492 (district court “clothed with ‘large discretion’ to fit the decree to the special needs of the individual case”).
+ 
+
+A. Remedial Proposals
+Massachusetts objects to several provisions the district court included in the remedial decree. The Commonwealth also appeals the district court’s refusal to adopt certain other provisions proposed by the States.
+ 
+
+1. Commingling
+In Microsoft III we upheld the district court’s finding that Microsoft’s integration of IE and the Windows operating system generally “prevented OEMs from pre-installing other browsers and deterred consumers from using them.” 253 F.3d at 63-64. Because they could not remove IE, installing another browser meant the OEM would incur the costs of supporting two browsers. Id. at 64. Accordingly, OEMs *1208 **161 had little incentive to install a rival browser, such as Netscape Navigator. Relying upon the district court’s findings of fact, we determined that Microsoft took three actions to bind IE to Windows: (1) it excluded IE from the “Add/Remove Programs” utility; (2) it commingled in the same file code related to browsing and code used by the operating system so that removal of IE files would cripple Windows; and (3) it designed Windows in such a manner that, in certain circumstances, a user’s choice of an internet browser other than IE would be overridden. Id. at 64-65. Although all three acts had anticompetitive effects, only the first two had no offsetting justification and, therefore, “constitute[d] exclusionary conduct[ ] in violation of § 2.” Id. at 67. As for overriding the user’s choice of an internet browser, we held the plaintiffs had neither rebutted Microsoft’s proffered technical justification nor demonstrated that its justification was outweighed by the anticompetitive effect. We therefore concluded Microsoft was not “liable for this aspect of its product design.” Id.
+ 
+On remand, turning to the commingling of IE and Windows code, the district court stated that an appropriate remedy “must place paramount significance upon addressing the exclusionary effect of the commingling, rather than the mere conduct which gives rise to the effect.” States’ Remedy, at 156. The court was concerned about adopting any remedy that would require Microsoft to remove Windows software code — as the States’ proposed remedy would do — based upon what it perceived to be a very difficult, even if not “technologically impossible,” task. Id. at 157. For instance, the court found the States did not offer a reasonable method of distinguishing “operating system” code from “non-operating system” code, such as code that provides middleware functionality.3 Id. Moreover, based upon “testimony of various [independent software vendors (ISVs) ] that the quality of their products would decline if Microsoft were required to remove code from Windows,” the court concluded both ISVs and consumers would be harmed if Microsoft were forced to redesign Windows by removing software code. Id. at 158. Finally, the district court was alert to “the admonition [in the case law] that it is not a proper task for the Court to undertake to redesign products.” Id.; see also United States v. Microsoft Corp., 147 F.3d 935, 948 (D.C.Cir.1998) (Microsoft II) (“Antitrust scholars have long recognized the undesirability of having courts oversee product design”). Accordingly, the district court instead approved the proposed requirement that Microsoft “permit OEMs to remove end-user access to aspects of the Windows operating system which perform middleware functionality.” States’ Remedy, at 159. Specifically, § III.H of the decree requires Microsoft to “[a]llow end users ... and OEMs ... to enable or remove access to each Microsoft Middleware Product or Non-Microsoft Middleware Product ....” Id. at 270.
+ 
+*1209 **162 [3] Massachusetts maintains the district court erred by addressing the remedy to the exclusionary effect of commingling and not to the commingling itself. In response, Microsoft points out that in the liability proceedings the plaintiffs were concerned primarily with end-user access and that the decree originally entered by the district court likewise addressed Microsoft’s binding its middleware to its operating system; the remedy was to allow both OEMs and end users to remove access to Microsoft middleware. Remedy I, at 68. That is why on remand the district court observed that “[n]othing in the rationale underlying the commingling liability finding requires removal of software code to remedy the violation.” States’ Remedy, at 158. We agree; the district court’s remedy is entirely consistent with its earlier finding that “from the user’s perspective, uninstalling Internet Explorer [with the Add/Remove Programs utility is] equivalent to removing the Internet Explorer program from Windows.” Findings of Fact ¶ 165, at 51.
+ 
+The district court’s decision to fashion a remedy directed at the effect of Microsoft’s commingling, rather than to prohibit commingling, was within its discretion. The end-user access provision does this, and it avoids the drawbacks of the States’ proposal requiring Microsoft to redesign its software. Allowing an OEM to block end-user access to IE gives the OEM control over the costs associated with supporting more than one internet browser. Indeed, had Microsoft not removed IE from the Add/Remove Programs utility in the first place, OEMs would have retained a simple and direct method of avoiding such costs. See, e.g., Direct Testimony of Dr. Stuart Madnick ¶ 177, 5 J.A. (II) at 2887.
+ 
+Massachusetts says there is unrebutted testimony in the record indicating the removal of end-user access is insufficient “to reduce OEMs’ disincentives to install rival middleware.” Not so. The cited testimony is that end-users “may accidentally trigger one program when they mean to trigger another. This is especially so when, under Microsoft’s Proposed Remedy, Windows is allowed to launch Microsoft middleware on a system on which a consumer has not chosen Microsoft’s program to be the default version of the application.” Direct Testimony of Peter Ashkin ¶ 78, 5 J.A. (II) at 3100; see also ¶¶ 77, 79-80, id. at 3100-01. First, this testimony indicates only that removal of end-user access to IE may not eliminate every last “accidental” invocation of IE, not that the incidence will not be reduced, as it no doubt will be. Second, under § III.H.2 end users and OEMs may “designate a Non–Microsoft Middleware Product to be invoked in place of [a] Microsoft Middleware Product ... in any case where the Windows Operating System Product would otherwise launch the Microsoft Middleware Product ...,” States’ Remedy § III.H.2, at 270-71, which apparently provides OEMs a method to address the conduct about which Massachusetts is concerned.
+ 
+Finally, the accidental invocations claimed in the cited testimony do not reflect the nature of the concerns OEMs had at the time the district court made its Findings of Fact. The district court found Microsoft had combined commingling of code and removal of IE from the Add/Remove Programs utility in a manner that ensured the presence of IE on the Windows desktop. See Findings of Fact ¶ 241, at 69. The lack of any way to remove end-user access to IE — now squarely addressed in § III.H of the decree — made the IE icon an “unavoidable presence” on the Windows desktop; that was what led “to confusion among novice users.” Id. ¶ 217, at 63. More, that is, was involved than the occasional invocation of IE by *1210 **163 accident; IE was always present because Microsoft prevented OEMs from removing both the code and the end-user’s access to it. The accidental invocations of Microsoft middleware claimed in the Ashkin testimony — to the extent not already resolved by § III.H.2 — are hardly likely to generate the level of support costs OEMs faced when the IE icon was on every desktop. Certainly the cited testimony is no evidence of such significant costs.
+ 
+The district court fashioned a remedy aimed at reducing the costs an OEM might face in having to support multiple internet browsers. The court thereby addressed itself to Microsoft’s efforts to reduce software developers’ interest in writing to the Application Program Interfaces (APIs) exposed by any operating system other than Windows. Far from abusing its discretion, therefore, the district court, by remedying the anticompetitive effect of commingling, went to the heart of the problem Microsoft had created, and it did so without intruding itself into the design and engineering of the Windows operating system. We say, Well done!
+ 
+But soft! Massachusetts and the amici claim the district court nonetheless erred in rejecting a “code removal” remedy for Microsoft’s commingling, principally insofar as the court was concerned with “Microsoft’s ability to provide a consistent API set,” which Microsoft referred to as the problem of Windows’ “fragmentation.”4 They argue that any effort to keep software developers writing to Microsoft’s APIs — and thereby avoiding “fragmentation” — is not procompetitive but rather “an argument against competition.”
+ 
+The district court raised its concern about fragmentation in connection with the States’ proposal that Microsoft be required to remove its middleware code from the code of its Windows operating system, as follows:
+Microsoft shall not, in any Windows Operating System Product ... it distributes ... Bind any Microsoft Middleware Product to the Windows Operating System unless Microsoft also has available to license, upon the request of any Covered OEM licensee or Third-Party Licensee, and supports both directly and indirectly, an otherwise identical but “unbound” Windows Operating System Product ....
+SPR § 1, 6 J.A. (II) at 3166. In other words, Microsoft would be required to make it possible for OEMs and end users to “readily remove or uninstall [from Windows] the binary code” of any Microsoft Middleware Product (as that term is defined in the States’ proposal). Id. §§ 22.d & 22.e, 6 J.A. (II) at 3193. The district court found evidence the States’ proposal “would hinder, or even destroy Microsoft’s ability to provide a consistent API set.” States’ Remedy, at 252. This evidence included testimony that it would be
+impossible for Microsoft to maintain the same high level of operating-system balance and stability on which software developers and customers rely. Developers will be less likely to write software programs to an unstable or unpredictable operating system based on the risk that their programs will not function as designed, thereby reducing customer satisfaction.
+*1211 **164 Direct Testimony of Scott Borduin ¶ 61, 2 J.A. (II) at 1327.5 The district court concluded, “The weight of the evidence indicates the fragmentation of the Windows platform would be significantly harmful to Microsoft, ISVs, and consumers.” States’ Remedy, at 253.
+ 
+Massachusetts argues the district court’s finding “ignores and is at odds with this Court’s holding that Microsoft’s desire to keep developers focused on its APIs was merely another way of saying it ‘wants to preserve its power in the operating system market,’ ” citing Microsoft III, at 71. Indeed, as we stated in Microsoft III, “Microsoft’s only explanation for its exclusive dealing [contracts with Internet Access Providers (IAPs) ] is that it wants to keep developers focused upon its APIs — which is to say, it wants to preserve its power in the operating system market.” Id. We went on to state, however, that this “is not an unlawful end, but neither is it a procompetitive justification for the specific means here in question, namely, exclusive dealing contracts with IAPs.” Id.
+ 
+Massachusetts would turn our observation about Microsoft’s rationale for its exclusive contracts with IAPs into a critique of the district court’s concern with the extreme fragmentation of Windows the court found was likely to occur if it adopted the States’ code removal proposal. But the two points cannot be equated. The States made a proposal the district court found might have resulted in there being “more than 1000” versions of Windows. See States’ Remedy, at 253 (citing Direct Testimony of Dr. John Bennett ¶¶ 47, 55, 5 J.A. (II) at 2997-98, 3001). Letting a thousand flowers bloom is usually a good idea, but here the court found evidence, as discussed above, that such drastic fragmentation would likely harm consumers. See also Direct Testimony of Dr. Kenneth Elzinga ¶ 102, 5 J.A. (II) at 2739-40 (“Lowering barriers to entry by destroying ... real benefits ... harms consumers and is not pro-competitive”). Although it is almost certainly true, as both Massachusetts and the amici claim, that such fragmentation would also pose a threat to Microsoft’s ability to keep software developers focused upon its APIs, addressing the applications barrier to entry in a manner likely to harm consumers is not self-evidently an appropriate way to remedy an antitrust violation. See Brooke Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U.S. 209, 224, 113 S.Ct. 2578, 2588, 125 L.Ed.2d 168 (1993) (“It is axiomatic that the antitrust laws were passed for ‘the protection of competition, not competitors,’ ” quoting Brown Shoe Co. v. United States, 370 U.S. 294, 320, 82 S.Ct. 1502, 1521, 8 L.Ed.2d 510 (1962) (emphases in original)).
+ 
+The district court’s end-user access provision fosters competition by opening the channels of distribution to non-Microsoft middleware. It was Microsoft’s foreclosure of those channels that squelched nascent middleware threats and furthered the dominance of the API set exposed by its operating system. The exclusive contracts into which Microsoft entered with IAPs were likewise aimed at foreclosing channels through which rival middleware might otherwise have been distributed. Prohibiting Microsoft from continuing those exclusive arrangements, see States’ Remedy § III.G, at 269-70, would not have the *1212 **165 same deleterious effect upon consumers as would the fragmentation of Windows.
+ 
+Amici CCIA and SIIA seem to view fragmentation as merely competition by another name. Accordingly, they see fragmentation as a natural, if only temporary, consequence of economic forces: “Competition of any kind will lead to a multiplicity of standards, at least temporarily.” The redesign of Windows required by the States’ proposal, however, would not be the result of competition on the merits, as CCIA and SIIA seem to suggest. Certainly they point to no economic force that would prompt (or, if such a redesign were mandated, sustain) the degree of fragmentation the States’ proposal is predicted to produce. Nor do they explain how such fragmentation would, as they claim, “spark innovation that benefits consumers.” They instead quote National Society of Professional Engineers (NSPE) v. United States, 435 U.S. 679, 689, 98 S.Ct. 1355, 1364, 55 L.Ed.2d 637 (1978), for the proposition that the Supreme Court has “foreclose[d] the argument that because of the special characteristics of a particular industry, monopolistic arrangements will better promote trade and commerce than competition.” But that case provides no support for CCIA’s and SIIA’s argument here. Like the two cases the Supreme Court cited in making the statement just quoted, see United States v. Trans-Missouri Freight Ass’n, 166 U.S. 290, 17 S.Ct. 540, 41 L.Ed. 1007 (1897); and United States v. Joint Traffic Ass’n, 171 U.S. 505, 19 S.Ct. 25, 43 L.Ed. 259 (1898), NSPE involved an agreement among competitors limiting the output of their services. Those arrangements, which were analyzed under § 1 of the Sherman Act, are not analogous to Microsoft’s monopoly of the market for operating systems, which is due not only to the exclusionary practices we found unlawful in Microsoft III but also to “positive network effects,” see Findings of Fact, at 20. Moreover, in NSPE the district court made no findings there were any potential benefits from the profession’s “ethical prohibition against competitive bidding.” 435 U.S. at 686, 98 S.Ct. at 1362. In sharp contrast, here the district court made extensive findings both about the potential harm to consumers from fragmentation and about the dubious benefits of the States’ proposal.6 From these findings the court concluded, “There is no indication that there is any competitive or economic advantage to [the degree of fragmentation entailed in the States’ proposal] and, quite to the contrary, such a result would likely be detrimental to the consumer.” States’ Remedy, at 252-54. Although we understand that competition on the merits itself would likely elicit multiple standards — recall the competition between the VHS and Beta videotape standards — or even that some as yet unimagined technology might reduce the harm to consumers from fragmentation, CCIA and SIIA fail to demonstrate the district court was unduly concerned about the extent of fragmentation likely to arise from the States’ proposal.
+ 
+Finally, Massachusetts argues the district court’s findings relating to fragmentation “fail to respect” the findings of fact *1213 **166 made in the liability proceedings. Specifically, the Commonwealth points to Findings of Fact ¶ 193, at 56-57: “Microsoft’s contention that offering OEMs the choice of whether or not to install certain browser-related APIs would fragment the Windows platform is unpersuasive.” That statement was addressed to the unbinding of IE and Windows, not to the States’ proposal, from which the court anticipated far more extensive fragmentation. The district court’s rejection of the States’ proposal, therefore, is not inconsistent with any of the findings of fact in the liability proceedings.
+ 
+Relatedly, the amici point to “Microsoft’s own fragmentation” of Windows through the publication of successive versions, such as Windows 98, Windows 2000, and Windows XP. The district court addressed this concern and found such fragmentation to be of “relatively small degree” because “Microsoft is able to work towards maintaining backward compatibility with previous versions.” States’ Remedy, at 253.
+ 
+To be sure, the remedy the district court adopted does not prevent all fragmentation of the Windows operating system; indeed, it adopted the end-user access provision, which allows OEMs to install rival browsers and other non-Microsoft middleware, with their associated APIs, and to remove the end user’s access to IE. Accordingly, fragmentation may yet occur, but if so it will be caused by OEMs competing to satisfy the preferences of end users, not forced artificially upon the market as it would be under the States’ proposal.
+ 
+
+2. Java deception
+[4] Massachusetts argues the district court erred in not including a remedy addressed specifically to Microsoft’s deception of Java software developers. Unbeknownst to Java software developers, Microsoft’s Java developer tools included certain words and directives that could be executed only in Windows’ Java runtime environment. We held this deception “served to protect [Microsoft’s] monopoly of the operating system in a manner not attributable either to the superiority of the operating system or to the acumen of its makers, and therefore was anticompetitive.” Microsoft III, at 77. Because Microsoft failed to provide a procompetitive explanation for its deception of software developers — indeed, there appears to be no purpose at all for the practice that would not itself be anticompetitive — we held its conduct was exclusionary, in violation of § 2 of the Sherman Act. Id.
+ 
+On remand the district court found a lack of “any evidence” Microsoft’s previous Java deception was a continuing threat to competition. States’ Remedy, at 265. The Java deception “concern[ed] a single, very specific incident of anticompetitive conduct by Microsoft,” which conduct Microsoft had ceased in accordance with a consent decree into which it had entered in another case in another court. Id. For these reasons, the district court did not include a provision in the remedial decree addressed to this unlawful but now terminated conduct.
+ 
+Massachusetts, quoting United States v. W.T. Grant Co., 345 U.S. 629, 632, 73 S.Ct. 894, 897, 97 L.Ed. 1303 (1953), claims that without specific relief prohibiting such deception, Microsoft is “free to return to [its] old ways.” Microsoft responds that Massachusetts does not make a showing of the type of abuse contemplated by the Supreme Court in W.T. Grant. We agree. That case involved an interlocking directorate allegedly unlawful under § 8 of the Clayton Act. Soon after the Government filed suit, the common director voluntarily resigned from the relevant boards, *1214 **167 after which the district court refused the Government’s request for an injunction prohibiting him and the corporations from violating § 8 in the future. The Supreme Court held the defendants’ sworn profession of an intention not to revive the interlock was insufficient to moot the case. However, the Court also held — and this is key — the district court was in the best position to determine whether there was a “significant threat of [a] future violation,” and it had not abused its discretion in refusing to award injunctive relief. Id. at 635-36, 73 S.Ct. at 899. Far from supporting Massachusetts’ argument, therefore, W.T. Grant confirms the district court’s broad discretionary power to withhold equitable relief as it reasonably sees fit.
+ 
+Massachusetts maintains the district court abused its discretion insofar as it found “no evidence that this deception, or any similar deception, has persisted.” States’ Remedy, at 190. Massachusetts here claims Microsoft’s Chairman and Chief Software Architect, William Gates III, in testimony “admitted that Microsoft routinely makes knowingly inaccurate claims regarding its compliance with industry standards,” into which the district court should have inquired further. The cited testimony in fact concerns Microsoft’s efforts to comply with frequently changing standards.7 Not surprisingly, nothing Gates said suggests anything in the least nefarious.
+ 
+Despite its failure to demonstrate any continuing competitive threat from Microsoft’s previous deception of Java software developers, Massachusetts presses the States’ proposed “truth in standards” provision, which would regulate certain business practices that were not at issue in Microsoft III. Specifically, the States’ proposal would require Microsoft to (1) continue supporting any industry standard it has publicly claimed to support “until it publicly disclaims such support or the standard itself expires or is rescinded by the standard-setting body,” and (2) “continue to support an industry standard any time it makes a proprietary alteration to the standard.” Id. at 190; see also SPR § 16, 6 J.A. (II) at 3183. As an initial matter, our holding the district court did not abuse its discretion in refusing to enjoin a recurrence of Microsoft’s Java deception casts grave doubt upon the need for a broad provision applicable not only to Java but to all industry standards. Be that as it may, we address Massachusetts’ arguments in favor of such a provision.
+ 
+First Massachusetts claims the district court erred as a matter of law insofar as it regarded the proposed truth-in-standards provision as being “unrelated to the violation found by th[is] court.” That is not, however, how the district court saw the matter. Addressing only the first requirement quoted in the previous paragraph, the district court specifically referred to Microsoft’s deception of Java developers in holding there was no showing a “broad order” prohibiting any similar deception was “either appropriate or necessary.” See States’ Remedy, at 190. It never said that requirement was “unrelated” to the violations found by this court in Microsoft III. That much we think is unarguable.
+ 
+As Microsoft correctly points out, it was the second aspect of the truth-in-standards provision the district court deemed “unrelated to any finding of liability,” id. at 190, 263-64, and correctly so. Indeed, this court held that Microsoft’s development of *1215 **168 the Windows Java Virtual Machine (JVM), which was incompatible with Sun’s JVM, did not violate the antitrust laws. Microsoft III, at 75. It was only Microsoft’s having misled software developers into thinking the two were compatible that had an anticompetitive effect. Id. at 76-77. We therefore hold the district court permissibly refused to require that Microsoft continue to support a standard after making a proprietary modification to it, even if the modification makes the standard incompatible with the original.
+ 
+Massachusetts also complains the record does not support the district court’s other reasons for rejecting the proposed truth-in-standards provision. We disagree. The district court found no evidence the “industry standard” provision would “enhance competition in the monopolized market” for Intel-compatible PC operating systems. States’ Remedy, at 264 & n. 134. Compliance with industry standards is “largely a subjective undertaking,” id. at 190, such that “full compliance with a standard is often a difficult and ambiguous process,” id. at 264 (quoting Madnick ¶ 208, 5 J.A. (II) at 2905). Massachusetts points to no specific instance in which competition would have been or would be enhanced by compelling Microsoft to support an industry standard after it made a proprietary alteration thereto. Instead Massachusetts invokes expert testimony that Microsoft’s proprietary control over “important interfaces” would make it “harder” for rival operating systems to compete with Windows. Direct Testimony of Dr. Carl Shapiro ¶ 185, 2 J.A. (II) at 860. This is far too general a statement from which to infer the proposed truth-in-standards provision would enhance competition rather than merely assist competitors — and perhaps retard innovation. The district court found that industry standards can “vary widely in complexity and specificity, such that various implementations of a particular standard are often incompatible.” States’ Remedy, at 264 (quoting Madnick ¶ 207, 5 J.A. (II) at 2904). Microsoft, therefore, may not be able to comply with some of the industry standards contemplated by the States’ proposal. And the States’ own economic expert testified that “slow-moving standards bodies” are commonly unable to keep up with rapidly changing technology markets. 4/14/02 pm Tr. at 3677 (Shapiro trial testimony), 8 J.A. (II) at 4572; see also CARL SHAPIRO & HAL R. VARIAN, INFORMATION Rules 240 (1999) (advocating business strategy that does not “freeze ... activities during the slow standard-setting process”).
+ 
+The district court aptly described the problems with the States’ truth-in-standards proposal and correctly concluded the proposed remedy went beyond the liability contemplated by this court. The court did not abuse its discretion, therefore, in refusing to adopt the proposal.
+ 
+
+3. Forward-looking provisions
+[5] The district court exercised its discretion to fashion appropriate relief by adopting what it called “forward-looking” provisions, which require Microsoft to disclose certain of its APIs and communications protocols. Although non-disclosure of this proprietary information had played no role in our holding Microsoft violated the antitrust laws, “both proposed remedies recommend[ed] the mandatory disclosure of certain Microsoft APIs, technical information, and communications protocols for the purposes of fostering interoperation.” States’ Remedy, at 171. In approving a form of such disclosure — while, as discussed below, rejecting the States’ proposal for vastly more — the district court explained “the remedy [must] not [be] so expansive as to be unduly regulatory or provide a blanket prohibition on all future anticompetitive conduct.” Id. (citing Zenith *1216 **169 Radio Corp. v. Hazeltine Research, Inc., 395 U.S. 100, 133, 89 S.Ct. 1562, 1581, 23 L.Ed.2d 129 (1969)). We are also mindful that, although the district court is “empowered to fashion appropriate restraints on [Microsoft’s] future activities both to avoid a recurrence of the violation and to eliminate its consequences,” NSPE, 435 U.S. at 697, 98 S.Ct. at 1368, the resulting relief must “represent[ ] a reasonable method of eliminating the consequences of the illegal conduct,” id. at 698, 98 S.Ct. at 1368.
+a. Disclosure of APIs
+ 
+[6] The district court recognized the “hallmark of the platform threat” to the Windows monopoly posed by rival middleware is the ability to run on multiple operating systems: The “ready ability to interoperate with the already dominant operating system will bolster the ability of such middleware to support a wide range of applications so as to serve as a platform.” States’ Remedy, at 172. In order to facilitate such interoperation the district court required Microsoft to disclose APIs “used by Microsoft Middleware to interoperate with a Windows Operating System Product.” Id. § III.D, at 268.
+ 
+Massachusetts objects to this provision on several grounds. First, the Commonwealth argues “the middleware covered by § III.D lacks the platform potential of the middleware threat that Microsoft thwarted” and, therefore, “will necessarily be inadequate to restore competition.” The validity of Massachusetts’ objection depends upon the meaning of “Microsoft Middleware.”
+ 
+Microsoft Middleware is defined as “software code” that:
+1. Microsoft distributes separately from a Windows Operating System Product to update that Windows Operating System Product;
+2. is Trademarked or is marketed by Microsoft as a major version of any Microsoft Middleware Product ...; and
+3. provides the same or substantially similar functionality as a Microsoft Middleware Product.
+Id. § VI.J, at 275. A “Microsoft Middleware Product” includes, among other things, “the functionality provided by Internet Explorer, Microsoft’s Java Virtual Machine, Windows Media Player, Windows Messenger, Outlook Express and their successors in a Windows Operating System Product.” Id. § VI.K, at 275.
+ 
+In support of its argument, Massachusetts notes that Microsoft’s own experts “doubted the platform potential of several forms of middleware included in what became the remedy’s definition.”8 In response, Microsoft points out that the definition of “Microsoft Middleware” adopted by the district court is not faulty simply because Microsoft’s experts discounted as platform threats some of the middleware products it covers. The logic of that response is obvious, which makes it unsurprising that Massachusetts makes no reply.
+ 
+Amici CCIA and SIIA take a different tack, claiming the definition is defective because Microsoft itself determines which software code to distribute separately. Microsoft responds that the amici “ignore[ ] the thousands of Windows APIs *1217 **170 that Microsoft publicly discloses in the ordinary course of business,” and cites testimony, most of it conclusory, extolling the adequacy of those APIs for software developers. See, e.g., Direct Testimony of Brent Frei of Onyx Software ¶¶ 18-22, 6 J.A. (II) at 3413-15; Direct Testimony of Chris Hofstader of Freedom Scientific ¶¶ 57-59, 9 J.A. (II) at 5453-55. Be that as it may, the district court considered arguments by the States similar to the one now advanced by the amici, and it rejected the related testimony of the States’ witnesses. States’ Remedy, at 116-17. The court instead found “Microsoft often distributes separately certain technologies which are included in new releases of Windows because such distribution enables users of previous Windows versions to take advantage of the latest improvements to these technologies.” Id. at 117 (citing Direct Testimony of Microsoft’s Christopher Jones ¶ 61, 5 J.A. (II) at 2532, and Will Poole ¶ 76, 5 J.A. (II) at 2493). The court explained:
+Such distribution benefits Microsoft, as it permits Microsoft to continually improve the quality of its products, even after they are sold, and to expand the user base of new technology without waiting for consumers to purchase an entirely new operating system.
+Id. These benefits would be lost to Microsoft if it were to “manipulate its products to exclude specific code from the definition” of middleware. Id.
+ 
+The amici do not deny Microsoft has routinely distributed its middleware separately from Windows. Instead, they speculate Microsoft may henceforth avoid separate distribution in order to avoid the disclosure contemplated by § III.D. They claim an expanded definition of middleware, such as that proposed by the States, is necessary to “prevent[ ] Microsoft from defining its obligations into meaningless superficiality.”
+ 
+Microsoft points to the district court’s finding, supported by evidence in the record, that it is not necessary or even desirable, in order to remove the artificial impediments erected by Microsoft to the establishment of a platform threat to Windows, to expand the definition of Microsoft middleware to cover all software that “expose[s] even a single API.” Id. at 118-19. The district court rejected the States’ broader definition of middleware in part because it wanted “bright lines by which Microsoft can determine what portions of Windows code are affected by the remedy.” Id. at 117. The amici do not respond to the district court’s concerns about the expansive scope of the States’ definition of middleware. Nor do they explain how the States’ proposal would “identify the specific pieces of Windows,” id., constituting middleware for the purpose of Microsoft’s disclosure obligation. Instead, they merely claim the States’ proposal “add[s] sufficient precision to identify and enforce a concrete obligation.” This unreasoned assertion is hardly a ground upon which to overturn the district court’s reasoned explanation for adopting a “bright line[ ]” approach to Microsoft’s disclosure obligation. Further, the amici fail to refute the district court’s reasoning that “economic forces ... countervail the likelihood” that Microsoft would stop separately distributing its software code in order to avoid having to disclose APIs pursuant to § III.D. Id.
+ 
+We hold the district court did not abuse its discretion in delineating the middleware covered for the purposes of disclosure. As discussed, the term “Microsoft Middleware” both includes and extends beyond the functionality of the middleware at issue in this case. Id. §§ VI.J & VI.K, at 275-76; see also id. at 115. The amici merely *1218 **171 speculate that the middleware covered by § III.D will not provide a serious platform threat. Moreover, the district court’s reasons for believing economic self-interest deters Microsoft from avoiding separate distribution of its software code are persuasive. And we should be particularly disinclined to require more disclosure where, as here, the district court is adopting a forward-looking provision addressing conduct not previously held to be anticompetitive. See generally, Frank H. Easterbrook, The Limits of Antitrust, 63 TEX. L.REV. 1, 14-15 (1984) (supporting use of presumptions in antitrust law to avoid condemning procompetitive practices). Nonetheless, out of an abundance of caution the district court provided that, in the event Microsoft were to “make a practice” of sacrificing the advantages of separate distribution in order to frustrate the purpose of the remedy, Massachusetts “could petition the Court for relief on this point.”9 States’ Remedy, at 117 n.34.
+ 
+Massachusetts further argues the district court made no finding the required disclosure of APIs under the decree would “meaningfully assist” developers of middleware. Massachusetts objects both to the breadth of disclosure — that is, the number of APIs to be disclosed under § III.D — and to the “depth” or detail of the disclosure, with respect to which Massachusetts claims “the remedy fails to require the disclosure of sufficient information to ensure that the mandated disclosure may be effectively utilized.”
+ 
+As to breadth, § III.D by its terms expands the scope of required disclosure beyond the functionality of the middleware at issue in our decision on liability, as discussed above. Such expanded but not unlimited disclosure “represents a reasonable method” of facilitating the entry of competitors into a market from which Microsoft’s unlawful conduct previously excluded them, NSPE, 435 U.S. at 698, 98 S.Ct. at 1368, particularly in view of the inherently uncertain nature of this forward-looking provision.
+ 
+Moreover, in laying claim to still broader disclosure of APIs, Massachusetts simply ignores the district court’s findings with respect to the economic and technological effects of disclosure. As Microsoft points out, however, these findings reflect the district court’s concern that a forward-looking provision requiring overly broad disclosure could undermine Microsoft’s incentive *1219 **172 to innovate and, more particularly, that the States’ proposed disclosure provision could enable competitors to “clone” Windows. The extremely broad scope of the States’ proposal bears out the district court’s concern. First, “interoperate” is defined in a way that makes it essentially synonymous with “interchange.” See States’ Remedy, at 227 (citing Madnick ¶ 86, 5 J.A. (II) at 2836-37). Meanwhile, § 4 of the SPR would require Microsoft to disclose “all APIs” that enable any “Microsoft Middleware Product,” Microsoft application, or Microsoft software program to interoperate with “Microsoft Platform Software.” 6 J.A. (II) at 3172-73. Finally, “ Microsoft Middleware Product” and “Microsoft Platform Software” are defined so broadly that, when required to “interoperate” with one another, they include essentially any two pieces of Microsoft software on a PC. See States’ Remedy, at 227-28; see also Gates ¶ 296, 8 J.A. (II) at 4772-73; Madnick ¶¶ 148-49, 151, 5 J.A. (II) at 2870, 2872. As a result, the district court found the broad scope of the APIs required to be disclosed under the States’ proposal would give rivals the ability to clone Microsoft’s software products;10 and cloning would allow them to “mimic” the functionality of Microsoft’s products rather than to “create something new.” States’ Remedy, at 229. They could also “develop products that implement Microsoft’s Windows technology at a far lower cost [than Microsoft itself] since they would have access to all of Microsoft’s research and development investment.” Id. The effect upon Microsoft’s incentive to innovate would be substantial; not even the broad remedial discretion enjoyed by the district court extends to the adoption of provisions so likely to harm consumers.
+ 
+The amici claim the district court’s “concern about ‘cloning’ ... rested in part on a misunderstanding of what an API is.” This assertion is simply at odds with the testimony upon which the district court relied in concluding competitors could clone Microsoft’s software and mimic its functionality.11 Moreover, the amici fail entirely to address the district court’s conclusion, based upon findings of fact, that cloning would deny “Microsoft the returns from its investment in innovation.”12 Id. at 176.
+ 
+Microsoft also points to the adverse technological effects that would have ensued from broader disclosure of its internal interfaces. The district court found overly broad disclosure of APIs would limit *1220 **173 Microsoft’s ability to modify interfaces, a limitation that “threatens to stifle innovation and product flexibility.” Id. at 177. The court also found that disclosure of internal interfaces, which the States’ proposal would require, would force Microsoft to publish APIs where the interfaces are unstable. Id. at 230-31. That “could pose a substantial threat to the security and stability of Microsoft’s software,” id. at 231; reliance upon such interfaces may “cause third-party software not to work or Windows to crash,” id. at 230. Massachusetts does not challenge any of these findings, although they clearly support the district court’s refusal to require the broad disclosure of APIs proposed by the States.
+ 
+Massachusetts also insists the depth of Microsoft’s required disclosure under § III.D is “inadequate.” The Commonwealth first argues the depth of Microsoft’s disclosure obligation is unclear because the definition of “API” is circular and non-specific. The term is defined in § VI.A as an “application programming interface, including any interface that Microsoft is obligated to disclose pursuant to III.D.” Id. § VI.A, at 274. Massachusetts points to the testimony of the States’ computer science expert, who said “Microsoft’s definition of ‘API’ is almost entirely a circular reference to Section III.D, and it therefore does not adequately define what information must be provided as part of the API disclosure.” Appel ¶ 60, 2 J.A. (II) at 1269. We note that most of this expert’s testimony regarding the definition of API is a legal analysis rather than the opinion of a computer scientist and is therefore beyond the “knowledge, skill, experience, training, or education” for which he was qualified as an expert. FED. R. EVID. 702. In any event, his legal analysis is wrong; the definition of API is not circular. API is defined in two places in the decree. The definition quoted above and cited by the States’ computer expert is the one found in the “Definitions” section of the decree for the use of the term in every section of the decree other than § III.D. See States’ Remedy § VI.A, at 274. The term is defined separately in § III.D, for the purpose of Microsoft’s disclosure obligation under that section, as “the interfaces, including any associated callback interfaces,” that permit Microsoft Middleware to obtain “services” from Windows. Microsoft clearly understood, as the States’ computer expert apparently did not, the latter definition is the one applicable to Microsoft’s disclosure of APIs under the decree.13
+ 
+Second, Massachusetts claims there is unrebutted testimony in the record indicating the depth of disclosure mandated by § III.D is not “adequate for those whose innovative software constitutes a potential threat to Windows.” The cited testimony, however, does not cast doubt upon the district court’s decision. The witnesses expressed concern that the extent of Microsoft’s obligation to disclose file formats, registry settings, and similar information is unclear and explained the type of enhanced disclosure software developers would like, but the testimony amounts to no more than conclusory statements.14 *1221 **174 That software developers prefer more, rather than less, expansive and detailed disclosure of APIs and technical information is hardly surprising, but the testimony is not sufficient to support Massachusetts’ implication that the disclosures required by § III.D will not materially assist developers of potential middleware threats to Windows. Recall the district court did not undertake to assure the viability of Microsoft’s rivals. Rather, the court settled upon a level of disclosure that would “bolster” the ability of rival middleware to serve as a platform threat to Microsoft; “help” rival middleware interoperate with Windows; and “have the potential to increase the ability of competing middleware to threaten [Windows].” Id. at 172.
+ 
+Finally, Massachusetts argues the disclosure mandated by § III.D need not be timely made. In the case of a “new major version of Microsoft Middleware,” § III.D requires disclosure “no later than the last major beta test release of that Microsoft Middleware.” For a new version of Windows, disclosure must occur in a “Timely Manner,” defined as the time of the first release of a beta test version of Windows through the Microsoft Developer Network or upon the distribution of 150,000 or more copies of the beta version. Id. § VI.R, at 276.
+ 
+Massachusetts nonetheless insists “[t]he remedy is at odds with the record on timeliness.” Microsoft responds by pointing to evidence that requiring disclosure “before the software code underlying those APIs has been fully developed and tested, as the ... States requested, would create serious logistical problems for both Microsoft and third-party software developers.” See, e.g., Direct Testimony of Microsoft’s Linda Wolfe Averett ¶ 18, 6 J.A. (II) at 3261 (“Until Microsoft is confident that it has figured out how to provide a particular functionality, it does not want third-party developers building products that rely on our functionality”). Although clearly favoring the definitions of timeliness adopted by the district court, Microsoft’s evidence is not required in this instance because the testimony Massachusetts cites itself underscores Microsoft’s “strong incentive” to disclose its APIs in a timely fashion so that software developers will write applications based upon them. See, e.g., Borduin ¶ 35, 2 J.A. (II) at 1318-19. Without timely disclosure, “there would be far fewer and lower quality programs written for Microsoft’s operating systems.” Id. Microsoft’s incentive to make timely disclosure of APIs is obvious: the ability of software developers to write applications that rely upon Microsoft’s APIs depends upon the developers having access to them. As the district court found in the liability phase, “Microsoft must convince ISVs to write applications that take advantage of the new APIs, so that existing Windows users will have [an] incentive to buy an upgrade.” Findings of Fact ¶ 44, at 21-22. The court also found Microsoft offered inducements to software developers to ensure they “promptly develop new versions of their applications adapted to the newest version of Windows.” Id. Massachusetts points to no evidence, and offers no reason to think, this incentive is insufficient to induce timely disclosure under § III.D of the decree. To the contrary, the evidence Massachusetts offers merely confirms the economic incentives Microsoft faces in releasing *1222 **175 its APIs to ISVs in a timely manner.
+ 
+In sum, the district court’s findings are fully adequate to support its decision with respect to disclosure. They are comprehensive and sufficiently detailed to provide a clear understanding of the factual basis for the court’s decision. See Folger Coffee Co. v. M/V Olivebank, 201 F.3d 632, 635 (5th Cir.2000); see also 9A CHARLES ALAN WRIGHT & ARTHUR R. MILLER, FEDERAL PRACTICE AND PROCEDURE § 2571 (2d ed.1995). We do not find persuasive Massachusetts’ arguments that the district court overstated or misapprehended the significance of the disclosure required by the decree. In light of the forward-looking nature of the API disclosure provision, the court reasonably balanced its goal of enhanced interoperability with the need to avoid requiring overly broad disclosure, which it determined could have adverse economic and technological effects, including the cloning of Microsoft’s software. Moreover, we cannot overlook the threat — as documented in the district court’s findings of fact in the liability phase — posed by Netscape and Java, which relied upon Microsoft’s then more limited disclosure of APIs. Microsoft managed to squelch those threats, at least for a time, but that does not diminish the competitive significance of the disclosure of Microsoft’s APIs, a disclosure enhanced by the decree.
+ 
+We therefore hold the district court did not abuse its discretion in fashioning the remedial provision concerning Microsoft’s disclosure of APIs.
+b. Disclosure of communications protocols
+ 
+[7] The district court also included in the decree a provision requiring Microsoft to disclose certain communications protocols. See States’ Remedy § III.E, at 269. As with APIs, we did not hold Microsoft’s disclosure practices with respect to communications protocols violated § 2 of the Sherman Act. Communications protocols involve technologies — servers and server operating systems — that are not “middleware” as we used that term in our prior decision. See Microsoft III, at 53-54. It is therefore not surprising the district court described the provision requiring the disclosure of communications protocols as the “most forward-looking” in the decree. States’ Remedy, at 173 (emphasis in original).
+ 
+Communications protocols provide a common “language” for “clients” and “servers” in a computing network. A network typically involves interoperation between one or more large, central computers (the servers) and a number of PCs (the clients). By interoperating with the server, the clients may communicate with each other and store data or run applications directly on the server. The district court found that servers may use any of several different operating systems, id. at 121 (citing Direct Testimony of Robert Short ¶ 22, 6 J.A. (II) at 3528-29; Madnick ¶ 44, 5 J.A. (II) at 2814-15), but most clients run a version of Windows, id. (citing Madnick ¶ 44, 5 J.A. (II) at 1814-15). In a “heterogeneous network,” that is, one comprising different types of hardware and of operating systems, interoperation can be difficult. One method of addressing the difficulty is to specify use of a “common language” understood by all the computing elements of the network. The district court specified one such language, known as “native communication,” in § III.E of the decree.15 *1223 **176 That section requires Microsoft to make available to third parties “on reasonable and non-discriminatory terms ... any Communications Protocol that is ... (i) implemented in a Windows Operating System Product installed on a client computer, and (ii) used to interoperate, or communicate, natively (i.e., without the addition of software code to the client operating system product) with a Microsoft server operating system product.”
+ 
+Native communication differs from other forms of communication because it does not require that additional software be installed on the client. Other approaches may require adding “software to the server to make the client computer ‘think’ it is communicating in a homogeneous network,” id. at 122 (citing Madnick ¶¶ 68-75, 5 J.A. (II) at 2826-29), or adding “software code to the client which enables the client to communicate more effectively with the server,” id. (citing Madnick ¶¶ 68, 76-82, 5 J.A. (II) at 2826-27, 2829-35). As the district court stated, “Interoperation made possible by software added onto Microsoft’s PC operating system products is less clearly related to the facts of this case because it expands beyond the relevant market of Intel-compatible PC operating systems to address the ability of an application to interoperate with a server.” Id. at 173 (emphasis in original). The court therefore held Microsoft need not disclose communications protocols used to interoperate non-natively.
+ 
+In determining the scope of the remedy, the district court acknowledged that network and server-based applications are not middleware in the sense that “the software physically resides on the PC and functions as a platform for other applications.” Id. at 129. Still, the court reasoned that such applications are capable of functioning in a manner similar to that of middleware “by providing a layer between the operating system and top-level applications.” Id. The court’s reasoning is supported by its finding that “[s]oftware developers are increasingly writing programs that rely, or ‘call,’ on APIs exposed by server operating systems such that the server operating system provides the ‘platform’ for applications.” Id. at 123 (citing Direct Testimony of Novell, Inc.’s Dr. Carl Ledbetter ¶¶ 47-48, 2 J.A. (II) at 1163-64; Direct Testimony of Richard Green ¶ 76, 2 J.A. (II) at 956; 5/27/02 am Tr. at 1508-09 (Ledbetter trial testimony)). For these reasons the district court, in extending Microsoft’s disclosure to communications protocols, concluded “server operating systems can perform a function akin to that performed by traditional middleware.” Id. at 172.
+ 
+Massachusetts argues § III.E will not enhance interoperability and there is no evidence, and the district court made no finding, that it will. Microsoft responds that “a substantial degree of interoperability already exists between Windows desktop operating systems and non-Microsoft server operating systems” and the ability of third parties to license those protocols from Microsoft pursuant to § III.E will enhance interoperability. The parties’ divergent predictions point up the difficulties inherent in crafting a forward-looking provision concerning a type of business conduct as to which there has not been a violation of the law.
+ 
+To be sure, as the Supreme Court observed in International Salt Co. v. United States, 332 U.S. 392, 400, 68 S.Ct. 12, 17, 92 L.Ed. 20 (1947), “When the purpose to restrain trade appears from a clear violation of law, it is not necessary that all of the untraveled roads to that end be left open and that only the worn one be closed.” True enough, but when the district *1224 **177 court undertakes to block the untraveled roads by adopting a forward-looking provision, its discretion is necessarily less broad because, without liability findings to mark the way, it is in danger of imposing restrictions that prevent the defendant from forging new routes to serve consumers.
+ 
+Massachusetts objects that the district court should not have limited the disclosure requirement of § III.E to protocols for native communications, which the district court found is only “one of at least five basic approaches to achieving interoperability between Windows client operating systems and non-Microsoft server operating systems.” States’ Remedy, at 234 (citing Short ¶ 35, 6 J.A. (II) at 3535). We think the district court prudently sought not to achieve complete interoperability but only to “advance” the ability of non-Microsoft server operating systems to interoperate with Windows and thereby serve as platforms for applications. It was not an abuse of discretion for the court not to go further; indeed, to have done so in the absence of related liability findings would have been risky.
+ 
+Massachusetts points to the testimony underlying the States’ proposed findings for its claim that the disclosure required by § III.E “would not provide a level of interoperability sufficient to give competing software the opportunity to gain marketplace acceptability.” Those proposed findings, however, called for “full” and “seamless” interoperability, e.g., States’ Proposed Findings ¶¶ 700, 708, 3 J.A. (II) at 1613, 1615, and, more specifically, for disclosure of the “proprietary protocols” for certain of Microsoft’s software products, including the protocols that allow Microsoft’s server-based email software (Microsoft Exchange) to interoperate with its PC-based email software (Microsoft Outlook), ¶ 704, id at 1614. Microsoft responds that, though Massachusetts may want to extend the remedy to these products, the district court did not abuse its discretion by “refusing to extend the remedy so far beyond the liability determinations affirmed on appeal.” We agree. It was not inappropriate for the district court to require only the disclosures necessary to provide a basic link between non-Microsoft operating systems and PCs running Windows. That there are other methods for achieving the same or an even greater degree of interoperability — perhaps even methods allowing the “full” and “seamless” interoperability claimed by Massachusetts — does not render insufficient what is already the “most forward-looking” provision in the decree.
+ 
+Finally, Massachusetts argues the district court erred by failing to define the term “interoperate” in the decree. The district court found “the term ‘interoperate’ captures a continuum[ ] rather than an absolute standard.... [T]he Court’s remedial decree utilizes a very simple definition of the term which is intended to capture the reasonable spectrum of the continuum.” States’ Remedy, at 172 n.75. Evidence in the record supports the district court’s finding.16 The court rejected the States’ proposed definition, which, as we have seen, the court found equates “interoperate” with “interchangeab[le]” and would give others the ability to clone many of Microsoft’s products. Id. at 227 (citing 5/10/02 pm Tr. at 7111-12 (Bennett trial testimony), 6 J.A. (II) at 3596). In light of the conflicting testimony in the record, some of which clearly supports the district court’s finding that “interoperation”” *1225 **178 is reasonably understood not as a binary concept, meaning two network elements either do or do not interoperate, but rather as a “continuum,” meaning their communication is a matter of degree, we cannot hold the district court’s finding to be clearly erroneous. Microsoft III, at 66.
+ 
+In sum, the district court did not abuse its discretion or otherwise err in adopting a provision limiting to native communication Microsoft’s obligation to disclose communications protocols.
+ 
+
+4. Web Services
+[8] Massachusetts next argues the district court erred by failing to adopt a remedy addressed to Web services. In particular, Massachusetts claims the court should have extended Microsoft’s disclosure obligation beyond interoperation of server operating systems and PCs running Windows to reach interoperation among “other nodes of the network encompassed by network-based computing and the Web services paradigm, such as multiple servers or handheld devices.”17 Microsoft responds by pointing out there was no mention of Web services in the liability phase of this case, and by claiming it has no monopoly power in the market for Web services, “if such a [market] exists.” Also, the district court found “Web-browsing software of the type addressed during the liability phase will play no role in the creation, delivery, or use of many Web services.” States’ Remedy, at 127.
+ 
+Although the district court encountered “substantial disagreement” about what constitutes a Web service, id. at 126, it found the middleware at issue in Microsoft III, namely, Web-browsing software, “is not integral to the functioning of Web services because many Web services will involve direct communications between devices or programs and will not be accessed by an end user at all.” Id. at 126-27 (citing Direct Testimony of Dr. James Allchin ¶ ¶ 43-45, 2 J.A. (II) at 1218-19). Far from ignoring this area of rapid innovation, as Massachusetts claims, the district court concluded Web services are simply too far removed from the source of Microsoft’s liability in this case — as to which the relevant market is operating systems for Intel-compatible PCs — to be implicated in the remedy. Id. at 133 (“mere importance of Web services to Microsoft and the industry as a whole is not sufficient to justify extending the remedy in this case to regulate Microsoft’s conduct in relation to Web services”). Nor did the court think the States had sufficiently “explained how the increase in the use of non-PC devices in conjunction with Web services will reduce Microsoft’s monopoly in the market for PC operating systems.” Id. at 134.
+ 
+Massachusetts claims the district court excluded Web services based upon the clearly erroneous premise “that this new paradigm is a threat to the PC, and not to Windows.” For a correct understanding Massachusetts points us to the testimony of Jonathon Schwartz, Chief Strategy Officer at Sun Microsystems: “[S]o long as consumers can access Web services using competing devices and operating systems, they are free to switch away from Windows if competing alternatives are more attractive.” Direct Testimony ¶ 37, 2 J.A. (II) at 882; see also Direct Testimony of *1226 **179 John Borthwick ¶ 74, 7 J.A. (II) at 4117 (if “developers of web services adopt industry standard protocols,” then applications will not rely upon Windows and users will therefore be less reliant upon Windows). According to Massachusetts, the district court acknowledged as much when it stated:
+The Chief Strategy Officer for Sun Microsystems, Inc., Jonathon Schwartz, testifying on behalf of Plaintiffs ... theorized that “[i]f the most popular applications are delivered as Web services, instead of [as] stand-alone PC applications, the applications barrier protecting Windows could be substantially eroded.”
+States’ Remedy, at 127 (brackets in original). Clearly, however, the district court expressed its view that Schwartz was “theoriz[ing],” not stating a conclusion based upon fact. In any event, the district court was primarily — and correctly — focused upon whether a provision addressing Web services could be linked to Microsoft’s liability in Microsoft III; it could not.
+ 
+Moreover, it does not follow that, because a proposed requirement could reduce the applications barrier to entry, it must be adopted. Recall the applications barrier to entry arose only in part because of Microsoft’s unlawful practices; it was also the product of “positive network effects.” 84 F.Supp.2d at 20. If the court is not to risk harming consumers, then the remedy must address the applications barrier to entry in a manner traceable to our decision in Microsoft III. This the decree does by opening the channels of distribution for non-Microsoft middleware. The district court reasonably determined, based upon evidence in the record, a provision addressing Web services might not be so benign. States’ Remedy, at 134.
+ 
+Massachusetts also complains (albeit only in a footnote) that, because the district court included a remedy affecting servers, there is “no basis for distinguishing Web services,” which are part of the same, new platform threat. We disagree. Disclosure of communications protocols is a “most forward-looking remedy,” id. at 173 (emphasis in original); the district court, which was not compelled to venture even that far from its moorings in Microsoft III, was well within its discretion, therefore, not to go further.
+ 
+
+5. Market Development Programs
+[9] Massachusetts argues the remedy should be modified to prevent Microsoft from offering to OEMs discounts, known as Market Development Programs (MDPs). The Commonwealth’s claim is based in part upon its concern that Microsoft will use MDPs “to ensure that OEMs will not exercise whatever flexibility the remedy provides” them. On its face, Massachusetts’ concern appears to be that the new freedoms provided to OEMs under the decree will be ineffectual because Microsoft has retained the ability to offer OEMs favorable discounts. Be that as it may, the district court rejected the States’ proposal to prevent Microsoft from offering discounts, see SPR § 2.a, 6 J.A. (II) at 3168, noting this court “did not condemn Microsoft’s use of MDPs and, in fact, steadfastly refused to condemn practices which, at their core, ‘offered a customer an attractive deal.’ ” States’ Remedy, at 166 (quoting Microsoft III, at 68). The district court also cited evidence in the record — testimony both of Microsoft’s and of the States’ economic experts — that MDPs may be employed procompetitively. Id. at 211. Upon weighing the evidence, the district court concluded “the weight of the economic testimony favors preservation of Microsoft’s ability to offer MDPs, provided that Microsoft cannot impose the MDPs in a discriminatory or retaliatory manner.” Id.; see also id. at 166 (MDPs must be **180 *1227 “based upon reasonable, objective criteria, which are enforced uniformly and without discrimination”).
+ 
+Massachusetts argues the district court “committed an error of law” by failing to prohibit all MDPs, referring us to United States v. Loew’s, Inc., 371 U.S. 38, 83 S.Ct. 97, 9 L.Ed.2d 11 (1962), for the proposition that “[t]o ensure ... that relief is effectual, otherwise permissible practices connected with the acts found to be illegal must sometimes be enjoined,” id. at 53, 83 S.Ct. at 105. In Loew’s, several major film distributors had violated § 1 of the Sherman Act by “block-booking,” or tying popular films with less popular films in licensing agreements with television stations. Id. at 40-41, 83 S.Ct. at 99-100. The district court enjoined the practice but did not accept the Government’s proposal to enjoin certain “otherwise permissible practices” that could be used to “subject[ ] prospective purchasers to a ‘run-around’ on the purchase of individual films.” Id. at 55, 83 S.Ct. at 107. Although the Supreme Court ultimately adopted the Government’s proposed modifications because they would help “to prevent the recurrence of the illegality,” id. at 52, 83 S.Ct. at 106, the Court pointed out that “[t]he trial judge’s ability to formulate a decree tailored to deal with the violations existent in each case is normally superior to that of any reviewing court,” id. at 52, 83 S.Ct. at 105-06. Here the district court did impose restraints upon Microsoft’s “otherwise permissible practices” by requiring that any MDPs be both uniform and non-discriminatory. States’ Remedy, at 166. Massachusetts has not shown that any additional restraint is necessary.
+ 
+Massachusetts also argues the district court clearly erred in determining MDPs are procompetitive because “this directly contradicts its own findings regarding Microsoft’s ability to frustrate the remedy.” The Commonwealth here relies upon testimony that Microsoft conditioned MDPs upon an OEM’s compliance with certain technical requirements, including a specified configuration of hardware and software, restrictions on the boot-up sequence, and a specified allocation of computer memory. See, e.g., Ashkin ¶¶ 119-22, 5 J.A. (II) at 3114-16. That testimony, however, reflects the competitive landscape as it was prior to the adoption of the remedy now in place. Whereas an OEM licensing Windows from Microsoft previously had little flexibility to include rival middleware, now it may choose either to distribute non-Microsoft middleware or to get a discount from Microsoft, as it sees fit. True, this choice may be skewed if Microsoft offers deep discounts, but the district court required Microsoft to offer MDPs to all comers on the same uniform and non-discriminatory terms; it cannot target a discount solely at an OEM that dallies with rival middleware. Massachusetts gives us no reason to think Microsoft is likely to pursue a deep discount strategy seemingly made bootless by those conditions.
+ 
+Without a clear indication that Microsoft can or will use its discounts in a fashion that, as Massachusetts claims, “subverts” the other provisions of the remedy, we again refuse to condemn a practice that “offer[s the] customer an attractive deal.” Microsoft III, at 68. Accordingly, we hold the district court did not abuse its discretion by refusing to prohibit, rather than placing protective conditions upon, Microsoft’s offer of discounts.
+ 
+
+6. Open Source Internet Explorer
+[10] Massachusetts argues the district court abused its discretion in rejecting the States’ “open-source IE” provision, which would require that
+Microsoft ... disclose and license all source code for all Browser software **181 *1228 [and that the license] grant a royalty-free, non-exclusive perpetual right on a non-discriminatory basis to make, use, modify and distribute without limitation products implementing or derived from Microsoft’s source code....
+SPR § 12, 6 J.A. (II) at 3178. Microsoft responds that this type of remedy is unnecessary because the decree already proscribes the anticompetitive conduct by which Microsoft had unlawfully raised the applications barrier to entry and thereby diminished the threat posed by platforms rivaling Microsoft’s operating system.
+ 
+The district court rejected the States’ proposal for three reasons. First, the open-source IE proposal “ignores the theory of liability in this case,” which was directed at Microsoft’s unlawful “response to cross-platform applications, not operating systems,” States’ Remedy, at 185; the proposed remedy would directly benefit makers of non-Microsoft operating systems, even though the harm, if any, to them was indirect. Second, the proposal would “provide [a] significant benefit to competitors but [has] not been shown to benefit competition.” Id. Finally, the proposal would work a “de facto divestiture” and therefore should be analyzed as a structural remedy pursuant to this court’s opinion on liability. Id. at 186; see also Microsoft III, at 106 (“In devising an appropriate remedy, the District Court also should consider whether plaintiffs have established a sufficient causal connection between Microsoft’s anticompetitive conduct and its dominant position in the OS market”). Here the court carefully considered the “causal connection” between Microsoft’s anticompetitive conduct and its dominance of the market for operating systems, and held the causal link insufficient to warrant a structural remedy. States’ Remedy, at 186.
+ 
+Massachusetts argues the district court “improperly ignored evidence that IE’s dominance is competitively important for Microsoft” and complains that Microsoft “advantage[s] its own middleware by using the browser to limit the functionality of competing products.” These are not objections, however, to the district court’s reasons for rejecting the States’ proposal. Rather, they are criticisms of what Massachusetts terms the district court’s “implicit determination that [certain] facts were not relevant” to its analysis of the open-source IE provision. For instance, Massachusetts points to the testimony of David Richards of RealNetworks stating there would be “substantial end user benefit” if Microsoft disclosed enough APIs to allow competitors such as RealNetworks to create their own versions of the “Media Bar,” one of Microsoft’s recent additions to the IE interface. See Direct Testimony ¶¶ 79-84, 2 J.A. (II) at 1094-99. According to Richards, the Media Bar is a version of Microsoft’s Windows Media Player “embedded as the default media player” in IE. ¶ 79, id. at 1094-95. If Microsoft were to disclose the internal architecture of the Media Bar, including the APIs upon which it relies, he says, then end users could “play back more digital formats within the [IE] browser than [Microsoft’s] Windows Media Player, including our own RealAudio and RealVideo formats.” ¶¶ 81, 82, id. at 1098.
+ 
+Massachusetts argues the district court’s disregard of this testimony “was wrong as a matter of law,” for which proposition it cites FTC v. Texaco, Inc., 555 F.2d 862 (D.C.Cir.1977). As an initial matter, Massachusetts’ reliance upon Texaco is misplaced. In Texaco we said “the appellate court has the authority — and the duty — to determine the proper legal premise and to correct the legal error of the trial judge, without limitation by the doctrines of ‘clearly erroneous’ and ‘abuse *1229 **182 of discretion’ that are applicable to review of factual determinations.” Id. at 876 n. 29. Here the district court did not, as Massachusetts claims, commit an error of law “in assessing the link between Microsoft’s unlawful acts and its control of the dominant browser.” To be sure, Richards’ testimony makes clear Microsoft’s competitors would benefit from Microsoft’s disclosure of the APIs necessary for them to replicate Microsoft’s Media Bar. Neither that nor any other testimony Massachusetts cites, however, indicates the district court relied upon an improper “legal premise” in its “implicit determination” of relevance.
+ 
+The district court’s premise, as discussed more fully below, was that the fruit of Microsoft’s unlawful conduct was not the harm particular competitors may have suffered but rather Microsoft’s freedom from platform threats posed by makers of rival middleware. See Part II.B.1. The district court properly focused, therefore, upon opening the channels of distribution to such rivals; facts tending to show harm to specific competitors are not relevant to that task. Also recall the district court was properly concerned with avoiding a disclosure requirement so broad it could lead to the cloning of Microsoft’s products. That, in essence, appears to be what the cited testimony would require with respect to Microsoft’s Media Bar.
+ 
+Massachusetts next argues the district court “misunderstood” that the States’ open-source IE proposal could “reestablish a cross-platform browser,” thereby allowing applications to be written to APIs exposed by IE and, as a result, lower the applications barrier to entry. As discussed in preceding sections of this opinion, the decree the district court approved includes several provisions addressed directly to Microsoft’s efforts to extinguish nascent threats to its operating system. Specifically, the decree restores the conditions necessary for rival middleware to serve as a platform threat to Windows and thereby speaks directly to our holding with respect to liability. See Microsoft III. Moreover, the district court found the States’ open-source IE proposal ignores the theory of liability in this case not because the court “misunderstood” the implications of the proposal but because the proposal would most likely benefit makers of competing operating systems, namely, Apple and Linux, rather than restore competitive conditions for potential developers of rival middleware. States’ Remedy, at 242-43.18 That is why the court concluded the open-source IE proposal would help specific competitors but not the process of competition. See id. at 185, 244; see also Elzinga ¶ 85, 5 J.A. (II) at 2732 (open-source IE provision is a “transparent ‘IP grab’ ” that would “help competitors but harm competition”). Massachusetts would refute the court’s conclusion with the testimony of the States’ economic expert, who said open-source IE would “lower the applications barrier.” Shapiro ¶ 101, 2 J.A. (II) at 829. But that conclusory statement, even if an accurate prediction, does not point up any error on the part of the district court in refusing to adopt the open-source proposal. There is more than *1230 **183 one way to redress Microsoft’s having unlawfully raised the applications barrier. And it was certainly within the district court’s discretion to address the applications barrier to entry as it did, namely, by restoring the conditions in which rival makers of middleware may freely compete with Windows. Indeed, to have addressed itself narrowly to aiding specific competitors, let alone competitors that were not the target of Microsoft’s unlawful efforts to maintain its monopoly, could well have put the remedy in opposition to the purpose of the antitrust laws. See Brooke Group, 509 U.S. at 224, 113 S.Ct. at 2588 (antitrust laws designed to protect “competition, not competitors”).
+ 
+Massachusetts also complains the district court, in rejecting the open-source IE provision, erred by probing the causal connection between Microsoft’s unlawful acts and harm to consumers. In response Microsoft points out that the district court viewed the States’ proposed relief as structural and therefore applied a test of causation along the lines we set out in Microsoft III. See 253 F.3d at 106-07. Our instruction to the district court was to consider on remand whether divestiture was an appropriate remedy in light of the “causal connection between Microsoft’s anticompetitive conduct and its dominant position in the ... market [for operating systems].” Id. at 106. Structural relief, we cautioned, “is designed to eliminate the monopoly altogether ... [and] requires a clearer indication of a significant causal connection between the conduct and creation or maintenance of market power.” Id. (emphasis in original) (citing 3 PHILLIP E. AREEDA & HERBERT HOVENKAMP, ANTITRUST LAW ¶ 653b, at 91-92 (1996)).
+ 
+As Massachusetts correctly notes, we were there addressing the district court’s order to split Microsoft into two separate companies, whereas on remand, the district court was addressing the States’ open-source IE proposal. But the district court reasonably analogized that proposal to a divestiture of Microsoft’s assets. States’ Remedy, at 185, 244. The court pointed to testimony both of Microsoft’s and of the States’ economic experts characterizing the open-source IE remedy as “structural” in nature. Id. at 244 (citing Elzinga ¶ 104, 5 J.A. (II) at 2740-41; 4/11/02 am Tr. at 3324 (Shapiro trial testimony), 8 J.A. (II) at 4502). Although Microsoft could continue to use its intellectual property under the open-source IE proposal, the “royalty-free, non-exclusive perpetual right” of others to use it as well would confiscate much of the value of Microsoft’s investment, which Gates put at more than $750 million, ¶ 128, 8 J.A. (II) at 4714, and the court clearly found to be of considerable value. See States’ Remedy, at 241, 244.
+ 
+Massachusetts claims United States v. National Lead Co., 332 U.S. 319, 67 S.Ct. 1634, 91 L.Ed. 2077 (1947), upheld compulsory licensing as a remedy while at the same time rejecting the need for divestiture. The licenses in National Lead, however, were not to be free; on the contrary, the Supreme Court specifically pointed out that reducing “all royalties automatically to a total of zero ... appears, on its face, to be inequitable without special proof to support such a conclusion.” Id. at 349, 67 S.Ct. at 1648. (The Court left open the possibility that royalties might be set at zero or at a nominal rate, but only where the patent was found to be of nominal value.) Here the States proposed Microsoft be required to license IE “royalty-free,” SPR § 12, 6 J.A. (II) at 3178. Therefore, National Lead is worse than no support for the States’ proposal; it tells us that proposal is “on its face ... inequitable.” 332 U.S. at 349, 67 S.Ct. at 1648.
+ 
+*1231 **184 Finally, Massachusetts claims the district court erred in rejecting the open-source IE proposal on the ground it “is predicated not upon the causal connection between Microsoft’s illegal acts and its position in the PC operating system market, but rather the connection between the illegal acts and the harm visited upon Navigator.” This plainly misstates the issue as we remanded it. We were concerned a drastic remedy, such as divestiture, would be inappropriate if Microsoft’s dominant position in the operating system market could not be attributed to its unlawful conduct. Microsoft III, at 106-07. The district court did not abuse its discretion by insisting that an analogous form of structural relief — namely, divesting Microsoft of much of the value of its intellectual property — likewise meets the test of causation. Massachusetts’ statement that the open-source IE provision “is predicated ... [upon] the connection between the illegal acts and the harm visited upon Navigator” highlights precisely why the district court was right to reject that provision: The remedy in this case must be addressed to the harm to competition, not the harm visited upon a competitor.
+ 
+The district court’s remedy is appropriately addressed to the channels of distribution for non-Microsoft middleware, including rival browsers such as Netscape Navigator. The court did not abuse its discretion by refusing to adopt the States’ proposed open-source IE provision for the benefit of Microsoft’s competitors.
+ 
+
+7. Java must-carry
+[11] Massachusetts argues the district court erred in refusing to require Microsoft to distribute with Windows or IE a Sun-compliant Java runtime environment, as the States had proposed. Consider:
+For a period of 10 years from the date of entry of the Final Judgment, Microsoft shall distribute free of charge, in binary form, with all copies of its Windows Operating System Product and Browser ... a competitively performing Windows-compatible version of the Java runtime environment ... compliant with the latest Sun Microsystems Technology Compatibility Kit.
+SPR § 13, 6 J.A. (II) at 3179-80. The district court rejected this proposal because it did not think appropriate a remedy that “singles out particular competitors and anoints them with special treatment not accorded to other competitors in the industry.” States’ Remedy, at 189. Microsoft adds that the proposal would give “Sun’s Java technology a free-ride on Microsoft’s OEM distribution channel.”
+ 
+Massachusetts argues the district court was wrong as a matter of law in thinking that mandated distribution of Java would benefit a competitor and not competition: “If the district court were correct that broad distribution of Java did not benefit competition, then this Court could not have held that Microsoft’s undermining of Java’s distribution was anticompetitive.” Not surprisingly, this non sequitur misrepresents the reasoning of the district court. That court focused upon remedying Microsoft’s unlawful foreclosure of distribution channels for rival middleware, not upon propping up a particular competitor. Massachusetts also complains that if any measure that helps a “would-be competitor of a monopolist” is rejected out of hand, then “competition can never be restored to a monopolized market.” There is a real difference, however, between redressing the harm done to competition by providing aid to a particular competitor and redressing that harm by restoring conditions in which the competitive process is revived and any number of competitors may flourish (or not) based upon the merits of their offerings. Even in the latter instance, of *1232 **185 course, a competitor identifiable ex ante may benefit but not because it was singled out for favorable treatment.
+ 
+Massachusetts also complains the district court ignored evidence “that the widespread availability of the cross-platform Java runtime environment on PCs would reduce the applications barrier to entry.” According to Massachusetts, only if Java is available on PCs at “a percentage that approaches the percentage of PCs running Windows” will developers write to it. Testimony cited by Massachusetts extolling the benefits of Java ubiquity, e.g., Green ¶ 53, 2 J.A. (II) at 949; Shapiro ¶ 131, id. at 840, does not, however, call into question the district court’s rejection of the States’ proposal as “market engineering,” States’ Remedy, at 262 (quoting Murphy ¶ 239, 5 J.A. (II) at 2678), aimed at benefitting a specific competitor.
+ 
+
+B. Cross-cutting Objections
+Massachusetts also raises arguments that pertain to multiple provisions of the remedial decree. One such objection goes to the district court’s overall approach to fashioning a remedy.
+ 
+
+1. “Fruits”
+[12] Massachusetts also objects that, because the district court did not require open-source IE licensing and mandatory distribution of Sun’s Java technology, the decree fails to “deny Microsoft the fruits of its exclusionary conduct.” As recounted in Part I above, we rejected the remedy at issue in Microsoft III in part because the district court had “failed to provide an adequate explanation for the relief it ordered.” 253 F.3d at 103. We had expected the district court to discuss the “objectives the Supreme Court deems relevant” to fashioning relief in an antitrust case. Id. One of those objectives, as Massachusetts notes, is to “deny to the defendant the fruits of its statutory violation.” Id. (citing United States v. United Shoe Mach. Corp., 391 U.S. 244, 250, 88 S.Ct. 1496, 1500, 20 L.Ed.2d 562 (1968)). The district court’s omission of any discussion addressed to this objective was particularly troublesome because that court had ordered the break-up of a company that was not the product of mergers or acquisitions, see, e.g., id. at 99, 106, much less unlawful mergers or acquisitions. In any event, the fruits of a violation must be identified before they may be denied. This would be a difficult, not to say imprudent, task for a reviewing court to undertake in the first instance when the remedy requires a divestiture but there are no clear lines of perforation. We could not, for instance, “go[ ] into the record far enough to be confident” what had been identified as fruits were actually “the products of the unlawful practices which the defendants have inflicted on the industry,” as the Supreme Court could in identifying “at least some” of the defendant’s acquisitions as “the fruits of [the] monopolistic practices or restraints of trade” being remedied in United States v. Paramount Pictures, Inc., 334 U.S. 131, 152, 68 S.Ct. 915, 926, 92 L.Ed. 1260 (1948).
+ 
+The present decree, however, does not require that Microsoft be broken up. Nor did the district court adopt any other of the States’ proposals it deemed structural in nature — open-source IE, as discussed above, and the “porting” of Microsoft Office. The district court also specifically rejected the idea that IE was the fruit of Microsoft’s anticompetitive conduct, finding, “[n]either the evidentiary record from the liability phase, nor the record in this portion of the proceeding, establishes that the present success of IE is attributable entirely, or even in predominant part, to Microsoft’s illegal conduct.” States’ Remedy, at 185-86 n. 81; see also id. at 244 n. *1233 **186 121. Rather, the fruit of its violation was Microsoft’s freedom from the possibility rival middleware vendors would pose a threat to its monopoly of the market for Intelcompatible PC operating systems. The district court therefore reasonably identified opening the channels of distribution for rival middleware as an appropriate goal for its remedy. By “ pry[ing] open” these channels, International Salt, 332 U.S. at 401, 68 S.Ct. at 17, the district court denied Microsoft the ability again to limit a nascent threat to its operating system monopoly. The district court certainly did not abuse its discretion by adopting a remedy that denies Microsoft the ability to take the same or similar actions to limit competition in the future rather than a remedy aimed narrowly at redressing the harm suffered by specific competitors in the past. This distinction underlies the difference between a case brought in equity by the Government and a damage action brought by a private plaintiff.
+ 
+Massachusetts also complains the district court erred in applying a “stringent but-for test” of causation in determining whether “advantages gained by Microsoft could be considered a fruit of Microsoft’s illegality.” Here it points to a footnote in which the district court, in the course of rejecting the States’ open-source IE proposal, questioned the extent to which the success of IE could be traced to Microsoft’s unlawful conduct. See States’ Remedy, at 242 & n. 119. We have already determined the district court properly refused to impose that structural remedy without finding a significant causal connection “between Microsoft’s anticompetitive conduct and its dominant position in the ... market [for operating systems].” Microsoft III, at 106; see also Part II.A.6. More important, the fruit of Microsoft’s unlawful conduct, as mentioned, was its ability to deflect nascent threats to its operating system by limiting substantially the channels available for the distribution of non-Microsoft middleware. Therefore, to quote a leading treatise, regardless whether the “maximum feasible relief” in this case could have included either open-source IE or Java must-carry or both, the district court clearly did not abuse its discretion by adopting a more “tailored remed [y]” that directly addressed the fruit of Microsoft’s unlawful conduct. 3 PHILLIP E. AREEDA & HERBERT HOVENKAMP, ANTITRUST LAW ¶ 650, at 67-68 (2d ed.2002). Finally, even if stunting Navigator and Java specifically were deemed the fruits of Microsoft’s violations, the decree would still be adequate because it opens the way to their distribution, both directly through the end-user access provision in § III.H and generally through the other conduct prohibitions found in § III of the decree.
+ 
+
+2. Presumption
+Finally, Massachusetts charges the district court improperly indulged but did not acknowledge an “apparent presumption” in favor of Microsoft’s proposed remedy, “while holding the States to a quantum of proof it did not demand of Microsoft.” The district court’s obligation in fashioning a remedial decree was, as we said in reviewing the original decree in the Government’s case, “to enter that relief it calculates will best remedy the conduct it has found to be unlawful,” Microsoft III, at 105. The district court brings broad discretion to its discharge of this obligation, again as we have explained before.
+ 
+In this case, the district court was presented with two remedial proposals: The States made their proposal and Microsoft proposed the decree it had negotiated with the Government in the Track I proceedings. The district court considered both proposals and rejected most of the provisions the States proposed on the ground they went far beyond this court’s rationale *1234 **187 in holding Microsoft had violated the antitrust laws. If that ground holds, then no “unspoken presumption” need be conjured up to explain the district court’s decision.
+ 
+Our review both of Microsoft’s and of the States’ proposals confirms the district court was on solid ground: Its reasoning was based upon evidence in the record, was sound, and involved no abuse of discretion. Some of the States’ proposals exceeded, under any reasonable interpretation, our liability holding in Microsoft III. For instance, the open-source IE provision approached the type of structural relief we singled out when cautioning the district court against relief that exceeds evidence of a causal connection between Microsoft’s anticompetitive conduct and its dominance in the operating systems market.
+ 
+Massachusetts also claims the district court expressed concern about the “supposed lack of economic analysis” supporting the States’ remedy without remarking the lack of economic analysis supporting the remedy it adopted. Massachusetts’ claims are demonstrably incorrect.
+ 
+As our review has shown, there is ample evidence in the record to support the district court’s findings. Likewise, there was substantial economic testimony to support the district court’s conclusions. We need not revisit each of the issues we have already addressed in order to reject the Commonwealth’s broad, unsubstantiated claims to the contrary.
+ 
+
+III. CCIA and SIIA v. United States & Microsoft, No. 03-5030
+CCIA and SIIA seek to intervene for the purpose of appealing the district court’s determination that the consent decree between the Government and Microsoft is in the “public interest,” as required by the Tunney Act. They raise several of the issues we addressed in Part II and they raise a number of issues unique to the settlement proceedings, including the Government’s and Microsoft’s compliance with the procedural requirements of the Act.
+ 
+
+A. Intervention
+The district court denied the joint motion of CCIA and SIIA to intervene for purposes of appealing the court’s public-interest determination in U.S. Consent Decree. They argue the district court erred in denying intervention because their “claim or defense and the main action have a question of law or fact in common,” as required for permissive intervention pursuant to Federal Rule of Civil Procedure 24(b)(2). See also Massachusetts School of Law at Andover, Inc. (MSL) v. United States, 118 F.3d 776, 779 (D.C.Cir.1997) (Rule 24 governs intervention for purpose of filing appeal under Tunney Act). The district court had also to “consider whether the intervention will unduly delay or prejudice the adjudication of the rights of the original parties.”  FED.R.CIV.P. 24(b)(2). In denying CCIA’s and SIIA’s motion, the district court was concerned only with this latter requirement, to which we shall return in a moment. First, we examine whether the would-be intervenors’ claim does have a question of law or fact in common with the underlying action.
+ 
+[13] CCIA and SIIA say they have a “claim or defense” in common with the main action in this case because their members Netscape and Sun Microsystems — “the very firms this Court identified as the victims of Microsoft’s anticompetitive conduct” — have brought “antitrust claims that overlap with the Government’s case.” See Netscape Communications Corp. v. Microsoft Corp., No. 02-00097, 2002 WL 32153432 (D.D.C., filed Jan. 22, 2002); Sun Microsystems, Inc. v. Microsoft Corp., No. 02-01150 (N.D. Cal., filed March 8, 2002). Unable *1235 **188 to deny that point, the Government and Microsoft instead argue CCIA’s and SIIA’s intervention in this case would not produce the type of efficiency gains that ordinarily make intervention worthwhile when there are common issues because, unlike in MSL, there is no possibility in this case of a “trial on the merits.” MSL, 118 F.3d at 782. Of course, there has already been a trial on the merits. Still, if we determine the consent decree is not in the public interest and remand the case for further proceedings on the remedy, then there is a possibility the final court-ordered remedy will provide some additional relief addressed to the issues Netscape and Sun have raised in their private actions.
+ 
+The Government further contends permissive intervention in this case is inappropriate because Netscape and Sun, having sued Microsoft, may protect their rights apart from this proceeding. The Government cites Roe v. Wade, 410 U.S. 113, 125-27, 93 S.Ct. 705, 712-14, 35 L.Ed.2d 147 (1973), in support of its claim that the “pendency of another action in which an applicant can protect its rights ordinarily counsels against permissive intervention.” In Roe, however, the Supreme Court denied intervention because the intervenor — a doctor seeking declaratory and injunctive relief in federal court “with respect to the same statutes under which he stands charged in criminal prosecutions simultaneously pending in state court,” id. at 126, 93 S.Ct. at 713 — had made “no allegation of any substantial and immediate threat to any federally protected right that cannot be asserted in his defense against the state prosecutions.” Id. Intervention was therefore denied pursuant to the “national policy forbidding federal courts to stay or enjoin pending state court proceedings except under special circumstances.” Younger v. Harris, 401 U.S. 37, 41, 91 S.Ct. 746, 749, 27 L.Ed.2d 669 (1971). No such policy suggests the would-be intervenors in this case should be limited to another forum for airing their grievances. On the contrary, as in MSL, because the private antitrust claims of the associations’ members overlap substantially with those here in suit, intervention “might produce efficiency gains.” 118 F.3d at 782.
+ 
+[14] Turning to the second requirement for intervention, recall what we said in MSL:
+Once a common question of fact or law is found, Rule 24(b)(2) says that the district court, in exercising its discretion, “shall consider whether the intervention will unduly delay or prejudice the adjudication of the rights of the original parties.” The “delay or prejudice” standard presumably captures all the possible drawbacks of piling on parties; the concomitant issue proliferation and confusion will result in delay as parties and court expend resources trying to overcome the centrifugal forces springing from intervention, and prejudice will take the form not only of the extra cost but also of an increased risk of error.
+118 F.3d at 782. Further, “the ‘delay or prejudice’ standard of Rule 24(b)(2) appears to force consideration of the merits of the would-be intervenor’s claims.” Id. Hence, the district court in this case noted CCIA’s and SIIA’s arguments regarding “defects” in the consent decree were “identical to those made in their Tunney Act filings.” Order Denying Intervention, at *4. And having once reviewed those filings in making its public-interest determination and finding them “not to fatally undermine” the proposed consent decree, the court held them insufficient to warrant intervention. Id.
+ 
+CCIA and SIIA now argue that, if they are allowed to intervene, “There will be no *1236 **189 delay caused by [their] appeal because this Court will have to decide the proper remedy for Microsoft’s antitrust violations in [Massachusetts’] appeal regardless of what happens here.” The Government acknowledges there would be no “undue delay” because the “consent decree is currently in force, as is an identical and unchallenged decree in the litigation between Microsoft and the settling states.”
+ 
+[15] We think it sufficient the consent decree was already in place in the settling states’ case when CCIA and SIIA sought intervention in December 2002: Allowing them to appeal from the Tunney Act proceeding will not delay “adjudicat[ing] ... the rights of the original parties,” FED. R. CIV. P. 24(b), because the settling states’ decree requires Microsoft to conduct itself in the same manner as it must under the decree it entered into with the Government. See New York v. Microsoft Corp., 231 F.Supp.2d 203, 205-06 (D.D.C.2002). Nor will the parties be otherwise prejudiced by the intervenors’ appeal. CCIA and SIIA had already participated extensively in the proceedings before the district court by submitting public comments in response to the proposed consent decree, see Comments of CCIA (Jan. 28, 2002), 2 J.A. (I) at 455-598; Comments of SIIA (Jan. 28, 2002), 3 J.A. (I) at 990-1057, and appearing as amici in the hearing on the proposed decree, see 3/6/02 pm Tr. at 156-65, 3 J.A. (I) at 1536-45. Because the district court already confronted CCIA’s and SIIA’s arguments in rendering its decision, there is no reason to fear “issue proliferation,” “confusion,” “extra cost,” or “an increased risk of error,” see MSL, 118 F.3d at 782, if the associations are allowed to appeal the district court’s public-interest determination. Thus do the unusual procedural and substantive circumstances in this case converge to obviate any undue “delay or prejudice” that might otherwise have attended CCIA’s and SIIA’s appeal. Accordingly, we reverse the order of the district court denying intervention and permit CCIA and SIIA to intervene for the purpose of appealing the district court’s public-interest determination.19
+ 
+
+B. The Public Interest Finding
+[16] Under the Tunney Act, the district court’s “public interest” inquiry into the merits of the consent decree is a narrow one: The district court should withhold its approval of the decree “only if any of the terms appear ambiguous, if the enforcement mechanism is inadequate, if third parties will be positively injured, or if the decree otherwise makes a ‘mockery of judicial power.’ ” MSL, 118 F.3d at 783; see also United States v. Microsoft, 56 F.3d 1448, 1462 (D.C.Cir.1995) (Microsoft I). Such limited review is obviously appropriate for a consent decree entered into before a trial on the merits because the “court’s authority to review the decree depends entirely on the government’s exercising *1237 **190 its prosecutorial discretion by bringing a case in the first place.” Microsoft I, at 1459-60.
+ 
+[17] In a footnote CCIA and SIIA claim that in Microsoft I this court “suggested that the ‘mockery’ standard either does not apply or is met where, as here, a post-trial decree fails to comply with an existing ‘judicial mandate.’ ”20 (Emphasis in original.) Not surprisingly, however, we gave no consideration in Microsoft I to the standard we would apply to the district court’s review of a consent decree entered into after a trial on the merits because that case did not involve a post-trial consent decree. In any event, the Tunney Act does not distinguish between pre- and post-trial consent decrees; the Act simply requires the district court, “[b]efore entering any consent judgment” in a Government antitrust case, to “determine that the entry of such judgment is in the public interest.” 15 U.S.C. § 16(e).
+ 
+Moreover, if the district court approves a consent decree that “fails to comply” with our mandate, then the resulting consent decree surely does make a “mockery of judicial power”; hence, the “mockery” standard is no less appropriate merely because a consent decree is entered into after a trial on the merits. Finally, although the district court may not ignore the grounds upon which the defendant was held liable, neither should it reject a consent decree simply because it believes the Government could have negotiated a more exacting decree. Any settlement, even one negotiated after a trial on the merits, may reflect “a concession the government made in bargaining,” Microsoft I, at 1461, and yet be “within the reaches of the public interest.” Id. at 1458.
+ 
+In the unusual posture of this case, we review the district court’s public-interest determination not against the untested allegations of a complaint but rather against the findings of fact and conclusions of law entered by the district court and left undisturbed by our review in Microsoft III. This we do pursuant to the deferential standard we set out in MSL, 118 F.3d at 783.
+ 
+
+1. Issues overlapping Massachusetts’ case
+CCIA and SIIA raise several objections to the district court’s determination the consent decree is in the public interest. We addressed most of these issues in our disposition of Massachusetts’ appeal, and we shall avoid, to the extent possible, duplicating here the analysis in Part II. Some repetition is necessary, however, because the overlap between the cases is neither complete nor exact. Most important, the district court in the Commonwealth’s case was required to determine, in its broad discretion, the form of relief that would “best remedy the conduct ... found to be unlawful.” Microsoft III, at 105. For that purpose the district court had the benefit of the extensive factual record *1238 **191 compiled on remand per the instruction of this court. Id. at 103. In this Tunney Act case the court was charged not with fashioning its own remedy but with determining whether the consent decree agreed to by the Government and Microsoft is in the public interest. The district court’s decision was to be based not upon the record of an evidentiary hearing but rather upon the information generated by the settling parties in compliance with the Tunney Act, as well as the submissions of other interested parties and of the public.
+ 
+Despite the differences between the two proceedings, there was substantial overlap in both the legal and the factual issues presented. For instance, the public comments received in the Tunney Act proceedings raised several of the same issues the district court addressed in the States’ litigation over the remedy in their case.21 The overlap is further reflected in the similarity of the issues raised in CCIA’s and SIIA’s amicus brief in No. 02-7155 and the issues they raise in their briefs as intervenors in this case. With these similarities and differences in mind, we turn to the substance of CCIA’s and SIIA’s claims.
+ 
+a. Commingling
+[18] CCIA and SIIA first object to the consent decree on the ground it does not address our having held Microsoft’s commingling of IE and Windows code was anticompetitive and unlawful. They argue in this case, as they did as amici in No. 02-7155, that securing the “user’s ability to remove IE icons” is not an adequate remedy for Microsoft’s unlawful integration of IE and Windows because, from a software developer’s perspective, “the existence (or not) of a particular icon on a user’s desktop is immaterial.” They also disparage end-user access as an appropriate provision to address the applications barrier to entry.
+ 
+The Government and Microsoft argue the provisions of the decree permitting end-user access to non-Microsoft middleware, namely, §§ III.C and III.H, effectively address our concern about Microsoft’s integration of IE and Windows. Section III.C allows OEMs, among other things, to alter the configuration of the desktop, including “[i]nstalling[ ] and displaying icons” of non-Microsoft middleware, and § III.H permits OEMs and end users to invoke non-Microsoft middleware in place of Microsoft middleware.
+ 
+The district court accepted the view the Government espoused during the Tunney Act proceedings that the proper goal of the remedy is to avoid the anticompetitive effect, not necessarily to prohibit further instances, of commingling. U.S. Consent Decree, at 180-81. Indeed, the district court agreed with the Government that “it is not at all clear that the practice of commingling would be of antitrust concern” in the future. Id. at 180. In the past Microsoft’s commingling had prevented OEMs from removing IE, thereby deterring them “from installing a second browser because doing so increase[d] [their] product testing and support costs.” Microsoft III, at 66. Going forward, however, the decree allows OEMs to disable end-user access to IE, and thereby to avoid the costs of having to support both IE and a rival browser. As a result, OEMs are more likely to install a rival browser based upon market determinants, *1239 **192 such as consumer demand. In this way, the decree removes the disincentive facing software developers otherwise interested in writing programs to APIs exposed by rival middleware. See Part II.A.1.
+ 
+The Government reasonably predicted that OEMs’ new freedom to respond to market demand would enhance competition between Microsoft and other manufacturers of middleware. See U.S. Consent Decree, at 181; see also CIS at 29-33, 45-48, 1 J.A. (I) at 163-67, 179-82. Whether CCIA’s and SIIA’s proposed alternative, prohibiting any commingling of code, would strengthen further the ability of rival platforms to attract software developers is irrelevant; the question before us is whether the remedy approved by the district court is within the reaches of the public interest. A consent decree that addresses the disincentive software developers faced but does not altogether prohibit commingling — which would not be without its costs — surely qualifies.
+b. Java
+ 
+[19] CCIA and SIIA next argue the consent decree is not in the public interest because it does not address Microsoft’s efforts to prevent the emergence of Java as a competitor to Windows. Those efforts included the use of exclusive (so-called First Wave) agreements with ISVs; threatening Intel for its cooperation with Sun and Netscape in developing a Java runtime environment; and the deception of Java software developers discussed in Part II.A.2 above. See Microsoft III, at 74-78.
+ 
+The Government and Microsoft respond that §§ III.F and III.G of the consent decree address Microsoft’s attempts to exclude Sun’s Java technology from the market. Section III.F provides that Microsoft shall “not retaliate against any ISV or [Independent Hardware Vendor (IHV) ] ... [for] distributing, promoting or supporting any software that competes with Microsoft Platform Software [.]” Final Consent Decree, at *3. Section III.G prohibits Microsoft from entering into any agreement with an IAP, Internet Content Provider, ISV, IHV, or OEM to distribute, promote, use, or support Windows or Microsoft middleware exclusively. Id. at *4. The district court concluded that “§§ III.F and III.G not only prohibit the anticompetitive conduct identified by the appellate court with regard to ISVs, IAPs, and IHVs, but these provisions extend further, to address Microsoft’s conduct with other participants in the industry even though Microsoft’s dealings with these entities did not give rise to liability in this case.” U.S. Consent Decree, at 186.
+ 
+Despite their failure to offer more than conclusory assertions that the provisions of the consent decree addressing Microsoft’s exclusionary agreements and its retaliatory conduct are inadequate, CCIA and SIIA argue the absence of a requirement that Windows carry a Sun-compliant Java platform or, indeed, of any Java-specific remedy, “alone renders the settlement insufficient to satisfy the public interest.” CCIA and SIIA misapprehend the district court’s limited role under the Tunney Act in determining whether a consent decree is in the public interest. That court’s “function is not to determine whether the resulting array of rights and liabilities is the one that will best serve society, but only to confirm that the resulting settlement is within the reaches of the public interest.” Microsoft I, at 1460 (emphases in original). Although the district court cannot ignore this court’s liability holding in making its public-interest determination, neither can it be faulted for not insisting upon a provision that clearly is not required by our holding. See Part II.A.7.
+ 
+Nor did the Government ignore our liability holding in negotiating the decree. In its response to public comments the *1240 **193 Department of Justice explained its decision not to pursue the States’ proposed Java must-carry provision: “[I]t is not the proper role of the government to bless one competitor over others, or one potential middleware platform over others.” Response of the United States to Public Comments on the Revised Proposed Final Judgment (U.S. Response to Public Comments) ¶ 431, at 215 (Feb. 27, 2002), 3 J.A. (I) at 1349. The Government instead negotiated provisions — §§ III.F and III.G — that prohibit use of the First Wave Agreements and the various tactics Microsoft had used against Java and Intel. The district court therefore reasonably deferred to the Government’s rejection of the Java must-carry provision.
+c. Disclosure of APIs
+ 
+[20] CCIA and SIIA argue the consent decree will not prevent Microsoft from driving new middleware threats from the market. Because Microsoft is required to disclose only APIs used by Microsoft Middleware to interoperate with Windows, they claim Microsoft’s competitors can “never offer middleware for use on Windows that does more than comparable Microsoft middleware.”22 The Government responds that such disclosure nonetheless prevents rival middleware “from being ‘disadvantaged by comparison to Microsoft’s middleware technology’ ... by insuring that non-Microsoft middleware can use the same APIs as the Microsoft middleware with which it competes,” quoting U.S. Consent Decree, at 187. According to the Government, that disadvantage, which had prevented rival middleware from posing a platform threat to Windows, was the focus of its case for liability.
+ 
+Like Massachusetts, CCIA and SIIA would have us overlook the district court’s findings of fact — crucial to holding Microsoft had stifled competition — documenting the threat posed by Netscape and Java, both of which relied only upon the more limited set of APIs Microsoft then disclosed. See Findings of Fact, at 28-30; see also U.S. Response to Public Comments ¶ 280, at 141, 3 J.A. (I) at 1275 (1994 development of Mosaic, a non-Microsoft Web browser, did not rely upon APIs used by IE because IE did not then exist). Moreover, the district court correctly recognized Microsoft’s financial incentive — noted during the settlement proceedings both by Microsoft and by the Government — to make its APIs available to software developers. U.S. Consent Decree, at 189; see also Part II.A.3.a above. It was therefore appropriate for the district court to approve the decree without requiring the expansive disclosure sought by CCIA and SIIA.
+ 
+CCIA and SIIA also note (actually, they footnote) that the decree, particularly the API disclosure provision, focuses only upon interoperability with Windows and “does not make Windows API specifications available to direct ... competitors” in the market for operating systems, nor does it require Microsoft to disclose “API specifications” for Microsoft middleware that exposes APIs. The intervenors argue the lack of such disclosure “will only increase the applications barrier and reinforce the Windows monopoly by remaining Microsoft-centric.” The Government responds that the disclosure of API specifications demanded by CCIA and SIIA is unrelated to the theory of liability in this case. Microsoft echoes the Government in claiming its violation of the antitrust laws did not involve practices directed at the developers of rival operating systems but *1241 **194 rather conduct directed at rival middleware, such as Netscape Navigator.
+ 
+Although CCIA’s and SIIA’s argument is insufficiently developed to constitute a serious challenge to the district court’s approval of the consent decree, see Hutchins v. District of Columbia, 188 F.3d 531, 539 n. 3 (D.C.Cir.1999) (“We need not consider cursory arguments made only in a footnote”), we note the Government considered concerns similar to those raised by CCIA and SIIA and rejected the sort of broad disclosure they seek. See, e.g., U.S. Response to Public Comments, at 142-43, 148, 3 J.A. (I) at 1276-77, 1282. The district court likewise considered various criticisms of the extent of disclosure required by § III.D and reasonably concluded they did not require it to disapprove that provision. See U.S. Consent Decree, at 187-89.
+ 
+In sum, CCIA and SIIA neither point to any defects in the district court’s reasons for approving the disclosure required by the consent decree, nor do they raise any other concern not already addressed above in Part II.A.3. We conclude, therefore, the district court reasonably held the degree of API disclosure required by the consent decree is consonant with the public interest.
+d. Adequacy of definitions
+ 
+[21] CCIA and SIIA argue the consent decree is not in the public interest because it fails to define terms “critical to its enforceability.” Specifically, they complain the definitions of “Windows Operating System Product” and “Microsoft Middleware” are vague, and they object to the absence of a definition of “server operating system product” and of “interoperate.” Here they remind us the district court, in considering a proposed consent decree, “should pay special attention to the decree’s clarity,” Microsoft I, at 1461, and should withhold its approval “if any of the terms appear ambiguous.” MSL, 118 F.3d at 783. The intervenors seek a greater degree of precision lest Microsoft itself be able to dictate which middleware is covered by the decree. Ultimately they are concerned with the disclosure of APIs required by § III.D, the extent to which communications protocols are covered by § III.E, and interoperability.
+ 
+The district court specifically addressed various criticisms of the precision with which the consent decree was drafted. For instance, it rejected as unfounded the concern that Microsoft could falsely identify as part of Windows the software code of a separate middleware product and thereby avoid disclosing the APIs exposed by that product. That concern appears to have arisen out of the last sentence of the definition of “Windows Operating System Product,” which states, “The software code that comprises a Windows Operating System Product shall be determined by Microsoft in its sole discretion.” Final Consent Decree § VI.U, at *15. The district court explained that the terms Windows Operating System Product and Microsoft Middleware Product — the latter of which is nested in the definition of Microsoft Middleware, and where it helps define Microsoft’s obligation to disclose APIs — are not mutually exclusive: “Software code can simultaneously fall within both.” U.S. Consent Decree, at 166. Therefore, Microsoft cannot avoid its disclosure obligation merely by deeming particular software code a part of Windows; if that code likewise has the functionality of a Microsoft Middleware Product, then it will be treated as such for the purpose of disclosure under § III.D. Therefore, Microsoft’s obligation under that section is unaffected by its ability to determine which software code is part of Windows. Accord U.S. Response to Public Comments ¶¶ 121, 122, at 65-66, 3 J.A. (I) at 1199-1200.
+ 
+*1242 **195 CCIA’s and SIIA’s complaint that the decree leaves undefined the terms “interoperate” and “server operating system product” is not a source of concern to the court. The intervenors suggest Microsoft may determine unilaterally what the former term means, but this, of course, overlooks the district court’s retention of jurisdiction to interpret and to enforce the decree. Final Consent Decree, at *16. Moreover, the district court explained how the undefined term “interoperate” is used in §§ III.D and III.E. See U.S. Consent Decree, at 190-92, see also Part II.A.3 above. We find nothing in CCIA’s and SIIA’s arguments that requires additional comment upon that term or, more broadly, upon the adequacy of the disclosures required by the consent decree.
+ 
+As for the term “server operating system product,” which is found in § III.E of the decree, CCIA and SIIA argue the absence of a definition leaves Microsoft’s disclosure obligation indeterminate. As Microsoft correctly points out, however, the Government addressed this same concern in its response to public comments, stating the coverage of Microsoft servers was “broaden[ed]” in the decree to include not only the “Windows 2000 Server” but also other server products such as the “Windows 2000 Datacenter Server” and the “Windows 2000 Advanced Server.” U.S. Response to Public Comments ¶ 318, at 159-60, 3 J.A. (I) at 1293-94. Not only did the Government insist upon expanding the range of servers covered under the decree by including a term left intentionally undefined, but the district court viewed § III.E as “forward-looking” and capable of addressing the “rapidly growing server segment of the market.” U.S. Consent Decree, at 189. CCIA and SIIA offer no reason to think the district court would construe the term “server operating system product” narrowly, and thus narrow the disclosure required under § III.E. Rather, in this instance the absence of a definition is more likely to broaden than to narrow the range of server operating systems to which the decree applies.
+ 
+The district court has a continuing responsibility for interpretation of the consent decree, and it is “entitled to insist on that degree of precision concerning the resolution of known issues as to make [its] task, in resolving disputes, reasonably manageable.” Microsoft I, at 1461-62. The consent decree is not ambiguous in the sense disallowed in MSL merely because it contains words that are not defined therein, or because the intervenors think certain words could be defined differently or with greater specificity. We do not find in the decree the kind of glaring ambiguities that might call into question the wisdom of the district court’s having affixed its imprimatur. In sum, CCIA and SIIA offer no convincing reason the decree will not be construed so as to serve the public interest. We therefore hold the district court did not err in approving it.
+e. “Fruits”
+ 
+CCIA and SIIA lodge several broad objections to the district court’s approval of a consent decree they claim fails to “terminate the illegal monopoly” or deprive Microsoft of the fruits of its violations. In their view the decree should include several of the remedies the district court rejected in the States’ case, such as requiring Microsoft to “disentangle” its browser from its operating system code and imposing “more robust API and disclosure obligations requiring the ‘open source’ distribution of IE code.” CCIA and SIIA do not make any arguments with respect to these proposals that we have not already addressed in connection with the district court’s decision in the States’ litigation. The intervenors also make a passing reference to the desirability of requiring Microsoft *1243 **196 to sell the right to “port” Microsoft Office to other operating system platforms. But they do not discuss the merits of such a provision, wherefore neither do we.
+ 
+Finally, we pause to mention that CCIA’s and SIIA’s discussion of the “fruits” of Microsoft’s unlawful conduct is misdirected (as was that of Massachusetts): As we explained in Part II.B.1, depriving an antitrust violator of the fruits of its violation does not entail conferring a correlative benefit upon the particular competitor harmed by the violation. Rather, as the Government explained in its response to public comments:
+[T]he key to the proper remedy in this case is to end Microsoft’s restrictions on potentially threatening middleware, prevent it from hampering similar nascent threats in the future, and restore the competitive conditions created by similar middleware threats. In this context, the fruit of Microsoft’s unlawful conduct was Microsoft’s elimination of the ability of potentially threatening middleware to undermine the applications barrier to entry.... The [proposed judgment] addresses and remedies precisely this issue.
+U.S. Response to Public Comments ¶ 17, at 9, 3 J.A. (I) at 1143. Just so.
+ 
+
+2. Non-overlapping issues
+CCIA and SIIA also raise issues that are either specific to the consent decree or that Massachusetts did not raise.
+a. Enforcement
+ 
+[22] Section IV of the consent decree deals with compliance and enforcement. The Government and the settling states “have exclusive responsibility for enforcing the decree.” Final Consent Decree § IV.A.1, at *7. They have broad investigative powers, including, among other things, assured “access ... to inspect any and all source code” and to interview Microsoft’s employees and officers about matters contained in the decree. Id. § IV.A.2. Section IV also sets up a three-member “Technical Committee” of “experts in software design and programming” to assist in enforcement of and compliance with the decree. Id. § IV.B.1, at *8. The Committee has “the power and authority to monitor Microsoft’s compliance with its obligations” under the decree. Id. § IV.B.8.a, at *9. As the district court explained, “the committee is answerable to the government,” U.S. Consent Decree, at 197; for instance, it must report in writing every six months “the actions it has undertaken in performing its duties pursuant to [the decree], including the identification of each business practice reviewed and any recommendations made by the [Committee].” Final Consent Decree § IV.B.8.e, at *10. The Committee also has an independent reporting obligation “when [it] has reason to believe that there may have been a failure by Microsoft to comply with any term” of the decree. Id. § IV.B.8.f. As the district court pointed out, however, “Notwithstanding all of the procedures in place with regard to the Technical Committee, ultimately the power to enforce the terms of the decree rests with the government.” U.S. Consent Decree, at 198.
+ 
+CCIA and SIIA object to the role of the “Technical Committee” and the adequacy of the enforcement provisions. They argue the Committee’s enforcement role is illusory because the decree gives Microsoft and the Government “equal say in the Committee’s membership”; the members lack legal expertise; its means for collecting and processing third-party complaints are inadequate; and the Committee’s findings or recommendations may not be used in proceedings before the district court.
+ 
+Although the district court must withhold approval of a consent decree if “the enforcement mechanism is inadequate,” *1244 **197 MSL, 118 F.3d at 783, CCIA’s and SIIA’s arguments to that effect are unpersuasive. The Government addressed similar criticisms in its response to public comments. It explained there that a primary purpose of the Committee is to
+facilitate the resolution of potentially complex and technologically nuanced disputes between Microsoft and others over the practical workings of the [decree]. The [Committee] is not intended to have independent enforcement authority; that authority remains with the Plaintiffs and the Court.
+U.S. Response to Comments ¶ 386, at 190, 3 J.A. (I) at 1324. This was the district court’s understanding as well: “[T]he Technical Committee is not intended as a substitute for the enforcement authority of the United States.” U.S. Consent Decree, at 199.
+ 
+The intervenors do not explain why they think the design of the Committee is ill-suited to its structural purpose. The Committee is to play a leading role in providing technical competence to the Government in its enforcement of the decree — a perfectly sensible division of labor — and, we note, nothing in the decree precludes the Committee from enlisting expertise beyond its own membership. See, e.g., U.S. Response to Public Comments ¶ 387, at 191, 3 J.A. (I) at 1325 (the Committee “can and should have available to it expertise broader than purely technical matters”). In sum, CCIA and SIIA offer no basis for doubting the ability of the Committee to inform and assist the Government in its enforcement efforts.
+ 
+CCIA’s and SIIA’s criticisms of the process for collecting third-party complaints and of the inadmissibility of the Committee’s findings in proceedings before the court seem entirely misconceived. They complain that “the most that can happen” when a meritorious third-party complaint is received by the Committee is that the Committee “shall advise Microsoft and the Plaintiffs of its conclusion and its proposal for cure.” See Final Consent Decree § IV.D.4.c, at *12. Having no reason to believe the plaintiffs will not pursue Microsoft on a valid complaint, into court if necessary, we agree with the district court that the decree provides for an appropriate method of receiving and of acting upon third-party complaints. Moreover, as the district court correctly noted, “third-party concerns cannot supplant the ultimate enforcement role of the government, nor should third-party complaints burden mechanisms established for the government’s and ultimately the Court’s benefit.” U.S. Consent Decree, at 199.
+ 
+The limitation the decree places upon the use of the Committee’s findings is also appropriate considering its purpose: “[B]y ensuring that Microsoft’s and third parties’ communications will not be used directly against Microsoft, the [Committee] will benefit from heightened candor and information disclosure by Microsoft employees and others.” U.S. Response to Public Comments ¶ 385, at 190, 3 J.A. (I) at 1324. In addition, as the district court explained:
+The limitation on the use of Technical Committee work product does not preclude the government from “utilizing, relying on, or making derivative use of the [Technical Committee’s] work product” in conjunction with its own enforcement activities, ... nor does the provision preclude Plaintiffs from obtaining Microsoft documents from the committee for use in ... enforcement proceedings.
+U.S. Consent Decree, at 200.
+ 
+Thus, viewed in context, the Government’s ability to enforce the decree is clearly strengthened, not diminished, by the existence and composition of the Technical Committee.
+*1245 **198 b. User interface
+ 
+CCIA and SIIA next object to two provisions in the consent decree they claim “limit what competitor products [can] do,” namely: § III.C.3, which provides that rival middleware may be launched automatically at the conclusion of the initial boot sequence or upon connection to or disconnection from the internet, but only if a Microsoft Middleware Product provides similar functionality and the rival middleware displays either no user interface or a user interface similar in size and shape to that of the corresponding Microsoft Middleware Product; and § III.C.5, which allows an OEM to “[p]resent[ ] in the initial boot sequence its own IAP offer provided that the OEM complies with reasonable technical specifications established by Microsoft.” The intervenors express concern that Microsoft may attempt to “limit middleware competition only to the circumstances in which its own products launch,” and that it may establish technical specifications that limit the capabilities of competing software and thus inhibit competition from non-Microsoft middleware.
+ 
+These objections are moot because the limitations on the relief provided in §§ III.C.3 and III.C.5 of the consent decree are not included in the States’ remedial decree; therefore, Microsoft may not implement or enforce them. The States’ remedial decree allows Microsoft to restrict the launch of non-Microsoft middleware only if it would “drastically alter” the user interface; it does not limit automatic launches to situations in which a Microsoft Middleware Product provides similar functionality. Compare States’ Remedy § III.C.3, at 268, with Final Consent Decree § III.C.3, at *2. Nor does the remedial decree require an OEM to comply with Microsoft’s “reasonable technical specifications” in order to present an IAP offer in the initial boot sequence. Compare States’ Remedy § III.C.5, at 268, with Final Consent Decree § III.C.5, at *3.
+ 
+At oral argument when the court suggested the intervenors’ challenge to §§ III.C.3 and III.C.5 had been rendered moot by the judgment in States’ Remedy, counsel demurred only to the extent of stating that, “if a state settled with Microsoft, the only thing that would be available would be the decree in this case.” But that is not correct. If CCIA and SIIA cannot convince even one of the states that is a party to that case to take up their cause, then the complainant may itself bring the alleged violation to the attention of the district court, which retained jurisdiction specifically so it “may act sua sponte to issue further orders or directions” to enforce the judgment or to punish violations thereof. States’ Remedy, at 277. In any event, it is speculative at best to suggest the States will not be vigilant and energetic in the pursuit of anything Microsoft may do in violation of the remedial decree.23
+ 
+We therefore conclude the intervenors’ complaint that Microsoft might attempt to manipulate the user interface has been mooted by the judgment in States’ Remedy.
+c. Anti-retaliation
+ 
+[23] CCIA and SIIA also argue (again in a footnote) the decree is inadequate to *1246 **199 prevent Microsoft from improperly terminating an OEM’s license. Section III.A forbids Microsoft from retaliating against an OEM for developing, distributing, promoting, using, selling, or licensing software that competes with Windows or with Microsoft middleware; shipping a personal computer with both Windows and a non-Microsoft operating system installed; or exercising any other option available to it under the consent decree. Final Consent Decree § III.A, at *1. If Microsoft moves for any legitimate reason to terminate an OEM’s license for Windows, then it must first give the OEM an opportunity to “cure” the reason for the proposed termination. Id. Microsoft may terminate an OEM’s license without giving it the opportunity to cure only if Microsoft has previously given the OEM two or more notices of proposed termination.
+ 
+The intervenors object only to the last-mentioned part of § III.A, on the ground it may serve as a way for Microsoft still to retaliate against OEMs, apparently because the terms of a Windows license are “inherently complex.” They claim “it would not be difficult to find an OEM in breach of multiple technical requirements,” thereby giving Microsoft a pretext for terminating the OEM’s license in apparent compliance with § III.A. They offer no details, however, and no example of how the “inherent[ ] complex[ity]” of the license may be used unfairly against a licensee that, by hypothesis, is “in breach of multiple technical requirements.” Their narrow focus also ignores both the overall effectiveness of § III.A and the severity of other prohibitions intended to prevent Microsoft’s manipulation of the decree. We conclude the district court therefore did not err in approving § III.A.
+ 
+
+C. Procedural Claims
+CCIA and SIIA also claim both the Government and Microsoft have failed to comply with various of the procedural requirements of the Tunney Act: (1) the Government failed to identify and explain “any unusual circumstances giving rise to [the decree],” as required by 15 U.S.C. § 16(b)(3); (2) the CIS does not provide a “description and evaluation of alternatives” to the decree, as required by 15 U.S.C. § 16(b)(6); (3) the CIS does not adequately disclose the documents the Government considered to be “determinative” in formulating its proposal, see id. § 16(b); and (4) Microsoft failed to satisfy its obligation under § 16(g) to disclose all communications it had with the “United States,” as that term is used in the Tunney Act. According to the intervenors, these alleged procedural defects “preclude a determination that the District Court engaged in the requisite ‘independent’ and ‘informed’ review of the consent decree.”
+ 
+Compliance with the procedural requirements of the Tunney Act ensures the district court has before it the information it needs in order to make an informed determination whether the decree is in the public interest. According to the Government, the district court should evaluate the parties’ discharge of their procedural obligations for substantial rather than for strict compliance, see United States v. Bechtel Corp., 648 F.2d 660, 664 (9th Cir.1981). As the Government correctly states, the district court’s evaluation “inherently involves judgment and discretion.” Therefore, the Government urges us to review the district court’s evaluation of the parties’ compliance only for abuse of discretion. Meanwhile, CCIA and SIIA argue for a less deferential standard, claiming the Government’s approach “assumes away the entire purpose of the disclosures.” We need not decide which standard to apply, however, because the district court was clearly correct in determining *1247 **200 both parties met the requirements of the Act.
+ 
+
+1. Government’s disclosure
+[24] CCIA and SIIA preface their objections to the Government’s disclosures in this case with the claim that even “technical and formalistic failures to comply” with the procedural requirements of the Tunney Act are grounds for denying entry of a proposed judgment. For this counter-intuitive proposition they cite United States v. Central Contracting Co., 527 F.Supp. 1101 (E.D.Va.1981), but not surprisingly the procedural facts of that case bear no resemblance to those of the present case: The defects in the Government’s compliance with the Act in Central Contracting were neither “technical” nor “formalistic”; rather, they frustrated the whole purpose of the Act. Indeed, the record was “devoid of any indication that any of the procedures [of the Tunney Act] other than the original filing had been complied with.” Id. at 1102. It appeared the Government had not even published the CIS and the proposed consent decree in the Federal Register and newspapers of general circulation, as specifically required by § 16(b). Id. at 1104. As seen below, no similarly material defects mar the Government’s disclosure here; Central Contracting is therefore no help to CCIA and SIIA in this case.
+ 
+The intervenors’ first objection to the Government’s disclosure is that the CIS does not provide “an explanation of any unusual circumstances giving rise” to the proposed judgment, as required by § 16(b)(3). Specifically, they complain the CIS failed to satisfy § 16(b)(3) because it did not include a discussion of the “unusual and perhaps unprecedented” circumstance that the consent decree was entered after a full trial on the merits and appellate review. The Government simply denies the alleged shortcoming.
+ 
+As an initial matter we acknowledge, as did the district court, the Government’s thorough discussion in the CIS of the substance of the consent decree. That document clearly reflects the Government’s extensive study of the likely effects of the consent decree, and its consideration of the more than 32,000 comments submitted by the public.
+ 
+CCIA’s and SIIA’s criticism of the Government’s disclosure is narrowly focused upon the “unusual circumstances” requirement of § 16(b)(3). Although the Government nowhere in the CIS characterized the proceedings in this case as “unusual,” it did explain fully the circumstances from which the consent decree arose, pointing out specifically that the parties settled only after this court had held that Microsoft violated § 2 of the Sherman Act. The Government also explained in the CIS that our holding in Microsoft III substantially narrowed the grounds upon which Microsoft had been held liable by the district court, see CIS at 7-8, 1 J.A. (I) at 142-43, wherefore:
+[The] provisions in the Proposed Final Judgment are modeled after [the interim conduct provisions of the final judgment entered in June 2000, see Remedy I], with modifications, additions and deletions that take into account the current and anticipated changes in the computer industry, as well as the decision of the Court of Appeals, which reversed certain of the District Court’s liability findings.
+Id. at 61-62, 1 J.A. (I) at 195-96. The Government’s discussion of this procedural context fully conveyed the “unusual” nature of the circumstances giving rise to the consent decree, as required by § 16(b)(3).
+ 
+CCIA and SIIA next argue “the CIS fails to provide a complete description of *1248 **201 the settlement’s conduct remedies or the requisite ‘evaluation of alternatives’ to the proposal submitted for approval.” See 15 U.S.C. § 16(b)(6). They also argue the Government’s “failure to explain its decision to adopt conduct remedies less stringent than the interim conduct relief entered by the previous district judge evidences an even greater statutory breach.” The Government defends the sufficiency of its disclosure and suggests the intervenors “misconceive the nature of the CIS, treating it as if it were an end in itself.” According to the Government, the “CIS begins a public dialog [sic], and as the [district] court pointed out, the volume and quality of the public comments it stimulated shows it accomplished its purpose,” citing Tunney Act Proceedings, at 13.
+ 
+The intervenors clearly do attribute to the Tunney Act more than the statute requires. Section 16(b)(6) calls only for “a description and evaluation of alternatives to such proposal actually considered by the United States.” It does not call for a “complete” description of all the Government’s options, as CCIA and SIIA claim, nor for any discussion of an alternative not “actually considered” by the Government. In this case the CIS set out the Government’s contemplation (and rejection) of its obvious alternative, namely, litigating to judgment the tying claim and the question of the remedy. The Government explained its decision to forego further litigation based upon “the need for prompt relief in a case in which illegal conduct has long gone unremedied; the strength of the parties’ respective positions in a remedies hearing and the uncertainties inherent in litigation; and the time and expense required for litigation of the remedy.” CIS at 60-61, 1 J.A. (I) at 194-95. The CIS also addresses the Government’s decision not to pursue a “structural break-up of Microsoft into separate operating system and applications businesses,” id. at 61, 1 J.A. (I) at 195, based upon both our decision narrowing Microsoft’s liability and the Government’s desire “to obtain prompt, certain and effective relief,” id.
+ 
+The CIS did set out the various proposals made by industry participants and other interested individuals. These include requirements that Microsoft “license the Windows source code to OEMs” and allow them to modify it and distribute the modified versions; “disclose the entire source code” for Windows and Microsoft middleware; include certain non-Microsoft middleware, such as the Java Virtual Machine, with its distribution of Windows; manufacture and distribute Windows without Microsoft middleware; continue to support industry standards upon adopting them or “extend[ing] or modif[ying] their implementation”; and waive its rights to intellectual property “in related APIs, communication interfaces and technical information” if the court finds Microsoft exercised such rights in order “to prevent, hinder, impair, or inhibit middleware from interoperating with the operating system or other middleware.” Id. at 62-63, 1 J.A. (I) at 19697. The Government rejected these proposals in part because, like the others contemplated in the CIS, they did not, in the Government’s estimation, provide the effective, certain, and timely relief afforded by the consent decree.
+ 
+The Government set out in the CIS all the realistic options it had in determining whether to enter into the consent decree with Microsoft. Even if the Government did not set out for each option the “complete evaluation” desired by CCIA and SIIA, it did fairly describe its options in a manner that informed public comment. That is what the Act requires and all that it requires. We therefore hold the district court did not err in approving the Government’s disclosure in the CIS.
+ 
+*1249 **202 Finally, CCIA and SIIA argue the Government failed to make available all “materials and documents which [it] considered determinative in formulating [the settlement] proposal.” See 15 U.S.C. § 16(b). In the CIS, the Government stated, “No materials and documents of the type described in [§ 16(b) of the Tunney Act] were considered in formulating the Proposed Final Judgment.” CIS at 68, 1 J.A. (I) at 202. The district court, relying upon our decision in MSL, concluded “[t]he record of this case supports the government’s position that there exists no document so significant that it could be considered alone, or in combination with other documents, to be a ‘smoking gun.’ ” Tunney Act Proceedings, at 12.
+ 
+The intervenors claim the Government’s statement that no documents were determinative cannot be accurate: “Even in antitrust cases that are not nearly as complex as this one, courts have found similar disclaimers ‘to be almost incredible,’ ” they say, quoting Central Contracting, 527 F.Supp. at 1104. As mentioned above, however, the record in Central Contracting was nearly “devoid” of any indication that either the Government or the defendant had complied with the procedures required by the Act. Id. at 1102. In that context it is not surprising the district court viewed a “silent record” as raising the “specter” of questionable practices the Tunney Act was intended to expose. Id. (citing 119 Cong. Rec. 24,598 (1973)). At any rate, this court has no basis for doubting the Government’s characterization of what “[it] considered determinative” in this case, particularly when one recalls that we have previously held § 16(b) reaches “at the most to documents that are either ‘smoking guns’ or the exculpatory opposite.” MSL, 118 F.3d at 784. On the contrary, given the complexity of this case, which involved thousands of documents, it is not at all surprising that the Government considered no particular “materials [or] documents” determinative.
+ 
+In sum, we are not persuaded by any of CCIA’s and SIIA’s objections to the Government’s compliance with the procedural requirements of the Tunney Act. We hold, therefore, the district court did not err in approving the Government’s compliance with § 16(b).
+ 
+
+2. Microsoft’s disclosure
+The Tunney Act requires the defendant to file with the district court “all written or oral communications by or on behalf of such defendant ... with any officer or employee of the United States concerning or relevant” to a proposed consent decree. 15 U.S.C. § 16(g). Microsoft first made the required disclosure under § 16(g) on December 10, 2001; it included communications from September 28, 2001 forward. At a hearing held in March 2002 the district court questioned whether § 16(g) required disclosure of contacts only as of the date the court ordered the parties to engage in settlement discussions — September 28, 2001 — or whether it extended back to the date this court remanded the case, namely, August 24, 2001. In response to the court’s concern, Microsoft disclosed one additional communication, a September 27 meeting of counsel for the parties, which was also attended by an employee of Microsoft in order “to provide a demonstration of Windows XP and to answer questions about its functionality.”
+ 
+Asserting “[i]t is widely known that since 1998 Microsoft has comprehensively lobbied both the legislative and executive branches of the federal government to end this case,” CCIA and SIIA first claim the Tunney Act requires that Microsoft disclose all those contacts. The district court, however, limited Microsoft’s obligation to disclosure of contacts the company had *1250 **203 with the Executive Branch, starting at the time this court remanded the case to the district court for further proceedings. Tunney Act Proceedings, at 20-21. We agree with that interpretation and application of the Act.
+ 
+Section 16(g), as mentioned above, required Microsoft to disclose its communications with “any officer or employee of the United States.” The question is whether that includes members or employees of the Legislative Branch. Reference is made to “United States” 18 times in the Tunney Act. See §§ 15 U.S.C. 16(b)-(h). In all 17 references other than the disputed one in § 16(g) the term plainly denotes only the Executive Branch. See, e.g., id. § 16(b) (“Any proposal for a consent judgment submitted by the United States for entry in any civil proceeding brought by or on behalf of the United States under the antitrust laws shall be filed with the district court ... and published by the United States in the Federal Register”). It is a commonplace of statutory construction that “identical words used in different parts of the same act are intended to have the same meaning.” See Comm’r of Internal Revenue v. Lundy, 516 U.S. 235, 250, 116 S.Ct. 647, 655, 133 L.Ed.2d 611 (1996). CCIA and SIIA offer no reason to believe the reference in § 16(g) to communications between Microsoft and “any officer or employee of the United States” uniquely extends the latter term beyond the Executive Branch. Moreover, because only the Executive Branch can settle an antitrust case, only contacts with the Executive Branch are relevant to the purpose of the Tunney Act — namely, to block settlements that are not in the public interest. We therefore conclude, as did the district court, the term “United States” as used in § 16(g) refers only to the Executive Branch.
+ 
+The intervenors also object to Microsoft’s having disclosed “only meetings that occurred during the last round of settlement negotiations ordered by the Court.” Microsoft responds:
+[T]he Consent Decree was a direct outgrowth of the intense settlement discussions ordered by the District Court [on remand]. Any [settlement] discussions occurring prior to that time period did not concern and were not relevant to the Consent Decree ultimately agreed to by the parties.... Previous failed settlement discussions are irrelevant to the Consent Decree, which focuses on remedying the liability determinations affirmed on appeal.
+We agree. The parties’ relative positions were considerably changed by our decision in Microsoft III. Therefore the only communications “concerning or relevant” to the consent decree are those that took place after our remand to the district court. See 15 U.S.C. § 16(g).
+ 
+CCIA and SIIA offer no persuasive reason to believe Microsoft’s disclosures do not comply with § 16(g). Those disclosures fully informed the district court of the communications relevant to the district court’s public-interest determination, and that court did not err in approving them.
+ 
+
+IV. Conclusion
+The remedial order of the district court in No. 02-7155 is affirmed. In No. 03-5030, the order denying intervention is reversed and the order approving the consent decree in the public interest is affirmed.
+ 
+So ordered.
+ 
+All Citations
+373 F.3d 1199, 362 U.S.App.D.C. 152, 2004-1 Trade Cases P 74,468
+Footnotes
+
+1
+
+The district court also held the “public interest” standard made applicable to the Government’s case by the Tunney Act should be applied to the settlement between the settling states and Microsoft in order to meet the generally applicable requirement of circuit law that any consent decree “fairly and reasonably resolve[ ] the controversy in a manner consistent with the public interest.” New York v. Microsoft Corp., 231 F.Supp.2d 203, 205 (D.D.C.2002) (citing Citizens for a Better Env’t v. Gorsuch, 718 F.2d 1117, 1126 (D.C.Cir.1983)). The district court’s public-interest determination in the settling states’ case is not at issue in the current appeals.
+
+2
+
+The States presented the testimony of thirteen fact witnesses: Peter Ashkin, James Barksdale, John Borthwick, Anthony Fama, Richard Green, Mitchell Kertzman, Dr. Carl Ledbetter, Michael Mace, Steven McGeady, Larry Pearson, David Richards, Jonathan Schwartz, and Michael Tiemann; and of two expert witnesses: Dr. Andrew Appel and Dr. Carl Shapiro. Microsoft presented the testimony of fifteen fact witnesses: Dr. James Allchin, Linda Wolfe Averett, Scott Borduin, David Cole, Heather Davisson, Brent Frei, William Gates III, James Thomas Greene, Chris Hofstader, Christopher Jones, Will Poole, W.J. Sanders III, Robert Short, Gregg Sutherland, and Richard Ulmer; and of four experts: Dr. John Bennett, Dr. Kenneth Elzinga, Dr. Stuart Madnick, and Dr. Kevin Murphy.
+
+3
+
+As we explained in Microsoft III, the term “middleware” refers to software products that expose their “Applications Programming Interfaces,” upon which software developers rely in writing applications. 253 F.3d at 53; see also Findings of Fact ¶ 28, at 17. The middleware at issue in Microsoft III was primarily web-browsing software. The district court’s remedy in this case, however, covers a far broader array of middleware. Accordingly, the district court was at pains to define Microsoft’s middleware and that of its rivals. See States’ Remedy §§ VI.J, VI.K, VI.M, VI.N, at 275-76. We need not here recount the district court’s extensive treatment of those definitions, see States’ Remedy, at 112-21, but the definitions are discussed as needed below.
+
+4
+
+Massachusetts also argues the district court erred insofar as it rejected the States’ proposal because the proposal did not provide adequate guidance for determining which code constitutes Microsoft middleware and was otherwise too difficult technically. The district court’s findings, however, discussed in part at the outset of this section, fully support its reasons for rejecting the States’ unbinding remedy. See States’ Remedy, 245-52; see also id. at 255.
+
+5
+
+See also Madnick ¶ 197, 5 J.A. (II) at 2899 (“To the extent that licensees used the non-settling States’ remedies to create multiple versions of Windows with differing combinations of APIs, applications developers and consumers would lose one of the greatest benefits of Windows — a platform for applications that supports new functionality while providing backward compatibility for most existing applications”).
+
+6
+
+For example, the court found that ISVs would “fare worst” under the proposal because they “would not have any assurance that a particular functionality was present in any given configuration of the new unbound Windows [which,] at least in the short term ... would likely cause existing applications to fail. [In the longer run there is the risk that] software code distributed with one ISV’s application would conflict with that distributed with another ISV’s application, leading to the so-called ‘DLL Hell’ problem that results when multiple versions of the same basic components try to coexist on a single PC.” States’ Remedy, at 253-54.
+
+7
+
+See 4/24/02 pm Tr. at 4988-89 (Gates trial testimony), 6 J.A. (II) at 3141-42; see also Direct Testimony of Dr. Andrew Appel ¶ 145, 2 J.A. (II) at 1303-04 (stating Microsoft has ability to mislead third parties with respect to standards, but giving neither instances nor any indication of likelihood of such conduct).
+
+8
+
+E.g., Direct Testimony of Dr. Kevin Murphy ¶ 176, 5 J.A. (II) at 2648 (“the definition of ‘Middleware’ includes some products that pose no apparent (even nascent) threat to the operating system”); Elzinga ¶ 135, id. at 2754 (“particularly implausible that an email client (such as Outlook Express) or instant messaging software (such as Windows Messenger) will become a platform threat”).
+
+9
+
+Massachusetts also argues the district court abused its discretion by refusing to define Microsoft’s Common Language Runtime (CLR) as a Microsoft Middleware Product and hence subject to the API-disclosure requirement of § III.D. The district court described the CLR as middleware similar to Java but a part of Microsoft’s new “.NET framework,” a Web-services initiative comprising “server-based applications that can be accessed directly by other software programs, as well as by the consumer through a variety of devices, including the PC, cellular phone, and handheld device.” States’ Remedy, at 126; see also Borduin ¶ 80, 2 J.A. (II) at 1333 (explaining importance of CLR in .NET initiative). As discussed in Part II.A.4 below, the district court refused to address Web services in the remedial decree, stating that “this case cannot be used as a vehicle by which to fight every potential future violation of the antitrust laws by Microsoft envisioned by Microsoft’s competitors.” States’ Remedy, at 133. Just so, and the district court therefore did not abuse its discretion by refusing to list the CLR along with the other functionalities specified in the definition of Microsoft Middleware Product. See id. at 275. Because Microsoft’s Web-services initiative and Microsoft Middleware are not mutually exclusive categories, however, the CLR may yet become subject to the disclosure requirement of § III.D if it satisfies the definition of Microsoft Middleware in the decree, see States’ Remedy § VI.J, at 275. That definition requires, among other things, the middleware to be “distribute[d] separately” from Windows; according to Microsoft’s counsel at oral argument, there is record evidence that has already occurred.
+
+10
+
+See, e.g., States’ Remedy, at 227 (citing 5/10/02 pm Tr. at 7111-12 (Bennett trial testimony), 6 J.A. (II) at 3596 (“Well, if you read [the definition of Interoperate], it says: Effectively, access, utilize and/or support the full features and functionality of one another. That, to me, taken in its entirety ... means the ability to clone.”)).
+
+11
+
+See, e.g., States’ Remedy, at 229 (citing Gates ¶¶ 289-90, 8 J.A. (II) at 4770-71 (“Once provided with the equivalent of the blueprints for Windows, competitors ... would have little trouble writing their own implementation of everything valuable that Windows provides today, including the capabilities it provides to developers via APIs”)).
+
+12
+
+In a footnote to its argument concerning the disclosure of communications protocols, Massachusetts asserts the district court clearly erred in suggesting the States’ proposed definition could lead to cloning, for which assertion it cites the opinion of Dr. Appel that “the States’ Remedy does not allow such copying,” ¶ 99, 2 J.A. (II) at 1284; see also ¶ ¶ 100-07, id. at 1284-88. This testimony, although contrary to the district court’s finding that the States’ broad definition of interoperation could lead to cloning, is hardly sufficient for us to conclude the district court’s finding is clearly erroneous. See Microsoft III, at 66 (“In view of the contradictory testimony in the record, some of which supports the District Court’s finding ..., we cannot conclude that the finding was clearly erroneous”).
+
+13
+
+See States’ Remedy, at 235; see also 5/2/02 pm Tr. at 6128 (Poole trial testimony) (stating in response to question whether he knew “exactly” which APIs Microsoft is obliged to disclose under § III.D: “Yes. We know how to look for the list of points they [sic] make their interfaces, associated call back interfaces, et cetera, and ensure that we are in compliance relative to the code that we separately distribute.”).
+
+14
+
+For instance, one developer requested disclosure of certain “complicated interfaces” that Microsoft “had not anticipated” software developers needing. 3/26/02 pm Tr. at 1452-53 (trial testimony of Steven McGeady), 6 J.A. (II) at 3375-76; see also 3/20/02 pm at Tr. at 732-35 (trial testimony of David Richards of RealNetworks), id. at 3404-05 (requesting further disclosure of technical information and APIs); Direct Testimony of David Richards ¶ 65 & n. 11, 2 J.A. (II) at 1081-83 (same); Direct Testimony of Richard Green ¶ 161, id. at 982 (same). Massachusetts also cites testimony concluding the depth of Microsoft’s disclosure obligation is “not clear.” E.g., Richards ¶ 90, id. at 1099-1100.
+
+15
+
+Examples of native communication include “basic Internet protocols like Transmission Control Protocol/Internet Protocol (‘TCP/IP’), HyperText Transfer Protocol (‘HTTP’) and File Transfer Protocol (‘FTP’), all of which are supported natively in both Windows clients and non-Microsoft servers.” See Short ¶ 36, 6 J.A. (II) at 3535-36.
+
+16
+
+See, e.g., 5/10/02 pm Tr. at 7110 (Bennett trial testimony), 6 J.A. (II) at 3596 (explaining required disclosure as portion of continuum or spectrum of interoperability that allows “two programs [to] exchange and make effective use of each other’s data”).
+
+17
+
+Although Massachusetts does not mention it, the States’ proposal would have done just that, see SPR § C, 6 J.A. (II) at 3172; see also SPR § 4, id. at 3172-73, extending Microsoft’s disclosure obligation to interoperability with respect to, among others, “Handheld Computing Devices” — a term defined in the SPR to include “cellular telephone[s], personal digital assistant[s], and Pocket PC[s],” SPR § 22.k, id. at 3194.
+
+18
+
+As an economic matter, of course, the source of the threat to Microsoft’s monopoly of the market for Intel-compatible PC operating systems, whether it be rival middleware or rival operating systems, is not important. In remedying Microsoft’s violations of the antitrust laws, however, it was reasonable for the district court to focus upon the restoration of competitive conditions facing makers of rival middleware rather than lending a hand to makers of rival operating systems; it was middleware with the potential to create a platform threat, not rival operating systems, against which Microsoft acted unlawfully. Findings of Fact, at 28-30.
+
+19
+
+The Government and Microsoft claim CCIA and SIIA may not intervene because they did not include with their motion to intervene “a pleading setting forth the claim or defense for which intervention is sought.” FED. R. CIV. P. 24(c). Neither the Government nor Microsoft explains what type of pleading the would-be intervenors could have filed in a case such as this, where a judgment had already been rendered. In any event, “procedural defects in connection with intervention motions should generally be excused by a court.” McCarthy v. Kleindienst, 741 F.2d 1406, 1416 (D.C.Cir.1984). The Government acknowledged as much at oral argument, stating, “this Court and other courts have not be[en] hypertechnical, actually, in making sure that ... potential intervenors do file a pleading.” The Government and Microsoft make no claim they had inadequate notice of the intervenors’ appeal, and we find no reason to bar intervention based solely upon this technical defect, if defect it be.
+
+20
+
+We are at something of a loss to understand the appellants’ allusion; the phrase “judicial mandate” appears in Microsoft I only in some legislative history quoted in support of this court’s statement that there were no cases prior to the Tunney Act in which “an appellate court had approved a trial court’s rejection of a consent decree as outside the public interest.” 56 F.3d at 1458 (citing Antitrust Procedures and Penalties Act: Hearings on S.782 and S.1088 Before the Subcomm. on Antitrust and Monopolies of the Senate Comm. on the Judiciary, 93d Cong., 1st Sess. 92 (1973) (Statement of Thomas E. Kauper, Assistant Attorney General, Antitrust Div., Dep’t of Justice) (“Except in cases where a previous judicial mandate is involved and the consent decree fails to comply with that mandate, or where there is a showing of bad faith or malfeasance, the courts have allowed a wide range of prosecutorial discretion”)).
+
+21
+
+See, e.g., Comments of CCIA, 2 J.A. (I) at 455-598; Comments of SIIA, 3 J.A. (I) at 990-1057; see also Comments of Robert Litan, Roger Noll & William Nordhaus (Jan. 17, 2002), 1 J.A. (I) at 208-84; Comments of Am. Antitrust Inst. (Jan. 24, 2002), id. at 285-328; Comments of AOL Time Warner (Jan. 28, 2002), id. at 329-426; Comments of Project to Promote Competition & Innovation in the Digital Age (Jan. 28, 2002), 2 J.A. (I) at 650-813; Comments of SBC Communications Inc. (Jan. 28, 2002), id. at 814-989.
+
+22
+
+They also point to provisions allowing Microsoft to prohibit certain modifications of the user interface, a matter we take up in Part III.B.2.b, below.
+
+23
+
+Indeed, the plaintiff states have set up a web site “established for coordinated state enforcement of federal court judgments against the Microsoft Corporation for Microsoft’s unlawful monopoly conduct.” Coordinated State Enforcement of Microsoft Antitrust Judgments, at http://www.microsoft-antitrust.gov. The site includes “an on-line complaint form that may be used by the public to report suspected violations of the judgments.” Id.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

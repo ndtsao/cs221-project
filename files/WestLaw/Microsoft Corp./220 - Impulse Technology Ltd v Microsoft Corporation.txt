@@ -1,0 +1,310 @@
+
+
+ 
+
+
+Impulse Technology Ltd. v. Microsoft Corporation
+United States Court of Appeals, Federal Circuit. | December 7, 2016 | 665 Fed.Appx. 872 | 2016 WL 7118533
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Impulse Tech. Ltd. v. Microsoft Corp., 665 F. App’x 872 (Fed. Cir. 2016)
+
+All Citations:
+
+665 Fed.Appx. 872
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Delaware
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+665 Fed.Appx. 872
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+IMPULSE TECHNOLOGY LTD., Plaintiff-Appellant
+v.
+MICROSOFT CORPORATION, Electronic Arts Inc., Ubisoft, Inc., Defendants-Appellees
+THQ, Inc., Konami Digital Entertainment, Inc., Defendants
+2016-1015
+|
+Decided: December 7, 2016
+Synopsis
+Background: Patentee brought action against competitor, alleging infringement of patents directed to use of three-dimensional motion tracking for interactive fitness and gaming applications. The United States District Court for the District of Delaware, Richard G. Andrews, J., 2015 WL 5568616, granted competitor’s motion for summary judgment of noninfringement of 14 of 15 asserted claims, after adopting the report and recommendation of Christopher J. Burke, United States Magistrate Judge, 2015 WL 5675569, who also issued report and recommendation construing patent claims, 2013 WL 2020055. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Lourie, Circuit Judge, held that:
+ 
+[1] phrase “prior to the adaptation of the testing and training system” meant prior to game play;
+ 
+[2] phrase “defined physical space” had to be known prior to adaptation of system and defined independently of sensor viewing area;
+ 
+[3] phrase “defined physical space” had to be defined independently of sensor viewing area;
+ 
+[4] phrase “defined physical space” required both size and location of any boundaries that exist to be known prior to adaptation of system;
+ 
+[5] hardcoded values of accused gaming products did not literally meet “defined physical space” claim limitation in patent that required both size and location of any boundaries that exist to be known prior to adaptation of system; and
+ 
+[6] accused hardcoded values that were abstract, mathematical constructs coding for physical space that was known only after adaptation of system was not equivalent of claimed “defined physical space” limitation of what was known prior to adaptation of system, and thus did not infringe patent.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (7)
+
+
+[1]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+
+
+Phrase, “prior to the adaptation of the testing and training system,” in patent directed to use of three-dimensional motion tracking for interactive fitness and gaming applications, meant prior to game play, since relevant time point was when sensor began to track movement of user, i.e., during game play.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+
+
+Phrase, “defined physical space,” in patent directed to use of three-dimensional motion tracking for interactive fitness and gaming applications, had to be known prior to adaptation of system and defined independently of sensor viewing area, since, among other things, written description explained that physical space “may be any available area, indoors or outdoors [o]f sufficient size to allow the player to undertake the movements” and that “the system may be adaptable to physical spaces of various sizes.”
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+
+
+Phrase, “defined physical space,” in patent directed to use of three-dimensional motion tracking for interactive fitness and gaming applications, had to be defined independently of sensor viewing area; written description described sensor viewing area, i.e., “tracking volume,” and “defined physical space” using different terms, thus suggesting that they were two separate concepts.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+
+
+Phrase, “defined physical space,” in patent directed to use of three-dimensional motion tracking for interactive fitness and gaming applications, required both size and location of any boundaries that exist to be known prior to adaptation of system.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+
+
+Hardcoded values of accused gaming products did not literally meet “defined physical space” claim limitation in patent directed to use of three-dimensional motion tracking for interactive fitness and gaming applications that required both size and location of any boundaries that exist to be known prior to adaptation of system; claims required space that existed in physical world, either indoors or outdoors, not space defined in abstract, and hardcoded values defined space in relation to sensor that might constitute defined relational space, but it was not defined physical space.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsComputers and Software
+
+
+291Patents
+291VIIPatent Infringement
+291VII(B)Particular Fields of Invention
+291k1651Computers and Software
+291k1652In general
+
+
+Accused hardcoded values that were abstract, mathematical constructs coding for physical space that was known only after adaptation of system was not equivalent to claimed “defined physical space” limitation that was known prior to adaptation of system, and thus accused product did not infringe patent directed to use of three-dimensional motion tracking for interactive fitness and gaming applications, since hardcoded values and limitation were essentially antithesis of one another.
+Cases that cite this headnote
+
+
+
+[7]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,308,565, US Patent 6,430,997, US Patent 6,765,726, US Patent 6,876,496, US Patent 7,359,121, US Patent 7,791,808. Not Infringed in Part.
+Cases that cite this headnote
+
+
+
+*874 Appeal from the United States District Court for the District of Delaware in No. 1:11-cv-00586-RGA-CJB, Judge Richard G. Andrews.
+Attorneys and Law Firms
+BRIAN ROSENTHAL, Mayer Brown LLP, Washington, DC, argued for plaintiff-appellant. Also represented by ALAN M. GRIMALDI, MICHAEL LOUIS LINDINGER.
+SONAL NARESH MEHTA, Durie Tangri LLP, San Francisco, CA, representing defendants-appellees Microsoft Corporation, Electronic Arts Inc., argued for all defendants-appellees.
+ERIC ALLAN BURESH, Erise IP, P.A., Overland Park, KS, for defendant-appellee Ubisoft, Inc. Also represented by MICHELLE LYONS MARRIOTT.
+Before Newman and Lourie, Circuit Judges.1
+Opinion
+Lourie, Circuit Judge.
+
+Impulse Technology Ltd. (“Impulse”) appeals from the decision of the United States District Court for the District of Delaware, granting Microsoft Corporation’s (“Microsoft”) motion for summary judgment of noninfringement of fourteen of the fifteen asserted claims across U.S. Patents 6,308,565 (“the ‘565 patent”), 6,430,997 (“the ‘997 patent”), 6,765,726 (“the ‘726 patent”), 6,876,496 (“the ‘496 patent”), 7,359,121 (“the ‘121 patent”), and 7,791,808 (“the ‘808 patent”) (collectively, the “asserted patents”). See Impulse Tech. Ltd. v. Microsoft Corp., No. 11–586–RGA, 2015 WL 5568618, at *1 (D. Del. Sept. 22, 2015). For the reasons that follow, we affirm.
+ 
+
+BACKGROUND
+Impulse owns the asserted patents, which share a written description and are directed to the use of three-dimensional motion tracking for interactive fitness and gaming applications. See, e.g., ’565 patent Abstract.
+ 
+Claim 1 of the ’565 patent is generally representative of the asserted claims2 and reads as follows:
+A testing and training system comprising:
+*875 a tracking system for continuously tracking an overall physical location of a player in a defined physical space; and
+a computer operatively coupled to the tracking system
+for updating in real time a player virtual location in a virtual space corresponding to the physical location of the player in the physical space,
+for updating a view of the virtual space, and
+for providing at least one indicium of performance of the player moving in the physical space,
+wherein the at least one indicium is or is derived from a measure of a movement parameter of the player.
+’565 patent col. 38 l. 62–col. 39 l. 7 (emphasis added).
+ 
+Microsoft makes and sells the Xbox 360 video game console and the Kinect sensor, which, when used with video games (collectively, the “accused products”) made and sold by Microsoft and the other defendants (Electronic Arts, Inc., and Ubisoft, Inc., collectively, “the other Defendants”), translate a user’s natural movement into gameplay, using physical gestures or audible speech, rather than relying on handheld game controllers. The accused products employ proprietary algorithms to output the location of 20 points that correspond to various joints in a user’s body, using a coordinate system centered at the Kinect sensor. The Kinect system employs an infrared sensor that can track motion within a cone-shaped area in front of it, extending from the camera in the front of the Kinect sensor outward to create a vertical field of view of about 57 degrees, a horizontal field of view of about 43 degrees, and a practical viewing depth of approximately 0.8 to 4.0 meters. The Xbox 360 coordinates with the Kinect to display the game’s virtual environment, typically on a television screen. For example, depending on the game, the virtual environment could be a raft moving down a river or a car driving on a race track.
+ 
+On June 1, 2011, Impulse sued Microsoft and the other Defendants in the United States District Court for the District of Delaware, alleging infringement of fifteen claims of the asserted patents. On March 27, 2012, the district court referred the case to a magistrate judge to hear and resolve all pretrial matters, up to and including the resolution of case-dispositive motions.
+ 
+The magistrate judge held a Markman hearing on November 20, 2012, and issued a report and recommendation on May 13, 2013. See Impulse Tech. Ltd. v. Microsoft Corp., No. 11–586–RGA–CJB, 2013 WL 2020055, at *2 (D. Del. May 13, 2013) (“Claim Construction Report and Recommendation”). The magistrate judge recommended, inter alia, a construction for “defined physical space” of “indoor or outdoor space having known size and/or boundaries,” wherein the physical space is “known prior to adaptation of the testing and training system” and is defined independently of the sensor viewing area. Id. at *9–10. On September 19, 2013, the district court issued an order adopting the magistrate judge’s proposed claim construction. See Impulse Tech. Ltd. v. Microsoft Corp., NO. 11-586-RGA-CJB, ECF No. 314 (D. Del. Sept. 19, 2013).
+ 
+On January 17, 2014, Microsoft filed a motion for partial summary judgment of noninfringement and on March 27, 2015, the magistrate judge issued another report and recommendation, recommending that the motion be granted as to fourteen of the fifteen asserted claims. See Impulse Tech. Ltd. v. Microsoft Corp., NO. 11–586–RGA–CJB, 2015 WL 5675569, at *1 (D. Del. Mar. 27, 2015) (“ *876 Summary Judgment Report and Recommendation”). The magistrate judge based his recommendations on the conclusion that the accused products’ “hardcoded values” were “abstract,” “mathematical construct[s]” which could not infringe the claimed “defined physical space,” literally or under the doctrine of equivalents. Id. at *5. On September 22, 2015, the district court adopted the magistrate judge’s recommendations, granting Microsoft’s motion for summary judgment as to fourteen of the fifteen asserted claims. See Impulse Tech. Ltd. v. Microsoft Corp., NO. 11–586–RGA–CJB, 2015 WL 5568616, at *3 (D. Del. Sept. 22, 2015) (“Decision”).
+ 
+Impulse timely appealed to this court. We have jurisdiction under 28 U.S.C. § 1295(a)(1).
+ 
+
+DISCUSSION
+On appeal, Impulse argues that: (1) the district court erred in its construction of the claim term “defined physical space”; and (2), even under the court’s construction, the court erred in granting Microsoft’s summary judgment motion. We discuss each issue in turn.
+ 
+
+I
+We first consider whether the district court erred in its construction of “defined physical space.” “The proper construction of a patent’s claims is an issue of Federal Circuit law.” Absolute Software, Inc. v. Stealth Signal, Inc., 659 F.3d 1121, 1129 (Fed. Cir. 2011). We review a district court’s ultimate claim constructions de novo and any underlying factual determinations involving extrinsic evidence for clear error. Teva Pharm. U.S.A., Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 841–42, ––– L.Ed.2d –––– (2015). Here, because the district court relied only on the intrinsic record to construe “defined physical space,” we review the district court’s construction de novo. See Shire Dev., LLC v. Watson Pharm., Inc., 787 F.3d 1359, 1364, 1368 (Fed. Cir. 2015) (citing Teva, 135 S.Ct. at 840–42).
+ 
+The words of a claim “are generally given their ordinary and customary meaning” as understood by a person of ordinary skill in the art at the time of the invention. Phillips v. AWH Corp., 415 F.3d 1303, 1312–13 (Fed. Cir. 2005) (en banc). Because that meaning is “often not immediately apparent, and because patentees frequently use terms idiosyncratically,” the court looks to the intrinsic record, including “the words of the claims themselves, the remainder of the specification, [and] the prosecution history,” as well as to extrinsic evidence when appropriate, to construe a disputed claim term. Id. at 1314, 1319.
+ 
+[1]Impulse argues that the district court erred in construing “defined physical space” as an “indoor or outdoor space having size and/or boundaries known prior to the adaptation of the testing and training system.” Decision, 2015 WL 5568616, at *1 (emphasis added). Impulse maintains that in so construing that claim limitation, the district court improperly imported a “temporal limitation” from what the court perceived to be a feature of a preferred embodiment. Appellant’s Br. 25. Impulse asserts that the claims are silent as to when the physical space must be defined and that nothing in the written description suggests that the size or boundaries of the physical space must be known before the system is adapted for use. Impulse interprets the district court’s construction of “prior to the adaptation of the testing and training system” to mean prior to the system being turned on, rather than prior to game play. Thus, Impulse argues, the district court erred because the written description is broad enough to encompass a system that, after the sensor is placed and *877 turned on, can adapt to a physical space per the user’s preferences. Furthermore, Impulse argues that the district court incorrectly concluded that the physical space cannot be defined in relationship to the sensor itself, but rather must be known independently of the sensor viewing area. Impulse maintains that the intrinsic evidence does not compel such a narrow construction.
+ 
+Microsoft responds that, as an initial matter, Impulse has waived its right to appeal the district court’s claim construction because it never objected to the magistrate judge’s claim construction report and recommendation. Appellee’s Br. 30 (citing 28 U.S.C. § 636(b)(1)(A)). Even if Impulse did not waive its argument, Microsoft argues, the district court correctly concluded that the physical space must be known prior to adaptation of the system and defined independently of the sensor.
+ 
+First, Microsoft points to passages of the written description, which teach that the training system may be portable and thus “adaptable to” the physical space. ’565 patent col. 9 ll. 16–17, 19–24 (“It will be appreciated that the system ... may be adaptable to physical spaces of various sizes. In as much as the system is portable, the system may be transported to multiple sites for specific purposes.” (emphasis added)). Microsoft interprets the district court’s construction of “prior to the adaptation of the testing and training system” as meaning prior to game play, rather than turning the system on. Under this interpretation, Microsoft maintains that the written description supports the district court’s construction because it makes clear that the physical space is known before game play starts; otherwise, the system could not be portable and “adaptable to” various physical spaces. Second, Microsoft asserts that the written description refers to the viewing range of the sensor using different language from that of the “defined physical space.” See, e.g., ’565 patent col. 10 ll. 29–34 (referring to the “tracking volume” and, separately, to the “defined physical space”). For those reasons, argues Microsoft, the “defined physical space” must be defined prior to, and independently of, the tracking system.
+ 
+First, we agree with Microsoft that the district court’s construction of “prior to the adaptation of the testing and training system” means prior to game play. Decision, 2015 WL 5568616, at *1. The district court’s discussion, as well as the magistrate judge’s report and recommendation, make clear that the relevant time point is when the sensor begins to track movement of the user, i.e., during game play. See, e.g., id. at *1 ( [T]he patent claims ... systems that are set up in relation to a particular physical space (for example, in a gym or on a field) so that the system can ‘assess[ ] and quantify[ ] distance and time measurements relative to the player’s conditioning, sport and ability.’ ” (emphasis added)) (citing ’565 patent col. 9 ll. 9–12); Claim Construction Report and Recommendation, 2013 WL 2020055, at *9 (noting that, in order to adapt the system to a particular physical space, the sensors must be positioned so as to “track movement [of the user] in the desired physical space” (emphasis added)) (internal quotations omitted) (citing ’565 patent col. 9 ll. 29–34).
+ 
+[2]Second, we agree with Microsoft that the district court correctly concluded that the “defined physical space” must be (1) known prior to adaptation of the system, and (2) defined independently of the sensor viewing area. The written description explains that the physical space “may be any available area, indoors or outdoors [o]f sufficient size to allow the player to undertake the movements” and that “the system ... may be adaptable to physical spaces of various sizes.” ’565 patent col. 9 *878 ll. 8–17. Furthermore, the written description explains that, in adapting the system to a particular physical space, the sensors must be “centered laterally with respect to the defined physical space ... at a distance sufficiently outside the front boundary ... to allow the sensors ... to track movement in the desired physical space.” ’565 patent col. 9 ll. 29–34. The foregoing passages suggest that the “defined physical space” is known and defined prior to game play, so that (1) the physical space is of sufficient size to allow game play and (2) the system can be portable and adaptable to various physical spaces. We agree with the district court that the written description supports the construction that “the space itself must be known prior to the adaptation of the system to that (now, already known) space.” Summary Judgment Report and Recommendation, 2015 WL 5675569, at *5.
+ 
+[3]We also agree with the district court that the “defined physical space” must be defined independently of the sensor viewing area. The written description describes the sensor viewing area (i.e., “tracking volume”) and the “defined physical space” using different terms, thus suggesting that they are two separate concepts. See, e.g., ’565 patent col. 10 ll. 29–34 (“[T]he position-sensing hardware tracks the player ... in the defined physical space ... over a tracking volume of approximately 432 cubic feet.” (emphases added)).
+ 
+We therefore conclude that the district court correctly construed the limitation “defined physical space.” Thus, we need not address Microsoft’s waiver argument.
+ 
+
+II.
+We next consider whether the district court erred in granting summary judgment of noninfringement. We review the district court’s grant of summary judgment under the law of the regional circuit, here, the Third Circuit. Classen Immunotherapies, Inc. v. Elan Pharm., Inc., 786 F.3d 892, 896 (Fed. Cir. 2015). Applying the law of the Third Circuit, we review the grant of summary judgment de novo. Nicini v. Morra, 212 F.3d 798, 805 (3d Cir. 2000) (en banc). Infringement, whether literal or under the doctrine of equivalents, is a question of fact. Absolute Software, Inc. v. Stealth Signal, Inc., 659 F.3d 1121, 1129–30 (Fed. Cir. 2011). As such, a grant of summary judgment of noninfringement is proper when no reasonable factfinder could find that the accused product contains every claim limitation or its equivalent. PC Connector Sols., LLC v. SmartDisk Corp., 406 F.3d 1359, 1364 (Fed. Cir. 2005); see Warner–Jenkinson Co. v. Hilton Davis Chem. Co., 520 U.S. 17, 29, 39 n.8, 117 S.Ct. 1040, 137 L.Ed.2d 146 (1997).
+ 
+Although infringement under the doctrine of equivalents is a question of fact, summary judgment is proper “[w]here the evidence is such that no reasonable jury could determine two elements to be equivalent.” Warner–Jenkinson, 520 U.S. at 39 n.8, 117 S.Ct. 1040. A patentee must establish “equivalency on a limitation-by-limitation basis” by “particularized testimony and linking argument” as to the insubstantiality of the differences between the claimed invention and the accused device or process. Texas Instruments Inc. v. Cypress Semiconductor Corp., 90 F.3d 1558, 1566 (Fed. Cir. 1996). The function-way-result test “often suffice[s] to show the substantiality of the differences.” Id.
+ 
+[4]Impulse argues that, even under the district court’s construction of “defined physical space,” the court erred in granting summary judgment of noninfringement because material questions of fact remain as to infringement. Impulse maintains that a reasonable jury could conclude that the *879 software “hardcoded values” of the accused products infringe, literally or under the doctrine of equivalents, the claim limitation “defined physical space.” Each of the accused products has software code that specifies the size of a physical space within which the user can play the game. Impulse argues that, because these hardcoded values are fixed, i.e., burned onto a disc at the factory, the physical space for which they code is predetermined and thus known prior to adaptation of the system. Impulse focuses on the “and/or” in the district court’s construction, see Decision, 2015 WL 5568616, at *1 (construing the term as “indoor or outdoor space having size and/or boundaries known prior to the adaptation of the testing and training system” (emphasis added)), and thus argues that, because the size of the physical space is known prior to adaptation, the accused products may meet that claim limitation, even though the location is not known in advance.
+ 
+Microsoft responds that the district court’s grant of summary judgment of noninfringement was proper. First, Microsoft argues, the district court correctly concluded that the accused hardcoded values are “just numbers, ... not an actual physical space at all” and, thus, they could not literally meet the claim element “defined physical space.” Summary Judgment Report and Recommendation, 2015 WL 5675569, at *4. Microsoft maintains that the district court correctly concluded that, because the hardcoded values are “purely abstract,” merely “a mathematical construct,” they “cannot be characterized as any particular physical space that exists indoors or outdoors.” Id. at 5 (emphasis added). Finally, Microsoft asserts that, to the extent that the hardcoded values could be characterized as a “defined physical space,” that space is not defined prior to adaptation of the system to a particular space because the location, which is defined in relation to the Kinect sensor, is not known in advance of adaptation. Microsoft maintains that in its decision, the district court explained that the “and/or” phrase in its construction was adopted solely to account for the “defined physical space” lacking a vertical boundary, as some of the examples of physical spaces disclosed in the specification were outdoor spaces. See Decision, 2015 WL 5568616, at *2.
+ 
+We agree with Microsoft that the district court correctly granted summary judgment of noninfringement. First, we reject Impulse’s interpretation of the district court’s construction that a physical space with either a known size or a known set of boundaries would constitute a “defined physical space.” As the district court explained, the “and/or” phrase in its construction was adopted to “account for the possibility that an outdoor physical space would have no vertical boundary.” Id. We agree with the district court’s construction, as discussed above, and therefore conclude that both the size and the location of any boundaries that exist must be known prior to adaptation of the system in order to constitute a “defined physical space.”
+ 
+[5]Second, we agree with the district court that no reasonable jury could have found that the hardcoded values of the accused products literally meet the “defined physical space” claim limitation. The district court correctly concluded that, properly construed, the claims require a space that “exists in the physical world (either indoors or outdoors),” not a space defined in the “abstract.” Id. As the district court stated, the hardcoded values define a space in relation to the sensor, which “might constitute a defined relational space, but it is not a defined physical space.” Id. at *1.
+ 
+[6]Finally, we agree with the district court that Impulse failed to establish a *880 genuine issue of material fact as to whether the hardcoded values operate in substantially the same way as the claimed “defined physical space” so as to infringe under the doctrine of equivalents. Impulse failed to provide evidence from which a reasonable jury could conclude that the hardcoded values of the accused products operate in substantially the same way as the claimed “defined physical space.” Rather, as the district court correctly concluded, the accused hardcoded values operate in “essentially the opposite fashion” of the claimed “defined physical space.” Id. at *3. The accused hardcoded values, which are abstract, mathematical constructs coding for a physical space that is known only after adaptation of the system, and the claimed “defined physical space,” known prior to adaptation of the system, are essentially the antithesis of one another. Thus, no reasonable jury could conclude that they are equivalents. See, e.g., Brilliant Instruments, Inc. v. GuideTech, LLC, 707 F.3d 1342, 1347 (Fed. Cir. 2013) (“The vitiation concept has its clearest application ‘where the accused device contain[s] the antithesis of the claimed structure.’ ”) (quoting Planet Bingo, LLC v. GameTech Int’l, Inc., 472 F.3d 1338, 1345 (Fed. Cir. 2006)).
+ 
+We therefore uphold the district court’s grant of summary judgment.
+ 
+
+CONCLUSION
+We have considered Impulse’s remaining arguments but find them to be unpersuasive. For the foregoing reasons, we affirm the judgment of the district court.
+ 
+AFFIRMED
+ 
+
+COSTS
+No costs.
+ 
+All Citations
+665 Fed.Appx. 872
+Footnotes
+
+1
+
+This appeal is decided by a panel of two judges, unanimously, upon recusal of the third member of the panel prior to oral argument of the appeal.
+
+2
+
+The asserted claims are claims 1, 5, 9, 30, 36, and 57 of the ’565 patent; claim 1 of the ‘979 patent; claim 16 of the ‘726 patent; claims 1, 3, and 5 of the ‘496 patent; claim 22 of the ‘121 patent; and claims 12, 15, and 17 of the ‘808 patent.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

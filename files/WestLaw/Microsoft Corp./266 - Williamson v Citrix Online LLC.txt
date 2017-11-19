@@ -1,0 +1,813 @@
+
+
+
+
+
+Williamson v. Citrix Online, LLC
+United States Court of Appeals, Federal Circuit. | June 16, 2015 | 792 F.3d 1339 | 2015 WL 3687459
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+Concurring In Part / Dissenting In Part
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Declined to Extend by EcoServices, LLC v. Certified Aviation Services, LLC, C.D.Cal., May 18, 2017
+
+standard Citation:
+
+Williamson v. Citrix Online, LLC, 792 F.3d 1339 (Fed. Cir. 2015)
+
+All Citations:
+
+792 F.3d 1339, 115 U.S.P.Q.2d 1105
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Declined to Extend by EcoServices, LLC v. Certified Aviation Services, LLC, C.D.Cal., May 18, 2017
+792 F.3d 1339
+United States Court of Appeals,
+Federal Circuit.
+Richard A. WILLIAMSON, Trustee for at Home Bondholders Liquidating Trust, Plaintiff–Appellant
+v.
+CITRIX ONLINE, LLC, Citrix Systems, Inc., Microsoft Corporation, Adobe Systems, Inc., Defendants–Appellees
+Webex Communications, Inc., Cisco Webex, LLC, Cisco Systems, Inc., Defendants–Appellees
+International Business Machines Corporation, Defendant–Appellee.
+No. 2013–1130.
+|
+June 16, 2015.
+Synopsis
+Background: Patentee brought action alleging infringement of patent for system and method of distributed learning. The United States District Court for the Central District of California, A. Howard Matz, J., entered stipulated judgment in alleged infringers’ favor, and patentee appealed.
+ 
+Holdings: The Court of Appeals, Linn, Circuit Judge, held that:
+ 
+[1] claims requiring “graphical display” representative of classroom did not require pictorial map that identified participants’ location;
+ 
+[2] presumption that the means-plus-function statute does not apply to a patent claim that does not use the word “means” is not strong, overruling Lighting World, Inc. v. Birchwood Lighting, Inc., 382 F.3d 1354, Inventio AG v. ThyssenKrupp Elevator Americas Corp., 649 F.3d 1350, Flo Healthcare Solutions, LLC v. Kappos, 697 F.3d 1367, Apple Inc. v. Motorola, Inc., 757 F.3d 1286;
+ 
+[3] term “distributed learning control module,” as used in patent was means-plus-function claim term; and
+ 
+[4] specification did not disclose sufficient structure corresponding to the “distributed learning control module” referred to in means-plus-function claims, making those claims invalid for indefiniteness.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+Reyna, Circuit Judge, filed opinion concurring in part and dissenting in part.
+ 
+Opinion, 770 F.3d 1371, superseded on rehearing.
+ 
+
+
+West Headnotes (21)
+
+
+[1]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+District court’s claim construction determinations based on evidence intrinsic to the patent as well as its ultimate interpretations of the patent claims are legal questions reviewed de novo.
+4 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsConstruction and Operation of Patents
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1965Scope, Standard, and Extent of Review
+291k1970Particular Matters
+291k1970(12)Construction and Operation of Patents
+291k1970(13)In general
+
+
+To the extent the district court, in construing patent claims, makes underlying findings of fact based on extrinsic evidence, the Court of Appeals reviews such findings of fact for clear error.
+3 Cases that cite this headnote
+
+
+
+[3]
+
+PatentsBusiness methods;  Internet applications
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1395Business methods;  Internet applications
+
+
+Claims in patent for system and method of distributed learning requiring “graphical display” representative of classroom did not require pictorial map that identified participants’ location, even though specification disclosed examples and embodiments where virtual classroom was depicted as “map” or “seating chart,” where patent defined classroom as “an at least partially virtual space in which participants can interact,” specification did not limit graphical display to those examples and embodiments, and embodiments and examples in specification of classroom metaphors relating to “maps” were consistently described in terms of preference.
+8 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsClaims as measure of patentee’s rights
+PatentsSpecification as limiting or enlarging claims in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1314Claims and Limitations;  Language of Patent
+291k1319Claims as measure of patentee’s rights
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1329Specification as limiting or enlarging claims in general
+
+
+It is the claims, not the written description, which define the scope of the patent right.
+1 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsSpecification as limiting or enlarging claims in general
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(A)In General
+291k1327Specifications and Drawings;  Written Description
+291k1329Specification as limiting or enlarging claims in general
+
+
+Patent claims must not be read restrictively unless the patentee has demonstrated a clear intention to limit the claim scope using words or expressions of manifest exclusion or restriction.
+1 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+In enacting provision governing construction of means-plus-function claims, Congress struck a balance in allowing patentees to express a claim limitation by reciting a function to be performed rather than by reciting structure for performing that function, while placing specific constraints on how such a limitation is to be construed, namely, by restricting the scope of coverage to only the structure, materials, or acts described in the specification as corresponding to the claimed function and equivalents thereof. 35 U.S.C.A. § 112.
+29 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+Merely because a named element of a patent claim is followed by the word “means” does not automatically make that element a “means-plus-function” element under the statute governing construction of means-plus-function claims. 35 U.S.C.A. § 112.
+7 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+Merely because an element of a patent claim does not include the word “means” does not automatically prevent that element from being construed as a means-plus-function element. 35 U.S.C.A. § 112.
+4 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+Presumption that the means-plus-function statute does not apply to a patent claim that does not use the word “means” is not strong, and a showing that the limitation essentially is devoid of anything that can be construed as structure is not required to overcome the presumption; overruling Lighting World, Inc. v. Birchwood Lighting, Inc., 382 F.3d 1354, Inventio AG v. ThyssenKrupp Elevator Americas Corp., 649 F.3d 1350, Flo Healthcare Solutions, LLC v. Kappos, 697 F.3d 1367, Apple Inc. v. Motorola, Inc., 757 F.3d 1286. 35 U.S.C.A. § 112.
+10 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+When a patent claim term lacks the word “means,” presumption that the means-plus-function statute does not apply can be overcome and the statute will apply if the challenger demonstrates that the claim term fails to recite sufficiently definite structure or else recites function without reciting sufficient structure for performing that function. 35 U.S.C.A. § 112.
+133 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+Term “distributed learning control module,” as used in patent for system and method of distributed learning, was means-plus-function claim term, despite absence of the word “means” in the claim; the claim replaced the word “means” with the word “module,” a generic description for software or hardware that performs a specified function, and set forth the same black box recitation of structure for providing the same specified function as if the term “means” had been used. 35 U.S.C.A. § 112.
+52 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+Generic terms such as “mechanism,” “element,” “device,” and other nonce words that reflect nothing more than verbal constructs may be used in a patent claim in a manner that is tantamount to using the word “means” because they typically do not connote sufficiently definite structure and therefore may invoke the means-plus-function statute. 35 U.S.C.A. § 112.
+28 Cases that cite this headnote
+
+
+
+[13]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+In determining whether presumption that the means-plus-function statute does not apply to a patent claim that does not use the word “means” has been rebutted, the fact that one of skill in the art could program a computer to perform the recited functions cannot create structure where none otherwise is disclosed. 35 U.S.C.A. § 112.
+13 Cases that cite this headnote
+
+
+
+[14]
+
+PatentsParticular products or processes
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k822Particular products or processes
+
+
+Specification of patent for system and method of distributed learning did not disclose sufficient structure corresponding to the “distributed learning control module” referred to in means-plus-function claims, making those claims invalid for indefiniteness; written description made it clear that the distributed learning control module had to be implemented in a special purpose computer, but the specification did not set forth an algorithm for performing the claimed functions. 35 U.S.C.A. § 112.
+4 Cases that cite this headnote
+
+
+
+[15]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+Construing a means-plus-function claim term is a two-step process: the court must first identify the claimed function; then, the court must determine what structure, if any, disclosed in the specification corresponds to the claimed function. 35 U.S.C.A. § 112.
+42 Cases that cite this headnote
+
+
+
+[16]
+
+PatentsAmbiguity, Uncertainty, or Indefiniteness
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k816In general
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+Where there are multiple claimed functions in a means-plus-function patent claim, the patentee must disclose adequate corresponding structure to perform all of the claimed functions; if the patentee fails to disclose adequate corresponding structure, the claim is indefinite. 35 U.S.C.A. § 112.
+32 Cases that cite this headnote
+
+
+
+[17]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+Structure disclosed in the patent specification qualifies as “corresponding structure” for a means-plus-function claim if the intrinsic evidence clearly links or associates that structure to the function recited in the claim; even if the specification discloses corresponding structure, the disclosure must be of “adequate” corresponding structure to achieve the claimed function. 35 U.S.C.A. § 112.
+87 Cases that cite this headnote
+
+
+
+[18]
+
+PatentsAmbiguity, Uncertainty, or Indefiniteness
+
+
+291Patents
+291IIPatentability and Validity
+291II(F)Other Challenges to Validity
+291k815Ambiguity, Uncertainty, or Indefiniteness
+291k816In general
+
+
+Under the means-plus-function statute, if a person of ordinary skill in the art would be unable to recognize the structure in the specification and associate it with the corresponding function in the claim, a means-plus-function clause is indefinite. 35 U.S.C.A. § 112.
+101 Cases that cite this headnote
+
+
+
+[19]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+In cases involving a claim limitation subject to the means-plus-function statute that must be implemented in a special purpose computer, the structure disclosed in the specification must be more than simply a general purpose computer or microprocessor; the specification must disclose an algorithm for performing the claimed function, which may be expressed as a mathematical formula, in prose, or as a flow chart, or in any other manner that provides sufficient structure. 35 U.S.C.A. § 112.
+2 Cases that cite this headnote
+
+
+
+[20]
+
+PatentsFunctions, means, and results of invention
+
+
+291Patents
+291IVPatent Applications and Proceedings
+291IV(A)In General
+291k910Assertion of Claims
+291k915Functions, means, and results of invention
+
+
+The testimony of one of ordinary skill in the art cannot supplant the total absence of structure from the patent specification corresponding to a means-plus-function claim. 35 U.S.C.A. § 112.
+9 Cases that cite this headnote
+
+
+
+[21]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,155,840. Invalid in Part.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1342 Brett Johnston Williamson, O’Melveny & Myers LLP, Newport Beach, CA, argued for plaintiff-appellant. Also represented by Tim D. Byron; William C. Norvell, Jr., Scott Dion Marrs, Brian T. Bagley, Beirne Maynard & Parsons, LLP, Houston, TX.
+Kurt Louis Glitzenstein, Fish & Richardson P.C., Boston, MA, argued for all defendants-appellees. Citrix Online, LLC, Citrix Systems, Inc., Microsoft Corporation, Adobe Systems, Inc., also represented by Frank Scherkenbach; Indranil Mukerji, Washington, DC; Jonathan J. Lamberson, Redwood City, CA. Defendant-appellee Microsoft Corporation also represented by Isabella Fu, Microsoft Corporation, Redmond, WA.
+Douglas M. Kubehl, Baker Botts LLP, Dallas, TX, for defendants-appellees Webex Communications, Inc., Cisco Webex, LLC, Cisco Systems, Inc. Also represented by Samara Kline, Brian Douglas Johnston.
+Mark J. Abate, Goodwin Procter LLP, New York, N.Y., for defendant-appellee International Business Machines Corporation. Also represented by *1343 Calvin E. Wingfield, Jr.; William F. Sheehan, Washington, DC.
+Before MOORE, LINN, and REYNA, Circuit Judges.1
+Opinion
+Opinion for the court filed by Circuit Judge LINN.
+Opinion concurring in part, dissenting in part, and with additional views filed by Circuit Judge REYNA.
+PROST, Chief Judge, LOURIE, LINN, DYK, MOORE, O’MALLEY, REYNA, WALLACH, TARANTO, CHEN, and HUGHES, Circuit Judges, have joined Part II.C.1. of this opinion.
+Opinion dissenting from Part II.C.1. filed by Circuit Judge NEWMAN.
+
+LINN, Circuit Judge.
+
+Richard A. Williamson (“Williamson”), as trustee for the At Home Corporation Bondholders’ Liquidating Trust, owns U.S. Patent No. 6,155,840 (the “′840 patent”) and appeals from the stipulated final judgment in favor of defendants Citrix Online, LLC; Citrix Systems, Inc.; Microsoft Corporation; Adobe Systems, Inc.; Webex Communications, Inc.; Cisco Webex, LLC; Cisco Systems, Inc.; and International Business Machines Corporation (collectively, “Appellees”). Because the district court erroneously construed the limitations “graphical display representative of a classroom” and “first graphical display comprising ... a classroom region,” we vacate the judgment of non-infringement of claims 1–7 and 17–24 of the ′840 patent. Because the district court correctly construed the limitation “distributed learning control module,” we affirm the judgment of invalidity of claims 8–12 of the ′840 patent under 35 U.S.C. § 1122, para. 2. Accordingly, we remand.
+ 
+
+I. BACKGROUND
+A. The ′840 Patent
+The ′840 patent describes methods and systems for “distributed learning” that utilize industry standard computer hardware and software linked by a network to provide a classroom or auditorium-like metaphor—i.e., a “virtual classroom” environment. The objective is to connect one or more presenters with geographically remote audience members. ′840 patent col.2 ll.10–14. The disclosed inventions purport to provide “the benefits of classroom interaction without the detrimental effects of complicated hardware or software, or the costs and inconvenience of convening in a separate place.” Id. at col.2 ll.4–7.
+ 
+There are three main components of the “distributed learning” system set forth in the ′840 patent: (1) a presenter computer, (2) audience member computers, and (3) a distributed learning server. The distributed learning server implements a “virtual classroom” over a computer network, such as the Internet, to facilitate communication and interaction among the presenter and audience members. The presenter computer is used by the presenter to communicate with the audience members and control information that appears on the audience member’s computer screen. Id. at col.4 l.66–col.5 l.2. An audience member’s computer is used to display the presentation and can be used to communicate *1344 with the presenter and other audience members. Id. at col.5 ll.11–14.
+ 
+The ′840 patent includes the following three independent claims, with disputed terms highlighted:
+1. A method of conducting distributed learning among a plurality of computer systems coupled to a network, the method comprising the steps of:
+providing instructions to a first computer system coupled to the network for:
+creating a graphical display representative of a classroom;
+creating a graphical display illustrating controls for selecting first and second data streams;
+creating a first window for displaying the first selected data stream; and
+creating a second window for displaying the second selected data stream, wherein
+the first and second windows are displayed simultaneously; and
+providing instructions to a second computer system coupled to the network for:
+creating a graphical display representative of the classroom;
+creating a third window for displaying the first selected data stream; and
+creating a fourth window for displaying the second selected data stream, wherein
+the third and fourth windows are displayed simultaneously.
+8. A system for conducting distributed learning among a plurality of computer systems coupled to a network, the system comprising:
+a presenter computer system of the plurality of computer systems coupled to the network and comprising:
+a content selection control for defining at least one remote streaming data source and for selecting one of the remote streaming data sources for viewing; and
+a presenter streaming data viewer for displaying data produced by the selected remote streaming data source;
+an audience member computer system of the plurality of computer systems and coupled to the presenter computer system via the network, the audience member computer system comprising:
+an audience member streaming data viewer for displaying the data produced by the selected remote streaming data source; and
+a distributed learning server remote from the presenter and audience member computer systems of the plurality of computer systems and coupled to the presenter computer system and the audience member computer system via the network and comprising:
+a streaming data module for providing the streaming data from the remote streaming data source selected with the content selection control to the presenter and audience member computer systems; and
+a distributed learning control module for receiving communications a distributed learning control module for receiving communications transmitted between the presenter and the audience member computer systems and for relaying the communications to an intended receiving computer system and for coordinating the operation of the streaming data module.
+17. A distributed learning server for controlling a presenter computer system and an audience member computer system coupled to the distributed learning server via a network, the distributed learning server comprising:
+a module for providing a first graphical display on the presenter computer *1345 system, the first graphical display comprising:
+a first presenter content selection control for selecting a first source of streaming content representative of graphical information;
+a first presenter content display region for displaying the graphical information represented by the streaming content from the first selected source;
+a second presenter content selection control for selecting a second source of streaming content representative of graphical information; and
+a second presenter content display region for displaying the graphical information represented by the streaming content from the second selected source, wherein the first and second presenter content display regions are adapted to display simultaneously; and
+a classroom region for representing the audience member computer system coupled to the distributed learning server; and
+a module for providing a second graphical display on the audience member computer system, the second graphical display comprising:
+a first audience member content display region for displaying the graphical information represented by the streaming content from the first source selected by the content selection control; and
+a second audience member content display region for displaying the graphical information represented by the streaming content from the second source selected by the content selection control, wherein the first and second audience member content display regions are adapted to display simultaneously.
+Id. at col.10 ll.28–52, col.11 ll.26–62, col.12 ll.29–65.
+ 
+
+B. Procedural History
+Williamson accused Appellees of infringing the ′840 patent based on their alleged manufacture, sale, offer for sale, use, and importation of various systems and methods of online collaboration. On March 22, 2011, Williamson filed suit in the United States District Court for the Central District of California specifically asserting infringement of all 24 claims of the ′840 patent. On September 4, 2012, the district court issued a claim construction order, construing, inter alia, the following limitations of independent claims 1 and 17: “graphical display representative of a classroom” and “first graphical display comprising ... a classroom region” (collectively, the “graphical display” limitations). The district court held that these terms require “a pictorial map illustrating an at least partially virtual space in which participants can interact, and that identifies the presenter(s) and the audience member(s) by their locations on the map.”
+ 
+In its claim construction order, the district court also concluded that the limitation of claim 8, “distributed learning control module,” was a means-plus-function term under 35 U.S.C. § 112, para. 6. The district court then evaluated the specification and concluded that it failed to disclose the necessary algorithms for performing all of the claimed functions. The district court thus held claim 8 and its dependent claims 9–16 invalid as indefinite under § 112, para. 2.
+ 
+Williamson conceded that under the district court’s claim constructions, none of Appellees’ accused products infringed independent claims 1 and 17 and their respective dependent claims 2–7 and 18–24, and that claims 8–16 were invalid. The parties stipulated to final judgment. Williamson appeals the stipulated entry of judgment, challenging these claim construction *1346 rulings. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(1).
+ 
+
+II. DISCUSSION
+A. Standard of Review
+[1] [2] Regarding questions of claim construction, including whether claim language invokes 35 U.S.C. § 112, para. 6, the district court’s determinations based on evidence intrinsic to the patent as well as its ultimate interpretations of the patent claims are legal questions that we review de novo. Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 840–41, ––– L.Ed.2d –––– (2015). To the extent the district court, in construing the claims, makes underlying findings of fact based on extrinsic evidence, we review such findings of fact for clear error. Id. Because the district court’s claim constructions in this case were based solely on the intrinsic record, the Supreme Court’s recent decision in Teva does not require us to review the district court’s claim construction any differently than under the de novo standard we have long applied. Fenner Invs., Ltd. v. Cellco P’ship, 778 F.3d 1320, 1322 (Fed.Cir.2015) (“When the district court reviews only evidence intrinsic to the patent ..., the judge’s determination will amount solely to a determination of law, and [we] review that construction de novo.” (quoting Teva, 135 S.Ct. at 841)) (internal citations removed).
+ 
+
+B. The “graphical display” Limitations
+[3] Williamson asserts that the district court erred in its construction of the graphical display terms by improperly importing an extraneous “pictorial map” limitation into the claim. Williamson argues that requiring a “map” unduly narrows the claims to the preferred embodiment disclosed in the written description and that there is no support in the intrinsic record for confining the claims to a “pictorial map” that identifies the location of the participants. Williamson alleges that a proper definition must require the audience members to be able to interact with both the presenter and other audience members. He therefore asserts that the proper construction of the graphical display terms is “a viewable illustration of an at least partially virtual space that allows audience members to interact with both the presenter and other audience members.”
+ 
+Appellees respond that the district court’s construction correctly limited the claims to a “pictorial map” consistent with the teachings of the written description. According to Appellees, this construction does not import a limitation from the preferred embodiment, but simply reflects the functional aspects of a “classroom” in a manner that is consistent with what the patentee invented and disclosed. Moreover, according to Appellees, it is consistent with the only depiction of a classroom shown in the ′840 patent, which shows a pictorial map as a seating chart that identifies the presenters and audience members by their locations on the map.
+ 
+[4] We agree with Williamson. The district court erred in construing these terms as requiring a “pictorial map.” First, the claim language itself contains no such “pictorial map” limitation. “[I]t is the claims, not the written description, which define the scope of the patent right.” Laitram Corp. v. NEC Corp., 163 F.3d 1342, 1347 (Fed.Cir.1998); see also id. (“[A] court may not import limitations from the written description into the claims.”). While the specification discloses examples and embodiments where the virtual classroom is depicted as a “map” or “seating chart,” nowhere does the specification limit the graphical display to those examples and embodiments. This court has repeatedly “cautioned against limiting the claimed invention to preferred embodiments *1347 or specific examples in the specification.” Teleflex, Inc. v. Ficosa N. Am. Corp., 299 F.3d 1313, 1328 (Fed.Cir.2002) (quoting cases) (citations omitted).
+ 
+Here, there is no suggestion in the intrinsic record that the applicant intended the claims to have the limited scope determined by the district court. To the contrary, the embodiments and examples in the specification of classroom metaphors relating to “maps” are consistently described in terms of preference. For example, the specification states that “[t]he classroom metaphor preferably provides a map of the classroom showing the relative relationships among the presenters and audience members.” ′840 patent col.2 ll.37–39 (emphasis added). In another example, the graphical display of Figure 6 is described as an “exemplary display” on the presenter’s computer. Id. at col.7 ll.35–36. That exemplary display includes a window that “preferably provides a seating chart showing the audience members and presenters in the classroom or auditorium.” Id. at col.9 ll.5–7 (emphasis added).
+ 
+[5] The ′840 patent defines a classroom as “an at least partially virtual space in which participants can interact.” Id. at col.6 ll.5–6. Nothing further is required, and no greater definition is mandated by the language of the claims, the specification, or the prosecution history. As is well settled, the claims must “not be read restrictively unless the patentee has demonstrated a clear intention to limit the claim scope using words or expressions of manifest exclusion or restriction.” Innova/Pure Water, Inc., v. Safari Water Filtration Sys., Inc., 381 F.3d 1111, 1117 (Fed.Cir.2004) (internal quotations omitted).
+ 
+For the foregoing reasons, we conclude that the district court incorrectly construed the graphical display terms to have a “pictorial map” limitation. We therefore vacate the stipulated judgment of non-infringement of claims 1–7 and 17–24. The “graphical display” limitations in claims 1 and 17 are properly construed as “a graphical representation of an at least partially virtual space in which participants can interact.”
+ 
+
+C. The “distributed learning control module” Limitation
+1. Applicability of 35 U.S.C. § 112, para. 63
+[6] Means-plus-function claiming occurs when a claim term is drafted in a manner that invokes 35 U.S.C. § 112, para. 6, which states:
+An element in a claim for a combination may be expressed as a means or step for performing a specified function without the recital of structure, material, or acts in support thereof, and such claim shall be construed to cover the corresponding structure, material, or acts described in the specification and equivalents thereof.
+In enacting this provision, Congress struck a balance in allowing patentees to express a claim limitation by reciting a function to be performed rather than by reciting structure for performing that function, while placing specific constraints on how such a limitation is to be construed, namely, by restricting the scope of coverage to only the structure, materials, or acts described in the specification as corresponding to the claimed function and equivalents thereof. See Northrop Grumman Corp. v. *1348 Intel Corp., 325 F.3d 1346, 1350 (Fed.Cir.2003).
+ 
+[7] [8] To determine whether § 112, para. 6 applies to a claim limitation, our precedent has long recognized the importance of the presence or absence of the word “means.” In Personalized Media Communications, LLC v. International Trade Commission, building upon a line of cases interpreting § 112, para. 6,4 we stated that the use of the word “means” in a claim element creates a rebuttable presumption that § 112, para. 6 applies. 161 F.3d 696, 703–04 (Fed.Cir.1998) (citing cases). Applying the converse, we stated that the failure to use the word “means” also creates a rebuttable presumption—this time that § 112, para. 6 does not apply. Id. We have not, however, blindly elevated form over substance when evaluating whether a claim limitation invokes § 112, para. 6:
+ 
+Merely because a named element of a patent claim is followed by the word “means,” however, does not automatically make that element a “means-plus-function” element under 35 U.S.C. § 112, ¶ 6.... The converse is also true; merely because an element does not include the word “means” does not automatically prevent that element from being construed as a means-plus-function element.
+Cole v. Kimberly–Clark Corp., 102 F.3d 524, 531 (Fed.Cir.1996); see also Greenberg v. Ethicon Endo–Surgery, Inc., 91 F.3d 1580, 1584 (Fed.Cir.1996) ( “We do not mean to suggest that section 112(6) is triggered only if the claim uses the word ‘means.’ ”).
+In making the assessment of whether the limitation in question is a means-plus-function term subject to the strictures of § 112, para. 6, our cases have emphasized that the essential inquiry is not merely the presence or absence of the word “means” but whether the words of the claim are understood by persons of ordinary skill in the art to have a sufficiently definite meaning as the name for structure. Greenberg, 91 F.3d at 1583 (“What is important is ... that the term, as the name for structure, has a reasonably well understood meaning in the art.”). When the claim uses the word “means,” our cases have been consistent in looking to the meaning of the language of the limitation in assessing whether the presumption is overcome. We have also traditionally held that when a claim term lacks the word “means,” the presumption can be overcome and § 112, para. 6 will apply if the challenger demonstrates that the claim term fails to “recite[ ] sufficiently definite structure” or else recites “function without reciting sufficient structure for performing that function.” Watts v. XL Sys., Inc., 232 F.3d 877, 880 (Fed.Cir.2000).
+ 
+In Lighting World, Inc. v. Birchwood Lighting, Inc., 382 F.3d 1354, 1358 (Fed.Cir.2004), we applied for the first time a different standard to the presumption flowing from the absence of the word “means” and held that “the presumption flowing from the absence of the term ‘means’ is a strong one that is not readily overcome ” (emphasis added), citing as examples, Al–Site Corp. v. VSI International, Inc., 174 F.3d 1308, 1318–19 (Fed.Cir.1999) and Personalized Media Communications, 161 F.3d at 703–05. A few years later, we reiterated Lighting World ‘s characterization of the presumption as a “strong one that is not readily overcome” *1349 in Inventio AG v. ThyssenKrupp Elevator Americas Corp., 649 F.3d 1350, 1358 (Fed.Cir.2011). In Flo Healthcare Solutions, LLC v. Kappos, 697 F.3d 1367, 1374 (Fed.Cir.2012), decided just a year after Inventio, we raised the bar even further, declaring that “[w]hen the claim drafter has not signaled his intent to invoke § 112, ¶ 6 by using the term ‘means,’ we are unwilling to apply that provision without a showing that the limitation essentially is devoid of anything that can be construed as structure ” (emphasis added), citing Masco Corp. v. United States, 303 F.3d 1316, 1327 (Fed.Cir.2002), a case involving the different term “step for” and the unusual circumstances in which § 112, para. 6 relates to the functional language of a method claim. Recently, in Apple Inc. v. Motorola, Inc., 757 F.3d 1286, 1297 (Fed.Cir.2014), we yet again observed that this presumption is “ ‘strong’ and ‘not readily overcome’ ” and noted that, as such, we have “ ‘seldom’ held that a limitation without recitation of ‘means’ is a means-plus-function limitation,” citing Lighting World, 382 F.3d at 1358, 1362, Inventio, 649 F.3d at 1356, and Flo Healthcare, 697 F.3d at 1374. Our opinions in Lighting World, Inventio, Flo Healthcare and Apple have thus established a heightened bar to overcoming the presumption that a limitation expressed in functional language without using the word “means” is not subject to § 112, para. 6.
+ 
+[9] Our consideration of this case has led us to conclude that such a heightened burden is unjustified and that we should abandon characterizing as “strong” the presumption that a limitation lacking the word “means” is not subject to § 112, para. 6. That characterization is unwarranted, is uncertain in meaning and application, and has the inappropriate practical effect of placing a thumb on what should otherwise be a balanced analytical scale. It has shifted the balance struck by Congress in passing § 112, para. 6 and has resulted in a proliferation of functional claiming untethered to § 112, para. 6 and free of the strictures set forth in the statute. Henceforth, we will apply the presumption as we have done prior to Lighting World, without requiring any heightened evidentiary showing and expressly overrule the characterization of that presumption as “strong.” We also overrule the strict requirement of “a showing that the limitation essentially is devoid of anything that can be construed as structure.”
+ 
+[10] The standard is whether the words of the claim are understood by persons of ordinary skill in the art to have a sufficiently definite meaning as the name for structure. Greenberg, 91 F.3d at 1583. When a claim term lacks the word “means,” the presumption can be overcome and § 112, para. 6 will apply if the challenger demonstrates that the claim term fails to “recite sufficiently definite structure” or else recites “function without reciting sufficient structure for performing that function.” Watts, 232 F.3d at 880. The converse presumption remains unaffected: “use of the word ‘means’ creates a presumption that § 112, ¶ 6 applies.” Personalized Media, 161 F.3d at 703.
+ 
+
+2. Functional Nature of the Limitation
+[11] On appeal, Williamson argues that the district court erred in construing the term “distributed learning control module” as being governed by 35 U.S.C. § 112, para. 6. Williamson contends that the district court failed to give appropriate weight to the “strong” presumption against means-plus-function claiming that attaches to claim terms that do not recite the word “means.” Williamson also argues that the district court wrongly focused its analysis on the word “module” instead of the full term, ignored the detailed support provided in the written description, *1350 and misapplied our law by failing to view the term from the perspective of one of ordinary skill in the art.
+ 
+Appellees respond that the district court properly construed “distributed learning control module” as a means-plus-function claim term despite the absence of the word “means.” Appellees assert that the presumption against means-plus-function claiming was rebutted because “distributed learning control module” does not have a well understood structural meaning in the computer technology field. Appellees note that the “distributed learning control module” limitation is drafted in the same format as a traditional means-plus-function limitation, and merely replaces the term “means” with “nonce” word “module,” thereby connoting a generic “black box” for performing the recited computer-implemented functions. In Appellees’ view, since the term should be treated as a means-plus-function claim term and there is no algorithmic structure for implementing the claimed functions in the written description, the finding of indefiniteness should be affirmed.
+ 
+We begin with the observation that the claim limitation in question is not merely the introductory phrase “distributed learning control module,” but the entire passage “distributed learning control module for receiving communications transmitted between the presenter and the audience member computer systems and for relaying the communications to an intended receiving computer system and for coordinating the operation of the streaming data module.” This passage, as lengthy as it is, is nonetheless in a format consistent with traditional means-plus-function claim limitations. It replaces the term “means” with the term “module” and recites three functions performed by the “distributed learning control module.”
+ 
+[12] “Module” is a well-known nonce word that can operate as a substitute for “means” in the context of § 112, para. 6. As the district court found, “ ‘module’ is simply a generic description for software or hardware that performs a specified function.” J.A. 31. Generic terms such as “mechanism,” “element,” “device,” and other nonce words that reflect nothing more than verbal constructs may be used in a claim in a manner that is tantamount to using the word “means” because they “typically do not connote sufficiently definite structure” and therefore may invoke § 112, para. 6. Mass. Inst. of Tech. & Elecs. for Imaging, Inc. v. Abacus Software, 462 F.3d 1344, 1354 (Fed.Cir.2006); see generally M.P.E.P. § 2181.
+ 
+Here, the word “module” does not provide any indication of structure because it sets forth the same black box recitation of structure for providing the same specified function as if the term “means” had been used.5 Indeed, Williamson himself acknowledges that “the term ‘module,’ standing alone is capable of operating as a *1351 ‘nonce word’ substitute for ‘means.’ ” Op. Br. at 43.
+ 
+The prefix “distributed learning control” does not impart structure into the term “module.” These words do not describe a sufficiently definite structure. Although the “distributed learning control module” is described in a certain level of detail in the written description, the written description fails to impart any structural significance to the term. At bottom, we find nothing in the specification or prosecution history that might lead us to construe that expression as the name of a sufficiently definite structure as to take the overall claim limitation out of the ambit of § 112, para. 6. While Williamson is correct that the presence of modifiers can change the meaning of “module,” the presence of these particular terms does not provide any structural significance to the term “module” in this case.
+ 
+While portions of the claim do describe certain inputs and outputs at a very high level (e.g., communications between the presenter and audience member computer systems), the claim does not describe how the “distributed learning control module” interacts with other components in the distributed learning control server in a way that might inform the structural character of the limitation-in-question or otherwise impart structure to the “distributed learning control module” as recited in the claim.
+ 
+[13] Williamson also points to the declaration of Dr. Shukri Souri to show that one of ordinary skill in the art would understand the term “distributed learning control module” to connote structure. The district court did not discuss Dr. Souri’s testimony in its claim construction ruling. We have considered it but do not find it persuasive. Dr. Souri’s declaration, like the claim language and portions of the written description Williamson identifies, fails to describe how the distributed learning control module, by its interaction with the other components in the distributed learning control server, is understood as the name for structure. Dr. Souri also testified that, “as one of ordinary skill in the art, reading the specification, I would know exactly how to program” a computer to perform the recited functions and further testified that structure “could be in software or it could be in hardware.” J.A. 1391 (256:12–258:16). But the fact that one of skill in the art could program a computer to perform the recited functions cannot create structure where none otherwise is disclosed. See Function Media, L.L.C. v. Google, Inc., 708 F.3d 1310, 1319 (Fed.Cir.2013).
+ 
+For the foregoing reasons, we conclude that the “distributed learning control module” limitation fails to recite sufficiently definite structure and that the presumption against means-plus-function claiming is rebutted. We therefore agree with the district court that this limitation is subject to the provisions of 35 U.S.C. § 112, para. 6.
+ 
+
+3. Disclosure of Corresponding Structure
+[14] Having found that the “distributed learning control module” is subject to application of § 112, para. 6, we next determine whether the specification discloses sufficient structure that corresponds to the claimed function. We conclude that it does not.
+ 
+[15] [16] Construing a means-plus-function claim term is a two-step process. The court must first identify the claimed function. Noah Sys., Inc. v. Intuit Inc., 675 F.3d 1302, 1311 (Fed.Cir.2012). Then, the court must determine what structure, if any, disclosed in the specification corresponds to the claimed function. Where there are multiple claimed functions, as we have here, the patentee must disclose adequate corresponding structure to perform *1352 all of the claimed functions. Id. at 1318–19. If the patentee fails to disclose adequate corresponding structure, the claim is indefinite. Id. at 1311–12.
+ 
+The district court identified three claimed functions associated with the “distributed learning control module” term: (1) receiving communications transmitted between the presenter and the audience member computer systems; (2) relaying the communications to an intended receiving computer system; and (3) coordinating the operation of the streaming data module. The district court then found that the specification fails to disclose structure corresponding to the “coordinating” function. On appeal, it is undisputed that the claimed “coordinating” function is associated with the “distributed learning control module.” Thus, we must ascertain whether adequate structure corresponding to this function is disclosed in the specification. Id. at 1311.
+ 
+[17] [18] Structure disclosed in the specification qualifies as “corresponding structure” if the intrinsic evidence clearly links or associates that structure to the function recited in the claim. Id. (citing B. Braun Med., Inc. v. Abbott Labs., 124 F.3d 1419, 1424 (Fed.Cir.1997)). Even if the specification discloses corresponding structure, the disclosure must be of “adequate” corresponding structure to achieve the claimed function. Id. at 1311–12 (citing In re Donaldson Co., 16 F.3d 1189, 1195 (Fed.Cir.1994) (en banc)). Under 35 U.S.C. § 112, paras. 2 and 6, therefore, if a person of ordinary skill in the art would be unable to recognize the structure in the specification and associate it with the corresponding function in the claim, a means-plus-function clause is indefinite. Id. at 1312 (citing AllVoice Computing PLC v. Nuance Commc’ns, Inc., 504 F.3d 1236, 1241 (Fed.Cir.2007)).
+ 
+[19] The district court was correct that the specification of the ′840 patent fails to disclose corresponding structure. The written description of the ′840 patent makes clear that the distributed learning control module cannot be implemented in a general purpose computer, but instead must be implemented in a special purpose computer—a general purpose computer programmed to perform particular functions pursuant to instructions from program software. A special purpose computer is required because the distributed learning control module has specialized functions as outlined in the written description. See, e.g., ′840 patent col.5 ll.48–64. In cases such as this, involving a claim limitation that is subject to § 112, para. 6 that must be implemented in a special purpose computer, this court has consistently required that the structure disclosed in the specification be more than simply a general purpose computer or microprocessor. E.g., Aristocrat Techs. Austl. Pty Ltd. v. Int’l Game Tech., 521 F.3d 1328, 1333 (Fed.Cir.2008) (citing WMS Gaming, Inc. v. Int’l Game Tech., 184 F.3d 1339 (Fed.Cir.1999)). We require that the specification disclose an algorithm for performing the claimed function. Net MoneyIN, Inc. v. VeriSign, Inc., 545 F.3d 1359, 1367 (Fed.Cir.2008). The algorithm may be expressed as a mathematical formula, in prose, or as a flow chart, or in any other manner that provides sufficient structure. Noah, 675 F.3d at 1312 (citing Finisar Corp. v. DirecTV Grp., Inc., 523 F.3d 1323, 1340 (Fed.Cir.2008)).
+ 
+Williamson points to certain disclosures in the specification that, it claims, meet the § 112, para. 6 requirements. Williamson argues that the “distributed learning control module” controls communications among the various computer systems and that the “coordinating” function provides a presenter with streaming media selection functionality. These disclosures, however, are merely functions of the “distributed learning control module.” The specification *1353 does not set forth an algorithm for performing the claimed functions.
+ 
+Williamson argues that figures 4 and 5 disclose the required algorithm. This is not the case. Figure 4 is a representative display from the presenter computer system under the direction of the “distributed learning control module.” ′840 patent col.7 ll.1–3.
+ 
+
+​
+Id. figure 4. This display includes an address or uniform resource locator or URL field, a channel field, an “add this node” button, and a “back” link. Id. col.7 ll.5–7, 13–15, 18–19. This is not a disclosure of an algorithm corresponding to the claimed “coordinating” function; it is a description of a presenter display interface.
+Figure 5 similarly fails to disclose an algorithm, as it is another representative display on the presenter computer system. Id. col.7 ll. 20–24. This display allows the presenter to preview data before presenting it to the audience. Id. col.7 ll.32–34.
+ 
+
+​
+*1354 Id. figure 5. This figure contains a box listing the sources of data and a media window that displays the current feed received from the source of data selected in the list box. Id. col.7 ll.24–28. Again, this figure is a description of a presenter display interface; it is not a disclosure of an algorithm corresponding to the claimed functions. Williamson has failed to point to an adequate disclosure of corresponding structure in the specification.
+[20] Williamson points to the declaration of Dr. Souri to show that the ′ 840 patent discloses structure. The testimony of one of ordinary skill in the art cannot supplant the total absence of structure from the specification. Noah, 675 F.3d at 1312 (quoting Default Proof Credit Card Sys., Inc. v. Home Depot U.S.A., Inc., 412 F.3d 1291, 1302 (Fed.Cir.2005)). The prohibition against using expert testimony to create structure where none otherwise exists is a direct consequence of the requirement that the specification adequately disclose corresponding structure. Id. (quoting AllVoice Computing, 504 F.3d at 1240). Thus, the testimony of Dr. Souri cannot create structure where none otherwise exists.
+ 
+Because the ′840 patent fails to disclose any structure corresponding to the “coordinating” function of the “distributed learning control module,” we affirm the judgment that claims 8–16 are invalid for indefiniteness under 35 U.S.C. § 112, para. 2.
+ 
+
+CONCLUSION
+The district court erred in construing the “graphical display representative of a classroom” terms in claims 1–7 and 17–24. The district court did not err in construing the term “distributed learning control module” in claims 8–16 of the ′840 patent as a means-plus-function claim term lacking corresponding structure. We therefore vacate the final judgment of non-infringement with respect to claims 1–7 and 17–24 and affirm the final judgment of invalidity of claims 8–16. We remand for further proceedings consistent with this opinion.
+ 
+*1355 AFFIRMED–IN–PART, VACATED–IN–PART, AND REMANDED
+ 
+
+COSTS
+Each party shall bear its own costs for this appeal.
+ 
+
+REYNA, Circuit Judge, concurring-in-part, dissenting-in-part, and additional views.
+
+This is the second time around for this case. In the first, Williamson I, I dissented from the majority conclusion that the “distributed learning control module” term of claim 8 of the ′840 patent recites sufficient structure to keep the claim limitation “distributed learning control module” outside of the purview of 35 U.S.C. § 112, paragraph 6.1
+ 
+In this second time around, Williamson II, the majority reverses itself to conclude that the “distributed learning control module” term does not recite sufficient structure, is governed by 35 U.S.C. § 112, paragraph 6, and is indefinite under paragraph 2. Because this conclusion is the correct result, I concur. To explain my concurrence, I rely on the reasons I laid out in my dissent in Williamson I.
+ 
+The majority, however, continues to ignore critical evidence showing that an image of a visually depicted virtual classroom is required by claim 8 of the ′ 840 patent. I dissent from that portion of this opinion.
+ 
+In addition, the majority embraces this case as an opportune vehicle to overrule as improper certain adjectives used in prior opinions in describing the § 112, paragraph 6 presumption. See e.g., Inventio AG v. ThyssenKrupp Elevator Americas Corp., 649 F.3d 1350, 1360 (Fed.Cir.2011) (describing a “strong” presumption in favor of § 112, paragraph 6 application where a claim recites “means”). I cannot say that I disagree with those statements, but I question whether those statements sidestep underlying fundamental issues involving the development of functional claiming law since 1952 when 35 U.S.C. § 112, paragraph 6 was passed.
+ 
+For these and the reasons set forth below, I respectfully concur-in-part, dissent in part, and provide certain comments concerning means-plus-function claiming.
+ 
+
+I. The “Graphical Display” Limitations.
+The majority reverses the district court’s conclusion that the “graphical display representative of a classroom” terms require a pictorial map and construes the terms as “a graphical representation of an at least partially virtual space in which participants can interact.” While the majority is correct that the claims of the ′840 patent do not require a pictorial map, the majority’s construction ignores a critical limitation. As reviewed below, the specification and prosecution history make clear that the “graphical display representative of a classroom” terms are properly construed as requiring a visually depicted virtual classroom.
+ 
+During prosecution, the applicant explained that the invention is distinct from the prior art because the patent requires a “visual virtual classroom” displayed on both a first and second computer system:
+Additionally, [the prior art] does not disclose the claimed feature of “creating a graphical display representative of the classroom” on a second computer system coupled to the network. The present invention allows both a first computer system (for example, the presenter computer system) and a second computer system (for example, an audience member) to view a graphical display of the classroom. This claimed feature of the present invention allows the audience *1356 members to interact in a visual virtual classroom environment with both the presenter and other audience members.
+By contrast, [the prior art] merely discloses “[as] the students log in, their seating locations in the classroom are shown by a highlighted icon in the classroom map on the teacher’s screen.” ... [The prior art] does not teach or suggest displaying a graphical display representative of a classroom on a student’s screen.
+J.A. 1267–68 (original emphasis removed and emphases added). These statements in conjunction with the patent’s claim terms confirm the significance of displaying visually depicted virtual classroom.
+ 
+The “classroom metaphor” is used extensively in characterizing the operation, and touting the benefits, of the inventions embodied in the ′840 patent. The Abstract teaches that “[t]he classroom environment module provides a classroom metaphor having a podium and rows of seats to the presenter and audience computer systems.” ′840 patent Abstract. The Summary of the Invention states that the drawbacks of the prior art are overcome “by a distributed learning system that uses industry-standard computer hardware and software linked by a network like the Internet to provide a classroom- or auditorium-like metaphor to at least one presenter and at least one audience member.” Id. col. 2 ll. 10–14. The patent further teaches that a “feedback region” on the presenter’s computer “preferably displays a graphical representation of the classroom” and the “classroom environment module” is used to provide “a classroom- or auditorium-like metaphor to the presenter and audience members.” Id. col. 3 ll. 11–13, col. 5 l.67–col. 6 l.1.
+ 
+The repeated mention of the classroom metaphor within the context of the invention and the importance of a visually depicted virtual classroom in the prosecution history indicate that the “graphical display representative of a classroom” terms require a visually depicted virtual classroom. The construction derived by the majority reads out this important limitation that distinguishes the invention from the prior art. See Callicrate v. Wadsworth Mfg., Inc., 427 F.3d 1361, 1369 (Fed.Cir.2005) (holding that it was error for the district court to read out a limitation clearly required by the claim language and specification). It is error to read a claim too broadly, as it is to read a claim too narrowly. See, e.g., Phillips v. AWH Corp., 415 F.3d 1303, 1321 (Fed.Cir.2005). In reading out this important limitation on the “graphical display representative of a classroom” terms, the majority sidesteps our well established rules of claim construction, causing them to reach an erroneous result.
+ 
+
+II. Functional Claiming
+The majority switches course from its prior decision, Williamson I, and now affirms the district court’s conclusion that the term “distributed learning control module” is governed by § 112 para. 6 and is indefinite under § 112 para. 2 because the specification of the ′840 patent fails to disclose corresponding structure. The majority goes on to explicitly “overrule the characterization of th[e] presumption [that § 112 para. 6 does not apply when the term “means” is not used] as ‘strong.’ ” Maj. Op. at 1349–50. While I agree with that conclusion, we stop short of addressing other equally fundamental concerns about functional claiming.
+ 
+Our use of § 112, para. 6 presumptions relies on a rigid framework, where a flexible one is arguably more apt. A “presumption” is a procedural tool that shifts the burden of proof on a substantive issue: if a basic fact is established, a court accepts a conclusion on the issue unless the *1357 presumption is rebutted with evidence that meets the presumption’s associated standard of proof. 1–301 Weinstein’s Federal Evidence § 301.02 (2015).2 Our § 112 para. 6 presumptions come from the notion that, all else being equal, it is more likely that a party is covered by a statute when it uses the words of the statute. The use of formal presumptions, the argument goes, takes this concept to the extreme, supplying one substantive test for a claim that recites “means” and another for a claim that recites other non-structural terms like “module.” The statute admits no such variation, supplying only one test: is the element “expressed as a means or step for performing a specified function without the recital of structure, material, or acts in support thereof.” What arguably changes is the weight we attach to different recitations in meeting this test: “means” weighs heavily, non-structural terms like “module” weigh a little less, and, at the other end of the spectrum, purely structural terms weigh heavily in the opposite direction.
+ 
+A related concern is, assuming that a presumption is the right tool to analyze the statute, should a presumption arise based on the word “means.” Almost twenty years ago, this court adopted a presumption that a claim term that recites “means” invokes § 112, para. 6. York Products, Inc. v. Central Tractor Farm & Family Center, 99 F.3d 1568 (Fed.Cir.1996); Greenberg v. Ethicon Endo–Surgery, Inc., 91 F.3d 1580 (Fed.Cir.1996). Appellees’ petition for rehearing en banc argues that § 112 para. 6 provides no basis for adopting a presumption that a claim term is governed by this statute when the term “means” is used. Appellees argue that “[w]hat started out as a straightforward issue of substance ... has morphed into an issue of form.” Appellee’s Petition for Rehearing En Banc at 6. Appellees argue that “the text of [§ 112 para. 6], the Supreme Court authority leading to it, and its legislative history universally confirm that [the statute] applies to all claims that do not recite sufficient structure for performing the recited function—regardless of whether the word ‘means’ is used.” Id. at 11. Moreover, the fact that the statute uses both terms—“means” and “step”—would suggest that any presumption should apply to the use of either word. Yet, it is arguably not clear to what extent this court attaches a presumption to the word “step.”
+ 
+Finally, it is generally accepted that § 112, para. 6 was passed in response to the Supreme Court’s decision in Halliburton Oil Well Cementing Co. v. Walker, 329 U.S. 1, 67 S.Ct. 6, 91 L.Ed. 3 (1946). See Warner–Jenkinson Co., Inc. v. Hilton Davis Chem. Co., 520 U.S. 17, 27, 117 S.Ct. 1040, 137 L.Ed.2d 146 (1997) (collecting cases); Technitrol, Inc. v. Control Data Corp., 550 F.2d 992, 998 n. 5 (4th Cir.1977). In Halliburton, the Supreme Court made the following observations in holding certain claims that recite “means” language invalid:
+The language of the claim ... describes this ... element in the ‘new’ combination in terms of what it will do rather than in terms of its own physical characteristics *1358 or its arrangement in the new combination apparatus. We have held that a claim with such a description of a product is invalid....
+Id. at 8, 67 S.Ct. 6.
+ 
+Arguably, this rationale applies to functional claiming generally, not just to claims that recite “means.” Indeed, the Halliburton Court relied on precedent invalidating functional claims that did not recite the term “means.” Id. at 9, 67 S.Ct. 6 (citing Holland Furniture Co. v. Perkins Glue Co., 277 U.S. 245, 256–57, 48 S.Ct. 474, 72 L.Ed. 868 (1928).) The continued viability of this rationale, and its impact on how this Court applies § 112, para. 6 merits attention.
+ 
+In sum, my view is that perhaps we need to revisit our judicially-created § 112, para. 6 presumptions.
+ 
+
+NEWMAN, Circuit Judge, dissenting.
+
+I respectfully dissent from the en banc ruling that is inserted into this panel opinion at Section II.C.1. The court en banc changes the law and practice of 35 U.S.C. § 112 paragraph 6, by eliminating the statutory signal of the word “means.” The purpose of this change, the benefit, is obscure. The result, however, is clear: additional uncertainty of the patent grant, confusion in its interpretation, invitation to litigation, and disincentive to patent-based innovation.
+ 
+Curiously, the court acknowledges that it “has long recognized the importance of the presence or absence of the word ‘means.’ ” Maj. Op. at 1348. Nonetheless, the court rejects the meaning and usage of “means” to signal means-plus-function claim construction. The court now overrules dozens of cases referring to a “strong presumption” of means-plus-function usage, and goes to the opposite extreme, holding that this court will create such usage from “[g]eneric terms such as ‘mechanism,’ ‘element,’ ‘device,’ and other nonce words.” Maj. Op. at 1350. In the case before us, the so-called “nonce” word is “module.” Thus the court erases the statutory text, and holds that no one will know whether a patentee intended means-plus-function claiming until this court tells us.
+ 
+I dissent from the majority’s reasoning and the majority’s holding that “distributed learning control module” falls under paragraph 6. I express no opinion on the ultimate validity of the claim; the claim must stand or fall on its merit, but does not fall under paragraph 6.
+ 
+I urge the court to recognize that it is the applicant’s choice during prosecution whether or not to invoke paragraph 6, and the court’s job is to hold the patentee to his or her choice. This approach is clear, easy to administer by the USPTO in examination and the courts in litigation, and does no harm, for patent applicants know how to invoke paragraph 6 if they choose.
+ 
+
+The statute is clear
+When the statute is clear, judicial interpretation is unnecessary. See Sebelius v. Cloer, ––– U.S. ––––, 133 S.Ct. 1886, 1896, 185 L.Ed.2d 1003 (2013) (“[R]ules of thumb give way when the words of a statute are unambiguous ...”) (internal quotations omitted); Arlington Cent. Sch. Dist. Bd. of Educ. v. Murphy, 548 U.S. 291, 296, 126 S.Ct. 2455, 165 L.Ed.2d 526 (2006) (“When the statutory ‘language is plain, the sole function of the courts—at least where the disposition required by the text is not absurd—is to enforce it according to its terms.’ ”) (quoting Hartford Underwriters Ins. Co. v. Union Planters Bank, N.A., 530 U.S. 1, 6, 120 S.Ct. 1942, 147 L.Ed.2d 1 (2000)); Hughes Aircraft Co. v. Jacobson, 525 U.S. 432, 438, 119 S.Ct. 755, 142 L.Ed.2d 881 (1999) (“As in any case of statutory construction, our analysis begins with the language of the statute. And where the statutory language provides a *1359 clear answer, it ends there as well.”) (internal citations and quotations omitted); Estate of Cowart v. Nicklos Drilling Co., 505 U.S. 469, 475, 112 S.Ct. 2589, 120 L.Ed.2d 379 (1992) (“[W]hen a statute speaks with clarity to an issue judicial inquiry into the statute’s meaning, in all but the most extraordinary circumstance, is finished.”).
+ 
+35 U.S.C. § 112 paragraph 6 authorizes and limits the claiming of a function:
+¶ 6 An element in a claim for a combination may be expressed as a means or step for performing a specified function without the recital of structure, material, or acts in support thereof, and such claim shall be construed to cover the corresponding structure, material, or acts described in the specification and equivalents thereof.
+(Boldface added. Paragraph 6 was redesignated paragraph “f” in 2012—I retain the earlier designation here, for concordance with precedent.).
+ 
+The statute is clear. To claim an element by the function performed, the element is “expressed as” a “means for,” as the statute provides. The court’s holding that “distributed learning control module” is “a means-plus-function claim term despite the absence of the word ‘means’,” maj. op. at 1350, is not only unclear—it also violates the statute.
+ 
+
+The signal “means for” is clear—and is clearly understood
+When the statutory signal “means for” is given, the entire patent-concerned community: the patent attorney, the patent examiner, the competitor, the infringer, the inventor, and the judge, know “the subject matter which the applicant regards as his invention,” 35 U.S.C. § 112 ¶ 2, and know how the means-plus-function term is required to be construed. When an applicant claims a “means for” performing a function, the statute limits the scope of the claim to the structure in the specification and its equivalents. With today’s en banc change of law, as the case sub judice illustrates, everyone must guess whether the claimed “module” is claimed as a function or an apparatus or something else, and whether it is to be limited by the “structure, material, or acts described in the specification and equivalents thereof.” 35 U.S.C. § 112, ¶ 6.
+ 
+Until today, the signal “means for” instructed the claim interpretation. There was no ambiguity about how the claim was to be interpreted. I discern no groundswell for this change in the law of claiming—indeed, the public voice has been silent. I know of no legal or public interest served by introducing this uncertainty into claim construction. I urge the court to restore this claim construction to its clear and effective role.
+ 
+
+Legislation by footnote
+An unheralded footnote, announcing en banc change of law, without notice to and participation of the interested public, is not the optimum judicial path. There is indeed a need for judicial consistency concerning the construction of means-plus-function claims. The answer is not to strain the statute and reject consistency, but to enforce the statute as it is written.
+ 
+We should act en banc to correct this departure from statute. If the statute is to be changed, that is not the judicial prerogative. Indeed, it is noteworthy that in eight years of congressional study of proposals for legislative change, culminating in the America Invents Act of 2012, the legislative record shows no proposal to depart from the “strong presumption” embodied in section 112 paragraph 6 and the statutory signal “means for.”
+ 
+
+The burden is on the applicant, not the judge
+The burden of determining whether paragraph 6 applies to a particular element *1360 is on the applicant, not the court. As the Faber/Landis treatise states: “To be sure you are under section 112, paragraph 6, use the pure ‘means for ...’ Other words lead to ambiguity and the need for the court to decide. Use of clear structure words avoids ambiguity.” ROBERT C. FABER, LANDIS ON MECHANICS OF PATENT CLAIM DRAFTING at 3–201 (5th ed.2008).
+ 
+The Donner treatise teaches by example:
+For example, suppose an invention relates to a new television set. The television set includes a new transistor-based picture tube, as well as other new features. The picture tube can be recited two ways in the claim for the television:
+Standard claim element format:
+A television, comprising:
+A picture tube; ...
+Means-plus-function format:
+A television comprising:
+Picture tube means for displaying a television picture; ...
+IRAH H. DONNER, PATENT PROSECUTION: PRACTICE AND PROCEDURE BEFORE THE U.S. PATENT AND TRADEMARK OFFICE at 46–47 (2d ed.1999).
+ 
+My colleagues protest that the statutory presumption of “means” “has resulted in a proliferation of functional claiming untethered to § 112, para. 6 and free of the strictures set forth in the statute.” Maj. Op. at 1349. This is an indictment of the court’s fidelity to the statute, not a flaw in the statute itself. The court’s reasoning today that there is no “algorithm” for “module” in the specification, and the word “module” is a “nonce word” for “means,” and thus the claim is written in accordance with paragraph 6, is not easy to fathom.
+ 
+
+The enactment in 1952
+This paragraph was enacted to overturn several Supreme Court rulings rejecting “functional” claiming. The statute authorizes claiming a function or step in a combination, while safeguarding against the Court’s stated concerns. P.J. Federico’s Commentary explains:
+The last paragraph of section 112 relating to so-called functional claims is new. It provides that an element of a claim for a combination (and a combination may be not only a combination of mechanical elements, but also a combination of substances in a composition claim, or steps in a process claim) may be expressed as a means or step for performing a specified function, without the recital of structure, material or acts in support thereof.
+P.J. Federico, Commentary on the New Patent Act, in 35 U.S.C.A. 1, 25 (West 1954), reprinted in 75 J. PAT. & TRADEMARK OFF. SOC’Y 161 (1993).1
+ 
+The Commentary made clear that the statute was intended to overrule some Court decisions:
+It is unquestionable that some measure of greater liberality in the use of functional expressions in combination claims is authorized than had been permitted by some court decisions and that decisions such as that in Halliburton Oil Well Cementing Co. v. Walker, 329 U.S. 1, 67 S.Ct. 6, 91 L.Ed. 3 (1946), are modified or rendered obsolete, but the exact limits of the enlargement remain to be determined.
+*1361 Id. Federico explained that paragraph 6 enlarges the opportunity to claim a function, but limits how that function is supported and construed:
+The paragraph ends by stating that such a claim shall be construed to cover the corresponding structure, material, or acts described in the specification and equivalents thereof. This relates primarily to the construction of such claims for the purpose of determining when the claim is infringed (note the use of the word “cover”), and would not appear to have much, if any, applicability in determining the patentability of such claims over the prior art, that is, the Patent Office is not authorized to allow a claim which “reads on” the prior art.
+Id. at 26.
+ 
+Thus this paragraph of the 1952 Act overruled the Halliburton case, which had been supported by earlier precedent, as the Court discussed. Halliburton, 329 U.S. at 10, 67 S.Ct. 6 (citing General Elec. Co. v. Wabash Appliance Corp., 304 U.S. 364, 371, 58 S.Ct. 899, 82 L.Ed. 1402 (1938) for the proposition that claims are indefinite for using “conveniently functional language at the exact point of novelty.”).
+ 
+This paragraph established that an inventor could claim a function, and the “means for” signal entered the patent lexicon, where it has reposed ever since, as a universally understood signal of a functional claim.
+ 
+
+The Examination Guidelines
+The PTO Examination Guidelines instruct examiners and practitioners in accordance with law. The 2000 Guidelines dealt with means-plus-function claiming as follows:
+The PTO must apply 35 U.S.C. 112 ¶ 6 in appropriate cases, and give claims their broadest reasonable interpretation, in light of and consistent with the written description of the invention in the application. [2] Thus, a claim limitation will be interpreted to invoke 35 U.S.C. 112 ¶ 6 if it meets the following 3–prong analysis:
+(1) The claim limitations must use the phrase “means for” or “step for;”
+(2) the “means for” or “step for” must be modified by functional language; and
+(3) the phrase “means for” or “step for” must not be modified by structure, material or acts for achieving the specified function.
+Supplemental Examination Guidelines for Determining the Applicability of 35 U.S.C. 112 ¶ 6, 65 Fed.Reg. 38510, 38514 (June 21, 2000). Endnote 2 cites In re Donaldson for “stating that 35 U.S.C. 112 ¶ 6 sets a limit on how broadly the PTO may construe means-plus-function language under the rubric of ‘reasonable interpretation’.” Id. at 38515. The Guidelines further explained:
+With respect to the first prong of this analysis, a claim element that does not include the phrase “means for” or “step for” will not be considered to invoke 35 U.S.C. 112 ¶ 6. If an applicant wishes to have the claim limitation treated under 35 U.S.C. 112 ¶ 6, applicant must either: (1) Amend the claim to include the phrase “means for” or “step for” in accordance with these interim guidelines; or (2) show that even though the phrase “means for” or “step for” is not used, the claim limitation is written as a function to be performed and does not provide any structure, material, or acts which would preclude application of 35 U.S.C. 112 ¶ 6.
+Id. at 38514.
+ 
+The 2000 Guidelines place the burden for invoking paragraph 6 on the applicant by way of the “means” signal. Id. at 38514 (citing Notice, Means or Step Plus Function Limitation under 35 U.S.C. 112, ¶ 6, 1162 OFFICIAL GAZETTE U.S. PAT. OFF. *1362 59 (May 17, 1994)). The Revised Examination Guidelines in 2011 attempted to incorporate this court’s intervening decisions, for the Federal Circuit had begun its retreat from clarity. See Supplementary Examination Guidelines for Determining Compliance With 35 U.S.C. 112 and for Treatment of Related Issues in Patent Applications, 76 Fed.Reg. 7162 (Feb. 9, 2011).
+ 
+Examiners are now instructed to scrutinize claims for “a nonce word or verbal construct that is not recognized as the name of a structure.” Id. at 7167 (citing Lighting World, 382 F.3d at 1360). The examiner is instructed to “determine whether the claim limitation uses a nonstructural term (a term that is simply a substitute for the term “means for”).” Id. (citing Welker Bearing Co. v. PHD, Inc., 550 F.3d 1090, 1096 (Fed.Cir.2008)). The examiner must guess whether the term is intended as a means-plus-function term, now that the court holds that the signal “means for” need not be used. Paragraph 6 has morphed from a clear legal instruction into a litigator’s delight.
+ 
+
+Federal Circuit precedent, on and off
+This court has recognized that the absence of “means for” signals the patentee’s intent not to invoke section 112, para. 6, and that this intent should not be rejected lightly. E.g., Apple Inc. v. Motorola, Inc., 757 F.3d 1286, 1297 (Fed.Cir.2014) (“We have repeatedly characterized this presumption as ‘strong’ and ‘not readily overcome’ and, as such, have ‘seldom’ held that a limitation without recitation of “means” is a means-plus-function limitation.”); Flo Healthcare Solutions, LLC v. Kappos, 697 F.3d 1367, 1374 (Fed.Cir.2012) (“Our cases make clear ... that the presumption flowing from the absence of the term ‘means’ is a strong one that is not readily overcome.”) (quoting Lighting World, Inc. v. Birchwood Lighting, Inc., 382 F.3d 1354, 1358 (Fed.Cir.2004)); Inventio AG v. ThyssenKrupp Elevator Americas Corp., 649 F.3d 1350, 1356 (Fed.Cir.2011) (“Thus, the presumption flowing from the absence of the term “means” is a strong one that is not readily overcome”); Al–Site Corp. v. VSI International, Inc., 174 F.3d 1308, 1318 (Fed.Cir.1999) (“[W]hen an element of a claim does not use the term “means,” treatment as a means-plus-function claim element is generally not appropriate.”); Personalized Media Communications, LLC v. International Trade Commission, 161 F.3d 696, 704 (Fed.Cir.1998) (“failure to use the word “means” creates a presumption that § 112, ¶ 6 does not apply.”). On this weighty precedent, the court’s en banc rejection of this simple signal is not readily understood.
+ 
+The en banc court still permits use of the “means” signal, although without a “strong presumption” of significance. The result is fresh uncertainty, for the judge can invoke paragraph 6 although the patentee chose otherwise and wrote the specification and claims on a different legal standard.
+ 
+
+All claims must meet the requirements of patentability
+The court states its concern with overly broad interpretation of software claims. The court is not powerless to require software claims to comply with the statutory requirements of description, enablement, definiteness, unobviousness, etc. If there have been abuses, as the majority states, the remedy is not to eliminate the statute, but to apply the statute.
+ 
+Today’s ruling is an example. The court holds that the clause “distributed learning control module” is subject to paragraph 6 because “module” is a “nonce word.” The court then finds no “algorithm” for “module” in the specification, and invalidates the claim for failing to comply with paragraph 6. However, contrary to the apparent belief of the majority, the presence or *1363 absence of the paragraph 6 signal does not affect the requirements of patentability.
+ 
+All claims must meet the requirements of patentability. Paragraph 6 is a statute of authorization and limitation; it does not annul the other provisions of the statute. The problem with today’s ruling is that the court has rejected the rigor and simplicity of paragraph 6 and the patentee’s intent, replacing it with arbitrary judicial subjectivity.
+ 
+
+CONCLUSION
+Paragraph 6 was designed to authorize and provide the rules for claiming a functional element or step. No purpose is served by discarding the statutory signal. The result is further inroad into stability of claim construction. I respectfully dissent.
+ 
+All Citations
+792 F.3d 1339, 115 U.S.P.Q.2d 1105
+Footnotes
+
+1
+
+The earlier opinion in this case, reported at 770 F.3d 1371 (Fed.Cir.2014), is withdrawn, and this opinion substituted therefore. Part II.C.1. of this opinion has been considered and decided by the court en banc. See Order in this case issued this date.
+
+2
+
+35 U.S.C. § 112 was amended and subsections were renamed by the America Invents Act, Pub.L. No. 112–29 (“AIA”), which took effect on September 16, 2012. Because the application resulting in the ′840 patent was filed before that date, this opinion refers to the pre-AIA version of § 112.
+
+3
+
+Because the overruling of prior precedent can only be done by the court en banc, see South Corp. v. United States, 690 F.2d 1368, 1370 n. 2 (Fed.Cir.1982) (en banc ), Part II.C.1. of this opinion has been considered by an en banc court formed of PROST, Chief Judge, NEWMAN, LOURIE, LINN, DYK, MOORE, O’MALLEY, REYNA, WALLACH, TARANTO, CHEN, and HUGHES, Circuit Judges.
+
+4
+
+See, e.g., Laitram Corp. v. Rexnord, Inc., 939 F.2d 1533 (Fed.Cir.1991); Greenberg v. Ethicon Endo–Surgery, Inc., 91 F.3d 1580 (Fed.Cir.1996); Cole v. Kimberly–Clark Corp., 102 F.3d 524 (Fed.Cir.1997); Mas–Hamilton Group v. LaGard, Inc., 156 F.3d 1206 (Fed.Cir.1998); Unidynamics Corp. v. Automatic Prods. Int’l, Ltd., 157 F.3d 1311 (Fed.Cir.1998).
+
+5
+
+We have addressed the use of the word “module” in a means-plus-function dispute in the unpublished decision Ranpak Corp. v. Storopack, Inc., 168 F.3d 1316, No. 98–1009, 1998 WL 513598 (Fed.Cir. July 15, 1998) (unpublished). In Ranpak, we were presented with two closely related claim terms, a “settable control means,” which indisputably invoked means-plus-function claiming, and a “settable control module.” Id. at *2. In the context of the patent at issue, we found that the word “module” in the term “settable control module” did not connote structure. Id. We came to this conclusion because “module” merely sets forth “the same black box without recitation of structure for providing the same specified function” as did “means.” Id. Since there was no difference in the structural implications of the terms, we held that the presumption against means-plus-function claiming was rebutted and the “settable control module” was properly construed as a means-plus-function term.
+
+1
+
+Williamson v. Citrix Online, LLC, 770 F.3d 1371, 1380 (Fed.Cir.2014)
+
+2
+
+One familiar presumption is the presumption of patent validity. Under this presumption, a court accepts the conclusion that an issued patent is valid absent clear and convincing evidence negating that presumption, i.e., evidence showing that the patent is invalid. Microsoft Corp. v. i4i Ltd. P’ship, ––– U.S. ––––, 131 S.Ct. 2238, 2242, 180 L.Ed.2d 131 (2011); Commil USA, LLC v. Cisco Systems, Inc., –––U.S. ––––, 135 S.Ct. 1920, 1928–29, 191 L.Ed.2d 883 (2015). I note that the majority opinion does not provide an associated standard of proof for the § 112 para. 6 presumptions. Indeed, I remain unconvinced that this court has applied a different standard of proof dependent on how the presumption is labeled or characterized.
+
+1
+
+See Giles S. Rich, Congressional Intent—or, Who wrote the Patent Act of 1952?, in PATENT PROCUREMENT AND EXPLOITATION 61, 66 (BNA Inc., 1963) (“Mr. Federico received a letter ... saying the [House] committee requested him to undertake the preparation of ‘an overall patent revision bill’ at his earliest convenience....”); see also Louis S. Zarfas, Notes from the Editor, J. PAT. & TRADEMARK OFF. SOC’Y 160 (1993) ( “Examiner–in–Chief Federico was the primary author of the Patent Act of 1952.”).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

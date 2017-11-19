@@ -1,0 +1,144 @@
+
+
+ 
+
+
+Streicher v. U.S. Bank National Association
+United States Court of Appeals, Eleventh Circuit. | December 21, 2016 | 666 Fed.Appx. 844 | 2016 WL 7383728
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Streicher v. U.S. Bank Nat’l Ass’n, 666 F. App’x 844 (11th Cir. 2016)
+
+All Citations:
+
+666 Fed.Appx. 844
+
+Search Details
+
+Search Query:
+
+adv: NAME(”wells fargo”)
+
+Jurisdiction:
+
+Florida
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 3:08 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+666 Fed.Appx. 844
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S. Ct. of App. 11th Cir. Rule 36-2.
+United States Court of Appeals,
+Eleventh Circuit.
+Stanley STREICHER, Marsha Streicher, Plaintiffs-Appellants,
+v.
+U.S. BANK NATIONAL ASSOCIATION, U.S. Bank National Association As Successor Trustee of the Wells Fargo Asset Securities Corporation, Mortgage Pass-Through Certificates 2005-AR16, Defendants-Appellees.
+No. 16-11621
+|
+Non-Argument Calendar
+|
+Date Filed: 12/21/2016
+Synopsis
+Background: Mortgagors brought state court action against mortgagee seeking declaratory judgment that prior state court order dismissing foreclosure action against them had preclusive effect on any future actions by mortgagee to enforce promissory note underlying their mortgage. Following removal, the United States District Court for the Southern District of Florida, Kenneth A. Marra, J., 2016 WL 1028359, entered summary judgment in favor of mortgagee. Mortgagors appealed.
+ 
+[Holding:] The Court of Appeals held that state court’s dismissal of foreclosure action for lack of standing was not a final adjudication on the merits having preclusive effect on future actions to enforce the note underlying the mortgage.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+JudgmentDismissal and nonsuit
+
+
+228Judgment
+228XVIIForeign Judgments
+228k828Effect of Judgments of State Courts in United States Courts
+228k828.9Nature of Judgment
+228k828.9(5)Dismissal and nonsuit
+
+
+Under Florida law, state court’s dismissal of foreclosure action for lack of standing was not final adjudication on the merits and therefore did not carry preclusive effect on any future actions by mortgagee to enforce promissory note underlying mortgagors’ loan; state court made no decision as to enforceability of the mortgage and instead determined that it did not have jurisdiction to reach the merits because party seeking relief lacked standing.
+1 Cases that cite this headnote
+
+
+
+*845 Appeal from the United States District Court for the Southern District of Florida, D.C. Docket No. 9:14-cv-80265-KAM
+Attorneys and Law Firms
+Roderick F. Coleman, Coleman & Associates, PA, Boca Raton, FL, for Plaintiffs-Appellants
+Dean Angelo Morande, Michael K. Winston, Kristin Alexandra Gore, Carlton Fields Jorden Burt, PA, West Palm Beach, FL, for Defendants-Appellees
+Before WILLIAM PRYOR, MARTIN, and ANDERSON, Circuit Judges.
+Opinion
+PER CURIAM:
+
+Stanley and Marsha Streicher appeal the district court’s order denying their motion for summary judgment and granting summary judgment to the defendants. After careful review, we affirm.
+ 
+
+I.
+In June 2010, a mortgage foreclosure action was brought against the Streichers in Florida state court. According to the complaint, the party that brought the foreclosure action against the Streichers was U.S. Bank National Association as Successor Trustee to Wachovia Bank, National Association, as Trustee for Wells Fargo Asset Securities Corporation, Mortgage Pass-Through Certificates Series 2005-AR16 (“U.S. Bank”). Although U.S. Bank was the only named plaintiff in the foreclosure action, Wells Fargo Bank, N.A. (“Wells Fargo”), the mortgage servicer for U.S. Bank, sought to bring the suit on U.S. Bank’s behalf. At trial, U.S. Bank made no appearance and Wells Fargo litigated in its place. After the close of Wells Fargo’s evidence, the state court granted the Streichers’ motion for involuntary dismissal. The state court dismissed the case on the ground that Wells Fargo lacked standing because it failed to prove that U.S. Bank authorized it to bring suit on U.S. Bank’s behalf.
+ 
+The Streichers then filed this suit in state court against U.S. Bank, and U.S. Bank removed the case to federal court.1 The Streichers seek a declaratory judgment that the state court’s dismissal of the foreclosure action has preclusive effect on *846 any future actions by U.S. Bank to enforce the promissory note underlying their mortgage. In plain English, they are asking the federal court to bar U.S. Bank from collecting the amount the Streichers allegedly owe on their mortgage, on the ground that the state court determined that Wells Fargo was not the proper party to bring the original foreclosure action against them.
+ 
+Both parties moved for summary judgment. The Streichers are entitled to summary judgment (and U.S. Bank is not) if the state court’s dismissal of the foreclosure action has preclusive effect as a matter of law, also known as res judicata. Under Florida law, res judicata may apply only if there has been a prior adjudication “on the merits.”2 Topps v. State, 865 So.2d 1253, 1255 (Fla. 2004) (per curium) (quoting Kent v. Sutker, 40 So.2d 145, 147 (Fla. 1949)); see also Vasquez v. YII Shipping Co., 692 F.3d 1192, 1199 (11th Cir. 2012). Thus, we must decide whether, under Florida law, dismissal of a foreclosure action for lack of standing constitutes an adjudication on the merits such that it triggers res judicata. The district court found that it does not. The Streichers appeal that decision.
+ 
+
+II.
+Whether to apply the doctrine of res judicata is a question we review de novo. Norfolk S. Corp. v. Chevron, U.S.A., Inc., 371 F.3d 1285, 1288 (11th Cir. 2004). When deciding the preclusive effect of a state court judgment, we must give that judgment the same preclusive effect that “another court of that State would give [it].” Exxon Mobil Corp. v. Saudi Basic Indus. Corp., 544 U.S. 280, 293, 125 S.Ct. 1517, 1527, 161 L.Ed.2d 454 (2005) (quotation omitted) (citing the Full Faith and Credit Act, 28 U.S.C. § 1738). Thus, we look to what the Florida courts have said about whether dismissal of a foreclosure action for lack of standing constitutes an adjudication on the merits for purposes of res judicata. Because the Florida Supreme Court has not addressed this question, we turn to the Florida appellate courts. See Galindo v. ARI Mut. Ins. Co., 203 F.3d 771, 775 (11th Cir. 2000) (“Absent a decision by the highest state court or persuasive indication that it would decide the issue differently, federal courts follow decisions of intermediate appellate courts in applying state law.”); Pardo v. State, 596 So.2d 665, 666 (Fla. 1992) (“[T]he decisions of the district courts of appeal represent the law of Florida unless and until they are overruled by this Court.” (quotation omitted)).
+ 
+The Florida Fifth District Court of Appeal recently decided the precise issue before us in this case. See Brown v. M & T Bank, 183 So.3d 1270 (Fla. Dist. Ct. App. 2016). In Brown, the court considered “[w]hether the dismissal of a foreclosure action for lack of standing operates as an adjudication on the merits for purposes of res judicata.” Id. at 1270. The court held it does not. Id.
+ 
+We must apply the Brown decision unless there is “persuasive indication that [the Florida Supreme Court] would decide the issue differently.” Galindo, 203 F.3d at 775. There is no indication that it would. It is well established under Florida law that a  *847 judgment is “upon the merits” such that it carries preclusive effect when the judgment “amounts to a declaration of the law as to the respective rights and duties of the parties based upon the ultimate facts disclosed by the pleadings and evidence and upon which the right of recovery depends.” J. Schnarr & Co. v. Virginia–Carolina Chem. Corp., 118 Fla. 258, 159 So. 39, 42 (1934); see also State St. Bank & Trust Co. v. Badra, 765 So.2d 251, 254 (Fla. Dist. Ct. App. 2000) (“A judgment rendered on any grounds which do not involve the merits of the action may not be used as the basis for the operation of the doctrine of res judicata.”). In Badra, the court held that the trial court’s dismissal of a foreclosure action on the ground that the bank “fail[ed] to comply with certain conditions precedent” under the mortgage was not “an adjudication on the merits” because “[a]t no time did the court grant summary judgment on the basis that the mortgage was unenforceable.” Badra, 765 So.2d at 254–55. Here, like Badra, the state court made no decision as to the enforceability of the mortgage. To the contrary, the court dismissed the suit—and refused to reach the merits—because the party seeking relief lacked standing. Cf. Vasquez, 692 F.3d at 1199 (holding that a Florida court’s dismissal for forum non conveniens “was not a judgment on the merits because it did not resolve the respective rights and duties of the parties.” (quotation omitted)). Because a dismissal for lack of standing is not an adjudication on the merits, the state court’s dismissal of the foreclosure action against the Streichers does not have preclusive effect.
+ 
+The Streichers claim that Florida Rule of Civil Procedure 1.420(b) supports their argument that a dismissal for lack of standing is an adjudication on the merits. However, Rule 1.420(b) says that, although an involuntary dismissal generally “operates as an adjudication on the merits,” a “dismissal for lack of jurisdiction” does not. Fla. R. Civ. P. 1.420(b). Under Florida law, it is clear that a dismissal for lack of standing is a dismissal for lack of jurisdiction. See Rogers & Ford Const. Corp. v. Carlandia Corp., 626 So.2d 1350, 1352 (Fla. 1993) (“The determination of standing to sue concerns a court’s exercise of jurisdiction to hear and decide the cause pled by a particular party.”); Ervin v. Taylor, 66 So.2d 816, 817 (Fla. 1953) (en banc) (holding that the court was without jurisdiction where there were no actual adversaries as to a present controversy). Because the state court’s dismissal falls into the category of dismissals that the Florida Rules of Civil Procedure expressly designate as not being “on the merits,” the state court’s dismissal of the foreclosure action cannot have preclusive effect.
+ 
+The district court was correct in its determination that the state court dismissal does not have res judicata effect under Florida law.
+ 
+AFFIRMED.
+ 
+All Citations
+666 Fed.Appx. 844
+Footnotes
+
+1
+
+The Streichers’ operative complaint names U.S. Bank as a defendant in its capacity as Trustee and in its individual capacity. We refer to both collectively as “U.S. Bank.”
+
+2
+
+In addition to the requirement that the earlier action be adjudicated on the merits, Florida law also requires that “four identities” be present. See Topps, 865 So.2d at 1255 (“The doctrine of res judicata applies when four identities are present: (1) identity of the thing sued for; (2) identity of the cause of action; (3) identity of persons and parties to the action; and (4) identity of the quality of the persons for or against whom the claim is made.”). Because the state court action was not decided on the merits, we do not reach the issue of whether the “four identities” are satisfied.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

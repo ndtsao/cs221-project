@@ -1,0 +1,349 @@
+
+
+ 
+
+
+B.E. Technology, L.L.C. v. Sony Mobile Communications (USA) Inc.
+United States Court of Appeals, Federal Circuit. | August 12, 2016 | 657 Fed.Appx. 982 | 2016 WL 4255008
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+B.E. Tech., L.L.C. v. Sony Mobile Commc’ns (USA) Inc., 657 F. App’x 982 (Fed. Cir. 2016)
+
+All Citations:
+
+657 Fed.Appx. 982
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+657 Fed.Appx. 982
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+B.E. Technology, L.L.C., Appellant
+v.
+Sony Mobile Communications (USA) Inc., Appellee
+B.E. Technology, L.L.C., Appellant
+v.
+Google, Inc., Appellee
+B.E. Technology, L.L.C., Appellant
+v.
+Microsoft Corporation, Appellee
+B.E. Technology, L.L.C., Appellant
+v.
+Samsung Electronics America, Inc., Appellee
+2015-1882
+|
+2015-1883
+|
+2015-1884
+|
+2015-1887
+|
+2015-1888
+|
+Decided: August 12, 2016
+Synopsis
+Background: The Patent and Trademark Office, Patent Trial and Appeal Board, across five inter partes reviews, found three claims unpatentable in patent describing computer program that allowed access of data stored on server through user’s personal computer. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Lourie, Circuit Judge, held that:
+ 
+[1] term, “region,” meant “area”;
+ 
+[2] two regions were disclosed by prior art as required to anticipate separate regions claim;
+ 
+[3] networking claim was anticipated by prior art; and
+ 
+[4] prior art anticipated claim requiring links to specific files.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (6)
+
+
+[1]
+
+PatentsComputers and Software
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1391Computers and Software
+291k1392In general
+
+
+Term, “region,” meant “area,” in patent describing computer program that allowed access of data stored on server through user’s personal computer.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)2Particular Fields of Invention
+291k531Computers and Software
+291k532In general
+
+
+Two regions were disclosed by prior art that described personalized Internet home page that could display links to user’s e-mail and other electronic documents as required to anticipate separate regions claim in patent describing computer program that allowed access of data stored on server through user’s personal computer, since prior art cited buttons that were in two areas, it stated that user’s home page might contain both links to e-mail, faxes, voice-mail, and other electronic documents, as well as links to personal dictionary, spell checker, or thesaurus, and those two groups of buttons constituted two “areas” of home page.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)2Particular Fields of Invention
+291k531Computers and Software
+291k532In general
+
+
+Networking claim in patent describing computer program that allowed access of data stored on server through user’s personal computer was anticipated by prior art personalized internet home page that could display links to user’s e-mail and other electronic documents, since claim did not require files to be accessed without aid of server software, server required some form of software in order to provide any files to client computer, internet browser was “program,” and browser disclosed by prior art fell within patent’s definition of “browser.”
+1 Cases that cite this headnote
+
+
+
+[4]
+
+PatentsComputers and Software
+
+
+291Patents
+291IIPatentability and Validity
+291II(C)Novelty;  Anticipation
+291II(C)2Particular Fields of Invention
+291k531Computers and Software
+291k532In general
+
+
+Prior art internet browser specifically disclosing that home page had “on-screen links to electronic documents reserved for the home page owner, such as e-mail and faxes” anticipated claim requiring links to specific files in patent describing computer program that allowed access of data stored on server through user’s personal computer.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,771,290. Invalid.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 5,706,502. Cited as Prior Art.
+Cases that cite this headnote
+
+
+
+*983 Appeal from the United States Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2014–00029.
+Appeals from the United States Patent and Trademark Office, Patent Trial and Appeal Board in Nos. IPR2014–00031, IPR2014–00033.
+Appeal from the United States Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2014–00040.
+Appeal from the United States Patent and Trademark Office, Patent Trial and Appeal Board in No. IPR2014–00044.
+Attorneys and Law Firms
+DANIEL J. WEINBERG, Freitas Angell & Weinberg LLP, Redwood City, CA, argued for appellant. Also represented by ROBERT E. FREITAS.
+JEFFREY PAUL KUSHAN, Sidley Austin LLP, Washington, DC, argued for appellees Sony Mobile Communications (USA) Inc., Microsoft Corporation, Samsung Electronics America Inc. Sony Mobile Communications (USA), Inc., also represented by JOHN FLOCK, Kenyon & Kenyon LLP, New York, NY; PAUL T. QUALEY, Washington, DC; Microsoft Corporation, also represented by RYAN C. MORRIS, SCOTT BORDER, SAMUEL DILLON, ANNA MAYERGOYZ WEINBERG, Sidley Austin LLP, Washington, DC; Samsung Electronics America, Inc., also represented by JOSHUA LEE RASKIN, Greenberg Traurig LLP, New York, NY.
+BRIAN ROSENTHAL, Mayer Brown LLP, Washington, DC, argued for appellee Google, Inc. Also represented by, ANDREW JOHN PINCUS, PAUL WHITFIELD HUGHES, CLINTON BRANNON.
+Before Lourie, Chen, and Stoll, Circuit Judges.
+Opinion
+Lourie, Circuit Judge.
+
+B.E. Technology, L.L.C. (“B.E.”) appeals from four final written decisions of the U.S. Patent and Trademark Office, Patent Trial and Appeal Board (“the Board”), across five inter partes reviews (“IPR”), finding all three claims of its U.S. Patent 6,771,290 (“the ‘290 patent”) unpatentable. See Google, Inc. v. B.E. Tech., L.L.C., Nos. 2014–00031, IPR2014–00033, 2015 WL 1570822, at *14 (P.T.A.B. Apr. 6, 2015) (“Google Written Decision ”); Microsoft Corp. v. B.E. Tech., L.L.C., No. IPR2014–00040, 2015 WL 1570824, at *15 (P.T.A.B. Apr. 6, 2015) (“Microsoft Written Decision ”); Samsung Elecs. Am., Inc. v. B.E. Tech., L.L.C., No. IPR2014–00044, 2015 WL 1570825, at *10 (P.T.A.B. Apr. 6, 2015) (“Samsung Written Decision”); Sony Mobile Commc’ns (USA) Inc. v. B.E. Tech., L.L.C., No. IPR2014–00029, 2015 WL 1570821, at *10 (P.T.A.B. Apr. 6, 2015) (“Sony Written Decision”). As the above-captioned appeals present similar or identical issues, we consolidated them for oral argument, Order, B.E. Tech. LLC v. Sony Mobile Commc’ns., No. 15–1882 (Fed. Cir. May 24, 2016), and now address them in a single opinion. For the reasons that follow, we affirm.
+ 
+
+*984 BACKGROUND
+The ’290 patent describes a computer program that allows access of data stored on a server through a user’s personal computer. See ’290 patent col. 5 ll. 5–42. The server stores a library of files for each user, as well as a profile that provides links to files in the user library. Id. col. 5 ll. 43–61. When launched, the user enters login information, which allows the program to fetch the user profile from the server. Id. col. 26 l. 49–col. 27 l. 5. The program then uses the profile to populate a graphical user interface (“GUI”) with icons representing applications and links to files in the user’s library. Id. The GUI is divided into several regions, and each region can be selected by the user to open an associated program or item. See, e.g., id. col. 10 ll. 35–55; id. col. 13 ll. 41–58; id. col. 14 ll. 38–46. The user can then click the links to access the associated files. Id. col. 8 ll. 3–50. Figure 5b, below, shows one embodiment of the invention:
+ 
+
+​
+Id. fig.5b.
+ 
+The three challenged claims are reproduced below. Claim 1 reads as follows:
+1. A computer-readable memory for use by a client computer to provide a user of the computer with an integrated, customized, graphical user interface to a plurality of computer resources, the computer-readable memory comprising:
+a non-volatile data storage device;
+a program stored on said non-volatile data storage device in a computer-readable format;
+said program being operable upon execution to display a graphical user interface comprising an application window separated into a number of regions,
+a first one of said regions including a number of graphical objects, at least some of which are each representative of a different software application and are selectable by the user via an input device, wherein said program is operable upon selection of one of said graphical objects to initiate execution of the software application associated therewith;
+*985 a second one of said regions including a number of user-selectable items, at least some of which are each associated with a different data set, said data sets each comprising a number of links to different information resources, wherein said program is operable in response to selection of at least one of said items to provide the user with access to its associated data set;
+said program including a login module that is operable upon execution to identify the user of the computer; and
+said program being operable following execution of said login module to provide an identification of the user to the server and to receive from the server a user profile containing one or more user data sets and user links to information resources, with said program further being operable to display in one of said regions a user-selectable item for each of said user data sets and each of said user links.
+Id. col. 38 ll. 30–67.
+ 
+Claim 2 is somewhat different in scope, focusing more on the networked aspect of the invention and omitting the “regions” of the GUI. Claim 2 reads as follows:
+2. A computer-readable memory for use by a client computer in conjunction with a server that is accessible by the client computer via a network, the server storing a user profile and user library for each of a number of different users, with the user library containing one or more files and the user profile containing at least one user link that provides a[ ] link to one of the files in the user library, the computer-readable memory comprising:
+a non-volatile data storage device;
+a program stored on said non-volatile data storage device in a computer-readable format;
+said program being operable upon execution to display a graphical user interface comprising an application window having a number of user-selectable items displayed therein, wherein each of said items has associated with it a link to an information resource accessible via the network and wherein said program is operable upon execution and in response to selection by a user of one of said items to access the associated information resource over the network;
+said program being operable upon execution to receive from server one of the user profiles and to display a user-selectable item for user links contained within the user profile, said program further being operable in response to selection by a user of one of the user links to access the file associated with the selected user link from the user library associated with the received user profile.
+Id. col. 39 l. 1–col. 40 l. 11.
+ 
+Claim 3 depends on claim 2, and further requires:
+3. A computer-readable memory as defined in claim 2, wherein said program is operable upon execution and in response to selection by a user of one of said items to access the associated information resource over the network using a browser.
+Id. col. 40 ll. 12–17.
+ 
+Google, Inc. (“Google”), Microsoft Corp. (“Microsoft”), Samsung Electronics America, Inc. (“Samsung”), and Sony Mobile Communications (USA) Inc. (“Sony”) (collectively, “Appellees”) filed petitions for inter partes review of the ’290 patent. Sony and Samsung both alleged that claims 2 and 3 were unpatentable as anticipated by international patent application publication WO 97/09682, published March 12, 1995 (“Kikinis”). Kikinis describes a personalized Internet home page that can *986 display links to a user’s email and other electronic documents. See, e.g., Kikinis at 3:2–21. Figure 3 depicts a preferred embodiment, the relevant portion of which is shown below:
+ 
+
+​
+Id. fig.3.
+ 
+In that embodiment, home page 73 acts as “an interface to data and other Web destinations.” Id. at 7:32. The home page also includes link buttons 117, 118, 120, and 122, which can be used to access “e-mail, fax, and other electronic documents.” Id. at 8:13. Those documents are stored on a server, and the server runs programs specific to each particular type of document. See id. fig.2; id. at 7:11–16.
+ 
+Google, like Sony and Samsung, alleged that Kikinis anticipated claims 2 and 3 of the ’290 patent, and also alleged that claims 2 and 3 would have been obvious in view of U.S. Patent 5,706,502 (“Foley”). Microsoft alleged that Kikinis anticipated claims 1–3 of the ’290 patent. B.E. did not file a preliminary response, and the Board instituted review on all asserted grounds.
+ 
+In the final written decision in the Microsoft case, the Board determined that each challenged claim had been proven unpatentable as anticipated by Kikinis. Microsoft Written Decision at *14–15. First, the Board construed “region” in claim 1 to mean an “area,” rejecting B.E.’s argument that the term should be construed to mean “a non-overlapping part of an application window that is distinct or separate from other parts of the application window wherein each part is characterized by the presence of related functions or features that are different from the functions or features of another part.” Id. at *6. The Board determined that the ’290 patent did not explicitly define “region,” and noted that B.E.’s proposed construction was drawn from its own characterization of embodiments depicted in the specification, rather than language in the specification itself. Id. Accordingly, the Board determined that “area” was the ordinary meaning of “region,” based on a dictionary and testimony from Microsoft’s *987 expert as to the understanding of a person of ordinary skill in the art. Id.
+ 
+The Board found that Kikinis discloses the “program stored on a non-volatile data storage device” required by each claim of the ’290 patent because Kikinis discloses an Internet browser, which allows display of the home page and fetching of data from the server. Id. at *9, *12.
+ 
+Regarding claim 1, the Board found that Kikinis disclosed that its GUI was divided into a number of regions. Id. at *13–14. Specifically, the Board found that the left portion of Kikinis’s Figure 3 is divided into two regions: Buttons ABC and XYZ, and buttons 117, 118, 120, and 122. Id. at *13. The Board determined that this finding was also supported by Kikinis’s written description and testimony by B.E.’s expert. Id. Moreover, the Board rejected B.E.’s argument that the two regions needed to be functionally distinct; nevertheless, the Board found that the two areas of Kikinis were functionally distinct, and so fulfilled even B.E.’s construction of “region.” Id. at *14.
+ 
+Regarding claims 2 and 3, the Board found that Kikinis discloses “file[s] associated with [a] selected user link” by disclosing that the on-screen links were to “electronic documents reserved for the home page ‘owner.’ ” Id. at *10 (quoting Kikinis at 7:35–36). The Board noted that B.E.’s expert agreed that the cited passage disclosed links to electronic documents. Id. Accordingly, the Board rejected B.E.’s argument that Kikinis only discloses links to databases, rather than to individual files. Id. at *10–11. In addition, the Board found that Kikinis’s databases were files as defined by the ’290 patent. Id. at *11.
+ 
+In the other IPRs, the Board found claims 2 and 3, the only claims challenged in those proceedings, unpatentable as anticipated by Kikinis for identical reasons. See Google Written Decision at *6–9; Samsung Written Decision at *6–9; Sony Written Decision at *6–9. The Board also concluded that Foley rendered claims 2 and 3 unpatentable as obvious.1 Google Written Decision at *10–13.
+ 
+B.E. timely appealed. We have jurisdiction pursuant to 28 U.S.C. § 1295(a)(4)(A).
+ 
+
+DISCUSSION
+I. CLAIM CONSTRUCTION
+[1]We begin with B.E.’s argument that the Board erred in its construction of the term “region.”
+ 
+In an IPR, a patent claim is given “its broadest reasonable construction in light of the specification of the patent in which it appears.” Cuozzo Speed Techs., LLC v. Lee, ––– U.S. ––––, 136 S.Ct. 2131, 2142, 195 L.Ed.2d 423 (2016) (quoting 37 C.F.R. § 42.100(b)).2 “[W]e review the Board’s ultimate claim constructions de novo and its underlying factual determinations involving extrinsic evidence for substantial evidence.” Microsoft Corp. v. Proxyconn, Inc., 789 F.3d 1292, 1297 (Fed. Cir. 2015) (citing Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 841–42, –––L.Ed.2d –––– (2015)).
+ 
+*988 B.E. argues that the Board’s construction is unsupported because, it asserts, the Board relied on a nontechnical dictionary and Microsoft’s expert, rather than the claim language or specification of the ’290 patent itself. B.E. contends that the Board’s construction does not account for narrower embodiments described in the specification, and that the context of the ’290 patent demonstrates that the broader construction is unreasonable.
+ 
+Microsoft responds that the Board’s construction is consistent with the intrinsic record, and that B.E.’s construction is unsupported by the evidence. “Region” is not as narrow as B.E. argues, Microsoft contends, because the patent specification contains examples that would not fall within B.E.’s proposed construction.
+ 
+We agree with Microsoft that the Board properly construed the term “region” in claim 1 of the ’290 patent. The specification of the ’290 patent does not use “region” in a manner that indicates that the term has a special definition. For example, the written description specifically sets out explicit definitions for twenty terms that appear in the patent. ’290 patent col. 3 l. 65–col. 5 l. 4. “Region” is not among them. See id. Indeed, the Board noted that “[t]he ’290 patent does not provide an explicit definition for ‘region’ ” and that “[t]he portion of the written description relied upon by [B.E.] does not define the claim term ‘region.’ ” Microsoft Written Decision at *6. Those sections show that, far from B.E.’s argument to the contrary, the Board specifically considered the written description of the ’290 patent, and determined that “region” was not defined.
+ 
+The extrinsic evidence cited by the Board supports its determination of the ordinary meaning. Microsoft’s expert explained that a person of ordinary skill would understand “region” to mean “an area on the screen,” and the Board cited a dictionary as further support. Id. Although B.E. complains that the Board relied on a nontechnical dictionary, and the ’290 patent is a technical patent, B.E. does not explain how the technical nature of the patent would change the definition, or provide contrary evidence from a technical dictionary. Accordingly, there was no error in construing “region” to mean “area.”
+ 
+B.E.’s arguments do not convince us otherwise. B.E. contends that the Board’s construction is incorrect because it is broader than the examples depicted in the patent; however, we have rejected the notion that claim terms are limited to the embodiments disclosed in the specification, absent redefinition or disclaimer. Phillips v. AWH Corp., 415 F.3d 1303, 1316, 1323 (Fed. Cir. 2005) (en banc). B.E. does not argue that the ’290 patent contains any such redefinition or disclaimer. Moreover, and as the Board noted, B.E.’s construction is based on its own characterization of those embodiments, rather than any language appearing in the patent. See Microsoft Written Decision at *6. B.E. also ignores portions of the patent specification that are broader than its proposed construction. See, e.g., ’290 patent col. 17 ll. 15–21.
+ 
+Finally, B.E. argues that the Board did not consider that its expert disagreed with the testimony of Microsoft’s expert relating to the construction of “region.” The testimony on which B.E. relies, however, essentially repeats B.E.’s construction without further support. See Joint App. in Appeal No. 15–1887 (“J.A.”) 3132. By rejecting B.E.’s construction and crediting Microsoft’s expert, the Board rejected B.E.’s evidence. See Microsoft Written Decision at *6. Accordingly, the Board did not err in its construction of “region.”
+ 
+
+II. ANTICIPATION
+[2]We turn next to B.E.’s argument that the Board erred in finding that Kikinis *989 anticipates claims 1–3 of the ’290 patent. “Anticipation is a question of fact reviewed for substantial evidence.” In re Rambus, Inc., 753 F.3d 1253, 1256 (Fed. Cir. 2014). A finding is supported by substantial evidence if a reasonable mind might accept the evidence as sufficient to support the finding. Consol. Edison Co. v. NLRB, 305 U.S. 197, 229, 59 S.Ct. 206, 83 L.Ed. 126 (1938).
+ 
+
+A. Claim 1
+B.E. argues that Kikinis does not anticipate claim 1 because it does not disclose two regions that meet the requirements of the claims. Specifically, B.E. argues that the Board erred in finding that buttons ABC and XYZ are a different region from buttons 117, 118, 120, and 122, and that the Board should have instead found that the buttons, together, constituted a single region because there is nothing to distinguish one set of buttons from the other. Microsoft responds that the Board’s finding is supported by substantial evidence because the disclosure of Kikinis establishes that the buttons are in separate regions, as that term was construed by the Board.
+ 
+We agree with Microsoft that there is substantial evidence supporting the Board’s finding that Kikinis depicts the two required regions of claim 1. The cited buttons are in two areas of Figure 3, which meets the Board’s construction of “region.” Moreover, Kikinis states that the user’s home page may contain both links to email, faxes, voicemail, and other electronic documents, as well as links to a personal dictionary, spell checker, or thesaurus. Kikinis at 8:8–18. These two groups of buttons constitute two “areas” of the home page. The Board relied on both Figure 3 and the cited disclosure to find that Kikinis discloses the required regions. Microsoft Written Decision at *13. Accordingly, the Board’s finding is supported by substantial evidence.
+ 
+
+B. Claims 2 and 3
+[3]B.E. argues that the Board’s determination that Kikinis anticipates claims 2 and 3 of the ’290 patent is not supported by substantial evidence for two reasons.3 First, B.E. argues that the Internet browser disclosed by Kikinis does not meet the requirements of the “program” limitation in the claims. Second, B.E. argues that Kikinis only allows a user to select links to a database, not to a particular file as required by the claims. We address each argument in turn.
+ 
+B.E. first argues that the Board erred in determining that the browser disclosed by Kikinis is a “program” because Kikinis’s browser stored on the user computer interacts with software stored on the server to access files. B.E. argues that the claims require a program stored on the client computer, not the server, to access the files. Moreover, B.E. contends that because claim 3 requires the program to access a resource “using a browser,” ’290 patent col. 40 ll. 15–16, the doctrine of claim differentiation counsels that the program in claim 2 cannot itself be a browser.
+ 
+Appellees respond that the Board’s finding is supported by substantial evidence because the claims do not require the client computer to access the files directly.4 Instead, Appellees contend, the claims simply require that the program is “operable ... to access the file,” ’290 patent col. 40 ll. 4, 9, and do not contain any requirements *990 relating to how the file is accessed. Appellees also respond that a server must contain software that responds to requests from the client computer in order for any such system to function. Finally, Appellees respond that claim differentiation is a presumption that can be overcome, and that the specification of the ’290 patent specifically defines an Internet browser as a “program.”
+ 
+We agree with Appellees that the Board’s determination that Kikinis discloses the program of claims 2 and 3 is supported by substantial evidence. Kikinis discloses that a user at the client computer can access files through the home page. Kikinis at 6:27–31; 7:26–8:10. The claims themselves do not contain any language that would require files to be accessed without the aid of server software. As the Board noted, B.E.’s expert admitted that a server requires some form of software in order to provide any files to the client computer. Microsoft Written Decision at *9. Therefore, the presence of intermediary software on the server does not preclude a finding of anticipation. See id.
+ 
+B.E.’s claim differentiation argument does not counsel otherwise. Claim differentiation “is a rebuttable presumption that may be overcome by a contrary construction dictated by the written description or prosecution history.” Howmedica Osteonics Corp. v. Zimmer, Inc., 822 F.3d 1312, 1323 (Fed. Cir. 2016). In this case, the specification specifically defines a “browser” as “[a] program that can communicate over a network using http or another protocol and that can display html information and other digital information.” ’290 patent col. 3 ll. 65–67 (emphasis added). Thus, the written description of the ’290 patent dictates that an Internet browser is a “program,” and B.E. does not contest that the browser disclosed by Kikinis falls within the ’290 patent’s definition of “browser.” Accordingly, the Board’s finding that Kikinis discloses the claimed program is supported by substantial evidence.
+ 
+[4]B.E. next argues that Kikinis does not anticipate claims 2 and 3 because Kikinis does not disclose that the home page contains links to specific files. Instead, B.E. argues, Kikinis discloses a system where the user selects a link to a database, from which the user may access a specific document. Moreover, B.E. argues that it was improper for the Board to find that Kikinis’s databases could be the claimed files because, it alleges, that ground was not presented in the petition for review.
+ 
+Appellees respond that the Board’s finding is supported by substantial evidence because Kikinis discloses that the user home page contains links to specific files. Appellees further respond that the databases disclosed by Kikinis also meet that limitation.
+ 
+We agree with Appellees that the Board’s finding that Kikinis discloses links to specific files is supported by substantial evidence. As the Board found, Kikinis specifically discloses that the home page has “on-screen links to electronic documents reserved for the home page ‘owner,’ such as e-mail and faxes.” Microsoft Written Decision at *10 (quoting Kikinis at 7:35–8:1). B.E.’s expert admitted that this passage discloses links to electronic documents. Id.; J.A. 3222. This evidence is sufficient to support the Board’s finding. Because the Board’s finding that Kikinis discloses links to specific files is supported by substantial evidence, we need not reach B.E.’s arguments relating to Kikinis’s databases.
+ 
+Accordingly, substantial evidence supports the Board’s determinations that claims 1–3 of the ’290 patent are unpatentable as anticipated by Kikinis.
+ 
+
+*991 CONCLUSION
+We have considered B.E.’s remaining arguments, but find them unpersuasive. For the foregoing reasons, the decisions of the Board are affirmed.
+ 
+AFFIRMED
+ 
+All Citations
+657 Fed.Appx. 982
+Footnotes
+
+1
+
+As addressing B.E.’s arguments relating to whether Kikinis anticipates claims 1–3 resolves these appeals, we need not, and do not, address B.E.’s arguments relating to the Board’s conclusion that the claims are unpatentable as obvious in view of Foley.
+
+2
+
+In each of the present appeals, in which briefing was completed before the Supreme Court decided Cuozzo, B.E. challenges the Board’s use of the broadest reasonable interpretation standard for claim construction. The Supreme Court has since ruled that use of the broadest reasonable interpretation standard is proper, Cuozzo, 136 S.Ct. at 2142–46, and therefore there was no error in its use in these cases.
+
+3
+
+B.E. presents the same arguments relating to claims 2 and 3 in each of the four present appeals.
+
+4
+
+Appellees’ responses to B.E.’s arguments relating to claims 2 and 3 do not meaningfully differ, and so are addressed collectively.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

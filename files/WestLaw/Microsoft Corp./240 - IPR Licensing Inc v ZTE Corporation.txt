@@ -1,0 +1,284 @@
+
+
+
+
+
+IPR Licensing, Inc. v. ZTE Corporation
+United States Court of Appeals, Federal Circuit. | April 20, 2017 | 685 Fed.Appx. 933 | 2017 WL 1406501
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Blue Flag – Appeal Notification
+ Petition for Certiorari Docketed by IPR LICENSING, INC. v. ZTE CORPORATION, ET AL., U.S., August 1, 2017
+
+standard Citation:
+
+IPR Licensing, Inc. v. ZTE Corp., 685 F. App’x 933 (Fed. Cir. 2017)
+
+All Citations:
+
+685 Fed.Appx. 933
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Federal Cir.
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Blue Flag – Appeal Notification
+ 	Petition for Certiorari Docketed by IPR LICENSING, INC. v. ZTE CORPORATION, ET AL., U.S., August 1, 2017
+685 Fed.Appx. 933
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. Fed. Cir. Rule 32.1.
+United States Court of Appeals,
+Federal Circuit.
+IPR LICENSING, INC., Appellant
+v.
+ZTE CORPORATION, ZTE (USA) Inc., Microsoft Corporation, Appellees
+2016-1374
+|
+2016-1443
+|
+Decided: April 20, 2017
+Synopsis
+Background: In inter partes review, the United States Patent and Trademark Office, Patent Trial and Appeal Board, determined that all of challenged claims in patent describing and claiming “dual mode” communications devices that could use cellular networks as well as Wi-Fi networks were unpatentable for obviousness. Patentee appealed.
+ 
+Holdings: The Court of Appeals, Taranto, Circuit Judge, held that:
+ 
+[1] phrase, “plurality of assigned physical channels,” meant plurality of physical channels made available for use by subscriber unit;
+ 
+[2] expert testimony did not support motivation to combine asserted references, and thus patent could not be invalidated on that basis; and
+ 
+[3] remand for further proceedings was warranted.
+ 
+Affirmed in part, vacated in part, and remanded.
+ 
+
+
+West Headnotes (5)
+
+
+[1]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291VConstruction and Operation of Patents
+291V(C)Particular Fields of Invention
+291k1398Electricity and Electronics
+291k1401Radio and telecommunications equipment
+
+
+Phrase, “plurality of assigned physical channels,” meant plurality of physical channels made available for use by the subscriber unit, in patent describing and claiming “dual mode” communications devices that could use cellular networks as well as Wi-Fi networks, i.e., facility allowing computers, smartphones, or other devices to connect to internet or communicate with one another wirelessly within particular area.
+Cases that cite this headnote
+
+
+
+[2]
+
+PatentsRadio and telecommunications equipment
+
+
+291Patents
+291IIPatentability and Validity
+291II(E)Obviousness;  Lack of Invention
+291II(E)3Particular Fields of Invention
+291k758Electricity and Electronics
+291k761Radio and telecommunications equipment
+
+
+Expert testimony that could establish that, at some point, there was reason to combine Packet Data Protocol (PDP) Context feature with code division multiple access (CDMA) protocols did not support motivation to combine asserted references to arrive at patent claim on subscriber unit, wherein cellular wireless network was CDMA wireless network, and cellular transceiver was CDMA transceiver, and thus patent describing and claiming “dual mode” communications devices that could use cellular networks as well as Wi-Fi networks could not be invalidated on that basis, since testimony did not provide that reason or show why references cited or knowledge of one of skill in art at time of invention would motivate skilled artisan to alter standards with reasonable expectation of success and it did not establish that, at time of invention, CDMA standard already included “maintain a communication session” limitation.
+Cases that cite this headnote
+
+
+
+[3]
+
+PatentsRemand;  mandate
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)7Appellate Review
+291k1974Determination and Disposition of Cause
+291k1976Remand;  mandate
+
+
+Remand for further proceedings was warranted, on claim that patent describing and claiming “dual mode” communications devices that could use cellular networks as well as Wi-Fi networks was obvious, where record was not so clearly devoid of any possible motivation to combine that outright reversal was warranted; record might contain substantial evidence to support motivation to combine Packet Data Protocol (PDP) Context feature of Europe-an Telecommunications Standards Institute in 1998 (GPRS Standards) that enabled subscriber unit to “maintain a communication session” with code division multiple access (CDMA) network, as referenced in prior art.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 8,380,244. Cited.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+
+
+US Patent 6,243,581. Cited as Prior Art.
+Cases that cite this headnote
+
+
+
+*934 Appeals from the United States Patent and Trademark Office, Patent Trial and Appeal Board in Nos. IPR2014-00525, IPR2015-00074.
+Attorneys and Law Firms
+GABRIEL BELL, Latham & Watkins LLP, Washington, DC, argued for appellant. Also represented by RICHARD P. BRESS, JONATHAN D. LINK, MICHAEL J. GERARDI; JULIE M. HOLLOWAY, San Francisco, CA.
+CHARLES M. MCMAHON, McDermott, Will & Emery LLP, Chicago, IL, argued for all appellees. Appellees ZTE Corporation, ZTE (USA) Inc. also represented by BRIAN ANDREW JONES; JAY REIZISS, NATALIE A. BENNETT, WASHINGTON, DC.
+CONSTANTINE L. TRELA, JR., Sidley Austin LLP, Chicago, IL, for Microsoft Corporation. Also represented by RICHARD ALAN CEDEROTH; JOSEPH A. MICALLEF, SCOTT BORDER, Washington, DC.
+Before Prost, Chief Judge, Lourie and Taranto, Circuit Judges.
+Opinion
+Taranto, Circuit Judge.
+
+IPR Licensing, Inc. (IPRL) owns U.S. Patent No. 8,380,244, which describes and claims “dual mode” communications devices that can use cellular networks as well as Wi-Fi networks. After IPRL sued ZTE Corp. and ZTE (USA) Inc. (jointly, ZTE) and Nokia Corp. for infringement in separate actions in the District of Delaware, ZTE filed a petition for inter partes review of claims 1–8, 14–16, 19–29, 36–38, and 41–44 of the patent under 35 U.S.C. §§ 311–312. The Patent Trial and Appeal Board instituted a review of all of the challenged claims, IPR2014-00525. After a subsidiary of Microsoft Corporation bought Nokia’s wireless-devices-and-services business, Microsoft filed its own petition for inter partes review of the patent, which the Board instituted as IPR2015-00074. The Board then joined Microsoft’s IPR to ZTE’s, and Microsoft agreed to “proceed solely on the grounds, evidence, and arguments advanced” in ZTE’s petition. J.A. 484. We hereafter refer simply to ZTE when discussing the joint positions of ZTE and Microsoft.
+ 
+In a final written decision covering both IPRs, the Board determined that all of the challenged claims are unpatentable for obviousness. ZTE Corp. v. IPR Licensing, Inc., No. IPR2014-00525, 2014 WL 10405879, at *18 (P.T.A.B. Sept. 14, 2014). On appeal, IPRL contends that the Board misconstrued the term “plurality of assigned physical channels,” which is present in all of the challenged claims, and relied *935 on hindsight in its analysis of claim 8. IPRL also contends that the Board violated the Administrative Procedure Act by relying on arguments made by ZTE for the first time in reply in the IPRs. We have jurisdiction under 28 U.S.C. § 1295(a)(4)(A).
+ 
+As to all claims except claim 8, we affirm. We agree with the Board’s claim construction, and we hold that IPRL suffered no prejudice from any change of position by ZTE. We conclude, however, that substantial evidence does not support the Board’s articulated motivation to combine the asserted references to arrive at the invention defined in claim 8. We therefore vacate the Board’s decision holding claim 8 unpatentable, and we remand.
+ 
+
+I
+The ’244 patent describes a wireless access device that can automatically switch from a long-range, low-speed, cellular wireless network to a short-range, high-speed, wireless local area network (W-LAN) when a W-LAN is in range and can “revert[ ] to connecting to the long range network only when out of range of the W-LAN base stations.” ’244 patent, col. 2, lines 63–67. When there is “relatively low utilization of the [cellular] wireless channel,” such as when the device is connected to a W-LAN, the device will release the physical layer wireless channel of the cellular connection “while maintaining the appearance of a network layer connection to the higher level protocols.” Id., col. 4, lines 14–18. Such “spoofing,” id., col. 4, lines 29–30, “frees wireless channel bandwidth for use by other subscriber units, without the overhead associated with having to set up an end to end connection each time that data needs to be transferred” and means that “the bandwidth necessary to provide a temporary but very high speed connection is available at critical times,” id., col. 4, lines 19–26.
+ 
+Claim 1 is representative of all claims except claim 8:
+1. A subscriber unit comprising:
+a cellular transceiver configured to communicate with a cellular wireless network via a plurality of assigned physical channels;
+an IEEE 802.11 transceiver configured to communicate with an IEEE 802.11 wireless local area network; and
+a processor configured to maintain a communication session with the cellular wireless network in an absence of the plurality of assigned physical channels while the IEEE 802.11 transceiver communicates packet data with the IEEE 802.11 wireless local area network.
+’244 patent, col. 11, lines 6–16.
+8. The subscriber unit of claim 1, wherein the cellular wireless network is a code division multiple access (CDMA) wireless network, and the cellular transceiver is a cellular code division multiple access (CDMA) transceiver.
+Id., col. 11, lines 39–42.
+ 
+The Board held that all challenged claims are unpatentable for obviousness over a combination of U.S. Patent No. 6,243,581 to Jawanda (Jawanda); the General Packet Radio Service Standards published by the Europe-an Telecommunications Standards Institute in 1998 (GPRS Standards); and the IEEE 802.11 Standard (used for Wi-Fi).
+ 
+
+II
+The Board construed “plurality of assigned physical channels” to mean “plurality of physical channels made available for use by the subscriber unit,” without a requirement that the subscriber unit select the channel for use. *936 ZTE, 2014 WL 10405879, at *8, *11.1 IPRL challenges the construction and the process leading to its adoption by the Board. We discuss the process first, then the merits of the construction.
+ 
+
+A
+IPRL complains that the Board relied on a new construction presented by ZTE in its reply, thereby denying IPRL an adequate opportunity to respond, in violation of the APA. See Dell Inc. v. Acceleron, LLC, 818 F.3d 1293, 1301 (Fed. Cir. 2016) (describing notice and opportunity-to-respond requirements of APA applicable to IPRs). Our review under the APA is subject to a harmless-error rule by virtue of the directive of 5 U.S.C. § 706 that “due account shall be taken of the rule of prejudicial error.” See Shinseki v. Sanders, 556 U.S. 396, 406, 409, 129 S.Ct. 1696, 173 L.Ed.2d 532 (2009) (explaining that § 706 requires the party challenging an agency decision on appeal to demonstrate the harmfulness of the asserted error). Here, we need not decide whether ZTE’s position on reply was a shift or a clarification because IPRL has not shown that it suffered harm from the process it challenges.
+ 
+In its petition, ZTE proposed that the term “plurality of assigned physical channels” should be construed to mean “plurality of physical channels available for the subscriber unit to select for use.” J.A. 296. The focus of its claim construction argument appeared to be that the specification uses “assign” to mean something different from “allocate” and that “a subscriber unit cannot use (allocate) a resource (physical channel) until it has been made available (assigned) to the subscriber unit.” J.A. 297. In its response, IPRL agreed to the language proposed by ZTE, explaining that, under that construction, it is the subscriber unit that selects among the assigned channels. On reply, ZTE “clarified” that, in using the word “select,” it had not intended to limit the claims to subscriber units that choose a subset of the available channels or make any affirmative choice beyond the decision to use or not to use the batch of assigned channels. While the petition might be read to assert that “select for use” means that the subscriber unit must be able to exercise discretion as to which channels it uses, we doubt that the petition must be so read.
+ 
+But we need not decide that question. Even if the reply did contain a new argument, IPRL has not shown how it was prejudiced by the Board’s refusal to allow it to respond. Although it agreed with the language of ZTE’s proposed construction, IPRL made detailed arguments to the Board (in its patent owner’s response) in favor of that construction and in support of interpreting the construction to require that the subscriber unit of claim 1 be “selecting” channels for use. And this claim-construction issue is decided de novo in this court, where IPRL has had a full opportunity to argue for its preferred construction, without any possible confusion about the position it is opposing. There is no issue here about the application of the construction, and so there is no prejudice from the Board’s adoption of this construction even if we assume that ZTE changed course. The only question we need decide, therefore, is the correctness of the claim construction.
+ 
+*937 This court’s decision in SAS Institute, Inc. v. ComplementSoft, LLC, 825 F.3d 1341 (Fed. Cir. 2016), is instructive. There, after the Board adopted one construction in its institution decision, which the parties subsequently accepted, the Board adopted a new construction in its final written decision. Id. at 1350–51. This court reviewed and affirmed the Board’s construction on appeal. Id. at 1349–50. The court then held that a remand was required for the parties (particularly, the losing petitioner) to have the opportunity to apply the new construction, i.e., to make patentability arguments based on the new construction. Id. at 1352. But in the present case, IPRL makes no argument that its claims are patentable under the Board’s construction, either based on the existing record or based on evidence that it would have developed if it had known of the possibility that the Board would interpret the claim as it did. Thus, we turn to the merits of the Board’s claim construction.
+ 
+
+B
+The Board gives a claim its broadest reasonable interpretation in light of the specification. 37 C.F.R. § 42.100(b); Cuozzo Speed Techs., LLC v. Lee, ––– U.S. ––––, 136 S.Ct. 2131, 2142, 195 L.Ed.2d 423 (2016). This is so regardless of whether a district court has already construed the claims. PPC Broadband, Inc. v. Corning Optical Commc’ns RF, LLC, 815 F.3d 747, 756 (Fed. Cir. 2016). While the Board in the present case noted expert testimony put forth by ZTE, it did not rely on any such testimony in construing the claim. Therefore, we review the Board’s construction de novo. See Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 841, ––– L.Ed.2d –––– (2015); D’Agostino v. MasterCard Int’l, Inc., 844 F.3d 945, 948 (Fed. Cir. 2016).
+ 
+[1]We agree with the Board that its construction is the broadest reasonable one. IPRL accepts that “the ‘subscriber unit,’ which is ‘configured’ to communicate with a cellular network, is ‘assigned’ a set of ‘physical channels’ by the base station.” Appellant’s Br. 26. IPRL contends, however, that all the claims also require the subscriber unit to be able to “select for use” a certain subset of the physical channels—in other words, that the subscriber unit of the invention must be able not just to choose whether to use the assigned channels or not, but to exercise discretion over how many of the assigned channels to use. See Appellant’s Reply 6 (“[T]he subscriber unit must be able to decide which of the channels (some or all) to use, rather than being required to use (or not use) all of the channels assigned by the base station.”). We disagree.
+ 
+The language of claim 1 speaks only of “assigned” physical channels. It says nothing about allocation, selection for use, or what happens to those channels after they are assigned.
+ 
+The specification does not compel IPRL’s allocation position. One passage states: “For example a bandwidth management function may make only a certain number of channels 30 available at any time. A subset of the available channels 30 is selected, and then the optimum number of bits for each subframe intended to be transmitted over respective one of the channels, is then chosen.” ’244 patent, col. 7, lines 24–29. But there is no good enough reason to read that sentence into the claims, under a broadest-reasonable-interpretation standard, and require that the subscriber units always can choose a subset of channels. The sentence describes choosing a subset of channels as a mere “example” of what the bandwidth management function “may” do. Another passage discusses “allocation” at some length in *938 describing Figure 6, id., col. 9, line 64, through col. 10, line 43, but it does not clearly speak of subscriber units’ choice to use only some, not all, of the assigned channels; it contains no “present invention requires” or comparably limiting language; and the bottom of column 10 summarizes the written description as showing mere “preferred embodiments,” id., col. 10, lines 65–66. Another IPRL-cited passage, from ’244 patent, col. 4, lines 22–26, is similarly unpersuasive because it appears in a description of “one preferred embodiment,” id., col. 4, line 5. The specification thus does not demand a broadest reasonable interpretation, of a claim not referring to allocation, that requires a subscriber unit capable of exercising discretion in channel allocation.
+ 
+Claim 15 confirms that claim 1 does not require the subscriber unit to exercise such discretion. That claim reads: “The subscriber unit of claim 1, wherein the processor is further configured to allocate and deallocate at least one of the plurality of assigned physical channels.” ’244 patent, col. 12, lines 1–3. IPRL points to that claim as showing that the subscriber unit must “select for use” some of the assigned channels. But the doctrine of claim differentiation would suggest the opposite: that if the subscriber unit must be capable of allocating channels in claim 15, it cannot be required to be so capable in claim 1 or the claims would be the same. IPRL has not argued for the patentability of claim 15 separately from claim 1. At oral argument, IPRL posited that claim 15 further limits claim 1 not by requiring allocation, but by limiting what is doing the allocating—namely, the processor as opposed to the transceiver. See Oral Arg. 5:30–6:15, http://oralarguments.cafc.uscourts.gov/default.aspx?fl=2016-1374.mp3. Not only is this argument new, it is unconvincing: The specification does not refer to a processor, but it describes the “bandwidth management functionality,” which does the allocating, as being part of the “protocol converter,” ’244 patent, col. 6, lines 23–29, which itself is separate from the transceivers, id., col. 5, lines 6–8 (“The interface 24 in turn provides data to a protocol converter 25, which in turn provides data to a multichannel digital transceiver 26 and antenna 27.”). As the only structures named in claim 1 are the processor and the transceivers, and the specification does not show any examples of the transceivers allocating bandwidth, the natural reading of claim 15 is that it is further limiting claim 1 to include the ability to “allocate and deallocate at least one of the plurality of assigned physical channels.”
+ 
+We therefore affirm the Board’s construction of “plurality of assigned physical channels” to mean “plurality of physical channels made available for use by the subscriber unit.”
+ 
+
+III
+We review the ultimate question of obviousness de novo, and we review underlying factual findings, including the “presence or absence of a motivation to combine or modify with a reasonable expectation of success,” for substantial evidence. Ariosa Diagnostics v. Verinata Health, Inc., 805 F.3d 1359, 1364 (Fed. Cir. 2015).
+ 
+
+A
+As to all of the claims except claim 8, the parties agree that the Board’s obviousness determination, based on its finding that the prior art discloses a “plurality of assigned physical channels,” stands if its claim construction is correct. Because we affirm the Board’s construction, we also affirm its holding that claim 1 and the claims it represents—claims 2–7, 14–16, *939 19–29, 36–38, and 41–44—are unpatentable for obviousness.2
+ 
+
+B
+[2]Claim 8 requires separate consideration. It claims “[t]he subscriber unit of claim 1, wherein the cellular wireless network is a code division multiple access (CDMA) wireless network, and the cellular transceiver is a cellular code division multiple access (CDMA) transceiver.” ’244 patent, col. 11, lines 39–42. As a dependent claim, it incorporates all of the limitations of claim 1, including the limitation that the subscriber unit “maintain a communication session with the cellular wireless network in an absence of the plurality of assigned physical channels.” Id., col. 11, lines 12–14. The Board, in its obviousness analysis for claim 1, held that Jawanda did not disclose “maintain[ing] a communication session” as that term was construed; rather, it concluded, the GPRS standards disclosed that limitation in the form of the Packet Data Protocol (PDP) Context feature, and Jawanda and the GPRS standards would be combined along with the IEEE 802.11 standard. ZTE, 2014 WL 10405879, at *12–15.
+ 
+The Board then seemed to hold that claim 8 would have been obvious because “Jawanda explicitly states that the wireless data connections could be provided by a code division multiple access (CDMA) network.” Id. at *18 (quoting Pet’r’s Reply 13) (internal quotation marks omitted). The logic of the Board’s analysis is wanting.
+ 
+As noted, the Board found earlier that Jawanda did not disclose “maintain[ing] a communication session” at all: the Board relied wholly on the GPRS standard for that limitation. Moreover, the Board cited no prior-art reference that discloses that CDMA networks at the time of the invention could “maintain a communication session” according to the claims. Accordingly, the Board must have held that it would have been obvious to combine the PDP Context feature of the GPRS standard that enables the subscriber unit to “maintain a communication session” with a CDMA network. We do not see the support for that inference. Jawanda’s disclosure that “[f]or data connections, such wireless signals can be transmitted according to any currently available or future wireless data protocol such as code division multiple access (CDMA), CDPD, or GPRS,” Jawanda, col. 3, lines 6–9 (emphasis added), on its face discloses GPRS and CDMA as alternative protocols; and it does not suggest that any aspects of the GPRS standard (much less the specific functions corresponding to the disputed ’244 patent limitations) should be incorporated into a CDMA standard. In other words, the suggestion in Jawanda to combine Jawanda with GPRS or CDMA is not a suggestion to combine Jawanda and specific features of GPRS with CDMA.
+ 
+Aside from the cited passage in Jawanda, the only evidence that the Board cited in its discussion of claim 8 that could be interpreted as a motivation to combine is testimony by Dr. Stark, IPRL’s expert, admitting that “the GPRS network layer protocols (such as the PDP context) were eventually incorporated into CDMA air interface systems, such as WCDMA.” ZTE, 2014 WL 10405879, at *18 (quoting Pet’r’s Reply 14) (internal quotation marks omitted). While that testimony may establish that, at some point, there was a reason to combine the PDP Context feature with *940 CDMA protocols, it does not provide that reason or show why the references cited or the knowledge of one of skill in the art at the time of the invention would motivate a skilled artisan to alter the standards with a reasonable expectation of success. Nor does Dr. Stark’s testimony establish that, at the time of the invention, the CDMA standard already included the “maintain a communication session” limitation.
+ 
+Finally, the Board reasoned that “Petitioner argues persuasively that ‘Patent Owner has advanced no evidence to suggest that employing the cited GPRS functionality in a CDMA-based system such as Jawanda discloses would have been beyond the level of ordinary skill at the relevant time.’ ” Id. (quoting Pet’r’s Reply 14). But in addition to seeming to shift the burden of proof, that is a statement about what skilled artisans could have done if motivated, not what they would have been motivated to do. Proof of the latter is needed. See Personal Web Techs., LLC v. Apple, Inc., 848 F.3d 987, 993–94 (Fed. Cir. 2017) (citing cases).
+ 
+[3]IPRL does not contend that the record is so clearly devoid of any possible motivation to combine that outright reversal is warranted. Oral Arg. at 12:00–13:40, http://oralarguments.cafc.uscourts.gov/default.aspx?fl=2016-1374.mp3. Because the record might contain substantial evidence to support a motivation to combine the PDP Context feature of the GPRS standards with the CDMA network referenced in Jawanda, we vacate the Board’s decision with respect to claim 8 and remand for further proceedings.3
+ 
+
+IV
+For the foregoing reasons, we affirm the determinations of unpatentability of claims 1–7, 14–16, 19–29, 36–38, and 41–44. We vacate the determination of unpatentability of claim 8 and remand for further proceedings.
+ 
+No costs.
+ 
+AFFIRMED IN PART, VACATED IN PART, AND REMANDED
+ 
+All Citations
+685 Fed.Appx. 933
+Footnotes
+
+1
+
+The Board also construed the term “maintain a communication session with the cellular wireless network in an absence of the plurality of assigned physical channels” to mean “maintain a logical connection with the cellular wireless network when none of the plurality of physical channels are in use by the subscriber unit.” ZTE, 2014 WL 10405879, at *8. That construction is not disputed on appeal.
+
+2
+
+That disposition is unaffected by the several broad challenges to the IPR scheme that IPRL has included in its brief. As IPRL agrees, those challenges are foreclosed by governing precedents.
+
+3
+
+Because we remand as to claim 8 on the merits, we need not decide whether the Board relied on new arguments raised on reply. On remand, the Board should evaluate whether the parties had notice and an opportunity to respond to the grounds it ultimately relies on.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

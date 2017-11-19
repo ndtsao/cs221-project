@@ -1,0 +1,1016 @@
+
+
+
+
+
+Microsoft Corp. v. Motorola, Inc.
+United States Court of Appeals, Ninth Circuit. | July 30, 2015 | 795 F.3d 1024 | 2015 WL 4568613
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Distinguished by G.U.E. Tech, LLC v. Panasonic Avionics Corporation, C.D.Cal., September 15, 2015
+
+standard Citation:
+
+Microsoft Corp. v. Motorola, Inc., 795 F.3d 1024 (9th Cir. 2015)
+
+All Citations:
+
+795 F.3d 1024, 116 U.S.P.Q.2d 1001, 15 Cal. Daily Op. Serv. 8291, 2015 Daily Journal D.A.R. 8678
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+Washington
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Distinguished by G.U.E. Tech, LLC v. Panasonic Avionics Corporation, C.D.Cal., September 15, 2015
+795 F.3d 1024
+United States Court of Appeals,
+Ninth Circuit.
+MICROSOFT CORPORATION, a Washington corporation, Plaintiff–Appellee,
+v.
+MOTOROLA, INC.; Motorola Mobility, Inc.; General Instrument Corporation, Defendants–Appellants.
+No. 14–35393.
+|
+Argued and Submitted April 8, 2015.
+|
+Filed July 30, 2015.
+Synopsis
+Background: Software developer brought breach of contract action, alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on reasonable and non-discriminatory (RAND) terms. After case was consolidated with patentee’s patent infringement action, the United States District Court for the Western District of Washington, James L. Robart, J., 2013 WL 6000017, entered judgment in developer’s favor, and patentee appealed. The Court of Appeals for the Federal Circuit, Lourie, Circuit Judge, 564 Fed.Appx. 586, granted developer’s motion to transfer appeal.
+ 
+Holdings: Following transfer, the Court of Appeals, Berzon, Circuit Judge, held that:
+ 
+[1] Court of Appeals had jurisdiction;
+ 
+[2] patentee waived its argument that district court lacked authority to decide RAND rate;
+ 
+[3] district court’s partial present-day focus did not render invalid its determination of RAND rate;
+ 
+[4] district court’s determination of RAND rate was not based on legal error or clearly erroneous view of facts;
+ 
+[5] question of whether patentee breached its duty of good faith and fair dealing was for jury; and
+ 
+[6] developer’s recovery of attorneys’ fees and litigation costs were not barred by Noerr–Pennington doctrine or Washington law.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (28)
+
+
+[1]
+
+CourtsPrevious Decisions in Same Case as Law of the Case
+Federal CourtsLaw of the case in general
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k99Previous Decisions in Same Case as Law of the Case
+106k99(1)In general
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(L)Determination and Disposition of Cause
+170Bk3793Effect of Decision in Lower Court
+170Bk3795Law of the case in general
+
+
+Law of the case doctrine does not apply if (1) the first decision was clearly erroneous;(2) there has been an intervening change in the law;(3) the evidence on remand is substantially different;(4) other changed circumstances exist; or (5) a manifest injustice would otherwise result.
+Cases that cite this headnote
+
+
+
+[2]
+
+Federal CourtsFormer decision as law of the case
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)6Subsequent Appeals
+170Bk3752Former decision as law of the case
+
+
+Court of Appeals had jurisdiction over interlocutory appeal in software developer’s breach of contract action alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on reasonable and non-discriminatory (RAND) terms; while patentee argued that district court “constructively amended” complaint by holding bench trial on RAND rate, tacitly invoking “changed circumstances” exception to law of the case doctrine, prior jurisdictional determination was made knowing bench trial would occur and Federal Circuit’s decision to transfer case to Court of Appeals was made after bench trial, and there was no clear error or manifest injustice to justify disrupting courts’ prior jurisdictional determinations.
+Cases that cite this headnote
+
+
+
+[3]
+
+Federal CourtsPatents
+
+
+170BFederal Courts
+170BIVCases “Arising Under” Federal Law;  Federal-Question Jurisdiction
+170BIV(B)Particular Cases, Contexts, and Questions
+170Bk2281Intellectual Property
+170Bk2284Patents
+170Bk2284(1)In general
+
+
+Not all cases involving a patent-law claim fall within the Federal Circuit’s jurisdiction.
+Cases that cite this headnote
+
+
+
+[4]
+
+ActionNature of Action
+
+
+13Action
+13IINature and Form
+13k26Contract or Tort
+13k27Nature of Action
+13k27(1)In general
+
+
+Complaint that alleges breach of contract and seeks damages sounds in contract; its nature does not change because the contract is a patent license.
+Cases that cite this headnote
+
+
+
+[5]
+
+PatentsRights and Remedies of Contractor
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(B)Contracts in General
+291k1456Rights and Remedies of Contractor
+291k1457In general
+
+
+Patentee affirmatively consented to bench-trial determination of reasonable and non-discriminatory (RAND) royalty rate in software developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on RAND terms, thus waiving any argument that court lacked authority to decide RAND rate, where patentee’s counsel informed court at status conference that parties had agreed that court would decide all material terms of RAND license, patentee was not misled as to connection between RAND determination and breach-of-contract jury trial and it did not cabin its consent to license-setting scenario, and court made parties aware that RAND determination was being made to set stage for breach of contract trial.
+Cases that cite this headnote
+
+
+
+[6]
+
+PatentsRights and Remedies of Contractor
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(B)Contracts in General
+291k1456Rights and Remedies of Contractor
+291k1457In general
+
+
+Result of bench trial to determine reasonable and non-discriminatory (RAND) royalty rate in software developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on RAND terms was not advisory opinion outside of court’s authority, where rate was vigorously disputed by parties from outset of case, rate was understood by both court and parties as essential factual aspect of breach-of-contract determination by jury, and, far from maintaining irrelevance of RAND rate determination to ultimate jury verdict, patentee challenged jury verdict as impermissibly influenced by RAND rate determination. U.S.C.A. Const. art. 3.
+Cases that cite this headnote
+
+
+
+[7]
+
+CourtsParticular questions or subject matter
+
+
+106Courts
+106IIEstablishment, Organization, and Procedure
+106II(G)Rules of Decision
+106k88Previous Decisions as Controlling or as Precedents
+106k96Decisions of United States Courts as Authority in Other United States Courts
+106k96(7)Particular questions or subject matter
+
+
+Federal Circuit’s patent law methodology can serve as guidance in contract cases on questions of patent valuation.
+Cases that cite this headnote
+
+
+
+[8]
+
+PatentsRights and Remedies of Contractor
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(B)Contracts in General
+291k1456Rights and Remedies of Contractor
+291k1457In general
+
+
+Under hypothetical agreement approach, court’s partial present-day focus did not render invalid its determination of reasonable and non-discriminatory (RAND) royalty rate in software developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on RAND terms, where developer argued that patentee’s breach was ongoing and failed to specify any past date court should have used, it was impracticable for court to consider only such evidence as could pinpoint value of subject patents to developer at precise point in time because data presented was not pinpointed to any specific past date, and patentee was not prejudiced by court’s analysis.
+Cases that cite this headnote
+
+
+
+[9]
+
+PatentsRights and Remedies of Contractor
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(B)Contracts in General
+291k1456Rights and Remedies of Contractor
+291k1457In general
+
+
+Court’s determination of reasonable and non-discriminatory (RAND) royalty rate and range was not based on legal error or clearly erroneous view of facts in software developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on RAND terms, even though patentee objected to court’s conclusions that rates charged by two patent pools were relevant indicators of RAND rate and that patentee’s historical licenses were not, where patentee was not prejudiced by court’s assumption that its patents were of roughly equal value to those in pool, as they probably were worth less, and it was reasonable to determine that past licenses were too contextually dissimilar to be useful in calculating RAND rate.
+Cases that cite this headnote
+
+
+
+[10]
+
+PatentsRights and Remedies of Contractor
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(B)Contracts in General
+291k1456Rights and Remedies of Contractor
+291k1457In general
+
+
+Question as to whether patentee breached its duty of good faith and fair dealing either through its opening offers or its pursuit of injunctive relief was for jury in software developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on reasonable and non-discriminatory (RAND) terms.
+1 Cases that cite this headnote
+
+
+
+[11]
+
+Federal CourtsTaking case or question from jury;  judgment as a matter of law
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3605Taking case or question from jury;  judgment as a matter of law
+
+
+Court of Appeals reviews the denial of a motion for judgment as a matter of law de novo and must affirm where there is substantial evidence supporting a verdict in favor of the nonmoving party.
+1 Cases that cite this headnote
+
+
+
+[12]
+
+Constitutional LawNoerr-Pennington Doctrine
+
+
+92Constitutional Law
+92XVRight to Petition for Redress of Grievances
+92k1437Noerr-Pennington Doctrine
+92k1437(1)In general
+
+
+Noerr–Pennington doctrine ensures that those who petition any department of the government, including the courts, are immune from liability for their petitioning conduct, though the doctrine creates an exception for sham litigation, defined as private action that is not genuinely aimed at procuring favorable government action, as opposed to a valid effort to influence government action. U.S.C.A. Const.Amend. 1.
+5 Cases that cite this headnote
+
+
+
+[13]
+
+Constitutional LawNoerr-Pennington Doctrine
+
+
+92Constitutional Law
+92XVRight to Petition for Redress of Grievances
+92k1437Noerr-Pennington Doctrine
+92k1437(1)In general
+
+
+Noerr–Pennington doctrine does not immunize a party from actions that amount to a breach of contract.
+5 Cases that cite this headnote
+
+
+
+[14]
+
+Constitutional LawNoerr-Pennington Doctrine
+
+
+92Constitutional Law
+92XVRight to Petition for Redress of Grievances
+92k1437Noerr-Pennington Doctrine
+92k1437(1)In general
+
+
+Because the Noerr–Pennington doctrine grows out of the Petition Clause, its reach extends only so far as necessary to steer clear of violating the First Amendment. U.S.C.A. Const.Amend. 1.
+4 Cases that cite this headnote
+
+
+
+[15]
+
+Constitutional LawNoerr-Pennington Doctrine
+
+
+92Constitutional Law
+92XVRight to Petition for Redress of Grievances
+92k1437Noerr-Pennington Doctrine
+92k1437(1)In general
+
+
+Enforcing a contractual commitment to refrain from litigation does not violate the First Amendment; if it did, every settlement of a lawsuit would be unenforceable as a Noerr–Pennington violation. U.S.C.A. Const.Amend. 1.
+Cases that cite this headnote
+
+
+
+[16]
+
+Constitutional LawNoerr-Pennington Doctrine
+PatentsRights and Remedies of Contractor
+
+
+92Constitutional Law
+92XVRight to Petition for Redress of Grievances
+92k1437Noerr-Pennington Doctrine
+92k1437(1)In general
+291Patents
+291VIPatent Rights and Duties
+291VI(B)Contracts in General
+291k1456Rights and Remedies of Contractor
+291k1457In general
+
+
+Noerr–Pennington doctrine did not bar software developer’s recovery of attorney fees and litigation costs in defending against patentee’s injunctive actions, in developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on reasonable and non-discriminatory (RAND) terms, where jury found that patentee’s act of seeking injunctive relief violated its contractual RAND obligations. U.S.C.A. Const.Amend. 1.
+Cases that cite this headnote
+
+
+
+[17]
+
+Attorney and ClientAllowance and payment from funds in court
+CostsBad faith or meritless litigation
+DamagesLitigation with third persons
+InjunctionCosts and fees
+
+
+45Attorney and Client
+45IVCompensation
+45k155Allowance and payment from funds in court
+102Costs
+102VIIIAttorney Fees
+102k194.44Bad faith or meritless litigation
+115Damages
+115IIIGrounds and Subjects of Compensatory Damages
+115III(D)Expenses of Litigation
+115k70Attorney Fees, Costs, and Expenses of Litigation
+115k73Litigation with third persons
+212Injunction
+212VActions and Proceedings
+212V(I)Continuing, Modifying, or Terminating
+212k1628Motions and Proceedings
+212k1641Costs and fees
+
+
+Washington law recognizes four equitable exceptions to the American rule of not awarding attorney fees as costs absent a contract, statute, or equitable exception: (1) the common fund theory; (2) actions by a third person subjecting a party to litigation; (3) bad faith or misconduct of a party; and (4) dissolving wrongfully issued temporary injunctions or restraining orders.
+Cases that cite this headnote
+
+
+
+[18]
+
+CostsBad faith or meritless litigation
+
+
+102Costs
+102VIIIAttorney Fees
+102k194.44Bad faith or meritless litigation
+
+
+There are three types of bad faith that Washington law recognizes under the bad faith equitable exception to the American rule of not awarding attorney fees as costs absent a contract, statute, or equitable exception: (1) prelitigation misconduct, (2) procedural bad faith, and (3) substantive bad faith.
+Cases that cite this headnote
+
+
+
+[19]
+
+CostsBad faith or meritless litigation
+
+
+102Costs
+102VIIIAttorney Fees
+102k194.44Bad faith or meritless litigation
+
+
+Procedural bad faith, as one of the three types of bad faith that Washington law recognizes under the bad faith equitable exception to the American rule of not awarding attorney fees as costs absent a contract, statute, or equitable exception, is defined as vexatious conduct during litigation, unrelated to the merits of the case.
+Cases that cite this headnote
+
+
+
+[20]
+
+DamagesLitigation with third persons
+
+
+115Damages
+115IIIGrounds and Subjects of Compensatory Damages
+115III(D)Expenses of Litigation
+115k70Attorney Fees, Costs, and Expenses of Litigation
+115k73Litigation with third persons
+
+
+Attorney fees that software developer sought to recover as damages in its breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on reasonable and non-discriminatory (RAND) terms were distinct from same-suit fees generally banned by American rule applied under Washington law, and instead they were best characterized as recoverable consequential contract damages ordinarily recoverable in breach of contract suits, where fees were not incurred in current breach of contract action, but rather in defending against patentee’s prior injunctive action that was found to have breached RAND agreement.
+1 Cases that cite this headnote
+
+
+
+[21]
+
+Federal CourtsReception of Evidence
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3598Evidence
+170Bk3598(2)Reception of Evidence
+170Bk3598(3)In general
+
+
+Evidentiary rulings are reviewed for abuse of discretion.
+Cases that cite this headnote
+
+
+
+[22]
+
+Federal CourtsEvidence
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)4Harmless and Reversible Error
+170Bk3686Particular Errors as Harmless or Prejudicial
+170Bk3701Evidence
+170Bk3701(1)In general
+
+
+If the Court of Appeals determines that evidence was improperly admitted or excluded at trial, remand is required for a new trial unless the beneficiary of the error can prove that it is more probable than not that the jury would have reached the same verdict.
+2 Cases that cite this headnote
+
+
+
+[23]
+
+PatentsRights and Remedies of Contractor
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(B)Contracts in General
+291k1456Rights and Remedies of Contractor
+291k1457In general
+
+
+In breach of contract action, patentee waived any objection to admission to jury of reasonable and non-discriminatory (RAND) rates and ranges determined in prior bench trial, in software developer’s suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on RAND terms, where patentee consented to bench trial, which was intended to identify RAND rate for use in evaluating breach of contract claim.
+Cases that cite this headnote
+
+
+
+[24]
+
+PatentsRights and Remedies of Contractor
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(B)Contracts in General
+291k1456Rights and Remedies of Contractor
+291k1457In general
+
+
+Patentee consented to submission to jury of facts underlying court’s determination of reasonable and non-discriminatory (RAND) rates and ranges, in software developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on RAND terms, where patentee knew trial court would make those foundational findings when it consented to bench trial on RAND rate and that RAND rates and ranges would be introduced at subsequent jury trial on breach of contract claim, and those rates and ranges would have had little meaning if facts supporting them were not also admitted.
+Cases that cite this headnote
+
+
+
+[25]
+
+EvidenceAdmission of similar evidence when first evidence was inadmissible
+
+
+157Evidence
+157IVAdmissibility in General
+157IV(E)Competency
+157k155Evidence Admissible by Reason of Admission of Similar Evidence of Adverse Party
+157k155(5)Admission of similar evidence when first evidence was inadmissible
+
+
+Under the “rule of curative admissibility,” or the “opening-the-door doctrine,” the introduction of inadmissible evidence by one party allows an opponent, in the court’s discretion, to introduce evidence on the same issue to rebut any false impression that might have resulted from the earlier admission.
+Cases that cite this headnote
+
+
+
+[26]
+
+EvidenceWhat constitutes offer
+
+
+157Evidence
+157VIIAdmissions
+157VII(A)Nature, Form, and Incidents in General
+157k212Offers of Compromise or Settlement
+157k213In General
+157k213(2)What constitutes offer
+
+
+Testimony of software developer’s deputy general counsel regarding investigation by Federal Trade Commission (FTC) of patentee’s enforcement policy regarding its standard essential patents was not barred by rule prohibiting introduction of evidence of compromise offers and negotiations, in software developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on reasonable and non-discriminatory (RAND) terms; testimony was admitted only to show that patentees were aware FTC and developer found its conduct questionable enough to merit investigation, and court promptly and adequately cured any prejudicial impact of testimony going beyond that scope. Fed.Rules Evid.Rule 408, 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+[27]
+
+EvidenceTendency to mislead or confuse
+
+
+157Evidence
+157IVAdmissibility in General
+157IV(D)Materiality
+157k146Tendency to mislead or confuse
+
+
+Testimony of software developer’s deputy general counsel regarding investigation by Federal Trade Commission (FTC) of patentee’s enforcement policy regarding its standard essential patents was not barred by rule regarding exclusion of relevant evidence for prejudice, confusion, waste of time, or other reasons, in software developer’s breach of contract suit alleging that patentee improperly refused to offer it licenses for use of foreign and domestic standard essential patents on reasonable and non-discriminatory (RAND) terms; testimony was largely cumulative of other testimony to which patentee did not object, and any danger of prejudice in admitting testimony as limited did not manifestly outweigh its probative value. Fed.Rules Evid.Rule 403, 28 U.S.C.A.
+1 Cases that cite this headnote
+
+
+
+[28]
+
+Federal CourtsAdmission or exclusion in general
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3598Evidence
+170Bk3598(2)Reception of Evidence
+170Bk3598(4)Admission or exclusion in general
+
+
+In determining whether the district court abused its discretion in applying the evidentiary rule regarding exclusion of relevant evidence for prejudice, confusion, waste of time, or other reasons, the Court of Appeals employs a highly deferential standard of review, reversing only if the exercise of discretion was manifestly erroneous and prejudicial. Fed.Rules Evid.Rule 403, 28 U.S.C.A.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1029 Kathleen M. Sullivan (argued), Quinn Emanuel Urquhart & Sullivan, LLP, New York, N.Y.; Brian C. Cannon, Quinn Emanuel Urquhart & Sullivan, LLP, Redwood Shores, CA, for Defendants–Appellants.
+Carter G. Phillips (argued), Sidley Austin LLP, Washington, D.C.; David T. Pritikin, Sidley Austin LLP, Chicago, IL; Arthur W. Harrigan, Jr., Calfo Harrigan Leyh & Eykes LLP, Seattle, WA; T. Andrew Culbert, Microsoft Corporation, Redmond, WA, for Plaintiff–Appellee.
+Wayne P. Sobon, Arlington, VA, and and for Amicus Curiae American Intellectual Property Law Association.
+Richard S. Taffet, Bingham McCutchen LLP, New York, N.Y.; Patrick Strawbridge, Bingham McCutchen LLP, Boston, MA; Stephanie Schuster, Bingham McCutchen LLP, Washington, D.C., for Amicus Curiae Qaulcomm Incorporated.
+Xavier M. Brandwajn, Alston and Bird LLP, East Palo Alto, CA, for Amici Curiae Nokia Corporation and Nokia USA Inc.
+Charles Duan, Washington, D.C., as and for Amicus Curiae Public Knowledge.
+Mark S. Davies, Orrick, Herrington & Sutcliffe LLP, Washington, D.C.; Christopher J. Cariello, Orrick, Herrington & Sutcliffe LLP, New York, N.Y., for Amicus Curiae Apple Inc.
+Lauren B. Fletcher, William F. Lee, Joseph J. Mueller, Timothy D. Syrett, Wilmer Cutler Pickering Hale and Dorr LLP, Boston, MA; James L. Quarles III, Brittany Blueitt Amadi, Wilmer Cutler Pickering Hale and Dorr LLP, Washington, D.C.; Matthew R. Hulse, Intel Corporation, Santa Clara, CA, for Amici Curiae Intel Corporation, Aruba Networks Inc., Dell Inc., Hewlett–Packard Company, Newegg Inc., SAS Institute Inc., VIZIO, Inc., and Xilinx, Inc.
+Robert F. Krebs, Ronald F. Lopez, Karl Belgum, Nixon Peabody, LLP, San Francisco, CA, for Amicus Curiae Sierra Wireless Inc.
+Christy G. Lea, Knobbe, Martens, Olson & Bear, LLP, Irvine, CA; Christopher C. Kennedy, Knobbe, Martens, Olson & Bear, LLP, Washington, D.C.; Mauricio A. Uribe, Knobbe, Martens, Olson & Bear, LLP, Seattle, WA; Alice C. Garber, John J. Murphy, T–Mobile USA, Inc., Bellevue, WA, for Amicus Curiae T–Mobile USA, Inc.
+Appeal from the United States District Court for the Western District of Washington, James L. Robart, District Judge, Presiding. D.C. Nos. 2:10–cv–01823–JLR, 2:11–cv–00343–JLR.
+Before: SIDNEY R. THOMAS, Chief Judge, and J. CLIFFORD WALLACE and MARSHA S. BERZON, Circuit Judges.
+
+
+OPINION
+BERZON, Circuit Judge:
+We live in an age in which the interconnectivity of a wide range of modern technological products is vital. To achieve that interconnection, patent-holders often join together in compacts requiring licensing certain patents on reasonable and non- *1030 discriminatory (“RAND”) terms. Such contracts are subject to the common-law obligations of good faith and fair dealing.
+ 
+At issue in this appeal are two patent portfolios, formerly owned by Appellants Motorola, Inc., Motorola Mobility, Inc., and General Instrument Corp., (“Motorola”), both of which are subject to RAND agreements.1 Appellee Microsoft, a third-party beneficiary to Motorola’s RAND commitments, sued Motorola for breach of its obligation to offer RAND licenses to its patents in good faith. Motorola, meanwhile, brought infringement actions in a variety of fora to enjoin Microsoft from using its patents without a license.
+ 
+We previously upheld, in an interlocutory appeal, an anti-suit injunction preventing Motorola from enforcing in a German action any injunction it might obtain against Microsoft’s use of certain contested patents. Microsoft Corp. v. Motorola, Inc., 696 F.3d 872 (9th Cir.2012) (“Microsoft I ”). We did so after determining that there was, in the “sweeping promise” of Motorola’s RAND agreements, “at least arguably[ ] a guarantee that the patent-holder will not take steps to keep would-be users from using the patented material, such as seeking an injunction, but will instead proffer licenses consistent with the commitment made.” Id. at 884.
+ 
+After our decision, a jury determined that Motorola had indeed breached its RAND good faith and fair dealing obligations in its dealings with Microsoft. In this appeal, we address (1) whether the district court overstepped its bounds by determining, at a bench trial preceding the jury trial on breach of contract, a reasonable and non-discriminatory rate, as well as a range of rates, for Motorola’s patents; (2) whether the court erred in denying Motorola’s motions for judgment as a matter of law on the breach of contract issue; (3) whether the court erred in awarding Microsoft attorneys’ fees as damages in connection with Motorola’s pursuit of injunctions against infringement; and (4) whether the district court abused its discretion in two contested evidentiary rulings.
+ 
+
+I. BACKGROUND
+A. Standard–Setting Organizations and Standard–Essential Patents
+When we connect to WiFi in a coffee shop, plug a hairdryer into an outlet, or place a phone call, we owe thanks to standard-setting organizations (“SSOs”). See generally Mark A. Lemley, Intellectual Property Rights and Standard–Setting Organizations, 90 Calif. L.Rev. 1889 (2002). SSOs set technical specifications that ensure that a variety of products from different manufacturers operate compatibly. Without standards, there would be no guarantee that a particular set of headphones, for example, would work with one’s personal music player. See id. at 1896.
+ 
+Standardization provides enormous value to both consumers and manufacturers. It increases competition by lowering barriers to entry and adds value to manufacturers’ products by encouraging production by other manufacturers of devices compatible with them. See id. at 1896–97; Amicus Br. of American Intellectual Property Law Ass’n (“IPLA”) at 6; Amicus Br. of Apple Inc. at 2. But because SSO standards often incorporate patented technology, all manufacturers who implement a standard must obtain a license to use those standard-essential patents (“SEPs”).
+ 
+The development of standards thereby creates an opportunity for companies to *1031 engage in anti-competitive behavior. Most notably, once a standard becomes widely adopted, SEP holders obtain substantial leverage over new product developers, who have little choice but to incorporate SEP technologies into their products. Using that standard-development leverage, the SEP holders are in a position to demand more for a license than the patented technology, had it not been adopted by the SSO, would be worth. The tactic of withholding a license unless and until a manufacturer agrees to pay an unduly high royalty rate for an SEP is referred to as “hold-up.” Ericsson, Inc. v. D–Link Sys., Inc., 773 F.3d 1201, 1209 (Fed.Cir.2014). “Royalty stacking” refers to the risk that many holders of SEPs will engage in this behavior, resulting in excessive royalty payments such that (1) the cumulative royalties paid for patents incorporated into a standard exceed the value of the feature implementing the standard, and (2) the aggregate royalties obtained for the various features of a product exceed the value of the product itself. Id.; see also Mark A. Lemley & Carl Shapiro, Patent Holdup and Royalty Stacking, 85 Tex. L.Rev.1991, 2010–13 (2007); Amicus Br. of Public Knowledge at 11–20.
+ 
+To mitigate the risk that a SEP holder will extract more than the fair value of its patented technology, many SSOs require SEP holders to agree to license their patents on “reasonable and nondiscriminatory” or “RAND” terms.2 Under these agreements, an SEP holder cannot refuse a license to a manufacturer who commits to paying the RAND rate.
+ 
+For example, International Telecommunications Union (“ITU”), one of the SSOs at issue in this case, has established a Common Patent Policy. That Policy provides that “a patent embodied fully or partly in a [standard] must be accessible to everybody without undue constraints.” ITU, Common Patent Policy for ITU–T/ITU–R/ISO/IEC, http://www.itu.int/en/ITU-T/ipr/Pages/policy.aspx (last visited June 15, 2015) [hereinafter ITU, Common Patent Policy]. Any holder of a patent under consideration for incorporation into an ITU standard is required to submit a declaration of its commitment to “negotiate licenses with other parties on a non-discriminatory basis on reasonable terms and conditions.” Id.; see also Microsoft I, 696 F.3d at 876. “If a ‘patent holder is not willing to comply’ with the requirement to negotiate licenses with all seekers, then the standard ‘shall not include provisions depending on the patent.’ ” Microsoft I, 696 F.3d at 876 (quoting ITU, Common Patent Policy).
+ 
+The two standards underlying this case are the H.264 video-coding standard set by the ITU and the 802.11 wireless local area network standard set by the Institute of Electrical and Electronics Engineers (“IEEE”). The H.264 standard pertains to an efficient method of video compression. The 802.11 standard regards the wireless transfer of information using radio frequencies, commonly referred to as “WiFi.” The H.264 standard is incorporated into Microsoft’s Windows operating system and into its Xbox video game console. The 802.11 WiFi network standard is incorporated into Xbox.
+ 
+
+B. History of the Present Dispute
+In October 2010, Microsoft sued Motorola in both the U.S. International Trade Commission (“ITC”)3 and the Western *1032 District of Washington for alleged infringement of certain smartphone patents. The parties thereupon engaged in a series of discussions concerning, among other matters, the possibility of a cross-licensing agreement granting Motorola licenses to Microsoft’s smartphone patents in exchange for licenses to any of Motorola’s patents Microsoft’s products may have been infringing.
+ 
+On October 21st and 29th, Motorola sent Microsoft two letters offering to license its 802.11 and H.264 SEP portfolios at 2.25% of the price of the end product—no matter the manufacturer—incorporating the patents. In other words, Microsoft would pay Motorola 2.25% of the selling price of an Xbox game console or of any computer running Microsoft Windows. The two offer letters, identical in all material terms, represented that the offer was in keeping with Motorola’s RAND commitments.4
+ 
+Soon after receiving Motorola’s letters, in November 2010, Microsoft filed a diversity action in the Western District of Washington, alleging that Motorola had breached its RAND commitments to the IEEE and ITU.5 Microsoft alleged that Motorola’s offer letters constituted a refusal to license Motorola’s SEPs on RAND terms. The next day, Motorola filed suit against Microsoft in the Western District of Wisconsin seeking to enjoin Microsoft from using its H.264 patents. The cases were consolidated before Judge James Robart in the Western District of Washington.
+ 
+Motorola also filed patent-enforcement suits with the ITC, seeking an exclusion order against importing Microsoft’s Xbox products into the United States, and with a German court, seeking an injunction against sales of Microsoft’s H.264–compliant products. The German action was particularly threatening to Microsoft, as its European distribution center for all Windows and Xbox products was in Germany. To guard against the economic loss that would result if an injunction against use of Motorola’s two German H.264 patents were granted, Microsoft swiftly relocated its distribution center to the Netherlands. At the same time, Microsoft sought and obtained from the district court, in April 2012, an “anti-suit injunction” barring Motorola from enforcing any injunction it might obtain in a German court against Microsoft’s use of Motorola’s H.264 SEPs *1033 until the district court could “determine whether injunctive relief is an appropriate remedy for Motorola to seek.” Microsoft I, 696 F.3d at 880. We affirmed the anti-suit injunction order in September 2012. Id. at 889. Meanwhile, the German court had ruled that Motorola was entitled to an injunction. Id. at 879.6
+ 
+Proceedings in the district court continued apace. Microsoft amended its complaint to allege that Motorola’s filing of injunctive actions constituted a breach of contract, because the obligation to offer RAND licenses to all seekers prohibited Motorola from seeking injunctions for violations of patents subject to that obligation.7 The court granted a joint motion to stay all the patent-infringement claims in the consolidated cases pending the outcome on the RAND issues.
+ 
+In a series of orders, Judge Robart held that (1) “RAND commitments create enforceable contracts between Motorola and the respective SSO”; (2) “Microsoft—as a standard-user—can enforce these contracts as a third-party beneficiary”; (3) “Motorola’s commitments to the ITU and IEEE ... requir[e] initial offers by Motorola to license its SEPs to be made in good faith,” but that “initial offers do not have to be on RAND terms so long as a RAND license eventually issues”; and (4) Motorola was not entitled to injunctive relief on its H.264 or 802.11 patents.8
+ 
+In November 2012, Judge Robart conducted a bench trial to determine a RAND rate and range for Motorola’s H.264 and 802.11 patents. Such determination was necessary, the court reasoned, because “[w]ithout a clear understanding of what RAND means, it would be difficult or impossible to figure out if Motorola breached its obligation to license its patents on RAND terms.” After taking testimony from eighteen witnesses, the court issued a 207–page order setting forth its findings of fact and conclusions of law on RAND-rate-related issues. The court concluded that the RAND royalty for Motorola’s H.264 portfolio was .555 cents per end-product unit, with an upper bound of 16.389 cents per unit, and that the rate for Motorola’s 802.11 portfolio was 3.71 cents per unit, with a range of .8 cents to 19.5 cents.9
+ 
+The case then proceeded to a jury trial on the breach of contract claim. Over Motorola’s objection, Microsoft was permitted to introduce the RAND rates determined at the bench trial through witness testimony. Microsoft also introduced, again over Motorola’s objection, testimony that the FTC had previously investigated Motorola and its then-parent company, Google Inc., for failing to license patents relating to smartphones, tablets, and video gaming systems on RAND terms. As damages for the asserted breach of contract, *1034 Microsoft sought its attorneys’ fees and costs in defending the injunctive actions Motorola had brought. Microsoft also sought as damages the cost of relocating its distribution facility from Germany to the Netherlands.
+ 
+In September 2013, the jury returned a verdict for Microsoft in the amount of $14.52 million: $11.49 million for relocating its distribution center and $3.03 million in attorneys’ fees and litigation costs. The verdict form asked both the general question whether Motorola “breached its contractual commitment [s]” to the IEEE and ITU and, specifically, for the purpose of damages, whether Motorola’s “conduct in seeking injunctive relief, apart from Motorola’s general course of conduct, violated Motorola’s dut[ies] of good faith and fair dealing with respect to Motorola’s contractual commitment[s].” The jury answered “yes” to all questions, unanimously.
+ 
+Motorola moved for judgment as a matter of law both at the close of evidence and at the close of Microsoft’s case-in-chief. See Fed R. Civ. P. 50(a). After the jury’s verdict, the court denied Motorola’s motions in a joint order, concluding that (1) the evidence was sufficient for the jury reasonably to conclude that Motorola breached its duty of good faith and fair dealing by making offers far above the RAND rates and by seeking injunctions against Microsoft, and (2) the damages award was proper. The court granted Microsoft’s motion for entry of final judgment on the breach of contract jury verdict. See Fed.R.Civ.P. 54(b).
+ 
+Motorola then appealed from the judgment on the breach of contract claim to the Federal Circuit. On Microsoft’s motion, the Federal Circuit transferred the appeal to this court. Microsoft Corp. v. Motorola, Inc., 564 Fed.Appx. 586 (Fed.Cir.2014).
+ 
+
+II. DISCUSSION
+A. Jurisdiction
+In 2012, Motorola appealed to this court to review the district court’s grant of a preliminary anti-suit injunction. See Microsoft I, 696 F.3d 872. In that appeal, Motorola maintained that this court, not the Federal Circuit, had jurisdiction, “[b]ecause Microsoft’s complaint is pleaded in terms of contractual rather than patent rights.” Opening Br. of Defs.–Appellants, Microsoft I, 696 F.3d 872, No. 1235352, 2012 WL 2132503, at *2. Upon entry of judgment in the district court on the breach of contract claim, however, Motorola switched gears and appealed to the Federal Circuit, which has jurisdiction over cases “arising under” federal patent law—that is, “those cases in which a well-pleaded complaint establishes either that federal patent law creates the cause of action or ... that patent law is a necessary element of one of the well-pleaded claims.” Christianson v. Colt Indus. Operating Corp., 486 U.S. 800, 808–09, 108 S.Ct. 2166, 100 L.Ed.2d 811 (1988) (citing 28 U.S.C. § 1338(a)). The Federal Circuit then transferred the case here. See Microsoft, 564 Fed.Appx. 586.
+ 
+[1] [2] Our exercise of jurisdiction over this very case on an interlocutory appeal, and the Federal Circuit’s decision to transfer the instant appeal to this circuit because we have jurisdiction, are both the law of the case. See Christianson, 486 U.S. at 817, 108 S.Ct. 2166. Accordingly, we may now decline jurisdiction only if “(1) the [earlier] decision[s] w[ere] clearly erroneous; (2) there has been an intervening change in the law; (3) the evidence on remand is substantially different; (4) other changed circumstances exist; or (5) a manifest injustice would otherwise result.” United States v. Renteria, 557 F.3d 1003, 1006 (9th Cir.2009). Motorola’s argument that the district court “constructively *1035 amended” the complaint by holding a bench trial on the RAND rate tacitly invokes the “changed circumstances” exception, although Motorola does not so specify. But because our jurisdictional determination on the interlocutory appeal was made knowing the RAND bench trial would occur and the Federal Circuit’s decision to transfer the case was made after the bench trial, we conclude that no changed circumstances are present. As the earlier jurisdictional determinations were not clearly erroneous, we have jurisdiction.
+ 
+
+1. The Interlocutory Appeal
+[3] As we explained in the interlocutory appeal opinion in this case, “ ‘[n]ot all cases involving a patent-law claim fall within the Federal Circuit’s jurisdiction.’ ” Microsoft I, 696 F.3d at 881 (quoting Holmes Grp., Inc. v. Vornado Air Circulation Sys., Inc., 535 U.S. 826, 834, 122 S.Ct. 1889, 153 L.Ed.2d 13 (2002)). The Federal Circuit, we noted, would have jurisdiction over Motorola’s appeal of the anti-suit injunction “only if it would have jurisdiction over a final appeal in the case under 28 U.S.C. § 1295.” Id. (citing 28 U.S.C. § 1292(c)(1)). Looking to Microsoft’s complaint, we explained that this action is not one “arising under any Act of Congress relating to patents,” 28 U.S.C. § 1338(a), but rather “sounds in contract and involves the district court’s diversity jurisdiction.” Microsoft I, 696 F.3d at 881. We therefore concluded that we had jurisdiction over the interlocutory appeal, thereby necessarily deciding also that we would have jurisdiction over a final appeal of the breach of contract claim. Id.
+ 
+
+2. The Federal Circuit’s Transfer
+Motorola nevertheless appealed from the final judgment in this case to the Federal Circuit. In support of Federal Circuit jurisdiction, Motorola maintained that the district court’s consolidation of Microsoft’s breach of contract case with Motorola’s patent infringement suit—the latter of which would fall within the Federal Circuit’s jurisdiction on appeal—conferred Federal Circuit appellate jurisdiction over both cases. See Microsoft, 564 Fed.Appx. at 589.
+ 
+Applying law-of-the-case deference to our prior opinion, the Federal Circuit rejected that argument.10 It noted that the district court did consolidate the two cases under Federal Rule of Civil Procedure 42(a) in the interest of “judicial economy,” but denied a motion to dismiss Motorola’s patent-infringement claims and re-file them as compulsory counterclaims in the contract case. Id. at 588. In so ruling, the district court reasoned that the facts of the two cases were “not so intertwined and logically connected that considerations of judicial economy and fairness dictate that the issues be resolved in one lawsuit.” Id. Given that ruling, the Federal Circuit held, it was “plausible to conclude, as the Ninth Circuit seems to have done here, that the act of ‘consolidation did not merge the suits into a single cause, or change the rights of the parties.’ ” Id. at 589 (quoting Johnson v. Manhattan Ry., 289 U.S. 479, 496–97, 53 S.Ct. 721, 77 L.Ed. 1331 (1933)) (internal alterations omitted). Because the Federal Circuit found our decision not “clearly erroneous,” it transferred the case. Id. at 589.
+ 
+
+*1036 3. Law of the Case, Applied
+We, too, apply law-of-the-case deference to our previous jurisdictional determination, as well as to that of the Federal Circuit. In doing so, we are guided by the Supreme Court’s holding in Christianson, which in very similar circumstances highlighted the importance of deferring to prior jurisdictional determinations.
+ 
+Christianson came before the Supreme Court after both the Federal Circuit and the Seventh Circuit had declined to exercise jurisdiction over an antitrust suit with embedded questions of patent validity. Christianson, 486 U.S. at 803–07, 108 S.Ct. 2166. Review was initially sought in the Federal Circuit. See id. at 806, 108 S.Ct. 2166. That Circuit concluded that it lacked jurisdiction and transferred the case to the Seventh Circuit. See id. The Seventh Circuit then, sua sponte, addressed its own jurisdiction, concluded that the Federal Circuit was “clearly wrong” in transferring the case, and transferred it back. Id. at 806, 108 S.Ct. 2166 (quoting 798 F.2d 1051, 1056–57 (7th Cir.1986)). The Federal Circuit, in turn, stated that it was the Seventh Circuit that was “clearly wrong,” and had “exhibited ‘a monumental misunderstanding of the [Federal Circuit’s] patent jurisdiction.’ ” Id. at 807, 108 S.Ct. 2166 (quoting 822 F.2d 1544, 1547, 1551 n. 7 (Fed.Cir.1987)). Nevertheless, in the “interest of justice,” the Federal Circuit addressed the merits of the case. Id. (quoting 822 F.2d at 1559–60).
+ 
+Faced with this intercircuit jurisdictional standoff, the Supreme Court held, first, that the Seventh Circuit erred in failing to adhere to the Federal Circuit’s jurisdictional determination, and, second, that the Federal Circuit erred in addressing the merits of the case after having determined that it lacked jurisdiction. While a court always has the authority to revisit a prior jurisdictional determination of its own or of a coordinate court, Christianson explained, “as a rule courts should be loathe to do so in the absence of extraordinary circumstances such as where the initial decision was clearly erroneous and would work a manifest injustice.” Id. at 817, 108 S.Ct. 2166 (internal quotation marks omitted). Otherwise, “every borderline case [could] culminate in a perpetual game of jurisdictional ping-pong.... Such a state of affairs would undermine public confidence in our judiciary, squander private and public resources, and commit far too much of [the] Court’s calendar to the resolution of fact-specific jurisdictional disputes that lack national importance.” Id. at 818–19, 108 S.Ct. 2166. Christianson concluded that because the Federal Circuit’s initial jurisdictional determination was “plausible,” the Seventh Circuit, and the Federal Circuit on its second review, should have adhered to it. Id. at 819, 108 S.Ct. 2166.
+ 
+Motorola maintains that Christianson ‘s firm admonition does not cover the present circumstances. We owe no deference to our earlier opinion, Motorola argues, because the jurisdictional question is different now than it was when this case was previously before the panel. The bench trial on the RAND rate “constructively amended” the complaint, it contends, so that what was once a simple breach of contract case has morphed into a case necessarily requiring the determination of a “substantial question of federal patent law.” Id. at 809, 108 S.Ct. 2166.
+ 
+We disagree. The district court’s decision to hold a trial on the RAND rate, whether or not doing so constituted a constructive amendment of the complaint, does not in any manner affect the application of law-of-the-case deference to this appeal. We were aware of the district court’s plans to determine the RAND rate in Microsoft I; indeed, that proceeding-to-come was a major subject of Motorola’s *1037 briefing. See Microsoft I, 696 F.3d at 879; Opening Br. of Defs.–Appellants, Microsoft I, 696 F.3d 872, No. 12–35352, 2012 WL 2132503, at *29–32. Yet, we determined that we would have jurisdiction over the final appeal in the anti-suit injunction appeal. Furthermore, as we have indicated, we owe law-of-the-case deference as well to the Federal Circuit’s decision to transfer the case, a decision made after the district court held the RAND bench trial.
+ 
+
+4. “Clear Error” or “Manifest Injustice ”
+Finally, looking briefly at the merits of Motorola’s current jurisdictional argument, there was no “clear error” or “manifest injustice” in concluding that the RAND bench trial did not transform this case into a matter necessarily requiring the resolution of a substantial question of federal patent law. See Christianson, 486 U.S. at 809, 817, 108 S.Ct. 2166; Arizona v. California, 460 U.S. 605, 618 n. 8, 103 S.Ct. 1382, 75 L.Ed.2d 318 (1983).
+ 
+[4] A complaint that alleges breach of contract and seeks damages sounds in contract; its nature “does not change because the contract is a patent license.” See Bonzel v. Pfizer, Inc., 439 F.3d 1358, 1363 (Fed.Cir.2006); see also Barnhart v. W. Md. Ry. Co., 128 F.2d 709, 714 (4th Cir.1942) (collecting Supreme Court cases). Even if a court, in interpreting a contract and assessing damages, “deems it appropriate to apply the law of patent infringement, that of itself does not change the complaint into one arising under the patent law.” Bonzel, 439 F.3d at 1363; see also Complex Litigation Committee of the American College of Trial Lawyers, Anatomy of a Patent Case Ch.16.I.A.1. (2d ed.2012) (“Anatomy of a Patent Case”) (explaining that application of patent law for purposes of determining damages “does not by itself present a substantial issue of patent law”).
+ 
+Motorola points out that the Federal Circuit has exercised jurisdiction in some breach-of-contract cases. See Parental Guide of Tex., Inc. v. Thomson, Inc., 446 F.3d 1265 (Fed.Cir.2006); U.S. Valves, Inc. v. Dray, 212 F.3d 1368 (Fed.Cir.2000); Portney v. CIBA Vision Corp., 401 Fed.Appx. 526 (Fed.Cir.2010). But those cases involved questions of patent infringement, patent validity, or claim construction, or included an embedded, outcome-determinative interpretation of a patent law statute. See Anatomy of a Patent Case Ch.16.I.A.1. (2d ed.2012). This case, in contrast, is a straight breach of contract action.
+ 
+Calculation of appropriate royalty amounts in contractual patent license cases involves similar determinations to those that arise when calculating damages in patent infringement cases. So there is some overlap in that regard between breach of patent license cases and Federal Circuit patent infringement cases. But Motorola has cited no case in which the Federal Circuit has exercised jurisdiction over a breach of contract claim for damages where the mode of calculating contract damages, not any pure patent issue, was at stake.
+ 
+In sum, there was no “clear error[ ]” or “manifest injustice” that would justify disrupting ours and the Federal Circuit’s prior determinations that we have jurisdiction. Christianson, 486 U.S. at 817, 108 S.Ct. 2166. Nor is any other exception to the law-of-the-case doctrine applicable. We therefore reject Motorola’s challenge to our jurisdiction.
+ 
+
+B. The RAND Bench Trial
+We now turn to the first of two intertwined merits challenges to the district court’s judgment—the assertions that (1) the district court lacked the legal authority to decide the RAND rate issue in a bench *1038 trial, severing it from the ultimate breach of contract issue tried to the jury; and (2) the court’s legal analysis in determining the RAND rate was contrary to Federal Circuit precedent.11 In considering those rulings, we review the district court’s findings of fact for clear error and its conclusions of law de novo. See Teva Pharm. USA, Inc. v. Sandoz, Inc., ––– U.S. ––––, 135 S.Ct. 831, 841, ––– L.Ed.2d –––– (2015).
+ 
+
+1. Motorola’s Consent to the Bench Trial
+Judge Robart began by determining, quite reasonably, that the true RAND royalty rate for Motorola’s SEPs was an important fact for the jury to consider in determining whether Motorola breached it good faith obligations under the RAND agreements. After soliciting input from the parties as to how the RAND rate determination should be made, he ordered a bench trial as to that issue.
+ 
+[5] Microsoft contends that Motorola affirmatively consented to a bench-trial determination of the RAND royalty rate for each SEP portfolio, thereby waiving any argument that the court lacked the authority to decide the RAND rate itself. We agree.
+ 
+Motorola expressed its consent to a bench trial on the RAND rate at a June 14, 2012 status conference. During that proceeding, Motorola’s counsel informed the court that the parties had agreed “that the court [will] decide all the material terms of the RAND license.” After Microsoft’s counsel confirmed the agreement, counsel for Motorola repeated that the “agreement is that the court w[ill] decide all the material terms of the RAND license.” The parties left open at that hearing whether the question of Motorola’s breach of its contractual obligation of good faith and fair dealing would be determined by a jury or at a bench trial. Motorola requested a jury trial on that issue shortly thereafter.
+ 
+Motorola now protests that counsel’s June 14, 2012 statements consenting to a RAND-rate bench trial were “taken out of context,” and “equivocal,” and did not amount to consent. Specifically, Motorola contends that its consent, if any, was limited to a bench-trial determination of the terms of an agreement the court was planning to craft between the parties. At the oral argument on this appeal, counsel explained Motorola’s position:
+We agreed that the court could set the terms of a [RAND] license. The court later abandoned the quest to set the terms of the license ... [H]e changed the basis on which he was finding the RAND rate. He said, ‘I’m not going to set a license; I now think it’s necessary for the fact-finder to know the true RAND rate in order for us to decide breach.’ That is a change of litigation parameters. We are no longer setting a license, which is all we conceivably could have agreed to.
+That contention is unpersuasive, for two reasons.
+ 
+First, Motorola was not misled as to the connection between the RAND determination and the breach-of-contract trial, and did not cabin its consent to a license-setting scenario. Judge Robart alerted the parties on several occasions, long before the June 14, 2012 status conference, that a determination of the RAND royalty rate would be used “as guidance” in adjudicating the breach of contract claim.
+ 
+For example, in an order on the parties’ cross motions to dismiss filed June 1, 2011, Judge Robart indicated that determination *1039 of the RAND rate was a necessary predicate to adjudicating the breach of contract claim. Months later, in a February 2012 telephone conference, he reiterated that he was being asked “to determine what the RAND terms and conditions ... are so that [the factfinder] may then attempt to determine if Motorola’s offer to Microsoft was within that range.” And just days before the hearing in which Motorola explicitly consented to a bench trial on the RAND rate, Judge Robart, in denying Microsoft’s motion for summary judgment on the breach of contract issue, stated that summary judgement was inappropriate because before it could “[be] determine[d] whether Motorola breached its duty to make good faith offers by its October 21 and 29 Letters, the court must first determine the RAND terms of an agreement between Motorola and Microsoft for Motorola’s relevant portfolios of standard essential patents.”
+ 
+It was at that point that the court requested input from the parties as to the structure of the trial—to which request the parties responded they had agreed that the RAND rate adjudication would be a bench trial. So Motorola was amply aware before the June 14, 2012 hearing that Judge Robart believed the RAND rate determination was an essential precursor to the breach-of-contract trial.
+ 
+Second, Motorola’s contention on appeal that it consented to adjudication of the RAND rate only for purposes of a court-created license is diametrically opposed to its position before the district court, expressed on several occasions. One month after its June 14, 2012 consent to the bench trial, Motorola filed a motion for partial summary judgment, essentially asking the court not to determine a RAND royalty rate after all. In that motion, Motorola told the court that it had become opposed to such a trial once it “fully appreciated that the Court intended to have a separate trial to determine the actual terms of a RAND contract, as opposed to identifying what is RAND for use in evaluating reasonableness in the context of Motorola’s breach claim.” In its reply in support of that motion, Motorola further maintained that
+until recently Motorola did not fully appreciate and focus on—let alone fully research the authority relevant to—the Court’s intent to determine the actual terms of a RAND contract in a separate trial, rather than (as the Court suggested on Feb 13, 2012 and in its June 6, 2012 Order) to consider RAND terms in the context of determining the breach of contract issues.
+(Emphasis added). Motorola’s position at that juncture—that it consented to a bench trial on the understanding that the RAND rate would be determined for purposes of the breach of contract adjudication, and that it was the license creation it objected to—is precisely the opposite of its current contention.12
+ 
+[6] In short, Motorola was quite aware, when it agreed with Microsoft in June to a RAND determination bench trial, that the RAND determination was being made to set the stage for the breach of contract trial. Nor did Motorola ever withdraw its affirmative stipulation to a bench trial for that purpose. We therefore do not consider whether, absent consent, a jury should have made the RAND determination.13
+ 
+
+*1040 2. The District Court’s RAND Determination
+Motorola contends that on its merits, the district court’s RAND analysis violated Federal Circuit patent damages law. Specifically, Motorola cites to the damages provision of the Patent Act, 25 U.S.C. § 284, which provides that a court shall award damages “adequate to compensate for the infringement, but in no event less than a reasonable royalty rate for the use made of the invention by the infringer,” and to Federal Circuit cases calculating damages under that provision.
+ 
+[7] We reiterate that this is not a patent law action. Still, the Federal Circuit’s patent law methodology can serve as guidance in contract cases on questions of patent valuation. See Bonzel, 439 F.3d at 1363. The district court’s analysis properly adapted that guidance to the current context.
+ 
+
+a. The Hypothetical Agreement
+Neither the IEEE nor the ITU provide a specific formula for setting the terms of a RAND license. At trial, both parties offered expert testimony as to the appropriate method for calculating a RAND rate. After trial, Judge Robart invited the parties to submit post-trial briefs and proposed findings of fact and conclusions of law. He then considered each party’s submissions and adopted a framework sensitive to the circumstances and objectives of RAND agreements.
+ 
+The framework settled on was “generally [consistent] with Motorola’s approach.” Applying that approach, the district court sought to approximate the royalty rates upon which the parties would have agreed by setting up a hypothetical negotiation between the parties. In doing so, the court carefully thought through the “factors an SEP owner and implementer would consider” in an actual negotiation directed at licensing a patent subject to RAND commitments. The court then discussed each of Motorola’s fifteen H.264 patents and eleven 802.11patents, considering the objective value each contributed to each standard, given the quality of the technology and the available alternatives as well as the importance of those technologies to Microsoft’s business. Finally, the court performed a meticulous analysis of the testimony of eighteen witnesses, including executives, economists, and technology experts, to sort out which evidence to rely upon in determining the RAND royalty rate. Generally, the court credited Motorola’s experts; where it did not, it provided reasoned explanations for not doing so.
+ 
+Motorola’s challenge to the district court’s exhaustive analysis centers on its interpretation of Georgia–Pacific Corp. v. U.S. Plywood Corp., 318 F.Supp. 1116 (S.D.N.Y.1970), a patent-infringement case whose hypothetical agreement framework for determining infringement damages has since been widely adopted by district *1041 courts and “sanctioned” by the Federal Circuit. See LaserDynamics, Inc. v. Quanta Computer, Inc., 694 F.3d 51, 60 n. 2 (Fed.Cir.2012). Georgia–Pacific set out fifteen factors for courts to consider in arriving at a royalty rate the parties might have agreed upon in a hypothetical negotiation. See Lucent Techs., Inc. v. Gateway, Inc., 580 F.3d 1301, 1324–25 (Fed.Cir.2009) (citing Georgia–Pacific, 318 F.Supp. at 1120). Factor fifteen directs courts to set the hypothetical negotiation at “the time the infringement began.” Georgia–Pacific, 318 F.Supp. at 1120; see Panduit Corp. v. Stahlin Bros. Fibre Works, Inc., 575 F.2d 1152, 1158 (6th Cir.1978).
+ 
+Motorola’s central RAND-rate merits contention is that Judge Robart’s analysis failed to meet Georgia–Pacific ‘s factor fifteen criterion, as interpreted and applied by the Federal Circuit, and so constituted error. Several portions of the court’s findings of fact and conclusions of law do indicate that the court did to an extent take into account the present-day value to Microsoft of Motorola’s patents. For example, the court noted that a third-party valuation of Motorola’s 802.11 SEPs was only somewhat probative because, at the time of the valuation, “Motorola’s 802.11 SEP portfolio” was much larger than the portfolio “as it exists today.”
+ 
+[8] This partial present-day focus did not, however, render the district court’s RAND-rate determination invalid. First, the Federal Circuit has “never described the Georgia–Pacific factors as a talisman for royalty rate calculations.” Ericsson, 773 F.3d at 1230. Instead, outside the RAND context, the Federal Circuit has recognized that, although “courts often parrot all 15 factors to the jury,” some of the factors “clearly are not relevant” to every case. Id. And in the context of RAND agreements, the Federal Circuit in Ericsson cited Judge Robart’s opinion in support of the proposition that many of the Georgia–Pacific factors are “contrary to RAND principles.” Id. at 1229; see also id. at 1230. Ericsson recognized, for example, as did Judge Robart, that factor four—“ ‘[t]he licensor’s established policy and marketing program to maintain his patent monopoly by not licensing others to use the invention or by granting licenses under special conditions designed to preserve that monopoly’ ”—is contrary to the RAND purpose of preventing monopolies. Id. at 1230 (quoting Georgia–Pacific, 318 F.Supp. at 1120) (alteration in original).
+ 
+Factor fifteen is another factor that merits modification in some RAND contract contexts. An element of Microsoft’s claim is that Motorola maintained its demand of a 2.25% royalty rate throughout the proceedings, and also pressed its injunction suits even after Motorola was on notice that its actions were in tension with its RAND obligations. Given Microsoft’s argument that Motorola’s breach was ongoing, the district court could reasonably have concluded that it was appropriate to include the present-day value of Motorola’s SEPs as a factor in calculating the RAND rate-and-range for use in the breach-of-contract proceeding.
+ 
+Second, Motorola never specifies the past date the district court should have used. In pointing to “the time the infringement began,” Georgia–Pacific, and subsequent cases applying its framework, referred to the date of the manufacturer’s first unlicensed use of the patented technology. 318 F.Supp. at 1120; see also Lucent Techs., 580 F.3d at 1324. But, as Motorola acknowledges, the “infringement” at issue in this case is Motorola’s breach of contract, not Microsoft’s use of Motorola’s patents. Motorola mentions both “the date Motorola sent the [offer] letters” and “the time right before Microsoft’s first [patent] infringement began” as possible hypothetical negotiation dates the *1042 court could have used, without specifying which is correct. Motorola did not mention either date in putting forth its version of the hypothetical negotiation analysis in its post-trial brief. To assume the correct date would have been the date the breach of contract began is of no help, as the alleged breach of contract was not tied to any specific date. The jury could have found a breach of contract based on Motorola’s offer letters, its seeking a number of injunctions, or its overall course of conduct.
+ 
+Third, it would have been impracticable for the court to consider only such evidence as could pinpoint the value of Motorola’s patents to Microsoft at a precise point in time. Both parties introduced volumes of data—as to, for example, the parties’ market share and the valuation of similar patents—all meant to approximate the value of Motorola’s patents. Notably, Motorola itself urged the district court to rely on several studies and reports, from 2011 and 2012, that would not have been available to the parties at an earlier-dated hypothetical negotiation, and one of the “historical licenses” Motorola asked the court to consider—and now argues the court erred in failing to consider—dates from December 2011. As the data presented was not pinpointed to a past date, the district court’s approximation from that data also could not be tied to a specific historical moment.
+ 
+Finally, Motorola has not shown—nor has it even argued—that it was prejudiced by the court’s analysis. See Brown & Williamson Tobacco Corp. v. Philip Morris Inc., 229 F.3d 1120, 1131 (Fed.Cir.2000). As Motorola acknowledges, the purpose of the hypothetical agreement approach is to take account of the situation of the parties and of the value each places on the patents in question. Motorola has pointed to just one material change in the parties’ positions since the dispute began that could be relevant to the court’s analysis: In 2012, Google bought Motorola.14 Judge Robart considered Google’s broad commercial interests, not just Motorola’s, when he estimated as part of his RAND-rate analysis the likely benefits from inclusion in the patent pools. But Motorola has not explained how it was prejudiced by consideration of Google’s interests. In fact, Microsoft maintains, persuasively, that Motorola benefitted from the court’s conflation of Google and Motorola, as Google, a “sophisticated, substantial technology firm[ ] with [a] vast array[ ] of technologically complex products,” would obtain more value from the pool than would Motorola as an independent entity.
+ 
+In sum, given the need for flexibility in determining a royalty rate for a RAND-encumbered patent, see Ericsson, 773 F.3d at 1230–31, and given that Motorola has not shown that the court’s consideration of the companies’ circumstances at the time of the bench trial prejudiced it, see Brown & Williamson Tobacco Corp., 229 F.3d at 1131, the district court’s RAND order properly applied the hypothetical agreement approach.
+ 
+
+b. Patent Pools and Historical Licenses as Indicators
+[9] In addition to challenging the district court’s legal analysis, Motorola objects to the court’s factual conclusions that (a) the rates charged by two patent pools are relevant indicators of the RAND rate for Motorola’s patents; and (b) Motorola’s historical licenses are not. Motorola’s argument is that the district court gave too much weight to the former evidence and not enough to the latter, leading to a decision “fatal[ly]” unsupported by the evidence in the record.
+ 
+*1043 Patent pools are collections of two or more SEP owners that package and license their SEPs collectively. Royalties are distributed amongst the contributors to the patent pool on a per-patent basis, generally by valuing each patent in the pool equally. Typically, pool members contributing their patents to the pool also become licensees of the pool’s patent package.
+ 
+For Motorola’s 802.11 portfolio, the court regarded the VIA Licensing 802.11 pool as somewhat probative of the RAND rate and range. The 802.11 pool did not achieve widespread use of the covered standard. But it was designed with that objective in mind and was otherwise a reasonably reliable indicator of the RAND royalty rate. For Motorola’s H.264 portfolio, the court found the royalty rate charged by the MPEG LA H.264 patent pool a reliable indicator of the RAND rate. That pool’s objectives mirrored the objectives of RAND agreements, namely “includ[ing] advanced technology to create valuable standards, while at the same time ... ensuring widespread adoption.”
+ 
+In both instances, the court credited testimony from Motorola’s experts that patent pools generally license at lower rates than might be achieved in a bilateral agreement, because a company receives value from pool membership that goes beyond royalty payments—principally, grant-back licenses and promotion of the standard. To account for those benefits, the court multiplied the pool rates by three.
+ 
+Motorola contends that a rate set by a pool arrangement is too different from the rate that might have been agreed upon bilaterally by the parties to serve as an appropriate RAND-rate indicator, even if the pool rate is multiplied by three. For the 802.11 patents, however, the district court used the pool rate just as one relevant data point in its overall analysis. The RAND rate the court ultimately settled on was an amalgamation of a number of considerations, the pool rate evidence being the most favorable to Motorola.
+ 
+As to the H.264 patent, the district court provided a reasoned explanation for its conclusion that the H.264 pool was a reliable indicator: The pool’s patents and Motorola’s patents were essential to the same technical standards, and Motorola provided no evidence that its patents were more valuable than the other patents in the pool. If anything, the record indicates that Motorola’s patents were on average less valuable than other H.264 patents. Many of the Motorola patents apply only to interlaced rather than (the more advanced) progressive video. Motorola offered some evidence suggesting that interlaced video coding was still valuable to Microsoft, but it did not show that support for interlaced video was more important to Microsoft than other video-coding capabilities. Motorola therefore was not prejudiced by the court’s assumption that its patents were of roughly equal value to those in the pool, as they probably were worth less.
+ 
+Instead of the patent pools, Motorola argues, the court should have considered several licensing agreements that included licenses to Motorola’s H.264 and 802.11 patent portfolios as probative of the RAND rate. The agreements Motorola put forth provided for royalty rates close or equal to the 2.25% it offered Microsoft.
+ 
+Georgia–Pacific suggests that the royalties a patent owner receives in other licensing agreements for the patents at issue can be relevant in determining a hypothetical royalty agreement. See 318 F.Supp. at 1120. In the current context, however, it was not clear error to reject the past licenses as too contextually dissimilar to be useful to the RAND rate calculation.
+ 
+The district court found Motorola’s license with VTech Communications, Inc.  *1044 not probative of a RAND rate for Motorola’s 802.11 and H.264 patents because those portfolios were licensed as part of a broader agreement that settled infringement claims Motorola held against VTech for use of its cell phone patents. VTech indicated in an email to Motorola that its interest in taking a license was to avoid a potential infringement lawsuit, and it paid only trivial royalties to Motorola under the 802.11 and H.264 licenses—an amount totaling a tiny fraction of the value of the broader agreement. The district court reasonably concluded that the 802.11 and H.264 VTech licenses were not reliable indicators of the RAND royalty rate.
+ 
+In Motorola’s RIM agreement, the 802.11 and H.264 SEPs were packaged with several other patents. Motorola and RIM entered into a broad cross-licensing agreement whereby, in exchange for a license to the Motorola SEPs RIM used in its mobile devices, RIM provided Motorola a license to its own SEPs, paid Motorola a large lump sum, and agreed to pay as a royalty rate a percentage of the net sales price of any mobile device it sold, subject to an annual royalty cap. The royalty rate represented a blended rate for all the Motorola patents included in RIM’s products, including non-standard-essential patents. The district court concluded that, for that reason, it would be impracticable to isolate, or apportion the value of the 802.11 and H.264 SEPs, particularly given the evidence that Motorola’s cell phone patent portfolio was highly valuable and likely dictated the terms of the agreement. In fact, an earlier agreement between Motorola and RIM provided for the same royalty rate but did not include rights to Motorola’s 802.11 and H.264 patents, suggesting that the value of the 802.11 and H.264 patents was zero or negligible. Finally, the RIM agreement was subject to a royalty cap and was, like the VTech agreement, entered into to resolve an ongoing infringement dispute between the parties, further diminishing its trustworthiness as an indicator of a free-standing RAND rate.
+ 
+Lastly, the district court also reasonably concluded that Motorola’s three license agreements with Symbol Technologies were not relevant. Two of the agreements were formed under threat of litigation, included monetary caps, and provided licenses for Motorola patents that expired before Motorola and Microsoft’s hypothetical agreement would have occurred. The third agreement also included patents that expired before October 2010, and it required a total payment amount much less than what Motorola would have obtained in seeking a 2.25% royalty rate from Microsoft.
+ 
+The district court provided reasonable explanations for giving the Motorola bilateral licenses little to no weight. Motorola does not address any of those explanations.
+ 
+Nor does its citation of the Federal Circuit’s recent opinion in Apple Inc. v. Motorola, Inc. afford it any help. See 757 F.3d 1286 (Fed.Cir.2014), overruled on other grounds by Williamson v. Citrix Online, LLC, No. 2013–1130, 792 F.3d 1339, 2015 WL 3687459 (Fed.Cir. June 16, 2015). That case holds only that licenses should be considered when comparable; it does not in any respect impugn the district court’s reasoning as to why the proffered licenses were not comparable. Id. at 1323.
+ 
+In sum, in determining the RAND rate and range for each SEP portfolio, the district court engaged in a thoughtful and detailed analysis, giving careful consideration to the parties’ briefing and evidentiary submissions, and to the testimony. Although Motorola criticizes the district court’s approach, it provides no alternative other than strict adherence to the Georgia–Pacific factors, without accounting for the particulars of RAND agreements—a rigid approach disapproved of by the Federal *1045 Circuit in Ericsson. See 771 F.3d at 1230–31. We conclude that the court’s RAND determination was not based on a legal error or on a clearly erroneous view of the facts in light of the evidence. See Teva Pharm., 135 S.Ct. at 841.
+ 
+
+C. The Jury’s Verdict on Breach
+[10] At the close of Microsoft’s case-in-chief and again at the close of evidence, Motorola moved for judgment as a matter of law (“JMOL”), contending, inter alia, that the evidence was insufficient to support a finding that it breached its duty of good faith and fair dealing on any of Microsoft’s theories. Addressing the motions, Judge Robart concluded that a reasonable jury could find breach of the good faith duty arising from either Motorola’s opening offers or its pursuit of injunctive relief—and that, “[l]ogically, then, a reasonable jury could also find that these actions combined amount[ed] to a breach.”15 Motorola appeals from those rulings.
+ 
+[11] We review the denial of a motion for judgment as a matter of law de novo and must affirm “where there is substantial evidence supporting a verdict in favor of the nonmoving party.” Gillette v. Delmore, 979 F.2d 1342, 1346 (9th Cir.1992); see also MHC Fin. Ltd. P’ship v. City of San Rafael, 714 F.3d 1118, 1131–32 (9th Cir.2013).
+ 
+Here, the only damages argued for and awarded were tied to the fees for defending the injunctive actions and the costs of moving Microsoft’s European distribution facility out of Germany. Consequently, the jury was instructed that to award damages, it must find that Motorola’s injunctive actions, “apart from Motorola’s general course of conduct, violated Motorola’s duty of good faith and fair dealing.” Because we conclude that substantial evidence supported the jury’s verdict on that theory, we do not separately address two other liability theories presented to the jury. But, because the jury was instructed in assessing damages to consider “the circumstances surrounding each lawsuit,” and was further instructed that seeking injunctive relief was not a per se violation of the RAND commitment, we address Motorola’s overall course of conduct, including sending the October 2010 offer letters, as it related to and affected the impact of the injunctive actions.
+ 
+To determine whether Motorola’s injunctive actions were in breach of its RAND commitments, the jury was instructed to consider the following factors, “alone or in combination”:
+(1) Whether Motorola’s actions were contrary to the reasonable and justified expectations of other parties to the contract; (2), whether Motorola’s conduct would frustrate the purpose of the contract; (3), whether Motorola’s conduct was commercially reasonable; (4), whether and to what extent Motorola’s conduct conformed with ordinary custom or practice in the industry; (5) to the extent the contract vested Motorola with *1046 discretion in deciding how to act, whether Motorola exercised that discretion reasonably; (6), subjective factors, such as Motorola’s intent and whether Motorola had a bad motive.16
+ 
+Microsoft offered significant evidence upon which the jury could apply this standard and infer that the injunctive actions violated Motorola’s good faith and fair dealing obligations. The district court identified the testimony of five different experts from which the jury could conclude that Motorola’s actions were intended to induce hold-up, i.e., to pressure Microsoft into accepting a higher RAND rate than was objectively merited, and thereby to frustrate the purpose of the contract. See Microsoft I, 696 F.3d at 877.
+ 
+The jury heard, for example, that an injunction against Microsoft’s use of Motorola’s 802.11 and H.264 SEPs “[w]ould have [had] crippling consequences, because ... [p]eople wouldn’t buy a computer that doesn’t have WiFi ... [or] a computer that wouldn’t be able to play back high-definition video.” The evidence that the rates Motorola sought were significantly higher than the RAND rate found by the court suggested that Motorola sought to capture more than the value of its patents by inducing holdup, and that it filed infringement actions to facilitate that strategy by preventing Microsoft from using its patents—and therefore from implementing the 802.11 and H.264 standards—until it obtained a license at a rate significantly higher than the RAND rate.
+ 
+The timing of the injunctive actions was also indicative of bad faith. In opening arguments, Microsoft’s counsel suggested that because the injunctions were sought immediately after the twenty-day acceptance window provided in the offer letters expired, the offers were no more than “a prelude to allow Motorola to be able to say, ‘We’ve made an offer. They didn’t accept it. Now we can sue.’ ”
+ 
+Motorola’s injunction suits were also brought after Microsoft filed its breach of contract lawsuit with the district court. At that point, Motorola was aware that the present lawsuit could establish RAND rates. “A patentee subject to FRAND commitments may have difficulty establishing irreparable harm.” Apple, Inc., 757 F.3d at 1332; see also Microsoft I, 696 F.3d at 877.
+ 
+Here, had Motorola accepted the RAND rates, it would then be fully compensated for Microsoft’s infringing use. The jury could have inferred, from that circumstance, that the injunctive actions were not motivated by a fear of irreparable harm, as payment of the RAND rate would eliminate any such harm. In the absence of a fear of irreparable harm as a motive for seeking an injunction, the jury could have inferred that the real motivation was to induce Microsoft to agree to a license at a higher-than-RAND rate.
+ 
+Finally, as discussed at more length in Part II.E.2, infra, there was evidence of Motorola’s knowledge that pursuing an injunctive action could breach its duty of good faith and fair dealing. In May 2012, Microsoft expressed concern to the FTC about Motorola’s conduct concerning its RAND obligations. Shortly thereafter, the FTC initiated an investigation into whether Motorola and Google had “reneged on a licensing commitment made to several standard-setting bodies to license *1047 its standards-essential patents relating to smartphones, tablet computers and video game systems on FRAND terms by seeking injunctions against willing licensees of ... SEPs.” The investigation ultimately resulted in a consent decree. Around the same time, the FTC contacted the ITC, before whom Motorola’s action for an exclusion order was pending, expressing concern that allowing an SEP holder to obtain an exclusion order against a license-seeker was “inconsistent with the RAND commitment.” So Motorola was aware the FTC found its conduct questionable, yet left its injunctive suits in place. This sequence provided some evidence that Motorola acted in bad faith.
+ 
+The evidence just summarized, discretely and taken as a whole, is susceptible to contrary interpretations as well. But it was for the jurors to assess witness credibility, weigh the evidence, and make reasonable inferences. See United States v. Sanchez–Lima, 161 F.3d 545, 548 (9th Cir.1998). The record provides a substantial basis on which the jury could have based a verdict favoring Microsoft. See MHC Fin. Ltd. P’ship, 714 F.3d at 1131–32.
+ 
+
+D. Damages
+In its JMOL motion, Motorola contended, with respect to some of the damages sought—the attorneys’ fees and litigation costs incurred in defending the injunctive actions—that the Noerr–Pennington doctrine precluded any award. Additionally, Motorola maintained that Washington law independently precludes recovery of attorneys’ fees for defending a separate lawsuit as an element of damages.
+ 
+
+1. Noerr–Pennington
+[12] The Noerr–Pennington doctrine shields individuals from, inter alia, liability for engaging in litigation. The doctrine originated in two Supreme Court antitrust cases holding that the Petition Clause of the First Amendment prohibits imposing liability under the Sherman Act for “attempt[ing] to persuade the legislature or the executive to take particular action.” E. R.R. Presidents Conference v. Noerr Motor Freight, Inc., 365 U.S. 127, 136, 81 S.Ct. 523, 5 L.Ed.2d 464 (1961); see United Mine Workers of Am. v. Pennington, 381 U.S. 657, 670, 85 S.Ct. 1585, 14 L.Ed.2d 626 (1965). The Noerr–Pennington principle has since been expanded to ensure that “those who petition any department of the government,” including the courts, “are immune from ... liability for their petitioning conduct.”17 Theme Promotions, Inc. v. News Am. Mktg. FSI, 546 F.3d 991, 1006–07 (9th Cir.2008); see also Cal. Motor Transp. Co. v. Trucking Unlimited, 404 U.S. 508, 510, 92 S.Ct. 609, 30 L.Ed.2d 642 (1972).
+ 
+[13] The doctrine does not, however, immunize a party from actions that amount to a breach of contract. See Powertech Tech., Inc. v. Tessera, Inc., 872 F.Supp.2d 924, 931 (N.D.Cal.2012); Spear Pharm., Inc. v. William Blair & Co., 610 F.Supp.2d 278, 288 (D.Del.2009). A number of courts have so held, and at least one emphasized that Noerr–Pennington does not protect patent holders from liability for asserting rights in violation of a commitment not to enforce those rights. See, e.g., *1048 Powertech Tech., 872 F.Supp.2d at 931–32; ClearPlay, Inc. v. Nissim Corp., No. 07–81170–civ, 2011 WL 6724156, at *10 & n. 10 (S.D.Fla. Dec. 21, 2011), aff’d, 496 Fed.App.x 963 (11th Cir.2012). More specifically, at least two district court opinions, in addition to Judge Robart’s, have held that Noerr–Pennington does not protect a patent holder from liability for filing infringement actions in violation of its covenant to negotiate with a RAND-rate license-seeker. See Powertech Tech., 872 F.Supp.2d at 931; Apple, Inc. v. Motorola Mobility, Inc., 886 F.Supp.2d 1061, 1078 (W.D.Wis.2012). In resolving a dispute quite similar to the one here, the Wisconsin district court reasoned:
+Although the First Amendment protects Motorola’s right to petition the courts to enforce its patents, Apple’s breach of contract claims are based on the theory that Motorola agreed by contract that it would not enforce its patent rights until it offered a license to Apple on fair, reasonable and nondiscriminatory terms. In other words, Apple contends that Motorola waived some of its petitioning rights through contract. It would be improper to use the Noerr–Pennington doctrine to bar Apple from enforcing that contract.
+Apple, Inc., 886 F.Supp.2d at 1078 (citing Powertech Tech., 872 F.Supp.2d at 930–32).
+ 
+Additionally, the FTC recently addressed the Noerr–Pennington argument in a response to public comment on a proposed consent agreement with Google and Motorola. See Letter to Commenters, Motorola Mobility LLC & Google Inc., FTC File No. 121–0120 at 3, (July 23, 2013), available at https://www.ftc.gov/sites/default/files/documents/cases/2013/07/130724googlemotorolaletter.pdf. Some commenters were concerned that imposing liability on Google and Motorola (under Section 5 of the Federal Trade Commission Act, 15 U.S.C. § 45) for seeking injunctions and exclusion orders would offend the First Amendment. Id. The FTC disagreed. Concluding that the (F)RAND commitments in question “preclude[d] seeking an injunction or exclusion order against a willing licensee of its SEPs,” the Commission reasoned that taking action against Google and Motorola was “simply requir[ing] those making promises to keep them.” Id. (quoting Analysis of Proposed Consent Order to Aid Public Comment, Motorola Mobility & Google Inc., FTC File No. 121–0120 (Jan. 3, 2013), available at https://www.ftc.gov/sites/default/files/documents/cases/2013/01/130103googlemotorolaanalysis.pdf) (alterations in original).18
+ 
+[14] [15] We agree. “Because the Noerr–Pennington doctrine grows out of the Petition Clause, its reach extends only so far as necessary to steer ... clear of violating the First Amendment.” Freeman v. Lasky, Haas & Cohler, 410 F.3d 1180, 1184 (9th Cir.2005). Enforcing a contractual commitment to refrain from litigation does not violate the First Amendment; if it did, every settlement of a lawsuit would be unenforceable as a Noerr–Pennington violation.19 As we explained *1049 in Microsoft I, a patent-holder who signs “such a sweeping promise” as a RAND agreement “at least arguably ... guarantee[s] that the patent-holder will not take steps to keep would-be users from using the patented material, such as seeking an injunction, but will instead proffer licenses consistent with the commitment made.” 696 F.3d at 884.
+ 
+[16] The jury concluded that in these specific circumstances, seeking injunctive relief violated Motorola’s contractual RAND obligations. The Noerr–Pennington doctrine does not immunize Motorola from liability for that breach of its promise. See ClearPlay, Inc., 2011 WL 6724156, at *10.
+ 
+
+2. Washington Law
+[17] [18] [19] Motorola contends that Microsoft was not entitled to attorneys’ fees as damages because “Washington courts traditionally follow the American rule in not awarding attorney fees as costs absent a contract, statute, or recognized equitable exception.” The RAND agreements do not expressly provide for fees; Microsoft has identified no statutory basis for fees; and Washington courts recognize only limited equitable exceptions, none of which, Motorola argues, are applicable here.20
+ 
+[20] Motorola’s arguments, however, elide a critical factor in determining the propriety of attorneys’ fees in the damages award in this case. The fees at issue here were incurred not in the current breach of contract action but in defending against the injunctive action found to have breached the RAND agreement. The fees sought are thus distinct from the same-suit fees generally banned by the American rule. As losses independent of the current litigation and triggered by the contract-breaching conduct, they are best characterized as recoverable consequential contract damages—the kind of damages ordinarily recoverable in breach of contract suits. See Eastlake Constr. Co. v. Hess, 102 Wash.2d 30, 686 P.2d 465, 470 (1984) (en banc).
+ 
+Notably, had Microsoft not defended the injunctive actions and instead acquiesced in a default judgment, Motorola’s damages in this suit could have been vastly greater. An injunction against Microsoft in the Wisconsin district court, for example, would have blocked all U.S. sales of Microsoft’s *1050 Xbox and Windows products. As the jury was instructed, Microsoft had a duty to mitigate its losses. The attorneys’ fees and costs incurred in defending the injunctive actions were, in essence, such mitigation, and so are recoverable expenses of reasonable mitigating actions. See Flint v. Hart, 82 Wash.App. 209, 917 P.2d 590, 594, 598 (1996) (allowing a plaintiff to recover attorneys’ fees incurred in settling a third-party action in which the plaintiff became involved by virtue of the defendant’s wrongful misconduct, where the settlement was an attempt by the plaintiff to mitigate damages); see also, e.g., Jacob’s Meadow Owners Ass’n v. Plateau 44 II, LLC, 139 Wash.App. 743, 162 P.3d 1153, 1162 (2007).
+ 
+Moreover, courts routinely award attorneys’ fees as damages in a number of analogous circumstances, when attorneys’ fees are a fair measure of the harm impermissibly caused by the defendant. For example, in an action against a union for breach of the duty of fair representation, an employee who proves that his union impermissibly failed to pursue a grievance on his behalf may recover compensatory damages, see Vaca v. Sipes, 386 U.S. 171, 195–96, 87 S.Ct. 903, 17 L.Ed.2d 842 (1967), such as the attorneys’ fees he expended pursuing his employer for breach of contract, Dutrisac v. Caterpillar Tractor Co., 749 F.2d 1270, 1275–76 (9th Cir.1983). In Dutrisac, we rejected an argument that awarding the employee attorneys’ fees as damages for breach of a union’s duty of fair representation was in violation of the American rule because there was no statutory or contractual provision authorizing the award. 749 F.2d 1270, 1275–76 (9th Cir.1983). Recognizing that “an exception to the American rule cannot be justified solely on the ground that a losing defendant’s wrongful conduct forced the plaintiff to resort to litigation,” we nevertheless upheld the fee award because the litigation expense incurred in such fair representation cases “is not merely a result of the harm that [the union] did ...; it is the harm itself.”21 Id. at 1275; see also Ames v. Westinghouse Elec. Corp., 864 F.2d 289, 293–94 (3d Cir.1988) (“When there is a legal duty to provide representation, whether that duty arises out of a contractual undertaking or, as here, by operation of law, if the representation is wrongfully withheld, the cost of substitute representation should be recoverable as damages.”). We reaffirmed that principle several years later, emphasizing that “the traditional American rule that attorney fees are not ordinarily recoverable” does not “affect[ ] those cases in which attorney fees are not awarded to the successful litigant in the case at hand, but rather are the subject of the law suit itself.” Zuniga v. United Can Co., 812 F.2d 443, 455 (9th Cir.1987) (citing First, Fourth, and Sixth Circuit cases elaborating the same rule).
+ 
+Similarly, a number of jurisdictions, including Washington, permit awards of defense costs where an insurer breaches its duty to defend an insured against claims within the insurance policy’s coverage. See Woo v. Fireman’s Fund Ins. Co., 161 Wash.2d 43, 164 P.3d 454, 459–60 (2007) (en banc); see also, e.g., Pac. Hide & Fur Depot v. Great Am. Ins. Co., 23 F.Supp.3d 1208, 1212–13 (D.Mont.2014). A breach of the duty to represent an insured undermines one of the primary purposes of the insurance contract and the parties’ justified expectations; “[w]hen an insured purchases a contract of insurance, it seeks *1051 protection from expenses arising from litigation, not ‘... time-consuming, expensive litigation.’ ” Olympic S.S. Co. v. Centennial Ins. Co., 117 Wash.2d 37, 811 P.2d 673, 681 (1991) (en banc) (quoting Hayseeds, Inc. v. State Farm Fire & Cas., 177 W.Va. 323, 352 S.E.2d 73, 79 (1986)).
+ 
+Finally, a Washington statutory fee provision illustrates the sorts of situations in which attorneys’ fees as damages are consistent with the American rule. Washington law codifies the common law rule that the victim of malicious prosecution can recover the reasonable costs he incurred in defending himself against the false accusations. See Wash. Rev.Code Ann. § 4.24.350; see also Restatement (Second) of Torts § 671(b) (1977).
+ 
+The RAND context is analogous to these various circumstances in which attorneys’ fees expended in earlier litigation are collectible as damages for a proven legal injury. As the district court reasoned, treating fees in separate lawsuits as damages where the RAND commitment is breached “makes particular sense in light of the purpose of the RAND commitment, which is to encourage widespread adoption of the standard.” That purpose would be substantially defeated if adopting the standard “would expose [potential implementors] to bad faith injunctive relief claims and they were forced to absorb the cost of defending themselves.”
+ 
+In support of its argument that the fee award was improper, Motorola cites Gruver v. Midas International Corp., 925 F.2d 280 (9th Cir.1991). Gruver addressed whether an Oregon district court had erred in awarding attorneys’ fees as damages for one party’s breach of an agreement to release its fraud claims against another, where the contract did not expressly provide for fees. Id. at 283. The fees awarded were those incurred in defending the fraud claims, not those expended in litigating the breach of the agreement. On appeal, we recognized that cases from a number of jurisdictions “support[ed] what the district court did.” Id. at 284. Relying on a Colorado Supreme Court case, however, we were persuaded that a majority of jurisdictions would not have allowed the fees as damages. See id. (citing Bunnett v. Smallwood, 793 P.2d 157, 161 (Colo.1990)). Oregon appellate courts had not addressed the question, but, in light of those courts’ “repeatedly stressed ... strict adherence to the American rule that attorney’s fees are recoverable in a breach of contract action ... only where the contract provides for them,” we reversed the damages award. Id.
+ 
+Our estimation of Oregon law in Gruver does not persuade us to deny Microsoft its defensive attorneys’ fees in the injunctive actions as damages here. Gruver, like many of the cases denying attorneys’ fees as damages for breach of a covenant not to sue, involved a settlement agreement. 925 F.2d at 281–82. The rationale for precluding attorneys’ fees as damages in those circumstances reflects that context. The Maine Supreme Court, in adopting the same rule as Gruver did, reasoned that “[i]n logic, attorney’s fees should be recoverable as damages for breach of a settlement agreement ... as arising naturally ... from such breach of contract itself.” Dodge v. United Servs. Auto. Ass’n, 417 A.2d 969, 975 (Me.1980) (internal quotation marks omitted). Dodge nevertheless denied the fee award for policy reasons: Awarding fees would discourage “informal settlement discussions,” as a lawyer might be wary of subjecting his client to the expense of litigation should such discussions later be deemed to have reached a binding agreement. Id. at 976.
+ 
+Here, that same rationale cuts in the opposite direction. The prospect of an award of attorneys’ fees for filing an infringement injunction action would encourage *1052  a licensor instead to negotiate directly with the potential licensee in furtherance of the public interest in promoting the standard. See Apple Inc., 757 F.3d at 1332. The very purpose of the RAND agreement is to promote adoption of a standard by decreasing the risk of hold-up. See generally Mark A. Lemley, Ten Things to Do About Patent Holdup of Standards (And One Not To), 48 B.C. L.Rev. 149 (2001). If every SEP holder could force standard implementers into court to defend against injunctive actions without consequence, it would expose those implementers to a flood of litigation, and could discourage such implementers from adhering to standards in the future. See id. at 153–57.
+ 
+Enforcing the implied covenant of good faith and fair dealing in commercial contracts through tort-like remedies, including attorneys’ fees, is appropriate where, as here, the contract is “characterized by elements of public interest.” See Matthew J. Barrett, Note, “Contort”: Tortious Breach of the Implied Covenant of Good Faith and Fair Dealing in Noninsurance, Commercial Contracts—Its Existence and Desirability, 60 Notre Dame L.Rev. 510, 518, 528 n. 104 (1985).22 Washington courts, for example, award fees for an insurer’s failure to defend in part because the award “will encourage the prompt payment of claims.” Olympic S.S. Co., 811 P.2d at 681. Washington also views breach of the duty to defend—for which it awards attorneys’ fees as damages—as essentially a breach of the contractual duty of good faith and fair dealing. See Edmonson v. Popchoi, 172 Wash.2d 272, 256 P.3d 1223, 1229 (2011) (en banc). The purposes to be served by awarding Microsoft the fees incurred defending against Motorola’s infringement suits mirror the purposes for which Washington courts have awarded attorneys’ fees as damages.
+ 
+In sum, we agree with the district court that, where a party’s injunctive actions to enforce a RAND-encumbered patent violate the duty of good faith and fair dealing, Washington courts would allow the damages awarded to include the attorneys’ fees and costs expended to defend against the injunction action.
+ 
+
+E. Evidentiary Rulings
+[21] [22] Motorola’s final argument is that the district court abused its discretion in making two evidentiary rulings. Evidentiary rulings are reviewed for abuse of discretion. Estate of Barabin v. AstenJohnson, Inc., 740 F.3d 457, 462 (9th Cir.2014), cert. denied, ––– U.S. ––––, 135 S.Ct. 55, 190 L.Ed.2d 30 (2014). If we determine that evidence was improperly admitted or excluded, we must remand for a new trial unless the beneficiary of the error can prove “that it is more probable than not that the jury would have reached the same verdict.” Id. at 465.
+ 
+
+1. The RAND Findings
+At the end of the jury trial on breach of contract, Judge Robart instructed the jury on the RAND rates and ranges he had found for Motorola’s 802.11 and H.264 SEP portfolios. The judge also allowed other findings from his findings of fact and conclusions of law to be admitted through witness testimony, as “undisputed facts.” For example, one of Microsoft’s experts testified that it was undisputed that Motorola’s H.264 SEPs were “only of minor *1053 importance to the overall functionality of Microsoft’s Windows product ... [and] Xbox product,” and “only constitute a sliver of the overall technology incorporated in the H.264 standard”—conclusions drawn directly from the court’s RAND order. Similar facts were introduced regarding Motorola’s 802.11 patents.
+ 
+Motorola contends that admitting any of the findings from the court’s RAND order was an abuse of discretion, because the evidence was not relevant, Fed R. Evid. 401, and was more prejudicial than probative, Fed.R.Evid. 403. With respect to findings other than the RAND rates and ranges, Motorola contends not only that the evidence was irrelevant and its admission prejudicial but also that admitting it violated its Seventh Amendment right to a jury trial.
+ 
+[23] We concluded in Part II.C.1, supra, that Motorola waived its right to a jury trial on the RAND determination. As we explained, it did so knowing that the bench trial would “identify[ ] what is RAND for use in evaluating reasonableness in the context of Motorola’s breach claim.” Motorola’s consent to the bench trial waived any objection to admission of the RAND rates and ranges at the jury trial.
+ 
+[24] Admission of the district court’s factual findings underlying its RAND order presents a closer question. Undoubtedly, those findings were relevant to the ultimate breach of contract determination. See Fed.R.Evid. 801. The fact that Motorola’s patents were of minor import to the H.264 standard, for example, was evidence from which the jury could infer that demanding a 2.25% royalty rate was not a good-faith effort to realize the value of the technology, but rather an attempt to capitalize on the value of the standard itself—that is, to obtain the hold-up value. As the district court reasoned, the findings of fact were the “building blocks” of the RAND rate and range; if the jury could reevaluate those “building blocks,” “Motorola would in effect be allowed a second bite at the apple on the RAND rate and range.”
+ 
+On the other hand, the very fact that the court’s findings of fact and conclusions of law overlap with the issues in the breach of contract trial could give rise to a Seventh Amendment problem if Motorola did not waive its right to a jury trial on those findings. See Toyota Motor Sales, U.S.A., Inc. v. Tabari, 610 F.3d 1171, 1184 (9th Cir.2010) (citing Dollar Sys., Inc. v. Avcar Leasing Sys., Inc., 890 F.2d 165, 170 (9th Cir.1989)). Once the court made those findings, they became law of the case. See id. But a court must generally avoid ordering proceedings in a manner that creates “the risk that findings made in the bench trial w[ill] become the law of the case and prevent a jury from determining the common issues.” Id.
+ 
+The district court disposed of Motorola’s Seventh Amendment claim on the ground that Motorola had waived any objections to the introduction of the underlying findings in consenting to the bench trial. As the district court noted, Motorola did not “qualify” its participation at the bench trial and “submitted 100 pages of proposed findings of fact and conclusions of law on these issues, urging the court to decide the very facts it now seeks to exclude.” But, once the court decided to hold a bench trial, Motorola had no choice but to present evidence and try to persuade the court that the facts weighed in its favor. Cf. Solis v. Cnty. of L.A., 514 F.3d 946, 955–56 (9th Cir.2008). Further, Motorola objected to introduction of the court’s underlying findings before the jury trial, and again objected during the trial to their presentation as “undisputed facts.”
+ 
+On the other hand, “knowing participation in a bench trial without objection may be sufficient to constitute a jury waiver.” *1054 Palmer v. Valdez, 560 F.3d 965, 969 (9th Cir.2009) (citation omitted). Motorola did not object to a judicial determination of the facts underlying the RAND rate and range until after the bench trial was concluded. Motorola was necessarily aware the court was going to make such findings, as the court was required to make factual findings supporting its decision, on the record. See Fed.R.Civ.P. 52(a)(1). Without those findings, the court would have had no foundation on which to determine the RAND rates and ranges. Had the jury been permitted to come to its own conclusions on the factual issues underlying the RAND rate, the court’s findings on the RAND rate and range would largely be rendered a nullity—a bare set of numbers, divorced from their context and meaning.
+ 
+Further, Motorola’s claim that it expected the jury to make its own determinations of the underlying facts is unconvincing. The parties agreed to a bench trial in order to spare the jury from becoming entangled in complicated technical minutiae. By objecting to introduction of the underlying facts at the jury trial only after the judge announced those findings, Motorola was essentially seeking “to have two bites at the procedural apple.” Fuller v. City of Oakland, 47 F.3d 1522, 1531 (9th Cir.1995). A party may not stand “silently by as the court proceed[s] to try his claim from the bench,” only later to demand a jury trial “after the court ha[s] ruled against him.” See id. (citing White v. McGinnis, 903 F.2d 699, 700, 703 (9th Cir.1990) (en banc)).
+ 
+With these considerations in mind, we hold that Motorola consented to admission of the facts underlying the RAND rates and ranges to the jury. Motorola knew the district court would make those foundational findings when it consented to the bench trial on the RAND rate. See Fed R. Civ. P. 52(a)(1). Motorola was also aware when it consented to the bench trial that the RAND rates and ranges themselves would be introduced at the breach of contract trial. Those RAND rates and ranges would have had little meaning, and indeed could have been undermined by conflicting findings by the jury, if the facts supporting them were not also admitted. We therefore agree with the district court that Motorola’s consent to the RAND bench trial encompassed introducing the court’s findings of fact to the jury in the breach of contract trial.
+ 
+
+2. The FTC Investigation
+In July 2013, the FTC and Motorola settled an investigation into Motorola’s SEP enforcement practices, including its seeking of injunctions. The settlement stipulated that it did not constitute an admission of a violation of any law. Over Motorola’s objection, the court permitted Microsoft to admit evidence of the investigation through the testimony of Microsoft’s deputy general counsel, David Heiner. Motorola contends that allowing that evidence to be introduced was error.
+ 
+Heiner testified that in May 2012, Microsoft filed a complaint with the FTC alleging that Motorola “had not lived up to its promise to make its patents available on ... reasonable but non-discriminatory terms; ... and that they compounded their failure to live up to that promise by actually going to court in other places to get injunctions, blocking Microsoft from shipping products that implemented these standards.” Heiner further testified that, following Microsoft’s communication, the FTC initiated an investigation against Motorola for, in the FTC’s words, “reneg[ing] on a licensing commitment made to several standard-setting bodies to license its standards-essential patents ... on FRAND terms by seeking injunctions against willing licensees of those SEPs.” Heiner was *1055 not permitted to testify about the details of the investigation.
+ 
+[25] Motorola challenges admission of Heiner’s testimony about the FTC investigation under Federal Rules of Evidence 403 and 408, both of which the district court considered before allowing the testimony.23 Rule 408 prohibits introduction of evidence of acceptance of consideration for compromising a claim to prove the validity of the claim. Fed.R.Evid. 408. The rule has been interpreted to bar admission of civil consent decrees to prove the governments’ allegations. See United States v. Austin, 54 F.3d 394, 400 (7th Cir.1995). Consent decrees can be introduced, however, for other purposes, such as to show notice or knowledge. See id.; United States v. Gilbert, 668 F.2d 94, 97 (2d Cir.1981).
+ 
+[26] Here, the court allowed the testimony to show that Motorola was aware its actions were contrary to “custom and practice in the industry”—that its “conduct ha[d] been found objectionable.” That is, Heiner’s testimony was admitted not to show that the FTC had made any conclusions about whether Motorola’s conduct was in breach of its RAND obligations, but rather to show that Motorola was aware the FTC (and Microsoft) found its conduct questionable enough to merit investigation. A conclusion that Motorola knew that its behavior had been considered questionable could support a bad faith determination as to Motorola’s continuing conduct. At trial, Microsoft emphasized that Motorola continued to pursue its injunctive actions in the ITC and in the Wisconsin district court after the FTC initiated its investigation and after the district court imposed a temporary restraining order against enforcing the German injunction.
+ 
+Heiner’s testimony did—impermissibly—go beyond the scope of Judge Robart’s admissibility ruling. When asked how the FTC investigation concluded, instead of stating that the parties entered a consent decree—which is what counsel had represented to the judge Heiner would say—Heiner testified that the FTC had “concluded” that Motorola “reneged” on its agreements. Judge Robart twice instructed the jurors to disregard the statement and informed them, reading from the consent decree, that the settlement “does not constitute an admission by Motorola Mobility or Google that the law has been violated as alleged in the complaint.” Before Heiner testified, the court had twice informed the jury that “allegations in a ... government investigation, are not proof of the truth of the matter alleged.” These prompt, clear instructions were adequate to cure the prejudicial impact of Heiner’s comments. See B.K.B. v. Maui Police Dep’t, 276 F.3d 1091, 1105 (9th Cir.2002).
+ 
+As to its Rule 403 argument, Motorola cites two occasions on which this court has upheld a district court’s decision to exclude *1056 evidence of a no-fault consent decree after balancing its probative value against the danger of prejudice. See Gribben v. United Parcel Serv., Inc., 528 F.3d 1166, 1172 (9th Cir.2008); Kramas v. Sec. Gas & Oil Inc., 672 F.2d 766, 772 (9th Cir.1982). In both cases, we deferred to the district court’s decision to exclude the evidence, which decision was “committed to the trial court’s sound discretion.” Kramas, 672 F.2d at 772; see also Gribben, 528 F.3d at 1172. Further, in both cases, the consent decrees in question were at most minimally probative, as they related to actions markedly different from those at issue in the later litigation. See Gribben, 528 F.3d at 1172; Kramas, 672 F.2d at 772. Gribben, for example, involved a retaliatory employment action claim; the employer’s prior no-fault consent decree with the EEOC was “irrelevant” to the question whether the plaintiff-employee was terminated in retaliation for filing his own complaint with the EEOC. Id. at 1172.
+ 
+[27] Here, by contrast, the evidence the judge authorized was undoubtedly probative. The FTC investigated Motorola for the same conduct cited in Microsoft’s breach of contract complaint, and for the same reason: The conduct was alleged to be a violation of Motorola’s good-faith RAND obligations. There was, undoubtably, a risk of prejudicing the jury in admitting testimony about the FTC investigation. Although the jury was instructed that the FTC made no finding of liability, the jurors might have assumed the agency would not have initiated an investigation if they did not believe Microsoft’s complaint was true. Similarly, while the jury was told that Motorola’s agreement to the consent decree was not an admission of liability, they may have inferred from the decree that Motorola believed its actions were wrongful.
+ 
+Any prejudicial effect of the order, however, was likely cumulative of the impact of Heiner’s testimony about the “public interest statement” the FTC sent to the ITC around the same time as the investigation, expressing its “concern [ ] that a patentee can ... seek an exclusion order for infringement of [a] RAND-encumbered SEP as a way of securing royalties that may be inconsistent with the RAND commitment.” Motorola did not challenge Heiner’s testimony about the FTC’s statement to the ITC on appeal. Thus, testimony about the FTC order was largely cumulative and so not prejudicial.
+ 
+[28] In short, Heiner’s testimony on the FTC investigation and subsequent consent decree was clearly both probative and potentially prejudicial. But under Rule 403, evidence is to be excluded only “if its probative value is substantially outweighed by a danger of ... unfair prejudice.” Fed.R.Evid. 403 (emphasis added). And in determining whether the district court abused its discretion in applying that Rule, we employ a “highly deferential” standard of review, Boyd v. City & Cnty. of S.F., 576 F.3d 938, 949 (9th Cir.2009), reversing only if the exercise of discretion was “manifestly erroneous and prejudicial,” Wagner v. Cnty. of Maricopa, 747 F.3d 1048, 1055 (9th Cir.2013) (quoting Orr v. Bank of America, NT & SA, 285 F.3d 764, 773 (9th Cir.2002)). Here, the danger of prejudice in admitting limited testimony about the FTC investigation did not so manifestly outweigh the testimony’s probative value that admitting the evidence was an abuse of discretion.
+ 
+
+III. CONCLUSION
+With the parties’ consent, the district court conducted a lengthy, thorough bench trial on the RAND rate and range. The court analyzed that evidence in its exhaustive findings of fact and conclusions of law, in a manner consistent with the Federal Circuit’s recent approach to establishing *1057 damages in the RAND context. The court’s factual findings were properly admitted at the jury trial. The jury’s verdict was supported by substantial evidence, and its damages award was proper.
+ 
+The judgment of the district court is AFFIRMED.
+ 
+All Citations
+795 F.3d 1024, 116 U.S.P.Q.2d 1001, 15 Cal. Daily Op. Serv. 8291, 2015 Daily Journal D.A.R. 8678
+Footnotes
+
+1
+
+Patents owned by Motorola Mobility and General Instrument are now owned by Google Technology Holdings, LLC, a wholly owned subsidiary of Google Inc.
+
+2
+
+The parallel terms of some SEP licensing agreements require fair, reasonable, and nondiscriminatory, or “FRAND” rates. FRAND and RAND have the same meaning in the world of SEP licensing and in this opinion.
+
+3
+
+The ITC is “a quasi-judicial federal agency that adjudicates and enforces intellectual property rights in international trade through Section 337 of the Tariff Act of 1930, as amended, 19 U.S.C. § 1337.” Patricia Larios, The U.S. International Trade Commission’s Growing Role in the Global Economy, 8 J. Marshall Rev. Intell. Prop. L. 290, 294 (2009); see U.S. Int’l Trade Comm’n, About the USITC, http://www.usitc.gov/press_room/about_usitc.htm (last visited Apr. 21, 2015).
+
+4
+
+The letter referring to the H.264 SEPs is substantially the same as that referring to the 802.11 SEPs, and reads:
+This letter is to confirm Motorola’s offer to grant Microsoft a worldwide nonexclusive license under Motorola’s portfolio of patents and pending applications covering the subject matter of ITU–T Recommendation H.264....
+Motorola offers to license the patents on a non-discriminatory basis on reasonable terms and conditions (“RAND”), including a reasonable royalty of 2.25% per unit for each H.264 compliant product, subject to a grant back license under the H.264 patents of Microsoft.... As per Motorola’s standard terms, the royalty is calculated based on the price of the end product (e.g, each Xbox 360 product, each PC/laptop, each smartphone, etc.) and not on component software (e.g., Xbox 360 system software, Windows 7 software, Windows Phone 7 software, etc.).
+....
+Motorola will leave this offer open for 20 days.
+
+5
+
+Microsoft’s complaint also pleaded claims of promissory estoppel, waiver, and declaratory judgment. The waiver and declaratory judgment actions were dismissed in June 2011. The promissory estoppel claim, and Motorola’s counterclaim for declaratory judgment that it had not violated its RAND obligations, are still pending.
+
+6
+
+The German injunction is not self-enforcing. To enforce it, Motorola must first post a bond securing Microsoft against damage if the ruling is overturned on appeal. Microsoft could then file a motion to stay the injunction. Microsoft I, 696 F.3d at 879.
+
+7
+
+Microsoft’s amended complaint pointed to the infringement actions in Wisconsin district court and before the ITC as the source of the breach. Microsoft did not formally further amend the complaint to include the German infringement action, initiated several months later. The theory that the German injunctive suit breached Motorola’s contractual commitments was argued before the jury, without objection, however, and was a focus of the jury instructions.
+
+8
+
+Having so ruled, the district court dissolved the anti-suit injunction, ruling that the holding as to whether Motorola was entitled to an injunction on its H.264 patents was “dispositive of the propriety of injunctive relief in the German action.”
+
+9
+
+Based on these rates, Microsoft tendered $6.8 million to compensate for its past use of Motorola’s patents. Motorola did not accept the payment.
+
+10
+
+Motorola had argued that law-of-the-case principles should not apply because “ neither party nor the Ninth Circuit realized the implications of the consolidation of Motorola’s patent infringement claim with Microsoft’s contract claim’ at the earlier stages of this litigation.” Microsoft, 564 Fed.Appx. at 589. As the Federal Circuit recognized, however, our earlier opinion makes clear that we were quite aware of the consolidation of the cases when we heard the interlocutory appeal and nonetheless determined that we had jurisdiction. See id. (citing Microsoft I, 696 F.3d at 878).
+
+11
+
+Motorola did not raise before the district court a Seventh Amendment claim with respect to the RAND rate bench trial itself, nor has it made that argument on appeal.
+
+12
+
+Like its contention on appeal, Motorola’s July 18, 2012 argument to the district court is also rebutted by the record. The court made the parties aware that the RAND determination would be used both to enable “a jury to resolve the question of whether Motorola’s October 21 and 29 Letters breached its duty to make good faith offers,” and for purposes of creating a license, should that relief be appropriate.
+
+13
+
+Seemingly to avoid the waiver problem through a jurisdictional argument, Motorola recasts essentially the same challenge to the RAND-rate bench trial by maintaining that the result was an “advisory opinion,” and so beyond the district court’s constitutional power under Article III of the Constitution. See Flast v. Cohen, 392 U.S. 83, 94–97, 88 S.Ct. 1942, 20 L.Ed.2d 947 (1968); Gordon v. United States, 117 U.S. 697, 702, 1864 WL 11666 (1864). The result of the bench trial was, however, decidedly not advisory: That rate was vigorously disputed by the parties from the outset of this case and, as the district court’s observations quoted in the text illustrate, understood by both the court and the parties as an essential factual aspect of the breach-of-contract determination. Moreover, as we shall see, far from maintaining the irrelevance of the RAND-rate determination to the ultimate jury verdict, Motorola challenges that verdict as impermissibly influenced by Judge Robart’s RAND-rate determination, going so far as to maintain that its introduction “effectively directed a verdict for Microsoft.”
+
+14
+
+Google sold Motorola in 2014.
+
+15
+
+The jury was instructed that it could find “that Motorola breached its contractual commitment with the ITU in one or more of the following ways, or a combination thereof: By the terms contained in the October 29, 2010, letter offering to license Motorola’s H.264 standards-essential patents; by filing lawsuits and seeking injunctive relief based on standards-essential patents in the ITC, United States District Courts, and/or Germany,” “or a combination thereof.” The jury was instructed on the same theories with respect to breach of Motorola’s commitment to the IEEE, with the additional instruction that they could find breach “by [Motorola’s] not having executed a license agreement covering its 802.11 standards-essential patents with Marvell, Microsoft’s chip supplier.” The district court did not reach the Marvell chip theory of breach in its order on JMOL, finding the other theories sufficient to support the verdict, and the parties do not address it here.
+
+16
+
+Motorola provides no persuasive support for its argument that instructing the jury to consider the six factors “alone or in combination” was improper. If anything, the cases it cites tend to dispel Motorola’s contention that breach must be premised on a variety of factors, as they focus on a defendant’s bad intent or motives. See, e.g., In re Estate of Hollingsworth, 88 Wash.2d 322, 560 P.2d 348, 351–52 (1977) (en banc); Cavell v. Hughes, 29 Wash.App. 536, 629 P.2d 927, 929 (1981).
+
+17
+
+The Noerr–Pennington doctrine creates an exception for “sham” litigation, defined as “ ‘private action that is not genuinely aimed at procuring favorable government action,’ as opposed to ‘a valid effort to influence government action.’ ” Prof’l Real Estate Investors, Inc. v. Columbia Pictures Indus., Inc., 508 U.S. 49, 58, 113 S.Ct. 1920, 123 L.Ed.2d 611 (1993) (quoting Allied Tube & Conduit Corp. v. Indian Head, Inc., 486 U.S. 492, 500 n. 4, 108 S.Ct. 1931, 100 L.Ed.2d 497 (1988)). We do not here determine whether Motorola’s infringement suits might properly come within the sham litigation exception, because, as we explain, the Noerr–Pennington doctrine does not apply in the first place.
+
+18
+
+We do not otherwise approve or disapprove of the FTC’s analysis of its Proposed Consent Order.
+
+19
+
+We agree with the Federal Circuit that a RAND commitment does not always preclude an injunctive action to enforce the SEP. For example, if an infringer refused to accept an offer on RAND terms, seeking injunctive relief could be consistent with the RAND agreement, even where the commitment limits recourse to litigation. See Apple Inc., 757 F.3d at 1331–32. The pertinent question is whether Motorola’s obligation of good faith and fair dealing under its RAND agreements precluded it from seeking an injunction in these circumstances. See Realtek Semiconductor Corp. v. LSI Corp., 946 F.Supp.2d 998, 1006 (N.D.Cal.2013) (holding that an SEP owner’s action in seeking injunctive relief before offering a license on RAND terms was “inherently inconsistent and a breach of defendants’ promise to license the patents on RAND terms.”) (citations omitted). That question was for the jury to decide.
+
+20
+
+The Washington Supreme Court has recognized “four equitable exceptions to the American rule: (1) the common fund theory; (2) actions by a third person subjecting a party to litigation; (3) bad faith or misconduct of a party; and (4) dissolving wrongfully issued temporary injunctions or restraining orders.” City of Seattle v. McCready, 131 Wash.2d 266, 931 P.2d 156, 160 (1997) (en banc) (internal citations omitted).
+There are three types of bad faith: (1) prelitigation misconduct, (2) procedural bad faith, and (3) substantive bad faith. See Rogerson Hiller Corp. v. Port of Port Angeles, 96 Wash.App. 918, 982 P.2d 131, 135 (1999). In responding to Motorola’s arguments before the district court, Microsoft raised only the exception for procedural bad faith, which is defined as “vexatious conduct during litigation ... unrelated to the merits of the case.” Forbes v. Am. Bldg. Maint. Co. W., 148 Wash.App. 273, 198 P.3d 1042, 1057 (2009), aff’d in part, rev’d in part, 170 Wash.2d 157, 240 P.3d 790 (2010) (en banc). We agree with the district court that the procedural bad faith exception does not apply here, because Motorola did not engage in the kind of tactics—such as “dilatory tactics during discovery, failure to meet filing deadlines, misuse of the discovery process, and misquoting or omitting material portions of documentary evidence”—that threaten the integrity of the court and “the orderly and expeditious disposition of cases.” See Rogerson Hiller Corp., 982 P.2d at 136 (internal quotation marks omitted).
+
+21
+
+In Dutrisac, we carefully noted that we were not awarding the employee expenses for prosecuting his claim against the union. 749 F.2d at 1275 & n. 3. Awarding those costs, we said, would raise concerns about the American-rule principle that a party should not be “penalized ... for choosing to defend [a] lawsuit.” Id. at 1276.
+
+22
+
+A RAND commitment “must be construed in the public interest because it is crafted for the public interest.” Amicus Br. of Public Knowledge at 4–9; see also Richard A. Lord, Williston on Contracts § 32:19 (4th ed.2012) (“[C]ontracts ... are to be liberally construed in favor of the public interest ... when an agreement between purely private parties is perceived to entail some benefit to the public at large.”).
+
+23
+
+Microsoft’s argument that the testimony was admissible as curative evidence is without merit. “Under the rule of curative admissibility, or the ‘opening the door’ doctrine, the introduction of inadmissible evidence by one party allows an opponent, in the court’s discretion, to introduce evidence on the same issue to rebut any false impression that might have resulted from the earlier admission.” Jerden v. Amstutz, 430 F.3d 1231, 1239 n. 9 (9th Cir.2005) (internal quotation marks and citations omitted). Microsoft argues that Motorola “opened the door” to Heiner’s testimony by presenting testimony about a letter Heiner wrote to the FTC in 2011; in the letter, Heiner stated that Microsoft had, up to that point, never “accused anyone of patent hold-up,” which Motorola’s counsel argued was evidence that hold-up was not a real concern. Whether or not Heiner’s letter was inadmissible or misleading, the testimony regarding the FTC’s investigation of Motorola was not responsive to any false impression the jury may have gotten about Microsoft ‘s views on hold-up. See United States v. Whitworth, 856 F.2d 1268, 1285 (9th Cir.1988).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

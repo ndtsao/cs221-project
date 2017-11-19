@@ -1,0 +1,175 @@
+
+
+ 
+
+
+Marais v. JPMorgan Chase Bank, N.A.
+United States Court of Appeals, Sixth Circuit. | January 20, 2017 | 676 Fed.Appx. 509 | 2017 WL 244786
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Marais v. JPMorgan Chase Bank, N.A., 676 F. App’x 509 (6th Cir. 2017)
+
+All Citations:
+
+676 Fed.Appx. 509
+
+Search Details
+
+Search Query:
+
+advanced: (NAME(”j.p. morgan chase” OR “jpmorgan chase”))
+
+Jurisdiction:
+
+Ohio
+
+Delivery Details
+
+Date:
+
+November 18, 2017 at 2:56 AM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+676 Fed.Appx. 509
+This case was not selected for publication in West’s Federal Reporter.
+See Fed. Rule of Appellate Procedure 32.1 generally governing citation of judicial decisions issued on or after Jan. 1, 2007. See also U.S.Ct. of App. 6th Cir. Rule 32.1.
+United States Court of Appeals,
+Sixth Circuit.
+Christine MARAIS, Plaintiff-Appellant,
+v.
+JPMORGAN CHASE BANK, N.A., Defendant-Appellee.
+Case No. 16-3323
+|
+Filed January 20, 2017
+Synopsis
+Background: Mortgagor brought action against her mortgage loan servicer seeking, inter alia, declaration that servicer was barred from bringing foreclosure action by its failure to bring such action as compulsory counterclaim in mortgagor’s previous Real Estate Settlement Procedures Act (RESPA) action against servicer. The United States District Court for the Southern District of Ohio, George C. Smith, J., 2016 WL 865671, dismissed action. Mortgagor appealed.
+ 
+Holdings: The Court of Appeals, Bernice Bouie Donald, Circuit Judge, held that:
+ 
+[1] servicer did not possess foreclosure claim at time it answered in mortgagor’s previous RESPA action, as required for foreclosure to be compulsory counterclaim, and
+ 
+[2] any foreclosure claim by servicer against mortgagor was not logically related to mortgagor’s RESPA claim against servicer, as required for foreclosure to be compulsory counterclaim.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (2)
+
+
+[1]
+
+JudgmentEffect of change in law or facts
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(B)Causes of Action and Defenses Merged, Barred, or Concluded
+228k585Identity of Cause of Action in General
+228k585(5)Effect of change in law or facts
+
+
+Mortgage loan servicer did not possess foreclosure claim against mortgagor at time servicer answered in mortgagor’s previous Real Estate Settlement Procedures Act (RESPA) action against servicer, as required for foreclosure to be compulsory counterclaim, and, thus, servicer’s failure to raise foreclosure claim in previous RESPA action did not bar it from bringing separate foreclosure action, since at time of RESPA action, servicer had not provided mortgagor with requisite notice of default and acceleration under Ohio law. Real Estate Settlement Procedures Act of 1974 § 2, 12 U.S.C.A. § 2601; Fed. R. Civ. P. 13(a).
+Cases that cite this headnote
+
+
+
+[2]
+
+JudgmentEffect of change in law or facts
+
+
+228Judgment
+228XIIIMerger and Bar of Causes of Action and Defenses
+228XIII(B)Causes of Action and Defenses Merged, Barred, or Concluded
+228k585Identity of Cause of Action in General
+228k585(5)Effect of change in law or facts
+
+
+Any foreclosure claim by mortgage loan servicer against mortgagor was not logically related to mortgagor’s Real Estate Settlement Procedures Act (RESPA) claim against servicer, as required for foreclosure to be compulsory counterclaim in mortgagor’s previous RESPA action against servicer, and, thus, servicer’s failure to raise foreclosure claim in previous RESPA action did not bar it from bringing separate foreclosure action, since whether servicer properly responded to mortgagor’s qualified written requests under RESPA was very different question from whether servicer had right to foreclose under Ohio law, in that RESPA claim involved interpretation of federal statutory law and foreclosure claim involved Ohio contract law. Real Estate Settlement Procedures Act of 1974 § 2, 12 U.S.C.A. § 2601; Fed. R. Civ. P. 13(a).
+1 Cases that cite this headnote
+
+
+
+*510 ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF OHIO
+Attorneys and Law Firms
+Troy John Doucet, Doucet & Associates, Dublin, OH, for Plaintiff-Appellant
+Daniel C. Gibson, Bricker & Eckler, Columbus, OH, for Defendant-Appellee
+BEFORE: BOGGS, GILMAN, and DONALD, Circuit Judges.
+
+
+OPINION
+BERNICE BOUIE DONALD, Circuit Judge.
+Christine Marais (“Plaintiff”) is a homeowner who brought suit against Chase Home Finance, LLC, predecessor by merger to Appellee JPMorgan Chase, N.A. (“Defendant”), as servicer of her mortgage loan. She claimed that Defendant is barred from bringing a foreclosure action against her property because it failed to bring such an action as a Rule 13(a) compulsory counterclaim in her previous RESPA action. Defendant moved to dismiss Plaintiff’s complaint and, concluding that Rule 13(a) did not apply, the district court granted that motion. Plaintiff appealed. Because Plaintiff fails to meet her burden, *511 we AFFIRM the grant of Defendant’s motion to dismiss.
+ 
+
+I. Relevant Facts
+On April 12, 2011, Plaintiff commenced an action against Defendant, asserting claims for violation of the “Qualified Written Request” (“QWR”) provisions of the Real Estate Settlement Procedures Act, 12 U.S.C. § 2601 et seq. (“RESPA”), as well as for violation of the Truth In Lending Act, 15 U.S.C. § 1601 et seq. (“TILA”), common-law conversion, and violation of Ohio’s Consumer Sales Practices Act, O.R.C. 1345.01 et seq. (“OCSPA”). Marais v. Chase Home Fin. LLC, No. 2:11-cv-00314, (the “RESPA Action”), Doc. 1 (the “RESPA Complaint”). In the RESPA Complaint, Plaintiff challenged Defendant’s allegedly improper application of payments to Plaintiff’s loan account and the amount allegedly due on the mortgage loan.
+ 
+On May 27, 2011, Defendant filed an answer to the RESPA Complaint. The district court entered a complete dismissal of Plaintiff’s claims, granting Defendant’s motion for judgment on the pleadings as to the RESPA and TILA claims. This court affirmed the dismissal of the TILA claim, but reversed the dismissal of Plaintiff’s RESPA claim, concluding that the account errors she alleged were adequate to survive dismissal of the claim on the issue of actual damages. Marais v. Chase Home Fin. LLC, 736 F.3d 711, 721–22 (6th Cir. 2013).
+ 
+On remand, the parties briefed summary-judgment arguments on the RESPA claim alone. The district court denied Defendant’s motion for summary judgment and granted Plaintiff’s motion for partial summary judgment, finding that Defendant’s response to Plaintiff’s QWR failed to meet the requirements of 12 U.S.C. § 2605(e), but leaving open the question of whether Marais had, in fact, suffered any actual damages as a result of the violation. After Plaintiff filed a motion requesting that the district court reconsider its sua sponte revival of her common-law conversion and OCSPA claims on remand, the district court dismissed those claims without prejudice pursuant to her request, leaving only the issue of Plaintiff’s damages resulting from the RESPA violation. On August 5, 2014, the district court entered an Agreed Judgment in the amount of $93,493.56, representing all of Plaintiff’s alleged damages, plus her attorney fees, terminating the case and reflecting a Fed. R. Civ. P. 68 Offer of Judgment that Defendant made and Plaintiff accepted.
+ 
+On May 30, 2013, Defendant commenced an action in foreclosure in state court against Plaintiff (the “2013 Foreclosure Action” [JPMorgan Chase Bank, N.A. v. Marais, No. 13 CV 006092, Franklin C.P.] ), which Defendant voluntarily dismissed in December 2014. On March 9, 2015, Plaintiff commenced the present action against Defendant in the United States District Court for the Southern District of Ohio, alleging claims for: (1) declaratory judgment; (2) quiet title; (3) injunctive relief; (4) breach of contract; (5) breach of good faith and fair dealing; and (6) violation of the Fair Debt Collection Practices Act, 15 U.S.C. § 1692 et seq. (“FDCPA”) (the “Complaint”). In the Complaint, Plaintiff asserted that Defendant’s failure to bring a foreclosure claim in the RESPA Action bars Defendant from bringing a foreclosure action against Plaintiff in the future. Additionally, Plaintiff alleged that Defendant’s failure to bring a Rule 13(a) counterclaim in the RESPA Action also extinguished her mortgage debt and voided the mortgage securing that debt, giving rise to claims for quiet title and violations of the FDCPA.
+ 
+*512 Defendant filed a motion to dismiss Plaintiff’s complaint in its entirety. On March 7, 2016, following briefing, the district court entered a decision and judgment rejecting Plaintiff’s Rule 13 compulsory-counterclaim argument and dismissing all of her claims in their entirety with prejudice. Plaintiff now appeals the dismissal of all six claims against Defendant.
+ 
+
+II. Standard of Review
+This court reviews “de novo a district court’s dismissal of a plaintiff’s complaint for failure to state a claim under Rule 12(b)(6).” Kottmyer v. Maas, 436 F.3d 684, 688 (6th Cir. 2006). Although the court must accept, for purposes of its review, all “well-pled factual allegations as true,” it remains the case that “more than bare assertions of legal conclusions” is required. League of United Latin Am. Citizens v. Bredesen, 500 F.3d 523, 527 (6th Cir. 2007). “To state a valid claim, a complaint must contain either direct or inferential allegations respecting all the material elements to sustain recovery under some viable legal theory.” Id. at 527.
+ 
+
+III. Analysis
+Since each of Plaintiff’s claims is predicated upon the assertion that Defendant possessed and failed to plead a Fed. R. Civ. P. 13(a) compulsory counterclaim of foreclosure against Plaintiff when Defendant answered in the RESPA Action, all of Plaintiff’s claims can be dismissed upon a showing that foreclosure is not a Rule 13(a) compulsory counterclaim in a RESPA Action. This court has made it clear that two criteria must be met in order for a claim to qualify as a Rule 13(a) compulsory counterclaim: “[A] claim’s compulsory status depends on whether (1) the claim arises out of the same transaction or occurrence that is the subject matter of the opposing party’s claim; and (2) the claim is one that the party ‘has’ at the time that the party is to file his responsive pleading.” Bauman v. Bank of Am., N.A., 808 F.3d 1097, 1101 (6th Cir. 2015) (quoting Kane v. Magna Mixer Co., 71 F.3d 555, 562 (6th Cir. 1995)).
+ 
+
+A. Defendant did not possess a foreclosure claim against Plaintiff at the time Defendant answered in the RESPA Action.
+Rule 13(a) provides, in relevant part, that “[a] pleading must state as a counterclaim any claim that—at the time of its service—the pleader has against an opposing party if the claim: (A) arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim; and (B) does not require adding another party over whom the court cannot acquire jurisdiction.” The Rule does not—and could not—require a pleader to state a counterclaim that the pleader does not yet possess. See, e.g., Davenport v. Richfood, No. 3:07-CV-595, 2008 U.S. Dist. LEXIS 51297, at *15 (E.D. Va., June 13, 2008) (“By definition, an after-acquired counterclaim does not exist at the time of serving of the original answer and counterclaim. Therefore, an after-acquired claim is not considered a compulsory counterclaim under Rule 13(a), and failure to introduce it will not bar its assertion in a later lawsuit.”). Further, a claim for foreclosure requires that the lender be entitled to enforce both the note and the mortgage. See Deutsche Bank Nat’l Tr. Co. v. Holden, 147 Ohio St.3d 85, 60 N.E.3d 1243, 1250 (2016).
+ 
+[1]Plaintiff did not allege any facts showing that Defendant was entitled to enforce the note and mortgage against her at the time of its answer to the RESPA claim in 2011, nor that she was provided the requisite notice of default and acceleration *513 that is needed to entitle Defendant to bring a claim for foreclosure. Ohio law is clear that requirements of default notice and acceleration in a mortgage are contractual conditions precedent to a claim for foreclosure. See, e.g., U.S. Bank N.A. v. Stallman, No. 102732, 2016 WL 107486, ¶ 21, 2016 Ohio App. LEXIS 12, ¶ 21 (Ohio Ct. App. Jan. 7, 2016); Nat’l City Mortg. Co. v. Richards, 182 Ohio App.3d 534, 913 N.E.2d 1007, 1013 (2009). In fact, Plaintiff expressly denied in her answer to the Foreclosure Complaint that Defendant had complied with the conditions precedent necessary for Defendant to bring a proper foreclosure claim. See Marais Answer to Foreclosure Complaint, ¶¶ 7-8 (Aug. 1, 2013). This is significant for two reasons. First, if the debt was never accelerated, then Defendant could have possessed, at most, a claim for recovery of only the few installments outstanding under the note at the time of Defendant’s Answer in the RESPA Action, not a claim for foreclosure of the mortgage based on a total breach. Second, since Plaintiff’s claims in this action are all predicated on the preclusion of any foreclosure claim that Defendant might have had at the time of its RESPA Answer, no such foreclosure claim could be precluded if Defendant had not satisfied the conditions precedent for such a claim at the time of the pleading. Therefore, Defendant could not have brought a foreclosure claim against Plaintiff at the time that Defendant answered in the RESPA Action because one did not exist at that time.
+ 
+
+B. A foreclosure action is not “logically related” to a RESPA claim for alleged failure to properly respond to a QWR.
+[2]When assessing whether two claims “arise” out of the same transaction or occurrence for purposes of Rule 13(a), this court asks: “Is there a logical relationship between the two claims?” Bauman, 808 F.3d at 1101 (quoting Maddox v. Ky. Fin. Co., 736 F.2d 380, 382 (6th Cir. 1984)). “Under this test, [this court] determine[s] whether the issues of law and fact raised by the claims are largely the same and whether substantially the same evidence would support or refute both claims.” Id. (quoting Sanders v. First Nat’l Bank & Tr. Co., 936 F.2d 273, 277 (6th Cir. 1991) (citing Moore v. N.Y. Cotton Exch., 270 U.S. 593, 46 S.Ct. 367, 70 L.Ed. 750 (1926))). Importantly, “[a] partial overlap in issues of law and fact does not compel a finding that two claims are logically related.” Id.
+ 
+In Maddox and Bauman, this court resolved with clarity the lack of a “logical relationship” between claims for default under “a private loan contract governed by state law” and claims for violation of the provisions of federal consumer-protection statutes, which “require[ ] interpretation of federal statutory law and regulations designed” to serve unique congressional purposes. Bauman, 808 F.3d at 1101–02 (citing Maddox, 736 F.2d at 383, Whigham v. Beneficial Fin. Co. of Fayetteville, Inc., 599 F.2d 1322, 1324 (4th Cir. 1979), and Sanders, 936 F.2d at 277). To prove a breach of the note and mortgage, Defendant would have to show that Plaintiff defaulted on her payment obligations or otherwise breached the terms of the mortgage, giving rise to a right to accelerate and ultimately foreclose. Wright–Patt Credit Union, Inc. v. Byington, No. E–12–002, 2013 WL 5211503, ¶ 10, 2013 Ohio App. LEXIS 4141, ¶ 10 (Ohio Ct. App. Sept. 13, 2013); Wachovia Bank of Del., N.A. v. Jackson, No. 2010–CA–00291, 2011 WL 2557039, ¶¶ 40–45, 2011 Ohio App. LEXIS 2698, ¶¶ 40–45 (Ohio Ct. App. June 27, 2011).
+ 
+But to establish a violation of RESPA, Plaintiff would have to prove that Defendant *514 failed to respond properly to her QWR under 12 U.S.C. § 2605(e). A servicer must respond to a QWR using one of three methods: (1) correcting the account at issue, (2) after conducting an investigation, explaining or clarifying why the account is already correct, or (3) providing information requested in the QWR or explaining or clarifying why the requested information could not be obtained or provided. Id. at § 2605(e)(2); see also Marais v. Chase Home Fin. LLC, 24 F.Supp.3d 712, 721 (S.D. Ohio 2014).
+ 
+Whether Defendant followed these procedures is a very different question from whether Defendant had a right to foreclose. This lack of commonality precludes Defendant’s foreclosure claim from being a Rule 13(a) compulsory counterclaim to Plaintiff’s RESPA Action because the two actions are not logically related. Bauman, 808 F.3d at 1101. The Defendant’s foreclosure claim is a contract claim governed by Ohio state law, whereas Plaintiff’s RESPA claim required an interpretation of federal statutory law. These claims do not hold a logical relation that would require Defendant to have brought a state foreclosure claim in response to Plaintiff’s federal RESPA claim. There is virtually no factual or legal overlap between the elements of QWR claims for violations of RESPA and the elements of foreclosure claims for breach of a note and mortgage. Thus, there is no logical relationship between the foreclosure claim and the RESPA Action. Therefore, the foreclosure claim was not a Rule 13(a) counterclaim in the RESPA Action.
+ 
+Furthermore, holding that foreclosure is a compulsory counterclaim in RESPA-QWR litigation would be against public policy because it would contravene the consumer-protection purposes of the QWR provisions of RESPA. If foreclosure is a compulsory counterclaim in response to claims brought by borrowers under federal consumer-protection statutes, as Plaintiff contends, then every act of a consumer to vindicate her rights under those laws could come with the risk of losing her home in the process. In fact, this court recognized this very policy contradiction in Maddox with respect to TILA’s consumer-protection purposes, and in Bauman, with respect to the FDCPA’s consumer-protection purposes. See Maddox, 736 F.2d at 383; Bauman, 808 F.3d at 1102–03. Although a party with the right to foreclose is permitted to do so at its discretion, making such claims compulsory would likely force many consumers to wager their homes in exchange for the opportunity to enforce their statutory rights. Id. Those concerns are present here, where the QWR provisions of RESPA give borrowers a means of requesting information or the correction of their accounts at any time during the life of a loan, including by taking proactive steps before facing foreclosure. See 12 U.S.C. § 2605(e).
+ 
+Policy considerations aside, the law of this circuit clearly establishes that foreclosure claims cannot be compulsory counterclaims under Fed. R. Civ. P. 13(a) in RESPA actions. Since all of Plaintiff’s claims are predicated on the assumption that Defendant’s foreclosure claim was a compulsory counterclaim during the RESPA Action, the district court properly dismissed the entirety of Plaintiff’s RESPA Complaint.
+ 
+
+IV. Conclusion
+For the foregoing reasons, we AFFIRM the district court’s grant of Defendant’s motion to dismiss.
+ 
+All Citations
+676 Fed.Appx. 509
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

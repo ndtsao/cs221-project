@@ -1,0 +1,179 @@
+
+
+ 
+
+
+Intellivision v. Microsoft Corp.
+United States Court of Appeals, Second Circuit. | June 11, 2012 | 484 Fed.Appx. 616 | 2012 WL 2086297
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+All Citations
+
+standard Citation:
+
+Intellivision v. Microsoft Corp., 484 F. App’x 616 (2d Cir. 2012)
+
+All Citations:
+
+484 Fed.Appx. 616, 2012 WL 2086297
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+New York
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+484 Fed.Appx. 616
+This case was not selected for publication in the Federal Reporter.
+United States Court of Appeals,
+Second Circuit.
+INTELLIVISION, a Joint Venture, Bruce Adams, John Daniels, Paul Hoffman, Plaintiffs–Appellants,
+v.
+MICROSOFT CORPORATION, Defendant–Appellee.
+No. 11–1657–cv.
+|
+June 11, 2012.
+Synopsis
+Background: Unincorporated joint venture formed for purpose of creating, developing, patenting, commercializing, and licensing interactive television and related technologies, and its individual members, filed state court suit against software manufacturer alleging fraudulent inducement, negligent misrepresentation, and breach of fiduciary duty stemming from contract for assignment of joint venture’s rights to interactive television patent applications. Manufacturer removed and moved for summary judgment. The United States District Court for the Southern District of New York, John G. Koeltl, J., 784 F.Supp.2d 356, granted motion. Member of joint venture appealed.
+ 
+Holding: The Court of Appeals held that judicial estoppel barred individual members of joint venture from asserting that they owned and assigned patent applications in individual capacities.
+ 
+Affirmed.
+ 
+
+
+West Headnotes (1)
+
+
+[1]
+
+EstoppelClaim inconsistent with previous claim or position in general
+
+
+156Estoppel
+156IIIEquitable Estoppel
+156III(B)Grounds of Estoppel
+156k68Claim or Position in Judicial Proceedings
+156k68(2)Claim inconsistent with previous claim or position in general
+
+
+Judicial estoppel barred individual members of joint venture from asserting, in action alleging fraudulent inducement, negligent misrepresentation, and breach of fiduciary duty stemming from assignment of rights to interactive television patent applications, that they owned and assigned patent applications to software manufacturer not in capacities as principals of joint venture, but in individual capacities; from filing of complaint until after manufacturer filed summary judgment motion, members represented that real party in interest was joint venture, and that they were bringing claims in capacity as principals, until opposition to motion for summary judgment, members never suggested that joint venture was not real party in interest, or that court might have erred in relying on earlier contention that it was, and permitting change in argument would have unfairly advantaged members and imposed unfair detriment on manufacturer, and created risk of inconsistent results.
+16 Cases that cite this headnote
+
+
+
+*617 Appeal from the United States District Court for the Southern District of New York (John G. Koeltl, Judge).
+UPON DUE CONSIDERATION, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED that the judgment of the district court is AFFIRMED.
+Attorneys and Law Firms
+Bruce D. Katz, New York, NY, for Appellant.
+William B. Monahan, Sullivan & Cromwell LLP, New York, N.Y. (Steven L. Holley, Marisa K. Glassman, Sullivan & Cromwell LLP, New York, NY, and Steven J. Aeschbacher, Microsoft Corp., Redmond, WA, on the brief), for Appellee.
+PRESENT: RALPH K. WINTER, CHESTER J. STRAUB, and GERARD E. LYNCH, Circuit Judges.
+
+
+SUMMARY ORDER
+**1 Plaintiffs-appellants Bruce Adams, Paul Hoffman, John Daniels (the “individual plaintiffs”), and their joint venture, Intellivision, appeal from the district court’s March 23, 2011, order granting summary judgment for defendant-appellee Microsoft Corporation on their claims of fraudulent inducement, negligent misrepresentation, and breach of fiduciary duty. On appeal, however, plaintiffs abandon their breach-of-fiduciary claim, as well as all claims belonging to Intellivision as a joint venture, Adams, and Daniels, leaving only Hoffman as an active appellant. Hoffman challenges only the district court’s conclusions that Intellivision was the real party in interest; that the individual plaintiffs were judicially estopped from asserting otherwise (by claiming that they owned and assigned patent applications in their individual capacities, rather than in their joint capacity as principals of Intellivision); and that even if they could have brought Intellivision’s claims individually, all of the individual plaintiffs’ negligent misrepresentation and fraudulent-inducement claims would be time-barred under Connecticut’s statutes of limitations.
+ 
+We assume the parties’ familiarity with the underlying facts and procedural history of this case, which the district court recounted in detail in its 2011 decision granting summary judgment for Microsoft and in its 2008 decision dismissing certain of Intellivision’s claims. See Intellivision v. Microsoft Corp., No. 07 Civ. 4079, 2008 WL 3884382 (S.D.N.Y. Aug. 20, 2008) (“Intellivision I ”); Intellivision v. Microsoft *618 Corp., 784 F.Supp.2d 356 (S.D.N.Y.2011) (“Intellivision II ”).
+ 
+Because we conclude that the district court properly applied judicial estoppel, we affirm the grant of summary judgment for Microsoft. We therefore need not address the district court’s alternate holding that even if judicial estoppel did not bar plaintiffs from asserting claims in their individual capacities, those claims would be time-barred under Connecticut’s statutes of limitations.
+ 
+
+I. Standard of Review
+We review de novo a district court’s decision to grant summary judgment, drawing all reasonable inferences in favor of the nonmoving party. See Allianz Ins. Co. v. Lerner, 416 F.3d 109, 113 (2d Cir.2005). “Summary judgment is appropriate where there exists no genuine issue of material fact and, based on the undisputed facts, the moving party is entitled to judgment as a matter of law.” 10 Ellicott Square Court Corp. v. Mtn. Valley Indem. Co., 634 F.3d 112, 119 (2d Cir.2011) (internal quotation marks omitted); see also Fed.R.Civ.P. 56(a).
+ 
+Our Court has not addressed the standard of review that we apply to a district court’s judicial estoppel determination. Several other circuits have used an abuse-of-discretion standard,1 even in cases that arise in the summary judgment context.2 However, because the district court’s decision must be affirmed even on de novo review, we need not decide this “open question” regarding the proper standard of review. See Welfare Fund v. Bidwell Care Ctr., LLC, 419 Fed.Appx. 55, 59 n. 6 (2d Cir.2011) (summary order) (“Because we identify no error on de novo review, we need not conclusively decide the review standard for a denial of judicial estoppel, an open question in this court, but one that some of our sister circuits have resolved in favor of abuse-of-discretion review.” (citations omitted)); see also Cortorreal v. United States, 486 F.3d 742, 744 (2d Cir.2007) (noting that our Court “need not decide the standard of review” where an appeal “lacks merit under any standard of review”).
+ 
+
+II. Application of Judicial Estoppel
+A. Judicial Estoppel Generally
+**2 On appeal, Hoffman argues that the district court erred by applying the doctrine of judicial estoppel to bar the individual plaintiffs from asserting—for the first time, in their opposition to Microsoft’s motion for summary judgment—that they owned and assigned the patent applications to Microsoft not in their capacities as principals of Intellivision, but rather in their individual capacities. Hoffman argues that the plaintiffs’ actions did not meet what he characterizes as the “requirements” for application of judicial estoppel.
+ 
+The Supreme Court has described the doctrine of judicial estoppel in the following terms:
+Where a party assumes a certain position in a legal proceeding, and succeeds *619 in maintaining that position, he may not thereafter, simply because his interests have changed, assume a contrary position, especially if it be to the prejudice of the party who has acquiesced in the position formerly taken by him. This rule, known as judicial estoppel, generally prevents a party from prevailing in one phase of a case on an argument and then relying on a contradictory argument to prevail in another phase.
+New Hampshire v. Maine, 532 U.S. 742, 749, 121 S.Ct. 1808, 149 L.Ed.2d 968 (2001) (internal quotation marks, brackets, and citation omitted). “[C]ourts have uniformly recognized” that the purpose of the doctrine “is to protect the integrity of the judicial process by prohibiting parties from deliberately changing positions according to the exigencies of the moment,” and because judicial estoppel is designed “to prevent improper use of judicial machinery,” it is “an equitable doctrine invoked by a court at its discretion.” Id. at 749–50, 121 S.Ct. 1808 (internal quotation marks omitted). Courts have also recognized “that the circumstances under which judicial estoppel may appropriately be invoked are probably not reducible to any general formulation of principle.” Id. at 750, 121 S.Ct. 1808 (internal quotation marks and brackets omitted); see also Young v. U.S. Dep’t of Justice, 882 F.2d 633, 639 (2d Cir.1989) (“The circumstances under which the doctrine could be applied are far from clear.”).
+ 
+Nevertheless, in evaluating whether to apply the doctrine of judicial estoppel, courts generally look for the existence of three factors: (1) that a party’s new position is “clearly inconsistent” with its earlier position, (2) that the party seeking to assert this new position previously persuaded a court to accept its earlier position, and (3) that the party “would derive an unfair advantage or impose an unfair detriment on the opposing party if not estopped.” See New Hampshire, 532 U.S. at 750–51, 121 S.Ct. 1808. But the Supreme Court has made clear that these factors do not constitute “inflexible prerequisites or an exhaustive formula for determining the applicability of judicial estoppel,” and that “[a]dditional considerations may inform the doctrine’s application in specific factual contexts.” Id. at 751, 121 S.Ct. 1808; see also DeRosa v. Nat’l Envelope Corp., 595 F.3d 99, 103 (2d Cir.2010) (noting that “[t]ypically, judicial estoppel will apply if” these factors are present). Our Court has “further limit[ed] judicial estoppel to situations where the risk of inconsistent results with its impact on judicial integrity is certain.” Id. (internal quotation marks omitted); see also Republic of Ecuador v. Chevron Corp., 638 F.3d 384, 397 (2d Cir.2011).
+ 
+**3 We agree with the district court that each of these factors is present in this case, and that application of judicial estoppel was therefore appropriate.
+ 
+Hoffman argues that the plaintiffs’ actions should not trigger judicial estoppel because plaintiffs did not take any “clearly inconsistent” positions in the district court. That is plainly incorrect, for the reasons articulated in detail by the district court in its 2011 order. See Intellivision II, 784 F.Supp.2d at 364 (“[T]he plaintiffs’ new position is ‘clearly inconsistent’ with the position Intellivision took at an earlier proceeding in this action. The plaintiffs’ prior submissions unambiguously state that Intellivision owned and assigned the Patent Applications, and that Microsoft’s duties were owed to Intellivision. The plaintiffs’ new argument explicitly contradicts this earlier position.”). From the filing of the complaint until two months after Microsoft filed its summary judgment motion, plaintiffs represented that the real party in interest was Intellivision, and that they were bringing claims in their capacity as principals of Intellivision. For example, *620 the original complaint and first amended complaint named only Intellivision as a plaintiff; the second amended complaint added the names of the individual plaintiffs, but did not alter the allegations or prayers for relief in a way that would suggest that the individual plaintiffs were acting in any capacity other than as principals of the joint venture. Throughout the district court litigation, plaintiffs and their counsel repeatedly made similar representations about Intellivision’s ownership and assignment of the patent applications and about the nature of the agreement between Intellivision and Microsoft. Furthermore, the agreement itself describes the individual plaintiffs as “Intellivision’s principals” who were “doing business as Intellivision in a joint venture.”
+ 
+By representing that Intellivision, with its principal place of business in Connecticut, was the owner and assignor of the patent applications, plaintiffs located this tort in Connecticut, thus preserving claims that would fail in New York. The district court adopted plaintiffs’ representations, and denied Microsoft’s motion to dismiss Intellivision’s claims for fraudulent and negligent misrepresentation, holding, in a ruling not challenged on appeal, that, although not viable under New York law, those claims survived under Connecticut law. See Intellivision I, 2008 WL 3884382, at *2–3, *5–7; Intellivision II, 784 F.Supp.2d at 364–65. Until their opposition to Microsoft’s motion for summary judgment, plaintiffs never suggested to the district court that Intellivision was not the real party in interest, or that the court might have erred in relying on their earlier contention that it was.3
+ 
+Hoffman argues that the doctrine of judicial estoppel requires that a party’s prior representation be adopted by a different court in a “prior separate proceeding,” rather than by the same court in an earlier phase of the same proceeding. However, the Supreme Court has recognized that no such requirement exists. First, the Court has made clear that judicial estoppel is a flexible doctrine, without fixed requirements. See New Hampshire, 532 U.S. at 749, 121 S.Ct. 1808. Second, the Court has stated that judicial estoppel “ ‘generally prevents a party from prevailing in one phase of a case on an argument and then relying on a contradictory argument to prevail in another phase.’ ” New Hampshire, 532 U.S. at 749, 121 S.Ct. 1808, quoting Pegram v. Herdrich, 530 U.S. 211, 228 n. 8, 120 S.Ct. 2143, 147 L.Ed.2d 164 (2000); see also Republic of Ecuador, 638 F.3d at 397 (judicial estoppel “prevents a party from asserting a factual position clearly inconsistent with a position previously advanced by that party and adopted *621 by the court in some manner” (internal quotation marks and ellipsis omitted)). Contrary to plaintiffs’ claims, our Court, like the Supreme Court, has recognized that a prior inconsistent representation made in a prior phase of the same case can trigger judicial estoppel. See, e.g., Stichting Ter Behartiging Van de Belangen Van Oudaandeelhouders In Het Kapitaal Van Saybolt Int’l B.V. v. Schreiber, 407 F.3d 34, 45 (2d Cir.2005) (assuming arguendo that defendants “advanced ... a position in their first motion to dismiss that was actually inconsistent with that taken” upon remand, on a subsequent motion to dismiss, but concluding that “the earlier position was never adopted by the district court”); Sewell v. 1199 Nat’l Ben. Fund for Health & Human Servs., 187 Fed.Appx. 36, 40 (2d Cir.2006) (summary order) (“Judicial estoppel ‘prevents a party from prevailing in one phase of a case on an argument and then relying on a contradictory argument to prevail in another phase.’ ” (quoting New Hampshire, 532 U.S. at 749, 121 S.Ct. 1808)).
+ 
+**4 Hoffman does not meaningfully contest the district court’s analysis of the third and fourth judicial-estoppel factors, and we agree with the district court that those factors are satisfied here. Permitting plaintiffs’ opportunistic, last-minute about-face would have unfairly advantaged plaintiffs and imposed an unfair detriment on Microsoft, see New Hampshire, 532 U.S. at 750, 121 S.Ct. 1808, and would have created a risk of inconsistent results that could damage “judicial integrity,” see Republic of Ecuador, 638 F.3d at 397.
+ 
+Accordingly, each of the traditional judicial-estoppel factors exists in the present case, and the district court properly applied the doctrine to bar Intellivision’s principals from asserting at the eleventh hour that they owned and assigned the patent applications in their individual capacities rather than in their capacities as Intellivision’s principals.
+ 
+
+B. Standing
+For the first time on appeal, Hoffman argues that by judicially estopping the individual plaintiffs from asserting that they owned and assigned the patent applications in their individual capacities, rather than in their joint-venturer capacities as Intellivision’s principals, the district court violated Article III of the United States Constitution. The district court, he contends, enlarged its subject matter jurisdiction, deprived the individual plaintiffs of constitutional standing to bring claims against Microsoft in their individual capacities, and conferred standing on Intellivision “that would not otherwise exist.” Hoffman’s arguments are meritless, and his effort to inflate this dispute to constitutional dimensions is unavailing.
+ 
+Our Court has observed that “[a]s an equitable doctrine, judicial estoppel does not rest easily with the concept of standing, ... a prerequisite to federal subject matter jurisdiction,” and we have noted that a leading treatise “caution[s] that ‘special care’ should be taken in considering whether judicial estoppel should even apply ‘to matters affecting federal subject matter jurisdiction.’ ” Wight v. BankAmerica Corp., 219 F.3d 79, 90 (2d Cir.2000), quoting 18 Charles Alan Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice and Procedure § 4477, at 784 (1981). We have never held, however, that judicial estoppel can never apply to matters affecting subject matter jurisdiction.
+ 
+In any event, contrary to Hoffman’s contention, by dismissing the individual plaintiffs’ claims, the district court did nothing to expand its jurisdiction, nor did it apply judicial estoppel to any jurisdictional matter. Its actions had nothing in common, for example, with estopping defendants *622 from challenging facts asserted to establish subject-matter jurisdiction, such as the citizenship of one of the plaintiffs. Cf. Creaciones Con Idea, S.A. v. Mashreqbank PSC, 232 F.3d 79, 82 (2d Cir.2000) (“The defendant’s assertions about its corporate citizenship in unrelated cases therefore could not preclude either the defendant from arguing, or the district court from concluding, that diversity jurisdiction was absent in this case.”). Rather, the district court simply applied judicial estoppel to prevent plaintiffs from asserting a new, inconsistent position as to the ownership of property, a matter that goes not to the court’s jurisdiction, but to whether the plaintiffs had a cause of action.4 Plaintiffs first asserted that Intellivision as an entity had been the victim of a fraud, and later, in a transparently opportunistic attempt to avoid summary judgment by application of the Connecticut statute of limitations, shifted their ground and claimed that it was in fact the individual plaintiffs who were the true victims. Applying the doctrine in that manner did not enlarge the court’s subject matter jurisdiction or otherwise violate Article III. By judicially estopping the plaintiffs’ attempted flip-flop, and holding them to their contention that Intellivision was the real party in interest, the district court committed no error, and acted well within its equitable discretion “to prevent improper use of judicial machinery.” New Hampshire, 532 U.S. at 749, 121 S.Ct. 1808 (internal quotation marks omitted).
+ 
+
+III. Statute of Limitations
+**5 The district court concluded that Intellivision’s fraudulent inducement and negligent misrepresentation claims were time-barred under Connecticut’s statutes of limitation. The court further concluded that “even if the individual plaintiffs were the true parties in interest” on these claims, “their claims would still have accrued in Connecticut” (and would therefore be time-barred), because that was the site of “the alleged injury occurring from the signing of [their] contract” with Microsoft. Intellivision II, 784 F.Supp.2d at 369–70 (emphasis added).
+ 
+Hoffman does not challenge the district court’s conclusion that Intellivision’s remaining claims are time-barred under Connecticut’s statutes of limitations. Furthermore, plaintiffs admit that even if they could assert their identical claims against Microsoft in their individual capacities, Adams’s and Daniels’s claims would be time-barred under Connecticut’s statutes of limitations. Hoffman contends, however, that his claims would not be time-barred because he is a resident of New York and thus, under the state’s borrowing statute, N.Y. C.P.L.R. § 202, enjoys New York’s longer limitations period. We need not reach this issue, however, because we affirm the district court’s judgment that the individual plaintiffs are estopped from substituting themselves for Intellivision as the defrauded assignors of the patent applications. As it is conceded that Intellivision’s claims are time-barred, the dismissal of the action was correct.
+ 
+
+CONCLUSION
+We have considered Hoffman’s remaining arguments and find them to be without merit. For the foregoing reasons, the *623 judgment of the district court is AFFIRMED.
+ 
+All Citations
+484 Fed.Appx. 616, 2012 WL 2086297
+Footnotes
+
+1
+
+E.g., Alternative Sys. Concepts, Inc. v. Synopsys, Inc., 374 F.3d 23, 30–31 (1st Cir.2004); Montrose Med. Grp. Participating Sav. Plan v. Bulger, 243 F.3d 773, 780 (3d Cir.2001); In re Coastal Plains, Inc., 179 F.3d 197, 205 (5th Cir.1999); Capella Univ., Inc. v. Exec. Risk Specialty Ins. Co., 617 F.3d 1040, 1051 (8th Cir.2010); United States v. Garcia, 37 F.3d 1359, 1366–67 (9th Cir.1994); Talavera v. Sch. Bd. of Palm Beach Cnty., 129 F.3d 1214, 1216 (11th Cir.1997); Data Gen. Corp. v. Johnson, 78 F.3d 1556, 1565 (Fed.Cir.1996).
+
+2
+
+E.g., Alternative Sys. Concepts, 374 F.3d at 31 (“The fact that this case arises in the summary judgment context does not affect our decision to review the trial court’s [judicial estoppel] determination for abuse of discretion.”).
+
+3
+
+Hoffman points to a sentence in the plaintiffs’ December 2008 motion to amend the complaint a second time, which characterized “Intellivision’s principals” as “the owners of the patent applications assigned to Microsoft under the Agreement.” Hoffman cites this statement as evidence that they did not take inconsistent positions in the district court, and that the district court did not accept any prior inconsistent position. However, aside from adding the names of the individual names to the caption, the second amended complaint included no substantive changes; it did not include any claim that the individual plaintiffs owned or assigned the patent applications in their individual capacities, rather than in their capacities as Intellivision’s principals. Furthermore, in their December 2008 motion to amend, the individual plaintiffs stated that “their claims are identical to Intellivision’s claims.” Accordingly, it cannot be said that this single sentence in the motion to amend called the district court’s attention to the position asserted on summary judgment that the claims belong to the individual plaintiffs in their individual capacities (rather than in their capacities as principals of Intellivision), let alone the argument advanced on this appeal that Intellivision, which was clearly identified in the complaint as a “joint venture,” has no rights of its own and is merely a “fictitious entity.”
+
+4
+
+The use of judicial estoppel by district courts to preclude inconsistent assertions about ownership of property is routine, and has been approved by this Court. E.g., HSBC Bank USA, Nat’l Ass’n v. Adelphia Commc’ns Corp., No. 07–CV–553A, 2009 WL 385474, at *17–18 (W.D.N.Y. Feb. 12, 2009), aff’d sub nom. In re Adelphia Recovery Trust, 634 F.3d 678, 695–99 (2d Cir.2011); see also Coffaro v. Crespo, 721 F.Supp.2d 141, 145–46 (E.D.N.Y.2010); Madeira v. United Talmudical Acad. of Kiryas Joel, 351 F.Supp.2d 162, 164–67 (S.D.N.Y.2004).
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+

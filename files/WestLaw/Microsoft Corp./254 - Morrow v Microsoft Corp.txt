@@ -1,0 +1,550 @@
+
+
+
+
+
+Morrow v. Microsoft Corp.
+United States Court of Appeals, Federal Circuit. | September 19, 2007 | 499 F.3d 1332 | 2007 WL 2713248
+
+Document Details
+
+Outline
+Synopsis
+West Headnotes
+Attorneys and Law Firms
+Opinion
+Dissenting Opinion
+All Citations
+
+KeyCite:
+
+KeyCite Yellow Flag - Negative Treatment
+ Called into Doubt by My First Shades v. Baby Blanket Suncare, E.D.N.Y., December 21, 2012
+
+standard Citation:
+
+Morrow v. Microsoft Corp., 499 F.3d 1332 (Fed. Cir. 2007)
+
+All Citations:
+
+499 F.3d 1332, 48 Bankr.Ct.Dec. 243, 84 U.S.P.Q.2d 1377
+
+Search Details
+
+Search Query:
+
+adv: NAME(”microsoft”)
+
+Jurisdiction:
+
+California
+
+Delivery Details
+
+Date:
+
+November 17, 2017 at 9:17 PM
+
+Delivered By:
+
+Vincent Sheu
+
+Client ID:
+
+SHEU VINCENT
+
+
+
+
+
+KeyCite Yellow Flag - Negative Treatment
+ 	Called into Doubt by My First Shades v. Baby Blanket Suncare, E.D.N.Y., December 21, 2012
+499 F.3d 1332
+United States Court of Appeals,
+Federal Circuit.
+Frank MORROW (on behalf of and as Trustee for the General Unsecured Creditors’ Liquidating Trust of At Home Corporation, and on behalf of and in the name of the At Home Liquidating Trust of At Home Corporation), Plaintiff,
+and
+Hank M. Spacone (on behalf of and as Trustee for the General Unsecured Creditors’ Liquidating Trust of At Home Corporation, and on behalf of and in the name of the At Home Liquidating Trust of At Home Corporation), Plaintiff/Counterclaim Defendant–Appellant,
+and
+Jacquelyn Crawford (as Trustee for the At Home Liquidating Trust of At Home Corporation), Counterclaim Defendant–Appellant,
+v.
+MICROSOFT CORPORATION, Defendant/Counterclaimant–Cross Appellant.
+Nos. 2006–1512, 2006–1518, 2006–1537.
+|
+Sept. 19, 2007.
+|
+Rehearing and Rehearing En Banc Denied Nov. 16, 2007.*
+Synopsis
+Background: Trustee of liquidating trust established in bankruptcy proceeding for benefit of patentee’s general unsecured creditors brought action against software company alleging infringement of patent relating to dynamic generation of hyperlinks in a source document to other topicly relevant documents. The United States District Court for the Northern District of California, 2006 WL 1600675 and 2006 WL 648740, Claudia Wilken, J., ruled that trust had standing had to sue under bankruptcy law, and granted software company’s motion for summary judgment of noninfringement, and parties cross-appealed.
+ 
+[Holding:] The Court of Appeals, Moore, Circuit Judge, held that liquidating trust lacked constitutional standing to sue for patent infringement.
+ 
+Reversed and vacated.
+ 
+Prost, Circuit Judge, filed dissenting opinion.
+ 
+
+
+West Headnotes (12)
+
+
+[1]
+
+Federal CourtsStanding
+
+
+170BFederal Courts
+170BXVIICourts of Appeals
+170BXVII(K)Scope and Extent of Review
+170BXVII(K)2Standard of Review
+170Bk3576Procedural Matters
+170Bk3585Parties
+170Bk3585(2)Standing
+(Formerly 170Bk755)
+
+
+Standing is a legal question and jurisdictional issue that court reviews without deference. U.S.C.A. Const. Art. 3, § 2, cl. 1.
+1 Cases that cite this headnote
+
+
+
+[2]
+
+PatentsPurpose and construction in general
+PatentsRequisites and Validity of Assignments and Grants
+PatentsPersons Entitled to Sue;  Standing
+
+
+291Patents
+291IIn General
+291k403Constitutional and Statutory Provisions
+291k405Purpose and construction in general
+(Formerly 291k1)
+291Patents
+291VIPatent Rights and Duties
+291VI(C)Assignments and Other Transfers
+291k1465Requisites and Validity of Assignments and Grants
+291k1466In general
+(Formerly 291k196.1)
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1696In general
+(Formerly 291k286)
+
+
+Patent statutes govern the creation and protection of patent rights, how rights can be transferred, and the parties entitled to assert those rights. 35 U.S.C.A. §§ 100(d), 261, 281.
+7 Cases that cite this headnote
+
+
+
+[3]
+
+BankruptcyIn general;  standing
+BankruptcySale or Assignment of Property
+PatentsTransfer on insolvency
+PatentsAssignee or transferee
+
+
+51Bankruptcy
+51IICourts;  Proceedings in General
+51II(B)Actions and Proceedings in General
+51k2154Rights of Action by or on Behalf of Trustee or Debtor
+51k2154.1In general;  standing
+51Bankruptcy
+51IXAdministration
+51IX(B)Possession, Use, Sale, or Lease of Assets
+51k3067Sale or Assignment of Property
+51k3067.1In general
+291Patents
+291VIPatent Rights and Duties
+291VI(C)Assignments and Other Transfers
+291k1476Transfer on insolvency
+(Formerly 291k204)
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1698Assignee or transferee
+(Formerly 291k286)
+
+
+Bankruptcy courts and courts of equity have the power to order assignment of legal title from the original patent owner to the receiver or trustee according to the requirements of the patent statutes, thus vesting the receiver or trustee with the right to bring suit for infringement. 35 U.S.C.A. §§ 100(d), 261, 281.
+Cases that cite this headnote
+
+
+
+[4]
+
+PatentsPersons Entitled to Sue;  Standing
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1696In general
+(Formerly 291k286)
+
+
+Determination of standing to file patent infringement suit would be made under patent law principles in case in which bankruptcy proceedings led to a liquidation plan agreement, negotiated at arms-length between classes of interested parties, dividing the debtor’s patent rights.
+3 Cases that cite this headnote
+
+
+
+[5]
+
+PatentsPersons Entitled to Sue;  Standing
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1696In general
+(Formerly 291k286)
+
+
+For purposes of establishing standing to sue for patent infringement, constitutional injury in fact occurs when a party performs at least one prohibited action with respect to the patented invention that violates the legal right to exclude others from making, using, selling, or offering to sell the patented invention in the United States, or importing the invention. U.S.C.A. Const. Art. 3, § 2, cl. 1; 35 U.S.C.A. §§ 154, 271.
+28 Cases that cite this headnote
+
+
+
+[6]
+
+PatentsPatent owner
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1697Patent owner
+(Formerly 291k286)
+
+
+A patentee who holds all the exclusionary rights and suffers constitutional injury in fact from infringement is one entitled to sue for patent infringement in its own name. U.S.C.A. Const. Art. 3, § 2, cl. 1; 35 U.S.C.A. §§ 154, 271.
+31 Cases that cite this headnote
+
+
+
+[7]
+
+PatentsConstruction and Operation of Assignments and Grants
+PatentsAssignee or transferee
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(C)Assignments and Other Transfers
+291k1472Construction and Operation of Assignments and Grants
+291k1473In general
+(Formerly 291k202(1))
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1698Assignee or transferee
+(Formerly 291k286)
+
+
+If a patentee transfers “all substantial rights” to the patent, that amounts to an assignment or a transfer of title, which confers constitutional standing on the assignee to sue for patent infringement in its own name alone; when a party holds all rights or all substantial rights, it alone has standing to sue for infringement. U.S.C.A. Const. Art. 3, § 2, cl. 1; 35 U.S.C.A. §§ 154, 271.
+91 Cases that cite this headnote
+
+
+
+[8]
+
+PatentsComplainants
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1737Parties
+291k1739Complainants
+(Formerly 291k290(1))
+
+
+Parties that hold the exclusionary rights under the patent statutes can only enforce those rights through or in the name of the owner of the patent, and the patentee who transferred those exclusionary interests is usually joined to satisfy prudential standing concerns; however, when the patentee is the infringer, or the prudential concerns are not at play in a particular case, joinder of the patentee is not necessary. U.S.C.A. Const. Art. 3, § 2, cl. 1; 35 U.S.C.A. §§ 154, 271; Fed.Rules Civ.Proc.Rule 19, 28 U.S.C.A.
+54 Cases that cite this headnote
+
+
+
+[9]
+
+PatentsIn general;  nature of ownership of patents
+PatentsIn general;  assignability of patents
+
+
+291Patents
+291VIPatent Rights and Duties
+291VI(A)In General
+291k1431In general;  nature of ownership of patents
+(Formerly 291k181)
+291Patents
+291VIPatent Rights and Duties
+291VI(C)Assignments and Other Transfers
+291k1461In general;  assignability of patents
+(Formerly 291k193)
+
+
+A patent is a bundle of rights which may be retained in whole or in part, divided, and assigned. 35 U.S.C.A. § 261.
+6 Cases that cite this headnote
+
+
+
+[10]
+
+PatentsBare or nonexclusive licensee
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1701Bare or nonexclusive licensee
+(Formerly 291k286)
+
+
+Those that hold less than all substantial rights to the patent and lack exclusionary rights under the patent statutes lack constitutional standing to sue for patent infringement; such plaintiffs are not injured by a party that makes, uses, or sells the patented invention because they do not hold the necessary exclusionary rights, and the standing deficiency cannot be cured by adding the patent title owner to the suit. U.S.C.A. Const. Art. 3, § 2, cl. 1; 35 U.S.C.A. §§ 154, 271.
+118 Cases that cite this headnote
+
+
+
+[11]
+
+PatentsBare or nonexclusive licensee
+
+
+291Patents
+291VIIPatent Infringement
+291VII(C)Actions
+291VII(C)1In General
+291k1695Persons Entitled to Sue;  Standing
+291k1701Bare or nonexclusive licensee
+(Formerly 291k286)
+
+
+Liquidating trust established in bankruptcy proceeding for benefit of patentee’s general unsecured creditors lacked constitutional standing to sue for patent infringement since trust’s interests in the patent did not include sufficient exclusionary rights such that it suffered an injury in fact from infringing activities; while trust held the right to sue parties for patent infringement except for the controlling shareholders, patent title holder held the right to sell the patent, grant exclusive and nonexclusive licenses, grant the right to sublicense, or transfer any of the rights that it held to another party. U.S.C.A. Const. Art. 3, § 2, cl. 1; 35 U.S.C.A. §§ 154, 271.
+40 Cases that cite this headnote
+
+
+
+[12]
+
+PatentsIn general;  utility
+
+
+291Patents
+291XPatents Enumerated
+291k2091In general;  utility
+(Formerly 291k328(2))
+
+
+US Patent 6,122,647. Cited.
+Cases that cite this headnote
+
+
+
+Attorneys and Law Firms
+*1334 Jason C. Kravitz, Nixon Peabody LLP, of Boston, MA, argued for plaintiff/counterclaim defendant-appellant. With him on the brief was Richard D. Rochford, Jr.
+Brett J. Williamson, O’Melveny & Myers LLP, of Newport Beach, CA, for counterclaim defendant-appellant. Of counsel were Nathaniel L. Dilger and Mark S. Davies, of Washington, DC.
+Frank E. Scherkenbach, Fish & Richardson P.C., of Boston, MA, argued for defendant/counterclaimant-cross appellant. With him on the brief were Kurt L. Glitzenstein, Craig R. Smith, and Charles H. Sanders. Of counsel on the brief was Isabella E. Fu, Microsoft Corporation, of Redmond, WA. Of counsel was Jennifer K. Bush, Fish & Richardson, PC, of San Diego, CA.
+Before PROST, Circuit Judge, PLAGER, Senior Circuit Judge, and MOORE, Circuit Judge.
+Opinion
+Opinion for the court filed by Circuit Judge MOORE. Dissenting opinion filed by Circuit Judge PROST.
+
+MOORE, Circuit Judge.
+
+Spacone appeals the United States District Court for the Northern District of California’s grant of Microsoft Corporation’s (Microsoft) motion for summary judgment of noninfringement of claims 2, 8, 12, and 13 of U.S. Patent No. 6,122,647 (the ′647 patent). Microsoft cross-appeals, asserting Spacone lacked standing to bring suit. We reverse the district court’s determination that Spacone had standing to sue Microsoft for infringement of the ′647 patent and vacate the judgment of noninfringement.
+ 
+
+BACKGROUND
+I.
+At Home Corp. (AHC) was a provider of internet services over the cable television infrastructure but filed a petition for bankruptcy under Chapter 11 on September 28, 2001. After AHC filed for bankruptcy protection, two committees of creditors were appointed to represent each class of creditors’ interests in the bankruptcy proceeding. In April 2002, after several days of mediation, the committees entered into *1335 a settlement of their claims against AHC. The committee settlement agreement was incorporated into a joint bankruptcy liquidation plan (liquidation plan). This liquidation plan was prepared for the purpose of liquidating AHC’s assets in a manner amenable to the various creditors, and was confirmed by the United States Bankruptcy Court for the Northern District of California. It became effective on September 30, 2002.
+ 
+Under the liquidation plan, three trusts were created—the General Unsecured Creditors’ Liquidating Trust (GUCLT), the At Home Liquidating Trust (AHLT), and the Bondholders Liquidating Trust (BHLT). Morrow and Spacone were appointed as former and current trustees (respectively) for GUCLT.1 The liquidation plan distributed certain assets and rights among the trusts. BHLT was given rights to causes of actions against AHC’s controlling shareholders, including AT & T Corporation, Comcast Corporation, and Cox Communications. GUCLT received the rights to all other causes of action (called “Estate Litigation”), including claims for misappropriation or infringement of AHC’s intellectual property rights. AHLT (the “Plan Agent” in charge of conducting the administrative wind-down of the company’s business) was given ownership rights in AHC’s intellectual property, since all of the assets not distributed to BHLT or GUCLT were assigned to AHLT. Thus, AHLT received legal title to the ′647 patent under the liquidation plan though it did not have the right to sue third parties for infringement of the patent. The liquidation plan and the associated agreements provided that AHLT’s assets were to be managed for the benefit of the bondholders and the general creditors of BHLT and GUCLT.
+ 
+
+II.
+Spacone, as the trustee of GUCLT, filed suit against Microsoft on October 22, 2003 alleging infringement of the ′647 patent. The ′647 patent, entitled “Dynamic Generation of Contextual Links in Hypertext Documents,” relates to dynamic generation of hyperlinks in a source document to other documents that are topically relevant to the content of the source document or user-selected portion of that document. Spacone accused Microsoft’s software applications that contain “Smart Tag Functionality,” including those found in Microsoft Office XP® and Microsoft Office 2003®, of infringing several claims of the ′647 patent. On November 12, 2003, Microsoft answered and asserted counterclaims against Spacone and Crawford (trustee for AHLT), seeking a declaration of noninfringement, invalidity, and unenforceability of the ′647 patent.
+ 
+Microsoft filed a motion for summary judgment contending that GUCLT lacked standing. In response, Spacone filed a cross-motion for summary judgment that standing existed, asserting he had standing to pursue this action as trustee of GUCLT or alternatively on behalf of and in the name of AHLT. The district court denied Microsoft’s standing motion and granted Spacone’s cross-motion, concluding that GUCLT had standing to sue under bankruptcy law principles and based on its trust beneficiary status. Spacone v. Microsoft Corp., No. C 03–04739 CW, slip. op. (N.D.Cal. Aug. 10, 2004). Microsoft moved the district court to certify the standing order for interlocutory appeal, but the district court denied this motion.
+ 
+*1336 On April 2, 2004, GUCLT filed a motion in the bankruptcy court requesting clarification of its rights under the liquidation plan approved by that court. GUCLT argued that it had the right to prosecute and settle patent infringement claims, the right to grant nonexclusive licenses to settle these claims, and the right to receive revenues generated from these settlement licenses. The bankruptcy court ruled in GUCLT’s favor and BHLT appealed this ruling to the district court. The district court reversed the bankruptcy court, holding GUCLT did not have the right to grant licenses to settle Estate Litigation or receive licensing revenues.2 The district court determined that GUCLT was not given ownership or licensing rights in the ′ 647 patent under the liquidation plan, rather, AHLT was assigned the patent and had the exclusive right to license the patent and collect royalties from it.
+ 
+The parties completed discovery, then cross-moved for summary judgment on the invalidity and infringement issues. On March 10, 2006, the district court denied Spacone’s motion and granted Microsoft’s motion for summary judgment of non-infringement and invalidity. Spacone v. Microsoft Corp., 2006 WL 648740, No. C 03–04739 CW (N.D.Cal. Mar. 10, 2006). Spacone and Crawford then timely appealed to this court. Microsoft timely appealed the district court’s determination of standing. We have jurisdiction over this appeal pursuant to 28 U.S.C. §§ 1295(a)(1), 2107(a), and Fed. R.App. 4(a).
+ 
+
+ANALYSIS
+I.
+[1] As a threshold matter, we must consider the district court’s determination that bankruptcy principles govern the standing inquiry in this case. Standing is a legal question and jurisdictional issue that this court reviews without deference. See Evident Corp. v. Church & Dwight Co., 399 F.3d 1310, 1313 (Fed.Cir.2005). The district court ruled that Spacone had standing to bring this infringement suit based on the special circumstances surrounding the trust relationship between GUCLT and AHC created through the bankruptcy proceedings. SJ Opinion I, slip op. at 9–11. Specifically, it noted that GUCLT’s rights “arise out of bankruptcy law and trust relationships, rather than a traditional patent licensing relationship.” Id. at 10. The court determined that GUCLT had a “proprietary interest” in the patent (1) as AHC’s successor for all purposes related to the Estate Litigation and had the power to pursue this litigation in AHC’s name as if it had never gone bankrupt; and (2) as a trust beneficiary of the patent that AHLT holds in trust for GUCLT and BHLT and an equitable title holder for purposes of the Estate Litigation. Id. It did not analyze GUCLT’s standing to bring this suit under patent law standing principles.
+ 
+[2] The question as to how bankruptcy or trust law relationships affect the standing analysis in a patent infringement case is a question of first impression in this court. GUCLT and AHLT certainly gained rights to the ′647 patent through the bankruptcy proceeding, but this suit against Microsoft was filed pursuant to and is governed by the patent laws. The patent statutes govern the creation and protection of patent rights, how rights can be transferred, and the parties entitled to assert those rights. See *1337 35 U.S.C. §§ 100(d), 261, 281; Crown Die & Tool Co. v. Nye Tool & Mach. Works, 261 U.S. 24, 40, 43 S.Ct. 254, 67 L.Ed. 516 (1923). In Crown Die, the plaintiff asserted that it held sufficient interest in the patent for standing purposes as the beneficial owner of claims for past infringement in equity, though it did not hold legal title to the patent. 261 U.S. at 44, 43 S.Ct. 254. Quoting Gayler v. Wilder, 51 U.S. 477, 10 How. 477, 13 L.Ed. 504 (1850), the Court noted that a patent monopoly does not exist at common law but rather under congressional acts, and patent rights are not acquired unless authorized by and acquired in the manner prescribed by statute. Crown Die, 261 U.S. at 44, 43 S.Ct. 254. The Court stated that equitable rules “[were] not intended to set aside a policy and rule having its source in the patent statutes and cannot affect this case.” Id. Crown Die, however, involved an assignment of patent rights rather than the disposition of patent rights through bankruptcy proceedings.
+ 
+[3] [4] The court in Ball v. Coker, 168 F. 304 (C.C.D.S.C.1909) considered the process by which receivers and trustees legitimately gain rights to patents in determining whether the receiver appointed in that case held sufficient rights to the patent to sue for infringement. The court noted that mere appointment of a receiver to manage and control a patent does not vest legal title enabling him to sue for infringement in his own name. Id. at 307 (citing 2 Robinson on Patents § 766). Rather, bankruptcy courts and courts of equity have the power to order assignment of legal title from the original owner to the receiver or trustee according to the requirements of the patent statutes, thus vesting the receiver or trustee with the right to bring suit for infringement. Id. (citing Stephens v. Cady, 14 How. 528, 531, 14 L.Ed. 528 (1852) (copyright infringement case)). The court stated that
+[u]nder [the patent statutes] no person may bring suit for profits or damages for infringement who is not the patentee, or such assignee or grantee as the statute points out. The claim to recover profits or damages for this infringement cannot be severed from the title by an assignment or grant so as to give the right of action for such claim in disregard of the statute. Profits or damages for infringement cannot be sued for except on the basis of title as patentee, or as such assignee or grantee to the whole or part of the patent, and not on the basis merely of the assignment of a right to a claim for damages severed from such title.
+Id. at 308. Thus, the patent statutes have long been recognized as the law that governs who has the right to bring suit for patent infringement, even when patent rights have been transferred as a result of bankruptcy or proceedings in equity.3 In this case, bankruptcy proceedings led to a liquidation plan agreement negotiated at arms-length between classes of interested parties. Where parties have contractually divided patent rights, we have analyzed standing to file the infringement suit under patent law principles. E.g., Intellectual Prop. Dev., Inc. v. TCI Cablevision of Cal., Inc., 248 F.3d 1333 (Fed.Cir.2001); Prima Tek II, LLC v. A–Roo Co., 222 F.3d 1372 (Fed.Cir.2000); Abbott Labs. v. *1338 Diamedix Corp., 47 F.3d 1128 (Fed.Cir.1995). Accordingly, we must determine whether GUCLT has shown that it has standing to sue Microsoft for infringement under the patent statutes. Sicom Sys., Ltd. v. Agilent Techs., Inc., 427 F.3d 971, 976 (Fed.Cir.2005) (stating the party bringing suit bears the burden of establishing that it has standing).
+ 
+
+II.
+A. Rights Transferred from AHC to GUCLT and AHLT
+To determine whether GUCLT has standing, we must first understand its rights to the patent at the time this suit was initiated. AHC owned the patent before the effective date of the liquidation plan in September 2002.4 After the effective date, AHC ceased to exist and AHC’s assets, rights, obligations, and causes of action were divided among GUCLT, BHLT, and AHLT. GUCLT was given the right to bring suit on the intellectual property assets against any party other than AHC’s controlling shareholders. Since it has the right to sue, GUCLT has the exclusive right or duty to (1) decide, at its discretion, whether to investigate, pursue, or dismiss patent infringement actions (without consultation with AHLT and BHLT); (2) collect damages from infringement litigations; (3) incur any liability arising from claims or defenses of any infringement defendant; (4) incur all costs and expenses associated with such litigations; and (5) assume any litigation sanctions. In order to settle patent infringement litigation, AHLT’s consent is required. Otherwise, AHLT has no oversight powers with respect to the suits of GUCLT, cannot unreasonably withhold its consent to settle, and is required to “fully and promptly cooperate, assist, and join in all such actions and execute any necessary papers for such actions.” There is no indication, however, that GUCLT holds the right to make, use, or sell the invention of the ′647 patent, much less the exclusive right to do any of these things with the patented technology. Additionally, GUCLT was not given the right to grant licenses or sublicenses under the patent or collect any licensing royalties.
+ 
+All rights and assets not specifically transferred from AHC to GUCLT or BHLT under the liquidation plan were transferred to AHLT. It is undisputed that AHLT holds legal title to the ′647 patent and all the “sticks” in the “bundle of rights” associated with the patent that were not specifically transferred to GUCLT. AHLT holds all rights to license the ′647 patent to third parties and collect royalties from those licenses, royalties not shared with GUCLT and BHLT. AHLT also holds the exclusive right to make, use, and sell the patented technology—though it is contractually prohibited from exercising that right itself under the liquidation plan. AHLT may transfer any of its rights to the ′647 patent to third parties with the consent of GUCLT and BHLT.
+ 
+
+B. Article III Standing Requirements
+Given this disposition of patent rights between AHLT and GUCLT, to have standing GUCLT must meet both constitutional and prudential standing requirements. Article III of the constitution limits the judicial role in our system of government to the resolution of “cases” and “controversies.” The standing inquiry enforces this constitutional restriction on the power of the courts. To demonstrate the minimal constitutional standing requirements have been satisfied, “[a] *1339 plaintiff must allege personal injury fairly traceable to the defendant’s allegedly unlawful conduct and likely to be redressed by the requested relief.” Hein v. Freedom Religion Found., Inc., 551 U.S. 587, 127 S.Ct. 2553, 2555–56, 168 L.Ed.2d 424 (2007) (citing Allen v. Wright, 468 U.S. 737, 751, 104 S.Ct. 3315, 82 L.Ed.2d 556 (1984)). These requirements have been described as the injury in fact, traceability, and redressability inquiries. But standing “often turns on the nature and source of the claim asserted.... Essentially, the standing question in such cases is whether the constitutional or statutory provision on which the claim rests properly can be understood as granting persons in the plaintiff’s position a right to judicial relief.” Warth v. Seldin, 422 U.S. 490, 500, 95 S.Ct. 2197, 45 L.Ed.2d 343 (1975); see also Int’l Primate Prot. League v. Admins. of Tulane Educ. Fund, 500 U.S. 72, 76, 111 S.Ct. 1700, 114 L.Ed.2d 134 (1991) ( “[S]tanding is gauged by the specific common-law, statutory or constitutional claims that a party presents.”); Valley Forge Christian Coll. v. Ams. United for Separation of Church and State, 454 U.S. 464, 484, 102 S.Ct. 752, 70 L.Ed.2d 700 (1982) (“The requirement of standing ‘focuses on the party seeking to get his complaint before a federal court and not on the issues he wishes to have adjudicated.’ ”). Since the patent statutes give rise to the right to sue others for patent infringement, they also define the nature and source of the infringement claim and determine the party that is entitled to judicial relief.
+ 
+[5] A “patentee” is entitled to bring a “civil action for infringement of his patent.” 35 U.S.C. § 281, and the “patentee” includes the patentee to whom the patent was issued and the “successors in title to the patentee,” 35 U.S.C. § 100(d). The “successor[ ] in title” is the party holding legal title to the patent. See Enzo Apa & Son, Inc. v. Geapag A.G., 134 F.3d 1090, 1093 (Fed.Cir.1998); Prima Tek II LLC v. A–Roo Co., 222 F.3d 1372, 1377 (Fed.Cir.2000) (noting the assignee of all substantial rights under the patent becomes the effective patentee and can sue in its own name for infringement). A patent grant bestows the legal right to exclude others from making, using, selling, or offering to sell the patented invention in the United States, or importing the invention. See 35 U.S.C. § 154; 35 U.S.C. § 271 (describing permitted and prohibited actions with respect to the exclusionary rights). This right to exclude is the legal interest created by statute. Arachnid, 939 F.2d at 1578. Constitutional injury in fact occurs when a party performs at least one prohibited action with respect to the patented invention that violates these exclusionary rights. See Lujan v. Defenders of Wildlife, 504 U.S. 555, 560–61, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992) (stating that constitutional injury arises from invasion of a legally protected interest which is concrete and particularized and actual or imminent rather than conjectural or hypothetical). The party holding the exclusionary rights to the patent suffers legal injury in fact under the statute.5
+ 
+[6] [7] There are three general categories of plaintiffs encountered when analyzing the constitutional standing issue in patent infringement suits: those that can sue in their own name alone; those that can sue as long as the patent owner is joined in the suit; and those that cannot even participate as a party to an infringement suit. The first category includes plaintiffs that hold all legal rights to the patent as the patentee or assignee of all patent rights—the entire bundle of sticks. Unquestionably, *1340 a patentee who holds all the exclusionary rights and suffers constitutional injury in fact from infringement is one entitled to sue for infringement in its own name. Additionally, if a patentee transfers “all substantial rights” to the patent,6 this amounts to an assignment or a transfer of title, which confers constitutional standing on the assignee to sue for infringement in its own name alone. Intellectual Prop. Dev., 248 F.3d at 1345. When a party holds all rights or all substantial rights, it alone has standing to sue for infringement.
+ 
+[8] The second category of plaintiffs hold exclusionary rights and interests created by the patent statutes, but not all substantial rights to the patent. As the grantee of exclusionary rights, this plaintiff is injured by any party that makes, uses, sells, offers to sell, or imports the patented invention. Evident, 399 F.3d at 1313; Intellectual Prop. Dev., 248 F.3d at 1346 (“A party such as IPD that has the right to exclude others from making, using, and selling an invention described in the claims of a patent is constitutionally injured by another entity that makes, uses, or sells the invention.”). Parties that hold the exclusionary rights are often identified as exclusive licensees, because the grant of an exclusive license to make, use, or sell the patented invention carries with it the right to prevent others from practicing the invention.7
+ 
+However, these exclusionary rights “must be enforced through or in the name of the owner of the patent,” and the patentee who transferred these exclusionary interests is usually joined to satisfy prudential standing concerns. Indep. Wireless Tel. Co. v. Radio Corp. of Am., 269 U.S. 459, 467, 469, 46 S.Ct. 166, 70 L.Ed. 357 (1926). The patentee is joined for the purpose of avoiding the potential for multiple litigations and multiple liabilities and recoveries against the same alleged infringer. Intellectual Prop. Dev., 248 F.3d at 1347 (indicating that joining the patentee satisfies a prudential not constitutional standing requirement); Propat, 473 F.3d at 1193; Indep. Wireless, 269 U.S. at 469, 46 S.Ct. 166 (stating that where there is no express covenant by the patent owner to sue infringers it is an implied obligation to allow use of the licensor’s name, which is indispensable to the enjoyment of the patent monopoly). When the patentee is the infringer, or the prudential concerns are not at play in a particular case, joinder of the patentee is not necessary. This joinder analysis has been incorporated in Federal Rule of Civil Procedure 19. See Fed.R.Civ.P. 19, Advisory Committee Note to Subdivision (a) (1937); Prima Tek II, 222 F.3d at 1377.
+ 
+[9] [10] The third category of plaintiffs includes those that hold less than all substantial rights to the patent and lack exclusionary rights under the patent statutes to meet the injury in fact requirement. *1341 They are not injured by a party that makes, uses, or sells the patented invention because they do not hold the necessary exclusionary rights. Plaintiffs in this category lack constitutional standing.8 See Sicom, 427 F.3d at 976 (“A nonexclusive license confers no constitutional standing on the licensee to bring suit or even to join a suit with the patentee because a nonexclusive licensee suffers no legal injury from infringement.” (internal citations omitted)). This standing deficiency cannot be cured by adding the patent title owner to the suit. Propat, 473 F.3d at 1189; Intellectual Prop. Dev., 248 F.3d at 1348–49.
+ 
+
+C. Injury in Fact
+[11] Here, we are faced with the question of whether GUCLT holds the exclusionary rights and suffers constitutional injury in fact. Microsoft asserts that GUCLT lacks sufficient rights to be a party to this case. Spacone argues that AHLT merely holds “bare” legal title to the ′647 patent in trust for the benefit of GUCLT and that GUCLT had standing to sue because it possesses partial equitable title to the ′647 patent. The question is whether GUCLT’s interests in the patent include sufficient exclusionary rights such that GUCLT suffers an injury in fact from infringing activities. If GUCLT holds all substantial rights, it can sue in its name alone. If GUCLT holds less than all substantial rights but sufficient exclusionary rights that it suffers injury in fact, it can sue as a co-party with the legal title holder AHLT. If it lacks injury in fact, GUCLT lacks standing to be a party to this case.
+ 
+GUCLT holds the right to sue parties (except for the controlling shareholders) for patent infringement. Its inability to sue controlling shareholders is a limitation on this right, as is the requirement that AHLT approve the settlement of any suits brought by GUCLT. Thus, GUCLT’s right to sue comes with restrictions. In Vaupel, this court indicated that the right to sue is an important right, and like GUCLT Vaupel held the exclusive right to sue for infringement, subject only to the obligation to inform Markowsky of the suit. But unlike GUCLT, Vaupel also held the exclusionary rights—an exclusive license (right to make, use, or sell the patented invention) along with the exclusive right license and the right to sublicense (subject to prior consent by Markowsky). The grant of this exclusive license and the right to sublicense constituted a transfer of the exclusionary rights to the patent to Vaupel. Within this context, Vaupel held all substantial rights as the “effective patentee” because it held the exclusionary rights and additional important patent rights including the right to bring a patent suit. Vaupel, 944 F.2d at 875. Vaupel could sue without joinder of Markowsky. In contrast, GUCLT lacks an exclusive license, the exclusive right to license, and the right to sublicense. These are important aspects of the exclusionary rights held by Vaupel.
+ 
+Moreover, GUCLT’s control with respect to infringement litigation does not lead to the conclusion that GUCLT suffers injury in fact from infringement. In Sicom, we held that Sicom lacked all substantial rights (it was not a category one plaintiff) because it did not have the right to settle litigation it initiated without prior written consent of the licensor, even though it had the right to sue and an *1342 exclusive license to the patent. 427 F.3d at 979.
+ 
+While GUCLT has been granted the right to sue infringers that are not controlling shareholders, AHLT is the patent title holder, holds the right to sell the patent, grant exclusive and nonexclusive licenses, grant the right to sublicense, or transfer any of the rights that AHLT holds to another party. The only limitations on AHLT’s ability to control and transfer its patent rights is GUCLT’s and BHLT’s consent. In Speedplay, we noted that this type of consent requirement was not significantly restrictive of Speedplay’s exclusionary patent rights, which included an exclusive license and the right to sublicense a potential infringer. 211 F.3d at 1252. In this case the requirement that GUCLT and BHLT consent to transfer of rights to the ′647 patent is not significantly restrictive of AHLT’s exclusionary rights. Nor does this consent requirement transfer to GUCLT any exclusionary rights to the patent. Moreover, there is no indication that AHLT is restricted as to the parties to whom it could transfer any of the exclusionary rights that it holds under the ′647 patent. Thus, AHLT could grant an exclusive license to any party, which would transfer the right to exclude others from practicing the patented invention.
+ 
+The problem for GUCLT and AHLT is that the exclusionary rights have been separated from the right to sue for infringement. The liquidation plan contractually separated the right to sue from the underlying legally protected interests created by the patent statutes—the right to exclude. For any suit that GUCLT brings, its grievance is that the exclusionary interests held by AHLT are being violated. GUCLT is not the party to which the statutes grant judicial relief. See Warth, 422 U.S. at 500, 95 S.Ct. 2197. GUCLT suffers no legal injury in fact to the patent’s exclusionary rights. As the Supreme Court stated in Independent Wireless, the right to bring an infringement suit is “to obtain damages for the injury to his exclusive right by an infringer.” 269 U.S. at 469, 46 S.Ct. 166; see also Sicom, 222 F.3d at 1381 (“Standing to sue for infringement depends entirely on the putative plaintiff’s proprietary interest in the patent, not on any contractual arrangements among the parties regarding who may sue ...”); Ortho, 52 F.3d at 1034 (“[A] right to sue clause cannot negate the requirement that, for co-plaintiff standing, a licensee must have beneficial ownership of some of the patentee’s proprietary rights.”).
+ 
+The importance of AHLT’s right to license third parties to our constitutional standing analysis is underscored by Textile Productions. This court determined that the transfer of the right to sue in that case did not provide standing to even participate in the suit because the agreement did not clearly manifest that the owner would refrain from granting a license to anyone else in the particular area of exclusivity. Textile Productions, 134 F.3d at 1485. We stated that the right to license third parties is an important patent right because implicit in the right to exclude is the right to waive that right; that is, to license activities that would otherwise be excluded. See Id.; Prima Tek II, 222 F.3d at 1379. GUCLT does not have the right to license or sublicense or otherwise forgive activities that would normally be prohibited under the patent statutes. We “pay particular attention to whether the agreement conveys in full the right to exclude” in order to find standing. Id. at 1379–80.
+ 
+Even in Propat, this court found that Propat had no standing to participate in an infringement suit though it enjoyed the exclusive right to sue third parties for patent infringement, the right to grant licenses to third parties, and the right to enforce license agreements. *1343 473 F.3d at 1191. Propat’s right to license and sue third parties was subject to prior approval by the legal title holder Authentix—approval that could not be unreasonably withheld. Propat was also required to receive the consent of Authentix before it assigned rights or obligations under the agreement to another party. This court held that Authentix didnot assign all substantial rights to Propat and Propat could not even sue as a co-plaintiff with Authentix. Propat, 473 F.3d at 1189 (noting that even if Authentix was a party this would not ameliorate Propat’s standing problem). Propat lacked sufficient exclusionary rights and therefore did not suffer statutory legal injury.
+ 
+While GUCLT enjoys greater control over infringement litigation than did Propat, it lacks the important rights to grant and enforce licenses that Propat held. GUCLT lacks the right to waive the patent’s exclusionary rights by waiving those rights in license or sublicense agreements.
+ 
+Spacone asserts that this court’s decision in Evident supports GUCLT’s standing to bring suit now that AHLT is a party. We do not agree that GUCLT suffers the legal injury that entitles it to be a party to this infringement suit. In keeping with the decisions from this court, Evident stands for the proposition that a party with the rights of an exclusive licensee holds exclusionary rights and has standing to sue for infringement if the patentee joins the suit to satisfy any prudential concerns present in that case. Evident, 399 F.3d at 1314; see also Propat, 473 F.3d at 1193; Intellectual Prop. Dev., 248 F.3d at 1345–46; Textile Prods., 134 F.3d at 1484; Abbott Labs., 47 F.3d at 1131. Unlike Evident, AHLT’s participation as a third party defendant does not affect GUCLT’s standing to bring this suit. To demonstrate entitlement to join as a co-plaintiff GUCLT must have the right to exclude others from making, using, or selling the invention in the United States. See Ortho Pharm. Corp. v. Genetics Institute, Inc., 52 F.3d 1026, 1030–32 (Fed.Cir.1995).
+ 
+Contrary to the dissent’s suggestion, GUCLT’s beneficial ownership interest as the future beneficiary of 45% of whatever assets are still held by AHLT when it completes its wind-down of AHC’s business does not affect the outcome of our standing analysis. Indeed, there is no indication as to what, if any, assets will flow to GUCLT after AHLT completes its work. Regardless, whatever interests in the ′647 patent may flow to GUCLT in the future are insufficient to convert its equitable future interests in the patent into full legal exclusionary interests as of the time this suit was initiated. In Arachnid, Inc. v. Merit Indus., Inc., 939 F.2d 1574, 1577, 1578 n. 3 (Fed.Cir.1991), the plaintiff also asserted that it had standing to sue for damages as the equitable title holder to the patent because in equity it was the real owner of the patent rights. It asserted that this equitable interest met the standing requirements because another party held legal title to the patent. This court rejected this equitable interest-based standing argument. We stated that equitable title to the patent is insufficient to confer standing to sue for legal relief from infringement. Id. at 1579–80 (noting that the owner of equitable title may seek redress in a court of equity such as rescission of title transfer but cannot bring an action at law for infringement damages). Similarly, GUCLT lacks the exclusionary rights under the ′647 patent and relies on its equitable interests in AHLT’s assets. But GUCLT lacks legal injury in fact, and its beneficial interest in assets held by AHLT or the fact that AHLT has been brought into this case as a third party defendant does not cure GUCLT’s constitutional standing deficiencies.
+ 
+*1344 Only when a party holds the exclusionary rights to the patent but lacks all substantial rights may the party join the legal title owner in a suit to enforce patent rights. Joining the legal title holder only satisfies prudential standing requirements. It cannot cure constitutional standing deficiencies. Since GUCLT fails to meet constitutional standing requirements, it cannot be a party to this suit for patent infringement.
+ 
+
+CONCLUSION
+Since GUCLT lacked standing to sue Microsoft for infringement of the ′647 patent, the district court lacked jurisdiction. Thus, we will not consider the appealed infringement issues on the merits. We reverse as to standing and vacate the infringement rulings.
+ 
+REVERSED AND VACATED
+ 
+
+COSTS
+Each party shall bear its own costs for this appeal and cross-appeal.
+ 
+
+PROST, Circuit Judge, dissenting.
+
+The majority holds that, in a bankruptcy proceeding, separating the title to a patent from the right to sue for infringement extinguishes all standing to enforce the patent. Because I believe the General Unsecured Creditors’ Liquidating Trust of At Home Corporation (“GUCLT”) holds a sufficient bundle of rights to support co-plaintiff standing with the holder of legal title, I respectfully dissent.
+ 
+Pursuant to the liquidation plan, three entities divided the interests and assets of the At Home Corporation (“AHC”). The At Home Liquidating Trust of At Home Corporation (“AHLT”) received all assets of AHC, including the patent at issue in this case. Two additional trusts represent the unsecured creditors to AHC: the Bond Holders’ Liquidating Trust of At Home Corporation (“BHLT”) and the GUCLT. BHLT received the rights to causes of action against AHC’s controlling shareholders; GUCLT received the rights to pursue all other causes of action—including infringement of intellectual property, including U.S. Patent No. 6,122,647 (“the patent”). As the liquidation plan stated, AHLT exists to manage the assets for the benefit of GUCLT and BHLT. Indeed, AHLT requires their consent to sell or otherwise dispose of the patent.
+ 
+I agree with the majority insofar as it holds that GUCLT does not have standing to enforce the patent in its own name; it is not, as the majority describes, in the “first category” of plaintiffs—patentees and holders of all substantial rights. But the analysis does not end there. As it is apparent that AHLT, having assigned the right to sue, cannot enforce the patent alone, the only way to enforce the patent requires AHLT and GUCLT to act as co-plaintiffs. The majority opinion forecloses that option.
+ 
+Plaintiffs in the majority’s “second category” hold fewer than all substantial rights in the patent, and therefore may not sue in their name alone. They may still enforce the patent, but must do so in the patentee’s name and may compel the patentee to join as a necessary party. Intellectual Prop. Dev., Inc. v. TCI Cablevision of Cal., Inc., 248 F.3d 1333, 1347–48 (Fed.Cir.2001). Further, as this court recognized in Evident Corp. v. Church & Dwight Co., a defendant’s counterclaims may bring the patentee into a case and provide the original “second category” plaintiff with the support required for standing. 399 F.3d 1310, 1314 (Fed.Cir.2005). While I agree that Evident may only apply to the “second category” of plaintiffs, I believe the majority errs by excluding GUCLT from that category.
+ 
+If, as I would hold, GUCLT is properly considered a “category two” plaintiff, then *1345 it could have added AHLT to the suit either voluntarily or involuntarily to satisfy our prudential standing requirements. See Intellectual Prop. Dev., 248 F.3d at 1347–48. GUCLT had no need to add AHLT, however, because Microsoft’s counterclaims here brought AHLT into the case, thus satisfying our prudential requirements. Evident, 399 F.3d at 1314. While I accept the usefulness of the majority’s attempt to clearly delineate our jurisprudence on standing, that attempt misses the mark by failing to correctly define the second category of plaintiffs.
+ 
+The majority narrowly defines the second category without any reasoned basis. It describes “exclusionary rights and interests” as “created by the patent statutes,” but does not elucidate why only patentees and exclusive licensees should enjoy such rights. Maj. op. at 1340. Indeed, the precedent cited seems to contradict the majority’s strict categorizations. In Intellectual Property Development, this court extensively discussed the underpinnings of our standing requirements. In that case, we stated, “Article III standing to sue in [patent cases] derives solely from the Patent Act.... This statutory language, however, fails to limit Article III standing to patentees and assignees.” Intellectual Prop. Dev., 248 F.3d at 1346. Thus, our precedent clearly shows that while protectable legal interests may derive from the patent statutes, those statutes do not limit standing to patentees—thus allowing standing for the majority’s “second category” of plaintiffs.
+ 
+While the majority effectively treats the second category as occupied solely by exclusive licensees, that category may properly include other types of plaintiffs. In Intellectual Property Development, 248 F.3d at 1346, we clarified that determining standing of non-patentee parties requires analysis under the standard set forth in Lujan v. Defenders of Wildlife, 504 U.S. 555, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992). Specifically, a putative plaintiff must demonstrate (1) an injury in fact (invasion of a legal interest that is concrete and particularized, and actual or imminent injury); (2) a causal connection between the defendant’s action and the injury; and (3) that it is likely a favorable decision would redress the injury. Lujan, 504 U.S. at 560–61, 112 S.Ct. 2130. No serious argument could contend that GUCLT does not satisfy the second two factors; thus—as the majority ostensibly recognizes—the key question regarding constitutional standing is whether or not GUCLT suffers an injury in fact from Microsoft’s infringement. Rather than meaningfully evaluating the injury to the plaintiff here, the majority simply falls back on the established boundary including exclusive licensees.
+ 
+Looking at injury in fact as arising from a breach of exclusionary rights under the patent, the majority equates exclusionary rights with the right to practice and right to license. Maj. op. at 1341–42. Exclusive licensees have the right to enforce a patent because that is the only way to give meaning to their exclusivity. Indep. Wireless Tel. Co. v. Radio Corp. of Am., 269 U.S. 459, 469, 46 S.Ct. 166, 70 L.Ed. 357 (1926). Although exclusionary rights are important to an exclusive license, it does not follow that only exclusive licensees (and patentees) may hold those rights. While Vaupel Textilmaschinen KG v. Meccanica Euro Italia S.P.A. recognized that an exclusive license includes exclusionary rights, it concerned the difference between an exclusive license and an assignment. 944 F.2d 870, 874 (Fed.Cir.1991). Vaupel does not stand for the proposition that a party requires an exclusive license to gain exclusionary rights.
+ 
+The majority further looks to Sicom Systems, Ltd. v. Agilent Technologies, Inc. *1346 for the proposition that control over litigation is insufficient to confer standing for a non-patentee. 427 F.3d 971 (Fed.Cir.2005). Several problems cloud the comparison. First, the only issue in Sicom was whether or not the putative plaintiff could sue in its name alone, without adding the holder of legal title. Id. at 975. That is not the question here. Further, Sicom had the right to sue only for commercial infringement, leaving open a broad range of potential non-commercial infringers. Id. at 979. Under such an arrangement, “a single infringer could be vulnerable to multiple suits for any noncommercial infringement.” Id. That is not the case here.
+ 
+Focusing much attention on the right to grant licenses under the patent here, the majority concludes that without such a right, GUCLT is missing a key component of the so-called exclusionary rights necessary for standing.1 If, as the majority states, AHLT could freely and exclusively license the target of GUCLT’s litigation, it would eviscerate GUCLT’s right to sue. None of the documents defining the outcome of bankruptcy, however, explicitly address the right to license the patent. A nonexclusive license is a covenant not to sue, Ortho Pharm. Corp. v. Genetics Inst., Inc., 52 F.3d 1026, 1032 (Fed.Cir.1995), so separating the right to sue from the right to license without any basis in the parties’ arrangement makes a distinction without a solid basis. Because the two concepts are so intertwined, I would recognize that the right to sue—explicitly assigned to GUCLT—includes the right to offer nonexclusive licenses to targets of litigation.
+ 
+Moreover, any right that AHLT has regarding transfer of rights under the patent is subject to consent by GUCLT. Nothing in the Trust Agreement indicates that GUCLT cannot unreasonably withhold such consent, an omission that sharply contrasts with the requirement that AHLT consent to settlement of suit by GUCLT and not unreasonably withhold such consent. The arrangement clearly places less restriction on GUCLT and demonstrates that GUCLT is the party controlling litigation, including settlement of the litigation through licensing.
+ 
+The majority looks to Speedplay, Inc. v. Bebop, Inc. as indicating that a requirement for consent by the grantor of rights does not restrict the rights granted. 211 F.3d 1245 (Fed.Cir.2000). But that case concerned a grantor reserving the right of consent—not to be unreasonably withheld—to ensure the economic value of the consideration it received. Id. at 1251–52. Here, without the requirement for reasonableness, GUCLT’s consent more substantially restricts AHLT. The consent provision should ensure that AHLT cannot—as the majority would have it—negate GUCLT’s right to sue by granting licenses.
+ 
+Speedplay also stated that the only reasonable basis to withhold consent is when giving consent would harm the economic value of the patent. Id. Even if—contrary to the plain language here—GUCLT were required not to unreasonably withhold consent, if AHLT were to offer a license to a target of GUCLT’s litigation against GUCLT’s wishes, it would be reasonable under Speedplay for GUCLT to withhold consent. I believe, therefore, that whatever right to license the patent AHLT may *1347 hold, it does not interfere with GUCLT’s right to enforce the patent.
+ 
+The bankruptcy agreements also provide that GUCLT requires AHLT’s consent prior to settling any litigation, not to be unreasonably withheld. Under Speedplay, the requirement that AHLT not unreasonably withhold such consent indicates a more limited impact on GUCLT’s right to control litigation and enforce the patent. Moreover, while the majority recognizes that AHLT must “fully and promptly cooperate” with GUCLT’s litigation efforts, it fails to give any meaningful weight to that requirement. Indeed, if AHLT must fully cooperate with GUCLT, then AHLT must exercise its rights in the patent consistent with GUCLT’s litigation goals. That includes refraining from licensing the targets of litigation unless GUCLT desired a license as part of a settlement deal. At such time, AHLT must cooperate by consenting to the settlement and offering a license as GUCLT directs.
+ 
+The majority also places great emphasis on Propat International Corp. v. RPost, Inc., believing it to control this case. 473 F.3d 1187 (Fed.Cir.2007). I disagree. In Propat, the plaintiff required the patent owner’s permission in order to select litigation targets, Id. at 1194; here, GUCLT does not require AHLT’s permission. I believe the selection of targets forms a major portion of the right to enforce a patent, and provides an important basis for distinguishing this case from Propat.
+ 
+Further, the holder of title in Propat retained an economic interest in the patent; here, AHLT does not retain an economic interest where it holds title to the patent in trust for GUCLT and BHLT. Finally, in Propat this court viewed the right to transfer one’s interest as an important indicium of a true ownership interest. Id. Here, we have no indication that GUCLT cannot freely assign its rights under the bankruptcy agreement. In almost every way, its rights exceed those of the bare licensee in Propat. In light of GUCLT’s substantially greater interest here, I cannot agree that it does not hold a proprietary interest in the patent. Assigned the right to enforce the patent, GUCLT suffers an injury when a party infringes the patent and thus satisfies the Lujan standards for standing.
+ 
+I would hold that GUCLT does suffer an injury in fact. First, GUCLT holds an equitable interest in the title to the patent as beneficiary to the AHLT. I agree with the majority that ownership of equitable title to a patent does not by itself provide sufficient interest to sustain standing to sue alone for damages. See Arachnid, Inc. v. Merit Indus., Inc., 939 F.2d 1574, 1579 (Fed.Cir.1991). In Arachnid, however, the plaintiff wanted the court to impose a trust extending prior to the date on which a district court awarded ownership to the plaintiff. Id.
+ 
+GUCLT’s equitable ownership in the patent should play a relevant role in the analysis. Exclusive licensees have standing to sue in the patent owner’s name in part because the patent owner holds title to the patent in trust for the exclusive licensee, as the majority admits. Indep. Wireless Tel. Co. v. Radio Corp. of Am., 269 U.S. 459, 469, 46 S.Ct. 166, 70 L.Ed. 357 (1926). Here, AHLT explicitly holds the title in trust for GUCLT and BHLT, providing stronger reason to consider injury to the interests of the beneficiaries. Infringement of the patent diminishes its value and directly reduces the benefit enjoyed by GUCLT. While the majority states that we cannot know what assets will flow to GUCLT from AHLT, that does not change the fact that GUCLT and BHLT are the sole beneficiaries of AHLT. Any harm to the value of AHLT’s assets directly affects GUCLT, causing an injury in fact.
+ 
+*1348 Moreover, GUCLT’s interest does not stop with its equitable interest in title to the patent; it also received the explicit right to sue as part of the bankruptcy agreement. While the majority points to precedent disallowing standing based on right to sue clauses in license agreements, those cases do not dictate the result here. For example, in Prima Tek II, L.L.C. v. A–Roo Co. this court held that a right to sue clause in a license agreement cannot allow standing by the licensee alone. 222 F.3d 1372, 1381 (Fed.Cir.2000). I find Prima Tek II inapposite where GUCLT—as a “category two” plaintiff—has no need to support standing in its own name.
+ 
+In Ortho, this court also concluded that a right to sue clause cannot provide a non-exclusive licensee with standing. 52 F.3d at 1034. The court, however, based its holding in part on the details of the case—Ortho wanted standing to pursue a second case against an infringer that had already lost a suit by the patentee. Id. at 1035. Here, the agreement plainly assigns the entire right to sue Microsoft to GUCLT, who in the present case would litigate next to the holder of legal title to the patent, AHLT. Such a situation presents none of the difficulties that arose in Ortho.
+ 
+Supported by no precedent clearly on point, the majority chooses to close the door on GUCLT enforcing the patent with AHLT as a co-plaintiff. I would follow the opposite course, particularly in light of the various policy considerations that guide the courts on standing. Indeed, this case does not implicate the perils associated with a relaxed standing requirement—that multiple plaintiffs may subject a defendant to suit for the same conduct, or that the patentee may miss an opportunity to defend against invalidation. Evident, 399 F.3d at 1314; see also Ortho, 52 F.3d at 1031 (quoting A.L. Smith Iron Co. v. Dickson, 141 F.2d 3, 6 (2d Cir.1944)). On the contrary, the bankruptcy agreement here clearly specifies the actions that GUCLT may pursue, separating a small number of defendants subject to suit only by BHLT. Allowing co-plaintiff standing for GUCLT and AHLT would create no risk of multiple suits and would permit AHLT to ensure a full defense of the patent’s validity. Devoid of policy considerations, the majority opinion merely concludes that GUCLT lacks exclusionary rights. As explained, because the indicia of standing point the other way, I believe GUCLT does hold such an interest. Where GUCLT has received the right to enforce the patent and the patentee presently holds title in trust for GUCLT, infringement of the patent constitutes injury in fact.
+ 
+While I do not read any precedent as directly governing the peculiar circumstances of this case, I also do not read any as precluding co-plaintiff standing for GUCLT. I believe that, in denying all possibility for enforcing the patent, the majority opinion extends limitations on co-plaintiff standing without a reasoned basis. Accordingly, while neither GUCLT nor AHLT individually may pursue infringement litigation, I would not deprive the patent of all value. Because I would allow GUCLT and AHLT, as co-plaintiffs, standing to sue Microsoft, I respectfully dissent.
+ 
+All Citations
+499 F.3d 1332, 48 Bankr.Ct.Dec. 243, 84 U.S.P.Q.2d 1377
+Footnotes
+
+*
+
+Circuit Judge Gajarsa did not participate in the vote.
+
+1
+
+Frank A. Morrow was the trustee of GUCLT until April 14, 2005, when he was succeeded by Hank M. Spacone. Spacone was substituted into this action as the named plaintiff after assuming his position as trustee. For purposes of this opinion, references to Spacone are references to his predecessor or GUCLT, when applicable.
+
+2
+
+On August 19, 2005, GUCLT appealed this order to the Ninth Circuit. That appeal involves the issue of whether GUCLT has an independent right to license the intellectual property assets formerly held by AHC. Spacone v. Williamson, No. 05–16717 (9th Cir. filed Aug. 19, 2005).
+
+3
+
+35 U.S.C. § 261 provides that “applications for patent, patents, or any interest therein” are assignable “by an instrument in writing.” The patent statutes allow the instrument that assigns “any interest” to take the form of a patent license or any other written instrument that transfers patent rights. The type of written instrument (e.g., license or assignment agreement, dissolution agreement, or merger agreement) and the factual context in which the instrument is created is irrelevant—this does not provide a basis for divorcing the standing analysis from the patent statutes.
+
+4
+
+The suit against Microsoft was filed in October 2003, after the effective date of the liquidation plan.
+
+5
+
+Though there are three constitutional standing inquiries—injury in fact, traceability, and redressability, we only discuss injury in fact, which is dispositive of this case.
+
+6
+
+The all substantial rights inquiry is a proxy for the statutory requirement that a party bringing an infringement suit have the interests of a patentee, including the exclusionary rights granted by the patent statutes and other important incidental rights, such as the right to assign those rights or vindicate them through enforcement proceedings. See Sicom, 427 F.3d at 976; Prima Tek II, 222 F.3d at 1378–79; Vaupel Textilmaschinen KG v. Meccanica Euro Italia S.P.A., 944 F.2d 870, 875 (Fed.Cir.1991). The assignee becomes the “effective patentee.”
+
+7
+
+But in determining whether a party holds the exclusionary rights, we determine the substance of the rights conferred on that party, not to the characterization of those rights as exclusive licenses or otherwise. See Vaupel, 944 F.2d at 874–75. For instance, an exclusive licensee who actually holds all substantial rights may sue in its own name alone for patent infringement.
+
+8
+
+As this court has stated previously, a patent is a bundle of rights which may be retained in whole or in part, divided and assigned. Intellectual Prop. Dev., 248 F.3d at 1342 (citing Vaupel, 944 F.2d at 875); 35 U.S.C. § 261. While parties are free to assign some or all patent rights as they see fit based on their interests and objectives, this does not mean that the chosen method of division will satisfy standing requirements.
+
+1
+
+The majority’s extensive reliance on GUCLT’s inability to license the patent rests entirely on the district court’s interpretation of the parties’ agreements. As the majority notes, that issue is the subject of an appeal currently pending before the Ninth Circuit. An unsettled issue playing such a central role in the present case demands independent analysis, which the majority opinion lacks.
+
+
+End of Document
+
+© 2017 Thomson Reuters. No claim to original U.S. Government Works.
+
+
