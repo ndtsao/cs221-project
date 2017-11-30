@@ -104,6 +104,26 @@ def word_pair_correl(texts):
                 for counts in word_counts])) / (count1 * count2)
     return result
 
+def skip_gram(text, window_size=5):
+    """
+    Creates a context matrix
+    @param string text
+    @param int window_size: context = words within distance |window_size| from
+    target word
+    @return dictionary of dictionaries with counts
+    """
+    result = collections.defaultdict(int)
+    words = text.split(' ')
+    for (idx, word) in enumerate(words):
+        if word not in result:
+            result[word] = collections.defaultdict(int)
+        left_lim = max(0, idx - window_size)
+        right_lim = min(len(words) - 1, idx + window_size)
+        for i in range(left_lim, right_lim):
+            if i != idx:
+                result[word][words[i]] += 1
+    return result
+
 def loadArticles(csvPath, headlineCol, articleCol, dateCol, delSC = True,
         rnw = False):
     """
