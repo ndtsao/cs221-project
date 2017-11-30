@@ -1,9 +1,10 @@
 """ Useful helper functions """
-import re
+# import re
 import csv
 # import string
 import collections
-from nltk.corpus import stopwords
+import random
+# from nltk.corpus import stopwords
 import nltk
 # from nltk.corpus import wordnet
 # from nltk.tokenize import sent_tokenize, word_tokenize
@@ -55,20 +56,20 @@ def remove_non_words(text):
     filtered_words = [word for word in words if word in wordlist]
     return ' '.join(filtered_words)
 
-def remove_stop_words(text):
-    """
-    Remove stop words from a string.
-    @param string x
-    @return string x with stop words removed
-    Example: 'The United States' --> {'United': 1, 'States': 1}
-    """
-    stop_words = set(stopwords.words('english'))
-    words = list(text.split())
-
-    for stop_word in stop_words:
-        words = [word for word in words if word != stop_word]
-
-    return ' '.join(words)
+# def remove_stop_words(text):
+#     """
+#     Remove stop words from a string.
+#     @param string x
+#     @return string x with stop words removed
+#     Example: 'The United States' --> {'United': 1, 'States': 1}
+#     """
+#     stop_words = set(stopwords.words('english'))
+#     words = list(text.split())
+#
+#     for stop_word in stop_words:
+#         words = [word for word in words if word != stop_word]
+#
+#     return ' '.join(words)
 
 def normalize(vec):
     """
@@ -104,59 +105,35 @@ def word_pair_correl(texts):
                     for counts in word_counts])) / (count1 * count2)
     return result
 
-def load_articles(csv_path, cols, del_special_chars=True, rem_non_words=False):
+def load(csv_path, cols, sample_prob=1.0):
+    # , del_special_chars=True, rem_non_words=False,):
     """
     Load all articles from a given file
+    @param string csv_path: path to file
+    @param list cols: columns of csv file to read
+    @param bool del_special_chars: delete special characters from text
+    @param bool rem_non_words: remove typos from text
+    @return list: each component is the list of values of a particular column
     """
-    articles = []
-    summaries = []
-    topics = []
-    topic_col, summary_col, article_col = cols
-
     with open(csv_path, 'rU') as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
         next(reader, None) # skip the header
 
         counter = 0
-
+        result = [[] for _ in cols]
         for row in reader:
-
             if counter % 100 == 0:
                 print counter
-
-            # kill all non-unicode articles (foreign language -- may want better
-            # way to deal with this in the future)
-            try:
-                article = row[article_col]
-                article = article.decode('utf-8', 'ignore')
-
-                # tokenize the article
-                # article = sent_tokenize(article)
-
-                # delete numbers
-                if del_special_chars:
-                    article = re.sub('[^a-zA-Z-_* ]', '', article)
-                    # chars_to_remove = '1234567890'
-                    # table = {ord(char): None for char in chars_to_remove}
-                    # article = article.translate(table).encode('ascii', 'ignore')
-                    # article = [a.translate(table).encode('ascii', 'ignore')
-                    #         for a in article]
-
-                if rem_non_words:
-                    article = remove_non_words(article)
-                    # article = [remove_non_words(a) for a in article]
-
-                # temp
-                articles.append(article)
-                summaries.append(row[summary_col])
-                topics.append(row[topic_col])
-                # articles.extend(article)
-                # for i in range(len(article)):
-                #     summaries.append(row[summary_col])
-                #     topics.append(row[topic_col])
-
-            except UnicodeError:
-                print "non-unicode article"
             counter += 1
+            if random.random() > sample_prob:
+                continue
 
-    return (topics, summaries, articles)
+            for (col_idx, col) in enumerate(cols):
+                val = row[col]
+                # if del_special_chars:
+                #     val = re.sub('[^a-zA-Z-_* ]', '', val)
+                # if rem_non_words:
+                #     val = remove_non_words(val)
+                result[col_idx].append(val)
+
+    return result
