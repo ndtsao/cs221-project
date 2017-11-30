@@ -1,12 +1,14 @@
 """ Useful helper functions """
-import re
+# import re
 import csv
-import string
+# import string
 import collections
-from nltk.corpus import stopwords
+import random
+# from nltk.corpus import stopwords
 import nltk
-from nltk.corpus import wordnet
-from nltk.tokenize import sent_tokenize, word_tokenize
+# from nltk.corpus import wordnet
+# from nltk.tokenize import sent_tokenize, word_tokenize
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 def dot_product(vec1, vec2):
     """
@@ -42,33 +44,33 @@ def word_count(text):
         result[word] += 1
     return result
 
-def removeNonWords(x):
+def remove_non_words(text):
     """
     Remove words that are not in the (English) dictionary
     @param string x
     @return string x with non-English words removed
     Example: 'The Unitedd States' --> 'The States'
     """
-    myString = list(x.split())
+    words = list(text.split())
     wordlist = [w for w in nltk.corpus.words.words('en') if w.islower()]
 
-    filtered_words = [word for word in myString if word in wordlist]
+    filtered_words = [word for word in words if word in wordlist]
     return ' '.join(filtered_words)
 
-def removeStopWordsString(x):
-    """
-    Remove stop words from a string.
-    @param string x
-    @return string x with stop words removed
-    Example: 'The United States' --> {'United': 1, 'States': 1}
-    """
-    stop_words = set(stopwords.words('english'))
-    l = list(x.split())
-
-    for stop_word in stop_words:
-        l = [word for word in l if word != stop_word]
-
-    return ' '.join(l)
+# def remove_stop_words(text):
+#     """
+#     Remove stop words from a string.
+#     @param string x
+#     @return string x with stop words removed
+#     Example: 'The United States' --> {'United': 1, 'States': 1}
+#     """
+#     stop_words = set(stopwords.words('english'))
+#     words = list(text.split())
+#
+#     for stop_word in stop_words:
+#         words = [word for word in words if word != stop_word]
+#
+#     return ' '.join(words)
 
 def normalize(vec):
     """
@@ -100,83 +102,52 @@ def word_pair_correl(texts):
     for (idx1, (word1, count1)) in enumerate(all_word_counts.items()):
         for idx2 in range(idx1 + 1, len(all_word_counts.items())):
             word2, count2 = all_word_counts.items()[idx2]
-            result[(word1, word2)] = float(sum([counts[word1] * counts[word2]
-                for counts in word_counts])) / (count1 * count2)
+            result[(word1, word2)] = float(sum([counts[word1] * counts[word2] \
+                    for counts in word_counts])) / (count1 * count2)
     return result
 
-def skip_gram(text, window_size=5):
+def ngram_features(corpus, n_grams):
     """
-    Creates a context matrix
-    @param string text
-    @param int window_size: context = words within distance |window_size| from
-    target word
-    @return dictionary of dictionaries with counts
+    @param list corpus: list of text documents
+    @return [list, nparray]: first element is list of features, second element
+    is feature vector for each document
     """
-    result = collections.defaultdict(int)
-    words = text.split(' ')
-    for (idx, word) in enumerate(words):
-        if word not in result:
-            result[word] = collections.defaultdict(int)
-        left_lim = max(0, idx - window_size)
-        right_lim = min(len(words) - 1, idx + window_size)
-        for i in range(left_lim, right_lim):
-            if i != idx:
-                result[word][words[i]] += 1
-    return result
+    # vectorizer = CountVectorizer()
+    # counts = vectorizer.fit_transform(corpus)
+    tfidf_vectorizer = TfidfVectorizer(smooth_idf=False, \
+            ngram_range=(1, n_grams))
+    feature_vectors = tfidf_vectorizer.fit_transform(corpus)
+    return tfidf_vectorizer.get_feature_names(), feature_vectors.toarray()
 
-def loadArticles(csvPath, headlineCol, articleCol, dateCol, delSC = True,
-        rnw = False):
+def load(csv_path, cols, sample_prob=1.0):
+    # , del_special_chars=True, rem_non_words=False,):
     """
     Load all articles from a given file
+    @param string csv_path: path to file
+    @param list cols: columns of csv file to read
+    @param bool del_special_chars: delete special characters from text
+    @param bool rem_non_words: remove typos from text
+    @return list: each component is the list of values of a particular column
     """
-    articles = []
-    headlines = []
-    dates = []
-
-    with open(csvPath, 'rU') as f:
-        reader = csv.reader(f, delimiter=',')
+    with open(csv_path, 'rU') as csv_file:
+        reader = csv.reader(csv_file, delimiter=',')
         next(reader, None) # skip the header
 
         counter = 0
-
+        result = [[] for _ in cols]
         for row in reader:
-
             if counter % 100 == 0:
                 print counter
-
-            # kill all non-unicode articles (foreign language -- may want better
-            # way to deal with this in the future)
-            try:
-                article = row[articleCol]
-                article = article.decode('utf-8', 'ignore')
-
-                # tokenize the article
-                # article = sent_tokenize(article)
-
-                # delete numbers
-                if delSC:
-                    article = re.sub('[^a-zA-Z-_* ]', '', article)
-                    # chars_to_remove = '1234567890'
-                    # table = {ord(char): None for char in chars_to_remove}
-                    # article = article.translate(table).encode('ascii', 'ignore')
-                    # article = [a.translate(table).encode('ascii', 'ignore')
-                    #         for a in article]
-
-                if rnw:
-                    article = removeNonWords(article)
-                    # article = [removeNonWords(a) for a in article]
-
-                # temp
-                articles.append(article)
-                headlines.append(row[headlineCol])
-                dates.append(row[dateCol])
-                # articles.extend(article)
-                # for i in range(len(article)):
-                #     headlines.append(row[headlineCol])
-                #     dates.append(row[dateCol])
-
-            except UnicodeError:
-                print "non-unicode article"
             counter += 1
+            if random.random() > sample_prob:
+                continue
 
-    return (articles, headlines, dates)
+            for (col_idx, col) in enumerate(cols):
+                val = row[col]
+                # if del_special_chars:
+                #     val = re.sub('[^a-zA-Z-_* ]', '', val)
+                # if rem_non_words:
+                #     val = remove_non_words(val)
+                result[col_idx].append(val)
+
+    return result
