@@ -8,6 +8,7 @@ import random
 import nltk
 # from nltk.corpus import wordnet
 # from nltk.tokenize import sent_tokenize, word_tokenize
+from sklearn.feature_extraction.text import TfidfVectorizer
 
 def dot_product(vec1, vec2):
     """
@@ -104,6 +105,19 @@ def word_pair_correl(texts):
             result[(word1, word2)] = float(sum([counts[word1] * counts[word2] \
                     for counts in word_counts])) / (count1 * count2)
     return result
+
+def ngram_features(corpus, n_grams):
+    """
+    @param list corpus: list of text documents
+    @return [list, nparray]: first element is list of features, second element
+    is feature vector for each document
+    """
+    # vectorizer = CountVectorizer()
+    # counts = vectorizer.fit_transform(corpus)
+    tfidf_vectorizer = TfidfVectorizer(smooth_idf=False, \
+            ngram_range=(1, n_grams))
+    feature_vectors = tfidf_vectorizer.fit_transform(corpus)
+    return tfidf_vectorizer.get_feature_names(), feature_vectors.toarray()
 
 def load(csv_path, cols, sample_prob=1.0):
     # , del_special_chars=True, rem_non_words=False,):
