@@ -124,7 +124,8 @@ def load(csv_path, cols, sample_prob=1.0):
     """
     Load all articles from a given file
     @param string csv_path: path to file
-    @param list cols: columns of csv file to read
+    @param list cols: columns of csv file to read. If empty, then the function
+    will read all columns
     @param bool del_special_chars: delete special characters from text
     @param bool rem_non_words: remove typos from text
     @return list: each component is the list of values of a particular column
@@ -132,6 +133,8 @@ def load(csv_path, cols, sample_prob=1.0):
     with open(csv_path, 'rU') as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
         next(reader, None) # skip the header
+        if len(cols) == 0:
+            cols = range(len(reader[0]))
 
         counter = 0
         result = [[] for _ in cols]
@@ -151,3 +154,20 @@ def load(csv_path, cols, sample_prob=1.0):
                 result[col_idx].append(val)
 
     return result
+
+def clean_data(input_path, output_path, flags):
+    """
+    Reads a dataset from a csv file and outputs a clean version of it
+    @param string input_path: path to source file
+    @param string output_path: path to output file
+    @param dict flags: cleaning options
+    Options are indexed by the following:
+        "Special Chars": list of columns for which the function should remove
+        all non-alphanumeric characters
+        "Top Wines": percentage value |p| indicating how many rows we keep. The
+        function will remove the least common wines from the dataset without
+        removing more than a 1 - |p| fraction of rows.
+    """
+    raw_data = load(input_path, [], sample_prob=1.0)
+
+    return
