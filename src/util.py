@@ -1,5 +1,5 @@
 """ Useful helper functions """
-# import re
+import re
 import csv
 # import string
 import collections
@@ -132,9 +132,9 @@ def load(csv_path, cols, sample_prob=1.0):
     """
     with open(csv_path, 'rU') as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
-        next(reader, None) # skip the header
+        header = next(reader, None) # skip the header
         if len(cols) == 0:
-            cols = range(len(reader[0]))
+            cols = range(len(header))
 
         counter = 0
         result = [[] for _ in cols]
@@ -153,7 +153,7 @@ def load(csv_path, cols, sample_prob=1.0):
                 #     val = remove_non_words(val)
                 result[col_idx].append(val)
 
-    return result
+    return result, header
 
 def clean_data(input_path, output_path, flags):
     """
@@ -164,10 +164,22 @@ def clean_data(input_path, output_path, flags):
     Options are indexed by the following:
         "Special Chars": list of columns for which the function should remove
         all non-alphanumeric characters
-        "Top Wines": percentage value |p| indicating how many rows we keep. The
-        function will remove the least common wines from the dataset without
-        removing more than a 1 - |p| fraction of rows.
+        "Top Wines": list of the wine varietals that we want to keep
     """
-    raw_data = load(input_path, [], sample_prob=1.0)
+    raw_data, header = load(input_path, [], sample_prob=1.0)
+    varietal_col = 12
 
-    return
+    with open(output_path, 'a') as csv_file:
+        writer = csv.writer(csv_file)
+        # no headers in raw data
+        writer.writerow(header)
+        for row in zip(*raw_data):
+            row = list(row)
+            if "Top Wines" in flags and row[varietal_col] not in \
+                    flags["Top Wines"]:
+                continue
+            for (idx, col) in enumerate(row):
+                if "Special Chars" in flags and idx in \
+                        flags["Special Chars"]:
+                    row[idx] = re.sub('[^a-zA-Z0-9-_*.\' ]', '', col)
+            writer.writerow(row)
