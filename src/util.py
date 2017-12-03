@@ -4,11 +4,14 @@ import csv
 # import string
 import collections
 import random
-# from nltk.corpus import stopwords
+from nltk.corpus import stopwords
 import nltk
 # from nltk.corpus import wordnet
 # from nltk.tokenize import sent_tokenize, word_tokenize
+from sklearn.decomposition import TruncatedSVD
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.pipeline import make_pipeline
+from sklearn.preprocessing import Normalizer
 
 def dot_product(vec1, vec2):
     """
@@ -57,20 +60,20 @@ def remove_non_words(text):
     filtered_words = [word for word in words if word in wordlist]
     return ' '.join(filtered_words)
 
-# def remove_stop_words(text):
-#     """
-#     Remove stop words from a string.
-#     @param string x
-#     @return string x with stop words removed
-#     Example: 'The United States' --> {'United': 1, 'States': 1}
-#     """
-#     stop_words = set(stopwords.words('english'))
-#     words = list(text.split())
-#
-#     for stop_word in stop_words:
-#         words = [word for word in words if word != stop_word]
-#
-#     return ' '.join(words)
+def remove_stop_words(text):
+    """
+    Remove stop words from a string.
+    @param string x
+    @return string x with stop words removed
+    Example: 'The United States' --> {'United': 1, 'States': 1}
+    """
+    stop_words = set(stopwords.words('english'))
+    words = list(text.split())
+
+    for stop_word in stop_words:
+        words = [word for word in words if word != stop_word]
+
+    return ' '.join(words)
 
 def normalize(vec):
     """
@@ -85,6 +88,11 @@ def normalize(vec):
     for key, value in vec.items():
         norm_vector[key] = float(value) / norm_constant
     return norm_vector
+
+# def svd_reduction(data, pct, full_svd=False):
+#     U, S, V = np.linalg.svd(data)
+#     threshold = pct * sum(S)
+#     partial_sum = 0
 
 def word_pair_correl(texts):
     """
@@ -106,7 +114,7 @@ def word_pair_correl(texts):
                     for counts in word_counts])) / (count1 * count2)
     return result
 
-def ngram_features(corpus, n_grams):
+def ngram_features(corpus, n_grams, n_features):
     """
     @param list corpus: list of text documents
     @return [list, nparray]: first element is list of features, second element
@@ -115,19 +123,24 @@ def ngram_features(corpus, n_grams):
     # vectorizer = CountVectorizer()
     # counts = vectorizer.fit_transform(corpus)
     tfidf_vectorizer = TfidfVectorizer(smooth_idf=False, \
-            ngram_range=(1, n_grams))
+            ngram_range=(1, n_grams), stop_words='english')
     feature_vectors = tfidf_vectorizer.fit_transform(corpus)
-    return tfidf_vectorizer.get_feature_names(), feature_vectors.toarray()
+    # return tfidf_vectorizer.get_feature_names(), feature_vectors.toarray()
+    svd = TruncatedSVD(n_features)
+    normalizer = Normalizer(copy=False)
+    lsa = make_pipeline(svd, normalizer)
+    feature_vectors = lsa.fit_transform(feature_vectors)
+    return 0, feature_vectors
 
-def load(csv_path, cols, sample_prob=1.0):
+def load(csv_path, cols, sample=1.0):
     # , del_special_chars=True, rem_non_words=False,):
     """
     Load all articles from a given file
     @param string csv_path: path to file
     @param list cols: columns of csv file to read. If empty, then the function
-    will read all columns
-    @param bool del_special_chars: delete special characters from text
-    @param bool rem_non_words: remove typos from text
+        will read all columns
+    @param sample: either a number between 0 and 1 to indicate a probability, or
+        a list of rows to read
     @return list: each component is the list of values of a particular column
     """
     with open(csv_path, 'rU') as csv_file:
@@ -136,14 +149,18 @@ def load(csv_path, cols, sample_prob=1.0):
         if len(cols) == 0:
             cols = range(len(header))
 
-        counter = 0
+        # counter = 0
         result = [[] for _ in cols]
-        for row in reader:
-            if counter % 100 == 0:
-                print counter
-            counter += 1
-            if random.random() > sample_prob:
-                continue
+        for (row_idx, row) in enumerate(reader):
+            # if counter % 100 == 0:
+            #     print counter
+            # counter += 1
+            if isinstance(sample, float):
+                if random.random() > sample:
+                    continue
+            else:
+                if row_idx not in sample:
+                    continue
 
             for (col_idx, col) in enumerate(cols):
                 val = row[col]
@@ -166,14 +183,18 @@ def clean_data(input_path, output_path, flags):
         all non-alphanumeric characters
         "Top Wines": list of the wine varietals that we want to keep
     """
-    raw_data, header = load(input_path, [], sample_prob=1.0)
+    raw_data, header = load(input_path, [], sample=1.0)
     varietal_col = 12
 
     with open(output_path, 'a') as csv_file:
         writer = csv.writer(csv_file)
         # no headers in raw data
         writer.writerow(header)
+        counter = 0
         for row in zip(*raw_data):
+            if counter % 100 == 0:
+                print counter
+            counter += 1
             row = list(row)
             if "Top Wines" in flags and row[varietal_col] not in \
                     flags["Top Wines"]:
@@ -181,5 +202,6 @@ def clean_data(input_path, output_path, flags):
             for (idx, col) in enumerate(row):
                 if "Special Chars" in flags and idx in \
                         flags["Special Chars"]:
-                    row[idx] = re.sub('[^a-zA-Z0-9-_*.\' ]', '', col)
+                    col = re.sub('[^a-zA-Z0-9-_*.\' ]', '', col)
+                    row[idx] = remove_stop_words(col)
             writer.writerow(row)
