@@ -59,7 +59,7 @@ def learnPredictor(trainExamples, testExamples, featureExtractor, numIters, eta)
         else:
             update = {}
             for k, v in feature.items():
-                update[k] = 2 * (feature - y)
+                update[k] = 2 * (feature * weights[k] - y)
 
             return update
 
