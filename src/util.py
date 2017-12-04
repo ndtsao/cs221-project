@@ -132,6 +132,22 @@ def ngram_features(corpus, n_grams, n_features):
     feature_vectors = lsa.fit_transform(feature_vectors)
     return 0, feature_vectors
 
+def predict_values(model, x_train, y_train, x_test, y_test):
+    """
+    Fits a model to training data and outputs on a test set
+    @param function model
+    @params matrices x_train, x_test
+    @params vectors y_train, y_test
+    @param args: other arguments for the model
+    """
+    fit = model.fit(x_train, y_train)
+    predicted = model.predict(x_test)
+    path = "../files/output/prediction.csv"
+    with open(path, 'a') as csv_file:
+        writer = csv.writer(csv_file)
+        for (data_y, fit) in zip(y_test, predicted):
+            writer.writerow([data_y, fit])
+
 def load(csv_path, cols, sample=1.0):
     # , del_special_chars=True, rem_non_words=False,):
     """
@@ -180,10 +196,13 @@ def clean_data(input_path, output_path, flags):
     @param dict flags: cleaning options
     Options are indexed by the following:
         "Special Chars": list of columns for which the function should remove
-        all non-alphanumeric characters
+            all non-alphanumeric characters
         "Top Wines": list of the wine varietals that we want to keep
+        "Name in Review": if True, then remove instances where the name of the
+            grape appears in the review (should make the prediction harder)
     """
     raw_data, header = load(input_path, [], sample=1.0)
+    desc_col = 2
     varietal_col = 12
 
     with open(output_path, 'a') as csv_file:
@@ -199,6 +218,9 @@ def clean_data(input_path, output_path, flags):
             if "Top Wines" in flags and row[varietal_col] not in \
                     flags["Top Wines"]:
                 continue
+            if "Name in Review" in flags and flags["Name in Review"]:
+                if row[desc_col].find(row[varietal_col]) >= 0:
+                    continue
             for (idx, col) in enumerate(row):
                 if "Special Chars" in flags and idx in \
                         flags["Special Chars"]:
