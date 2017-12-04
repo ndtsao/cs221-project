@@ -15,7 +15,7 @@ from scipy.stats.kde import gaussian_kde
 
 
 # Load data
-reviews, header = load("wine_cleaned_google-2.csv", [14, 15, 4, 5])
+reviews, header = load("wine_cleaned_google-final.csv", [14, 15, 4, 5])
 
 sentiment = reviews[0]
 magnitude = reviews[1]
