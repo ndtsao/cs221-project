@@ -4,6 +4,8 @@ import random
 import collections
 import math
 import sys
+import util_sentiment
+import util_load
 
 ############################################################
 # Problem 3a: feature extraction
@@ -51,13 +53,13 @@ def learnPredictor(trainExamples, testExamples, featureExtractor, numIters, eta)
     def gradient(weights, feature, y):
         if len(feature) == 0:
             return 0
-        dP = dotProduct(feature, weights) * y
-        if dP >= 1:
+        loss = (dotProduct(feature, weights) - y) ** 2
+        if loss == 0:
             return -1
         else:
             update = {}
             for k, v in feature.items():
-                update[k] = -1 * v * y
+                update[k] = 2 * (feature - y)
 
             return update
 
@@ -71,7 +73,7 @@ def learnPredictor(trainExamples, testExamples, featureExtractor, numIters, eta)
             feature = featureExtractor(x)
             update = gradient(weights, feature, y)
             if update != -1:
-                increment(weights, -stepSize, update)
+                increment(weights, stepSize, update)
 
      
     # END_YOUR_CODE
@@ -132,3 +134,7 @@ def extractCharacterFeatures(n):
         return features
         # END_YOUR_CODE
     return extract
+
+
+reviews = load(IMPORT_PATH, IMPORT_COLS)
+
