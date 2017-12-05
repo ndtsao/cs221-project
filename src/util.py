@@ -89,11 +89,6 @@ def normalize(vec):
         norm_vector[key] = float(value) / norm_constant
     return norm_vector
 
-# def svd_reduction(data, pct, full_svd=False):
-#     U, S, V = np.linalg.svd(data)
-#     threshold = pct * sum(S)
-#     partial_sum = 0
-
 def word_pair_correl(texts):
     """
     Creates a table with correlation scores between every pair of words
@@ -120,12 +115,9 @@ def ngram_features(corpus, n_grams, n_features):
     @return [list, nparray]: first element is list of features, second element
     is feature vector for each document
     """
-    # vectorizer = CountVectorizer()
-    # counts = vectorizer.fit_transform(corpus)
     tfidf_vectorizer = TfidfVectorizer(smooth_idf=False, \
             ngram_range=(1, n_grams), stop_words='english')
     feature_vectors = tfidf_vectorizer.fit_transform(corpus)
-    # return tfidf_vectorizer.get_feature_names(), feature_vectors.toarray()
     svd = TruncatedSVD(n_features)
     normalizer = Normalizer(copy=False)
     lsa = make_pipeline(svd, normalizer)
@@ -149,7 +141,6 @@ def predict_values(model, x_train, y_train, x_test, y_test):
             writer.writerow([data_y, fit])
 
 def load(csv_path, cols, sample=1.0):
-    # , del_special_chars=True, rem_non_words=False,):
     """
     Load all articles from a given file
     @param string csv_path: path to file
