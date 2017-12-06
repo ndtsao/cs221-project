@@ -44,6 +44,8 @@ def word_count(text):
     result = collections.defaultdict(int)
     words = text.split(' ')
     for word in words:
+        word = word.lower()
+        word = re.sub('[^a-zA-Z-_*]', '', word)
         result[word] += 1
     return result
 
@@ -132,13 +134,32 @@ def predict_values(model, x_train, y_train, x_test, y_test):
     @params vectors y_train, y_test
     @param args: other arguments for the model
     """
+    assert len(x_train) == len(y_train)
+    assert len(x_test) == len(y_test)
     fit = model.fit(x_train, y_train)
     predicted = model.predict(x_test)
-    path = "../files/output/prediction.csv"
+    path = "../files/output/price_prediction.csv"
     with open(path, 'a') as csv_file:
         writer = csv.writer(csv_file)
         for (data_y, fit) in zip(y_test, predicted):
             writer.writerow([data_y, fit])
+
+def aggregate(data_path, col, output_path):
+    """
+    Aggregates a column of a csv file
+    @param string data_path: path to input csv file
+    @param int col: column number, assumed to be smaller than the number of
+        columns in the input file
+    @param string output_path: path to write to
+    """
+    data = load(data_path, [col])[0][0]
+    table = collections.defaultdict(int)
+    for val in data:
+        table[val] += 1
+    with open(output_path, 'a') as output_file:
+        writer = csv.writer(output_file)
+        for (count, val) in table.items():
+            writer.writerow([count, val])
 
 def load(csv_path, cols, sample=1.0):
     """
@@ -191,9 +212,13 @@ def clean_data(input_path, output_path, flags):
         "Top Wines": list of the wine varietals that we want to keep
         "Name in Review": if True, then remove instances where the name of the
             grape appears in the review (should make the prediction harder)
+        "Country": if True, then remove rows without a country
+        "Price": if True, then remove rows without a price
     """
     raw_data, header = load(input_path, [], sample=1.0)
+    country_col = 1
     desc_col = 2
+    price_col = 5
     varietal_col = 12
 
     with open(output_path, 'a') as csv_file:
@@ -202,9 +227,6 @@ def clean_data(input_path, output_path, flags):
         writer.writerow(header)
         counter = 0
         for row in zip(*raw_data):
-            if counter % 100 == 0:
-                print counter
-            counter += 1
             row = list(row)
             if "Top Wines" in flags and row[varietal_col] not in \
                     flags["Top Wines"]:
@@ -212,9 +234,18 @@ def clean_data(input_path, output_path, flags):
             if "Name in Review" in flags and flags["Name in Review"]:
                 if row[desc_col].find(row[varietal_col]) >= 0:
                     continue
+            if "Country" in flags and flags["Country"]:
+                if row[country_col] == '':
+                    continue
+            if "Price" in flags and flags["Price"]:
+                if row[price_col] == '':
+                    continue
             for (idx, col) in enumerate(row):
                 if "Special Chars" in flags and idx in \
                         flags["Special Chars"]:
                     col = re.sub('[^a-zA-Z0-9-_*.\' ]', '', col)
                     row[idx] = remove_stop_words(col)
+            if counter % 100 == 0:
+                print counter
+            counter += 1
             writer.writerow(row)
