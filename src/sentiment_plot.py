@@ -34,17 +34,17 @@ for i in range(len(sentiment) - 1, -1, -1):
 '''
 OPTIONS: Change what you want to plot here!!! ###
 '''
-X = price
+X = sentiment
 Y = points
-xlabel = "price"
-ylabel = "points"
-title = ""
+xlabel = "Review Sentiment"
+ylabel = "Score (Points)"
+title = "Score (Points) v. Review Sentiment"
 
 # Plot dimensions
 alt_minmax = True # Set True to use new xmin/xmax and ymin/ymax as plot dimensions
-xmin = 0
-xmax = 100
-ymin = 75
+xmin = -1
+xmax = 1
+ymin = 80
 ymax = 100
 '''
 END OPTIONS
