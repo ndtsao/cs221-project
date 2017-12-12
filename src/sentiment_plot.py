@@ -2,9 +2,9 @@
 
 import argparse
 import csv
-from utilload import load
-from utilload import clean_data
-from examples import clean_example
+from util_load import load
+from util_load import clean_data
+# from examples import clean_example
 
 import numpy as np
 import matplotlib
