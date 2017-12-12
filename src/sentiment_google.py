@@ -5,20 +5,16 @@ import argparse
 from google.cloud import language
 from google.cloud.language import enums
 from google.cloud.language import types
-
 from util_load import load
 from util_load import clean_data
-
 from examples import clean_example
 
 import csv
-
 import numpy as np
 import matplotlib
 matplotlib.use('tkagg')    # For some reason this line is required to make pyplot work
 import matplotlib.pyplot as plt
 from scipy.stats.kde import gaussian_kde
-# from util import *
 
 # Import options
 INPUT_PATH = "../files/Wine/wine_clean-2 copy.csv"
