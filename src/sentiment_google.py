@@ -96,22 +96,3 @@ def google_analyze(reviews, output_path, header):
 reviews, header = load(INPUT_PATH, INPUT_COLS)
 google_annotations = google_analyze(reviews, OUTPUT_PATH, header)
 
-
-
-
-
-
-
-
-'''
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser(
-        description=__doc__,
-        formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument(
-        'movie_review_filename',
-        help='The filename of the movie review you\'d like to analyze.')
-    args = parser.parse_args()
-
-    analyze(args.movie_review_filename)
-'''
