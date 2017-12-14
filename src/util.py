@@ -12,6 +12,7 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import Normalizer
+from scipy.special import comb
 
 def dot_product(vec1, vec2):
     """
@@ -48,6 +49,75 @@ def word_count(text):
         word = re.sub('[^a-zA-Z-_*]', '', word)
         result[word] += 1
     return result
+
+def word_bag_probability(document, corpus):
+    """
+    Probability of a document using the bag-of-words model
+    @param string document: text to be classified
+    @param list corpus: list of training documents
+    @returns float: probability of getting the words in the document
+    """
+    all_text = ' '.join(corpus)
+    normalized_corpus = normalize(word_count(all_text))
+    document_counts = word_count(document)
+    prob = 1.0
+    num_words = len(document.split(' '))
+    for word, count in document_counts.items():
+        if word in normalized_corpus:
+            prob *= (normalized_corpus[word])**count
+            prob *= comb(num_words, count)
+        num_words -= count
+    return prob
+
+def corpus_from_training(training_set):
+    """
+    Splits training data into different corpora
+    @param list training_set: (document, response) pairs
+    @returns dict probs: mapping from response to distribution on words
+    """
+    filtered_training_set = dict()
+    for doc, response in training_set:
+        corpus = filtered_training_set.get(response, [])
+        corpus.append(doc)
+        filtered_training_set[response] = corpus
+    return filtered_training_set
+
+def naive_bayes(filtered_training_set, prior, test_document):
+    """
+    Multinomial Naive Bayes classifier
+    @param dict filtered_training_set: list of (document, response) pairs,
+        arranged in a dictionary indexed by response
+    @param dict prior: mapping from response to prior distribution
+    @param string test_document: unclassified document
+    @returns string test_repsonse
+    """
+    probs = [word_bag_probability(test_document, corpus) * prior[response] \
+            for response, corpus in filtered_training_set.items()]
+    max_idx = max([(prob, idx) for (idx, prob) in enumerate(probs)])[1]
+    return filtered_training_set.keys()[max_idx]
+
+def error_naive_bayes(training_set, test_set):
+    """
+    Computes the test error of the Naive Bayes algorithm
+    @param list training_set: list of training (document, response) pairs
+    @param list test_set: list of test (document, response) pairs
+    @returns float pct: percentage of correct classifications on the test set
+    """
+    filtered_training_set = corpus_from_training(training_set)
+
+    # prior distribution
+    prior = dict()
+    for response, corpus in filtered_training_set.items():
+        prior[response] = len(corpus)
+    num_correct = 0
+    counter = 0
+    for document, response in test_set:
+        counter += 1
+        print counter
+        prediction = naive_bayes(filtered_training_set, prior, document)
+        if prediction == response:
+            num_correct += 1
+    return float(num_correct)/len(test_set)
 
 def remove_non_words(text):
     """

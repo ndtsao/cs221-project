@@ -33,8 +33,8 @@ def cross_val(model, features, response, folds=5):
     """
     cross-validation wrapper
     """
-    scores = cross_val_score(model, features, response, cv=folds,
-            scoring='mean_squared_error')
+    scores = cross_val_score(model, features, response, cv=folds)
+            # scoring='mean_squared_error')
     print "Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2)
 
 def main():
@@ -42,8 +42,26 @@ def main():
     main function
     """
     data_path = "../files/Wine/wine_cleaned_google-final.csv"
+    red_path = "../files/Wine/reds.csv"
+    white_path = "../files/Wine/whites.csv"
     data_clean = util.load(data_path, [1, 2, 4, 5, 12, 14], sample=1.0)[0]
+    red_wines = util.load(red_path, [])[0][0]
+    white_wines = util.load(white_path, [])[0][0]
+    filter_wines = white_wines
     [countries, reviews, ratings, prices, varietals, sentiments] = data_clean
+
+    # find all of the red wines
+    indices = range(len(varietals))
+    indices.reverse()
+    for idx in indices:
+        if varietals[idx] not in filter_wines:
+            del countries[idx]
+            del reviews[idx]
+            del ratings[idx]
+            del prices[idx]
+            del varietals[idx]
+            del sentiments[idx]
+
     # prices = [float(price) for price in prices]
     # ratings = [float(rating) for rating in ratings]
     # sentiments = [float(sentiment) for sentiment in sentiments]
@@ -52,20 +70,27 @@ def main():
     linear = LinearRegression()
 
     # Logistic regression parameters
-    # response = countries
+    # response = varietals
     # model = logistic
-    num_grams = 1
-    features = util.ngram_features(reviews, num_grams, 200)[1]
+    # num_grams = 1
+    # features = util.ngram_features(reviews, num_grams, 200)[1]
 
     # Linear regression parameters
-    response = ratings
-    model = linear
+    # response = ratings
+    # model = linear
     # features = [[sentiment] for sentiment in sentiments]
     # features = zip(sentiments, prices)
-    cross_val(model, features, response)
+
+    # Naive bayes parameters
+    response = varietals
+    features = reviews
+    x_train, x_test, y_train, y_test = train_test_split(features, response,
+            test_size=0.4, random_state=0)
+    error = util.error_naive_bayes(zip(x_train, y_train), zip(x_test, y_test))
+    print error
+
+    # cross_val(model, features, response)
     # model.fit(features, response)
-    # x_train, x_test, y_train, y_test = train_test_split(features, response,
-    #         test_size=0.4, random_state=0)
     # util.predict_values(model, x_train, y_train, x_test, y_test)
 
     # Other crap
