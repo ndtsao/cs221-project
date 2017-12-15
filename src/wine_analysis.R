@@ -7,11 +7,10 @@ mse = function(sm)
 results = read.csv("~/git/cs221-project/src/wine_cleaned_google-final.csv", header = TRUE, sep = ",", na.strings = c(""))
 results_backup = results
 results = results_backup
+
 # Remove wine reviews without a country
 country = results[,2]
 results = results[!is.na(country),]
-country = results[,2]
-results = results[!country == "Bramble and dried herbs pressed apple and peach notes blend elements of savory and sweet in this complex Sp_tlese. Shimmering lemon-lime acidity refreshes the midpalate leaving lingering tones of finely crushed mineral.",]
 
 # Remove wine reviews without a varietal
 variety = results[,13]
@@ -19,35 +18,61 @@ results = results[!is.na(variety),]
 
 # Remove wine reviews without a price
 price = results[,6]
-results = results[!is.na(as.numeric(as.character(price))),]
+# results = results[!is.na(as.numeric(as.character(price))),]
+results = results[!is.na(price),]
 
 # Remove wine reviews without a score
 score = results[,5]
-results = results[!is.na(as.numeric(as.character(score))),]
+# results = results[!is.na(as.numeric(as.character(score))),]
+results = results[!is.na(score),]
 
 # Segment data
 results_training = results[1:(length(results[,1]) / 4),]
 results_test = results[(length(results[,1]) / 4):length(results[,1]),]
 
-# Use these to run models
+# Use these for linear predictors
+sentiment = as.numeric(results[,15])
+score = as.numeric(results[,5])
+price = as.numeric(results[,6])
+variety = results[,13]
+country = results[,2]
+
+# Use these to train models
 sentiment_training = as.numeric(results_training[,15])
 score_training = as.numeric(results_training[,5])
 price_training = as.numeric(results_training[,6])
 variety_training = results_training[,13]
 country_training = results_training[,2]
 
+# Use these to test models
+sentiment_test = as.numeric(results_test[,15])
+score_test = as.numeric(results_test[,5])
+price_test = as.numeric(results_test[,6])
+variety_test = results_test[,13]
+country_test = results_test[,2]
+
 # Logit models
-# model <- glm(sentiment ~ variety,family=binomial(link='logit'))
-country_sentiment_price_model = multinom(country_training ~ sentiment_training + price_training)
-variety_sentiment_price_model = multinom(variety_training ~ sentiment_training + price_training)
-country_sentiment_model = multinom(country_training ~ sentiment_training)
-variety_sentiment_model = multinom(variety_training ~ sentiment_training)
+# Train models
+# country_sentiment_price_model = multinom(country_training ~ sentiment_training + price_training)
+country_sentiment_price_model = multinom(country ~ score + price, data = results_training, MaxNWts = 15000)
+# variety_sentiment_price_model = multinom(variety_training ~ sentiment_training + price_training)
+variety_sentiment_price_model = multinom(variety ~ score + price, data = results_training, MaxNWts = 20000)
+# country_sentiment_model = multinom(country_training ~ sentiment_training)
+country_sentiment_model = multinom(country ~ score, data = results_training, MaxNWts = 15000)
+# variety_sentiment_model = multinom(variety_training ~ sentiment_training)
+variety_sentiment_model = multinom(variety ~ score, data = results_training, MaxNWts = 15000)
 
 summary(country_sentiment_price_model)
 summary(variety_sentiment_price_model)
 summary(country_sentiment_model)
 summary(variety_sentiment_model)
-# ran up to here
+
+# Run logit models on test data
+predicted_country_sp = predict(country_sentiment_price_model, data = results_test, "probs")
+predicted_variety_sp = predict(variety_sentiment_price_model, data = results_test, "probs")
+predicted_country_s = predict(country_sentiment_model, data = results_test, "probs")
+predicted_variety_s = predict(country_sentiment_model, data = results_test, "probs")
+
 # Linear models
 score_v_sentiment = lm(score ~ sentiment)
 summary(score_v_sentiment)
