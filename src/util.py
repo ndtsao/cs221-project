@@ -112,11 +112,13 @@ def error_naive_bayes(training_set, test_set):
     num_correct = 0
     counter = 0
     for document, response in test_set:
-        counter += 1
-        print counter
         prediction = naive_bayes(filtered_training_set, prior, document)
         if prediction == response:
             num_correct += 1
+        counter += 1
+        running_success = float(num_correct) / counter
+        print "Success rate after %d/%d test samples: %4f" % \
+                (counter, len(test_set), running_success)
     return float(num_correct)/len(test_set)
 
 def remove_non_words(text):
