@@ -12,7 +12,6 @@ from sklearn.decomposition import TruncatedSVD
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.pipeline import make_pipeline
 from sklearn.preprocessing import Normalizer
-from scipy.special import comb
 
 def dot_product(vec1, vec2):
     """
@@ -23,8 +22,7 @@ def dot_product(vec1, vec2):
     """
     if len(vec1) < len(vec2):
         return dot_product(vec2, vec1)
-    else:
-        return sum(vec1.get(f, 0) * v for f, v in vec2.items())
+    return sum(vec1.get(f, 0) * v for f, v in vec2.items())
 
 def increment(vec1, scale, vec2):
     """
@@ -55,18 +53,18 @@ def word_bag_probability(document, corpus):
     Probability of a document using the bag-of-words model
     @param string document: text to be classified
     @param list corpus: list of training documents
-    @returns float: probability of getting the words in the document
+    @returns float: unnormalized probability of getting the words in the
+        document
     """
     all_text = ' '.join(corpus)
     normalized_corpus = normalize(word_count(all_text))
     document_counts = word_count(document)
     prob = 1.0
-    num_words = len(document.split(' '))
     for word, count in document_counts.items():
         if word in normalized_corpus:
             prob *= (normalized_corpus[word])**count
-            prob *= comb(num_words, count)
-        num_words -= count
+        else:
+            return 0
     return prob
 
 def corpus_from_training(training_set):
@@ -96,7 +94,7 @@ def naive_bayes(filtered_training_set, prior, test_document):
     max_idx = max([(prob, idx) for (idx, prob) in enumerate(probs)])[1]
     return filtered_training_set.keys()[max_idx]
 
-def error_naive_bayes(training_set, test_set):
+def error_naive_bayes(training_set, test_set, error_metric='accuracy'):
     """
     Computes the test error of the Naive Bayes algorithm
     @param list training_set: list of training (document, response) pairs
@@ -110,16 +108,26 @@ def error_naive_bayes(training_set, test_set):
     for response, corpus in filtered_training_set.items():
         prior[response] = len(corpus)
     num_correct = 0
+    squared_error = 0
     counter = 0
     for document, response in test_set:
-        prediction = naive_bayes(filtered_training_set, prior, document)
-        if prediction == response:
-            num_correct += 1
         counter += 1
-        running_success = float(num_correct) / counter
-        print "Success rate after %d/%d test samples: %4f" % \
-                (counter, len(test_set), running_success)
-    return float(num_correct)/len(test_set)
+        prediction = naive_bayes(filtered_training_set, prior, document)
+        print "Prediction: %s, Truth: %s" % (prediction, response)
+        if error_metric == 'accuracy':
+            if prediction == response:
+                num_correct += 1
+            running_success = float(num_correct) / counter
+            print "Success rate after %d/%d test samples: %4f" % \
+                    (counter, len(test_set), running_success)
+        elif error_metric == 'neg_mean_squared_error':
+            squared_error += (float(prediction) - response)**2
+            running_success = squared_error / counter
+            print "MSE after %d/%d test samples: %4f" % \
+                    (counter, len(test_set), running_success)
+    if error_metric == 'accuracy':
+        return float(num_correct) / counter
+    return squared_error / counter
 
 def remove_non_words(text):
     """
@@ -246,7 +254,7 @@ def load(csv_path, cols, sample=1.0):
     with open(csv_path, 'rU') as csv_file:
         reader = csv.reader(csv_file, delimiter=',')
         header = next(reader, None) # skip the header
-        if len(cols) == 0:
+        if not cols:
             cols = range(len(header))
 
         # counter = 0
