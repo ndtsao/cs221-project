@@ -6,10 +6,12 @@ mse = function(sm)
 # Read in results
 results = read.csv("~/git/cs221-project/src/wine_cleaned_google-final.csv", header = TRUE, sep = ",", na.strings = c(""))
 results_backup = results
-
+results = results_backup
 # Remove wine reviews without a country
 country = results[,2]
 results = results[!is.na(country),]
+country = results[,2]
+results = results[!country == "Bramble and dried herbs pressed apple and peach notes blend elements of savory and sweet in this complex Sp_tlese. Shimmering lemon-lime acidity refreshes the midpalate leaving lingering tones of finely crushed mineral.",]
 
 # Remove wine reviews without a varietal
 variety = results[,13]
@@ -23,20 +25,29 @@ results = results[!is.na(as.numeric(as.character(price))),]
 score = results[,5]
 results = results[!is.na(as.numeric(as.character(score))),]
 
+# Segment data
+results_training = results[1:(length(results[,1]) / 4),]
+results_test = results[(length(results[,1]) / 4):length(results[,1]),]
+
 # Use these to run models
-sentiment = as.numeric(results[,15])
-score = as.numeric(results[,5])
-price = as.numeric(results[,6])
-variety = results[,13]
-country = results[,2]
+sentiment_training = as.numeric(results_training[,15])
+score_training = as.numeric(results_training[,5])
+price_training = as.numeric(results_training[,6])
+variety_training = results_training[,13]
+country_training = results_training[,2]
 
 # Logit models
 # model <- glm(sentiment ~ variety,family=binomial(link='logit'))
+country_sentiment_price_model = multinom(country_training ~ sentiment_training + price_training)
+variety_sentiment_price_model = multinom(variety_training ~ sentiment_training + price_training)
+country_sentiment_model = multinom(country_training ~ sentiment_training)
+variety_sentiment_model = multinom(variety_training ~ sentiment_training)
 
-
-
-
-
+summary(country_sentiment_price_model)
+summary(variety_sentiment_price_model)
+summary(country_sentiment_model)
+summary(variety_sentiment_model)
+# ran up to here
 # Linear models
 score_v_sentiment = lm(score ~ sentiment)
 summary(score_v_sentiment)
