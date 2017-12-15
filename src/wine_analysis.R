@@ -1,3 +1,5 @@
+require(nnet)
+
 mse = function(sm)
     mean(sm$residuals^2)
 
@@ -28,9 +30,14 @@ price = as.numeric(results[,6])
 variety = results[,13]
 country = results[,2]
 
-model <- glm(sentiment ~ variety,family=binomial(link='logit'))
+# Logit models
+# model <- glm(sentiment ~ variety,family=binomial(link='logit'))
 
 
+
+
+
+# Linear models
 score_v_sentiment = lm(score ~ sentiment)
 summary(score_v_sentiment)
 mse(score_v_sentiment)
