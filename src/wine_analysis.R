@@ -1,5 +1,6 @@
 require(nnet)
 
+### Functions
 mse = function(sm)
     mean(sm$residuals^2)
 
@@ -25,12 +26,10 @@ results = results[!is.na(variety),]
 
 # Remove wine reviews without a price
 price = results[,6]
-# results = results[!is.na(as.numeric(as.character(price))),]
 results = results[!is.na(price),]
 
 # Remove wine reviews without a score
 points = results[,5]
-# results = results[!is.na(as.numeric(as.character(score))),]
 results = results[!is.na(points),]
 
 # Segment data
@@ -106,7 +105,8 @@ mse_score_price = numeric()
 mse_score_sentiment = numeric()
 mse_score_sentiment_and_price = numeric()
 
-# Segmentation
+
+### Price Segmentation Analysis (Error Analysis)
 
 for (i in 5:100) {
     indices_training = price_training <= i & price_training >= i - 5
@@ -162,7 +162,7 @@ plot(mse_score_sentiment_and_price,
 
 
 
-# Segmentation based on WineFolly Pricing Segments
+### Segmentation based on WineFolly Pricing Segments
 
 mse_price_band = function(lower_price, upper_price) {
     indices_training = price_training < upper_price & price_training >= lower_price
@@ -203,12 +203,23 @@ for (i in 1:8) {
     price_band_mse[i, 'max.price'] = upper
     price_band_mse[i,] = mse_price_band(lower, upper)
 }
+price_band_mse
 
+
+### Graphing Wine Price Distributions
 
 hist(price,
      freq = TRUE,
      breaks = c(4, 10, 15, 20, 30, 50, 100, 200, 10000),
      xlim = c(0, 200),
      main = "Wine Price Distribution",
+     sub = "Wines Separated Into Price Categories",
      xlab = "Price ($)")
 
+hist(price,
+     freq = TRUE,
+     breaks = 3300,
+     xlim = c(0, 200),
+     main = "Wine Price Distribution",
+     sub = "Bar Width = $1",
+     xlab = "Price ($)")
