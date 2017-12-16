@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import argparse
-# export GOOGLE_APPLICATION_CREDENTIALS="../CS 221 Wine-a94b0e2acae6.json"
 from google.cloud import language
 from google.cloud.language import enums
 from google.cloud.language import types
@@ -17,10 +16,10 @@ import matplotlib.pyplot as plt
 from scipy.stats.kde import gaussian_kde
 
 # Import options
-INPUT_PATH = "../files/Wine/wine_clean-2 copy.csv"
+INPUT_PATH = "../files/Wine/wine_clean.csv"
 # CLEANED_INPUT = "../files/Wine/cleanedreviews.csv"
 INPUT_COLS = range(0, 14)
-OUTPUT_PATH = "wine_cleaned_google-2 copy.csv"
+OUTPUT_PATH = "wine_cleaned_google-final.csv"
 # 0 = review number
 # 1 = country
 # 2 = description/review
