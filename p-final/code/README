@@ -1,0 +1,57 @@
+##### README #####
+## Data Sanitation ##
+1. After downloading the initial dataset (download from https://github.com/ndtsao/cs221-project/tree/master/p-final/data/Wine” and place in “/data/Wine/“), we ran "/code/data_cleanup.py" to derive "/data/Wine/wine-clean.csv".
+
+2. We then manually reviewed "/data/Wine/wine-clean.csv" to sanitize the data further.
+
+# Sentiment Analysis
+3. We ran /code/sentiment_google.py (requires "/data/Wine/wine-clean.csv") using authentication (not included in submission, as this is linked a personal account) to derive sentiment scores. This file is stored as "/code/wine-cleaned-google-final.csv".
+
+4. To generate plots, we ran "/code/sentiment_plot.py" (requires "/code/wine-cleaned-google-final.csv"). That file has options ("OPTIONS") to be adjusted for different plots. Finally, we ran "/code/wine_analysis.R" to run linear and multinomial logistic (nnet) models. "/code/wine_analysis.R" also contains some code for error and general dataset analysis.
+
+## Computing cross-validation errors for the TFIDF, Naive Bayes, and sentiment models ##
+1. Download the following files from https://github.com/ndtsao/cs221-project/tree/master/p-final/data/Wine:
+  - reds.csv
+  - whites.csv
+  - wine_cleaned_google-final.csv
+
+2. Put those files in the directory "data/Wine/"
+
+3. Run main.py with the following arguments:
+  a. "python main.py nb |response|" runs Naive Bayes on |response|, where |response| is one of "varietal",
+  "country", "price", "price_category", or "rating"
+  b. "python main.py sentiment |response|" runs a linear regression of sentiment score against |response|
+  c. "python main.py sentiment2 |response|" runs a linear regression of sentiment + price against |response|
+  d. "python main.py bow |response| |dims|" runs a logistic regression of TFIDF-weighted features against
+  |response|. SVD is used to reduce the number of dimensions to |dims|
+
+## NEURAL NETS ##
+
+1. TO RUN THE CODE, YOU MUST HAVE DOWNLOADED AND PLACED IN FOLDERS WITH CORRESPONDING DIRECTIONS AS SPECIFIED IN CODE
+
+2. DOWNLOAD:: GloVe Vectors: https://nlp.stanford.edu/projects/glove/
+
+3. DATASETS - please download from this dropbox link and place in correct adjacent directory -
+different datasets correspond to the different files because of the ways they were cleaned and organized to run more smoothly with code
+https://www.dropbox.com/sh/3x73hhdgyqt0odx/AAC0NZ0_QVYZbiLLREsaBPv8a?dl=0
+
+
+4. There are 5 files related to the Neural Nets code:
+
+wine-bidirectional-rating.py
+wine-bidirectional-price.py
+wine-bidirectional-price-segment.py
+wine-bidirectional-country.py
+wine-bidirectional-category.py
+
+5. Each one runs the corresponding tests for rating, price. price(categorical by segment), country or origin, and the variety(category).
+
+6. After each call, you must type in RNN, GRU, or LSTM to specify the type
+
+For example, this call will run an LSTM
+
+wine-bidirectional-rating.py LSTM
+
+The prompt will ask for the name of the output files and confusion matrix (if categorial prediction)
+
+You can also use debug mode by calling debug after the cell type
