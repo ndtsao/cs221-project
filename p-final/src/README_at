@@ -1,0 +1,13 @@
+Computing cross-validation errors for the TFIDF, Naive Bayes, and sentiment models:
+- Download the following files from https://github.com/ndtsao/cs221-project/tree/master/files/Wine:
+  1. reds.csv
+  2. whites.csv
+  3. wine_cleaned_google-final.csv
+- Put those files in the directory "files/Wine/" relative to main.py
+- Run main.py with the following arguments:
+  1. "python main.py nb |response|" runs Naive Bayes on |response|, where |response| is one of "varietal",
+  "country", "price", "price_category", or "rating"
+  2. "python main.py sentiment |response|" runs a linear regression of sentiment score against |response|
+  3. "python main.py sentiment2 |response|" runs a linear regression of sentiment + price against |response|
+  4. "python main.py bow |response| |dims|" runs a logistic regression of TFIDF-weighted features against
+  |response|. SVD is used to reduce the number of dimensions to |dims|
