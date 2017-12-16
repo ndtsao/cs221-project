@@ -1,8 +1,16 @@
 require(nnet)
 
+### Functions
 mse = function(sm)
     mean(sm$residuals^2)
 
+calculate_mse = function(predicted, actual) {
+    sq_errors = (predicted - actual)^2
+    
+    return(mean(sq_errors))
+}
+
+### Data Processing
 # Read in results
 results = read.csv("~/git/cs221-project/src/wine_cleaned_google-final.csv", header = TRUE, sep = ",", na.strings = c(""))
 results_backup = results
@@ -18,13 +26,11 @@ results = results[!is.na(variety),]
 
 # Remove wine reviews without a price
 price = results[,6]
-# results = results[!is.na(as.numeric(as.character(price))),]
 results = results[!is.na(price),]
 
 # Remove wine reviews without a score
-score = results[,5]
-# results = results[!is.na(as.numeric(as.character(score))),]
-results = results[!is.na(score),]
+points = results[,5]
+results = results[!is.na(points),]
 
 # Segment data
 results_training = results[1:(length(results[,1]) / 4),]
@@ -32,26 +38,26 @@ results_test = results[(length(results[,1]) / 4):length(results[,1]),]
 
 # Use these for linear predictors
 sentiment = as.numeric(results[,15])
-score = as.numeric(results[,5])
+points = as.numeric(results[,5])
 price = as.numeric(results[,6])
 variety = results[,13]
 country = results[,2]
 
 # Use these to train models
 sentiment_training = as.numeric(results_training[,15])
-score_training = as.numeric(results_training[,5])
+points_training = as.numeric(results_training[,5])
 price_training = as.numeric(results_training[,6])
 variety_training = results_training[,13]
 country_training = results_training[,2]
 
 # Use these to test models
 sentiment_test = as.numeric(results_test[,15])
-score_test = as.numeric(results_test[,5])
+points_test = as.numeric(results_test[,5])
 price_test = as.numeric(results_test[,6])
 variety_test = results_test[,13]
 country_test = results_test[,2]
 
-# Logit models
+### Logit models
 # Train models
 # country_sentiment_price_model = multinom(country_training ~ sentiment_training + price_training)
 country_sentiment_price_model = multinom(country ~ score + price, data = results_training, MaxNWts = 15000)
@@ -73,18 +79,21 @@ predicted_variety_sp = predict(variety_sentiment_price_model, data = results_tes
 predicted_country_s = predict(country_sentiment_model, data = results_test, "probs")
 predicted_variety_s = predict(country_sentiment_model, data = results_test, "probs")
 
-# Linear models
-score_v_sentiment = lm(score ~ sentiment)
-summary(score_v_sentiment)
-mse(score_v_sentiment)
 
-price_v_sentiment = lm(price ~ sentiment)
-summary(price_v_sentiment)
-mse(price_v_sentiment)
 
-score_v_sentiment_and_price = lm(score ~ sentiment + price)
-summary(score_v_sentiment_and_price)
-mse(score_v_sentiment_and_price)
+### Linear models
+lm = lm(points ~ price, data = results_training)
+predicted_points_from_price = predict(lm, results_test)
+calculate_mse(predicted_points_from_price, results_test[,'points'])
+
+lm = lm(points ~ score, data = results_training)
+predicted_points_from_sentiment = predict(lm, results_test)
+calculate_mse(predicted_points_from_sentiment, results_test[,'points'])
+
+lm = lm(points ~ score + price, data = results_training)
+predicted_points_from_sentiment_and_price = predict(lm, results_test)
+calculate_mse(predicted_points_from_sentiment_and_price, results_test[,'points'])
+
 
 # Explore MSE for wines priced from [0, x]
 mse_price_price = numeric()
@@ -96,20 +105,33 @@ mse_score_price = numeric()
 mse_score_sentiment = numeric()
 mse_score_sentiment_and_price = numeric()
 
-for (i in 2:100) {
-    indices = price <= i
-    lm = lm(score[indices] ~ price[indices])
-    mse_price_price[[i]] = mse(lm)
+
+### Price Segmentation Analysis (Error Analysis)
+
+for (i in 5:100) {
+    indices_training = price_training <= i & price_training >= i - 5
+    indices_test = price_test <= i & price_test >= i - 5
     
-    lm = lm(score[indices] ~ sentiment[indices])
-    mse_price_sentiment[[i]] = mse(lm)
+    indices_training = price_training <= 100 & price_training >= 60
+    indices_test = price_test <= 100 & price_test >= 60
     
-    lm = lm(score[indices] ~ sentiment[indices] + price[indices])
-    mse_price_sentiment_and_price[[i]] = mse(lm)
+    lm = lm(points ~ price, data = results_training[indices_training,])
+    predicted_points_from_price = predict(lm, results_test[indices_test,])
+    mse_price_price[[i]] = calculate_mse(predicted_points_from_price, results_test[indices_test,'points'])
+
+    lm = lm(points ~ score, data = results_training[indices_training,])
+    predicted_points_from_sentiment = predict(lm, results_test[indices_test,])
+    mse_price_sentiment[[i]] = calculate_mse(predicted_points_from_sentiment, results_test[indices_test,'points'])
+    
+    lm = lm(points ~ score + price, data = results_training[indices_training,])
+    predicted_points_from_sentiment_and_price = predict(lm, results_test[indices_test,])
+    mse_price_sentiment_and_price[[i]] = calculate_mse(predicted_points_from_sentiment_and_price, results_test[indices_test,'points'])
+    
     
     if (i >= 80) {
-        indices = score <= i
-        lm = lm(score[indices] ~ price[indices])
+        indices_training = points_training <= i & points_training >= i - 5
+        indices_test = points_test <= i & points_test >= i - 5
+        lm = lm(price ~ score, data = results_training[indices_training,])
         mse_score_price[[i]] = mse(lm)
         
         lm = lm(score[indices] ~ sentiment[indices])
@@ -118,13 +140,14 @@ for (i in 2:100) {
         lm = lm(score[indices] ~ sentiment[indices] + price[indices])
         mse_score_sentiment_and_price[[i]] = mse(lm)
     }
+
 }
 
 plot(mse_price_sentiment_and_price,
      type = "l",
      xlab = "x = Price ($)",
      ylab = "Mean Squared Error",
-     main = "MSE for Wines with Prices [0,x]",
+     main = "MSE for Wines with Prices [x - 5,x]",
      sub = "Score ~ Sentiment + Price")
 
 plot(mse_score_sentiment_and_price,
@@ -135,28 +158,68 @@ plot(mse_score_sentiment_and_price,
      main = "MSE for Wines with Score [80,x]",
      sub = "Score ~ Sentiment + Price")
 
-for (i in 2:100) {
-    indices = price <= i
-    lm = lm(score[indices] ~ price[indices])
-    mse_price_price[[i]] = mse(lm)
+
+
+
+
+### Segmentation based on WineFolly Pricing Segments
+
+mse_price_band = function(lower_price, upper_price) {
+    indices_training = price_training < upper_price & price_training >= lower_price
+    indices_test = price_test < upper_price & price_test >= lower_price
+    n = length(results_training[indices_training,1]) + length(results_test[indices_test,1])
+    # print(c("Price lower bound: ", lower_price))
+    # print(c("Price upper bound: ", upper_price))
+    # print(c("# of Wines:", n))
     
-    lm = lm(score[indices] ~ sentiment[indices])
-    mse_price_sentiment[[i]] = mse(lm)
-    
-    lm = lm(score[indices] ~ sentiment[indices] + price[indices])
-    mse_price_sentiment_and_price[[i]] = mse(lm)
-    
-    if (i >= 80) {
-        indices = score <= i
-        lm = lm(score[indices] ~ price[indices])
-        mse_score_price[[i]] = mse(lm)
         
-        lm = lm(score[indices] ~ sentiment[indices])
-        mse_score_sentiment[[i]] = mse(lm)
-        
-        lm = lm(score[indices] ~ sentiment[indices] + price[indices])
-        mse_score_sentiment_and_price[[i]] = mse(lm)
-    }
+    lm = lm(points ~ price, data = results_training[indices_training,])
+    predicted_points_from_price = predict(lm, results_test[indices_test,])
+    mse_pp = calculate_mse(predicted_points_from_price, results_test[indices_test,'points'])
+    # print(c("MSE of Points from Price: ", mse_pp))
+    
+    lm = lm(points ~ score, data = results_training[indices_training,])
+    predicted_points_from_sentiment = predict(lm, results_test[indices_test,])
+    mse_ps = calculate_mse(predicted_points_from_sentiment, results_test[indices_test,'points'])
+    # print(c("MSE of Points from Sentiment: ", mse_ps))
+    
+    lm = lm(points ~ score + price, data = results_training[indices_training,])
+    predicted_points_from_sentiment_and_price = predict(lm, results_test[indices_test,])
+    mse_psp = calculate_mse(predicted_points_from_sentiment_and_price, results_test[indices_test,'points'])
+    # print(c("MSE of Points from Sentiment and price: ", mse_psp))
+    
+    return(c(lower_price, upper_price, n, mse_pp, mse_ps, mse_psp))
 }
 
+price_band_mse = data.frame(matrix(ncol = 6, nrow = 8))
+colnames = c("min.price", "max.price", "n", "mse.points.v.price", "mse.points.v.sentiment", "mse.points.v.sentiment.price")
+colnames(price_band_mse) = colnames
+price_breaks = c(4, 10, 15, 20, 30, 50, 100, 200, 5000)
 
+for (i in 1:8) {
+    lower = price_breaks[[i]]
+    upper = price_breaks[[i+1]]
+    price_band_mse[i, 'min.price'] = lower
+    price_band_mse[i, 'max.price'] = upper
+    price_band_mse[i,] = mse_price_band(lower, upper)
+}
+price_band_mse
+
+
+### Graphing Wine Price Distributions
+
+hist(price,
+     freq = TRUE,
+     breaks = c(4, 10, 15, 20, 30, 50, 100, 200, 10000),
+     xlim = c(0, 200),
+     main = "Wine Price Distribution",
+     sub = "Wines Separated Into Price Categories",
+     xlab = "Price ($)")
+
+hist(price,
+     freq = TRUE,
+     breaks = 3300,
+     xlim = c(0, 200),
+     main = "Wine Price Distribution",
+     sub = "Bar Width = $1",
+     xlab = "Price ($)")
