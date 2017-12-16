@@ -1,0 +1,8 @@
+feature extraction
+sentiment analysis
+regression
+prediction
+RNN
+deep learning
+LSTM
+GRU
