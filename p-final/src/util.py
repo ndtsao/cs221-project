@@ -203,8 +203,7 @@ def ngram_features(corpus, n_grams, n_features):
     feature_names = tfidf_vectorizer.get_feature_names()
     svd = TruncatedSVD(n_features)
     normalizer = Normalizer(copy=False)
-    #lsa = make_pipeline(svd, normalizer)
-    lsa = svd
+    lsa = make_pipeline(svd, normalizer)
     feature_vectors = lsa.fit_transform(feature_vectors)
     original_vectors = lsa.inverse_transform(feature_vectors)
     return feature_names, feature_vectors, original_vectors
@@ -221,7 +220,7 @@ def predict_values(model, x_train, y_train, x_test, y_test):
     assert len(x_test) == len(y_test)
     fit = model.fit(x_train, y_train)
     predicted = model.predict(x_test)
-    path = "../files/output/price_prediction.csv"
+    path = "../data/output/price_prediction.csv"
     with open(path, 'a') as csv_file:
         writer = csv.writer(csv_file)
         for (data_y, fit) in zip(y_test, predicted):

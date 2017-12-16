@@ -24,7 +24,7 @@ def write_word_counts(data_path, varietal, review_col, varietal_col):
             del reviews[idx]
     all_text = ' '.join(reviews)
     word_counts = util.word_count(all_text)
-    output_path = "../files/output/Word Counts/word_counts_" + varietal + ".csv"
+    output_path = "../data/output/Word Counts/word_counts_" + varietal + ".csv"
     with open(output_path, 'a') as csv_file:
         writer = csv.writer(csv_file)
         for (word, freq) in word_counts.items():
@@ -66,8 +66,8 @@ def add_price_category():
     Adds price category to csv file
     """
     # file locations
-    csv_path = "../files/Wine/wine_cleaned_google-allprice.csv"
-    output_path = "../files/Wine/wine_cleaned_google-allprice-final.csv"
+    csv_path = "../data/Wine/wine_cleaned_google-allprice.csv"
+    output_path = "../data/Wine/wine_cleaned_google-allprice-final.csv"
     data, header = util.load(csv_path, [])
     price_col = 5
     categories = [price_category(float(price)) for price in data[price_col]]
@@ -83,10 +83,10 @@ def main():
     """
     main function
     """
-    data_clean = util.load("../files/Wine/wine_cleaned_google-final.csv", \
+    data_clean = util.load("../data/Wine/wine_cleaned_google-final.csv", \
             [1, 2, 4, 5, 12, 14], sample=1.0)[0]
-    filter_wines = util.load("../files/Wine/reds.csv", [])[0][0] + \
-            util.load("../files/Wine/whites.csv", [])[0][0]
+    filter_wines = util.load("../data/Wine/reds.csv", [])[0][0] + \
+            util.load("../data/Wine/whites.csv", [])[0][0]
     [countries, reviews, ratings, prices, varietals, sentiments] = data_clean
 
     indices = range(len(varietals))
