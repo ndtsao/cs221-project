@@ -8,9 +8,9 @@ def data_cleanup():
     Cleans the dataset by removing 1/10 of the wines, sorted by wine rarity.
     """
     # file locations
-    csv_path = "../files/Wine/winemag-data-130k-v2.csv"
-    output_path = "../files/Wine/wine_clean.csv"
-    wine_count = "../files/Wine/varietals.csv"
+    csv_path = "../data/Wine/winemag-data-130k-v2.csv"
+    output_path = "../data/Wine/wine_clean.csv"
+    wine_count = "../data/Wine/varietals.csv"
 
     # remove 10% of the rarest wines in the list
     count_data = util.load(wine_count, [])[0]

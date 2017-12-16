@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 from scipy.stats.kde import gaussian_kde
 
 # Import options
-INPUT_PATH = "../files/Wine/wine_clean.csv"
+INPUT_PATH = "../data/Wine/wine_clean.csv"
 # CLEANED_INPUT = "../files/Wine/cleanedreviews.csv"
 INPUT_COLS = range(0, 14)
 OUTPUT_PATH = "wine_cleaned_google-final.csv"

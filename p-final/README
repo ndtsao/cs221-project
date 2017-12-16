@@ -1,21 +1,21 @@
 ##### README #####
 ## Data Sanitation ##
-1. After downloading the initial dataset ("/files/Wine/winemag-data-130k-.csv"), we ran "/src/data_cleanup.py" to derive "/files/Wine/wine-clean.csv".
+1. After downloading the initial dataset ("/data/Wine/winemag-data-130k-.csv"), we ran "/src/data_cleanup.py" to derive "/data/Wine/wine-clean.csv".
 
-2. We then manually reviewed "/files/Wine/wine-clean.csv" to sanitize the data further.
+2. We then manually reviewed "/data/Wine/wine-clean.csv" to sanitize the data further.
 
 # Sentiment Analysis
-3. We ran /src/sentiment_google.py (requires "/files/Wine/wine-clean.csv") using authentication (not included in submission, as this is linked a personal account) to derive sentiment scores. This file is stored as "/src/wine-cleaned-google-final.csv".
+3. We ran /src/sentiment_google.py (requires "/data/Wine/wine-clean.csv") using authentication (not included in submission, as this is linked a personal account) to derive sentiment scores. This file is stored as "/src/wine-cleaned-google-final.csv".
 
 4. To generate plots, we ran "/src/sentiment_plot.py" (requires "/src/wine-cleaned-google-final.csv"). That file has options ("OPTIONS") to be adjusted for different plots. Finally, we ran "/src/wine_analysis.R" to run linear and multinomial logistic (nnet) models. "/src/wine_analysis.R" also contains some code for error and general dataset analysis.
 
 ## Computing cross-validation errors for the TFIDF, Naive Bayes, and sentiment models ##
-1. Download the following files from https://github.com/ndtsao/cs221-project/tree/master/files/Wine:
+1. Download the following files from https://github.com/ndtsao/cs221-project/tree/master/data/Wine:
   - reds.csv
   - whites.csv
   - wine_cleaned_google-final.csv
 
-2. Put those files in the directory "files/Wine/"
+2. Put those files in the directory "data/Wine/"
 
 3. Run main.py with the following arguments:
   a. "python main.py nb |response|" runs Naive Bayes on |response|, where |response| is one of "varietal",

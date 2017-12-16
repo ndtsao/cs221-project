@@ -211,7 +211,7 @@ price_band_mse
 hist(price,
      freq = TRUE,
      breaks = c(4, 10, 15, 20, 30, 50, 100, 200, 10000),
-     xlim = c(0, 200),
+     xlim = c(0, 250),
      main = "Wine Price Distribution",
      sub = "Wines Separated Into Price Categories",
      xlab = "Price ($)")
@@ -219,7 +219,7 @@ hist(price,
 hist(price,
      freq = TRUE,
      breaks = 3300,
-     xlim = c(0, 200),
+     xlim = c(0, 250),
      main = "Wine Price Distribution",
      sub = "Bar Width = $1",
      xlab = "Price ($)")
