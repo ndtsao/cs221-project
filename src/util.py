@@ -200,11 +200,14 @@ def ngram_features(corpus, n_grams, n_features):
     tfidf_vectorizer = TfidfVectorizer(smooth_idf=False, \
             ngram_range=(1, n_grams), stop_words='english')
     feature_vectors = tfidf_vectorizer.fit_transform(corpus)
+    feature_names = tfidf_vectorizer.get_feature_names()
     svd = TruncatedSVD(n_features)
     normalizer = Normalizer(copy=False)
-    lsa = make_pipeline(svd, normalizer)
+    #lsa = make_pipeline(svd, normalizer)
+    lsa = svd
     feature_vectors = lsa.fit_transform(feature_vectors)
-    return 0, feature_vectors
+    original_vectors = lsa.inverse_transform(feature_vectors)
+    return feature_names, feature_vectors, original_vectors
 
 def predict_values(model, x_train, y_train, x_test, y_test):
     """

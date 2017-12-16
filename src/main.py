@@ -45,35 +45,48 @@ def price_category(price):
     @returns category: Extreme value, value, popular premium, premium, super
         premium, ultra premium, luxury, super luxury, icon
     """
-    if price < 4:
-        return "Extreme Value"
-    if price < 10:
-        return "Value"
+    category = "Value"
     if price < 15:
-        return "Popular Premium"
+        category = "Popular Premium"
     if price < 20:
-        return "Premium"
+        category = "Premium"
     if price < 30:
-        return "Super Premium"
+        category = "Super Premium"
     if price < 50:
-        return "Ultra Premium"
+        category = "Ultra Premium"
     if price < 100:
-        return "Luxury"
+        category = "Luxury"
     if price < 200:
-        return "Super Luxury"
-    return "Icon"
+        category = "Super Luxury"
+    category = "Icon"
+    return category
+
+def add_price_category():
+    """
+    Adds price category to csv file
+    """
+    # file locations
+    csv_path = "../files/Wine/wine_cleaned_google-allprice.csv"
+    output_path = "../files/Wine/wine_cleaned_google-allprice-final.csv"
+    data, header = util.load(csv_path, [])
+    price_col = 5
+    categories = [price_category(float(price)) for price in data[price_col]]
+    data.append(categories)
+    header.append("Price categories")
+    with open(output_path, 'a') as csv_file:
+        writer = csv.writer(csv_file)
+        writer.writerow(header)
+        for row in zip(*data):
+            writer.writerow(row)
 
 def main():
     """
     main function
     """
-    data_path = "../files/Wine/wine_cleaned_google-final.csv"
-    red_path = "../files/Wine/reds.csv"
-    white_path = "../files/Wine/whites.csv"
-    data_clean = util.load(data_path, [1, 2, 4, 5, 12, 14], sample=1.0)[0]
-    red_wines = util.load(red_path, [])[0][0]
-    white_wines = util.load(white_path, [])[0][0]
-    filter_wines = red_wines + white_wines
+    data_clean = util.load("../files/Wine/wine_cleaned_google-final.csv", \
+            [1, 2, 4, 5, 12, 14], sample=1.0)[0]
+    filter_wines = util.load("../files/Wine/reds.csv", [])[0][0] + \
+            util.load("../files/Wine/whites.csv", [])[0][0]
     [countries, reviews, ratings, prices, varietals, sentiments] = data_clean
 
     indices = range(len(varietals))
@@ -92,48 +105,43 @@ def main():
     categories = [price_category(price) for price in prices]
     ratings = [float(rating) for rating in ratings]
     sentiments = [float(sentiment) for sentiment in sentiments]
-    logistic = LogisticRegression(solver='saga', max_iter=100, random_state=42,
-            multi_class='multinomial')
-    linear = LinearRegression()
 
-    if sys.argv[1] == "nb":
-        response = varietals
-        metric = 'accuracy'
-        if sys.argv[2] == "country":
-            response = countries
-        elif sys.argv[2] == "rating":
-            response = ratings
-            metric = 'neg_mean_squared_error'
-        elif sys.argv[2] == "price":
-            response = categories
+    model = LogisticRegression(solver='saga', max_iter=100, random_state=42,
+            multi_class='multinomial')
+    response = varietals
+    metric = 'accuracy'
+    if sys.argv[2] == "country":
+        response = countries
+    elif sys.argv[2] == "rating":
+        model = LinearRegression()
+        response = ratings
+        metric = 'neg_mean_squared_error'
+    elif sys.argv[2] == "price_category":
+        response = categories
+    elif sys.argv[2] == "price":
+        model = LinearRegression()
+        response = prices
+        metric = 'neg_mean_squared_error'
+
+    if sys.argv[1] == 'sentiment' or sys.argv[1] == 'sentiment2':
+        features = [[sentiment] for sentiment in sentiments]
+        if sys.argv[1] == 'sentiment2':
+            if sys.argv[2] == 'price' or sys.argv[2] == 'price_category':
+                print "Pointless to use price to predict price"
+                return
+            features = zip(sentiments, prices)
+        cross_val(model, features, response, error_metric=metric)
+    elif sys.argv[1] == 'nb':
         x_train, x_test, y_train, y_test = train_test_split(reviews, response,
                 test_size=0.1, random_state=0)
         error = util.error_naive_bayes(zip(x_train, y_train), \
                 zip(x_test, y_test), error_metric=metric)
-        print error
+        print "Final Naive Bayes error = ", error
     elif sys.argv[1] == 'bow':
-        model = logistic
-        metric = 'accuracy'
-        num_grams = 1
-        response = varietals
-        if sys.argv[2] == "country":
-            response = countries
-        elif sys.argv[2] == "category":
-            response = categories
-        elif sys.argv[2] == "rating":
-            model = linear
-            metric = 'neg_mean_squared_error'
-            response = ratings
-        elif sys.argv[2] == "price":
-            model = linear
-            metric = 'neg_mean_squared_error'
-            response = prices
-
-        features = util.ngram_features(reviews, num_grams, int(sys.argv[3]))[1]
+        features = util.ngram_features(reviews, 1, int(sys.argv[3]))[1]
         cross_val(model, features, response, error_metric=metric)
-
-    # model.fit(features, response)
-    # util.predict_values(model, x_train, y_train, x_test, y_test)
+        # model.fit(features, response)
+        # util.predict_values(model, x_train, y_train, x_test, y_test)
 
 if __name__ == "__main__":
     main()
